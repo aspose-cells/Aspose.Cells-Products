@@ -1,19 +1,18 @@
 ---
-title: Python Arkusz kalkulacyjny Excela API - Aspose 
+title:  Python Arkusz kalkulacyjny Excel API - Aspose
 weight: 2820
-
-description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do odczytu, zapisu i analizy Excel.
+description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików Excel do odczytu i zapisu oraz analizy.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Interfejsy API do analizowania arkuszy kalkulacyjnych Excel" h2="Generuj, czytaj, pisz lub manipuluj arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów w Python aplikacjach." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Arkusze kalkulacyjne programu Excel analizujące interfejsy API" h2="Generuj, czytaj, pisz lub manipuluj arkuszami kalkulacyjnymi, a także eksportuj pliki Excel do wielu formatów w aplikacjach Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells dla Python przez Java to szybki i niezawodny API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować, a także wydobywać informacje z plików Excela. API czyta wiele formatów Excela i może renderować arkusze do XPS, PDF, MHTML, HTML, Plain Text, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela za pomocą Pythona.
+ Aspose.Cells for Python via Java to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować oraz wydobywać informacje z plików programu Excel. API odczytuje wiele formatów programu Excel i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela za pomocą Pythona.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd możliwości API." >}}
+{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd możliwości API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importuj i Eksport
+ Importuj & amp; Eksport
    </header>
    <ul>
     <li>
-     Tablice
+ Tablice
     </li>
     <li>
-     Zestaw wyników
+ Zestaw wyników
     </li>
     <li>
-     Kolekcje
+Kolekcje
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Wykonanie
+ Wykonanie
    </header>
    <ul>
     <li>
-     Wykres do obrazu
+ Wykres do obrazu
     </li>
     <li>
-     Arkusz do obrazu
+ Arkusz do obrazu
     </li>
     <li>
-     Arkusz kalkulacyjny do PDF
+ Arkusz kalkulacyjny pod numer PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
    <header>
     <i class="fa fa-table">
     </i>
-    Przetwarzanie danych
+ Przetwarzanie danych
    </header>
    <ul>
     <li>
-     Zastosuj formatowanie
+ Zastosuj formatowanie
     </li>
     <li>
-     Zastosuj formułę
+ Zastosuj formułę
     </li>
     <li>
-     Twórz wykresy
+ Twórz wykresy
     </li>
     <li>
-     Podsumować
+ Podsumować
     </li>
     <li>
-     Inteligentne znaczniki
+ Inteligentne znaczniki
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Python przez Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność od platformy" description="Aspose.Cells dla Python przez Java jest dostępny dla." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for Python via Java jest dostępny dla." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Środowisko wykonawcze
+ Python Środowisko wykonawcze
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Python przez Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Biblioteka Python programu Excel obsługuje popularne formaty programu Microsoft Excel, formaty o stałym układzie i obrazy." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Biblioteka programu Excel Python obsługuje popularne formaty programu Excel Microsoft, formaty o stałym układzie i obrazy." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Wejście wyjście
+ Wejście wyjście
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
-     SZWO
+     ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Sieć:
+ Sieć:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Tylko wyjście
+ Tylko wyjście
    </header>
    <ul>
     <li>
      <b>
-      Naprawiono układ:
+ Naprawiono układ:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Obrazy:
+ Obrazy:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Python przez Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Zaawansowane funkcje Python Excela API
+Zaawansowane Python Funkcje programu Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Czytaj arkusze kalkulacyjne Excel
+ Czytaj arkusze kalkulacyjne Excela
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderuj arkusze kalkulacyjne do formatu PDF, EMF i obrazów
+ Renderuj arkusze kalkulacyjne do PDF, EMF i obrazów
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dostosuj arkusze w skoroszytach
+ Dostosuj arkusze robocze w skoroszytach
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chroń/odbezpiecz arkusze
+ Chroń / usuwaj ochronę arkuszy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dodawaj obrazy, a także twórz wykresy
+ Dodawaj obrazy i twórz wykresy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Twórz tabele przestawne i wykresy przestawne
+ Twórz tabele przestawne i wykresy przestawne
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dodawaj i edytuj komentarze na poziomie komórki
+ Dodawaj i edytuj komentarze na poziomie komórki
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wyszukaj i zamień dane
+ Wyszukaj i zamień dane
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podziel i połącz komórki
+ Dziel i łącz komórki
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dodaj lub usuń grupowanie w wierszach i kolumnach
+ Dodaj lub usuń grupowanie do wierszy i kolumn
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw formatowanie liczb
+ Ustaw formatowanie liczb
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Przeczytaj i ustaw formuły
+ Odczytywanie i ustawianie formuł
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skonfiguruj ustawienia strony
+ Skonfiguruj ustawienia strony
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dostosuj orientację strony, skalowanie, rozmiar papieru
+ Dostosuj orientację strony, skalowanie, rozmiar papieru
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Przeczytaj &amp; napisz formatowanie warunkowe
+ Czytaj & amp; napisz formatowanie warunkowe
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików do od
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwersja wielu formatów
+ Konwersja wielu formatów
     </h2>
     <p>
-     Python Biblioteka Excel zapewnia konwersję plików Excel do formatu PDF, XPS i amp; Formaty HTML. Niezawodna konwersja API sprawia, że jest to idealne rozwiązanie dla firm, które wymagają wymiany plików w formatach zgodnych ze standardami branżowymi.
+ Python Biblioteka programu Excel umożliwia konwersję plików programu Excel do formatu PDF, XPS &amp; HTML formatów. Niezawodna konwersja API sprawia, że jest to idealne rozwiązanie dla firm, które wymagają wymiany plików w formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Zapisz arkusz kalkulacyjny w różnych formatach — Java
+ Zapisz arkusz kalkulacyjny w różnych formatach - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Elastyczne opcje wyświetlania
+ Elastyczne opcje wyświetlania
     </h2>
     <p>
-     Aspose.Cells dla Python przez Java zapewnia pełną kontrolę nad ustawieniami strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrola widoczności danych za pomocą okienek zamrażania, rozmiar papieru, skalowanie, nagłówki i ; stopki i obszar wydruku.
+Aspose.Cells for Python via Java zapewnia pełną kontrolę nad ustawieniami strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrolowanie widoczności danych za pomocą zamrożonych okienek, rozmiaru papieru, skalowania, nagłówków &amp; stopki i obszar drukowania.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Zarządzanie danymi w arkuszach Excel
+ Zarządzanie danymi arkuszy Excel
     </h2>
     <p>
-     Aspose.Cells dla Python przez Java API zapewnia obszerną obsługę zarządzania danymi arkusza. Można łatwo manipulować dowolną komórką w arkuszu w czasie wykonywania lub importować dane do arkuszy z różnych źródeł danych.
+ Aspose.Cells for Python via Java API zapewnia szerokie wsparcie dla zarządzania danymi w arkuszach. Można łatwo manipulować dowolną komórką w arkuszu w czasie wykonywania lub importować dane do arkuszy z różnych źródeł danych.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Dostosowywanie wykresów
+ Dostosowanie wykresów
     </h2>
     <p>
-     Aspose.Cells dla Python przez Java zapewnia pełną obsługę wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów w celu odświeżenia wykresu w tej bibliotece Pythona.
+ Aspose.Cells for Python via Java zapewnia pełne wsparcie dla wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
     </p>
    </div>
    <!--
@@ -519,24 +517,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referencje" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referencje" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells dla Python przez Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for Python via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells oferuje indywidualne interfejsy API programu Excel dla innych popularnych środowisk programistycznych wymienionych poniżej:" >}}
 

@@ -1,8 +1,7 @@
 ---
-title: Εξαγωγή αναφορών RDL στο Excel XLS XLSX και SpreadsheetML στον SQL Server 
+title:  Εξαγωγή αναφορών RDL στο Excel XLS XLSX και SpreadsheetML στον SQL Server
 weight: 3460
-
-description: Επέκταση απόδοσης υπηρεσιών αναφοράς SQL Server - Εξαγωγή Excel XLS XLSX XLSM XLSB CSV Υπολογιστικό φύλλοML HTML ODS και μορφές TXT
+description: Επέκταση απόδοσης υπηρεσιών αναφοράς διακομιστή SQL - Εξαγωγή Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS και 3 μορφής ODS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Επέκταση υπηρεσιών αναφοράς για την παράδοση αναφορών ως αρχεία Excel" h2="Εξαγωγή αναφορών RDL & RDLC σε μορφές αρχείων υπολογιστικών φύλλων Excel με ευκολία." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
@@ -13,7 +12,7 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells for Reporting Services σάς επιτρέπει να παραδίδετε αναφορές Excel μέσα από τις υπηρεσίες αναφοράς του Microsoft SQL Server και το Microsoft Report Viewer. Σε αντίθεση με τον εγγενή εξαγωγέα για αναφορές που βασίζονται στο Excel - το Aspose.Cells για τις Υπηρεσίες Αναφοράς επιτρέπει τη μετατροπή RDL &amp; Το RDLC αναφέρεται σε έναν αριθμό μορφών αρχείων υπολογιστικών φύλλων Excel.
+ Το Aspose.Cells for Reporting Services σάς επιτρέπει να παραδίδετε αναφορές του Excel μέσα από τις υπηρεσίες αναφοράς Microsoft SQL Server και το πρόγραμμα προβολής αναφορών Microsoft. Σε αντίθεση με τον εγγενή εξαγωγέα για αναφορές που βασίζονται στο Excel - Aspose.Cells for Reporting Services επιτρέπει τη μετατροπή RDL &amp; Το RDLC αναφέρεται σε έναν αριθμό μορφών αρχείων υπολογιστικών φύλλων Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Cells για υπηρεσίες αναφοράς." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Cells for Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    Υποστήριξη RDL
+ Υποστήριξη RDL
    </header>
    <ul>
     <li>
-     Σελίδα
+ Σελίδα
     </li>
     <li>
-     Επικεφαλίδα υποσέλιδο
+ Επικεφαλίδα υποσέλιδο
     </li>
     <li>
-     Πλαίσια κειμένου
+ Πλαίσια κειμένου
     </li>
     <li>
-     εικόνες
+ εικόνες
     </li>
     <li>
-     Υπο-αναφορές
+ Υπο-εκθέσεις
     </li>
     <li>
-     Διαγράμματα
+ Διαγράμματα
     </li>
     <li>
-     Τόπος αγώνων
+ Κονίστρα
     </li>
     <li>
-     Πίνακες
+ Πίνακες
     </li>
     <li>
-     Μετρητής
+ Μετρητής
     </li>
     <li>
-     Πίνακες
+ Πίνακες
     </li>
     <li>
-     Ορθογώνια/Γραμμές
+ Ορθογώνια/Γραμμές
     </li>
     <li>
-     Στυλ
+ Στυλ
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
    <header>
     <i class="fa fa-cogs">
     </i>
-    Επεξεργασία δεδομένων
+ Επεξεργασία δεδομένων
    </header>
    <ul>
     <li>
-     Τύποι υπηρεσιών αναφοράς
+ Τύποι υπηρεσιών αναφοράς
     </li>
     <li>
-     Δυναμικές Φόρμουλες
+ Δυναμικές Φόρμουλες
     </li>
     <li>
-     Πίνακες με ομαδοποιημένες σειρές
+ Πίνακες με ομαδοποιημένες σειρές
     </li>
     <li>
-     Πίνακες με ομαδοποιημένο υποσέλιδο
+ Πίνακες με ομαδοποιημένο υποσέλιδο
     </li>
     <li>
-     Ερώτημα MS
+ Ερώτημα MS
     </li>
     <li>
-     Αναφορά συγκεκριμένης πηγής δεδομένων
+ Αναφορά συγκεκριμένης πηγής δεδομένων
     </li>
     <li>
-     Κοινόχρηστη πηγή δεδομένων
+ Κοινόχρηστη πηγή δεδομένων
     </li>
     <li>
-     Κρυπτογράφηση
+ Κρυπτογράφηση
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    Σχεδιαστής Αναφορών
+ Σχεδιαστής Αναφορών
    </header>
    <ul>
     <li>
-     Συγκεντρωτικοί πίνακες
+ Συγκεντρωτικοί πίνακες
     </li>
     <li>
-     Διαδραστικά γραφήματα
+ Διαδραστικά γραφήματα
     </li>
     <li>
-     ΜΑΘΗΜΑΤΙΚΟΙ τυποι
+ ΜΑΘΗΜΑΤΙΚΟΙ τυποι
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Υπηρεσίες Αναφοράς
+ Υπηρεσίες Αναφοράς
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Cells για τις Υπηρεσίες Αναφοράς υποστηρίζει τις Υπηρεσίες αναφοράς του Microsoft SQL Server." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Aspose.Cells for Reporting Services υποστηρίζει Microsoft SQL Server Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,14 +150,14 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Υπηρεσίες αναφοράς SQL Server
+ Υπηρεσίες αναφοράς SQL Server
    </header>
    <ul>
     <li>
      2005
     </li>
     <li>
-     2008 και 2008 R2
+ 2008 και 2008 R2
     </li>
     <li>
      2012
@@ -183,9 +182,9 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Υπηρεσίες Αναφοράς
+ Υπηρεσίες Αναφοράς
    </small>
   </footer>
  </div>
@@ -194,14 +193,14 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Cells for Reporting Services υποστηρίζει υπολογιστικό φύλλο που χρησιμοποιείται συνήθως [μορφές αρχείων](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description=" Aspose.Cells for Reporting Services υποστηρίζει υπολογιστικό φύλλο που χρησιμοποιείται συνήθως[μορφές αρχείων](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Μόνο εισαγωγή
+ Μόνο εισαγωγή
    </header>
    <ul>
     <li>
@@ -217,36 +216,36 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+ Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSM, XLSB, XML
+ XLS, XLSX, XLSM, XLSB, XML
     </li>
     <li>
      <b>
-      Ανοιχτό γραφείο:
+ Ανοιχτό γραφείο:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Ιστός:
+ Ιστός:
      </b>
      HTML
     </li>
     <li>
      <b>
-      Κείμενο:
+ Κείμενο:
      </b>
-     CSV, TSV, Tab Οριοθετημένο αρχείο κειμένου
+ CSV, TSV, TabDelimited αρχείο κειμένου
     </li>
     <li>
      <strong>
-      Διορθωμένη διάταξη:
+ Διορθωμένη διάταξη:
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Υπηρεσίες Αναφοράς
+ Υπηρεσίες Αναφοράς
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες λειτουργίες των υπηρεσιών αναφοράς
+ Προηγμένες λειτουργίες των υπηρεσιών αναφοράς
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εξαγωγή αρχείου μορφής MarkDown
+ Εξαγωγή αρχείου μορφής MarkDown
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστήριξη ομαδικής αλλαγής σελίδας Tablix
+ Υποστήριξη ομαδικής αλλαγής σελίδας Tablix
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία πολλαπλών καρτελών
+ Δημιουργία πολλαπλών καρτελών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Σύμπτυξη ή ανάπτυξη πεδίων Συγκεντρωτικού πίνακα
+ Σύμπτυξη ή ανάπτυξη πεδίων Συγκεντρωτικού πίνακα
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστήριξη εκτέλεσης υπολογισμών μείον
+ Υποστήριξη εκτέλεσης υπολογισμών μείον
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Επικαλέστε τη μορφή εκτύπωσης MS Excel
+ Επικαλέστε τη μορφή εκτύπωσης MS Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Υποστηρίζονται γραφήματα MS Excel 2016
+ Υποστηρίζονται γραφήματα MS Excel 2016
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσαρμόστε τις ρυθμίσεις περιθωρίου σελίδας στα φύλλα Excel
+ Προσαρμόστε τις ρυθμίσεις περιθωρίου σελίδας στα φύλλα Excel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells' Εργαλείο σχεδιασμού αναφορών
+ Aspose.Cells' Εργαλείο σχεδιασμού αναφορών
     </h2>
     <p>
-     Οι προγραμματιστές μπορούν να σχεδιάσουν και να παραδώσουν αναφορές απευθείας από το Microsoft Excel χρησιμοποιώντας το Aspose.Cells.Report.Designer - ένα απλό εργαλείο σχεδίασης που χρησιμοποιεί το Microsoft Excel ως πρότυπο αναφοράς. Αυτή η δυνατότητα επιτρέπει την αξιοποίηση όλων των ισχυρών λειτουργιών και δυνατοτήτων που είναι διαθέσιμες στην εφαρμογή Microsoft Excel, συμπεριλαμβανομένων Συγκεντρωτικών πινάκων, διαδραστικών γραφημάτων, τύπων και ούτω καθεξής.
+Οι προγραμματιστές μπορούν να σχεδιάσουν και να παραδώσουν αναφορές απευθείας από το Microsoft Excel χρησιμοποιώντας το Aspose.Cells.Report.Designer - ένα απλό εργαλείο σχεδιασμού που χρησιμοποιεί το Microsoft Excel ως πρότυπο αναφοράς. Αυτή η δυνατότητα επιτρέπει την αξιοποίηση όλων των ισχυρών λειτουργιών και δυνατοτήτων που είναι διαθέσιμες στην εφαρμογή Excel Microsoft, συμπεριλαμβανομένων Συγκεντρωτικών πινάκων, διαδραστικών γραφημάτων, τύπων και ούτω καθεξής.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Εξαγωγή αναφορών σε μορφές υπολογιστικών φύλλων
+ Εξαγωγή αναφορών σε μορφές υπολογιστικών φύλλων
     </h2>
     <p>
-     Το Aspose.Cells for Reporting Services υποστηρίζει όλες τις δημοφιλείς μορφές αρχείων του Microsoft Excel (97 - 2016), συμπεριλαμβανομένων των "εγγενών" μορφών του Microsoft Excel όπως XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab Delimited και HTML. Το Aspose.Cells για τις Υπηρεσίες Αναφοράς υποστηρίζει επίσης τη μορφή αρχείου ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services υποστηρίζει όλες τις δημοφιλείς μορφές αρχείων Microsoft Excel (97 - 2016), συμπεριλαμβανομένων των "εγγενών" Microsoft μορφών Excel όπως XLS, XLSX, XLSX, 0817148, 0816176 , Tab Delimited και HTML. Aspose.Cells for Reporting Services υποστηρίζει επίσης τη μορφή αρχείου ODS (OpenDocument Spreadsheet).
     </p>
     <p>
-     Επιπλέον, το Aspose.Cells for Reporting Services εξάγει έγγραφα Excel ως υπολογιστικά φύλλα πλήρως επεξεργάσιμα, δηλαδή. ο τελικός χρήστης μπορεί να επεξεργαστεί τα υπολογιστικά φύλλα που προκύπτουν με μη αυτόματο τρόπο στην εφαρμογή Microsoft Excel, εάν απαιτείται.
+ Επιπλέον, Aspose.Cells for Reporting Services εξάγετε έγγραφα Excel ως υπολογιστικά φύλλα πλήρως επεξεργάσιμα, δηλαδή. ο τελικός χρήστης μπορεί να επεξεργαστεί τα υπολογιστικά φύλλα που προκύπτουν με μη αυτόματο τρόπο στην εφαρμογή Excel Microsoft, εάν απαιτείται.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Υψηλή πιστότητα - Πανομοιότυπο με το σχέδιο αναφοράς
+ Υψηλή πιστότητα - Πανομοιότυπο με το σχεδιασμό αναφορών
     </h2>
     <p>
-     Aspose.Cells για τις Υπηρεσίες Αναφοράς εξάγετε τις αναφορές σε υπολογιστικά φύλλα του Microsoft Excel με τρόπο ώστε το αποτέλεσμα να εμφανίζεται πανομοιότυπο με το αρχικό, όπως δημιουργήθηκε από τον ενσωματωμένο σχεδιαστή αναφορών των Υπηρεσιών αναφοράς. Όλες οι δυνατότητες αναφοράς μετατρέπονται στον υψηλότερο βαθμό ακρίβειας, ώστε τα υπολογιστικά φύλλα του Microsoft Excel να φαίνονται όσο το δυνατόν πιο παρόμοια με τα αρχικά.
+Aspose.Cells for Reporting Services εξάγετε τις αναφορές σε υπολογιστικά φύλλα Excel Microsoft με τρόπο ώστε το αποτέλεσμα να εμφανίζεται πανομοιότυπο με το αρχικό, όπως δημιουργήθηκε από τον ενσωματωμένο σχεδιαστή αναφορών των υπηρεσιών αναφοράς. Όλες οι δυνατότητες αναφοράς μετατρέπονται στον υψηλότερο βαθμό ακρίβειας, ώστε τα υπολογιστικά φύλλα του Excel Microsoft να φαίνονται όσο το δυνατόν πιο παρόμοια με τα αρχικά.
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Διάφορες επιλογές χειρισμού δεδομένων
+ Διάφορες επιλογές χειρισμού δεδομένων
     </h2>
     <p>
-     Aspose.Cells για Υπηρεσίες Αναφοράς υποστηρίζουν πίνακες με ομαδοποιημένες σειρές και υποσέλιδα, ενώ η ομαδοποίηση μπορεί να ρυθμιστεί τη στιγμή του σχεδιασμού όπως και άλλα στοιχεία αναφοράς. Το Aspose.Cells for Reporting Services υποστηρίζει επίσης παραμέτρους και καθολικές μεταβλητές ως πηγές δεδομένων αναφοράς. Οι προγραμματιστές μπορούν επίσης να κάνουν χρήση του Microsoft Query για τη δημιουργία πηγών δεδομένων και ερωτημάτων. Αυτό είναι ένα ευρέως χρησιμοποιούμενο εργαλείο και γνωστό στους περισσότερους χρήστες.
+ Το Aspose.Cells for Reporting Services υποστηρίζει πίνακες με ομαδοποιημένες σειρές και υποσέλιδα, ενώ η ομαδοποίηση μπορεί να ρυθμιστεί κατά το χρόνο σχεδίασης όπως και άλλα στοιχεία αναφοράς. Το Aspose.Cells for Reporting Services υποστηρίζει επίσης παραμέτρους και καθολικές μεταβλητές ως πηγές δεδομένων αναφοράς. Οι προγραμματιστές μπορούν επίσης να χρησιμοποιήσουν το Ερώτημα Microsoft για τη δημιουργία πηγών δεδομένων και ερωτημάτων. Αυτό είναι ένα ευρέως χρησιμοποιούμενο εργαλείο και γνωστό στους περισσότερους χρήστες.
     </p>
     <p>
-     Επιπλέον, το Aspose.Cells for Reporting Services υποστηρίζει τόσο συγκεκριμένες πηγές δεδομένων για αναφορές όσο και κοινόχρηστες πηγές δεδομένων που έχουν δημιουργηθεί εκ των προτέρων στον διακομιστή αναφορών. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν συγκεκριμένες πηγές δεδομένων αναφοράς κατά τη στιγμή του σχεδιασμού και να καθορίσουν κοινόχρηστες πηγές δεδομένων ως πηγές δεδομένων αναφοράς κατά τη δημοσίευση αναφορών.
+Επιπλέον, το Aspose.Cells for Reporting Services υποστηρίζει τόσο πηγές δεδομένων για συγκεκριμένες αναφορές όσο και κοινόχρηστες πηγές δεδομένων που έχουν δημιουργηθεί εκ των προτέρων στον διακομιστή αναφορών. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν συγκεκριμένες πηγές δεδομένων αναφοράς κατά τη στιγμή του σχεδιασμού και να καθορίσουν κοινόχρηστες πηγές δεδομένων ως πηγές δεδομένων αναφοράς κατά τη δημοσίευση αναφορών.
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation – Δεν απαιτείται
+ Microsoft Αυτοματισμός Γραφείου – Δεν απαιτείται
     </h2>
     <p>
-     Το Aspose.Cells for Reporting Services έχει δημιουργηθεί με χρήση διαχειριζόμενου κώδικα που δεν χρειάζεται ποτέ να εγκατασταθεί στο μηχάνημα το Microsoft Office ή το Microsoft Excel για να λειτουργήσει με μορφές εγγράφων Excel. Είναι μια τέλεια εναλλακτική λύση αυτοματισμού Microsoft Excel όσον αφορά τις υποστηριζόμενες δυνατότητες, την ασφάλεια, τη σταθερότητα, την επεκτασιμότητα, την ταχύτητα και την τιμή.
+ Aspose.Cells for Reporting Services έχει δημιουργηθεί χρησιμοποιώντας διαχειριζόμενο κώδικα που δεν χρειάζεται ποτέ να εγκατασταθεί στο μηχάνημα Microsoft Office ή Microsoft Excel για να λειτουργήσει με μορφές εγγράφων Excel. Είναι μια τέλεια εναλλακτική λύση αυτοματισμού Microsoft Excel όσον αφορά τις υποστηριζόμενες δυνατότητες, την ασφάλεια, τη σταθερότητα, την επεκτασιμότητα, την ταχύτητα και την τιμή.
     </p>
    </div>
   </div>
@@ -440,17 +439,17 @@ description: Επέκταση απόδοσης υπηρεσιών αναφορά
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API Αναφορές" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Παραπομπές" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells για υπηρεσίες αναφοράς;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells for Reporting Services;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

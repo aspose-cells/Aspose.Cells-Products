@@ -1,19 +1,18 @@
 ---
-title: Python Tabulka Excel API – Aspose 
+title:  Python Excelová tabulka API - Aspose
 weight: 2820
-
-description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení, zápis a analýzu.
+description: Python tabulková knihovna pro vytváření souborů Excel pro čtení, zápis a analýzu.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Rozhraní API pro analýzu tabulek Excelu" h2="Vytvářejte, čtěte, zapisujte nebo manipulujte s tabulkami a také exportujte soubory Excel do různých formátů v rámci aplikací Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Rozhraní API pro analýzu tabulek aplikace Excel" h2="Vytvářejte, čtěte, zapisujte nebo manipulujte s tabulkami a také exportujte soubory Excel do různých formátů v rámci aplikací Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro Python prostřednictvím Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a také extrahovat informace ze souborů aplikace Excel. API čte několik formátů aplikace Excel a dokáže vykreslovat pracovní listy do formátu XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
+ Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
    <header>
     <i class="fa fa-refresh">
     </i>
-    Import &amp; Vývozní
+ Import &amp; Vývozní
    </header>
    <ul>
     <li>
-     Pole
+ Pole
     </li>
     <li>
-     Sada výsledků
+ Sada výsledků
     </li>
     <li>
-     Sbírky
+Sbírky
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Vykreslování
+ Vykreslování
    </header>
    <ul>
     <li>
-     Graf k obrázku
+ Graf k obrázku
     </li>
     <li>
-     Pracovní list k obrázku
+ Pracovní list k obrázku
     </li>
     <li>
-     Tabulkový procesor do PDF
+ Tabulka na PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
    <header>
     <i class="fa fa-table">
     </i>
-    Zpracování dat
+ Zpracování dat
    </header>
    <ul>
     <li>
-     Použít formátování
+ Použít formátování
     </li>
     <li>
-     Použít vzorec
+ Použít vzorec
     </li>
     <li>
-     Vytvářejte grafy
+ Vytvářejte grafy
     </li>
     <li>
-     Shrnout
+ Shrnout
     </li>
     <li>
-     Chytré značky
+ Chytré značky
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Python prostřednictvím Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro Python prostřednictvím Java je k dispozici pro." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="K dispozici je Aspose.Cells for Python via Java." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Běhové prostředí
+ Python Runtime Environment
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Python prostřednictvím Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Knihovna Excel Python podporuje oblíbené formáty Microsoft Excel, formáty s pevným rozvržením a obrázky." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Knihovna Excel Python podporuje oblíbené formáty Microsoft Excel, formáty s pevným rozložením a obrázky." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup výstup
+ Vstup výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Snímky:
+ Snímky:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Python prostřednictvím Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce Python Excelu API
+Pokročilé Python Excel API Funkce
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přečtěte si Excelové tabulky
+ Přečtěte si Excelové tabulky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vykreslování tabulek do PDF, EMF a obrázků
+ Vykreslit tabulky na PDF, EMF a obrázky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Upravte listy v sešitech
+ Upravte listy v sešitech
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chránit / odemknout pracovní listy
+ Chránit / odemknout pracovní listy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidávejte obrázky a vytvářejte grafy
+ Přidejte obrázky a vytvořte grafy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářejte kontingenční tabulky a kontingenční grafy
+ Vytvářejte kontingenční tabulky a kontingenční grafy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidávejte a upravujte komentáře na úrovni buňky
+ Přidávejte a upravujte komentáře na úrovni buňky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vyhledejte a nahraďte data
+ Vyhledejte a nahraďte data
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rozdělit a sloučit buňky
+ Rozdělit a sloučit buňky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přidejte nebo odeberte seskupení do řádků a sloupců
+ Přidejte nebo odeberte seskupení do řádků a sloupců
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavte formátování čísel
+ Nastavte formátování čísel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Přečtěte si a nastavte vzorce
+ Přečtěte si a nastavte vzorce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nakonfigurujte nastavení stránky
+ Nakonfigurujte nastavení stránky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Upravte orientaci stránky, měřítko, velikost papíru
+ Upravte orientaci stránky, měřítko, velikost papíru
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Číst &amp; zapisovat podmíněné formátování
+ Číst &amp; zapisovat podmíněné formátování
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Knihovna tabulek Python pro vytváření souborů Excel pro čtení
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konverze více formátů
+ Konverze více formátů
     </h2>
     <p>
-     Python Knihovna Excel poskytuje převod souborů Excel do PDF, XPS &amp; HTML formáty. Spolehlivý převod API z něj dělá perfektní řešení pro společnosti, které vyžadují výměnu souborů ve standardních průmyslových formátech.
+ Python Knihovna Excel poskytuje převod souborů Excel na PDF, XPS &amp; HTML formáty. Spolehlivý převod API z něj dělá perfektní řešení pro společnosti, které vyžadují výměnu souborů ve standardních průmyslových formátech.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Uložit tabulku v různých formátech – Java
+ Uložte tabulku v různých formátech - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibilní možnosti zobrazení
+ Flexibilní možnosti zobrazení
     </h2>
     <p>
-     Aspose.Cells pro Python prostřednictvím Java poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí zmrazených panelů, velikosti papíru, měřítka, záhlaví a ; zápatí a oblast tisku.
+Aspose.Cells for Python via Java poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí panelů zmrazení, velikosti papíru, měřítka, záhlaví &amp; zápatí a oblast tisku.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Správa dat tabulek Excel
+ Správa dat tabulek Excel
     </h2>
     <p>
-     Aspose.Cells pro Python prostřednictvím Java API poskytuje rozsáhlou podporu pro správu dat listu. Je možné snadno manipulovat s libovolnou buňkou v listu za běhu nebo importovat data do listů z různých zdrojů dat.
+ Aspose.Cells for Python via Java API poskytuje rozsáhlou podporu pro správu dat listu. Je možné snadno manipulovat s libovolnou buňkou v listu za běhu nebo importovat data do listů z různých zdrojů dat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Přizpůsobení grafů
+ Přizpůsobení grafů
     </h2>
     <p>
-     Aspose.Cells pro Python prostřednictvím Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit grafová data, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
+ Aspose.Cells for Python via Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
     </p>
    </div>
    <!--
@@ -519,26 +517,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Reference" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Reference" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells za Python prostřednictvím Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for Python via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

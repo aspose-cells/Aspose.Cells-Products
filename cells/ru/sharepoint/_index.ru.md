@@ -1,8 +1,7 @@
 ---
-title: Приложение для преобразования электронных таблиц SharePoint в Excel — Aspose 
+title:  Приложение для преобразования электронных таблиц SharePoint в Excel — Aspose
 weight: 940
-
-description: Aspose.Cells для приложения SharePoint — это конвертер электронных таблиц SharePoint Excel. Экспорт XLS XLSX XML CSV PDF ODS &amp; Форматы HTML в MOSS WSS
+description: Aspose.Cells for SharePoint Приложение представляет собой конвертер электронных таблиц SharePoint Excel. Экспорт XLS XLSX XML CSV PDF ODS &amp; HTML форматов в MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Приложение SharePoint для преобразования электронных таблиц Excel" h2="Преобразуйте электронные таблицы Excel в более чем 8 форматов файлов прямо из библиотеки документов SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -13,7 +12,7 @@ description: Aspose.Cells для приложения SharePoint — это ко
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells для SharePoint – это гибкое приложение для преобразования электронных таблиц Excel. Он может преобразовывать документы между многими популярными форматами Microsoft Excel из библиотеки документов SharePoint без зависимостей Microsoft Excel. Он поддерживает несколько форматов документов, которые не включены в поддержку собственного формата файлов SharePoint.
+ Aspose.Cells for SharePoint — это гибкое приложение для преобразования электронных таблиц Excel. Он может преобразовывать документы между многими популярными Microsoft форматами Excel из библиотеки документов SharePoint без зависимостей Microsoft Excel. Он поддерживает несколько форматов документов, которые не включены в поддержку собственного формата файлов SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells для приложения SharePoint — это ко
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Cells для SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Простая установка
+ Простая установка
    </header>
    <ul>
     <li>
-     WSP-файл SharePoint
+ WSP-файл SharePoint
     </li>
     <li>
-     Активировать через ферму
+ Активировать через ферму
     </li>
     <li>
-     Деактивировать через ферму
+ Деактивировать через ферму
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells для приложения SharePoint — это ко
    <header>
     <i class="fa fa-file-o">
     </i>
-    Параметры преобразования
+ Параметры преобразования
    </header>
    <ul>
     <li>
-     Сохранить в подпапках
+ Сохранить в подпапках
     </li>
     <li>
-     Объединение файлов
+ Объединение файлов
     </li>
     <li>
-     Перезаписать существующие файлы
+ Перезаписать существующие файлы
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells для приложения SharePoint — это ко
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -83,18 +82,18 @@ description: Aspose.Cells для приложения SharePoint — это ко
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells для SharePoint поддерживает Windows SharePoint Services, SharePoint Foundation и Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells for SharePoint поддерживает Windows SharePoint Services, SharePoint Foundation и Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Сервер SharePoint
+ Сервер SharePoint
    </header>
    <ul>
     <li>
-     2007 г.
+     2007
     </li>
     <li>
      2010
@@ -112,17 +111,17 @@ description: Aspose.Cells для приложения SharePoint — это ко
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Службы Windows SharePoint
+ Windows Службы SharePoint
    </header>
    <ul>
     <li>
-     ВСС 3.0
+ ВСС 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Фонд SharePoint
+ Фонд SharePoint
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells для приложения SharePoint — это ко
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -155,45 +154,45 @@ description: Aspose.Cells для приложения SharePoint — это ко
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells для SharePoint поддерживают многие популярные форматы электронных таблиц, PDF, HTML и другие [форматы файлов](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells for SharePoint поддержка многих популярных форматов электронных таблиц, PDF, HTML и других[форматы файлов](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+ Ввод, вывод
    </header>
    <ul>
     <li>
      <b>
-      Майкрософт Эксель:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      Электронная таблицаML:
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      ОпенОфис:
+ ОпенОфис:
      </b>
-     ОРВ
+     ODS
     </li>
     <li>
      <b>
-      Текст:
+ Текст:
      </b>
-     CSV, TSV, с разделителями табуляцией, TXT
+ CSV, TSV, с разделителями табуляции, TXT
     </li>
     <li>
      <b>
-      Интернет:
+ Интернет:
      </b>
-     HTML, МHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -202,18 +201,18 @@ description: Aspose.Cells для приложения SharePoint — это ко
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Только вывод
+ Только вывод
    </header>
    <ul>
     <li>
      <b>
-      Фиксированный макет:
+ Фиксированный макет:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Картинки:
+ Изображений:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: Aspose.Cells для приложения SharePoint — это ко
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells для приложения SharePoint — это ко
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование электронных таблиц Excel в несколько форматов
+ Преобразование электронных таблиц Excel в несколько форматов
     </h2>
     <p>
-     Aspose.Cells для SharePoint позволяет преобразовывать электронные таблицы во многие популярные форматы документов и изображений из библиотеки документов SharePoint. Aspose.Cells для SharePoint в настоящее время поддерживает большинство форматов электронных таблиц, а также CSV &amp; XML в качестве входных данных и может экспортироваться в форматы электронных таблиц, а также CSV, HTML, ODS, PDF, XML &amp; форматы изображений.
+ Aspose.Cells for SharePoint позволяет преобразовывать электронные таблицы во многие популярные форматы документов и изображений из библиотеки документов SharePoint. Aspose.Cells for SharePoint в настоящее время поддерживает большинство форматов электронных таблиц, а также CSV &amp; XML в качестве входных данных и может экспортироваться в форматы электронных таблиц, а также в форматы CSV, HTML, ODS, PDF, XML &amp; форматы изображений.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Объединение файлов во время преобразования
+ Объединение файлов во время преобразования
     </h2>
     <p>
-     Aspose.Cells для SharePoint позволяет объединять файлы разных форматов в один документ. Кроме того, вы также можете перемещать документы в списке вверх или вниз, чтобы установить порядок, в котором вы хотите объединить документы.
+ Aspose.Cells for SharePoint позволяет объединять файлы разных форматов в один документ. Кроме того, вы также можете перемещать документы в списке вверх или вниз, чтобы установить порядок, в котором вы хотите объединить документы.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование файлов в подпапках
+ Преобразование файлов в подпапках
     </h2>
     <p>
-     Aspose.Cells для SharePoint упрощает процесс преобразования за счет рекурсивного преобразования всех документов и подпапок в выбранной папке. Существующая структура подпапок создается в папке назначения.
+Aspose.Cells for SharePoint упрощает процесс преобразования за счет рекурсивного преобразования всех документов и подпапок в выбранной папке. Существующая структура подпапок создается в папке назначения.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Перезаписать существующие файлы
+ Перезаписать существующие файлы
     </h2>
     <p>
-     Если целевая папка уже содержит файлы с теми же именами, что и те, которые вы хотите преобразовать, то Aspose.Cells для SharePoint позволяет вам перезаписать существующие файлы или вы можете просто выбрать параметр, который предписывает приложению пропустить обработку файлов, которые уже существуют в папку назначения.
+ Если папка назначения уже содержит файлы с теми же именами, что и те, которые вы хотите преобразовать, тогда Aspose.Cells for SharePoint позволяет вам перезаписать существующие файлы или вы можете просто выбрать параметр, который даст указание приложению пропустить обработку файлов, которые уже существуют в папке назначения. .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Взаимодействие с общедоступным API
+ Взаимодействовать с общественностью API
     </h2>
     <p>
-     Разработчики, имеющие внутренние решения SharePoint, могут использовать Aspose.Cells для механизма преобразования документов SharePoint через общедоступный API. Он обеспечивает программный доступ ко всем поддерживаемым форматам и параметрам преобразования.
+ Разработчики, имеющие внутренние решения SharePoint, могут использовать механизм преобразования документов Aspose.Cells for SharePoint через общедоступный номер API. Он обеспечивает программный доступ ко всем поддерживаемым форматам и параметрам преобразования.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Автоматизация Microsoft Excel — не требуется
+ Microsoft Автоматизация Excel — не требуется
     </h2>
     <p>
-     Aspose.Cells для SharePoint создан с использованием управляемого кода, который никогда не требует установки Microsoft Excel на компьютере для работы с преобразованием формата Excel. Это идеальная альтернатива автоматизации Microsoft Excel с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
+Aspose.Cells for SharePoint построен с использованием управляемого кода, который никогда не требует установки Microsoft Excel на компьютере для работы с преобразованием формата Excel. Это идеальная альтернатива автоматизации Excel с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: Aspose.Cells для приложения SharePoint — это ко
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells для SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

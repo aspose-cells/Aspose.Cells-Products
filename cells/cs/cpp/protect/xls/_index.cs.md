@@ -1,8 +1,7 @@
 ---
-title: Chránit a uzamknout dokument XLS prostřednictvím C++ 
+title:  Chraňte a uzamkněte dokument XLS přes C++
 weight: 8760
-
-description: C++ ukázkový kód pro uzamčení souboru XLS pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+description: C++ příklad kódu pro uzamčení souboru XLS pomocí hesla na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLS přes C++" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLS pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -13,8 +12,8 @@ description: C++ ukázkový kód pro uzamčení souboru XLS pomocí hesla v C++ 
 {{% blocks/products/pf/agp/content h2="Jak zabezpečit soubor XLS pomocí C++" %}}
 
  Za účelem ochrany souboru XLS použijeme
- [Aspose.Cells za C++](https://products.aspose.com/cells/cpp) 
- API, což je funkčně bohaté, výkonné a snadno použitelné šifrování dokumentů API pro platformu C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro šifrování dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells.Cpp** 
@@ -26,7 +25,6 @@ description: C++ ukázkový kód pro uzamčení souboru XLS pomocí hesla v C++ 
 
 PM> Install-Package Aspose.Cells.Cpp
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,47 +33,51 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky k ochraně souborů XLS prostřednictvím C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky k ochraně souborů XLS přes C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ochranu dokumentů pomocí rozhraní API Aspose.Cells lze provést pomocí několika řádků kódu.
+ Ochranu dokumentů pomocí Aspose.Cells API lze provést pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte soubor XLS pomocí třídy IWorkbook1. Použijte metodu Protect(..) s ProtectionType a Password1. Uložte chráněný soubor XLS metodou Save().
+1.  Načtěte soubor XLS pomocí třídy IWorkbook
+1.  Použijte metodu Protect(..) s ProtectionType a Password
+1.  Uložte chráněný soubor XLS metodou Save().
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells pro C++ podporuje na všech hlavních platformách a operačních systémech. Ujistěte se prosím, že máte následující předpoklady.
+ Aspose.Cells for C++ podporuje všechny hlavní platformy a operační systémy. Ujistěte se prosím, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.- Aspose.Cells pro C++ DLL, na kterou odkazuje váš projekt.
+-  Microsoft Windows nebo kompatibilní OS s C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+-  Přidejte odkaz na Aspose.Cells for C++ DLL ve svém projektu.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="" %}}
 
 ```cs
 
-// Zdrojová cesta.
+// Source path.
 StringPtr srcDir = new String("SourcePath\");
 
-// Výstupní cesta.
+// Output path.
 StringPtr outDir = new String("OutputPath\");
 
-// Načtěte soubor XLS
+// Load XLS file
 intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xls")));
 
-// Chraňte sešit zadáním typu ochrany
+// Protect workbook by specifying protection type
 workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
 
-// Uložte soubor XLS
+// Save the XLS file
 workbook->Save(outDir->StringAppend(new String("output.xls")));
-
 
 ```
 
@@ -88,9 +90,9 @@ workbook->Save(outDir->StringAppend(new String("output.xls")));
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="O Aspose.Cells pro C++ API" %}}
+{{% blocks/products/pf/agp/content h2="O Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.  
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -98,15 +100,15 @@ workbook->Save(outDir->StringAppend(new String("output.xls")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro ochranu XLS" sectionDescription="Podívejte se na naše živé ukázky [šifrovat soubory XLS](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLS soubory](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLS a stisknout tlačítko „Odemknout“." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Stáhněte si výsledný soubor XLS z odkazu" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory lze vytvořit v aplikaci Microsoft Excel i v jiných podobných tabulkových programech, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako sešit, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním aplikace Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, ačkoli XLSX je nyní první volbou použití.
+Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory mohou být vytvořeny aplikací Excel Microsoft i jinými podobnými tabulkovými programy, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako Workbook, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, i když XLSX je nyní první volbou použití.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,7 +116,7 @@ Soubory s příponou XLS představují binární formát souboru Excel. Takové 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované ochranné dokumenty" subTitle="Pomocí C++ lze chránit další soubory včetně." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované dokumenty ochrany" subTitle="Pomocí C++ lze chránit další soubory včetně." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}

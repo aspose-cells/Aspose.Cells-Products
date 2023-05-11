@@ -1,11 +1,10 @@
 ---
-title: C++ Lập trình Bảng tính Excel API - Aspose 
+title:  C++ Lập trình bảng tính Excel API - Aspose
 weight: 7140
-
-description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp các tệp bao gồm các định dạng XLS, XLSX, XLSM và XLSB. Chuyển đổi bảng tính sang PDF, CSV và các định dạng khác
+description: C++ Thư viện Excel để đọc ghi và phân tích tệp bao gồm các định dạng XLS, XLSX, XLSM và XLSB. Chuyển đổi bảng tính sang PDF, CSV và nhiều định dạng khác
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API bảng tính Excel" h2="Tạo, Đọc, Viết và Phân tích cú pháp bảng tính mà không có bất kỳ phụ thuộc Microsoft Excel nào trong các ứng dụng C++ đầy đủ chức năng." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API bảng tính Excel" h2="Tạo, Đọc, Viết và Phân tích bảng tính mà không có bất kỳ phụ thuộc Microsoft Excel nào trong các ứng dụng C++ đầy đủ chức năng." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +12,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells cho C++ là một C++ API gốc để thao tác trên Bảng tính. Các ứng dụng có thể thực hiện các chức năng như tạo, chuyển đổi và chỉnh sửa Thuộc tính, Chủ đề, Kiểu và Định dạng Tích hợp và Định dạng của bảng tính, Xác thực dữ liệu, Định dạng có điều kiện, Đọc, Viết và Tính toán Công thức, Nhóm các Dòng và Cột, v.v. mà không cần dựa vào Office Automation hoặc Microsoft Excel. API hỗ trợ hầu hết các định dạng bảng tính được sử dụng phổ biến như XLS, XLSX, XLSM và XLSB.
+ Aspose.Cells for C++ là số gốc C++ API để thao tác Bảng tính. Các ứng dụng có thể thực hiện các chức năng như tạo, chuyển đổi và chỉnh sửa Thuộc tính tùy chỉnh và tích hợp sẵn của bảng tính, Chủ đề, Kiểu và định dạng, Xác thực dữ liệu, Định dạng có điều kiện, Đọc, Viết và tính toán công thức, Nhóm hàng và cột, v.v. mà không cần dựa vào Office Automation hoặc Microsoft Excel. API hỗ trợ hầu hết các định dạng bảng tính thông dụng như XLS, XLSX, XLSM và XLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,39 +20,39 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về API." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Lh API." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-retweet">
     </i>
-    Chuyển đổi định dạng
+ Chuyển đổi định dạng
    </header>
    <br/>
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    Xử lí dữ liệu
+ Xử lí dữ liệu
    </header>
    <ul>
     <li>
-     PivotTable
+ PivotTable
     </li>
     <li>
-     Những cái bàn
+ Những cái bàn
     </li>
     <li>
-     Biểu đồ
+ biểu đồ
     </li>
     <li>
-     Tính toán công thức
+Công thức tính toán
     </li>
     <li>
-     Xác nhận dữ liệu
+ Xác nhận dữ liệu
     </li>
     <li>
-     Định dạng có điều kiện
+ Định dạng có điều kiện
     </li>
    </ul>
   </div>
@@ -62,41 +61,41 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
    <header>
     <i class="fa fa-cogs">
     </i>
-    Thao tác
+ Thao tác
    </header>
    <ul>
     <li>
-     Tải / Lưu bảng tính
+ Tải/Lưu bảng tính
     </li>
     <li>
-     Thao tác dữ liệu
+ Thao tác dữ liệu
     </li>
     <li>
-     Thuộc tính tích hợp
+ Thuộc tính tích hợp
     </li>
     <li>
-     Thuộc tính tùy chỉnh
+ Thuộc tính tùy chỉnh
     </li>
     <li>
-     Chủ đề
+ chủ đề
     </li>
     <li>
-     Phong cách & amp; Định dạng
+ Phong cách &amp; định dạng
     </li>
     <li>
-     Siêu liên kết
+ siêu liên kết
     </li>
     <li>
-     Bộ lọc tự động
+ Bộ lọc tự động
     </li>
     <li>
-     Thiết lập trang
+ Thiết lập trang
     </li>
     <li>
-     Đọc, Viết công thức
+ Đọc, viết công thức
     </li>
     <li>
-     Nhóm các hàng & amp; Cột
+ Nhóm các Hàng &amp; Cột
     </li>
    </ul>
   </div>
@@ -111,7 +110,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     C++
    </small>
@@ -122,20 +121,20 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="API hỗ trợ đầy đủ C++ các ứng dụng trên các nền tảng sau với [yêu cầu hệ thống](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description=" API hỗ trợ đầy đủ các ứng dụng C++ trên các nền tảng sau với[yêu cầu hệ thống](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 32 bit
+ Windows 32 bit
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 64 bit
+ Windows 64 bit
    </header>
   </div>
   <!--/left-->
@@ -143,7 +142,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux 64 bit
+ Linux64bit
    </header>
   </div>
   <!--/right-->
@@ -157,7 +156,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     C++
    </small>
@@ -168,37 +167,37 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.Cells cho C++ hỗ trợ bảng tính được sử dụng phổ biến nhất [định dạng tệp](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for C++ hỗ trợ bảng tính thông dụng nhất[định dạng tập tin](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
      CSV, TSV
     </li>
     <li>
      <strong>
-      Mở tài liệu:
+ Tài liệu mở:
      </strong>
      ODS
     </li>
     <li>
      <strong>
-      Khác:
+ Người khác:
      </strong>
      HTML, MHTML
     </li>
@@ -209,24 +208,24 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Excel:
+ Excel:
      </b>
      XLSM, XLTX, XLTM, XLAM
     </li>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
     </li>
@@ -243,7 +242,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     C++
    </small>
@@ -264,7 +263,7 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Các tính năng của C++ Bảng tính API nâng cao
+ Nâng cao C++ Bảng tính API Tính năng
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,146 +274,146 @@ description: C++ Thư viện Excel để đọc ghi và phân tích cú pháp c�
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tải & amp; lưu các tệp Excel bằng cách sử dụng luồng
+ Tải &amp; lưu tệp Excel bằng luồng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao túng biểu đồ
+ Tạo &amp; thao tác biểu đồ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt xác thực dữ liệu để hạn chế đầu vào
+Đặt xác thực dữ liệu để hạn chế đầu vào
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tổ chức dữ liệu bằng cách nhóm các hàng & amp; cột
+ Sắp xếp dữ liệu bằng cách nhóm các hàng &amp; cột
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thao tác tích hợp & amp; Thuộc tính tùy chỉnh
+ Thao tác tích hợp &amp; Thuộc tính tùy chỉnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm & amp; thao túng siêu liên kết
+ Thêm &amp; thao túng siêu liên kết
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác với Pivot Table
+ Tạo &amp; thao tác với Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thay đổi giao diện sổ làm việc của bạn bằng cách sử dụng các chủ đề
+ Thay đổi giao diện sổ làm việc của bạn bằng các chủ đề
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo bảng & amp; liệt kê các đối tượng
+ Tạo bảng &amp; liệt kê các đối tượng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thao tác với các đối tượng vẽ
+ Thao tác với các đối tượng vẽ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Áp dụng kiểu và định dạng cho ô, hàng, cột hoặc phạm vi
+ Áp dụng kiểu và định dạng cho ô, hàng, cột hoặc phạm vi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tiền lệ theo dõi & amp; Người phụ thuộc
+ Dấu vết Tiền lệ &amp; người phụ thuộc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc, ghi & amp; tính toán các công thức phức tạp
+ Đọc, viết &amp; tính toán các công thức phức tạp
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm hoặc trích xuất các đối tượng OLE
+ Thêm hoặc trích xuất các đối tượng OLE
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo quy tắc định dạng có điều kiện
+ Tạo quy tắc định dạng có điều kiện
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo và triển khai các Hàm do người dùng xác định
+ Tạo và triển khai các hàm do người dùng định nghĩa
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi biểu đồ sang định dạng PDF
+ Chuyển đổi Biểu đồ sang định dạng PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi biểu đồ sang định dạng hình ảnh
+ Chuyển đổi biểu đồ sang định dạng hình ảnh
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Không phụ thuộc vào Microsoft Excel
+ Không phụ thuộc vào Microsoft Excel
     </h2>
     <p>
-     Aspose API hoàn toàn độc lập và không được liên kết với cũng như không được Microsoft Corporation ủy quyền, tài trợ hoặc phê duyệt theo cách khác. Aspose.Cells cho C++ không bao giờ cần cài đặt Microsoft Office hoặc Microsoft Excel trên máy để làm việc với các định dạng tài liệu Excel.
+Các API Aspose hoàn toàn độc lập và không liên kết với, cũng như không được ủy quyền, tài trợ hoặc phê duyệt bởi Microsoft Corporation. Aspose.Cells for C++ không bao giờ cần Microsoft Office hoặc Microsoft Excel được cài đặt trên máy để làm việc với các định dạng tài liệu Excel.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Đơn giản & amp; Chuyển đổi đáng tin cậy của các định dạng Excel
+ Đơn giản &amp; Chuyển đổi định dạng Excel đáng tin cậy
     </h2>
     <p>
-     Aspose.Cells cho C++ là một bộ API mạnh mẽ cung cấp khả năng tải, chỉnh sửa, ghi và chuyển đổi giữa các định dạng tệp Excel mà không cần lo lắng về các chi tiết của định dạng cụ thể. API cho phép bạn chuyển đổi bảng tính từ bất kỳ định dạng được hỗ trợ nào sang bất kỳ định dạng được hỗ trợ nào khác chỉ với hai dòng mã. Nó là đơn giản!
+ Aspose.Cells for C++ là một bộ API mạnh mẽ cung cấp khả năng tải, chỉnh sửa, ghi và chuyển đổi lẫn nhau các định dạng tệp Excel mà không phải lo lắng về các chi tiết cụ thể của định dạng. API cho phép bạn chuyển đổi bảng tính từ bất kỳ định dạng được hỗ trợ nào sang bất kỳ định dạng được hỗ trợ nào khác chỉ bằng hai dòng mã. Nó là đơn giản!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Chuyển đổi tệp Excel ở nhiều định dạng - C++
+ Chuyển đổi file Excel nhiều định dạng - C++
      </h3>
      <pre><code class="cpp">// load the document for conversion
 
@@ -431,42 +430,42 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Định dạng bảng tính toàn diện
+ Định dạng bảng tính toàn diện
     </h2>
     <p>
-     Aspose.Cells cho C++ cho phép bạn kiểm soát hoàn toàn cách bạn muốn trình bày dữ liệu của mình trên trang tính, bằng cách cung cấp các tính năng định dạng nâng cao. Bạn có thể áp dụng định dạng cho từng hàng, cột, ô hoặc bạn có thể tạo một dải ô và áp dụng định dạng cho nó. Bạn cũng có thể thêm văn bản có dạng thức vào ô, áp dụng đường viền, đặt mẫu nền hoặc chỉnh sửa các khía cạnh tạo kiểu liên quan đến phông chữ.
+Aspose.Cells for C++ cung cấp cho bạn toàn quyền kiểm soát cách bạn muốn trình bày dữ liệu của mình trên trang tính bằng cách cung cấp các tính năng định dạng nâng cao. Bạn có thể áp dụng định dạng cho từng hàng, cột, ô hoặc bạn có thể tạo một dải ô và áp dụng định dạng cho nó. Bạn cũng có thể thêm văn bản có định dạng vào ô, áp dụng đường viền, đặt mẫu nền hoặc chỉnh sửa các khía cạnh kiểu dáng liên quan đến phông chữ.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Trực quan hóa dữ liệu bằng biểu đồ
+ Trực quan hóa dữ liệu bằng biểu đồ
     </h2>
     <p>
-     Aspose.Cells for C++ cung cấp một bộ API toàn diện để tạo động tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh được ứng dụng Excel hỗ trợ. API cũng cung cấp khả năng cập nhật nguồn dữ liệu cho biểu đồ hiện có và làm mới nó.
+ Aspose.Cells for C++ cung cấp một bộ API toàn diện để tự động tạo tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh được ứng dụng Excel hỗ trợ. API cũng cung cấp khả năng cập nhật nguồn dữ liệu cho biểu đồ hiện có và làm mới nó.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kết xuất Trang tính dưới dạng Hình ảnh
+ Kết xuất trang tính dưới dạng hình ảnh
     </h2>
     <p>
-     Thư viện hiển thị với độ trung thực cao nhất với Microsoft Excel bằng cách sử dụng công cụ kết xuất của riêng nó. Nó cung cấp các tính năng đặc biệt như kết xuất trang tính thành hình ảnh ở các định dạng phổ biến bao gồm BMP, TIFF, PNG, JPEG & amp; EMF. Quy trình Sheet2Image rất linh hoạt, do đó cho phép chọn các tùy chọn như kiểm soát độ phân giải của hình ảnh kết quả.
+Thư viện hiển thị với độ trung thực cao nhất đối với Microsoft Excel bằng cách sử dụng công cụ hiển thị riêng. Nó cung cấp các tính năng đặc biệt như hiển thị trang tính thành hình ảnh ở các định dạng phổ biến bao gồm BMP, TIFF, PNG, JPEG &amp; EMF. Quy trình Sheet2Image linh hoạt do đó cho phép chọn các tùy chọn chẳng hạn như kiểm soát độ phân giải của hình ảnh thu được.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thao tác với các cột và hàng
+ Thao tác với Cột và Hàng
     </h2>
     <p>
-     Aspose.Cells cho C++ cung cấp thao tác hàng và cột theo nhiều cách. Điều chỉnh chiều cao hàng và chiều rộng cột hoặc tự động thay đổi kích thước kích thước ô theo nội dung trong đó, quá dễ dàng. API cũng cung cấp các phương tiện để xóa và chèn, ẩn hoặc hiển thị cũng như nhóm hoặc bỏ nhóm các hàng và cột.
+ Aspose.Cells for C++ cung cấp thao tác hàng và cột theo nhiều cách. Điều chỉnh chiều cao hàng và chiều rộng cột hay tự động thay đổi kích thước kích thước ô theo nội dung trong đó, quá dễ dàng. API cũng cung cấp các phương tiện để xóa và chèn, ẩn hoặc hiển thị cũng như nhóm hoặc bỏ nhóm các hàng và cột.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi chính xác bảng tính sang PDF
+ Chuyển đổi chính xác Bảng tính sang PDF
     </h2>
     <p>
-     Thư viện Excel C++ cung cấp khả năng chuyển đổi bảng tính sang định dạng PDF trong khi vẫn giữ nguyên chất lượng như tài liệu gốc. Thực tế này làm cho Aspose.Cells for C++ trở thành lựa chọn hoàn hảo cho các tổ chức yêu cầu trao đổi tài liệu ở định dạng tiêu chuẩn ngành dưới dạng PDF.
+Thư viện Excel C++ cung cấp khả năng chuyển đổi bảng tính sang định dạng PDF mà vẫn giữ nguyên chất lượng như tài liệu gốc. Thực tế này làm cho Aspose.Cells for C++ trở thành sự lựa chọn hoàn hảo cho các tổ chức yêu cầu trao đổi tài liệu ở định dạng tiêu chuẩn ngành như PDF.
     </p>
    </div>
    <!-- 
@@ -502,19 +501,19 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells cho C++?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for C++?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

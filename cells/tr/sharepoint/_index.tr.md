@@ -1,11 +1,10 @@
 ---
-title: SharePoint Excel Elektronik Tablo Dönüştürücü Uygulaması - Aspose 
+title:  SharePoint Excel Elektronik Tablo Dönüştürücü Uygulaması - Aspose
 weight: 940
-
-description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Elektronik Tablo dönüştürücüsüdür. XLS XLSX XML CSV PDF Dışa Aktarma ODS &amp; MOSS WSS'deki HTML biçimleri
+description: Aspose.Cells for SharePoint Uygulama, bir SharePoint Excel Elektronik Tablo dönüştürücüsüdür. Dışa aktar XLS XLSX XML CSV PDF ODS &amp; MOSS WSS'de HTML biçimleri
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Dönüştürmek için SharePoint Uygulaması" h2="Doğrudan SharePoint belge kitaplığından Excel elektronik tablolarını 8\'den fazla dosya biçimine dönüştürün." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Dönüştürmek için SharePoint Uygulaması" h2="Excel elektronik tablolarını doğrudan SharePoint belge kitaplığından 8\'den fazla dosya biçimine dönüştürün." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -13,7 +12,7 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePoint, esnek bir Excel elektronik tablo dönüştürücü uygulamasıdır. Microsoft Excel bağımlılıkları olmadan bir SharePoint belge kitaplığından birçok popüler Microsoft Excel formatı arasında belgeleri dönüştürebilir. SharePoint'in yerel dosya biçimi desteğine dahil olmayan birden çok belge biçimini destekler.
+ Aspose.Cells for SharePoint, esnek bir Excel elektronik tablo dönüştürücü uygulamasıdır. Belgeleri, Microsoft Excel bağımlılıkları olmadan bir SharePoint belge kitaplığından birçok popüler Microsoft Excel biçimi arasında dönüştürebilir. SharePoint'in yerel dosya biçimi desteğine dahil olmayan birden çok belge biçimini destekler.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="SharePoint için Aspose.Cells\'e genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for SharePoint\'e genel bakış." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Kolay kurulum
+ Kolay kurulum
    </header>
    <ul>
     <li>
-     SharePoint WSP Dosyası
+ SharePoint WSP Dosyası
     </li>
     <li>
-     Çiftlikte Etkinleştir
+ Çiftlik Genelinde Etkinleştir
     </li>
     <li>
-     Çiftlikte Devre Dışı Bırak
+ Çiftlik Genelinde Devre Dışı Bırak
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
    <header>
     <i class="fa fa-file-o">
     </i>
-    Dönüşüm Seçenekleri
+ Dönüşüm Seçenekleri
    </header>
    <ul>
     <li>
-     Alt Klasörlere Kaydet
+ Alt klasörlere kaydet
     </li>
     <li>
-     Dosya Birleştirme
+ Dosya Birleştirme
     </li>
     <li>
-     Mevcut dosyaların üzerine yaz
+ Mevcut dosyaların üzerine yaz
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Paylaşım Noktası
+ Paylaşım Noktası
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="SharePoint için Aspose.Cells, Windows SharePoint Services, SharePoint Foundation ve Microsoft SharePoint Server\'ı destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for SharePoint, Windows SharePoint Services, SharePoint Foundation ve Microsoft SharePoint Server\'ı destekler." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Sunucusu
+ SharePoint Sunucusu
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Windows SharePoint Hizmetleri
+ Windows SharePoint Hizmetleri
    </header>
    <ul>
     <li>
-     WSS 3.0
+ SSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Vakfı
+ SharePoint Vakfı
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Paylaşım Noktası
+ Paylaşım Noktası
    </small>
   </footer>
  </div>
@@ -155,43 +154,43 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Cells SharePoint için birçok popüler elektronik tablo biçimini, PDF\'yi, HTML\'yi ve diğerlerini destekler [dosya formatları](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for SharePoint birçok popüler elektronik tablo biçimini destekler, PDF, HTML ve diğerleri[dosya formatları](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş çıkış
+ Giriş çıkış
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      E-tabloML:
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      Açık ofis:
+ Açık ofis:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Metin:
+ Metin:
      </b>
-     CSV, TSV, Sekmeyle Ayrılmış, TXT
+ CSV, TSV, Sekmeyle Ayrılmış, TXT
     </li>
     <li>
      <b>
-      Ağ:
+ Ağ:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Yalnızca Çıkış
+ Yalnızca Çıktı
    </header>
    <ul>
     <li>
      <b>
-      Sabit Düzen:
+ Sabit Düzen:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Görüntüler:
+ Görüntüler:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Paylaşım Noktası
+ Paylaşım Noktası
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel Elektronik Tablolarını Birkaç Biçime Dönüştürün
+ Excel Elektronik Tablolarını Çeşitli Formatlara Dönüştürün
     </h2>
     <p>
-     SharePoint için Aspose.Cells, elektronik tabloların SharePoint belge kitaplığından birçok popüler belge ve görüntü biçimine dönüştürülmesine olanak tanır. SharePoint için Aspose.Cells, şu anda CSV &amp; Girdi olarak XML ve elektronik tablo biçimlerinin yanı sıra CSV, HTML, ODS, PDF, XML &amp; görüntü biçimleri.
+ Aspose.Cells for SharePoint, elektronik tabloların SharePoint belge kitaplığından birçok popüler belge ve resim biçimine dönüştürülmesine olanak tanır. Aspose.Cells for SharePoint şu anda CSV &amp; Giriş olarak XML ve elektronik tablo biçimlerinin yanı sıra CSV, HTML, ODS, PDF, XML &amp; görüntü formatları.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Dönüştürme Sırasında Dosyaları Birleştir
+ Dosyaları Dönüştürme Sırasında Birleştir
     </h2>
     <p>
-     SharePoint için Aspose.Cells, farklı biçimlere sahip dosyaları tek bir belgede birleştirme yeteneği sağlar. Ayrıca, belgelerin birleştirilmesini istediğiniz sırayı ayarlamak için listedeki belgeleri yukarı veya aşağı taşıyabilirsiniz.
+ Aspose.Cells for SharePoint, farklı biçimlerdeki dosyaları tek bir belgede birleştirme yeteneği sağlar. Ayrıca, belgelerin birleştirilmesini istediğiniz sırayı ayarlamak için listedeki belgeleri yukarı veya aşağı taşıyabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Alt Klasörlerdeki Dosyaları Dönüştür
+ Alt Klasörlerdeki Dosyaları Dönüştür
     </h2>
     <p>
-     Aspose.Cells for SharePoint, seçili bir klasör altındaki tüm belgeleri ve alt klasörleri yinelemeli olarak dönüştürerek dönüştürme işlemini daha kolay hale getirir. Varolan alt klasör yapısı, hedef klasörde oluşturulur.
+Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve alt klasörleri tekrar tekrar dönüştürerek dönüştürme işlemini kolaylaştırır. Mevcut alt klasör yapısı, hedef klasörde oluşturulur.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Mevcut dosyaların üzerine yaz
+ Mevcut dosyaların üzerine yaz
     </h2>
     <p>
-     Hedef klasör, dönüştürmek istediklerinizle aynı ada sahip dosyalar zaten içeriyorsa, bu durumda SharePoint için Aspose.Cells, mevcut dosyaların üzerine yazmanıza olanak tanır veya uygulamaya zaten var olan dosyaları işlemeyi atlaması talimatını verecek bir seçenek belirleyebilirsiniz. hedef klasör.
+ Hedef klasör, dönüştürmek istediklerinizle aynı ada sahip dosyaları zaten içeriyorsa, Aspose.Cells for SharePoint, mevcut dosyaların üzerine yazmanıza izin verir veya uygulamaya hedef klasörde zaten var olan dosyaları işlemeyi atlaması talimatını verecek bir seçeneği belirleyebilirsiniz. .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Herkese Açık API ile etkileşime gir
+ Halkla Etkileşim API
     </h2>
     <p>
-     Dahili SharePoint çözümlerine sahip geliştiriciler, genel API aracılığıyla SharePoint'in belge dönüştürme motoru için Aspose.Cells kullanabilirler. Desteklenen tüm biçimlere ve dönüştürme seçeneklerine programlı erişim sağlar.
+ Dahili SharePoint çözümlerine sahip geliştiriciler, genel API aracılığıyla Aspose.Cells for SharePoint'in belge dönüştürme motorunu kullanabilirler. Desteklenen tüm biçimlere ve dönüştürme seçeneklerine programlı erişim sağlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Excel Otomasyonu – Gerekli Değil
+ Microsoft Excel Otomasyonu – Gerekli değil
     </h2>
     <p>
-     SharePoint için Aspose.Cells, Excel biçim dönüştürmeyle çalışmak için makineye Microsoft Excel'in yüklenmesine asla ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
+Aspose.Cells for SharePoint, Excel biçim dönüştürmesiyle çalışmak için makinede Microsoft Excel'in yüklenmesine asla ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
     </p>
    </div>
   </div>
@@ -309,18 +308,18 @@ description: SharePoint Uygulaması için Aspose.Cells, bir SharePoint Excel Ele
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/cells/sharepoint/" >}}
+{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/sharepoint/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden SharePoint için Aspose.Cells?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,19 +1,18 @@
 ---
-title: Python Excel-kalkylblad API - Aspose 
+title:  Python Excel-kalkylblad API - Aspose
 weight: 2820
-
-description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Excel-filer.
+description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Excel-filer.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API:er för analys av Excel-kalkylblad" h2="Generera, läs, skriv eller manipulera kalkylblad samt exportera Excel-filer till flera format inom Python-program." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel-kalkylblad Parsing API:er" h2="Generera, läs, skriv eller manipulera kalkylblad samt exportera Excel-filer till flera format inom Python-applikationer." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells för Python via Java är en snabb och pålitlig API för bearbetningsuppgifter för kalkylark. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera excel-format och kan återge kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
+ Aspose.Cells for Python via Java är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importera &amp; Exportera
+ Importera &amp; Exportera
    </header>
    <ul>
     <li>
-     Arrayer
+ Arrayer
     </li>
     <li>
-     Resultatet satt
+ Resultatet satt
     </li>
     <li>
-     Samlingar
+Samlingar
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Tolkning
+ Tolkning
    </header>
    <ul>
     <li>
-     Diagram till bild
+ Diagram till bild
     </li>
     <li>
-     Arbetsblad till bild
+ Arbetsblad till bild
     </li>
     <li>
-     Kalkylblad till PDF
+ Kalkylblad till PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
    <header>
     <i class="fa fa-table">
     </i>
-    Databehandling
+ Databehandling
    </header>
    <ul>
     <li>
-     Använd formatering
+ Använd formatering
     </li>
     <li>
-     Applicera formel
+ Applicera formel
     </li>
     <li>
-     Skapa diagram
+ Skapa diagram
     </li>
     <li>
-     Sammanfatta
+ Sammanfatta
     </li>
     <li>
-     Smarta markörer
+ Smarta markörer
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     Python via Java
    </small>
@@ -105,7 +104,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells för Python via Java är tillgänglig för." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells for Python via Java finns för." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Runtime Environment
+ Python Runtime Environment
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     Python via Java
    </small>
@@ -152,30 +151,30 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ingång/utgång
+ Ingång/utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Webb:
+ Webb:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Fast layout:
+ Fast layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,7 +213,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     Python via Java
    </small>
@@ -235,7 +234,7 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade Python Excel API-funktioner
+Avancerade Python Excel API funktioner
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs Excel-kalkylblad
+ Läs Excel-kalkylblad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rendera kalkylblad till PDF, EMF och bilder
+ Återge kalkylark till PDF, EMF och bilder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Justera kalkylblad i arbetsböcker
+ Justera kalkylblad i arbetsböcker
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skydda/avskydda kalkylblad
+ Skydda/avskydda kalkylblad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till bilder och skapa diagram
+ Lägg till bilder och skapa diagram
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa pivottabeller och pivotdiagram
+ Skapa pivottabeller och pivotdiagram
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till och redigera kommentarer på cellnivå
+ Lägg till och redigera kommentarer på cellnivå
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sök och ersätt data
+ Sök och ersätt data
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dela och slå ihop celler
+ Dela och slå ihop celler
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till eller ta bort gruppering i rader och kolumner
+ Lägg till eller ta bort gruppering i rader och kolumner
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in sifferformatering
+ Ställ in sifferformatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs och ställ in formler
+ Läs och ställ in formler
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurera sidinställningar
+ Konfigurera sidinställningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Justera sidorientering, skalning, pappersstorlek
+ Justera sidorientering, skalning, pappersstorlek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs &amp; skriva villkorlig formatering
+ Läs &amp; skriva villkorlig formatering
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python kalkylarksbibliotek för att skapa läs-skriv- och tolka Exc
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertering av flera format
+ Konvertering av flera format
     </h2>
     <p>
-     Python Excel-biblioteket tillhandahåller konvertering av Excel-filer till PDF, XPS &amp; HTML-format. Den pålitliga konverteringen av API gör det till en perfekt lösning för företag som behöver utbyta filer i branschstandardformat.
+ Python Excel-bibliotek ger konvertering av Excel-filer till PDF, XPS &amp; HTML format. Den pålitliga konverteringen av API gör det till en perfekt lösning för företag som behöver utbyta filer i industristandardformat.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spara kalkylark i olika format - Java
+ Spara kalkylblad i olika format - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibla visningsalternativ
+ Flexibla visningsalternativ
     </h2>
     <p>
-     Aspose.Cells för Python via Java ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranska sidbrytningar, ställa in zoomnivå, ställa in sidorientering, styra datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; ; sidfötter och utskriftsområde.
+Aspose.Cells for Python via Java ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranskning av sidbrytningar, ställ in zoomnivå, ställ in sidorientering, styr datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; sidfötter och utskriftsområde.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel Sheets Datahantering
+ Excel Sheets Datahantering
     </h2>
     <p>
-     Aspose.Cells för Python via Java API ger omfattande stöd för hantering av kalkylbladsdata. Man kan enkelt manipulera vilken cell som helst i kalkylbladet vid körning eller importera data till kalkylbladen från olika datakällor.
+ Aspose.Cells for Python via Java API ger omfattande stöd för hantering av kalkylbladsdata. Man kan enkelt manipulera vilken cell som helst i kalkylbladet vid körning eller importera data till kalkylbladen från olika datakällor.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Anpassning av diagram
+ Anpassning av diagram
     </h2>
     <p>
-     Aspose.Cells för Python via Java ger fullständigt stöd för diagram. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.
+ Aspose.Cells for Python via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.
     </p>
    </div>
    <!--
@@ -519,26 +517,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenser" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenser" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells for Python via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

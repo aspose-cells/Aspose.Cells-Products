@@ -1,8 +1,7 @@
 ---
-title: Ajouter une annotation ODS via C++ 
+title:  Ajouter ODS Annotation via C++
 weight: 8840
-
-description: C++ exemple de code pour supprimer les annotations au format ODS sur C++ l'environnement d'exécution pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+description: Exemple de code C++ pour supprimer les annotations au format ODS sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ajouter une annotation dans le fichier ODS via C++" h2="Créez vos propres applications C++ pour manipuler les commentaires et les auteurs dans les fichiers de documents à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -12,9 +11,9 @@ description: C++ exemple de code pour supprimer les annotations au format ODS su
 
 {{% blocks/products/pf/agp/content h2="Comment annoter un fichier ODS à l\'aide de C++" %}}
 
-Afin d'annoter le fichier ODS, nous utiliserons
- [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp) 
- API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
+Pour annoter le fichier ODS, nous utiliserons
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API for C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells.cpp) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells.Cpp** 
@@ -25,7 +24,6 @@ Afin d'annoter le fichier ODS, nous utiliserons
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -41,18 +39,25 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Chargez le fichier ODS Excel à l'aide de l'objet de classe IWorkbook.1. Sélectionnez la feuille appropriée1. Ajouter le commentaire à l'aide de la méthode Add1. Définissez la note du commentaire à l'aide de la méthode SetNote.1. Enregistrez le classeur à l'aide de [Sauver](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
+1.  Chargez le fichier Excel ODS à l'aide de l'objet de classe IWorkbook.
+1.  Sélectionnez la feuille appropriée
+1.  Ajouter le commentaire à l'aide de la méthode Add
+1.  Définissez la note du commentaire à l'aide de la méthode SetNote.
+1.  Enregistrez le classeur à l'aide de[Sauvegarder](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells pour C++ est pris en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.- Aspose.Cells pour C++ DLL référencée dans votre projet.
+-  Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+-  Ajoutez une référence à la DLL Aspose.Cells for C++ dans votre projet.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ajouter des commentaires dans ODS - C++" offSpacer="" %}}
@@ -68,9 +73,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Environ Aspose.Cells pour C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -78,14 +83,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ajouter / supprimer des annotations d\'ODS via l\'application en ligne" sectionDescription="Supprimez les annotations de documents ODS dès maintenant en visitant notre [Site Web de démos en direct](https://products.aspose.app/cells/annotation). La démo en direct présente les avantages suivants" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Ajouter / supprimer une annotation de ODS via l\'application en ligne" sectionDescription=" Supprimez les annotations de document ODS dès maintenant en visitant notre[Site Web de démos en direct](https://products.aspose.app/cells/annotation). La démo en direct présente les avantages suivants" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier ODS et cliquez sur le bouton \"Supprimer\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Les fichiers avec l'extension ODS représentent le format de document de feuille de calcul OpenDocument modifiable par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et en colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sous Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour l'édition et la manipulation, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuille de calcul, tels que XLS, XLSX et autres, par différentes applications.
+Les fichiers avec l'extension ODS représentent le format de document de feuille de calcul OpenDocument modifiable par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et en colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour l'édition et la manipulation, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis en d'autres formats de feuille de calcul, ainsi que XLS, XLSX et d'autres par différentes applications.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

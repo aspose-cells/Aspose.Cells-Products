@@ -1,8 +1,7 @@
 ---
-title: Confronta fogli di calcolo Excel su Windows, Linux e macOS 
+title:  Confronta i fogli di calcolo Excel su Windows, Linux e macOS
 weight: 7730
-
-description: App e API gratuite per il confronto di file Excel XLS, XLSX, CSV, TSV, ODS, SXC e FODS
+description: App gratuita e API per Excel XLS, XLSX, CSV, TSV, ODS, SXC e FODS confronto file
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

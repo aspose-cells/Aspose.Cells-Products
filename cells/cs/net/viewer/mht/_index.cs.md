@@ -1,7 +1,6 @@
 ---
-title: Zobrazit formáty souborů MHT prostřednictvím .NET 
-
-description: C# zdrojový kód k načtení, vykreslení a zobrazení dokumentů MHT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
+title:  Zobrazit formáty souborů MHT via .NET
+description: C# zdrojový kód pro načtení, vykreslení a zobrazení dokumentů MHT na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Prohlížeč souborů MHT for .NET" h2="Prohlížejte si tabulky Excelu a OpenOffice, jako je MHT, aniž byste potřebovali Microsoft Excel nebo Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -11,14 +10,13 @@ description: C# zdrojový kód k načtení, vykreslení a zobrazení dokumentů 
 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit soubor MHT pomocí C#" %}}
 
-K zobrazení souboru MHT použijeme <a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API, což je funkčně bohatá, výkonná a snadno použitelná platforma API pro C#, kterou lze použít s jakýmkoli prohlížečem. OTEVŘENO <a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte <b>Aspose.Cells</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ K zobrazení souboru MHT použijeme<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API, což je funkčně bohatá, výkonná a snadno použitelná platforma API pro C#, kterou lze použít s jakýmkoli prohlížečem. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte<b>Aspose.Cells</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -36,7 +34,11 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte soubor MHT v instanci sešitu1. Vytvořte instanci HtmlSaveOptions a nastavte vlastnost ExportHeadings na true1. Uložte soubor MHT ve formátu HTML pomocí metody Workbook.Save1. Načtěte výsledný HTML ve výchozím prohlížeči pomocí Process.Start
+1. Načtěte soubor MHT v instanci sešitu
+1. Vytvořte instanci HtmlSaveOptions a nastavte vlastnost ExportHeadings na true
+1. Uložte soubor MHT ve formátu HTML pomocí metody Workbook.Save
+1. Načtěte výsledný HTML ve výchozím prohlížeči pomocí Process.Start
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -44,31 +46,33 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET je podporováno ve všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
+ Aspose.Cells for .NET je podporován na všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Cells for .NET odkazované ve vašem projektu
+-  Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin
+-  Vývojové prostředí jako Microsoft Visual Studio
+-  Přidejte odkaz na Aspose.Cells for .NET DLL ve vašem projektu
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# ukázkový kód pro zobrazení souboru MHT" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# příklad kódu pro zobrazení souboru MHT" offSpacer="" %}}
 
 ```cs
 
 
 string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
 
-// načíst soubor MHT v instanci sešitu
+// load the MHT file in an instance of Workbook
 var book = new Aspose.Cells.Workbook("template.mht");
-// vytvořte instanci HtmlSaveOptions a nastavte vlastnost ExportHeadings na true
+// create an instance of HtmlSaveOptions & set ExportHeadings property to true
 var options = new Aspose.Cells.HtmlSaveOptions();
 options.ExportHeadings = true;
 
-// uložte soubor MHT ve formátu HTML
+// save the MHT file in HTML format
 book.Save(output, options);
-// načíst výsledný HTML ve výchozím prohlížeči
+// load resultant HTML in default browser
 System.Diagnostics.Process.Start(output);
-
 
 ```
 
@@ -83,7 +87,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.    
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -91,14 +95,14 @@ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslován
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení MHT" sectionDescription="Podívejte se na naše živé ukázky [Zobrazit MHT](https://products.aspose.app/cells/viewer/mht) s následujícími výhodami." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro zobrazení MHT" sectionDescription=" Podívejte se na naše živé ukázky[Zobrazit MHT](https://products.aspose.app/cells/viewer/mht) s následujícími výhodami." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor MHT a stisknout tlačítko \"Zobrazit\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" V případě potřeby stáhněte soubor MHT z odkazu" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data, jako je text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožňují převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.
+Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data jako text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožní převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

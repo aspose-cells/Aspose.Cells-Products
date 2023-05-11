@@ -1,8 +1,7 @@
 ---
-title: Déverrouiller le document XLSB via C++ 
+title:  Déverrouiller le document XLSB via C++
 weight: 7420
-
-description: C++ Exemple de code pour déverrouiller le fichier XLSB protégé par mot de passe sur C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+description: C++ exemple de code pour déverrouiller le fichier XLSB protégé par mot de passe sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Déverrouiller les fichiers XLSB via C++" h2="Supprimez la protection des feuilles de calcul Excel, y compris le fichier XLSB à l\'aide de la bibliothèque C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,8 +12,8 @@ description: C++ Exemple de code pour déverrouiller le fichier XLSB protégé p
 {{% blocks/products/pf/agp/content h2="Comment supprimer la protection du fichier XLSB à l\'aide de C++" %}}
 
  Afin de déverrouiller le fichier XLSB, nous utiliserons
- [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp) 
- API qui est une plate-forme de protection de documents riche en fonctionnalités, puissante et facile à utiliser API pour C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API qui est une plate-forme de protection de documents API for C++ riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells.Cpp** 
@@ -25,7 +24,6 @@ description: C++ Exemple de code pour déverrouiller le fichier XLSB protégé p
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -45,42 +43,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Chargez le fichier verrouillé XLSB à l'aide de CreateIWorkbook.1. Appelez la fonction Unprotect() pour déverrouiller.1. Définissez le mot de passe sur NULL à l'aide de SetPassword.1. Enregistrez le fichier XLSB à un emplacement spécifié.
+1.  Chargez le fichier verrouillé XLSB à l'aide de CreateIWorkbook.
+1.  Appelez la fonction Unprotect() pour déverrouiller.
+1.  Définissez le mot de passe sur NULL à l'aide de SetPassword.
+1.  Enregistrez le fichier XLSB à un emplacement spécifié.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells pour C++ est pris en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.- Aspose.Cells pour C++ DLL référencée dans votre projet.
+-  Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+-  Ajoutez une référence à la DLL Aspose.Cells for C++ dans votre projet.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Commande" offSpacer="" %}}
 
 ```cs
 
-// Chemin du répertoire source.
+// Source directory path.
 StringPtr srcDir = new String("SourceDirectory\\");
 
-// Chemin du répertoire de sortie.
+// Output directory path.
 StringPtr outDir = new String("OutputDirectory\\");
 
-// Charger le fichier XLSB
+// Load XLSB file
 intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsb")));
 
-// Déprotéger le classeur
+// Unprotect workbook
 workbook->Unprotect(new String("12345"));
 
-// Définir le mot de passe sur null
+// Set password to null
 workbook->GetISettings()->SetPassword(NULL);
 
-// Enregistrez le fichier XLSB
+// Save the XLSB file
 workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsb")));
-
 
 ```
 
@@ -93,9 +96,9 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Environ Aspose.Cells pour C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -103,14 +106,14 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour débloquer XLSB" sectionDescription="Consultez nos démos en direct pour [déverrouiller les fichiers XLSB](https://products.aspose.app/cells/unlock/xlsb) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour déverrouiller XLSB" sectionDescription=" Consultez nos démos en direct pour[déverrouiller les fichiers XLSB](https://products.aspose.app/cells/unlock/xlsb) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement le fichier XLSB et appuyez sur le bouton \"Déverrouiller\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier XLSB résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est une collection d'enregistrements et de structures qui spécifient le contenu du classeur Excel. Le contenu peut inclure des tableaux de nombres non structurés ou semi-structurés, du texte, ou à la fois des nombres et du texte, des formules, des connexions de données externes, des graphiques et des images. Contrairement à XLSX (qui est basé sur le format de fichier Open XML), le XLSB représente un fichier de classeur Excel binaire. Les fichiers XLSB peuvent être lus et écrits plus rapidement, ce qui les rend utiles pour travailler avec des fichiers volumineux. XLSB est rarement utilisé pour stocker des classeurs, car XLSX (et auparavant XLS) sont les formats de fichier sélectionnés par l'utilisateur les plus courants pour enregistrer des classeurs. Il peut être ouvert par Microsoft Office 2007 et supérieur.
+Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est une collection d'enregistrements et de structures qui spécifient le contenu du classeur Excel. Le contenu peut inclure des tableaux de nombres non structurés ou semi-structurés, du texte, ou à la fois des nombres et du texte, des formules, des connexions de données externes, des graphiques et des images. Contrairement à XLSX (qui est basé sur le format de fichier Open XML), le XLSB représente un fichier de classeur Excel binaire. Les fichiers XLSB peuvent être lus et écrits plus rapidement, ce qui les rend utiles pour travailler avec des fichiers volumineux. XLSB est rarement utilisé pour stocker des classeurs, car XLSX (et précédemment XLS) sont les formats de fichier sélectionnés par l'utilisateur les plus courants pour enregistrer des classeurs. Il peut être ouvert par Microsoft Office 2007 et supérieur.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -118,9 +121,9 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Autres formats de déverrouillage pris en charge" subTitle="En utilisant C++, on peut facilement supprimer la protection/déverrouillage de différents formats, y compris." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Autres formats de déverrouillage pris en charge" subTitle="En utilisant C++, on peut facilement supprimer la protection / déverrouillage de différents formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="SAO" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}

@@ -1,17 +1,16 @@
 ---
-title: "Excel-fájlok létrehozása a következőn keresztül: Java"
-
-description: Hozzon létre Microsoft Excel-táblázatokat egy sablonlapból a Java táblázattár segítségével
+title: Hozzon létre Excel-fájlokat via Java
+description: Generáljon Microsoft Excel-táblázatokat sablonlapból a Java táblázatkezelő segítségével
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-sablon alapú jelentések létrehozása a következőn keresztül: Java" h2="Hozzon létre tömeges Excel-fájljelentéseket egy előre meghatározott sablon alapján a Java alapú alkalmazásokban." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-sablon alapú jelentések létrehozása via Java" h2="Tömeges Excel-fájljelentéseket készíthet egy előre meghatározott sablon alapján a Java alapú alkalmazásokon belül." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel-könyvtár](/cells/java/) támogatja a sablon alapú Excel-fájlok generálását a tömeges jelentéskészítéshez. A legtöbb esetben szükség van rá, például díjkiírások, eredménykártyák és betegnyilvántartások létrehozására stb. A sablonok előre meghatározott minták. A(z) Java alatti kód a tömeges Excel fájlokat állítja elő, ugyanúgy, mint az adatokkal feltöltött sablondokumentum. A támogatott fájlformátumok közé tartozik az XLS, XLSX, XLSB, XLSM, ODS.
+[Java Excel Library](/cells/hu/java/)támogatja a sablon alapú Excel-fájlok generálását a tömeges jelentéskészítéshez. A legtöbb esetben szükség van rá, például díjkiírások, eredménykártyák és betegnyilvántartások létrehozására stb. A sablonok előre meghatározott minták. A Java kód alatt a tömeges excel fájlokat generálja, ugyanúgy, mint az adatokkal feltöltött sablon dokumentumot. A támogatott fájlformátumok: XLS, XLSX, XLSB, XLSM, ODS.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Készítsen jelentéseket előre megtervezett Excel-sablonok alapján" %}}
+{{% blocks/products/pf/feature-page-section h2="Készítsen jelentéseket előre megtervezett Excel-sablon alapján" %}}
 
-Az JavaAssemblyAPI használatával a fejlesztők egyszerűen programozhatják a tömeges jelentéskészítési kódot az alábbi kódrészletek hozzáadásával. API biztosítja [adatok importálása](https://docs.aspose.com/cells/java/import-and-export-data/) funkciót különböző forrásokból, és az adatoktól függően készítsen Excel-dokumentumokat. Sablon alapú minták esetén a API a [Munkafüzet Tervező osztály](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) tervezői munkalap ábrázolására. A folyamat az, hogy hozza létre az objektumát, és használja a sablonfájl megnyitásához. Állítsa be az adatforrást, amely lehet Array, DataTable, Json stb. Az adatok importálásához dolgozza fel, és mentse a fájlt a kívánt formátumban. A programozók összeállíthatják az adatokat jelentésekké más fájlformátumokban, beleértve az XLS, XLSX, XLSB, XLSM, ODS formátumokat, az alábbi hivatkozások szerint.
+ A Java Assembly API használatával a fejlesztők egyszerűen programozhatják a tömeges jelentéskészítési kódot az alábbi kódrészletek hozzáadásával. API rendelkezik[adatok importálása](https://docs.aspose.com/cells/java/import-and-export-data/) funkciót különböző forrásokból, és az adatoktól függően készítsen Excel-dokumentumokat. Sablon alapú minták esetén a API a[Munkafüzet Tervező osztály](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner)tervezői munkalapot ábrázolni. A folyamat az, hogy hozza létre az objektumát, és használja a sablonfájl megnyitásához. Állítsa be az adatforrást, amely lehet Array, DataTable, Json stb. Az adatok importálásához dolgozza fel, és mentse a fájlt a kívánt formátumban. A programozók más fájlformátumokban is összeállíthatják az adatokat jelentésekké, beleértve a XLS, XLSX, XLSB, XLSM, XLSM, ODS számokat az alábbi hivatkozások szerint.
 
 
 

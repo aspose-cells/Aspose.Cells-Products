@@ -1,11 +1,10 @@
 ---
-title: Rozhraní API Node.js pro tabulky Excel – Aspose 
+title:  Node.js API pro tabulky Excel – Aspose
 weight: 3120
-
-description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.js. Čtení zápisu vykreslování a převod XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV a dalších formátů přes Node.js na Windows, MacOS a Linux
+description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.js. Číst zápis vykreslování a převod XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV a další formáty prostřednictvím macOS & 481 Linux na Node.js 07681
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní Node.js Excel File Format API" h2="Vytvářejte, upravujte, převádějte a vykreslujte excelové tabulky pomocí Node.js bez nutnosti aplikace Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní Node.js Excel File Format API" h2="Vytvářejte, upravujte, převádějte a vykreslujte tabulky Excel pomocí Node.js, aniž byste potřebovali Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +12,11 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro Node.js prostřednictvím Java je funkčně bohatý a škálovatelný API pro zpracování tabulek Excel pomocí Node.js. API nabízí převod formátu souboru aplikace Excel, stylování listů na nejpodrobnější úroveň, vytváření grafů &amp; vykreslování, spolehlivý motor pro výpočet vzorců a mnoho dalšího.
+ Aspose.Cells for Node.js via Java je funkčně bohatý a škálovatelný API pro zpracování tabulek Excelu pomocí Node.js. API nabízí převod formátu souboru aplikace Excel, stylování listů na nejpodrobnější úroveň, vytváření grafů &amp; vykreslování, spolehlivý motor pro výpočet vzorců a mnoho dalšího.
 </p>
 
 <p>
- Aspose.Cells pro Node.js prostřednictvím Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells pro Node.js prostřednictvím možností Java." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled schopností Aspose.Cells for Node.js via Java." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Vykreslování
+ Vykreslování
    </header>
    <ul>
     <li>
-     Převést graf na obrázek
+ Převést graf na obrázek
     </li>
     <li>
-     Převést pracovní list na obrázek
+ Převést pracovní list na obrázek
     </li>
     <li>
-     Převést tabulku do PDF
+Převést tabulku na PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
    <header>
     <i class="fa fa-cogs">
     </i>
-    Zpracování dat
+ Zpracování dat
    </header>
    <ul>
     <li>
-     Grafy
+ Grafy
     </li>
     <li>
-     Výpočet vzorce
+ Výpočet vzorce
     </li>
     <li>
-     Chytré značky
+ Chytré značky
     </li>
     <li>
-     Kontingenční tabulky
+ Kontingenční tabulky
     </li>
     <li>
-     Podmíněné formátování
+ Podmíněné formátování
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Node.js prostřednictvím Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro Node.js prostřednictvím Java je JavaScript na straně serveru API založený na Node.js. Může běžet na platformách Windows, Unix/Linux a Mac s JDK 1.7 nebo vyšší." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for Node.js via Java je JavaScript API na straně serveru založený na Node.js. Může běžet na platformách Windows, Unix/Linux a Mac s JDK 1.7 nebo vyšší." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Běhové prostředí
+ Java Runtime Environment
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Node.js prostřednictvím Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells pro Node.js prostřednictvím Java podporuje oblíbené formáty souborů tabulkových procesorů spolu s nejběžněji používanými formáty obrázků a formátů s pevným rozvržením." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells for Node.js via Java podporuje oblíbené formáty tabulkových souborů spolu s nejběžněji používanými formáty obrázků a formátů s pevným rozvržením." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup výstup
+ Vstup výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, oddělený tabulátory, TXT
+ CSV, odděleno tabulátory, TXT
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Snímky:
+ Snímky:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Node.js prostřednictvím Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce tabulky Excel Node.js API
+ Rozšířené funkce tabulky Excel Node.js API
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářejte kontingenční tabulky, grafy, křivky &amp; podmíněné formátování
+ Vytvářejte kontingenční tabulky, grafy, křivky &amp; podmíněné formátování
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obnovit existující grafy &amp; převést grafy na obrázky nebo PDF
+ Obnovit existující grafy &amp; převést grafy na obrázky nebo PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
+ Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavit složité vzorce &amp; vypočítat výsledky prostřednictvím API
+ Nastavit složité vzorce &amp; vypočítat výsledky přes API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavte ochranu sešitu, listu, buňky, sloupce nebo řádku
+ Nastavte ochranu sešitu, listu, buňky, sloupce nebo řádku
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s pojmenovanými rozsahy
+ Vytvořit &amp; manipulovat s pojmenovanými rozsahy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vyplňte listy pomocí inteligentních značek
+ Vyplňte listy pomocí inteligentních značek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulujte a obnovujte kontingenční tabulky prostřednictvím API
+Manipulujte a obnovujte kontingenční tabulky prostřednictvím čísla API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Převeďte pracovní listy do PDF, XPS &amp; SVG formáty
+ Převeďte pracovní listy na PDF, XPS &amp; SVG formáty
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vykreslování Excelových tabulek
+ Vykreslování Excelových tabulek
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java používá svůj vykreslovací modul pro vykreslování do aplikace Microsoft Excel s nejvyšší přesností. Při používání knihovny Excel Processing Node.js lze převádět celé listy, jednotlivé soubory nebo grafy na více obrázků a formátů s pevným rozvržením.
+ Aspose.Cells for Node.js via Java používá svůj vykreslovací modul pro vykreslování do Excelu Microsoft s nejvyšší věrností. Při používání knihovny Excel Processing Node.js lze převádět celé listy, jednotlivé soubory nebo grafy na více obrázků a formátů s pevným rozvržením.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibilní možnosti zobrazení
+ Flexibilní možnosti zobrazení
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
+ Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Možnosti zabezpečení
+ Možnosti zabezpečení
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java nabízí širokou škálu funkcí zabezpečení včetně šifrování/dešifrování tabulek, obsahu, objektů &amp; ochranu scénáře a také možnost skrýt a znovu zobrazit řádky, sloupce &amp; pracovní listy.
+Aspose.Cells for Node.js via Java nabízí širokou škálu bezpečnostních funkcí, včetně šifrování/dešifrování tabulkového procesoru, obsahu, objektů &amp; ochranu scénáře a také možnost skrýt a znovu zobrazit řádky, sloupce &amp; pracovní listy.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipulovat řádky &amp; Sloupce
+ Manipulovat řádky &amp; Sloupce
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java vám umožňuje manipulovat s řádky a sloupci mnoha různými způsoby. Můžete snadno upravit výšku řádku &amp; šířka sloupce, automatická velikost buněk podle obsahu, vložení &amp; smazat, skrýt &amp; un-hide a group &amp; zrušit seskupení řádků &amp; sloupců.
+ Aspose.Cells for Node.js via Java umožňuje manipulovat s řádky a sloupci mnoha různými způsoby. Můžete snadno upravit výšku řádku &amp; šířka sloupce, automatická velikost buněk podle obsahu, vložení &amp; smazat, skrýt &amp; un-hide a group &amp; zrušit seskupení řádků &amp; sloupců.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Komplexní podpora pro formátování pracovních listů
+ Komplexní podpora pro formátování pracovních listů
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java poskytuje pokročilé funkce formátování, které vám umožňují řídit prezentaci vašich dat. Můžete použít formátování na list, sloupec, řádek nebo buňku nebo přidat formátovaný text do jedné buňky, použít ohraničení, nastavit vzory pozadí a styl písma. API také umožňuje přidávat, manipulovat &amp; vypočítat pravidla podmíněného formátování za běhu.
+Aspose.Cells for Node.js via Java poskytuje pokročilé funkce formátování, které vám umožní řídit prezentaci vašich dat. Můžete použít formátování na list, sloupec, řádek nebo buňku nebo přidat formátovaný text do jedné buňky, použít ohraničení, nastavit vzory pozadí a styl písma. Číslo API také umožňuje přidávat, manipulovat &amp; vypočítat pravidla podmíněného formátování za běhu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tvorba grafů, manipulace &amp; Vykreslování
+ Tvorba grafů, manipulace &amp; Vykreslování
     </h2>
     <p>
-     Aspose.Cells pro Node.js prostřednictvím Java poskytuje plnou podporu pro vytváření grafů. Pomocí API lze snadno přidávat přizpůsobené nebo standardní grafy a dynamicky nastavovat data, aby se grafy obnovovaly.
+ Aspose.Cells for Node.js via Java poskytuje plnou podporu pro vytváření grafů. Pomocí čísla API lze snadno přidávat přizpůsobené nebo standardní grafy a dynamicky nastavovat data, aby se grafy obnovovaly.
     </p>
    </div>
   </div>
@@ -380,12 +379,12 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro Node.js prostřednictvím Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -394,7 +393,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

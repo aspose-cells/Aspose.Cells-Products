@@ -1,7 +1,6 @@
 ---
-title: Generar informes en archivos XLSX a través de .NET 
+title:  Generar Reportes en XLSX Archivos via .NET
 weight: 6740
-
 description: C# código fuente para generar informes en formato XLSX en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -14,7 +13,7 @@ description: C# código fuente para generar informes en formato XLSX en .NET Fra
 
  Para crear informes XLSX, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una generación de informes rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
+ API, que es una generación de informes API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  **Aspose.Cells** 
@@ -26,7 +25,6 @@ description: C# código fuente para generar informes en formato XLSX en .NET Fra
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,13 +33,18 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para ensamblar XLSX a través de C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para ensamblar XLSX vía C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instanciar la clase WorkbookDesigner1. Establecer un marcador en cualquiera de las celdas de cualquier hoja de trabajo1. Establecer fuente de datos para el objeto WorkbookDesigner1. Llame al método WorkbookDesigner.Process para completar la plantilla con datos1. Guarde el resultado en formato XLSX a través del método WorkbookDesigner.Worbook.Save
+1.  Instanciar la clase WorkbookDesigner
+1.  Establecer un marcador en cualquiera de las celdas de cualquier hoja de trabajo
+1.  Establecer fuente de datos para el objeto WorkbookDesigner
+1.  Llame al método WorkbookDesigner.Process para completar la plantilla con datos
+1. Guarde el resultado en formato XLSX a través del método WorkbookDesigner.Worbook.Save
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
@@ -52,10 +55,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Cells for .NET referenciado en su proyecto
+-  Microsoft Windows o un SO compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Entorno de desarrollo como Microsoft Visual Studio
+-  Agregue una referencia a la DLL Aspose.Cells for .NET en su proyecto
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generar informes XLSX" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generar XLSX Informes" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "fa164df8378019787d572a59f5d110d8" "generate-xlsx-reports.cs" >}}
 
@@ -68,9 +74,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar formatos de Microsoft Excel en diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.  
+ Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
 
@@ -78,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para ensamblar XLSX" sectionDescription="Consulte nuestras demostraciones en vivo para [crear archivos XLSX](https://products.aspose.app/cells/assembly/xlsx) con los siguientes beneficios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App Gratis para Armar XLSX" sectionDescription=" Consulte nuestras demostraciones en vivo para[crear XLSX archivos](https://products.aspose.app/cells/assembly/xlsx) con los siguientes beneficios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir o compilar código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue el archivo XLSX y presione el botón \"Ensamblar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Descargue el archivo XLSX resultante desde el enlace" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX es un formato muy conocido para documentos de Microsoft Excel que introdujo Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
+XLSX es un formato conocido para documentos de Excel Microsoft que fue introducido por Microsoft con el lanzamiento de Microsoft Office 2007. Basado en una estructura organizada de acuerdo con las Convenciones de Empaquetado Abierto como se describe en la Parte 2 del estándar OOXML ECMA-376, el nuevo formato es un paquete zip que contiene varios archivos XML. La estructura subyacente y los archivos se pueden examinar simplemente descomprimiendo el archivo .xlsx.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,7 +101,7 @@ XLSX es un formato muy conocido para documentos de Microsoft Excel que introdujo
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de generación de informes admitidos" subTitle="Usando C#, uno puede generar fácilmente informes de múltiples formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="SAO" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}

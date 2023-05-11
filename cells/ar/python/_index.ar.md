@@ -1,19 +1,18 @@
 ---
-title: Python جدول بيانات Excel API - Aspose 
+title:  جدول بيانات إكسل Python API-Aspose
 weight: 2820
-
-description: Python مكتبة جداول البيانات لإنشاء ملفات Excel للقراءة والكتابة وتحليلها.
+description: Python مكتبة جداول البيانات لتكوين قراءة وكتابة وتحليل ملفات Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python جداول بيانات Excel لتحليل واجهات برمجة التطبيقات" h2="قم بإنشاء جداول البيانات أو قراءتها أو كتابتها أو معالجتها بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة داخل تطبيقات Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python جداول بيانات Excel تحليل واجهات برمجة التطبيقات" h2="قم بإنشاء جداول البيانات أو قراءتها أو كتابتها أو معالجتها بالإضافة إلى تصدير ملفات Excel إلى تنسيقات متعددة داخل تطبيقات Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells لـ Python هو API سريع وموثوق لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة ، ومعالجة واستخراج المعلومات من ملفات Excel. API يقرأ العديد من تنسيقات Excel ويمكنه عرض أوراق العمل على XPS و PDF و MHTML و HTML والنص العادي والصور والمزيد. إنه أفضل حل لأتمتة تقارير Excel باستخدام Python.
+ Aspose.Cells for Python هو API سريع وموثوق به لمهام معالجة جداول البيانات. يمكن للمطورين إنشاء جداول بيانات بسيطة أو معقدة ، ومعالجة واستخراج المعلومات من ملفات Excel. يقرأ API تنسيقات Excel متعددة ويمكنه تقديم أوراق العمل إلى XPS و PDF و MHTML و HTML والنص العادي والصور والمزيد. إنه أفضل حل لأتمتة تقارير Excel باستخدام Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
    <header>
     <i class="fa fa-refresh">
     </i>
-    استيراد & أمبير ؛ يصدّر
+ استيراد & أمبير ؛ يصدّر
    </header>
    <ul>
     <li>
-     المصفوفات
+ المصفوفات
     </li>
     <li>
-     مجموعة النتائج
+ مجموعة النتائج
     </li>
     <li>
-     المجموعات
+المجموعات
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    استدعاء
+ استدعاء
    </header>
    <ul>
     <li>
-     الرسم البياني للصورة
+ الرسم البياني للصورة
     </li>
     <li>
-     ورقة العمل على الصورة
+ ورقة العمل على الصورة
     </li>
     <li>
-     جدول البيانات إلى PDF
+ جدول بيانات إلى PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
    <header>
     <i class="fa fa-table">
     </i>
-    معالجة البيانات
+ معالجة البيانات
    </header>
    <ul>
     <li>
-     تطبيق التنسيق
+ تطبيق التنسيق
     </li>
     <li>
-     تطبيق الصيغة
+ تطبيق الصيغة
     </li>
     <li>
-     إنشاء الرسوم البيانية
+ إنشاء الرسوم البيانية
     </li>
     <li>
-     لخص
+ لخص
     </li>
     <li>
-     علامات ذكية
+ علامات ذكية
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
     Python
    </small>
@@ -105,7 +104,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells لـ Python متاح لـ." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for Python متاح ل." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python بيئة وقت التشغيل
+ Python بيئة وقت التشغيل
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
     Python
    </small>
@@ -145,39 +144,39 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Python تدعم مكتبة Excel تنسيقات Microsoft Excel الشائعة وتنسيقات التخطيط الثابت والصور." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="تدعم مكتبة إكسل Python تنسيقات إكسل Microsoft الشائعة وتنسيقات التخطيط الثابت والصور." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    الإدخال / الإخراج
+ الإدخال / الإخراج
    </header>
    <ul>
     <li>
      <b>
-      مايكروسوفت اكسل:
+ Microsoft إكسل:
      </b>
-     XLS و XLSX و XLSB و XLTX و XLTM و XLSM و XML
+ XLS ، XLSX ، XLSB ، XLTX ، XLTM ، XLSM ، XML
     </li>
     <li>
      <b>
-      مكتب مفتوح:
+ مكتب مفتوح:
      </b>
-     المواد المستنفدة للأوزون
+     ODS
     </li>
     <li>
      <b>
-      نص:
+ نص:
      </b>
-     CSV، TSV، TXT
+     CSV, TSV, TXT
     </li>
     <li>
      <b>
-      الويب:
+ الويب:
      </b>
-     HTML ، MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -186,20 +185,20 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    الإخراج فقط
+ الإخراج فقط
    </header>
    <ul>
     <li>
      <b>
-      التخطيط الثابت:
+ التخطيط الثابت:
      </b>
-     PDF ، PDF / A ، XPS
+ PDF، PDF / A، XPS
     </li>
     <li>
      <b>
-      الصور:
+ الصور:
      </b>
-     JPEG و PNG و BMP و SVG و EMF
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,7 +213,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
     Python
    </small>
@@ -235,7 +234,7 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    ميزات Python Excel API المتقدمة
+الميزات المتقدمة Python Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     قراءة جداول بيانات Excel
+ قراءة جداول بيانات Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تقديم جداول البيانات إلى PDF و EMF والصور
+ تقديم جداول البيانات إلى PDF و EMF والصور
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     اضبط أوراق العمل داخل المصنفات
+ اضبط أوراق العمل داخل المصنفات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     حماية / إلغاء حماية أوراق العمل
+ حماية / عدم حماية أوراق العمل
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إضافة الصور وكذلك إنشاء الرسوم البيانية
+ إضافة الصور وكذلك إنشاء الرسوم البيانية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إنشاء جداول محورية ومخططات محورية
+ إنشاء جداول محورية ومخططات محورية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إضافة وتحرير التعليقات على مستوى الخلية
+ إضافة وتحرير التعليقات على مستوى الخلية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     بحث واستبدال البيانات
+ البحث عن البيانات واستبدالها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تقسيم الخلايا ودمجها
+ تقسيم الخلايا ودمجها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إضافة أو إزالة التجميع إلى الصفوف والأعمدة
+ إضافة أو إزالة التجميع إلى الصفوف والأعمدة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ضبط تنسيق الأرقام
+ ضبط تنسيق الأرقام
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     اقرأ الصيغ وعيّنها
+ اقرأ الصيغ وعيّنها
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تكوين إعداد الصفحة
+ تكوين إعداد الصفحة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ضبط اتجاه الصفحة ، والقياس ، وحجم الورق
+ ضبط اتجاه الصفحة ، والقياس ، وحجم الورق
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     قراءة & amp؛ كتابة تنسيق شرطي
+ قراءة & amp؛ كتابة تنسيق شرطي
     </p>
    </div>
    <!--
@@ -413,14 +412,14 @@ description: Python مكتبة جداول البيانات لإنشاء ملفا
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     تحويل صيغ متعددة
+ تحويل صيغ متعددة
     </h2>
     <p>
-     Python توفر مكتبة Excel إمكانية تحويل ملفات Excel إلى PDF و XPS & amp؛ تنسيقات HTML. إن التحويل الموثوق لـ API يجعله حلاً مثاليًا للشركات التي تتطلب تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
+ توفر مكتبة Excel Python تحويل ملفات Excel إلى PDF و XPS & amp؛ HTML تنسيقات. التحويل الموثوق به لـ API يجعله حلاً مثاليًا للشركات التي تتطلب تبادل الملفات بتنسيقات متوافقة مع معايير الصناعة.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      حفظ جدول البيانات بتنسيقات مختلفة - Java
+ حفظ جدول البيانات بتنسيقات مختلفة - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -459,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     خيارات عرض مرنة
+ خيارات عرض مرنة
     </h2>
     <p>
-     يوفر Aspose.Cells لـ Python تحكمًا كاملاً في إعداد الصفحة مما يسمح بمعالجة خيارات العرض المتعددة مثل معاينة فواصل الصفحات ، وتعيين مستوى التكبير ، وتعيين اتجاه الصفحة ، والتحكم في رؤية البيانات بأجزاء التجميد ، وحجم الورق ، والتحجيم ، والعناوين & amp؛ التذييلات ومنطقة الطباعة.
+يوفر Aspose.Cells for Python تحكمًا كاملاً في إعداد الصفحة مما يسمح بمعالجة خيارات العرض المتعددة مثل معاينة فواصل الصفحات ، وضبط مستوى التكبير ، وتعيين اتجاه الصفحة ، والتحكم في رؤية البيانات بأجزاء التجميد ، وحجم الورق ، والقياس ، والرؤوس ، وأمبير ؛ التذييلات ومنطقة الطباعة.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     إكسل لإدارة البيانات
+ إدارة بيانات أوراق Excel
     </h2>
     <p>
-     Aspose.Cells لـ Python API يوفر دعمًا شاملاً لإدارة بيانات ورقة العمل. يمكن للمرء بسهولة معالجة أي خلية في ورقة العمل في وقت التشغيل أو استيراد البيانات إلى أوراق العمل من مصادر البيانات المختلفة.
+ Aspose.Cells for Python API يوفر دعمًا شاملاً لإدارة بيانات ورقة العمل. يمكن للمرء بسهولة معالجة أي خلية في ورقة العمل في وقت التشغيل أو استيراد البيانات إلى أوراق العمل من مصادر البيانات المختلفة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     تخصيص الرسوم البيانية
+ تخصيص الرسوم البيانية
     </h2>
     <p>
-     Aspose.Cells لـ Python يوفر دعمًا كاملاً للتخطيط. يمكن للمرء بسهولة إضافة مخططات قياسية ومخصصة أو تعيين بيانات المخطط ديناميكيًا لتحديث المخطط vai مكتبة python.
+ Aspose.Cells for Python يوفر الدعم الكامل للمخططات. يمكن للمرء بسهولة إضافة مخططات قياسية ومخصصة أو تعيين بيانات المخطط ديناميكيًا لتحديث المخطط vai مكتبة python.
     </p>
    </div>
    <!--
@@ -519,26 +518,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API المراجع" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API المراجع" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells لـ Python؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for Python؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="تقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

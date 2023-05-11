@@ -1,8 +1,7 @@
 ---
-title: Экспорт отчетов RDL в Excel XLS XLSX и SpreadsheetML в SQL Server 
+title:  Экспорт отчетов RDL в Excel XLS XLSX и SpreadsheetML в SQL Server
 weight: 3460
-
-description: Модуль рендеринга SQL Server Reporting Services — экспорт в форматы Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS и TXT
+description: Модуль визуализации SQL Server Reporting Services — экспорт в форматы Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS и TXT
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Расширение служб Reporting Services для доставки отчетов в виде файлов Excel" h2="С легкостью экспортируйте отчеты RDL и RDLC в форматы электронных таблиц Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
@@ -13,7 +12,7 @@ description: Модуль рендеринга SQL Server Reporting Services —
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells для служб отчетов позволяет предоставлять отчеты Excel из служб отчетов Microsoft SQL Server и средства просмотра отчетов Microsoft. В отличие от встроенного экспортера для отчетов на основе Excel, Aspose.Cells для Reporting Services позволяет преобразовывать RDL &amp; RDLC создает отчеты в нескольких форматах файлов электронных таблиц Excel.
+ Aspose.Cells for Reporting Services позволяет доставлять отчеты Excel из Microsoft SQL Server Reporting Services и Microsoft средства просмотра отчетов. В отличие от собственного экспортера для отчетов на основе Excel - Aspose.Cells for Reporting Services позволяет преобразовывать RDL &amp; RDLC создает отчеты в нескольких форматах файлов электронных таблиц Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: Модуль рендеринга SQL Server Reporting Services —
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Cells для служб Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Cells for Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    Поддержка RDL
+ Поддержка RDL
    </header>
    <ul>
     <li>
-     Страница
+ Страница
     </li>
     <li>
-     Верхний/нижний колонтитул
+ Верхний/нижний колонтитул
     </li>
     <li>
-     Текстовые поля
+ Текстовые поля
     </li>
     <li>
-     Картинки
+ Изображений
     </li>
     <li>
-     Подотчеты
+ Подотчеты
     </li>
     <li>
-     Графики
+ Графики
     </li>
     <li>
-     Списки
+ Списки
     </li>
     <li>
-     Столы
+ Столы
     </li>
     <li>
-     Измерять
+ Измерять
     </li>
     <li>
-     Матрицы
+ Матрицы
     </li>
     <li>
-     Прямоугольники/линии
+ Прямоугольники/линии
     </li>
     <li>
-     Стили
+ Стили
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: Модуль рендеринга SQL Server Reporting Services —
    <header>
     <i class="fa fa-cogs">
     </i>
-    Обработка данных
+ Обработка данных
    </header>
    <ul>
     <li>
-     Формулы служб отчетов
+ Формулы служб отчетов
     </li>
     <li>
-     Динамические формулы
+ Динамические формулы
     </li>
     <li>
-     Таблицы со сгруппированными строками
+ Таблицы со сгруппированными строками
     </li>
     <li>
-     Таблицы со сгруппированным нижним колонтитулом
+ Таблицы со сгруппированным нижним колонтитулом
     </li>
     <li>
-     MS-запрос
+ MS-запрос
     </li>
     <li>
-     Сообщить о конкретном источнике данных
+ Сообщить о конкретном источнике данных
     </li>
     <li>
-     Общий источник данных
+ Общий источник данных
     </li>
     <li>
-     Шифрование
+ Шифрование
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    Дизайнер отчетов
+ Дизайнер отчетов
    </header>
    <ul>
     <li>
-     Сводные таблицы
+ Сводные таблицы
     </li>
     <li>
-     Интерактивные диаграммы
+ Интерактивные диаграммы
     </li>
     <li>
-     Формулы
+ Формулы
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: Модуль рендеринга SQL Server Reporting Services —
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Службы отчетности
+ Службы отчетности
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: Модуль рендеринга SQL Server Reporting Services —
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells для служб отчетов поддерживает службы отчетов Microsoft SQL Server." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells for Reporting Services поддерживает службы отчетов SQL Server Microsoft." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,14 +150,14 @@ description: Модуль рендеринга SQL Server Reporting Services —
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Службы отчетов SQL Server
+ Службы отчетов SQL Server
    </header>
    <ul>
     <li>
-     2005 г.
+     2005
     </li>
     <li>
-     2008 и 2008 Р2
+ 2008 и 2008 Р2
     </li>
     <li>
      2012
@@ -183,9 +182,9 @@ description: Модуль рендеринга SQL Server Reporting Services —
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Службы отчетности
+ Службы отчетности
    </small>
   </footer>
  </div>
@@ -194,21 +193,21 @@ description: Модуль рендеринга SQL Server Reporting Services —
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells для служб Reporting Services поддерживает часто используемые электронные таблицы [форматы файлов](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description=" Aspose.Cells for Reporting Services поддерживает часто используемые электронные таблицы[форматы файлов](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Только ввод
+ Только ввод
    </header>
    <ul>
     <li>
      RDL
     </li>
     <li>
-     РДЛК
+     RDLC
     </li>
    </ul>
   </div>
@@ -217,36 +216,36 @@ description: Модуль рендеринга SQL Server Reporting Services —
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Только вывод
+ Только вывод
    </header>
    <ul>
     <li>
      <b>
-      Майкрософт Эксель:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSM, XLSB, XML
+ XLS, XLSX, XLSM, XLSB, XML
     </li>
     <li>
      <b>
-      ОпенОфис:
+ ОпенОфис:
      </b>
-     ОРВ
+     ODS
     </li>
     <li>
      <b>
-      Интернет:
+ Интернет:
      </b>
      HTML
     </li>
     <li>
      <b>
-      Текст:
+ Текст:
      </b>
-     Текстовый файл CSV, TSV, TabDelimited
+ CSV, TSV, TabDelimited текстовый файл
     </li>
     <li>
      <strong>
-      Фиксированный макет:
+ Фиксированный макет:
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: Модуль рендеринга SQL Server Reporting Services —
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Службы отчетности
+ Службы отчетности
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: Модуль рендеринга SQL Server Reporting Services —
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Расширенные функции служб отчетов
+ Расширенные функции служб отчетов
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: Модуль рендеринга SQL Server Reporting Services —
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Экспорт файла формата MarkDown
+ Экспорт файла формата MarkDown
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Разрыв страницы группы табликсов поддержки
+ Разрыв страницы группы табликсов поддержки
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать несколько вкладок
+ Создать несколько вкладок
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Свернуть или развернуть поля сводной таблицы
+ Свернуть или развернуть поля сводной таблицы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддержка выполнения минус-расчетов
+ Поддержка выполнения минус-расчетов
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Вызвать формат печати MS Excel
+ Вызвать формат печати MS Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддерживаются диаграммы MS Excel 2016.
+ Поддерживаются диаграммы MS Excel 2016.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Настройка параметров полей страницы в таблицах Excel
+ Настройка параметров полей страницы в таблицах Excel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells" Инструмент конструктора отчетов
+ Aspose.Cells Инструмент дизайнера отчетов
     </h2>
     <p>
-     Разработчики могут создавать и отправлять отчеты непосредственно из Microsoft Excel, используя Aspose.Cells.Report.Designer — простой инструмент проектирования, использующий Microsoft Excel в качестве шаблона отчета. Эта функция позволяет использовать все мощные функции и функции, доступные в приложении Microsoft Excel, включая сводные таблицы, интерактивные диаграммы, формулы и т. д.
+Разработчики могут создавать и отправлять отчеты непосредственно из Microsoft Excel, используя Aspose.Cells.Report.Designer — простой инструмент проектирования, использующий Microsoft Excel в качестве шаблона отчета. Эта функция позволяет использовать все мощные функции и функции, доступные в приложении Excel Microsoft, включая сводные таблицы, интерактивные диаграммы, формулы и т. д.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Экспорт отчетов в форматы электронных таблиц
+ Экспорт отчетов в форматы электронных таблиц
     </h2>
     <p>
-     Aspose.Cells для служб Reporting Services поддерживает все популярные форматы файлов Microsoft Excel (97–2016), включая «родные» форматы Microsoft Excel, такие как XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab Delimited и HTML. Aspose.Cells для Reporting Services также поддерживает формат файлов ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services поддерживает все популярные Microsoft форматы файлов Excel (97 - 2016), включая «родные» Microsoft форматы Excel, такие как XLS, XLSX, XLSM, SpreadsheetML, CSV, Разделители табуляции и HTML. Aspose.Cells for Reporting Services также поддерживают формат файла ODS (OpenDocument Spreadsheet).
     </p>
     <p>
-     Кроме того, Aspose.Cells для служб Reporting Services экспортирует документы Excel в виде полностью редактируемых электронных таблиц, т.е. конечный пользователь может редактировать полученные электронные таблицы вручную в приложении Microsoft Excel, если это необходимо.
+ Кроме того, Aspose.Cells for Reporting Services экспортирует документы Excel в виде полностью редактируемых электронных таблиц, то есть; конечный пользователь может редактировать полученные электронные таблицы вручную в приложении Excel Microsoft, если это необходимо.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Высокая точность — идентично дизайну отчета
+ Высокая точность — идентично дизайну отчета
     </h2>
     <p>
-     Aspose.Cells для служб Reporting Services экспортирует отчеты в электронные таблицы Microsoft Excel таким образом, чтобы результат был идентичен исходному результату, сгенерированному встроенным конструктором отчетов служб Reporting Services. Все функции отчета преобразуются с максимальной точностью, чтобы электронные таблицы Microsoft Excel выглядели максимально похожими на исходные.
+Aspose.Cells for Reporting Services экспортировать отчеты в Microsoft электронные таблицы Excel таким образом, чтобы результат был идентичен исходному результату, созданному встроенным конструктором отчетов служб Reporting Services. Все функции отчета преобразуются с высочайшей степенью точности, чтобы электронные таблицы Excel Microsoft выглядели максимально похожими на исходные.
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: Модуль рендеринга SQL Server Reporting Services —
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Различные варианты обработки данных
+ Различные варианты обработки данных
     </h2>
     <p>
-     Aspose.Cells для служб Reporting Services поддерживает таблицы с сгруппированными строками и нижними колонтитулами, тогда как группировку можно настроить во время разработки, как и другие элементы отчета. Aspose.Cells для служб Reporting Services также поддерживает параметры и глобальные переменные в качестве источников данных отчета. Разработчики также могут использовать Microsoft Query для создания источников данных и запросов; это широко используемый инструмент, знакомый большинству пользователей.
+ Aspose.Cells for Reporting Services поддерживают таблицы с сгруппированными строками и нижними колонтитулами, тогда как группировку можно настроить во время разработки, как и другие элементы отчета. Aspose.Cells for Reporting Services также поддерживает параметры и глобальные переменные в качестве источников данных отчета. Разработчики также могут использовать Microsoft Query для создания источников данных и запросов; это широко используемый инструмент, знакомый большинству пользователей.
     </p>
     <p>
-     В дополнение к этому Aspose.Cells для служб Reporting Services поддерживает как источники данных, специфичные для отчетов, так и общие источники данных, созданные на сервере отчетов заранее. Разработчики могут использовать конкретные источники данных отчетов во время разработки и указывать общие источники данных в качестве источников данных отчетов при публикации отчетов.
+В дополнение к этому, Aspose.Cells for Reporting Services поддерживает как конкретные источники данных отчетов, так и общие источники данных, созданные на сервере отчетов заранее. Разработчики могут использовать конкретные источники данных отчетов во время разработки и указывать общие источники данных в качестве источников данных отчетов при публикации отчетов.
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: Модуль рендеринга SQL Server Reporting Services —
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Автоматизация Microsoft Office — не требуется
+ Microsoft Офисная автоматизация — не требуется
     </h2>
     <p>
-     Aspose.Cells для служб Reporting Services создан с использованием управляемого кода, которому никогда не требуется устанавливать на компьютере Microsoft Office или Microsoft Excel для работы с форматами документов Excel. Это идеальная альтернатива автоматизации Microsoft Excel с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
+ Aspose.Cells for Reporting Services построен с использованием управляемого кода, который никогда не требует установки на компьютере Microsoft Office или Microsoft Excel для работы с форматами документов Excel. Это идеальная альтернатива автоматизации Excel с точки зрения поддерживаемых функций, безопасности, стабильности, масштабируемости, скорости и цены.
     </p>
    </div>
   </div>
@@ -440,17 +439,17 @@ description: Модуль рендеринга SQL Server Reporting Services —
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/cells/reportingservices/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API ссылки" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Ссылки" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells для Reporting Services?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

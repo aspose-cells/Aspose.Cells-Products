@@ -1,11 +1,10 @@
 ---
-title: Excel Elektronik Tabloları için Node.js API'leri - Aspose 
+title:  Excel Elektronik Tabloları için Node.js API'leri - Aspose
 weight: 3120
-
-description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işleyin. Windows, macOS ve Linux üzerinde Node.js aracılığıyla okuma yazma oluşturma ve XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV ve daha fazla formatı dönüştürme
+description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işleyin. XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV ve daha fazla formatı Windows, macOS ve Linux üzerinde Node.js aracılığıyla okuyun
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel Dosya Biçimi API\'leri" h2="Microsoft Excel gerektirmeden Node.js kullanarak Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve oluşturun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel Dosya Biçimi API\'leri" h2="Microsoft Excel gerektirmeden Node.js kullanarak Excel elektronik tabloları oluşturun, değiştirin, dönüştürün ve işleyin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +12,11 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java üzerinden Node.js için Aspose.Cells, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. API, Excel dosya biçimi dönüştürme, en ayrıntılı düzeyde çalışma sayfaları şekillendirme, grafik oluşturma &amp; render, güvenilir formül hesaplama motoru ve çok daha fazlası.
+ Aspose.Cells for Node.js via Java, Node.js kullanarak Excel elektronik tablolarını işlemek için zengin özelliklere sahip ve ölçeklenebilir bir API'dir. API, Excel dosya formatı dönüştürme, çalışma sayfalarını en ayrıntılı düzeyde biçimlendirme, grafik oluşturma &amp; render, güvenilir formül hesaplama motoru ve çok daha fazlası.
 </p>
 
 <p>
- Java aracılığıyla Node.js için Aspose.Cells, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Java özellikleri aracılığıyla Node.js için Aspose.Cells\'e genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Cells for Node.js via Java özelliklerine genel bakış." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    işleme
+ oluşturma
    </header>
    <ul>
     <li>
-     Grafiği Görüntüye Dönüştür
+ Grafiği Resme Dönüştür
     </li>
     <li>
-     Çalışma Sayfasını Görüntüye Dönüştür
+ Çalışma Sayfasını Resme Dönüştür
     </li>
     <li>
-     Elektronik Tabloyu PDF'ye Dönüştür
+Elektronik Tabloyu PDF'e Dönüştür
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
    <header>
     <i class="fa fa-cogs">
     </i>
-    Veri işleme
+ Veri işleme
    </header>
    <ul>
     <li>
-     Grafikler
+ Grafikler
     </li>
     <li>
-     Formül Hesaplama
+ formül hesaplama
     </li>
     <li>
-     Akıllı İşaretleyiciler
+ Akıllı İşaretleyiciler
     </li>
     <li>
-     Pivot Tablolar
+ Pivot Tablolar
     </li>
     <li>
-     Koşullu biçimlendirme
+ Koşullu biçimlendirme
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Node.js
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Java üzerinden Node.js için Aspose.Cells, Node.js\'ye dayalı sunucu tarafı JavaScript API\'tir. JDK 1.7 veya üstü ile Windows, Unix/Linux ve Mac platformlarında çalışabilir." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Node.js via Java, Node.js tabanlı sunucu tarafı JavaScript API\'dir. JDK 1.7 ve üzeri Windows, Unix/Linux & Mac platformlarında çalışabilir." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Çalışma Zamanı Ortamı
+ Java Çalışma Zamanı Ortamı
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Node.js
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Java aracılığıyla Node.js için Aspose.Cells, en sık kullanılan resim ve sabit düzen biçimleriyle birlikte popüler elektronik tablo dosya biçimlerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for Node.js via Java, en sık kullanılan görüntü ve sabit düzen biçimleriyle birlikte popüler elektronik tablo dosya biçimlerini destekler." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş çıkış
+ Giriş çıkış
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Açık ofis:
+ Açık ofis:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Metin:
+ Metin:
      </b>
-     CSV, Sekmeyle Ayrılmış, TXT
+ CSV, Sekmeyle Ayrılmış, TXT
     </li>
     <li>
      <b>
-      Ağ:
+ Ağ:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Yalnızca Çıkış
+ Yalnızca Çıktı
    </header>
    <ul>
     <li>
      <b>
-      Sabit Düzen:
+ Sabit Düzen:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Görüntüler:
+ Görüntüler:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Node.js
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Gelişmiş Node.js Excel Elektronik Tablosu API Özellikleri
+ Gelişmiş Node.js Excel Elektronik Tablosu API Özellikleri
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pivot Tablolar, grafikler, mini grafikler &amp; koşullu biçimlendirme
+ Pivot Tablolar, çizelgeler, mini grafikler &amp; koşullu biçimlendirme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mevcut grafikleri yenile &amp; çizelgeleri resimlere veya PDF'ye dönüştürün
+ Mevcut çizelgeleri &amp; çizelgeleri resimlere dönüştürün veya PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; yorumları değiştir &amp; köprüler
+ &amp; &amp; köprüler
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Karmaşık formüller ayarlayın &amp; sonuçları API üzerinden hesapla
+ Karmaşık formüller &amp; API aracılığıyla sonuçları hesapla
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çalışma kitabında, çalışma sayfasında, hücrede, sütunda veya satırda koruma ayarlayın
+ Çalışma kitabı, çalışma sayfası, hücre, sütun veya satırda koruma ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; adlandırılmış aralıkları değiştir
+ &amp; adlandırılmış aralıkları değiştir
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Akıllı İşaretleyicileri kullanarak çalışma sayfalarını doldurun
+ Akıllı İşaretleyicileri kullanarak çalışma sayfalarını doldurun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
+Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çalışma sayfalarını PDF, XPS &amp; SVG biçimleri
+ Çalışma sayfalarını PDF, XPS &amp; SVG biçimleri
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel Elektronik Tablolarını Oluşturma
+ Excel Elektronik Tablolarını Oluşturma
     </h2>
     <p>
-     Java aracılığıyla Node.js için Aspose.Cells, Microsoft Excel'de en yüksek doğrulukla işlemek için kendi oluşturma motorunu kullanır. Node.js Excel İşleme kitaplığını kullanırken, tüm sayfaları, tek tek dosyaları veya çizelgeleri birden çok görüntüye ve sabit düzen biçimlerine dönüştürebilirsiniz.
+ Aspose.Cells for Node.js via Java, oluşturma motorunu Microsoft Excel'e en yüksek doğrulukla işlemek için kullanır. Node.js Excel İşleme kitaplığını kullanırken, kişi tüm sayfaları, tek tek dosyaları veya çizelgeleri birden çok görüntüye ve sabit düzen biçimlerine dönüştürebilir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Esnek Ekran Seçenekleri
+ Esnek Ekran Seçenekleri
     </h2>
     <p>
-     Java aracılığıyla Node.js için Aspose.Cells, çalışma sayfasının sayfa yönü, kesmeler, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi görüntüleme seçeneklerini değiştirebileceğiniz sayfa düzeninin tam kontrolünü sağlar. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve dondurma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
+ Aspose.Cells for Node.js via Java, çalışma sayfasının sayfa ayarı üzerinde tam kontrol sağlar; çalışma sayfasının sayfa yönlendirmesi, kesmeler, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi görüntüleme seçenekleri değiştirilebilir. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve donma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Güvenlik seçenekleri
+ Güvenlik seçenekleri
     </h2>
     <p>
-     Java üzerinden Node.js için Aspose.Cells, e-tablo şifreleme/şifre çözme, içerik, nesne & amp; senaryo korumasının yanı sıra satırları, sütunları ve amp; çalışma sayfaları.
+Aspose.Cells for Node.js via Java elektronik tablo şifreleme/şifre çözme, içerik, nesne &amp; senaryo korumasının yanı sıra satırları, sütunları &amp; çalışma sayfaları.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Satırları &amp; sütunlar
+ Satırları İşle &amp; Sütunlar
     </h2>
     <p>
-     Java üzerinden Node.js için Aspose.Cells, satırları ve sütunları birçok farklı şekilde değiştirmenize olanak tanır. Satır yüksekliğini kolayca ayarlayabilirsiniz &amp; sütun genişliği, hücreleri içeriğe göre otomatik boyutlandırma, ekleme &amp; sil, gizle &amp; gizlemeyi kaldır ve grup &amp; satırların grubunu kaldır &amp; sütunlar.
+ Aspose.Cells for Node.js via Java, satırları ve sütunları birçok farklı şekilde değiştirmenize olanak tanır. Satır yüksekliğini &amp; sütun genişliği, hücreleri içeriğe göre otomatik boyutlandır, &amp; sil, gizle &amp; grup &amp; &amp; sütunlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Çalışma Sayfası Biçimlendirme için Kapsamlı Destek
+ Çalışma Sayfası Biçimlendirme için Kapsamlı Destek
     </h2>
     <p>
-     Java aracılığıyla Node.js için Aspose.Cells, verilerinizin sunumunu denetlemenize olanak tanıyan gelişmiş biçimlendirme özellikleri sağlar. Bir çalışma sayfasına, sütuna, satıra veya hücreye biçimlendirme uygulayabilir veya tek bir hücreye Zengin Metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ve yazı tipi stili ayarlayabilirsiniz. API ayrıca ekleme, değiştirme &amp; anında koşullu biçimlendirme kurallarını hesaplayın.
+Aspose.Cells for Node.js via Java, verilerinizin sunumunu kontrol etmenizi sağlayan gelişmiş biçimlendirme özellikleri sunar. Bir çalışma sayfasına, sütuna, satıra veya hücreye biçimlendirme uygulayabilir veya tek bir hücreye Zengin Metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ve yazı tipi stili ayarlayabilirsiniz. API ayrıca ekleme, değiştirme ve düzenlemeye izin verir. anında koşullu biçimlendirme kurallarını hesaplayın.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Grafik Oluşturma, Manipülasyon &amp; işleme
+ Grafik Oluşturma, Manipülasyon &amp; oluşturma
     </h2>
     <p>
-     Java aracılığıyla Node.js için Aspose.Cells, grafik oluşturma için tam destek sağlar. API kullanılarak özelleştirilmiş veya standart grafikler kolayca eklenebilir ve grafikleri yenilemek için verileri dinamik olarak ayarlayabilirsiniz.
+ Aspose.Cells for Node.js via Java grafik için tam destek sağlar. API'i kullanarak kolayca özelleştirilmiş veya standart grafikler ekleyebilir ve grafikleri yenilemek için verileri dinamik olarak ayarlayabilirsiniz.
     </p>
    </div>
   </div>
@@ -373,19 +372,19 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/cells/nodejsjava/" >}}
+{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referans" href="https://reference.aspose.com/nodejs/cells" >}}
-{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Java üzerinden Node.js için Aspose.Cells?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

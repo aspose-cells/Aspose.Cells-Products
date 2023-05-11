@@ -1,8 +1,7 @@
 ---
-title: Android Excel-táblázat API - Aspose 
+title: Android Excel táblázat API - Aspose
 weight: 6510
-
-description: Android-táblázat-könyvtár az olvasási írási és -elemzési Excel-fájlok létrehozásához. Táblázat API mobilalkalmazások fejlesztéséhez
+description: Android-táblázat-könyvtár az olvasási írási és -elemzési Excel-fájlok létrehozásához. A API számú táblázat a mobilalkalmazások fejlesztéséhez
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Android API-k az Excel-táblázatok kezeléséhez" h2="Hozzon létre, olvasson, írjon vagy kezeljen Excel-fájlokat Android-alkalmazásokon belül, függőségek nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
@@ -13,7 +12,7 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A(z) Aspose.Cells Android rendszerhez a(z) Java-on keresztül egy méretezhető API táblázatok programozott generálásához, kombinálásához, módosításához és elemzéséhez. A API számos funkciót kínál, beleértve az Excel-dokumentum formázási és oldalbeállítási feladatokat, az importálási és exportálási lehetőségeket, a munkalapoldalak raszteres képekké való megjelenítését, valamint a képfelbontás, minőség, tömörítés megadását, különböző diagramok hozzáadását és még sok mást. Az Android-táblázat API támogatja az XLS, XLSX, CSV, SpreadsheetML, ODS, tabulátorral tagolt, HTML, PDF, XPS és más formátumokat.
+ A Aspose.Cells for Android via Java egy méretezhető API táblázatok programozott generálására, kombinálására, módosítására és elemzésére. A API számos funkciót kínál, beleértve az Excel dokumentum formázását és az oldalbeállítási feladatokat, az importálási és exportálási lehetőségeket, a munkalapoldalak raszteres képekké való renderelését, valamint a képfelbontás, minőség, tömörítés megadását, különböző diagramok hozzáadását és még sok mást. A API-es Android-táblázat támogatja a XLS, XLSX, CSV, SpreadsheetML, ODS, Tabulátorral tagolt, HTML, HTML, HTML, HTML, HTML, for Android, 076131 és 07613131, 076131 és további formátumokat.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A(z) API képességeinek áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A API képességek áttekintése." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Import &amp; Export
+ Import &amp; Export
    </header>
    <ul>
     <li>
-     Tömbök
+ Tömbök
     </li>
     <li>
-     ResultSet
+ ResultSet
     </li>
     <li>
-     Gyűjtemények
+Gyűjtemények
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Renderelés
+ Renderelés
    </header>
    <ul>
     <li>
-     Diagramról képre
+ Diagramról képre
     </li>
     <li>
-     Munkalap képhez
+ Munkalap képhez
     </li>
     <li>
-     Táblázat PDF-be
+ Táblázat a PDF számra
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
    <header>
     <i class="fa fa-table">
     </i>
-    Adatfeldolgozás
+ Adatfeldolgozás
    </header>
    <ul>
     <li>
-     Formázás alkalmazása
+ Formázás alkalmazása
     </li>
     <li>
-     Alkalmazza a képletet
+ Alkalmazza a képletet
     </li>
     <li>
-     Hozzon létre diagramokat
+ Hozzon létre diagramokat
     </li>
     <li>
-     Összesít
+ Összesít
     </li>
     <li>
-     Intelligens jelölők
+ Intelligens jelölők
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Android a következőn keresztül: Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A(z) Aspose.Cells Androidra a(z) Java-on keresztül elérhető Android 2.0 vagy újabb verzióra." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Aspose.Cells for Android via Java elérhető for Android 2.0 vagy újabb." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Android futási környezet
+ Android futási környezet
    </header>
    <ul>
     <li>
-     Mobilos alkalmazás
+ Mobilos alkalmazás
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Android a következőn keresztül: Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Az Android API táblázata támogatja a népszerű Microsoft Excel formátumokat, képeket és rögzített elrendezésű formátumokat." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A API számú Android-táblázat támogatja a népszerű Microsoft Excel-formátumokat, képeket és rögzített elrendezésű formátumokat." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet kimenet
+ Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Szöveg:
+ Szöveg:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Csak kimenet
+ Csak kimenet
    </header>
    <ul>
     <li>
      <b>
-      Rögzített elrendezés:
+ Rögzített elrendezés:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Képek:
+ Képek:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Android a következőn keresztül: Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Az Android Excel API speciális funkciói
+ Az Android Excel API speciális funkciói
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formázás alkalmazása munkalapon, soron, oszlopon, cellán és tartományon
+Formázás alkalmazása munkalapon, soron, oszlopon, cellán és tartományon
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adatok exportálása és importálása az ArrayList, Array, Recordset &amp; Eredménykészlet
+ Adatok exportálása és importálása az ArrayList, Array, Recordset &amp; Eredménykészlet
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Titkosítás &amp; dekódolja az Excel fájlokat
+ Titkosítás &amp; dekódolja az Excel fájlokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Állítsa be a számok formázását
+ Állítsa be a számok formázását
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; diagramok manipulálása
+ Létrehozás &amp; diagramok manipulálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a megjegyzéseket
+ Létrehozása &amp; manipulálni a megjegyzéseket
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Olvasás, beállítás és amp; képleteket számítani
+ Olvasás, beállítás és amp; képleteket számítani
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurálja az oldal beállítását
+ Konfigurálja az oldal beállítását
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Beállítás &amp; az automatikus szűrők kezelése &amp; oldaltörések
+ Beállítás &amp; manipulálja az automatikus szűrőket &amp; oldaltörések
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Olvasás &amp; írjon feltételes formázást
+ Olvasás &amp; feltételes formázás írása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Készítsen másolatokat a meglévő munkalapokról
+ Készítsen másolatokat a meglévő munkalapokról
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     A Microsoft Excel XP óta bevezetett védelmi beállítások megadása
+ Állítsa be a Microsoft Excel XP óta bevezetett védelmi beállításokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cellák kezelése &amp; elnevezett tartományok
+ Cellák manipulálása &amp; elnevezett tartományok
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertálja az Excel fájlokat PDF-be
+ Konvertálja az Excel fájlokat PDF-re
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Munkalapok konvertálása &amp; diagramok képekhez
+ Munkalapok konvertálása &amp; diagramok képekhez
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Android-táblázat-könyvtár az olvasási írási és -elemzési E
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a kimutatástáblákat
+ Létrehozás &amp; manipulálni a kimutatástáblákat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; egyéni diagramok kezelése
+ Létrehozás &amp; egyéni diagramok kezelése
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trace Precedens and Dependents
+ Trace Precedens and Dependents
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; forgatókönyvek manipulálása
+ Létrehozás &amp; forgatókönyvek manipulálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erőteljes képletszámító motor
+Erőteljes képletszámító motor
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Olvasás &amp; írjon TSV, CSV és amp; HTML fájlok
+ Olvasás &amp; írjon TSV, CSV &amp; HTML fájl
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Különböző formátumok átalakítása
+ Különböző formátumok átalakítása
     </h2>
     <p>
-     Az Android Excel könyvtár a táblázatok XPS, PDF és amp; HTML formátumok, amelyek megtartják a legmagasabb vizuális hűséget. A megbízható konverziós folyamatnak köszönhetően a(z) API tökéletes választás a vállalatok számára az iparági szabványos formátumú fájlok cseréjére.
+ Az Android Excel könyvtár lehetővé teszi a táblázatok XPS, PDF &amp; HTML formátum a legmagasabb vizuális hűség megőrzésével. A megbízható konverziós folyamat a API-et tökéletes választássá teszi a vállalatok számára az ipari szabványos formátumú fájlcseréhez.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Munkafüzet mentése különböző formátumokban – Java
+ Munkafüzet mentése különböző formátumokban - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertálja a táblázatobjektumokat különböző formátumokba
+ Konvertálja a táblázatobjektumokat különböző formátumokba
     </h2>
     <p>
-     A(z) Aspose.Cells Androidra a(z) Java szolgáltatáson keresztül néhány megkülönböztető funkciót kínál, mint például a munkalapokat a képekké, a diagramokat a képekké stb. PDF és táblázatok konvertálása PDF dokumentum formátumba. A rugalmas folyamat számos lehetőséget kínál az átalakításhoz, például a képek újramintavételezése a táblázatok PDF-be készítése során, vagy az eredményül kapott képméretek beállítása munkalapok és munkalapok renderelésekor; diagramok képformátumokba.
+ Aspose.Cells for Android via Java kínál néhány megkülönböztető funkciót, mint például a munkalapokat a képekhez, a diagramokat a képekhez és a diagramokat; PDF és táblázatok konvertálása PDF dokumentumformátummá. A rugalmas folyamat számos választási lehetőséget kínál az átalakításhoz, mint például a képek újramintavételezése a táblázatokban a PDF-re, vagy az eredményül kapott képméretek beállítása munkalapok és munkalapok renderelésekor; diagramok képformátumokba.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Táblázat API Képlet számítási motor
+Táblázat API Képlet számítási motor
     </h2>
     <p>
-     Az Android Sheets API hatékony képletszámító motort biztosít, amely támogatja a fejlett és szabványos Microsoft Excel-funkciókat és képleteket. A képletszámító motor megkönnyíti a beépített vagy kiegészítő típusú, tömb és R1C1 referenciastílus képletek eredményeinek olvasását, beállítását és kiszámítását.
+ A API Android-lapok hatékony képletszámító motort biztosítanak, amely támogatja a fejlett és szabványos Microsoft Excel-függvényeket és képleteket. A képletszámító motor megkönnyíti a beépített vagy kiegészítő típusú, tömb és R1C1 referenciastílusú képletek eredményeinek olvasását, beállítását és kiszámítását.
     </p>
    </div>
    <!--
@@ -573,17 +572,17 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Referenciák" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells Androidra a következőn keresztül: Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,8 +1,7 @@
 ---
-title: Java Excel API - Aspose 
+title:  Java Excel API - Aspose
 weight: 6830
-
-description: Java Βιβλιοθήκη Excel για επεξεργασία υπολογιστικών φύλλων. Διαβάστε την απόδοση εγγραφής και μετατροπή XLS XLSX XLSM ODS CSV TSV και άλλες μορφές. Συμβατό με Windows Linux & Unix
+description: Java Βιβλιοθήκη Excel για επεξεργασία υπολογιστικών φύλλων. Διαβάστε την απόδοση εγγραφής και μετατροπή XLS XLSX XLSM ODS CSV TSV και περισσότερες μορφές. Συμβατό με Windows Linux & Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Java Επεξεργασία υπολογιστικού φύλλου Excel API" h2="Δημιουργήστε, χειριστείτε, μετατρέψτε, προστατέψτε ή εκτυπώστε υπολογιστικά φύλλα χωρίς να βασίζεστε στο Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
@@ -13,11 +12,11 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells for Java είναι μια βραβευμένη Επεξεργασία υπολογιστικών φύλλων του Excel API που επιτρέπει στους προγραμματιστές να ενσωματώσουν τη λειτουργία ανάγνωσης, εγγραφής, χειρισμού, μετατροπής &amp; εκτυπώστε υπολογιστικά φύλλα στις δικές τους εφαρμογές, χωρίς να χρειάζεστε εφαρμογή Microsoft Excel.
+ Το Aspose.Cells for Java είναι ένα βραβευμένο Excel Spreadsheet Processing API που επιτρέπει στους προγραμματιστές να ενσωματώνουν τη λειτουργία ανάγνωσης, εγγραφής, χειρισμού, μετατροπής &amp; εκτύπωση υπολογιστικών φύλλων στις δικές τους εφαρμογές, χωρίς να χρειάζεται Microsoft εφαρμογή Excel.
 </p>
 
 <p>
- Το Aspose.Cells for Java είναι μια ώριμη και πλούσια σε χαρακτηριστικά βιβλιοθήκη, που προσφέρει πολλές λειτουργίες που ξεπερνούν κατά πολύ τις απλές δυνατότητες εξαγωγής δεδομένων άλλων στοιχείων που διατίθενται στην αγορά. Το API παρέχει τις δυνατότητες εξαγωγής δεδομένων, μορφοποίησης υπολογιστικών φύλλων στο πιο αναλυτικό επίπεδο, εισαγωγής &amp; εξαγωγή εικόνων, δημιουργία γραφημάτων &amp; Συγκεντρωτικοί πίνακες, εφαρμόστε &amp; Υπολογίστε σύνθετους τύπους χρησιμοποιώντας μηχανή υπολογισμού τύπων, ροή δεδομένων Excel &amp; αποθηκεύστε το αποτέλεσμα σε διάφορες μορφές.
+Aspose.Cells for Java είναι μια ώριμη και πλούσια σε χαρακτηριστικά βιβλιοθήκη, που προσφέρει πολλές λειτουργίες που είναι πολύ πέρα από τις απλές δυνατότητες εξαγωγής δεδομένων άλλων στοιχείων που διατίθενται στην αγορά. Το API παρέχει τις δυνατότητες εξαγωγής δεδομένων, μορφοποίησης υπολογιστικών φύλλων στο πιο αναλυτικό επίπεδο, εισαγωγής &amp; εξαγωγή εικόνων, δημιουργία γραφημάτων &amp; Συγκεντρωτικοί πίνακες, εφαρμόστε &amp; Υπολογίστε σύνθετους τύπους χρησιμοποιώντας μηχανή υπολογισμού τύπων, ροή δεδομένων Excel &amp; αποθηκεύστε το αποτέλεσμα σε διάφορες μορφές.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -32,42 +31,42 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
    <header>
     <i class="fa fa-television">
     </i>
-    Απόδοση
+ Απόδοση
    </header>
    <ul>
     <li>
-     Γράφημα σε εικόνα
+ Γράφημα σε εικόνα
     </li>
     <li>
-     Φύλλο εργασίας σε εικόνα
+ Φύλλο εργασίας σε εικόνα
     </li>
     <li>
-     Υπολογιστικό φύλλο σε PDF
+ Υπολογιστικό φύλλο στο PDF
     </li>
     <li>
-     Εκτύπωση
+ Εκτύπωση
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Επεξεργασία δεδομένων
+ Επεξεργασία δεδομένων
    </header>
    <ul>
     <li>
-     Εφαρμογή Μορφοποίησης
+ Εφαρμογή Μορφοποίησης
     </li>
     <li>
-     Δημιουργία γραφημάτων
+ Δημιουργία γραφημάτων
     </li>
     <li>
-     Εφαρμόστε Φόρμουλες
+ Εφαρμόστε Φόρμουλες
     </li>
     <li>
-     Συνοψίζω
+ Συνοψίζω
     </li>
     <li>
-     Έξυπνοι δείκτες
+ Έξυπνοι δείκτες
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
    <header>
     <i class="fa fa-table">
     </i>
-    Έλεγχος GridWeb
+ Έλεγχος GridWeb
    </header>
    <ul>
     <li>
-     Υποστηρίζει JSP Web Application
+ Υποστηρίζει JSP Web Application
     </li>
     <li>
-     Φόρτωση αρχείων Excel
+ Φόρτωση αρχείων Excel
     </li>
     <li>
-     Αποθήκευση εγγράφων του Excel
+ Αποθήκευση εγγράφων του Excel
     </li>
     <li>
-     Παρέχει δυνατότητες επεξεργασίας
+ Παρέχει δυνατότητες επεξεργασίας
     </li>
     <li>
-     Συμβατό με σύγχρονα προγράμματα περιήγησης
+ Συμβατό με σύγχρονα προγράμματα περιήγησης
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
     Java
    </small>
@@ -118,7 +117,7 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Οι εφαρμογές που βασίζονται στη βιβλιοθήκη for Java αναπτύχθηκαν σε πλατφόρμες Windows Unix/Linux και Mac." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Οι εφαρμογές που βασίζονται στη βιβλιοθήκη for Java αναπτύχθηκαν σε πλατφόρμες Unix/Linux και Mac Windows." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,14 +127,14 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Περιβάλλον χρόνου εκτέλεσης
+ Java Περιβάλλον χρόνου εκτέλεσης
    </header>
    <ul>
     <li>
-     Εφαρμογή JSP/JSF
+ Εφαρμογή JSP/JSF
     </li>
     <li>
-     Εφαρμογή επιφάνειας εργασίας
+ Εφαρμογή επιφάνειας εργασίας
     </li>
    </ul>
   </div>
@@ -150,7 +149,7 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
     Java
    </small>
@@ -161,45 +160,45 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Cells for Java υποστηρίζει τις δημοφιλείς μορφές υπολογιστικών φύλλων, τις εικόνες που χρησιμοποιούνται συνήθως, τη σταθερή διάταξη και [περισσότερες μορφές](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Aspose.Cells for Java υποστηρίζει τις δημοφιλείς μορφές υπολογιστικών φύλλων, εικόνες που χρησιμοποιούνται συνήθως, σταθερή διάταξη και[περισσότερες μορφές](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Εισόδου-εξόδου
+ Εισόδου-εξόδου
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Ανοιχτό γραφείο:
+ Ανοιχτό γραφείο:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Κείμενο:
+ Κείμενο:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Ιστός:
+ Ιστός:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Αριθμοί:
+      Numbers:
      </b>
-     Έγγραφα εφαρμογής Numbers της σουίτας γραφείου iWork της Apple
+ Έγγραφα εφαρμογής iWork office suite Numbers της Apple
     </li>
     <li>
      SXC, FODS
@@ -211,29 +210,29 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+ Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
-      Διορθωμένη διάταξη:
+ Διορθωμένη διάταξη:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Ανταλλαγή δεδομένων:
+ Ανταλλαγή δεδομένων:
      </b>
-     ΔΗΦ
+     DIF
     </li>
     <li>
      <b>
-      Εικόνες:
+ Εικόνες:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
     <li>
-     ΧΑΜΗΛΩΣΗ ΤΙΜΗΣ
+     MARKDOWN
     </li>
    </ul>
   </div>
@@ -248,7 +247,7 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
     Java
    </small>
@@ -269,7 +268,7 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες Java υποστήριξη βιβλιοθήκης Excel
+ Προηγμένες Java Υποστηρίζει βιβλιοθήκη Excel
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -278,117 +277,117 @@ description: Java Βιβλιοθήκη Excel για επεξεργασία υπ�
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εισαγωγή και εξαγωγή δεδομένων από ArrayList, Array &amp; Ρεκόρ
+ Εισαγωγή και εξαγωγή δεδομένων από ArrayList, Array &amp; Ρεκόρ σετ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία γραφήματος &amp; χειραγώγηση μέσω των API
+ Δημιουργία γραφήματος &amp; χειραγώγηση μέσω των API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εισαγωγή τύπων από υπολογιστικό φύλλο σχεδιαστή
+ Εισαγωγή τύπων από υπολογιστικό φύλλο σχεδιαστή
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργήστε και χειριστείτε Named Ranges
+ Δημιουργήστε και χειριστείτε Named Ranges
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εκτυπώστε υπολογιστικά φύλλα σε φυσικό εκτυπωτή
+ Εκτυπώστε υπολογιστικά φύλλα σε φυσικό εκτυπωτή
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Συμπληρώστε φύλλα εργασίας μέσω Έξυπνων δεικτών
+ Συμπληρώστε φύλλα εργασίας μέσω Έξυπνων δεικτών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειραγωγούν τα σχόλια
+ Δημιουργία &amp; χειραγωγούν τα σχόλια
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ρύθμιση &amp; υπολογισμός του Excel &amp; προσαρμοσμένες φόρμουλες
+ Ρύθμιση &amp; υπολογισμός του Excel &amp; προσαρμοσμένες φόρμουλες
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειρισμός κανόνων μορφοποίησης υπό όρους
+ Δημιουργία &amp; χειρισμός κανόνων μορφοποίησης υπό όρους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειρισμός ονομασμένων περιοχών
+ Δημιουργία &amp; χειρισμός ονομασμένων περιοχών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία, χειρισμός &amp; ανανέωση Συγκεντρωτικών πινάκων &amp; Συγκεντρωτικά γραφήματα
+ Δημιουργία, χειρισμός &amp; ανανέωση Συγκεντρωτικών πινάκων &amp; Συγκεντρωτικά γραφήματα
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Απόδοση γραφημάτων &amp; φύλλα εργασίας
+ Απόδοση γραφημάτων &amp; φύλλα εργασίας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε και γράψτε μεγάλα αρχεία στη λειτουργία ελαφρού βάρους
+ Διαβάστε και γράψτε μεγάλα αρχεία στη λειτουργία ελαφρού βάρους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εκ νέου δείγμα εικόνων σε μετατροπή Excel σε PDF
+Επαναλάβετε δείγμα εικόνων στο Excel σε μετατροπή PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Τροποποιήστε τον κώδικα VBA ή τις μακροεντολές στο έγγραφο προτύπου
+ Τροποποιήστε τον κώδικα VBA ή τις μακροεντολές στο έγγραφο προτύπου
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Αποθηκεύστε αρχεία Excel σε διαφορετικές μορφές
+ Αποθηκεύστε αρχεία Excel σε διαφορετικές μορφές
     </h2>
     <p>
-     Το Excel API προσφέρει μετατροπή υπολογιστικών φύλλων σε PDF, XPS, HTML και άλλες μορφές, διατηρώντας παράλληλα την υψηλότερη οπτική πιστότητα. Η αξιόπιστη και ευέλικτη διαδικασία μετατροπής καθιστά το Aspose.Cells μια τέλεια επιλογή για οργανισμούς που ανταλλάσσουν ως επί το πλείστον αρχεία σε τυποποιημένες μορφές του κλάδου.
+ Το Excel API προσφέρει μετατροπή υπολογιστικών φύλλων σε PDF, XPS, HTML και περισσότερες μορφές, διατηρώντας παράλληλα την υψηλότερη οπτική πιστότητα. Η αξιόπιστη και ευέλικτη διαδικασία μετατροπής καθιστά το Aspose.Cells μια τέλεια επιλογή για οργανισμούς που ανταλλάσσουν ως επί το πλείστον αρχεία σε τυποποιημένες μορφές του κλάδου.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Μετατροπή υπολογιστικών φύλλων σε πολλές μορφές - Java
+ Μετατροπή υπολογιστικών φύλλων σε πολλαπλές μορφές - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -405,10 +404,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Μορφοποιήστε τα φύλλα εργασίας στο πιο αναλυτικό επίπεδο
+ Μορφοποιήστε τα φύλλα εργασίας στο πιο αναλυτικό επίπεδο
     </h2>
     <p>
-     Η Βιβλιοθήκη παρέχει στυλ υπολογιστικών φύλλων, συμπεριλαμβανομένης, ενδεικτικά, μορφοποίησης φύλλου εργασίας σε επίπεδο γραμμής, στήλης και κελιού, προσθήκη κανόνων μορφοποίησης υπό όρους, καθορισμό μορφών αριθμών και ρύθμιση γραμματοσειρών με χαρακτηριστικά. Ομοίως, το API υποστηρίζει τον χειρισμό και τη δημιουργία όλων των τύπων προσαρμοσμένων και τυπικών γραφημάτων, καθώς και διαφόρων αντικειμένων σχεδίασης, όπως αντικείμενα OLE, εικόνες, σχόλια, σχήματα και στοιχεία ελέγχου στα κελιά.
+Η Βιβλιοθήκη παρέχει στυλ υπολογιστικών φύλλων συμπεριλαμβανομένης, ενδεικτικά, της μορφοποίησης φύλλου εργασίας σε επίπεδο γραμμής, στήλης και κελιού, προσθέτοντας κανόνες μορφοποίησης υπό όρους, ορίζοντας μορφές αριθμών και ορίζοντας γραμματοσειρές με χαρακτηριστικά. Ομοίως, το API υποστηρίζει τον χειρισμό και τη δημιουργία όλων των τύπων προσαρμοσμένων και τυπικών γραφημάτων, καθώς και διαφόρων αντικειμένων σχεδίασης όπως αντικείμενα OLE, εικόνες, σχόλια, σχήματα και στοιχεία ελέγχου στα κελιά.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +419,14 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Μετατροπή γραφημάτων &amp; Φύλλα σε εικόνα &amp; Μορφές PDF
+ Μετατροπή γραφημάτων &amp; Φύλλα σε εικόνα &amp; PDF Μορφές
     </h2>
     <p>
-     Το Aspose.Cells for Java προσφέρει ειδικές δυνατότητες μετατροπής όπως γραφήματα σε εικόνες και PDF, φύλλα εργασίας σε εικόνες, εκτύπωση φύλλων εργασίας και μετατροπή υπολογιστικών φύλλων σε μορφή αρχείου PDF. Η διαδικασία μετατροπής είναι πολύ ευέλικτη και εύκολη, επιτρέποντας την επιλογή πολλών τρόπων για τη μετατροπή, όπως η επαναδειγματοληψία εικόνων κατά τη μετατροπή υπολογιστικών φύλλων σε PDF ή η προσαρμογή των διαστάσεων της εικόνας που προκύπτουν κατά την απόδοση φύλλων εργασίας και γραφημάτων σε εικόνες.
+ Το Aspose.Cells for Java προσφέρει ειδικές δυνατότητες μετατροπής όπως γραφήματα σε εικόνες και PDF, φύλλα εργασίας σε εικόνες, εκτύπωση φύλλων εργασίας και μετατροπή υπολογιστικών φύλλων στη μορφή αρχείου PDF. Η διαδικασία μετατροπής είναι πολύ ευέλικτη και εύκολη, επιτρέποντας την επιλογή πολλών τρόπων για τη μετατροπή, όπως η εκ νέου δειγματοληψία εικόνων κατά τη μετατροπή υπολογιστικών φύλλων σε PDF ή η προσαρμογή των διαστάσεων της εικόνας που προκύπτουν κατά την απόδοση φύλλων εργασίας και γραφημάτων σε εικόνες.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Απόδοση γραφήματος Excel ως εικόνας &amp; PDF - Java
+Απόδοση γραφήματος Excel ως εικόνας &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -448,18 +447,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Χειρισμός σειρών του Excel &amp; Στήλες
+ Χειρισμός σειρών Excel &amp; Στήλες
     </h2>
     <p>
-     Το Aspose.Cells for Java σάς επιτρέπει να τροποποιείτε σειρές και στήλες με διάφορους τρόπους. Κάποιος μπορεί εύκολα να προσαρμόσει το πλάτος της στήλης και το ύψος της γραμμής, να ρυθμίσει αυτόματα το πλάτος/ύψος των κελιών από τα περιεχόμενα, να εισαγάγει &amp; διαγραφή, απόκρυψη &amp; un-hide καθώς και group &amp; καταργήστε την ομαδοποίηση σειρών και στηλών.
+ Aspose.Cells for Java σας επιτρέπει να τροποποιείτε σειρές και στήλες με διάφορους τρόπους. Κάποιος μπορεί εύκολα να προσαρμόσει το πλάτος της στήλης και το ύψος της γραμμής, να ρυθμίσει αυτόματα το πλάτος/ύψος των κελιών από τα περιεχόμενα, να εισαγάγει &amp; διαγραφή, απόκρυψη &amp; un-hide καθώς και group &amp; καταργήστε την ομαδοποίηση σειρών και στηλών.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Σύνοψη δεδομένων με γραφήματα &amp; Συγκεντρωτικοί πίνακες
+ Σύνοψη δεδομένων με γραφήματα &amp; Συγκεντρωτικοί πίνακες
     </h2>
     <p>
-     Μπορεί να είναι δύσκολο να ληφθούν συνοπτικές πληροφορίες με πολύ μεγάλα υπολογιστικά φύλλα. Υπάρχει ένας Συγκεντρωτικός Πίνακας για να περιγράφει γρήγορα τα επίπεδα δεδομένα και να λαμβάνει τις σχετικές πληροφορίες ανάλογα με τις ανάγκες. Το API δημιουργεί δυναμικά Συγκεντρωτικούς πίνακες και γραφήματα. Είναι δυνατή η δυναμική αλλαγή των δεδομένων προέλευσης του Συγκεντρωτικού Πίνακα. Επιπλέον, οι Έξυπνοι δείκτες, ένα άλλο κορυφαίο χαρακτηριστικό αυτής της βιβλιοθήκης για τη συμπλήρωση φύλλων εργασίας μέσω πηγών δεδομένων και τη δημιουργία οπτικά αποτελεσματικών αναφορών.
+ Μπορεί να είναι δύσκολο να ληφθούν συνοπτικές πληροφορίες με πολύ μεγάλα υπολογιστικά φύλλα. Υπάρχει ένας Συγκεντρωτικός Πίνακας για να περιγράφει γρήγορα τα επίπεδα δεδομένα και να λαμβάνει τις σχετικές πληροφορίες ανάλογα με τις ανάγκες. Το API δημιουργεί δυναμικά Συγκεντρωτικούς Πίνακες και Διαγράμματα. Είναι δυνατή η δυναμική αλλαγή των δεδομένων προέλευσης του Συγκεντρωτικού Πίνακα. Επιπλέον, οι Έξυπνοι δείκτες, ένα άλλο κορυφαίο χαρακτηριστικό αυτής της βιβλιοθήκης για τη συμπλήρωση φύλλων εργασίας μέσω πηγών δεδομένων και τη δημιουργία οπτικά αποτελεσματικών αναφορών.
     </p>
    </div>
    <!--
@@ -485,10 +484,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Βασισμένος στο Web Visual Control για υπολογιστικά φύλλα
+ Βασισμένος στο Web Visual Control για υπολογιστικά φύλλα
     </h2>
     <p>
-     Το Aspose.Cells for Java παρέχει επίσης ένα στοιχείο ελέγχου διεπαφής χρήστη που μπορεί να ενσωματωθεί σε εφαρμογές ιστού JSP και είναι συμβατό με όλα τα σύγχρονα προγράμματα περιήγησης ιστού όπως το Chrome, το Firefox, ο Internet Explorer και η Opera. Ο τελικός χρήστης μπορεί να το χρησιμοποιήσει για να φορτώσει, να επεξεργαστεί και να αποθηκεύσει αρχεία Excel από τη διεπαφή της εφαρμογής Ιστού σας.
+Το Aspose.Cells for Java παρέχει επίσης ένα στοιχείο ελέγχου διεπαφής χρήστη που μπορεί να ενσωματωθεί σε εφαρμογές ιστού JSP και είναι συμβατό με όλα τα σύγχρονα προγράμματα περιήγησης ιστού όπως το Chrome, το Firefox, ο Internet Explorer και η Opera. Ο τελικός χρήστης μπορεί να το χρησιμοποιήσει για να φορτώσει, να επεξεργαστεί και να αποθηκεύσει αρχεία Excel από τη διεπαφή της εφαρμογής Ιστού σας.
     </p>
    </div>
   </div>
@@ -498,13 +497,13 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες για τα API υπολογιστικών φύλλων." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Τι Λένε οι Άνθρωποι" subTitle="Μην παίρνετε το λόγο μας για αυτό. Δείτε τι λένε οι χρήστες σχετικά με τα API υπολογιστικών φύλλων." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Θα συνιστούσαμε τη χρήση του Aspose.cells for Java επειδή είναι εύκολο να εφαρμοστεί και το API είναι απλό στην κατανόηση και πολύ άπταιστα.
+ Θα συνιστούσαμε τη χρήση του Aspose.cells for Java γιατί είναι εύκολο να εφαρμοστεί και το API είναι απλό στην κατανόηση και πολύ ευχάριστο.
  <em>
-  Pierre-Eric Oudin | Advizeo από τη Setec, Γαλλία
+ Pierre-Eric Oudin | Advizeo από Setec, Γαλλία
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -513,7 +512,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 <p class="second">
  Η συνολική εμπειρία μας με τα προϊόντα Aspose ήταν πολύ θετική. Αυτό το στοιχείο αύξησε την επιχειρηματική αξία στο προϊόν Xpand IT - Πρόσθετο Xporter για JIRA, επιτρέποντάς μας να αναπτύξουμε μια λύση αναφοράς για εξαγωγή δεδομένων.
  <em>
-  Paulo Lopes | Xpand IT, ΗΒ
+ Paulo Lopes | Xpand IT, ΗΒ
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -524,12 +523,12 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Αναφορές" href="https://reference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API Παραπομπές" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Σημειώσεις έκδοσης" href="https://docs.aspose.com/cells/java/release-notes/" >}}

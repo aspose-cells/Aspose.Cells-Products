@@ -1,7 +1,6 @@
 ---
-title: Sloučit soubory MHT přes .NET 
-
-description: Vyzkoušejte naše On-Premise rozhraní API pro slučování zpráv a zkombinujte dokumenty MHT na platformách .NET Framework, .NET Core a Xamarin.
+title:  Sloučit soubory MHT via .NET
+description: Vyzkoušejte naše rozhraní API pro slučování zpráv on-premise a zkombinujte dokumenty MHT na platformách .NET Framework, .NET Core a Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit formáty MHT v C#" h2="Nativní a vysoce výkonné slučování dokumentů MHT pomocí rozhraní API Aspose.Cells for .NET na straně serveru, bez použití jakéhokoli softwaru, jako je Microsoft nebo Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="MHT" >}}
@@ -11,14 +10,13 @@ description: Vyzkoušejte naše On-Premise rozhraní API pro slučování zpráv
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit soubor MHT pomocí C#" %}}
 
-Za účelem sloučení souboru MHT použijeme <a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci a slučování dokumentů API pro platformu C#. OTEVŘENO <a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte <b>Aspose.Cells</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Za účelem sloučení souboru MHT použijeme<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API, což je funkčně bohatá, výkonná a snadno použitelná manipulace s dokumenty a slučování API pro platformu C#. OTEVŘENO<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> správce balíčků, vyhledejte<b>Aspose.Cells</b> a nainstalovat. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -32,13 +30,16 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje
- [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Základní dokument, který se spojuje a spojuje[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte všechny soubory MHT s úplnou cestou.1. Vytvořte jeden dokument jako základní soubor1. Zavolejte příslušnou metodu pro zřetězení a sloučení souborů jeden po druhém.1. Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (MHT) jako parametr.1. Nyní můžete otevřít a používat soubor MHT v Microsoft Office, Adobe PDF nebo jakémkoli jiném kompatibilním programu.
+1. Načtěte všechny soubory MHT s úplnou cestou.
+1. Vytvořte jeden dokument jako základní soubor
+1. Zavolejte příslušnou metodu pro zřetězení a sloučení souborů jeden po druhém.
+1. Zavolejte metodu Save() a předejte název souboru (úplnou cestu) a formát (MHT) jako parametr.
+1. Nyní můžete otevřít a používat soubor MHT v Microsoft Office, Adobe PDF nebo v jakémkoli jiném kompatibilním programu.
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -50,25 +51,31 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Cells for .NET DLL odkazovaná ve vašem projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+-  Microsoft Windows nebo kompatibilní OS s platformami .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin
+-  Vývojové prostředí jako Microsoft Visual Studio
+-  Přidejte odkaz na Aspose.Cells for .NET DLL do vašeho projektu – Nainstalujte z NuGet pomocí tlačítka Stáhnout výše
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Sloučit soubory MHT – C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Sloučit soubory MHT - C#" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-mht-files-using-cells-api.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
-{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/agp/demobox sectionTitle="Online živé ukázky sloučení MHT" sectionDescription=" Sloučit dokumenty MHT právě teď návštěvou našeho[Webová stránka živé ukázky](https://products.aspose.app/cells/merger). Živé demo má následující výhody" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory MHT." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude sloučen a zřetězen." >}}
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< /blocks/products/pf/agp/feature-section >}}
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+    {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
-Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.    
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -76,14 +83,9 @@ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslován
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online živé ukázky sloučení MHT" sectionDescription="Sloučte dokumenty MHT právě teď tím, že navštívíte naše [Web živé ukázky](https://products.aspose.app/cells/merger). Živé demo má následující výhody" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát soubory MHT." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude sloučen a zřetězen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data, jako je text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožňují převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome. 
+Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data jako text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožní převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

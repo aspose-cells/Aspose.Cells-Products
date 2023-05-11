@@ -1,19 +1,18 @@
 ---
-title: Python Bảng tính Excel API - Aspose 
+title:  Python Bảng tính Excel API - Aspose
 weight: 2820
-
-description: Python thư viện bảng tính để tạo đọc ghi và phân tích cú pháp tệp Excel.
+description: Python thư viện bảng tính để tạo các tệp Excel đọc ghi và phân tích cú pháp.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API phân tích bảng tính Excel" h2="Tạo, đọc, ghi hoặc thao tác bảng tính cũng như xuất tệp Excel sang nhiều định dạng trong ứng dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API phân tích bảng tính Excel" h2="Tạo, đọc, viết hoặc thao tác bảng tính cũng như xuất tệp Excel sang nhiều định dạng trong các ứng dụng Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java là một API nhanh chóng và đáng tin cậy cho các tác vụ xử lý bảng tính. Lập trình viên có thể tạo bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ tệp excel. API đọc nhiều định dạng excel và có thể kết xuất trang tính sang XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh và hơn thế nữa. Đây là giải pháp tốt nhất để tự động hóa các báo cáo excel bằng python.
+ Aspose.Cells for Python via Java là số API nhanh và đáng tin cậy cho các tác vụ xử lý bảng tính. Các nhà phát triển có thể tạo các bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ các tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đó là giải pháp tốt nhất để tự động hóa các báo cáo excel bằng python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về các khả năng của API." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Tổng quan về khả năng API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Nhập & amp; Xuất khẩu
+ Nhập &amp; Xuất khẩu
    </header>
    <ul>
     <li>
-     Mảng
+ Mảng
     </li>
     <li>
-     ResultSet
+ Bộ kết quả
     </li>
     <li>
-     Bộ sưu tập
+bộ sưu tập
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Kết xuất
+ kết xuất
    </header>
    <ul>
     <li>
-     Biểu đồ thành hình ảnh
+ Biểu đồ thành hình ảnh
     </li>
     <li>
-     Trang tính thành hình ảnh
+ Trang tính thành hình ảnh
     </li>
     <li>
-     Bảng tính sang PDF
+ Bảng kê tới PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
    <header>
     <i class="fa fa-table">
     </i>
-    Xử lí dữ liệu
+ Xử lí dữ liệu
    </header>
    <ul>
     <li>
-     Áp dụng định dạng
+ Áp dụng định dạng
     </li>
     <li>
-     Áp dụng công thức
+ Áp dụng công thức
     </li>
     <li>
-     Tạo biểu đồ
+ Tạo biểu đồ
     </li>
     <li>
-     Tóm tắt
+ tóm tắt
     </li>
     <li>
-     Điểm đánh dấu thông minh
+ Điểm đánh dấu thông minh
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Python qua Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells cho Python qua Java có sẵn cho." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for Python via Java có sẵn cho." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Môi trường thời gian chạy
+ Python Môi trường thời gian chạy
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Python qua Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Python thư viện excel hỗ trợ các định dạng Microsoft Excel phổ biến, các định dạng bố cục cố định và hình ảnh." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Python thư viện excel hỗ trợ các định dạng Microsoft Excel phổ biến, định dạng bố cục cố định và hình ảnh." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Mở văn phòng:
+ Mở văn phòng:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ mạng:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
-     PDF, PDF / A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Python qua Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Các tính năng Python Excel API nâng cao
+Nâng cao Python Tính năng Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc bảng tính Excel
+ Đọc bảng tính Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kết xuất Bảng tính sang PDF, EMF và Hình ảnh
+ Kết xuất Bảng tính thành PDF, EMF và Hình ảnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Điều chỉnh trang tính trong sổ làm việc
+ Điều chỉnh trang tính trong sổ làm việc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bảo vệ / bỏ bảo vệ trang tính
+ Bảo vệ/bỏ bảo vệ trang tính
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm hình ảnh cũng như tạo biểu đồ
+ Thêm hình ảnh cũng như tạo biểu đồ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo bảng tổng hợp và biểu đồ tổng hợp
+ Tạo bảng tổng hợp và biểu đồ tổng hợp
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm và chỉnh sửa nhận xét ở cấp độ ô
+ Thêm và chỉnh sửa nhận xét ở cấp ô
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tìm kiếm và thay thế dữ liệu
+ Tìm kiếm và thay thế dữ liệu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tách và hợp nhất các ô
+ Tách và gộp ô
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thêm hoặc xóa nhóm thành các hàng và cột
+ Thêm hoặc xóa nhóm vào hàng và cột
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt định dạng số
+ Đặt định dạng số
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc và đặt công thức
+ Đọc và thiết lập công thức
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Định cấu hình thiết lập trang
+ Định cấu hình thiết lập trang
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Điều chỉnh hướng trang, chia tỷ lệ, khổ giấy
+ Điều chỉnh hướng trang, chia tỷ lệ, khổ giấy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc & amp; viết định dạng có điều kiện
+ Đọc &amp; viết định dạng có điều kiện
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python thư viện bảng tính để tạo đọc ghi và phân t�
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi nhiều định dạng
+ Chuyển đổi nhiều định dạng
     </h2>
     <p>
-     Python Thư viện Excel cung cấp chuyển đổi tệp Excel sang PDF, XPS & amp; Các định dạng HTML. Chuyển đổi đáng tin cậy của API làm cho nó trở thành giải pháp hoàn hảo cho các công ty yêu cầu trao đổi tệp ở các định dạng tiêu chuẩn ngành.
+ Python Thư viện Excel cung cấp chuyển đổi file Excel sang PDF, XPS &amp; HTML định dạng. Việc chuyển đổi đáng tin cậy của API làm cho nó trở thành một giải pháp hoàn hảo cho các công ty yêu cầu trao đổi tệp ở định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Lưu bảng tính ở các định dạng khác nhau - Java
+ Lưu bảng tính với các định dạng khác nhau - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tùy chọn hiển thị linh hoạt
+ Tùy chọn hiển thị linh hoạt
     </h2>
     <p>
-     Aspose.Cells for Python via Java cung cấp toàn quyền kiểm soát thiết lập trang, cho phép thao tác nhiều tùy chọn hiển thị như ngắt trang xem trước, đặt mức thu phóng, đặt hướng trang, kiểm soát khả năng hiển thị dữ liệu với ngăn cố định, khổ giấy, chia tỷ lệ, tiêu đề & amp ; cuối trang và khu vực in.
+Aspose.Cells for Python via Java cung cấp toàn quyền kiểm soát thiết lập trang cho phép thao tác nhiều tùy chọn hiển thị như ngắt trang xem trước, đặt mức thu phóng, đặt hướng trang, kiểm soát khả năng hiển thị dữ liệu với ngăn cố định, kích thước giấy, chia tỷ lệ, tiêu đề & amp; chân trang và khu vực in.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Quản lý dữ liệu trang tính Excel
+ Quản lý dữ liệu trang tính Excel
     </h2>
     <p>
-     Aspose.Cells cho Python qua Java API cung cấp hỗ trợ rộng rãi cho việc quản lý dữ liệu trang tính. Người ta có thể dễ dàng thao tác bất kỳ ô nào trong trang tính khi chạy hoặc nhập dữ liệu vào trang tính từ nhiều nguồn dữ liệu khác nhau.
+ Aspose.Cells for Python via Java API cung cấp hỗ trợ rộng rãi cho việc quản lý dữ liệu trang tính. Người ta có thể dễ dàng thao tác với bất kỳ ô nào trong trang tính khi chạy hoặc nhập dữ liệu vào trang tính từ nhiều nguồn dữ liệu khác nhau.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tùy chỉnh biểu đồ
+ Tùy chỉnh biểu đồ
     </h2>
     <p>
-     Aspose.Cells cho Python qua Java cung cấp hỗ trợ đầy đủ cho việc lập biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn và tùy chỉnh hoặc thiết lập động dữ liệu biểu đồ để làm mới biểu đồ vai thư viện python này.
+ Aspose.Cells for Python via Java cung cấp hỗ trợ đầy đủ cho biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn và tùy chỉnh hoặc tự động đặt dữ liệu biểu đồ để làm mới biểu đồ trong thư viện python này.
     </p>
    </div>
    <!--
@@ -519,24 +517,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Tài liệu tham khảo" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Tham khảo" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells cho Python qua Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells cung cấp các API Excel riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

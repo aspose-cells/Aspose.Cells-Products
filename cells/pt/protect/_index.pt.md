@@ -1,8 +1,7 @@
 ---
-title: Proteja arquivos do Excel no Windows, Linux e macOS 
+title:  Proteja arquivos do Excel em Windows, Linux e macOS
 weight: 7730
-
-description: Aplicativo e APIs gratuitos para adicionar proteção a planilhas XLS, XLSX e ODS
+description: Aplicativo gratuito e APIs para adicionar proteção às planilhas XLS, XLSX e ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

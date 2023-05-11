@@ -1,7 +1,6 @@
 ---
-title: Digitálně podepisujte tabulky Excel na Windows, Linux a macOS 
+title:  Digitálně podepisujte tabulky Excel na Windows, Linux a macOS
 weight: 7730
-
 description: Bezplatná aplikace a rozhraní API pro správu obrazových a textových podpisů na souborech XLS, XLSX a ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 

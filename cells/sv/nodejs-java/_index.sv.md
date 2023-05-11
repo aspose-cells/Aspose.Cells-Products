@@ -1,8 +1,7 @@
 ---
-title: "Node.js API:er för Excel-kalkylblad - Aspose "
+title: " Node.js API:er för Excel-kalkylblad - Aspose"
 weight: 3120
-
-description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv rendera och konvertera XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV och fler format via Node.js på Windows, macOS och Linux
+description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv rendera & konvertera XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV och fler format via Node.js 3 & Linux OS 3
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel filformat API:er" h2="Generera, modifiera, konvertera och rendera Excel-kalkylblad med Node.js utan att behöva Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
@@ -13,11 +12,11 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells för Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js. API erbjuder konvertering av Excel-filformat, utformning av kalkylblad till den mest detaljerade nivån, skapande av diagram &amp; rendering, pålitlig formelberäkningsmotor och mycket mer.
+ Aspose.Cells for Node.js via Java är en funktionsrik och skalbar API för att bearbeta Excel-kalkylblad med Node.js. API erbjuder konvertering av Excel-filformat, formatering av kalkylblad till den mest detaljerade nivån, skapande av diagram &amp; rendering, pålitlig formelberäkningsmotor och mycket mer.
 </p>
 
 <p>
- Aspose.Cells för Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells för Node.js via Java funktioner." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells for Node.js via Java funktioner." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Tolkning
+ Tolkning
    </header>
    <ul>
     <li>
-     Konvertera diagram till bild
+ Konvertera diagram till bild
     </li>
     <li>
-     Konvertera arbetsblad till bild
+ Konvertera arbetsblad till bild
     </li>
     <li>
-     Konvertera kalkylblad till PDF
+Konvertera kalkylark till PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
    <header>
     <i class="fa fa-cogs">
     </i>
-    Databehandling
+ Databehandling
    </header>
    <ul>
     <li>
-     Diagram
+ Diagram
     </li>
     <li>
-     Formelberäkning
+ Formelberäkning
     </li>
     <li>
-     Smarta markörer
+ Smarta markörer
     </li>
     <li>
-     Pivottabeller
+ Pivottabeller
     </li>
     <li>
-     Villkorlig formatering
+ Villkorlig formatering
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Node.js via Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells för Node.js via Java är JavaScript på serversidan API baserat på Node.js. Det kan köras på Windows, Unix/Linux och Mac-plattformar med JDK 1.7 eller högre." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells for Node.js via Java är server-side JavaScript API baserat på Node.js. Den kan köras på Windows, Unix/Linux & Mac-plattformar med JDK 1.7 eller högre." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime Environment
+ Java Runtime Environment
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Node.js via Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells för Node.js via Java stöder populära kalkylarksfilformat tillsammans med de vanligaste bildformaten och formaten med fast layout." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells for Node.js via Java stöder populära kalkylbladsfilformat tillsammans med de vanligaste bildformaten och formaten med fast layout." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ingång/utgång
+ Ingång/utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, tabbavgränsad, TXT
+ CSV, tabbavgränsad, TXT
     </li>
     <li>
      <b>
-      Webb:
+ Webb:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Fast layout:
+ Fast layout:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Node.js via Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade funktioner för Node.js Excel-kalkylblad API
+ Avancerade Node.js Excel-kalkylblad API-funktioner
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa pivottabeller, diagram, sparklines &amp; villkorlig formatering
+ Skapa pivottabeller, diagram, sparklines &amp; villkorlig formatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Uppdatera befintliga diagram &amp; konvertera diagram till bilder eller PDF
+ Uppdatera befintliga diagram &amp; konvertera diagram till bilder eller PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera kommentarer &amp; hyperlänkar
+ Skapa &amp; manipulera kommentarer &amp; hyperlänkar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in komplexa formler &amp; beräkna resultat via API
+ Ställ in komplexa formler &amp; beräkna resultat via API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in skydd på arbetsbok, kalkylblad, cell, kolumn eller rad
+ Ställ in skydd på arbetsbok, kalkylblad, cell, kolumn eller rad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera namngivna intervall
+ Skapa &amp; manipulera namngivna intervall
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fyll i kalkylblad med smarta markörer
+ Fyll i kalkylblad med smarta markörer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulera och uppdatera pivottabeller via API
+Manipulera och uppdatera pivottabeller via API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertera kalkylblad till PDF, XPS &amp; SVG-format
+ Konvertera kalkylblad till PDF, XPS &amp; SVG format
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rendering av Excel-kalkylblad
+ Rendering av Excel-kalkylblad
     </h2>
     <p>
-     Aspose.Cells för Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta kvalitet. Medan du använder Node.js Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
+ Aspose.Cells for Node.js via Java använder sin renderingsmotor för att rendera till Microsoft Excel med högsta kvalitet. Medan du använder Node.js Excel Processing-bibliotek kan man konvertera hela ark, enskilda filer eller diagram till flera bilder och format med fast layout.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibla visningsalternativ
+ Flexibla visningsalternativ
     </h2>
     <p>
-     Aspose.Cells för Node.js via Java ger full kontroll över kalkylbladets sidinställningar, man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare styra datasynlighet med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
+ Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinställningar man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare kontrollera datasynligheten med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Säkerhetsalternativ
+ Säkerhetsalternativ
     </h2>
     <p>
-     Aspose.Cells för Node.js via Java erbjuder ett brett utbud av säkerhetsfunktioner inklusive kryptering/dekryptering av kalkylblad, innehåll, objekt och amp; scenarioskydd samt möjligheten att dölja och visa rader, kolumner &amp; arbetsblad.
+Aspose.Cells for Node.js via Java erbjuder ett brett utbud av säkerhetsfunktioner inklusive kryptering/dekryptering av kalkylblad, innehåll, objekt &amp; scenarioskydd samt möjligheten att dölja och visa rader, kolumner &amp; arbetsblad.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipulera rader &amp; Kolumner
+ Manipulera rader &amp; Kolumner
     </h2>
     <p>
-     Med Aspose.Cells för Node.js via Java kan du manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma samt gruppera &amp; avgruppera rader &amp; kolumner.
+ Aspose.Cells for Node.js via Java låter dig manipulera rader och kolumner på många olika sätt. Du kan enkelt justera radhöjden &amp; kolumnbredd, anpassa cellerna automatiskt efter innehållet, infoga &amp; ta bort, dölj &amp; av-gömma såväl som grupp &amp; avgruppera rader &amp; kolumner.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Omfattande stöd för formatering av arbetsblad
+ Omfattande stöd för formatering av arbetsblad
     </h2>
     <p>
-     Aspose.Cells för Node.js via Java tillhandahåller avancerade formateringsfunktioner som låter dig styra presentationen av dina data. Du kan tillämpa formatering på ett kalkylblad, kolumn, rad eller en cell eller lägga till Rich Text i en enskild cell, tillämpa ramar, ange bakgrundsmönster och teckensnittsstil. Med API kan du också lägga till, manipulera &amp; beräkna regler för villkorlig formatering i farten.
+Aspose.Cells for Node.js via Java tillhandahåller avancerade formateringsfunktioner som låter dig styra presentationen av dina data. Du kan tillämpa formatering på ett kalkylblad, kolumn, rad eller en cell eller lägga till Rich Text i en enskild cell, tillämpa kanter, ange bakgrundsmönster och teckensnittsstil. API tillåter också att lägga till, manipulera &amp; beräkna regler för villkorlig formatering i farten.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Skapa diagram, manipulering &amp; Tolkning
+ Skapa diagram, manipulering &amp; Tolkning
     </h2>
     <p>
-     Aspose.Cells för Node.js via Java ger fullständigt stöd för diagram. Man kan enkelt lägga till anpassade eller standarddiagram med hjälp av API och dynamiskt ställa in data för att uppdatera diagrammen.
+ Aspose.Cells for Node.js via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till anpassade eller standarddiagram med hjälp av API, och dynamiskt ställa in data för att uppdatera diagrammen.
     </p>
    </div>
   </div>
@@ -380,12 +379,12 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för Node.js via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -394,7 +393,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

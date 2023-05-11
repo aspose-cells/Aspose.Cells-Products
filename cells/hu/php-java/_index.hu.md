@@ -1,11 +1,10 @@
 ---
-title: Excel-táblázat PHP API - Aspose 
+title:  Excel-táblázat PHP API - Aspose
 weight: 3660
-
-description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML és az összes Excel 97-2016 formátum olvasásához és konvertálásához. Táblázatok exportálása több formátumba
+description: API PHP Excel táblázat az írás olvasásához és konvertálásához XLS XLSX CSV TSV HTML ODS SpreadsheetML és minden 0 Excel1 697-2 formátum. Exportálja a táblázatokat több formátumba
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel táblázat API" h2="Táblázatkezelési feladatokat hajthat végre, valamint Excel-fájlokat exportálhat több formátumba Microsoft Excel-függőségek nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP Excel táblázat API" h2="Táblázatkezelési feladatok végrehajtása, valamint Excel-fájlok exportálása több formátumba Microsoft Excel-függőségek nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -13,7 +12,7 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP a(z) Java-on keresztül egy méretezhető és funkciókban gazdag Excel-táblázatkezelő és -feldolgozás API. Az alkalmazások végrehajthatják a táblázatkezelési formátumok konvertálását, a diagramkezelést és a renderelést, a képletek megvalósítását, a munkalapok legrészletesebb szintre történő stílusát és még sok mást. A API támogatja az XLS, XLSX, ODS, SpreadsheetML, CSV, tabulátorral tagolt, HTML/MHTML, PDF, XPS és más formátumokat. A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
+ Aspose.Cells for PHP via Java egy méretezhető és funkciókban gazdag Excel táblázatkezelő és -feldolgozás API. Az alkalmazások táblázatos formátum konvertálást, diagramkezelést és megjelenítést, képletek implementálását, munkalapok stílusát a legrészletesebb szintre és sokkal részletesebb A API támogatja a XLS, XLSX, ODS, SpreadsheetML, CSV, Tabulátorral tagolt, HTML/MHTML és MHTML egyéb formátumokat s. A fejlesztők könnyedén hozzáadhatják az Excel-fájlok létrehozásának, szerkesztésének, konvertálásának és renderelésének lehetőségét PHP-alkalmazásaikban a JavaBridge használata közben.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Cells áttekintése a PHP számára a Java képességeken keresztül." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Cells for PHP via Java képességek áttekintése." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Renderelés
+ Renderelés
    </header>
    <ul>
     <li>
-     Átalakítsa a diagramot képpé
+ Átalakítsa a diagramot képpé
     </li>
     <li>
-     Munkalap konvertálása képpé
+ Munkalap konvertálása képpé
     </li>
     <li>
-     Konvertálja a táblázatot PDF-be
+Konvertálja a táblázatot PDF-re
     </li>
    </ul>
   </div>
@@ -47,23 +46,23 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
    <header>
     <i class="fa fa-cogs">
     </i>
-    Adatfeldolgozás
+ Adatfeldolgozás
    </header>
    <ul>
     <li>
-     Diagramok
+ Diagramok
     </li>
     <li>
-     Képlet számítás
+ Képlet számítás
     </li>
     <li>
-     Intelligens jelölők
+ Intelligens jelölők
     </li>
     <li>
-     Pivot táblák
+ Pivot táblák
     </li>
     <li>
-     Feltételes formázás
+ Feltételes formázás
     </li>
    </ul>
    <!--
@@ -97,9 +96,9 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    PHP a következőn keresztül: Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -108,7 +107,7 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A(z) Aspose.Cells PHP-hez a(z) Java-on keresztül PHP 7.1 (vagy újabb) és JavaBridge szükséges. Bármilyen platformon futhat, ahol ezek a követelmények teljesíthetők." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Aspose.Cells for PHP via Java PHP 7.1 (vagy újabb) és JavaBridge szükséges. Bármilyen platformon futhat, ahol ezek a követelmények teljesíthetők." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -118,19 +117,19 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
    <header>
     <i class="fa fa-cubes">
     </i>
-    ablakok
+    Windows
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux
+ Linux
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Mac operációs rendszer
+ Mac operációs rendszer
    </header>
    <!--
 
@@ -155,9 +154,9 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    PHP a következőn keresztül: Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -166,37 +165,37 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Cells for PHP a Java-on keresztül támogatja a népszerű táblázatformátumokat, valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumokat." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Cells for PHP via Java támogatja a népszerű táblázatformátumokat, valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumokat." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet kimenet
+ Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Szöveg:
+ Szöveg:
      </b>
-     CSV, tabulátorral tagolt, TXT
+ CSV, Tabulátorral tagolt, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -207,18 +206,18 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Csak kimenet
+ Csak kimenet
    </header>
    <ul>
     <li>
      <b>
-      Rögzített elrendezés:
+ Rögzített elrendezés:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Képek:
+ Képek:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -235,9 +234,9 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    PHP a következőn keresztül: Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -256,7 +255,7 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Fejlett PHP-táblázat API-szolgáltatások
+ Speciális PHP-táblázat API funkciók
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -265,117 +264,117 @@ description: PHP Excel táblázat API az XLS XLSX CSV TSV HTML ODS SpreadsheetML
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Támogatás a CSV-hez, tabulátorral tagolt &amp; HTML formátumok
+ Támogatás a CSV, tabulátorral tagolt &amp; HTML formátumban
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Betöltés &amp; mentse az OpenDocument Spreadsheet (ODS) formátumot
+ Betöltés &amp; mentse az OpenDocument Spreadsheet (ODS) formátumot
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása, manipulálása &amp; diagramok megjelenítése
+ Létrehozása, manipulálása &amp; diagramok megjelenítése
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Képletek importálása tervezői táblázatból
+ Képletek importálása tervezői táblázatból
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurálja az oldal beállítását
+ Konfigurálja az oldal beállítását
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Megjegyzések létrehozása és manipulálása
+ Megjegyzések létrehozása és manipulálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Automatikus szűrők beállítása &amp; oldaltörések
+ Automatikus szűrők beállítása &amp; oldaltörések
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Beállítás &amp; bonyolult képleteket számítani
+ Beállítás &amp; bonyolult képleteket számítani
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a feltételes formázási szabályokat
+ Létrehozás &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Állítsa be a biztonsági/védelmi beállításokat
+ Állítsa be a biztonsági/védelmi beállításokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Töltse fel a munkalapokat az intelligens jelölők segítségével
+ Töltse fel a munkalapokat az intelligens jelölők segítségével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása, manipulálása &amp; Pivot Tables frissítése
+ Létrehozása, manipulálása &amp; Pivot Tables frissítése
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Munkalapok exportálása SVG formátumban
+ Munkalapok exportálása SVG formátumban
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; csillogó fényeket készít
+ Létrehozás &amp; csillogó fényeket készít
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertálja az Excel fájlokat XPS, PDF és amp; HTML
+ Konvertálja az Excel fájlokat XPS, PDF és amp; HTML
     </h2>
     <p>
-     A Aspose.Cells for PHP a Java API-on keresztül képes az Excel-fájlok XPS-, XPS- és HTML-formátumokká konvertálására, valamint a legmagasabb vizuális hűség megőrzésére. Az átalakítási folyamat megbízható, és a fejlesztők néhány sorral megkaphatják a kívánt formátumot.
+ A Aspose.Cells for PHP via Java API képes Excel-fájlok konvertálására XPS, XPS és HTML formátumba, valamint a legmagasabb vizuális hűség megőrzésére. Az átalakítási folyamat megbízható, és a fejlesztők néhány sorral megkaphatják a kívánt formátumot.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Táblázat mentése több formátumban – PHP
+Táblázat mentése több formátumban – PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -394,37 +393,37 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rendereljen Excel-táblázatokat &amp; Objektumok PDF-be &amp; Képek
+ Excel-táblázatok renderelése &amp; Objektumok a PDF &amp; Képek
     </h2>
     <p>
-     A(z) Aspose.Cells for PHP a(z) Java-on keresztül saját renderelő motorral rendelkezik, amelyet kifejezetten a Microsoft Excelhez való legmagasabb renderelésre terveztek. Ha a(z) Aspose.Cells-ot PHP-hez használja a(z) Java-on keresztül, konvertálhat teljes táblázatokat, egyedi munkalapokat és amp; diagramok számos képhez &amp; rögzített elrendezésű formátumok.
+ Aspose.Cells for PHP via Java saját renderelő motorral rendelkezik, amelyet kifejezetten a Microsoft Excelhez való maximális renderelésre terveztek. A Aspose.Cells for PHP via Java használata közben teljes táblázatokat, egyedi munkalapokat és munkalapokat konvertálhat. diagramok számos képhez &amp; rögzített elrendezésű formátumok.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rugalmas munkalap megjelenítési lehetőségek
+ Rugalmas munkalap megjelenítési lehetőségek
     </h2>
     <p>
-     A Aspose.Cells for PHP a(z) Java segítségével teljes irányítást biztosít a munkalap oldalbeállításai felett, így lehetővé teszi az Excel munkalap megjelenítési beállításainak, például az oldaltörések, az oldaltájolás, a méretezés, a papírméret, a fejlécek/láblécek módosítását. zoom szint. Az adatok láthatóságát is szabályozhatja a rögzítőpanelek &amp; nyomtatási területet az alkalmazási követelményeknek megfelelően.
+ Aspose.Cells for PHP via Java teljes ellenőrzést biztosít a munkalap oldalbeállítása felett, így lehetővé teszi az Excel munkalap megjelenítési beállításainak, például az oldaltörések, az oldaltájolás, a méretezés, a papírméret, a fejlécek/láblécek kezelését. zoom szint. Az adatok láthatóságát a rögzítőpanelek &amp; nyomtatási területet az alkalmazási követelményeknek megfelelően.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Hatékony, robusztus és Megbízható képletszámító motor
+ Hatékony, robusztus és amp; Megbízható képletszámító motor
     </h2>
     <p>
-     A(z) Aspose.Cells for PHP a(z) Java-on keresztül hatékony képletszámítási motorral van felszerelve, amely szinte az összes szabványos és haladó Microsoft Excel képletet és függvényt támogatja. Elolvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.
+Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engine-rel van felszerelve, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Olvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vizualizálja az adatokat formázással, diagramokkal és grafikonokkal; Grafika
+ Vizualizálja az adatokat formázás, diagramok és amp; Grafika
     </h2>
     <p>
-     könyvtár annyira rugalmas, hogy a táblázatok mindenféle vizuális effektussal elláthatók, valamint formázást alkalmazhatunk egy munkalapon, soron, oszlopon vagy cellán, beállíthatunk betűtípusokat attribútumokkal, meghatározhatunk cella stílust és amp; számformátumokat, Rich Text hozzáadását és feltételes formázási szabályok meghatározását.
+ A könyvtár annyira rugalmas, hogy a táblázatok mindenféle vizuális effektussal elláthatók, valamint formázást alkalmazhatunk egy munkalapon, soron, oszlopon vagy cellán, beállíthatunk betűtípusokat attribútumokkal, meghatározhatunk cella stílust és amp; számformátumokat, Rich Text hozzáadását és feltételes formázási szabályok meghatározását.
     </p>
     <p>
-     Hasonlóképpen, a professzionális megjelenés és a könnyen érthető diagramok és grafikák szerves részét képezik. A Aspose.Cells for PHP a Java API-kon keresztül minden típusú szabványos és egyéni diagramot képes létrehozni és kezelni. Ezen túlmenően, különböző típusú rajzobjektumok könnyen hozzáadhatók a cellákhoz.
+ Hasonlóképpen, a professzionális megjelenés és a könnyen érthető diagramok és grafikák szerves részét képezik. Aspose.Cells for PHP via Java Az API-k minden típusú szabványos és egyéni diagramot képesek létrehozni és kezelni. Ezen túlmenően, különböző típusú rajzobjektumok könnyen hozzáadhatók a cellákhoz.
     </p>
    </div>
   </div>
@@ -439,17 +438,17 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://reference.aspose.com/php/cells" >}}
+{{< blocks/products/pf/slr-element name="API Referenciák" href="https://reference.aspose.com/php/cells" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells PHP-hez a(z) Java-on keresztül?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

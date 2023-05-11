@@ -1,8 +1,7 @@
 ---
-title: Tabulka Android Excel API – Aspose 
+title: Tabulka Android Excel API – Aspose
 weight: 6510
-
-description: Knihovna tabulek pro Android pro vytváření souborů Excel pro čtení, zápis a analýzu. Tabulka API pro vývoj mobilních aplikací
+description: Knihovna tabulkových procesorů Android pro vytváření souborů aplikace Excel pro čtení, zápis a analýzu. Tabulka API pro vývoj mobilních aplikací
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Android API pro manipulaci s tabulkami Excel" h2="Vytvářejte, čtěte, zapisujte nebo manipulujte se soubory Excel v aplikacích pro Android bez jakýchkoli závislostí." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
@@ -13,7 +12,7 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro Android prostřednictvím Java je škálovatelné API pro programové generování, kombinování, úpravy a analýzu tabulek. API nabízí mnoho funkcí včetně formátování dokumentu v Excelu a úloh nastavení stránky, možností importu a exportu, vykreslování stránek listu na rastrové obrázky a také specifikování rozlišení obrázků, kvality, komprese, přidávání různých grafů a mnoho dalšího. Tabulka Android API podporuje formáty XLS, XLSX, CSV, SpreadsheetML, ODS, oddělené tabulátory, HTML, PDF, XPS a další.
+ Aspose.Cells for Android via Java je škálovatelné API pro programové generování, kombinování, úpravy a analýzu tabulek. API nabízí mnoho funkcí včetně formátování dokumentů v Excelu a úloh nastavení stránky, možností importu a exportu, vykreslování stránek listu na rastrové obrázky a také specifikování rozlišení obrazu, kvality, komprese, přidávání různých grafů a mnoho dalšího. Tabulka Android API podporuje formáty XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, 071113481, 0711,13 a další formáty 481.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
    <header>
     <i class="fa fa-refresh">
     </i>
-    Import &amp; Vývozní
+ Import &amp; Vývozní
    </header>
    <ul>
     <li>
-     Pole
+ Pole
     </li>
     <li>
-     Sada výsledků
+ Sada výsledků
     </li>
     <li>
-     Sbírky
+Sbírky
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Vykreslování
+ Vykreslování
    </header>
    <ul>
     <li>
-     Graf k obrázku
+ Graf k obrázku
     </li>
     <li>
-     Pracovní list k obrázku
+ Pracovní list k obrázku
     </li>
     <li>
-     Tabulkový procesor do PDF
+ Tabulka na PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
    <header>
     <i class="fa fa-table">
     </i>
-    Zpracování dat
+ Zpracování dat
    </header>
    <ul>
     <li>
-     Použít formátování
+ Použít formátování
     </li>
     <li>
-     Použít vzorec
+ Použít vzorec
     </li>
     <li>
-     Vytvářejte grafy
+ Vytvářejte grafy
     </li>
     <li>
-     Shrnout
+ Shrnout
     </li>
     <li>
-     Chytré značky
+ Chytré značky
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Android přes Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro Android prostřednictvím Java je k dispozici pro Android 2.0 nebo vyšší." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for Android via Java je k dispozici for Android 2.0 nebo vyšší." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Android Runtime Environment
+ Android Runtime Environment
    </header>
    <ul>
     <li>
-     Mobilní aplikace
+ Mobilní aplikace
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Android přes Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Tabulka Android API podporuje oblíbené formáty Microsoft Excel, obrázky a formáty s pevným rozvržením." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Tabulka Android API podporuje oblíbené formáty Excelu Microsoft, obrázky a formáty s pevným rozložením." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup výstup
+ Vstup výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Snímky:
+ Snímky:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Android přes Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce Android Excel API
+ Pokročilé funkce Android Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Použít formátování na list, řádek, sloupec, buňku a rozsah
+Použít formátování na list, řádek, sloupec, buňku a rozsah
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Export a import dat z ArrayList, Array, Recordset &amp; Sada výsledků
+ Export a import dat z ArrayList, Array, Recordset &amp; Sada výsledků
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Šifrovat &amp; dešifrovat soubory Excel
+ Šifrovat &amp; dešifrovat soubory Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavte formátování čísel
+ Nastavte formátování čísel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s grafy
+ Vytvořit &amp; manipulovat s grafy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s komentáři
+ Vytvořit &amp; manipulovat s komentáři
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Číst, nastavovat &amp; vypočítat vzorce
+ Přečíst, nastavit &amp; vypočítat vzorce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nakonfigurujte nastavení stránky
+ Nakonfigurujte nastavení stránky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavit &amp; manipulovat s automatickými filtry &amp; konce stránek
+ Nastavit &amp; manipulovat s automatickými filtry &amp; konce stránek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Číst &amp; zapisovat podmíněné formátování
+ Číst &amp; zapisovat podmíněné formátování
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářejte kopie existujících listů
+ Vytvářejte kopie existujících listů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavení možností ochrany zavedených od Microsoft Excel XP
+ Nastavení možností ochrany zavedených od Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulovat s buňkami & pojmenované rozsahy
+ Manipulovat s buňkami & pojmenované rozsahy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Převeďte soubory Excel do PDF
+ Převeďte soubory aplikace Excel na PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Převést pracovní listy &amp; grafy k obrázkům
+ Převést pracovní listy &amp; grafy k obrázkům
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Knihovna tabulek pro Android pro vytváření souborů Excel pro č
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s kontingenčními tabulkami
+ Vytvořit &amp; manipulovat s kontingenčními tabulkami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s vlastními grafy
+ Vytvořit &amp; manipulovat s vlastními grafy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sledování precedentů a závislostí
+ Sledování precedentů a závislostí
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat se scénáři
+ Vytvořit &amp; manipulovat se scénáři
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Výkonný motor pro výpočet vzorce
+Výkonný motor pro výpočet vzorce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Číst &amp; napište TSV, CSV &amp; HTML soubory
+ Číst &amp; napište TSV, CSV &amp; HTML souborů
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konverze různých formátů
+ Konverze různých formátů
     </h2>
     <p>
-     Knihovna Android Excel nabízí převod tabulek do XPS, PDF &amp; Formáty HTML zachovávající nejvyšší vizuální věrnost. Spolehlivý proces převodu dělá z API dokonalou volbu pro společnosti pro výměnu souborů ve standardních formátech.
+ Knihovna Android Excel nabízí převod tabulek na XPS, PDF &amp; HTML formáty zachovávající nejvyšší vizuální věrnost. Díky spolehlivému procesu převodu je API perfektní volbou pro společnosti pro výměnu souborů ve standardních průmyslových formátech.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Uložit sešit v různých formátech – Java
+ Uložit sešit v různých formátech - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Převeďte objekty tabulky do různých formátů
+ Převeďte objekty tabulky do různých formátů
     </h2>
     <p>
-     Aspose.Cells pro Android prostřednictvím Java nabízí některé charakteristické funkce, jako jsou pracovní listy s obrázky, grafy s obrázky a Konverze formátu PDF a tabulek do formátu PDF. Flexibilní proces má řadu možností převodu, jako je převzorkování obrázků během tabulek do PDF nebo nastavení výsledných rozměrů obrázku při vykreslování pracovních listů &amp; grafy do obrazových formátů.
+ Aspose.Cells for Android via Java nabízejí některé charakteristické funkce, jako jsou pracovní listy k obrázkům, grafy k obrázkům &amp; PDF a převod tabulek do formátu dokumentu PDF. Flexibilní proces má řadu voleb pro převod, jako je převzorkování obrázků během tabulek na PDF nebo nastavení výsledných rozměrů obrázku při vykreslování pracovních listů &amp; grafy do obrazových formátů.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tabulkový procesor API Formula Calculation Engine
+Tabulkový procesor API Formule Calculation Engine
     </h2>
     <p>
-     Tabulky Android API poskytují výkonný modul pro výpočet vzorců, který podporuje pokročilé a standardní funkce a vzorce aplikace Microsoft Excel. Modul výpočtu vzorců usnadňuje čtení, nastavení a výpočet výsledků vzorců vestavěného nebo doplňkového typu, pole a referenčního stylu R1C1.
+ Tabulky pro Android API poskytují výkonný modul pro výpočet vzorců podporující pokročilé a standardní funkce a vzorce Excelu Microsoft. Modul pro výpočet vzorců usnadňuje čtení, nastavení a výpočet výsledků vzorců vestavěného nebo doplňkového typu, pole a referenčního stylu R1C1.
     </p>
    </div>
    <!--
@@ -578,12 +577,12 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro Android prostřednictvím Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -592,7 +591,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

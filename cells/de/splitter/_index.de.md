@@ -1,6 +1,5 @@
 ---
-title: Teilen Sie Excel-Tabellen unter Windows, Linux und macOS auf 
-
-description: Kostenlose App und APIs zum Teilen von XLS-, XLSX-, XLSB-, XLSM- und ODS-Dateien
+title:  Teilen Sie Excel-Tabellen auf Windows, Linux und macOS
+description: Kostenlose App und APIs zum Teilen der Dateien XLS, XLSX, XLSB, XLSM und ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 

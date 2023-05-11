@@ -1,8 +1,7 @@
 ---
-title: Entfernen Sie Kommentare aus Excel-Dateien unter Windows, Linux und macOS 
+title:  Entfernen Sie Kommentare aus Excel-Dateien unter Windows, Linux und macOS
 weight: 7730
-
-description: Kostenlose App und APIs für die Verwaltung von Anmerkungen und Kommentaren in Excel XLS, XLSX und ODS
+description: Kostenlose App und APIs für Excel XLS, XLSX und ODS Anmerkungs- und Kommentarverwaltung
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

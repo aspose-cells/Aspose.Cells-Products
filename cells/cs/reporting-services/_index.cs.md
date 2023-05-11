@@ -1,8 +1,7 @@
 ---
-title: Exportujte sestavy RDL do Excelu XLS XLSX a SpreadsheetML na SQL Server 
+title:  Export sestav RDL do Excelu XLS XLSX a SpreadsheetML na SQL Server
 weight: 3460
-
-description: Rozšíření vykreslování SQL Server Reporting Services – Export Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML formáty ODS a TXT
+description: Rozšíření vykreslování SQL Server Reporting Services – Export Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS a formát ODS a 076173461
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Rozšíření Reporting Services pro doručování zpráv jako souborů aplikace Excel" h2="Snadno exportujte sestavy RDL a RDLC do tabulkových souborů aplikace Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
@@ -13,7 +12,7 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro Reporting Services vám umožňuje doručovat sestavy Excel ze služeb Microsoft SQL Server Reporting Services a Microsoft Report Viewer. Na rozdíl od nativního exportéru pro sestavy založené na Excelu - Aspose.Cells pro Reporting Services umožňuje převod RDL &amp; RDLC sestavy do řady formátů souborů tabulkových procesorů Excel.
+ Aspose.Cells for Reporting Services vám umožňuje doručovat sestavy Excel ze služeb Microsoft SQL Server Reporting Services a Microsoft Report Viewer. Na rozdíl od nativního exportéru pro sestavy založené na Excelu - Aspose.Cells for Reporting Services umožňuje převod RDL &amp; RDLC sestavy do řady formátů souborů Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells pro Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells for Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    Podpora RDL
+ Podpora RDL
    </header>
    <ul>
     <li>
-     Strana
+ Strana
     </li>
     <li>
-     Záhlaví zápatí
+ Záhlaví zápatí
     </li>
     <li>
-     Textová pole
+ Textová pole
     </li>
     <li>
-     snímky
+ snímky
     </li>
     <li>
-     Dílčí sestavy
+ Dílčí sestavy
     </li>
     <li>
-     Grafy
+ Grafy
     </li>
     <li>
-     Seznamy
+ Seznamy
     </li>
     <li>
-     Tabulky
+ Tabulky
     </li>
     <li>
-     Měřidlo
+ Měřidlo
     </li>
     <li>
-     Matrice
+ Matrice
     </li>
     <li>
-     Obdélníky/Čáry
+ Obdélníky/Čáry
     </li>
     <li>
-     Styly
+ Styly
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
    <header>
     <i class="fa fa-cogs">
     </i>
-    Zpracování dat
+ Zpracování dat
    </header>
    <ul>
     <li>
-     Vzorce služeb sestav
+ Vzorce služeb sestav
     </li>
     <li>
-     Dynamické vzorce
+ Dynamické vzorce
     </li>
     <li>
-     Tabulky se seskupenými řádky
+ Tabulky se seskupenými řádky
     </li>
     <li>
-     Tabulky se seskupeným zápatím
+ Tabulky se seskupeným zápatím
     </li>
     <li>
-     MS Query
+ MS Query
     </li>
     <li>
-     Zdroj dat konkrétní sestavy
+ Zdroj dat konkrétní sestavy
     </li>
     <li>
-     Sdílený zdroj dat
+ Sdílený zdroj dat
     </li>
     <li>
-     Šifrování
+ Šifrování
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    Návrhář sestav
+ Návrhář sestav
    </header>
    <ul>
     <li>
-     Kontingenční tabulky
+ Kontingenční tabulky
     </li>
     <li>
-     Interaktivní grafy
+ Interaktivní grafy
     </li>
     <li>
-     Vzorce
+ Vzorce
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Reporting Services
+ Reporting Services
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro Reporting Services podporuje Microsoft SQL Server Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for Reporting Services podporuje Microsoft SQL Server Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,14 +150,14 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SQL Server Reporting Services
+ SQL Server Reporting Services
    </header>
    <ul>
     <li>
      2005
     </li>
     <li>
-     2008 a 2008 R2
+ 2008 a 2008 R2
     </li>
     <li>
      2012
@@ -183,9 +182,9 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Reporting Services
+ Reporting Services
    </small>
   </footer>
  </div>
@@ -194,14 +193,14 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells pro Reporting Services podporuje běžně používané tabulky [formáty souborů](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for Reporting Services podporuje běžně používané tabulky[formáty souborů](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Pouze vstup
+ Pouze vstup
    </header>
    <ul>
     <li>
@@ -217,36 +216,36 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSM, XLSB, XML
+ XLS, XLSX, XLSM, XLSB, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, TSV, textový soubor s rozlišením Tab
+ CSV, TSV, TabDelimited textový soubor
     </li>
     <li>
      <strong>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    Reporting Services
+ Reporting Services
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce Reporting Services
+ Pokročilé funkce Reporting Services
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportujte soubor formátu MarkDown
+ Exportujte soubor formátu MarkDown
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora přerušení stránky skupiny Tablix
+ Podpora Tablix Group Page Break
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generovat více karet
+ Generovat více karet
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sbalte nebo rozbalte pole kontingenční tabulky
+ Sbalte nebo rozbalte pole kontingenční tabulky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora provádění minusových výpočtů
+ Podpora provádění minusových výpočtů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vyvolejte tiskový formát MS Excel
+ Vyvolejte tiskový formát MS Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podporovány grafy MS Excel 2016
+ Podporovány grafy MS Excel 2016
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Upravte nastavení okrajů stránky v Tabulkách aplikace Excel
+ Upravte nastavení okrajů stránky v Tabulkách aplikace Excel
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells' Nástroj pro návrh sestav
+ Aspose.Cells' Nástroj pro návrh sestav
     </h2>
     <p>
-     Vývojáři mohou navrhovat a dodávat sestavy přímo z aplikace Microsoft Excel pomocí Aspose.Cells.Report.Designer – jednoduchého nástroje pro navrhování, který jako šablonu sestavy používá aplikaci Microsoft Excel. Tato funkce umožňuje využívat všechny výkonné funkce a funkce dostupné v aplikaci Microsoft Excel, včetně kontingenčních tabulek, interaktivních grafů, vzorců a tak dále.
+Vývojáři mohou navrhovat a dodávat sestavy přímo z Microsoft Excelu a používat Aspose.Cells.Report.Designer – jednoduchý návrhářský nástroj, který používá Microsoft Excel jako šablonu sestav. Tato funkce umožňuje využívat všechny výkonné funkce a funkce dostupné v aplikaci Excel Microsoft včetně kontingenčních tabulek, interaktivních grafů, vzorců a tak dále.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Export sestav do tabulkových formátů
+ Export sestav do tabulkových formátů
     </h2>
     <p>
-     Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty souborů Microsoft Excel (97 – 2016), včetně „nativních“ formátů Microsoft Excel, jako jsou XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab Delimited a HTML. Aspose.Cells pro Reporting Services také podporuje formát souboru ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services podporuje všechny oblíbené formáty souborů Microsoft Excel (97 - 2016), včetně „nativních“ Microsoft formátů Excel, jako je XLS, XLSX, 08171636 81717636 81717634 Tab Delimited a HTML. Aspose.Cells for Reporting Services také podporují formát souboru ODS (OpenDocument Spreadsheet).
     </p>
     <p>
-     Kromě toho služba Aspose.Cells pro Reporting Services exportuje dokumenty Excel jako plně upravitelné tabulky, tzn. koncový uživatel může v případě potřeby upravovat výsledné tabulky ručně v aplikaci Microsoft Excel.
+ Kromě toho Aspose.Cells for Reporting Services exportujte dokumenty Excel jako plně upravitelné tabulky, tzn. koncový uživatel může v případě potřeby upravovat výsledné tabulky ručně v aplikaci Excel Microsoft.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vysoká věrnost – identická s návrhem sestavy
+ Vysoká věrnost – identická s návrhem sestavy
     </h2>
     <p>
-     Aspose.Cells pro Reporting Services exportuje sestavy do tabulek aplikace Microsoft Excel tak, aby se výsledek jevil jako totožný s původním, který byl vygenerován vestavěným návrhářem sestav Reporting Services. Všechny funkce sestav jsou převedeny na nejvyšší stupeň přesnosti, aby tabulky aplikace Microsoft Excel vypadaly co nejvíce podobně jako ty původní.
+Aspose.Cells for Reporting Services exportujte sestavy do Microsoft tabulek Excelu tak, aby se výsledek jevil jako totožný s původním, jak je vygenerován vestavěným návrhářem sestav Reporting Services. Všechny funkce sestav jsou převedeny na nejvyšší stupeň přesnosti, aby Microsoft Excelové tabulky vypadaly co nejvíce podobně jako ta původní.
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Různé možnosti zpracování dat
+ Různé možnosti zpracování dat
     </h2>
     <p>
-     Aspose.Cells pro Reporting Services podporuje tabulky se seskupenými řádky a zápatími, zatímco seskupení lze nastavit v době návrhu jako jiné položky sestavy. Aspose.Cells pro Reporting Services také podporuje parametry a globální proměnné jako zdroje dat sestav. Vývojáři mohou také využít Microsoft Query k vytváření zdrojů dat a dotazů; toto je široce používaný nástroj a známý většině uživatelů.
+ Aspose.Cells for Reporting Services podporuje tabulky se seskupenými řádky a zápatím, přičemž seskupení lze nastavit v době návrhu jako ostatní položky sestavy. Aspose.Cells for Reporting Services také podporuje parametry a globální proměnné jako zdroje dat sestav. Vývojáři mohou také využít Microsoft Query pro vytváření zdrojů dat a dotazů; toto je široce používaný nástroj a známý většině uživatelů.
     </p>
     <p>
-     Kromě toho služba Aspose.Cells pro Reporting Services podporuje zdroje dat specifické pro sestavy i sdílené zdroje dat vytvořené na serveru sestav předem. Vývojáři mohou používat zdroje dat specifické pro sestavy v době návrhu a specifikovat sdílené zdroje dat jako zdroje dat sestav při publikování sestav.
+Kromě toho Aspose.Cells for Reporting Services podporuje jak zdroje dat specifické pro sestavy, tak sdílené zdroje dat vytvořené na serveru sestav předem. Vývojáři mohou používat zdroje dat specifické pro sestavy v době návrhu a specifikovat sdílené zdroje dat jako zdroje dat sestav při publikování sestav.
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automatizace Microsoft Office – není potřeba
+ Microsoft Automatizace Office – není potřeba
     </h2>
     <p>
-     Aspose.Cells pro Reporting Services je vytvořen pomocí spravovaného kódu, který nikdy nevyžaduje instalaci sady Microsoft Office nebo Microsoft Excel do počítače, aby mohl pracovat s formáty dokumentů aplikace Excel. Jedná se o dokonalou automatizační alternativu Microsoft Excel z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
+ Aspose.Cells for Reporting Services je vytvořen pomocí spravovaného kódu, který nikdy nevyžaduje instalaci Microsoft Office nebo Microsoft Excel do počítače, aby mohl pracovat s formáty dokumentů aplikace Excel. Jedná se o perfektní alternativu automatizace Excelu Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
     </p>
    </div>
   </div>
@@ -445,12 +444,12 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro Reporting Services?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -459,7 +458,7 @@ description: Rozšíření vykreslování SQL Server Reporting Services – Expo
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,11 +1,10 @@
 ---
-title: C++ Excel táblázatkezelő programozás API - Aspose 
+title:  C++ Excel táblázatkezelő programozás API - Aspose
 weight: 7140
-
-description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlok olvasásához és elemzéséhez. Konvertálja a táblázatokat PDF, CSV és egyéb formátumokká
+description: C++ Excel könyvtár a XLS, XLSX, XLSM és XLSB formátumú fájlok olvasásához és elemzéséhez. A táblázatok konvertálása PDF, CSV és több formátumra
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API-k" h2="Hozzon létre, olvasson, írjon és elemezhet táblázatokat Microsoft Excel-függőségek nélkül a teljes funkcionalitású C++ alkalmazásokban." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel Spreadsheets API-k" h2="Táblázatok létrehozása, olvasása, írása és elemzése Microsoft Excel-függőségek nélkül a teljes funkcionalitású C++ alkalmazásokban." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +12,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A(z) Aspose.Cells for C++ egy natív C++ API a táblázatkezeléshez. Az alkalmazások olyan funkciókat hajthatnak végre, mint például a táblázatok beépített és egyéni tulajdonságainak létrehozása, konvertálása és szerkesztése, témák, stílusok és formázások, adatellenőrzés, feltételes formázás, képletek olvasása, írása és kiszámítása, sorok és oszlopok csoportosítása és még sok más anélkül, hogy az Office Automation szolgáltatásra támaszkodna. vagy Microsoft Excel. A API támogatja a leggyakrabban használt táblázatformátumokat, mint például az XLS, XLSX, XLSM és XLSB.
+ A Aspose.Cells for C++ egy natív C++ API a táblázatkezeléshez. Az alkalmazások olyan funkciókat hajthatnak végre, mint például a táblázatok beépített és egyéni tulajdonságainak létrehozása, konvertálása és szerkesztése, témák, stílusok és formázások, adatellenőrzés, feltételes formázás, képletek olvasása, írása és kiszámítása, sorok és oszlopok csoportosítása és még sok más anélkül, hogy az Office Automation szolgáltatásra támaszkodna. vagy Microsoft Excel. A API támogatja a leggyakrabban használt táblázatformátumokat, például a XLS, XLSX, XLSM és XLSB.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,39 +20,39 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="API áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A API szám áttekintése." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-retweet">
     </i>
-    Formátum átalakítás
+ Formátum átalakítás
    </header>
    <br/>
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    Adatfeldolgozás
+ Adatfeldolgozás
    </header>
    <ul>
     <li>
-     Pivot tábla
+ Pivot tábla
     </li>
     <li>
-     Táblázatok
+ Táblázatok
     </li>
     <li>
-     Diagramok
+ Diagramok
     </li>
     <li>
-     Képletek számítása
+Képletek számítása
     </li>
     <li>
-     Adatok érvényesítése
+ Adatok érvényesítése
     </li>
     <li>
-     Feltételes formázás
+ Feltételes formázás
     </li>
    </ul>
   </div>
@@ -62,41 +61,41 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
    <header>
     <i class="fa fa-cogs">
     </i>
-    Manipuláció
+ Manipuláció
    </header>
    <ul>
     <li>
-     Táblázatok betöltése/mentése
+ Táblázatok betöltése/mentése
     </li>
     <li>
-     Adatmanipuláció
+ Adatmanipuláció
     </li>
     <li>
-     Beépített tulajdonságok
+ Beépített tulajdonságok
     </li>
     <li>
-     Egyéni tulajdonságok
+ Egyedi tulajdonságok
     </li>
     <li>
-     Témák
+ Témák
     </li>
     <li>
-     Stílusok &amp; Formázás
+ Stílusok &amp; Formázás
     </li>
     <li>
-     Hiperhivatkozások
+ Hiperhivatkozások
     </li>
     <li>
-     Automatikus szűrők
+ Automatikus szűrők
     </li>
     <li>
-     Oldal beállítása
+ Oldal beállítása
     </li>
     <li>
-     Képletek olvasása, írása
+ Képletek olvasása, írása
     </li>
     <li>
-     Sorok csoportosítása &amp; Oszlopok
+ Sorok csoportosítása &amp; Oszlopok
     </li>
    </ul>
   </div>
@@ -111,7 +110,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
     C++
    </small>
@@ -122,20 +121,20 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A API teljes mértékben támogatja a(z) C++ alkalmazást a következő platformokon: [rendszerkövetelmények](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description=" A API teljes mértékben támogatja a C++ alkalmazásokat a következő platformokon[rendszerkövetelmények](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 32 bites
+ Windows 32 bites
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 64 bites
+ Windows 64 bites
    </header>
   </div>
   <!--/left-->
@@ -143,7 +142,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux 64 bites
+ Linux 64 bites
    </header>
   </div>
   <!--/right-->
@@ -157,7 +156,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
     C++
    </small>
@@ -168,37 +167,37 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Cells for C++ támogatja a leggyakrabban használt táblázatot [fájlformátumok](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for C++ támogatja a leggyakrabban használt táblázatot[fájlformátumok](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet kimenet
+ Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Szöveg:
+ Szöveg:
      </b>
      CSV, TSV
     </li>
     <li>
      <strong>
-      Nyitott dokumentum:
+ Nyitott dokumentum:
      </strong>
      ODS
     </li>
     <li>
      <strong>
-      Egyéb:
+ Egyéb:
      </strong>
      HTML, MHTML
     </li>
@@ -209,24 +208,24 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Csak kimenet
+ Csak kimenet
    </header>
    <ul>
     <li>
      <b>
-      Excel:
+ Excel:
      </b>
      XLSM, XLTX, XLTM, XLAM
     </li>
     <li>
      <b>
-      Rögzített elrendezés:
+ Rögzített elrendezés:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Képek:
+ Képek:
      </b>
      JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
     </li>
@@ -243,7 +242,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
     C++
    </small>
@@ -264,7 +263,7 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Speciális C++ TáblázatAPI funkciók
+ Speciális C++ Táblázat API Jellemzők
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,146 +274,146 @@ description: C++ Excel-könyvtár az XLS, XLSX, XLSM és XLSB formátumú fájlo
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Betöltés &amp; mentse az Excel fájlokat adatfolyamok segítségével
+ Betöltés &amp; mentse az Excel fájlokat adatfolyamok segítségével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; diagramok manipulálása
+ Létrehozás &amp; diagramok manipulálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Állítsa be az adatellenőrzést a bevitel korlátozásához
+Állítsa be az adatellenőrzést a bevitel korlátozásához
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adatok rendszerezése sorok csoportosításával &amp; oszlopok
+ Adatok rendszerezése sorok csoportosításával &amp; oszlopok
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     A beépített &amp; egyéni tulajdonságok
+ A beépített &amp; egyéni tulajdonságok
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; manipulálni a hiperhivatkozásokat
+ &amp; manipulálni a hiperhivatkozásokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a kimutatástáblákat
+ Létrehozás &amp; manipulálni a kimutatástáblákat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Módosítsa a munkafüzet megjelenését témák használatával
+ Módosítsa a munkafüzet megjelenését témák segítségével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Táblázatok létrehozása &amp; objektumok listája
+ Táblázatok létrehozása &amp; objektumok listája
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rajzobjektumok manipulálása
+ Rajzobjektumok manipulálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stílusok és formázások alkalmazása cellákra, sorokra, oszlopokra vagy tartományokra
+ Stílusok és formázások alkalmazása cellákra, sorokra, oszlopokra vagy tartományokra
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trace Precedents &amp; Eltartottak
+ Előzmények nyomon követése &amp; Eltartottak
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Olvasás, írás és amp; bonyolult képleteket számítani
+ Olvasás, írás és amp; bonyolult képleteket számítani
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OLE objektumok hozzáadása vagy kibontása
+ OLE objektumok hozzáadása vagy kibontása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hozzon létre feltételes formázási szabályokat
+ Hozzon létre feltételes formázási szabályokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Felhasználó által definiált függvények létrehozása és megvalósítása
+ Felhasználó által definiált függvények létrehozása és megvalósítása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     A diagram konvertálása PDF formátumba
+ Átalakítsa a diagramot PDF formátumra
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Átalakítsa a diagramot képformátumra
+ Átalakítsa a diagramot képformátumra
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Nulla függőség a Microsoft Exceltől
+ Nulla függőség a Microsoft Exceltől
     </h2>
     <p>
-     Aspose Az API-k teljesen függetlenek, és nem kapcsolódnak a Microsoft Corporationhez, és nem is jogosultak, szponzorált vagy egyéb módon jóváhagyott. A(z) Aspose.Cells for C++ alkalmazásnak soha nem kell Microsoft Office-t vagy Microsoft Excelt telepítenie a gépre, hogy az Excel dokumentumformátumokkal működjön.
+ Aspose API-k teljesen függetlenek, és nem kapcsolódnak a Microsoft Corporation-hez, és nem is jogosultak, szponzorált vagy egyéb módon jóváhagyott. A Aspose.Cells for C++-nek soha nem kell a Microsoft Office-t vagy a Microsoft Excelt telepíteni a gépre, hogy az Excel dokumentumformátumokkal működjön.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Egyszerű &amp; Excel formátumok megbízható konvertálása
+ Egyszerű &amp; Excel formátumok megbízható konvertálása
     </h2>
     <p>
-     A Aspose.Cells for C++ olyan hatékony API-készlet, amely lehetővé teszi az Excel-fájlformátumok betöltését, szerkesztését, írását és egymás közötti konvertálását anélkül, hogy aggódnia kellene a formátumspecifikus részletek miatt. A API lehetővé teszi a táblázatok bármely támogatott formátumból bármely más támogatott formátumba konvertálását mindössze két sornyi kóddal. Ez ilyen egyszerű!
+ Aspose.Cells A for C++ olyan hatékony API-készlet, amely lehetővé teszi Excel-fájlformátumok betöltését, szerkesztését, írását és egymás közötti konvertálását anélkül, hogy aggódnia kellene a formátum-specifikus részletek miatt. A API lehetővé teszi a táblázatok bármely támogatott formátumból bármely más támogatott formátumba konvertálását mindössze két sornyi kóddal. Ennyire egyszerű!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Excel-fájlok konvertálása több formátumba - C++
+ Excel-fájlok konvertálása több formátumba - C++
      </h3>
      <pre><code class="cpp">// load the document for conversion
 
@@ -431,42 +430,42 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Átfogó táblázatformázás
+ Átfogó táblázatformázás
     </h2>
     <p>
-     Aspose.Cells for C++ speciális formázási funkciókkal teljes körűen szabályozza, hogyan szeretné megjeleníteni adatait a munkalapon. Alkalmazhat formázást egyes sorokra, oszlopokra, cellákra, vagy létrehozhat egy cellatartományt, és formázást alkalmazhat rájuk. Hozzáadhat formázott szöveget egy cellához, szegélyeket alkalmazhat, háttérmintákat állíthat be, vagy módosíthatja a betűtípussal kapcsolatos stíluselemeket.
+Aspose.Cells A for C++ fejlett formázási funkciókkal teljes körűen szabályozhatja, hogyan kívánja megjeleníteni adatait a munkalapon. Alkalmazhat formázást egyes sorokra, oszlopokra, cellákra, vagy létrehozhat egy cellatartományt, és formázást alkalmazhat rájuk. Emellett formázott szöveget is hozzáadhat egy cellához, szegélyeket alkalmazhat, háttérmintákat állíthat be, vagy módosíthatja a betűtípussal kapcsolatos stíluselemeket.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vizualizálja az adatokat diagramokkal
+ Vizualizálja az adatokat diagramokkal
     </h2>
     <p>
-     A Aspose.Cells for C++ API-k átfogó készletét kínálja az Excel alkalmazás által támogatott összes szabványos és egyéni diagramtípus dinamikus létrehozásához. A API lehetőséget biztosít egy meglévő diagram adatforrásának frissítésére és frissítésére is.
+ Aspose.Cells A for C++ API-k átfogó készletét kínálja az Excel alkalmazás által támogatott összes szabványos és egyéni diagramtípus dinamikus létrehozásához. A API egy meglévő diagram adatforrásának frissítését és frissítését is lehetővé teszi.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Munkalapok megjelenítése képként
+ Munkalapok megjelenítése képként
     </h2>
     <p>
-     könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excel-hez, saját renderelőmotorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a népszerű formátumú képekké, beleértve a BMP, TIFF, PNG, JPEG és amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
+ könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excelt a saját renderelő motorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a képeken népszerű formátumokban, beleértve a BMP, TIFF, PNG, JPEG &amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Oszlopok és sorok kezelése
+ Oszlopok és sorok kezelése
     </h2>
     <p>
-     A(z) Aspose.Cells a(z) C++ számára többféle módon kínál sorok és oszlopok kezelését. A sormagasság és oszlopszélesség beállítása vagy a cellaméretek automatikus átméretezése a benne lévő tartalomnak megfelelően túl egyszerű. A API lehetőséget kínál a törlésre, beszúrásra, elrejtésre vagy megjelenítésre, valamint a sorok és oszlopok csoportosítására vagy csoportosításának megszüntetésére.
+ Aspose.Cells for C++ sorok és oszlopok többféle módon történő kezelését kínálja. A sormagasság és oszlopszélesség beállítása vagy a cellaméretek automatikus átméretezése a benne lévő tartalomnak megfelelően túl egyszerű. A API lehetőséget kínál a törlésre és beszúrásra, elrejtésre vagy megjelenítésre, valamint a sorok és oszlopok csoportosítására vagy csoportosításának megszüntetésére.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Pontosan konvertálja a táblázatokat PDF-be
+ A táblázatok pontos konvertálása PDF-re
     </h2>
     <p>
-     Az Excel C++ könyvtára lehetővé teszi a táblázatok PDF formátumba konvertálását, miközben megőrzi az eredeti dokumentum minőségét. Emiatt a(z) Aspose.Cells for C++ tökéletes választás azoknak a szervezeteknek, amelyek szabványos PDF-formátumú dokumentumokat kívánnak cserélni.
+Az Excel C++ könyvtár lehetővé teszi a táblázatok PDF formátumú konvertálását, miközben megőrzi az eredeti dokumentum minőségét. Ez a tény teszi a Aspose.Cells for C++-es számot tökéletes választássá azoknak a szervezeteknek, amelyek szabványos, PDF-es formátumú dokumentumokat kívánnak cserélni.
     </p>
    </div>
    <!-- 
@@ -502,18 +501,18 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API Referenciák" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Kiadási megjegyzések" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells a(z) C++ számára?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells for C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,8 +1,7 @@
 ---
-title: Chránit a uzamknout dokument XLS prostřednictvím .NET 
+title:  Chraňte a uzamkněte XLS dokument via .NET
 weight: 7010
-
-description: C# zdrojový kód pro uzamčení souboru XLS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# zdrojový kód k uzamčení souboru XLS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLS přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLS pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -26,7 +25,6 @@ description: C# zdrojový kód pro uzamčení souboru XLS pomocí hesla na platf
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,7 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Chránit XLS prostřednictvím C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Chraňte XLS přes C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -45,39 +43,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Okamžitá třída Workbook s cestou k souboru XLS1. Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany1. Chraňte pracovní list pomocí metody Worksheet.Protect1. Chraňte sešit pomocí metody Workbook.Protect1. Uložit výsledek ve formátu XLS
+1.  Vytvořte instanci třídy Workbook s cestou k souboru XLS
+1.  Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany
+1.  Chraňte sešit pomocí metody Worksheet.Protect
+1.  Chraňte sešit pomocí metody Workbook.Protect
+1.  Uložte výsledek ve formátu XLS
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET je podporováno ve všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
+ Aspose.Cells for .NET je podporován na všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Cells for .NET odkazované ve vašem projektu
+-  Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo Xamarin Platforms
+-  Vývojové prostředí jako Microsoft Visual Studio
+-  Přidejte odkaz na Aspose.Cells for .NET DLL ve vašem projektu
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="" %}}
 
 ```cs
 
-// načtěte soubor XLS Excel 
+// load the XLS Excel file 
 var book = new Aspose.Cells.Workbook("unlocked.xls");
 
-// přístup k prvnímu pracovnímu listu
+// access the first worksheet
 var worksheet = book.Worksheets[0];
 
-// chránit list heslem
+// protect the worksheet with password
 worksheet.Protect(Aspose.Cells.ProtectionType.All, "password", null);
 
-// chránit celý sešit heslem
+// protect the whole workbook with password
 book.Protect(Aspose.Cells.ProtectionType.All, "password");
 
-// uložit upravený soubor ve výchozím formátu
+// save the modified file in default format
 book.Save("protected.xls");
-
 
 ```
 
@@ -92,7 +97,7 @@ book.Save("protected.xls");
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.  
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -100,14 +105,14 @@ book.Save("protected.xls");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro ochranu XLS" sectionDescription="Podívejte se na naše živé ukázky [šifrovat soubory XLS](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLS" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLS soubory](https://products.aspose.app/cells/protect/xls) s následujícími výhodami." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLS a stisknout tlačítko „Odemknout“." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Stáhněte si výsledný soubor XLS z odkazu" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory lze vytvořit v aplikaci Microsoft Excel i v jiných podobných tabulkových programech, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako sešit, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním aplikace Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, ačkoli XLSX je nyní první volbou použití.
+Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory mohou být vytvořeny aplikací Excel Microsoft i jinými podobnými tabulkovými programy, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako Workbook, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, i když XLSX je nyní první volbou použití.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

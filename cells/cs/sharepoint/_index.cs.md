@@ -1,11 +1,10 @@
 ---
-title: Aplikace SharePoint Excel Spreadsheet Converter – Aspose 
+title:  Aplikace SharePoint Excel Spreadsheet Converter – Aspose
 weight: 940
-
-description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint Excel. Export XLS XLSX XML CSV PDF ODS &amp; HTML formáty v MOSS WSS
+description: Aspose.Cells for SharePoint App je převaděč tabulek SharePoint Excel. Export XLS XLSX XML CSV PDF ODS &amp; HTML ve formátech MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aplikace SharePoint pro převod tabulek Excelu" h2="Převeďte tabulky Excelu do více než 8 formátů souborů přímo z knihovny dokumentů SharePointu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aplikace SharePoint pro převod tabulek Excelu" h2="Převeďte tabulky aplikace Excel do více než 8 formátů souborů přímo z knihovny dokumentů SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -13,7 +12,7 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro SharePoint je flexibilní aplikace pro převod tabulek aplikace Excel. Dokáže převádět dokumenty mezi mnoha oblíbenými formáty Microsoft Excel z knihovny dokumentů SharePoint bez závislostí na Microsoft Excel. Podporuje více formátů dokumentů, které nejsou součástí nativní podpory formátu souborů SharePoint.
+ Aspose.Cells for SharePoint je flexibilní aplikace pro převod tabulek Excel. Dokáže převádět dokumenty mezi mnoha populárními formáty Microsoft Excel z knihovny dokumentů SharePoint bez závislostí Microsoft na Excelu. Podporuje více formátů dokumentů, které nejsou součástí nativní podpory formátů souborů SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells pro SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Lehká instalace
+ Lehká instalace
    </header>
    <ul>
     <li>
-     SharePoint WSP soubor
+ SharePoint WSP soubor
     </li>
     <li>
-     Aktivujte napříč farmou
+ Aktivujte napříč farmou
     </li>
     <li>
-     Deaktivujte Across Farm
+ Deaktivujte Across Farm
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
    <header>
     <i class="fa fa-file-o">
     </i>
-    Možnosti převodu
+ Možnosti převodu
    </header>
    <ul>
     <li>
-     Uložit do podsložek
+ Uložit do podsložek
     </li>
     <li>
-     Zřetězení souborů
+ Zřetězení souborů
     </li>
     <li>
-     Přepsat existující soubory
+ Přepsat existující soubory
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro SharePoint podporuje služby Windows SharePoint Services, SharePoint Foundation a Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for SharePoint podporuje Windows SharePoint Services, SharePoint Foundation a Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Server
+ SharePoint Server
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Windows SharePoint Services
+ Windows SharePoint Services
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Foundation
+ SharePoint Foundation
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -155,43 +154,43 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells pro SharePoint podporuje mnoho oblíbených formátů tabulek, PDF, HTML a další [formáty souborů](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells for SharePoint podporuje mnoho oblíbených formátů tabulek, PDF, HTML a další[formáty souborů](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup výstup
+ Vstup výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      TabulkaML:
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, TSV, oddělené tabulátory, TXT
+ CSV, TSV, odděleno tabulátory, TXT
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Snímky:
+ Snímky:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Převeďte tabulky Excelu do několika formátů
+ Převeďte tabulky Excelu do několika formátů
     </h2>
     <p>
-     Aspose.Cells pro SharePoint umožňuje převod tabulek do mnoha oblíbených formátů dokumentů a obrázků z knihovny dokumentů SharePoint. Aspose.Cells pro SharePoint aktuálně podporuje většinu formátů tabulek spolu s CSV a amp; XML jako vstup a lze jej exportovat do tabulkových formátů, stejně jako CSV, HTML, ODS, PDF, XML &amp; obrazové formáty.
+ Aspose.Cells for SharePoint umožňuje převod tabulek do mnoha oblíbených formátů dokumentů a obrázků z knihovny dokumentů SharePoint. Aspose.Cells for SharePoint v současné době podporuje většinu formátů tabulek spolu s CSV &amp; XML jako vstup a lze jej exportovat do tabulkových formátů, stejně jako CSV, HTML, ODS, PDF, XML &amp; obrazové formáty.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Zřetězit soubory během převodu
+ Zřetězit soubory během převodu
     </h2>
     <p>
-     Aspose.Cells pro SharePoint poskytuje možnost kombinovat soubory různých formátů do jednoho dokumentu. Kromě toho můžete dokumenty v seznamu posouvat nahoru nebo dolů a nastavit pořadí, ve kterém chcete dokumenty kombinovat.
+ Aspose.Cells for SharePoint poskytuje možnost kombinovat soubory různých formátů do jednoho dokumentu. Kromě toho můžete dokumenty v seznamu posouvat nahoru nebo dolů a nastavit pořadí, ve kterém chcete dokumenty kombinovat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Převést soubory v podsložkách
+ Převést soubory v podsložkách
     </h2>
     <p>
-     Aspose.Cells pro SharePoint usnadňuje proces převodu tím, že rekurzivně převádí všechny dokumenty a podsložky ve vybrané složce. Stávající struktura podsložek se vytvoří v cílové složce.
+Aspose.Cells for SharePoint usnadňuje proces převodu rekurzivním převodem všech dokumentů a podsložek ve vybrané složce. Stávající struktura podsložek se vytvoří v cílové složce.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Přepsat existující soubory
+ Přepsat existující soubory
     </h2>
     <p>
-     Pokud cílová složka již obsahuje soubory se stejnými názvy jako ty, které chcete převést, pak vám Aspose.Cells pro SharePoint umožní přepsat existující soubory nebo můžete jednoduše vybrat možnost, která dá aplikaci pokyn, aby vynechala zpracování souborů, které již existují v cílové složky.
+ Pokud cílová složka již obsahuje soubory se stejnými názvy jako ty, které chcete převést, pak vám Aspose.Cells for SharePoint umožňuje přepsat existující soubory nebo můžete jednoduše vybrat možnost, která dá aplikaci pokyn, aby vynechala zpracování souborů, které již v cílové složce existují. .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Interakce s veřejností API
+ Komunikujte s veřejností API
     </h2>
     <p>
-     Vývojáři, kteří mají interní řešení SharePoint, mohou použít Aspose.Cells pro převod dokumentů služby SharePoint prostřednictvím veřejného API. Poskytuje programový přístup ke všem podporovaným formátům a možnostem převodu.
+ Vývojáři, kteří mají interní řešení SharePoint, mohou použít modul pro převod dokumentů Aspose.Cells for SharePoint prostřednictvím veřejného API. Poskytuje programový přístup ke všem podporovaným formátům a možnostem převodu.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automatizace Microsoft Excel – není potřeba
+ Microsoft Excel Automation – není potřeba
     </h2>
     <p>
-     Aspose.Cells pro SharePoint je vytvořen pomocí spravovaného kódu, který nikdy nevyžaduje instalaci aplikace Microsoft Excel do počítače, aby mohl pracovat s převodem formátu Excel. Jedná se o dokonalou automatizační alternativu Microsoft Excel z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
+Aspose.Cells for SharePoint je vytvořen pomocí spravovaného kódu, který nikdy nepotřebuje Microsoft, aby byl na počítači nainstalován Excel, aby mohl pracovat s převodem formátu Excel. Je to perfektní alternativa pro automatizaci Excelu Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -329,7 +328,7 @@ description: Aspose.Cells pro SharePoint App je převaděč tabulek SharePoint E
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

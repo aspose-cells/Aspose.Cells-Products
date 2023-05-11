@@ -1,8 +1,7 @@
 ---
-title: Pesquise em planilhas do Excel no Windows, Linux e macOS 
+title:  Pesquise em planilhas do Excel em Windows, Linux e macOS
 weight: 7730
-
-description: Aplicativo e APIs gratuitos para pesquisar texto em arquivos XLS, XLSX e ODS
+description: Aplicativo gratuito e APIs para pesquisar texto em arquivos XLS, XLSX e ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

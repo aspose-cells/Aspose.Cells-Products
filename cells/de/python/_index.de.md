@@ -1,19 +1,18 @@
 ---
-title: Python Excel-Tabelle API - Aspose 
+title:  Python Excel-Tabelle API - Aspose
 weight: 2820
-
-description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schreibzugriffs- und Analyse-Excel-Dateien.
+description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-, Schreib- und Analyse-Excel-Dateien.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Parsing-APIs für Excel-Tabellen" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellenkalkulationen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel-Tabellen-Parsing-APIs" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Tabellenkalkulationen und exportieren Sie Excel-Dateien in mehrere Formate innerhalb von Python-Anwendungen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells für Python ist ein schnelles und zuverlässiges API für Tabellenverarbeitungsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen bearbeiten und aus Excel-Dateien extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, Nur-Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mit Python zu automatisieren.
+ Aspose.Cells for Python ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über API-Fähigkeiten." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Funktionen von API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importieren &amp; Export
+ Importieren &amp; Export
    </header>
    <ul>
     <li>
-     Arrays
+ Arrays
     </li>
     <li>
-     Ergebnissatz
+ ResultSet
     </li>
     <li>
-     Sammlungen
+Sammlungen
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Rendern
+ Rendern
    </header>
    <ul>
     <li>
-     Diagramm zu Bild
+ Vom Diagramm zum Bild
     </li>
     <li>
-     Arbeitsblatt zum Bild
+ Arbeitsblatt zum Bild
     </li>
     <li>
-     Tabellenkalkulation in PDF
+ Tabelle an PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
    <header>
     <i class="fa fa-table">
     </i>
-    Datenverarbeitung
+ Datenverarbeitung
    </header>
    <ul>
     <li>
-     Formatierung anwenden
+ Formatierung anwenden
     </li>
     <li>
-     Formel anwenden
+ Formel anwenden
     </li>
     <li>
-     Diagramme erstellen
+ Erstellen Sie Diagramme
     </li>
     <li>
-     Zusammenfassen
+ Zusammenfassen
     </li>
     <li>
-     Intelligente Markierungen
+ Intelligente Marker
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     Python
    </small>
@@ -105,7 +104,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells für Python ist verfügbar für." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells for Python ist verfügbar für." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Laufzeitumgebung
+ Python Laufzeitumgebung
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     Python
    </small>
@@ -145,37 +144,37 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Python Excel-Bibliothek unterstützt die gängigen Microsoft Excel-Formate, Formate mit festem Layout und Bilder." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Die Excel-Bibliothek Python unterstützt die gängigen Excel-Formate Microsoft, Formate mit festem Layout und Bilder." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input-Output
+ Input-Output
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Open Office:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Netz:
+ Netz:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Nur Ausgang
+ Nur Ausgabe
    </header>
    <ul>
     <li>
      <b>
-      Festes Layout:
+ Festes Layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,7 +213,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     Python
    </small>
@@ -235,7 +234,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Erweiterte Python Excel API-Funktionen
+Erweiterte Python Excel API Funktionen
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen Sie Excel-Tabellen
+ Lesen Sie Excel-Tabellen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rendern Sie Tabellenkalkulationen in PDF, EMF und Bilder
+ Rendern Sie Tabellen in PDF, EMF und Bilder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Passen Sie Arbeitsblätter innerhalb von Arbeitsmappen an
+ Passen Sie Arbeitsblätter in Arbeitsmappen an
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arbeitsblätter schützen / Schutz aufheben
+ Arbeitsblätter schützen/Schutz aufheben
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fügen Sie Bilder hinzu und erstellen Sie Diagramme
+ Fügen Sie Bilder hinzu und erstellen Sie Diagramme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen Sie Pivot-Tabellen und Pivot-Diagramme
+ Erstellen Sie Pivot-Tabellen und Pivot-Diagramme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fügen Sie Kommentare auf Zellenebene hinzu und bearbeiten Sie sie
+ Fügen Sie Kommentare auf Zellenebene hinzu und bearbeiten Sie sie
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Daten suchen und ersetzen
+ Daten suchen und ersetzen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zellen teilen und zusammenführen
+ Zellen teilen und zusammenführen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fügen Sie Zeilen und Spalten Gruppierungen hinzu oder entfernen Sie sie
+ Gruppierung zu Zeilen und Spalten hinzufügen oder entfernen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zahlenformatierung festlegen
+ Zahlenformatierung festlegen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formeln lesen und einstellen
+ Formeln lesen und festlegen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurieren Sie die Seiteneinrichtung
+ Konfigurieren Sie die Seiteneinrichtung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Passen Sie die Seitenausrichtung, Skalierung und Papiergröße an
+ Passen Sie Seitenausrichtung, Skalierung und Papiergröße an
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen &amp; Bedingte Formatierung schreiben
+ Lesen &amp; Bedingte Formatierung schreiben
     </p>
    </div>
    <!--
@@ -413,14 +412,14 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-/Schre
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertierung mehrerer Formate
+ Konvertierung mehrerer Formate
     </h2>
     <p>
-     Python Excel-Bibliothek ermöglicht die Konvertierung von Excel-Dateien in PDF, XPS &amp; HTML-Formate. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in branchenüblichen Formaten austauschen müssen.
+ Python Excel-Bibliothek ermöglicht die Konvertierung von Excel-Dateien in PDF, XPS &amp; HTML Formate. Die zuverlässige Konvertierung von API macht es zu einer perfekten Lösung für Unternehmen, die Dateien in branchenüblichen Formaten austauschen müssen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tabelle in verschiedenen Formaten speichern – Java
+ Tabellenkalkulation in verschiedenen Formaten speichern – Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -459,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexible Anzeigeoptionen
+ Flexible Anzeigeoptionen
     </h2>
     <p>
-     Aspose.Cells für Python bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Bearbeitung mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Fixierfenstern, Papiergröße, Skalierung, Kopfzeilen &amp; Fußzeilen und Druckbereich.
+Aspose.Cells for Python bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel-Tabellen-Datenverwaltung
+ Excel-Tabellen-Datenverwaltung
     </h2>
     <p>
-     Aspose.Cells für Python API bietet umfassende Unterstützung für die Verwaltung von Arbeitsblattdaten. Man kann einfach jede Zelle im Arbeitsblatt zur Laufzeit manipulieren oder Daten aus verschiedenen Datenquellen in die Arbeitsblätter importieren.
+ Aspose.Cells for Python API bietet umfassende Unterstützung für die Datenverwaltung in Arbeitsblättern. Man kann jede Zelle im Arbeitsblatt zur Laufzeit einfach manipulieren oder Daten aus verschiedenen Datenquellen in die Arbeitsblätter importieren.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Anpassung von Diagrammen
+ Diagrammanpassung
     </h2>
     <p>
-     Aspose.Cells für Python bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.
+ Aspose.Cells for Python bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.
     </p>
    </div>
    <!--
@@ -519,24 +518,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Lernmittel" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Quellcode" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenzen" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenzen" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Tutorial-Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.com/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells für Python?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells bietet individuelle Excel-APIs für andere gängige Entwicklungsumgebungen, wie unten aufgeführt:" >}}
 

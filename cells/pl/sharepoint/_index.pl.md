@@ -1,11 +1,10 @@
 ---
-title: Aplikacja konwertera arkuszy kalkulacyjnych programu SharePoint Excel — Aspose 
+title:  Aplikacja do konwertowania arkuszy kalkulacyjnych programu SharePoint — Aspose
 weight: 940
-
-description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulacyjnych programu SharePoint Excel. Eksportuj XLS XLSX XML CSV PDF ODS &amp; Formaty HTML w MOSS WSS
+description: Aspose.Cells for SharePoint Aplikacja to konwerter arkuszy kalkulacyjnych programu SharePoint Excel. Eksport XLS XLSX XML CSV PDF ODS &amp; HTML w formatach MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aplikacja SharePoint do konwersji arkuszy kalkulacyjnych Excel" h2="Konwertuj arkusze kalkulacyjne programu Excel do ponad 8 formatów plików bezpośrednio z biblioteki dokumentów programu SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aplikacja SharePoint do konwertowania arkuszy kalkulacyjnych Excel" h2="Konwertuj arkusze kalkulacyjne programu Excel do ponad 8 formatów plików bezpośrednio z biblioteki dokumentów programu SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -13,7 +12,7 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePoint to elastyczna aplikacja do konwersji arkuszy kalkulacyjnych programu Excel. Może konwertować dokumenty między wieloma popularnymi formatami Microsoft Excel z biblioteki dokumentów SharePoint bez zależności od Microsoft Excel. Obsługuje wiele formatów dokumentów, które nie są uwzględnione w natywnej obsłudze formatów plików programu SharePoint.
+ Aspose.Cells for SharePoint to elastyczna aplikacja do konwertowania arkuszy kalkulacyjnych Excel. Może konwertować dokumenty pomiędzy wieloma popularnymi formatami Microsoft Excel z biblioteki dokumentów SharePoint bez zależności Microsoft Excel. Obsługuje wiele formatów dokumentów, które nie są objęte natywną obsługą formatów plików programu SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="W skrócie" description="Omówienie Aspose.Cells dla programu SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Łatwa instalacja
+ Łatwa instalacja
    </header>
    <ul>
     <li>
-     Plik WSP SharePoint
+ Plik WSP programu SharePoint
     </li>
     <li>
-     Aktywuj w całej farmie
+ Aktywuj na całej farmie
     </li>
     <li>
-     Dezaktywuj w całej farmie
+ Dezaktywuj Na całej farmie
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
    <header>
     <i class="fa fa-file-o">
     </i>
-    Opcje konwersji
+ Opcje konwersji
    </header>
    <ul>
     <li>
-     Zapisz w podfolderach
+ Zapisz w podfolderach
     </li>
     <li>
-     Łączenie plików
+ Konkatenacja plików
     </li>
     <li>
-     Nadpisz istniejące pliki
+ Nadpisz istniejące pliki
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność od platformy" description="Aspose.Cells for SharePoint obsługuje programy Windows SharePoint Services, SharePoint Foundation i Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for SharePoint obsługuje Windows SharePoint Services, SharePoint Foundation i Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Serwer SharePoint
+ Serwer SharePoint
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Usługi Windows SharePoint
+ Windows Usługi programu SharePoint
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Fundacja SharePoint
+ Fundacja SharePointa
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -155,43 +154,43 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Cells for SharePoint obsługuje wiele popularnych formatów arkuszy kalkulacyjnych, PDF, HTML i inne [formaty plików](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Cells for SharePoint obsługuje wiele popularnych formatów arkuszy kalkulacyjnych, PDF, HTML i inne[formaty plików](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Wejście wyjście
+ Wejście wyjście
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      Arkusz kalkulacyjnyML:
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
-     SZWO
+     ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
-     CSV, TSV, rozdzielane tabulatorami, TXT
+ CSV, TSV, rozdzielany znakami tabulacji, TXT
     </li>
     <li>
      <b>
-      Sieć:
+ Sieć:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Tylko wyjście
+ Tylko wyjście
    </header>
    <ul>
     <li>
      <b>
-      Naprawiono układ:
+ Naprawiono układ:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Obrazy:
+ Obrazy:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwertuj arkusze kalkulacyjne Excel na kilka formatów
+ Konwertuj arkusze kalkulacyjne Excel na kilka formatów
     </h2>
     <p>
-     Aspose.Cells for SharePoint umożliwia konwertowanie arkuszy kalkulacyjnych do wielu popularnych formatów dokumentów i obrazów z biblioteki dokumentów programu SharePoint. Aspose.Cells for SharePoint obsługuje obecnie większość formatów arkuszy kalkulacyjnych wraz z CSV i amp; XML jako dane wejściowe i można go eksportować do formatów arkuszy kalkulacyjnych, a także CSV, HTML, ODS, PDF, XML i amp; formaty obrazu.
+ Aspose.Cells for SharePoint umożliwia konwertowanie arkuszy kalkulacyjnych do wielu popularnych formatów dokumentów i obrazów z poziomu biblioteki dokumentów programu SharePoint. Aspose.Cells for SharePoint obecnie obsługuje większość formatów arkuszy kalkulacyjnych wraz z CSV &amp; XML jako dane wejściowe i może eksportować do formatów arkuszy kalkulacyjnych, a także CSV, HTML, ODS, PDF, XML &amp; formaty obrazów.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Połącz pliki podczas konwersji
+ Połącz pliki podczas konwersji
     </h2>
     <p>
-     Aspose.Cells for SharePoint zapewnia możliwość łączenia plików o różnych formatach w jeden dokument. Co więcej, możesz również przesuwać dokumenty na liście w górę lub w dół, aby ustawić kolejność łączenia dokumentów.
+ Aspose.Cells for SharePoint daje możliwość łączenia plików o różnych formatach w jeden, pojedynczy dokument. Ponadto możesz przesuwać dokumenty na liście w górę lub w dół, aby ustawić kolejność łączenia dokumentów.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwertuj pliki w podfolderach
+ Konwertuj pliki w podfolderach
     </h2>
     <p>
-     Aspose.Cells for SharePoint ułatwia proces konwersji, rekurencyjnie konwertując wszystkie dokumenty i podfoldery w wybranym folderze. Istniejąca struktura podfolderów jest tworzona w folderze docelowym.
+Aspose.Cells for SharePoint ułatwia proces konwersji poprzez rekurencyjną konwersję wszystkich dokumentów i podfolderów w wybranym folderze. Istniejąca struktura podfolderów jest tworzona w folderze docelowym.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Nadpisz istniejące pliki
+ Nadpisz istniejące pliki
     </h2>
     <p>
-     Jeśli folder docelowy zawiera już pliki o takich samych nazwach, jak te, które chcesz przekonwertować, Aspose.Cells dla SharePoint umożliwia zastąpienie istniejących plików lub możesz po prostu wybrać opcję, która poinstruuje aplikację, aby pominęła przetwarzanie plików, które już istnieją w folder docelowy.
+ Jeśli folder docelowy zawiera już pliki o takich samych nazwach jak te, które chcesz przekonwertować, to Aspose.Cells for SharePoint pozwala zastąpić istniejące pliki lub możesz po prostu wybrać opcję, która poinstruuje aplikację, aby pominęła przetwarzanie plików, które już istnieją w folderze docelowym .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Interakcja z publicznym API
+ Interakcja z publicznością API
     </h2>
     <p>
-     Deweloperzy posiadający wewnętrzne rozwiązania SharePoint mogą używać Aspose.Cells do silnika konwersji dokumentów SharePoint za pośrednictwem jego publicznego API. Zapewnia programowy dostęp do wszystkich obsługiwanych formatów i opcji konwersji.
+ Deweloperzy posiadający wewnętrzne rozwiązania SharePoint mogą korzystać z mechanizmu konwersji dokumentów Aspose.Cells za pośrednictwem publicznego numeru API. Zapewnia on programowy dostęp do wszystkich obsługiwanych formatów i opcji konwersji.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automatyzacja Microsoft Excel – nie jest potrzebna
+ Microsoft Automatyzacja programu Excel — niepotrzebna
     </h2>
     <p>
-     Aspose.Cells for SharePoint jest tworzony przy użyciu kodu zarządzanego, który nigdy nie wymaga instalacji programu Microsoft Excel na komputerze, aby pracować z konwersją formatu Excel. Jest to idealna alternatywa automatyzacji Microsoft Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
+Aspose.Cells for SharePoint jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga zainstalowania programu Excel Microsoft na komputerze do pracy z konwersją formatu programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: Aspose.Cells dla aplikacji SharePoint to konwerter arkuszy kalkulac
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells dla SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

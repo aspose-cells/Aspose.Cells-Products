@@ -1,11 +1,10 @@
 ---
-title: واجهات برمجة تطبيقات Node.js لجداول بيانات Excel - Aspose 
+title:  واجهات برمجة تطبيقات Node.js لجداول بيانات Excel - Aspose
 weight: 3120
-
-description: معالجة تنسيقات ملفات Excel عبر مكتبة Node.js. قراءة عرض الكتابة وتحويل XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV والمزيد من التنسيقات عبر Node.js على Windows و macOS و Linux
+description: معالجة تنسيقات ملفات Excel عبر مكتبة Node.js. قراءة كتابة تقديم وتحويل XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV والمزيد من التنسيقات عبر Node.js على Windows ، macOS و Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel File Format APIs" h2="قم بإنشاء وتعديل وتحويل وعرض جداول بيانات Excel باستخدام Node.js دون الحاجة إلى Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel File Format APIs" h2="قم بإنشاء وتعديل وتحويل وتقديم جداول بيانات Excel باستخدام Node.js دون الحاجة إلى Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +12,11 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells لـ Node.js عبر Java هي ميزة غنية بالميزات وقابلة للتطوير API لمعالجة جداول بيانات Excel باستخدام Node.js. يوفر API تحويل تنسيق ملف Excel وتصميم أوراق العمل إلى المستوى الأكثر دقة وإنشاء المخططات & amp؛ التقديم ، محرك حساب الصيغة الموثوق به وأكثر من ذلك بكثير.
+ Aspose.Cells for Node.js via Java غني بالميزات وقابل للتحجيم API لمعالجة جداول بيانات Excel باستخدام Node.js. يوفر API تحويل تنسيق ملف Excel ، وتصميم أوراق العمل إلى المستوى الأكثر دقة ، وإنشاء المخططات & amp؛ التقديم ، محرك حساب الصيغة الموثوق به وأكثر من ذلك بكثير.
 </p>
 
 <p>
- Aspose.Cells لـ Node.js عبر Java يدعم معظم تنسيقات جداول البيانات الشائعة بما في ذلك XLS و XLSX و ODS و SpreadsheetML و CSV و TSC & amp؛ لغة البرمجة.
+ Aspose.Cells for Node.js via Java يدعم معظم تنسيقات جداول البيانات الشائعة بما في ذلك XLS ، XLSX ، ODS ، SpreadsheetML ، CSV ، TSC & amp؛ HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على Aspose.Cells لـ Node.js عبر إمكانيات Java." >}}
+{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على إمكانيات Aspose.Cells for Node.js via Java." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    استدعاء
+ استدعاء
    </header>
    <ul>
     <li>
-     تحويل الرسم البياني إلى صورة
+ تحويل الرسم البياني إلى صورة
     </li>
     <li>
-     تحويل ورقة العمل إلى صورة
+ تحويل ورقة العمل إلى صورة
     </li>
     <li>
-     تحويل جدول البيانات إلى PDF
+تحويل جدول البيانات إلى PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
    <header>
     <i class="fa fa-cogs">
     </i>
-    معالجة البيانات
+ معالجة البيانات
    </header>
    <ul>
     <li>
-     الرسوم البيانية
+ الرسوم البيانية
     </li>
     <li>
-     حساب الصيغة
+ حساب الصيغة
     </li>
     <li>
-     علامات ذكية
+ علامات ذكية
     </li>
     <li>
-     الجداول المحورية
+ الجداول المحورية
     </li>
     <li>
-     تنسيق مشروط
+ تنسيق مشروط
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    Node.js عبر Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells لـ Node.js عبر Java هي جافا سكريبت من جانب الخادم API تعتمد على Node.js. يمكن تشغيله على أنظمة تشغيل Windows و Unix / Linux و Mac مع JDK 1.7 أو أعلى." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for Node.js via Java هو JavaScript من جانب الخادم API يعتمد على Node.js. يمكن أن يعمل على Windows ، أنظمة تشغيل Unix / Linux & Mac مع JDK 1.7 أو أعلى." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java بيئة وقت التشغيل
+ Java بيئة وقت التشغيل
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    Node.js عبر Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,39 +157,39 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="يدعم Aspose.Cells لـ Node.js عبر Java تنسيقات ملفات جداول البيانات الشائعة بالإضافة إلى تنسيقات الصور والتخطيط الثابت الأكثر استخدامًا." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells for Node.js via Java يدعم تنسيقات ملفات جداول البيانات الشائعة جنبًا إلى جنب مع أكثر تنسيقات الصور والتخطيط الثابت استخدامًا." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    الإدخال / الإخراج
+ الإدخال / الإخراج
    </header>
    <ul>
     <li>
      <b>
-      مايكروسوفت اكسل:
+ Microsoft إكسل:
      </b>
-     XLS و XLSX و XLSB و XLTX و XLTM و XLSM و XML
+ XLS ، XLSX ، XLSB ، XLTX ، XLTM ، XLSM ، XML
     </li>
     <li>
      <b>
-      مكتب مفتوح:
+ مكتب مفتوح:
      </b>
-     المواد المستنفدة للأوزون
+     ODS
     </li>
     <li>
      <b>
-      نص:
+ نص:
      </b>
-     CSV ، محدد بعلامات جدولة ، TXT
+ CSV، محدد بعلامات جدولة، TXT
     </li>
     <li>
      <b>
-      الويب:
+ الويب:
      </b>
-     HTML ، MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -199,20 +198,20 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    الإخراج فقط
+ الإخراج فقط
    </header>
    <ul>
     <li>
      <b>
-      التخطيط الثابت:
+ التخطيط الثابت:
      </b>
-     PDF ، XPS
+     PDF, XPS
     </li>
     <li>
      <b>
-      الصور:
+ الصور:
      </b>
-     JPEG ، PNG ، BMP ، SVG ، TIFF ، GIF ، EMF
+     JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
    </ul>
   </div>
@@ -227,9 +226,9 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    Node.js عبر Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    ميزات جداول بيانات Excel المتقدمة في Node.js API
+ الميزات المتقدمة لجدول بيانات Excel Node.js API
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إنشاء جداول محورية ومخططات وخطوط مؤشرات & amp؛ تنسيق مشروط
+ إنشاء جداول محورية ومخططات وخطوط مؤشرات & amp؛ تنسيق مشروط
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تحديث الرسوم البيانية الموجودة & amp؛ تحويل الرسوم البيانية إلى صور أو PDF
+ تحديث الرسوم البيانية الموجودة & amp؛ تحويل المخططات إلى صور أو PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إنشاء & أمبير ؛ التلاعب بالتعليقات & amp؛ الارتباطات التشعبية
+ إنشاء & أمبير ؛ التلاعب بالتعليقات & amp؛ الارتباطات التشعبية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تعيين الصيغ المعقدة وأمبير. حساب النتائج من خلال API
+ تعيين الصيغ المعقدة وأمبير. احسب النتائج عن طريق API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     قم بتعيين الحماية في المصنف أو ورقة العمل أو الخلية أو العمود أو الصف
+ قم بتعيين الحماية في المصنف أو ورقة العمل أو الخلية أو العمود أو الصف
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     إنشاء & أمبير ؛ معالجة النطاقات المسماة
+ إنشاء & أمبير ؛ معالجة النطاقات المسماة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تعبئة أوراق العمل باستخدام العلامات الذكية
+ تعبئة أوراق العمل باستخدام العلامات الذكية
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     معالجة وتحديث الجداول المحورية عبر API
+معالجة وتحديث الجداول المحورية عبر API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     تحويل أوراق العمل إلى PDF و XPS وأمبير ؛ تنسيقات SVG
+ تحويل أوراق العمل إلى PDF ، XPS & amp؛ SVG تنسيقات
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     تقديم جداول بيانات Excel
+ تقديم جداول بيانات Excel
     </h2>
     <p>
-     Aspose.Cells لـ Node.js عبر Java يستخدم محرك العرض الخاص به للعرض إلى Microsoft Excel بأعلى دقة. أثناء استخدام مكتبة معالجة Excel Node.js ، يمكن للمرء تحويل الأوراق الكاملة والملفات الفردية أو المخططات إلى صور متعددة وتنسيقات تخطيط ثابت.
+ Aspose.Cells for Node.js via Java يستخدم محرك التقديم الخاص به للتقديم إلى Excel Microsoft بأعلى دقة. أثناء استخدام مكتبة معالجة Excel Node.js ، يمكن للمرء تحويل الأوراق الكاملة أو الملفات الفردية أو المخططات إلى صور متعددة وتنسيقات تخطيط ثابت.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     خيارات عرض مرنة
+ خيارات عرض مرنة
     </h2>
     <p>
-     يوفر Aspose.Cells لـ Node.js عبر Java تحكمًا كاملاً في إعداد صفحة ورقة العمل ، ويمكن للمرء معالجة خيارات عرض ورقة العمل مثل اتجاه الصفحة والفواصل والحجم والقياس والرؤوس والتذييلات ومستوى التكبير / التصغير. علاوة على ذلك ، يمكن للمطورين التحكم في رؤية البيانات بمساعدة منطقة الطباعة وألواح التجميد لتناسب مواصفات التطبيق.
+ Aspose.Cells for Node.js via Java يوفر تحكمًا كاملاً في إعداد صفحة ورقة العمل ، يمكن للمرء معالجة خيارات عرض ورقة العمل مثل اتجاه الصفحة والفواصل والحجم والقياس والرؤوس والتذييلات ومستوى التكبير / التصغير. علاوة على ذلك ، يمكن للمطورين التحكم في رؤية البيانات بمساعدة منطقة الطباعة وألواح التجميد لتناسب مواصفات التطبيق.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     خيارات الأمان
+ خيارات الأمان
     </h2>
     <p>
-     يوفر Aspose.Cells لـ Node.js عبر Java مجموعة كبيرة من ميزات الأمان بما في ذلك تشفير / فك تشفير جدول البيانات والمحتوى والكائن & amp؛ حماية السيناريو وكذلك القدرة على إخفاء وإظهار الصفوف والأعمدة وأمبير. أوراق عمل.
+Aspose.Cells for Node.js via Java يقدم مجموعة واسعة من ميزات الأمان بما في ذلك تشفير / فك تشفير جداول البيانات والمحتوى والعنصر & amp؛ حماية السيناريو وكذلك القدرة على إخفاء وإظهار الصفوف والأعمدة وأمبير. أوراق عمل.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     التلاعب بالصفوف & أمبير ؛ الأعمدة
+ التلاعب بالصفوف & أمبير ؛ الأعمدة
     </h2>
     <p>
-     Aspose.Cells لـ Node.js عبر Java يسمح لك بمعالجة الصفوف والأعمدة بعدة طرق مختلفة. يمكنك بسهولة ضبط ارتفاع الصف وأمبير. عرض العمود ، وحجم الخلايا تلقائيًا وفقًا للمحتويات ، وإدراج & amp؛ حذف وإخفاء & أمبير ؛ إلغاء إخفاء وكذلك المجموعة & أمبير ؛ الصفوف un group & amp؛ الأعمدة.
+ Aspose.Cells for Node.js via Java يسمح لك بمعالجة الصفوف والأعمدة بعدة طرق مختلفة. يمكنك بسهولة ضبط ارتفاع الصف وأمبير. عرض العمود ، وحجم الخلايا تلقائيًا وفقًا للمحتويات ، وإدراج & amp؛ حذف وإخفاء & أمبير ؛ إلغاء إخفاء وكذلك المجموعة & أمبير ؛ الصفوف un group & amp؛ الأعمدة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     دعم شامل لتنسيق ورقة العمل
+ دعم شامل لتنسيق ورقة العمل
     </h2>
     <p>
-     يوفر Aspose.Cells لـ Node.js عبر Java ميزات تنسيق متقدمة تتيح لك التحكم في عرض بياناتك. يمكنك تطبيق التنسيق على ورقة عمل أو عمود أو صف أو خلية أو إضافة نص منسق إلى خلية واحدة وتطبيق الحدود وتعيين أنماط الخلفية وأنماط الخط. يسمح API أيضًا بإضافة ومعالجة & amp؛ حساب قواعد التنسيق الشرطي بسرعة.
+Aspose.Cells for Node.js via Java يوفر ميزات تنسيق متقدمة تسمح لك بالتحكم في عرض البيانات الخاصة بك. يمكنك تطبيق التنسيق على ورقة عمل أو عمود أو صف أو خلية أو إضافة نص منسق إلى خلية واحدة وتطبيق الحدود وتعيين أنماط الخلفية وأنماط الخط. يسمح API أيضًا بإضافة ومعالجة & amp؛ حساب قواعد التنسيق الشرطي بسرعة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     إنشاء الرسوم البيانية والتلاعب & أمبير ؛ استدعاء
+ إنشاء الرسم البياني والتلاعب & أمبير ؛ استدعاء
     </h2>
     <p>
-     يوفر Aspose.Cells لـ Node.js عبر Java دعمًا كاملاً للتخطيط. يمكن للمرء بسهولة إضافة مخططات مخصصة أو قياسية باستخدام API ، وتعيين البيانات ديناميكيًا لتحديث الرسوم البيانية.
+ Aspose.Cells for Node.js via Java يوفر الدعم الكامل للمخططات. يمكن للمرء بسهولة إضافة مخططات مخصصة أو قياسية باستخدام API ، وتعيين البيانات ديناميكيًا لتحديث الرسوم البيانية.
     </p>
    </div>
   </div>
@@ -380,12 +379,12 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells لـ Node.js عبر Java؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for Node.js via Java؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -394,7 +393,7 @@ description: معالجة تنسيقات ملفات Excel عبر مكتبة Node
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/nodejs" pricingInformationLink="https://purchase.aspose.com/pricing/cells/nodejs-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="تقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

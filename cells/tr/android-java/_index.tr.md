@@ -1,11 +1,10 @@
 ---
-title: Android Excel Elektronik Tablosu API - Aspose 
+title: Android Excel Elektronik Tablosu API - Aspose
 weight: 6510
-
-description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elektronik tablo kitaplığı. Mobil Uygulama geliştirme için bir e-tablo API
+description: Okuma yazma oluşturmak ve Excel dosyalarını ayrıştırmak için Android elektronik tablo kitaplığı. Mobil Uygulama geliştirme için bir e-tablo API
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Değiştirmek için Android API\'leri" h2="Herhangi bir bağımlılık olmaksızın Android uygulamaları içinde Excel dosyaları oluşturun, okuyun, yazın veya değiştirin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Excel Elektronik Tablolarını Yönetmek için Android API\'leri" h2="Herhangi bir bağımlılık olmadan Android uygulamalarında Excel dosyaları oluşturun, okuyun, yazın veya değiştirin." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -13,7 +12,7 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Java üzerinden Android için Aspose.Cells, elektronik tabloları programlı olarak oluşturmak, birleştirmek, değiştirmek ve ayrıştırmak için ölçeklenebilir bir API'dir. API, excel belge biçimlendirme ve sayfa kurulum görevleri, içe ve dışa aktarma yetenekleri, çalışma sayfası sayfalarını raster görüntülere dönüştürmenin yanı sıra görüntü çözünürlüğü, kalite, sıkıştırma, farklı çizelgeler ekleme ve çok daha fazlasını içeren birçok işlev sunar. Android hesap tablosu API XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS ve daha fazla formatı destekler.
+ Aspose.Cells for Android via Java, elektronik tabloları programlı olarak oluşturmak, birleştirmek, değiştirmek ve ayrıştırmak için ölçeklenebilir bir API'dir. API, excel belge biçimlendirme ve sayfa kurulum görevleri, içe ve dışa aktarma yetenekleri, çalışma sayfası sayfalarını raster görüntülere dönüştürmenin yanı sıra görüntü çözünürlüğünü, kalitesini, sıkıştırmayı belirleme, farklı grafikler ekleme ve çok daha fazlasını içeren birçok işlev sunar. Android e-tablosu XLS, XLSX, CSV, SpreadsheetML, ODS, Sekmeyle Ayrılmış, HTML, PDF, XPS ve daha fazla formatı destekler.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
    <header>
     <i class="fa fa-refresh">
     </i>
-    İçe aktar &amp; İhracat
+ &amp; İhracat
    </header>
    <ul>
     <li>
-     diziler
+ diziler
     </li>
     <li>
-     Sonuç kümesi
+ Sonuç kümesi
     </li>
     <li>
-     Koleksiyonlar
+Koleksiyonlar
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    işleme
+ oluşturma
    </header>
    <ul>
     <li>
-     Grafikten Görüntüye
+ Grafikten Görüntüye
     </li>
     <li>
-     Çalışma Sayfasından Görüntüye
+ Çalışma Sayfasından Görüntüye
     </li>
     <li>
-     E-tablodan PDF'ye
+ PDF e-tablo
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
    <header>
     <i class="fa fa-table">
     </i>
-    Veri işleme
+ Veri işleme
    </header>
    <ul>
     <li>
-     Biçimlendirmeyi Uygula
+ Biçimlendirmeyi Uygula
     </li>
     <li>
-     Formülü Uygula
+ Formülü Uygula
     </li>
     <li>
-     Grafikler Oluşturun
+ Grafik Oluştur
     </li>
     <li>
-     özetle
+ özetle
     </li>
     <li>
-     Akıllı İşaretleyiciler
+ Akıllı İşaretleyiciler
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Android
+ android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Java üzerinden Android için Aspose.Cells, Android 2.0 veya üzeri için kullanılabilir." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Cells for Android via Java for Android 2.0 ve üzeri mevcuttur." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Android Çalışma Zamanı Ortamı
+ Android Çalışma Zamanı Ortamı
    </header>
    <ul>
     <li>
-     Mobil uygulama
+ Mobil uygulama
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Android
+ android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Android elektronik tablosu API, popüler Microsoft Excel biçimlerini, görüntüleri ve sabit düzen biçimlerini destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Android e-tablosu API, popüler Microsoft Excel biçimlerini, resimleri ve sabit düzen biçimlerini destekler." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş çıkış
+ Giriş çıkış
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Açık ofis:
+ Açık ofis:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Metin:
+ Metin:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Ağ:
+ Ağ:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Yalnızca Çıkış
+ Yalnızca Çıktı
    </header>
    <ul>
     <li>
      <b>
-      Sabit Düzen:
+ Sabit Düzen:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Görüntüler:
+ Görüntüler:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
   <footer>
    <small>
     <em>
-     için
+ için
     </em>
-    Java üzerinden Android
+ android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Gelişmiş Android Excel API Özellikleri
+ Gelişmiş Android Excel API Özellikleri
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çalışma sayfasına, satıra, sütuna, hücreye ve aralığa biçimlendirme uygulayın
+Çalışma sayfasına, satıra, sütuna, hücreye ve aralığa biçimlendirme uygulama
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ArrayList, Array, Recordset &amp; Sonuç kümesi
+ ArrayList, Array, Recordset &amp; Sonuç kümesi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Şifrele &amp; Excel dosyalarının şifresini çöz
+ Şifrele &amp; Excel dosyalarının şifresini çözme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sayı biçimlendirmesini ayarla
+ Numara biçimlendirmesini ayarla
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; grafikleri manipüle etmek
+ &amp; çizelgeleri manipüle etmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; yorumları manipüle etmek
+ &amp; yorumları manipüle etmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Oku, ayarla &amp; formülleri hesaplamak
+ Okuma, ayarlama &amp; formülleri hesapla
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sayfa kurulumunu yapılandır
+ Sayfa kurulumunu yapılandırın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; otomatik filtreleri değiştir &amp; sayfa sonları
+ &amp; &amp; sayfa sonları
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Oku &amp; koşullu biçimlendirme yaz
+ Oku &amp; koşullu biçimlendirme yaz
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mevcut çalışma sayfalarının kopyalarını oluşturun
+ Mevcut çalışma sayfalarının kopyalarını oluşturun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Microsoft Excel XP'den bu yana sunulan koruma seçeneklerini ayarlayın
+ Microsoft Excel XP'den beri sunulan koruma seçeneklerini ayarlayın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hücreleri manipüle et &amp; adlandırılmış aralıklar
+ Hücreleri manipüle et &amp; adlandırılmış aralıklar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excel dosyalarını PDF'ye dönüştürün
+ Excel dosyalarını PDF'e dönüştürün
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çalışma sayfalarını dönüştür &amp; resimlere çizelgeler
+ Çalışma sayfalarını dönüştürme &amp; grafiklerden resimlere
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Okuma yazma ve Excel dosyalarını ayrıştırma için Android elek
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; Pivot Tabloları işlemek
+ &amp; Pivot Tabloları manipüle etme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; özel çizelgeleri değiştir
+ &amp; özel grafikleri işlemek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Emsalleri ve Bağımlıları İzleme
+ Emsalleri ve Bağımlıları İzleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     &amp; Senaryoları manipüle etmek
+ &amp; Senaryoları manipüle etmek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Güçlü formül hesaplama motoru
+Güçlü formül hesaplama motoru
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Oku &amp; TSV, CSV &amp; HTML dosyaları
+ Oku &amp; TSV, CSV &amp; HTML dosya
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Farklı Formatlar Dönüşüm
+ Farklı Formatlar Dönüşümü
     </h2>
     <p>
-     Android Excel kitaplığı, elektronik tabloların XPS, PDF &amp; En yüksek görsel doğruluğu koruyan HTML biçimleri. Güvenilir dönüştürme işlemi, API'i şirketler için endüstri standardı biçimlerde dosya alışverişi yapmak için mükemmel bir seçim haline getirir.
+ Android Excel kitaplığı, elektronik tabloların XPS, PDF &amp; HTML formatları en yüksek görsel doğruluğu korur. Güvenilir dönüştürme işlemi, API'i şirketler için endüstri standardı formatlarda dosya alışverişi yapmak için mükemmel bir seçim haline getirir.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Çalışma Kitabını çeşitli biçimlerde kaydedin - Java
+ Çalışma Kitabını çeşitli biçimlerde kaydetme - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Elektronik Tablo Nesnelerini Farklı Biçimlere Dönüştür
+ Elektronik Tablo Nesnelerini Farklı Formatlara Dönüştürün
     </h2>
     <p>
-     Java aracılığıyla Android için Aspose.Cells, çalışma sayfalarından resimlere, çizelgelerden resimlere &amp; PDF ve elektronik tabloları PDF belge biçimine dönüştürme. Esnek işlem, elektronik tablolar sırasında görüntülerin PDF'ye yeniden örneklenmesi veya çalışma sayfaları &amp; çizelgeleri görüntü biçimlerine dönüştürün.
+ Aspose.Cells for Android via Java, çalışma sayfalarından resimlere, çizelgelerden resimlere &amp; PDF ve elektronik tabloları PDF'e belge biçimi dönüştürme. Esnek işlem, elektronik tablolar sırasında görüntülerin PDF'e yeniden örneklenmesi veya çalışma sayfalarını işlerken &amp; resim formatlarına grafikler.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     E-tablo API Formül Hesaplama Motoru
+E-tablo API Formül Hesaplama Motoru
     </h2>
     <p>
-     Android sayfaları API, gelişmiş ve standart Microsoft Excel işlevlerini ve formüllerini destekleyen güçlü bir Formül Hesaplama Motoru sağlar. Formül hesaplama motoru, yerleşik veya eklenti tür, dizi ve R1C1 referans stili formüllerinin sonuçlarını okumayı, ayarlamayı ve hesaplamayı kolaylaştırır.
+ Android sayfaları API, gelişmiş ve standart Microsoft Excel işlevlerini ve formüllerini destekleyen güçlü bir Formül Hesaplama Motoru sağlar. Formül hesaplama motoru, yerleşik veya eklenti tipi, dizi ve R1C1 referans stili formüllerinin sonuçlarını okumayı, ayarlamayı ve hesaplamayı kolaylaştırır.
     </p>
    </div>
    <!--
@@ -571,19 +570,19 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/cells/androidjava/" >}}
+{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Referans" href="https://reference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referanslar" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Öğretici Videolar" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Neden Java üzerinden Android için Aspose.Cells?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

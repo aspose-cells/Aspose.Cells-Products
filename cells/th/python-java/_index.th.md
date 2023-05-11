@@ -1,19 +1,18 @@
 ---
-title: Python สเปรดชีต Excel API - Aspose 
+title:  Python สเปรดชีต Excel API - Aspose
 weight: 2820
-
 description: Python ไลบรารีสเปรดชีตเพื่อสร้างการอ่านเขียนและแยกวิเคราะห์ไฟล์ Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python สเปรดชีต Excel การแยกวิเคราะห์ APIs" h2="สร้าง อ่าน เขียน หรือจัดการสเปรดชีต รวมทั้งส่งออกไฟล์ Excel เป็นหลายรูปแบบภายในแอปพลิเคชัน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API การแยกวิเคราะห์สเปรดชีต Excel" h2="สร้าง อ่าน เขียน หรือจัดการสเปรดชีต ตลอดจนส่งออกไฟล์ Excel เป็นรูปแบบต่างๆ ภายในแอปพลิเคชัน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells สำหรับ Python ผ่าน Java เป็น API ที่รวดเร็วและเชื่อถือได้สำหรับงานประมวลผลสเปรดชีต นักพัฒนาสามารถสร้างสเปรดชีตที่เรียบง่ายหรือซับซ้อน จัดการ และดึงข้อมูลจากไฟล์ excel ได้ API อ่านรูปแบบ excel ได้หลายรูปแบบ และสามารถแสดงเวิร์กชีตเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดา, รูปภาพ และอื่นๆ เป็นทางออกที่ดีที่สุดในการทำให้รายงาน excel เป็นแบบอัตโนมัติโดยใช้ python
+ Aspose.Cells for Python via Java เป็น API ที่รวดเร็วและเชื่อถือได้สำหรับงานประมวลผลสเปรดชีต นักพัฒนาสามารถสร้างสเปรดชีตที่เรียบง่ายหรือซับซ้อน จัดการและดึงข้อมูลจากไฟล์ excel API อ่านรูปแบบ excel หลายรูปแบบและสามารถแสดงแผ่นงานเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดา, รูปภาพ และอื่นๆ เป็นทางออกที่ดีที่สุดในการทำรายงาน excel โดยอัตโนมัติโดยใช้ python
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="สรุป" description="ภาพรวมของความสามารถ API" >}}
+{{< blocks/products/pf/carousel-item h3="ภาพรวม" description="ภาพรวมของความสามารถ API" >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    นำเข้า &amp; ส่งออก
+ นำเข้า &amp; ส่งออก
    </header>
    <ul>
     <li>
-     อาร์เรย์
+ อาร์เรย์
     </li>
     <li>
-     ชุดผลลัพธ์
+ ชุดผลลัพธ์
     </li>
     <li>
-     ของสะสม
+คอลเลกชัน
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    กำลังแสดงผล
+ กำลังแสดงผล
    </header>
    <ul>
     <li>
-     แผนภูมิเป็นรูปภาพ
+ แผนภูมิเป็นรูปภาพ
     </li>
     <li>
-     แผ่นงานเป็น Image
+ แผ่นงานไปยังรูปภาพ
     </li>
     <li>
-     สเปรดชีตเป็น PDF
+ สเปรดชีตไปที่ PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
    <header>
     <i class="fa fa-table">
     </i>
-    การประมวลผลข้อมูล
+ การประมวลผลข้อมูล
    </header>
    <ul>
     <li>
-     ใช้การจัดรูปแบบ
+ ใช้การจัดรูปแบบ
     </li>
     <li>
-     ใช้สูตร
+ ใช้สูตร
     </li>
     <li>
-     สร้างแผนภูมิ
+ สร้างแผนภูมิ
     </li>
     <li>
-     สรุป
+ สรุป
     </li>
     <li>
-     สมาร์ทมาร์กเกอร์
+ มาร์กเกอร์อัจฉริยะ
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
   <footer>
    <small>
     <em>
-     สำหรับ
+ สำหรับ
     </em>
-    Python ผ่าน Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระของแพลตฟอร์ม" description="Aspose.Cells สำหรับ Python ผ่าน Java สามารถใช้ได้สำหรับ" >}}
+{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระของแพลตฟอร์ม" description="Aspose.Cells for Python via Java สำหรับ." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python สภาพแวดล้อมรันไทม์
+ Python สภาพแวดล้อมรันไทม์
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
   <footer>
    <small>
     <em>
-     สำหรับ
+ สำหรับ
     </em>
-    Python ผ่าน Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description="Python ไลบรารี excel รองรับรูปแบบ Microsoft Excel รูปแบบเค้าโครงคงที่ และรูปภาพยอดนิยม" >}}
+{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description="ไลบรารี excel Python รองรับรูปแบบ Excel ยอดนิยม Microsoft รูปแบบเค้าโครงคงที่ และรูปภาพ" >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    อินพุต/เอาต์พุต
+ อินพุต/เอาต์พุต
    </header>
    <ul>
     <li>
      <b>
-      ไมโครซอฟต์เอ็กเซล:
+ Microsoft เก่ง:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      โอเพ่นออฟฟิศ:
+ โอเพ่นออฟฟิศ:
      </b>
      ODS
     </li>
     <li>
      <b>
-      ข้อความ:
+ ข้อความ:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      เว็บ:
+ เว็บ:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    เอาท์พุตเท่านั้น
+ เอาต์พุตเท่านั้น
    </header>
    <ul>
     <li>
      <b>
-      เค้าโครงคงที่:
+ เค้าโครงคงที่:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/เอ, XPS
     </li>
     <li>
      <b>
-      รูปภาพ:
+ ภาพ:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
   <footer>
    <small>
     <em>
-     สำหรับ
+ สำหรับ
     </em>
-    Python ผ่าน Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    ขั้นสูง Python Excel API คุณสมบัติ
+คุณลักษณะขั้นสูง Python Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     อ่านสเปรดชีต Excel
+ อ่านสเปรดชีต Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     แสดงผลสเปรดชีตเป็น PDF, EMF และรูปภาพ
+ แสดงสเปรดชีตเป็น PDF, EMF และรูปภาพ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ปรับแผ่นงานภายในสมุดงาน
+ ปรับแผ่นงานภายในสมุดงาน
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     แผ่นงานป้องกัน / เลิกป้องกัน
+ ป้องกัน / ยกเลิกการป้องกันแผ่นงาน
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     เพิ่มรูปภาพและสร้างแผนภูมิ
+ เพิ่มรูปภาพและสร้างแผนภูมิ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     สร้างตารางสาระสำคัญและแผนภูมิสาระสำคัญ
+ สร้างตารางเดือยและแผนภูมิเดือย
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     เพิ่มและแก้ไขความคิดเห็นที่ระดับเซลล์
+ เพิ่มและแก้ไขความคิดเห็นที่ระดับเซลล์
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ค้นหาและแทนที่ data
+ ค้นหาและแทนที่ข้อมูล
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     แยกและผสานเซลล์
+ แยกและผสานเซลล์
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     เพิ่มหรือลบการจัดกลุ่มในแถวและคอลัมน์
+ เพิ่มหรือลบการจัดกลุ่มแถวและคอลัมน์
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ตั้งค่าการจัดรูปแบบตัวเลข
+ กำหนดรูปแบบตัวเลข
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     อ่านและกำหนดสูตร
+ อ่านและกำหนดสูตร
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     กำหนดค่าการตั้งค่าหน้า
+ กำหนดการตั้งค่าเพจ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ปรับการวางแนวหน้า มาตราส่วน ขนาดกระดาษ
+ ปรับการวางแนวหน้า มาตราส่วน ขนาดกระดาษ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     อ่าน &amp; เขียนการจัดรูปแบบตามเงื่อนไข
+ อ่าน & amp; เขียนการจัดรูปแบบตามเงื่อนไข
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     การแปลงหลายรูปแบบ
+ การแปลงหลายรูปแบบ
     </h2>
     <p>
-     Python ไลบรารี Excel ให้การแปลงไฟล์ Excel เป็น PDF, XPS &amp; รูปแบบ HTML การแปลง API ที่เชื่อถือได้ทำให้เป็นโซลูชั่นที่สมบูรณ์แบบสำหรับบริษัทที่ต้องการแลกเปลี่ยนไฟล์ในรูปแบบมาตรฐานอุตสาหกรรม
+ Python ไลบรารี Excel ให้การแปลงไฟล์ Excel เป็น PDF, XPS &amp; รูปแบบ HTML การแปลงที่เชื่อถือได้ของ API ทำให้เป็นโซลูชั่นที่สมบูรณ์แบบสำหรับบริษัทที่ต้องการแลกเปลี่ยนไฟล์ในรูปแบบมาตรฐานอุตสาหกรรม
     </p>
     <div class="codeblock" id="code">
      <h3>
-      บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
+ บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     ตัวเลือกการแสดงผลที่ยืดหยุ่น
+ ตัวเลือกการแสดงผลที่ยืดหยุ่น
     </h2>
     <p>
-     Aspose.Cells สำหรับ Python ผ่าน Java ให้การควบคุมเต็มรูปแบบในการตั้งค่าหน้า ทำให้สามารถจัดการตัวเลือกการแสดงผลได้หลายแบบ เช่น ตัวแบ่งหน้า ตั้งค่าระดับการซูม กำหนดการวางแนวของหน้า ควบคุมการมองเห็นข้อมูลด้วยช่องหยุดการทำงาน ขนาดกระดาษ มาตราส่วน ส่วนหัว &amp; ; ส่วนท้ายและพื้นที่พิมพ์
+Aspose.Cells for Python via Java ให้การควบคุมการตั้งค่าหน้าอย่างเต็มรูปแบบ ทำให้สามารถควบคุมตัวเลือกการแสดงผลได้หลายแบบ เช่น แสดงตัวอย่างตัวแบ่งหน้า ตั้งค่าระดับการซูม ตั้งค่าการวางแนวหน้า ส่วนท้ายและพื้นที่พิมพ์
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     การจัดการข้อมูลแผ่นงาน Excel
+ การจัดการข้อมูลแผ่นงาน Excel
     </h2>
     <p>
-     Aspose.Cells สำหรับ Python ผ่าน Java API ให้การสนับสนุนอย่างกว้างขวางสำหรับการจัดการข้อมูลเวิร์กชีต สามารถจัดการเซลล์ใดๆ ในเวิร์กชีตได้อย่างง่ายดายในขณะใช้งานจริง หรือนำเข้าข้อมูลไปยังเวิร์กชีตจากแหล่งข้อมูลต่างๆ
+ Aspose.Cells for Python via Java API ให้การสนับสนุนที่ครอบคลุมสำหรับการจัดการข้อมูลแผ่นงาน สามารถจัดการเซลล์ใด ๆ ในเวิร์กชีตในขณะรันไทม์หรือนำเข้าข้อมูลไปยังเวิร์กชีตจากแหล่งข้อมูลต่าง ๆ ได้อย่างง่ายดาย
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     การปรับแต่งแผนภูมิ
+ การปรับแต่งแผนภูมิ
     </h2>
     <p>
-     Aspose.Cells สำหรับ Python ผ่าน Java ให้การสนับสนุนอย่างเต็มที่สำหรับการสร้างแผนภูมิ คุณสามารถเพิ่มแผนภูมิมาตรฐานและแบบกำหนดเองหรือตั้งค่าข้อมูลแผนภูมิแบบไดนามิกเพื่อรีเฟรชแผนภูมิโดยใช้ไลบรารีหลามนี้
+ Aspose.Cells for Python via Java ให้การสนับสนุนอย่างเต็มที่สำหรับแผนภูมิ สามารถเพิ่มแผนภูมิมาตรฐานและแผนภูมิที่กำหนดเองได้อย่างง่ายดาย หรือตั้งค่าข้อมูลแผนภูมิแบบไดนามิกเพื่อรีเฟรชแผนภูมิในไลบรารีหลามนี้
     </p>
    </div>
    <!--
@@ -519,26 +517,26 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API ข้อมูลอ้างอิง" href="https://reference.aspose.com/python/cells" >}}
-{{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API เอกสารอ้างอิง" href="https://reference.aspose.com/cells/python-java" >}}
+{{< blocks/products/pf/slr-element name="วิดีโอการสอน" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="การสนับสนุนผลิตภัณฑ์" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Cells สำหรับ Python ผ่าน Java" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Cells for Python via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells เสนอ Excel API แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells มี API ของ Excel แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

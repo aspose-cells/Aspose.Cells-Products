@@ -1,7 +1,6 @@
 ---
-title: Redigir planilhas do Excel no Windows, Linux e macOS 
-
-description: Aplicativo e APIs gratuitos para redigir informações confidenciais de planilhas XLS, XLSX e ODS
+title:  Redigir planilhas do Excel em Windows, Linux e macOS
+description: Aplicativo gratuito e APIs para redigir informações confidenciais das planilhas XLS, XLSX e ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

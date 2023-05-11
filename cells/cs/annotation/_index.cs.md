@@ -1,8 +1,7 @@
 ---
-title: Odstraňte komentáře ze souborů aplikace Excel v systémech Windows, Linux a macOS 
+title:  Odebrat komentáře ze souborů aplikace Excel na Windows, Linux & macOS
 weight: 7730
-
-description: Bezplatná aplikace a rozhraní API pro správu anotací a komentářů Excel XLS, XLSX a ODS
+description: Bezplatná aplikace a rozhraní API pro Excel XLS, XLSX a ODS Správa anotací a komentářů
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

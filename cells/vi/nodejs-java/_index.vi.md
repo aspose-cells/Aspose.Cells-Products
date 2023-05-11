@@ -1,11 +1,10 @@
 ---
-title: Các API Node.js cho Bảng tính Excel - Aspose 
+title:  API Node.js cho Bảng tính Excel - Aspose
 weight: 3120
-
-description: Xử lý các định dạng tệp Excel thông qua thư viện Node.js. Đọc ghi kết xuất và chuyển đổi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV và các định dạng khác qua Node.js trên Windows, macOS & Linux
+description: Xử lý các định dạng file Excel qua thư viện Node.js. Đọc viết kết xuất & chuyển đổi XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV và nhiều định dạng khác qua Node.js trên Windows, macOS & Linux
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Các API Định dạng Tệp Node.js Excel" h2="Tạo, sửa đổi, chuyển đổi và hiển thị bảng tính Excel bằng Node.js mà không yêu cầu Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API định dạng tệp Excel của Node.js" h2="Tạo, sửa đổi, chuyển đổi và kết xuất bảng tính Excel bằng Node.js mà không yêu cầu Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +12,11 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells cho Node.js qua Java là một API giàu tính năng và có thể mở rộng để xử lý bảng tính Excel bằng Node.js. API cung cấp chuyển đổi định dạng tệp Excel, tạo kiểu trang tính ở mức chi tiết nhất, tạo biểu đồ & amp; kết xuất, công cụ tính toán công thức đáng tin cậy và hơn thế nữa.
+ Aspose.Cells for Node.js via Java là một API giàu tính năng và có thể mở rộng để xử lý bảng tính Excel bằng Node.js. API cung cấp tính năng chuyển đổi định dạng tệp Excel, tạo kiểu trang tính ở mức chi tiết nhất, tạo biểu đồ &amp; kết xuất, công cụ tính toán công thức đáng tin cậy và nhiều hơn nữa.
 </p>
 
 <p>
- Aspose.Cells cho Node.js qua Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & amp; HTML.
+ Aspose.Cells for Node.js via Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về Aspose.Cells cho Node.js thông qua các khả năng của Java." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Khái quát về Aspose.Cells for Node.js via Java khả năng." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Kết xuất
+ kết xuất
    </header>
    <ul>
     <li>
-     Chuyển đổi biểu đồ thành hình ảnh
+ Chuyển đổi biểu đồ thành hình ảnh
     </li>
     <li>
-     Chuyển bảng tính thành hình ảnh
+ Chuyển đổi trang tính thành hình ảnh
     </li>
     <li>
-     Chuyển bảng tính sang PDF
+Chuyển đổi Bảng tính thành PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
    <header>
     <i class="fa fa-cogs">
     </i>
-    Xử lí dữ liệu
+ Xử lí dữ liệu
    </header>
    <ul>
     <li>
-     Biểu đồ
+ biểu đồ
     </li>
     <li>
-     Công thức tính toán
+ Công thức tính toán
     </li>
     <li>
-     Điểm đánh dấu thông minh
+ Điểm đánh dấu thông minh
     </li>
     <li>
-     Bảng tổng hợp
+ Bảng tổng hợp
     </li>
     <li>
-     Định dạng có điều kiện
+ Định dạng có điều kiện
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Node.js qua Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells cho Node.js qua Java là JavaScript phía máy chủ API dựa trên Node.js. Nó có thể chạy trên nền tảng Windows, Unix / Linux & Mac với JDK 1.7 trở lên." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for Node.js via Java là JavaScript phía máy chủ API dựa trên Node.js. Nó có thể chạy trên các nền tảng Windows, Unix/Linux & Mac với JDK 1.7 trở lên." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Môi trường thời gian chạy
+ Java Môi trường thời gian chạy
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Node.js qua Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.Cells cho Node.js qua Java hỗ trợ các định dạng tệp bảng tính phổ biến cùng với các định dạng hình ảnh và bố cục cố định được sử dụng phổ biến nhất." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for Node.js via Java hỗ trợ các định dạng tệp bảng tính phổ biến cùng với các định dạng hình ảnh và bố cục cố định được sử dụng phổ biến nhất." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Mở văn phòng:
+ Mở văn phòng:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
-     CSV, Phân cách bằng tab, TXT
+ CSV, Phân định bằng tab, TXT
     </li>
     <li>
      <b>
-      Web:
+ mạng:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Node.js qua Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tính năng Bảng tính Excel nâng cao của Node.js API
+ Tính năng Bảng tính Excel nâng cao của Node.js API
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo Bảng tổng hợp, biểu đồ, biểu đồ thu nhỏ & amp; định dạng có điều kiện
+ Tạo Bảng Pivot, biểu đồ, biểu đồ thu nhỏ &amp; định dạng có điều kiện
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Làm mới các biểu đồ hiện có & amp; chuyển đổi biểu đồ sang hình ảnh hoặc PDF
+ Làm mới các biểu đồ &amp; convert biểu đồ sang ảnh or PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác nhận xét & amp; siêu liên kết
+ Tạo &amp; thao tác nhận xét &amp; siêu liên kết
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt công thức phức tạp & amp; tính toán kết quả qua API
+ Đặt công thức phức tạp &amp; tính kết quả qua API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt bảo vệ trên sổ làm việc, trang tính, ô, cột hoặc hàng
+ Đặt bảo vệ trên sổ làm việc, trang tính, ô, cột hoặc hàng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao túng các phạm vi được đặt tên
+ Tạo &amp; thao tác các phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Điền trang tính bằng Smart Markers
+ Điền vào bảng tính bằng cách sử dụng Smart Markers
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thao tác và làm mới Pivot Table qua API
+Thao tác và làm mới Bảng Pivot qua API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi trang tính sang PDF, XPS & amp; Các định dạng SVG
+ Chuyển đổi trang tính thành PDF, XPS &amp; định dạng SVG
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kết xuất Bảng tính Excel
+ Kết xuất bảng tính Excel
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java sử dụng công cụ kết xuất của nó để kết xuất Microsoft Excel với độ trung thực cao nhất. Trong khi sử dụng thư viện Xử lý Excel của Node.js, người ta có thể chuyển đổi toàn bộ trang tính, tệp riêng lẻ hoặc biểu đồ sang nhiều hình ảnh và định dạng bố cục cố định.
+ Aspose.Cells for Node.js via Java sử dụng công cụ kết xuất của nó để kết xuất sang Microsoft Excel với độ trung thực cao nhất. Khi sử dụng thư viện Xử lý Excel của Node.js, người ta có thể chuyển đổi toàn bộ trang tính, tệp riêng lẻ hoặc biểu đồ thành nhiều hình ảnh và định dạng bố cục cố định.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tùy chọn hiển thị linh hoạt
+ Tùy chọn hiển thị linh hoạt
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java cung cấp toàn quyền kiểm soát thiết lập trang của trang tính, người ta có thể thao tác các tùy chọn hiển thị của trang tính như hướng trang, ngắt, kích thước, chia tỷ lệ, đầu trang, chân trang và mức thu phóng. Hơn nữa, các nhà phát triển có thể kiểm soát khả năng hiển thị dữ liệu với sự trợ giúp của khu vực in và đóng băng các ngăn để phù hợp với các thông số kỹ thuật của ứng dụng.
+ Aspose.Cells for Node.js via Java cung cấp toàn quyền kiểm soát thiết lập trang của trang tính, người ta có thể thao tác các tùy chọn hiển thị của trang tính như hướng trang, dấu ngắt, kích thước, tỷ lệ, đầu trang, chân trang và mức thu phóng. Hơn nữa, các nhà phát triển có thể kiểm soát khả năng hiển thị dữ liệu với sự trợ giúp của khu vực in và ngăn cố định để phù hợp với thông số kỹ thuật của ứng dụng.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tùy chọn bảo mật
+ Tùy chọn bảo mật
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java cung cấp nhiều tính năng bảo mật bao gồm mã hóa / giải mã bảng tính, nội dung, đối tượng & amp; bảo vệ kịch bản cũng như khả năng ẩn và hiện hàng, cột & amp; trang tính.
+Aspose.Cells for Node.js via Java cung cấp nhiều tính năng bảo mật bao gồm mã hóa/giải mã bảng tính, nội dung, đối tượng &amp; bảo vệ kịch bản cũng như khả năng ẩn và hiện hàng, cột &amp; bảng tính.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thao tác hàng & amp; Cột
+ Thao tác Hàng &amp; Cột
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java cho phép bạn thao tác các hàng và cột theo nhiều cách khác nhau. Bạn có thể dễ dàng điều chỉnh chiều cao hàng & amp; chiều rộng cột, tự động định kích thước ô theo nội dung, chèn & amp; xóa, ẩn & amp; bỏ ẩn cũng như nhóm & amp; bỏ nhóm các hàng & amp; cột.
+ Aspose.Cells for Node.js via Java cho phép bạn thao tác với hàng và cột theo nhiều cách khác nhau. Bạn có thể dễ dàng điều chỉnh chiều cao &amp; chiều rộng cột, tự động định cỡ ô theo nội dung, chèn &amp; xóa, ẩn &amp; bỏ ẩn cũng như nhóm &amp; bỏ nhóm các hàng &amp; cột.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Hỗ trợ toàn diện cho định dạng trang tính
+ Hỗ trợ toàn diện cho định dạng trang tính
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java cung cấp các tính năng định dạng nâng cao cho phép bạn kiểm soát việc trình bày dữ liệu của mình. Bạn có thể áp dụng định dạng cho trang tính, cột, hàng hoặc ô hoặc thêm Văn bản có dạng thức vào một ô, áp dụng đường viền, đặt mẫu nền và kiểu phông chữ. API cũng cho phép thêm, thao tác & amp; tính toán nhanh các quy tắc định dạng có điều kiện.
+Aspose.Cells for Node.js via Java cung cấp các tính năng định dạng nâng cao cho phép bạn kiểm soát việc trình bày dữ liệu của mình. Bạn có thể áp dụng định dạng cho một trang tính, cột, hàng hoặc ô hoặc thêm Văn bản có định dạng vào một ô, áp dụng đường viền, đặt mẫu nền và kiểu phông chữ. API cũng cho phép thêm, thao tác &amp; tính toán các quy tắc định dạng có điều kiện một cách nhanh chóng.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tạo Biểu đồ, Thao tác & amp; Kết xuất
+ Tạo Biểu đồ, Thao tác &amp; kết xuất
     </h2>
     <p>
-     Aspose.Cells cho Node.js qua Java cung cấp hỗ trợ đầy đủ cho việc lập biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ chuẩn hoặc tùy chỉnh bằng cách sử dụng API và đặt dữ liệu động để làm mới các biểu đồ.
+ Aspose.Cells for Node.js via Java cung cấp hỗ trợ đầy đủ cho biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn hoặc tùy chỉnh bằng cách sử dụng API và tự động đặt dữ liệu để làm mới biểu đồ.
     </p>
    </div>
   </div>
@@ -375,18 +374,18 @@ description: Xử lý các định dạng tệp Excel thông qua thư viện Nod
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/nodejs/cells" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells cho Node.js qua Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

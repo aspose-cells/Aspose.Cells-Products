@@ -1,11 +1,10 @@
 ---
-title: Bảng tính Excel Android API - Aspose 
+title: Bảng tính Android Excel API - Aspose
 weight: 6510
-
-description: Thư viện bảng tính Android để tạo đọc ghi và phân tích cú pháp tệp Excel. Bảng tính API để phát triển Ứng dụng trên điện thoại di động
+description: Thư viện bảng tính Android để tạo các tệp Excel đọc ghi và phân tích cú pháp. Bảng tính API để phát triển Ứng dụng di động
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác với bảng tính Excel" h2="Tạo, đọc, ghi hoặc thao tác các tệp Excel trong ứng dụng Android mà không cần bất kỳ sự phụ thuộc nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Android để thao tác bảng tính Excel" h2="Tạo, đọc, viết hoặc thao tác với các tệp Excel trong ứng dụng Android mà không có bất kỳ phụ thuộc nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -13,7 +12,7 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells cho Android qua Java là một API có thể mở rộng để tạo, kết hợp, sửa đổi và phân tích cú pháp bảng tính theo chương trình. API cung cấp nhiều chức năng bao gồm các tác vụ định dạng tài liệu excel và thiết lập trang, khả năng nhập và xuất, kết xuất các trang bảng tính thành hình ảnh raster cũng như chỉ định độ phân giải, chất lượng, nén hình ảnh, thêm các biểu đồ khác nhau và hơn thế nữa. Bảng tính Android API hỗ trợ XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS và các định dạng khác.
+ Aspose.Cells for Android via Java là một API có thể mở rộng để tạo, kết hợp, sửa đổi và phân tích bảng tính theo chương trình. API cung cấp nhiều chức năng bao gồm định dạng tài liệu excel và các tác vụ thiết lập trang, khả năng nhập và xuất, hiển thị các trang bảng tính thành hình ảnh raster cũng như chỉ định độ phân giải, chất lượng, nén, thêm các biểu đồ khác nhau, v.v. Bảng tính Android API hỗ trợ XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS và nhiều định dạng khác.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về các khả năng của API." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Tổng quan về khả năng API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Nhập & amp; Xuất khẩu
+ Nhập &amp; Xuất khẩu
    </header>
    <ul>
     <li>
-     Mảng
+ Mảng
     </li>
     <li>
-     ResultSet
+ Bộ kết quả
     </li>
     <li>
-     Bộ sưu tập
+bộ sưu tập
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Kết xuất
+ kết xuất
    </header>
    <ul>
     <li>
-     Biểu đồ thành hình ảnh
+ Biểu đồ thành hình ảnh
     </li>
     <li>
-     Trang tính thành hình ảnh
+ Trang tính thành hình ảnh
     </li>
     <li>
-     Bảng tính sang PDF
+ Bảng kê tới PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
    <header>
     <i class="fa fa-table">
     </i>
-    Xử lí dữ liệu
+ Xử lí dữ liệu
    </header>
    <ul>
     <li>
-     Áp dụng định dạng
+ Áp dụng định dạng
     </li>
     <li>
-     Áp dụng công thức
+ Áp dụng công thức
     </li>
     <li>
-     Tạo biểu đồ
+ Tạo biểu đồ
     </li>
     <li>
-     Tóm tắt
+ tóm tắt
     </li>
     <li>
-     Điểm đánh dấu thông minh
+ Điểm đánh dấu thông minh
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Android qua Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells cho Android qua Java khả dụng cho Android 2.0 trở lên." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for Android via Java có sẵn for Android 2.0 trở lên." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Môi trường thời gian chạy Android
+ Môi trường thời gian chạy Android
    </header>
    <ul>
     <li>
-     Ứng dụng di động
+ Ứng dụng di động
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Android qua Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Bảng tính Android API hỗ trợ các định dạng Microsoft Excel phổ biến, hình ảnh và các định dạng bố cục cố định." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Bảng tính Android API hỗ trợ các định dạng Microsoft Excel phổ biến, hình ảnh và định dạng bố cục cố định." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Mở văn phòng:
+ Mở văn phòng:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ mạng:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
-     PDF, PDF / A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Android qua Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tính năng Android Excel API nâng cao
+ Các tính năng nâng cao của Android Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Áp dụng định dạng cho trang tính, hàng, cột, ô và phạm vi
+Áp dụng định dạng cho trang tính, hàng, cột, ô và phạm vi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Xuất và nhập dữ liệu từ ArrayList, Array, Recordset & amp; Tập kết quả
+ Xuất và nhập dữ liệu từ ArrayList, Array, Recordset &amp; tập kết quả
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mã hóa & amp; giải mã các tệp Excel
+ Mã hóa &amp; giải mã file excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt định dạng số
+ Đặt định dạng số
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao túng biểu đồ
+ Tạo &amp; thao tác biểu đồ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác bình luận
+ Tạo &amp; thao túng bình luận
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc, đặt & amp; tính toán công thức
+ Đọc, đặt &amp; tính công thức
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Định cấu hình thiết lập trang
+ Định cấu hình thiết lập trang
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt & amp; thao tác với bộ lọc tự động & amp; ngắt trang
+ Đặt &amp; thao tác bộ lọc tự động &amp; ngắt trang
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc & amp; viết định dạng có điều kiện
+ Đọc &amp; viết định dạng có điều kiện
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo bản sao của các trang tính hiện có
+ Tạo bản sao của các trang tính hiện có
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt các tùy chọn bảo vệ được giới thiệu kể từ Microsoft Excel XP
+ Đặt tùy chọn bảo vệ được giới thiệu từ Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Thao tác ô & amp; phạm vi được đặt tên
+ Thao tác với các ô &amp; phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi tệp Excel sang PDF
+ Chuyển file Excel sang PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi trang tính & amp; biểu đồ thành hình ảnh
+ Chuyển đổi trang tính &amp; biểu đồ thành hình ảnh
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Thư viện bảng tính Android để tạo đọc ghi và phân t
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác với Pivot Table
+ Tạo &amp; thao tác với Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác các biểu đồ tùy chỉnh
+ Tạo &amp; thao tác biểu đồ tùy chỉnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Theo dõi tiền thân và người phụ thuộc
+ Trace tiền lệ và phụ thuộc
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao túng các tình huống
+ Tạo &amp; thao túng kịch bản
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Công cụ tính toán công thức mạnh mẽ
+Công cụ tính toán công thức mạnh mẽ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc & amp; viết TSV, CSV & amp; Tệp HTML
+ Đọc &amp; lh TSV, CSV &amp; HTML tập tin
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi các định dạng khác nhau
+ Chuyển đổi định dạng khác nhau
     </h2>
     <p>
-     Thư viện Android Excel cung cấp chuyển đổi bảng tính sang XPS, PDF & amp; Các định dạng HTML giữ độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy làm cho API trở thành lựa chọn hoàn hảo cho các công ty để trao đổi tệp ở các định dạng tiêu chuẩn của ngành.
+ Thư viện Android Excel cung cấp chuyển đổi bảng tính thành XPS, PDF &amp; HTML giữ độ trung thực hình ảnh cao nhất. Quá trình chuyển đổi đáng tin cậy làm cho API trở thành lựa chọn hoàn hảo cho các công ty để trao đổi tệp ở định dạng tiêu chuẩn công nghiệp.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Lưu Workbook ở các định dạng khác nhau - Java
+ Lưu Workbook dưới nhiều định dạng - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi các đối tượng bảng tính sang các định dạng khác nhau
+ Chuyển đổi các đối tượng bảng tính sang các định dạng khác nhau
     </h2>
     <p>
-     Aspose.Cells cho Android thông qua Java cung cấp một số tính năng đặc biệt như trang tính cho hình ảnh, biểu đồ cho hình ảnh & amp; PDF và bảng tính chuyển đổi định dạng tài liệu PDF. Quy trình linh hoạt có một số lựa chọn để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong khi lập bảng tính sang PDF hoặc đặt kích thước hình ảnh kết quả khi kết xuất trang tính & amp; biểu đồ sang định dạng hình ảnh.
+ Aspose.Cells for Android via Java cung cấp một số tính năng đặc biệt như trang tính thành hình ảnh, biểu đồ thành hình ảnh &amp; PDF và bảng tính sang PDF chuyển đổi định dạng tài liệu. Quy trình linh hoạt có một số lựa chọn cho việc chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong bảng tính thành PDF hoặc đặt kích thước hình ảnh kết quả khi hiển thị trang tính &amp; biểu đồ sang định dạng hình ảnh.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bảng tính API Công cụ Tính toán Công thức
+Bảng tính API Công cụ tính toán công thức
     </h2>
     <p>
-     Trang tính Android API cung cấp Công cụ tính toán công thức mạnh mẽ hỗ trợ các hàm và công thức Microsoft Excel nâng cao và tiêu chuẩn. Công cụ tính toán công thức giúp dễ dàng đọc, đặt và tính toán kết quả của các công thức kiểu tham chiếu, mảng và kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ sung.
+ Trang tính Android API cung cấp Công cụ tính toán công thức mạnh mẽ hỗ trợ các hàm và công thức Excel Microsoft tiêu chuẩn và nâng cao. Công cụ tính toán công thức giúp bạn dễ dàng đọc, thiết lập và tính toán kết quả của các công thức kiểu tham chiếu kiểu tham chiếu R1C1 được tích hợp sẵn hoặc bổ trợ.
     </p>
    </div>
    <!--
@@ -573,18 +572,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại sử dụng Aspose.Cells cho Android qua Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Android via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

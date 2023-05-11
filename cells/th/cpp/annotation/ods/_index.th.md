@@ -1,8 +1,7 @@
 ---
-title: เพิ่มคำอธิบายประกอบ ODS ผ่าน C++ 
+title:  เพิ่ม ODS คำอธิบายประกอบผ่าน C++
 weight: 8840
-
-description: C++ ตัวอย่างโค้ดสำหรับลบคำอธิบายประกอบรูปแบบ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
+description: รหัสตัวอย่าง C++ เพื่อลบคำอธิบายประกอบรูปแบบ ODS บน C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="เพิ่มคำอธิบายประกอบในไฟล์ ODS ผ่าน C++" h2="สร้างแอป C++ ของคุณเองเพื่อจัดการความคิดเห็นและผู้เขียนในไฟล์เอกสารโดยใช้ API ฝั่งเซิร์ฟเวอร์" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -12,20 +11,19 @@ description: C++ ตัวอย่างโค้ดสำหรับลบค
 
 {{% blocks/products/pf/agp/content h2="วิธีใส่คำอธิบายประกอบไฟล์ ODS โดยใช้ C++" %}}
 
-เพื่อใส่คำอธิบายประกอบไฟล์ ODS เราจะใช้
- [Aspose.Cells สำหรับ C++](https://products.aspose.com/cells/cpp) 
- API ซึ่งเป็นคุณลักษณะที่หลากหลาย มีประสิทธิภาพ และใช้งานง่ายในการค้นหาเอกสาร API สำหรับแพลตฟอร์ม C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด
+ในการใส่คำอธิบายประกอบไฟล์ ODS เราจะใช้
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+API ซึ่งเป็นแพลตฟอร์มการค้นหาเอกสารที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย API for C++ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด
  [NuGet](https://www.nuget.org/packages/aspose.cells.cpp) 
- package manager ค้นหา
+ ผู้จัดการแพ็คเกจ ค้นหา
  **Aspose.Cells.Cpp** 
- และติดตั้ง คุณยังสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ และติดตั้ง. คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -35,24 +33,31 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนในการเพิ่มคำอธิบายประกอบใน ODS ผ่าน C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="ขั้นตอนการเพิ่มคำอธิบายประกอบใน ODS ผ่าน C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. โหลดไฟล์ ODS Excel โดยใช้วัตถุคลาส IWorkbook1. เลือกแผ่นงานที่เกี่ยวข้อง1. เพิ่มความคิดเห็นโดยใช้วิธีการเพิ่ม1. ตั้งค่าบันทึกความคิดเห็นโดยใช้วิธี SetNote1. บันทึกสมุดงานโดยใช้ [บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) กระบวนการ
+1.  โหลดไฟล์ Excel ODS โดยใช้วัตถุคลาส IWorkbook
+1.  เลือกแผ่นงานที่เกี่ยวข้อง
+1.  เพิ่มความคิดเห็นโดยใช้วิธีการเพิ่ม
+1.  ตั้งค่าบันทึกความคิดเห็นโดยใช้เมธอด SetNote
+1.  บันทึกสมุดงานโดยใช้[บันทึก](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) วิธี
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells สำหรับ C++ รองรับบนแพลตฟอร์มหลักและระบบปฏิบัติการทั้งหมด โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
+ Aspose.Cells for C++ รองรับแพลตฟอร์มและระบบปฏิบัติการหลักทั้งหมด โปรดตรวจสอบให้แน่ใจว่าคุณมีข้อกำหนดเบื้องต้นดังต่อไปนี้
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต- Aspose.Cells สำหรับ C++ DLL ที่อ้างอิงในโครงการของคุณ
+-  Microsoft Windows หรือระบบปฏิบัติการที่เข้ากันได้กับ C++ Runtime Environment สำหรับ Windows 32 บิต, Windows 64 บิต และ Linux 64 บิต
+-  เพิ่มการอ้างอิงถึง Aspose.Cells for C++ DLL ในโครงการของคุณ
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="เพิ่มความคิดเห็นใน ODS - C++" offSpacer="" %}}
@@ -68,9 +73,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells สำหรับ C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="เกี่ยวกับ Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็นแบบสแตนด์อโลน API และไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice  
+ Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
 
 
@@ -78,14 +83,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="เพิ่ม / ลบคำอธิบายประกอบจาก ODS ผ่านแอพออนไลน์" sectionDescription="ลบคำอธิบายประกอบเอกสาร ODS ทันทีโดยไปที่ [เว็บไซต์สาธิตสด](https://products.aspose.app/cells/annotation). การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไรเลย" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="เพิ่ม / ลบคำอธิบายประกอบจาก ODS ผ่านแอพออนไลน์" sectionDescription=" ลบคำอธิบายประกอบเอกสาร ODS ทันทีโดยไปที่ของเรา[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/annotation). การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" เพียงอัปโหลดไฟล์ ODS ของคุณแล้วกดปุ่ม \"ลบ\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" รับลิงค์ดาวน์โหลดทันทีสำหรับไฟล์ผลลัพธ์" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" รับลิงก์ดาวน์โหลดไฟล์ผลลัพธ์ทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล ODS ย่อมาจากรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้แก้ไขได้ ข้อมูลถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบ XML และเป็นหนึ่งในหลายประเภทย่อยในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนมากบน Windows รวมถึงระบบปฏิบัติการอื่น ๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการรวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยใช้แอปพลิเคชันต่างๆ
+ไฟล์ที่มีนามสกุล ODS หมายถึงรูปแบบเอกสาร OpenDocument Spreadsheet ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS ยังสามารถแปลงเป็นรูปแบบสเปรดชีตอื่นๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -93,10 +98,10 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="รูปแบบคำอธิบายประกอบอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C++ ผู้ใช้จะสามารถใส่คำอธิบายประกอบรูปแบบอื่นๆ ได้อย่างง่ายดาย ซึ่งรวมถึง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="รูปแบบคำอธิบายประกอบอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C++ ผู้ใช้สามารถใส่คำอธิบายประกอบในรูปแบบอื่นๆ ได้อย่างง่ายดาย รวมถึง" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsb/" name="XLSB" description="ไฟล์สมุดงาน Excel ไบนารี" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
 

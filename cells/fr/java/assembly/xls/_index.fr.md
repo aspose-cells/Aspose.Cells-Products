@@ -1,8 +1,7 @@
 ---
-title: Générer des rapports dans des fichiers XLS via Java 
+title:  Générer des rapports dans les fichiers XLS via Java
 weight: 1090
-
-description: Java exemple de code pour créer des rapports au format XLS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Exemple de code Java pour créer des rapports au format XLS sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Génération de rapports en masse au format XLS via Java" h2="Générez des rapports au format XLS à l\'aide d\'une source de données et d\'un modèle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -28,7 +27,6 @@ description: Java exemple de code pour créer des rapports au format XLS sur Jav
 <url>https://repository.aspose.com/repo/</url>
 </repository>
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -42,7 +40,6 @@ description: Java exemple de code pour créer des rapports au format XLS sur Jav
 <version>version of aspose-cells API</version>
 <classifier>jdk17</classifier>
 </dependency>
-
 
 ```
 
@@ -58,41 +55,46 @@ description: Java exemple de code pour créer des rapports au format XLS sur Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instancier la classe WorkbookDesigner1. Ajouter des objets Datasource dans une ArrayList1. Définir la source de données et le processus pour l'objet WorkbookDesigner1. Enregistrer le résultat au format XLS via la méthode Worbook.save
+1.  Instancier la classe WorkbookDesigner
+1. Ajouter des objets Datasource dans une ArrayList
+1.  Définir la source de données et le processus pour l'objet WorkbookDesigner
+1.  Enregistrer le résultat au format XLS via la méthode Worbook.save
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java est compatible avec toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Cells for Java directement auprès de Maven.
+- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Générer des rapports Excel au format XLS - C#" offSpacer="" %}}
 
 ```cs
-//Créer un concepteur de classeur
+//Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
-//Créer des objets Personnes avec des photos
+//Create Persons objects with photos
 ArrayList persons = new ArrayList();       
 persons.add(new Person("George", "New York", photo1));
 persons.add(new Person("George", "New York", photo2));
 
-//Définir la source de données et traiter les marqueurs intelligents
+//Set the data source and process smart marker tags
 designer.setDataSource("Person", persons);
 designer.process();
 
-//Enregistrer le classeur
+//Save the workbook
 workbook.save(dataDir + "output.xls", SaveFormat.XLS);
 	
 System.out.println("File saved");
     
-
 
 ```
 
@@ -107,7 +109,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for Java API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -115,14 +117,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour assembler XLS" sectionDescription="Consultez nos démos en direct pour [créer des fichiers XLS](https://products.aspose.app/cells/assembly/xls) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite à assembler XLS" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers XLS](https://products.aspose.app/cells/assembly/xls) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier XLS et de cliquer sur le bouton \"Assembler\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier XLS et d\'appuyer sur le bouton \"Assembler\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier XLS résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
+Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres programmes de tableur similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit le premier choix d'utilisation maintenant.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,7 +134,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapport pris en charge" subTitle="En utilisant Java, on peut facilement générer des rapports de plusieurs formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="SAO" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}

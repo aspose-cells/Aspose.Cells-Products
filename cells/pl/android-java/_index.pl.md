@@ -1,11 +1,10 @@
 ---
-title: Arkusz kalkulacyjny Android Excel API – Aspose 
+title: Arkusz kalkulacyjny Excel na Androida API - Aspose
 weight: 6510
-
-description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plików do odczytu, zapisu i analizy Excel. Arkusz kalkulacyjny API do tworzenia aplikacji mobilnych
+description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plików Excel do odczytu i zapisu oraz analizy. Arkusz kalkulacyjny API do tworzenia aplikacji mobilnych
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API systemu Android do manipulowania arkuszami kalkulacyjnymi programu Excel" h2="Twórz, czytaj, pisz lub manipuluj plikami Excel w aplikacjach na Androida bez żadnych zależności." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API systemu Android do manipulowania arkuszami kalkulacyjnymi programu Excel" h2="Twórz, czytaj, zapisuj lub manipuluj plikami Excela w aplikacjach na Androida bez żadnych zależności." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -13,7 +12,7 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells dla Androida przez Java to skalowalny API do programowego generowania, łączenia, modyfikowania i analizowania arkuszy kalkulacyjnych. API oferuje wiele funkcji, w tym formatowanie dokumentów programu Excel i zadania konfiguracji strony, możliwości importowania i eksportowania, renderowania stron arkusza kalkulacyjnego do obrazów rastrowych, a także określania rozdzielczości obrazu, jakości, kompresji, dodawania różnych wykresów i wielu innych. Arkusz kalkulacyjny Androida API obsługuje formaty XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS i inne.
+ Aspose.Cells for Android via Java to skalowalny numer API do programowego generowania, łączenia, modyfikowania i analizowania arkuszy kalkulacyjnych. API oferuje wiele funkcji, w tym formatowanie dokumentów programu Excel i zadania konfiguracyjne strony, możliwości importu i eksportu, renderowanie stron arkusza roboczego do obrazów rastrowych, a także określanie rozdzielczości obrazu, jakości, kompresji, dodawanie różnych wykresów i wiele więcej. Arkusz kalkulacyjny Androida API obsługuje formaty XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS i inne.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="W skrócie" description="Przegląd możliwości API." >}}
+{{< blocks/products/pf/carousel-item h3="w skrócie" description="Przegląd możliwości API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importuj i Eksport
+ Importuj & amp; Eksport
    </header>
    <ul>
     <li>
-     Tablice
+ Tablice
     </li>
     <li>
-     Zestaw wyników
+ Zestaw wyników
     </li>
     <li>
-     Kolekcje
+Kolekcje
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Wykonanie
+ Wykonanie
    </header>
    <ul>
     <li>
-     Wykres do obrazu
+ Wykres do obrazu
     </li>
     <li>
-     Arkusz do obrazu
+ Arkusz do obrazu
     </li>
     <li>
-     Arkusz kalkulacyjny do PDF
+ Arkusz kalkulacyjny pod numer PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
    <header>
     <i class="fa fa-table">
     </i>
-    Przetwarzanie danych
+ Przetwarzanie danych
    </header>
    <ul>
     <li>
-     Zastosuj formatowanie
+ Zastosuj formatowanie
     </li>
     <li>
-     Zastosuj formułę
+ Zastosuj formułę
     </li>
     <li>
-     Twórz wykresy
+ Twórz wykresy
     </li>
     <li>
-     Podsumować
+ Podsumować
     </li>
     <li>
-     Inteligentne znaczniki
+ Inteligentne znaczniki
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Androida przez Java
+ Androida via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Niezależność od platformy" description="Aspose.Cells dla Androida przez Java jest dostępny dla Androida 2.0 lub nowszego." >}}
+{{< blocks/products/pf/carousel-item h3="Niezależność Platformy" description="Aspose.Cells for Android via Java jest dostępny for Android 2.0 lub nowszy." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Środowisko uruchomieniowe Androida
+ Środowisko wykonawcze Androida
    </header>
    <ul>
     <li>
-     Mobilna aplikacja
+ Mobilna aplikacja
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Androida przez Java
+ Androida via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Arkusz kalkulacyjny Androida API obsługuje popularne formaty Microsoft Excel, obrazy i formaty o stałym układzie." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Arkusz kalkulacyjny systemu Android API obsługuje popularne formaty programu Excel Microsoft, obrazy i formaty o stałym układzie." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Wejście wyjście
+ Wejście wyjście
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
-     SZWO
+     ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Sieć:
+ Sieć:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Tylko wyjście
+ Tylko wyjście
    </header>
    <ul>
     <li>
      <b>
-      Naprawiono układ:
+ Naprawiono układ:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Obrazy:
+ Obrazy:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
   <footer>
    <small>
     <em>
-     dla
+ Do
     </em>
-    Androida przez Java
+ Androida via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Zaawansowane funkcje Androida Excel API
+ Zaawansowane funkcje Androida Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zastosuj formatowanie do arkusza, wiersza, kolumny, komórki i zakresu
+Zastosuj formatowanie do arkusza, wiersza, kolumny, komórki i zakresu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Eksportuj i importuj dane z ArrayList, Array, Recordset &amp; Zestaw wyników
+ Eksportuj i importuj dane z ArrayList, Array, Recordset &amp; Zestaw wyników
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Szyfruj &amp; odszyfrować pliki Excela
+ Szyfruj &amp; odszyfrować pliki Excela
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw formatowanie liczb
+ Ustaw formatowanie liczb
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować wykresami
+ Utwórz &amp; manipulować wykresami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować komentarzami
+ Utwórz &amp; manipulować komentarzami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Przeczytaj, ustaw i obliczyć formuły
+ Przeczytaj, ustaw &amp; obliczać formuły
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skonfiguruj ustawienia strony
+ Skonfiguruj ustawienia strony
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw &amp; manipulować autofiltrami i amp; podziały stron
+ Ustaw & amp; manipulować automatycznymi filtrami &amp; podziały stron
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Przeczytaj &amp; napisz formatowanie warunkowe
+ Czytaj & amp; napisz formatowanie warunkowe
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Twórz kopie istniejących arkuszy roboczych
+ Twórz kopie istniejących arkuszy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ustaw opcje ochrony wprowadzone od wersji Microsoft Excel XP
+ Ustaw opcje ochrony wprowadzone od Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipuluj komórkami i nazwane zakresy
+ Manipuluj komórkami &amp; nazwane zakresy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konwertuj pliki Excel do PDF
+ Konwertuj pliki Excela na PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konwertuj arkusze i amp; wykresy do obrazów
+ Konwertuj arkusze robocze &amp; wykresy do obrazów
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Biblioteka arkuszy kalkulacyjnych systemu Android do tworzenia plik
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować tabelami przestawnymi
+ Utwórz &amp; manipulować tabelami przestawnymi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować niestandardowymi wykresami
+ Utwórz &amp; manipulować niestandardowymi wykresami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Śledź precedensy i osoby zależne
+ Śledź precedensy i zależności
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Utwórz &amp; manipulować scenariuszami
+ Utwórz &amp; manipulować scenariuszami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Potężny silnik obliczania formuł
+Potężny silnik obliczania formuł
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Przeczytaj &amp; napisz TSV, CSV i amp; pliki HTML
+ Czytaj & amp; napisz TSV, CSV &amp; HTML plików
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwersja różnych formatów
+ Konwersja różnych formatów
     </h2>
     <p>
-     Biblioteka Android Excel oferuje konwersję arkuszy kalkulacyjnych do XPS, PDF i amp; Formaty HTML zachowujące najwyższą wierność wizualną. Niezawodny proces konwersji sprawia, że API jest idealnym wyborem dla firm do wymiany plików w formatach zgodnych ze standardami branżowymi.
+ Biblioteka Android Excel oferuje konwersję arkuszy kalkulacyjnych do XPS, PDF &amp; HTML zachowując najwyższą wierność wizualną. Niezawodny proces konwersji sprawia, że API jest idealnym wyborem dla firm do wymiany plików w formatach branżowych.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Zapisz skoroszyt w różnych formatach — Java
+ Zapisz skoroszyt w różnych formatach - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konwertuj obiekty arkusza kalkulacyjnego na różne formaty
+ Konwertuj obiekty arkusza kalkulacyjnego na różne formaty
     </h2>
     <p>
-     Aspose.Cells dla Androida przez Java oferuje kilka charakterystycznych funkcji, takich jak arkusze z obrazami, wykresy z obrazami i amp; Konwersja plików PDF i arkuszy kalkulacyjnych do formatu PDF. Elastyczny proces ma wiele opcji konwersji, takich jak ponowne próbkowanie obrazów podczas arkuszy kalkulacyjnych do formatu PDF lub ustawianie wynikowych wymiarów obrazu podczas renderowania arkuszy roboczych &amp; wykresy do formatów graficznych.
+ Aspose.Cells for Android via Java oferuje kilka charakterystycznych funkcji, takich jak arkusze do obrazów, wykresy do obrazów &amp; PDF i arkusze kalkulacyjne do konwersji formatu dokumentu PDF. Elastyczny proces ma wiele opcji konwersji, takich jak ponowne próbkowanie obrazów podczas arkuszy kalkulacyjnych do PDF lub ustawienie wynikowych wymiarów obrazu podczas renderowania arkuszy roboczych &amp; wykresy do formatów graficznych.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Arkusz kalkulacyjny API Silnik obliczania formuł
+Arkusz kalkulacyjny API Mechanizm obliczania formuł
     </h2>
     <p>
-     Arkusze systemu Android API udostępnia zaawansowany aparat obliczania formuł obsługujący zaawansowane i standardowe funkcje i formuły programu Microsoft Excel. Silnik obliczania formuł ułatwia odczytywanie, ustawianie i obliczanie wyników wbudowanych lub dodatkowych formuł typu, tablic i stylów referencyjnych W1K1.
+ Arkusze systemu Android API zapewniają potężny silnik obliczania formuł obsługujący zaawansowane i standardowe funkcje i formuły programu Excel Microsoft. Silnik obliczania formuł ułatwia odczytywanie, ustawianie i obliczanie wyników wbudowanych lub dodatkowych formuł, tablic i wzorców referencyjnych R1C1.
     </p>
    </div>
    <!--
@@ -578,12 +577,12 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells dla Androida przez Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

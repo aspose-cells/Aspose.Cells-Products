@@ -1,8 +1,7 @@
 ---
-title: Node.js API για υπολογιστικά φύλλα Excel - Aspose 
+title:  Node.js API για υπολογιστικά φύλλα Excel - Aspose
 weight: 3120
-
-description: Επεξεργαστείτε τις μορφές αρχείων Excel μέσω της βιβλιοθήκης Node.js. Ανάγνωση απόδοσης εγγραφής και μετατροπή XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV και περισσότερες μορφές μέσω του Node.js σε Windows, macOS και Linux
+description: Επεξεργαστείτε τις μορφές αρχείων Excel μέσω της βιβλιοθήκης Node.js. Ανάγνωση εγγραφής απόδοσης & μετατροπής XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV και άλλων μορφών max13407 και Linux, ma38c1, Linux, 3407 & 6j181, στο Node.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Node.js API μορφής αρχείου Excel" h2="Δημιουργήστε, τροποποιήστε, μετατρέψτε και αποδώστε υπολογιστικά φύλλα Excel χρησιμοποιώντας το Node.js χωρίς να απαιτείται Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
@@ -13,11 +12,11 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells για το Node.js μέσω Java είναι ένα πλούσιο σε χαρακτηριστικά και επεκτάσιμο API για την επεξεργασία υπολογιστικών φύλλων του Excel χρησιμοποιώντας το Node.js. Το API προσφέρει μετατροπή μορφής αρχείου Excel, διαμόρφωση φύλλων εργασίας στο πιο αναλυτικό επίπεδο, δημιουργία γραφήματος &amp; απόδοση, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
+ Το Aspose.Cells for Node.js via Java είναι ένα πλούσιο σε χαρακτηριστικά και επεκτάσιμο API για την επεξεργασία υπολογιστικών φύλλων του Excel χρησιμοποιώντας το Node.js. Το API προσφέρει μετατροπή μορφής αρχείου Excel, διαμόρφωση φύλλων εργασίας στο πιο αναλυτικό επίπεδο, δημιουργία γραφημάτων &amp; απόδοση, αξιόπιστη μηχανή υπολογισμού τύπων και πολλά άλλα.
 </p>
 
 <p>
- Το Aspose.Cells για το Node.js μέσω του Java υποστηρίζει τις πιο δημοφιλείς μορφές υπολογιστικών φύλλων, συμπεριλαμβανομένων των XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+ Το Aspose.Cells for Node.js via Java υποστηρίζει τις πιο δημοφιλείς μορφές υπολογιστικών φύλλων συμπεριλαμβανομένων των XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση του Aspose.Cells για το Node.js μέσω των δυνατοτήτων του Java." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων Aspose.Cells for Node.js via Java." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Απόδοση
+ Απόδοση
    </header>
    <ul>
     <li>
-     Μετατροπή γραφήματος σε εικόνα
+ Μετατροπή γραφήματος σε εικόνα
     </li>
     <li>
-     Μετατροπή φύλλου εργασίας σε εικόνα
+ Μετατροπή φύλλου εργασίας σε εικόνα
     </li>
     <li>
-     Μετατροπή υπολογιστικού φύλλου σε PDF
+Μετατροπή υπολογιστικού φύλλου σε PDF
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
    <header>
     <i class="fa fa-cogs">
     </i>
-    Επεξεργασία δεδομένων
+ Επεξεργασία δεδομένων
    </header>
    <ul>
     <li>
-     Διαγράμματα
+ Διαγράμματα
     </li>
     <li>
-     Υπολογισμός τύπου
+ Υπολογισμός τύπου
     </li>
     <li>
-     Έξυπνοι δείκτες
+ Έξυπνοι δείκτες
     </li>
     <li>
-     Συγκεντρωτικοί πίνακες
+ Συγκεντρωτικοί πίνακες
     </li>
     <li>
-     Μορφοποίηση υπό όρους
+ Μορφοποίηση υπό όρους
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Node.js μέσω Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Cells για το Node.js μέσω του Java είναι JavaScript από την πλευρά του διακομιστή API που βασίζεται στο Node.js. Μπορεί να τρέξει σε πλατφόρμες Windows, Unix/Linux και Mac με JDK 1.7 ή νεότερη έκδοση." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Aspose.Cells for Node.js via Java είναι η JavaScript API από την πλευρά του διακομιστή που βασίζεται στο Node.js. Μπορεί να τρέξει σε πλατφόρμες Windows, Unix/Linux & Mac με JDK 1.7 ή νεότερη έκδοση." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Περιβάλλον χρόνου εκτέλεσης
+ Java Περιβάλλον χρόνου εκτέλεσης
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Node.js μέσω Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Cells για το Node.js μέσω του Java υποστηρίζει δημοφιλείς μορφές αρχείων υπολογιστικών φύλλων μαζί με τις πιο συχνά χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Aspose.Cells for Node.js via Java υποστηρίζει δημοφιλείς μορφές αρχείων υπολογιστικών φύλλων μαζί με τις πιο συχνά χρησιμοποιούμενες μορφές εικόνας και σταθερής διάταξης." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Εισόδου-εξόδου
+ Εισόδου-εξόδου
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Ανοιχτό γραφείο:
+ Ανοιχτό γραφείο:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Κείμενο:
+ Κείμενο:
      </b>
-     CSV, Tab-Limited, TXT
+ CSV, Tab-Limited, TXT
     </li>
     <li>
      <b>
-      Ιστός:
+ Ιστός:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+ Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
-      Διορθωμένη διάταξη:
+ Διορθωμένη διάταξη:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Εικόνες:
+ Εικόνες:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Node.js μέσω Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες λειτουργίες του Υπολογιστικού Φύλλου του Excel Node.js API
+ Προηγμένες δυνατότητες Node.js Excel Spreadsheet API
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία Συγκεντρωτικών πινάκων, γραφημάτων, sparklines &amp; Μορφοποίηση υπό όρους
+ Δημιουργία Συγκεντρωτικών πινάκων, γραφημάτων, sparklines &amp; Μορφοποίηση υπό όρους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ανανεώστε τα υπάρχοντα γραφήματα &amp; μετατρέψτε γραφήματα σε εικόνες ή PDF
+ Ανανεώστε τα υπάρχοντα γραφήματα &amp; μετατρέψτε γραφήματα σε εικόνες ή PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειραγώγηση σχολίων &amp; υπερσυνδέσμους
+ Δημιουργία &amp; χειραγώγηση σχολίων &amp; υπερσυνδέσμους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ορίστε σύνθετους τύπους &amp; υπολογισμός αποτελεσμάτων μέσω API
+ Ορίστε σύνθετους τύπους &amp; υπολογίστε τα αποτελέσματα μέσω API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ορίστε προστασία σε βιβλίο εργασίας, φύλλο εργασίας, κελί, στήλη ή γραμμή
+ Ορίστε προστασία σε βιβλίο εργασίας, φύλλο εργασίας, κελί, στήλη ή γραμμή
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειρισμός ονομασμένων περιοχών
+ Δημιουργία &amp; χειρισμός ονομασμένων περιοχών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Συμπληρώστε φύλλα εργασίας χρησιμοποιώντας Έξυπνους δείκτες
+ Συμπληρώστε φύλλα εργασίας χρησιμοποιώντας Έξυπνους δείκτες
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Χειρισμός και ανανέωση Συγκεντρωτικών πινάκων μέσω API
+Χειριστείτε και ανανεώστε τους Συγκεντρωτικούς Πίνακες μέσω του API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Μετατροπή φύλλων εργασίας σε PDF, XPS &amp; Μορφές SVG
+ Μετατροπή φύλλων εργασίας σε PDF, XPS &amp; SVG μορφές
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Απόδοση υπολογιστικών φύλλων του Excel
+ Απόδοση υπολογιστικών φύλλων του Excel
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java χρησιμοποιεί τη μηχανή απόδοσης του για απόδοση στο Microsoft Excel με την υψηλότερη πιστότητα. Κατά τη χρήση της βιβλιοθήκης Node.js Excel Processing, μπορεί κανείς να μετατρέψει ολόκληρα φύλλα, μεμονωμένα αρχεία ή γραφήματα σε πολλές εικόνες και μορφές σταθερής διάταξης.
+ Aspose.Cells for Node.js via Java χρησιμοποιεί τη μηχανή απόδοσης για απόδοση στο Microsoft Excel με την υψηλότερη πιστότητα. Κατά τη χρήση της βιβλιοθήκης Node.js Excel Processing, μπορεί κανείς να μετατρέψει ολόκληρα φύλλα, μεμονωμένα αρχεία ή γραφήματα σε πολλές εικόνες και μορφές σταθερής διάταξης.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ευέλικτες Επιλογές Οθόνης
+ Ευέλικτες Επιλογές Οθόνης
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java παρέχει πλήρη έλεγχο της ρύθμισης της σελίδας του φύλλου εργασίας, μπορεί κανείς να χειριστεί τις επιλογές εμφάνισης του φύλλου εργασίας, όπως προσανατολισμό σελίδας, αλλαγές, μέγεθος, κλιμάκωση, κεφαλίδες, υποσέλιδα και επίπεδο ζουμ. Επιπλέον, οι προγραμματιστές μπορούν να ελέγχουν την ορατότητα των δεδομένων με τη βοήθεια της περιοχής εκτύπωσης και των πλαισίων παγώματος για να ταιριάζουν στις προδιαγραφές της εφαρμογής.
+ Aspose.Cells for Node.js via Java παρέχει πλήρη έλεγχο της ρύθμισης σελίδας του φύλλου εργασίας, μπορεί κανείς να χειριστεί τις επιλογές εμφάνισης του φύλλου εργασίας όπως προσανατολισμό σελίδας, αλλαγές, μέγεθος, κλιμάκωση, κεφαλίδες, υποσέλιδα και επίπεδο ζουμ. Επιπλέον, οι προγραμματιστές μπορούν να ελέγχουν την ορατότητα των δεδομένων με τη βοήθεια της περιοχής εκτύπωσης και των πλαισίων παγώματος για να ταιριάζουν στις προδιαγραφές της εφαρμογής.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Επιλογές ασφαλείας
+ Επιλογές ασφαλείας
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java προσφέρει ένα ευρύ φάσμα λειτουργιών ασφαλείας, όπως κρυπτογράφηση/αποκρυπτογράφηση υπολογιστικών φύλλων, περιεχόμενο, αντικείμενο &amp; προστασία σεναρίων καθώς και δυνατότητα απόκρυψης και αποκάλυψης σειρών, στηλών &amp; φύλλα εργασίας.
+Aspose.Cells for Node.js via Java προσφέρει ένα ευρύ φάσμα χαρακτηριστικών ασφαλείας, όπως κρυπτογράφηση/αποκρυπτογράφηση υπολογιστικού φύλλου, περιεχόμενο, αντικείμενο &amp; προστασία σεναρίων καθώς και δυνατότητα απόκρυψης και αποκάλυψης σειρών, στηλών &amp; φύλλα εργασίας.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Χειρισμός σειρών &amp; Στήλες
+ Χειρισμός σειρών &amp; Στήλες
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java σάς επιτρέπει να χειρίζεστε σειρές και στήλες με πολλούς διαφορετικούς τρόπους. Μπορείτε εύκολα να προσαρμόσετε το ύψος της σειράς &amp; πλάτος στήλης, αυτόματο μέγεθος των κελιών σύμφωνα με τα περιεχόμενα, εισαγωγή &amp; διαγραφή, απόκρυψη &amp; un-hide καθώς και group &amp; κατάργηση ομαδοποίησης σειρών &amp; στήλες.
+ Το Aspose.Cells for Node.js via Java σάς επιτρέπει να χειρίζεστε γραμμές και στήλες με πολλούς διαφορετικούς τρόπους. Μπορείτε εύκολα να προσαρμόσετε το ύψος της σειράς &amp; πλάτος στήλης, αυτόματο μέγεθος των κελιών σύμφωνα με τα περιεχόμενα, εισαγωγή &amp; διαγραφή, απόκρυψη &amp; un-hide καθώς και group &amp; κατάργηση ομαδοποίησης σειρών &amp; στήλες.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ολοκληρωμένη υποστήριξη για τη μορφοποίηση φύλλου εργασίας
+ Ολοκληρωμένη υποστήριξη για τη μορφοποίηση φύλλου εργασίας
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java παρέχει προηγμένες δυνατότητες μορφοποίησης που σας επιτρέπουν να ελέγχετε την παρουσίαση των δεδομένων σας. Μπορείτε να εφαρμόσετε μορφοποίηση σε ένα φύλλο εργασίας, στήλη, γραμμή ή κελί ή να προσθέσετε εμπλουτισμένο κείμενο σε ένα μεμονωμένο κελί, να εφαρμόσετε περιγράμματα, να ορίσετε μοτίβα φόντου και στυλ γραμματοσειράς. Το API επιτρέπει επίσης την προσθήκη, χειρισμό &amp; Υπολογίστε τους κανόνες μορφοποίησης υπό όρους εν κινήσει.
+Aspose.Cells for Node.js via Java παρέχει προηγμένες δυνατότητες μορφοποίησης που σας επιτρέπουν να ελέγχετε την παρουσίαση των δεδομένων σας. Μπορείτε να εφαρμόσετε μορφοποίηση σε ένα φύλλο εργασίας, στήλη, γραμμή ή κελί ή να προσθέσετε εμπλουτισμένο κείμενο σε ένα μεμονωμένο κελί, να εφαρμόσετε περιγράμματα, να ορίσετε μοτίβα φόντου και στυλ γραμματοσειράς. Το API επιτρέπει επίσης την προσθήκη, χειρισμό &amp; Υπολογίστε τους κανόνες μορφοποίησης υπό όρους εν κινήσει.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Δημιουργία γραφήματος, χειραγώγηση &amp; Απόδοση
+ Δημιουργία γραφήματος, χειραγώγηση &amp; Απόδοση
     </h2>
     <p>
-     Το Aspose.Cells για το Node.js μέσω του Java παρέχει πλήρη υποστήριξη για τη δημιουργία γραφημάτων. Μπορείτε εύκολα να προσθέσετε προσαρμοσμένα ή τυπικά γραφήματα χρησιμοποιώντας το API και να ορίσετε δυναμικά τα δεδομένα για να ανανεώσετε τα γραφήματα.
+ Aspose.Cells for Node.js via Java παρέχει πλήρη υποστήριξη για χαρτογράφηση. Μπορείτε εύκολα να προσθέσετε προσαρμοσμένα ή τυπικά γραφήματα χρησιμοποιώντας το API και να ορίσετε δυναμικά τα δεδομένα για να ανανεώσετε τα γραφήματα.
     </p>
    </div>
   </div>
@@ -375,17 +374,17 @@ description: Επεξεργαστείτε τις μορφές αρχείων Exc
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Αναφορές" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="API Παραπομπές" href="https://reference.aspose.com/nodejs/cells" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί το Aspose.Cells για το Node.js μέσω του Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells for Node.js via Java;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

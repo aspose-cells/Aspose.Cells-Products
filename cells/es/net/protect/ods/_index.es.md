@@ -1,7 +1,6 @@
 ---
-title: Proteja y bloquee el documento ODS a través de .NET 
+title:  Proteger y bloquear ODS documento via .NET
 weight: 5580
-
 description: C# código fuente para bloquear el archivo ODS con contraseña en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -26,7 +25,6 @@ description: C# código fuente para bloquear el archivo ODS con contraseña en .
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,7 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Proteger ODS a través de C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Proteger ODS vía C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -45,7 +43,12 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instanciar la clase Workbook con la ruta al archivo ODS1. Obtenga el valor predeterminado o cualquier hoja de trabajo para agregar protección1. Proteger la hoja de trabajo con el método Worksheet.Protect1. Proteger el libro de trabajo con el método Workbook.Protect1. Guardar resultado en formato ODS
+1.  Instanciar la clase Workbook con la ruta al archivo ODS
+1.  Obtenga el valor predeterminado o cualquier hoja de trabajo para agregar protección
+1.  Proteger la hoja de trabajo con el método Worksheet.Protect
+1.  Proteger el libro de trabajo con el método Workbook.Protect
+1.  Guardar resultado en formato ODS
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
@@ -56,28 +59,30 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Cells for .NET referenciado en su proyecto
+-  Microsoft Windows o un SO compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Entorno de desarrollo como Microsoft Visual Studio
+-  Agregue una referencia a la DLL Aspose.Cells for .NET en su proyecto
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="" %}}
 
 ```cs
 
-// cargar el archivo ODS Excel 
+// load the ODS Excel file 
 var book = new Aspose.Cells.Workbook("unlocked.ods");
 
-// acceder a la primera hoja de trabajo
+// access the first worksheet
 var worksheet = book.Worksheets[0];
 
-// proteger la hoja de trabajo con contraseña
+// protect the worksheet with password
 worksheet.Protect(Aspose.Cells.ProtectionType.All, "password", null);
 
-// proteger todo el libro de trabajo con contraseña
+// protect the whole workbook with password
 book.Protect(Aspose.Cells.ProtectionType.All, "password");
 
-// guardar el archivo modificado en el formato predeterminado
+// save the modified file in default format
 book.Save("protected.ods");
-
 
 ```
 
@@ -90,9 +95,9 @@ book.Save("protected.ods");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar formatos de Microsoft Excel en diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.  
+ Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
 
@@ -100,14 +105,14 @@ book.Save("protected.ods");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para proteger SAO" sectionDescription="Consulte nuestras demostraciones en vivo para [cifrar archivos ODS](https://products.aspose.app/cells/protect/ods) con los siguientes beneficios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para proteger ODS" sectionDescription=" Consulte nuestras demostraciones en vivo para[cifrar ODS archivos](https://products.aspose.app/cells/protect/ods) con los siguientes beneficios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir o compilar código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue el archivo ODS y presione el botón \"Desbloquear\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Descargue el archivo ODS resultante desde el enlace" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Los archivos con extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como en otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros, mediante diferentes aplicaciones.
+Los archivos con la extensión ODS representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editar y manipular, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

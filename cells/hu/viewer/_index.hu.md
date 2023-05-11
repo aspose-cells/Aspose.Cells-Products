@@ -1,7 +1,6 @@
 ---
-title: Excel-fájlok megtekintése Windows, Linux és macOS rendszeren 
-
-description: Ingyenes alkalmazás és API-k az XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM és ODS fájlok megtekintéséhez
+title:  Tekintse meg az Excel-fájlokat Windows, Linux és macOS rendszeren
+description: Ingyenes alkalmazás és API-k a XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM és ODS fájl megtekintéséhez
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

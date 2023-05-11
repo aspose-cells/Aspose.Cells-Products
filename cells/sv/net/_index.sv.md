@@ -1,11 +1,10 @@
 ---
-title: .NET Excel API | Bearbeta kalkylbladsformat via .NET kärna 
+title:  .NET Excel API | Processkalkylbladsformat via .NET Kärna
 weight: 2030
-
-description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dokument. Skapa läs skriv spara och skriv ut kalkylbladsfiler. Konvertera till PDF eller fler format
+description: C# ASP.NET VB.NET bibliotek för att arbeta med Microsoft Excel-dokument. Skapa läs skriv spara och skriv ut kalkylbladsfiler. Konvertera till PDF eller fler format
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Manipulera Excel-filer via .NET API:er" h2="Läs och skriv kalkylarksfiler på plattformarna .NET, .NET Core och Xamarin. Exportera kalkylblad till andra format utan Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Manipulera Excel-filer via .NET API:er" h2="Läs och skriv kalkylbladsfiler på .NET, .NET Core & Xamarin-plattformar. Exportera kalkylblad till andra format utan Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -13,11 +12,11 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylark. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV- och SpreadsheetML-format.
+ Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylblad. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV och SpreadsheetML-format.
 </p>
 
 <p>
- Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulering av diagram, bilder, kommentarer, ritobjekt och mycket mer.
+Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulera diagram, bilder, kommentarer, ritobjekt och mycket mer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -32,42 +31,42 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
    <header>
     <i class="fa fa-television">
     </i>
-    Tolkning
+ Tolkning
    </header>
    <ul>
     <li>
-     Diagram till bild
+ Diagram till bild
     </li>
     <li>
-     Arbetsblad till bild
+ Arbetsblad till bild
     </li>
     <li>
-     Kalkylblad till PDF
+ Kalkylblad till PDF
     </li>
     <li>
-     Utskrift
+ Utskrift
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Databehandling
+ Databehandling
    </header>
    <ul>
     <li>
-     Använd formatering
+ Använd formatering
     </li>
     <li>
-     Skapa diagram
+ Skapa diagram
     </li>
     <li>
-     Tillämpa formler
+ Tillämpa formler
     </li>
     <li>
-     Sammanfatta
+ Sammanfatta
     </li>
     <li>
-     Smarta markörer
+ Smarta markörer
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
    <header>
     <i class="fa fa-table">
     </i>
-    Grid Suite
+ Grid Suite
    </header>
    <ul>
     <li>
-     Skrivbordskontroll för WinForms
+ Skrivbordskontroll för WinForms
     </li>
     <li>
-     Webbkontroll för ASP.NET
+ Webbkontroll för ASP.NET
     </li>
     <li>
-     Använd formatering
+ Använd formatering
     </li>
     <li>
-     Tillämpa formler
+ Tillämpa formler
     </li>
     <li>
-     Importera/exportera data
+ Importera/exportera data
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     .NET
    </small>
@@ -118,7 +117,7 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="API stöder .NET ramverk, .NET Core och Xamarin-plattformen. Dessutom kan den användas med Mono och flera andra plattformar via COM Interop ." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="API stöder .NET ramverk, .NET Core & Xamarin-plattform. Dessutom kan den användas med Mono och flera andra plattformar via COM Interop." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -140,11 +139,11 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
    <header>
     <i class="fa fa-cubes">
     </i>
-    COM Interop
+ COM Interop
    </header>
    <ul>
     <li>
-     PHP, VBScript, Delphi, C++
+ PHP, VBScript, Delphi, C++
     </li>
    </ul>
   </div>
@@ -153,26 +152,26 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Ram
+ .NET Ramverk
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Kärna
+ .NET Kärna
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Xamarin-plattformen
+ Xamarin-plattformen
    </header>
    <ul>
     <li>
-     Xamarin.Android
+ Xamarin.Android
     </li>
     <li>
-     Xamarin.iOS
+ Xamarin.iOS
     </li>
    </ul>
    <!--
@@ -202,7 +201,7 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     .NET
    </small>
@@ -213,45 +212,45 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells for .NET stöder det populära kalkylarket [filformat](https://docs.aspose.com/cells/net/supported-file-formats/)  samt de vanligaste bild- och formaten med fast layout." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for .NET stöder det populära kalkylarket[filformat](https://docs.aspose.com/cells/net/supported-file-formats/) samt de vanligaste bild- och formaten med fast layout." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ingång/utgång
+ Ingång/utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Webb:
+ Webb:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Tal:
+      Numbers:
      </b>
-     Apples iWork Office Suite Numbers-appdokument
+ Apples iWork office suite Numbers appdokument
     </li>
    </ul>
   </div>
@@ -260,24 +259,24 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Fast layout:
+ Fast layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Datautbyte:
+ Datautbyte:
      </b>
      DIF
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -294,7 +293,7 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
     .NET
    </small>
@@ -315,7 +314,7 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade Excel-kalkylblad API-funktioner
+Avancerade Excel-kalkylblad API-funktioner
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -326,138 +325,138 @@ description: C# ASP.NET VB.NET-bibliotek för att arbeta med Microsoft Excel-dok
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skicka utdata till en klientwebbläsare
+ Skicka utdata till en klientwebbläsare
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importera/exportera data till &amp; från DataTable, DataView eller Array
+ Importera/exportera data till &amp; från DataTable, DataView eller Array
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lägg till &amp; manipulera diagram &amp; Pivottabell genom produkten API
+ Lägg till &amp; manipulera diagram &amp; Pivottabell genom produkten API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importera formler från ett designerkalkylblad
+ Importera formler från ett designerkalkylblad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Trunkera långt arknamn &amp; ersätt ogiltiga tecken vid körning
+ Trunkera långt arknamn &amp; ersätt ogiltiga tecken vid körning
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tillämpa textjustering på partiell text inuti TextBox
+ Tillämpa textjustering på partiell text inuti TextBox
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Klistra in rader &amp; kolumner med avancerade inklistringsalternativ
+ Klistra in rader &amp; kolumner med avancerade inklistringsalternativ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
+ Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera kommentarer
+ Skapa &amp; manipulera kommentarer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in autofilter &amp; sidbrytningar
+ Ställ in automatiska filter &amp; sidbrytningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ange regler för villkorlig formatering
+ Ange regler för villkorlig formatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera namngivna intervall
+ Skapa &amp; manipulera namngivna intervall
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; rendera sparklines
+ Skapa &amp; återge sparklines
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportera kalkylblad till SVG-format
+ Exportera kalkylblad till formatet SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs &amp; skriva stora kalkylblad i lättviktsläge
+ Läs &amp; skriva stora kalkylblad i lättviktsläge
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sampla om bilder i Excel-till-PDF-konvertering
+ Sampla om bilder i Excel-till-PDF-konvertering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ändra VBA-kod eller makron i mallfilen
+ Ändra VBA-kod eller makron i mallfilen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fyll i kalkylblad via smarta markörer
+ Fyll i kalkylblad via smarta markörer
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertera kalkylblad till PDF, XPS &amp; HTML-format
+Konvertera kalkylark till PDF, XPS &amp; HTML Format
     </h2>
     <p>
-     Aspose.Cells for .NET kan konvertera kalkylblad till PDF, XPS &amp; HTML-format med bibehållen högsta visuella kvalitet. Konverteringsprocessen är enkel men pålitlig, vilket gör API till ett perfekt val för organisationer som behöver utbyta dokument i något av industristandardformaten.
+ Aspose.Cells for .NET kan konvertera kalkylblad till PDF, XPS &amp; HTML-format med bibehållen högsta visuella kvalitet. Konverteringsprocessen är enkel men pålitlig, vilket gör API till ett perfekt val för organisationer som behöver utbyta dokument i något av industristandardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spara kalkylark i olika format - C#
+ Spara kalkylblad i olika format - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -476,41 +475,41 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Visualisera data med formatering, diagram &amp; Grafik
+ Visualisera data med formatering, diagram &amp; Grafik
     </h2>
     <p>
-     Aspose.Cells for .NET ger dig fullständig frihet och flexibilitet att förse dina kalkylark med alla typer av visuella effekter. Med API kan du använda olika typsnitt med attribut, cellstilar (justering, indrag, rotation, kanter, skuggning och färgläggning, skydd, radbrytning och krympning av text) och alla typer av talformat.
+ Aspose.Cells for .NET ger dig fullständig frihet och flexibilitet att förse dina kalkylblad med alla typer av visuella effekter. Med API kan du använda olika typsnitt med attribut, cellstilar (justering, indrag, rotation, ramar, skuggning och färgläggning, skydd, textlindning och krympning) och alla typer av talformat.
     </p>
     <p>
-     På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalkylblad ett professionellt utseende. Aspose.Cells for .NET tillhandahåller en omfattande uppsättning API:er för att skapa och manipulera alla standard- och anpassade diagramtyper. Dessutom kan du lägga till olika typer av ritobjekt, såsom kommentarer, bilder, OLE-objekt, former och kontroller till cellerna
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Effektiv, Robust &amp; Pålitlig formelberäkningsmotor
-    </h2>
-    <p>
-     Aspose.Cells for .NET har en kraftfull formelberäkningsmotor som stöder nästan alla standardformler och avancerade Microsoft Excel-formler och funktioner. Du kan läsa, ställa in och beräkna resultaten av den inbyggda, tillägget, array &amp; R1C1-referensformler.
+På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalkylblad ett professionellt utseende. Aspose.Cells for .NET tillhandahåller en omfattande uppsättning API:er för att skapa och manipulera alla standard- och anpassade diagramtyper. Dessutom kan du lägga till olika typer av ritobjekt, såsom kommentarer, bilder, OLE-objekt, former och kontroller till cellerna
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sammanfatta data med pivottabeller, diagram &amp; Smarta markörer
+ Effektiv, Robust &amp; Pålitlig formelberäkningsmotor
     </h2>
     <p>
-     En pivottabell kan hjälpa dig att snabbt sammanfatta den platta datan och att få önskad information enligt dina behov. .NET Excel-biblioteket låter dig skapa pivottabeller och pivotdiagram dynamiskt. Du kan dynamiskt ändra källdata för en pivottabell och uppdatera den. Dessutom erbjuder biblioteket smarta markeringar som är en fantastisk funktion för att fylla i kalkylblad baserade på vissa datakällor och för att skapa visuellt effektiva rapporter.
+ Aspose.Cells for .NET har en kraftfull formelberäkningsmotor som stöder nästan alla standard- och avancerade Microsoft Excel-formler och -funktioner. Du kan läsa, ställa in och beräkna resultaten av den inbyggda, tillägget, array &amp; R1C1-referensformler.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rendera Excel-kalkylblad &amp; Diagram som bilder
+ Sammanfatta data med pivottabeller, diagram &amp; Smarta markörer
     </h2>
     <p>
-     Aspose.Cells for .NET har sin egen renderingsmotor speciellt utformad för rendering &amp; utskrift med högsta trohet mot Microsoft Excel. Den erbjuder distinkta funktioner som rendering av Excel-kalkylblad &amp; diagram till bilder &amp; skriva ut arbetsblad till valfri ansluten fysisk skrivare. Processen är flexibel så att du kan välja ett antal alternativ, som att kontrollera de resulterande bilddimensionerna när du renderar arbetsblad &amp; diagram till bilder.
+En pivottabell kan hjälpa dig att snabbt sammanfatta platta data och att få önskad information enligt dina behov. .NET Excel-biblioteket låter dig skapa pivottabeller och pivotdiagram dynamiskt. Du kan dynamiskt ändra källdata för en pivottabell och uppdatera den. Dessutom erbjuder biblioteket smarta markeringar som är en utmärkt funktion för att fylla i kalkylblad baserade på vissa datakällor och för att skapa visuellt effektiva rapporter.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Rendera Excel-kalkylblad &amp; Diagram som bilder
+    </h2>
+    <p>
+ Aspose.Cells for .NET har sin egen renderingsmotor speciellt utformad för rendering &amp; utskrift med högsta trohet mot Microsoft Excel. Den erbjuder distinkta funktioner som rendering av Excel-kalkylblad &amp; diagram till bilder &amp; skriva ut arbetsblad till valfri ansluten fysisk skrivare. Processen är flexibel så att du kan välja ett antal alternativ, som att kontrollera de resulterande bilddimensionerna när du renderar arbetsblad &amp; diagram till bilder.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Konvertera kalkylblad till bild - C#
+Konvertera kalkylblad till bild - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -541,26 +540,26 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Skapa diagram &amp; Manipulation
+ Skapa diagram &amp; Manipulation
     </h2>
     <p>
-     Aspose.Cells for .NET levereras med komplett stöd för diagram. Du kan enkelt lägga till standard eller anpassade diagram med hjälp av produkten API och dynamiskt ställa in data för att uppdatera diagrammen. Med API kan du också konvertera diagram till ett antal bildformat.
+ Aspose.Cells for .NET levereras med komplett stöd för kartläggning. Du kan enkelt lägga till standard eller anpassade diagram med hjälp av produkten API och dynamiskt ställa in data för att uppdatera diagrammen. API låter dig också konvertera diagram till ett antal bildformat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Grafiska gränssnitt för webben &amp; Desktop-applikationer
+ Grafiska gränssnitt för webben &amp; Desktop-applikationer
     </h2>
     <p>
-     Aspose.Cells for .NET tillhandahåller GUI-kontroller för webb &amp; skrivbordsapplikationer. Slutanvändare kan använda dessa kontroller för att öppna, spara &amp; redigera Excel-filer, importera &amp; exportera data, hantera formatering &amp; formler och konvertera mellan flera kalkylarksformat som stöds, direkt från din applikations gränssnitt.
+ Aspose.Cells for .NET tillhandahåller GUI-kontroller för webb &amp; skrivbordsapplikationer. Slutanvändare kan använda dessa kontroller för att öppna, spara &amp; redigera Excel-filer, importera &amp; exportera data, hantera formatering &amp; formler och konvertera mellan flera kalkylarksformat som stöds, direkt från programmets gränssnitt.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation – Behövs inte
+ Microsoft Kontorsautomation – behövs inte
     </h2>
     <p>
-     Aspose.Cells for .NET är byggd med hanterad kod som aldrig behöver installera Microsoft Office eller Microsoft Excel på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Office-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
+Aspose.Cells for .NET är byggd med hanterad kod som aldrig behöver Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Office-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
     </p>
    </div>
   </div>
@@ -574,18 +573,18 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Som ett företag inom mjukvarutjänster förstår vi hur viktig kundservice är när vi arbetar med kunder. Jag är glad att se att Aspose delar detta värde med oss. Aspose.Cells är ett utmärkt verktyg, har en betydande hastighetsfördel jämfört med VBA.
+ Som ett mjukvarutjänstföretag förstår vi hur viktig kundservice är när vi arbetar med kunder. Jag är glad att se Aspose delar detta värde med oss. Aspose.Cells är ett utmärkt verktyg, har en betydande hastighetsfördel jämfört med VBA.
  <em>
-  Paul Katz | Intersoft, USA
+ Paul Katz | Intersoft, USA
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Produktsviten och supporten för Aspose är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
+ Aspose produktsvit och support är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
  <em>
-  Dr Dan Patterson | Acumen, Storbritannien
+ Dr Dan Patterson | Acumen, Storbritannien
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -601,7 +600,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cells/net/release-notes/" >}}
@@ -616,7 +615,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/net" pricingInformationLink="https://purchase.aspose.com/pricing/cells/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

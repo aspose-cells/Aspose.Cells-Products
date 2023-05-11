@@ -1,8 +1,7 @@
 ---
-title: Chránit a uzamknout dokument XLSM prostřednictvím .NET 
+title:  Chraňte a uzamkněte XLSM dokument via .NET
 weight: 7530
-
-description: C# zdrojový kód pro uzamčení souboru XLSM pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
+description: C# zdrojový kód k uzamčení souboru XLSM pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSM přes C#" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSM pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -26,7 +25,6 @@ description: C# zdrojový kód pro uzamčení souboru XLSM pomocí hesla na plat
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -45,39 +43,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Okamžitá třída Workbook s cestou k souboru XLSM1. Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany1. Chraňte pracovní list pomocí metody Worksheet.Protect1. Chraňte sešit pomocí metody Workbook.Protect1. Uložte výsledek ve formátu XLSM
+1.  Vytvořte instanci třídy Workbook s cestou k souboru XLSM
+1.  Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany
+1.  Chraňte sešit pomocí metody Worksheet.Protect
+1.  Chraňte sešit pomocí metody Workbook.Protect
+1.  Uložte výsledek ve formátu XLSM
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET je podporováno ve všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
+ Aspose.Cells for .NET je podporován na všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Cells for .NET odkazované ve vašem projektu
+-  Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo Xamarin Platforms
+-  Vývojové prostředí jako Microsoft Visual Studio
+-  Přidejte odkaz na Aspose.Cells for .NET DLL ve vašem projektu
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="" %}}
 
 ```cs
 
-// načtěte soubor XLSM Excel 
+// load the XLSM Excel file 
 var book = new Aspose.Cells.Workbook("unlocked.xlsm");
 
-// přístup k prvnímu pracovnímu listu
+// access the first worksheet
 var worksheet = book.Worksheets[0];
 
-// chránit list heslem
+// protect the worksheet with password
 worksheet.Protect(Aspose.Cells.ProtectionType.All, "password", null);
 
-// chránit celý sešit heslem
+// protect the whole workbook with password
 book.Protect(Aspose.Cells.ProtectionType.All, "password");
 
-// uložit upravený soubor ve výchozím formátu
+// save the modified file in default format
 book.Save("protected.xlsm");
-
 
 ```
 
@@ -92,7 +97,7 @@ book.Save("protected.xlsm");
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.  
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -100,14 +105,14 @@ book.Save("protected.xlsm");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro ochranu XLSM" sectionDescription="Podívejte se na naše živé ukázky [šifrovat soubory XLSM](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSM" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSM soubory](https://products.aspose.app/cells/protect/xlsm) s následujícími výhodami." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSM a stisknout tlačítko „Odemknout“." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Stáhněte si výsledný soubor XLSM z odkazu" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. Z aplikačního hlediska je makro sada instrukcí, které se používají pro automatizaci procesů. Makro se používá k zaznamenání kroků, které jsou prováděny opakovaně, a usnadňuje provádění akcí opětovným spuštěním makra. Makra se programují pomocí jazyka Microsoft Visual Basic for Applications (VBA) ze sešitu aplikace Excel pomocí editoru jazyka Visual Basic a lze je spouštět/ladit přímo odtud.
+Soubory s příponou XLSM jsou typem souborů tabulky, které podporují makra. Z aplikačního hlediska je makro sada instrukcí, které se používají pro automatizaci procesů. Makro se používá k zaznamenání kroků, které jsou prováděny opakovaně, a usnadňuje provádění akcí opětovným spuštěním makra. Makra se programují pomocí jazyka Visual Basic for Applications (VBA) Microsoft ze sešitu aplikace Excel pomocí editoru jazyka Visual Basic a lze je spouštět/ladit přímo odtud.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

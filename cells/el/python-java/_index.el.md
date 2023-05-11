@@ -1,19 +1,18 @@
 ---
-title: Python Υπολογιστικό φύλλο Excel API - Aspose 
+title:  Python Υπολογιστικό φύλλο Excel API - Aspose
 weight: 2820
-
 description: Python βιβλιοθήκη υπολογιστικών φύλλων για τη δημιουργία ανάγνωσης εγγραφής και ανάλυσης αρχείων Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API ανάλυσης υπολογιστικών φύλλων Excel" h2="Δημιουργήστε, διαβάστε, γράψτε ή χειριστείτε υπολογιστικά φύλλα καθώς και εξάγετε αρχεία Excel σε πολλές μορφές εντός των εφαρμογών Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API ανάλυσης υπολογιστικών φύλλων Excel" h2="Δημιουργήστε, διαβάστε, γράψτε ή χειριστείτε υπολογιστικά φύλλα καθώς και εξάγετε αρχεία Excel σε πολλαπλές μορφές εντός Python εφαρμογών." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells για το Python μέσω του Java είναι ένα γρήγορο και αξιόπιστο API για εργασίες επεξεργασίας υπολογιστικών φύλλων. Οι προγραμματιστές μπορούν να δημιουργήσουν απλά ή σύνθετα υπολογιστικά φύλλα, να χειριστούν καθώς και να εξάγουν πληροφορίες από αρχεία excel. Το API διαβάζει πολλές μορφές excel και μπορεί να αποδίδει φύλλα εργασίας σε XPS, PDF, MHTML, HTML, Απλό κείμενο, εικόνες και άλλα. Είναι η καλύτερη λύση για την αυτοματοποίηση αναφορών excel χρησιμοποιώντας python.
+ Aspose.Cells for Python via Java είναι ένα γρήγορο και αξιόπιστο API για εργασίες επεξεργασίας υπολογιστικών φύλλων. Οι προγραμματιστές μπορούν να δημιουργήσουν απλά ή σύνθετα υπολογιστικά φύλλα, να χειριστούν καθώς και να εξάγουν πληροφορίες από αρχεία excel. Το API διαβάζει πολλές μορφές excel και μπορεί να αποδώσει φύλλα εργασίας στα XPS, PDF, MHTML, HTML, Απλό κείμενο, εικόνες και άλλα. Είναι η καλύτερη λύση για την αυτοματοποίηση αναφορών excel χρησιμοποιώντας python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων του API." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Εισαγωγή &amp; Εξαγωγή
+ Εισαγωγή &amp; Εξαγωγή
    </header>
    <ul>
     <li>
-     Πίνακες
+ Πίνακες
     </li>
     <li>
-     ResultSet
+ ResultSet
     </li>
     <li>
-     Συλλογές
+Συλλογές
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Απόδοση
+ Απόδοση
    </header>
    <ul>
     <li>
-     Γράφημα σε εικόνα
+ Γράφημα σε εικόνα
     </li>
     <li>
-     Φύλλο εργασίας σε εικόνα
+ Φύλλο εργασίας σε εικόνα
     </li>
     <li>
-     Υπολογιστικό φύλλο σε PDF
+ Υπολογιστικό φύλλο στο PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
    <header>
     <i class="fa fa-table">
     </i>
-    Επεξεργασία δεδομένων
+ Επεξεργασία δεδομένων
    </header>
    <ul>
     <li>
-     Εφαρμογή Μορφοποίησης
+ Εφαρμογή Μορφοποίησης
     </li>
     <li>
-     Εφαρμόστε τον τύπο
+ Εφαρμόστε τον τύπο
     </li>
     <li>
-     Δημιουργία γραφημάτων
+ Δημιουργία γραφημάτων
     </li>
     <li>
-     Συνοψίζω
+ Συνοψίζω
     </li>
     <li>
-     Έξυπνοι δείκτες
+ Έξυπνοι δείκτες
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Python μέσω Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Cells για το Python μέσω του Java είναι διαθέσιμο για." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Aspose.Cells for Python via Java είναι διαθέσιμο για." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Περιβάλλον χρόνου εκτέλεσης
+ Python Περιβάλλον χρόνου εκτέλεσης
    </header>
    <!--<ul>
 
@@ -134,9 +133,9 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Python μέσω Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Η βιβλιοθήκη Python excel υποστηρίζει τις δημοφιλείς μορφές Microsoft Excel, μορφές σταθερής διάταξης και εικόνες." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Η βιβλιοθήκη excel Python υποστηρίζει τις δημοφιλείς μορφές Microsoft Excel, μορφές σταθερής διάταξης και εικόνες." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Εισόδου-εξόδου
+ Εισόδου-εξόδου
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Ανοιχτό γραφείο:
+ Ανοιχτό γραφείο:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Κείμενο:
+ Κείμενο:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Ιστός:
+ Ιστός:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+ Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
-      Διορθωμένη διάταξη:
+ Διορθωμένη διάταξη:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Εικόνες:
+ Εικόνες:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Python μέσω Java
+    Python via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες δυνατότητες Python Excel API
+Προηγμένες δυνατότητες Python Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε υπολογιστικά φύλλα του Excel
+ Διαβάστε υπολογιστικά φύλλα του Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Αποδώστε υπολογιστικά φύλλα σε PDF, EMF και Εικόνες
+ Απόδοση υπολογιστικών φύλλων στα PDF, EMF και εικόνες
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσαρμόστε τα φύλλα εργασίας μέσα στα βιβλία εργασίας
+ Προσαρμόστε τα φύλλα εργασίας στα βιβλία εργασίας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προστασία / κατάργηση προστασίας των φύλλων εργασίας
+ Προστασία / κατάργηση προστασίας φύλλων εργασίας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσθέστε εικόνες καθώς και δημιουργήστε γραφήματα
+ Προσθέστε εικόνες καθώς και δημιουργήστε γραφήματα
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργήστε συγκεντρωτικούς πίνακες και γραφήματα περιστροφής
+ Δημιουργήστε συγκεντρωτικούς πίνακες και γραφήματα περιστροφής
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσθήκη και επεξεργασία σχολίων σε επίπεδο κελιού
+ Προσθήκη και επεξεργασία σχολίων σε επίπεδο κελιού
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Αναζήτηση και αντικατάσταση δεδομένων
+ Αναζήτηση και αντικατάσταση δεδομένων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαίρεση και συγχώνευση κελιών
+ Διαίρεση και συγχώνευση κελιών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσθήκη ή κατάργηση ομαδοποίησης σε γραμμές και στήλες
+ Προσθήκη ή κατάργηση ομαδοποίησης σε γραμμές και στήλες
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ορισμός μορφοποίησης αριθμών
+ Ορισμός μορφοποίησης αριθμών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε και ορίστε τύπους
+ Διαβάστε και ορίστε τύπους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαμόρφωση ρύθμισης σελίδας
+ Διαμόρφωση ρύθμισης σελίδας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Προσαρμόστε τον προσανατολισμό της σελίδας, την κλιμάκωση, το μέγεθος χαρτιού
+ Προσαρμόστε τον προσανατολισμό της σελίδας, την κλιμάκωση, το μέγεθος χαρτιού
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε &amp; εγγραφή μορφοποίησης υπό όρους
+ Διαβάστε &amp; γράψτε μορφοποίηση υπό όρους
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Μετατροπή πολλαπλών μορφών
+ Μετατροπή πολλαπλών μορφών
     </h2>
     <p>
-     Python Η βιβλιοθήκη Excel παρέχει μετατροπή αρχείων Excel σε PDF, XPS &amp; Μορφές HTML. Η αξιόπιστη μετατροπή του API το καθιστά ιδανική λύση για τις εταιρείες που απαιτούν την ανταλλαγή αρχείων σε τυποποιημένες μορφές του κλάδου.
+ Python Η βιβλιοθήκη Excel παρέχει μετατροπή αρχείων Excel σε PDF, XPS &amp; HTML μορφές. Η αξιόπιστη μετατροπή του API το καθιστά τέλεια λύση για τις εταιρείες που θέλουν να ανταλλάσσουν αρχεία σε τυποποιημένες μορφές του κλάδου.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
+ Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ευέλικτες Επιλογές Οθόνης
+ Ευέλικτες Επιλογές Οθόνης
     </h2>
     <p>
-     Το Aspose.Cells για Python μέσω του Java παρέχει πλήρη έλεγχο στη ρύθμιση της σελίδας, επιτρέποντας τον χειρισμό πολλαπλών επιλογών εμφάνισης, όπως αλλαγές σελίδας προεπισκόπησης, ρύθμιση επιπέδου ζουμ, ρύθμιση προσανατολισμού σελίδας, έλεγχος ορατότητας δεδομένων με πάγωμα, μέγεθος χαρτιού, κλιμάκωση, κεφαλίδες και ενίσχυση ; υποσέλιδα και περιοχή εκτύπωσης.
+Aspose.Cells for Python via Java παρέχει πλήρη έλεγχο στη ρύθμιση της σελίδας, επιτρέποντας τον χειρισμό πολλαπλών επιλογών εμφάνισης, όπως αλλαγές σελίδας προεπισκόπησης, ρύθμιση επιπέδου ζουμ, ρύθμιση προσανατολισμού σελίδας, έλεγχος ορατότητας δεδομένων με πάγωμα, μέγεθος χαρτιού, κλιμάκωση, κεφαλίδες &amp. υποσέλιδα και περιοχή εκτύπωσης.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Διαχείριση δεδομένων φύλλων Excel
+ Διαχείριση δεδομένων φύλλων Excel
     </h2>
     <p>
-     Το Aspose.Cells για Python μέσω του Java API παρέχει εκτενή υποστήριξη για τη διαχείριση δεδομένων φύλλου εργασίας. Κάποιος μπορεί εύκολα να χειριστεί οποιοδήποτε κελί στο φύλλο εργασίας κατά το χρόνο εκτέλεσης ή να εισάγει δεδομένα στα φύλλα εργασίας από διάφορες πηγές δεδομένων.
+ Aspose.Cells for Python via Java API παρέχει εκτενή υποστήριξη για τη διαχείριση δεδομένων φύλλου εργασίας. Κάποιος μπορεί εύκολα να χειριστεί οποιοδήποτε κελί στο φύλλο εργασίας κατά το χρόνο εκτέλεσης ή να εισάγει δεδομένα στα φύλλα εργασίας από διάφορες πηγές δεδομένων.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Προσαρμογή γραφημάτων
+ Προσαρμογή γραφημάτων
     </h2>
     <p>
-     Το Aspose.Cells για το Python μέσω του Java παρέχει πλήρη υποστήριξη για τη δημιουργία γραφημάτων. Μπορεί κανείς εύκολα να προσθέσει τυπικά και προσαρμοσμένα γραφήματα ή να ορίσει δυναμικά δεδομένα γραφήματος για να ανανεώσει το γράφημα σε αυτήν τη βιβλιοθήκη python.
+ Aspose.Cells for Python via Java παρέχει πλήρη υποστήριξη για χαρτογράφηση. Κάποιος μπορεί εύκολα να προσθέσει τυπικά και προσαρμοσμένα γραφήματα ή να ορίσει δυναμικά δεδομένα γραφήματος για να ανανεώσει το γράφημα σε αυτήν τη βιβλιοθήκη python.
     </p>
    </div>
    <!--
@@ -519,24 +517,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Αναφορές" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Αναφορές" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells για Python μέσω Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells for Python via Java;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Το Aspose.Cells προσφέρει μεμονωμένα API του Excel για άλλα δημοφιλή περιβάλλοντα ανάπτυξης όπως αναφέρονται παρακάτω:" >}}
 

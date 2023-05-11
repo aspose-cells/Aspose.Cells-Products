@@ -1,7 +1,6 @@
 ---
-title: Υπολογιστικό φύλλο Android Excel API - Aspose 
+title: Υπολογιστικό φύλλο Android Excel API - Aspose
 weight: 6510
-
 description: Βιβλιοθήκη υπολογιστικών φύλλων Android για δημιουργία ανάγνωσης εγγραφής και ανάλυσης αρχείων Excel. Ένα υπολογιστικό φύλλο API για την ανάπτυξη εφαρμογών για κινητά
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,7 +12,7 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Το Aspose.Cells για Android μέσω Java είναι ένα επεκτάσιμο API για δημιουργία, συνδυασμό, τροποποίηση και ανάλυση υπολογιστικών φύλλων μέσω προγραμματισμού. Το API προσφέρει πολλές λειτουργίες, όπως εργασίες μορφοποίησης εγγράφων excel και ρύθμισης σελίδας, δυνατότητες εισαγωγής και εξαγωγής, απόδοση σελίδων φύλλου εργασίας σε εικόνες ράστερ καθώς και προσδιορισμό ανάλυσης εικόνας, ποιότητας, συμπίεσης, προσθήκης διαφορετικών γραφημάτων και πολλά άλλα. Το υπολογιστικό φύλλο Android API υποστηρίζει μορφές XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS και άλλες μορφές.
+ Το Aspose.Cells for Android via Java είναι ένα επεκτάσιμο API για τη δημιουργία, το συνδυασμό, την τροποποίηση και την ανάλυση υπολογιστικών φύλλων μέσω προγραμματισμού. Το API προσφέρει πολλές λειτουργίες, όπως εργασίες μορφοποίησης εγγράφων excel και ρύθμισης σελίδας, δυνατότητες εισαγωγής και εξαγωγής, απόδοση σελίδων φύλλου εργασίας σε εικόνες ράστερ, καθώς και προσδιορισμό ανάλυσης εικόνας, ποιότητας, συμπίεσης, προσθήκης διαφορετικών γραφημάτων και πολλά άλλα. Το υπολογιστικό φύλλο Android API υποστηρίζει XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, HTML, 07113374 περισσότερα, 076113374.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων του API." >}}
+{{< blocks/products/pf/carousel-item h3="Με μια ματιά" description="Μια επισκόπηση των δυνατοτήτων API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Εισαγωγή &amp; Εξαγωγή
+ Εισαγωγή &amp; Εξαγωγή
    </header>
    <ul>
     <li>
-     Πίνακες
+ Πίνακες
     </li>
     <li>
-     ResultSet
+ ResultSet
     </li>
     <li>
-     Συλλογές
+Συλλογές
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Απόδοση
+ Απόδοση
    </header>
    <ul>
     <li>
-     Γράφημα σε εικόνα
+ Γράφημα σε εικόνα
     </li>
     <li>
-     Φύλλο εργασίας σε εικόνα
+ Φύλλο εργασίας σε εικόνα
     </li>
     <li>
-     Υπολογιστικό φύλλο σε PDF
+ Υπολογιστικό φύλλο στο PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
    <header>
     <i class="fa fa-table">
     </i>
-    Επεξεργασία δεδομένων
+ Επεξεργασία δεδομένων
    </header>
    <ul>
     <li>
-     Εφαρμογή Μορφοποίησης
+ Εφαρμογή Μορφοποίησης
     </li>
     <li>
-     Εφαρμόστε τον τύπο
+ Εφαρμόστε τον τύπο
     </li>
     <li>
-     Δημιουργία γραφημάτων
+ Δημιουργία γραφημάτων
     </li>
     <li>
-     Συνοψίζω
+ Συνοψίζω
     </li>
     <li>
-     Έξυπνοι δείκτες
+ Έξυπνοι δείκτες
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Android μέσω Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Cells για Android μέσω Java είναι διαθέσιμο για Android 2.0 ή νεότερη έκδοση." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Aspose.Cells for Android via Java είναι διαθέσιμο for Android 2.0 ή νεότερη έκδοση." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Περιβάλλον χρόνου εκτέλεσης Android
+ Περιβάλλον χρόνου εκτέλεσης Android
    </header>
    <ul>
     <li>
-     Εφαρμογή κινητού
+ Εφαρμογή κινητού
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Android μέσω Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -152,30 +151,30 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Εισόδου-εξόδου
+ Εισόδου-εξόδου
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Ανοιχτό γραφείο:
+ Ανοιχτό γραφείο:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Κείμενο:
+ Κείμενο:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Ιστός:
+ Ιστός:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Μόνο έξοδος
+ Μόνο έξοδος
    </header>
    <ul>
     <li>
      <b>
-      Διορθωμένη διάταξη:
+ Διορθωμένη διάταξη:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Εικόνες:
+ Εικόνες:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
   <footer>
    <small>
     <em>
-     Για
+ Για
     </em>
-    Android μέσω Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένες δυνατότητες Android Excel API
+ Προηγμένες δυνατότητες Android Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εφαρμογή μορφοποίησης σε φύλλο εργασίας, γραμμή, στήλη, κελί και εύρος
+Εφαρμογή μορφοποίησης σε φύλλο εργασίας, γραμμή, στήλη, κελί και εύρος
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Εξαγωγή και εισαγωγή δεδομένων από ArrayList, Array, Recordset &amp; Σύνολο αποτελεσμάτων
+ Εξαγωγή και εισαγωγή δεδομένων από ArrayList, Array, Recordset &amp; Σύνολο αποτελεσμάτων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Κρυπτογράφηση &amp; αποκρυπτογράφηση αρχείων Excel
+ Κρυπτογράφηση &amp; αποκρυπτογράφηση αρχείων Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ορισμός μορφοποίησης αριθμών
+ Ορισμός μορφοποίησης αριθμών
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειραγώγηση γραφημάτων
+ Δημιουργία &amp; χειριστείτε τα γραφήματα
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειραγωγούν τα σχόλια
+ Δημιουργία &amp; χειραγωγούν τα σχόλια
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ανάγνωση, ρύθμιση &amp; υπολογίστε τύπους
+ Ανάγνωση, ρύθμιση &amp; υπολογίστε τύπους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαμόρφωση ρύθμισης σελίδας
+ Διαμόρφωση ρύθμισης σελίδας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ρύθμιση &amp; χειρισμός αυτόματων φίλτρων &amp; διακοπές σελίδας
+ Ρύθμιση &amp; χειρισμός αυτόματων φίλτρων &amp; διακοπές σελίδας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε &amp; εγγραφή μορφοποίησης υπό όρους
+ Διαβάστε &amp; γράψτε μορφοποίηση υπό όρους
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργήστε αντίγραφα των υπαρχόντων φύλλων εργασίας
+ Δημιουργήστε αντίγραφα των υπαρχόντων φύλλων εργασίας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ορίστε τις επιλογές προστασίας που εισήχθησαν από το Microsoft Excel XP
+ Ορίστε επιλογές προστασίας που εισήχθησαν από το Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Χειρισμός κελιών &amp; ονομασμένες σειρές
+ Χειρισμός κελιών &amp; ονομασμένες σειρές
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Μετατροπή αρχείων Excel σε PDF
+ Μετατρέψτε τα αρχεία Excel σε PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Μετατροπή φύλλων εργασίας &amp; γραφήματα σε εικόνες
+ Μετατροπή φύλλων εργασίας &amp; γραφήματα σε εικόνες
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Βιβλιοθήκη υπολογιστικών φύλλων Androi
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειρισμός Συγκεντρωτικών πινάκων
+ Δημιουργία &amp; χειρισμός Συγκεντρωτικών πινάκων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειρισμός προσαρμοσμένων γραφημάτων
+ Δημιουργία &amp; χειρισμός προσαρμοσμένων γραφημάτων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ίχνη προηγούμενων και εξαρτημένων
+ Ανίχνευση προηγούμενων και εξαρτημένων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία &amp; χειραγωγούν τα σενάρια
+ Δημιουργία &amp; χειραγωγούν τα σενάρια
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ισχυρή μηχανή υπολογισμού τύπων
+Ισχυρή μηχανή υπολογισμού τύπων
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Διαβάστε &amp; γράψτε TSV, CSV &amp; Αρχεία HTML
+ Διαβάστε &amp; γράψτε TSV, CSV &amp; HTML αρχεία
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Μετατροπή διαφορετικών μορφών
+ Μετατροπή διαφορετικών μορφών
     </h2>
     <p>
-     Η βιβλιοθήκη Android Excel προσφέρει μετατροπή υπολογιστικών φύλλων σε XPS, PDF &amp; Μορφές HTML που διατηρούν την υψηλότερη οπτική πιστότητα. Η αξιόπιστη διαδικασία μετατροπής καθιστά το API μια τέλεια επιλογή για τις εταιρείες για την ανταλλαγή αρχείων σε τυποποιημένες μορφές του κλάδου.
+ Η βιβλιοθήκη Android Excel προσφέρει μετατροπή υπολογιστικών φύλλων σε XPS, PDF &amp; HTML μορφές που διατηρούν την υψηλότερη οπτική πιστότητα. Η αξιόπιστη διαδικασία μετατροπής καθιστά το API μια τέλεια επιλογή για τις εταιρείες για την ανταλλαγή αρχείων σε τυποποιημένες μορφές του κλάδου.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Αποθήκευση βιβλίου εργασίας σε διάφορες μορφές - Java
+ Αποθήκευση βιβλίου εργασίας σε διάφορες μορφές - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Μετατροπή αντικειμένων υπολογιστικών φύλλων σε διαφορετικές μορφές
+ Μετατροπή αντικειμένων υπολογιστικών φύλλων σε διαφορετικές μορφές
     </h2>
     <p>
-     Το Aspose.Cells για Android μέσω Java προσφέρει ορισμένες χαρακτηριστικές λειτουργίες, όπως φύλλα εργασίας σε εικόνες, γραφήματα σε εικόνες &amp; Μετατροπή PDF και υπολογιστικών φύλλων σε μορφή εγγράφου PDF. Η ευέλικτη διαδικασία έχει έναν αριθμό επιλογών για τη μετατροπή, όπως επαναδειγματοληψία εικόνων κατά τη διάρκεια υπολογιστικών φύλλων σε PDF ή ρύθμιση των διαστάσεων της εικόνας που προκύπτουν κατά την απόδοση φύλλων εργασίας &amp; γραφήματα σε μορφές εικόνας.
+ Το Aspose.Cells for Android via Java προσφέρει ορισμένα διακριτικά χαρακτηριστικά, όπως φύλλα εργασίας σε εικόνες, γραφήματα σε εικόνες &amp; PDF και υπολογιστικά φύλλα σε PDF μετατροπή μορφής εγγράφου. Η ευέλικτη διαδικασία έχει έναν αριθμό επιλογών για τη μετατροπή, όπως επαναδειγματοληψία εικόνων κατά τη διάρκεια υπολογιστικών φύλλων στο PDF ή ρύθμιση των διαστάσεων της εικόνας που προκύπτουν κατά την απόδοση φύλλων εργασίας &amp; γραφήματα σε μορφές εικόνας.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Υπολογιστικό φύλλο API Μηχανή υπολογισμού τύπου
+Υπολογιστικό φύλλο API Μηχανή υπολογισμού τύπου
     </h2>
     <p>
-     Τα φύλλα Android API παρέχουν μια ισχυρή μηχανή υπολογισμού τύπου που υποστηρίζει τις προηγμένες και τυπικές λειτουργίες και τύπους του Microsoft Excel. Η μηχανή υπολογισμού τύπων διευκολύνει την ανάγνωση, τον ορισμό και τον υπολογισμό των αποτελεσμάτων των τύπων τύπου, πίνακα και στυλ αναφοράς R1C1 ενσωματωμένου ή πρόσθετου.
+ Τα φύλλα Android API παρέχουν μια ισχυρή μηχανή υπολογισμού τύπου που υποστηρίζει τις προηγμένες και τυπικές λειτουργίες και τύπους Microsoft Excel. Η μηχανή υπολογισμού τύπων διευκολύνει την ανάγνωση, τον ορισμό και τον υπολογισμό των αποτελεσμάτων των τύπων τύπου, πίνακα και στυλ αναφοράς R1C1 ενσωματωμένου ή πρόσθετου.
     </p>
    </div>
    <!--
@@ -573,17 +572,17 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Πόροι μάθησης" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Αναφορές" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Παραπομπές" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells για Android μέσω Java;" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Cells for Android via Java;" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

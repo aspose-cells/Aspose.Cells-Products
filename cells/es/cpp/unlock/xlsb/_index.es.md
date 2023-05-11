@@ -1,8 +1,7 @@
 ---
-title: Desbloquear documento XLSB a través de C++ 
+title:  Desbloquee el documento XLSB a través de C++
 weight: 7420
-
-description: C++ código de ejemplo para desbloquear un archivo XLSB protegido con contraseña en C++ entorno de tiempo de ejecución para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+description: C++ código de ejemplo para desbloquear el archivo XLSB protegido por contraseña en C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Desbloquear archivos XLSB a través de C++" h2="Elimine la protección de las hojas de cálculo de Excel, incluido el archivo XLSB, utilizando la biblioteca C++." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,8 +12,8 @@ description: C++ código de ejemplo para desbloquear un archivo XLSB protegido c
 {{% blocks/products/pf/agp/content h2="Cómo quitar la protección del archivo XLSB usando C++" %}}
 
  Para desbloquear el archivo XLSB, usaremos
- [Aspose.Cells para C++](https://products.aspose.com/cells/cpp) 
- API, que es una protección de documentos rica en funciones, potente y fácil de usar API para la plataforma C++. Puede descargar su última versión directamente, simplemente abra
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API que es una plataforma de protección de documentos API for C++ rica en funciones, potente y fácil de usar. Puede descargar su última versión directamente, simplemente abra
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  **Aspose.Cells.Cpp** 
@@ -26,7 +25,6 @@ description: C++ código de ejemplo para desbloquear un archivo XLSB protegido c
 
 PM> Install-Package Aspose.Cells.Cpp
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,7 +33,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Desbloquear XLSB a través de C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Desbloquear XLSB vía C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -45,42 +43,47 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Cargue el archivo bloqueado XLSB usando CreateIWorkbook.1. Llame a la función Unprotect() para desbloquear.1. Establezca la contraseña en NULL usando SetPassword.1. Guarde el archivo XLSB en una ubicación específica.
+1.  Cargue el archivo bloqueado XLSB usando CreateIWorkbook.
+1.  Llame a la función Unprotect() para desbloquear.
+1.  Establezca la contraseña en NULL usando SetPassword.
+1.  Guarde el archivo XLSB en una ubicación específica.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells para C++ es compatible con todas las principales plataformas y sistemas operativos. Por favor, asegúrese de que tiene los siguientes requisitos previos.
+ Aspose.Cells for C++ es compatible con todas las principales plataformas y sistemas operativos. Por favor, asegúrese de que tiene los siguientes requisitos previos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.- Aspose.Cells para C++ DLL a la que se hace referencia en su proyecto.
+-  Microsoft Windows o un SO compatible con C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits y Linux de 64 bits.
+-  Agregue una referencia a la DLL Aspose.Cells for C++ en su proyecto.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Dominio" offSpacer="" %}}
 
 ```cs
 
-// Ruta del directorio de origen.
+// Source directory path.
 StringPtr srcDir = new String("SourceDirectory\\");
 
-// Ruta del directorio de salida.
+// Output directory path.
 StringPtr outDir = new String("OutputDirectory\\");
 
-// Cargar archivo XLSB
+// Load XLSB file
 intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sampleExcelFileProtected.xlsb")));
 
-// Desproteger libro de trabajo
+// Unprotect workbook
 workbook->Unprotect(new String("12345"));
 
-// Establecer contraseña en nulo
+// Set password to null
 workbook->GetISettings()->SetPassword(NULL);
 
-// Guarde el archivo XLSB
+// Save the XLSB file
 workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.xlsb")));
-
 
 ```
 
@@ -93,9 +96,9 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells para C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar formatos de Microsoft Excel en diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.  
+ Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
 
@@ -103,14 +106,14 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.x
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para desbloquear XLSB" sectionDescription="Consulte nuestras demostraciones en vivo para [desbloquear archivos XLSB](https://products.aspose.app/cells/unlock/xlsb) con los siguientes beneficios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para desbloquear XLSB" sectionDescription=" Consulte nuestras demostraciones en vivo para[desbloquear XLSB archivos](https://products.aspose.app/cells/unlock/xlsb) con los siguientes beneficios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir o compilar código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue el archivo XLSB y presione el botón \"Desbloquear\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Descargue el archivo XLSB resultante desde el enlace" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-El formato de archivo XLSB especifica el formato de archivo binario de Excel, que es una colección de registros y estructuras que especifican el contenido del libro de Excel. El contenido puede incluir tablas no estructuradas o semiestructuradas de números, texto o números y texto, fórmulas, conexiones de datos externos, gráficos e imágenes. A diferencia de XLSX (que se basa en el formato de archivo Open XML), XLSB representa un archivo de libro de Excel binario. Los archivos XLSB se pueden leer y escribir más rápido, lo que los hace útiles para trabajar con archivos grandes. XLSB rara vez se usa para almacenar libros de trabajo, ya que XLSX (y anteriormente XLS) son los formatos de archivo más comunes seleccionados por el usuario para guardar libros de trabajo. Se puede abrir con Microsoft Office 2007 y superior.
+El formato de archivo XLSB especifica el formato de archivo binario de Excel, que es una colección de registros y estructuras que especifican el contenido del libro de Excel. El contenido puede incluir tablas no estructuradas o semiestructuradas de números, texto o números y texto, fórmulas, conexiones de datos externos, gráficos e imágenes. A diferencia de XLSX (que se basa en el formato de archivo Open XML), XLSB representa un archivo de libro de Excel binario. Los archivos XLSB se pueden leer y escribir más rápido, lo que los hace útiles para trabajar con archivos grandes. XLSB rara vez se usa para almacenar libros de trabajo, ya que XLSX (y anteriormente XLS) son los formatos de archivo más comunes seleccionados por el usuario para guardar libros de trabajo. Puede ser abierto por Microsoft Office 2007 y superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,7 +123,7 @@ El formato de archivo XLSB especifica el formato de archivo binario de Excel, qu
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de desbloqueo admitidos" subTitle="Usando C++, uno puede eliminar fácilmente la protección/desbloqueo de diferentes formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="SAO" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="Formato binario de Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsx/" name="XLSX" description="Archivo de Excel OOXML" >}}

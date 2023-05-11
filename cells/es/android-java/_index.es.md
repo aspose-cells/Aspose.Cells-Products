@@ -1,7 +1,6 @@
 ---
-title: Hoja de cálculo de Excel de Android API - Aspose 
+title: Hoja de cálculo de Android Excel API - Aspose
 weight: 6510
-
 description: Biblioteca de hojas de cálculo de Android para crear archivos de Excel de lectura, escritura y análisis. Una hoja de cálculo API para el desarrollo de aplicaciones móviles
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,7 +12,7 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells para Android a través de Java es un API escalable para generar, combinar, modificar y analizar hojas de cálculo mediante programación. API ofrece muchas funciones, incluido el formateo de documentos de Excel y tareas de configuración de páginas, capacidades de importación y exportación, representación de páginas de hojas de trabajo en imágenes rasterizadas, así como la especificación de la resolución, la calidad y la compresión de la imagen, la adición de diferentes gráficos y mucho más. La hoja de cálculo de Android API es compatible con XLS, XLSX, CSV, SpreadsheetML, ODS, delimitado por tabulaciones, HTML, PDF, XPS y más formatos.
+ Aspose.Cells for Android via Java es un API escalable para generar, combinar, modificar y analizar hojas de cálculo mediante programación. API ofrece muchas funciones, incluido el formateo de documentos de Excel y tareas de configuración de página, capacidades de importación y exportación, renderización de páginas de hojas de trabajo en imágenes rasterizadas, así como la especificación de la resolución, la calidad, la compresión de la imagen, la adición de diferentes gráficos y mucho más. La hoja de cálculo de Android API admite XLS, XLSX, CSV, SpreadsheetML, ODS, delimitado por tabulaciones, HTML, PDF, XPS y más formatos.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importar y Exportar
+ Importar y Exportar
    </header>
    <ul>
     <li>
-     arreglos
+ arreglos
     </li>
     <li>
-     Conjunto resultante
+ Conjunto resultante
     </li>
     <li>
-     Colecciones
+Colecciones
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Representación
+ Representación
    </header>
    <ul>
     <li>
-     Gráfico a imagen
+ Gráfico a imagen
     </li>
     <li>
-     Hoja de trabajo a imagen
+ Hoja de trabajo a imagen
     </li>
     <li>
-     Hoja de cálculo a PDF
+ Hoja de cálculo al PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
    <header>
     <i class="fa fa-table">
     </i>
-    Procesamiento de datos
+ Procesamiento de datos
    </header>
    <ul>
     <li>
-     Aplicar formato
+ Aplicar formato
     </li>
     <li>
-     Aplicar fórmula
+ Aplicar fórmula
     </li>
     <li>
-     Crear gráficos
+ Crear gráficos
     </li>
     <li>
-     Resumir
+ Resumir
     </li>
     <li>
-     Marcadores inteligentes
+ Marcadores inteligentes
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
-    Android a través de Java
+ androide via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells para Android a través de Java está disponible para Android 2.0 o superior." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells for Android via Java está disponible for Android 2.0 o superior." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Entorno de tiempo de ejecución de Android
+ Entorno de tiempo de ejecución de Android
    </header>
    <ul>
     <li>
-     Aplicación movil
+ Aplicación movil
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
-    Android a través de Java
+ androide via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La hoja de cálculo de Android API es compatible con los populares formatos de Microsoft Excel, imágenes y formatos de diseño fijo." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La hoja de cálculo de Android API es compatible con los populares formatos de Excel Microsoft, imágenes y formatos de diseño fijo." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    De entrada y salida
+ De entrada y salida
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Oficina abierta:
+ Oficina abierta:
      </b>
-     SAO
+     ODS
     </li>
     <li>
      <b>
-      Texto:
+ Texto:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,20 +185,20 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Solo salida
+ Solo salida
    </header>
    <ul>
     <li>
      <b>
-      Diseño fijo:
+ Diseño fijo:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Imágenes:
+ Imágenes:
      </b>
-     JPEG, PNG, BMP, SVG, CEM
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,9 +213,9 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
-    Android a través de Java
+ androide via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Funciones avanzadas de Android Excel API
+ Funciones avanzadas de Android Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
+Aplicar formato a la hoja de trabajo, fila, columna, celda y rango
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exporte e importe datos de ArrayList, Array, Recordset &amp; Conjunto resultante
+ Exporte e importe datos de ArrayList, Array, Recordset &amp; Conjunto resultante
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cifrar &amp; descifrar archivos de Excel
+ Cifrar &amp; descifrar archivos de Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Establecer formato de números
+ Establecer formato de números
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear &amperio; manipular gráficos
+ Crear &amperio; manipular gráficos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear &amperio; manipular comentarios
+ Crear &amperio; manipular comentarios
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer, configurar y amp; calcular fórmulas
+ Leer, configurar y amp; calcular fórmulas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Configurar la configuración de la página
+ Configurar la configuración de la página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Establecer &amperio; manipular filtros automáticos &amp; saltos de página
+ Establecer &amperio; manipular filtros automáticos &amp; saltos de página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer &amperio; escribir formato condicional
+ Leer &amperio; escribir formato condicional
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear copias de hojas de trabajo existentes
+ Crear copias de hojas de trabajo existentes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Establecer opciones de protección introducidas desde Microsoft Excel XP
+ Establecer opciones de protección introducidas desde Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipular celdas &amp; rangos con nombre
+ Manipular celdas &amp; rangos con nombre
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertir archivos de Excel a PDF
+ Convertir archivos de Excel a PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertir hojas de trabajo &amp; gráficos a imágenes
+ Convertir hojas de trabajo &amp; gráficos a imágenes
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Biblioteca de hojas de cálculo de Android para crear archivos de E
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear &amperio; manipular tablas dinámicas
+ Crear &amperio; manipular tablas dinámicas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear &amperio; manipular gráficos personalizados
+ Crear &amperio; manipular gráficos personalizados
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Rastrear precedentes y dependientes
+ Rastrear precedentes y dependientes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear &amperio; manipular escenarios
+ Crear &amperio; manipular escenarios
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Potente motor de cálculo de fórmulas
+Potente motor de cálculo de fórmulas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer &amperio; escribir TSV, CSV &amp; archivos HTML
+ Leer &amperio; escribir TSV, CSV &amp; HTML archivos
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Conversión de diferentes formatos
+ Conversión de diferentes formatos
     </h2>
     <p>
-     La biblioteca Android Excel ofrece conversión de hojas de cálculo a XPS, PDF &amp; Formatos HTML manteniendo la máxima fidelidad visual. El proceso de conversión confiable hace que API sea una opción perfecta para las empresas para intercambiar archivos en formatos estándar de la industria.
+ La biblioteca Android Excel ofrece conversión de hojas de cálculo a XPS, PDF &amp; HTML formatos manteniendo la máxima fidelidad visual. El proceso de conversión confiable hace que API sea una opción perfecta para las empresas para intercambiar archivos en formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Guardar libro de trabajo en varios formatos - Java
+ Guardar libro de trabajo en varios formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convierta objetos de hoja de cálculo a diferentes formatos
+ Convierta objetos de hoja de cálculo a diferentes formatos
     </h2>
     <p>
-     Aspose.Cells para Android a través de Java ofrece algunas funciones distintivas, como hojas de trabajo para imágenes, gráficos para imágenes &amp; PDF y hojas de cálculo a conversión de formato de documento PDF. El proceso flexible tiene una serie de opciones para la conversión, como el remuestreo de imágenes durante hojas de cálculo a PDF o la configuración de las dimensiones de la imagen resultante al renderizar hojas de trabajo &amp; gráficos a formatos de imagen.
+ Aspose.Cells for Android via Java ofrecen algunas características distintivas, como hojas de trabajo para imágenes, gráficos para imágenes &amp; PDF y hojas de cálculo a PDF conversión de formato de documento. El proceso flexible tiene una serie de opciones para la conversión, como volver a muestrear imágenes durante hojas de cálculo a PDF o establecer las dimensiones de la imagen resultante al renderizar hojas de trabajo &amp; gráficos a formatos de imagen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Hoja de cálculo API Motor de cálculo de fórmulas
+Hoja de cálculo API Motor de cálculo de fórmulas
     </h2>
     <p>
-     Las hojas de Android API proporcionan un potente motor de cálculo de fórmulas compatible con las funciones y fórmulas avanzadas y estándar de Microsoft Excel. El motor de cálculo de fórmulas facilita la lectura, la configuración y el cálculo de los resultados de las fórmulas de estilo de referencia R1C1, matriz y tipo integrado o complementario.
+ Las hojas de Android API proporcionan un potente motor de cálculo de fórmulas compatible con las funciones y fórmulas avanzadas y estándar de Microsoft Excel. El motor de cálculo de fórmulas facilita la lectura, la configuración y el cálculo de los resultados de las fórmulas integradas o complementarias de tipo, matriz y estilo de referencia R1C1.
     </p>
    </div>
    <!--
@@ -573,17 +572,17 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API referencias" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Referencias" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Soporte de producto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Soporte pagado" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells para Android a través de Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historias de éxito" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

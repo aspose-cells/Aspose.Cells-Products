@@ -1,8 +1,7 @@
 ---
-title: تطبيق محول جداول بيانات SharePoint Excel - Aspose 
+title:  تطبيق محول جداول بيانات SharePoint Excel - Aspose
 weight: 940
-
-description: Aspose.Cells لتطبيق SharePoint هو محول جداول بيانات SharePoint Excel. تصدير XLS XLSX XML CSV PDF ODS & amp؛ تنسيقات HTML في MOSS WSS
+description: تطبيق Aspose.Cells for SharePoint هو محول جداول بيانات SharePoint Excel. تصدير XLS XLSX XML CSV PDF ODS & amp؛ HTML بتنسيق MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تطبيق SharePoint لتحويل جداول بيانات Excel" h2="قم بتحويل جداول بيانات Excel إلى أكثر من 8 تنسيقات ملفات مباشرة من مكتبة مستندات SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -13,7 +12,7 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells لـ SharePoint هو تطبيق مرن لتحويل جداول بيانات Excel. يمكنه تحويل المستندات بين العديد من تنسيقات Microsoft Excel الشائعة من مكتبة مستندات SharePoint بدون تبعيات Microsoft Excel. وهو يدعم تنسيقات مستندات متعددة غير مضمنة في دعم تنسيق الملفات الأصلي لـ SharePoint.
+ Aspose.Cells for SharePoint هو تطبيق تحويل جداول بيانات Excel مرن. يمكنه تحويل المستندات بين العديد من تنسيقات Excel الشائعة Microsoft من مكتبة مستندات SharePoint بدون تبعيات Microsoft Excel. وهو يدعم تنسيقات مستندات متعددة غير مضمنة في دعم تنسيق الملفات الأصلي لـ SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على Aspose.Cells لـ SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="لمحة سريعة" description="نظرة عامة على Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    سهل التركيب
+ سهل التركيب
    </header>
    <ul>
     <li>
-     ملف SharePoint WSP
+ ملف SharePoint WSP
     </li>
     <li>
-     تفعيل عبر المزرعة
+ تفعيل عبر المزرعة
     </li>
     <li>
-     قم بإلغاء التنشيط عبر المزرعة
+ قم بإلغاء التنشيط عبر المزرعة
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
    <header>
     <i class="fa fa-file-o">
     </i>
-    خيارات التحويل
+ خيارات التحويل
    </header>
    <ul>
     <li>
-     حفظ في المجلدات الفرعية
+ حفظ في المجلدات الفرعية
     </li>
     <li>
-     تسلسل الملف
+ تسلسل الملف
     </li>
     <li>
-     الكتابة فوق الملفات الموجودة
+ الكتابة فوق الملفات الموجودة
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    نقطة مشاركة
+ نقطة مشاركة
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells لـ SharePoint يدعم Windows SharePoint Services و SharePoint Foundation و Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="منصة الاستقلال" description="Aspose.Cells for SharePoint يدعم Windows SharePoint Services و SharePoint Foundation و Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    خادم SharePoint
+ خادم SharePoint
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    خدمات Windows SharePoint
+ Windows SharePoint Services
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    مؤسسة شيربوينت
+ مؤسسة شيربوينت
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    نقطة مشاركة
+ نقطة مشاركة
    </small>
   </footer>
  </div>
@@ -155,21 +154,21 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells لـ SharePoint يدعم العديد من تنسيقات جداول البيانات الشائعة و PDF و HTML وغيرها [تنسيقات الملفات](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="تنسيقات الملفات المدعومة" description="Aspose.Cells for SharePoint يدعم العديد من تنسيقات جداول البيانات الشائعة ، PDF ، HTML وغيرها[تنسيقات الملفات](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    الإدخال / الإخراج
+ الإدخال / الإخراج
    </header>
    <ul>
     <li>
      <b>
-      مايكروسوفت اكسل:
+ Microsoft إكسل:
      </b>
-     XLS و XLSX و XLSB و XLTX و XLTM و XLSM
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
@@ -179,21 +178,21 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
     </li>
     <li>
      <b>
-      مكتب مفتوح:
+ مكتب مفتوح:
      </b>
-     المواد المستنفدة للأوزون
+     ODS
     </li>
     <li>
      <b>
-      نص:
+ نص:
      </b>
-     CSV و TSV و Tab-Delimited و TXT
+ CSV، TSV، محدد بعلامات جدولة، TXT
     </li>
     <li>
      <b>
-      الويب:
+ الويب:
      </b>
-     HTML ، MHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -202,20 +201,20 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    الإخراج فقط
+ الإخراج فقط
    </header>
    <ul>
     <li>
      <b>
-      التخطيط الثابت:
+ التخطيط الثابت:
      </b>
-     PDF ، XPS
+     PDF, XPS
     </li>
     <li>
      <b>
-      الصور:
+ الصور:
      </b>
-     JPEG ، GIF ، PNG ، BMP ، SVG ، TIFF ، EMF
+     JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
    </ul>
   </div>
@@ -230,9 +229,9 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
   <footer>
    <small>
     <em>
-     ل
+ ل
     </em>
-    نقطة مشاركة
+ نقطة مشاركة
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     تحويل جداول بيانات Excel إلى عدة تنسيقات
+ تحويل جداول بيانات Excel إلى عدة تنسيقات
     </h2>
     <p>
-     يسمح Aspose.Cells لـ SharePoint بتحويل جداول البيانات إلى العديد من تنسيقات المستندات والصور الشائعة من داخل مكتبة مستندات SharePoint. Aspose.Cells لـ SharePoint يدعم حاليًا معظم تنسيقات جداول البيانات إلى جانب CSV & amp؛ XML كمدخل ، ويمكن تصديره إلى تنسيقات جداول البيانات بالإضافة إلى CSV و HTML و ODS و PDF و XML & amp؛ تنسيقات الصور.
+ Aspose.Cells for SharePoint يسمح بتحويل جداول البيانات إلى العديد من تنسيقات المستندات والصور الشائعة من داخل مكتبة مستندات SharePoint. Aspose.Cells for SharePoint يدعم حاليًا معظم تنسيقات جداول البيانات مع CSV & amp؛ XML كمدخلات ، ويمكن التصدير إلى تنسيقات جداول البيانات بالإضافة إلى CSV ، HTML ، ODS ، PDF ، XML & amp؛ تنسيقات الصور.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     تسلسل الملفات أثناء التحويل
+ تسلسل الملفات أثناء التحويل
     </h2>
     <p>
-     يوفر Aspose.Cells لـ SharePoint القدرة على دمج الملفات ذات التنسيقات المختلفة في مستند واحد. علاوة على ذلك ، يمكنك أيضًا نقل المستندات الموجودة في القائمة لأعلى أو لأسفل لتعيين الترتيب الذي تريد دمج المستندات به.
+ يوفر Aspose.Cells for SharePoint القدرة على دمج الملفات ذات التنسيقات المختلفة في مستند واحد. علاوة على ذلك ، يمكنك أيضًا نقل المستندات الموجودة في القائمة لأعلى أو لأسفل لتعيين الترتيب الذي تريد دمج المستندات به.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     تحويل الملفات في المجلدات الفرعية
+ تحويل الملفات في المجلدات الفرعية
     </h2>
     <p>
-     Aspose.Cells لـ SharePoint يجعل عملية التحويل أكثر سهولة عن طريق التحويل المتكرر لجميع المستندات والمجلدات الفرعية ضمن مجلد محدد. يتم إنشاء بنية المجلد الفرعي الموجودة في المجلد الوجهة.
+Aspose.Cells for SharePoint يجعل عملية التحويل أكثر سهولة عن طريق التحويل المتكرر لكل الوثائق والحافظات الفرعية ضمن الحافظة المحددة. يتم إنشاء بنية المجلد الفرعي الموجودة في المجلد الوجهة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     الكتابة فوق الملفات الموجودة
+ الكتابة فوق الملفات الموجودة
     </h2>
     <p>
-     إذا كان المجلد الوجهة يحتوي بالفعل على ملفات بنفس الأسماء مثل تلك التي تريد تحويلها ، فإن Aspose.Cells لـ SharePoint يسمح لك بالكتابة فوق الملفات الموجودة أو يمكنك ببساطة تحديد خيار يوجه التطبيق لتخطي ملفات المعالجة الموجودة بالفعل في مجلد الوجهة.
+ إذا كان المجلد الوجهة يحتوي بالفعل على ملفات بنفس الأسماء مثل تلك التي تريد تحويلها ، فإن Aspose.Cells for SharePoint يسمح لك بالكتابة فوق الملفات الموجودة أو يمكنك ببساطة تحديد خيار يوجه التطبيق لتخطي ملفات المعالجة الموجودة بالفعل في مجلد الوجهة .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     التفاعل مع الجمهور API
+ تفاعل مع الجمهور API
     </h2>
     <p>
-     للمطورين الذين لديهم حلول SharePoint داخلية ، يمكنهم استخدام Aspose.Cells لمحرك تحويل مستندات SharePoint عبره العام API. يوفر وصولاً برمجيًا إلى جميع التنسيقات وخيارات التحويل المدعومة.
+ للمطورين الذين لديهم حلول SharePoint داخلية ، يمكنهم استخدام محرك تحويل المستندات Aspose.Cells for SharePoint عبر API العام الخاص به. وهو يوفر وصولاً برمجيًا إلى جميع التنسيقات المدعومة وخيارات التحويل.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     أتمتة Microsoft Excel - غير مطلوب
+ Microsoft أتمتة Excel - غير مطلوب
     </h2>
     <p>
-     تم تصميم Aspose.Cells لـ SharePoint باستخدام تعليمات برمجية مُدارة لا تحتاج مطلقًا إلى تثبيت Microsoft Excel على الجهاز للعمل مع تحويل تنسيق Excel. إنه بديل مثالي لأتمتة Microsoft Excel من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
+تم إنشاء Aspose.Cells for SharePoint باستخدام رمز مُدار لا يحتاج أبدًا إلى تثبيت Microsoft Excel على الجهاز للعمل مع تحويل تنسيق Excel. إنه بديل مثالي لأتمتة برنامج Excel Microsoft من حيث الميزات المدعومة والأمان والاستقرار وقابلية التوسع والسرعة والسعر.
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="مدونة او مذكرة" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="مدونة" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells لـ SharePoint؟" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose.Cells for SharePoint؟" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -329,7 +328,7 @@ description: Aspose.Cells لتطبيق SharePoint هو محول جداول بي�
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="تقدم Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="يوفر Aspose.Cells واجهات برمجة تطبيقات Excel فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

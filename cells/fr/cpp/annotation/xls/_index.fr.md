@@ -1,8 +1,7 @@
 ---
-title: Ajouter une annotation de fichier Excel XLS via C++ 
+title:  Ajouter XLS Annotation de fichier Excel via C++
 weight: 10040
-
-description: C++ exemple de code pour ajouter et supprimer des annotations au format XLS sur C++ l'environnement d'exécution pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+description: Exemple de code C++ pour ajouter et supprimer des annotations au format XLS sur l'environnement d'exécution C++ pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ajouter une annotation dans le fichier XLS via C++" h2="Créez vos propres applications C++ pour manipuler les commentaires et les auteurs dans les fichiers de documents à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,8 +12,8 @@ description: C++ exemple de code pour ajouter et supprimer des annotations au fo
 {{% blocks/products/pf/agp/content h2="Comment annoter un fichier XLS à l\'aide de C++" %}}
 
  Pour annoter le fichier XLS, nous utiliserons
- [Aspose.Cells pour C++](https://products.aspose.com/cells/cpp) 
- API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API for C++. Vous pouvez télécharger sa dernière version directement, il suffit d'ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells.cpp) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells.Cpp** 
@@ -25,7 +24,6 @@ description: C++ exemple de code pour ajouter et supprimer des annotations au fo
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -41,7 +39,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Chargez le fichier Excel XLS à l'aide de l'objet de classe IWorkbook.1. Sélectionnez la feuille appropriée1. Ajouter le commentaire à l'aide de la méthode Add1. Définissez la note du commentaire à l'aide de la méthode SetNote.1. Enregistrez le classeur à l'aide de [Sauver](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
+1.  Chargez le fichier Excel XLS à l'aide de l'objet de classe IWorkbook.
+1.  Sélectionnez la feuille appropriée
+1.  Ajouter le commentaire à l'aide de la méthode Add
+1.  Définissez la note du commentaire à l'aide de la méthode SetNote.
+1.  Enregistrez le classeur à l'aide de[Sauvegarder](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) méthode
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -49,11 +52,13 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells pour C++ est pris en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for C++ prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.- Aspose.Cells pour C++ DLL référencée dans votre projet.
+-  Microsoft Windows ou un système d'exploitation compatible avec C++ Runtime Environment pour Windows 32 bits, Windows 64 bits et Linux 64 bits.
+-  Ajoutez une référence à la DLL Aspose.Cells for C++ dans votre projet.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Ajouter des commentaires dans le fichier XLS - C++" offSpacer="" %}}
@@ -69,9 +74,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Environ Aspose.Cells pour C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -79,14 +84,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Ajouter / supprimer une annotation de XLS via l\'application en ligne" sectionDescription="Supprimez les annotations de documents XLS dès maintenant en visitant notre [Site Web de démos en direct](https://products.aspose.app/cells/annotation). La démo en direct présente les avantages suivants" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Ajouter / supprimer une annotation de XLS via l\'application en ligne" sectionDescription=" Supprimez les annotations de document XLS dès maintenant en visitant notre[Site Web de démos en direct](https://products.aspose.app/cells/annotation). La démo en direct présente les avantages suivants" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement votre fichier XLS et cliquez sur le bouton \"Supprimer\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres tableurs similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit désormais le premier choix d'utilisation.
+Les fichiers avec l'extension XLS représentent le format de fichier binaire Excel. Ces fichiers peuvent être créés par Microsoft Excel ainsi que par d'autres programmes de tableur similaires tels que OpenOffice Calc ou Apple Numbers. Le fichier enregistré par Excel est connu sous le nom de classeur où chaque classeur peut avoir une ou plusieurs feuilles de calcul. Les données sont stockées et affichées aux utilisateurs sous forme de tableau dans une feuille de calcul et peuvent couvrir des valeurs numériques, des données textuelles, des formules, des connexions de données externes, des images et des graphiques. Des applications telles que Microsoft Excel vous permettent d'exporter des données de classeur vers plusieurs formats différents, notamment PDF, CSV, XLSX, TXT, HTML, XPS et plusieurs autres. Le format de fichier XLS a été remplacé par un format plus ouvert et structuré, XLSX, avec la sortie de Microsoft Excel 2007. Les dernières versions prennent toujours en charge la création et la lecture de fichiers XLS, bien que XLSX soit le premier choix d'utilisation maintenant.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -96,7 +101,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats d\'annotation pris en charge" subTitle="En utilisant C++, on peut facilement annoter d\'autres formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/ods/" name="SAO" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}

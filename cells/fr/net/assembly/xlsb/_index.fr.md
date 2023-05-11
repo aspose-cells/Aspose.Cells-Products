@@ -1,8 +1,7 @@
 ---
-title: Générer des rapports dans des fichiers XLSB via .NET 
+title:  Générer des rapports dans les fichiers XLSB via .NET
 weight: 1690
-
-description: Code source C# pour générer des rapports au format XLSB sur les plates-formes .NET Framework, .NET Core, Mono ou Xamarin.
+description: C# code source pour générer des rapports au format XLSB sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Génération de rapports en masse au format XLSB via C#" h2="Générez des rapports au format XLSB à l\'aide d\'une source de données et d\'un modèle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -14,7 +13,7 @@ description: Code source C# pour générer des rapports au format XLSB sur les p
 
  Pour créer des rapports XLSB, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une plate-forme de génération de rapports riche en fonctionnalités, puissante et facile à utiliser API pour C#. Ouvrir
+ API qui est une génération de rapports API riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells** 
@@ -25,7 +24,6 @@ description: Code source C# pour générer des rapports au format XLSB sur les p
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -41,7 +39,12 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instancier la classe WorkbookDesigner1. Définir un marqueur dans l'une des cellules de n'importe quelle feuille de calcul1. Définir la source de données pour l'objet WorkbookDesigner1. Appelez la méthode WorkbookDesigner.Process pour remplir le modèle avec des données1. Enregistrer le résultat au format XLSB via la méthode WorkbookDesigner.Worbook.Save
+1.  Instancier la classe WorkbookDesigner
+1.  Définir un marqueur dans l'une des cellules de n'importe quelle feuille de calcul
+1.  Définir la source de données pour l'objet WorkbookDesigner
+1.  Appelez la méthode WorkbookDesigner.Process pour remplir le modèle avec des données
+1. Enregistrer le résultat au format XLSB via la méthode WorkbookDesigner.Worbook.Save
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
@@ -52,7 +55,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou Xamarin Platforms- Environnement de développement comme Microsoft Visual Studio- Aspose.Cells for .NET référencé dans votre projet
+-  Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Mono ou Xamarin Platforms
+-  Environnement de développement comme Microsoft Visual Studio
+-  Ajouter une référence à la DLL Aspose.Cells for .NET dans votre projet
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Générer des rapports XLSB" offSpacer="" %}}
@@ -70,7 +76,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -78,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour assembler XLSB" sectionDescription="Consultez nos démos en direct pour [créer des fichiers XLSB](https://products.aspose.app/cells/assembly/xlsb) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite à assembler XLSB" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers XLSB](https://products.aspose.app/cells/assembly/xlsb) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement le fichier XLSB et cliquez sur le bouton \"Assembler\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier XLSB et d\'appuyer sur le bouton \"Assembler\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier XLSB résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est une collection d'enregistrements et de structures qui spécifient le contenu du classeur Excel. Le contenu peut inclure des tableaux de nombres non structurés ou semi-structurés, du texte, ou à la fois des nombres et du texte, des formules, des connexions de données externes, des graphiques et des images. Contrairement à XLSX (qui est basé sur le format de fichier Open XML), le XLSB représente un fichier de classeur Excel binaire. Les fichiers XLSB peuvent être lus et écrits plus rapidement, ce qui les rend utiles pour travailler avec des fichiers volumineux. XLSB est rarement utilisé pour stocker des classeurs, car XLSX (et auparavant XLS) sont les formats de fichier sélectionnés par l'utilisateur les plus courants pour enregistrer des classeurs. Il peut être ouvert par Microsoft Office 2007 et supérieur.
+Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est une collection d'enregistrements et de structures qui spécifient le contenu du classeur Excel. Le contenu peut inclure des tableaux de nombres non structurés ou semi-structurés, du texte, ou à la fois des nombres et du texte, des formules, des connexions de données externes, des graphiques et des images. Contrairement à XLSX (qui est basé sur le format de fichier Open XML), le XLSB représente un fichier de classeur Excel binaire. Les fichiers XLSB peuvent être lus et écrits plus rapidement, ce qui les rend utiles pour travailler avec des fichiers volumineux. XLSB est rarement utilisé pour stocker des classeurs, car XLSX (et précédemment XLS) sont les formats de fichier sélectionnés par l'utilisateur les plus courants pour enregistrer des classeurs. Il peut être ouvert par Microsoft Office 2007 et supérieur.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,7 +101,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de génération de rapport pris en charge" subTitle="En utilisant C#, on peut facilement générer des rapports de plusieurs formats, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="SAO" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}

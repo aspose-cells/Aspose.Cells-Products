@@ -1,8 +1,7 @@
 ---
-title: Exportera RDL-rapporter till Excel XLS XLSX och SpreadsheetML i SQL Server 
+title:  Exportera RDL-rapporter till Excel XLS XLSX och SpreadsheetML i SQL Server
 weight: 3460
-
-description: SQL Server Reporting Services-renderingstillägg - Exportera Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS- och TXT-format
+description: SQL Server Reporting Services-renderingstillägg - Exportera Excel XLS XLSX XLSM XLSB CSV SpreadsheetML HTML ODS och 4816 format
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Reporting Services-tillägg för att leverera rapporter som Excel-filer" h2="Exportera RDL- och RDLC-rapporter till Excel-kalkylbladsfilformat med lätthet." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-reporting-services.svg" pfName="Aspose.Cells" subTitlepfName="for Reporting Services" downloadUrl="https://downloads.aspose.com/cells/reportingservices" >}}
@@ -13,7 +12,7 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Med Aspose.Cells för Reporting Services kan du leverera Excel-rapporter från Microsoft SQL Server Reporting Services och Microsoft Report Viewer. Till skillnad från den ursprungliga exportören för Excel-baserade rapporter - tillåter Aspose.Cells för Reporting Services konvertering av RDL &amp; RDLC rapporterar till ett antal Excel-kalkylbladsfilformat.
+ Aspose.Cells for Reporting Services låter dig leverera Excel-rapporter från Microsoft SQL Server Reporting Services och Microsoft Report Viewer. Till skillnad från den ursprungliga exportören för Excel-baserade rapporter - tillåter Aspose.Cells for Reporting Services konvertering av RDL &amp; RDLC rapporterar till ett antal Excel-kalkylbladsfilformat.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,51 +20,51 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells för rapporteringstjänster." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Cells for Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-file-image-o">
     </i>
-    RDL-stöd
+ RDL-stöd
    </header>
    <ul>
     <li>
-     Sida
+ Sida
     </li>
     <li>
-     Sidhuvud/sidfot
+ Sidhuvud/sidfot
     </li>
     <li>
-     Textrutor
+ Textrutor
     </li>
     <li>
-     Bilder
+ Bilder
     </li>
     <li>
-     Delrapporter
+ Delrapporter
     </li>
     <li>
-     Diagram
+ Diagram
     </li>
     <li>
-     Listor
+ Listor
     </li>
     <li>
-     Tabeller
+ Tabeller
     </li>
     <li>
-     Mätare
+ Mätare
     </li>
     <li>
-     Matriser
+ Matriser
     </li>
     <li>
-     Rektanglar/linjer
+ Rektanglar/linjer
     </li>
     <li>
-     Stilar
+ Stilar
     </li>
    </ul>
   </div>
@@ -74,48 +73,48 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
    <header>
     <i class="fa fa-cogs">
     </i>
-    Databehandling
+ Databehandling
    </header>
    <ul>
     <li>
-     Formler för rapporttjänster
+ Formler för rapporttjänster
     </li>
     <li>
-     Dynamiska formler
+ Dynamiska formler
     </li>
     <li>
-     Tabeller med grupperade rader
+ Tabeller med grupperade rader
     </li>
     <li>
-     Tabeller med grupperad sidfot
+ Tabeller med grupperad sidfot
     </li>
     <li>
-     MS fråga
+ MS fråga
     </li>
     <li>
-     Rapportera specifik datakälla
+ Rapportera specifik datakälla
     </li>
     <li>
-     Delad datakälla
+ Delad datakälla
     </li>
     <li>
-     Kryptering
+ Kryptering
     </li>
    </ul>
    <header>
     <i class="fa fa-table">
     </i>
-    Rapportdesigner
+ Rapportdesigner
    </header>
    <ul>
     <li>
-     Pivottabeller
+ Pivottabeller
     </li>
     <li>
-     Interaktiva diagram
+ Interaktiva diagram
     </li>
     <li>
-     Formler
+ Formler
     </li>
    </ul>
   </div>
@@ -130,9 +129,9 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Rapporteringstjänster
+ Rapporteringstjänster
    </small>
   </footer>
  </div>
@@ -141,7 +140,7 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells för Reporting Services stöder Microsoft SQL Server Reporting Services." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells for Reporting Services stöder Microsoft SQL Server Reporting Services." >}}
 <div class="diagram1 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -151,14 +150,14 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SQL Server Reporting Services
+ SQL Server Reporting Services
    </header>
    <ul>
     <li>
      2005
     </li>
     <li>
-     2008 och 2008 R2
+ 2008 och 2008 R2
     </li>
     <li>
      2012
@@ -183,9 +182,9 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Rapporteringstjänster
+ Rapporteringstjänster
    </small>
   </footer>
  </div>
@@ -194,14 +193,14 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells for Reporting Services stöder vanliga kalkylblad [filformat](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for Reporting Services stöder vanliga kalkylblad[filformat](https://docs.aspose.com/cells/reportingservices/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-rs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Endast ingång
+ Endast ingång
    </header>
    <ul>
     <li>
@@ -217,36 +216,36 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSM, XLSB, XML
+ XLS, XLSX, XLSM, XLSB, XML
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Webb:
+ Webb:
      </b>
      HTML
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, TSV, TabDelimited textfil
+ CSV, TSV, TabDelimited textfil
     </li>
     <li>
      <strong>
-      Fast layout:
+ Fast layout:
      </strong>
      XPS
     </li>
@@ -263,9 +262,9 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Rapporteringstjänster
+ Rapporteringstjänster
    </small>
   </footer>
  </div>
@@ -284,7 +283,7 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Funktioner för avancerade rapporteringstjänster
+ Funktioner för avancerade rapporteringstjänster
    </h2>
    <p>
    </p>
@@ -292,83 +291,83 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportera fil i MarkDown-format
+ Exportera fil i MarkDown-format
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd Tablix Group Page Break
+ Stöd Tablix Group Page Break
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa flera flikar
+ Skapa flera flikar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Komprimera eller expandera pivottabellfält
+ Komprimera eller expandera pivottabellfält
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-minus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Stöd att utföra minusberäkningar
+ Stöd för att utföra minusberäkningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Åberopa MS Excel-utskriftsformat
+ Åberopa MS Excel-utskriftsformat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     MS Excel 2016-diagram stöds
+ MS Excel 2016-diagram stöds
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-terminal ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Justera inställningar för sidmarginaler i Excel Sheets
+ Justera sidmarginalinställningarna i Excel-ark
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aspose.Cells' Reports Designer Tool
+ Aspose.Cells' Reports Designer Tool
     </h2>
     <p>
-     Utvecklare kan designa och leverera rapporter direkt från Microsoft Excel samtidigt som de använder Aspose.Cells.Report.Designer – ett enkelt designverktyg som använder Microsoft Excel som rapportmall. Den här funktionen gör det möjligt att dra fördel av alla kraftfulla funktioner och funktioner som finns i Microsoft Excel-applikationen, inklusive pivottabeller, interaktiva diagram, formler och så vidare.
+Utvecklare kan designa och leverera rapporter direkt från Microsoft Excel samtidigt som de använder Aspose.Cells.Report.Designer - ett enkelt designverktyg som använder Microsoft Excel som rapportmall. Den här funktionen gör det möjligt att dra nytta av alla kraftfulla funktioner och funktioner som finns i Microsoft Excel-applikationen inklusive pivottabeller, interaktiva diagram, formler och så vidare.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Exportera rapporter till kalkylbladsformat
+ Exportera rapporter till kalkylbladsformat
     </h2>
     <p>
-     Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 - 2016) filformat, inklusive "inbyggda" Microsoft Excel-format som XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab Delimited och HTML. Aspose.Cells för Reporting Services stöder även filformatet ODS (OpenDocument Spreadsheet).
+ Aspose.Cells for Reporting Services stöder alla populära Microsoft Excel (97 - 2016) filformat, inklusive "native" Microsoft Excel-format som XLS, XLSX, 081616 081,716 081, 716 081, 716 07613481 , Tab Delimited och HTML. Aspose.Cells for Reporting Services stöder även filformatet ODS (OpenDocument Spreadsheet).
     </p>
     <p>
-     Utöver det exporterar Aspose.Cells för Reporting Services Excel-dokument som helt redigerbara kalkylblad, det vill säga; Slutanvändaren kan redigera de resulterande kalkylbladen manuellt i Microsoft Excel-applikationen om det behövs.
+ Ovanpå det exporterar Aspose.Cells for Reporting Services Excel-dokument som helt redigerbara kalkylblad, det vill säga; Slutanvändaren kan redigera de resulterande kalkylbladen manuellt i Microsoft Excel-applikationen om det behövs.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     High Fidelity - identisk med rapportdesign
+ High Fidelity - identisk med rapportdesign
     </h2>
     <p>
-     Aspose.Cells för Reporting Services exportera rapporterna till Microsoft Excel-kalkylblad på ett sätt så att resultatet ser identiskt ut med det ursprungliga som genererats av den inbyggda Reporting Services-rapportdesignern. Alla rapportfunktioner konverteras till högsta precision för att få Microsoft Excel-kalkylblad att se så likt originalet ut som möjligt.
+Aspose.Cells for Reporting Services exportera rapporterna till Microsoft Excel-kalkylblad på ett sätt så att resultatet ser identiskt ut med det ursprungliga som genererats av den inbyggda Reporting Services-rapportdesignern. Alla rapportfunktioner konverteras till högsta precision för att få Microsoft Excel-kalkylblad att se så likt originalet ut som möjligt.
     </p>
    </div>
    <!--
@@ -384,13 +383,13 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Olika alternativ för datahantering
+ Olika alternativ för datahantering
     </h2>
     <p>
-     Aspose.Cells för Reporting Services stödjer tabeller med grupperade rader och sidfötter, medan grupperingen kan ställas in vid designtillfället som andra rapportobjekt. Aspose.Cells for Reporting Services stöder även parametrar och globala variabler som rapportdatakällor. Utvecklare kan också använda Microsoft Query för att skapa datakällor och frågor; detta är ett flitigt använt verktyg och bekant för de flesta användare.
+ Aspose.Cells for Reporting Services stödjer tabeller med grupperade rader och sidfötter medan grupperingen kan ställas in vid designtillfället som andra rapportobjekt. Aspose.Cells for Reporting Services stöder även parametrar och globala variabler som rapportdatakällor. Utvecklare kan också använda Microsoft Query för att skapa datakällor och frågor; detta är ett flitigt använt verktyg och bekant för de flesta användare.
     </p>
     <p>
-     Utöver detta stöder Aspose.Cells för Reporting Services både rapportspecifika datakällor och delade datakällor som skapats på rapportservern i förväg. Utvecklare kan använda rapportspecifika datakällor vid designtillfället och ange delade datakällor som rapportdatakällor medan de publicerar rapporter.
+Utöver detta stöder Aspose.Cells for Reporting Services både rapportspecifika datakällor och delade datakällor som skapats på Report Server i förväg. Utvecklare kan använda rapportspecifika datakällor vid designtillfället och ange delade datakällor som rapportdatakällor medan de publicerar rapporter.
     </p>
    </div>
    <!-- 
@@ -422,10 +421,10 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office Automation – Behövs inte
+ Microsoft Kontorsautomation – behövs inte
     </h2>
     <p>
-     Aspose.Cells för Reporting Services är byggd med hanterad kod som aldrig behöver installera Microsoft Office eller Microsoft Excel på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt automationsalternativ för Microsoft Excel när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
+ Aspose.Cells for Reporting Services är byggd med hanterad kod som aldrig behöver Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Excel-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
     </p>
    </div>
   </div>
@@ -445,12 +444,12 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för rapporttjänster?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells for Reporting Services?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -459,7 +458,7 @@ description: SQL Server Reporting Services-renderingstillägg - Exportera Excel 
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/reportingservices" pricingInformationLink="https://purchase.aspose.com/pricing/cells/reporting-services" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

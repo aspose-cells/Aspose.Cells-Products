@@ -1,29 +1,27 @@
 ---
-title: การแปลงไฟล์ Microsoft Excel ผ่าน Python 
-
-description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML, JPEG, HTML และรูปแบบยอดนิยมอื่นๆ ด้วยโค้ด Python เพียงไม่กี่บรรทัด
+title: Microsoft การแปลงไฟล์ Excel โดยใช้ Python via Java
+description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML, JPEG, HTML และรูปแบบยอดนิยมอื่น ๆ อีกมากมายด้วยรหัส Python เพียงไม่กี่บรรทัด .
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> การแปลงรูปแบบ Excel ผ่าน Python" h2="นำเข้าและส่งออกไฟล์ Excel เป็นสเปรดชีต เว็บ รูปภาพ และรูปแบบเค้าโครงคงที่" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> การแปลงรูปแบบ Excel ผ่าน Python" h2="นำเข้าและส่งออกไฟล์ Excel เป็นรูปแบบสเปรดชีต เว็บ รูปภาพ และเค้าโครงคงที่" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python ไลบรารี Excel ช่วยเพิ่มความเร็วในการเขียนโปรแกรมสเปรดชีตและกระบวนการแปลง ในขณะที่สนับสนุนรูปแบบยอดนิยม เช่น XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS นอกจากนี้ยังอนุญาตให้ส่งออกไฟล์ Excel เป็น PDF, XPS, HTML, MHTML, ข้อความธรรมดา และรูปแบบรูปภาพยอดนิยม เช่น TIFF, JPG, PNG, BMP และ SVG
+Python Excel Library เร่งความเร็วการเขียนโปรแกรมสเปรดชีตและกระบวนการแปลงในขณะที่รองรับรูปแบบยอดนิยม ได้แก่ XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 481 นอกจากนี้ยังอนุญาตให้ส่งออกไฟล์ Excel ไปที่ PDF, XPS, HTML, MHTML, Plain รูปแบบข้อความและรูปภาพยอดนิยม เช่น TIFF, JPG, PNG, BMP และ SVG
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น XLSX, ODS, SXC & FODS" %}}
-การแปลงรูปแบบสเปรดชีตระหว่างกัน จำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ . เท่านั้น [สมุดงาน](https://reference.aspose.com/cells/python/asposecells.api/Workbook) และบันทึกในรูปแบบที่ต้องการในขณะที่เลือกค่าที่เหมาะสมจาก [บันทึกรูปแบบ](https://reference.aspose.com/cells/python/asposecells.api/saveformat) การแจงนับ
-{{% blocks/products/pf/feature-page-code h3="Python โค้ดสำหรับการแปลงรูปแบบไฟล์ Excel" %}}
+ การแปลงรูปแบบสเปรดชีตระหว่างกันจำเป็นต้องโหลดสเปรดชีตที่มีอินสแตนซ์ของ[สมุดงาน](https://reference.aspose.com/cells/python/asposecells.api/Workbook) และบันทึกกลับในรูปแบบที่ต้องการพร้อมเลือกค่าที่เหมาะสมจาก[บันทึกรูปแบบ](https://reference.aspose.com/cells/python/asposecells.api/saveformat) การแจงนับ
+{{% blocks/products/pf/feature-page-code h3="Python รหัสสำหรับการแปลงรูปแบบไฟล์ Excel" %}}
 
 ```cs
-// โหลดไฟล์เทมเพลต
+// load the template file
 workbook = Workbook("Book1.xls")
   
-// บันทึกเป็นรูปแบบ XLSX, ODS, SXC & FODS
+// save as XLSX, ODS, SXC & FODS formats
 workbook.save("output.xlsx", SaveFormat.XLSX);
 workbook.save("output.ods", SaveFormat.ODS);
-workbook.save("output.scx", SaveFormat.SXC);
+workbook.save("output.sxc", SaveFormat.SXC);
 workbook.save("output.fods", SaveFormat.FODS);
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -31,58 +29,55 @@ workbook.save("output.fods", SaveFormat.FODS);
 
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น PDF, XPS, HTML & MD" %}}
-มีคลาสเฉพาะเพื่อควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะเช่น [PdfSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) เพื่อส่งออกไฟล์ Excel เป็น PDF [XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) สำหรับการแปลง Excel เป็น XPS [HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) เพื่อแสดง Excel เป็น HTML และ [MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) สำหรับการแปลง Excel เป็น Markdown 
-{{% blocks/products/pf/feature-page-code h3="Python โค้ดสำหรับ Excel เป็น PDF และรูปแบบเว็บ" %}}
+ มีคลาสเฉพาะสำหรับควบคุมกระบวนการแปลงสำหรับรูปแบบเอาต์พุตเฉพาะ เช่น[PdfSaveตัวเลือก](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) เพื่อส่งออกไฟล์ Excel เป็น PDF[ตัวเลือก XpsSave](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) สำหรับการแปลง Excel เป็น XPS[ตัวเลือก HtmlSave](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) เพื่อแสดง Excel เป็น HTML และ[MarkdownSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) สำหรับการแปลง Excel เป็น Markdown
+{{% blocks/products/pf/feature-page-code h3="Python รหัสสำหรับ Excel ถึง PDF และรูปแบบเว็บ" %}}
 
 ```cs
-// โหลดเทมเพลตไฟล์ Excel จาก disc
+// load template Excel file from disc
 book = Workbook("template.xlsx")
 
-// บันทึก Excel ในรูปแบบ PDF_A_1_B
+// save Excel in PDF_A_1_B format
 pdfOptions = PdfSaveOptions()
 pdfOptions.setCompliance(PdfCompliance.PDF_A_1_B)
 book.save("output.pdf", pdfOptions);
 
-// บันทึก Excel ใน XPS ด้วย 1 หน้าต่อแผ่นงาน
+// save Excel in XPS with 1 page per worksheet
 xpsOptions = XpsSaveOptions()
 xpsOptions.setOnePagePerSheet(True)
 book.save("output.xps", xpsOptions);
 
-// บันทึก Excel เป็น HTML พร้อมรูปภาพเป็น Base64
+// save Excel in HTML with images as Base64
 htmlOptions = HtmlSaveOptions()
 htmlOptions.setExportImagesAsBase64(True)
 book.save("output.html", htmlOptions);
 
-// บันทึก Excel ใน Markdown (MD) ในขณะที่ยังคงการจัดรูปแบบเซลล์ไว้
+// save Excel in Markdown (MD) while retaining cell formatting
 mdOptions = MarkdownSaveOptions()
 mdOptions.setFormatStrategy(CellValueFormatStrategy.CELL_STYLE)
 book.save("output.md", mdOptions);
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="แปลง JSON เป็น Excel & Excel เป็น JSON" %}}
-Python นักพัฒนาสามารถโหลดและแปลงไฟล์ JSON เป็น Excel ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด ในทำนองเดียวกัน ข้อมูล Excel ก็สามารถส่งออกไปยังข้อมูล JSON ได้
-{{% blocks/products/pf/feature-page-code h3="Python โค้ดสำหรับการแปลง JSON เป็น Excel" %}}
+{{% blocks/products/pf/feature-page-section h2="แปลง JSON เป็น Excel และ Excel เป็น JSON" %}}
+นักพัฒนา Python สามารถโหลดและแปลงไฟล์ JSON เป็น Excel ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด ในทำนองเดียวกัน ข้อมูล Excel สามารถส่งออกไปยังข้อมูล JSON
+{{% blocks/products/pf/feature-page-code h3="รหัส Python สำหรับการแปลง JSON เป็น Excel" %}}
 ```cs
-//โหลดไฟล์ json ต้นทางของคุณ
+//Load your source json file
 workbook = Workbook("Data.json")
-//บันทึกไฟล์เป็นรูปแบบ xlsx
+//save file to xlsx format
 workbook.save("output.xlsx")
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="Python โค้ดสำหรับการแปลง Excel เป็น JSON" %}}
+{{% blocks/products/pf/feature-page-code h3="Python รหัสสำหรับการแปลง Excel เป็น JSON" %}}
 ```cs
-//โหลดไฟล์ xlsx ต้นทางของคุณ
+//Load your source xlsx file
 workbook = Workbook("input.xlsx")
-//บันทึกไฟล์เป็นรูปแบบ json
+//save file to json format
 workbook.save("Data.json")
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -90,21 +85,20 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลงแผ่นงาน Excel เป็น JPG, BMP, PNG & GIF" %}}
-แต่ละแผ่นงานของไฟล์ Excel สามารถแปลงเป็นรูปแบบภาพต่างๆ ได้ call [ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions).setImageFormat เพื่อกำหนดรูปแบบภาพ 
-{{% blocks/products/pf/feature-page-code h3="Python โค้ดสำหรับ Excel เป็นการแปลงรูปภาพ" %}}
+ แต่ละแผ่นงานของไฟล์ Excel สามารถแปลงเป็นรูปแบบภาพต่างๆ โทร[ImageOrPrintOptions](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) .setImageFormat เพื่อกำหนดรูปแบบภาพ
+{{% blocks/products/pf/feature-page-code h3="Python รหัสสำหรับการแปลง Excel เป็นรูปภาพ" %}}
 ```cs
-// โหลดสเปรดชีตเทมเพลต
+// load template spreadsheet
 workbook = Workbook("template.xlsx")
-// สร้างและตั้งค่าอินสแตนซ์ของ ImageOrPrintOptions
+// create & set an instance of ImageOrPrintOptions
 options = ImageOrPrintOptions()
-// กำหนดรูปแบบภาพที่ส่งออก
+// set output image format
 options.setImageFormat(ImageFormat.getPng())
-// สร้าง SheetRender สำหรับแผ่นงานแรกในคอลเล็กชัน
+// create SheetRender for first worksheet in the collection
 sheet = workbook.getWorksheets().get(0)
 sr = SheetRender(sheet, options)
-// เรนเดอร์แผ่นงานเป็นรูปภาพ
+// render worksheet to image
 sr.toImage(0, "output.jpg")
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
@@ -112,20 +106,21 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น Word & PowerPoint" %}}
-สามารถโหลดสเปรดชีตใดก็ได้และแปลงเป็นไฟล์ Word DOCX และ PowerPoint PPTX ขณะใช้งาน [DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) ชั้นเรียนดังที่แสดงด้านล่าง
-{{% blocks/products/pf/feature-page-code h3="โค้ด Python สำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
+ เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) ชั้นเรียนที่แสดงด้านล่าง
+{{% blocks/products/pf/feature-page-code h3="รหัส Python สำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
-// โหลดไฟล์เทมเพลต
+// load the template file
 workbook = Workbook("template.xlsx")
 
-// บันทึกสเปรดชีตเป็น DOCX
+// save spreadsheet as DOCX
 docxOptions = DocxSaveOptions()
 workbook.save("output.docx", docxOptions)
 
-// บันทึกสเปรดชีตเป็น PPTX
+// save spreadsheet as PPTX
 pptxOptions = PptxSaveOptions()
 workbook.save("output.pptx", pptxOptions)
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}
+
+{{< blocks/products/pf/feature-page-options pairs="xls-to-pptx xlsx-to-pptx xlsb-to-pptx xlsm-to-pptx html-to-pptx mhtml-to-pptx ods-to-pptx tsv-to-pptx csv-to-pptx json-to-pptx numbers-to-pptx prn-to-pptx xlt-to-pptx xltx-to-pptx xltm-to-pptx ots-to-pptx sxc-to-pptx png-to-pptx jpg-to-pptx txt-to-pptx xls-to-docx xlsx-to-docx xlsb-to-docx xlsm-to-docx html-to-docx mhtml-to-docx ods-to-docx tsv-to-docx csv-to-docx json-to-docx numbers-to-docx prn-to-docx xlt-to-docx xltx-to-docx xltm-to-docx ots-to-docx sxc-to-docx png-to-docx jpg-to-docx txt-to-docx" >}}

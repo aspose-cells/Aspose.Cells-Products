@@ -1,11 +1,10 @@
 ---
-title: Tabulka Excel PHP API – Aspose 
+title:  Tabulka Excel PHP API – Aspose
 weight: 3660
-
-description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TSV HTML ODS SpreadsheetML a všechny formáty Excel 97-2016. Exportujte tabulky do více formátů
+description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV HTML ODS SpreadsheetML a všechny 0 formáty Excel 97-2. Exportujte tabulky do více formátů
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="PHP tabulka Excel API" h2="Provádějte úlohy manipulace s tabulkovým procesorem a exportujte soubory aplikace Excel do různých formátů bez jakýchkoli závislostí na aplikaci Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="PHP tabulka Excel API" h2="Provádějte úlohy manipulace s tabulkami a exportujte soubory Excel do více formátů bez jakýchkoli závislostí Excelu." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -13,7 +12,7 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells pro PHP prostřednictvím Java je škálovatelná a na funkce bohatá správa a zpracování tabulek aplikace Excel API. Aplikace mohou provádět konverzi formátu tabulek, správu a vykreslování grafů, implementaci vzorců, stylování listů na nejpodrobnější úroveň a mnoho dalšího. API podporuje formáty XLS, XLSX, ODS, SpreadsheetML, CSV, oddělené tabulátory, HTML/MHTML, PDF, XPS a další. Vývojáři mohou snadno přidat možnost vytvářet, upravovat, převádět a vykreslovat soubory Excel ve svých aplikacích PHP při použití JavaBridge.
+ Aspose.Cells for PHP via Java je škálovatelná a na funkce bohatá správa a zpracování tabulek Excelu API. Aplikace mohou provádět převod formátu tabulky, správu a vykreslování grafů, implementaci vzorců, stylování listů na nejpodrobnější úroveň a mnoho dalšího. API Podporuje XLS, XLSX, ODS, SpreadsheetML, CSV, Tab DeMilited, HTML/MHTML, XPS, a XPS, a XPS, a XPS, a XPS. Vývojáři mohou snadno přidat možnost vytvářet, upravovat, převádět a vykreslovat soubory Excel ve svých aplikacích PHP při použití JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Cells pro PHP prostřednictvím funkcí Java." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled schopností Aspose.Cells for PHP via Java." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Vykreslování
+ Vykreslování
    </header>
    <ul>
     <li>
-     Převést graf na obrázek
+ Převést graf na obrázek
     </li>
     <li>
-     Převést pracovní list na obrázek
+ Převést pracovní list na obrázek
     </li>
     <li>
-     Převést tabulku do PDF
+Převést tabulku na PDF
     </li>
    </ul>
   </div>
@@ -47,23 +46,23 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
    <header>
     <i class="fa fa-cogs">
     </i>
-    Zpracování dat
+ Zpracování dat
    </header>
    <ul>
     <li>
-     Grafy
+ Grafy
     </li>
     <li>
-     Výpočet vzorce
+ Výpočet vzorce
     </li>
     <li>
-     Chytré značky
+ Chytré značky
     </li>
     <li>
-     Kontingenční tabulky
+ Kontingenční tabulky
     </li>
     <li>
-     Podmíněné formátování
+ Podmíněné formátování
     </li>
    </ul>
    <!--
@@ -97,9 +96,9 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    PHP prostřednictvím Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -108,7 +107,7 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro PHP prostřednictvím Java vyžaduje PHP 7.1 (nebo vyšší) a JavaBridge. Může běžet na jakékoli platformě, kde lze tyto požadavky splnit." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for PHP via Java vyžaduje PHP 7.1 (nebo vyšší) a JavaBridge. Může běžet na jakékoli platformě, kde lze tyto požadavky splnit." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -118,19 +117,19 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
    <header>
     <i class="fa fa-cubes">
     </i>
-    Okna
+    Windows
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux
+ Linux
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Operační Systém Mac
+ Operační Systém Mac
    </header>
    <!--
 
@@ -155,9 +154,9 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    PHP prostřednictvím Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -166,37 +165,37 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells pro PHP prostřednictvím Java podporuje oblíbené formáty tabulek spolu s nejběžněji používanými formáty obrázků a formátů s pevným rozvržením." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells for PHP via Java podporuje oblíbené formáty tabulek spolu s nejběžněji používanými formáty obrázků a formátů s pevným rozvržením." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup výstup
+ Vstup výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, oddělený tabulátory, TXT
+ CSV, odděleno tabulátory, TXT
     </li>
     <li>
      <b>
-      web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -207,18 +206,18 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Snímky:
+ Snímky:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -235,9 +234,9 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    PHP prostřednictvím Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -256,7 +255,7 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce tabulky PHP API
+ Pokročilé funkce PHP Spreadsheet API
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -265,117 +264,117 @@ description: PHP Excel tabulka API pro čtení, zápis a převod XLS XLSX CSV TS
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Podpora CSV, oddělených tabulátory &amp; HTML formáty
+ Podpora pro CSV, oddělené tabulátory &amp; HTML formáty
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Načíst &amp; uložit ve formátu OpenDocument Spreadsheet (ODS).
+ Načíst &amp; uložit ve formátu OpenDocument Spreadsheet (ODS).
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářet, manipulovat &amp; vykreslování grafů
+ Vytvářet, manipulovat &amp; vykreslování grafů
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importujte vzorce z návrhářské tabulky
+ Importujte vzorce z návrhářské tabulky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nakonfigurujte nastavení stránky
+ Nakonfigurujte nastavení stránky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářejte a upravujte komentáře
+ Vytvářejte a upravujte komentáře
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavit automatické filtry &amp; konce stránek
+ Nastavit automatické filtry &amp; konce stránek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavit &amp; vypočítat složité vzorce
+ Nastavit &amp; vypočítat složité vzorce
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s pravidly podmíněného formátování
+ Vytvořit &amp; manipulovat s pravidly podmíněného formátování
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nastavte možnosti zabezpečení/ochrany
+ Nastavte možnosti zabezpečení/ochrany
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; manipulovat s pojmenovanými rozsahy
+ Vytvořit &amp; manipulovat s pojmenovanými rozsahy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vyplňte pracovní listy pomocí inteligentních značek
+ Vyplňte pracovní listy pomocí inteligentních značek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvářet, manipulovat &amp; aktualizovat kontingenční tabulky
+ Vytvářet, manipulovat &amp; aktualizovat kontingenční tabulky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportujte pracovní listy ve formátu SVG
+ Exportujte pracovní listy ve formátu SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit &amp; vykreslovat jiskry
+ Vytvořit &amp; vykreslovat jiskry
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Převod souborů aplikace Excel do formátu XPS, PDF &amp; HTML
+ Převést soubory Excel na XPS, PDF &amp; HTML
     </h2>
     <p>
-     Aspose.Cells pro PHP prostřednictvím Java API dokáže převádět soubory aplikace Excel do formátů XPS, XPS a HTML a zároveň si zachovat nejvyšší vizuální věrnost. Proces převodu je spolehlivý a vývojáři mohou získat požadovaný formát pomocí několika řádků.
+ Aspose.Cells for PHP via Java API dokáže převádět soubory Excelu do formátů XPS, XPS a HTML a zároveň zachovat nejvyšší vizuální věrnost. Proces převodu je spolehlivý a vývojáři mohou získat požadovaný formát pomocí několika řádků.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Uložit tabulku v několika formátech - PHP
+Uložit tabulku v několika formátech - PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -394,37 +393,37 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Render Excel Spreadsheets &amp; Objekty do PDF &amp; snímky
+ Render Excel Spreadsheets &amp; Objekty na PDF &amp; snímky
     </h2>
     <p>
-     Aspose.Cells pro PHP prostřednictvím Java má vlastní vykreslovací modul speciálně navržený pro vykreslování s nejvyšší věrností pro Microsoft Excel. Při používání Aspose.Cells pro PHP prostřednictvím Java můžete převádět celé tabulky, jednotlivé listy &amp; grafy k řadě obrázků &amp; formáty s pevným rozložením.
+ Aspose.Cells for PHP via Java má svůj vlastní renderovací engine speciálně navržený pro renderování s nejvyšší věrností Excelu Microsoft. Při používání Aspose.Cells for PHP via Java můžete převádět celé tabulky, jednotlivé listy &amp; grafy k řadě obrázků &amp; formáty s pevným rozložením.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibilní možnosti zobrazení listu
+ Flexibilní možnosti zobrazení listu
     </h2>
     <p>
-     Aspose.Cells pro PHP prostřednictvím Java vám poskytuje úplnou kontrolu nad nastavením stránky listu, což vám umožňuje manipulovat s možnostmi zobrazení listu aplikace Excel, jako jsou konce stránek, orientace stránky, změna měřítka, velikost papíru, záhlaví/zápatí &amp; úroveň přiblížení. Viditelnost dat můžete také ovládat pomocí panelů zmrazení &amp; oblast tisku, aby vyhovovala požadavkům vaší aplikace.
+ Aspose.Cells for PHP via Java vám poskytuje úplnou kontrolu nad nastavením stránky listu a umožňuje vám manipulovat s možnostmi zobrazení listu aplikace Excel, jako jsou konce stránek, orientace stránky, měřítko, velikost papíru, záhlaví/zápatí a úroveň přiblížení. Viditelnost dat můžete také ovládat pomocí panelů zmrazení &amp; oblast tisku, aby vyhovovala požadavkům vaší aplikace.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Efektivní, robustní & Spolehlivý motor pro výpočet vzorce
+ Efektivní, robustní & Spolehlivý motor pro výpočet vzorce
     </h2>
     <p>
-     Aspose.Cells pro PHP prostřednictvím Java je vybaven výkonným modulem pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce aplikace Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vzorců vestavěného nebo doplňkového typu, pole a R1C1.
+Aspose.Cells for PHP via Java je vybaven výkonným modulem pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vzorců vestavěného nebo doplňkového typu, pole a R1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vizualizujte data pomocí formátování, grafů &amp; Grafika
+ Vizualizujte data pomocí formátování, grafů &amp; Grafika
     </h2>
     <p>
-     Knihovna je tak flexibilní, že lze vybavit tabulky všemi druhy vizuálních efektů, stejně jako lze použít formátování na list, řádek, sloupec nebo buňku, nastavit písma s atributy, definovat styl buněk &amp; číselné formáty, přidejte formátovaný text a definujte pravidla podmíněného formátování.
+ Knihovna je tak flexibilní, že lze vybavit tabulky všemi druhy vizuálních efektů, stejně jako lze použít formátování na list, řádek, sloupec nebo buňku, nastavit písma s atributy, definovat styl buněk &amp; číselné formáty, přidejte formátovaný text a definujte pravidla podmíněného formátování.
     </p>
     <p>
-     Podobně pro profesionální vzhled a snadnou srozumitelnost jsou nedílnou součástí grafy a grafika. Aspose.Cells pro PHP prostřednictvím rozhraní API Java může vytvářet a manipulovat se všemi typy standardních a vlastních grafů. Kromě toho lze do buněk snadno přidávat různé typy nakreslených objektů.
+ Podobně pro profesionální vzhled a snadnou srozumitelnost jsou nedílnou součástí grafy a grafika. Aspose.Cells for PHP via Java Rozhraní API mohou vytvářet a manipulovat se všemi typy standardních a vlastních grafů. Kromě toho lze do buněk snadno přidávat různé typy nakreslených objektů.
     </p>
    </div>
   </div>
@@ -444,12 +443,12 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro PHP prostřednictvím Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -458,7 +457,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/php" pricingInformationLink="https://purchase.aspose.com/pricing/cells/php-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

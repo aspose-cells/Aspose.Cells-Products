@@ -1,6 +1,5 @@
 ---
-title: Afficher les formats de fichiers MHT via .NET 
-
+title:  Afficher les formats de fichier MHT via .NET
 description: C# code source pour charger, restituer et afficher des documents MHT sur .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,14 +10,13 @@ description: C# code source pour charger, restituer et afficher des documents MH
 
 {{% blocks/products/pf/agp/content h2="Comment afficher le fichier MHT à l\'aide de C#" %}}
 
-Pour afficher le fichier MHT, nous utiliserons <a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API qui est une plate-forme riche en fonctionnalités, puissante et facile à utiliser API pour C# à utiliser avec n'importe quelle visionneuse. Ouvrir <a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestionnaire de paquets, recherchez <b>Aspose.Cells</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ Pour afficher le fichier MHT, nous utiliserons<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API qui est une plate-forme API riche en fonctionnalités, puissante et facile à utiliser pour C# à utiliser avec n'importe quelle visionneuse. Ouvrir<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> gestionnaire de paquets, recherchez<b>Aspose.Cells</b> et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -32,11 +30,15 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells permet aux développeurs d'afficher facilement le fichier MHT avec seulement quelques lignes de code.
+ Aspose.Cells permet aux développeurs de visualiser facilement le fichier MHT avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Charger le fichier MHT dans une instance de Workbook1. Créez une instance de HtmlSaveOptions et définissez la propriété ExportHeadings sur true1. Enregistrez le fichier MHT au format HTML à l'aide de la méthode Workbook.Save1. Charger le HTML résultant dans le navigateur par défaut avec Process.Start
+1. Charger le fichier MHT dans une instance de Workbook
+1. Créez une instance de HtmlSaveOptions et définissez la propriété ExportHeadings sur true
+1. Enregistrez le fichier MHT au format HTML à l'aide de la méthode Workbook.Save
+1. Charger le résultat HTML dans le navigateur par défaut avec Process.Start
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +50,10 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms- Environnement de développement comme Microsoft Visual Studio- Aspose.Cells for .NET référencé dans votre projet
+-  Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms
+-  Environnement de développement comme Microsoft Visual Studio
+-  Ajouter une référence à la DLL Aspose.Cells for .NET dans votre projet
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# exemple de code pour afficher le fichier MHT" offSpacer="" %}}
@@ -58,17 +63,16 @@ PM> Install-Package Aspose.Cells
 
 string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
 
-// charger le fichier MHT dans une instance de Workbook
+// load the MHT file in an instance of Workbook
 var book = new Aspose.Cells.Workbook("template.mht");
-// créer une instance de HtmlSaveOptions et définir la propriété ExportHeadings sur true
+// create an instance of HtmlSaveOptions & set ExportHeadings property to true
 var options = new Aspose.Cells.HtmlSaveOptions();
 options.ExportHeadings = true;
 
-// enregistrer le fichier MHT au format HTML
+// save the MHT file in HTML format
 book.Save(output, options);
-// charger le HTML résultant dans le navigateur par défaut
+// load resultant HTML in default browser
 System.Diagnostics.Process.Start(output);
-
 
 ```
 
@@ -83,7 +87,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.    
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -91,14 +95,14 @@ Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restitu
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour voir MHT" sectionDescription="Consultez nos démos en direct pour [Voir MHT](https://products.aspose.app/cells/viewer/mht) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour voir MHT" sectionDescription=" Consultez nos démos en direct pour[Voir MHT](https://products.aspose.app/cells/viewer/mht) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Téléchargez simplement le fichier MHT et appuyez sur le bouton \"Afficher\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier MHT à partir du lien, si nécessaire" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, des styles de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML dans un seul fichier d'archive pour le stockage lors de l'archivage sur des périphériques de stockage. Les applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explore et Google Chrome.
+Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, des styles de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML en un seul fichier d'archive pour le stockage lors de l'archivage sur des périphériques de stockage. Des applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explorer et Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

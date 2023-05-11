@@ -1,11 +1,10 @@
 ---
-title: Java Excel API - Aspose 
+title:  Java Excel API - Aspose
 weight: 6830
-
-description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kết xuất và chuyển đổi XLS XLSX XLSM ODS CSV TSV và nhiều định dạng khác. Tương thích với Windows Linux & Unix
+description: Java Thư viện excel xử lý bảng tính. Đọc viết kết xuất và chuyển đổi XLS XLSX XLSM ODS CSV TSV và nhiều định dạng khác. Tương thích với Windows Linux & Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Xử lý Bảng tính Excel API" h2="Tạo, thao tác, chuyển đổi, bảo vệ hoặc in bảng tính mà không cần dựa vào Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Xử lý bảng tính Excel API" h2="Tạo, thao tác, chuyển đổi, bảo vệ hoặc in bảng tính mà không cần dựa vào Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -13,11 +12,11 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java là một công cụ Xử lý Bảng tính Excel từng đoạt giải thưởng API cho phép các nhà phát triển nhúng chức năng đọc, viết, thao tác, chuyển đổi & amp; in bảng tính trong các ứng dụng của riêng họ mà không cần ứng dụng Microsoft Excel.
+ Aspose.Cells for Java là một Xử lý bảng tính Excel đã giành giải thưởng API cho phép các nhà phát triển nhúng chức năng đọc, viết, thao tác, chuyển đổi &amp; in bảng tính trong các ứng dụng của riêng họ mà không cần Microsoft ứng dụng Excel.
 </p>
 
 <p>
- Aspose.Cells for Java là một thư viện hoàn thiện và giàu tính năng, cung cấp nhiều chức năng vượt xa khả năng xuất dữ liệu đơn giản của các thành phần khác có sẵn trên thị trường. API cung cấp khả năng xuất dữ liệu, định dạng bảng tính ở mức chi tiết nhất, nhập & amp; xuất hình ảnh, tạo biểu đồ & amp; Bảng tổng hợp, áp dụng & amp; tính toán các công thức phức tạp bằng cách sử dụng công cụ tính toán công thức, truyền dữ liệu Excel & amp; lưu kết quả ở nhiều định dạng khác nhau.
+Aspose.Cells for Java là một thư viện trưởng thành và giàu tính năng, cung cấp nhiều chức năng vượt xa khả năng xuất dữ liệu đơn giản của các thành phần khác hiện có trên thị trường. API cung cấp khả năng xuất dữ liệu, định dạng bảng tính ở mức chi tiết nhất, nhập &amp; xuất hình ảnh, tạo biểu đồ &amp; Bảng Pivot, áp dụng &amp; tính toán các công thức phức tạp bằng cách sử dụng công cụ tính toán công thức, truyền dữ liệu Excel &amp; lưu kết quả ở các định dạng khác nhau.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,49 +24,49 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan chung." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Một tổng quan chung." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Kết xuất
+ kết xuất
    </header>
    <ul>
     <li>
-     Biểu đồ thành hình ảnh
+ Biểu đồ thành hình ảnh
     </li>
     <li>
-     Trang tính thành hình ảnh
+ Trang tính thành hình ảnh
     </li>
     <li>
-     Bảng tính sang PDF
+ Bảng kê tới PDF
     </li>
     <li>
-     In ấn
+ in ấn
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Xử lí dữ liệu
+ Xử lí dữ liệu
    </header>
    <ul>
     <li>
-     Áp dụng định dạng
+ Áp dụng định dạng
     </li>
     <li>
-     Tạo biểu đồ
+ Tạo biểu đồ
     </li>
     <li>
-     Áp dụng công thức
+ Áp dụng công thức
     </li>
     <li>
-     Tóm tắt
+ tóm tắt
     </li>
     <li>
-     Điểm đánh dấu thông minh
+ Điểm đánh dấu thông minh
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
    <header>
     <i class="fa fa-table">
     </i>
-    Kiểm soát GridWeb
+ Lưới Kiểm SoátWeb
    </header>
    <ul>
     <li>
-     Hỗ trợ ứng dụng web JSP
+ Hỗ trợ ứng dụng web JSP
     </li>
     <li>
-     Tải tệp Excel
+ Tải tệp Excel
     </li>
     <li>
-     Lưu tài liệu Excel
+ Lưu tài liệu Excel
     </li>
     <li>
-     Cung cấp khả năng chỉnh sửa
+ Cung cấp khả năng chỉnh sửa
     </li>
     <li>
-     Tương thích với các trình duyệt hiện đại
+ Tương thích với các trình duyệt hiện đại
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     Java
    </small>
@@ -118,7 +117,7 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Các ứng dụng dựa trên for Java thư viện được phát triển trên các nền tảng Windows Unix / Linux và Mac." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Các ứng dụng dựa trên thư viện for Java được phát triển trên nền tảng Unix/Linux và Mac Windows." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,14 +127,14 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Môi trường thời gian chạy
+ Java Môi trường thời gian chạy
    </header>
    <ul>
     <li>
-     Ứng dụng JSP / JSF
+ Ứng dụng JSP/JSF
     </li>
     <li>
-     Ứng dụng máy tính để bàn
+ Ứng dụng máy tính để bàn
     </li>
    </ul>
   </div>
@@ -150,7 +149,7 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     Java
    </small>
@@ -161,45 +160,45 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.Cells for Java hỗ trợ các định dạng bảng tính phổ biến, hình ảnh thường được sử dụng, bố cục cố định và [nhiều định dạng hơn](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for Java hỗ trợ các định dạng bảng tính phổ biến, hình ảnh thường dùng, bố cục cố định và[nhiều định dạng hơn](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
-     XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Mở văn phòng:
+ Mở văn phòng:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Web:
+ mạng:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Các con số:
+      Numbers:
      </b>
-     Tài liệu ứng dụng Numbers của bộ ứng dụng iWork của Apple
+ Tài liệu ứng dụng bộ ứng dụng văn phòng iWork của Apple Numbers
     </li>
     <li>
      SXC, FODS
@@ -211,29 +210,29 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
-     PDF, PDF / A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Trao đổi dữ liệu:
+ Trao đổi dữ liệu:
      </b>
      DIF
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
     <li>
-     ĐÁNH DẤU
+     MARKDOWN
     </li>
    </ul>
   </div>
@@ -248,7 +247,7 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
     Java
    </small>
@@ -269,7 +268,7 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Hỗ trợ Thư viện Excel Java Nâng cao
+ Nâng cao Java Hỗ trợ Thư viện Excel
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -278,117 +277,117 @@ description: Java Thư viện Excel để xử lý bảng tính. Đọc ghi kế
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nhập và xuất dữ liệu từ ArrayList, Array & amp; Bộ ghi âm
+ Nhập và xuất dữ liệu từ ArrayList, Array &amp; Bộ ghi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo biểu đồ & amp; thao tác thông qua các API
+ Tạo biểu đồ &amp; thao tác thông qua các API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Nhập công thức từ bảng tính của nhà thiết kế
+ Nhập công thức từ bảng tính thiết kế
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo và điều khiển Dải ô được đặt tên
+ Tạo và thao tác Phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     In bảng tính ra máy in vật lý
+ In bảng tính ra máy in vật lý
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Điền trang tính thông qua Bút đánh dấu thông minh
+ Điền vào bảng tính thông qua Smart Markers
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác bình luận
+ Tạo &amp; thao túng bình luận
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đặt & amp; tính toán Excel & amp; công thức tùy chỉnh
+ Đặt &amp; tính toán Excel &amp; công thức tùy chỉnh
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao tác các quy tắc định dạng có điều kiện
+ Tạo &amp; thao tác quy tắc định dạng có điều kiện
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo & amp; thao túng các phạm vi được đặt tên
+ Tạo &amp; thao tác các phạm vi được đặt tên
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo, thao tác & amp; làm mới Bảng Pivot & amp; Biểu đồ tổng hợp
+ Tạo, thao tác &amp; làm mới Bảng tổng hợp &amp; Biểu đồ xoay
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kết xuất biểu đồ & amp; trang tính
+ Kết xuất biểu đồ &amp; bảng tính
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc và ghi các tệp lớn ở chế độ dung lượng nhẹ
+ Đọc và ghi các tệp lớn ở chế độ nhẹ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lấy mẫu lại hình ảnh trong Excel để chuyển đổi PDF
+Lấy mẫu lại hình ảnh trong Excel thành chuyển đổi PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sửa đổi mã VBA hoặc Macro trong tài liệu mẫu
+ Sửa đổi mã VBA hoặc Macro trong tài liệu mẫu
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Lưu tệp Excel vào các định dạng khác nhau
+ Lưu tệp Excel sang các định dạng khác nhau
     </h2>
     <p>
-     Excel API cung cấp khả năng chuyển đổi bảng tính sang PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ độ trung thực hình ảnh cao nhất. Quy trình chuyển đổi linh hoạt và đáng tin cậy làm cho Aspose.Cells trở thành lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp trong các định dạng tiêu chuẩn của ngành.
+ Excel API cung cấp khả năng chuyển đổi bảng tính thành PDF, XPS, HTML và nhiều định dạng khác trong khi vẫn giữ được độ trung thực hình ảnh cao nhất. Quy trình chuyển đổi linh hoạt và đáng tin cậy làm cho Aspose.Cells trở thành lựa chọn hoàn hảo cho các tổ chức chủ yếu trao đổi tệp ở các định dạng tiêu chuẩn ngành.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Chuyển đổi bảng tính ở nhiều định dạng - Java
+ Chuyển đổi bảng tính nhiều định dạng - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -405,10 +404,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Định dạng trang tính thành cấp độ chi tiết nhất
+ Định dạng trang tính ở mức chi tiết nhất
     </h2>
     <p>
-     Thư viện cung cấp kiểu bảng tính bao gồm nhưng không giới hạn ở định dạng trang tính ở cấp độ hàng, cột và ô, thêm các quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ với các thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh cũng như các đối tượng vẽ khác nhau như đối tượng OLE, hình ảnh, nhận xét, hình dạng và điều khiển cho các ô.
+Thư viện cung cấp kiểu dáng bảng tính bao gồm nhưng không giới hạn ở định dạng trang tính ở cấp hàng, cột và ô, thêm quy tắc định dạng có điều kiện, xác định định dạng số và đặt phông chữ có thuộc tính. Tương tự, API hỗ trợ thao tác và tạo tất cả các loại biểu đồ tiêu chuẩn và tùy chỉnh cũng như các đối tượng vẽ khác nhau như đối tượng OLE, ảnh, nhận xét, hình dạng và điều khiển cho các ô.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +419,14 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi Biểu đồ & amp; Trang tính đến Hình ảnh & amp; Định dạng PDF
+ Chuyển đổi Biểu đồ &amp; Trang tính thành Hình ảnh &amp; PDF Định dạng
     </h2>
     <p>
-     Aspose.Cells for Java cung cấp các tính năng chuyển đổi đặc biệt như biểu đồ sang hình ảnh và PDF, trang tính sang hình ảnh, in trang tính và chuyển đổi bảng tính sang định dạng tệp PDF. Quá trình chuyển đổi rất linh hoạt và dễ dàng, cho phép chọn một số cách để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong quá trình chuyển đổi bảng tính sang PDF hoặc điều chỉnh kích thước hình ảnh kết quả trong khi hiển thị trang tính và biểu đồ thành hình ảnh.
+ Aspose.Cells for Java cung cấp các tính năng chuyển đổi đặc biệt như biểu đồ thành hình ảnh và PDF, trang tính thành hình ảnh, in trang tính và chuyển đổi bảng tính sang định dạng tệp PDF. Quá trình chuyển đổi rất linh hoạt và dễ dàng, cho phép chọn một số cách để chuyển đổi, chẳng hạn như lấy mẫu lại hình ảnh trong quá trình chuyển đổi bảng tính sang PDF hoặc điều chỉnh kích thước hình ảnh kết quả trong khi hiển thị trang tính và biểu đồ thành hình ảnh.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Kết xuất biểu đồ Excel dưới dạng hình ảnh & amp; PDF - Java
+Kết xuất biểu đồ Excel dưới dạng hình ảnh &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -448,18 +447,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Thao tác hàng Excel & amp; Cột
+ Thao tác với Hàng &amp; Cột
     </h2>
     <p>
-     Aspose.Cells for Java cho phép bạn sửa đổi các hàng và cột theo nhiều cách khác nhau. Người ta có thể dễ dàng điều chỉnh chiều rộng cột và chiều cao hàng, tự động điều chỉnh kích thước chiều rộng / chiều cao của ô như nội dung, chèn & amp; xóa, ẩn & amp; bỏ ẩn cũng như nhóm & amp; bỏ nhóm các hàng và cột.
+ Aspose.Cells for Java cho phép bạn sửa đổi các hàng và cột theo nhiều cách khác nhau. Người ta có thể dễ dàng điều chỉnh chiều rộng cột và chiều cao hàng, tự động định cỡ chiều rộng/chiều cao của ô theo nội dung, chèn &amp; xóa, ẩn &amp; bỏ ẩn cũng như nhóm &amp; bỏ nhóm hàng và cột.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tóm tắt Dữ liệu bằng Biểu đồ & amp; Bảng tổng hợp
+ Tóm tắt dữ liệu bằng Biểu đồ &amp; Bảng tổng hợp
     </h2>
     <p>
-     Có thể khó có được thông tin tóm tắt với các bảng tính rất lớn. Có một Bảng Pivot để nhanh chóng mô tả dữ liệu phẳng và để có được thông tin liên quan theo nhu cầu. API tạo động các Bảng và Biểu đồ Tổng hợp. Có thể tự động thay đổi dữ liệu nguồn Pivot Table. Hơn nữa, Smart Markers, một tính năng hàng đầu khác của thư viện này để điền vào các trang tính thông qua các nguồn dữ liệu và để tạo các báo cáo trực quan hiệu quả.
+ Có thể khó có được thông tin tóm tắt với các bảng tính rất lớn. Bảng Pivot có sẵn để nhanh chóng mô tả dữ liệu phẳng và để có được thông tin liên quan theo nhu cầu. API tự động tạo Bảng tổng hợp và Biểu đồ. Có thể tự động thay đổi dữ liệu nguồn Pivot Table. Ngoài ra, Smart Markers, một tính năng hàng đầu khác của thư viện này để điền vào các trang tính thông qua các nguồn dữ liệu và để tạo các báo cáo trực quan hiệu quả.
     </p>
    </div>
    <!--
@@ -485,10 +484,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kiểm soát trực quan dựa trên web cho bảng tính
+ Kiểm soát trực quan dựa trên web cho bảng tính
     </h2>
     <p>
-     Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùng có thể được nhúng trong các ứng dụng web JSP và tương thích với tất cả các trình duyệt web hiện đại như Chrome, Firefox, Internet Explorer và Opera. Người dùng cuối có thể sử dụng nó để tải, chỉnh sửa và lưu các tệp Excel từ giao diện người dùng của ứng dụng web của bạn.
+Aspose.Cells for Java cũng cung cấp điều khiển giao diện người dùng có thể được nhúng trong các ứng dụng web JSP và tương thích với tất cả các trình duyệt web hiện đại như Chrome, Firefox, Internet Explorer và Opera. Người dùng cuối có thể sử dụng nó để tải, chỉnh sửa và lưu các tệp Excel từ giao diện người dùng của ứng dụng web của bạn.
     </p>
    </div>
   </div>
@@ -498,22 +497,22 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ lấy lời của chúng tôi cho nó. Xem người dùng nói gì về API bảng tính." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Mọi người đang nói gì" subTitle="Đừng chỉ nhận lời của chúng tôi cho nó. Xem người dùng nói gì về API bảng tính." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Chúng tôi khuyên bạn nên sử dụng Aspose.cells for Java vì nó dễ triển khai và API đơn giản để hiểu và rất thông thạo.
+ Chúng tôi khuyên bạn nên sử dụng Aspose.cells for Java vì nó dễ thực hiện và API rất dễ hiểu và rất trôi chảy.
  <em>
-  Pierre-Eric Oudin | Advizeo của Setec, Pháp
+ Pierre-Eric Oudin | Advizeo của Setec, Pháp
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Trải nghiệm chung của chúng tôi với các sản phẩm Aspose rất tích cực. Thành phần này đã tăng giá trị kinh doanh cho sản phẩm CNTT Xpand - Xporter Plugin cho JIRA, cho phép chúng tôi phát triển giải pháp tham chiếu để xuất dữ liệu.
+ Trải nghiệm tổng thể của chúng tôi với các sản phẩm Aspose là rất tích cực. Thành phần này đã tăng giá trị kinh doanh cho sản phẩm Xpand IT - Xporter Plugin cho JIRA, cho phép chúng tôi phát triển một giải pháp tham khảo để xuất dữ liệu.
  <em>
-  Paulo Lopes | Xpand IT, Vương quốc Anh
+ Paulo Lopes | Xpand IT, Vương quốc Anh
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -524,19 +523,19 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://reference.aspose.com/cells/java" >}}
+{{< blocks/products/pf/slr-element name="API Tham khảo" href="https://reference.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là Aspose.Cells for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

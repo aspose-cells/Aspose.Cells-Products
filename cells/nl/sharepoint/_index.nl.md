@@ -1,8 +1,7 @@
 ---
-title: SharePoint Excel Spreadsheet Converter-app - Aspose 
+title:  SharePoint Excel Spreadsheet Converter-app - Aspose
 weight: 940
-
-description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadsheet-converter. Export XLS XLSX XML CSV PDF ODS &amp; HTML-indelingen in MOSS WSS
+description: Aspose.Cells for SharePoint App is een SharePoint Excel Spreadsheet-converter. Exporteren XLS XLSX XML CSV PDF ODS &amp; HTML-indelingen in MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SharePoint-app om Excel-spreadsheets te converteren" h2="Converteer Excel-spreadsheets naar meer dan 8 bestandsindelingen rechtstreeks vanuit de SharePoint-documentbibliotheek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -13,7 +12,7 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells voor SharePoint is een flexibele app voor het converteren van Excel-spreadsheets. Het kan documenten converteren tussen veel populaire Microsoft Excel-indelingen vanuit een SharePoint-documentbibliotheek zonder Microsoft Excel-afhankelijkheden. Het ondersteunt meerdere documentindelingen die niet zijn opgenomen in de native ondersteuning voor bestandsindelingen van SharePoint.
+ Aspose.Cells for SharePoint is een flexibele Excel-spreadsheetconversie-app. Het kan documenten converteren tussen vele populaire Microsoft Excel-indelingen vanuit een SharePoint-documentbibliotheek zonder Microsoft Excel-afhankelijkheden. Het ondersteunt meerdere documentindelingen die niet zijn opgenomen in de native ondersteuning voor bestandsindelingen van SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van Aspose.Cells voor SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Makkelijke installatie
+ Makkelijke installatie
    </header>
    <ul>
     <li>
-     SharePoint WSP-bestand
+ SharePoint WSP-bestand
     </li>
     <li>
-     Activeer op de hele boerderij
+ Activeer Across Farm
     </li>
     <li>
-     Deactiveren Across Farm
+ Schakel Across Farm uit
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
    <header>
     <i class="fa fa-file-o">
     </i>
-    Conversie-opties
+ Conversie-opties
    </header>
    <ul>
     <li>
-     Opslaan in submappen
+ Opslaan in submappen
     </li>
     <li>
-     Bestandsaaneenschakeling
+ Aaneenschakeling van bestanden
     </li>
     <li>
-     Bestaande bestanden overschrijven
+ Bestaande bestanden overschrijven
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
-    Deel punt
+ Deel punt
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Cells voor SharePoint ondersteunt Windows SharePoint Services, SharePoint Foundation en Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Cells for SharePoint ondersteunt Windows SharePoint Services, SharePoint Foundation en Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint-server
+ SharePoint-server
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Windows SharePoint-services
+ Windows SharePoint-services
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Foundation
+ SharePoint-stichting
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
-    Deel punt
+ Deel punt
    </small>
   </footer>
  </div>
@@ -155,19 +154,19 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Cells voor SharePoint ondersteunt veel populaire spreadsheet-indelingen, PDF, HTML en andere [bestandsformaten](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Cells for SharePoint ondersteunt veel populaire spreadsheetformaten, PDF, HTML en andere[bestandsformaten](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Invoer uitvoer
+ Invoer uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
@@ -179,19 +178,19 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
     </li>
     <li>
      <b>
-      Open kantoor:
+ Open kantoor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
-     CSV, TSV, door tabs gescheiden, TXT
+ CSV, TSV, door tabs gescheiden, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen uitvoer
+ Alleen uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Vaste indeling:
+ Vaste indeling:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Afbeeldingen:
+ Afbeeldingen:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
-    Deel punt
+ Deel punt
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Converteer Excel-spreadsheets naar verschillende formaten
+ Converteer Excel-spreadsheets naar verschillende indelingen
     </h2>
     <p>
-     Met Aspose.Cells voor SharePoint kunnen spreadsheets worden geconverteerd naar veel populaire document- en afbeeldingsindelingen vanuit de SharePoint-documentbibliotheek. Aspose.Cells voor SharePoint ondersteunt momenteel de meeste spreadsheetformaten samen met CSV &amp; XML als invoer, en kan exporteren naar spreadsheetformaten, evenals CSV, HTML, ODS, PDF, XML &amp; beeld formaten.
+ Met Aspose.Cells for SharePoint kunnen spreadsheets worden geconverteerd naar veel populaire document- en afbeeldingsindelingen vanuit de SharePoint-documentbibliotheek. Aspose.Cells for SharePoint ondersteunt momenteel de meeste spreadsheetformaten samen met CSV &amp; XML als invoer, en kan exporteren naar spreadsheetformaten evenals CSV, HTML, ODS, PDF, XML &amp; afbeelding formaten.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bestanden samenvoegen tijdens conversie
+ Voeg bestanden samen tijdens conversie
     </h2>
     <p>
-     Aspose.Cells voor SharePoint biedt de mogelijkheid om bestanden met verschillende indelingen te combineren in één enkel document. Bovendien kunt u documenten in de lijst ook omhoog of omlaag verplaatsen om de volgorde in te stellen waarin u de documenten wilt combineren.
+ Aspose.Cells for SharePoint biedt de mogelijkheid om bestanden met verschillende formaten te combineren tot één enkel document. Bovendien kunt u documenten in de lijst omhoog of omlaag verplaatsen om de volgorde in te stellen waarin u de documenten wilt combineren.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bestanden in submappen converteren
+ Converteer bestanden in submappen
     </h2>
     <p>
-     Aspose.Cells voor SharePoint maakt het conversieproces eenvoudiger door recursief alle documenten en submappen onder een geselecteerde map te converteren. De bestaande submapstructuur wordt gemaakt in de doelmap.
+Aspose.Cells for SharePoint maakt het conversieproces eenvoudiger door alle documenten en submappen onder een geselecteerde map recursief te converteren. De bestaande submapstructuur wordt gemaakt in de doelmap.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Bestaande bestanden overschrijven
+ Bestaande bestanden overschrijven
     </h2>
     <p>
-     Als de doelmap al bestanden bevat met dezelfde namen als degene die u wilt converteren, kunt u met Aspose.Cells voor SharePoint bestaande bestanden overschrijven of u kunt gewoon een optie selecteren die de app instrueert om de verwerking van bestanden die al in de doelmap.
+ Als de bestemmingsmap al bestanden bevat met dezelfde namen als degene die u wilt converteren, kunt u met Aspose.Cells for SharePoint bestaande bestanden overschrijven of u kunt eenvoudig een optie selecteren die de app instrueert om verwerkingsbestanden over te slaan die al in de bestemmingsmap staan .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Interactie met openbaar API
+ Interactie met openbaar API
     </h2>
     <p>
-     Voor ontwikkelaars die interne SharePoint-oplossingen hebben, kunnen ze Aspose.Cells for SharePoint's documentconversie-engine gebruiken via de openbare API. Het biedt programmatische toegang tot alle ondersteunde formaten en conversie-opties.
+ Ontwikkelaars met interne SharePoint-oplossingen kunnen de documentconversie-engine van Aspose.Cells for SharePoint gebruiken via de openbare API. Het biedt programmatische toegang tot alle ondersteunde formaten en conversie-opties.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Excel-automatisering – niet nodig
+ Microsoft Excel-automatisering - niet nodig
     </h2>
     <p>
-     Aspose.Cells voor SharePoint is gebouwd met beheerde code waarvoor Microsoft Excel nooit op de computer hoeft te worden geïnstalleerd om te werken met conversie van Excel-indeling. Het is een perfect alternatief voor Microsoft Excel-automatisering in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
+Aspose.Cells for SharePoint is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Excel op de machine hoeft te worden geïnstalleerd om te werken met conversie van Excel-indeling. Het is een perfect Microsoft Excel-automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>
@@ -308,20 +307,20 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/sharepoint/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo\'s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells voor SharePoint?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -329,7 +328,7 @@ description: Aspose.Cells voor SharePoint App is een SharePoint Excel Spreadshee
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/cells/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt afzonderlijke Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,11 +1,10 @@
 ---
-title: Export sestav v Excelu XLS XLSX PDF ODS v JasperReports a JasperServer 
+title: Export sestav v Excelu XLS XLSX PDF ODS v JasperReports a JasperServer
 weight: 9460
-
-description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS XLSX PDF ODS TXT a SpreadsheetML. Také tiskněte sestavy jako tabulky aplikace Excel
+description: Exportujte sestavy z Jasper Reports a JasperServer ve formátu Excel XLS XLSX PDF ODS TXT a SpreadsheetML. Také tiskněte sestavy jako tabulky aplikace Excel
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozšíření JasperReports pro export sestav ve formátu Excel" h2="Export sestav do tabulky Microsoft Excel ve více formátech." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozšíření JasperReports pro export sestav ve formátu Excel" h2="Export sestav do více formátů tabulky Excel Microsoft." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -13,7 +12,7 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports je spolehlivé rozšíření JasperReports a JasperServer, které nabízí export sestav ve formátech Microsoft Excel XLS, XLSX, PDF, ODS, TXT a SpreadsheetML bez použití aplikace Microsoft Excel. Funguje jako alternativa k původnímu exportéru Microsoft Excel od JasperReports a také eliminuje závislost na knihovně POI.
+ Aspose.Cells for JasperReports je spolehlivé rozšíření JasperReports a JasperServer, které nabízí export sestav ve formátu Microsoft Excel XLS, XLSX, PDF, ODS a ODS a 383 0717 pomocí formátu 176163481, 0717 6193481 Excel. Funguje jako alternativa k původnímu exportéru Excel Microsoft od JasperReports a také eliminuje závislost na knihovně POI.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,20 +20,20 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled funkcí Aspose.Cells pro JasperReports." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled funkcí Aspose.Cells for JasperReports\'." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cog">
     </i>
-    Lehké nasazení
+ Lehké nasazení
    </header>
    <br/>
    <header>
     <i class="fa fa-table">
     </i>
-    Vysoká věrnost návrhu sestavy
+ Vysoká věrnost návrhu sestavy
    </header>
   </div>
   <!--/left-->
@@ -42,13 +41,13 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    Editovatelné grafy
+ Editovatelné grafy
    </header>
    <br/>
    <header>
     <i class="fa fa-share">
     </i>
-    Export do formátů Excel
+ Export do formátů Excel
    </header>
   </div>
   <!--/right-->
@@ -62,9 +61,9 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    JasperReports
+ JasperReports
    </small>
   </footer>
  </div>
@@ -73,7 +72,7 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells pro JasperReports podporuje J2SE, JasperReports a JasperServer." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Cells for JasperReports podporuje J2SE, JasperReports a JasperServer." >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -83,13 +82,13 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    J2SE 1.6 nebo vyšší
+ J2SE 1.6 nebo vyšší
    </header>
    <br/>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    JasperReports 6.3.0 nebo vyšší
+ JasperReports 6.3.0 nebo vyšší
    </header>
   </div>
   <!--/right-->
@@ -103,9 +102,9 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    JasperReports
+ JasperReports
    </small>
   </footer>
  </div>
@@ -114,7 +113,7 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Cells pro JasperReports umožňuje exportovat přehledy přímo do [následující formáty](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description=" Aspose.Cells for JasperReports umožňuje exportovat sestavy přímo do[následující formáty](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -124,38 +123,38 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Pouze výstup
+ Pouze výstup
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      TabulkaML:
+      SpreadsheetML:
      </b>
      XML
     </li>
     <li>
      <b>
-      Pevné rozvržení:
+ Pevné rozvržení:
      </b>
      PDF
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
-     CSV, TSV, oddělené tabulátory
+ CSV, TSV, odděleno tabulátory
     </li>
    </ul>
   </div>
@@ -170,9 +169,9 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
   <footer>
    <small>
     <em>
-     pro
+ pro
     </em>
-    JasperReports
+ JasperReports
    </small>
   </footer>
  </div>
@@ -191,7 +190,7 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Pokročilé funkce exportu JasperReports do Excelu
+ Pokročilé funkce exportu JasperReports do Excelu
    </h2>
    <p>
    </p>
@@ -199,53 +198,53 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Generujte sestavy jako soubory Microsoft Excel
+ Generujte sestavy jako Microsoft soubory Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tisk sestav jako tabulky
+ Tisk sestav jako tabulky
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportujte soubory Excel jako upravitelné tabulky
+ Exportujte soubory Excel jako upravitelné tabulky
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Export sestav do formátů Microsoft Excel
+ Export sestav do Microsoft formátů Excel
     </h2>
     <p>
-     Aspose.Cells pro JasperReports poskytuje funkci exportu sestav přímo do formátů Microsoft Excel, jako jsou XLS &amp; XLSX. Kromě toho můžete také exportovat sestavy ve formátu SpreadsheetML, ODS, CSV &amp; Formáty oddělené tabulátory, aby vyhovovaly vašim obchodním požadavkům.
+ Aspose.Cells for JasperReports poskytuje funkci exportu sestav přímo do formátů Microsoft Excel, jako jsou XLS &amp; XLSX. Kromě toho můžete také exportovat sestavy na SpreadsheetML, ODS, CSV &amp; Formáty oddělené tabulátory, aby vyhovovaly vašim obchodním požadavkům.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vysoká věrnost návrhu sestavy
+ Vysoká věrnost návrhu sestavy
     </h2>
     <p>
-     Aspose.Cells pro JasperReports exportuje sestavy do podporovaných formátů s nejvyšší přesností, tzn. Zdá se, že identické zprávy exportované nativními exportními funkcemi JasperReports.
+Aspose.Cells for JasperReports export sestav do podporovaných formátů s nejvyšší přesností, tzn. Zdá se, že identické zprávy exportované nativními exportními funkcemi JasperReports.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Editovatelné tabulky Excel
+ Editovatelné tabulky Excel
     </h2>
     <p>
-     Aspose.Cells pro JasperReports exportuje dokumenty Excel jako plně upravitelné tabulky. Podporuje grafy Microsoft Excel a jakýkoli graf exportovaný pomocí vykreslovacího modulu Aspose bude k dispozici jako upravitelný graf, nikoli jako statický obrázek, což umožňuje koncovým uživatelům upravovat grafy ručně v aplikaci Microsoft Excel.
+ Aspose.Cells for JasperReports exportovat excelové dokumenty jako plně editovatelné tabulky. Podporuje grafy Microsoft Excel a jakýkoli graf exportovaný přes vykreslovací modul Aspose bude k dispozici jako upravitelný graf, nikoli jako statický obrázek, což umožňuje koncovým uživatelům upravovat grafy ručně v Excelu Microsoft.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automatizace Microsoft Office – není potřeba
+ Microsoft Automatizace Office – není potřeba
     </h2>
     <p>
-     Aspose.Cells pro exportér JasperReports vyvinutý pomocí spravovaného kódu, který nikdy nevyžaduje instalaci Microsoft Excel nebo Microsoft Office do počítače, aby mohl pracovat s formáty dokumentů Excel. Jedná se o dokonalou alternativu automatizace Microsoft Excel z hlediska stability, škálovatelnosti, podporovaných funkcí, zabezpečení, ceny a rychlosti.
+ Aspose.Cells for JasperReports exportér vyvinutý pomocí spravovaného kódu, který nikdy nevyžaduje instalaci Microsoft Excelu nebo Microsoft Office do počítače, aby mohl pracovat s formáty dokumentů Excel. Jedná se o dokonalou alternativu automatizace Excelu Microsoft z hlediska stability, škálovatelnosti, podporovaných funkcí, zabezpečení, ceny a rychlosti.
     </p>
    </div>
   </div>
@@ -265,12 +264,12 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells pro JasperReports?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Cells for JasperReports?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -279,7 +278,7 @@ description: Export sestav z Jasper Reports a JasperServer ve formátu Excel XLS
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cells/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní Excel API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells nabízí jednotlivá rozhraní API aplikace Excel pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

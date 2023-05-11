@@ -1,19 +1,18 @@
 ---
-title: Python Hoja de cálculo de Excel API - Aspose 
+title:  Python Hoja de cálculo Excel API - Aspose
 weight: 2820
-
 description: Python biblioteca de hojas de cálculo para crear archivos de Excel de lectura, escritura y análisis.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python API de análisis de hojas de cálculo de Excel" h2="Genere, lea, escriba o manipule hojas de cálculo, así como exporte archivos de Excel a múltiples formatos dentro de las aplicaciones Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API de análisis de hojas de cálculo de Excel" h2="Genere, lea, escriba o manipule hojas de cálculo, así como exporte archivos de Excel a múltiples formatos dentro de las aplicaciones Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells para Python es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando python.
+ Aspose.Cells for Python es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importar y Exportar
+ Importar y Exportar
    </header>
    <ul>
     <li>
-     arreglos
+ arreglos
     </li>
     <li>
-     Conjunto resultante
+ Conjunto resultante
     </li>
     <li>
-     Colecciones
+Colecciones
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Representación
+ Representación
    </header>
    <ul>
     <li>
-     Gráfico a imagen
+ Gráfico a imagen
     </li>
     <li>
-     Hoja de trabajo a imagen
+ Hoja de trabajo a imagen
     </li>
     <li>
-     Hoja de cálculo a PDF
+ Hoja de cálculo al PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
    <header>
     <i class="fa fa-table">
     </i>
-    Procesamiento de datos
+ Procesamiento de datos
    </header>
    <ul>
     <li>
-     Aplicar formato
+ Aplicar formato
     </li>
     <li>
-     Aplicar fórmula
+ Aplicar fórmula
     </li>
     <li>
-     Crear gráficos
+ Crear gráficos
     </li>
     <li>
-     Resumir
+ Resumir
     </li>
     <li>
-     Marcadores inteligentes
+ Marcadores inteligentes
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
     Python
    </small>
@@ -105,7 +104,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells para Python está disponible para." >}}
+{{< blocks/products/pf/carousel-item h3="Independencia de la plataforma" description="Aspose.Cells for Python está disponible para." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Entorno de tiempo de ejecución
+ Python Entorno de tiempo de ejecución
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
     Python
    </small>
@@ -145,37 +144,37 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La biblioteca de Excel Python es compatible con los formatos populares de Microsoft Excel, los formatos de diseño fijo y las imágenes." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="La biblioteca de Excel Python es compatible con los populares formatos de Excel Microsoft, formatos de diseño fijo e imágenes." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    De entrada y salida
+ De entrada y salida
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Oficina abierta:
+ Oficina abierta:
      </b>
-     SAO
+     ODS
     </li>
     <li>
      <b>
-      Texto:
+ Texto:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,20 +185,20 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Solo salida
+ Solo salida
    </header>
    <ul>
     <li>
      <b>
-      Diseño fijo:
+ Diseño fijo:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Imágenes:
+ Imágenes:
      </b>
-     JPEG, PNG, BMP, SVG, CEM
+     JPEG, PNG, BMP, SVG, EMF
     </li>
    </ul>
   </div>
@@ -214,7 +213,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
   <footer>
    <small>
     <em>
-     por
+ para
     </em>
     Python
    </small>
@@ -235,7 +234,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Funciones avanzadas de Python Excel API
+Funciones avanzadas Python Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer hojas de cálculo de Excel
+ Leer hojas de cálculo de Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Renderice hojas de cálculo a PDF, EMF e imágenes
+ Renderizar hojas de cálculo al PDF, EMF e imágenes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ajustar hojas de trabajo dentro de libros de trabajo
+ Ajustar hojas de trabajo dentro de libros de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Proteger/desproteger hojas de trabajo
+ Proteger/desproteger hojas de trabajo
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Agregue imágenes y cree gráficos
+ Agregue imágenes y cree gráficos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crear tablas dinámicas y gráficos dinámicos
+ Crear tablas dinámicas y gráficos dinámicos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Agregar y editar comentarios a nivel de celda
+ Agregar y editar comentarios a nivel de celda
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Buscar y reemplazar datos
+ Buscar y reemplazar datos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Dividir y combinar celdas
+ Dividir y combinar celdas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Agregar o quitar agrupación a filas y columnas
+ Agregar o quitar agrupación a filas y columnas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Establecer formato de números
+ Establecer formato de números
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer y establecer fórmulas
+ Leer y establecer fórmulas
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Configurar la configuración de la página
+ Configurar la configuración de la página
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ajustar la orientación de la página, la escala, el tamaño del papel
+ Ajustar la orientación de la página, la escala, el tamaño del papel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leer &amperio; escribir formato condicional
+ Leer &amperio; escribir formato condicional
     </p>
    </div>
    <!--
@@ -413,14 +412,14 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Conversión de múltiples formatos
+ Conversión de múltiples formatos
     </h2>
     <p>
-     Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS &amp; formatos HTML. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
+ Python La biblioteca de Excel proporciona conversión de archivos de Excel a PDF, XPS &amp; HTML formatos. La conversión confiable de API lo convierte en una solución perfecta para las empresas que requieren intercambiar archivos en formatos estándar de la industria.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Guardar hoja de cálculo en diferentes formatos - Java
+ Guardar hoja de cálculo en diferentes formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -459,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Opciones de visualización flexibles
+ Opciones de visualización flexibles
     </h2>
     <p>
-     Aspose.Cells para Python proporciona un control total sobre la configuración de la página, lo que permite manipular varias opciones de visualización, como previsualizar saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, tamaño del papel, escalado, encabezados &amp; pies de página y área de impresión.
+Aspose.Cells for Python brinda control total sobre la configuración de la página, lo que permite manipular múltiples opciones de visualización, como previsualizar saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, tamaño del papel, escala, encabezados y amp; pies de página y área de impresión.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Gestión de datos de hojas de Excel
+ Gestión de datos de hojas de Excel
     </h2>
     <p>
-     Aspose.Cells para Python API proporciona una amplia compatibilidad con la gestión de datos de hojas de trabajo. Uno puede manipular fácilmente cualquier celda en la hoja de trabajo en tiempo de ejecución o importar datos a las hojas de trabajo desde varias fuentes de datos.
+ Aspose.Cells for Python API proporciona un amplio soporte para la gestión de datos de hojas de cálculo. Uno puede manipular fácilmente cualquier celda en la hoja de trabajo en tiempo de ejecución o importar datos a las hojas de trabajo desde varias fuentes de datos.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Personalización de gráficos
+ Personalización de gráficos
     </h2>
     <p>
-     Aspose.Cells para Python proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o establecer dinámicamente datos de gráficos para actualizar el gráfico en esta biblioteca de Python.
+ Aspose.Cells for Python brinda soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o establecer dinámicamente datos de gráficos para actualizar el gráfico en esta biblioteca de Python.
     </p>
    </div>
    <!--
@@ -519,24 +518,24 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizaje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referencias" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referencias" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Soporte de producto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Soporte pagado" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells para Python?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="¿Por qué Aspose.Cells for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Historias de éxito" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells ofrece API de Excel individuales para otros entornos de desarrollo populares, como se indica a continuación:" >}}
 

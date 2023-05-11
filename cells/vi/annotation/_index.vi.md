@@ -1,8 +1,7 @@
 ---
-title: Xóa nhận xét khỏi tệp Excel trên Windows, Linux và macOS 
+title:  Xóa Nhận xét khỏi tệp Excel trên Windows, Linux và macOS
 weight: 7730
-
-description: Ứng dụng và API miễn phí cho Excel XLS, XLSX và quản lý chú thích & nhận xét ODS
+description: Ứng dụng và API miễn phí cho Excel XLS, XLSX và ODS Quản lý chú thích & nhận xét
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

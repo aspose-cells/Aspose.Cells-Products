@@ -1,8 +1,7 @@
 ---
-title: Bearbeiten oder Anzeigen von XLSB-Dokumentmetadaten über C++ 
+title:  Bearbeiten oder Anzeigen von XLSB-Dokumentmetadaten über C++
 weight: 4820
-
-description: C++ Beispielcode zum Bearbeiten oder Anzeigen von XLSB-Dateimetadaten in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+description: C++ Beispielcode zum Bearbeiten oder Anzeigen von XLSB-Dateimetadaten in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie XLSB-Metadaten über C++" h2="Erstellen Sie Ihre eigenen C++-Apps, um mithilfe serverseitiger APIs Metadaten aus XLSB-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -12,20 +11,19 @@ description: C++ Beispielcode zum Bearbeiten oder Anzeigen von XLSB-Dateimetadat
 
 {{% blocks/products/pf/agp/content h2="So erhalten Sie XLSB-Metadaten mit C++" %}}
 
- Um XLSB-Metadaten zu extrahieren, verwenden wir
- [Aspose.Cells für C++](https://products.aspose.com/cells/cpp) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Dokumentenmetadatenextraktion API für die C++-Plattform. Sie können die neueste Version direkt herunterladen, einfach öffnen
+Um XLSB-Metadaten zu extrahieren, verwenden wir
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Extraktion von Dokumentmetadaten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suche nach
+ Paketmanager, suchen Sie nach
  **Aspose.Cells.Cpp** 
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+ und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -39,14 +37,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Greifen Sie auf nützliche Informationen zu, die in der XLSB-Datei gespeichert sind, einschließlich wann die XLSB-Datei empfangen, verarbeitet, mit einem Zeitstempel versehen wurde und so weiter.
+ Greifen Sie auf nützliche Informationen zu, die in der Datei XLSB gespeichert sind, einschließlich wann die Datei XLSB empfangen, verarbeitet, mit einem Zeitstempel versehen usw. wurde.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ XLSB-Datei mit CreateIWorkbookMetadata laden
++ Laden Sie die Datei XLSB mit CreateIWorkbookMetadata
 + Erstellen Sie Optionen mit CreateIMetadataOptions
 + Fügen Sie neue Eigenschaften durch GetICustomDocumentProperties() und AddIDocumentProperty hinzu
-+ XLSB-Dokument speichern
++ Dokument XLSB speichern
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,14 +52,16 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells für C++ wird auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bitte stellen Sie sicher, dass Sie die folgenden Voraussetzungen erfüllen.
+ Aspose.Cells for C++ unterstützt auf allen wichtigen Plattformen und Betriebssystemen. Bitte stellen Sie sicher, dass Sie die folgenden Voraussetzungen erfüllen.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows oder ein kompatibles Betriebssystem mit C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.- Aspose.Cells für C++ DLL, auf die in Ihrem Projekt verwiesen wird.
+-  Microsoft Windows oder ein kompatibles Betriebssystem mit C++ Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+-  Fügen Sie in Ihrem Projekt einen Verweis auf die DLL Aspose.Cells for C++ hinzu.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Metadaten von XLSB extrahieren - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Extrahieren Sie Metadaten von XLSB - C++" offSpacer="" %}}
 
 ```cs
 
@@ -69,7 +69,6 @@ intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(Metada
 intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.xlsb"), options);
 meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
 meta->Save(new String("c:\\book2.xlsb"));  
-
 
 ```
 
@@ -82,9 +81,9 @@ meta->Save(new String("c:\\book2.xlsb"));
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Ungefähr Aspose.Cells für C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.  
+ Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 
 
@@ -92,14 +91,14 @@ meta->Save(new String("c:\\book2.xlsb"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahieren Sie Metadaten von XLSB über die Online-App" sectionDescription="Anzeigen und Bearbeiten von Metadaten in XLSB-Dokumenten mithilfe unserer [Live-Demos](https://products.aspose.app/cells/metadata) mit folgenden Vorteilen." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahieren Sie Metadaten von XLSB über die Online-App" sectionDescription=" Anzeigen und Bearbeiten von Metadaten zu XLSB-Dokumenten mithilfe unseres[Live-Demos](https://products.aspose.app/cells/metadata) mit folgenden Vorteilen." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen nichts herunterladen oder einrichten" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es muss kein Code geschrieben werden" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre XLSB-Datei hoch und bearbeiten Sie die Dokumenteigenschaften" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Das XLSB-Dateiformat gibt das Excel-Binärdateiformat an, bei dem es sich um eine Sammlung von Datensätzen und Strukturen handelt, die den Inhalt von Excel-Arbeitsmappen angeben. Der Inhalt kann unstrukturierte oder halbstrukturierte Zahlentabellen, Text oder sowohl Zahlen als auch Text, Formeln, externe Datenverbindungen, Diagramme und Bilder umfassen. Im Gegensatz zu XLSX (das auf dem Open XML-Dateiformat basiert) repräsentiert XLSB eine binäre Excel-Arbeitsmappendatei. XLSB-Dateien können schneller gelesen und geschrieben werden, was sie für die Arbeit mit großen Dateien nützlich macht. XLSB wird selten zum Speichern von Arbeitsmappen verwendet, da XLSX (und früher XLS) die am häufigsten vom Benutzer ausgewählten Dateiformate zum Speichern von Arbeitsmappen sind. Es kann von Microsoft Office 2007 und höher geöffnet werden.
+Das Dateiformat XLSB gibt das Excel-Binärdateiformat an, eine Sammlung von Datensätzen und Strukturen, die den Inhalt einer Excel-Arbeitsmappe angeben. Der Inhalt kann unstrukturierte oder halbstrukturierte Zahlentabellen, Text oder sowohl Zahlen als auch Text, Formeln, externe Datenverbindungen, Diagramme und Bilder umfassen. Im Gegensatz zu XLSX (das auf dem Open XML-Dateiformat basiert) stellt XLSB eine binäre Excel-Arbeitsmappendatei dar. XLSB-Dateien können schneller gelesen und geschrieben werden, was sie für die Arbeit mit großen Dateien nützlich macht. XLSB wird selten zum Speichern von Arbeitsmappen verwendet, da XLSX (und früher XLS) die am häufigsten vom Benutzer ausgewählten Dateiformate zum Speichern von Arbeitsmappen sind. Es kann mit Microsoft Office 2007 und höher geöffnet werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -107,7 +106,7 @@ Das XLSB-Dateiformat gibt das Excel-Binärdateiformat an, bei dem es sich um ein
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C++ kann man auch Metadaten vieler anderer Formate bearbeiten, einschließlich" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C++ kann man auch Metadaten vieler anderer Formate bearbeiten, darunter" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/xls/" name="XLS" description="Excel-Binärformat" >}}

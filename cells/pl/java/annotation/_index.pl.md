@@ -1,17 +1,16 @@
 ---
-title: Adnotacje do pliku Excel za pośrednictwem Java
-
-description: Dodaj lub usuń adnotacje danych w arkuszach kalkulacyjnych Excel i OpenOffice za pomocą biblioteki Java.
+title: Adnotacje do pliku programu Excel via Java
+description: Dodawaj lub usuwaj adnotacje danych z arkuszy kalkulacyjnych Excel i OpenOffice za pomocą biblioteki Java.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Zarządzaj adnotacjami do plików Microsoft<sup>&reg;</sup> Excel za pomocą Java" h2="Wstawiaj proste notatki do adnotacji lub usuwaj komentarze na poziomie komórek arkusza kalkulacyjnego Excel w aplikacjach opartych na Java." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Zarządzaj Microsoft<sup>&reg;</sup> Adnotacjami do pliku programu Excel via Java" h2="Wstaw proste notatki do adnotacji lub usuń komentarze na poziomie komórek arkusza kalkulacyjnego Excel w aplikacjach opartych na Java." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel API](/cells/java/) zapewnia wsparcie w zarządzaniu adnotacjami na poziomie komórki, dodając, otwierając i usuwając komentarze. API zapewnia [Komentarz](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [Kolekcja komentarzy](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [Komentarz w wątku](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) oraz [Kolekcja komentarzy wątkowych](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) do obsługi komentarzy we wszystkich aspektach.
+[Java Excel API](/cells/pl/java/) zapewnia obsługę zarządzania adnotacjami na poziomie komórki poprzez dodawanie, uzyskiwanie dostępu i usuwanie komentarzy. API zapewnia[Komentarz](https://reference.aspose.com/cells/java/com.aspose.cells/Comment), [Kolekcja komentarzy](https://reference.aspose.com/cells/java/com.aspose.cells/CommentCollection), [Wątkowy komentarz](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedComment) I[Wątkowa kolekcja komentarzy](https://reference.aspose.com/cells/java/com.aspose.cells/ThreadedCommentCollection) za obsługę komentarzy we wszystkich aspektach.
 Obsługiwane formaty plików to ODS, XLS, XLSX, XLSB i XLSM.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Adnotacje do danych w plikach Excel" %}}
-Zarządzanie komentarzami w arkuszach — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Proces dodawania komentarzy to tworzenie [zeszyt ćwiczeń](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) obiekt klasy lub załaduj istniejący plik przy użyciu klasy Workbook. Uzyskaj dostęp do wszystkich komentarzy za pomocą funkcji getComments(). Pobierz indeks komórek i użyj [setNote](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) do wstawiania komentarzy. Ponadto API może usuwać wszystkie komentarze. 
+{{% blocks/products/pf/feature-page-section h2="Adnotacje danych w plikach Excel" %}}
+ Zarządzanie komentarzami w arkuszach — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Proces dodawania komentarzy to tworzenie[zeszyt ćwiczeń](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)obiekt klasy lub załaduj istniejący plik przy użyciu klasy Workbook. Uzyskaj dostęp do wszystkich jego komentarzy za pomocą funkcji getComments(). Pobierz indeks komórki i użyj[ustaw Uwaga](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) do wstawiania komentarzy. Ponadto API jest w stanie usunąć wszystkie komentarze.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kod do dodawania komentarzy w pliku Excel" %}}
 

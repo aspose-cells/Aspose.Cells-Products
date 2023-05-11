@@ -1,8 +1,7 @@
 ---
-title: Bearbeiten oder Anzeigen von Metadaten von ODS-Dokumenten über C++ 
+title:  Bearbeiten oder Anzeigen von ODS-Dokumentmetadaten über C++
 weight: 1000
-
-description: C++ Beispielcode zum Bearbeiten oder Anzeigen von ODS-Dateimetadaten in C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+description: C++ Beispielcode zum Bearbeiten oder Anzeigen von ODS-Dateimetadaten in der C++-Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Extrahieren Sie ODS-Metadaten über C++" h2="Erstellen Sie Ihre eigenen C++-Apps, um mithilfe serverseitiger APIs Metadaten aus ODS-Dateien hinzuzufügen, zu bearbeiten, zu entfernen oder zu extrahieren." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -12,20 +11,19 @@ description: C++ Beispielcode zum Bearbeiten oder Anzeigen von ODS-Dateimetadate
 
 {{% blocks/products/pf/agp/content h2="So erhalten Sie ODS-Metadaten mit C++" %}}
 
- Um ODS-Metadaten zu extrahieren, verwenden wir
- [Aspose.Cells für C++](https://products.aspose.com/cells/cpp) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Dokumentenmetadatenextraktion API für die C++-Plattform. Sie können die neueste Version direkt herunterladen, einfach öffnen
+Um ODS-Metadaten zu extrahieren, verwenden wir
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Extraktion von Dokumentmetadaten. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
- Paketmanager, suche nach
+ Paketmanager, suchen Sie nach
  **Aspose.Cells.Cpp** 
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+ und installieren. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -39,14 +37,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Greifen Sie auf nützliche Informationen zu, die in der ODS-Datei gespeichert sind, einschließlich wann die ODS-Datei empfangen, verarbeitet, mit einem Zeitstempel versehen wurde und so weiter.
+ Greifen Sie auf nützliche Informationen zu, die in der Datei ODS gespeichert sind, einschließlich wann die Datei ODS empfangen, verarbeitet, mit einem Zeitstempel versehen usw. wurde.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ ODS-Datei mit CreateIWorkbookMetadata laden
++ Laden Sie die Datei ODS mit CreateIWorkbookMetadata
 + Erstellen Sie Optionen mit CreateIMetadataOptions
 + Fügen Sie neue Eigenschaften durch GetICustomDocumentProperties() und AddIDocumentProperty hinzu
-+ ODS-Dokument speichern
++ Dokument ODS speichern
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,14 +52,16 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells für C++ wird auf allen wichtigen Plattformen und Betriebssystemen unterstützt. Bitte stellen Sie sicher, dass Sie die folgenden Voraussetzungen erfüllen.
+ Aspose.Cells for C++ unterstützt auf allen wichtigen Plattformen und Betriebssystemen. Bitte stellen Sie sicher, dass Sie die folgenden Voraussetzungen erfüllen.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows oder ein kompatibles Betriebssystem mit C++ Runtime Environment für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.- Aspose.Cells für C++ DLL, auf die in Ihrem Projekt verwiesen wird.
+-  Microsoft Windows oder ein kompatibles Betriebssystem mit C++ Laufzeitumgebung für Windows 32 Bit, Windows 64 Bit und Linux 64 Bit.
+-  Fügen Sie in Ihrem Projekt einen Verweis auf die DLL Aspose.Cells for C++ hinzu.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Metadaten von ODS extrahieren - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Extrahieren Sie Metadaten von ODS - C++" offSpacer="" %}}
 
 ```cs
 
@@ -69,7 +69,6 @@ intrusive_ptr<IMetadataOptions> options = Factory::CreateIMetadataOptions(Metada
 intrusive_ptr<IWorkbookMetadata> meta = Factory::CreateIWorkbookMetadata(new String("c:\\book1.ods"), options);
 meta->GetICustomDocumentProperties()->AddIDocumentProperty(new String("test"), (StringPtr)new String("test"));
 meta->Save(new String("c:\\book2.ods"));  
-
 
 ```
 
@@ -82,9 +81,9 @@ meta->Save(new String("c:\\book2.ods"));
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Ungefähr Aspose.Cells für C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="Über Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.  
+ Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
 
 
@@ -92,14 +91,14 @@ meta->Save(new String("c:\\book2.ods"));
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahieren Sie Metadaten von ODS über die Online-App" sectionDescription="Anzeigen und Bearbeiten von Metadaten zu ODS-Dokumenten mithilfe unserer [Live-Demos](https://products.aspose.app/cells/metadata) mit folgenden Vorteilen." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Extrahieren Sie Metadaten von ODS über die Online-App" sectionDescription=" Anzeigen und Bearbeiten von Metadaten zu ODS-Dokumenten mithilfe unseres[Live-Demos](https://products.aspose.app/cells/metadata) mit folgenden Vorteilen." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen nichts herunterladen oder einrichten" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es muss kein Code geschrieben werden" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre ODS-Datei hoch und bearbeiten Sie die Dokumenteigenschaften" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Dateien mit der ODS-Erweiterung stehen für OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format wird als Teil der ODF 1.2-Spezifikationen spezifiziert, die von OASIS veröffentlicht und gepflegt werden. Eine Reihe von Anwendungen unter Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Manipulieren öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenkalkulationsformate wie XLS, XLSX und andere konvertiert werden.
+Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist Teil der von OASIS veröffentlichten und gepflegten ODF 1.2-Spezifikationen. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -107,7 +106,7 @@ Dateien mit der ODS-Erweiterung stehen für OpenDocument Spreadsheet Document-Fo
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C++ kann man auch Metadaten vieler anderer Formate bearbeiten, einschließlich" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Metadatenformate" subTitle="Mit C++ kann man auch Metadaten vieler anderer Formate bearbeiten, darunter" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/xls/" name="XLS" description="Excel-Binärformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}

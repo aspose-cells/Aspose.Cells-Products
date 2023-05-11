@@ -1,19 +1,18 @@
 ---
-title: Python Excel 스프레드시트 API - Aspose 
+title:  Python 엑셀 스프레드시트 API - Aspose
 weight: 2820
-
-description: Python 스프레드시트 라이브러리를 사용하여 Excel 파일 읽기 및 구문 분석을 생성합니다.
+description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스프레드시트 라이브러리.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 스프레드시트 구문 분석 API" h2="스프레드시트를 생성, 읽기, 쓰기 또는 조작하고 Excel 파일을 Python 애플리케이션 내에서 여러 형식으로 내보낼 수 있습니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel 스프레드시트 구문 분석 API" h2="Python 애플리케이션 내에서 Excel 파일을 여러 형식으로 내보낼 뿐만 아니라 스프레드시트를 생성, 읽기, 쓰기 또는 조작합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Python용 Aspose.Cells은(는) 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 추출하고 조작할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최고의 솔루션입니다.
+ Aspose.Cells for Python은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 추출할 뿐만 아니라 조작할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최상의 솔루션입니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
    <header>
     <i class="fa fa-refresh">
     </i>
-    수입 &amp; 내보내다
+ 가져오기 및 가져오기 내보내다
    </header>
    <ul>
     <li>
-     배열
+ 배열
     </li>
     <li>
-     결과 집합
+ 결과 집합
     </li>
     <li>
-     컬렉션
+컬렉션
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    표현
+ 표현
    </header>
    <ul>
     <li>
-     이미지에 차트
+ 차트를 이미지로
     </li>
     <li>
-     워크시트를 이미지로
+ 워크시트를 이미지로
     </li>
     <li>
-     스프레드시트를 PDF로
+ 스프레드시트를 PDF로
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
    <header>
     <i class="fa fa-table">
     </i>
-    데이터 처리
+ 데이터 처리
    </header>
    <ul>
     <li>
-     서식 적용
+ 서식 적용
     </li>
     <li>
-     수식 적용
+ 수식 적용
     </li>
     <li>
-     차트 만들기
+ 차트 만들기
     </li>
     <li>
-     요약하다
+ 요약하다
     </li>
     <li>
-     스마트 마커
+ 스마트 마커
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
   <footer>
    <small>
     <em>
-     ~을 위한
+ ~을 위한
     </em>
     Python
    </small>
@@ -105,7 +104,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Python에 대한 Aspose.Cells은(는) 사용할 수 있습니다." >}}
+{{< blocks/products/pf/carousel-item h3="플랫폼 독립성" description="Aspose.Cells for Python에 사용할 수 있습니다." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python 런타임 환경
+ Python 런타임 환경
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
   <footer>
    <small>
     <em>
-     ~을 위한
+ ~을 위한
     </em>
     Python
    </small>
@@ -145,37 +144,37 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Python Excel 라이브러리는 널리 사용되는 Microsoft Excel 형식, 고정 레이아웃 형식 및 이미지를 지원합니다." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Python excel 라이브러리는 널리 사용되는 Microsoft Excel 형식, 고정 레이아웃 형식 및 이미지를 지원합니다." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    입출력
+ 입출력
    </header>
    <ul>
     <li>
      <b>
-      마이크로 소프트 엑셀:
+ Microsoft 엑셀:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      오픈 오피스:
+ 오픈 오피스:
      </b>
      ODS
     </li>
     <li>
      <b>
-      텍스트:
+ 텍스트:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      편물:
+ 편물:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    출력만
+ 출력 전용
    </header>
    <ul>
     <li>
      <b>
-      고정 레이아웃:
+ 고정 레이아웃:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      이미지:
+ 이미지:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,7 +213,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
   <footer>
    <small>
     <em>
-     ~을 위한
+ ~을 위한
     </em>
     Python
    </small>
@@ -235,7 +234,7 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    고급 Python Excel API 기능
+고급 Python Excel API 기능
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excel 스프레드시트 읽기
+ Excel 스프레드시트 읽기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     스프레드시트를 PDF, EMF 및 이미지로 렌더링
+ 스프레드시트를 PDF, EMF 및 이미지로 렌더링
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     통합 문서 내에서 워크시트 조정
+ 통합 문서 내에서 워크시트 조정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     워크시트 보호/보호 해제
+ 워크시트 보호/보호 해제
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     이미지 추가 및 차트 생성
+ 이미지 추가 및 차트 생성
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     피벗 테이블 및 피벗 차트 만들기
+ 피벗 테이블 및 피벗 차트 만들기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     셀 수준에서 주석 추가 및 편집
+ 셀 수준에서 주석 추가 및 편집
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     데이터 검색 및 바꾸기
+ 데이터 검색 및 바꾸기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     셀 분할 및 병합
+ 셀 분할 및 병합
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     행 및 열에 그룹화 추가 또는 제거
+ 행과 열에 그룹화 추가 또는 제거
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     숫자 서식 설정
+ 숫자 형식 설정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     수식 읽기 및 설정
+ 수식 읽기 및 설정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     페이지 설정 구성
+ 페이지 설정 구성
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     페이지 방향, 배율, 용지 크기 조정
+ 페이지 방향, 크기 조정, 용지 크기 조정
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     읽기 및 조건부 서식 작성
+ 읽기 및 읽기 조건부 서식 작성
     </p>
    </div>
    <!--
@@ -413,14 +412,14 @@ description: Python 스프레드시트 라이브러리를 사용하여 Excel 파
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     다중 형식 변환
+ 여러 형식 변환
     </h2>
     <p>
-     Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환은 업계 표준 형식으로 파일을 교환해야 하는 회사에 완벽한 솔루션이 됩니다.
+ Python Excel 라이브러리는 Excel 파일을 PDF, XPS &amp; HTML 형식. API의 안정적인 변환은 업계 표준 형식으로 파일을 교환해야 하는 회사를 위한 완벽한 솔루션입니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      다양한 형식으로 스프레드시트 저장 - Java
+ 다른 형식으로 스프레드시트 저장 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -459,10 +458,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     유연한 디스플레이 옵션
+ 유연한 디스플레이 옵션
     </h2>
     <p>
-     Python에 대한 Aspose.Cells은 미리보기 페이지 나누기, 확대/축소 수준 설정, 페이지 방향 설정, 고정 창으로 데이터 가시성 제어, 용지 크기, 배율, 머리글 및 바닥글 및 인쇄 영역.
+Aspose.Cells for Python은 페이지 나누기 미리보기, 확대/축소 수준 설정, 페이지 방향 설정, 고정 창을 통한 데이터 가시성 제어, 용지 크기, 배율 조정, 머리글 &amp; 바닥글 및 인쇄 영역.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +481,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     엑셀 시트 데이터 관리
+ Excel 시트 데이터 관리
     </h2>
     <p>
-     Python용 Aspose.Cells API은(는) 워크시트 데이터 관리에 대한 광범위한 지원을 제공합니다. 런타임 시 워크시트의 모든 셀을 쉽게 조작하거나 다양한 데이터 소스에서 워크시트로 데이터를 가져올 수 있습니다.
+ Aspose.Cells for Python API은 워크시트 데이터 관리를 위한 광범위한 지원을 제공합니다. 런타임에 워크시트의 모든 셀을 쉽게 조작하거나 다양한 데이터 소스에서 워크시트로 데이터를 가져올 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     차트 사용자 정의
+ 차트 사용자 정의
     </h2>
     <p>
-     Python에 대한 Aspose.Cells은 차트 작성을 완벽하게 지원합니다. 이 파이썬 라이브러리에서 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
+ Aspose.Cells for Python은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 사용하여 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
     </p>
    </div>
    <!--
@@ -516,29 +515,29 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="학습 리소스" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API 참조" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API 참조" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="제품 지원" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="왜 Python에 대해 Aspose.Cells을(를) 사용합니까?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="왜 Aspose.Cells for Python입니까?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells은(는) 아래와 같이 널리 사용되는 기타 개발 환경을 위한 개별 Excel API를 제공합니다." >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells은 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 Excel API를 제공합니다." >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

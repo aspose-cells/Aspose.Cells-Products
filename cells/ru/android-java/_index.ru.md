@@ -1,8 +1,7 @@
 ---
-title: Электронная таблица Android Excel API–Aspose 
+title: Электронная таблица Excel для Android API - Aspose
 weight: 6510
-
-description: Библиотека электронных таблиц Android для создания файлов Excel для чтения, записи и анализа. Электронная таблица API для разработки мобильных приложений
+description: Библиотека электронных таблиц Android для создания файлов Excel для чтения, записи и анализа. Таблица API для разработки мобильных приложений
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Android API для работы с электронными таблицами Excel" h2="Создавайте, читайте, записывайте или управляйте файлами Excel в приложениях Android без каких-либо зависимостей." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
@@ -13,7 +12,7 @@ description: Библиотека электронных таблиц Android д
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells для Android через Java – это масштабируемый API для программного создания, объединения, изменения и анализа электронных таблиц. API предлагает множество функций, включая форматирование документов Excel и задачи настройки страницы, возможности импорта и экспорта, преобразование страниц рабочих листов в растровые изображения, а также указание разрешения изображения, качества, сжатия, добавление различных диаграмм и многое другое. Электронная таблица Android API поддерживает форматы XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS и другие.
+ Aspose.Cells for Android via Java — это масштабируемый API для программного создания, объединения, изменения и анализа электронных таблиц. API предлагает множество функций, включая форматирование документа Excel и задачи настройки страницы, возможности импорта и экспорта, преобразование страниц рабочего листа в растровые изображения, а также указание разрешения изображения, качества, сжатия, добавление различных диаграмм и многое другое. Электронная таблица Android API поддерживает форматы XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS и другие форматы.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Библиотека электронных таблиц Android д
    <header>
     <i class="fa fa-refresh">
     </i>
-    Импорт &amp; Экспорт
+ Импорт &amp; Экспорт
    </header>
    <ul>
     <li>
-     Массивы
+ Массивы
     </li>
     <li>
-     Набор результатов
+ Набор результатов
     </li>
     <li>
-     Коллекции
+Коллекции
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Рендеринг
+ Рендеринг
    </header>
    <ul>
     <li>
-     Диаграмма к изображению
+ Диаграмма к изображению
     </li>
     <li>
-     Рабочий лист в изображение
+ Рабочий лист в изображение
     </li>
     <li>
-     Электронная таблица в PDF
+ Таблица для PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Библиотека электронных таблиц Android д
    <header>
     <i class="fa fa-table">
     </i>
-    Обработка данных
+ Обработка данных
    </header>
    <ul>
     <li>
-     Применить форматирование
+ Применить форматирование
     </li>
     <li>
-     Применить формулу
+ Применить формулу
     </li>
     <li>
-     Создание диаграмм
+ Создание диаграмм
     </li>
     <li>
-     Подведем итог
+ Подведем итог
     </li>
     <li>
-     Умные маркеры
+ Умные маркеры
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Библиотека электронных таблиц Android д
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Android через Java
+ Андроид via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Библиотека электронных таблиц Android д
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells для Android через Java доступно для Android 2.0 или более поздней версии." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells for Android via Java доступен for Android 2.0 или выше." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Библиотека электронных таблиц Android д
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Среда выполнения Android
+ Среда выполнения Android
    </header>
    <ul>
     <li>
-     Мобильное приложение
+ Мобильное приложение
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Библиотека электронных таблиц Android д
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Android через Java
+ Андроид via Java
    </small>
   </footer>
  </div>
@@ -145,39 +144,39 @@ description: Библиотека электронных таблиц Android д
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Электронная таблица Android API поддерживает популярные форматы Microsoft Excel, изображения и форматы с фиксированным макетом." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Электронная таблица Android API поддерживает популярные форматы Excel Microsoft, изображения и форматы с фиксированным макетом." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+ Ввод, вывод
    </header>
    <ul>
     <li>
      <b>
-      Майкрософт Эксель:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      ОпенОфис:
+ ОпенОфис:
      </b>
-     ОРВ
+     ODS
     </li>
     <li>
      <b>
-      Текст:
+ Текст:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Интернет:
+ Интернет:
      </b>
-     HTML, МHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -186,18 +185,18 @@ description: Библиотека электронных таблиц Android д
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Только вывод
+ Только вывод
    </header>
    <ul>
     <li>
      <b>
-      Фиксированный макет:
+ Фиксированный макет:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/А, XPS
     </li>
     <li>
      <b>
-      Картинки:
+ Изображений:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Библиотека электронных таблиц Android д
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    Android через Java
+ Андроид via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Библиотека электронных таблиц Android д
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Расширенные возможности Android Excel API
+ Расширенные функции Android Excel API
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Библиотека электронных таблиц Android д
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Применение форматирования к рабочему листу, строке, столбцу, ячейке и диапазону
+Применение форматирования к рабочему листу, строке, столбцу, ячейке и диапазону
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Экспорт и импорт данных из ArrayList, Array, Recordset &amp; Набор результатов
+ Экспорт и импорт данных из ArrayList, Array, Recordset &amp; Набор результатов
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Зашифровать &amp; расшифровать файлы Excel
+ Зашифровать &amp; расшифровать файлы Excel
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установить форматирование чисел
+ Установить форматирование чисел
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; манипулировать диаграммами
+ Создать и усилить манипулировать диаграммами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; управлять комментариями
+ Создать и усилить управлять комментариями
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Читать, устанавливать &amp; рассчитать формулы
+ Читать, устанавливать &amp; рассчитать формулы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Настройка параметров страницы
+ Настройка параметров страницы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установить &amp; манипулировать автофильтрами &amp; разрывы страниц
+ Установить &amp; манипулировать автофильтрами &amp; разрывы страниц
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Прочитать и усилить написать условное форматирование
+ Прочитать и усилить написать условное форматирование
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создание копий существующих рабочих листов
+ Создание копий существующих рабочих листов
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установите параметры защиты, появившиеся после Microsoft Excel XP.
+ Установка параметров защиты, представленных начиная с Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Управление ячейками &amp; именованные диапазоны
+ Управление ячейками &amp; именованные диапазоны
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Преобразование файлов Excel в PDF
+ Преобразование файлов Excel в PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Конвертировать рабочие листы &amp; диаграммы в изображения
+ Конвертировать рабочие листы &amp; диаграммы в изображения
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Библиотека электронных таблиц Android д
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; управлять сводными таблицами
+ Создать и усилить управлять сводными таблицами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; управлять пользовательскими диаграммами
+ Создать и усилить управлять пользовательскими диаграммами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Отследить прецеденты и иждивенцев
+ Отследить прецеденты и иждивенцев
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; манипулировать сценариями
+ Создать и усилить манипулировать сценариями
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Мощный механизм расчета формулы
+Мощный механизм расчета формулы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Прочитать и усилить написать TSV, CSV &amp; HTML-файлы
+ Прочитать и усилить напишите TSV, CSV &amp; HTML файлов
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование различных форматов
+ Преобразование различных форматов
     </h2>
     <p>
-     Библиотека Android Excel предлагает преобразование электронных таблиц в XPS, PDF &amp; Форматы HTML, сохраняющие высочайшую визуальную точность. Надежный процесс преобразования делает API идеальным выбором для компаний для обмена файлами в стандартных отраслевых форматах.
+ Библиотека Android Excel предлагает преобразование электронных таблиц в XPS, PDF &amp; HTML, сохраняя высочайшую визуальную точность. Надежный процесс преобразования делает API идеальным выбором для компаний для обмена файлами в стандартных отраслевых форматах.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Сохранение рабочей книги в различных форматах — Java
+ Сохранить рабочую тетрадь в различных форматах - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование объектов электронных таблиц в различные форматы
+ Преобразование объектов электронных таблиц в различные форматы
     </h2>
     <p>
-     Aspose.Cells для Android через Java предлагает некоторые отличительные функции, такие как рабочие листы для изображений, диаграммы для изображений и т. д. Преобразование PDF и электронных таблиц в формат документа PDF. Гибкий процесс имеет несколько вариантов преобразования, таких как повторная выборка изображений во время преобразования электронных таблиц в PDF или установка результирующих размеров изображения при рендеринге рабочих листов &amp;amp;amp;amp;amp; диаграммы в форматы изображений.
+ Aspose.Cells for Android via Java предлагают некоторые отличительные функции, такие как рабочие листы для изображений, диаграммы для изображений и т.д. PDF и таблицы для преобразования формата документа PDF. Гибкий процесс имеет несколько вариантов преобразования, таких как повторная выборка изображений во время электронных таблиц в PDF или установка результирующих размеров изображения при рендеринге рабочих листов &amp; диаграммы в форматы изображений.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Электронная таблица API Механизм вычисления формулы
+Электронная таблица API Механизм расчета формулы
     </h2>
     <p>
-     Таблицы Android API предоставляют мощный механизм вычисления формул, поддерживающий расширенные и стандартные функции и формулы Microsoft Excel. Механизм вычисления формул упрощает чтение, настройку и вычисление результатов встроенных или надстроек, формул массива и формул в стиле ссылки R1C1.
+ Android Sheets API предоставляет мощный механизм расчета формул, поддерживающий расширенные и стандартные функции и формулы Excel Microsoft. Механизм вычисления формул упрощает чтение, настройку и вычисление результатов встроенных или надстроек, формул массива и формул в стиле ссылок R1C1.
     </p>
    </div>
    <!--
@@ -573,17 +572,17 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/cells/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API ссылки" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API Ссылки" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells для Android через Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

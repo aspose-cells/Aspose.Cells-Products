@@ -1,17 +1,16 @@
 ---
 title: Διαχωρίστε το υπολογιστικό φύλλο του Excel σε φύλλα εργασίας στο Java
-
-description: Java πηγαίους κώδικες που εξηγούν πώς να χωρίσετε τα αρχεία του Microsoft Excel σε πολλά έγγραφα χρησιμοποιώντας τη βιβλιοθήκη του Excel Java
+description: Java πηγαίοι κώδικες που εξηγούν πώς να χωρίσετε Microsoft αρχεία Excel σε πολλά έγγραφα χρησιμοποιώντας τη βιβλιοθήκη Excel Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Διαίρεση αρχείων Excel μέσω Java" h2="Διαχωρίστε το υπολογιστικό φύλλο του Excel σε φύλλα εργασίας εντός εφαρμογών που βασίζονται σε Java" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Διαίρεση αρχείων Excel via Java" h2="Διαχωρίστε το υπολογιστικό φύλλο Excel σε φύλλα εργασίας εντός εφαρμογών που βασίζονται σε Java" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-Υπάρχουν διάφορα σενάρια, Όταν υπάρχει ανάγκη διαχωρισμού αρχείων Excel όπως ένα υπολογιστικό φύλλο που περιέχει δεδομένα μαθητών με κατανομή ενός μόνο φύλλου για κάθε μαθητή. Και υπάρχει ανάγκη να χωριστεί κάθε φύλλο μαθητή ως ξεχωριστό αρχείο. Για να το αυτοματοποιήσετε μέσω της εφαρμογής Java, [Java Excel API](/cells/java/) υπάρχει για διαχωρισμό εγγράφων του Excel κατά φύλλο. Οι υποστηριζόμενες μορφές περιλαμβάνουν XLS, XLSX, XLSB, XLSM, ODS. 
+ Υπάρχουν διάφορα σενάρια, Όταν υπάρχει ανάγκη διαχωρισμού αρχείων Excel όπως ένα υπολογιστικό φύλλο που περιέχει δεδομένα μαθητών με κατανομή ενός φύλλου για κάθε μαθητή. Και υπάρχει ανάγκη να χωριστεί κάθε φύλλο μαθητή ως ξεχωριστό αρχείο. Για την αυτοματοποίησή της via Java εφαρμογή,[Java Excel API](/cells/el/java/) υπάρχει για διαχωρισμό εγγράφων του Excel κατά φύλλο. Οι υποστηριζόμενες μορφές περιλαμβάνουν XLS, XLSX, XLSB, XLSM, ODS.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Διαχωρίστε το έγγραφο του Excel σε πολλά αρχεία" %}}
 
-Ο απλούστερος τρόπος για να χωρίσετε το αρχείο Excel σε φύλλο είναι η πρόσβαση σε όλα τα φύλλα, η επανάληψη σε κάθε φύλλο και η αποθήκευση ενός προς ένα στην επιθυμητή μορφή. Για τη φόρτωση του φύλλου εργασίας, το API παρέχει [ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) τάξη. [getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) Η μέθοδος λαμβάνει τον συνολικό αριθμό φύλλων. Επαναλάβετε σε κάθε φύλλο και χρησιμοποιήστε [getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) για πρόσβαση σε συγκεκριμένο φύλλο. Μετακινήστε τα επιλεγμένα δεδομένα φύλλου σε αντικείμενο κλάσης Βιβλίο εργασίας που δημιουργήθηκε πρόσφατα χρησιμοποιώντας [Μέθοδος αντιγραφής](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Τέλος αποθηκεύστε το στην απαιτούμενη μορφή.
+ Ο απλούστερος τρόπος για να χωρίσετε το αρχείο Excel σε φύλλο είναι η πρόσβαση σε όλα τα φύλλα, η επανάληψη σε κάθε φύλλο και η αποθήκευση ένα προς ένα στην επιθυμητή μορφή. Για τη φόρτωση του φύλλου εργασίας, παρέχεται το API[ΤΕΤΡΑΔΙΟ ΕΡΓΑΣΙΩΝ](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) τάξη.[getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) Η μέθοδος λαμβάνει τον συνολικό αριθμό φύλλων. Επαναλάβετε σε κάθε φύλλο και χρησιμοποιήστε[getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get)για πρόσβαση σε συγκεκριμένο φύλλο. Μετακινήστε τα επιλεγμένα δεδομένα φύλλου σε αντικείμενο κλάσης Βιβλίο εργασίας που δημιουργήθηκε πρόσφατα χρησιμοποιώντας[Μέθοδος αντιγραφής](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Τέλος αποθηκεύστε το στην απαιτούμενη μορφή.
 
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για διαίρεση αρχείων Excel" %}}
 

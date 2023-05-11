@@ -1,11 +1,10 @@
 ---
-title: .NET Excel API | Tabellenkalkulationsformate über .NET Core verarbeiten 
+title:  .NET Excel API | Prozesstabellenformate via .NET Kern
 weight: 2030
-
-description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Dokumenten. Tabellenkalkulationsdateien erstellen, lesen, schreiben, speichern und drucken. In PDF oder weitere Formate konvertieren
+description: C# ASP.NET VB.NET Bibliothek zum Arbeiten mit Microsoft Excel-Dokumenten. Tabellendateien erstellen, lesen, schreiben, speichern und drucken. Konvertieren Sie in PDF oder mehr Formate
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Bearbeiten Sie Excel-Dateien über .NET APIs" h2="Tabellenkalkulationsdateien auf .NET-, .NET Core- und Xamarin-Plattformen lesen und schreiben. Exportieren Sie Tabellen ohne Microsoft Excel in andere Formate." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Bearbeiten Sie Excel-Dateien via .NET APIs" h2="Lesen und Schreiben von Tabellenkalkulationsdateien auf den Core- und Xamarin-Plattformen .NET, .NET. Exportieren Sie Tabellenkalkulationen in andere Formate ohne Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -13,11 +12,11 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET ist eine Excel-Tabellenprogrammierung API zur Beschleunigung der Tabellenverwaltung und -verarbeitung. API unterstützt die Erstellung plattformübergreifender Anwendungen mit der Fähigkeit, Tabellenkalkulationen zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Darüber hinaus verlässt es sich nicht auf die Installation von Microsoft Excel oder Microsoft Office Interop-Komponenten, sondern auf einen robusten Satz von APIs, die mit allen Excel-Formaten sowie CSV- und SpreadsheetML-Formaten umgehen.
+ Aspose.Cells for .NET ist eine Excel-Tabellenkalkulationsprogrammierung API zur Beschleunigung der Tabellenkalkulationsverwaltung und -verarbeitungsaufgaben. API unterstützt die Erstellung plattformübergreifender Anwendungen mit der Möglichkeit, Tabellenkalkulationen zu generieren, zu ändern, zu konvertieren, darzustellen und zu drucken. Darüber hinaus ist die Installation nicht auf Microsoft Excel oder Microsoft Office Interop-Komponenten angewiesen, sondern auf einen robusten Satz von APIs, die mit allen Excel-Formaten sowie den Formaten CSV und SpreadsheetML umgehen.
 </p>
 
 <p>
- Durch die Integration von API können Entwickler einige der grundlegenden Aufgaben ausführen, wie das Verwalten mehrerer Arbeitsblätter, das Erstellen von Tabelleninhalten und -stilen von Grund auf neu, das Importieren von Daten in die Arbeitsblätter aus verschiedenen Datenquellen, das Hinzufügen allgemeiner und komplexer mathematischer, finanzieller und Textformeln, die Bearbeitung von Diagramme, Bilder, Kommentare, Zeichenobjekte und vieles mehr.
+Durch die Integration von API können Entwickler einige der grundlegenden Aufgaben ausführen, z. B. mehrere Arbeitsblätter verwalten, Tabelleninhalte und -stile von Grund auf erstellen, Daten aus verschiedenen Datenquellen in die Arbeitsblätter importieren, allgemeine und komplexe mathematische, finanzielle und Textformeln hinzufügen, Diagramme bearbeiten, Bilder, Kommentare, Zeichenobjekte und vieles mehr.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,49 +24,49 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über API-Fähigkeiten." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Funktionen von API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Rendern
+ Rendern
    </header>
    <ul>
     <li>
-     Diagramm zu Bild
+ Vom Diagramm zum Bild
     </li>
     <li>
-     Arbeitsblatt zum Bild
+ Arbeitsblatt zum Bild
     </li>
     <li>
-     Tabellenkalkulation in PDF
+ Tabelle an PDF
     </li>
     <li>
-     Drucken
+ Drucken
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Datenverarbeitung
+ Datenverarbeitung
    </header>
    <ul>
     <li>
-     Formatierung anwenden
+ Formatierung anwenden
     </li>
     <li>
-     Diagramme erstellen
+ Erstellen Sie Diagramme
     </li>
     <li>
-     Formeln anwenden
+ Wenden Sie Formeln an
     </li>
     <li>
-     Zusammenfassen
+ Zusammenfassen
     </li>
     <li>
-     Intelligente Markierungen
+ Intelligente Marker
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
    <header>
     <i class="fa fa-table">
     </i>
-    Grid-Suite
+ Grid-Suite
    </header>
    <ul>
     <li>
-     Desktop-Steuerung für WinForms
+ Desktop-Steuerung für WinForms
     </li>
     <li>
-     Webkontrolle für ASP.NET
+ Webkontrolle für ASP.NET
     </li>
     <li>
-     Formatierung anwenden
+ Formatierung anwenden
     </li>
     <li>
-     Formeln anwenden
+ Wenden Sie Formeln an
     </li>
     <li>
-     Daten importieren/exportieren
+ Daten importieren/exportieren
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     .NET
    </small>
@@ -118,7 +117,7 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="API unterstützt .NET-Framework, .NET Core- und Xamarin-Plattform. Darüber hinaus kann es mit Mono und mehreren anderen Plattformen über COM Interop verwendet werden." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="API unterstützt das Framework .NET, die Core- und Xamarin-Plattform .NET. Darüber hinaus kann es über COM Interop mit Mono und mehreren anderen Plattformen verwendet werden." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -140,11 +139,11 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
    <header>
     <i class="fa fa-cubes">
     </i>
-    COM-Interop
+ COM-Interop
    </header>
    <ul>
     <li>
-     PHP, VBScript, Delphi, C++
+ PHP, VBScript, Delphi, C++
     </li>
    </ul>
   </div>
@@ -153,26 +152,26 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+ .NET Rahmen
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Kern
+ .NET Kern
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Xamarin-Plattform
+ Xamarin-Plattform
    </header>
    <ul>
     <li>
-     Xamarin.Android
+ Xamarin.Android
     </li>
     <li>
-     Xamarin.iOS
+ Xamarin.iOS
     </li>
    </ul>
    <!--
@@ -202,7 +201,7 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     .NET
    </small>
@@ -213,45 +212,45 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Aspose.Cells for .NET unterstützt die beliebte Tabelle [Dateiformate](https://docs.aspose.com/cells/net/supported-file-formats/)  sowie die am häufigsten verwendeten Bild- und Festlayoutformate." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description=" Aspose.Cells for .NET unterstützt die beliebte Tabellenkalkulation[Dateiformate](https://docs.aspose.com/cells/net/supported-file-formats/) sowie die am häufigsten verwendeten Bild- und Formate mit festem Layout." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input-Output
+ Input-Output
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Open Office:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Netz:
+ Netz:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Zahlen:
+      Numbers:
      </b>
-     Apples iWork Office Suite Numbers App-Dokumente
+ Apples iWork Office Suite Numbers App-Dokumente
     </li>
    </ul>
   </div>
@@ -260,24 +259,24 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Nur Ausgang
+ Nur Ausgabe
    </header>
    <ul>
     <li>
      <b>
-      Festes Layout:
+ Festes Layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Datenaustausch:
+ Datenaustausch:
      </b>
      DIF
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -294,7 +293,7 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
     .NET
    </small>
@@ -315,7 +314,7 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Erweiterte Excel-Tabellenfunktionen API
+Erweiterte Funktionen der Excel-Tabelle API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -326,138 +325,138 @@ description: C# ASP.NET VB.NET-Bibliothek für die Arbeit mit Microsoft Excel-Do
     <em class="fa fa-chrome ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ausgabe an einen Client-Browser senden
+ Senden Sie die Ausgabe an einen Client-Browser
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Daten importieren/exportieren in &amp; aus DataTable, DataView oder Array
+ Daten importieren/exportieren nach &amp; aus DataTable, DataView oder Array
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Hinzufügen &amp; Diagramme manipulieren &amp; PivotTable durch das Produkt API
+ Hinzufügen &amp; manipulieren Sie Diagramme &amp; PivotTable durch das Produkt API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importieren Sie Formeln aus einer Designer-Tabelle
+ Importieren Sie Formeln aus einer Designer-Tabelle
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Langen Blattnamen abschneiden &amp; Ersetzen Sie ungültige Zeichen zur Laufzeit
+ Lange Blattnamen und Namen abschneiden Ersetzen Sie ungültige Zeichen zur Laufzeit
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wenden Sie Textausrichtung auf Teiltext innerhalb der TextBox an
+ Wenden Sie die Textausrichtung auf Teiltext innerhalb der TextBox an
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zeilen einfügen &amp; Spalten mit erweiterten Einfügeoptionen
+ Zeilen und Zeilen einfügen Spalten mit erweiterten Einfügeoptionen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Unterstützung für CSV (comma-separated values) &amp; TSV (tabulatorgetrennte Werte)
+ Unterstützung für CSV (durch Kommas getrennte Werte) &amp; TSV (durch Tabulatoren getrennte Werte)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Kommentare manipulieren
+ Erstellen &amp; Kommentare manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Automatische Filter setzen &amp; Seitenumbrüche
+ Automatische Filter &amp; festlegen Seitenumbrüche
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Geben Sie Regeln für die bedingte Formatierung an
+ Geben Sie Regeln für die bedingte Formatierung an
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; benannte Bereiche manipulieren
+ Erstellen &amp; Benannte Bereiche manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Sparklines rendern
+ Erstellen &amp; Sparklines rendern
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportieren Sie Arbeitsblätter in das SVG-Format
+ Exportieren Sie Arbeitsblätter in das Format SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen &amp; Schreiben Sie große Tabellenkalkulationen im Leichtgewichtsmodus
+ Lesen &amp; Schreiben Sie große Tabellenkalkulationen im schlanken Modus
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Resampling von Bildern bei der Excel-in-PDF-Konvertierung
+ Erneutes Abtasten von Bildern bei der Konvertierung von Excel in PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ändern Sie VBA-Code oder Makros in der Vorlagendatei
+ Ändern Sie VBA-Code oder Makros in der Vorlagendatei
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Füllen Sie Tabellenkalkulationen über Smart Markers aus
+ Füllen Sie Tabellen über Smart Markers aus
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertieren Sie Tabellenkalkulationen in PDF, XPS &amp; HTML-Formate
+Konvertieren Sie Tabellen in PDF, XPS &amp; HTML Formate
     </h2>
     <p>
-     Aspose.Cells for .NET kann Tabellenkalkulationen in PDF, XPS &amp; HTML-Formate unter Beibehaltung der höchsten visuellen Wiedergabetreue. Der Konvertierungsprozess ist einfach, aber zuverlässig, was API zur perfekten Wahl für Organisationen macht, die Dokumente in einem der branchenüblichen Formate austauschen müssen.
+ Aspose.Cells for .NET ist in der Lage, Tabellenkalkulationen in PDF, XPS &amp; HTML-Formate unter Beibehaltung höchster visueller Wiedergabetreue. Der Konvertierungsprozess ist einfach und dennoch zuverlässig und macht API daher zur perfekten Wahl für Organisationen, die Dokumente in einem der branchenüblichen Formate austauschen müssen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tabelle in verschiedenen Formaten speichern – C#
+ Tabellenkalkulation in verschiedenen Formaten speichern – C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -476,41 +475,41 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Visualisieren Sie Daten mit Formatierung, Diagrammen &amp; Grafik
+ Visualisieren Sie Daten mit Formatierung, Diagrammen und anderen Daten. Grafik
     </h2>
     <p>
-     Aspose.Cells for .NET gibt Ihnen völlige Freiheit und Flexibilität, um Ihre Tabellenkalkulationen mit allen Arten von visuellen Effekten auszustatten. Mit API können Sie verschiedene Schriftarten mit Attributen, Zellstilen (Ausrichtung, Einrückung, Drehung, Rahmen, Schattierung und Färbung, Schutz, Textumbruch und -verkleinerung) und alle Arten von Zahlenformaten anwenden.
+ Aspose.Cells for .NET gibt Ihnen völlige Freiheit und Flexibilität, Ihre Tabellenkalkulationen mit allen möglichen visuellen Effekten auszustatten. Mit der API können Sie verschiedene Schriftarten mit Attributen, Zellstilen (Ausrichtung, Einrückung, Drehung, Ränder, Schattierung und Färbung, Schutz, Textumbruch und -verkleinerung) und alle Arten von Zahlenformaten anwenden.
     </p>
     <p>
-     Ebenso sind Diagramme und Grafiken optisch ansprechend und können Ihrer Tabelle ein professionelles Aussehen verleihen. Aspose.Cells for .NET bietet einen umfassenden Satz von APIs zum Erstellen und Bearbeiten aller standardmäßigen und benutzerdefinierten Diagrammtypen. Darüber hinaus können Sie den Zellen verschiedene Arten von Zeichnungsobjekten wie Kommentare, Bilder, OLE-Objekte, Formen und Steuerelemente hinzufügen
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Effizient, robust &amp; Zuverlässige Formelberechnungsmaschine
-    </h2>
-    <p>
-     Aspose.Cells for .NET verfügt über eine leistungsstarke Formelberechnungs-Engine, die fast alle standardmäßigen und erweiterten Formeln und Funktionen von Microsoft Excel unterstützt. Sie können die Ergebnisse der eingebauten, add-in, Array &amp; Formeln für R1C1-Referenzstile.
+Ebenso sind Diagramme und Grafiken optisch ansprechend und können Ihrer Tabelle ein professionelles Aussehen verleihen. Aspose.Cells for .NET bietet einen umfassenden Satz von APIs zum Erstellen und Bearbeiten aller Standard- und benutzerdefinierten Diagrammtypen. Darüber hinaus können Sie den Zellen verschiedene Arten von Zeichenobjekten hinzufügen, z. B. Kommentare, Bilder, OLE-Objekte, Formen und Steuerelemente
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Daten mit Pivot-Tabellen, Diagrammen &amp; Intelligente Markierungen
+ Effizient, robust &amp; Zuverlässige Formelberechnungsmaschine
     </h2>
     <p>
-     Eine Pivot-Tabelle kann Ihnen helfen, die flachen Daten schnell zusammenzufassen und die gewünschten Informationen gemäß Ihren Anforderungen zu erhalten. .NET Mit der Excel-Bibliothek können Sie Pivot-Tabellen und Pivot-Diagramme dynamisch erstellen. Sie können die Quelldaten einer Pivot-Tabelle dynamisch ändern und aktualisieren. Darüber hinaus bietet die Bibliothek Smart Marker, eine großartige Funktion, um Arbeitsblätter basierend auf einigen Datenquellen zu füllen und visuell effektive Berichte zu erstellen.
+ Aspose.Cells for .NET verfügt über eine leistungsstarke Formelberechnungs-Engine, die fast alle standardmäßigen und erweiterten Microsoft Excel-Formeln und -Funktionen unterstützt. Sie können die Ergebnisse der integrierten, Add-in-, Array- und Array-Funktionen lesen, festlegen und berechnen. R1C1-Referenzformeln.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel-Arbeitsblätter rendern &amp; Diagramme als Bilder
+ Fassen Sie Daten mit Pivot-Tabellen, Diagrammen und anderen zusammen. Intelligente Marker
     </h2>
     <p>
-     Aspose.Cells for .NET verfügt über eine eigene Rendering-Engine, die speziell für das Rendern &amp; Drucken mit höchster Treue zu Microsoft Excel. Es bietet Besonderheiten wie das Rendern von Excel-Arbeitsblättern &amp; Diagramme zu Bildern &amp; Drucken von Arbeitsblättern auf jedem angeschlossenen physischen Drucker. Der Prozess ist flexibel, sodass Sie eine Reihe von Optionen auswählen können, z. B. die Steuerung der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern &amp; Diagramme zu Bildern.
+Eine Pivot-Tabelle kann Ihnen helfen, die flachen Daten schnell zusammenzufassen und die gewünschten Informationen entsprechend Ihren Anforderungen zu erhalten. .NET Mit der Excel-Bibliothek können Sie Pivot-Tabellen und Pivot-Diagramme dynamisch erstellen. Sie können die Quelldaten einer Pivot-Tabelle dynamisch ändern und aktualisieren. Darüber hinaus bietet die Bibliothek Smart Markers, eine großartige Funktion zum Füllen von Arbeitsblättern basierend auf bestimmten Datenquellen und zum Erstellen visuell ansprechender Berichte.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ Rendern Sie Excel-Arbeitsblätter und -Dateien. Diagramme als Bilder
+    </h2>
+    <p>
+ Aspose.Cells for .NET verfügt über eine eigene Rendering-Engine, die speziell für das Rendering &amp; Drucken mit höchster Wiedergabetreue zum Microsoft Excel. Es bietet besondere Funktionen wie das Rendern von Excel-Arbeitsblättern und das Erstellen von Excel-Arbeitsblättern. Diagramme zu Bildern &amp; Drucken von Arbeitsblättern auf jedem angeschlossenen physischen Drucker. Der Prozess ist flexibel und ermöglicht Ihnen die Auswahl einer Reihe von Optionen, z. B. die Steuerung der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern und anderen Dokumenten. Diagramme zu Bildern.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arbeitsblatt in Bild umwandeln - C#
+Arbeitsblatt in Bild konvertieren – C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -541,26 +540,26 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Diagrammerstellung &amp; Manipulation
+ Diagrammerstellung &amp; Manipulation
     </h2>
     <p>
-     Aspose.Cells for .NET bietet vollständige Unterstützung für Diagramme. Mit dem Produkt API können Sie problemlos standardmäßige oder benutzerdefinierte Diagramme hinzufügen und die Daten dynamisch festlegen, um die Diagramme zu aktualisieren. API ermöglicht Ihnen auch, Diagramme in eine Reihe von Bildformaten zu konvertieren.
+ Aspose.Cells for .NET bietet vollständige Unterstützung für Diagramme. Mit dem Produkt API können Sie ganz einfach Standard- oder benutzerdefinierte Diagramme hinzufügen und die Daten dynamisch festlegen, um die Diagramme zu aktualisieren. API ermöglicht Ihnen auch die Konvertierung von Diagrammen in eine Reihe von Bildformaten.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Grafische Schnittstellen für Web &amp; Desktop-Anwendungen
+ Grafische Schnittstellen für Web &amp; Desktop-Anwendungen
     </h2>
     <p>
-     Aspose.Cells for .NET bietet GUI-Steuerelemente für Web- &amp; Desktop-Anwendungen. Endbenutzer können diese Steuerelemente zum Öffnen, Speichern &amp; Excel-Dateien bearbeiten, importieren &amp; Daten exportieren, Formatierung verwalten &amp; Formeln und konvertieren Sie zwischen mehreren unterstützten Tabellenkalkulationsformaten direkt vom Front-End Ihrer Anwendung.
+ Aspose.Cells for .NET bietet GUI-Steuerelemente für Web &amp; Desktop-Anwendungen. Endbenutzer können diese Steuerelemente verwenden, um Dateien zu öffnen, zu speichern und zu speichern. Excel-Dateien bearbeiten, importieren &amp; Daten exportieren, Formatierung verwalten &amp; Formeln erstellen und zwischen mehreren unterstützten Tabellenformaten konvertieren, direkt vom Front-End Ihrer Anwendung aus.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Office-Automatisierung – nicht erforderlich
+ Microsoft Büroautomatisierung – nicht erforderlich
     </h2>
     <p>
-     Aspose.Cells for .NET wird mithilfe von verwaltetem Code erstellt, für den niemals Microsoft Office oder Microsoft Excel auf dem Computer installiert werden muss, um mit Excel-Dokumentformaten zu arbeiten. Es ist eine perfekte Microsoft Office-Automatisierungsalternative in Bezug auf unterstützte Funktionen, Sicherheit, Stabilität, Skalierbarkeit, Geschwindigkeit und Preis.
+Aspose.Cells for .NET wird mit verwaltetem Code erstellt, der niemals die Installation von Microsoft Office oder Microsoft Excel auf dem Computer erfordert, um mit Excel-Dokumentformaten arbeiten zu können. Es ist eine perfekte Microsoft Office-Automatisierungsalternative im Hinblick auf unterstützte Funktionen, Sicherheit, Stabilität, Skalierbarkeit, Geschwindigkeit und Preis.
     </p>
    </div>
   </div>
@@ -574,18 +573,18 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Als Softwaredienstleistungsunternehmen wissen wir, wie wichtig Kundenservice bei der Zusammenarbeit mit Kunden ist. Ich freue mich, dass Aspose diesen Wert mit uns teilt. Aspose.Cells ist ein ausgezeichnetes Tool und hat einen erheblichen Geschwindigkeitsvorteil gegenüber VBA.
+ Als Softwaredienstleistungsunternehmen wissen wir, wie wichtig Kundenservice bei der Zusammenarbeit mit Kunden ist. Ich freue mich, dass Aspose diesen Wert mit uns teilt. Aspose.Cells ist ein hervorragendes Tool und bietet einen erheblichen Geschwindigkeitsvorteil gegenüber VBA.
  <em>
-  Paul Katze | Intersoft, USA
+ Paul Katz | Intersoft, USA
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Die Produktsuite und der Support von Aspose sind unübertroffen. Ohne diese Lösung hätten wir das, was wir getan haben, nicht tun können.
+ Die Produktsuite und der Support von Aspose sind unübertroffen. Ohne diese Lösung hätten wir das, was wir getan haben, nicht geschafft.
  <em>
-  Dr. Dan Patterson | Scharfsinn, Großbritannien
+ Dr. Dan Patterson | Acumen, Großbritannien
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -601,9 +600,9 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.com/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Versionshinweise" href="https://docs.aspose.com/cells/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

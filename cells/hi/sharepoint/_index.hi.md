@@ -1,11 +1,10 @@
 ---
-title: शेयरपॉइंट एक्सेल स्प्रेडशीट कन्वर्टर ऐप - Aspose 
+title:  शेयरपॉइंट एक्सेल स्प्रेडशीट कन्वर्टर ऐप - Aspose
 weight: 940
-
-description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint Excel स्प्रेडशीट कनवर्टर है। एक्सएलएस एक्सएलएसएक्स एक्सएमएल सीएसवी पीडीएफ ओडीएस &amp; MOSS WSS में HTML प्रारूप
+description: Aspose.Cells for SharePoint ऐप शेयरपॉइंट एक्सेल स्प्रेडशीट कन्वर्टर है। निर्यात XLS XLSX एक्सएमएल CSV PDF ODS और amp; MOSS WSS में HTML प्रारूप
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="एक्सेल स्प्रेडशीट में कनवर्ट करने के लिए SharePoint ऐप" h2="एक्सेल स्प्रेडशीट को सीधे SharePoint दस्तावेज़ लाइब्रेरी से 8 से अधिक फ़ाइल स्वरूपों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="एक्सेल स्प्रेडशीट्स को कन्वर्ट करने के लिए शेयरपॉइंट ऐप" h2="सीधे SharePoint दस्तावेज़ लाइब्रेरी से Excel स्प्रेडशीट को 8 से अधिक फ़ाइल स्वरूपों में कनवर्ट करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -13,7 +12,7 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells SharePoint के लिए एक लचीला एक्सेल स्प्रेडशीट कनवर्टर ऐप है। यह Microsoft Excel निर्भरता के बिना SharePoint दस्तावेज़ लाइब्रेरी से कई लोकप्रिय Microsoft Excel स्वरूपों के बीच दस्तावेज़ों को परिवर्तित कर सकता है। यह कई दस्तावेज़ स्वरूपों का समर्थन करता है जो SharePoint के मूल फ़ाइल स्वरूप समर्थन में शामिल नहीं हैं।
+ Aspose.Cells for SharePoint एक लचीला एक्सेल स्प्रेडशीट कनवर्टर ऐप है। यह Microsoft एक्सेल निर्भरताओं के बिना SharePoint दस्तावेज़ लाइब्रेरी से कई लोकप्रिय Microsoft एक्सेल स्वरूपों के बीच दस्तावेज़ों को परिवर्तित कर सकता है। यह कई दस्तावेज़ स्वरूपों का समर्थन करता है जो SharePoint के मूल फ़ाइल स्वरूप समर्थन में शामिल नहीं हैं।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="एक नजर में" description="SharePoint के लिए Aspose.Cells का एक सिंहावलोकन." >}}
+{{< blocks/products/pf/carousel-item h3="एक नजर में" description="Aspose.Cells for SharePoint का अवलोकन।" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    सरल प्रतिष्ठापन
+ आसान स्थापना
    </header>
    <ul>
     <li>
-     SharePoint WSP फ़ाइल
+ शेयरपॉइंट डब्ल्यूएसपी फ़ाइल
     </li>
     <li>
-     पूरे खेत में सक्रिय करें
+ फार्म भर में सक्रिय करें
     </li>
     <li>
-     पूरे खेत में निष्क्रिय करें
+ खेत भर में डी-एक्टिवेट करें
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
    <header>
     <i class="fa fa-file-o">
     </i>
-    रूपांतरण विकल्प
+ रूपांतरण विकल्प
    </header>
    <ul>
     <li>
-     उप-फ़ोल्डर में सहेजें
+ सब-फोल्डर्स में सेव करें
     </li>
     <li>
-     फ़ाइल संयोजन
+ फ़ाइल संयोजन
     </li>
     <li>
-     मौजूदा फ़ाइलें अधिलेखित करें
+ मौजूदा फ़ाइलें अधिलेखित करें
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
-    शेयर केंद्र
+ शेयर केंद्र
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="Aspose.Cells SharePoint के लिए Windows SharePoint Services, SharePoint Foundation और Microsoft SharePoint Server का समर्थन करता है।" >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="Aspose.Cells for SharePoint Windows SharePoint सेवाएँ, SharePoint Foundation और Microsoft SharePoint सर्वर का समर्थन करता है।" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    शेयरपॉइंट सर्वर
+ शेयरपॉइंट सर्वर
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    विंडोज शेयरपॉइंट सर्विसेज
+ Windows शेयरपॉइंट सेवाएं
    </header>
    <ul>
     <li>
-     डब्ल्यूएसएस 3.0
+ डब्ल्यूएसएस 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    शेयरपॉइंट फाउंडेशन
+ शेयरपॉइंट फाउंडेशन
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
-    शेयर केंद्र
+ शेयर केंद्र
    </small>
   </footer>
  </div>
@@ -155,45 +154,45 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="Aspose.Cells SharePoint के लिए कई लोकप्रिय स्प्रैडशीट स्वरूपों का समर्थन करता है, PDF, HTML और अन्य [फ़ाइल स्वरूप](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल स्वरूप" description="Aspose.Cells for SharePoint कई लोकप्रिय स्प्रेडशीट स्वरूपों का समर्थन करता है, PDF, HTML और अन्य[फ़ाइल प्रारूप](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    इनपुट आउटपुट
+ इनपुट आउटपुट
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft एक्सेल:
      </b>
-     एक्सएलएस, एक्सएलएसएक्स, एक्सएलएसबी, एक्सएलटीएक्स, एक्सएलटीएम, एक्सएलएसएम
+     XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
     <li>
      <b>
-      स्प्रेडशीटएमएल:
+      SpreadsheetML:
      </b>
-     एक्सएमएल
+     XML
     </li>
     <li>
      <b>
-      खुला दफ्तर:
+ खुला दफ्तर:
      </b>
-     ओडीएस
+     ODS
     </li>
     <li>
      <b>
-      मूलपाठ:
+ मूलपाठ:
      </b>
-     सीएसवी, टीएसवी, टैब-सीमांकित, टीXT
+ CSV, TSV, टैब-सीमांकित, TXT
     </li>
     <li>
      <b>
-      वेब:
+ वेब:
      </b>
-     एचटीएमएल, एमएचटीएम
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -202,20 +201,20 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    केवल आउटपुट
+ केवल आउटपुट
    </header>
    <ul>
     <li>
      <b>
-      निश्चित लेआउट:
+ फिक्स्ड लेआउट:
      </b>
-     पीडीएफ, एक्सपीएस
+     PDF, XPS
     </li>
     <li>
      <b>
-      इमेजिस:
+ इमेजिस:
      </b>
-     जेपीईजी, जीआईएफ, पीएनजी, बीएमपी, एसवीजी, झगड़ा, ईएमएफ
+     JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
    </ul>
   </div>
@@ -230,9 +229,9 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
-    शेयर केंद्र
+ शेयर केंद्र
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     एक्सेल स्प्रेडशीट को कई प्रारूपों में बदलें
+ एक्सेल स्प्रेडशीट्स को कई प्रारूपों में कनवर्ट करें
     </h2>
     <p>
-     SharePoint के लिए Aspose.Cells SharePoint दस्तावेज़ लायब्रेरी के भीतर से स्प्रेडशीट को कई लोकप्रिय दस्तावेज़ों और छवि स्वरूपों में कनवर्ट करने की अनुमति देता है। Aspose.Cells SharePoint के लिए वर्तमान में CSV के साथ अधिकांश स्प्रेडशीट स्वरूपों का समर्थन करता है &amp; इनपुट के रूप में एक्सएमएल, और स्प्रेडशीट प्रारूपों के साथ-साथ सीएसवी, एचटीएमएल, ओडीएस, पीडीएफ, एक्सएमएल और amp; छवि प्रारूप।
+ Aspose.Cells for SharePoint स्प्रैडशीट्स को SharePoint दस्तावेज़ लाइब्रेरी के भीतर से कई लोकप्रिय दस्तावेज़ और छवि स्वरूपों में कनवर्ट करने की अनुमति देता है। Aspose.Cells for SharePoint वर्तमान में CSV &amp; XML इनपुट के रूप में, और स्प्रेडशीट स्वरूपों के साथ-साथ CSV, HTML, ODS, PDF, XML और amp; छवि प्रारूप।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     रूपांतरण के दौरान फ़ाइलें संयोजित करें
+ कनवर्ज़न के दौरान फ़ाइलें कनेक्ट करें
     </h2>
     <p>
-     Aspose.Cells SharePoint के लिए विभिन्न स्वरूपों वाली फ़ाइलों को एक, एकल दस्तावेज़ में संयोजित करने की क्षमता प्रदान करता है। इसके अलावा, आप उस क्रम को सेट करने के लिए सूची में दस्तावेज़ों को ऊपर या नीचे ले जा सकते हैं जिसमें आप दस्तावेज़ों को संयोजित करना चाहते हैं।
+ Aspose.Cells for SharePoint विभिन्न स्वरूपों वाली फ़ाइलों को एक, एकल दस्तावेज़ में संयोजित करने की क्षमता प्रदान करता है। इसके अलावा, आप उस क्रम को निर्धारित करने के लिए सूची में दस्तावेज़ों को ऊपर या नीचे ले जा सकते हैं जिसमें आप दस्तावेज़ों को संयोजित करना चाहते हैं।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     सबफ़ोल्डर में फ़ाइलें कनवर्ट करें
+ फ़ाइलों को सबफ़ोल्डर में कनवर्ट करें
     </h2>
     <p>
-     Aspose.Cells SharePoint के लिए चयनित फ़ोल्डर के अंतर्गत सभी दस्तावेज़ों और उप-फ़ोल्डरों को पुनरावर्ती रूप से परिवर्तित करके रूपांतरण प्रक्रिया को और अधिक आसान बनाता है। मौजूदा उप-फ़ोल्डर संरचना गंतव्य फ़ोल्डर में बनाई गई है।
+Aspose.Cells for SharePoint एक चयनित फ़ोल्डर के अंतर्गत सभी दस्तावेज़ों और उप-फ़ोल्डरों को पुनरावर्ती रूप से परिवर्तित करके रूपांतरण प्रक्रिया को और आसान बनाता है। मौजूदा उप-फ़ोल्डर संरचना गंतव्य फ़ोल्डर में बनाई गई है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     मौजूदा फ़ाइलें अधिलेखित करें
+ मौजूदा फ़ाइलें अधिलेखित करें
     </h2>
     <p>
-     यदि गंतव्य फ़ोल्डर में पहले से ही उन्हीं नामों वाली फ़ाइलें हैं जिन्हें आप कनवर्ट करना चाहते हैं तो Aspose.Cells SharePoint के लिए आपको मौजूदा फ़ाइलों को अधिलेखित करने की अनुमति देता है या आप बस एक विकल्प का चयन कर सकते हैं जो ऐप को उन फ़ाइलों को संसाधित करने को छोड़ने का निर्देश देगा जो पहले से मौजूद हैं गंतव्य फ़ोल्डर।
+ यदि गंतव्य फ़ोल्डर में पहले से ही समान नाम वाली फ़ाइलें हैं जिन्हें आप कनवर्ट करना चाहते हैं तो Aspose.Cells for SharePoint आपको मौजूदा फ़ाइलों को अधिलेखित करने की अनुमति देता है या आप बस एक विकल्प का चयन कर सकते हैं जो ऐप को प्रसंस्करण फ़ाइलों को छोड़ने का निर्देश देगा जो पहले से ही गंतव्य फ़ोल्डर में मौजूद हैं .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     जनता के साथ बातचीत करें API
+ जनता के साथ बातचीत API
     </h2>
     <p>
-     आंतरिक SharePoint समाधान रखने वाले डेवलपर्स के लिए, वे सार्वजनिक API के माध्यम से SharePoint के दस्तावेज़ रूपांतरण इंजन के लिए Aspose.Cells का उपयोग कर सकते हैं। यह सभी समर्थित प्रारूपों और रूपांतरण विकल्पों के लिए प्रोग्रामेटिक एक्सेस प्रदान करता है।
+ आंतरिक SharePoint समाधान रखने वाले डेवलपर्स के लिए, वे इसके सार्वजनिक API के माध्यम से Aspose.Cells for SharePoint के दस्तावेज़ रूपांतरण इंजन का उपयोग कर सकते हैं। यह सभी समर्थित स्वरूपों और रूपांतरण विकल्पों के लिए प्रोग्रामेटिक एक्सेस प्रदान करता है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     माइक्रोसॉफ्ट एक्सेल ऑटोमेशन - जरूरत नहीं
+ Microsoft एक्सेल ऑटोमेशन - जरूरत नहीं है
     </h2>
     <p>
-     Aspose.Cells SharePoint के लिए प्रबंधित कोड का उपयोग करके बनाया गया है जिसे Excel स्वरूप रूपांतरण के साथ काम करने के लिए मशीन पर Microsoft Excel को स्थापित करने की कभी आवश्यकता नहीं होती है। यह समर्थित सुविधाओं, सुरक्षा, स्थिरता, मापनीयता, गति और कीमत के मामले में एक आदर्श Microsoft Excel स्वचालन विकल्प है।
+Aspose.Cells for SharePoint प्रबंधित कोड का उपयोग करके बनाया गया है जिसे एक्सेल प्रारूप रूपांतरण के साथ काम करने के लिए Microsoft एक्सेल को मशीन पर स्थापित करने की आवश्यकता नहीं है। यह समर्थित सुविधाओं, सुरक्षा, स्थिरता, मापनीयता, गति और कीमत के मामले में एक आदर्श Microsoft एक्सेल ऑटोमेशन विकल्प है।
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: Aspose.Cells SharePoint ऐप के लिए एक SharePoint E
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/cells" >}}
-{{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="सशुल्क समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="SharePoint के लिए Aspose.Cells क्यों?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

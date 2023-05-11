@@ -1,11 +1,10 @@
 ---
-title: Android-Excel-Tabelle API - Aspose 
+title: Android Excel-Tabelle API - Aspose
 weight: 6510
-
-description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schreib- und Analyse-Excel-Dateien. Eine Tabelle API für die Entwicklung mobiler Apps
+description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-, Schreib- und Analyse-Excel-Dateien. Eine Tabelle API für die Entwicklung mobiler Apps
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Android-APIs zum Bearbeiten von Excel-Tabellen" h2="Erstellen, lesen, schreiben oder manipulieren Sie Excel-Dateien innerhalb von Android-Apps ohne Abhängigkeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Android-APIs zum Bearbeiten von Excel-Tabellen" h2="Erstellen, lesen, schreiben oder bearbeiten Sie Excel-Dateien in Android-Apps ohne Abhängigkeiten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Android via Java" >}}
 
@@ -13,7 +12,7 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells für Android über Java ist ein skalierbares API zum programmgesteuerten Generieren, Kombinieren, Ändern und Analysieren von Tabellenkalkulationen. API bietet viele Funktionen, darunter Formatierung von Excel-Dokumenten und Seiteneinrichtungsaufgaben, Import- und Exportfunktionen, Rendern von Arbeitsblattseiten in Rasterbilder sowie das Festlegen von Bildauflösung, Qualität, Komprimierung, Hinzufügen verschiedener Diagramme und vieles mehr. Die Android-Tabelle API unterstützt XLS-, XLSX-, CSV-, SpreadsheetML-, ODS-, tabulatorgetrennte, HTML-, PDF-, XPS- und weitere Formate.
+ Aspose.Cells for Android via Java ist ein skalierbares API zum programmgesteuerten Generieren, Kombinieren, Ändern und Analysieren von Tabellenkalkulationen. API bietet viele Funktionen, darunter Excel-Dokumentformatierungs- und Seiteneinrichtungsaufgaben, Import- und Exportfunktionen, das Rendern von Arbeitsblattseiten in Rasterbilder sowie das Festlegen von Bildauflösung, Qualität, Komprimierung, das Hinzufügen verschiedener Diagramme und vieles mehr. Die Android-Tabelle API unterstützt XLS, XLSX, CSV, SpreadsheetML, ODS, Tabulatorgetrennt, HTML, PDF, XPS und weitere Formate.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über API-Fähigkeiten." >}}
+{{< blocks/products/pf/carousel-item h3="Auf einen Blick" description="Eine Übersicht über die Funktionen von API." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importieren &amp; Export
+ Importieren &amp; Export
    </header>
    <ul>
     <li>
-     Arrays
+ Arrays
     </li>
     <li>
-     Ergebnissatz
+ ResultSet
     </li>
     <li>
-     Sammlungen
+Sammlungen
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Rendern
+ Rendern
    </header>
    <ul>
     <li>
-     Diagramm zu Bild
+ Vom Diagramm zum Bild
     </li>
     <li>
-     Arbeitsblatt zum Bild
+ Arbeitsblatt zum Bild
     </li>
     <li>
-     Tabellenkalkulation in PDF
+ Tabelle an PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
    <header>
     <i class="fa fa-table">
     </i>
-    Datenverarbeitung
+ Datenverarbeitung
    </header>
    <ul>
     <li>
-     Formatierung anwenden
+ Formatierung anwenden
     </li>
     <li>
-     Formel anwenden
+ Formel anwenden
     </li>
     <li>
-     Diagramme erstellen
+ Erstellen Sie Diagramme
     </li>
     <li>
-     Zusammenfassen
+ Zusammenfassen
     </li>
     <li>
-     Intelligente Markierungen
+ Intelligente Marker
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
-    Android über Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells für Android über Java ist für Android 2.0 oder höher verfügbar." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformunabhängigkeit" description="Aspose.Cells for Android via Java ist verfügbar for Android 2.0 oder höher." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Android-Laufzeitumgebung
+ Android-Laufzeitumgebung
    </header>
    <ul>
     <li>
-     Mobile Applikation
+ Mobile Applikation
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
-    Android über Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Die Android-Tabelle API unterstützt die gängigen Microsoft Excel-Formate, Bilder und Formate mit festem Layout." >}}
+{{< blocks/products/pf/carousel-item h3="Unterstützte Dateiformate" description="Die Android-Tabelle API unterstützt die beliebten Microsoft Excel-Formate, Bilder und Formate mit festem Layout." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input-Output
+ Input-Output
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Open Office:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Netz:
+ Netz:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Nur Ausgang
+ Nur Ausgabe
    </header>
    <ul>
     <li>
      <b>
-      Festes Layout:
+ Festes Layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
   <footer>
    <small>
     <em>
-     zum
+ für
     </em>
-    Android über Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Erweiterte Funktionen von Android Excel API
+ Erweiterte Android Excel API-Funktionen
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wenden Sie die Formatierung auf Arbeitsblatt, Zeile, Spalte, Zelle und Bereich an
+Wenden Sie Formatierungen auf Arbeitsblätter, Zeilen, Spalten, Zellen und Bereiche an
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportieren und importieren Sie Daten aus ArrayList, Array, Recordset &amp; Ergebnismenge
+ Exportieren und Importieren von Daten aus ArrayList, Array, Recordset &amp; Ergebnismenge
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verschlüsseln &amp; Excel-Dateien entschlüsseln
+ Verschlüsseln &amp; Excel-Dateien entschlüsseln
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zahlenformatierung festlegen
+ Zahlenformatierung festlegen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Diagramme manipulieren
+ Erstellen &amp; Diagramme manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Kommentare manipulieren
+ Erstellen &amp; Kommentare manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen, einstellen &amp; Formeln berechnen
+ Lesen, einstellen &amp; Formeln berechnen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurieren Sie die Seiteneinrichtung
+ Konfigurieren Sie die Seiteneinrichtung
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Set &amp; automatische Filter manipulieren &amp; Seitenumbrüche
+ Festlegen &amp; Manipulieren Sie automatische Filter und Seitenumbrüche
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen &amp; Bedingte Formatierung schreiben
+ Lesen &amp; Bedingte Formatierung schreiben
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen Sie Kopien vorhandener Arbeitsblätter
+ Erstellen Sie Kopien vorhandener Arbeitsblätter
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Legen Sie die Schutzoptionen fest, die seit Microsoft Excel XP eingeführt wurden
+ Legen Sie die Schutzoptionen fest, die seit Microsoft in Excel XP eingeführt wurden
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Zellen manipulieren &amp; benannte Bereiche
+ Manipulieren Sie Zellen &amp; benannte Bereiche
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertieren Sie Excel-Dateien in PDF
+ Konvertieren Sie Excel-Dateien in PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Arbeitsblätter konvertieren &amp; Diagramme zu Bildern
+ Konvertieren Sie Arbeitsblätter und Dokumente. Diagramme zu Bildern
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Android-Tabellenkalkulationsbibliothek zum Erstellen von Lese-Schre
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Pivot-Tabellen manipulieren
+ Erstellen &amp; Pivot-Tabellen manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Bearbeiten von benutzerdefinierten Diagrammen
+ Erstellen &amp; Bearbeiten Sie benutzerdefinierte Diagramme
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verfolgen Sie Präzedenzfälle und Abhängigkeiten
+ Verfolgen Sie Präzedenzfälle und Abhängige
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Erstellen &amp; Szenarien manipulieren
+ Erstellen &amp; Szenarien manipulieren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Leistungsstarke Formelberechnungsmaschine
+Leistungsstarke Formelberechnungsmaschine
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lesen &amp; schreibe TSV, CSV &amp; HTML-Dateien
+ Lesen &amp; schreiben Sie TSV, CSV &amp; HTML Dateien
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertierung verschiedener Formate
+ Konvertierung verschiedener Formate
     </h2>
     <p>
-     Die Android Excel-Bibliothek bietet die Konvertierung von Tabellenkalkulationen in XPS, PDF &amp; HTML-Formate mit höchster visueller Wiedergabetreue. Der zuverlässige Konvertierungsprozess macht API zur perfekten Wahl für Unternehmen, die Dateien in branchenüblichen Formaten austauschen möchten.
+ Die Android Excel-Bibliothek bietet die Konvertierung von Tabellenkalkulationen in XPS, PDF &amp; HTML-Formate mit höchster visueller Wiedergabetreue. Der zuverlässige Konvertierungsprozess macht API zur perfekten Wahl für Unternehmen, die Dateien in branchenüblichen Formaten austauschen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Arbeitsmappe in verschiedenen Formaten speichern – Java
+ Arbeitsmappe in verschiedenen Formaten speichern – Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertieren Sie Tabellenobjekte in verschiedene Formate
+ Konvertieren Sie Tabellenobjekte in verschiedene Formate
     </h2>
     <p>
-     Aspose.Cells für Android über Java bieten einige charakteristische Funktionen wie Arbeitsblätter für Bilder, Diagramme für Bilder &amp; Konvertierung von PDF und Tabellenkalkulationen in das PDF-Dokumentformat. Der flexible Prozess bietet eine Reihe von Optionen für die Konvertierung, z. B. das Resampling von Bildern während der Tabellenkalkulation in PDF oder das Festlegen der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern &amp; Diagramme in Bildformate.
+ Aspose.Cells for Android via Java bieten einige besondere Funktionen wie Arbeitsblätter zu Bildern, Diagramme zu Bildern &amp; PDF und Tabellenkalkulationen in das Dokumentformat PDF konvertieren. Der flexible Prozess bietet eine Reihe von Optionen für die Konvertierung, z. B. das erneute Sampling von Bildern während der Tabellenkalkulation auf PDF oder das Festlegen der resultierenden Bildabmessungen beim Rendern von Arbeitsblättern und Tabellen. Diagramme in Bildformate.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Arbeitsblatt API Formelberechnungsmodul
+Tabellenkalkulation API Formelberechnungs-Engine
     </h2>
     <p>
-     Android Sheets API bietet eine leistungsstarke Formelberechnungs-Engine, die die erweiterten und standardmäßigen Funktionen und Formeln von Microsoft Excel unterstützt. Die Formelberechnungs-Engine erleichtert das Lesen, Festlegen und Berechnen der Ergebnisse der integrierten oder Add-in-Typ-, Array- und R1C1-Referenzstilformeln.
+ Android Sheets API bietet eine leistungsstarke Formelberechnungs-Engine, die die erweiterten und Standard-Excel-Funktionen und -Formeln unterstützt. Die Formelberechnungs-Engine erleichtert das Lesen, Festlegen und Berechnen der Ergebnisse der integrierten oder add-in-Typ-, Array- und R1C1-Referenzstilformeln.
     </p>
    </div>
    <!--
@@ -578,12 +577,12 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkt Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.com/c/cells" >}}
-{{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="Kostenloser Support" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="Bezahlter Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells für Android über Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundenliste" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Erfolgsgeschichten" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

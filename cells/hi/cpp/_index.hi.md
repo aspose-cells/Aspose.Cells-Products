@@ -1,11 +1,10 @@
 ---
-title: C++ एक्सेल स्प्रेडशीट प्रोग्रामिंग API - Aspose 
+title:  C++ एक्सेल स्प्रेडशीट प्रोग्रामिंग API - Aspose
 weight: 7140
-
-description: C++ एक्सएलएस, एक्सएलएसएक्स, एक्सएलएसएम और एक्सएलएसबी प्रारूपों सहित फाइलों को लिखने और पार्स करने के लिए एक्सेल लाइब्रेरी। स्प्रैडशीट को PDF, CSV और अन्य प्रारूपों में बदलें
+description: C++ XLS, XLSX, XLSM और XLSB स्वरूपों सहित फ़ाइलों को पढ़ने, लिखने और पार्स करने के लिए एक्सेल लाइब्रेरी। स्प्रैडशीट को PDF, CSV और अधिक प्रारूपों में कनवर्ट करें
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ एक्सेल स्प्रेडशीट एपीआई" h2="पूर्ण-कार्यात्मक C++ अनुप्रयोगों में किसी भी Microsoft Excel निर्भरता के बिना स्प्रेडशीट बनाएं, पढ़ें, लिखें और पार्स करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ एक्सेल स्प्रेडशीट एपीआई" h2="पूर्ण-कार्यात्मक C++ अनुप्रयोगों के भीतर किसी भी Microsoft एक्सेल निर्भरताओं के बिना स्प्रेडशीट बनाएं, पढ़ें, लिखें और पार्स करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -13,7 +12,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- C++ के लिए Aspose.Cells स्प्रेडशीट हेरफेर के लिए एक मूल C++ API है। एप्लिकेशन स्प्रेडशीट के बिल्ट-इन और कस्टम प्रॉपर्टीज, थीम्स, स्टाइल्स और फॉर्मेटिंग, डेटा वैलिडेशन, कंडीशनल फॉर्मेटिंग, रीडिंग, राइटिंग और कैलकुलेटिंग फॉर्मूला, ग्रुपिंग रो और कॉलम और बहुत कुछ जैसे ऑफिस ऑटोमेशन पर भरोसा किए बिना कार्य कर सकते हैं। या माइक्रोसॉफ्ट एक्सेल। API सबसे अधिक उपयोग किए जाने वाले स्प्रेडशीट स्वरूपों जैसे XLS, XLSX, XLSM और XLSB का समर्थन करता है।
+ स्प्रेडशीट हेरफेर के लिए Aspose.Cells for C++ मूल निवासी C++ API है। एप्लिकेशन स्प्रैडशीट की बिल्ट-इन और कस्टम प्रॉपर्टी, थीम, स्टाइल और फॉर्मेटिंग, डेटा वैलिडेशन, कंडीशनल फॉर्मेटिंग, रीडिंग, राइटिंग और कैलकुलेटिंग फॉर्मूला, ग्रुपिंग रो और कॉलम और बहुत कुछ जैसे ऑफिस ऑटोमेशन पर भरोसा किए बिना काम कर सकते हैं। या Microsoft एक्सेल। API XLS, XLSX, XLSM और XLSB जैसे सबसे अधिक उपयोग किए जाने वाले स्प्रेडशीट स्वरूपों का समर्थन करता है।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,39 +20,39 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="एक नजर में" description="API का एक सिंहावलोकन।" >}}
+{{< blocks/products/pf/carousel-item h3="एक नजर में" description="API का अवलोकन।" >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-retweet">
     </i>
-    प्रारूप रूपांतरण
+ प्रारूप रूपांतरण
    </header>
    <br/>
    <header>
     <i class="fa fa-bar-chart">
     </i>
-    डाटा प्रासेसिंग
+ डाटा प्रासेसिंग
    </header>
    <ul>
     <li>
-     पिवट तालिका
+ पिवट तालिका
     </li>
     <li>
-     टेबल
+ टेबल
     </li>
     <li>
-     चार्ट
+ चार्ट
     </li>
     <li>
-     सूत्र गणना
+सूत्र गणना
     </li>
     <li>
-     आंकड़ा मान्यीकरण
+ आंकड़ा मान्यीकरण
     </li>
     <li>
-     सशर्त स्वरूपण
+ सशर्त स्वरूपण
     </li>
    </ul>
   </div>
@@ -62,41 +61,41 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
    <header>
     <i class="fa fa-cogs">
     </i>
-    चालाकी
+ चालाकी
    </header>
    <ul>
     <li>
-     स्प्रैडशीट लोड/सहेजें
+ स्प्रेडशीट लोड/सेव करें
     </li>
     <li>
-     डेटा मेनिपुलेशन
+ डेटा मेनिपुलेशन
     </li>
     <li>
-     अंतर्निहित गुण
+ अंतर्निहित गुण
     </li>
     <li>
-     कस्टम गुण
+ कस्टम गुण
     </li>
     <li>
-     विषयों
+ विषय-वस्तु
     </li>
     <li>
-     शैलियाँ &amp; का प्रारूपण
+ शैलियाँ और amp; का प्रारूपण
     </li>
     <li>
-     हाइपरलिंक
+ हाइपरलिंक्स
     </li>
     <li>
-     ऑटो फ़िल्टर
+ ऑटोफिल्टर
     </li>
     <li>
-     पृष्ठ सेटअप
+ पृष्ठ सेटअप
     </li>
     <li>
-     पढ़ना, सूत्र लिखना
+ पढ़ना, लेखन सूत्र
     </li>
     <li>
-     पंक्तियों का समूहन &amp; कॉलम
+ पंक्तियों का समूहीकरण &amp; कॉलम
     </li>
    </ul>
   </div>
@@ -111,7 +110,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
     C++
    </small>
@@ -122,20 +121,20 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description="निम्नलिखित के साथ निम्नलिखित प्लेटफॉर्म पर API C++ एप्लिकेशन का पूर्ण समर्थन करता है [सिस्टम आवश्यकताएं](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="प्लेटफार्म स्वतंत्रता" description=" API निम्नलिखित प्लेटफॉर्म पर C++ एप्लिकेशन को पूरी तरह से सपोर्ट करता है[सिस्टम आवश्यकताएं](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-    विंडोज 32 बिट
+ Windows 32 बिट
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    विंडोज 64 बिट
+ Windows 64 बिट
    </header>
   </div>
   <!--/left-->
@@ -143,7 +142,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
    <header>
     <i class="fa fa-cubes">
     </i>
-    लिनक्स 64 बिट
+ लिनक्स 64 बिट
    </header>
   </div>
   <!--/right-->
@@ -157,7 +156,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
     C++
    </small>
@@ -168,39 +167,39 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल प्रारूप" description="C++ के लिए Aspose.Cells सबसे अधिक उपयोग की जाने वाली स्प्रेडशीट का समर्थन करता है [फ़ाइल स्वरूप](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="समर्थित फ़ाइल स्वरूप" description=" Aspose.Cells for C++ सबसे अधिक उपयोग की जाने वाली स्प्रेडशीट का समर्थन करता है[फ़ाइल प्रारूप](https://docs.aspose.com/cells/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    इनपुट आउटपुट
+ इनपुट आउटपुट
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft एक्सेल:
      </b>
-     एक्सएलएस, एक्सएलएसएक्स, एक्सएलएसबी, एक्सएलटी, एक्सएलटीएक्स, एक्सएलटीएम, एक्सएलएसएम, एक्सएमएल
+ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, एक्सएमएल
     </li>
     <li>
      <b>
-      मूलपाठ:
+ मूलपाठ:
      </b>
-     सीएसवी, टीएसवी
+     CSV, TSV
     </li>
     <li>
      <strong>
-      दस्तावेज़ खोलें:
+ दस्तावेज़ खोलें:
      </strong>
-     ओडीएस
+     ODS
     </li>
     <li>
      <strong>
-      अन्य:
+ अन्य:
      </strong>
-     एचटीएमएल, एमएचटीएम
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -209,26 +208,26 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    केवल आउटपुट
+ केवल आउटपुट
    </header>
    <ul>
     <li>
      <b>
-      एक्सेल:
+ एक्सेल:
      </b>
-     एक्सएलएसएम, एक्सएलटीएक्स, एक्सएलटीएम, एक्सएलएएम
+     XLSM, XLTX, XLTM, XLAM
     </li>
     <li>
      <b>
-      निश्चित लेआउट:
+ फिक्स्ड लेआउट:
      </b>
-     पीडीएफ, एक्सपीएस
+     PDF, XPS
     </li>
     <li>
      <b>
-      इमेजिस:
+ इमेजिस:
      </b>
-     जेपीईजी, पीएनजी, बीएमपी, टीआईएफएफ, जीआईएफ, ईएमएफ, एसवीजी
+     JPEG, PNG, BMP, TIFF, GIF, EMF, SVG
     </li>
    </ul>
   </div>
@@ -243,7 +242,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
   <footer>
    <small>
     <em>
-     के लिए
+ के लिए
     </em>
     C++
    </small>
@@ -264,7 +263,7 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    उन्नत C++ स्प्रेडशीट API विशेषताएं
+ उन्नत C++ स्प्रेडशीट API विशेषताएं
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for C++ not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents and format cells.</p> 
 
@@ -275,146 +274,146 @@ description: C++ एक्सएलएस, एक्सएलएसएक्स,
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     लोड &amp; स्ट्रीम का उपयोग करके एक्सेल फाइल को सेव करें
+ लोड और amp; स्ट्रीम का उपयोग करके एक्सेल फाइल को सेव करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     बनाएं &amp; चार्ट में हेरफेर
+ &amp; चार्ट में हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     इनपुट प्रतिबंधित करने के लिए डेटा सत्यापन सेट करें
+इनपुट को प्रतिबंधित करने के लिए डेटा सत्यापन सेट करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     पंक्तियों को समूहीकृत करके डेटा व्यवस्थित करें &amp; कॉलम
+ पंक्तियों को समूहीकृत करके डेटा व्यवस्थित करें & amp; कॉलम
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     बिल्ट-इन में हेरफेर करें &amp; कस्टम गुण
+ बिल्ट-इन &amp; कस्टम गुण
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     जोड़ें &amp; हाइपरलिंक्स में हेरफेर करें
+ जोड़ें &amp; हाइपरलिंक्स में हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     बनाएं &amp; पिवट टेबल्स में हेरफेर करें
+ &amp; पिवट टेबल में हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-magic ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     थीम का उपयोग करके अपनी कार्यपुस्तिका का रूप बदलें
+ थीम का उपयोग करके अपनी कार्यपुस्तिका का रूप बदलें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     टेबल बनाएं &amp; वस्तुओं की सूची बनाएं
+ टेबल बनाएं &amp; सूची वस्तुओं
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ड्राइंग ऑब्जेक्ट्स में हेरफेर करें
+ ड्राइंग ऑब्जेक्ट्स में हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-excel-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     कक्षों, पंक्तियों, स्तंभों या श्रेणियों में शैलियाँ और स्वरूपण लागू करें
+ सेल, रो, कॉलम या रेंज में स्टाइल और फ़ॉर्मैटिंग लागू करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     ट्रेस मिसालें &amp; आश्रितों
+ मिसालें ट्रेस करें &amp; आश्रितों
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     पढ़ें, लिखें और amp; जटिल सूत्रों की गणना करें
+ पढ़ें, लिखें और amp; जटिल सूत्रों की गणना करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bars ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OLE ऑब्जेक्ट जोड़ें या निकालें
+ OLE ऑब्जेक्ट जोड़ें या निकालें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tags ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     सशर्त स्वरूपण नियम बनाएं
+ सशर्त स्वरूपण नियम बनाएँ
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     उपयोगकर्ता-परिभाषित फ़ंक्शंस बनाएं और कार्यान्वित करें
+ उपयोगकर्ता परिभाषित कार्यों को बनाएं और कार्यान्वित करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     चार्ट को पीडीएफ प्रारूप में बदलें
+ चार्ट को PDF प्रारूप में बदलें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     चार्ट को छवि प्रारूप में बदलें
+ चार्ट को छवि प्रारूप में बदलें
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     माइक्रोसॉफ्ट एक्सेल पर जीरो डिपेंडेंसी
+ Microsoft एक्सेल पर शून्य निर्भरता
     </h2>
     <p>
-     Aspose API पूरी तरह से स्वतंत्र हैं और Microsoft Corporation से संबद्ध नहीं हैं, न ही अधिकृत, प्रायोजित, या अन्यथा स्वीकृत हैं। Aspose.Cells के लिए C++ को एक्सेल दस्तावेज़ प्रारूपों के साथ काम करने के लिए मशीन पर माइक्रोसॉफ्ट ऑफिस या माइक्रोसॉफ्ट एक्सेल को स्थापित करने की आवश्यकता नहीं है।
+Aspose एपीआई पूरी तरह से स्वतंत्र हैं और Microsoft निगम से संबद्ध नहीं हैं, न ही अधिकृत, प्रायोजित, या अन्यथा अनुमोदित हैं। Aspose.Cells for C++ को कभी भी Microsoft कार्यालय या Microsoft एक्सेल को एक्सेल दस्तावेज़ प्रारूपों के साथ काम करने के लिए मशीन पर स्थापित करने की आवश्यकता नहीं है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     सरल &amp; एक्सेल प्रारूपों का विश्वसनीय रूपांतरण
+ सरल और amp; एक्सेल प्रारूपों का विश्वसनीय रूपांतरण
     </h2>
     <p>
-     Aspose.Cells के लिए C++ एपीआई का एक शक्तिशाली सेट है जो प्रारूप-विशिष्ट विवरणों की चिंता किए बिना एक्सेल फ़ाइल स्वरूपों को लोड करने, संपादित करने, लिखने और अंतर-रूपांतरित करने की क्षमता प्रदान करता है। API आपको कोड की केवल दो पंक्तियों के साथ किसी भी समर्थित प्रारूप से स्प्रेडशीट को किसी अन्य समर्थित प्रारूप में बदलने की अनुमति देता है। यह इतना आसान है!
+ Aspose.Cells for C++ एपीआई का एक शक्तिशाली सेट है जो प्रारूप-विशिष्ट विवरण के बारे में चिंता किए बिना एक्सेल फ़ाइल स्वरूपों को लोड करने, संपादित करने, लिखने और अंतर-रूपांतरित करने की क्षमता प्रदान करता है। API आपको कोड की केवल दो पंक्तियों के साथ स्प्रेडशीट को किसी भी समर्थित प्रारूप से किसी अन्य समर्थित प्रारूप में बदलने की अनुमति देता है। यह इतना आसान है!
     </p>
     <div class="codeblock" id="code">
      <h3>
-      एक्सेल फाइलों को कई प्रारूपों में कनवर्ट करें - C++
+ एक्सेल फाइलों को कई प्रारूपों में कनवर्ट करें - C++
      </h3>
      <pre><code class="cpp">// load the document for conversion
 
@@ -431,42 +430,42 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     व्यापक स्प्रेडशीट स्वरूपण
+ व्यापक स्प्रेडशीट स्वरूपण
     </h2>
     <p>
-     C++ के लिए Aspose.Cells आपको उन्नत स्वरूपण सुविधाओं की पेशकश करके इस पर पूर्ण नियंत्रण देता है कि आप कार्यपत्रक पर अपना डेटा कैसे प्रस्तुत करना चाहते हैं। आप अलग-अलग पंक्ति, कॉलम, सेल में फ़ॉर्मेटिंग लागू कर सकते हैं, या आप सेल की एक श्रृंखला बना सकते हैं और उस पर फ़ॉर्मेटिंग लागू कर सकते हैं। आप सेल में रिच टेक्स्ट भी जोड़ सकते हैं, बॉर्डर लागू कर सकते हैं, बैकग्राउंड पैटर्न सेट कर सकते हैं या फ़ॉन्ट से संबंधित स्टाइलिंग पहलुओं को बदल सकते हैं।
+Aspose.Cells for C++ उन्नत स्वरूपण सुविधाओं की पेशकश के द्वारा, आप वर्कशीट पर अपना डेटा कैसे प्रस्तुत करना चाहते हैं, इस पर आपको पूर्ण नियंत्रण देता है। आप व्यक्तिगत पंक्ति, कॉलम, सेल में स्वरूपण लागू कर सकते हैं, या आप कक्षों की एक श्रृंखला बना सकते हैं और उस पर स्वरूपण लागू कर सकते हैं। आप सेल में रिच टेक्स्ट भी जोड़ सकते हैं, बॉर्डर लगा सकते हैं, बैकग्राउंड पैटर्न सेट कर सकते हैं या फॉन्ट से संबंधित स्टाइलिंग पहलुओं को ट्वीक कर सकते हैं।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     चार्ट के साथ डेटा विज़ुअलाइज़ करें
+ चार्ट के साथ डेटा की कल्पना करें
     </h2>
     <p>
-     Aspose.Cells के लिए C++ एक्सेल एप्लिकेशन द्वारा समर्थित सभी मानक और कस्टम चार्ट प्रकारों को गतिशील रूप से बनाने के लिए एपीआई का एक व्यापक सेट प्रदान करता है। API मौजूदा चार्ट के लिए डेटा स्रोत को अपडेट करने और उसे रीफ्रेश करने की क्षमता भी प्रदान करता है।
+ Aspose.Cells for C++ एक्सेल एप्लिकेशन द्वारा समर्थित सभी मानक और कस्टम चार्ट प्रकारों को गतिशील रूप से बनाने के लिए एपीआई का एक व्यापक सेट प्रदान करता है। API मौजूदा चार्ट के लिए डेटा स्रोत को अपडेट करने और इसे रीफ्रेश करने की क्षमता भी प्रदान करता है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     छवियों के रूप में कार्यपत्रक प्रस्तुत करें
+ छवियों के रूप में कार्यपत्रक प्रस्तुत करें
     </h2>
     <p>
-     पुस्तकालय अपने स्वयं के प्रतिपादन इंजन का उपयोग करके माइक्रोसॉफ्ट एक्सेल को उच्चतम निष्ठा के साथ प्रस्तुत करता है। यह बीएमपी, टीआईएफएफ, पीएनजी, जेपीईजी &amp; ईएमएफ शीट2इमेज प्रक्रिया लचीली है और इस प्रकार परिणामी छवि के रिज़ॉल्यूशन को नियंत्रित करने जैसे विकल्पों का चयन करने की अनुमति देती है।
+पुस्तकालय अपने स्वयं के रेंडरिंग इंजन का उपयोग करके Microsoft एक्सेल को उच्चतम निष्ठा के साथ प्रस्तुत करता है। यह BMP, TIFF, PNG, JPEG और amp; EMF।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     कॉलम और पंक्तियों में हेरफेर करें
+ स्तंभों और पंक्तियों में हेरफेर करें
     </h2>
     <p>
-     C++ के लिए Aspose.Cells कई तरीकों से पंक्तियों और स्तंभों में हेरफेर की पेशकश करता है। पंक्ति की ऊंचाई और कॉलम की चौड़ाई को समायोजित करें या इसमें मौजूद सामग्री के अनुसार सेल आयामों का स्वत: आकार बदलें, यह बहुत आसान है। API हटाने और इनसेट करने, छिपाने या दिखाने के साथ-साथ पंक्तियों और स्तंभों को समूहबद्ध या अन-ग्रुप करने का साधन भी प्रदान करता है।
+ Aspose.Cells for C++ कई तरीकों से पंक्तियों और स्तंभों में हेरफेर प्रदान करता है। पंक्ति की ऊंचाई और कॉलम की चौड़ाई को समायोजित करें या इसमें मौजूद सामग्री के अनुसार सेल आयामों को स्वत: आकार दें, यह बहुत आसान है। API पंक्तियों और स्तंभों को समूहीकृत या अन-समूहित करने के साथ-साथ हटाने और इनसेट करने, छिपाने या दिखाने के साधन भी प्रदान करता है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     स्प्रैडशीट को PDF में सटीक रूप से बदलें
+ स्प्रैडशीट को PDF में सटीक रूप से रूपांतरित करें
     </h2>
     <p>
-     एक्सेल C++ लाइब्रेरी मूल दस्तावेज़ की गुणवत्ता को बनाए रखते हुए स्प्रेडशीट को पीडीएफ प्रारूप में बदलने की क्षमता प्रदान करती है। यह तथ्य Aspose.Cells के लिए C++ को उन संगठनों के लिए एक आदर्श विकल्प बनाता है जिन्हें पीडीएफ के रूप में उद्योग-मानक प्रारूपों में दस्तावेजों का आदान-प्रदान करने की आवश्यकता होती है।
+एक्सेल C++ लाइब्रेरी मूल दस्तावेज़ के समान गुणवत्ता बनाए रखते हुए स्प्रेडशीट को PDF प्रारूप में बदलने की क्षमता प्रदान करती है। यह तथ्य Aspose.Cells for C++ को उन संगठनों के लिए एक आदर्श विकल्प बनाता है जिन्हें PDF के रूप में उद्योग-मानक प्रारूपों में दस्तावेज़ों का आदान-प्रदान करने की आवश्यकता होती है।
     </p>
    </div>
    <!-- 
@@ -507,13 +506,13 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/cells" >}}
-{{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="सशुल्क समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="C++ के लिए Aspose.Cells क्यों?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.Cells for C++?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

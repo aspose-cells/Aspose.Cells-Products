@@ -1,6 +1,5 @@
 ---
-title: Crear gráficos de líneas a través de C# 
-
+title:  Crear gráficos de líneas a través de C#
 description: C# Código de muestra para crear gráficos de líneas en Excel usando la biblioteca .NET. Use este código para crear un gráfico de líneas para MS Excel dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -11,7 +10,7 @@ description: C# Código de muestra para crear gráficos de líneas en Excel usan
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Crear gráficos de líneas dinámicamente dentro de la aplicación en ejecución es fácil. Para crear una variedad de gráficos en hojas de cálculo desde cero sin necesidad de MS Office, usaremos [Aspose.Cells for .NET](https://products.aspose.com/cells/net)  API que ofrece diferentes funciones para la creación, manipulación y conversión de hojas de cálculo utilizando la plataforma .NET. Aspose.Cells proporciona muchos objetos de gráficos flexibles.
+ Crear gráficos de líneas dinámicamente dentro de la aplicación en ejecución es fácil. Para crear una variedad de gráficos en hojas de cálculo desde cero sin necesidad de MS Office, usaremos[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API que ofrece diferentes funciones para la creación, manipulación y conversión de hojas de cálculo utilizando la plataforma .NET. Aspose.Cells proporciona muchos objetos gráficos flexibles.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -24,7 +23,13 @@ Crear gráficos de líneas dinámicamente dentro de la aplicación en ejecución
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Incluir Aspose.Cells espacio de nombres1. Crear [**Libro de trabajo**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instancia de clase.1. Agregue algunos datos a la hoja de trabajo.1. Agrega un [**Línea**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) Gráfico a la hoja de trabajo.1. Accede al nuevo [**Gráfico**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart) objeto.1. Especifique la fuente de datos del gráfico con [**Gráfico.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) método.
+1. Incluir Aspose.Cells espacio de nombres
+1.  Crear[**Libro de trabajo**](https://reference.aspose.com/cells/net/aspose.cells/workbook) instancia de clase.
+1. Agregue algunos datos a la hoja de trabajo.
+1.  Agrega un[**Línea**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)Gráfico a la hoja de trabajo.
+1.  Accede al nuevo[**Cuadro**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objeto.
+1.  Especifique la fuente de datos del gráfico con[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) método.
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -32,14 +37,16 @@ Crear gráficos de líneas dinámicamente dentro de la aplicación en ejecución
 
 {{% blocks/products/pf/agp/text %}}
 
- Solo asegúrese de que el sistema tenga Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms, así como un entorno de desarrollo como Microsoft Visual Studio. 
+ Solo asegúrese de que el sistema tenga Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms, así como un entorno de desarrollo como Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Instalar desde la línea de comandos como <code>nuget install Aspose.Cells</code> o a través de Package Manager Console de Visual Studio con <code>Install-Package Aspose.Cells</code>.- Alternativamente, obtenga el instalador MSI fuera de línea o todas las DLL en un archivo ZIP de <a href="https://downloads.aspose.com/cells/net">descargas</a>
+-  Instalar desde la línea de comandos como<code>nuget install Aspose.Cells</code> o a través de Package Manager Console de Visual Studio con<code>Install-Package Aspose.Cells</code>.
+-  Alternativamente, obtenga el instalador MSI fuera de línea o todas las DLL en un archivo ZIP de<a href="https://downloads.aspose.com/cells/net">descargas</a>
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="El siguiente código fuente muestra cómo crear un gráfico de líneas en un archivo XLSX de MS Excel usando C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="El siguiente código fuente muestra cómo crear un gráfico de líneas en el archivo MS Excel XLSX usando C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineChart.cs" >}}
 

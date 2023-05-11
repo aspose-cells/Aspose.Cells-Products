@@ -1,8 +1,7 @@
 ---
-title: SharePoint Excel Spreadsheet Converter alkalmazás – Aspose 
+title:  SharePoint Excel Spreadsheet Converter alkalmazás – Aspose
 weight: 940
-
-description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-konvertáló. Export XLS XLSX XML CSV PDF ODS &amp; HTML formátumok MOSS WSS-ben
+description: Aspose.Cells for SharePoint Az alkalmazás egy SharePoint Excel-táblázat-konvertáló. Exportálás XLS XLSX XML CSV PDF ODS &amp; HTML formátumok MOSS WSS-ben
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SharePoint alkalmazás Excel-táblázatok konvertálásához" h2="Konvertálja az Excel-táblázatokat több mint 8 fájlformátumra közvetlenül a SharePoint dokumentumtárból." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -13,7 +12,7 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A Aspose.Cells for SharePoint egy rugalmas Excel-táblázat-konvertáló alkalmazás. Képes dokumentumokat konvertálni számos népszerű Microsoft Excel formátum között egy SharePoint dokumentumtárból Microsoft Excel függőségek nélkül. Több olyan dokumentumformátumot támogat, amelyek nem szerepelnek a SharePoint natív fájlformátumának támogatásában.
+ Aspose.Cells for SharePoint egy rugalmas Excel táblázatkezelő alkalmazás. A Microsoft Excel-függőségek nélkül képes dokumentumokat konvertálni számos népszerű Microsoft Excel formátum között SharePoint dokumentumtárból. Több olyan dokumentumformátumot támogat, amelyek nem szerepelnek a SharePoint natív fájlformátumának támogatásában.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A(z) Aspose.Cells áttekintése SharePointhoz." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Cells for SharePoint szám áttekintése." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Könnyű telepítés
+ Könnyű telepítés
    </header>
    <ul>
     <li>
-     SharePoint WSP fájl
+ SharePoint WSP fájl
     </li>
     <li>
-     Aktiválja az Across Farmot
+ Aktiválja az Across Farmot
     </li>
     <li>
-     Deaktiválja az Across Farm lehetőséget
+ Deaktiválja az Across Farm lehetőséget
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
    <header>
     <i class="fa fa-file-o">
     </i>
-    Konverziós lehetőségek
+ Konverziós lehetőségek
    </header>
    <ul>
     <li>
-     Mentés almappákba
+ Mentés almappákba
     </li>
     <li>
-     Fájl összefűzése
+ Fájl összefűzése
     </li>
     <li>
-     Meglévő fájlok felülírása
+ A meglévő fájlok felülírása
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Cells for SharePoint támogatja a Windows SharePoint Services, a SharePoint Foundation és a Microsoft SharePoint Server szolgáltatásokat." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Aspose.Cells for SharePoint támogatja a Windows SharePoint Services, a SharePoint Foundation és a Microsoft SharePoint Server szolgáltatást." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Server
+ SharePoint Server
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Windows SharePoint Services
+ Windows SharePoint Services
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Alapítvány
+ SharePoint Alapítvány
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -155,19 +154,19 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Cells a SharePointhoz számos népszerű táblázatformátumot, PDF-, HTML- és más formátumot támogat [fájlformátumok](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Cells for SharePoint számos népszerű táblázatformátumot támogat, a PDF, HTML és egyéb[fájlformátumok](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet kimenet
+ Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
@@ -179,19 +178,19 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Szöveg:
+ Szöveg:
      </b>
-     CSV, TSV, tabulátorral tagolt, TXT
+ CSV, TSV, tabulátorral tagolt, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Csak kimenet
+ Csak kimenet
    </header>
    <ul>
     <li>
      <b>
-      Rögzített elrendezés:
+ Rögzített elrendezés:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Képek:
+ Képek:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    SharePoint
+ SharePoint
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertálja az Excel-táblázatokat többféle formátumba
+ Konvertálja az Excel-táblázatokat többféle formátumba
     </h2>
     <p>
-     Aspose.Cells for SharePoint lehetővé teszi a táblázatok konvertálását számos népszerű dokumentum- és képformátumra a SharePoint dokumentumtárból. A(z) Aspose.Cells for SharePoint jelenleg támogatja a legtöbb táblázatformátumot, valamint a CSV-t és a CSV-t; XML bemenetként, és exportálható táblázatkezelő formátumokba, valamint CSV, HTML, ODS, PDF, XML és amp; képformátumok.
+ Aspose.Cells for SharePoint lehetővé teszi a táblázatok konvertálását számos népszerű dokumentum- és képformátumra a SharePoint dokumentumtárból. Aspose.Cells for SharePoint jelenleg támogatja a legtöbb táblázatformátumot, valamint a CSV &amp; XML bemenetként, és exportálható táblázatkezelő formátumokba, valamint CSV, HTML, ODS, PDF, XML &amp; képformátumok.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Fájlok összefűzése az átalakítás során
+ Fájlok összefűzése az átalakítás során
     </h2>
     <p>
-     SharePointhoz készült Aspose.Cells lehetővé teszi a különböző formátumú fájlok egyetlen dokumentumban történő kombinálását. Ezenkívül a listában felfelé vagy lefelé mozgathatja a dokumentumokat, és beállíthatja, hogy milyen sorrendben szeretné egyesíteni a dokumentumokat.
+ Aspose.Cells A for SharePoint lehetővé teszi a különböző formátumú fájlok egyetlen dokumentumban történő kombinálását. Ezenkívül a listában felfelé vagy lefelé mozgathatja a dokumentumokat, és beállíthatja, hogy milyen sorrendben szeretné egyesíteni a dokumentumokat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Fájlok konvertálása az almappákban
+ Fájlok konvertálása az almappákban
     </h2>
     <p>
-     A Aspose.Cells for SharePoint leegyszerűsíti az átalakítási folyamatot azáltal, hogy rekurzív módon konvertálja a kiválasztott mappában található összes dokumentumot és almappát. A meglévő almappa-struktúra a célmappában jön létre.
+Aspose.Cells for SharePoint megkönnyíti az átalakítási folyamatot azáltal, hogy rekurzív módon konvertálja az összes dokumentumot és almappát egy kiválasztott mappa alatt. A meglévő almappa-struktúra a célmappában jön létre.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Meglévő fájlok felülírása
+ A meglévő fájlok felülírása
     </h2>
     <p>
-     Ha a célmappa már tartalmaz fájlokat, amelyek neve megegyezik a konvertálni kívántakkal, akkor a SharePoint Aspose.Cells programja lehetővé teszi a meglévő fájlok felülírását, vagy egyszerűen kiválaszthat egy lehetőséget, amely arra utasítja az alkalmazást, hogy hagyja ki a már meglévő fájlok feldolgozását. a célmappát.
+ Ha a célmappa már tartalmaz a konvertálni kívánt fájlnevekkel megegyező nevű fájlokat, akkor a Aspose.Cells for SharePoint lehetővé teszi a meglévő fájlok felülírását, vagy egyszerűen kiválaszthat egy lehetőséget, amely arra utasítja az alkalmazást, hogy hagyja ki a célmappában már meglévő fájlok feldolgozását. .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Interakció nyilvános API felhasználóval
+ Lépjen kapcsolatba a API-es számmal
     </h2>
     <p>
-     A belső SharePoint megoldásokkal rendelkező fejlesztők használhatják a(z) Aspose.Cells szolgáltatást a SharePoint dokumentumkonverziós motorjához a nyilvános API szolgáltatáson keresztül. Programozott hozzáférést biztosít az összes támogatott formátumhoz és átalakítási lehetőséghez.
+ A belső SharePoint megoldásokkal rendelkező fejlesztők használhatják a Aspose.Cells for SharePoint dokumentumkonverziós motorját a nyilvános API számon keresztül. Programozott hozzáférést biztosít az összes támogatott formátumhoz és átalakítási lehetőséghez.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Microsoft Excel automatizálás – nem szükséges
+ Microsoft Excel automatizálás – nem szükséges
     </h2>
     <p>
-     A(z) Aspose.Cells for SharePoint felügyelt kóddal készült, amelynek soha nem kell telepítenie a Microsoft Excelt a gépre ahhoz, hogy az Excel formátumú konvertálása működjön. Ez egy tökéletes Microsoft Excel automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár tekintetében.
+ Aspose.Cells for SharePoint felügyelt kóddal készült, amelynek soha nem kell telepítenie a Microsoft Excelt a gépre ahhoz, hogy működjön az Excel formátum konvertálása. Ez egy tökéletes Microsoft Excel automatizálási alternatíva a támogatott funkciók, biztonság, stabilitás, méretezhetőség, sebesség és ár szempontjából.
     </p>
    </div>
   </div>
@@ -315,12 +314,12 @@ description: A Aspose.Cells for SharePoint App egy SharePoint Excel-táblázat-k
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért a Aspose.Cells a SharePoint számára?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells for SharePoint?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

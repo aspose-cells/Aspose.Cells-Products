@@ -1,8 +1,7 @@
 ---
-title: Générer des rapports dans des fichiers ODS via Java 
+title:  Générer des rapports dans les fichiers ODS via Java
 weight: 2440
-
-description: Java exemple de code pour créer des rapports au format ODS sur Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Exemple de code Java pour créer des rapports au format ODS sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Génération de rapports en masse au format ODS via Java" h2="Générez des rapports au format ODS à l\'aide d\'une source de données et d\'un modèle." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -28,7 +27,6 @@ description: Java exemple de code pour créer des rapports au format ODS sur Jav
 <url>https://repository.aspose.com/repo/</url>
 </repository>
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -42,7 +40,6 @@ description: Java exemple de code pour créer des rapports au format ODS sur Jav
 <version>version of aspose-cells API</version>
 <classifier>jdk17</classifier>
 </dependency>
-
 
 ```
 
@@ -58,41 +55,46 @@ description: Java exemple de code pour créer des rapports au format ODS sur Jav
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instancier la classe WorkbookDesigner1. Ajouter des objets Datasource dans une ArrayList1. Définir la source de données et le processus pour l'objet WorkbookDesigner1. Enregistrer le résultat au format ODS via la méthode Worbook.save
+1.  Instancier la classe WorkbookDesigner
+1. Ajouter des objets Datasource dans une ArrayList
+1.  Définir la source de données et le processus pour l'objet WorkbookDesigner
+1.  Enregistrer le résultat au format ODS via la méthode Worbook.save
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java est compatible avec toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
+ Aspose.Cells for Java prend en charge sur toutes les principales plates-formes et systèmes d'exploitation. Veuillez vous assurer que vous disposez des prérequis suivants.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.- Obtenez la dernière version de Aspose.Cells for Java directement auprès de Maven.
+- Microsoft Windows ou un système d'exploitation compatible avec Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+- Obtenez la dernière version de Aspose.Cells for Java directement à partir de Maven.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Générer des rapports Excel au format ODS - C#" offSpacer="" %}}
 
 ```cs
-//Créer un concepteur de classeur
+//Create a workbook designer
 WorkbookDesigner designer = new WorkbookDesigner(workbook);
 
-//Créer des objets Personnes avec des photos
+//Create Persons objects with photos
 ArrayList persons = new ArrayList();       
 persons.add(new Person("George", "New York", photo1));
 persons.add(new Person("George", "New York", photo2));
 
-//Définir la source de données et traiter les marqueurs intelligents
+//Set the data source and process smart marker tags
 designer.setDataSource("Person", persons);
 designer.process();
 
-//Enregistrer le classeur
+//Save the workbook
 workbook.save(dataDir + "output.ods", SaveFormat.ODS);
 	
 System.out.println("File saved");
     
-
 
 ```
 
@@ -107,7 +109,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="À propos de Aspose.Cells for Java API" %}}
 
- Aspose.Cells API peut être utilisé pour créer, modifier, convertir et restituer des formats Microsoft Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.  
+ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
 
 
@@ -115,14 +117,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite pour assembler ODS" sectionDescription="Consultez nos démos en direct pour [créer des fichiers ODS](https://products.aspose.app/cells/assembly/ods) avec les avantages suivants." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Application gratuite à assembler ODS" sectionDescription=" Consultez nos démos en direct pour[créer des fichiers ODS](https://products.aspose.app/cells/assembly/ods) avec les avantages suivants." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger ou de configurer quoi que ce soit" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire ou de compiler du code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier ODS et de cliquer sur le bouton \"Assembler\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Il suffit de télécharger le fichier ODS et d\'appuyer sur le bouton \"Assembler\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Téléchargez le fichier ODS résultant à partir du lien" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Les fichiers avec l'extension ODS représentent le format de document de feuille de calcul OpenDocument modifiable par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et en colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sous Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour l'édition et la manipulation, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis dans d'autres formats de feuille de calcul, tels que XLS, XLSX et autres, par différentes applications.
+Les fichiers avec l'extension ODS représentent le format de document de feuille de calcul OpenDocument modifiable par l'utilisateur. Les données sont stockées dans le fichier ODF en lignes et en colonnes. Il s'agit d'un format basé sur XML et l'un des nombreux sous-types de la famille Open Document Formats (ODF). Le format est spécifié dans le cadre des spécifications ODF 1.2 publiées et maintenues par OASIS. Un certain nombre d'applications sur Windows ainsi que d'autres systèmes d'exploitation peuvent ouvrir des fichiers ODS pour l'édition et la manipulation, notamment Microsoft Excel, NeoOffice et LibreOffice. Les fichiers ODS peuvent également être convertis en d'autres formats de feuille de calcul, ainsi que XLS, XLSX et d'autres par différentes applications.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

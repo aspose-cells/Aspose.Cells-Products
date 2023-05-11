@@ -1,7 +1,6 @@
 ---
-title: Generar informes en archivos XLS a través de .NET 
+title:  Generar Reportes en XLS Archivos via .NET
 weight: 1700
-
 description: C# código fuente para generar informes en formato XLS en .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -14,7 +13,7 @@ description: C# código fuente para generar informes en formato XLS en .NET Fram
 
  Para crear informes XLS, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es una generación de informes rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
+ API, que es una generación de informes API rica en funciones, potente y fácil de usar para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  **Aspose.Cells** 
@@ -26,7 +25,6 @@ description: C# código fuente para generar informes en formato XLS en .NET Fram
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,13 +33,18 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Pasos para ensamblar XLS a través de C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Pasos para ensamblar XLS vía C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Instanciar la clase WorkbookDesigner1. Establecer un marcador en cualquiera de las celdas de cualquier hoja de trabajo1. Establecer fuente de datos para el objeto WorkbookDesigner1. Llame al método WorkbookDesigner.Process para completar la plantilla con datos1. Guarde el resultado en formato XLS a través del método WorkbookDesigner.Worbook.Save
+1.  Instanciar la clase WorkbookDesigner
+1.  Establecer un marcador en cualquiera de las celdas de cualquier hoja de trabajo
+1.  Establecer fuente de datos para el objeto WorkbookDesigner
+1.  Llame al método WorkbookDesigner.Process para completar la plantilla con datos
+1. Guarde el resultado en formato XLS a través del método WorkbookDesigner.Worbook.Save
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
@@ -52,10 +55,13 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows o un sistema operativo compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms- Entorno de desarrollo como Microsoft Visual Studio- Aspose.Cells for .NET referenciado en su proyecto
+-  Microsoft Windows o un SO compatible con .NET Framework, .NET Core, Mono o Xamarin Platforms
+-  Entorno de desarrollo como Microsoft Visual Studio
+-  Agregue una referencia a la DLL Aspose.Cells for .NET en su proyecto
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generar informes XLS" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generar XLS Informes" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "fa164df8378019787d572a59f5d110d8" "generate-xls-reports.cs" >}}
 
@@ -68,9 +74,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Acerca de Aspose.Cells for .NET API" %}}
+    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API se puede usar para crear, editar, convertir y representar formatos de Microsoft Excel en diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.  
+ Aspose.Cells API se puede usar para crear, editar, convertir y representar Microsoft formatos de Excel a diferentes formatos. Además, se puede usar para gráficos completos, informes escalables y cálculos confiables dentro de las aplicaciones de software. Aspose.Cells es un API independiente y no requiere ningún software como Microsoft u OpenOffice.
 
 
 
@@ -78,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Aplicación gratuita para ensamblar XLS" sectionDescription="Consulte nuestras demostraciones en vivo para [crear archivos XLS](https://products.aspose.app/cells/assembly/xls) con los siguientes beneficios." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="App Gratis para Armar XLS" sectionDescription=" Consulte nuestras demostraciones en vivo para[crear XLS archivos](https://products.aspose.app/cells/assembly/xls) con los siguientes beneficios." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No es necesario descargar ni configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No es necesario escribir o compilar código" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Simplemente cargue el archivo XLS y presione el botón \"Ensamblar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Descargue el archivo XLS resultante desde el enlace" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Los archivos con extensión XLS representan el formato de archivo binario de Excel. Estos archivos pueden crearse con Microsoft Excel, así como con otros programas de hojas de cálculo similares, como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
+Los archivos con la extensión XLS representan el formato de archivo binario de Excel. Dichos archivos pueden ser creados por Microsoft Excel, así como otros programas de hojas de cálculo similares como OpenOffice Calc o Apple Numbers. El archivo guardado por Excel se conoce como Libro de trabajo, donde cada libro de trabajo puede tener una o más hojas de trabajo. Los datos se almacenan y muestran a los usuarios en formato de tabla en la hoja de trabajo y pueden abarcar valores numéricos, datos de texto, fórmulas, conexiones de datos externos, imágenes y gráficos. Las aplicaciones como Microsoft Excel le permiten exportar datos de libros de trabajo a varios formatos diferentes, incluidos PDF, CSV, XLSX, TXT, HTML, XPS y muchos otros. El formato de archivo XLS se reemplazó con un formato más abierto y estructurado, XLSX, con el lanzamiento de Microsoft Excel 2007. Las últimas versiones aún brindan soporte para crear y leer archivos XLS, aunque XLSX es la primera opción de uso ahora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -95,7 +101,7 @@ Los archivos con extensión XLS representan el formato de archivo binario de Exc
 
 {{< blocks/products/pf/agp/other-supported-section title="Otros formatos de generación de informes admitidos" subTitle="Usando C#, uno puede generar fácilmente informes de múltiples formatos, incluidos." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="SAO" description="Archivo de hoja de cálculo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="Archivo de hoja de cálculo OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsb/" name="XLSB" description="Archivo de libro de Excel binario" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Archivo de hoja de cálculo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsx/" name="XLSX" description="Archivo de Excel OOXML" >}}

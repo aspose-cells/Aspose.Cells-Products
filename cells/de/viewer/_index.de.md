@@ -1,7 +1,6 @@
 ---
-title: Zeigen Sie Excel-Dateien unter Windows, Linux und macOS an 
-
-description: Kostenlose App und APIs zum Anzeigen von XLS-, XLSX-, XLSB-, XLT-, XLTX-, XLTM-, XLSM- und ODS-Dateien
+title:  Excel-Dateien auf Windows, Linux und macOS anzeigen
+description: Kostenlose App und APIs zum Anzeigen der Dateien XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM und ODS
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

@@ -1,27 +1,25 @@
 ---
-title: C++ aracılığıyla Microsoft Excel Dosya Dönüştürme 
-
-description: Yalnızca birkaç satır C++ koduyla Excel XLS, XLSX, ODS, CSV'yi PDF, XPS, HTML, JPEG ve diğer biçimlere dönüştürün.
+title:  Microsoft C++ aracılığıyla Excel Dosya Dönüştürme
+description: Yalnızca birkaç satırlık C++ koduyla Excel XLS, XLSX, ODS, CSV'i PDF, XPS, HTML, JPEG ve diğer biçimlere dönüştürün.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C++ aracılığıyla Microsoft<sup>&reg;</sup> Excel Belgesi Dönüştürme" h2="Microsoft<sup>&reg;</sup> Excel dosyalarını elektronik tablo, web, resim ve sabit düzen biçimleri olarak kaydedin" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ aracılığıyla Excel Belge Dönüştürme" h2="Microsoft<sup>&reg;</sup> Excel dosyalarını elektronik tablo, web, resim ve sabit mizanpaj biçimleri olarak kaydedin" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Herhangi bir elektronik tablo dönüştürücü uygulaması veya çözümü için **C++ Excel Kitaplığı**, XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS dahil olmak üzere birden fazla dosyayı işlerken kodlama, otomasyon ve dönüştürme işlemlerini hızlandırır. Ayrıca **Excel'i PDF'ye**, XPS, HTML, MHTML, Düz Metin ve JPG, TIFF, PNG, BMP ve SVG gibi popüler resimlere dönüştürmeye olanak tanır.
+ Herhangi bir elektronik tablo dönüştürücü uygulaması veya çözümü için,**C++ Excel Kitaplığı**XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS dahil birden çok dosyayı işlerken kodlama, otomasyon ve dönüştürme işlemlerini hızlandırır. PDF**, XPS, HTML, MHTML, Düz JPG, TIFF, PNG, BMP ve SVG gibi metin ve popüler görseller.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının Ara Dönüşümü" %}}
-E-tablo formatının inter-dönüşümü, yalnızca bir e-tablonun örneğinin bulunduğu bir e-tablonun yüklenmesini gerektirir. [ müdahaleci_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) işaretçi ve kullanarak istenen biçimde geri kaydetme [Kaydetmek](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) yöntemi [IWorkbook sınıfı](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
-{{% blocks/products/pf/feature-page-code h3="C++ Excel Dosya Biçimi Dönüşümü için Örnek Kod" %}}
+ Elektronik tablo biçiminin karşılıklı dönüştürülmesi, yalnızca bir elektronik tablonun örneğinin yüklenmesini gerektirir.[ müdahaleci_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) işaretçi ve kullanarak istenen formatta geri kaydetme[Kaydetmek](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) yöntemi[IWorkbook sınıfı](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+{{% blocks/products/pf/feature-page-code h3="C++ Excel Dosya Biçimi Dönüştürme için Örnek Kod" %}}
 
 ```cs
 
-// Kaynak excel biçimini yükleyin.
+// Load the source excel format.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"src_excel_file.xls");
 
-// Gerekli çıktı biçiminde kaydedin.
+// Save in required output format.
 wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
-
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -29,26 +27,25 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="Uyumluluk Düzeyi Ayarları ile Excel Formatlarını PDF\'ye Dönüştürün" %}}
-C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'ye dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihinin ayarlanmasını destekler. Geliştiriciler kullanabilir [IPdfSaveSeçenekleri](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte [Aspose::Cells::Oluşturma](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF uyumluluğunu ayarlamak için Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu. 
-{{% blocks/products/pf/feature-page-code h3="C++ Excel\'den PDF\'ye Dönüştürme için Örnek Kod" %}}
+{{% blocks/products/pf/feature-page-section h2="Uyumluluk Seviyesi Ayarları ile Excel Formatlarını PDF\'e Dönüştürün" %}}
+ C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'e dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihi ayarını destekler. Geliştiriciler kullanabilir[IPdfSaveSeçenekleri](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte[Aspose::Cells::Oluşturma](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF uyumluluğunu ayarlamak için. Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu.
+{{% blocks/products/pf/feature-page-code h3="C++ Excel\'den PDF\'e Dönüşüm için Örnek Kod" %}}
 
 ```cs
-// Örnek Excel dosyasını yükleyin.
+// Load the sample Excel file.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sample-convert-excel-to.pdf");
 
-// pdf kaydetme seçenekleri nesnesi oluşturun.
+// Create pdf save options object.
 intrusive_ptr<Aspose::Cells::IPdfSaveOptions> pdfSaveOptions = Factory::CreateIPdfSaveOptions();
 
-// Uyumluluğu PDF/A-1b olarak ayarlayın.
+// Set the compliance to PDF/A-1b.
 pdfSaveOptions->SetCompliance(Aspose::Cells::Rendering::PdfCompliance_PdfA1b);
 
-// veya PdfCompliance_PdfA1a 
-// normal PDF için PdfCompliance_None olacaktır
+// or PdfCompliance_PdfA1a 
+// for normal PDF it will be PdfCompliance_None
 
-// Excel Belgesini PDF formatında kaydedin
+// Save the Excel Document in PDF format
 wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
-
 
 
 ```
@@ -58,54 +55,53 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i Görüntülere Kaydet" %}}
-**C++ Excel Ayrıştırıcı**, verileri görüntü biçiminde dışa aktarma özelliğine sahiptir. Her çalışma sayfası, BMP, JPEG, PNG ve GIF gibi farklı görüntü biçimlerine dönüştürülebilir. [Oluşturma::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Herhangi bir **Excel'i Görüntülere Dönüştür** vakası için bağlantılardan ilgili vakayı seçin.
+**C++ Excel Ayrıştırıcı** verileri görüntü biçiminde dışa aktarma yeteneğine sahiptir. Her çalışma sayfası, BMP, JPEG, PNG ve GIF dahil olmak üzere farklı görüntü formatlarına dönüştürülebilir.[İşleme::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . Herhangi**Excel'i Görüntülere Dönüştür** durumda, bağlantılardan ilgili vakayı seçin.
 {{% blocks/products/pf/feature-page-code h3="C++ Excel\'den Görüntüye Dönüştürme Kodu" %}}
 
 ```cs
-// Çıkış dizini yolu.
+// Output directory path.
 StringPtr outDir = new String("ImagesOutputDirectoryPath");
 
-// XLSX'i yükleyin.
+// Load the XLSX.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"source-excel-file.xlsx");
 
-// İlk çalışma sayfasına erişin.
+// Access first worksheet.
 intrusive_ptr<Aspose::Cells::IWorksheet> wks = wkb->GetIWorksheets()->GetObjectByIndex(0);
 
-// Görüntü veya yazdırma seçenekleri nesnesi oluşturun.
+// Create image or print options object.
 intrusive_ptr<Aspose::Cells::Rendering::IImageOrPrintOptions> imgOptions = Factory::CreateIImageOrPrintOptions();
 
-// Görüntü biçimini belirtin. Aşağıdaki kod JPEG içindir
+// Specify the image format. Below code is for JPEG
 imgOptions->SetImageFormat(Aspose::Cells::Systems::Drawing::Imaging::ImageFormat::GetJpeg());
 
-// GIF, BMP ve PNG gibi diğer resimler için sırasıyla GetGif(), GetBmp() ve GetPng() kullanılabilir 
+// For other images like GIF, BMP and PNG one can use GetGif(), GetBmp() and GetPng() respectively 
 
-// Yatay ve dikey çözünürlüğü belirtin
+// Specify horizontal and vertical resolution
 imgOptions->SetHorizontalResolution(200);
 imgOptions->SetVerticalResolution(200);
 
-// Sayfayı belirtilen görüntü veya yazdırma seçeneklerine göre işleyin.
+// Render the sheet with respect to specified image or print options.
 intrusive_ptr<Aspose::Cells::Rendering::ISheetRender> sr = Factory::CreateISheetRender(wks, imgOptions);
 
-// Sayfa sayısını alın.
+// Get page count.
 Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
 
-// Dize birleştirmeleri için dize oluşturucu nesnesi oluşturun.
+// Create string builder object for string concatenations.
 intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
 
-// Her sayfayı tek tek jpeg görüntüsüne dönüştürün.
+// Render each page to jpeg image one by one.
 for (int i = 0; i < pageCount; i++){
-	// Dize oluşturucuyu temizleyin ve dize bitiştirmeleriyle çıktı görüntüsü yolu oluşturun.
+	// Clear string builder and create output image path with string concatenations.
 	sb->Clear();
 	sb->Append(outDir);
 	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
 	sb->Append(i);
 	sb->Append((StringPtr)new String(".jpeg"));
-	// Çıktı görüntü yolunu alın.
+	// Get the output image path.
 	StringPtr outputJPEG = sb->ToString();
-	// Çalışma sayfasını resme dönüştürün.
+	// Convert worksheet to image.
 	sr->ToImage(i, outputJPEG);
 }
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

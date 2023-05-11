@@ -1,19 +1,18 @@
 ---
-title: Python Excel-spreadsheet API - Aspose 
+title:  Python Excel-spreadsheet API - Aspose
 weight: 2820
-
-description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrijven en parseren te maken.
+description: Python spreadsheet-bibliotheek om Excel-bestanden te lezen, schrijven en parseren.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Python Excel-spreadsheets die API\'s parseren" h2="Genereer, lees, schrijf of manipuleer spreadsheets en exporteer Excel-bestanden naar meerdere indelingen binnen Python-toepassingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python Excel-spreadsheets die API\'s parseren" h2="Genereer, lees, schrijf of manipuleer spreadsheets en exporteer Excel-bestanden naar meerdere indelingen binnen Python-applicaties." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-python-java.svg" pfName="Aspose.Cells" subTitlepfName="for Python via Java" downloadUrl="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://downloads.aspose.com/cells/python" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/pythonjava/" installationsDocsLink="" nugetLink="" nugetPackageName="" pipLink="https://pypi.org/project/aspose-cells/" directDownloadLink="https://releases.aspose.com/cells/python-java/" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells voor Python via Java is een snelle en betrouwbare API voor het verwerken van spreadsheets. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken, informatie manipuleren en extraheren uit Excel-bestanden. API leest meerdere Excel-indelingen en kan werkbladen weergeven in XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met python.
+ Aspose.Cells for Python via Java is een snelle en betrouwbare API voor spreadsheetverwerkingstaken. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken, manipuleren en informatie uit Excel-bestanden extraheren. API leest meerdere Excel-formaten en kan werkbladen weergeven naar XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met behulp van Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,40 +20,40 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van API mogelijkheden." >}}
+{{< blocks/products/pf/carousel-item h3="In een oogopslag" description="Een overzicht van de mogelijkheden van API." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importeren & Exporteren
+ Importeren &amp; Exporteren
    </header>
    <ul>
     <li>
-     arrays
+ Arrays
     </li>
     <li>
-     ResultaatSet
+ ResultaatSet
     </li>
     <li>
-     Collecties
+Collecties
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    weergave
+ Weergave
    </header>
    <ul>
     <li>
-     Grafiek naar afbeelding
+ Grafiek naar afbeelding
     </li>
     <li>
-     Werkblad naar afbeelding
+ Werkblad naar afbeelding
     </li>
     <li>
-     Spreadsheet naar PDF
+ Spreadsheet naar PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
    <header>
     <i class="fa fa-table">
     </i>
-    Gegevensverwerking
+ Gegevensverwerking
    </header>
    <ul>
     <li>
-     Opmaak toepassen
+ Opmaak toepassen
     </li>
     <li>
-     Formule toepassen
+ Formule toepassen
     </li>
     <li>
-     Grafieken maken
+ Maak grafieken
     </li>
     <li>
-     Samenvatten
+ Samenvatten
     </li>
     <li>
-     Slimme markeringen
+ Slimme markeringen
     </li>
    </ul>
   </div>
@@ -94,7 +93,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Python via Java
    </small>
@@ -105,7 +104,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Cells voor Python via Java is beschikbaar voor." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Cells for Python via Java is beschikbaar voor." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,7 +114,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Python Runtime-omgeving
+ Python Runtime-omgeving
    </header>
    <!--<ul>
 
@@ -134,7 +133,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Python via Java
    </small>
@@ -145,37 +144,37 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Python Excel-bibliotheek ondersteunt de populaire Microsoft Excel-indelingen, vaste indelingen en afbeeldingen." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Excel-bibliotheek Python ondersteunt de populaire Excel-indelingen Microsoft, indelingen met vaste lay-out en afbeeldingen." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Invoer uitvoer
+ Invoer uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Open kantoor:
+ Open kantoor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen uitvoer
+ Alleen uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Vaste indeling:
+ Vaste indeling:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Afbeeldingen:
+ Afbeeldingen:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,7 +213,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Python via Java
    </small>
@@ -235,7 +234,7 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Geavanceerde Python Excel API-functies
+Geavanceerd Python Excel API Functies
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Excel-spreadsheets lezen
+ Excel-spreadsheets lezen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Render Spreadsheets naar PDF, EMF en afbeeldingen
+ Render spreadsheets naar PDF, EMF en afbeeldingen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werkbladen in werkmappen aanpassen
+ Werkbladen in werkmappen aanpassen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-lock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Werkbladen beveiligen/de beveiliging opheffen
+ Werkbladen beveiligen / de beveiliging opheffen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Afbeeldingen toevoegen en grafieken maken
+ Voeg afbeeldingen toe en maak grafieken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Draaitabellen en draaigrafieken maken
+ Draaitabellen en draaigrafieken maken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Opmerkingen toevoegen en bewerken op celniveau
+ Opmerkingen toevoegen en bewerken op celniveau
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gegevens zoeken en vervangen
+ Zoek en vervang gegevens
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cellen splitsen en samenvoegen
+ Splits en voeg cellen samen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Groepering toevoegen aan of verwijderen uit rijen en kolommen
+ Groepering aan rijen en kolommen toevoegen of verwijderen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Opmaak van getallen instellen
+ Stel de opmaak van getallen in
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formules lezen en instellen
+ Formules lezen en instellen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pagina-instelling configureren
+ Configureer de pagina-instelling
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pas pagina-oriëntatie, schaling, papierformaat aan
+ Pas pagina-oriëntatie, schaal, papierformaat aan
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lees &amp; voorwaardelijke opmaak schrijven
+ Lees &amp; voorwaardelijke opmaak schrijven
     </p>
    </div>
    <!--
@@ -413,21 +412,20 @@ description: Python spreadsheetbibliotheek om Excel-bestanden voor lezen, schrij
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Meerdere formaten conversie
+ Conversie van meerdere indelingen
     </h2>
     <p>
-     Python Excel-bibliotheek biedt conversie van Excel-bestanden naar PDF, XPS &amp; HTML-formaten. De betrouwbare conversie van API maakt het een perfecte oplossing voor bedrijven die bestanden willen uitwisselen in industriestandaard formaten.
+ Python Excel-bibliotheek biedt conversie van Excel-bestanden naar PDF, XPS &amp; HTML-indelingen. De betrouwbare conversie van API maakt het een perfecte oplossing voor bedrijven die bestanden willen uitwisselen in industriestandaard formaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spreadsheet opslaan in verschillende indelingen - Java
+ Sla spreadsheet op in verschillende formaten - Java
      </h3>
-     <pre><code class="java">// load file to be converted
-
+     <pre><code class="java">
+// load file to be converted
 Workbook wkbk= new Workbook(SD_PATH + "template.xls");
 
 // Convert XLS to PDF, XPS and HTML
-
 wkbk.save(SD_PATH + "poutput.pdf", SaveFormat.PDF);
 
 wkbk.save(SD_PATH + "xoutput.xps", SaveFormat.XPS);
@@ -459,10 +457,10 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Flexibele weergaveopties
+ Flexibele weergave-opties
     </h2>
     <p>
-     Aspose.Cells voor Python via Java biedt volledige controle over pagina-instellingen, waardoor meerdere weergave-opties kunnen worden gemanipuleerd, zoals voorbeeldpagina-einden, zoomniveau instellen, pagina-oriëntatie instellen, zichtbaarheid van gegevens regelen met stilstaande panelen, papierformaat, schalen, kopteksten &amp ; voetteksten en afdrukgebied.
+Aspose.Cells for Python via Java biedt volledige controle over de pagina-instelling, waardoor meerdere weergaveopties kunnen worden gemanipuleerd, zoals voorbeeldpagina-einden, zoomniveau instellen, pagina-oriëntatie instellen, gegevenszichtbaarheid regelen met stilstaande deelvensters, papierformaat, schalen, kopteksten &amp; voetteksten en afdrukgebied.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -482,18 +480,18 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 </div> -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel Spreadsheets Gegevensbeheer
+ Gegevensbeheer in Excel-bladen
     </h2>
     <p>
-     Aspose.Cells voor Python via Java API biedt uitgebreide ondersteuning voor het beheer van werkbladgegevens. Men kan tijdens runtime gemakkelijk elke cel in het werkblad manipuleren of gegevens uit verschillende gegevensbronnen in de werkbladen importeren.
+ Aspose.Cells for Python via Java API biedt uitgebreide ondersteuning voor het beheer van werkbladgegevens. Men kan eenvoudig elke cel in het werkblad tijdens runtime manipuleren of gegevens uit verschillende gegevensbronnen in de werkbladen importeren.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Aanpassing van grafieken
+ Aanpassing van grafieken
     </h2>
     <p>
-     Aspose.Cells voor Python via Java biedt volledige ondersteuning voor grafieken. Men kan eenvoudig standaard- en aangepaste grafieken toevoegen of dynamisch grafiekgegevens instellen om de grafiek via deze pythonbibliotheek te verversen.
+ Aspose.Cells for Python via Java biedt volledige ondersteuning voor grafieken. Men kan eenvoudig standaard en aangepaste grafieken toevoegen of dynamisch ingestelde grafiekgegevens toevoegen om de grafiek van deze python-bibliotheek te vernieuwen.
     </p>
    </div>
    <!--
@@ -516,29 +514,29 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/pythonjava/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenties" href="https://reference.aspose.com/python/cells" >}}
+{{< blocks/products/pf/slr-element name="Aspose.Cells API Referenties" href="https://reference.aspose.com/cells/python-java" >}}
 {{< blocks/products/pf/slr-element name="Instructievideo\'s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells voor Python via Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for Python via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/python" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-java/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt afzonderlijke Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

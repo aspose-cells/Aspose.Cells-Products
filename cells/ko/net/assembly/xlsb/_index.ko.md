@@ -1,8 +1,7 @@
 ---
-title: .NET을(를) 통해 XLSB 파일로 보고서 생성 
+title:  XLSB 파일에서 보고서 생성 via .NET
 weight: 1690
-
-description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono 또는 Xamarin Platforms에서 XLSB 형식 보고서를 생성합니다.
+description: .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에서 XLSB 형식 보고서를 생성하는 C# 소스 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#을 통한 XLSB 형식의 대량 보고서 생성" h2="데이터 소스 및 템플릿을 사용하여 XLSB 형식으로 보고서를 생성합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -14,18 +13,17 @@ description: C# 소스 코드를 사용하여 .NET Framework, .NET Core, Mono �
 
  XLSB 보고서를 생성하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은(는) C# 플랫폼용으로 기능이 풍부하고 강력하며 사용하기 쉬운 보고서 생성 API입니다. 열려 있는
- [누겟](https://www.nuget.org/packages/aspose.cells) 
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 보고서 생성 API입니다. 열려 있는
+ [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  **Aspose.Cells** 
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ 그리고 설치하십시오. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -35,24 +33,32 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="C#을(를) 통해 XLSB를 조립하는 단계" %}}
+{{% blocks/products/pf/agp/feature-section-col title="C#을 통해 XLSB을 조립하는 단계" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. WorkbookDesigner 클래스 인스턴스화1. 모든 워크시트의 셀에 마커 설정1. WorkbookDesigner 개체에 대한 데이터 원본 설정1. WorkbookDesigner.Process 메서드를 호출하여 템플릿을 데이터로 채웁니다.1. WorkbookDesigner.Worbook.Save 메소드를 통해 XLSB 형식으로 결과 저장
+1.  WorkbookDesigner 클래스 인스턴스화
+1.  워크시트의 셀에 마커 설정
+1.  WorkbookDesigner 개체의 데이터 소스 설정
+1.  WorkbookDesigner.Process 메서드를 호출하여 템플릿을 데이터로 채웁니다.
+1. WorkbookDesigner.Worbook.Save 메서드를 통해 결과를 XLSB 형식으로 저장
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="시스템 요구 사항" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET은(는) 모든 주요 운영 체제에서 지원됩니다. 다음 전제 조건이 있는지 확인하십시오.
+ Aspose.Cells for .NET은 모든 주요 운영 체제에서 지원됩니다. 다음 전제 조건이 있는지 확인하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 또는 .NET Framework, .NET Core, Mono 또는 Xamarin 플랫폼과 호환되는 OS- Microsoft Visual Studio와 같은 개발 환경- 프로젝트에서 참조된 Aspose.Cells for .NET
+-  Microsoft Windows 또는 .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼과 호환되는 OS
+-  Microsoft Visual Studio와 같은 개발 환경
+-  프로젝트에서 Aspose.Cells for .NET DLL에 대한 참조 추가
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XLSB 보고서 생성" offSpacer="" %}}
@@ -68,9 +74,9 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Aspose.Cells for .NET API 정보" %}}
+    {{% blocks/products/pf/agp/content h2="약 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API은(는) Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells는 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.  
+ Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
 
 
 
@@ -78,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="XLSB 조립을 위한 무료 앱" sectionDescription="라이브 데모를 확인하려면 [XLSB 파일 생성](https://products.aspose.app/cells/assembly/xlsb) 다음과 같은 혜택이 있습니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="무료 앱 조립 XLSB" sectionDescription=" 라이브 데모를 확인하십시오[XLSB 파일 생성](https://products.aspose.app/cells/assembly/xlsb) 다음과 같은 이점이 있습니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 아무것도 다운로드하거나 설정할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성하거나 컴파일할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" XLSB 파일을 업로드하고 \"조립\" 버튼을 누르기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSB 파일 다운로드" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 링크에서 결과 XLSB 파일을 다운로드합니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 및 구조의 모음인 Excel 이진 파일 형식을 지정합니다. 콘텐츠에는 숫자, 텍스트 또는 숫자와 텍스트, 공식, 외부 데이터 연결, 차트 및 이미지 모두의 비정형 또는 반정형 표가 포함될 수 있습니다. Open XML 파일 형식을 기반으로 하는 XLSX와 달리 XLSB는 이진 Excel 통합 문서 파일을 나타냅니다. XLSB 파일은 더 빠르게 읽고 쓸 수 있어 대용량 파일 작업에 유용합니다. XLSB는 통합 문서를 저장하는 데 거의 사용되지 않습니다. XLSX(및 이전 XLS)는 통합 문서를 저장하기 위해 가장 일반적으로 사용자가 선택한 파일 형식입니다. Microsoft Office 2007 이상에서 열 수 있습니다.
+XLSB 파일 형식은 Excel 통합 문서 내용을 지정하는 레코드 및 구조의 모음인 Excel 이진 파일 형식을 지정합니다. 콘텐츠에는 숫자, 텍스트 또는 숫자와 텍스트 모두, 수식, 외부 데이터 연결, 차트 및 이미지로 구성된 비정형 또는 반정형 테이블이 포함될 수 있습니다. XLSX(Open XML 파일 형식 기반)과 달리 XLSB은 이진 Excel 통합 문서 파일을 나타냅니다. XLSB 파일을 더 빠르게 읽고 쓸 수 있으므로 대용량 파일 작업에 유용합니다. XLSB은 XLSX(및 이전 XLS)이 통합 문서 저장을 위해 가장 일반적으로 사용자가 선택한 파일 형식이므로 통합 문서를 저장하는 데 거의 사용되지 않습니다. Microsoft Office 2007 이상에서 열 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -96,7 +102,7 @@ XLSB 파일 형식은 Excel 통합 문서 콘텐츠를 지정하는 레코드 �
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 보고서 생성 형식" subTitle="C#을 사용하면 다음을 포함한 여러 형식의 보고서를 쉽게 생성할 수 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Excel 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="엑셀 이진 형식" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="스프레드시트 파일" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
 

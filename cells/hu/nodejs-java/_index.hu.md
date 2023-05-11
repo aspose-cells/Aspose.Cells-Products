@@ -1,11 +1,10 @@
 ---
-title: Node.js API-k Excel-táblázatokhoz – Aspose 
+title:  Node.js API-k Excel-táblázatokhoz – Aspose
 weight: 3120
-
-description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron keresztül. Írási renderelés olvasása és XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV és további formátumok konvertálása a Node.js segítségével Windows, macOS és Linux rendszeren
+description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron keresztül. Olvassa el az írási renderelést és konvertálja a XLS XLSX XLSB XLTX XLTM XLSM XML ODS CSV CSV CSV és több formátumot a Linux061818 és további formátumok között a Node, maOS3 és maOS3818 rendszeren keresztül.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel fájlformátum API-k" h2="Generálhat, módosíthat, konvertálhat és renderelhet Excel-táblázatokat a Node.js használatával Microsoft Excel nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Node.js Excel fájlformátum API-k" h2="Generáljon, módosítson, konvertáljon és jelenítsen meg Excel-táblázatokat a Node.js használatával a Microsoft Excel használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-nodejs-java.svg" pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" downloadUrl="https://downloads.aspose.com/cells/nodejs" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Node.js via Java" >}}
 
@@ -13,11 +12,11 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A(z) Aspose.Cells for Node.js a(z) Java-on keresztül egy funkciókban gazdag és méretezhető API, amellyel Excel-táblázatokat dolgozhat fel Node.js használatával. A API Excel fájlformátum-konverziót, munkalap-stílusozást a legrészletesebb szintre, diagramkészítést és diagramkészítést kínál; renderelés, megbízható képletszámító motor és még sok más.
+ A Aspose.Cells for Node.js via Java funkciókban gazdag és méretezhető API Excel-táblázatok Node.js használatával történő feldolgozásához. A API Excel fájlformátum-konverziót, munkalapok stílusát a legrészletesebb szintre, diagramkészítést és diagramkészítést kínál; renderelés, megbízható képletszámító motor és még sok más.
 </p>
 
 <p>
- A(z) Aspose.Cells for Node.js a(z) Java-on keresztül támogatja a legnépszerűbb táblázatformátumokat, beleértve az XLS, XLSX, ODS, SpreadsheetML, CSV, TSC és amp; HTML.
+ Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatformátumot, beleértve a XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & TSC HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -25,24 +24,24 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A(z) Aspose.Cells áttekintése a Node.js-hez a(z) Java képességeken keresztül." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A Aspose.Cells for Node.js via Java képességek áttekintése." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Renderelés
+ Renderelés
    </header>
    <ul>
     <li>
-     Átalakítsa a diagramot képpé
+ Átalakítsa a diagramot képpé
     </li>
     <li>
-     Munkalap konvertálása képpé
+ Munkalap konvertálása képpé
     </li>
     <li>
-     Konvertálja a táblázatot PDF-be
+Konvertálja a táblázatot PDF-re
     </li>
    </ul>
   </div>
@@ -51,23 +50,23 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
    <header>
     <i class="fa fa-cogs">
     </i>
-    Adatfeldolgozás
+ Adatfeldolgozás
    </header>
    <ul>
     <li>
-     Diagramok
+ Diagramok
     </li>
     <li>
-     Képlet számítás
+ Képlet számítás
     </li>
     <li>
-     Intelligens jelölők
+ Intelligens jelölők
     </li>
     <li>
-     Pivot táblák
+ Pivot táblák
     </li>
     <li>
-     Feltételes formázás
+ Feltételes formázás
     </li>
    </ul>
    <!--
@@ -101,9 +100,9 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Node.js a következőn keresztül: Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -112,7 +111,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A(z) Aspose.Cells a Node.js-hez a(z) Java-on keresztül egy szerveroldali JavaScript API, amely a Node.js-n alapul. Windows, Unix/Linux és Mac platformokon futhat JDK 1.7 vagy újabb verzióval." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="A Aspose.Cells for Node.js via Java egy szerveroldali JavaScript API, amely a Node.js alapú. Futhat Windows, Unix/Linux és Mac platformokon JDK 1.7 vagy újabb verzióval." >}}
 <div class="diagram1 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -122,7 +121,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Futási környezet
+ Java Futókörnyezet
    </header>
    <!--
 
@@ -147,9 +146,9 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Node.js a következőn keresztül: Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -158,37 +157,37 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A(z) Aspose.Cells for Node.js a(z) Java-on keresztül támogatja a népszerű táblázatfájl-formátumokat, valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumokat." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Cells for Node.js via Java támogatja a népszerű táblázatkezelő fájlformátumokat, valamint a leggyakrabban használt kép- és rögzített elrendezésű formátumokat." >}}
 <div class="diagram1 d2 d1-nodejs">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet kimenet
+ Bemenet kimenet
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      OpenOffice:
+ OpenOffice:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Szöveg:
+ Szöveg:
      </b>
-     CSV, tabulátorral tagolt, TXT
+ CSV, Tabulátorral tagolt, TXT
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
@@ -199,18 +198,18 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Csak kimenet
+ Csak kimenet
    </header>
    <ul>
     <li>
      <b>
-      Rögzített elrendezés:
+ Rögzített elrendezés:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Képek:
+ Képek:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -227,9 +226,9 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
   <footer>
    <small>
     <em>
-     számára
+ számára
     </em>
-    Node.js a következőn keresztül: Java
+ Node.js via Java
    </small>
   </footer>
  </div>
@@ -248,7 +247,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Speciális Node.js Excel-táblázat API-szolgáltatások
+ Speciális Node.js Excel-táblázat API jellemzői
    </h2>
    <p>
    </p>
@@ -256,111 +255,111 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Pivot táblázatok, diagramok, sparkline-ok és amp; feltételes formázás
+ Pivot táblázatok, diagramok, sparkline-ok és amp; feltételes formázás
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Meglévő diagramok frissítése &amp; diagramok konvertálása képekké vagy PDF-be
+ Meglévő diagramok frissítése &amp; diagramok konvertálása képekké vagy PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; megjegyzések manipulálása &amp; hiperhivatkozások
+ Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Összetett képletek beállítása &amp; eredmények kiszámítása a következőn keresztül: API
+ Összetett képletek beállítása &amp; számítsa ki az eredményeket a API telefonszámon
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Védelem beállítása munkafüzeten, munkalapon, cellán, oszlopon vagy soron
+ Védelem beállítása munkafüzeten, munkalapon, cellán, oszlopon vagy soron
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Létrehozása &amp; manipulálni a megnevezett tartományokat
+ Létrehozás &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Töltsön fel munkalapokat az intelligens jelölők segítségével
+ Töltsön fel munkalapokat az intelligens jelölők segítségével
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kimutatások kezelése és frissítése a következőn keresztül: API
+Manipulálja és frissítse a kimutatásokat a API számon keresztül
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Munkalapok konvertálása PDF, XPS és amp; SVG formátumok
+ Munkalapok konvertálása PDF, XPS &amp; SVG formátumban
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel-táblázatok renderelése
+ Excel-táblázatok renderelése
     </h2>
     <p>
-     A(z) Aspose.Cells a Node.js-hez a(z) Java-on keresztül a renderelő motorját használja a Microsoft Excelben történő megjelenítéshez a legnagyobb pontossággal. A Node.js Excel Processing könyvtár használata közben teljes lapokat, egyedi fájlokat vagy diagramokat konvertálhat több képpé és rögzített elrendezésű formátummá.
+ Aspose.Cells for Node.js via Java a renderelő motorját használja a Microsoft Excelbe való rendereléshez a lehető legnagyobb pontossággal. A Node.js Excel Processing könyvtár használata közben teljes lapokat, egyedi fájlokat vagy diagramokat konvertálhat több képpé és rögzített elrendezésű formátummá.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rugalmas megjelenítési lehetőségek
+ Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
-     A(z) Aspose.Cells a Node.js-hez a(z) Java-on keresztül teljes körű szabályozást biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
+ Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Biztonsági beállítások
+ Biztonsági beállítások
     </h2>
     <p>
-     A(z) Aspose.Cells for Node.js a(z) Java szolgáltatáson keresztül a biztonsági funkciók széles skáláját kínálja, beleértve a táblázatkezelési titkosítást/dekódolást, a tartalmat, az objektumokat és a titkosítást; forgatókönyv-védelem, valamint a sorok, oszlopok és oszlopok elrejtésének és felfedésének képessége; munkalapokat.
+Aspose.Cells for Node.js via Java a biztonsági funkciók széles skáláját kínálja, beleértve a táblázatkezelési titkosítást/dekódolást, a tartalmat, az objektumot és a visszafejtést; forgatókönyv-védelem, valamint a sorok, oszlopok és oszlopok elrejtésének és felfedésének képessége; munkalapokat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sorok kezelése &amp; Oszlopok
+ Sorok kezelése &amp; Oszlopok
     </h2>
     <p>
-     A(z) Aspose.Cells a Node.js számára a(z) Java-on keresztül lehetővé teszi a sorok és oszlopok sokféle módon történő kezelését. Könnyen beállíthatja a sormagasságot &amp; oszlopszélesség, a cellák automatikus méretezése a tartalomnak megfelelően, beszúrás &amp; törlés, elrejtés &amp; elrejtésének feloldása és csoportosítása &amp; sorok csoportosításának megszüntetése &amp; oszlopok.
+ Aspose.Cells for Node.js via Java lehetővé teszi a sorok és oszlopok sokféle módon történő kezelését. Könnyen beállíthatja a sormagasságot &amp; oszlopszélesség, a cellák automatikus méretezése a tartalomnak megfelelően, beszúrás &amp; törlés, elrejtés &amp; elrejtésének feloldása és csoportosítása &amp; sorok csoportosításának megszüntetése &amp; oszlopok.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Átfogó támogatás a munkalap formázáshoz
+ Átfogó támogatás a munkalap formázáshoz
     </h2>
     <p>
-     A(z) Aspose.Cells a Node.js számára a(z) Java-on keresztül olyan fejlett formázási funkciókat biztosít, amelyek lehetővé teszik az adatok megjelenítésének szabályozását. Alkalmazhat formázást egy munkalapra, oszlopra, sorra vagy cellára, vagy formázott szöveget adhat egyetlen cellához, alkalmazhat szegélyeket, beállíthat háttérmintákat és betűstílusokat. A API lehetővé teszi a hozzáadást, manipulálást és amp; feltételes formázási szabályok kiszámítása menet közben.
+Aspose.Cells for Node.js via Java fejlett formázási funkciókat kínál, amelyek lehetővé teszik az adatok megjelenítésének szabályozását. Alkalmazhat formázást egy munkalapra, oszlopra, sorra vagy cellára, vagy Rich Textet adhat egyetlen cellához, alkalmazhat szegélyeket, beállíthat háttérmintákat és betűstílusokat. A API lehetővé teszi a hozzáadást, manipulálást és kiszámítja a feltételes formázási szabályokat menet közben.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Diagram létrehozása, manipulálása és amp; Renderelés
+ Diagram létrehozása, manipulálása és amp; Renderelés
     </h2>
     <p>
-     A(z) Aspose.Cells for Node.js a(z) Java szolgáltatáson keresztül teljes mértékben támogatja a diagramkészítést. Könnyedén hozzáadhat testreszabott vagy szabványos diagramokat a API segítségével, és dinamikusan beállíthatja az adatokat a diagramok frissítéséhez.
+ Aspose.Cells for Node.js via Java teljes mértékben támogatja a diagramkészítést. A API szám segítségével egyszerűen hozzáadhat testreszabott vagy szabványos diagramokat, és dinamikusan beállíthatja az adatokat a diagramok frissítéséhez.
     </p>
    </div>
   </div>
@@ -375,17 +374,17 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 {{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/cells/nodejsjava/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://reference.aspose.com/nodejs/cells" >}}
+{{< blocks/products/pf/slr-element name="API Referenciák" href="https://reference.aspose.com/nodejs/cells" >}}
 {{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells a Node.js számára a(z) Java szolgáltatáson keresztül?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Miért Aspose.Cells for Node.js via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Ügyfelek listája" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Sikertörténetek" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -1,7 +1,6 @@
 ---
-title: Chránit a uzamknout dokument XLSB prostřednictvím .NET 
+title:  Chraňte a uzamkněte XLSB dokument via .NET
 weight: 5920
-
 description: C# zdrojový kód k uzamčení souboru XLSB pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -26,7 +25,6 @@ description: C# zdrojový kód k uzamčení souboru XLSB pomocí hesla na platfo
 
 PM> Install-Package Aspose.Cells
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,7 +33,7 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Chránit XLSB prostřednictvím C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Chraňte XLSB přes C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -45,39 +43,46 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Okamžitá třída Workbook s cestou k souboru XLSB1. Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany1. Chraňte pracovní list pomocí metody Worksheet.Protect1. Chraňte sešit pomocí metody Workbook.Protect1. Uložte výsledek ve formátu XLSB
+1.  Vytvořte instanci třídy Workbook s cestou k souboru XLSB
+1.  Získejte výchozí nebo jakýkoli pracovní list pro přidání ochrany
+1.  Chraňte sešit pomocí metody Worksheet.Protect
+1.  Chraňte sešit pomocí metody Workbook.Protect
+1.  Uložte výsledek ve formátu XLSB
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET je podporováno ve všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
+ Aspose.Cells for .NET je podporován na všech hlavních operačních systémech. Jen se ujistěte, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní operační systém s platformami .NET Framework, .NET Core, Mono nebo Xamarin- Vývojové prostředí jako Microsoft Visual Studio- Aspose.Cells for .NET odkazované ve vašem projektu
+-  Microsoft Windows nebo kompatibilní OS s .NET Framework, .NET Core, Mono nebo Xamarin Platforms
+-  Vývojové prostředí jako Microsoft Visual Studio
+-  Přidejte odkaz na Aspose.Cells for .NET DLL ve vašem projektu
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="" %}}
 
 ```cs
 
-// načtěte soubor XLSB Excel 
+// load the XLSB Excel file 
 var book = new Aspose.Cells.Workbook("unlocked.xlsb");
 
-// přístup k prvnímu pracovnímu listu
+// access the first worksheet
 var worksheet = book.Worksheets[0];
 
-// chránit list heslem
+// protect the worksheet with password
 worksheet.Protect(Aspose.Cells.ProtectionType.All, "password", null);
 
-// chránit celý sešit heslem
+// protect the whole workbook with password
 book.Protect(Aspose.Cells.ProtectionType.All, "password");
 
-// uložit upravený soubor ve výchozím formátu
+// save the modified file in default format
 book.Save("protected.xlsb");
-
 
 ```
 
@@ -92,7 +97,7 @@ book.Save("protected.xlsb");
 
     {{% blocks/products/pf/agp/content h2="O Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.  
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -100,14 +105,14 @@ book.Save("protected.xlsb");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro ochranu XLSB" sectionDescription="Podívejte se na naše živé ukázky [šifrovat soubory XLSB](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSB soubory](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSB a stisknout tlačítko „Odemknout“." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Stáhněte si výsledný soubor XLSB z odkazu" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je kolekce záznamů a struktur, které určují obsah sešitu aplikace Excel. Obsah může zahrnovat nestrukturované nebo polostrukturované tabulky čísel, text nebo čísla i text, vzorce, externí datová připojení, grafy a obrázky. Na rozdíl od XLSX (který je založen na formátu souboru Open XML), XLSB představuje binární soubor sešitu aplikace Excel. Soubory XLSB lze číst a zapisovat rychleji, což je činí užitečnými pro práci s velkými soubory. XLSB se k ukládání sešitů používá jen zřídka, protože XLSX (a dříve XLS) jsou nejběžnější uživatelsky vybrané formáty souborů pro ukládání sešitů. Lze jej otevřít pomocí sady Microsoft Office 2007 a vyšší.
+Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je kolekce záznamů a struktur, které určují obsah sešitu aplikace Excel. Obsah může zahrnovat nestrukturované nebo polostrukturované tabulky čísel, text nebo čísla i text, vzorce, externí datová připojení, grafy a obrázky. Na rozdíl od XLSX (který je založen na formátu souboru Open XML), XLSB představuje binární soubor sešitu aplikace Excel. XLSB soubory lze číst a zapisovat rychleji, což je činí užitečnými pro práci s velkými soubory. XLSB se zřídka používá k ukládání sešitů, protože XLSX (a dříve XLS) jsou nejběžnější uživatelem vybrané formáty souborů pro ukládání sešitů. Lze jej otevřít na čísle Microsoft Office 2007 a vyšším.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

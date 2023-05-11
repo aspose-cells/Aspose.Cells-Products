@@ -1,8 +1,7 @@
 ---
-title: Adicionar anotação XLSB do arquivo Excel via C++ 
+title:  Adicionar arquivo Excel XLSB anotação via C++
 weight: 860
-
-description: C++ código de amostra para excluir anotações de formato XLSB em C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.
+description: C++ código de exemplo para excluir anotações de formato XLSB em C++ Ambiente de tempo de execução para Windows 32 bits, Windows 64 bits e Linux 64 bits.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adicionar anotação no arquivo XLSB via C++" h2="Crie seus próprios aplicativos C++ para manipular comentários e autores em arquivos de documentos usando APIs do lado do servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,19 +12,18 @@ description: C++ código de amostra para excluir anotações de formato XLSB em 
 {{% blocks/products/pf/agp/content h2="Como anotar o arquivo XLSB usando C++" %}}
 
 Para anotar o arquivo XLSB, usaremos
- [Aspose.Cells para C++](https://products.aspose.com/cells/cpp) 
- API que é uma plataforma de pesquisa de documentos API rica em recursos, poderosa e fácil de usar para C++. Você pode baixar sua versão mais recente diretamente, basta abrir
- [NuGetName](https://www.nuget.org/packages/aspose.cells.cpp) 
- gerenciador de pacotes, procure
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+API, que é uma plataforma de pesquisa de documentos rica em recursos, poderosa e fácil de usar API for C++. Você pode baixar sua versão mais recente diretamente, basta abrir
+ [NuGet](https://www.nuget.org/packages/aspose.cells.cpp) 
+ gerenciador de pacotes, procure por
  **Aspose.Cells.Cpp** 
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+ e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells.Cpp
-
 
 ```
 
@@ -41,7 +39,12 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Carregue o arquivo XLSB Excel usando o objeto de classe IWorkbook.1. Selecione a planilha relevante1. Adicione o comentário usando o método Add1. Defina a nota do comentário usando o método SetNote.1. Salve a pasta de trabalho usando [Salve ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) método
+1.  Carregue o arquivo Excel XLSB usando o objeto de classe IWorkbook.
+1.  Selecione a folha relevante
+1.  Adicione o comentário usando o método Add
+1.  Defina a nota do comentário usando o método SetNote.
+1.  Salve a pasta de trabalho usando[Salvar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a77072cfb929787df9ad1f38b02f58349) método
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -49,11 +52,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells para C++ é compatível com todas as principais plataformas e sistemas operacionais. Verifique se você possui os seguintes pré-requisitos.
+ Aspose.Cells for C++ suporta todas as principais plataformas e sistemas operacionais. Certifique-se de ter os seguintes pré-requisitos.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com C++ Runtime Environment para Windows de 32 bits, Windows de 64 bits e Linux de 64 bits.- Aspose.Cells para C++ DLL referenciada em seu projeto.{{% /blocks/products/pf/agp/feature-section-col %}}
+-  Microsoft Windows ou um sistema operacional compatível com C++ Runtime Environment para Windows 32 bits, Windows 64 bits e Linux 64 bits.
+-  Adicione referência à DLL Aspose.Cells for C++ em seu projeto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Adicionar comentários no arquivo XLSB - C++" offSpacer="" %}}
 
@@ -68,9 +74,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells para C++ API" %}}
+    {{% blocks/products/pf/agp/content h2="Sobre Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API pode ser usado para criar, editar, converter e renderizar formatos do Microsoft Excel para diferentes formatos. Além disso, ele pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.  
+ Aspose.Cells API pode ser usado para criar, editar, converter e renderizar Microsoft formatos Excel em diferentes formatos. Além disso, pode ser usado para gráficos abrangentes, relatórios escaláveis e cálculos confiáveis em aplicativos de software. Aspose.Cells é um API autônomo e não requer nenhum software como Microsoft ou OpenOffice.
 
 
 
@@ -78,14 +84,14 @@ PM> Install-Package Aspose.Cells.Cpp
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Adicionar/Remover Anotação de XLSB via Aplicativo Online" sectionDescription="Exclua as anotações do documento XLSB agora mesmo visitando nosso [Site de demonstrações ao vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Adicionar/remover anotação de XLSB via aplicativo online" sectionDescription=" Exclua as anotações do documento XLSB agora mesmo visitando nosso[Site de Demonstrações ao Vivo](https://products.aspose.app/cells/annotation). A demonstração ao vivo tem os seguintes benefícios" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar ou configurar nada" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta fazer o upload do seu arquivo XLSB e clicar no botão \"Remover\"" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download para o arquivo resultante" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Basta carregar seu arquivo XLSB e clicar no botão \"Remover\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou ambos, números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário do XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. Os arquivos XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Ele pode ser aberto pelo Microsoft Office 2007 e superior.
+XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -93,12 +99,12 @@ O formato de arquivo XLSB especifica o formato de arquivo binário do Excel, que
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação compatíveis" subTitle="Usando C++, pode-se facilmente anotar outros formatos, incluindo." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Outros formatos de anotação suportados" subTitle="Usando C++, pode-se facilmente anotar outros formatos, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/ods/" name="ODS" description="Arquivo de planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xls/" name="XLS" description="Formato binário do Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsx/" name="XLSX" description="Arquivo OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/annotation/xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

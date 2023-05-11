@@ -1,17 +1,16 @@
 ---
-title: Erstellen Sie Excel-Dateien über Java
-
-description: Generieren Sie Microsoft Excel-Tabellen aus einem Vorlagenblatt mit der Tabellenbibliothek Java
+title: Erstellen Sie Excel-Dateien via Java
+description: Generieren Sie Microsoft Excel-Tabellen aus einem Vorlagenblatt mithilfe der Tabellenkalkulationsbibliothek Java
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Auf Microsoft<sup>&reg;</sup> Excel-Vorlagen basierende Berichterstellung über Java" h2="Generieren Sie Massen-Excel-Dateiberichte basierend auf einer vordefinierten Vorlage in Java-basierten Anwendungen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-Vorlagenbasierte Berichtserstellung via Java" h2="Generieren Sie Massenberichte über Excel-Dateien basierend auf einer vordefinierten Vorlage in Java-basierten Anwendungen." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel-Bibliothek](/cells/java/) unterstützt das Generieren von vorlagenbasierten Excel-Dateien für die Generierung von Massenberichten. Es wird für die meisten Fälle benötigt, wie z. B. das Erstellen von Honorarabrechnungen, Ergebniskarten und Patientenakten usw. Vorlagen sind vordefinierte Muster. Der folgende Java-Code generiert die Massen-Excel-Dateien, die dem mit Daten gefüllten Vorlagendokument entsprechen. Zu den unterstützten Dateiformaten gehören XLS, XLSX, XLSB, XLSM, ODS.
+[Java Excel-Bibliothek](/cells/de/java/)unterstützt die Generierung vorlagenbasierter Excel-Dateien für die Erstellung von Massenberichten. Es wird für die meisten Fälle benötigt, beispielsweise für die Erstellung von Gebührenlisten, Ergebniskarten und Patientenakten usw. Vorlagen sind vordefinierte Muster. Der Code unten Java generiert die Massen-Excel-Dateien genauso wie das mit Daten gefüllte Vorlagendokument. Zu den unterstützten Dateiformaten gehören XLS, XLSX, XLSB, XLSM, ODS.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Erstellen Sie Berichte basierend auf einer vordefinierten Excel-Vorlage" %}}
+{{% blocks/products/pf/feature-page-section h2="Erstellen Sie Berichte basierend auf einer vorgefertigten Excel-Vorlage" %}}
 
-Mit Java Assembly API können Entwickler den Generierungscode für Bulk-Berichte einfach programmieren, indem sie die folgenden Code-Snippts einfügen. API bietet [Daten importieren](https://docs.aspose.com/cells/java/import-and-export-data/) Feature aus verschiedenen Quellen und erstellen Excel-Dokumente in Abhängigkeit von diesen Daten. Für vorlagenbasierte Muster bietet API a [WorkbookDesigner-Klasse](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner) um ein Designer-Arbeitsblatt darzustellen. Prozess ist, erstellen Sie sein Objekt und verwenden Sie es, um die Vorlagendatei zu öffnen. Legen Sie die Datenquelle fest, die Array, DataTable, Json usw. sein kann. Verarbeiten Sie sie, um Daten zu importieren, und speichern Sie die Datei im gewünschten Format. Programmierer können Daten in Berichten in anderen Dateiformaten einschließlich XLS, XLSX, XLSB, XLSM, ODS über die unten aufgeführten Links zusammenstellen.
+ Mit Java Assembly API können Entwickler den Code für die Generierung von Massenberichten einfach programmieren, indem sie die folgenden Codeausschnitte einbinden. API bietet[Daten importieren](https://docs.aspose.com/cells/java/import-and-export-data/) Funktion aus verschiedenen Quellen und erstellen Sie auf Grundlage dieser Daten Excel-Dokumente. Für vorlagenbasierte Muster bietet API eine[WorkbookDesigner-Klasse](https://reference.aspose.com/cells/java/com.aspose.cells/WorkbookDesigner)um ein Designer-Arbeitsblatt darzustellen. Der Prozess besteht darin, sein Objekt zu erstellen und es zum Öffnen der Vorlagendatei zu verwenden. Legen Sie die Datenquelle fest, das kann Array, DataTable, Json usw. sein. Verarbeiten Sie sie, um Daten zu importieren und die Datei im gewünschten Format zu speichern. Programmierer können über die unten aufgeführten Links Daten in Berichten in anderen Dateiformaten zusammenstellen, einschließlich XLS, XLSX, XLSB, XLSM, ODS.
 
 
 

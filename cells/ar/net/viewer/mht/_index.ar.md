@@ -1,7 +1,6 @@
 ---
-title: عرض تنسيقات ملف MHT عبر .NET 
-
-description: C# شفرة المصدر لتحميل مستندات MHT وعرضها وعرضها على الأنظمة الأساسية .NET Framework أو .NET Core أو Windows Azure Mono أو Xamarin.
+title:  عرض تنسيقات ملف MHT via .NET
+description: C# التعليمات البرمجية المصدر لتحميل وتقديم وعرض مستندات MHT على .NET Framework أو .NET Core أو Windows Azure أو Mono أو الأنظمة الأساسية Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="عارض ملفات MHT for .NET" h2="اعرض جداول بيانات Excel و OpenOffice مثل MHT دون الحاجة إلى Microsoft Excel أو Office Automation." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -11,14 +10,13 @@ description: C# شفرة المصدر لتحميل مستندات MHT وعرضه
 
 {{% blocks/products/pf/agp/content h2="كيفية عرض ملف MHT باستخدام C#" %}}
 
-من أجل عرض ملف MHT ، سنستخدم <a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API وهو نظام غني بالميزات وقوي وسهل الاستخدام API لمنصة C# ليتم استخدامه مع أي عارض. يفتح <a href="https://www.nuget.org/packages/aspose.cells">نوجيت</a> مدير الحزم ، ابحث عن <b>Aspose.Cells</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ من أجل عرض ملف MHT ، سنستخدم<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API وهو غني بالميزات وقوي وسهل الاستخدام API لمنصة C# لاستخدامه مع أي عارض. يفتح<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a> مدير الحزم ، ابحث عن<b>Aspose.Cells</b> وتثبيت. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم مدير الحزم" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Cells
-
 
 ```
 
@@ -28,15 +26,19 @@ PM> Install-Package Aspose.Cells
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="خطوات لعرض MHT عبر C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="خطوات عرض MHT عبر C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يسهل Aspose.Cells على المطورين عرض ملف MHT ببضعة سطور من التعليمات البرمجية.
+ يسهل Aspose.Cells على المطورين عرض ملف MHT ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. تحميل ملف MHT في مثيل المصنف1. قم بإنشاء مثيل HtmlSaveOptions & قم بتعيين خاصية ExportHeadings على true1. احفظ ملف MHT بتنسيق HTML باستخدام طريقة Workbook.Save1. قم بتحميل HTML الناتج في المتصفح الافتراضي باستخدام Process.Start
+1. تحميل ملف MHT في مثيل المصنف
+1. قم بإنشاء مثيل HtmlSaveOptions & قم بتعيين خاصية ExportHeadings على true
+1. احفظ ملف MHT بتنسيق HTML باستخدام طريقة Workbook.Save
+1. قم بتحميل الناتج HTML في المتصفح الافتراضي باستخدام Process.Start
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -44,31 +46,33 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET مدعوم في جميع أنظمة التشغيل الرئيسية. فقط تأكد من أن لديك المتطلبات الأساسية التالية.
+ Aspose.Cells for .NET مدعوم على كافة أنظمة التشغيل الرئيسية. فقط تأكد من أن لديك المتطلبات الأساسية التالية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure Mono أو الأنظمة الأساسية Xamarin- بيئة التطوير مثل Microsoft Visual Studio- تمت الإشارة إلى Aspose.Cells for .NET في مشروعك
+-  Microsoft Windows أو نظام تشغيل متوافق مع .NET Framework أو .NET Core أو Windows Azure أو Mono أو الأنظمة الأساسية Xamarin
+-  بيئة التطوير مثل Microsoft Visual Studio
+-  أضف مرجعًا إلى DLL Aspose.Cells for .NET في مشروعك
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# مثال على رمز لعرض ملف MHT" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# رمز مثال لعرض ملف MHT" offSpacer="" %}}
 
 ```cs
 
 
 string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
 
-// تحميل ملف MHT في مثيل المصنف
+// load the MHT file in an instance of Workbook
 var book = new Aspose.Cells.Workbook("template.mht");
-// إنشاء مثيل HtmlSaveOptions & ضبط خاصية ExportHeadings على true
+// create an instance of HtmlSaveOptions & set ExportHeadings property to true
 var options = new Aspose.Cells.HtmlSaveOptions();
 options.ExportHeadings = true;
 
-// احفظ ملف MHT بتنسيق HTML
+// save the MHT file in HTML format
 book.Save(output, options);
-// تحميل الناتج HTML في المتصفح الافتراضي
+// load resultant HTML in default browser
 System.Diagnostics.Process.Start(output);
-
 
 ```
 
@@ -83,7 +87,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-يمكن استخدام Aspose.Cells API لإنشاء تنسيقات Microsoft Excel وتحريرها وتحويلها وعرضها بتنسيقات مختلفة. علاوة على ذلك ، يمكن استخدامه لرسم بياني شامل ، وإعداد تقارير قابلة للتطوير وحسابات موثوقة داخل تطبيقات البرامج. Aspose.Cells هو برنامج مستقل API ولا يتطلب أي برامج مثل Microsoft أو OpenOffice.    
+ يمكن استخدام Aspose.Cells API لإنشاء وتنسيقات Microsoft Excel وتحريرها وتحويلها وتقديمها إلى تنسيقات مختلفة. علاوة على ذلك ، يمكن استخدامه لرسم بياني شامل ، وإعداد تقارير قابلة للتطوير وحسابات موثوقة داخل تطبيقات البرامج. Aspose.Cells هو API مستقل ولا يتطلب أي برنامج مثل Microsoft أو OpenOffice.
 
 
 
@@ -91,14 +95,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق مجاني لعرض MHT" sectionDescription="تحقق من العروض الحية لدينا ل [مشاهدة ملف MHT](https://products.aspose.app/cells/viewer/mht) مع الفوائد التالية." >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="تطبيق مجاني لعرض MHT" sectionDescription=" تحقق من العروض الحية لدينا[مشاهدة ملف MHT](https://products.aspose.app/cells/viewer/mht) مع الفوائد التالية." >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتنزيل أو إعداد أي شيء" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أو ترجمة التعليمات البرمجية" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" فقط قم بتحميل ملف MHT واضغط على زر \"عرض\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" قم بتنزيل ملف MHT من الرابط ، إذا لزم الأمر" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
-الملف ذو الامتداد .mht هو تنسيق ملف أرشفة ممكّن بواسطة MIME يحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحة في شكل ملفات CSS وجافا سكريبت وموارد أخرى كموارد مضمنة فيها. تقوم ملفات MHT ، التي تحتوي على رسالة من نوع MIME / rfc822 ، بتغليف جميع محتويات ملف HTML كملف أرشيف واحد للتخزين على الأرشفة على أجهزة التخزين. تتيح لك تطبيقات البرامج مثل Microsoft Word تحويل مستندات WORD إلى MHT عن طريق تصديرها كملف MHT. يمكن فتح ملفات MHT باستخدام متصفحات شائعة مثل Microsoft Internet Explore و Google Chrome.
+الملف ذو الامتداد .mht هو تنسيق ملف أرشفة ممكّن بواسطة MIME يحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحة في شكل ملفات CSS وجافا سكريبت وموارد أخرى كموارد مضمنة فيها. تقوم ملفات MHT ، التي تحتوي على رسالة من نوع MIME / rfc822 ، بتغليف جميع محتويات ملف HTML كملف أرشيف واحد للتخزين على الأرشفة على أجهزة التخزين. تتيح لك التطبيقات البرمجية مثل Microsoft Word تحويل مستندات WORD الخاصة بك إلى MHT عن طريق التصدير كملف MHT. يمكن فتح ملفات MHT باستخدام المتصفحات الشائعة مثل Microsoft Internet Explore و Google Chrome.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

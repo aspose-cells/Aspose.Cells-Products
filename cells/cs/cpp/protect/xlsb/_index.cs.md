@@ -1,8 +1,7 @@
 ---
-title: Chránit a uzamknout dokument XLSB prostřednictvím C++ 
+title:  Chraňte a uzamkněte dokument XLSB přes C++
 weight: 4860
-
-description: C++ ukázkový kód pro uzamčení souboru XLSB pomocí hesla v C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+description: C++ příklad kódu pro uzamčení souboru XLSB pomocí hesla na C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Šifrovat soubory XLSB přes C++" h2="Chraňte heslem tabulky aplikace Excel včetně formátu XLSB pomocí knihovny .NET." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,8 +12,8 @@ description: C++ ukázkový kód pro uzamčení souboru XLSB pomocí hesla v C++
 {{% blocks/products/pf/agp/content h2="Jak zabezpečit soubor XLSB pomocí C++" %}}
 
  Za účelem ochrany souboru XLSB použijeme
- [Aspose.Cells za C++](https://products.aspose.com/cells/cpp) 
- API, což je funkčně bohaté, výkonné a snadno použitelné šifrování dokumentů API pro platformu C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
+ [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro šifrování dokumentů API for C++. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells.Cpp** 
@@ -26,7 +25,6 @@ description: C++ ukázkový kód pro uzamčení souboru XLSB pomocí hesla v C++
 
 PM> Install-Package Aspose.Cells.Cpp
 
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -35,47 +33,51 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Kroky k ochraně souborů XLSB prostřednictvím C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Kroky k ochraně souborů XLSB přes C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ochranu dokumentů pomocí rozhraní API Aspose.Cells lze provést pomocí několika řádků kódu.
+ Ochranu dokumentů pomocí Aspose.Cells API lze provést pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Načtěte soubor XLSB pomocí třídy IWorkbook1. Použijte metodu Protect(..) s ProtectionType a Password1. Uložte chráněný soubor XLSB metodou Save().
+1.  Načtěte soubor XLSB pomocí třídy IWorkbook
+1.  Použijte metodu Protect(..) s ProtectionType a Password
+1.  Uložte chráněný soubor XLSB metodou Save().
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na systém" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells pro C++ podporuje na všech hlavních platformách a operačních systémech. Ujistěte se prosím, že máte následující předpoklady.
+ Aspose.Cells for C++ podporuje všechny hlavní platformy a operační systémy. Ujistěte se prosím, že máte následující předpoklady.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows nebo kompatibilní OS s C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.- Aspose.Cells pro C++ DLL, na kterou odkazuje váš projekt.
+-  Microsoft Windows nebo kompatibilní OS s C++ Runtime Environment pro Windows 32 bit, Windows 64 bit a Linux 64 bit.
+-  Přidejte odkaz na Aspose.Cells for C++ DLL ve svém projektu.
+
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="" %}}
 
 ```cs
 
-// Zdrojová cesta.
+// Source path.
 StringPtr srcDir = new String("SourcePath\");
 
-// Výstupní cesta.
+// Output path.
 StringPtr outDir = new String("OutputPath\");
 
-// Načtěte soubor XLSB
+// Load XLSB file
 intrusive_ptr<IWorkbook> workbook = Factory::CreateIWorkbook(srcDir->StringAppend(new String("sourceFile.xlsb")));
 
-// Chraňte sešit zadáním typu ochrany
+// Protect workbook by specifying protection type
 workbook->Protect(ProtectionType::ProtectionType_All, new String("12345"));
 
-// Uložte soubor XLSB
+// Save the XLSB file
 workbook->Save(outDir->StringAppend(new String("output.xlsb")));
-
 
 ```
 
@@ -88,9 +90,9 @@ workbook->Save(outDir->StringAppend(new String("output.xlsb")));
 
 <!-- aboutfile Starts -->
 
-{{% blocks/products/pf/agp/content h2="O Aspose.Cells pro C++ API" %}}
+{{% blocks/products/pf/agp/content h2="O Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování formátů aplikace Microsoft Excel do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelné výkazy a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.  
+ Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
 
 
@@ -98,15 +100,15 @@ workbook->Save(outDir->StringAppend(new String("output.xlsb")));
 
 {{< blocks/products/pf/agp/about-file-section >}}
 
-    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace pro ochranu XLSB" sectionDescription="Podívejte se na naše živé ukázky [šifrovat soubory XLSB](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat" >}}
+    {{< blocks/products/pf/agp/demobox sectionTitle="Bezplatná aplikace na ochranu XLSB" sectionDescription=" Podívejte se na naše živé ukázky[šifrovat XLSB soubory](https://products.aspose.app/cells/protect/xlsb) s následujícími výhodami." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba nic stahovat ani nastavovat" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát nebo kompilovat kód" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor XLSB a stisknout tlačítko „Odemknout“." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" Stáhněte si výsledný soubor XLSB z odkazu" >}}
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je kolekce záznamů a struktur, které určují obsah sešitu aplikace Excel. Obsah může zahrnovat nestrukturované nebo polostrukturované tabulky čísel, text nebo čísla i text, vzorce, externí datová připojení, grafy a obrázky. Na rozdíl od XLSX (který je založen na formátu souboru Open XML), XLSB představuje binární soubor sešitu aplikace Excel. Soubory XLSB lze číst a zapisovat rychleji, což je činí užitečnými pro práci s velkými soubory. XLSB se k ukládání sešitů používá jen zřídka, protože XLSX (a dříve XLS) jsou nejběžnější uživatelsky vybrané formáty souborů pro ukládání sešitů. Lze jej otevřít pomocí sady Microsoft Office 2007 a vyšší.
+Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je kolekce záznamů a struktur, které určují obsah sešitu aplikace Excel. Obsah může zahrnovat nestrukturované nebo polostrukturované tabulky čísel, text nebo čísla i text, vzorce, externí datová připojení, grafy a obrázky. Na rozdíl od XLSX (který je založen na formátu souboru Open XML), XLSB představuje binární soubor sešitu aplikace Excel. XLSB soubory lze číst a zapisovat rychleji, což je činí užitečnými pro práci s velkými soubory. XLSB se zřídka používá k ukládání sešitů, protože XLSX (a dříve XLS) jsou nejběžnější uživatelem vybrané formáty souborů pro ukládání sešitů. Lze jej otevřít na čísle Microsoft Office 2007 a vyšším.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -114,7 +116,7 @@ Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Další podporované ochranné dokumenty" subTitle="Pomocí C++ lze chránit další soubory včetně." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další podporované dokumenty ochrany" subTitle="Pomocí C++ lze chránit další soubory včetně." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/protect/xls/" name="XLS" description="Binární formát Excel" >}}

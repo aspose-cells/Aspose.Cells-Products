@@ -1,8 +1,7 @@
 ---
-title: Ứng dụng chuyển đổi bảng tính SharePoint Excel - Aspose 
+title:  Ứng dụng chuyển đổi bảng tính SharePoint Excel - Aspose
 weight: 940
-
-description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển đổi Bảng tính SharePoint Excel. Xuất XLS XLSX XML CSV PDF ODS & amp; Các định dạng HTML trong MOSS WSS
+description: Aspose.Cells for SharePoint Ứng dụng là một công cụ chuyển đổi Bảng tính SharePoint Excel. Xuất XLS XLSX XML CSV PDF ODS &amp; HTML định dạng trong MOSS WSS
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ứng dụng SharePoint để chuyển đổi bảng tính Excel" h2="Chuyển đổi bảng tính Excel sang hơn 8 định dạng tệp ngay từ thư viện tài liệu SharePoint." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
@@ -13,7 +12,7 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells cho SharePoint là một ứng dụng chuyển đổi bảng tính Excel linh hoạt. Nó có thể chuyển đổi tài liệu giữa nhiều định dạng Microsoft Excel phổ biến từ thư viện tài liệu SharePoint mà không cần phụ thuộc Microsoft Excel. Nó hỗ trợ nhiều định dạng tài liệu không có trong hỗ trợ định dạng tệp gốc của SharePoint.
+ Aspose.Cells for SharePoint là một ứng dụng chuyển đổi bảng tính Excel linh hoạt. Nó có thể chuyển đổi tài liệu giữa nhiều định dạng Microsoft Excel phổ biến từ thư viện tài liệu SharePoint mà không cần phụ thuộc Microsoft Excel. Nó hỗ trợ nhiều định dạng tài liệu không có trong hỗ trợ định dạng tệp gốc của SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về Aspose.Cells cho SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="trong nháy mắt" description="Lh Aspose.Cells for SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Dễ dàng cài đặt
+ Dễ dàng cài đặt
    </header>
    <ul>
     <li>
-     Tệp SharePoint WSP
+ Tệp SharePoint WSP
     </li>
     <li>
-     Kích hoạt khắp trang trại
+ Kích hoạt khắp trang trại
     </li>
     <li>
-     Khử kích hoạt Across Farm
+ Hủy kích hoạt trên khắp trang trại
     </li>
    </ul>
   </div>
@@ -47,17 +46,17 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
    <header>
     <i class="fa fa-file-o">
     </i>
-    Tùy chọn chuyển đổi
+ Tùy chọn chuyển đổi
    </header>
    <ul>
     <li>
-     Lưu trong các thư mục con
+ Lưu trong thư mục con
     </li>
     <li>
-     Kết nối tệp
+ nối tệp
     </li>
     <li>
-     Ghi đè các tệp hiện có
+ Ghi đè tập tin hiện có
     </li>
    </ul>
   </div>
@@ -72,9 +71,9 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Điểm chia sẻ
+ Điểm chia sẻ
    </small>
   </footer>
  </div>
@@ -83,14 +82,14 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Cells cho SharePoint hỗ trợ Windows SharePoint Services, SharePoint Foundation và Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Độc lập nền tảng" description="Aspose.Cells for SharePoint hỗ trợ Windows SharePoint Services, SharePoint Foundation và Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Máy chủ SharePoint
+ Máy chủ SharePoint
    </header>
    <ul>
     <li>
@@ -112,17 +111,17 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Dịch vụ SharePoint của Windows
+ Windows Dịch vụ SharePoint
    </header>
    <ul>
     <li>
-     WSS 3.0
+ WSS 3.0
     </li>
    </ul>
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    Tổ chức SharePoint
+ Nền tảng SharePoint
    </header>
    <ul>
     <li>
@@ -144,9 +143,9 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Điểm chia sẻ
+ Điểm chia sẻ
    </small>
   </footer>
  </div>
@@ -155,19 +154,19 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.Cells cho SharePoint hỗ trợ nhiều định dạng bảng tính phổ biến, PDF, HTML và các định dạng khác [định dạng tệp](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for SharePoint hỗ trợ nhiều định dạng bảng tính phổ biến, PDF, HTML và các định dạng khác[định dạng tập tin](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu ra đầu vào
+ Đầu ra đầu vào
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ MicrosoftExcel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
@@ -179,19 +178,19 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
     </li>
     <li>
      <b>
-      Mở văn phòng:
+ Mở văn phòng:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Bản văn:
+ Chữ:
      </b>
-     CSV, TSV, Phân cách bằng tab, TXT
+ CSV, TSV, Phân định bằng tab, TXT
     </li>
     <li>
      <b>
-      Web:
+ mạng:
      </b>
      HTML, MHTML
     </li>
@@ -202,18 +201,18 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Chỉ đầu ra
+ Chỉ đầu ra
    </header>
    <ul>
     <li>
      <b>
-      Bố cục cố định:
+ Bố cục cố định:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Hình ảnh:
+ Hình ảnh:
      </b>
      JPEG, GIF, PNG, BMP, SVG, TIFF, EMF
     </li>
@@ -230,9 +229,9 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
   <footer>
    <small>
     <em>
-     vì
+ vì
     </em>
-    Điểm chia sẻ
+ Điểm chia sẻ
    </small>
   </footer>
  </div>
@@ -253,50 +252,50 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
    <br/>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi bảng tính Excel sang một số định dạng
+ Chuyển đổi bảng tính Excel sang một số định dạng
     </h2>
     <p>
-     Aspose.Cells cho SharePoint cho phép chuyển đổi bảng tính sang nhiều định dạng tài liệu và hình ảnh phổ biến từ bên trong thư viện tài liệu SharePoint. Aspose.Cells cho SharePoint hiện hỗ trợ hầu hết các định dạng bảng tính cùng với CSV & amp; XML làm đầu vào và có thể xuất sang các định dạng bảng tính cũng như CSV, HTML, ODS, PDF, XML & amp; các định dạng hình ảnh.
+ Aspose.Cells for SharePoint cho phép chuyển đổi bảng tính sang nhiều định dạng tài liệu và hình ảnh phổ biến từ bên trong thư viện tài liệu SharePoint. Aspose.Cells for SharePoint hiện hỗ trợ hầu hết các định dạng bảng tính cùng với CSV &amp; XML làm đầu vào và có thể xuất sang các định dạng bảng tính cũng như CSV, HTML, ODS, PDF, XML &amp; các định dạng hình ảnh.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Nối các tệp trong quá trình chuyển đổi
+ Nối các tệp trong quá trình chuyển đổi
     </h2>
     <p>
-     Aspose.Cells cho SharePoint cung cấp khả năng kết hợp các tệp có các định dạng khác nhau thành một tài liệu duy nhất. Hơn nữa, bạn cũng có thể di chuyển các tài liệu trong danh sách lên hoặc xuống để đặt thứ tự mà bạn muốn các tài liệu được kết hợp.
+ Aspose.Cells for SharePoint cung cấp khả năng kết hợp các tệp có định dạng khác nhau thành một tài liệu duy nhất. Ngoài ra, bạn cũng có thể di chuyển các tài liệu trong danh sách lên hoặc xuống để đặt thứ tự mà bạn muốn các tài liệu được kết hợp.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Chuyển đổi tệp trong thư mục con
+ Chuyển đổi tệp trong thư mục con
     </h2>
     <p>
-     Aspose.Cells cho SharePoint làm cho quá trình chuyển đổi dễ dàng hơn bằng cách chuyển đổi đệ quy tất cả các tài liệu và thư mục con trong một thư mục đã chọn. Cấu trúc thư mục con hiện có được tạo trong thư mục đích.
+Aspose.Cells for SharePoint làm cho quá trình chuyển đổi dễ dàng hơn bằng cách chuyển đổi đệ quy tất cả các tài liệu và thư mục con trong một thư mục đã chọn. Cấu trúc thư mục con hiện có được tạo trong thư mục đích.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ghi đè các tệp hiện có
+ Ghi đè tập tin hiện có
     </h2>
     <p>
-     Nếu thư mục đích đã chứa các tệp có cùng tên với những tệp bạn muốn chuyển đổi thì Aspose.Cells đối với SharePoint cho phép bạn ghi đè các tệp hiện có hoặc bạn có thể chỉ cần chọn một tùy chọn sẽ hướng dẫn ứng dụng bỏ qua việc xử lý tệp đã tồn tại trong thư mục đích.
+ Nếu thư mục đích đã chứa các tệp có cùng tên với tên bạn muốn chuyển đổi thì Aspose.Cells for SharePoint cho phép bạn ghi đè lên các tệp hiện có hoặc bạn chỉ cần chọn một tùy chọn sẽ hướng dẫn ứng dụng bỏ qua việc xử lý các tệp đã tồn tại trong thư mục đích .
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tương tác với Công chúng API
+ Tương tác với Công API
     </h2>
     <p>
-     Đối với các nhà phát triển có giải pháp SharePoint nội bộ, họ có thể sử dụng Aspose.Cells cho công cụ chuyển đổi tài liệu của SharePoint thông qua công khai của nó API. Nó cung cấp quyền truy cập có lập trình vào tất cả các định dạng được hỗ trợ và các tùy chọn chuyển đổi.
+ Đối với các nhà phát triển có giải pháp SharePoint nội bộ, họ có thể sử dụng công cụ chuyển đổi tài liệu của Aspose.Cells for SharePoint thông qua API công khai. Công cụ này cung cấp quyền truy cập có lập trình vào tất cả các định dạng được hỗ trợ và tùy chọn chuyển đổi.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tự động hóa Microsoft Excel - Không cần thiết
+ Microsoft Tự động hóa Excel – Không cần thiết
     </h2>
     <p>
-     Aspose.Cells cho SharePoint được tạo bằng cách sử dụng mã được quản lý không bao giờ cần cài đặt Microsoft Excel trên máy để hoạt động với chuyển đổi định dạng Excel. Đây là một giải pháp thay thế tự động hóa hoàn hảo của Microsoft Excel về các tính năng được hỗ trợ, bảo mật, ổn định, khả năng mở rộng, tốc độ và giá cả.
+Aspose.Cells for SharePoint được tạo bằng mã được quản lý không bao giờ cần cài đặt Microsoft Excel trên máy để hoạt động với chuyển đổi định dạng Excel. Nó là một giải pháp thay thế tự động hóa Microsoft Excel hoàn hảo về các tính năng được hỗ trợ, bảo mật, ổn định, khả năng mở rộng, tốc độ và giá cả.
     </p>
    </div>
   </div>
@@ -315,13 +314,13 @@ description: Aspose.Cells cho Ứng dụng SharePoint là một trình chuyển 
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells cho SharePoint?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Cells for SharePoint?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="danh sách khách hàng" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

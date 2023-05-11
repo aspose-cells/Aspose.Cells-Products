@@ -1,8 +1,7 @@
 ---
-title: Eliminar comentarios de archivos de Excel en Windows, Linux y macOS 
+title:  Eliminar comentarios de archivos de Excel en Windows, Linux y macOS
 weight: 7730
-
-description: Aplicación y API gratuitas para la gestión de comentarios y anotaciones de Excel XLS, XLSX y ODS
+description: Aplicación gratuita y API para Excel XLS, XLSX y ODS Gestión de anotaciones y comentarios
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

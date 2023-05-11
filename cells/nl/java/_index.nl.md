@@ -1,11 +1,10 @@
 ---
-title: Java Excel API - Aspose 
+title:  Java Excel API - Aspose
 weight: 6830
-
-description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven render en converteer XLS XLSX XLSM ODS CSV TSV en meer formaten. Compatibel met Windows Linux & Unix
+description: Java Excel-bibliotheek voor verwerking van spreadsheets. Lees schrijf render en converteer XLS XLSX XLSM ODS CSV TSV en meer formaten. Compatibel met Windows Linux en Unix
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Excel-spreadsheetverwerking API" h2="Maak, manipuleer, converteer, beveilig of druk spreadsheets af zonder afhankelijk te zijn van Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Excel-spreadsheetverwerking API" h2="Maak, manipuleer, converteer, bescherm of print spreadsheets zonder afhankelijk te zijn van Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-java.svg" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cells/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Java" >}}
 
@@ -13,11 +12,11 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Java is een bekroonde Excel-spreadsheetverwerking API waarmee de ontwikkelaars de functionaliteit kunnen insluiten om te lezen, schrijven, manipuleren, converteren &amp; spreadsheets in hun eigen toepassingen afdrukken, zonder dat u een Microsoft Excel-toepassing nodig hebt.
+ Aspose.Cells for Java is een bekroonde Excel Spreadsheet Processing API waarmee de ontwikkelaars de functionaliteit kunnen integreren om te lezen, schrijven, manipuleren, converteren &amp; spreadsheets afdrukken in hun eigen applicaties, zonder Microsoft Excel-applicatie nodig te hebben.
 </p>
 
 <p>
- Aspose.Cells for Java is een volwassen bibliotheek met veel functies, die veel functies biedt die veel verder gaan dan de eenvoudige gegevensexportmogelijkheden van andere componenten die op de markt beschikbaar zijn. API biedt de mogelijkheid om gegevens te exporteren, spreadsheets op te maken tot het meest gedetailleerde niveau, importeren &amp; afbeeldingen exporteren, grafieken maken &amp; Draaitabellen, toepassen &amp; bereken complexe formules met behulp van de formuleberekeningsengine, stream Excel-gegevens &amp; sla het resultaat op in verschillende formaten.
+Aspose.Cells for Java is een volwassen bibliotheek met veel functies, die veel functies biedt die veel verder gaan dan de eenvoudige gegevensexportmogelijkheden van andere componenten die op de markt verkrijgbaar zijn. API biedt de mogelijkheid om gegevens te exporteren, spreadsheets op te maken tot het meest gedetailleerde niveau, import &amp; afbeeldingen exporteren, grafieken maken &amp; Draaitabellen, toepassen &amp; complexe formules berekenen met formuleberekeningsengine, Excel-gegevens streamen &amp; sla het resultaat op in verschillende formaten.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -32,42 +31,42 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
    <header>
     <i class="fa fa-television">
     </i>
-    weergave
+ Weergave
    </header>
    <ul>
     <li>
-     Grafiek naar afbeelding
+ Grafiek naar afbeelding
     </li>
     <li>
-     Werkblad naar afbeelding
+ Werkblad naar afbeelding
     </li>
     <li>
-     Spreadsheet naar PDF
+ Spreadsheet naar PDF
     </li>
     <li>
-     Afdrukken
+ Afdrukken
     </li>
    </ul>
    <header>
     <i class="fa fa-cogs">
     </i>
-    Gegevensverwerking
+ Gegevensverwerking
    </header>
    <ul>
     <li>
-     Opmaak toepassen
+ Opmaak toepassen
     </li>
     <li>
-     Grafieken maken
+ Maak grafieken
     </li>
     <li>
-     Formules toepassen
+ Formules toepassen
     </li>
     <li>
-     Samenvatten
+ Samenvatten
     </li>
     <li>
-     Slimme markeringen
+ Slimme markeringen
     </li>
    </ul>
   </div>
@@ -76,23 +75,23 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
    <header>
     <i class="fa fa-table">
     </i>
-    GridWeb-besturing
+ GridWeb-besturing
    </header>
    <ul>
     <li>
-     Ondersteunt JSP-webtoepassing
+ Ondersteunt JSP-webtoepassing
     </li>
     <li>
-     Excel-bestanden laden
+ Laad Excel-bestanden
     </li>
     <li>
-     Excel-documenten opslaan
+ Sla Excel-documenten op
     </li>
     <li>
-     Biedt bewerkingsmogelijkheden
+ Biedt bewerkingsmogelijkheden
     </li>
     <li>
-     Compatibel met moderne browsers
+ Compatibel met moderne browsers
     </li>
    </ul>
   </div>
@@ -107,7 +106,7 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Java
    </small>
@@ -118,7 +117,7 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="De op bibliotheek for Java gebaseerde applicaties die zijn ontwikkeld op Windows Unix/Linux- en Mac-platforms." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="De bibliotheek for Java-gebaseerde applicaties ontwikkeld op Windows Unix/Linux en Mac-platforms." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -128,14 +127,14 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
    <header>
     <i class="fa fa-cubes">
     </i>
-    Java Runtime-omgeving
+ Java Runtime-omgeving
    </header>
    <ul>
     <li>
-     JSP/JSF-toepassing
+ JSP/JSF-toepassing
     </li>
     <li>
-     Desktop applicatie
+ Desktop applicatie
     </li>
    </ul>
   </div>
@@ -150,7 +149,7 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Java
    </small>
@@ -161,45 +160,45 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Cells for Java ondersteunt de populaire spreadsheet-indelingen, veelgebruikte afbeeldingen, vaste lay-out en [meer formaten](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Cells for Java ondersteunt de populaire spreadsheetformaten, veelgebruikte afbeeldingen, vaste lay-out en[meer formaten](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Invoer uitvoer
+ Invoer uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Microsoft Excel:
+ Microsoft Excel:
      </b>
-     XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Open kantoor:
+ Open kantoor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Tekst:
+ Tekst:
      </b>
      CSV, TSV
     </li>
     <li>
      <b>
-      Web:
+ Web:
      </b>
      HTML, MHTML
     </li>
     <li>
      <b>
-      Nummers:
+      Numbers:
      </b>
-     Apple's iWork-kantoorsuite Numbers-app-documenten
+ Apple's iWork office suite Numbers app-documenten
     </li>
     <li>
      SXC, FODS
@@ -211,24 +210,24 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Alleen uitvoer
+ Alleen uitvoer
    </header>
    <ul>
     <li>
      <b>
-      Vaste indeling:
+ Vaste indeling:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Gegevensuitwisseling:
+ Gegevensuitwisseling:
      </b>
      DIF
     </li>
     <li>
      <b>
-      Afbeeldingen:
+ Afbeeldingen:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, GIF, EMF
     </li>
@@ -248,7 +247,7 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
   <footer>
    <small>
     <em>
-     voor
+ voor
     </em>
     Java
    </small>
@@ -269,7 +268,7 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Geavanceerd Java Ondersteuning voor Excel-bibliotheek
+ Geavanceerde Java Excel-bibliotheek ondersteunt
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for Java not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for developers to manipulate spreadsheet contents, cell formatting and file protection. <p> -->
    <p>
@@ -278,117 +277,117 @@ description: Java Excel-bibliotheek voor spreadsheetverwerking. Lezen schrijven 
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importeer en exporteer gegevens van ArrayList, Array &amp; Recordset
+ Importeer en exporteer gegevens uit ArrayList, Array &amp; Recordset
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Grafiek maken &amp; manipulatie via de API's
+ Grafiek maken &amp; manipulatie via de API's
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formules importeren uit een designerspreadsheet
+ Importeer formules uit een ontwerpspreadsheet
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Benoemde bereiken genereren en manipuleren
+ Genereer en manipuleer benoemde bereiken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Spreadsheets afdrukken naar een fysieke printer
+ Spreadsheets afdrukken naar een fysieke printer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vul werkbladen in via slimme markeringen
+ Vul werkbladen in via Smart Markers
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Maak &amp; opmerkingen manipuleren
+ Maak &amp; commentaren manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Instellen & bereken Excel &amp; aangepaste formules
+ Instellen &amp; bereken Excel &amp; aangepaste formules
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Maak &amp; regels voor voorwaardelijke opmaak manipuleren
+ Maak &amp; voorwaardelijke opmaakregels manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Maak &amp; benoemde bereiken manipuleren
+ Maak &amp; benoemde bereiken manipuleren
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creëren, manipuleren &amp; ververs draaitabellen &amp; Draaigrafieken
+ Creëer, manipuleer &amp; vernieuwen Draaitabellen &amp; Draaigrafieken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Weergave van grafieken &amp; werkbladen
+ Weergave van grafieken &amp; werkbladen
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Grote bestanden lezen en schrijven in de lichtgewicht modus
+ Lees en schrijf grote bestanden in de lichtgewicht modus
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Herbemonster afbeeldingen in Excel naar PDF-conversie
+Re-sample afbeeldingen in Excel naar PDF conversie
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-code-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Wijzig VBA-code of macro's in het sjabloondocument
+ Wijzig VBA-code of macro's in het sjabloondocument
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Excel-bestanden opslaan in verschillende indelingen
+ Sla Excel-bestanden op in verschillende indelingen
     </h2>
     <p>
-     Excel API biedt conversie van spreadsheets naar PDF, XPS, HTML en meer indelingen met behoud van de hoogste visuele betrouwbaarheid. Het betrouwbare en flexibele conversieproces maakt Aspose.Cells een perfecte keuze voor organisaties die voornamelijk bestanden uitwisselen binnen industriestandaard formaten.
+ Excel API biedt conversie van spreadsheets naar PDF, XPS, HTML en meer formaten met behoud van de hoogste visuele betrouwbaarheid. Het betrouwbare en flexibele conversieproces maakt Aspose.Cells een perfecte keuze voor organisaties die voornamelijk bestanden uitwisselen binnen industriestandaardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spreadsheetconversie in meerdere indelingen - Java
+ Spreadsheetconversie in meerdere formaten - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -405,10 +404,10 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Werkbladen opmaken tot het meest gedetailleerde niveau
+ Formatteer werkbladen tot het meest gedetailleerde niveau
     </h2>
     <p>
-     Bibliotheek biedt de styling van spreadsheets, inclusief maar niet beperkt tot werkbladopmaak op rij-, kolom- en celniveau, het toevoegen van voorwaardelijke opmaakregels, het definiëren van getalnotaties en het instellen van lettertypen met attributen. Op dezelfde manier ondersteunt API het manipuleren en maken van alle soorten aangepaste en standaarddiagrammen, evenals verschillende tekenobjecten zoals OLE-objecten, afbeeldingen, opmerkingen, vormen en besturingselementen voor de cellen.
+Library biedt styling van spreadsheets, inclusief maar niet beperkt tot werkbladopmaak op rij-, kolom- en celniveau, het toevoegen van regels voor voorwaardelijke opmaak, het definiëren van getalnotaties en het instellen van lettertypen met attributen. Evenzo ondersteunt API het manipuleren en maken van alle soorten aangepaste en standaardgrafieken, evenals verschillende tekenobjecten zoals OLE-objecten, afbeeldingen, opmerkingen, vormen en bedieningselementen voor de cellen.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,14 +419,14 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Grafieken converteren &amp; Bladen naar afbeelding &amp; PDF-indelingen
+ Converteer grafieken &amp; Bladen naar afbeelding &amp; PDF formaten
     </h2>
     <p>
-     Aspose.Cells for Java biedt speciale conversiefuncties zoals grafieken naar afbeeldingen en PDF, werkbladen naar afbeeldingen, werkbladen afdrukken en spreadsheets converteren naar de PDF-bestandsindeling. Het conversieproces is zeer flexibel en gemakkelijk, waardoor een aantal manieren voor de conversie kunnen worden geselecteerd, zoals het opnieuw samplen van afbeeldingen tijdens spreadsheets naar PDF-transformatie of het aanpassen van de resulterende afbeeldingsdimensies tijdens het renderen van werkbladen en grafieken naar afbeeldingen.
+ Aspose.Cells for Java biedt speciale conversiefuncties zoals grafieken naar afbeeldingen en PDF, werkbladen naar afbeeldingen, werkbladen afdrukken en spreadsheets converteren naar het bestandsformaat PDF. Het conversieproces is zeer flexibel en eenvoudig, waardoor u een aantal manieren voor de conversie kunt selecteren, zoals het opnieuw samplen van afbeeldingen tijdens spreadsheets naar PDF-transformatie of het aanpassen van de resulterende afbeeldingsafmetingen terwijl werkbladen en grafieken worden weergegeven in afbeeldingen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Render Excel-grafiek als afbeelding &amp; pdf - Java
+Render Excel-grafiek als afbeelding &amp; PDF - Java
      </h3>
      <pre><code class="java">// load spreadsheet containing the chart
 
@@ -448,18 +447,18 @@ chart.toPdf(dir + "output.pdf");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manipuleer Excel-rijen &amp; kolommen
+ Manipuleer Excel-rijen &amp; Kolommen
     </h2>
     <p>
-     Met Aspose.Cells for Java kunt u rijen en kolommen op verschillende manieren wijzigen. Men kan eenvoudig de kolombreedte en rijhoogte aanpassen, de breedte/hoogte van cellen automatisch aanpassen vanaf de inhoud, invoegen &amp; verwijderen, verbergen &amp; un-hide evenals groep &amp; de-groepeer rijen en kolommen.
+ Met Aspose.Cells for Java kunt u rijen en kolommen op verschillende manieren wijzigen. Men kan eenvoudig de kolombreedte en rijhoogte aanpassen, de breedte/hoogte van cellen automatisch aanpassen vanaf de inhoud, invoegen &amp; verwijderen, verbergen &amp; zowel verbergen als groeperen &amp; de-groeperen van rijen en kolommen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Gegevens samenvatten met grafieken &amp; Draaitabellen
+ Vat gegevens samen met grafieken &amp; Draaitabellen
     </h2>
     <p>
-     Het kan moeilijk zijn om samengevatte informatie te krijgen met zeer grote spreadsheets. Een draaitabel is er om snel de platte gegevens te beschrijven en om de relevante informatie te verkrijgen naar gelang de behoeften. API maakt dynamisch draaitabellen en grafieken. Dynamisch wijzigen van de brongegevens van de draaitabel is mogelijk. Verder Smart Markers, een andere topfunctie van deze bibliotheek om werkbladen te vullen via gegevensbronnen en om visueel effectieve rapporten te genereren.
+ Het kan moeilijk zijn om samengevatte informatie te krijgen met zeer grote spreadsheets. Een draaitabel is er om snel de platte gegevens te beschrijven en om de relevante informatie te verkrijgen volgens de behoeften. API maakt dynamisch draaitabellen en grafieken. Het is mogelijk om de brongegevens van de draaitabel dynamisch te wijzigen. Verder Smart Markers, nog een topfunctie van deze bibliotheek om werkbladen te vullen via gegevensbronnen en om visueel effectieve rapporten te genereren.
     </p>
    </div>
    <!--
@@ -485,10 +484,10 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Webgebaseerde visuele controle voor spreadsheets
+ Webgebaseerde visuele controle voor spreadsheets
     </h2>
     <p>
-     Aspose.Cells for Java biedt ook een UI-besturingselement dat kan worden ingesloten in JSP-webtoepassingen en dat compatibel is met alle moderne webbrowsers zoals Chrome, Firefox, Internet Explorer en Opera. Eindgebruiker kan het gebruiken om Excel-bestanden te laden, te bewerken en op te slaan vanaf de front-end van uw webtoepassing.
+Aspose.Cells for Java bieden ook een gebruikersinterface die kan worden ingebed in JSP-webapplicaties en is compatibel met alle moderne webbrowsers zoals Chrome, Firefox, Internet Explorer en Opera. Eindgebruikers kunnen hiermee Excel-bestanden laden, bewerken en opslaan vanuit de front-end van uw webapplicatie.
     </p>
    </div>
   </div>
@@ -504,16 +503,16 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 <p class="first">
  We raden het gebruik van Aspose.cells for Java aan omdat het gemakkelijk te implementeren is en de API eenvoudig te begrijpen en zeer vloeiend is.
  <em>
-  Pierre-Eric Oudin | Advizeo by Setec, Frankrijk
+ Pierre-Eric Oudin | Advizeo door Setec, Frankrijk
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Onze algemene ervaring met Aspose-producten was zeer positief. Dit onderdeel verhoogde de bedrijfswaarde voor het Xpand IT-product - Xporter Plugin voor JIRA, waardoor we een referentieoplossing voor gegevensexport konden ontwikkelen.
+ Onze algehele ervaring met Aspose-producten was zeer positief. Dit onderdeel verhoogde de zakelijke waarde van het Xpand IT-product - Xporter Plugin voor JIRA, waardoor we een referentieoplossing voor gegevensexport konden ontwikkelen.
  <em>
-  Paulo Lopes | Xpand IT, VK
+ Paulo Lopes | Xpand IT, VK
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
@@ -521,7 +520,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< /blocks/products/pf/i18n/testimonials >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/cells/java" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API Referenties" href="https://reference.aspose.com/cells/java" >}}
@@ -529,14 +528,14 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cells/" >}}
+{{< blocks/products/pf/slr-element name="bloggen" href="https://blog.aspose.com/category/cells/" >}}
 {{< blocks/products/pf/slr-element name="Release-opmerkingen" href="https://docs.aspose.com/cells/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Cells for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klanten lijst" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -544,7 +543,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/java" pricingInformationLink="https://purchase.aspose.com/pricing/cells/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt afzonderlijke Excel-API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells biedt individuele Excel API\'s voor andere populaire ontwikkelomgevingen, zoals hieronder vermeld:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}

@@ -1,11 +1,10 @@
 ---
-title: Электронная таблица Excel PHP API - Aspose 
+title:  Электронная таблица Excel PHP API - Aspose
 weight: 3660
-
-description: Электронная таблица PHP Excel API для чтения, записи и преобразования XLS XLSX CSV TSV HTML ODS SpreadsheetML и все форматы Excel 97-2016. Экспорт электронных таблиц в несколько форматов
+description: Электронная таблица PHP Excel API для чтения, записи и преобразования XLS XLSX CSV TSV HTML ODS SpreadsheetML и всех форматов Excel 97-2016. Экспорт электронных таблиц в несколько форматов
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Электронная таблица PHP Excel API" h2="Выполняйте задачи по работе с электронными таблицами, а также экспортируйте файлы Excel в различные форматы без каких-либо зависимостей от Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Электронная таблица PHP Excel API" h2="Выполняйте задачи по работе с электронными таблицами, а также экспортируйте файлы Excel в различные форматы без каких-либо зависимостей Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-php-java.svg" pfName="Aspose.Cells" subTitlepfName="for PHP via Java" downloadUrl="https://downloads.aspose.com/cells/php" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for PHP via Java" >}}
 
@@ -13,7 +12,7 @@ description: Электронная таблица PHP Excel API для чтен
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells для PHP через Java — это масштабируемая и многофункциональная система управления и обработки электронных таблиц Excel API. Приложения могут выполнять преобразование формата электронных таблиц, управление и визуализацию диаграмм, реализацию формул, стилизацию рабочих листов на самом детальном уровне и многое другое. API поддерживает XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Delimited, HTML/MHTML, PDF, XPS и другие форматы. Разработчики могут легко добавлять возможность создавать, редактировать, преобразовывать и отображать файлы Excel в свои приложения PHP при использовании JavaBridge.
+ Aspose.Cells for PHP via Java — это масштабируемая и многофункциональная программа Excel для управления и обработки электронных таблиц API. Приложения могут выполнять преобразование формата электронных таблиц, управление диаграммами и визуализацию, реализацию формул, стилизацию рабочих листов на самом детальном уровне и многое другое. API Поддерживает XLS, XLSX, ODS, SpreadsheetML, CSV, TAB DENIMITED, HTML/MHTML, PDF, 07611348481. Разработчики могут легко добавлять возможность создавать, редактировать, преобразовывать и отображать файлы Excel в свои приложения PHP при использовании JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -21,24 +20,24 @@ description: Электронная таблица PHP Excel API для чтен
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Cells для PHP с помощью возможностей Java." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор возможностей Aspose.Cells for PHP via Java." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-television">
     </i>
-    Рендеринг
+ Рендеринг
    </header>
    <ul>
     <li>
-     Преобразовать диаграмму в изображение
+ Преобразовать диаграмму в изображение
     </li>
     <li>
-     Преобразовать рабочий лист в изображение
+ Преобразовать рабочий лист в изображение
     </li>
     <li>
-     Преобразование электронной таблицы в PDF
+Преобразование электронной таблицы в PDF
     </li>
    </ul>
   </div>
@@ -47,23 +46,23 @@ description: Электронная таблица PHP Excel API для чтен
    <header>
     <i class="fa fa-cogs">
     </i>
-    Обработка данных
+ Обработка данных
    </header>
    <ul>
     <li>
-     Графики
+ Графики
     </li>
     <li>
-     Расчет формулы
+ Расчет формулы
     </li>
     <li>
-     Умные маркеры
+ Умные маркеры
     </li>
     <li>
-     Сводные таблицы
+ Сводные таблицы
     </li>
     <li>
-     Условное форматирование
+ Условное форматирование
     </li>
    </ul>
    <!--
@@ -97,9 +96,9 @@ description: Электронная таблица PHP Excel API для чтен
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    PHP через Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -108,7 +107,7 @@ description: Электронная таблица PHP Excel API для чтен
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells для PHP через Java требуется PHP 7.1 (или выше) и JavaBridge. Он может работать на любой платформе, где эти требования могут быть выполнены." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Cells for PHP via Java требуется PHP 7.1 (или выше) и JavaBridge. Он может работать на любой платформе, где эти требования могут быть выполнены." >}}
 <div class="diagram1 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -118,19 +117,19 @@ description: Электронная таблица PHP Excel API для чтен
    <header>
     <i class="fa fa-cubes">
     </i>
-    Окна
+    Windows
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    линукс
+ линукс
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    macOS
+ macOS
    </header>
    <!--
 
@@ -155,9 +154,9 @@ description: Электронная таблица PHP Excel API для чтен
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    PHP через Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -166,39 +165,39 @@ description: Электронная таблица PHP Excel API для чтен
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells для PHP через Java поддерживает популярные форматы электронных таблиц, а также наиболее часто используемые форматы изображений и фиксированного макета." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Cells for PHP via Java поддерживает популярные форматы электронных таблиц, а также наиболее часто используемые форматы изображений и фиксированного макета." >}}
 <div class="diagram1 d2 d1-php-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+ Ввод, вывод
    </header>
    <ul>
     <li>
      <b>
-      Майкрософт Эксель:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      ОпенОфис:
+ ОпенОфис:
      </b>
-     ОРВ
+     ODS
     </li>
     <li>
      <b>
-      Текст:
+ Текст:
      </b>
-     CSV, с разделителями табуляцией, TXT
+ CSV, с разделителями табуляции, TXT
     </li>
     <li>
      <b>
-      Интернет:
+ Интернет:
      </b>
-     HTML, МHTML
+     HTML, MHTML
     </li>
    </ul>
   </div>
@@ -207,18 +206,18 @@ description: Электронная таблица PHP Excel API для чтен
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Только вывод
+ Только вывод
    </header>
    <ul>
     <li>
      <b>
-      Фиксированный макет:
+ Фиксированный макет:
      </b>
      PDF, XPS
     </li>
     <li>
      <b>
-      Картинки:
+ Изображений:
      </b>
      JPEG, PNG, BMP, SVG, TIFF, EMF, GIF
     </li>
@@ -235,9 +234,9 @@ description: Электронная таблица PHP Excel API для чтен
   <footer>
    <small>
     <em>
-     за
+ для
     </em>
-    PHP через Java
+ PHP via Java
    </small>
   </footer>
  </div>
@@ -256,7 +255,7 @@ description: Электронная таблица PHP Excel API для чтен
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Расширенные возможности электронных таблиц PHP API
+ Расширенные возможности электронной таблицы PHP API
    </h2>
    <!--<p>Aspose.Cells for PHP via Java includes the following features:</p>-->
    <p>
@@ -265,117 +264,117 @@ description: Электронная таблица PHP Excel API для чтен
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Поддержка CSV, разделителей табуляцией &amp; HTML-форматы
+ Поддержка CSV, разделенных табуляцией &amp; HTML форматов
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Нагрузить и усилить сохранить формат OpenDocument Spreadsheet (ODS)
+ Нагрузить и усилить сохранить формат электронной таблицы OpenDocument (ODS)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создавайте, управляйте &amp; отображать диаграммы
+ Создавайте, управляйте &amp; отображать диаграммы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Импорт формул из электронной таблицы конструктора
+ Импорт формул из электронной таблицы конструктора
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Настройка параметров страницы
+ Настройка параметров страницы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создание комментариев и управление ими
+ Создание комментариев и управление ими
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установите автоматические фильтры &amp; разрывы страниц
+ Установите автоматические фильтры &amp; разрывы страниц
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установить &amp; вычислять сложные формулы
+ Установить &amp; вычислять сложные формулы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; управлять правилами условного форматирования
+ Создать и усилить управлять правилами условного форматирования
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Установить параметры безопасности/защиты
+ Установить параметры безопасности/защиты
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; управлять именованными диапазонами
+ Создать и усилить управлять именованными диапазонами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Заполнение рабочих листов с помощью интеллектуальных маркеров
+ Заполнение рабочих листов с помощью смарт-маркеров
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создавайте, управляйте &amp; обновить сводные таблицы
+ Создавайте, управляйте &amp; обновить сводные таблицы
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-html5 ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Экспорт рабочих листов в формате SVG
+ Экспорт листов в формате SVG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать &amp; визуализировать спарклайны
+ Создать и усилить визуализировать спарклайны
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Преобразование файлов Excel в XPS, PDF &amp; HTML
+ Преобразование файлов Excel в XPS, PDF &amp; HTML
     </h2>
     <p>
-     Aspose.Cells для PHP через Java API может преобразовывать файлы Excel в форматы XPS, XPS и HTML, а также сохранять высочайшую визуальную точность. Процесс преобразования надежен, и разработчики могут получить нужный формат всего за несколько строк.
+ Aspose.Cells for PHP via Java API может преобразовывать файлы Excel в форматы XPS, XPS и HTML, а также сохранять высочайшую визуальную точность. Процесс преобразования надежен, и разработчики могут получить нужный формат всего за несколько строк.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Сохранение электронной таблицы в нескольких форматах — PHP
+Сохранение электронной таблицы в нескольких форматах — PHP
      </h3>
      <pre><code class="php">// load document to be converted
 
@@ -394,37 +393,37 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Рендеринг электронных таблиц Excel &amp; Объекты в PDF &amp; Картинки
+ Рендеринг электронных таблиц Excel &amp; Объекты для PDF &amp; Изображений
     </h2>
     <p>
-     Aspose.Cells для PHP через Java имеет собственный механизм рендеринга, специально разработанный для рендеринга с максимальной точностью в Microsoft Excel. При использовании Aspose.Cells для PHP через Java вы можете преобразовывать целые электронные таблицы, отдельные рабочие листы и amp; графики к ряду изображений &amp; форматы с фиксированным макетом.
+ Aspose.Cells for PHP via Java имеет собственный механизм рендеринга, специально разработанный для рендеринга с высочайшей точностью в Microsoft Excel. Используя Aspose.Cells for PHP via Java, вы можете конвертировать целые электронные таблицы, отдельные рабочие листы и amp; графики к ряду изображений &amp; форматы с фиксированным макетом.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Гибкие параметры отображения рабочего листа
+ Гибкие параметры отображения рабочего листа
     </h2>
     <p>
-     Aspose.Cells для PHP через Java дает вам полный контроль над настройкой страницы рабочего листа, что позволяет вам управлять параметрами отображения рабочего листа Excel, такими как разрывы страниц, ориентация страницы, масштабирование, размер бумаги, верхние/нижние колонтитулы и amp; уровень масштабирования. Вы также можете управлять видимостью данных, используя области стоп-кадра &amp; области печати в соответствии с требованиями вашего приложения.
+ Aspose.Cells for PHP via Java дает вам полный контроль над настройкой страницы рабочего листа, что позволяет вам управлять параметрами отображения рабочего листа Excel, такими как разрывы страниц, ориентация страницы, масштабирование, размер бумаги, верхние/нижние колонтитулы и т.д. уровень масштабирования. Вы также можете управлять видимостью данных, используя области стоп-кадра &amp; области печати в соответствии с требованиями вашего приложения.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Эффективный, надежный &amp; Надежный механизм расчета формул
+ Эффективный, надежный &amp; Надежный механизм расчета формул
     </h2>
     <p>
-     Aspose.Cells для PHP через Java оснащен мощным механизмом расчета формул, который поддерживает почти все стандартные и расширенные формулы и функции Microsoft Excel. Вы можете читать, задавать и вычислять результаты встроенных или надстроек типа, массива и формул ссылочного стиля R1C1.
+Aspose.Cells for PHP via Java оснащен мощным механизмом расчета формул, который поддерживает почти все стандартные и расширенные Microsoft формулы и функции Excel. Вы можете читать, задавать и вычислять результаты встроенных или надстроек типа, массива и формул ссылочного стиля R1C1.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Визуализируйте данные с помощью форматирования, диаграмм и т.д. Графика
+ Визуализируйте данные с помощью форматирования, диаграмм и т.д. Графика
     </h2>
     <p>
-     Библиотека настолько гибкая, что вы можете снабжать электронные таблицы всеми видами визуальных эффектов, а также применять форматирование к рабочему листу, строке, столбцу или ячейке, устанавливать шрифты с атрибутами, определять стили ячеек и т.д. числовые форматы, добавьте форматированный текст и определите правила условного форматирования.
+ Библиотека настолько гибкая, что можно снабжать электронные таблицы всеми видами визуальных эффектов, а также применять форматирование к листу, строке, столбцу или ячейке, устанавливать шрифты с атрибутами, определять стили ячеек и т.д. числовые форматы, добавьте форматированный текст и определите правила условного форматирования.
     </p>
     <p>
-     Точно так же для профессионального вида и простоты понимания диаграммы и графики являются неотъемлемыми частями. Aspose.Cells для PHP с помощью Java API позволяет создавать и управлять всеми типами стандартных и настраиваемых диаграмм. Кроме того, в ячейки можно легко добавлять различные типы объектов рисования.
+ Точно так же для профессионального вида и простоты понимания диаграммы и графики являются неотъемлемыми частями. Aspose.Cells for PHP via Java API-интерфейсы могут создавать и управлять всеми типами стандартных и пользовательских диаграмм. Кроме того, в ячейки можно легко добавлять различные типы объектов рисования.
     </p>
    </div>
   </div>
@@ -439,17 +438,17 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/cells/phpjava/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-cells/Aspose.Cells-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API ссылки" href="https://reference.aspose.com/php/cells" >}}
+{{< blocks/products/pf/slr-element name="API Ссылки" href="https://reference.aspose.com/php/cells" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells для PHP через Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Cells for PHP via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

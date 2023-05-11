@@ -1,27 +1,25 @@
 ---
-title: Conversión de archivos de Microsoft Excel a través de C++ 
-
+title:  Microsoft Conversión de archivos de Excel a través de C++
 description: Convierta Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, JPEG y otros formatos con solo unas pocas líneas de código C++.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Conversión de documentos de Microsoft<sup>&reg;</sup> Excel a través de C++" h2="Guarde archivos de Microsoft<sup>&reg;</sup> Excel como hoja de cálculo, web, imagen y formatos de diseño fijo" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversión de documentos de Excel a través de C++" h2="Guarde Microsoft<sup>&reg;</sup> archivos de Excel como hojas de cálculo, web, imágenes y formatos de diseño fijo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Para cualquier aplicación o solución de conversión de hojas de cálculo, **C++ Biblioteca de Excel** acelera los procesos de codificación, automatización y conversión mientras maneja múltiples archivos, incluidos XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. También permite **convertir Excel a PDF**, XPS, HTML, MHTML, texto sin formato e imágenes populares como JPG, TIFF, PNG, BMP y SVG.
+ Para cualquier aplicación o solución de conversión de hojas de cálculo,**C++ Biblioteca Excel**acelera los procesos de codificación, automatización y conversión mientras maneja múltiples archivos, incluidos XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. También permite *convertir Excel al PDF**, XPS, HTML, MHTML, Normal Texto e imágenes populares como JPG, TIFF, PNG, BMP y SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Interconversión de formatos de Microsoft Excel" %}}
-La interconversión del formato de hoja de cálculo solo requiere cargar una hoja de cálculo con una instancia de [ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) puntero y guardar de nuevo en el formato deseado usando [Guardar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) método de [Clase de libro de trabajo](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+{{% blocks/products/pf/feature-page-section h2="Interconversión de Microsoft Formatos de Excel" %}}
+ La interconversión del formato de hoja de cálculo solo requiere cargar una hoja de cálculo con una instancia de[ intrusivo_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) puntero y guardar de nuevo en el formato deseado usando[Ahorrar](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) método de[Clase de libro de trabajo](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Código de ejemplo para conversión de formato de archivo de Excel" %}}
 
 ```cs
 
-// Cargue el formato de Excel de origen.
+// Load the source excel format.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"src_excel_file.xls");
 
-// Guardar en el formato de salida requerido.
+// Save in required output format.
 wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
-
 
 ```
 {{% /blocks/products/pf/feature-page-code %}}
@@ -30,25 +28,24 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Convierta formatos de Excel a PDF con la configuración del nivel de cumplimiento" %}}
-C++ Automatización de Excel API admite la conversión de libros de trabajo a PDF, así como la configuración del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar [IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con [Aspose::Cells::Procesamiento](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) para configurar el cumplimiento de PDF. Para la conversión, API guarde el método con PdfSaveOptions como parámetro y la ruta del archivo de salida especificada. 
-{{% blocks/products/pf/feature-page-code h3="C++ código de muestra para la conversión de Excel a PDF" %}}
+ C++ Excel Automation API admite la conversión de libros de trabajo a PDF, así como la configuración de soporte del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con[Aspose::Cells::Representación](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)para establecer el cumplimiento PDF. Para la conversión, el método de guardado API tiene PdfSaveOptions como parámetro y la ruta del archivo de salida especificada.
+{{% blocks/products/pf/feature-page-code h3="C++ Código de muestra para conversión de Excel a PDF" %}}
 
 ```cs
-// Cargue el archivo de muestra de Excel.
+// Load the sample Excel file.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"sample-convert-excel-to.pdf");
 
-// Crear objeto de opciones de guardado de pdf.
+// Create pdf save options object.
 intrusive_ptr<Aspose::Cells::IPdfSaveOptions> pdfSaveOptions = Factory::CreateIPdfSaveOptions();
 
-// Establezca el cumplimiento en PDF/A-1b.
+// Set the compliance to PDF/A-1b.
 pdfSaveOptions->SetCompliance(Aspose::Cells::Rendering::PdfCompliance_PdfA1b);
 
-// o PdfCompliance_PdfA1a 
-// para PDF normal será PdfCompliance_None
+// or PdfCompliance_PdfA1a 
+// for normal PDF it will be PdfCompliance_None
 
-// Guarde el documento de Excel en formato PDF
+// Save the Excel Document in PDF format
 wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
-
 
 
 ```
@@ -58,54 +55,53 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Guardar Excel en imágenes" %}}
-**C++ Excel Parser** tiene la capacidad de exportar datos en forma de imágenes. Cada hoja de trabajo se puede convertir a diferentes formatos de imagen, incluidos BMP, JPEG, PNG y GIF, establecidos por el [Representación::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options). Para cualquier caso de **Convertir Excel a Imágenes**, seleccione el caso relevante de los enlaces.
+**C++ Analizador de Excel** tiene la capacidad de exportar datos en forma de imágenes. Cada hoja de trabajo se puede convertir a diferentes formatos de imagen, incluidos BMP, JPEG, PNG y GIF, establecidos por el[Representación::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . Para cualquier**Convertir Excel a Imágenes** caso, seleccione el caso relevante de los enlaces.
 {{% blocks/products/pf/feature-page-code h3="C++ Código para conversión de Excel a imagen" %}}
 
 ```cs
-// Ruta del directorio de salida.
+// Output directory path.
 StringPtr outDir = new String("ImagesOutputDirectoryPath");
 
-// Cargue el XLSX.
+// Load the XLSX.
 intrusive_ptr<Aspose::Cells::IWorkbook> wkb = Factory::CreateIWorkbook(u"source-excel-file.xlsx");
 
-// Acceda a la primera hoja de trabajo.
+// Access first worksheet.
 intrusive_ptr<Aspose::Cells::IWorksheet> wks = wkb->GetIWorksheets()->GetObjectByIndex(0);
 
-// Crear imagen o objeto de opciones de impresión.
+// Create image or print options object.
 intrusive_ptr<Aspose::Cells::Rendering::IImageOrPrintOptions> imgOptions = Factory::CreateIImageOrPrintOptions();
 
-// Especifique el formato de la imagen. El siguiente código es para JPEG
+// Specify the image format. Below code is for JPEG
 imgOptions->SetImageFormat(Aspose::Cells::Systems::Drawing::Imaging::ImageFormat::GetJpeg());
 
-// Para otras imágenes como GIF, BMP y PNG, se pueden usar GetGif(), GetBmp() y GetPng() respectivamente. 
+// For other images like GIF, BMP and PNG one can use GetGif(), GetBmp() and GetPng() respectively 
 
-// Especificar resolución horizontal y vertical
+// Specify horizontal and vertical resolution
 imgOptions->SetHorizontalResolution(200);
 imgOptions->SetVerticalResolution(200);
 
-// Renderice la hoja con respecto a la imagen especificada o las opciones de impresión.
+// Render the sheet with respect to specified image or print options.
 intrusive_ptr<Aspose::Cells::Rendering::ISheetRender> sr = Factory::CreateISheetRender(wks, imgOptions);
 
-// Obtener recuento de páginas.
+// Get page count.
 Aspose::Cells::Systems::Int32 pageCount = sr->GetPageCount();
 
-// Cree un objeto generador de cadenas para concatenaciones de cadenas.
+// Create string builder object for string concatenations.
 intrusive_ptr<Aspose::Cells::Systems::Text::StringBuilder> sb = new Aspose::Cells::Systems::Text::StringBuilder();
 
-// Renderice cada página a imagen jpeg una por una.
+// Render each page to jpeg image one by one.
 for (int i = 0; i < pageCount; i++){
-	// Borre el generador de cadenas y cree una ruta de imagen de salida con concatenaciones de cadenas.
+	// Clear string builder and create output image path with string concatenations.
 	sb->Clear();
 	sb->Append(outDir);
 	sb->Append((StringPtr)new String("outputConvertingWorksheetToImageJPEG_"));
 	sb->Append(i);
 	sb->Append((StringPtr)new String(".jpeg"));
-	// Obtenga la ruta de la imagen de salida.
+	// Get the output image path.
 	StringPtr outputJPEG = sb->ToString();
-	// Convertir hoja de trabajo en imagen.
+	// Convert worksheet to image.
 	sr->ToImage(i, outputJPEG);
 }
-
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 {{% /blocks/products/pf/feature-page-section %}}

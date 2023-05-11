@@ -1,7 +1,6 @@
 ---
-title: Android Excel-kalkylblad API - Aspose 
+title: Android Excel-kalkylblad API - Aspose
 weight: 6510
-
 description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka Excel-filer. Ett kalkylblad API för utveckling av mobilappar
 ---
 {{< blocks/products/pf/main-wrap-class >}}
@@ -13,7 +12,7 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells för Android via Java är en skalbar API för att programmatiskt generera, kombinera, ändra och analysera kalkylblad. API erbjuder många funktioner, inklusive Excel-dokumentformatering och sidinställningar, import- och exportmöjligheter, rendera kalkylbladssidor till rasterbilder samt ange bildupplösning, kvalitet, komprimering, lägga till olika diagram och mycket mer. Android-kalkylark API stöder formaten XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, PDF, XPS och fler.
+ Aspose.Cells for Android via Java är en skalbar API för att programmatiskt generera, kombinera, modifiera och analysera kalkylblad. API erbjuder många funktioner inklusive Excel-dokumentformatering och sidinställningar, import- och exportmöjligheter, rendera kalkylbladssidor till rasterbilder samt specificering av bildupplösning, kvalitet, komprimering, lägga till olika diagram och mycket mer. Android-kalkylark API stöder XLS, XLSX, CSV, SpreadsheetML, ODS, Tab Delimited, HTML, 076111, 8.434 och fler format
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -28,33 +27,33 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
    <header>
     <i class="fa fa-refresh">
     </i>
-    Importera &amp; Exportera
+ Importera &amp; Exportera
    </header>
    <ul>
     <li>
-     Arrayer
+ Arrayer
     </li>
     <li>
-     Resultatet satt
+ Resultatet satt
     </li>
     <li>
-     Samlingar
+Samlingar
     </li>
    </ul>
    <header>
     <i class="fa fa-cog">
     </i>
-    Tolkning
+ Tolkning
    </header>
    <ul>
     <li>
-     Diagram till bild
+ Diagram till bild
     </li>
     <li>
-     Arbetsblad till bild
+ Arbetsblad till bild
     </li>
     <li>
-     Kalkylblad till PDF
+ Kalkylblad till PDF
     </li>
    </ul>
   </div>
@@ -63,23 +62,23 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
    <header>
     <i class="fa fa-table">
     </i>
-    Databehandling
+ Databehandling
    </header>
    <ul>
     <li>
-     Använd formatering
+ Använd formatering
     </li>
     <li>
-     Applicera formel
+ Applicera formel
     </li>
     <li>
-     Skapa diagram
+ Skapa diagram
     </li>
     <li>
-     Sammanfatta
+ Sammanfatta
     </li>
     <li>
-     Smarta markörer
+ Smarta markörer
     </li>
    </ul>
   </div>
@@ -94,9 +93,9 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -105,7 +104,7 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells för Android via Java är tillgängligt för Android 2.0 eller senare." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Cells for Android via Java är tillgänglig for Android 2.0 eller högre." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -115,11 +114,11 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Android Runtime Environment
+ Android Runtime Environment
    </header>
    <ul>
     <li>
-     Mobil-app
+ Mobil-app
     </li>
    </ul>
   </div>
@@ -134,9 +133,9 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -145,37 +144,37 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Android-kalkylark API stöder de populära Microsoft Excel-formaten, bilderna och formaten med fast layout." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Android-kalkylblad API stöder de populära Microsoft Excel-formaten, bilder och format med fast layout." >}}
 <div class="diagram1 d2 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ingång/utgång
+ Ingång/utgång
    </header>
    <ul>
     <li>
      <b>
-      Microsoft excel:
+ Microsoft Excel:
      </b>
-     XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
     <li>
      <b>
-      Öppet kontor:
+ Öppet kontor:
      </b>
      ODS
     </li>
     <li>
      <b>
-      Text:
+ Text:
      </b>
      CSV, TSV, TXT
     </li>
     <li>
      <b>
-      Webb:
+ Webb:
      </b>
      HTML, MHTML
     </li>
@@ -186,18 +185,18 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
    <header>
     <i class="fa fa-mail-forward">
     </i>
-    Endast utgång
+ Endast utgång
    </header>
    <ul>
     <li>
      <b>
-      Fast layout:
+ Fast layout:
      </b>
-     PDF, PDF/A, XPS
+ PDF, PDF/A, XPS
     </li>
     <li>
      <b>
-      Bilder:
+ Bilder:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -214,9 +213,9 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
   <footer>
    <small>
     <em>
-     för
+ för
     </em>
-    Android via Java
+ Android via Java
    </small>
   </footer>
  </div>
@@ -235,7 +234,7 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerade Android Excel API-funktioner
+ Avancerade Android Excel API-funktioner
    </h2>
    <p>
    </p>
@@ -243,105 +242,105 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
     <em class="fa fa-th ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tillämpa formatering på kalkylblad, rad, kolumn, cell och intervall
+Tillämpa formatering på kalkylblad, rad, kolumn, cell och intervall
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Exportera och importera data från ArrayList, Array, Recordset &amp; Resultatet satt
+ Exportera och importera data från ArrayList, Array, Recordset &amp; Resultatet satt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-unlock ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kryptera &amp; dekryptera Excel-filer
+ Kryptera &amp; dekryptera Excel-filer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in sifferformatering
+ Ställ in sifferformatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera diagram
+ Skapa &amp; manipulera diagram
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera kommentarer
+ Skapa &amp; manipulera kommentarer
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs, ställ &amp; beräkna formler
+ Läs, ställ &amp; beräkna formler
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konfigurera sidinställningar
+ Konfigurera sidinställningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in &amp; manipulera autofilter &amp; sidbrytningar
+ Ställ &amp; manipulera autofilter &amp; sidbrytningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs &amp; skriva villkorlig formatering
+ Läs &amp; skriva villkorlig formatering
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa kopior av befintliga arbetsblad
+ Skapa kopior av befintliga arbetsblad
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ställ in skyddsalternativ som introducerats sedan Microsoft Excel XP
+ Ställ in skyddsalternativ som introducerats sedan Microsoft Excel XP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulera celler &amp; namngivna intervall
+ Manipulera celler &amp; namngivna intervall
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertera Excel-filer till PDF
+ Konvertera Excel-filer till PDF
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertera kalkylblad &amp; diagram till bilder
+ Konvertera kalkylblad &amp; diagram till bilder
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -420,54 +419,54 @@ description: Android-kalkylbladsbibliotek för att skapa läs-skriv- och tolka E
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera pivottabeller
+ Skapa &amp; manipulera pivottabeller
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera anpassade diagram
+ Skapa &amp; manipulera anpassade diagram
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crosshairs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Spåra prejudikat och beroende
+ Spåra prejudikat och beroende
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa &amp; manipulera scenarier
+ Skapa &amp; manipulera scenarier
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kraftfull motor för formelberäkning
+Kraftfull motor för formelberäkning
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs &amp; skriv TSV, CSV &amp; HTML-filer
+ Läs &amp; skriv TSV, CSV &amp; HTML filer
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertering av olika format
+ Konvertering av olika format
     </h2>
     <p>
-     Android Excel-bibliotek erbjuder konvertering av kalkylblad till XPS, PDF &amp; HTML-format som håller högsta visuella trohet. Den pålitliga omvandlingsprocessen gör API till ett perfekt val för företag för utbyte av filer i branschstandardformat.
+ Android Excel-bibliotek erbjuder konvertering av kalkylblad till XPS, PDF &amp; HTML-format som håller högsta visuella kvalitet. Den tillförlitliga konverteringsprocessen gör API till ett perfekt val för företag för utbyte av filer i branschstandardformat.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Spara arbetsbok i olika format - Java
+ Spara arbetsbok i olika format - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -491,18 +490,18 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Konvertera kalkylbladsobjekt till olika format
+ Konvertera kalkylbladsobjekt till olika format
     </h2>
     <p>
-     Aspose.Cells för Android via Java erbjuder några distinkta funktioner som kalkylblad till bilder, diagram till bilder &amp; Konvertering av PDF och kalkylblad till PDF-dokument. Den flexibla processen har ett antal val för konverteringen, som omsampling av bilder under kalkylblad till PDF eller inställning av de resulterande bildmåtten vid rendering av kalkylblad &amp; diagram till bildformat.
+ Aspose.Cells for Android via Java erbjuder några utmärkande egenskaper som kalkylblad till bilder, diagram till bilder &amp; PDF och kalkylblad till PDF dokumentformatkonvertering. Den flexibla processen har ett antal val för konverteringen, som omsampling av bilder under kalkylblad till PDF eller inställning av de resulterande bildmåtten vid rendering av kalkylblad &amp; diagram till bildformat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kalkylblad API Formelberäkningsmotor
+Kalkylblad API Formelberäkningsmotor
     </h2>
     <p>
-     Android-ark API tillhandahåller en kraftfull formelberäkningsmotor som stöder avancerade och vanliga Microsoft Excel-funktioner och formler. Formelberäkningsmotorn gör det enkelt att läsa, ställa in och beräkna resultaten av formlerna för inbyggd eller tilläggstyp, array och R1C1-referensstil.
+ Android-ark API tillhandahåller en kraftfull formelberäkningsmotor som stöder de avancerade och vanliga Excel-funktionerna och formlerna Microsoft. Formelberäkningsmotorn gör det enkelt att läsa, ställa in och beräkna resultaten av formlerna för inbyggd eller tilläggstyp, array och R1C1-referensstil.
     </p>
    </div>
    <!--
@@ -578,12 +577,12 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/cells/9" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells för Android via Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Cells for Android via Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -592,7 +591,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cells/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/cells/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel-API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells erbjuder individuella Excel API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}

@@ -1,0 +1,555 @@
+---
+title:  Python สเปรดชีต Excel API - Aspose
+weight: 2800
+description: Python ไลบรารีสเปรดชีตเพื่อสร้างการอ่านเขียนและแยกวิเคราะห์ไฟล์ Excel
+---
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Python API การแยกวิเคราะห์สเปรดชีต Excel" h2="สร้าง อ่าน เขียน หรือจัดการสเปรดชีต ตลอดจนส่งออกไฟล์ Excel เป็นรูปแบบต่างๆ ภายในแอปพลิเคชัน Python" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/headers/aspose_cells-for-python-via-net.svg" pfName="Aspose.Cells" subTitlepfName="for Python via .NET" downloadUrl="https://releases.aspose.com/cells/python-net/" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for Python via .NET" >}}
+
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/cells/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cells/python-net/" installationsDocsLink="" nugetLink="" nugetPackageName="" directDownloadLink="https://releases.aspose.com/cells/python-net/" >}}
+
+{{< blocks/products/pf/i18n/tab-content >}}
+<p>
+Aspose.Cells for Python ผ่าน .Net เป็น API ที่รวดเร็วและเชื่อถือได้สำหรับงานประมวลผลสเปรดชีต นักพัฒนาสามารถสร้างสเปรดชีตที่เรียบง่ายหรือซับซ้อน จัดการและดึงข้อมูลจากไฟล์ excel API อ่านรูปแบบ excel หลายรูปแบบและสามารถแสดงแผ่นงานเป็น XPS, PDF, MHTML, HTML, ข้อความธรรมดา, รูปภาพ และอื่นๆ เป็นทางออกที่ดีที่สุดในการทำรายงาน excel โดยอัตโนมัติโดยใช้ python
+</p>
+
+{{< /blocks/products/pf/i18n/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/i18n/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="ภาพรวม" description="ภาพรวมของความสามารถ API" >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-refresh">
+    </i>
+ นำเข้า &amp; ส่งออก
+   </header>
+   <ul>
+    <li>
+ อาร์เรย์
+    </li>
+    <li>
+ ชุดผลลัพธ์
+    </li>
+    <li>
+คอลเลกชัน
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-cog">
+    </i>
+ กำลังแสดงผล
+   </header>
+   <ul>
+    <li>
+ แผนภูมิเป็นรูปภาพ
+    </li>
+    <li>
+ แผ่นงานไปยังรูปภาพ
+    </li>
+    <li>
+ สเปรดชีตไปที่ PDF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-table">
+    </i>
+ การประมวลผลข้อมูล
+   </header>
+   <ul>
+    <li>
+ ใช้การจัดรูปแบบ
+    </li>
+    <li>
+ ใช้สูตร
+    </li>
+    <li>
+ สร้างแผนภูมิ
+    </li>
+    <li>
+ สรุป
+    </li>
+    <li>
+ มาร์กเกอร์อัจฉริยะ
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Python Spreadsheet API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ สำหรับ
+    </em>
+    Python via .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="ความเป็นอิสระของแพลตฟอร์ม" description="Aspose.Cells for Python via .NET สำหรับ." >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+ Python สภาพแวดล้อมรันไทม์
+   </header>
+   <!--<ul>
+
+<li>Application</li>
+
+</ul>-->
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Excel API Android" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ สำหรับ
+    </em>
+    Python via .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="รูปแบบไฟล์ที่รองรับ" description="ไลบรารี excel Python รองรับรูปแบบ Excel ยอดนิยม Microsoft รูปแบบเค้าโครงคงที่ และรูปภาพ" >}}
+<div class="diagram1 d2 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+ อินพุต/เอาต์พุต
+   </header>
+   <ul>
+    <li>
+     <b>
+ Microsoft เก่ง:
+     </b>
+ XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
+    </li>
+    <li>
+     <b>
+ โอเพ่นออฟฟิศ:
+     </b>
+     ODS
+    </li>
+    <li>
+     <b>
+ ข้อความ:
+     </b>
+     CSV, TSV, TXT
+    </li>
+    <li>
+     <b>
+ เว็บ:
+     </b>
+     HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+ เอาต์พุตเท่านั้น
+   </header>
+   <ul>
+    <li>
+     <b>
+ เค้าโครงคงที่:
+     </b>
+ PDF, PDF/เอ, XPS
+    </li>
+    <li>
+     <b>
+ ภาพ:
+     </b>
+     JPEG, PNG, BMP, SVG, EMF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="Python Excel Spreadsheet Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg"/>
+  <header>
+   Aspose.Cells
+  </header>
+  <footer>
+   <small>
+    <em>
+ สำหรับ
+    </em>
+    Python via .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/i18n/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+คุณลักษณะขั้นสูง Python Excel API
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ อ่านสเปรดชีต Excel
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-share ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ แสดงสเปรดชีตเป็น PDF, EMF และรูปภาพ
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-th ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ ปรับแผ่นงานภายในสมุดงาน
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-lock ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ ป้องกัน / ยกเลิกการป้องกันแผ่นงาน
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ เพิ่มรูปภาพและสร้างแผนภูมิ
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-table ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ สร้างตารางเดือยและแผนภูมิเดือย
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-comment ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ เพิ่มและแก้ไขความคิดเห็นที่ระดับเซลล์
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ ค้นหาและแทนที่ข้อมูล
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ แยกและผสานเซลล์
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ เพิ่มหรือลบการจัดกลุ่มแถวและคอลัมน์
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ กำหนดรูปแบบตัวเลข
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-calculator ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ อ่านและกำหนดสูตร
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ กำหนดการตั้งค่าเพจ
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ ปรับการวางแนวหน้า มาตราส่วน ขนาดกระดาษ
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-edit ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+ อ่าน & amp; เขียนการจัดรูปแบบตามเงื่อนไข
+    </p>
+   </div>
+   <!--
+
+<div class="col-lg-4"><em class="fa fa-support ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Support for CSV (comma-separated values) format</p>
+
+</div>
+
+
+
+<div class="col-lg-4"><em class="fa fa-file-text-o ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Adding a copy of an existing worksheet (with full contents, images and charts etc.) to a new file.</p>
+
+</div>
+
+
+
+<div class="col-lg-4"><em class="fa fa-commenting ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Create comments</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-filter ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Auto-filters and page breaksI</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-subscript  ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Set complex formulas</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-align-center ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Support conditional formatting</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-shield  ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Working with the protection options introduced in Microsoft Excel XP</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Manipulate named ranges</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Creating PivotTables</p>
+
+</div>
+
+<div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
+
+<p class="col-lg-10">Saving to HTML files or streams</p>
+
+</div>
+
+-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ การแปลงหลายรูปแบบ
+    </h2>
+    <p>
+ Python ไลบรารี Excel ให้การแปลงไฟล์ Excel เป็น PDF, XPS &amp; รูปแบบ HTML การแปลงที่เชื่อถือได้ของ API ทำให้เป็นโซลูชั่นที่สมบูรณ์แบบสำหรับบริษัทที่ต้องการแลกเปลี่ยนไฟล์ในรูปแบบมาตรฐานอุตสาหกรรม
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+ บันทึกสเปรดชีตในรูปแบบต่างๆ
+     </h3>
+     <pre><code class="net">
+
+import aspose.cells
+from aspose.cells import Workbook,SaveFormat
+ 
+#load file to be converted
+wk = Workbook("Book.xlsx");
+
+#Convert XLS to PDF, XPS and HTML
+wk.save("output.pdf", SaveFormat.PDF);
+
+wk.save("output.xps", SaveFormat.XPS);
+
+wk.save("houtput.html", SaveFormat.HTML);</code></pre>
+    </div>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Manipulate Excel Files Formatting</h2>
+
+<p>Aspose.Cells for Android via .NET gives you complete freedom and flexibility to furnish your spreadsheets with all kinds of visual effects. The API allows you to apply different fonts with attributes, cell styles (alignment, indentation, rotation, borders, shading and coloring, protection, text wrapping and shrinking) and all types of number formats. Similarly, charts and graphics are visually appealing and can give your spreadsheet a professional look. Aspose.Cells for Android via .NET provides a comprehensive set of APIs for creating and manipulating all of the standard and custom chart types. Moreover, you may add different types of drawing objects, such as comments, pictures, OLE objects, shapes and controls to the cells.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Convert Spreadsheet Objects to Different Formats</h2>
+
+<p>Aspose.Cells for Python via .NET offer some distinctive features such as converting charts to images & PDF, worksheets to images and spreadsheets to PDF document format. The conversion process is greatly flexible thus allowing you to choose a number of options for the conversion, such as re-sampling of images while converting spreadsheets to PDF or controlling the resultant image dimensions when rendering worksheets & charts to image formats.</p>
+
+</div>-->
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Spreadsheet API Formula Calculation Engine</h2>
+
+<p>Python sheets API provides a powerful Formula Calculation Engine that supports almost all of the standard and advanced Microsoft Excel formulas and functions. Formula calculation engine makes it easy to read, set and calculate the results of the built-in or add-in type, array and R1C1 reference style formulas.</p>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ ตัวเลือกการแสดงผลที่ยืดหยุ่น
+    </h2>
+    <p>
+Aspose.Cells for Python via .NET ให้การควบคุมการตั้งค่าหน้าอย่างเต็มรูปแบบ ทำให้สามารถควบคุมตัวเลือกการแสดงผลได้หลายแบบ เช่น แสดงตัวอย่างตัวแบ่งหน้า ตั้งค่าระดับการซูม ตั้งค่าการวางแนวหน้า ส่วนท้ายและพื้นที่พิมพ์
+    </p>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Excel Worksheet Security Features</h2>
+
+<p>Aspose.Cells for Android via .NET offers a wide range of security features including support for Microsoft Excel 2007 XLSX file encryption and decryption, protecting worksheet contents, objects & scenarios, and hiding or showing worksheets.</p>
+
+</div>
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Manipulate Worksheet Rows & Columns</h2>
+
+<p>Aspose.Cells for Android via .NET API allows you to manipulate rows and columns in many different ways. You can easily adjust row height and column width, auto size the width & height of cells according to the contents, insert or delete, hide or show and group or ungroup rows & columns.</p>
+
+</div> -->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ การจัดการข้อมูลแผ่นงาน Excel
+    </h2>
+    <p>
+ Aspose.Cells for Python via .NET API ให้การสนับสนุนที่ครอบคลุมสำหรับการจัดการข้อมูลแผ่นงาน สามารถจัดการเซลล์ใด ๆ ในเวิร์กชีตในขณะรันไทม์หรือนำเข้าข้อมูลไปยังเวิร์กชีตจากแหล่งข้อมูลต่าง ๆ ได้อย่างง่ายดาย
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+ การปรับแต่งแผนภูมิ
+    </h2>
+    <p>
+ Aspose.Cells for Python via .NET ให้การสนับสนุนอย่างเต็มที่สำหรับแผนภูมิ สามารถเพิ่มแผนภูมิมาตรฐานและแผนภูมิที่กำหนดเองได้อย่างง่ายดาย หรือตั้งค่าข้อมูลแผนภูมิแบบไดนามิกเพื่อรีเฟรชแผนภูมิในไลบรารีหลามนี้
+    </p>
+   </div>
+   <!--
+
+<div class="col-lg-12">
+
+<h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
+
+<p>Aspose.Cells for Android via .NET is built using managed code that never needs Microsoft Office or Microsoft Excel to work with Excel document formats. It is a perfect Microsoft Excel automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
+
+</div>
+
+-->
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+
+{{< blocks/products/pf/i18n/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/cells/python-net/" >}}
+{{< blocks/products/pf/slr-element name="วิดีโอการสอน" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="การสนับสนุนผลิตภัณฑ์" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/cells/9" >}}
+{{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/cells/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Cells for Python via .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/i18n/support-learning-resources >}}
+
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cells/python-net/" pricingInformationLink="https://purchase.aspose.com/pricing/cells/python-net" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Cells" description="Aspose.Cells มี API ของ Excel แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/cells/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/reporting-services/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" sdkName="Reporting Services" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/nodejs-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cells/php-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" sdkName="PHP via Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

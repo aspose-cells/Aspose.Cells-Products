@@ -1,5 +1,5 @@
 ---
-title: Insert Insert Stars And Banners into Excel via .NET 
+title: Insert Insert Stars And Banners into Excel via Java 
 weight: 381
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.

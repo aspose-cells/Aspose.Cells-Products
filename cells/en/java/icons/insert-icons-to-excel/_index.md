@@ -1,5 +1,5 @@
 ---
-title: Insert SVG images/Icons into Excel via .NET
+title: Insert SVG images/Icons into Excel via Java
 weight: 10
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.

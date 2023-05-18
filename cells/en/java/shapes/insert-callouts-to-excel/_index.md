@@ -1,5 +1,5 @@
 ---
-title: Insert Callouts into Excel via .NET 
+title: Insert Callouts into Excel via Java 
 weight: 360
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.

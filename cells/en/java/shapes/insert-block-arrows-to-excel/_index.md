@@ -1,5 +1,5 @@
 ---
-title: Insert Block Arrows into Excel via .NET 
+title: Insert Block Arrows into Excel via Java
 weight: 338
 
 description: Insert objects using Aspose.Cells' Java API without any software such as Microsoft or Open Office, Adobe PDF, etc.

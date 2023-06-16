@@ -2,6 +2,7 @@
 title: Merge HTM to XLSX via Java 
 url: /java/merger/merge-htm-to-xlsx/ 
 description: Merge HTM to XLSX Online for Free. Free Online HTM to XLSX Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to XLSX via Java., HTM to XLSX Merger., Merge HTM to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

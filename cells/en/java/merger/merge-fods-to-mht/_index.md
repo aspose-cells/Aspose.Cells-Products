@@ -2,6 +2,7 @@
 title: Merge FODS to MHT via Java 
 url: /java/merger/merge-fods-to-mht/ 
 description: Merge FODS to MHT Online for Free. Free Online FODS to MHT Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to MHT via Java., FODS to MHT Merger., Merge FODS to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

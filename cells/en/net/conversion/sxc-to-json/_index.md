@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to JSON C#
 description: Convert SXC to JSON Online for Free. Free Online SXC to JSON Converter. C# SXC to JSON. SXC to JSON via C#.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to JSON Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

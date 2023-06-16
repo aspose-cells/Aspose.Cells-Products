@@ -2,6 +2,7 @@
 title: Merge XLTX to HTML via Python 
 url: /python-net/merger/merge-xltx-to-html/ 
 description: Merge XLTX to HTML Online for Free. Free Online XLTX to HTML Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to HTML via Python., XLTX to HTML Merger., Merge XLTX to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

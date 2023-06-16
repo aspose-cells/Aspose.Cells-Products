@@ -2,6 +2,7 @@
 title: Merge EXCEL to TXT via C++ 
 url: /cpp/merger/merge-excel-to-txt/ 
 description: Merge EXCEL to TXT Online for Free. Free Online EXCEL to TXT Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to TXT via C++., EXCEL to TXT Merger., Merge EXCEL to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

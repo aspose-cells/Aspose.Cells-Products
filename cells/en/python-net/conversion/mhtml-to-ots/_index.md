@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to OTS Python via Python
 description: Convert MHTML to OTS Online for Free. Free Online MHTML to OTS Converter. Python MHTML to OTS. MHTML to OTS via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to OTS Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

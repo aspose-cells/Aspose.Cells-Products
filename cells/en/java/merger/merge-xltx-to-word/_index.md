@@ -2,6 +2,7 @@
 title: Merge XLTX to WORD via Java 
 url: /java/merger/merge-xltx-to-word/ 
 description: Merge XLTX to WORD Online for Free. Free Online XLTX to WORD Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to WORD via Java., XLTX to WORD Merger., Merge XLTX to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

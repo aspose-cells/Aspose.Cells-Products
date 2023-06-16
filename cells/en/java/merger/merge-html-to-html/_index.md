@@ -2,6 +2,7 @@
 title: Merge HTML to HTML via Java 
 url: /java/merger/merge-html-to-html/ 
 description: Merge HTML to HTML Online for Free. Free Online HTML to HTML Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to HTML via Java., HTML to HTML Merger., Merge HTML to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

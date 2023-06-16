@@ -2,6 +2,7 @@
 title: Merge MHTML to PPTX via Python 
 url: /python-net/merger/merge-mhtml-to-pptx/ 
 description: Merge MHTML to PPTX Online for Free. Free Online MHTML to PPTX Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to PPTX via Python., MHTML to PPTX Merger., Merge MHTML to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Create PDF Files via Python
 description: PDF creater. Create PDF files in Python code. Generate PDF files using Python application.
+keywords: [Create PDF Files via Python., PDF creater., Create PDF files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

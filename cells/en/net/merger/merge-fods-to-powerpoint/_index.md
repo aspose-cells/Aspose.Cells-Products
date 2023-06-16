@@ -2,6 +2,7 @@
 title: Merge FODS to POWERPOINT via C# 
 url: /net/merger/merge-fods-to-powerpoint/ 
 description: Merge FODS to POWERPOINT Online for Free. Free Online FODS to POWERPOINT Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to POWERPOINT via C#., FODS to POWERPOINT Merger., Merge FODS to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

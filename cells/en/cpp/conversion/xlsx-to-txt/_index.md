@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to TXT C++
 description: Convert XLSX to TXT Online for Free. Free Online XLSX to TXT Converter. C++ XLSX to TXT. XLSX to TXT via C++.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to TXT Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

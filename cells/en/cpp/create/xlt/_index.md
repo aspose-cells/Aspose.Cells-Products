@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLT Files via C++
 description: XLT creater. Create XLT files in C++ code. Generate MS Excel XLT files using C++ application.
+keywords: [Create MS Excel XLT Files via C++., XLT creater., Create XLT files in C++ code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge PRN to WORD via Python 
 url: /python-java/merger/merge-prn-to-word/ 
 description: Merge PRN to WORD Online for Free. Free Online PRN to WORD Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to WORD via Python., PRN to WORD Merger., Merge PRN to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

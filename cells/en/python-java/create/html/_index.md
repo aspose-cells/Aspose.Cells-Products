@@ -1,6 +1,7 @@
 ---
 title: Create HTML Files via Python
 description: HTML creater. Create HTML files in Python code. Generate HTML files using Python application.
+keywords: [Create HTML Files via Python., HTML creater., Create HTML files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

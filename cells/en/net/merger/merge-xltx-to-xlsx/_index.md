@@ -2,6 +2,7 @@
 title: Merge XLTX to XLSX via C# 
 url: /net/merger/merge-xltx-to-xlsx/ 
 description: Merge XLTX to XLSX Online for Free. Free Online XLTX to XLSX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to XLSX via C#., XLTX to XLSX Merger., Merge XLTX to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

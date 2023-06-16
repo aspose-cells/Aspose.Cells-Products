@@ -2,6 +2,7 @@
 title: Merge CSV to PPTX via C# 
 url: /net/merger/merge-csv-to-pptx/ 
 description: Merge CSV to PPTX Online for Free. Free Online CSV to PPTX Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to PPTX via C#., CSV to PPTX Merger., Merge CSV to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

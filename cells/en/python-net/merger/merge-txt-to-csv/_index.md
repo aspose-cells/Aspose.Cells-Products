@@ -2,6 +2,7 @@
 title: Merge TXT to CSV via Python 
 url: /python-net/merger/merge-txt-to-csv/ 
 description: Merge TXT to CSV Online for Free. Free Online TXT to CSV Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to CSV via Python., TXT to CSV Merger., Merge TXT to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

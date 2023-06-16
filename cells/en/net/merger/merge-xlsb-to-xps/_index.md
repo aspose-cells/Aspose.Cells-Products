@@ -2,6 +2,7 @@
 title: Merge XLSB to XPS via C# 
 url: /net/merger/merge-xlsb-to-xps/ 
 description: Merge XLSB to XPS Online for Free. Free Online XLSB to XPS Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to XPS via C#., XLSB to XPS Merger., Merge XLSB to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,7 @@
 ---
 title: Create CSV Files via Python
 description: CSV creater. Create CSV files in Python code. Generate CSV files using Python application.
+keywords: [Create CSV Files via Python., CSV creater., Create CSV files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

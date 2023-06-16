@@ -2,6 +2,7 @@
 title: Merge XML to XLSX via C# 
 url: /net/merger/merge-xml-to-xlsx/ 
 description: Merge XML to XLSX Online for Free. Free Online XML to XLSX Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to XLSX via C#., XML to XLSX Merger., Merge XML to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

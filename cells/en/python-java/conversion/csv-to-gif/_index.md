@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to GIF Python via Python
 description: Convert CSV to GIF Online for Free. Free Online CSV to GIF Converter. Python CSV to GIF. CSV to GIF via Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+keywords: [Convert CSV to GIF Online for Free., CSV Converter., CSV to PDF., CSV to Word., CSV to PPT., CSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

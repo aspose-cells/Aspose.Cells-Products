@@ -2,6 +2,7 @@
 title: Merge XLTM to WORD via Python 
 url: /python-net/merger/merge-xltm-to-word/ 
 description: Merge XLTM to WORD Online for Free. Free Online XLTM to WORD Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to WORD via Python., XLTM to WORD Merger., Merge XLTM to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

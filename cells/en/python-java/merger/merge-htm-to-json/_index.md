@@ -2,6 +2,7 @@
 title: Merge HTM to JSON via Python 
 url: /python-java/merger/merge-htm-to-json/ 
 description: Merge HTM to JSON Online for Free. Free Online HTM to JSON Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to JSON via Python., HTM to JSON Merger., Merge HTM to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

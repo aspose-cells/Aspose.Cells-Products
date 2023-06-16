@@ -2,6 +2,7 @@
 title: Merge HTML to TXT via Python 
 url: /python-net/merger/merge-html-to-txt/ 
 description: Merge HTML to TXT Online for Free. Free Online HTML to TXT Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to TXT via Python., HTML to TXT Merger., Merge HTML to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

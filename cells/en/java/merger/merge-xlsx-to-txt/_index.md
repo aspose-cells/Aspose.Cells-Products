@@ -2,6 +2,7 @@
 title: Merge XLSX to TXT via Java 
 url: /java/merger/merge-xlsx-to-txt/ 
 description: Merge XLSX to TXT Online for Free. Free Online XLSX to TXT Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to TXT via Java., XLSX to TXT Merger., Merge XLSX to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

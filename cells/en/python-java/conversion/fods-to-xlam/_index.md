@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XLAM Python via Python
 description: Convert FODS to XLAM Online for Free. Free Online FODS to XLAM Converter. Python FODS to XLAM. FODS to XLAM via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to XLAM Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

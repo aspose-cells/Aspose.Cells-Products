@@ -2,6 +2,7 @@
 title: Merge EXCEL to XLT via C# 
 url: /net/merger/merge-excel-to-xlt/ 
 description: Merge EXCEL to XLT Online for Free. Free Online EXCEL to XLT Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XLT via C#., EXCEL to XLT Merger., Merge EXCEL to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

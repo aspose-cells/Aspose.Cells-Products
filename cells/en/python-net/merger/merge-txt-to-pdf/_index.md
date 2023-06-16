@@ -2,6 +2,7 @@
 title: Merge TXT to PDF via Python 
 url: /python-net/merger/merge-txt-to-pdf/ 
 description: Merge TXT to PDF Online for Free. Free Online TXT to PDF Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to PDF via Python., TXT to PDF Merger., Merge TXT to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

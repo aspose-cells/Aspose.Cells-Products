@@ -2,6 +2,7 @@
 title: Merge MHTML to HTM via Java 
 url: /java/merger/merge-mhtml-to-htm/ 
 description: Merge MHTML to HTM Online for Free. Free Online MHTML to HTM Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to HTM via Java., MHTML to HTM Merger., Merge MHTML to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

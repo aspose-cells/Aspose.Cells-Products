@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to POWERPOINT Python via Python
 description: Convert EXCEL to POWERPOINT Online for Free. Free Online EXCEL to POWERPOINT Converter. Python EXCEL to POWERPOINT. EXCEL to POWERPOINT via Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+keywords: [Convert EXCEL to POWERPOINT Online for Free., EXCEL Converter., EXCEL to PDF., EXCEL to Word., EXCEL to PPT., EXCEL to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to ET Python via Python
 description: Convert SXC to ET Online for Free. Free Online SXC to ET Converter. Python SXC to ET. SXC to ET via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to ET Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

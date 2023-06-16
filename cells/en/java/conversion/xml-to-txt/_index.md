@@ -1,7 +1,7 @@
 ---
 title: Convert XML to TXT Java 
 description: Convert XML to TXT Online for Free. Free Online XML to TXT Converter. Java XML to TXT. XML to TXT via Java.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+keywords: [Convert XML to TXT Online for Free., XML Converter., XML to PDF., XML to Word., XML to PPT., XML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

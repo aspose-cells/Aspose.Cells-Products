@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to POWERPOINT C++
 description: Convert JPG to POWERPOINT Online for Free. Free Online JPG to POWERPOINT Converter. C++ JPG to POWERPOINT. JPG to POWERPOINT via C++.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to POWERPOINT Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

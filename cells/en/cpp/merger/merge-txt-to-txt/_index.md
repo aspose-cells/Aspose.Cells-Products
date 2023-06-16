@@ -2,6 +2,7 @@
 title: Merge TXT to TXT via C++ 
 url: /cpp/merger/merge-txt-to-txt/ 
 description: Merge TXT to TXT Online for Free. Free Online TXT to TXT Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to TXT via C++., TXT to TXT Merger., Merge TXT to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

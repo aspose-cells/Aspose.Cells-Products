@@ -1,6 +1,7 @@
 ---
 title: Create TSV Files via C++
 description: TSV creater. Create TSV files in C++ code. Generate TSV files using C++ application.
+keywords: [Create TSV Files via C++., TSV creater., Create TSV files in C++ code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

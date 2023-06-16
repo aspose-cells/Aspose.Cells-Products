@@ -1,7 +1,7 @@
 ---
 title: Convert CSV to SQL Python via Python
 description: Convert CSV to SQL Online for Free. Free Online CSV to SQL Converter. Python CSV to SQL. CSV to SQL via Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+keywords: [Convert CSV to SQL Online for Free., CSV Converter., CSV to PDF., CSV to Word., CSV to PPT., CSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

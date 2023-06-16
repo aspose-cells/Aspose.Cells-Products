@@ -1,6 +1,7 @@
 ---
 title: Create MHTML Files via Python
 description: MHTML creater. Create MHTML files in Python code. Generate MHTML files using Python application.
+keywords: [Create MHTML Files via Python., MHTML creater., Create MHTML files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

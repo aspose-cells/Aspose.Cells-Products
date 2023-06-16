@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to SVG Python via Python
 description: Convert FODS to SVG Online for Free. Free Online FODS to SVG Converter. Python FODS to SVG. FODS to SVG via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to SVG Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XML to JSON via C++ 
 url: /cpp/merger/merge-xml-to-json/ 
 description: Merge XML to JSON Online for Free. Free Online XML to JSON Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to JSON via C++., XML to JSON Merger., Merge XML to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

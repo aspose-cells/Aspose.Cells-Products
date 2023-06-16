@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to DOCX Python via Python
 description: Convert XLS to DOCX Online for Free. Free Online XLS to DOCX Converter. Python XLS to DOCX. XLS to DOCX via Python.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to DOCX Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

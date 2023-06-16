@@ -2,6 +2,7 @@
 title: Merge PRN to HTM via C# 
 url: /net/merger/merge-prn-to-htm/ 
 description: Merge PRN to HTM Online for Free. Free Online PRN to HTM Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to HTM via C#., PRN to HTM Merger., Merge PRN to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

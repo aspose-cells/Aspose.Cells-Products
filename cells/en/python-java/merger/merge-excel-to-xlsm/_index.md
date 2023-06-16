@@ -2,6 +2,7 @@
 title: Merge EXCEL to XLSM via Python 
 url: /python-java/merger/merge-excel-to-xlsm/ 
 description: Merge EXCEL to XLSM Online for Free. Free Online EXCEL to XLSM Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XLSM via Python., EXCEL to XLSM Merger., Merge EXCEL to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

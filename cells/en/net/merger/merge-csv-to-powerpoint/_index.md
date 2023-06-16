@@ -2,6 +2,7 @@
 title: Merge CSV to POWERPOINT via C# 
 url: /net/merger/merge-csv-to-powerpoint/ 
 description: Merge CSV to POWERPOINT Online for Free. Free Online CSV to POWERPOINT Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to POWERPOINT via C#., CSV to POWERPOINT Merger., Merge CSV to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

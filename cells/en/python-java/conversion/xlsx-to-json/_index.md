@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to JSON Python via Python
 description: Convert XLSX to JSON Online for Free. Free Online XLSX to JSON Converter. Python XLSX to JSON. XLSX to JSON via Python.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to JSON Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

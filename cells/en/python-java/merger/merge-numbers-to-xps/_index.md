@@ -2,6 +2,7 @@
 title: Merge NUMBERS to XPS via Python 
 url: /python-java/merger/merge-numbers-to-xps/ 
 description: Merge NUMBERS to XPS Online for Free. Free Online NUMBERS to XPS Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to XPS via Python., NUMBERS to XPS Merger., Merge NUMBERS to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

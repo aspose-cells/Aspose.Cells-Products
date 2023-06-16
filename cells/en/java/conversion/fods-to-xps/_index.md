@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to XPS Java 
 description: Convert FODS to XPS Online for Free. Free Online FODS to XPS Converter. Java FODS to XPS. FODS to XPS via Java.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to XPS Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

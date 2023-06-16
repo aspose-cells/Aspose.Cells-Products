@@ -2,6 +2,7 @@
 title: Merge HTML to XLSM via C++ 
 url: /cpp/merger/merge-html-to-xlsm/ 
 description: Merge HTML to XLSM Online for Free. Free Online HTML to XLSM Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XLSM via C++., HTML to XLSM Merger., Merge HTML to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

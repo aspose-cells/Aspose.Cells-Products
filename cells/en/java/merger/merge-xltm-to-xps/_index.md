@@ -2,6 +2,7 @@
 title: Merge XLTM to XPS via Java 
 url: /java/merger/merge-xltm-to-xps/ 
 description: Merge XLTM to XPS Online for Free. Free Online XLTM to XPS Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to XPS via Java., XLTM to XPS Merger., Merge XLTM to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

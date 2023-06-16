@@ -2,6 +2,7 @@
 title: Merge SXC to XLS via C# 
 url: /net/merger/merge-sxc-to-xls/ 
 description: Merge SXC to XLS Online for Free. Free Online SXC to XLS Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to XLS via C#., SXC to XLS Merger., Merge SXC to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

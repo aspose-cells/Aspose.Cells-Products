@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to SQL C++
 description: Convert XLS to SQL Online for Free. Free Online XLS to SQL Converter. C++ XLS to SQL. XLS to SQL via C++.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to SQL Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to GIF Python via Python
 description: Convert JPG to GIF Online for Free. Free Online JPG to GIF Converter. Python JPG to GIF. JPG to GIF via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to GIF Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

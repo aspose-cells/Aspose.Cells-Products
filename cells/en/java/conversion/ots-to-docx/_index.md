@@ -1,7 +1,7 @@
 ---
 title: Convert OTS to DOCX Java 
 description: Convert OTS to DOCX Online for Free. Free Online OTS to DOCX Converter. Java OTS to DOCX. OTS to DOCX via Java.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+keywords: [Convert OTS to DOCX Online for Free., OTS Converter., OTS to PDF., OTS to Word., OTS to PPT., OTS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTM to XLSB via C++ 
 url: /cpp/merger/merge-xltm-to-xlsb/ 
 description: Merge XLTM to XLSB Online for Free. Free Online XLTM to XLSB Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to XLSB via C++., XLTM to XLSB Merger., Merge XLTM to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge FODS to MHTML via Python 
 url: /python-java/merger/merge-fods-to-mhtml/ 
 description: Merge FODS to MHTML Online for Free. Free Online FODS to MHTML Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to MHTML via Python., FODS to MHTML Merger., Merge FODS to MHTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

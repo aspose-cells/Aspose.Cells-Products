@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to ETT Python via Python
 description: Convert FODS to ETT Online for Free. Free Online FODS to ETT Converter. Python FODS to ETT. FODS to ETT via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to ETT Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

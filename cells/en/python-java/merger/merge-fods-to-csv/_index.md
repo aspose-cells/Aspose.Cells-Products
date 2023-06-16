@@ -2,6 +2,7 @@
 title: Merge FODS to CSV via Python 
 url: /python-java/merger/merge-fods-to-csv/ 
 description: Merge FODS to CSV Online for Free. Free Online FODS to CSV Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to CSV via Python., FODS to CSV Merger., Merge FODS to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

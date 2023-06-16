@@ -2,6 +2,7 @@
 title: Merge FODS to TXT via Python 
 url: /python-java/merger/merge-fods-to-txt/ 
 description: Merge FODS to TXT Online for Free. Free Online FODS to TXT Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to TXT via Python., FODS to TXT Merger., Merge FODS to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

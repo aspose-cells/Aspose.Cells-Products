@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to JSON Python via Python
 description: Convert JPG to JSON Online for Free. Free Online JPG to JSON Converter. Python JPG to JSON. JPG to JSON via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to JSON Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

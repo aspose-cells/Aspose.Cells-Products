@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to XLS via Python 
 url: /python-net/merger/merge-spreadsheetml-to-xls/ 
 description: Merge SPREADSHEETML to XLS Online for Free. Free Online SPREADSHEETML to XLS Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to XLS via Python., SPREADSHEETML to XLS Merger., Merge SPREADSHEETML to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

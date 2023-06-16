@@ -2,6 +2,7 @@
 title: Merge OTS to POWERPOINT via Python 
 url: /python-net/merger/merge-ots-to-powerpoint/ 
 description: Merge OTS to POWERPOINT Online for Free. Free Online OTS to POWERPOINT Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to POWERPOINT via Python., OTS to POWERPOINT Merger., Merge OTS to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

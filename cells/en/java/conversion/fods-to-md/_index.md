@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to MD Java 
 description: Convert FODS to MD Online for Free. Free Online FODS to MD Converter. Java FODS to MD. FODS to MD via Java.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to MD Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

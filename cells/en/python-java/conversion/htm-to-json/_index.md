@@ -1,7 +1,7 @@
 ---
 title: Convert HTM to JSON Python via Python
 description: Convert HTM to JSON Online for Free. Free Online HTM to JSON Converter. Python HTM to JSON. HTM to JSON via Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+keywords: [Convert HTM to JSON Online for Free., HTM Converter., HTM to PDF., HTM to Word., HTM to PPT., HTM to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTX to PPTX via Java 
 url: /java/merger/merge-xltx-to-pptx/ 
 description: Merge XLTX to PPTX Online for Free. Free Online XLTX to PPTX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to PPTX via Java., XLTX to PPTX Merger., Merge XLTX to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

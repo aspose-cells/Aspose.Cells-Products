@@ -2,6 +2,7 @@
 title: Merge FODS to XLTX via Python 
 url: /python-java/merger/merge-fods-to-xltx/ 
 description: Merge FODS to XLTX Online for Free. Free Online FODS to XLTX Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to XLTX via Python., FODS to XLTX Merger., Merge FODS to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

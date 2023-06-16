@@ -2,6 +2,7 @@
 title: Merge SXC to WORD via C# 
 url: /net/merger/merge-sxc-to-word/ 
 description: Merge SXC to WORD Online for Free. Free Online SXC to WORD Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to WORD via C#., SXC to WORD Merger., Merge SXC to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

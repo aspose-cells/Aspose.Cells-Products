@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to FODS Python via Python
 description: Convert SXC to FODS Online for Free. Free Online SXC to FODS Converter. Python SXC to FODS. SXC to FODS via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to FODS Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

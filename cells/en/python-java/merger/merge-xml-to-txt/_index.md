@@ -2,6 +2,7 @@
 title: Merge XML to TXT via Python 
 url: /python-java/merger/merge-xml-to-txt/ 
 description: Merge XML to TXT Online for Free. Free Online XML to TXT Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to TXT via Python., XML to TXT Merger., Merge XML to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLSM to MHT via Java 
 url: /java/merger/merge-xlsm-to-mht/ 
 description: Merge XLSM to MHT Online for Free. Free Online XLSM to MHT Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to MHT via Java., XLSM to MHT Merger., Merge XLSM to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

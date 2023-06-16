@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to JSON C++
 description: Convert JPG to JSON Online for Free. Free Online JPG to JSON Converter. C++ JPG to JSON. JPG to JSON via C++.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to JSON Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

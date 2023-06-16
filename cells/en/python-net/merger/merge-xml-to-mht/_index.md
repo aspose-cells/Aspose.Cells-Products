@@ -2,6 +2,7 @@
 title: Merge XML to MHT via Python 
 url: /python-net/merger/merge-xml-to-mht/ 
 description: Merge XML to MHT Online for Free. Free Online XML to MHT Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to MHT via Python., XML to MHT Merger., Merge XML to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

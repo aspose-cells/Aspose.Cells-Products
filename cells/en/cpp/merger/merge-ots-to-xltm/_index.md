@@ -2,6 +2,7 @@
 title: Merge OTS to XLTM via C++ 
 url: /cpp/merger/merge-ots-to-xltm/ 
 description: Merge OTS to XLTM Online for Free. Free Online OTS to XLTM Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to XLTM via C++., OTS to XLTM Merger., Merge OTS to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

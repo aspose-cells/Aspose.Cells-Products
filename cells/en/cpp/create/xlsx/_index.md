@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSX Files via C++
 description: XLSX creater. Create XLSX files in C++ code. Generate MS Excel XLSX files using C++ application.
+keywords: [Create MS Excel XLSX Files via C++., XLSX creater., Create XLSX files in C++ code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

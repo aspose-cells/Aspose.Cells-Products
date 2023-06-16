@@ -2,6 +2,7 @@
 title: Merge OTS to HTML via C++ 
 url: /cpp/merger/merge-ots-to-html/ 
 description: Merge OTS to HTML Online for Free. Free Online OTS to HTML Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to HTML via C++., OTS to HTML Merger., Merge OTS to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

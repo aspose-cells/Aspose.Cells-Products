@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to XPS via Java 
 url: /java/merger/merge-spreadsheetml-to-xps/ 
 description: Merge SPREADSHEETML to XPS Online for Free. Free Online SPREADSHEETML to XPS Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to XPS via Java., SPREADSHEETML to XPS Merger., Merge SPREADSHEETML to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

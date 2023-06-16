@@ -1,6 +1,7 @@
 ---
 title: Create TSV Files via Python
 description: TSV creater. Create TSV files in Python code. Generate TSV files using Python application.
+keywords: [Create TSV Files via Python., TSV creater., Create TSV files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

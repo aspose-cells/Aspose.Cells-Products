@@ -2,6 +2,7 @@
 title: Merge TXT to DOCX via C# 
 url: /net/merger/merge-txt-to-docx/ 
 description: Merge TXT to DOCX Online for Free. Free Online TXT to DOCX Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to DOCX via C#., TXT to DOCX Merger., Merge TXT to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge MHT to XLTM via Java 
 url: /java/merger/merge-mht-to-xltm/ 
 description: Merge MHT to XLTM Online for Free. Free Online MHT to XLTM Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XLTM via Java., MHT to XLTM Merger., Merge MHT to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

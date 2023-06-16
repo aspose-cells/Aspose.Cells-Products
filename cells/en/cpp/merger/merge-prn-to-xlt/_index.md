@@ -2,6 +2,7 @@
 title: Merge PRN to XLT via C++ 
 url: /cpp/merger/merge-prn-to-xlt/ 
 description: Merge PRN to XLT Online for Free. Free Online PRN to XLT Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLT via C++., PRN to XLT Merger., Merge PRN to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

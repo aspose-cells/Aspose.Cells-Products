@@ -2,6 +2,7 @@
 title: Merge XLT to ODS via C++ 
 url: /cpp/merger/merge-xlt-to-ods/ 
 description: Merge XLT to ODS Online for Free. Free Online XLT to ODS Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to ODS via C++., XLT to ODS Merger., Merge XLT to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

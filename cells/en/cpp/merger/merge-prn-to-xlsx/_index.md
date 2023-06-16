@@ -2,6 +2,7 @@
 title: Merge PRN to XLSX via C++ 
 url: /cpp/merger/merge-prn-to-xlsx/ 
 description: Merge PRN to XLSX Online for Free. Free Online PRN to XLSX Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLSX via C++., PRN to XLSX Merger., Merge PRN to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

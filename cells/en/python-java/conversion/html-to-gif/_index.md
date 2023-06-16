@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to GIF Python via Python
 description: Convert HTML to GIF Online for Free. Free Online HTML to GIF Converter. Python HTML to GIF. HTML to GIF via Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+keywords: [Convert HTML to GIF Online for Free., HTML Converter., HTML to PDF., HTML to Word., HTML to PPT., HTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

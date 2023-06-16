@@ -2,6 +2,7 @@
 title: Merge HTML to XLSB via Python 
 url: /python-java/merger/merge-html-to-xlsb/ 
 description: Merge HTML to XLSB Online for Free. Free Online HTML to XLSB Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XLSB via Python., HTML to XLSB Merger., Merge HTML to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

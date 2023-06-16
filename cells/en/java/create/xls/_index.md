@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLS Files via Java
 description: XLS creater. Create XLS files in Java code. Generate MS Excel XLS files using Java based desktop or web application.
+keywords: [Create MS Excel XLS Files via Java., XLS creater., Create XLS files in Java code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

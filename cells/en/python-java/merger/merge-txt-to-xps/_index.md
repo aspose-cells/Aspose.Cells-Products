@@ -2,6 +2,7 @@
 title: Merge TXT to XPS via Python 
 url: /python-java/merger/merge-txt-to-xps/ 
 description: Merge TXT to XPS Online for Free. Free Online TXT to XPS Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to XPS via Python., TXT to XPS Merger., Merge TXT to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

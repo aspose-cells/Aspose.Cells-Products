@@ -2,6 +2,7 @@
 title: Merge PRN to ODS via Java 
 url: /java/merger/merge-prn-to-ods/ 
 description: Merge PRN to ODS Online for Free. Free Online PRN to ODS Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to ODS via Java., PRN to ODS Merger., Merge PRN to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

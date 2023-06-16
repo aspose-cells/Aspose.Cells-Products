@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to XLTX via Java 
 url: /java/merger/merge-spreadsheetml-to-xltx/ 
 description: Merge SPREADSHEETML to XLTX Online for Free. Free Online SPREADSHEETML to XLTX Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to XLTX via Java., SPREADSHEETML to XLTX Merger., Merge SPREADSHEETML to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

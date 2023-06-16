@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to XPS via Python 
 url: /python-java/merger/merge-tabdelimited-to-xps/ 
 description: Merge TABDELIMITED to XPS Online for Free. Free Online TABDELIMITED to XPS Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to XPS via Python., TABDELIMITED to XPS Merger., Merge TABDELIMITED to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

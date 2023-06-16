@@ -2,6 +2,7 @@
 title: Merge NUMBERS to XLSX via C++ 
 url: /cpp/merger/merge-numbers-to-xlsx/ 
 description: Merge NUMBERS to XLSX Online for Free. Free Online NUMBERS to XLSX Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to XLSX via C++., NUMBERS to XLSX Merger., Merge NUMBERS to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

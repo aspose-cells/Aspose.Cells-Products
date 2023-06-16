@@ -1,6 +1,7 @@
 ---
 title: Create ODS (Openoffice / Lbreoffice) Files via C++
 description: ODS creater. Create ODS files in C++ code. Generate ODS (Openoffice / Lbreoffice) files using C++ application.
+keywords: [Create ODS (Openoffice / Lbreoffice) Files via C++., ODS creater., Create ODS files in C++ code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

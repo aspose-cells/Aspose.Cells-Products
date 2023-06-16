@@ -2,6 +2,7 @@
 title: Merge OTS to MHTML via Java 
 url: /java/merger/merge-ots-to-mhtml/ 
 description: Merge OTS to MHTML Online for Free. Free Online OTS to MHTML Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to MHTML via Java., OTS to MHTML Merger., Merge OTS to MHTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge TXT to NUMBERS via C++ 
 url: /cpp/merger/merge-txt-to-numbers/ 
 description: Merge TXT to NUMBERS Online for Free. Free Online TXT to NUMBERS Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to NUMBERS via C++., TXT to NUMBERS Merger., Merge TXT to NUMBERS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

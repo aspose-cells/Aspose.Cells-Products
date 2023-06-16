@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to TXT Java 
 description: Convert FODS to TXT Online for Free. Free Online FODS to TXT Converter. Java FODS to TXT. FODS to TXT via Java.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to TXT Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

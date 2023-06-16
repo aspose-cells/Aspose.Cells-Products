@@ -2,6 +2,7 @@
 title: Merge XLSX to POWERPOINT via C++ 
 url: /cpp/merger/merge-xlsx-to-powerpoint/ 
 description: Merge XLSX to POWERPOINT Online for Free. Free Online XLSX to POWERPOINT Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to POWERPOINT via C++., XLSX to POWERPOINT Merger., Merge XLSX to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

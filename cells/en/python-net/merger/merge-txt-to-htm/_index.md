@@ -2,6 +2,7 @@
 title: Merge TXT to HTM via Python 
 url: /python-net/merger/merge-txt-to-htm/ 
 description: Merge TXT to HTM Online for Free. Free Online TXT to HTM Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to HTM via Python., TXT to HTM Merger., Merge TXT to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

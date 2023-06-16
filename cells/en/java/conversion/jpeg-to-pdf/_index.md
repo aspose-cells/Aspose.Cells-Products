@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to PDF Java 
 description: Convert JPEG to PDF Online for Free. Free Online JPEG to PDF Converter. Java JPEG to PDF. JPEG to PDF via Java.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+keywords: [Convert JPEG to PDF Online for Free., JPEG Converter., JPEG to PDF., JPEG to Word., JPEG to PPT., JPEG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

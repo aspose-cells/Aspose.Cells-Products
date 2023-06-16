@@ -2,6 +2,7 @@
 title: Merge OTS to PPTX via Java 
 url: /java/merger/merge-ots-to-pptx/ 
 description: Merge OTS to PPTX Online for Free. Free Online OTS to PPTX Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to PPTX via Java., OTS to PPTX Merger., Merge OTS to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

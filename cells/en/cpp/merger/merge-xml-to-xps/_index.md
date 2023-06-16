@@ -2,6 +2,7 @@
 title: Merge XML to XPS via C++ 
 url: /cpp/merger/merge-xml-to-xps/ 
 description: Merge XML to XPS Online for Free. Free Online XML to XPS Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to XPS via C++., XML to XPS Merger., Merge XML to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge OTS to XLS via Python 
 url: /python-java/merger/merge-ots-to-xls/ 
 description: Merge OTS to XLS Online for Free. Free Online OTS to XLS Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to XLS via Python., OTS to XLS Merger., Merge OTS to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

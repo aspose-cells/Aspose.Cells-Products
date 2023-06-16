@@ -2,6 +2,7 @@
 title: Merge MHT to XLS via Java 
 url: /java/merger/merge-mht-to-xls/ 
 description: Merge MHT to XLS Online for Free. Free Online MHT to XLS Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XLS via Java., MHT to XLS Merger., Merge MHT to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

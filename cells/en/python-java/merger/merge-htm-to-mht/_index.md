@@ -2,6 +2,7 @@
 title: Merge HTM to MHT via Python 
 url: /python-java/merger/merge-htm-to-mht/ 
 description: Merge HTM to MHT Online for Free. Free Online HTM to MHT Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to MHT via Python., HTM to MHT Merger., Merge HTM to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge CSV to DOCX via Python 
 url: /python-java/merger/merge-csv-to-docx/ 
 description: Merge CSV to DOCX Online for Free. Free Online CSV to DOCX Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to DOCX via Python., CSV to DOCX Merger., Merge CSV to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

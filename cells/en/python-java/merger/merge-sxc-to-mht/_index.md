@@ -2,6 +2,7 @@
 title: Merge SXC to MHT via Python 
 url: /python-java/merger/merge-sxc-to-mht/ 
 description: Merge SXC to MHT Online for Free. Free Online SXC to MHT Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to MHT via Python., SXC to MHT Merger., Merge SXC to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

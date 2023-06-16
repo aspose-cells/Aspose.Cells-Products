@@ -2,6 +2,7 @@
 title: Merge JSON to JSON via Python 
 url: /python-java/merger/merge-json-to-json/ 
 description: Merge JSON to JSON Online for Free. Free Online JSON to JSON Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to JSON via Python., JSON to JSON Merger., Merge JSON to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

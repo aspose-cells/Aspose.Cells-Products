@@ -2,6 +2,7 @@
 title: Merge XLSX to XLTM via Java 
 url: /java/merger/merge-xlsx-to-xltm/ 
 description: Merge XLSX to XLTM Online for Free. Free Online XLSX to XLTM Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to XLTM via Java., XLSX to XLTM Merger., Merge XLSX to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

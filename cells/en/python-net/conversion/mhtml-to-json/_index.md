@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to JSON Python via Python
 description: Convert MHTML to JSON Online for Free. Free Online MHTML to JSON Converter. Python MHTML to JSON. MHTML to JSON via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to JSON Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

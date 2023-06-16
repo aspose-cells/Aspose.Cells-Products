@@ -2,6 +2,7 @@
 title: Merge XLT to JSON via Python 
 url: /python-java/merger/merge-xlt-to-json/ 
 description: Merge XLT to JSON Online for Free. Free Online XLT to JSON Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to JSON via Python., XLT to JSON Merger., Merge XLT to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

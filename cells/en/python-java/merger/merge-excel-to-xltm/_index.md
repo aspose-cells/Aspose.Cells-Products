@@ -2,6 +2,7 @@
 title: Merge EXCEL to XLTM via Python 
 url: /python-java/merger/merge-excel-to-xltm/ 
 description: Merge EXCEL to XLTM Online for Free. Free Online EXCEL to XLTM Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XLTM via Python., EXCEL to XLTM Merger., Merge EXCEL to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

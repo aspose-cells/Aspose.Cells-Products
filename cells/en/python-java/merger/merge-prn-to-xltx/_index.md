@@ -2,6 +2,7 @@
 title: Merge PRN to XLTX via Python 
 url: /python-java/merger/merge-prn-to-xltx/ 
 description: Merge PRN to XLTX Online for Free. Free Online PRN to XLTX Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLTX via Python., PRN to XLTX Merger., Merge PRN to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge MHT to POWERPOINT via C++ 
 url: /cpp/merger/merge-mht-to-powerpoint/ 
 description: Merge MHT to POWERPOINT Online for Free. Free Online MHT to POWERPOINT Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to POWERPOINT via C++., MHT to POWERPOINT Merger., Merge MHT to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

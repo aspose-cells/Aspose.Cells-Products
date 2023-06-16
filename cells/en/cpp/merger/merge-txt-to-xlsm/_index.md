@@ -2,6 +2,7 @@
 title: Merge TXT to XLSM via C++ 
 url: /cpp/merger/merge-txt-to-xlsm/ 
 description: Merge TXT to XLSM Online for Free. Free Online TXT to XLSM Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to XLSM via C++., TXT to XLSM Merger., Merge TXT to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

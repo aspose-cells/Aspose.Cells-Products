@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to JSON Java 
 description: Convert JPEG to JSON Online for Free. Free Online JPEG to JSON Converter. Java JPEG to JSON. JPEG to JSON via Java.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+keywords: [Convert JPEG to JSON Online for Free., JPEG Converter., JPEG to PDF., JPEG to Word., JPEG to PPT., JPEG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

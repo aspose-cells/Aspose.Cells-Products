@@ -1,7 +1,7 @@
 ---
 title: Convert OTS to SVG Java 
 description: Convert OTS to SVG Online for Free. Free Online OTS to SVG Converter. Java OTS to SVG. OTS to SVG via Java.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+keywords: [Convert OTS to SVG Online for Free., OTS Converter., OTS to PDF., OTS to Word., OTS to PPT., OTS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert PNG to TXT C++
 description: Convert PNG to TXT Online for Free. Free Online PNG to TXT Converter. C++ PNG to TXT. PNG to TXT via C++.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+keywords: [Convert PNG to TXT Online for Free., PNG Converter., PNG to PDF., PNG to Word., PNG to PPT., PNG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

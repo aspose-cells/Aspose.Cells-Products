@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to DOCX C#
 description: Convert SXC to DOCX Online for Free. Free Online SXC to DOCX Converter. C# SXC to DOCX. SXC to DOCX via C#.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to DOCX Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

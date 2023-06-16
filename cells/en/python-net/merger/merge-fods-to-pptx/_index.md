@@ -2,6 +2,7 @@
 title: Merge FODS to PPTX via Python 
 url: /python-net/merger/merge-fods-to-pptx/ 
 description: Merge FODS to PPTX Online for Free. Free Online FODS to PPTX Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to PPTX via Python., FODS to PPTX Merger., Merge FODS to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

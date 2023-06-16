@@ -2,6 +2,7 @@
 title: Merge XLT to DOCX via Java 
 url: /java/merger/merge-xlt-to-docx/ 
 description: Merge XLT to DOCX Online for Free. Free Online XLT to DOCX Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to DOCX via Java., XLT to DOCX Merger., Merge XLT to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

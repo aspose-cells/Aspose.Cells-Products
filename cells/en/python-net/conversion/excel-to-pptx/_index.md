@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to PPTX Python via Python
 description: Convert EXCEL to PPTX Online for Free. Free Online EXCEL to PPTX Converter. Python EXCEL to PPTX. EXCEL to PPTX via Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+keywords: [Convert EXCEL to PPTX Online for Free., EXCEL Converter., EXCEL to PDF., EXCEL to Word., EXCEL to PPT., EXCEL to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

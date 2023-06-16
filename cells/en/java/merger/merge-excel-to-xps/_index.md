@@ -2,6 +2,7 @@
 title: Merge EXCEL to XPS via Java 
 url: /java/merger/merge-excel-to-xps/ 
 description: Merge EXCEL to XPS Online for Free. Free Online EXCEL to XPS Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XPS via Java., EXCEL to XPS Merger., Merge EXCEL to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

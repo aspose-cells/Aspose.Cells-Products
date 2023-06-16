@@ -2,6 +2,7 @@
 title: Merge XLTM to XLS via Python 
 url: /python-net/merger/merge-xltm-to-xls/ 
 description: Merge XLTM to XLS Online for Free. Free Online XLTM to XLS Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to XLS via Python., XLTM to XLS Merger., Merge XLTM to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge MHT to DOCX via Java 
 url: /java/merger/merge-mht-to-docx/ 
 description: Merge MHT to DOCX Online for Free. Free Online MHT to DOCX Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to DOCX via Java., MHT to DOCX Merger., Merge MHT to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

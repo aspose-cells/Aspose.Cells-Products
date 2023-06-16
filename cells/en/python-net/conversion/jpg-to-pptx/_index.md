@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to PPTX Python via Python
 description: Convert JPG to PPTX Online for Free. Free Online JPG to PPTX Converter. Python JPG to PPTX. JPG to PPTX via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to PPTX Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

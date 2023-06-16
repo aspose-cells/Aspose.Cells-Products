@@ -2,6 +2,7 @@
 title: Merge HTML to XLTX via Java 
 url: /java/merger/merge-html-to-xltx/ 
 description: Merge HTML to XLTX Online for Free. Free Online HTML to XLTX Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XLTX via Java., HTML to XLTX Merger., Merge HTML to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

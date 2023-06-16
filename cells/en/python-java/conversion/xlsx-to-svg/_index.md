@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to SVG Python via Python
 description: Convert XLSX to SVG Online for Free. Free Online XLSX to SVG Converter. Python XLSX to SVG. XLSX to SVG via Python.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to SVG Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

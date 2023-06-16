@@ -2,6 +2,7 @@
 title: Merge XLSX to PDF via Python 
 url: /python-java/merger/merge-xlsx-to-pdf/ 
 description: Merge XLSX to PDF Online for Free. Free Online XLSX to PDF Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to PDF via Python., XLSX to PDF Merger., Merge XLSX to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

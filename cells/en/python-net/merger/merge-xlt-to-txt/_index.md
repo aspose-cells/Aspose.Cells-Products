@@ -2,6 +2,7 @@
 title: Merge XLT to TXT via Python 
 url: /python-net/merger/merge-xlt-to-txt/ 
 description: Merge XLT to TXT Online for Free. Free Online XLT to TXT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to TXT via Python., XLT to TXT Merger., Merge XLT to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

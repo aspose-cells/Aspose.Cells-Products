@@ -2,6 +2,7 @@
 title: Merge JSON to POWERPOINT via Python 
 url: /python-net/merger/merge-json-to-powerpoint/ 
 description: Merge JSON to POWERPOINT Online for Free. Free Online JSON to POWERPOINT Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to POWERPOINT via Python., JSON to POWERPOINT Merger., Merge JSON to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

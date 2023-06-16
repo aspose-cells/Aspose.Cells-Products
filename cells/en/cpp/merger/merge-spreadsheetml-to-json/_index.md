@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to JSON via C++ 
 url: /cpp/merger/merge-spreadsheetml-to-json/ 
 description: Merge SPREADSHEETML to JSON Online for Free. Free Online SPREADSHEETML to JSON Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to JSON via C++., SPREADSHEETML to JSON Merger., Merge SPREADSHEETML to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLS to PDF via C# 
 url: /net/merger/merge-xls-to-pdf/ 
 description: Merge XLS to PDF Online for Free. Free Online XLS to PDF Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to PDF via C#., XLS to PDF Merger., Merge XLS to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

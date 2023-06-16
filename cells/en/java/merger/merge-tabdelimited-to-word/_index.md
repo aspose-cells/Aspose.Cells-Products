@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to WORD via Java 
 url: /java/merger/merge-tabdelimited-to-word/ 
 description: Merge TABDELIMITED to WORD Online for Free. Free Online TABDELIMITED to WORD Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to WORD via Java., TABDELIMITED to WORD Merger., Merge TABDELIMITED to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

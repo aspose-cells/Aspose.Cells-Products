@@ -2,6 +2,7 @@
 title: Merge FODS to NUMBERS via Python 
 url: /python-java/merger/merge-fods-to-numbers/ 
 description: Merge FODS to NUMBERS Online for Free. Free Online FODS to NUMBERS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to NUMBERS via Python., FODS to NUMBERS Merger., Merge FODS to NUMBERS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

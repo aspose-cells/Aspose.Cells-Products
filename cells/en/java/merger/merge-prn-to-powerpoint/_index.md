@@ -2,6 +2,7 @@
 title: Merge PRN to POWERPOINT via Java 
 url: /java/merger/merge-prn-to-powerpoint/ 
 description: Merge PRN to POWERPOINT Online for Free. Free Online PRN to POWERPOINT Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to POWERPOINT via Java., PRN to POWERPOINT Merger., Merge PRN to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

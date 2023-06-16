@@ -2,6 +2,7 @@
 title: Merge FODS to HTM via C++ 
 url: /cpp/merger/merge-fods-to-htm/ 
 description: Merge FODS to HTM Online for Free. Free Online FODS to HTM Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to HTM via C++., FODS to HTM Merger., Merge FODS to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

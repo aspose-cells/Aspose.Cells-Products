@@ -2,6 +2,7 @@
 title: Merge SXC to HTM via Python 
 url: /python-net/merger/merge-sxc-to-htm/ 
 description: Merge SXC to HTM Online for Free. Free Online SXC to HTM Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to HTM via Python., SXC to HTM Merger., Merge SXC to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

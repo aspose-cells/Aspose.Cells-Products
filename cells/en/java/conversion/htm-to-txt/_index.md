@@ -1,7 +1,7 @@
 ---
 title: Convert HTM to TXT Java 
 description: Convert HTM to TXT Online for Free. Free Online HTM to TXT Converter. Java HTM to TXT. HTM to TXT via Java.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+keywords: [Convert HTM to TXT Online for Free., HTM Converter., HTM to PDF., HTM to Word., HTM to PPT., HTM to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

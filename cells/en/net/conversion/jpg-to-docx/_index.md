@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to DOCX C#
 description: Convert JPG to DOCX Online for Free. Free Online JPG to DOCX Converter. C# JPG to DOCX. JPG to DOCX via C#.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to DOCX Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

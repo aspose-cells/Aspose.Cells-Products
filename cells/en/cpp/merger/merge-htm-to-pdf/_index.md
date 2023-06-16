@@ -2,6 +2,7 @@
 title: Merge HTM to PDF via C++ 
 url: /cpp/merger/merge-htm-to-pdf/ 
 description: Merge HTM to PDF Online for Free. Free Online HTM to PDF Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to PDF via C++., HTM to PDF Merger., Merge HTM to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

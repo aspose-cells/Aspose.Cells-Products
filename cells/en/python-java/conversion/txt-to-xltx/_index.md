@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLTX Python via Python
 description: Convert TXT to XLTX Online for Free. Free Online TXT to XLTX Converter. Python TXT to XLTX. TXT to XLTX via Python.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+keywords: [Convert TXT to XLTX Online for Free., TXT Converter., TXT to PDF., TXT to Word., TXT to PPT., TXT to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

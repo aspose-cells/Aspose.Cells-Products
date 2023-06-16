@@ -2,6 +2,7 @@
 title: Merge SXC to DOCX via Python 
 url: /python-java/merger/merge-sxc-to-docx/ 
 description: Merge SXC to DOCX Online for Free. Free Online SXC to DOCX Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to DOCX via Python., SXC to DOCX Merger., Merge SXC to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

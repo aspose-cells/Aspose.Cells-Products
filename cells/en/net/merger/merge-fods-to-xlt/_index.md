@@ -2,6 +2,7 @@
 title: Merge FODS to XLT via C# 
 url: /net/merger/merge-fods-to-xlt/ 
 description: Merge FODS to XLT Online for Free. Free Online FODS to XLT Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to XLT via C#., FODS to XLT Merger., Merge FODS to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

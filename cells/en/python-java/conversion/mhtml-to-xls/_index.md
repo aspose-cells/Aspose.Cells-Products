@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to XLS Python via Python
 description: Convert MHTML to XLS Online for Free. Free Online MHTML to XLS Converter. Python MHTML to XLS. MHTML to XLS via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to XLS Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

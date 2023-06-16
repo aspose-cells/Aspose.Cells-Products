@@ -1,7 +1,7 @@
 ---
 title: Convert ODS to SQL Python via Python
 description: Convert ODS to SQL Online for Free. Free Online ODS to SQL Converter. Python ODS to SQL. ODS to SQL via Python.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+keywords: [Convert ODS to SQL Online for Free., ODS Converter., ODS to PDF., ODS to Word., ODS to PPT., ODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

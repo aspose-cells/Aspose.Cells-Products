@@ -2,6 +2,7 @@
 title: Merge XML to PDF via Python 
 url: /python-net/merger/merge-xml-to-pdf/ 
 description: Merge XML to PDF Online for Free. Free Online XML to PDF Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to PDF via Python., XML to PDF Merger., Merge XML to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

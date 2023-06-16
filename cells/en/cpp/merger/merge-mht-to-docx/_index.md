@@ -2,6 +2,7 @@
 title: Merge MHT to DOCX via C++ 
 url: /cpp/merger/merge-mht-to-docx/ 
 description: Merge MHT to DOCX Online for Free. Free Online MHT to DOCX Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to DOCX via C++., MHT to DOCX Merger., Merge MHT to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

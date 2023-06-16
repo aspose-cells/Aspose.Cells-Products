@@ -2,6 +2,7 @@
 title: Merge MHT to XLT via Python 
 url: /python-java/merger/merge-mht-to-xlt/ 
 description: Merge MHT to XLT Online for Free. Free Online MHT to XLT Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XLT via Python., MHT to XLT Merger., Merge MHT to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

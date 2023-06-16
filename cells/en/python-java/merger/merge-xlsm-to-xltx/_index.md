@@ -2,6 +2,7 @@
 title: Merge XLSM to XLTX via Python 
 url: /python-java/merger/merge-xlsm-to-xltx/ 
 description: Merge XLSM to XLTX Online for Free. Free Online XLSM to XLTX Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to XLTX via Python., XLSM to XLTX Merger., Merge XLSM to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

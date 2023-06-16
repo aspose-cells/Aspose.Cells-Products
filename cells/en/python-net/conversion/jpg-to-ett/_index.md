@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to ETT Python via Python
 description: Convert JPG to ETT Online for Free. Free Online JPG to ETT Converter. Python JPG to ETT. JPG to ETT via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to ETT Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

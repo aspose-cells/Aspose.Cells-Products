@@ -2,6 +2,7 @@
 title: Merge MHT to XPS via Python 
 url: /python-java/merger/merge-mht-to-xps/ 
 description: Merge MHT to XPS Online for Free. Free Online MHT to XPS Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XPS via Python., MHT to XPS Merger., Merge MHT to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge EXCEL to NUMBERS via C# 
 url: /net/merger/merge-excel-to-numbers/ 
 description: Merge EXCEL to NUMBERS Online for Free. Free Online EXCEL to NUMBERS Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to NUMBERS via C#., EXCEL to NUMBERS Merger., Merge EXCEL to NUMBERS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

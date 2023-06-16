@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to MHTML Python via Python
 description: Convert JPEG to MHTML Online for Free. Free Online JPEG to MHTML Converter. Python JPEG to MHTML. JPEG to MHTML via Python.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+keywords: [Convert JPEG to MHTML Online for Free., JPEG Converter., JPEG to PDF., JPEG to Word., JPEG to PPT., JPEG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

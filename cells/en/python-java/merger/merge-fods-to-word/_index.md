@@ -2,6 +2,7 @@
 title: Merge FODS to WORD via Python 
 url: /python-java/merger/merge-fods-to-word/ 
 description: Merge FODS to WORD Online for Free. Free Online FODS to WORD Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to WORD via Python., FODS to WORD Merger., Merge FODS to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

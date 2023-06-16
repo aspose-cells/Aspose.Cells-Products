@@ -2,6 +2,7 @@
 title: Merge NUMBERS to XLT via C++ 
 url: /cpp/merger/merge-numbers-to-xlt/ 
 description: Merge NUMBERS to XLT Online for Free. Free Online NUMBERS to XLT Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to XLT via C++., NUMBERS to XLT Merger., Merge NUMBERS to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

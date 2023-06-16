@@ -2,6 +2,7 @@
 title: Merge MHT to MHT via C++ 
 url: /cpp/merger/merge-mht-to-mht/ 
 description: Merge MHT to MHT Online for Free. Free Online MHT to MHT Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to MHT via C++., MHT to MHT Merger., Merge MHT to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge SXC to CSV via C# 
 url: /net/merger/merge-sxc-to-csv/ 
 description: Merge SXC to CSV Online for Free. Free Online SXC to CSV Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to CSV via C#., SXC to CSV Merger., Merge SXC to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

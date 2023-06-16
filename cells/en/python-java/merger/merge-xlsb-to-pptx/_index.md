@@ -2,6 +2,7 @@
 title: Merge XLSB to PPTX via Python 
 url: /python-java/merger/merge-xlsb-to-pptx/ 
 description: Merge XLSB to PPTX Online for Free. Free Online XLSB to PPTX Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to PPTX via Python., XLSB to PPTX Merger., Merge XLSB to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

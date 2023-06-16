@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to ODS Java 
 description: Convert SXC to ODS Online for Free. Free Online SXC to ODS Converter. Java SXC to ODS. SXC to ODS via Java.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to ODS Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

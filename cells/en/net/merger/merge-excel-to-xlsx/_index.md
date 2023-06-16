@@ -2,6 +2,7 @@
 title: Merge EXCEL to XLSX via C# 
 url: /net/merger/merge-excel-to-xlsx/ 
 description: Merge EXCEL to XLSX Online for Free. Free Online EXCEL to XLSX Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XLSX via C#., EXCEL to XLSX Merger., Merge EXCEL to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

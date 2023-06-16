@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to TXT via Python 
 url: /python-java/merger/merge-tabdelimited-to-txt/ 
 description: Merge TABDELIMITED to TXT Online for Free. Free Online TABDELIMITED to TXT Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to TXT via Python., TABDELIMITED to TXT Merger., Merge TABDELIMITED to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

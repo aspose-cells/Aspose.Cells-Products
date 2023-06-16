@@ -2,6 +2,7 @@
 title: Merge XLTM to POWERPOINT via Python 
 url: /python-java/merger/merge-xltm-to-powerpoint/ 
 description: Merge XLTM to POWERPOINT Online for Free. Free Online XLTM to POWERPOINT Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to POWERPOINT via Python., XLTM to POWERPOINT Merger., Merge XLTM to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

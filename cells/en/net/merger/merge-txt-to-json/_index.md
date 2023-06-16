@@ -2,6 +2,7 @@
 title: Merge TXT to JSON via C# 
 url: /net/merger/merge-txt-to-json/ 
 description: Merge TXT to JSON Online for Free. Free Online TXT to JSON Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to JSON via C#., TXT to JSON Merger., Merge TXT to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

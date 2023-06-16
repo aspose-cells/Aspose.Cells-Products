@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to JSON Java 
 description: Convert TXT to JSON Online for Free. Free Online TXT to JSON Converter. Java TXT to JSON. TXT to JSON via Java.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+keywords: [Convert TXT to JSON Online for Free., TXT Converter., TXT to PDF., TXT to Word., TXT to PPT., TXT to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

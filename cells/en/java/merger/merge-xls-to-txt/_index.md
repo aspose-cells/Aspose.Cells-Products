@@ -2,6 +2,7 @@
 title: Merge XLS to TXT via Java 
 url: /java/merger/merge-xls-to-txt/ 
 description: Merge XLS to TXT Online for Free. Free Online XLS to TXT Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to TXT via Java., XLS to TXT Merger., Merge XLS to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

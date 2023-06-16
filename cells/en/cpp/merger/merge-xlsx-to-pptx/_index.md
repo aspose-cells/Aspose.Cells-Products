@@ -2,6 +2,7 @@
 title: Merge XLSX to PPTX via C++ 
 url: /cpp/merger/merge-xlsx-to-pptx/ 
 description: Merge XLSX to PPTX Online for Free. Free Online XLSX to PPTX Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to PPTX via C++., XLSX to PPTX Merger., Merge XLSX to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

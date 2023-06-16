@@ -2,6 +2,7 @@
 title: Merge XLSX to XPS via Python 
 url: /python-net/merger/merge-xlsx-to-xps/ 
 description: Merge XLSX to XPS Online for Free. Free Online XLSX to XPS Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to XPS via Python., XLSX to XPS Merger., Merge XLSX to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to JSON C#
 description: Convert XLTX to JSON Online for Free. Free Online XLTX to JSON Converter. C# XLTX to JSON. XLTX to JSON via C#.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+keywords: [Convert XLTX to JSON Online for Free., XLTX Converter., XLTX to PDF., XLTX to Word., XLTX to PPT., XLTX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

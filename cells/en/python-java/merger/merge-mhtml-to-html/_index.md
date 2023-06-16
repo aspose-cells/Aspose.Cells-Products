@@ -2,6 +2,7 @@
 title: Merge MHTML to HTML via Python 
 url: /python-java/merger/merge-mhtml-to-html/ 
 description: Merge MHTML to HTML Online for Free. Free Online MHTML to HTML Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to HTML via Python., MHTML to HTML Merger., Merge MHTML to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

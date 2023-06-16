@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to DIF Python via Python
 description: Convert TSV to DIF Online for Free. Free Online TSV to DIF Converter. Python TSV to DIF. TSV to DIF via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+keywords: [Convert TSV to DIF Online for Free., TSV Converter., TSV to PDF., TSV to Word., TSV to PPT., TSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

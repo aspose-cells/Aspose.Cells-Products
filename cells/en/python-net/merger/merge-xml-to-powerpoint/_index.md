@@ -2,6 +2,7 @@
 title: Merge XML to POWERPOINT via Python 
 url: /python-net/merger/merge-xml-to-powerpoint/ 
 description: Merge XML to POWERPOINT Online for Free. Free Online XML to POWERPOINT Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to POWERPOINT via Python., XML to POWERPOINT Merger., Merge XML to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

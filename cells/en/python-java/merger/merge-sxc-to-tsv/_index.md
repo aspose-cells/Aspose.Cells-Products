@@ -2,6 +2,7 @@
 title: Merge SXC to TSV via Python 
 url: /python-java/merger/merge-sxc-to-tsv/ 
 description: Merge SXC to TSV Online for Free. Free Online SXC to TSV Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to TSV via Python., SXC to TSV Merger., Merge SXC to TSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

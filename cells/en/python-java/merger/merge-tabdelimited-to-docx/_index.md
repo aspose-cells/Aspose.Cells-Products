@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to DOCX via Python 
 url: /python-java/merger/merge-tabdelimited-to-docx/ 
 description: Merge TABDELIMITED to DOCX Online for Free. Free Online TABDELIMITED to DOCX Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to DOCX via Python., TABDELIMITED to DOCX Merger., Merge TABDELIMITED to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

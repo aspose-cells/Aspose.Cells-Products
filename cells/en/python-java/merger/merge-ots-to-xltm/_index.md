@@ -2,6 +2,7 @@
 title: Merge OTS to XLTM via Python 
 url: /python-java/merger/merge-ots-to-xltm/ 
 description: Merge OTS to XLTM Online for Free. Free Online OTS to XLTM Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to XLTM via Python., OTS to XLTM Merger., Merge OTS to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

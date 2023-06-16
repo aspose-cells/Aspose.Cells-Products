@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to SQL Python via Python
 description: Convert XLTX to SQL Online for Free. Free Online XLTX to SQL Converter. Python XLTX to SQL. XLTX to SQL via Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+keywords: [Convert XLTX to SQL Online for Free., XLTX Converter., XLTX to PDF., XLTX to Word., XLTX to PPT., XLTX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

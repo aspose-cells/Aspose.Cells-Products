@@ -2,6 +2,7 @@
 title: Merge XLS to HTM via C# 
 url: /net/merger/merge-xls-to-htm/ 
 description: Merge XLS to HTM Online for Free. Free Online XLS to HTM Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to HTM via C#., XLS to HTM Merger., Merge XLS to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

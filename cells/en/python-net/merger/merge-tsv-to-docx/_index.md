@@ -2,6 +2,7 @@
 title: Merge TSV to DOCX via Python 
 url: /python-net/merger/merge-tsv-to-docx/ 
 description: Merge TSV to DOCX Online for Free. Free Online TSV to DOCX Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TSV to DOCX via Python., TSV to DOCX Merger., Merge TSV to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

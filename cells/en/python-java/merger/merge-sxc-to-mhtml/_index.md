@@ -2,6 +2,7 @@
 title: Merge SXC to MHTML via Python 
 url: /python-java/merger/merge-sxc-to-mhtml/ 
 description: Merge SXC to MHTML Online for Free. Free Online SXC to MHTML Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to MHTML via Python., SXC to MHTML Merger., Merge SXC to MHTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge EXCEL to MHT via Java 
 url: /java/merger/merge-excel-to-mht/ 
 description: Merge EXCEL to MHT Online for Free. Free Online EXCEL to MHT Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to MHT via Java., EXCEL to MHT Merger., Merge EXCEL to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLT to XLSX via Python 
 url: /python-net/merger/merge-xlt-to-xlsx/ 
 description: Merge XLT to XLSX Online for Free. Free Online XLT to XLSX Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to XLSX via Python., XLT to XLSX Merger., Merge XLT to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

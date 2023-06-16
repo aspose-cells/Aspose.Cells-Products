@@ -2,6 +2,7 @@
 title: Merge XML to ODS via Java 
 url: /java/merger/merge-xml-to-ods/ 
 description: Merge XML to ODS Online for Free. Free Online XML to ODS Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to ODS via Java., XML to ODS Merger., Merge XML to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

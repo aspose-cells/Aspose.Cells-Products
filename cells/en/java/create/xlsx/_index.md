@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSX Files via Java
 description: XLSX creater. Create XLSX files in Java code. Generate MS Excel XLSX files using Java based desktop or web application.
+keywords: [Create MS Excel XLSX Files via Java., XLSX creater., Create XLSX files in Java code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

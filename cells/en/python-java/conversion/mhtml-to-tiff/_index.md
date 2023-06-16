@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TIFF Python via Python
 description: Convert MHTML to TIFF Online for Free. Free Online MHTML to TIFF Converter. Python MHTML to TIFF. MHTML to TIFF via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to TIFF Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

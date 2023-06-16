@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLS Files via Python
 description: XLS creater. Create XLS files in Python code. Generate MS Excel XLS files using Python application.
+keywords: [Create MS Excel XLS Files via Python., XLS creater., Create XLS files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

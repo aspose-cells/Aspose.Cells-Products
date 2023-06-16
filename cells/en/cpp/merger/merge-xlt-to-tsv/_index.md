@@ -2,6 +2,7 @@
 title: Merge XLT to TSV via C++ 
 url: /cpp/merger/merge-xlt-to-tsv/ 
 description: Merge XLT to TSV Online for Free. Free Online XLT to TSV Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to TSV via C++., XLT to TSV Merger., Merge XLT to TSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

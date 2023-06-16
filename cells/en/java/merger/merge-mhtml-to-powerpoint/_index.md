@@ -2,6 +2,7 @@
 title: Merge MHTML to POWERPOINT via Java 
 url: /java/merger/merge-mhtml-to-powerpoint/ 
 description: Merge MHTML to POWERPOINT Online for Free. Free Online MHTML to POWERPOINT Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to POWERPOINT via Java., MHTML to POWERPOINT Merger., Merge MHTML to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

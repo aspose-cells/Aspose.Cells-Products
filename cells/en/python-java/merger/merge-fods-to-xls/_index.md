@@ -2,6 +2,7 @@
 title: Merge FODS to XLS via Python 
 url: /python-java/merger/merge-fods-to-xls/ 
 description: Merge FODS to XLS Online for Free. Free Online FODS to XLS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to XLS via Python., FODS to XLS Merger., Merge FODS to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

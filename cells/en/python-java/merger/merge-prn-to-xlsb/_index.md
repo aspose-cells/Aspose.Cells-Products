@@ -2,6 +2,7 @@
 title: Merge PRN to XLSB via Python 
 url: /python-java/merger/merge-prn-to-xlsb/ 
 description: Merge PRN to XLSB Online for Free. Free Online PRN to XLSB Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLSB via Python., PRN to XLSB Merger., Merge PRN to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

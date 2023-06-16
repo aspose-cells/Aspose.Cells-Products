@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to DOCX via C++ 
 url: /cpp/merger/merge-spreadsheetml-to-docx/ 
 description: Merge SPREADSHEETML to DOCX Online for Free. Free Online SPREADSHEETML to DOCX Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to DOCX via C++., SPREADSHEETML to DOCX Merger., Merge SPREADSHEETML to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

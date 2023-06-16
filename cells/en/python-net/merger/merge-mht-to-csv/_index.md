@@ -2,6 +2,7 @@
 title: Merge MHT to CSV via Python 
 url: /python-net/merger/merge-mht-to-csv/ 
 description: Merge MHT to CSV Online for Free. Free Online MHT to CSV Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to CSV via Python., MHT to CSV Merger., Merge MHT to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

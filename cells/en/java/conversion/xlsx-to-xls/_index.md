@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to XLS Java 
 description: Convert XLSX to XLS Online for Free. Free Online XLSX to XLS Converter. Java XLSX to XLS. XLSX to XLS via Java.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to XLS Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

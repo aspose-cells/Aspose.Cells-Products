@@ -2,6 +2,7 @@
 title: Merge XLSM to POWERPOINT via Python 
 url: /python-java/merger/merge-xlsm-to-powerpoint/ 
 description: Merge XLSM to POWERPOINT Online for Free. Free Online XLSM to POWERPOINT Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to POWERPOINT via Python., XLSM to POWERPOINT Merger., Merge XLSM to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge NUMBERS to HTM via Python 
 url: /python-net/merger/merge-numbers-to-htm/ 
 description: Merge NUMBERS to HTM Online for Free. Free Online NUMBERS to HTM Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to HTM via Python., NUMBERS to HTM Merger., Merge NUMBERS to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

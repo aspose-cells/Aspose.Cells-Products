@@ -2,6 +2,7 @@
 title: Merge XLSB to ODS via Python 
 url: /python-java/merger/merge-xlsb-to-ods/ 
 description: Merge XLSB to ODS Online for Free. Free Online XLSB to ODS Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to ODS via Python., XLSB to ODS Merger., Merge XLSB to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

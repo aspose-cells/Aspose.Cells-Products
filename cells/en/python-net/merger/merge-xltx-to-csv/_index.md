@@ -2,6 +2,7 @@
 title: Merge XLTX to CSV via Python 
 url: /python-net/merger/merge-xltx-to-csv/ 
 description: Merge XLTX to CSV Online for Free. Free Online XLTX to CSV Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to CSV via Python., XLTX to CSV Merger., Merge XLTX to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

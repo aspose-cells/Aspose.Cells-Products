@@ -1,7 +1,7 @@
 ---
 title: Convert XML to SXC Java 
 description: Convert XML to SXC Online for Free. Free Online XML to SXC Converter. Java XML to SXC. XML to SXC via Java.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+keywords: [Convert XML to SXC Online for Free., XML Converter., XML to PDF., XML to Word., XML to PPT., XML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

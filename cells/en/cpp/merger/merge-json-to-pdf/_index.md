@@ -2,6 +2,7 @@
 title: Merge JSON to PDF via C++ 
 url: /cpp/merger/merge-json-to-pdf/ 
 description: Merge JSON to PDF Online for Free. Free Online JSON to PDF Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to PDF via C++., JSON to PDF Merger., Merge JSON to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

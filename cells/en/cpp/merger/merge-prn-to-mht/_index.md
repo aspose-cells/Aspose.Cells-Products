@@ -2,6 +2,7 @@
 title: Merge PRN to MHT via C++ 
 url: /cpp/merger/merge-prn-to-mht/ 
 description: Merge PRN to MHT Online for Free. Free Online PRN to MHT Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to MHT via C++., PRN to MHT Merger., Merge PRN to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

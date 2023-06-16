@@ -2,6 +2,7 @@
 title: Merge MHTML to XLSB via Python 
 url: /python-net/merger/merge-mhtml-to-xlsb/ 
 description: Merge MHTML to XLSB Online for Free. Free Online MHTML to XLSB Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to XLSB via Python., MHTML to XLSB Merger., Merge MHTML to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

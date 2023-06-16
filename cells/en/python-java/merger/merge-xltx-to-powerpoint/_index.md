@@ -2,6 +2,7 @@
 title: Merge XLTX to POWERPOINT via Python 
 url: /python-java/merger/merge-xltx-to-powerpoint/ 
 description: Merge XLTX to POWERPOINT Online for Free. Free Online XLTX to POWERPOINT Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to POWERPOINT via Python., XLTX to POWERPOINT Merger., Merge XLTX to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

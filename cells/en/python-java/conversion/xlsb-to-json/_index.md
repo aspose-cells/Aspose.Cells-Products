@@ -1,7 +1,7 @@
 ---
 title: Convert XLSB to JSON Python via Python
 description: Convert XLSB to JSON Online for Free. Free Online XLSB to JSON Converter. Python XLSB to JSON. XLSB to JSON via Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+keywords: [Convert XLSB to JSON Online for Free., XLSB Converter., XLSB to PDF., XLSB to Word., XLSB to PPT., XLSB to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

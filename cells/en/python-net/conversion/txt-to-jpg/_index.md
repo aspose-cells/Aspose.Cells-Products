@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to JPG Python via Python
 description: Convert TXT to JPG Online for Free. Free Online TXT to JPG Converter. Python TXT to JPG. TXT to JPG via Python.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+keywords: [Convert TXT to JPG Online for Free., TXT Converter., TXT to PDF., TXT to Word., TXT to PPT., TXT to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

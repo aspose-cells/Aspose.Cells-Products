@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to XLS Java 
 description: Convert XLTX to XLS Online for Free. Free Online XLTX to XLS Converter. Java XLTX to XLS. XLTX to XLS via Java.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+keywords: [Convert XLTX to XLS Online for Free., XLTX Converter., XLTX to PDF., XLTX to Word., XLTX to PPT., XLTX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

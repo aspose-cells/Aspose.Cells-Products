@@ -2,6 +2,7 @@
 title: Merge NUMBERS to DOCX via C++ 
 url: /cpp/merger/merge-numbers-to-docx/ 
 description: Merge NUMBERS to DOCX Online for Free. Free Online NUMBERS to DOCX Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to DOCX via C++., NUMBERS to DOCX Merger., Merge NUMBERS to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

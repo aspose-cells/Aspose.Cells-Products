@@ -2,6 +2,7 @@
 title: Merge HTML to XPS via Python 
 url: /python-java/merger/merge-html-to-xps/ 
 description: Merge HTML to XPS Online for Free. Free Online HTML to XPS Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XPS via Python., HTML to XPS Merger., Merge HTML to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

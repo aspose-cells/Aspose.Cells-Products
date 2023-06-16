@@ -2,6 +2,7 @@
 title: Merge ODS to XLTX via Java 
 url: /java/merger/merge-ods-to-xltx/ 
 description: Merge ODS to XLTX Online for Free. Free Online ODS to XLTX Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge ODS to XLTX via Java., ODS to XLTX Merger., Merge ODS to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

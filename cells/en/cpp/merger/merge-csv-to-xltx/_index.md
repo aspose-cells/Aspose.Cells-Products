@@ -2,6 +2,7 @@
 title: Merge CSV to XLTX via C++ 
 url: /cpp/merger/merge-csv-to-xltx/ 
 description: Merge CSV to XLTX Online for Free. Free Online CSV to XLTX Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to XLTX via C++., CSV to XLTX Merger., Merge CSV to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

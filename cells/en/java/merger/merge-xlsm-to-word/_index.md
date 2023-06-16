@@ -2,6 +2,7 @@
 title: Merge XLSM to WORD via Java 
 url: /java/merger/merge-xlsm-to-word/ 
 description: Merge XLSM to WORD Online for Free. Free Online XLSM to WORD Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to WORD via Java., XLSM to WORD Merger., Merge XLSM to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

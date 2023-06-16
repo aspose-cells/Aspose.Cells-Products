@@ -2,6 +2,7 @@
 title: Merge PRN to PPTX via C++ 
 url: /cpp/merger/merge-prn-to-pptx/ 
 description: Merge PRN to PPTX Online for Free. Free Online PRN to PPTX Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to PPTX via C++., PRN to PPTX Merger., Merge PRN to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to XLTX Java 
 description: Convert SXC to XLTX Online for Free. Free Online SXC to XLTX Converter. Java SXC to XLTX. SXC to XLTX via Java.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to XLTX Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

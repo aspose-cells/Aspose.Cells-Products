@@ -2,6 +2,7 @@
 title: Merge OTS to WORD via Python 
 url: /python-java/merger/merge-ots-to-word/ 
 description: Merge OTS to WORD Online for Free. Free Online OTS to WORD Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to WORD via Python., OTS to WORD Merger., Merge OTS to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

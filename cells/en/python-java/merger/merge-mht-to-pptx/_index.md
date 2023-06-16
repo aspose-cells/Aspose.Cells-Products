@@ -2,6 +2,7 @@
 title: Merge MHT to PPTX via Python 
 url: /python-java/merger/merge-mht-to-pptx/ 
 description: Merge MHT to PPTX Online for Free. Free Online MHT to PPTX Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to PPTX via Python., MHT to PPTX Merger., Merge MHT to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

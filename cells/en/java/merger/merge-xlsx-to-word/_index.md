@@ -2,6 +2,7 @@
 title: Merge XLSX to WORD via Java 
 url: /java/merger/merge-xlsx-to-word/ 
 description: Merge XLSX to WORD Online for Free. Free Online XLSX to WORD Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to WORD via Java., XLSX to WORD Merger., Merge XLSX to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

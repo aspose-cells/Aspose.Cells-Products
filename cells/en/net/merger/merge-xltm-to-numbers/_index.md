@@ -2,6 +2,7 @@
 title: Merge XLTM to NUMBERS via C# 
 url: /net/merger/merge-xltm-to-numbers/ 
 description: Merge XLTM to NUMBERS Online for Free. Free Online XLTM to NUMBERS Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to NUMBERS via C#., XLTM to NUMBERS Merger., Merge XLTM to NUMBERS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

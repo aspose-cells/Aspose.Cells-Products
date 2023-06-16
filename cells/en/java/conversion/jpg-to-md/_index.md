@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to MD Java 
 description: Convert JPG to MD Online for Free. Free Online JPG to MD Converter. Java JPG to MD. JPG to MD via Java.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to MD Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

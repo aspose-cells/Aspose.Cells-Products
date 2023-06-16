@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSX Files via Python
 description: XLSX creater. Create XLSX files in Python code. Generate MS Excel XLSX files using Python application.
+keywords: [Create MS Excel XLSX Files via Python., XLSX creater., Create XLSX files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

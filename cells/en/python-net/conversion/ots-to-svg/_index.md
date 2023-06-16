@@ -1,7 +1,7 @@
 ---
 title: Convert OTS to SVG Python via Python
 description: Convert OTS to SVG Online for Free. Free Online OTS to SVG Converter. Python OTS to SVG. OTS to SVG via Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+keywords: [Convert OTS to SVG Online for Free., OTS Converter., OTS to PDF., OTS to Word., OTS to PPT., OTS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

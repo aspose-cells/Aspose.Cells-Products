@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to TIFF Java 
 description: Convert SXC to TIFF Online for Free. Free Online SXC to TIFF Converter. Java SXC to TIFF. SXC to TIFF via Java.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to TIFF Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

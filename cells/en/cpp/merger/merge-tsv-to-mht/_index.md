@@ -2,6 +2,7 @@
 title: Merge TSV to MHT via C++ 
 url: /cpp/merger/merge-tsv-to-mht/ 
 description: Merge TSV to MHT Online for Free. Free Online TSV to MHT Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TSV to MHT via C++., TSV to MHT Merger., Merge TSV to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

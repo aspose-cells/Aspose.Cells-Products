@@ -2,6 +2,7 @@
 title: Merge XLS to DOCX via C# 
 url: /net/merger/merge-xls-to-docx/ 
 description: Merge XLS to DOCX Online for Free. Free Online XLS to DOCX Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to DOCX via C#., XLS to DOCX Merger., Merge XLS to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

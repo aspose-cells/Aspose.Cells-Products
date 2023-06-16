@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to SXC Java 
 description: Convert XLS to SXC Online for Free. Free Online XLS to SXC Converter. Java XLS to SXC. XLS to SXC via Java.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to SXC Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

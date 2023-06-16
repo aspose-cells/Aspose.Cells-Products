@@ -2,6 +2,7 @@
 title: Merge XLT to HTM via Java 
 url: /java/merger/merge-xlt-to-htm/ 
 description: Merge XLT to HTM Online for Free. Free Online XLT to HTM Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to HTM via Java., XLT to HTM Merger., Merge XLT to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

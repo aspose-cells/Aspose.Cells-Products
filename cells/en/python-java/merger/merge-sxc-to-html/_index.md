@@ -2,6 +2,7 @@
 title: Merge SXC to HTML via Python 
 url: /python-java/merger/merge-sxc-to-html/ 
 description: Merge SXC to HTML Online for Free. Free Online SXC to HTML Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to HTML via Python., SXC to HTML Merger., Merge SXC to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

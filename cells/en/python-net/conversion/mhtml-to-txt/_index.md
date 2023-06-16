@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to TXT Python via Python
 description: Convert MHTML to TXT Online for Free. Free Online MHTML to TXT Converter. Python MHTML to TXT. MHTML to TXT via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to TXT Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

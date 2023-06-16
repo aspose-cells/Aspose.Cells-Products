@@ -1,7 +1,7 @@
 ---
 title: Convert JSON to SQL C#
 description: Convert JSON to SQL Online for Free. Free Online JSON to SQL Converter. C# JSON to SQL. JSON to SQL via C#.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+keywords: [Convert JSON to SQL Online for Free., JSON Converter., JSON to PDF., JSON to Word., JSON to PPT., JSON to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

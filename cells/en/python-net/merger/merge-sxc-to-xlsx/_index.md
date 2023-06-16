@@ -2,6 +2,7 @@
 title: Merge SXC to XLSX via Python 
 url: /python-net/merger/merge-sxc-to-xlsx/ 
 description: Merge SXC to XLSX Online for Free. Free Online SXC to XLSX Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to XLSX via Python., SXC to XLSX Merger., Merge SXC to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

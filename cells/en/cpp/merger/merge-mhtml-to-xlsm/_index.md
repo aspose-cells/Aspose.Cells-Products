@@ -2,6 +2,7 @@
 title: Merge MHTML to XLSM via C++ 
 url: /cpp/merger/merge-mhtml-to-xlsm/ 
 description: Merge MHTML to XLSM Online for Free. Free Online MHTML to XLSM Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to XLSM via C++., MHTML to XLSM Merger., Merge MHTML to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

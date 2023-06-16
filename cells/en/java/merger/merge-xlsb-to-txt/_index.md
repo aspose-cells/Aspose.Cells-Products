@@ -2,6 +2,7 @@
 title: Merge XLSB to TXT via Java 
 url: /java/merger/merge-xlsb-to-txt/ 
 description: Merge XLSB to TXT Online for Free. Free Online XLSB to TXT Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to TXT via Java., XLSB to TXT Merger., Merge XLSB to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

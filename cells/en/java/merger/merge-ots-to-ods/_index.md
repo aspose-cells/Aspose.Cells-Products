@@ -2,6 +2,7 @@
 title: Merge OTS to ODS via Java 
 url: /java/merger/merge-ots-to-ods/ 
 description: Merge OTS to ODS Online for Free. Free Online OTS to ODS Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to ODS via Java., OTS to ODS Merger., Merge OTS to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

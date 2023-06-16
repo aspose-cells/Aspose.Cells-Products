@@ -2,6 +2,7 @@
 title: Merge ODS to TXT via Java 
 url: /java/merger/merge-ods-to-txt/ 
 description: Merge ODS to TXT Online for Free. Free Online ODS to TXT Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge ODS to TXT via Java., ODS to TXT Merger., Merge ODS to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

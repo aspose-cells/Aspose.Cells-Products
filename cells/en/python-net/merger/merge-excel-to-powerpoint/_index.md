@@ -2,6 +2,7 @@
 title: Merge EXCEL to POWERPOINT via Python 
 url: /python-net/merger/merge-excel-to-powerpoint/ 
 description: Merge EXCEL to POWERPOINT Online for Free. Free Online EXCEL to POWERPOINT Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to POWERPOINT via Python., EXCEL to POWERPOINT Merger., Merge EXCEL to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

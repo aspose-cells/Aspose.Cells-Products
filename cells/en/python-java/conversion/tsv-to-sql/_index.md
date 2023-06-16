@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to SQL Python via Python
 description: Convert TSV to SQL Online for Free. Free Online TSV to SQL Converter. Python TSV to SQL. TSV to SQL via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+keywords: [Convert TSV to SQL Online for Free., TSV Converter., TSV to PDF., TSV to Word., TSV to PPT., TSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

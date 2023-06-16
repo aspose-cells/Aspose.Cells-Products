@@ -2,6 +2,7 @@
 title: Merge XLTX to TXT via C++ 
 url: /cpp/merger/merge-xltx-to-txt/ 
 description: Merge XLTX to TXT Online for Free. Free Online XLTX to TXT Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to TXT via C++., XLTX to TXT Merger., Merge XLTX to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

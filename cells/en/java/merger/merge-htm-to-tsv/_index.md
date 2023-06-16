@@ -2,6 +2,7 @@
 title: Merge HTM to TSV via Java 
 url: /java/merger/merge-htm-to-tsv/ 
 description: Merge HTM to TSV Online for Free. Free Online HTM to TSV Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to TSV via Java., HTM to TSV Merger., Merge HTM to TSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

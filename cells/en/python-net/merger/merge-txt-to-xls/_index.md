@@ -2,6 +2,7 @@
 title: Merge TXT to XLS via Python 
 url: /python-net/merger/merge-txt-to-xls/ 
 description: Merge TXT to XLS Online for Free. Free Online TXT to XLS Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to XLS via Python., TXT to XLS Merger., Merge TXT to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

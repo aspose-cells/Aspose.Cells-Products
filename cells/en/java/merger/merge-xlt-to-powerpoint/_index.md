@@ -2,6 +2,7 @@
 title: Merge XLT to POWERPOINT via Java 
 url: /java/merger/merge-xlt-to-powerpoint/ 
 description: Merge XLT to POWERPOINT Online for Free. Free Online XLT to POWERPOINT Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to POWERPOINT via Java., XLT to POWERPOINT Merger., Merge XLT to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

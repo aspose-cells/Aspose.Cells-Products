@@ -2,6 +2,7 @@
 title: Merge FODS to ODS via C++ 
 url: /cpp/merger/merge-fods-to-ods/ 
 description: Merge FODS to ODS Online for Free. Free Online FODS to ODS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to ODS via C++., FODS to ODS Merger., Merge FODS to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

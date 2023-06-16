@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to PPTX via Java 
 url: /java/merger/merge-tabdelimited-to-pptx/ 
 description: Merge TABDELIMITED to PPTX Online for Free. Free Online TABDELIMITED to PPTX Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to PPTX via Java., TABDELIMITED to PPTX Merger., Merge TABDELIMITED to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

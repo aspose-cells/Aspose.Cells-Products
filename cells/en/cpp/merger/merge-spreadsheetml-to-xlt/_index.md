@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to XLT via C++ 
 url: /cpp/merger/merge-spreadsheetml-to-xlt/ 
 description: Merge SPREADSHEETML to XLT Online for Free. Free Online SPREADSHEETML to XLT Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to XLT via C++., SPREADSHEETML to XLT Merger., Merge SPREADSHEETML to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

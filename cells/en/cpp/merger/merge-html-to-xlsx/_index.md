@@ -2,6 +2,7 @@
 title: Merge HTML to XLSX via C++ 
 url: /cpp/merger/merge-html-to-xlsx/ 
 description: Merge HTML to XLSX Online for Free. Free Online HTML to XLSX Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XLSX via C++., HTML to XLSX Merger., Merge HTML to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to CSV Python via Python
 description: Convert TSV to CSV Online for Free. Free Online TSV to CSV Converter. Python TSV to CSV. TSV to CSV via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+keywords: [Convert TSV to CSV Online for Free., TSV Converter., TSV to PDF., TSV to Word., TSV to PPT., TSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

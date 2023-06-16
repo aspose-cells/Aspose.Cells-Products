@@ -2,6 +2,7 @@
 title: Merge XLSB to WORD via C# 
 url: /net/merger/merge-xlsb-to-word/ 
 description: Merge XLSB to WORD Online for Free. Free Online XLSB to WORD Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to WORD via C#., XLSB to WORD Merger., Merge XLSB to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

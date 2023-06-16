@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to MHTML Java 
 description: Convert JPG to MHTML Online for Free. Free Online JPG to MHTML Converter. Java JPG to MHTML. JPG to MHTML via Java.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to MHTML Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

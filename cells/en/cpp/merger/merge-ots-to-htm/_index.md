@@ -2,6 +2,7 @@
 title: Merge OTS to HTM via C++ 
 url: /cpp/merger/merge-ots-to-htm/ 
 description: Merge OTS to HTM Online for Free. Free Online OTS to HTM Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to HTM via C++., OTS to HTM Merger., Merge OTS to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert TXT to XLS Java 
 description: Convert TXT to XLS Online for Free. Free Online TXT to XLS Converter. Java TXT to XLS. TXT to XLS via Java.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+keywords: [Convert TXT to XLS Online for Free., TXT Converter., TXT to PDF., TXT to Word., TXT to PPT., TXT to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

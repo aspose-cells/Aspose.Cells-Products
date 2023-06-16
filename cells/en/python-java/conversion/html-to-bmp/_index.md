@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to BMP Python via Python
 description: Convert HTML to BMP Online for Free. Free Online HTML to BMP Converter. Python HTML to BMP. HTML to BMP via Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+keywords: [Convert HTML to BMP Online for Free., HTML Converter., HTML to PDF., HTML to Word., HTML to PPT., HTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

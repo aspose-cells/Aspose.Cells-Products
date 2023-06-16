@@ -2,6 +2,7 @@
 title: Merge NUMBERS to POWERPOINT via C# 
 url: /net/merger/merge-numbers-to-powerpoint/ 
 description: Merge NUMBERS to POWERPOINT Online for Free. Free Online NUMBERS to POWERPOINT Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to POWERPOINT via C#., NUMBERS to POWERPOINT Merger., Merge NUMBERS to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

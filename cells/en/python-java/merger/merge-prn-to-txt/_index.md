@@ -2,6 +2,7 @@
 title: Merge PRN to TXT via Python 
 url: /python-java/merger/merge-prn-to-txt/ 
 description: Merge PRN to TXT Online for Free. Free Online PRN to TXT Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to TXT via Python., PRN to TXT Merger., Merge PRN to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

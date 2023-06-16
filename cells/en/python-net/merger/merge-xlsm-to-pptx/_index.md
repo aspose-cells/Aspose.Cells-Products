@@ -2,6 +2,7 @@
 title: Merge XLSM to PPTX via Python 
 url: /python-net/merger/merge-xlsm-to-pptx/ 
 description: Merge XLSM to PPTX Online for Free. Free Online XLSM to PPTX Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to PPTX via Python., XLSM to PPTX Merger., Merge XLSM to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

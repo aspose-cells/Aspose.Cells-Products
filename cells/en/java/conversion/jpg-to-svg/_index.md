@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to SVG Java 
 description: Convert JPG to SVG Online for Free. Free Online JPG to SVG Converter. Java JPG to SVG. JPG to SVG via Java.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to SVG Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

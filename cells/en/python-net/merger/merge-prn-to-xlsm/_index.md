@@ -2,6 +2,7 @@
 title: Merge PRN to XLSM via Python 
 url: /python-net/merger/merge-prn-to-xlsm/ 
 description: Merge PRN to XLSM Online for Free. Free Online PRN to XLSM Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLSM via Python., PRN to XLSM Merger., Merge PRN to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

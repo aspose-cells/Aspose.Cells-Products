@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to SVG Python via Python
 description: Convert XLSM to SVG Online for Free. Free Online XLSM to SVG Converter. Python XLSM to SVG. XLSM to SVG via Python.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+keywords: [Convert XLSM to SVG Online for Free., XLSM Converter., XLSM to PDF., XLSM to Word., XLSM to PPT., XLSM to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLSB to XLT via C++ 
 url: /cpp/merger/merge-xlsb-to-xlt/ 
 description: Merge XLSB to XLT Online for Free. Free Online XLSB to XLT Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to XLT via C++., XLSB to XLT Merger., Merge XLSB to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

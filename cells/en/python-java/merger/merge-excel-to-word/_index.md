@@ -2,6 +2,7 @@
 title: Merge EXCEL to WORD via Python 
 url: /python-java/merger/merge-excel-to-word/ 
 description: Merge EXCEL to WORD Online for Free. Free Online EXCEL to WORD Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to WORD via Python., EXCEL to WORD Merger., Merge EXCEL to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

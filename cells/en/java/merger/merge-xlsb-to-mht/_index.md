@@ -2,6 +2,7 @@
 title: Merge XLSB to MHT via Java 
 url: /java/merger/merge-xlsb-to-mht/ 
 description: Merge XLSB to MHT Online for Free. Free Online XLSB to MHT Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to MHT via Java., XLSB to MHT Merger., Merge XLSB to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

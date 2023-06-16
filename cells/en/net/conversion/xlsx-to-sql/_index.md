@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to SQL C#
 description: Convert XLSX to SQL Online for Free. Free Online XLSX to SQL Converter. C# XLSX to SQL. XLSX to SQL via C#.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to SQL Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

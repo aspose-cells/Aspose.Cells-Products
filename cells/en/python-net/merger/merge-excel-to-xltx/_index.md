@@ -2,6 +2,7 @@
 title: Merge EXCEL to XLTX via Python 
 url: /python-net/merger/merge-excel-to-xltx/ 
 description: Merge EXCEL to XLTX Online for Free. Free Online EXCEL to XLTX Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to XLTX via Python., EXCEL to XLTX Merger., Merge EXCEL to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

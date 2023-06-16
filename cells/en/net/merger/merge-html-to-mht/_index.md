@@ -2,6 +2,7 @@
 title: Merge HTML to MHT via C# 
 url: /net/merger/merge-html-to-mht/ 
 description: Merge HTML to MHT Online for Free. Free Online HTML to MHT Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to MHT via C#., HTML to MHT Merger., Merge HTML to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

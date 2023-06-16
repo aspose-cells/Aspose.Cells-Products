@@ -2,6 +2,7 @@
 title: Merge OTS to DOCX via Java 
 url: /java/merger/merge-ots-to-docx/ 
 description: Merge OTS to DOCX Online for Free. Free Online OTS to DOCX Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to DOCX via Java., OTS to DOCX Merger., Merge OTS to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

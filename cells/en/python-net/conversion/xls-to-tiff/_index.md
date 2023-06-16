@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to TIFF Python via Python
 description: Convert XLS to TIFF Online for Free. Free Online XLS to TIFF Converter. Python XLS to TIFF. XLS to TIFF via Python.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to TIFF Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTM to DOCX via Java 
 url: /java/merger/merge-xltm-to-docx/ 
 description: Merge XLTM to DOCX Online for Free. Free Online XLTM to DOCX Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to DOCX via Java., XLTM to DOCX Merger., Merge XLTM to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

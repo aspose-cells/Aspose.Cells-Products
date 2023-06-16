@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to DOCX Python via Python
 description: Convert SXC to DOCX Online for Free. Free Online SXC to DOCX Converter. Python SXC to DOCX. SXC to DOCX via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to DOCX Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

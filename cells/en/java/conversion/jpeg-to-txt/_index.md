@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to TXT Java 
 description: Convert JPEG to TXT Online for Free. Free Online JPEG to TXT Converter. Java JPEG to TXT. JPEG to TXT via Java.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+keywords: [Convert JPEG to TXT Online for Free., JPEG Converter., JPEG to PDF., JPEG to Word., JPEG to PPT., JPEG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

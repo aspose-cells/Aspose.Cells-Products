@@ -2,6 +2,7 @@
 title: Merge OTS to JSON via Python 
 url: /python-net/merger/merge-ots-to-json/ 
 description: Merge OTS to JSON Online for Free. Free Online OTS to JSON Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to JSON via Python., OTS to JSON Merger., Merge OTS to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

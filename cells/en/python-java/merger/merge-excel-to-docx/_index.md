@@ -2,6 +2,7 @@
 title: Merge EXCEL to DOCX via Python 
 url: /python-java/merger/merge-excel-to-docx/ 
 description: Merge EXCEL to DOCX Online for Free. Free Online EXCEL to DOCX Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to DOCX via Python., EXCEL to DOCX Merger., Merge EXCEL to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

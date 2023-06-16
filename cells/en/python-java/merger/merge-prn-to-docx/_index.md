@@ -2,6 +2,7 @@
 title: Merge PRN to DOCX via Python 
 url: /python-java/merger/merge-prn-to-docx/ 
 description: Merge PRN to DOCX Online for Free. Free Online PRN to DOCX Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to DOCX via Python., PRN to DOCX Merger., Merge PRN to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTX to ODS via C# 
 url: /net/merger/merge-xltx-to-ods/ 
 description: Merge XLTX to ODS Online for Free. Free Online XLTX to ODS Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to ODS via C#., XLTX to ODS Merger., Merge XLTX to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

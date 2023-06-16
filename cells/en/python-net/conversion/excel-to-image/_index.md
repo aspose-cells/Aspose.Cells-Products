@@ -1,6 +1,7 @@
 ---
 title: Convert EXCEL to IMAGE via Python
 description: Convert EXCEL to IMAGE format in Python code. Save EXCEL as IMAGE using Python.
+keywords: [Convert EXCEL to IMAGE format., Convert EXCEL to IMAGE format in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

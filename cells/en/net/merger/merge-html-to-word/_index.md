@@ -2,6 +2,7 @@
 title: Merge HTML to WORD via C# 
 url: /net/merger/merge-html-to-word/ 
 description: Merge HTML to WORD Online for Free. Free Online HTML to WORD Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to WORD via C#., HTML to WORD Merger., Merge HTML to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XML to XLSB via Java 
 url: /java/merger/merge-xml-to-xlsb/ 
 description: Merge XML to XLSB Online for Free. Free Online XML to XLSB Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to XLSB via Java., XML to XLSB Merger., Merge XML to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

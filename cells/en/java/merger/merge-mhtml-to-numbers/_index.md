@@ -2,6 +2,7 @@
 title: Merge MHTML to NUMBERS via Java 
 url: /java/merger/merge-mhtml-to-numbers/ 
 description: Merge MHTML to NUMBERS Online for Free. Free Online MHTML to NUMBERS Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to NUMBERS via Java., MHTML to NUMBERS Merger., Merge MHTML to NUMBERS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

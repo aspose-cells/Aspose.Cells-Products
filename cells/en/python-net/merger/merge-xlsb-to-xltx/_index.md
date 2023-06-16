@@ -2,6 +2,7 @@
 title: Merge XLSB to XLTX via Python 
 url: /python-net/merger/merge-xlsb-to-xltx/ 
 description: Merge XLSB to XLTX Online for Free. Free Online XLSB to XLTX Merger. Merge XLSB to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSB to XLTX via Python., XLSB to XLTX Merger., Merge XLSB to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLS to XLSM via C++ 
 url: /cpp/merger/merge-xls-to-xlsm/ 
 description: Merge XLS to XLSM Online for Free. Free Online XLS to XLSM Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to XLSM via C++., XLS to XLSM Merger., Merge XLS to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

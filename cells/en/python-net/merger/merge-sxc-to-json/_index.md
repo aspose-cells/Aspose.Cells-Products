@@ -2,6 +2,7 @@
 title: Merge SXC to JSON via Python 
 url: /python-net/merger/merge-sxc-to-json/ 
 description: Merge SXC to JSON Online for Free. Free Online SXC to JSON Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to JSON via Python., SXC to JSON Merger., Merge SXC to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

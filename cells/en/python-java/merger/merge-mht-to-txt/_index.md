@@ -2,6 +2,7 @@
 title: Merge MHT to TXT via Python 
 url: /python-java/merger/merge-mht-to-txt/ 
 description: Merge MHT to TXT Online for Free. Free Online MHT to TXT Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to TXT via Python., MHT to TXT Merger., Merge MHT to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

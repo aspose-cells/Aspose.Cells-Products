@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSB Files via Python
 description: XLSB creater. Create XLSB files in Python code. Generate MS Excel XLSB files using Python application.
+keywords: [Create MS Excel XLSB Files via Python., XLSB creater., Create XLSB files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

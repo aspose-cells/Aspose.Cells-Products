@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSB Files via C#
 description: XLSB creater. Create XLSB files in C# code. Generate MS Excel XLSB files using VB.NET, Asp.NET or any .NET based application.
+keywords: [Create MS Excel XLSB Files via C#., XLSB creater., Create XLSB files in C# code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

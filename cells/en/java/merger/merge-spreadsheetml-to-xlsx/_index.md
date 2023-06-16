@@ -2,6 +2,7 @@
 title: Merge SPREADSHEETML to XLSX via Java 
 url: /java/merger/merge-spreadsheetml-to-xlsx/ 
 description: Merge SPREADSHEETML to XLSX Online for Free. Free Online SPREADSHEETML to XLSX Merger. Merge SPREADSHEETML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SPREADSHEETML to XLSX via Java., SPREADSHEETML to XLSX Merger., Merge SPREADSHEETML to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

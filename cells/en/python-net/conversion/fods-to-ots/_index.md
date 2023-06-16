@@ -1,7 +1,7 @@
 ---
 title: Convert FODS to OTS Python via Python
 description: Convert FODS to OTS Online for Free. Free Online FODS to OTS Converter. Python FODS to OTS. FODS to OTS via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+keywords: [Convert FODS to OTS Online for Free., FODS Converter., FODS to PDF., FODS to Word., FODS to PPT., FODS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

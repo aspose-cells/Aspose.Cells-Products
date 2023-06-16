@@ -2,6 +2,7 @@
 title: Merge HTM to DOCX via C# 
 url: /net/merger/merge-htm-to-docx/ 
 description: Merge HTM to DOCX Online for Free. Free Online HTM to DOCX Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to DOCX via C#., HTM to DOCX Merger., Merge HTM to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

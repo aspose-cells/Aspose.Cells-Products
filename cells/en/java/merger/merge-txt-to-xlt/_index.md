@@ -2,6 +2,7 @@
 title: Merge TXT to XLT via Java 
 url: /java/merger/merge-txt-to-xlt/ 
 description: Merge TXT to XLT Online for Free. Free Online TXT to XLT Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to XLT via Java., TXT to XLT Merger., Merge TXT to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge MHTML to TXT via C++ 
 url: /cpp/merger/merge-mhtml-to-txt/ 
 description: Merge MHTML to TXT Online for Free. Free Online MHTML to TXT Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to TXT via C++., MHTML to TXT Merger., Merge MHTML to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

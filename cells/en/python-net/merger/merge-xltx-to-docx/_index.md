@@ -2,6 +2,7 @@
 title: Merge XLTX to DOCX via Python 
 url: /python-net/merger/merge-xltx-to-docx/ 
 description: Merge XLTX to DOCX Online for Free. Free Online XLTX to DOCX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to DOCX via Python., XLTX to DOCX Merger., Merge XLTX to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

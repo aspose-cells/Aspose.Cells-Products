@@ -1,7 +1,7 @@
 ---
 title: Convert JPEG to WORD C#
 description: Convert JPEG to WORD Online for Free. Free Online JPEG to WORD Converter. C# JPEG to WORD. JPEG to WORD via C#.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+keywords: [Convert JPEG to WORD Online for Free., JPEG Converter., JPEG to PDF., JPEG to Word., JPEG to PPT., JPEG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

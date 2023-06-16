@@ -2,6 +2,7 @@
 title: Merge XLS to XPS via Python 
 url: /python-net/merger/merge-xls-to-xps/ 
 description: Merge XLS to XPS Online for Free. Free Online XLS to XPS Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to XPS via Python., XLS to XPS Merger., Merge XLS to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

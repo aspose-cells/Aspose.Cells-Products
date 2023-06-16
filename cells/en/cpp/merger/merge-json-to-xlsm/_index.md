@@ -2,6 +2,7 @@
 title: Merge JSON to XLSM via C++ 
 url: /cpp/merger/merge-json-to-xlsm/ 
 description: Merge JSON to XLSM Online for Free. Free Online JSON to XLSM Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to XLSM via C++., JSON to XLSM Merger., Merge JSON to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

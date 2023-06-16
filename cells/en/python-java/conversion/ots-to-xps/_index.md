@@ -1,7 +1,7 @@
 ---
 title: Convert OTS to XPS Python via Python
 description: Convert OTS to XPS Online for Free. Free Online OTS to XPS Converter. Python OTS to XPS. OTS to XPS via Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+keywords: [Convert OTS to XPS Online for Free., OTS Converter., OTS to PDF., OTS to Word., OTS to PPT., OTS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

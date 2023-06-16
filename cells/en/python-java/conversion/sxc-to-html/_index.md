@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to HTML Python via Python
 description: Convert SXC to HTML Online for Free. Free Online SXC to HTML Converter. Python SXC to HTML. SXC to HTML via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to HTML Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge MHT to PDF via Python 
 url: /python-java/merger/merge-mht-to-pdf/ 
 description: Merge MHT to PDF Online for Free. Free Online MHT to PDF Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to PDF via Python., MHT to PDF Merger., Merge MHT to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

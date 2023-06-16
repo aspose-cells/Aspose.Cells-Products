@@ -2,6 +2,7 @@
 title: Merge XLSM to TXT via Python 
 url: /python-net/merger/merge-xlsm-to-txt/ 
 description: Merge XLSM to TXT Online for Free. Free Online XLSM to TXT Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to TXT via Python., XLSM to TXT Merger., Merge XLSM to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

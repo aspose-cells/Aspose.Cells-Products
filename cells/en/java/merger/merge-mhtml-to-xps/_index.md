@@ -2,6 +2,7 @@
 title: Merge MHTML to XPS via Java 
 url: /java/merger/merge-mhtml-to-xps/ 
 description: Merge MHTML to XPS Online for Free. Free Online MHTML to XPS Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to XPS via Java., MHTML to XPS Merger., Merge MHTML to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

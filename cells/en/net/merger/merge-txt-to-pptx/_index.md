@@ -2,6 +2,7 @@
 title: Merge TXT to PPTX via C# 
 url: /net/merger/merge-txt-to-pptx/ 
 description: Merge TXT to PPTX Online for Free. Free Online TXT to PPTX Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to PPTX via C#., TXT to PPTX Merger., Merge TXT to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

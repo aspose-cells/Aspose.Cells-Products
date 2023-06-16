@@ -2,6 +2,7 @@
 title: Merge ODS to PPTX via C# 
 url: /net/merger/merge-ods-to-pptx/ 
 description: Merge ODS to PPTX Online for Free. Free Online ODS to PPTX Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge ODS to PPTX via C#., ODS to PPTX Merger., Merge ODS to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

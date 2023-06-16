@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to SXC Python via Python
 description: Convert XLTX to SXC Online for Free. Free Online XLTX to SXC Converter. Python XLTX to SXC. XLTX to SXC via Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+keywords: [Convert XLTX to SXC Online for Free., XLTX Converter., XLTX to PDF., XLTX to Word., XLTX to PPT., XLTX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

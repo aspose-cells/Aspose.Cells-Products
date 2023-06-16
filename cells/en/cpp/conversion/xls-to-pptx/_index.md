@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to PPTX C++
 description: Convert XLS to PPTX Online for Free. Free Online XLS to PPTX Converter. C++ XLS to PPTX. XLS to PPTX via C++.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to PPTX Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

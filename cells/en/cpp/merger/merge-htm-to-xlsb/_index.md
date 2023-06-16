@@ -2,6 +2,7 @@
 title: Merge HTM to XLSB via C++ 
 url: /cpp/merger/merge-htm-to-xlsb/ 
 description: Merge HTM to XLSB Online for Free. Free Online HTM to XLSB Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to XLSB via C++., HTM to XLSB Merger., Merge HTM to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

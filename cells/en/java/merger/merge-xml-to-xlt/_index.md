@@ -2,6 +2,7 @@
 title: Merge XML to XLT via Java 
 url: /java/merger/merge-xml-to-xlt/ 
 description: Merge XML to XLT Online for Free. Free Online XML to XLT Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to XLT via Java., XML to XLT Merger., Merge XML to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

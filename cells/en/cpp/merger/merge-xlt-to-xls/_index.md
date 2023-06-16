@@ -2,6 +2,7 @@
 title: Merge XLT to XLS via C++ 
 url: /cpp/merger/merge-xlt-to-xls/ 
 description: Merge XLT to XLS Online for Free. Free Online XLT to XLS Merger. Merge XLT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLT to XLS via C++., XLT to XLS Merger., Merge XLT to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

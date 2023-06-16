@@ -2,6 +2,7 @@
 title: Merge XLSX to XLSM via C# 
 url: /net/merger/merge-xlsx-to-xlsm/ 
 description: Merge XLSX to XLSM Online for Free. Free Online XLSX to XLSM Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to XLSM via C#., XLSX to XLSM Merger., Merge XLSX to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

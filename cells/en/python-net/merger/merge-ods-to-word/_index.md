@@ -2,6 +2,7 @@
 title: Merge ODS to WORD via Python 
 url: /python-net/merger/merge-ods-to-word/ 
 description: Merge ODS to WORD Online for Free. Free Online ODS to WORD Merger. Merge ODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge ODS to WORD via Python., ODS to WORD Merger., Merge ODS to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

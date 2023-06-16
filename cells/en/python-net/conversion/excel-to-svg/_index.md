@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to SVG Python via Python
 description: Convert EXCEL to SVG Online for Free. Free Online EXCEL to SVG Converter. Python EXCEL to SVG. EXCEL to SVG via Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+keywords: [Convert EXCEL to SVG Online for Free., EXCEL Converter., EXCEL to PDF., EXCEL to Word., EXCEL to PPT., EXCEL to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

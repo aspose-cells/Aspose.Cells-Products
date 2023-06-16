@@ -2,6 +2,7 @@
 title: Merge MHTML to XLTM via Python 
 url: /python-net/merger/merge-mhtml-to-xltm/ 
 description: Merge MHTML to XLTM Online for Free. Free Online MHTML to XLTM Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to XLTM via Python., MHTML to XLTM Merger., Merge MHTML to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

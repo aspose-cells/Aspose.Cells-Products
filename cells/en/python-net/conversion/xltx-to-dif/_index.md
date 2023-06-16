@@ -1,7 +1,7 @@
 ---
 title: Convert XLTX to DIF Python via Python
 description: Convert XLTX to DIF Online for Free. Free Online XLTX to DIF Converter. Python XLTX to DIF. XLTX to DIF via Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+keywords: [Convert XLTX to DIF Online for Free., XLTX Converter., XLTX to PDF., XLTX to Word., XLTX to PPT., XLTX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

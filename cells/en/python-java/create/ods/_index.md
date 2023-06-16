@@ -1,6 +1,7 @@
 ---
 title: Create ODS (Openoffice / Lbreoffice) Files via Python
 description: ODS creater. Create ODS files in Python code. Generate ODS (Openoffice / Lbreoffice) files using Python application.
+keywords: [Create ODS (Openoffice / Lbreoffice) Files via Python., ODS creater., Create ODS files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

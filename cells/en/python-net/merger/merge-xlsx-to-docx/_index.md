@@ -2,6 +2,7 @@
 title: Merge XLSX to DOCX via Python 
 url: /python-net/merger/merge-xlsx-to-docx/ 
 description: Merge XLSX to DOCX Online for Free. Free Online XLSX to DOCX Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to DOCX via Python., XLSX to DOCX Merger., Merge XLSX to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

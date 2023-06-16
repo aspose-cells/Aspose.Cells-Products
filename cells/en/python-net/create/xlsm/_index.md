@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLSM Files via Python
 description: XLSM creater. Create XLSM files in Python code. Generate MS Excel XLSM files using Python application.
+keywords: [Create MS Excel XLSM Files via Python., XLSM creater., Create XLSM files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

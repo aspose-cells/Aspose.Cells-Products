@@ -2,6 +2,7 @@
 title: Merge NUMBERS to XLTM via C++ 
 url: /cpp/merger/merge-numbers-to-xltm/ 
 description: Merge NUMBERS to XLTM Online for Free. Free Online NUMBERS to XLTM Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to XLTM via C++., NUMBERS to XLTM Merger., Merge NUMBERS to XLTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

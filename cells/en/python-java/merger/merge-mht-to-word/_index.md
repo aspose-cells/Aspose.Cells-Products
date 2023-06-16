@@ -2,6 +2,7 @@
 title: Merge MHT to WORD via Python 
 url: /python-java/merger/merge-mht-to-word/ 
 description: Merge MHT to WORD Online for Free. Free Online MHT to WORD Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to WORD via Python., MHT to WORD Merger., Merge MHT to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

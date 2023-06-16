@@ -2,6 +2,7 @@
 title: Merge NUMBERS to TXT via Java 
 url: /java/merger/merge-numbers-to-txt/ 
 description: Merge NUMBERS to TXT Online for Free. Free Online NUMBERS to TXT Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to TXT via Java., NUMBERS to TXT Merger., Merge NUMBERS to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

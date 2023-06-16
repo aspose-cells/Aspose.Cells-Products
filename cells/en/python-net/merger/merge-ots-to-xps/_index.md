@@ -2,6 +2,7 @@
 title: Merge OTS to XPS via Python 
 url: /python-net/merger/merge-ots-to-xps/ 
 description: Merge OTS to XPS Online for Free. Free Online OTS to XPS Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to XPS via Python., OTS to XPS Merger., Merge OTS to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

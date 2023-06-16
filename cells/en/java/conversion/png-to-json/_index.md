@@ -1,7 +1,7 @@
 ---
 title: Convert PNG to JSON Java 
 description: Convert PNG to JSON Online for Free. Free Online PNG to JSON Converter. Java PNG to JSON. PNG to JSON via Java.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+keywords: [Convert PNG to JSON Online for Free., PNG Converter., PNG to PDF., PNG to Word., PNG to PPT., PNG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

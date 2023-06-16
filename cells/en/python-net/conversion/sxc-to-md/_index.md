@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to MD Python via Python
 description: Convert SXC to MD Online for Free. Free Online SXC to MD Converter. Python SXC to MD. SXC to MD via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to MD Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

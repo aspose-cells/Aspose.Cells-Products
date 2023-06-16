@@ -2,6 +2,7 @@
 title: Merge MHTML to XLS via C# 
 url: /net/merger/merge-mhtml-to-xls/ 
 description: Merge MHTML to XLS Online for Free. Free Online MHTML to XLS Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to XLS via C#., MHTML to XLS Merger., Merge MHTML to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

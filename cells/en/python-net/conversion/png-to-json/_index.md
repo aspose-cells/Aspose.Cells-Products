@@ -1,7 +1,7 @@
 ---
 title: Convert PNG to JSON Python via Python
 description: Convert PNG to JSON Online for Free. Free Online PNG to JSON Converter. Python PNG to JSON. PNG to JSON via Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+keywords: [Convert PNG to JSON Online for Free., PNG Converter., PNG to PDF., PNG to Word., PNG to PPT., PNG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

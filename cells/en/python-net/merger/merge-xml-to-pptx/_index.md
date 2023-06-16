@@ -2,6 +2,7 @@
 title: Merge XML to PPTX via Python 
 url: /python-net/merger/merge-xml-to-pptx/ 
 description: Merge XML to PPTX Online for Free. Free Online XML to PPTX Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to PPTX via Python., XML to PPTX Merger., Merge XML to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

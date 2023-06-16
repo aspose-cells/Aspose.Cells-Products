@@ -2,6 +2,7 @@
 title: Merge MHTML to WORD via Java 
 url: /java/merger/merge-mhtml-to-word/ 
 description: Merge MHTML to WORD Online for Free. Free Online MHTML to WORD Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to WORD via Java., MHTML to WORD Merger., Merge MHTML to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

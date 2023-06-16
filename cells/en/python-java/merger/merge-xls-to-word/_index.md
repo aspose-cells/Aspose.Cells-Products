@@ -2,6 +2,7 @@
 title: Merge XLS to WORD via Python 
 url: /python-java/merger/merge-xls-to-word/ 
 description: Merge XLS to WORD Online for Free. Free Online XLS to WORD Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to WORD via Python., XLS to WORD Merger., Merge XLS to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

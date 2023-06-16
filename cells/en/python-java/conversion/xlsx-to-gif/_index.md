@@ -1,7 +1,7 @@
 ---
 title: Convert XLSX to GIF Python via Python
 description: Convert XLSX to GIF Online for Free. Free Online XLSX to GIF Converter. Python XLSX to GIF. XLSX to GIF via Python.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+keywords: [Convert XLSX to GIF Online for Free., XLSX Converter., XLSX to PDF., XLSX to Word., XLSX to PPT., XLSX to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

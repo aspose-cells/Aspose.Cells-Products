@@ -2,6 +2,7 @@
 title: Merge CSV to JSON via C# 
 url: /net/merger/merge-csv-to-json/ 
 description: Merge CSV to JSON Online for Free. Free Online CSV to JSON Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to JSON via C#., CSV to JSON Merger., Merge CSV to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

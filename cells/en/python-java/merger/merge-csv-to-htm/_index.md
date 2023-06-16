@@ -2,6 +2,7 @@
 title: Merge CSV to HTM via Python 
 url: /python-java/merger/merge-csv-to-htm/ 
 description: Merge CSV to HTM Online for Free. Free Online CSV to HTM Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to HTM via Python., CSV to HTM Merger., Merge CSV to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

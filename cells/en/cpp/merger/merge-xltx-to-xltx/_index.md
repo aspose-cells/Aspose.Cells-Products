@@ -2,6 +2,7 @@
 title: Merge XLTX to XLTX via C++ 
 url: /cpp/merger/merge-xltx-to-xltx/ 
 description: Merge XLTX to XLTX Online for Free. Free Online XLTX to XLTX Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to XLTX via C++., XLTX to XLTX Merger., Merge XLTX to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

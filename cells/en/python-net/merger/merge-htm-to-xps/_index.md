@@ -2,6 +2,7 @@
 title: Merge HTM to XPS via Python 
 url: /python-net/merger/merge-htm-to-xps/ 
 description: Merge HTM to XPS Online for Free. Free Online HTM to XPS Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to XPS via Python., HTM to XPS Merger., Merge HTM to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

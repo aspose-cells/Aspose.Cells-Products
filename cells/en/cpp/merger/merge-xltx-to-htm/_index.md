@@ -2,6 +2,7 @@
 title: Merge XLTX to HTM via C++ 
 url: /cpp/merger/merge-xltx-to-htm/ 
 description: Merge XLTX to HTM Online for Free. Free Online XLTX to HTM Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to HTM via C++., XLTX to HTM Merger., Merge XLTX to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
 title: Convert MHTML to SQL Java 
 description: Convert MHTML to SQL Online for Free. Free Online MHTML to SQL Converter. Java MHTML to SQL. MHTML to SQL via Java.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+keywords: [Convert MHTML to SQL Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

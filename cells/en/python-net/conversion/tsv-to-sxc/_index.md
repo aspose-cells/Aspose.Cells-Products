@@ -1,7 +1,7 @@
 ---
 title: Convert TSV to SXC Python via Python
 description: Convert TSV to SXC Online for Free. Free Online TSV to SXC Converter. Python TSV to SXC. TSV to SXC via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+keywords: [Convert TSV to SXC Online for Free., TSV Converter., TSV to PDF., TSV to Word., TSV to PPT., TSV to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

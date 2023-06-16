@@ -2,6 +2,7 @@
 title: Merge JSON to XPS via C++ 
 url: /cpp/merger/merge-json-to-xps/ 
 description: Merge JSON to XPS Online for Free. Free Online JSON to XPS Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to XPS via C++., JSON to XPS Merger., Merge JSON to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

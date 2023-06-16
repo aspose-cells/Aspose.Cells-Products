@@ -2,6 +2,7 @@
 title: Merge CSV to XLSM via C++ 
 url: /cpp/merger/merge-csv-to-xlsm/ 
 description: Merge CSV to XLSM Online for Free. Free Online CSV to XLSM Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to XLSM via C++., CSV to XLSM Merger., Merge CSV to XLSM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

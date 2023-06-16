@@ -2,6 +2,7 @@
 title: Merge XLS to JSON via C# 
 url: /net/merger/merge-xls-to-json/ 
 description: Merge XLS to JSON Online for Free. Free Online XLS to JSON Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to JSON via C#., XLS to JSON Merger., Merge XLS to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

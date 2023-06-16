@@ -2,6 +2,7 @@
 title: Merge PRN to XLS via Python 
 url: /python-net/merger/merge-prn-to-xls/ 
 description: Merge PRN to XLS Online for Free. Free Online PRN to XLS Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XLS via Python., PRN to XLS Merger., Merge PRN to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

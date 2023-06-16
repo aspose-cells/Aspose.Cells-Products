@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to JSON via Python 
 url: /python-net/merger/merge-tabdelimited-to-json/ 
 description: Merge TABDELIMITED to JSON Online for Free. Free Online TABDELIMITED to JSON Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to JSON via Python., TABDELIMITED to JSON Merger., Merge TABDELIMITED to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

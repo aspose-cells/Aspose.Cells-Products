@@ -2,6 +2,7 @@
 title: Merge TSV to PPTX via Java 
 url: /java/merger/merge-tsv-to-pptx/ 
 description: Merge TSV to PPTX Online for Free. Free Online TSV to PPTX Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TSV to PPTX via Java., TSV to PPTX Merger., Merge TSV to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

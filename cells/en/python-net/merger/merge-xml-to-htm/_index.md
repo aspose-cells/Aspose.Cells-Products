@@ -2,6 +2,7 @@
 title: Merge XML to HTM via Python 
 url: /python-net/merger/merge-xml-to-htm/ 
 description: Merge XML to HTM Online for Free. Free Online XML to HTM Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to HTM via Python., XML to HTM Merger., Merge XML to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

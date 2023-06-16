@@ -2,6 +2,7 @@
 title: Merge PRN to PDF via Java 
 url: /java/merger/merge-prn-to-pdf/ 
 description: Merge PRN to PDF Online for Free. Free Online PRN to PDF Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to PDF via Java., PRN to PDF Merger., Merge PRN to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

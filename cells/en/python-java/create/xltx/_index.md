@@ -1,6 +1,7 @@
 ---
 title: Create MS Excel XLTX Files via Python
 description: XLTX creater. Create XLTX files in Python code. Generate MS Excel XLTX files using Python application.
+keywords: [Create MS Excel XLTX Files via Python., XLTX creater., Create XLTX files in Python code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

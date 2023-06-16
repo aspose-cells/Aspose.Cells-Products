@@ -2,6 +2,7 @@
 title: Merge TSV to XLSX via Python 
 url: /python-java/merger/merge-tsv-to-xlsx/ 
 description: Merge TSV to XLSX Online for Free. Free Online TSV to XLSX Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TSV to XLSX via Python., TSV to XLSX Merger., Merge TSV to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

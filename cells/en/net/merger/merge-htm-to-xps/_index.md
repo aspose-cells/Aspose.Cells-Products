@@ -2,6 +2,7 @@
 title: Merge HTM to XPS via C# 
 url: /net/merger/merge-htm-to-xps/ 
 description: Merge HTM to XPS Online for Free. Free Online HTM to XPS Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to XPS via C#., HTM to XPS Merger., Merge HTM to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

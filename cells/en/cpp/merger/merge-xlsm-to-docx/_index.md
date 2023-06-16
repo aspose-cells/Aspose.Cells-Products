@@ -2,6 +2,7 @@
 title: Merge XLSM to DOCX via C++ 
 url: /cpp/merger/merge-xlsm-to-docx/ 
 description: Merge XLSM to DOCX Online for Free. Free Online XLSM to DOCX Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to DOCX via C++., XLSM to DOCX Merger., Merge XLSM to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

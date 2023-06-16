@@ -1,7 +1,7 @@
 ---
 title: Convert XLSM to DIF Python via Python
 description: Convert XLSM to DIF Online for Free. Free Online XLSM to DIF Converter. Python XLSM to DIF. XLSM to DIF via Python.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+keywords: [Convert XLSM to DIF Online for Free., XLSM Converter., XLSM to PDF., XLSM to Word., XLSM to PPT., XLSM to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

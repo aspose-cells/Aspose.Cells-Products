@@ -2,6 +2,7 @@
 title: Merge SXC to XPS via Python 
 url: /python-net/merger/merge-sxc-to-xps/ 
 description: Merge SXC to XPS Online for Free. Free Online SXC to XPS Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to XPS via Python., SXC to XPS Merger., Merge SXC to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

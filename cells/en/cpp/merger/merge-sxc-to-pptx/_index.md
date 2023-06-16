@@ -2,6 +2,7 @@
 title: Merge SXC to PPTX via C++ 
 url: /cpp/merger/merge-sxc-to-pptx/ 
 description: Merge SXC to PPTX Online for Free. Free Online SXC to PPTX Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to PPTX via C++., SXC to PPTX Merger., Merge SXC to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

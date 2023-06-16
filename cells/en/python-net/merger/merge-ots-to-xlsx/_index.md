@@ -2,6 +2,7 @@
 title: Merge OTS to XLSX via Python 
 url: /python-net/merger/merge-ots-to-xlsx/ 
 description: Merge OTS to XLSX Online for Free. Free Online OTS to XLSX Merger. Merge OTS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge OTS to XLSX via Python., OTS to XLSX Merger., Merge OTS to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

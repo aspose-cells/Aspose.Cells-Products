@@ -2,6 +2,7 @@
 title: Merge FODS to XPS via Java 
 url: /java/merger/merge-fods-to-xps/ 
 description: Merge FODS to XPS Online for Free. Free Online FODS to XPS Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to XPS via Java., FODS to XPS Merger., Merge FODS to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

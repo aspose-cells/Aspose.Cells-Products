@@ -2,6 +2,7 @@
 title: Merge TXT to XLTX via Python 
 url: /python-java/merger/merge-txt-to-xltx/ 
 description: Merge TXT to XLTX Online for Free. Free Online TXT to XLTX Merger. Merge TXT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TXT to XLTX via Python., TXT to XLTX Merger., Merge TXT to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

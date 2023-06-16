@@ -2,6 +2,7 @@
 title: Merge SXC to XLT via Java 
 url: /java/merger/merge-sxc-to-xlt/ 
 description: Merge SXC to XLT Online for Free. Free Online SXC to XLT Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to XLT via Java., SXC to XLT Merger., Merge SXC to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

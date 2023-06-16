@@ -1,6 +1,7 @@
 ---
 title: Convert EXCEL to IMAGE via C#
 description: Convert EXCEL to IMAGE format in C# code. Save EXCEL as IMAGE using C#.
+keywords: [Convert EXCEL to IMAGE format., Convert EXCEL to IMAGE format in C# code]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

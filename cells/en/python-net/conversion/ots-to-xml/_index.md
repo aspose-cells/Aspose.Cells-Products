@@ -1,7 +1,7 @@
 ---
 title: Convert OTS to XML Python via Python
 description: Convert OTS to XML Online for Free. Free Online OTS to XML Converter. Python OTS to XML. OTS to XML via Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+keywords: [Convert OTS to XML Online for Free., OTS Converter., OTS to PDF., OTS to Word., OTS to PPT., OTS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

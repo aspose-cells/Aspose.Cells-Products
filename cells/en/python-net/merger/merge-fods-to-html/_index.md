@@ -2,6 +2,7 @@
 title: Merge FODS to HTML via Python 
 url: /python-net/merger/merge-fods-to-html/ 
 description: Merge FODS to HTML Online for Free. Free Online FODS to HTML Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge FODS to HTML via Python., FODS to HTML Merger., Merge FODS to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

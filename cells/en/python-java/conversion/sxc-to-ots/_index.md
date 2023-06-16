@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to OTS Python via Python
 description: Convert SXC to OTS Online for Free. Free Online SXC to OTS Converter. Python SXC to OTS. SXC to OTS via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to OTS Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

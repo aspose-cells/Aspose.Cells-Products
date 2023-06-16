@@ -2,6 +2,7 @@
 title: Merge SXC to POWERPOINT via Java 
 url: /java/merger/merge-sxc-to-powerpoint/ 
 description: Merge SXC to POWERPOINT Online for Free. Free Online SXC to POWERPOINT Merger. Merge SXC to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge SXC to POWERPOINT via Java., SXC to POWERPOINT Merger., Merge SXC to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

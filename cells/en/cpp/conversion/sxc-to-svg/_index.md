@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to SVG C++
 description: Convert SXC to SVG Online for Free. Free Online SXC to SVG Converter. C++ SXC to SVG. SXC to SVG via C++.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to SVG Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

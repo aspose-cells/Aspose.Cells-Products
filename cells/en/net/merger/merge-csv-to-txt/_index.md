@@ -2,6 +2,7 @@
 title: Merge CSV to TXT via C# 
 url: /net/merger/merge-csv-to-txt/ 
 description: Merge CSV to TXT Online for Free. Free Online CSV to TXT Merger. Merge CSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge CSV to TXT via C#., CSV to TXT Merger., Merge CSV to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTX to PDF via Java 
 url: /java/merger/merge-xltx-to-pdf/ 
 description: Merge XLTX to PDF Online for Free. Free Online XLTX to PDF Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to PDF via Java., XLTX to PDF Merger., Merge XLTX to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge XLTM to PPTX via Python 
 url: /python-java/merger/merge-xltm-to-pptx/ 
 description: Merge XLTM to PPTX Online for Free. Free Online XLTM to PPTX Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to PPTX via Python., XLTM to PPTX Merger., Merge XLTM to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

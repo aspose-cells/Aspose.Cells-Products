@@ -2,6 +2,7 @@
 title: Merge EXCEL to HTML via Java 
 url: /java/merger/merge-excel-to-html/ 
 description: Merge EXCEL to HTML Online for Free. Free Online EXCEL to HTML Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to HTML via Java., EXCEL to HTML Merger., Merge EXCEL to HTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

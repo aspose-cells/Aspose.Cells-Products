@@ -2,6 +2,7 @@
 title: Merge XML to DOCX via Java 
 url: /java/merger/merge-xml-to-docx/ 
 description: Merge XML to DOCX Online for Free. Free Online XML to DOCX Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to DOCX via Java., XML to DOCX Merger., Merge XML to DOCX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

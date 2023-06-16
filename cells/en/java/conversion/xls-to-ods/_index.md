@@ -1,7 +1,7 @@
 ---
 title: Convert XLS to ODS Java 
 description: Convert XLS to ODS Online for Free. Free Online XLS to ODS Converter. Java XLS to ODS. XLS to ODS via Java.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+keywords: [Convert XLS to ODS Online for Free., XLS Converter., XLS to PDF., XLS to Word., XLS to PPT., XLS to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

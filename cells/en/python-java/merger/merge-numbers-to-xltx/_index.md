@@ -2,6 +2,7 @@
 title: Merge NUMBERS to XLTX via Python 
 url: /python-java/merger/merge-numbers-to-xltx/ 
 description: Merge NUMBERS to XLTX Online for Free. Free Online NUMBERS to XLTX Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to XLTX via Python., NUMBERS to XLTX Merger., Merge NUMBERS to XLTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

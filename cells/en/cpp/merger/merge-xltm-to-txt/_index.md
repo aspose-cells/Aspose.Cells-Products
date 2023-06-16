@@ -2,6 +2,7 @@
 title: Merge XLTM to TXT via C++ 
 url: /cpp/merger/merge-xltm-to-txt/ 
 description: Merge XLTM to TXT Online for Free. Free Online XLTM to TXT Merger. Merge XLTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTM to TXT via C++., XLTM to TXT Merger., Merge XLTM to TXT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

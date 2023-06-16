@@ -2,6 +2,7 @@
 title: Merge XLTX to XPS via C# 
 url: /net/merger/merge-xltx-to-xps/ 
 description: Merge XLTX to XPS Online for Free. Free Online XLTX to XPS Merger. Merge XLTX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLTX to XPS via C#., XLTX to XPS Merger., Merge XLTX to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

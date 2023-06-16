@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to POWERPOINT via Python 
 url: /python-net/merger/merge-tabdelimited-to-powerpoint/ 
 description: Merge TABDELIMITED to POWERPOINT Online for Free. Free Online TABDELIMITED to POWERPOINT Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to POWERPOINT via Python., TABDELIMITED to POWERPOINT Merger., Merge TABDELIMITED to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

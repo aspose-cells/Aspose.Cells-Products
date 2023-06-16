@@ -2,6 +2,7 @@
 title: Merge HTML to XLS via C# 
 url: /net/merger/merge-html-to-xls/ 
 description: Merge HTML to XLS Online for Free. Free Online HTML to XLS Merger. Merge HTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTML to XLS via C#., HTML to XLS Merger., Merge HTML to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

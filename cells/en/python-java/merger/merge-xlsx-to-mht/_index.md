@@ -2,6 +2,7 @@
 title: Merge XLSX to MHT via Python 
 url: /python-java/merger/merge-xlsx-to-mht/ 
 description: Merge XLSX to MHT Online for Free. Free Online XLSX to MHT Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to MHT via Python., XLSX to MHT Merger., Merge XLSX to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

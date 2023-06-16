@@ -2,6 +2,7 @@
 title: Merge XML to WORD via Java 
 url: /java/merger/merge-xml-to-word/ 
 description: Merge XML to WORD Online for Free. Free Online XML to WORD Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XML to WORD via Java., XML to WORD Merger., Merge XML to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

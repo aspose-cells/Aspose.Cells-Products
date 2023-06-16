@@ -2,6 +2,7 @@
 title: Merge HTM to WORD via C++ 
 url: /cpp/merger/merge-htm-to-word/ 
 description: Merge HTM to WORD Online for Free. Free Online HTM to WORD Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to WORD via C++., HTM to WORD Merger., Merge HTM to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

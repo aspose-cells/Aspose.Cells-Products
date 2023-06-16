@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to PDF C#
 description: Convert SXC to PDF Online for Free. Free Online SXC to PDF Converter. C# SXC to PDF. SXC to PDF via C#.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to PDF Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

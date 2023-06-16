@@ -2,6 +2,7 @@
 title: Merge MHT to XLSX via C# 
 url: /net/merger/merge-mht-to-xlsx/ 
 description: Merge MHT to XLSX Online for Free. Free Online MHT to XLSX Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XLSX via C#., MHT to XLSX Merger., Merge MHT to XLSX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge EXCEL to JSON via C++ 
 url: /cpp/merger/merge-excel-to-json/ 
 description: Merge EXCEL to JSON Online for Free. Free Online EXCEL to JSON Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to JSON via C++., EXCEL to JSON Merger., Merge EXCEL to JSON Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

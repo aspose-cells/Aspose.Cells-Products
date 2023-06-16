@@ -2,6 +2,7 @@
 title: Merge TSV to XPS via C++ 
 url: /cpp/merger/merge-tsv-to-xps/ 
 description: Merge TSV to XPS Online for Free. Free Online TSV to XPS Merger. Merge TSV to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TSV to XPS via C++., TSV to XPS Merger., Merge TSV to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

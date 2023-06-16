@@ -1,7 +1,7 @@
 ---
 title: Convert JPG to OTS Python via Python
 description: Convert JPG to OTS Online for Free. Free Online JPG to OTS Converter. Python JPG to OTS. JPG to OTS via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+keywords: [Convert JPG to OTS Online for Free., JPG Converter., JPG to PDF., JPG to Word., JPG to PPT., JPG to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

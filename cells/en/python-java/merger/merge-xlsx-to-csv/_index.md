@@ -2,6 +2,7 @@
 title: Merge XLSX to CSV via Python 
 url: /python-java/merger/merge-xlsx-to-csv/ 
 description: Merge XLSX to CSV Online for Free. Free Online XLSX to CSV Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to CSV via Python., XLSX to CSV Merger., Merge XLSX to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

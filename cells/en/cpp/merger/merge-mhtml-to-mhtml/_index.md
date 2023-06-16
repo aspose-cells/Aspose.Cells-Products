@@ -2,6 +2,7 @@
 title: Merge MHTML to MHTML via C++ 
 url: /cpp/merger/merge-mhtml-to-mhtml/ 
 description: Merge MHTML to MHTML Online for Free. Free Online MHTML to MHTML Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to MHTML via C++., MHTML to MHTML Merger., Merge MHTML to MHTML Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

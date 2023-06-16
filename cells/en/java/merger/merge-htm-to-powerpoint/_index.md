@@ -2,6 +2,7 @@
 title: Merge HTM to POWERPOINT via Java 
 url: /java/merger/merge-htm-to-powerpoint/ 
 description: Merge HTM to POWERPOINT Online for Free. Free Online HTM to POWERPOINT Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to POWERPOINT via Java., HTM to POWERPOINT Merger., Merge HTM to POWERPOINT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

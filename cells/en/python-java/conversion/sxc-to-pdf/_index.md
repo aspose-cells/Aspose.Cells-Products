@@ -1,7 +1,7 @@
 ---
 title: Convert SXC to PDF Python via Python
 description: Convert SXC to PDF Online for Free. Free Online SXC to PDF Converter. Python SXC to PDF. SXC to PDF via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+keywords: [Convert SXC to PDF Online for Free., SXC Converter., SXC to PDF., SXC to Word., SXC to PPT., SXC to Image]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

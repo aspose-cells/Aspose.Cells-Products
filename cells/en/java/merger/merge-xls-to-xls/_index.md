@@ -2,6 +2,7 @@
 title: Merge XLS to XLS via Java 
 url: /java/merger/merge-xls-to-xls/ 
 description: Merge XLS to XLS Online for Free. Free Online XLS to XLS Merger. Merge XLS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLS to XLS via Java., XLS to XLS Merger., Merge XLS to XLS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

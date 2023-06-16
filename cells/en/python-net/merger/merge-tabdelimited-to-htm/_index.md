@@ -2,6 +2,7 @@
 title: Merge TABDELIMITED to HTM via Python 
 url: /python-net/merger/merge-tabdelimited-to-htm/ 
 description: Merge TABDELIMITED to HTM Online for Free. Free Online TABDELIMITED to HTM Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge TABDELIMITED to HTM via Python., TABDELIMITED to HTM Merger., Merge TABDELIMITED to HTM Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

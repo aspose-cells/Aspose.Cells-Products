@@ -2,6 +2,7 @@
 title: Merge JSON to XLT via Java 
 url: /java/merger/merge-json-to-xlt/ 
 description: Merge JSON to XLT Online for Free. Free Online JSON to XLT Merger. Merge JSON to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge JSON to XLT via Java., JSON to XLT Merger., Merge JSON to XLT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

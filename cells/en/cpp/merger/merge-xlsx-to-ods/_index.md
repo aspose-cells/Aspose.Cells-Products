@@ -2,6 +2,7 @@
 title: Merge XLSX to ODS via C++ 
 url: /cpp/merger/merge-xlsx-to-ods/ 
 description: Merge XLSX to ODS Online for Free. Free Online XLSX to ODS Merger. Merge XLSX to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSX to ODS via C++., XLSX to ODS Merger., Merge XLSX to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

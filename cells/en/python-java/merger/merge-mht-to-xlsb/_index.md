@@ -2,6 +2,7 @@
 title: Merge MHT to XLSB via Python 
 url: /python-java/merger/merge-mht-to-xlsb/ 
 description: Merge MHT to XLSB Online for Free. Free Online MHT to XLSB Merger. Merge MHT to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHT to XLSB via Python., MHT to XLSB Merger., Merge MHT to XLSB Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

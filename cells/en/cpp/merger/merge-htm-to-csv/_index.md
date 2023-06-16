@@ -2,6 +2,7 @@
 title: Merge HTM to CSV via C++ 
 url: /cpp/merger/merge-htm-to-csv/ 
 description: Merge HTM to CSV Online for Free. Free Online HTM to CSV Merger. Merge HTM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge HTM to CSV via C++., HTM to CSV Merger., Merge HTM to CSV Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

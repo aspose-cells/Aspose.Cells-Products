@@ -2,6 +2,7 @@
 title: Merge NUMBERS to WORD via Java 
 url: /java/merger/merge-numbers-to-word/ 
 description: Merge NUMBERS to WORD Online for Free. Free Online NUMBERS to WORD Merger. Merge NUMBERS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge NUMBERS to WORD via Java., NUMBERS to WORD Merger., Merge NUMBERS to WORD Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

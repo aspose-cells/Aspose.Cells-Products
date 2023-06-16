@@ -2,6 +2,7 @@
 title: Merge XLSM to PDF via Java 
 url: /java/merger/merge-xlsm-to-pdf/ 
 description: Merge XLSM to PDF Online for Free. Free Online XLSM to PDF Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge XLSM to PDF via Java., XLSM to PDF Merger., Merge XLSM to PDF Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

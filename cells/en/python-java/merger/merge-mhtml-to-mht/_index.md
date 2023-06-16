@@ -2,6 +2,7 @@
 title: Merge MHTML to MHT via Python 
 url: /python-java/merger/merge-mhtml-to-mht/ 
 description: Merge MHTML to MHT Online for Free. Free Online MHTML to MHT Merger. Merge MHTML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge MHTML to MHT via Python., MHTML to MHT Merger., Merge MHTML to MHT Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge EXCEL to PPTX via Python 
 url: /python-java/merger/merge-excel-to-pptx/ 
 description: Merge EXCEL to PPTX Online for Free. Free Online EXCEL to PPTX Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to PPTX via Python., EXCEL to PPTX Merger., Merge EXCEL to PPTX Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title: Merge EXCEL to ODS via Python 
 url: /python-java/merger/merge-excel-to-ods/ 
 description: Merge EXCEL to ODS Online for Free. Free Online EXCEL to ODS Merger. Merge EXCEL to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge EXCEL to ODS via Python., EXCEL to ODS Merger., Merge EXCEL to ODS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

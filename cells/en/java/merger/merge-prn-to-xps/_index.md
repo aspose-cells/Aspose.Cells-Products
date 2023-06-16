@@ -2,6 +2,7 @@
 title: Merge PRN to XPS via Java 
 url: /java/merger/merge-prn-to-xps/ 
 description: Merge PRN to XPS Online for Free. Free Online PRN to XPS Merger. Merge PRN to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
+keywords: [Merge PRN to XPS via Java., PRN to XPS Merger., Merge PRN to XPS Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

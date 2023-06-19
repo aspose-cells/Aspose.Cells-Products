@@ -29,6 +29,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
     <ul class="link-list">
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">Installation of Aspose.Cells</a></li>
         <li class="link-item"><a href="add-shapes-in-excel">How to add shapes in Excel file</a></li>
+        <li class="link-item"><a href="add-textbox-in-excel">How to add TextBox in Excel file</a></li>
         <li class="link-item"><a href="https://products.aspose.app/cells/viewer/">Aspose.Cells Viewer</a></li> 
         <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells Editor</a></li>        
         <li class="link-item"><a href="https://docs.aspose.com/cells/net/features/">Documentation for Aspose.Cells features</a></li>

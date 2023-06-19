@@ -3,7 +3,7 @@ title: How to add shapes via Aspose.Cells
 weight: 7700
 limit: 
 description: Learn how to add shapes.
-keywords: [add shapes, how to add shapes in Aspose.Cells, how to add shapes using Aspose.Cells]
+keywords: [add shapes., how to add shapes in Aspose.Cells., how to add shapes using Aspose.Cells]
 url: /tutorial/add-shapes-in-excel
 ---
 
@@ -21,7 +21,7 @@ We'll start by creating a new workbook using the <a href="https://www.nuget.org/
 
 <br />
 {{< app/cells/tutorial >}}
-//ExSummary: Please check the following code to find out how to add shapes, you can modify the code and run it directly in your browser.
+//ExSummary: Please check the following code to find out how to add shapes.
 //ExStepSummary:0: The following code shows how to add rectangle shape.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: The following code shows how to add line shape.
@@ -35,20 +35,24 @@ using Aspose.Cells.Drawing;
 
 Workbook workbook = new Workbook();
 Worksheet sheet = workbook.Worksheets[0];
+sheet.PageSetup.PrintGridlines = true;
+sheet.PageSetup.PrintArea = "A1:F20";
+
 ShapeCollection shapes = sheet.Shapes;
+
 //Add rectangle shape
-shapes.AddRectangle(1, 0, 1, 0, 50, 100);
+shapes.AddRectangle(1, 0, 1, 0, 100, 150);
 
 //ExStep:1-
 //Add line shape
-shapes.AddLine(5, 0, 1, 0, 50, 100);
+shapes.AddLine(8, 0, 1, 0, 100, 150);
 
 //ExStep:2-
 //Add oval shape
-shapes.AddOval(10,0,1,0, 50, 100);
+shapes.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-
-workbook
+
 //ExEnd
 {{< /app/cells/tutorial >}}
 <br />

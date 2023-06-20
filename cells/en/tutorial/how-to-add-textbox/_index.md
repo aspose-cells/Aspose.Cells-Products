@@ -3,7 +3,7 @@ title: How to add TextBox via Aspose.Cells
 weight: 7700
 limit: 
 description: Learn how to add TextBox.
-keywords: [Add TextBox, how to add TextBox in Aspose.Cells, how to add TextBox using Aspose.Cells]
+keywords: [Add TextBox., how to add TextBox in Aspose.Cells., how to add TextBox using Aspose.Cells]
 url: /tutorial/add-textbox-in-excel
 ---
 

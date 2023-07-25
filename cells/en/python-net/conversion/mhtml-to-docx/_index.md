@@ -1,7 +1,7 @@
 ---
-title: Convert MHTML to DOCX Python via Python
-description: Convert MHTML to DOCX Online for Free. Free Online MHTML to DOCX Converter. Python MHTML to DOCX. MHTML to DOCX via Python.
-keywords: [Convert MHTML to DOCX Online for Free., MHTML Converter., MHTML to PDF., MHTML to Word., MHTML to PPT., MHTML to Image]
+title: MHTML to DOCX - Convert MHTML to DOCX files Python via Python
+description: Aspose Excel. Free Online Convert MHTML to DOCX saveformat. Python MHTML to DOCX format. Save MHTML as DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to DOCX saveformat., Free Online MHTML to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +13,7 @@ keywords: [Convert MHTML to DOCX Online for Free., MHTML Converter., MHTML to PD
 
 {{% blocks/products/pf/agp/content h2="Convert MHTML to DOCX in Python" %}}
 
-How to convert MHTML to DOCX? With Aspose.Cells for Python via NET library, you can easily convert MHTML to DOCX programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How do I convert MHTML to DOCX? With Aspose.Cells for Python via NET library, you can easily convert MHTML to DOCX programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -35,14 +35,15 @@ Follow the easy steps to convert MHTML to DOCX. Upload your MHTML file, then sim
 
 {{% blocks/products/pf/agp/text %}}
 
- Python developers can easily load & convert MHTML to DOCX in just a few lines of code.
+Need to convert MHTML files to DOCX programmatically? Python developers can easily load & convert MHTML to DOCX in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Install 'Aspose.Cells for Python via .NET'.
 1.  Add a library reference (import the library) to your Python project.
-1.  Load MHTML file with an instance of Workbook
-1.  Convert MHTML to DOCX by calling Workbook.save method
+1.  Load MHTML file with an instance of Workbook.
+1.  Convert MHTML to DOCX by calling Workbook.save method.
+1.  Get the conversion result of MHTML to DOCX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +65,7 @@ And you can also follow the [step-by-step instructions](https://docs.aspose.com/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
+ Aspose.Cells for Python via NET is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
  
 {{% /blocks/products/pf/agp/text %}}
 

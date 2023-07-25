@@ -1,7 +1,7 @@
 ---
-title: Convert TSV to GIF Python via Python
-description: Convert TSV to GIF Online for Free. Free Online TSV to GIF Converter. Python TSV to GIF. TSV to GIF via Python.
-keywords: [Convert TSV to GIF Online for Free., TSV Converter., TSV to PDF., TSV to Word., TSV to PPT., TSV to Image]
+title: TSV to GIF - Convert TSV to GIF files Python via Python
+description: Aspose Excel. Free Online Convert TSV to GIF saveformat. Python TSV to GIF format. Save TSV as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to GIF saveformat., Free Online TSV to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +13,7 @@ keywords: [Convert TSV to GIF Online for Free., TSV Converter., TSV to PDF., TSV
 
 {{% blocks/products/pf/agp/content h2="Convert TSV to GIF in Python" %}}
 
-How to convert TSV to GIF? With Aspose.Cells for Python via NET library, you can easily convert TSV to GIF programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How do I convert TSV to GIF? With Aspose.Cells for Python via NET library, you can easily convert TSV to GIF programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -35,14 +35,15 @@ Follow the easy steps to convert TSV to GIF. Upload your TSV file, then simply s
 
 {{% blocks/products/pf/agp/text %}}
 
- Python developers can easily load & convert TSV to GIF in just a few lines of code.
+Need to convert TSV files to GIF programmatically? Python developers can easily load & convert TSV to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Install 'Aspose.Cells for Python via .NET'.
 1.  Add a library reference (import the library) to your Python project.
-1.  Load TSV file with an instance of Workbook
-1.  Convert TSV to GIF by calling Workbook.save method
+1.  Load TSV file with an instance of Workbook.
+1.  Convert TSV to GIF by calling Workbook.save method.
+1.  Get the conversion result of TSV to GIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +65,7 @@ And you can also follow the [step-by-step instructions](https://docs.aspose.com/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
+ Aspose.Cells for Python via NET is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
  
 {{% /blocks/products/pf/agp/text %}}
 

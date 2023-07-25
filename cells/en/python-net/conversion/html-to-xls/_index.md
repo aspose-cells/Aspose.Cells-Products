@@ -1,7 +1,7 @@
 ---
-title: Convert HTML to XLS Python via Python
-description: Convert HTML to XLS Online for Free. Free Online HTML to XLS Converter. Python HTML to XLS. HTML to XLS via Python.
-keywords: [Convert HTML to XLS Online for Free., HTML Converter., HTML to PDF., HTML to Word., HTML to PPT., HTML to Image]
+title: HTML to XLS - Convert HTML to XLS files Python via Python
+description: Aspose Excel. Free Online Convert HTML to XLS saveformat. Python HTML to XLS format. Save HTML as XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to XLS saveformat., Free Online HTML to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +13,7 @@ keywords: [Convert HTML to XLS Online for Free., HTML Converter., HTML to PDF., 
 
 {{% blocks/products/pf/agp/content h2="Convert HTML to XLS in Python" %}}
 
-How to convert HTML to XLS? With Aspose.Cells for Python via NET library, you can easily convert HTML to XLS programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
+How do I convert HTML to XLS? With Aspose.Cells for Python via NET library, you can easily convert HTML to XLS programmatically with  a few lines of code. [Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. 
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -35,14 +35,15 @@ Follow the easy steps to convert HTML to XLS. Upload your HTML file, then simply
 
 {{% blocks/products/pf/agp/text %}}
 
- Python developers can easily load & convert HTML to XLS in just a few lines of code.
+Need to convert HTML files to XLS programmatically? Python developers can easily load & convert HTML to XLS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Install 'Aspose.Cells for Python via .NET'.
 1.  Add a library reference (import the library) to your Python project.
-1.  Load HTML file with an instance of Workbook
-1.  Convert HTML to XLS by calling Workbook.save method
+1.  Load HTML file with an instance of Workbook.
+1.  Convert HTML to XLS by calling Workbook.save method.
+1.  Get the conversion result of HTML to XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -64,7 +65,7 @@ And you can also follow the [step-by-step instructions](https://docs.aspose.com/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
+ Aspose.Cells for Python via NET is platform-independent API and can be used on any platform (Windows, Linux), just make sure that system have [Python](https://www.python.org/downloads/) 3.7 or higher. 
  
 {{% /blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Convert EXCEL to IMAGE via Python
-description: Convert EXCEL to IMAGE format in Python code. Save EXCEL as IMAGE using Python.
-keywords: [Convert EXCEL to IMAGE format., Convert EXCEL to IMAGE format in Python code]
+description: Aspose Excel. Convert EXCEL to IMAGE saveformat Online for Free. Python EXCEL to IMAGE format. Save EXCEL as IMAGE in Python.
+keywords: [aspose excel., Python aspose.cells., Python EXCEL to IMAGE saveformat., Free Online  EXCEL to IMAGE Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

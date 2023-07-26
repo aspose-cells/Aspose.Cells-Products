@@ -36,7 +36,7 @@ Follow the easy steps to convert OTS to PPTX. Upload your OTS file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert OTS to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert OTS to PPTX Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="pptx" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTS to PPTX via C#" %}}
 
@@ -81,6 +81,12 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}A file with .ots extension is an OpenDocument Spreadsheet Template file that is created with the Calc application software included in Apache OpenOffice. Calc application software is the similar to Excel available in Microsoft Office. OTS file format is used to create templates that contain predefine settings related to styles, font, data, spreadsheet layout, and formatting. OTF files have mime-type application/vnd.oasis.opendocument.spreadsheet-template. These template files can be used as a starting point to generate and save actual data files that are saved in ODS file format. OTS files can be used with applications such as OpenOffice and LibreOffice.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Files with PPTX extension are presentation files created with popular Microsoft PowerPoint application. Unlike the previous version of presentation file format PPT which was binary, the PPTX format is based on the Microsoft PowerPoint open XML presentation file format. A presentation file is a collection of slides where each slide can comprise of text, images, formatting, animations, and other media. These slides are presented to audience in the form of slideshows with custom presentation settings.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert OTS to many other file formats including few listed below." >}}
 

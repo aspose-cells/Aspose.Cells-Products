@@ -57,7 +57,7 @@ Follow the easy steps to convert PRN to TIFF. Upload your PRN file, then simply 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert PRN to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tiff" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Free App and Sample Code to Convert PRN to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tiff" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert PRN to TIFF via Java" %}}
 
@@ -96,6 +96,12 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}A PRN file is a file created using the Print to File checkbox that appears within some Print dialog boxes on Windows. It contains a set of device-specific instructions that a printer, fax machine, or other device uses to print a document. PRN files may contain text or binary content, depending on the device the file was created for.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PRN to many other file formats including few listed below." >}}
 

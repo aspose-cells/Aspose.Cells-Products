@@ -36,7 +36,7 @@ Follow the easy steps to convert NUMBERS to TIFF. Upload your NUMBERS file, then
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tiff" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to TIFF Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tiff" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to TIFF via C#" %}}
 
@@ -81,6 +81,12 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}
 

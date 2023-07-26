@@ -57,7 +57,7 @@ Follow the easy steps to convert JPG to ETT. Upload your JPG file, then simply s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JPG to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="java" %}}
+{{% cells-convert title="Free App and Sample Code to Convert JPG to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JPG to ETT via Java" %}}
 
@@ -96,6 +96,12 @@ We host our Java packages in [Maven](https://repository.aspose.com/webapp/#/arti
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image.  The higher the compression value, the higher the degradation in image quality.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}An ETT file is a spreadsheet template created by Kingsoft Spreadsheets, a spreadsheet program included in the WPS Office suite. It stores a template that can be used as a starting point for creating new Kingsoft spreadsheets (.ET files). ETT files are often used for creating financial budgets and organizing data.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG to many other file formats including few listed below." >}}
 

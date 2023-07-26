@@ -36,7 +36,7 @@ Follow the easy steps to convert JSON to NUMBERS. Upload your JSON file, then si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert JSON to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="numbers" IsLandingPage="true" %}}
+{{% cells-convert title="Free App and Sample Code to Convert JSON to NUMBERS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="numbers" IsLandingPage="true" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert JSON to NUMBERS via C#" %}}
 
@@ -81,6 +81,12 @@ There are two alternative options to install "Aspose.Cells for .NET" onto your s
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is an open standard file format for sharing data that uses human-readable text to store and transmit data. JSON files are stored with the .json extension. JSON requires less formatting and is a good alternative for XML. JSON is derived from JavaScript but is a language-independent data format. The generation and parsing of JSON is supported by many modern programming languages. application/json is the media type used for JSON.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. {{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JSON to many other file formats including few listed below." >}}
 

@@ -28,7 +28,7 @@ Follow the easy steps to convert NUMBERS to ETT. Upload your NUMBERS file, then 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-convert title="Free App and Sample Code to Convert NUMBERS to ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ett" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Convert NUMBERS to ETT via Python" %}}
 
@@ -73,6 +73,12 @@ There are three options to install "Aspose.Cells for Python via Java" onto your 
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}The files with .numbers extension are classified as spreadsheet file type, that's why they are similar to the .xlsx files; but the Numbers files are created by using Apple iWork Numbers spreadsheet software. The Apple iWork Numbers is a unit software of the iWork Productivity Suite. The iWork Productivity Suite is equivalent to the Microsoft Office Suite that is used on Windows PCs. Hence, we can say the Numbers which is available for MacOS is also a competitor of Microsoft Excel. Likewise, Microsoft Excel, the NUMBERS file may also contain the tables, charts and formulas. {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}An ETT file is a spreadsheet template created by Kingsoft Spreadsheets, a spreadsheet program included in the WPS Office suite. It stores a template that can be used as a starting point for creating new Kingsoft spreadsheets (.ET files). ETT files are often used for creating financial budgets and organizing data.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert NUMBERS to many other file formats including few listed below." >}}
 

@@ -1,8 +1,8 @@
 ---
-title: Merge XLSM to TSV via Python 
+title: Merge XLSM to TSV - Combine XLSM to TSV via Python
 url: /python-net/merger/merge-xlsm-to-tsv/ 
-description: Merge XLSM to TSV Online for Free. Free Online XLSM to TSV Merger. Merge XLSM to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
-keywords: [Merge XLSM to TSV via Python., XLSM to TSV Merger., Merge XLSM to TSV Online for Free]
+description: Aspose Excel. Free Online Merge XLSM to TSV saveformat. Python Merge XLSM to TSV format. Combine XLSM to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to TSV saveformat via Python., Free Online Merge XLSM to tsv in Python., Python Combine XLSM to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,14 +13,14 @@ keywords: [Merge XLSM to TSV via Python., XLSM to TSV Merger., Merge XLSM to TSV
 
 {{% blocks/products/pf/agp/content h2="Merge XLSM to TSV Using Python" %}}
 
-How to merge XLSM to TSV? With Aspose.Cells for Python library, you can easily merge XLSM to TSV programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
+How do I merge XLSM to TSV? With Aspose.Cells for Python via .NET library, you can easily merge XLSM to TSV programmatically with  a few lines of code. [Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python via .NET from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Merge XLSM to TSV in Python Online for Free" %}}
 
-The following example demonstrates how to merge XLSM to TSV in Python.
+The following example demonstrates how to merge XLSM to TSV in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Follow the easy steps to merge XLSM to TSV. Upload your files, call Workbook.Combine method for merging files, and then save it to TSV file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XLSM to TSV.
@@ -29,16 +29,18 @@ Follow the easy steps to merge XLSM to TSV. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XLSM to TSV on line" InputFormat="xlsm" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Free Online to Merge XLSM to TSV in Python" InputFormat="xlsm" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XLSM to TSV via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with [Aspose.Cells for Python](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
+Need to merge XLSM to TSV programmatically? A basic document merging and concatenating with [Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++  Install 'Aspose.Cells for Python via .NET'.
++  Add a library reference (import the library) to your Python project.
 +  Load the XLSM file with Workbook class.
 +  Call the Workbook.Combine method for merging files.
 +  Call the Workbook.Save method and pass the output file name as a parameter.
@@ -76,21 +78,41 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Files with XLSM extension is a type of Spreadsheet files that support Macros. From application point of view, a Macro is set of instructions that are used for automating processes. A macro is used to record the steps that are performed repeatedly and facilitates performing the actions by running the macro again. Macros are programmed with Microsoft’s Visual Basic for Applications (VBA) from within the Excel Workbook using the Visual Basic Editor and can be run/debug directly from there.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xlsm to many other file formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-tsv/" name="TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xls/" name="XLS" description="Excel Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsm/" name="XLSM" description="Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsx/" name="XLSX" description="OOXML Excel File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlt/" name="XLT" description="Microsoft Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltm/" name="XLTM" description="Excel Macro-enabled Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltx/" name="XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-docx/" name="Merge XLSM to DOCX" description="Microsoft Word document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-sql/" name="Merge XLSM to SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-bmp/" name="Merge XLSM to BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-emf/" name="Merge XLSM to EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-gif/" name="Merge XLSM to GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-html/" name="Merge XLSM to HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-md/" name="Merge XLSM to MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-mhtml/" name="Merge XLSM to MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-ods/" name="Merge XLSM to ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-pdf/" name="Merge XLSM to PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-png/" name="Merge XLSM to PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-svg/" name="Merge XLSM to SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-tiff/" name="Merge XLSM to TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-tsv/" name="Merge XLSM to TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-txt/" name="Merge XLSM to TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xls/" name="Merge XLSM to XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsb/" name="Merge XLSM to XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsm/" name="Merge XLSM to XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlsx/" name="Merge XLSM to XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xlt/" name="Merge XLSM to XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltm/" name="Merge XLSM to XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xltx/" name="Merge XLSM to XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xml/" name="Merge XLSM to XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-xps/" name="Merge XLSM to XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-json/" name="Merge XLSM to JSON" description="JavaScript Object Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsm-to-jpeg/" name="Merge XLSM to JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

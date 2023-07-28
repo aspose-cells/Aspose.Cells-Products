@@ -1,8 +1,8 @@
 ---
-title: Merge TABDELIMITED to HTM via C# 
+title: Merge TABDELIMITED to HTM - Combine TABDELIMITED to HTM via C#
 url: /net/merger/merge-tabdelimited-to-htm/ 
-description: Merge TABDELIMITED to HTM Online for Free. Free Online TABDELIMITED to HTM Merger. Merge TABDELIMITED to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
-keywords: [Merge TABDELIMITED to HTM via C#., TABDELIMITED to HTM Merger., Merge TABDELIMITED to HTM Online for Free]
+description: Aspose Excel. Free Online Merge TABDELIMITED to HTM saveformat. C# Merge TABDELIMITED to HTM format. Combine TABDELIMITED to HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to HTM saveformat via C#., Free Online Merge TABDELIMITED to htm in C#., C# Combine TABDELIMITED to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,7 +13,7 @@ keywords: [Merge TABDELIMITED to HTM via C#., TABDELIMITED to HTM Merger., Merge
 
 {{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to HTM Using C#" %}}
 
-How to merge TABDELIMITED to HTM? With Aspose.Cells for .NET library, you can easily merge TABDELIMITED to HTM programmatically with  a few lines of code. [Aspose.Cells for .NET](https://products.aspose.com/cells/net) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
+How do I merge TABDELIMITED to HTM? With Aspose.Cells for .NET library, you can easily merge TABDELIMITED to HTM programmatically with  a few lines of code. [Aspose.Cells for .NET](https://products.aspose.com/cells/net) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. .NET Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. Open [NuGet](https://www.nuget.org/packages/aspose.cells) package manager, search for Aspose.Cells and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -29,7 +29,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Merge TABDELIMITED to HTM in C# Online for Free" %}}
 
-The following example demonstrates how to merge TABDELIMITED to HTM in C#.
+The following example demonstrates how to merge TABDELIMITED to HTM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Follow the easy steps to merge TABDELIMITED to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in C#, this will be simpler than it sounds. See C# example that merges TABDELIMITED to HTM.
@@ -38,16 +38,18 @@ Follow the easy steps to merge TABDELIMITED to HTM. Upload your files, call Work
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge TABDELIMITED to HTM on line" InputFormat="tsv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Free Online to Merge TABDELIMITED to HTM in C#" InputFormat="tsv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge TABDELIMITED to HTM via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with [Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs can be done with just few lines of code.
+Need to merge TABDELIMITED to HTM programmatically? A basic document merging and concatenating with [Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++  Install 'Aspose.Cells for .NET'.
++  Add a library reference (import the library) to your C# project.
 +  Load the TABDELIMITED file with Workbook class.
 +  Call the Workbook.Combine method for merging files.
 +  Call the Workbook.Save method and pass the output file name as a parameter.
@@ -84,21 +86,41 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A Tab-Separated Values (TSV) file format represents data separated with tabs in plain text format. The file format, similar to CSV, is used for organization of data in a structured manner in order to import and export between different applications. The format is primarily used for data import/export and exchange in Spreadsheet applications and databases. Each record in a TSV file is contained in a single line of text file where each field value is separated by a tab character. Media type for TSV file format is text/tab-separated-values.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge tabdelimited to many other file formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xls/" name="XLS" description="Excel Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="OOXML Excel File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Excel Macro-enabled Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-docx/" name="Merge TABDELIMITED to DOCX" description="Microsoft Word document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-sql/" name="Merge TABDELIMITED to SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-bmp/" name="Merge TABDELIMITED to BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-emf/" name="Merge TABDELIMITED to EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-gif/" name="Merge TABDELIMITED to GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-html/" name="Merge TABDELIMITED to HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-md/" name="Merge TABDELIMITED to MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-mhtml/" name="Merge TABDELIMITED to MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-ods/" name="Merge TABDELIMITED to ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-pdf/" name="Merge TABDELIMITED to PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-png/" name="Merge TABDELIMITED to PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-svg/" name="Merge TABDELIMITED to SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tiff/" name="Merge TABDELIMITED to TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tsv/" name="Merge TABDELIMITED to TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-txt/" name="Merge TABDELIMITED to TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xls/" name="Merge TABDELIMITED to XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsb/" name="Merge TABDELIMITED to XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsm/" name="Merge TABDELIMITED to XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsx/" name="Merge TABDELIMITED to XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlt/" name="Merge TABDELIMITED to XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltm/" name="Merge TABDELIMITED to XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltx/" name="Merge TABDELIMITED to XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xml/" name="Merge TABDELIMITED to XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xps/" name="Merge TABDELIMITED to XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-json/" name="Merge TABDELIMITED to JSON" description="JavaScript Object Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-jpeg/" name="Merge TABDELIMITED to JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

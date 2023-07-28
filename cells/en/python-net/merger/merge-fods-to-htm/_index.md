@@ -1,8 +1,8 @@
 ---
-title: Merge FODS to HTM via Python 
+title: Merge FODS to HTM - Combine FODS to HTM via Python
 url: /python-net/merger/merge-fods-to-htm/ 
-description: Merge FODS to HTM Online for Free. Free Online FODS to HTM Merger. Merge FODS to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
-keywords: [Merge FODS to HTM via Python., FODS to HTM Merger., Merge FODS to HTM Online for Free]
+description: Aspose Excel. Free Online Merge FODS to HTM saveformat. Python Merge FODS to HTM format. Combine FODS to HTM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to HTM saveformat via Python., Free Online Merge FODS to htm in Python., Python Combine FODS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,14 +13,14 @@ keywords: [Merge FODS to HTM via Python., FODS to HTM Merger., Merge FODS to HTM
 
 {{% blocks/products/pf/agp/content h2="Merge FODS to HTM Using Python" %}}
 
-How to merge FODS to HTM? With Aspose.Cells for Python library, you can easily merge FODS to HTM programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
+How do I merge FODS to HTM? With Aspose.Cells for Python via .NET library, you can easily merge FODS to HTM programmatically with  a few lines of code. [Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python via .NET from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Merge FODS to HTM in Python Online for Free" %}}
 
-The following example demonstrates how to merge FODS to HTM in Python.
+The following example demonstrates how to merge FODS to HTM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Follow the easy steps to merge FODS to HTM. Upload your files, call Workbook.Combine method for merging files, and then save it to HTM file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges FODS to HTM.
@@ -29,16 +29,18 @@ Follow the easy steps to merge FODS to HTM. Upload your files, call Workbook.Com
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge FODS to HTM on line" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Free Online to Merge FODS to HTM in Python" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge FODS to HTM via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with [Aspose.Cells for Python](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
+Need to merge FODS to HTM programmatically? A basic document merging and concatenating with [Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++  Install 'Aspose.Cells for Python via .NET'.
++  Add a library reference (import the library) to your Python project.
 +  Load the FODS file with Workbook class.
 +  Call the Workbook.Combine method for merging files.
 +  Call the Workbook.Save method and pass the output file name as a parameter.
@@ -76,21 +78,41 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A file with .fods extension is a type of OpenDocument Spreadsheet document format that stores data in rows and columns. The format is specified as part of ODF 1.2 specifications published and maintained by OASIS. FODS files cannot be opened with Excel, another Spreadsheet software application by Microsoft. FODS files can be saved as ODS using LibreOffice and can be converted to other formats such as XLS and XLSX.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Files with .htm extension represent Hypertext Markup Language for creating web pages for display in web browsers such as Google Chrome, Internet Explorer, Firefox and a number of others. It defines the markups for creating static pages to be published on World Wide Web (WWW) for access by others. These markups tell the browsers how to display a web page��s contents. Such pages can contain plain text, images, hyperlinks to other pages, videos and other media information. When a web page is published, you can have a look at the markup code behind it by viewing its page source. Modern browsers allow to inspect each section of a web page where each sub-division or markup element in the HTM source is elaborated.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge fods to many other file formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-tsv/" name="TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xls/" name="XLS" description="Excel Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsm/" name="XLSM" description="Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsx/" name="XLSX" description="OOXML Excel File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xltm/" name="XLTM" description="Excel Macro-enabled Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xltx/" name="XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-docx/" name="Merge FODS to DOCX" description="Microsoft Word document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-sql/" name="Merge FODS to SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-bmp/" name="Merge FODS to BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-emf/" name="Merge FODS to EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-gif/" name="Merge FODS to GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-html/" name="Merge FODS to HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-md/" name="Merge FODS to MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-mhtml/" name="Merge FODS to MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-ods/" name="Merge FODS to ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-pdf/" name="Merge FODS to PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-png/" name="Merge FODS to PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-svg/" name="Merge FODS to SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-tiff/" name="Merge FODS to TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-tsv/" name="Merge FODS to TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-txt/" name="Merge FODS to TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xls/" name="Merge FODS to XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsb/" name="Merge FODS to XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsm/" name="Merge FODS to XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlsx/" name="Merge FODS to XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xlt/" name="Merge FODS to XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xltm/" name="Merge FODS to XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xltx/" name="Merge FODS to XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xml/" name="Merge FODS to XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-xps/" name="Merge FODS to XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-json/" name="Merge FODS to JSON" description="JavaScript Object Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-fods-to-jpeg/" name="Merge FODS to JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

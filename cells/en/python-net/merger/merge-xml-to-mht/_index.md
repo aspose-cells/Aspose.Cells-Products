@@ -1,8 +1,8 @@
 ---
-title: Merge XML to MHT via Python 
+title: Merge XML to MHT - Combine XML to MHT via Python
 url: /python-net/merger/merge-xml-to-mht/ 
-description: Merge XML to MHT Online for Free. Free Online XML to MHT Merger. Merge XML to Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS and more.
-keywords: [Merge XML to MHT via Python., XML to MHT Merger., Merge XML to MHT Online for Free]
+description: Aspose Excel. Free Online Merge XML to MHT saveformat. Python Merge XML to MHT format. Combine XML to MHT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MHT saveformat via Python., Free Online Merge XML to mht in Python., Python Combine XML to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,14 +13,14 @@ keywords: [Merge XML to MHT via Python., XML to MHT Merger., Merge XML to MHT On
 
 {{% blocks/products/pf/agp/content h2="Merge XML to MHT Using Python" %}}
 
-How to merge XML to MHT? With Aspose.Cells for Python library, you can easily merge XML to MHT programmatically with  a few lines of code. [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python from <a href="https://pypi.org/project/aspose-cells/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
+How do I merge XML to MHT? With Aspose.Cells for Python via .NET library, you can easily merge XML to MHT programmatically with  a few lines of code. [Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python) is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats. You may install Aspose.Cells for Python via .NET from <a href="https://pypi.org/project/aspose-cells-python/">pypi</a>, use command as: <code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Merge XML to MHT in Python Online for Free" %}}
 
-The following example demonstrates how to merge XML to MHT in Python.
+The following example demonstrates how to merge XML to MHT in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Follow the easy steps to merge XML to MHT. Upload your files, call Workbook.Combine method for merging files, and then save it to MHT file. If you develop code in Python, this will be simpler than it sounds. See Python example that merges XML to MHT.
@@ -29,16 +29,18 @@ Follow the easy steps to merge XML to MHT. Upload your files, call Workbook.Comb
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Free App to merge XML to MHT on line" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Free Online to Merge XML to MHT in Python" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="How to Merge XML to MHT via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basic document merging and concatenating with [Aspose.Cells for Python](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
+Need to merge XML to MHT programmatically? A basic document merging and concatenating with [Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++  Install 'Aspose.Cells for Python via .NET'.
++  Add a library reference (import the library) to your Python project.
 +  Load the XML file with Workbook class.
 +  Call the Workbook.Combine method for merging files.
 +  Call the Workbook.Save method and pass the output file name as a parameter.
@@ -76,21 +78,41 @@ Our APIs are supported on all major platforms and Operating Systems. Before exec
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML stands for Extensible Markup Language that is similar to HTML but different in using tags for defining objects. The whole idea behind creation of XML file format was to store and transport data without being dependent on software or hardware tools. Its popularity is due to it being both human as well as machine readable. This enables it to create common data protocols in the form of objects to be stored and shared over network such as World Wide Web (WWW). The "X" in XML is for extensible which implies that the language can be extended to any number of symbols as per user requirements. It is for these features that many standard file formats make use of it such as Microsoft Open XML, LibreOffice OpenDocument, XHTML and SVG.{{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}A file with .mht extension is a MIME enabled archiving file format that contains different types of data into a single file. It can store data such as text, images, page styling in the form of CSS files, JavaScript, and other resources as embedded resources in it. MHT files, having MIME type message/rfc822, encapsulate all the contents of an HTML file as a single archive file for storing on archiving on storage devices. Software applications such as Microsoft Word lets you convert your WORD documents to MHT by exporting as MHT file. MHT files can be opened using popular browsers such as Microsoft Internet Explore and Google Chrome.{{< /blocks/products/pf/agp/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using Python, One can also merge xml to many other file formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-mhtml/" name="MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-tsv/" name="TSV" description="Tab-Separated Values" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-txt/" name="TXT" description="Text Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xls/" name="XLS" description="Excel Binary Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsb/" name="XLSB" description="Binary Excel Workbook File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsm/" name="XLSM" description="Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsx/" name="XLSX" description="OOXML Excel File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft Excel Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xltm/" name="XLTM" description="Excel Macro-enabled Template" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xltx/" name="XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-docx/" name="Merge XML to DOCX" description="Microsoft Word document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-sql/" name="Merge XML to SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-bmp/" name="Merge XML to BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-emf/" name="Merge XML to EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-gif/" name="Merge XML to GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-html/" name="Merge XML to HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-md/" name="Merge XML to MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-mhtml/" name="Merge XML to MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-ods/" name="Merge XML to ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-pdf/" name="Merge XML to PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-png/" name="Merge XML to PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-svg/" name="Merge XML to SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-tiff/" name="Merge XML to TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-tsv/" name="Merge XML to TSV" description="Tab-Separated Values" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-txt/" name="Merge XML to TXT" description="Text Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xls/" name="Merge XML to XLS" description="Excel Binary Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsb/" name="Merge XML to XLSB" description="Binary Excel Workbook File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsm/" name="Merge XML to XLSM" description="Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlsx/" name="Merge XML to XLSX" description="OOXML Excel File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xlt/" name="Merge XML to XLT" description="Microsoft Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xltm/" name="Merge XML to XLTM" description="Excel Macro-enabled Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xltx/" name="Merge XML to XLTX" description="Office OpenXML Excel Template" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xml/" name="Merge XML to XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-xps/" name="Merge XML to XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-json/" name="Merge XML to JSON" description="JavaScript Object Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xml-to-jpeg/" name="Merge XML to JPEG" description="JPEG Image" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

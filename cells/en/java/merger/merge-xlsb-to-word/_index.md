@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to WORD - Combine XLSB to WORD via Java
 url: /java/merger/merge-xlsb-to-word/ 
-description: Aspose Excel. Free Online Merge XLSB to WORD saveformat. Java Merge XLSB to WORD format. Combine XLSB to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to WORD saveformat via Java., Free Online Merge XLSB to word in Java., Java Combine XLSB to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to WORD saveformat. Java Combine XLSB to WORD format. Combine XLSB to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to WORD saveformat via Java., Free Online Merge XLSB to word in Java., Java Combine XLSB to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

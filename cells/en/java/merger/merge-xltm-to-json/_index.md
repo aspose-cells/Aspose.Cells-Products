@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JSON - Combine XLTM to JSON via Java
 url: /java/merger/merge-xltm-to-json/ 
-description: Aspose Excel. Free Online Merge XLTM to JSON saveformat. Java Merge XLTM to JSON format. Combine XLTM to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to JSON saveformat via Java., Free Online Merge XLTM to json in Java., Java Combine XLTM to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to JSON saveformat. Java Combine XLTM to JSON format. Combine XLTM to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to JSON saveformat via Java., Free Online Merge XLTM to json in Java., Java Combine XLTM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

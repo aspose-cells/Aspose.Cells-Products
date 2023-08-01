@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XPS - Combine HTM to XPS via Python
 url: /python-net/merger/merge-htm-to-xps/ 
-description: Aspose Excel. Free Online Merge HTM to XPS saveformat. Python Merge HTM to XPS format. Combine HTM to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XPS saveformat via Python., Free Online Merge HTM to xps in Python., Python Combine HTM to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XPS saveformat. Python Combine HTM to XPS format. Combine HTM to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to XPS saveformat via Python., Free Online Merge HTM to xps in Python., Python Combine HTM to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

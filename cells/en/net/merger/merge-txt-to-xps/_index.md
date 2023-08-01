@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XPS - Combine TXT to XPS via C#
 url: /net/merger/merge-txt-to-xps/ 
-description: Aspose Excel. Free Online Merge TXT to XPS saveformat. C# Merge TXT to XPS format. Combine TXT to XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to XPS saveformat via C#., Free Online Merge TXT to xps in C#., C# Combine TXT to XPS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to XPS saveformat. C# Combine TXT to XPS format. Combine TXT to XPS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to XPS saveformat via C#., Free Online Merge TXT to xps in C#., C# Combine TXT to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

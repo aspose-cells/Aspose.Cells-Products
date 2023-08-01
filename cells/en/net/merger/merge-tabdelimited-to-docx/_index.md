@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DOCX - Combine TABDELIMITED to DOCX via C#
 url: /net/merger/merge-tabdelimited-to-docx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DOCX saveformat. C# Merge TABDELIMITED to DOCX format. Combine TABDELIMITED to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to DOCX saveformat via C#., Free Online Merge TABDELIMITED to docx in C#., C# Combine TABDELIMITED to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to DOCX saveformat. C# Combine TABDELIMITED to DOCX format. Combine TABDELIMITED to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TABDELIMITED to DOCX saveformat via C#., Free Online Merge TABDELIMITED to docx in C#., C# Combine TABDELIMITED to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

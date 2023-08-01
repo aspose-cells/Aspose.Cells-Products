@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to HTM - Combine MHTML to HTM via Python
 url: /python-net/merger/merge-mhtml-to-htm/ 
-description: Aspose Excel. Free Online Merge MHTML to HTM saveformat. Python Merge MHTML to HTM format. Combine MHTML to HTM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to HTM saveformat via Python., Free Online Merge MHTML to htm in Python., Python Combine MHTML to HTM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to HTM saveformat. Python Combine MHTML to HTM format. Combine MHTML to HTM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to HTM saveformat via Python., Free Online Merge MHTML to htm in Python., Python Combine MHTML to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLSB - Combine CSV to XLSB via Python
 url: /python-java/merger/merge-csv-to-xlsb/ 
-description: Aspose Excel. Free Online Merge CSV to XLSB saveformat. Python Merge CSV to XLSB format. Combine CSV to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XLSB saveformat via Python., Free Online Merge CSV to xlsb in Python., Python Combine CSV to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to XLSB saveformat. Python Combine CSV to XLSB format. Combine CSV to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to XLSB saveformat via Python., Free Online Merge CSV to xlsb in Python., Python Combine CSV to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

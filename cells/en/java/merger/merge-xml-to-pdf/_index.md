@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PDF - Combine XML to PDF via Java
 url: /java/merger/merge-xml-to-pdf/ 
-description: Aspose Excel. Free Online Merge XML to PDF saveformat. Java Merge XML to PDF format. Combine XML to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to PDF saveformat via Java., Free Online Merge XML to pdf in Java., Java Combine XML to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to PDF saveformat. Java Combine XML to PDF format. Combine XML to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to PDF saveformat via Java., Free Online Merge XML to pdf in Java., Java Combine XML to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

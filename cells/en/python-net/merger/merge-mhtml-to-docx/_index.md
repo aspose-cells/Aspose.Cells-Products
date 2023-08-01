@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DOCX - Combine MHTML to DOCX via Python
 url: /python-net/merger/merge-mhtml-to-docx/ 
-description: Aspose Excel. Free Online Merge MHTML to DOCX saveformat. Python Merge MHTML to DOCX format. Combine MHTML to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to DOCX saveformat via Python., Free Online Merge MHTML to docx in Python., Python Combine MHTML to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to DOCX saveformat. Python Combine MHTML to DOCX format. Combine MHTML to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to DOCX saveformat via Python., Free Online Merge MHTML to docx in Python., Python Combine MHTML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

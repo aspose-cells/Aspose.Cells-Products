@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to TXT - Combine XLT to TXT via C#
 url: /net/merger/merge-xlt-to-txt/ 
-description: Aspose Excel. Free Online Merge XLT to TXT saveformat. C# Merge XLT to TXT format. Combine XLT to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to TXT saveformat via C#., Free Online Merge XLT to txt in C#., C# Combine XLT to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to TXT saveformat. C# Combine XLT to TXT format. Combine XLT to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to TXT saveformat via C#., Free Online Merge XLT to txt in C#., C# Combine XLT to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

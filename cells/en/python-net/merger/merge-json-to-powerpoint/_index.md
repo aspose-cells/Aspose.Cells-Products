@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to POWERPOINT - Combine JSON to POWERPOINT via Python
 url: /python-net/merger/merge-json-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JSON to POWERPOINT saveformat. Python Merge JSON to POWERPOINT format. Combine JSON to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to POWERPOINT saveformat via Python., Free Online Merge JSON to powerpoint in Python., Python Combine JSON to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to POWERPOINT saveformat. Python Combine JSON to POWERPOINT format. Combine JSON to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to POWERPOINT saveformat via Python., Free Online Merge JSON to powerpoint in Python., Python Combine JSON to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

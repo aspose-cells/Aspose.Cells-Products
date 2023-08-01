@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLS - Combine XLSM to XLS via C++
 url: /cpp/merger/merge-xlsm-to-xls/ 
-description: Aspose Excel. Free Online Merge XLSM to XLS saveformat. C++ Merge XLSM to XLS format. Combine XLSM to XLS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to XLS saveformat via C++., Free Online Merge XLSM to xls in C++., C++ Combine XLSM to XLS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to XLS saveformat. C++ Combine XLSM to XLS format. Combine XLSM to XLS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to XLS saveformat via C++., Free Online Merge XLSM to xls in C++., C++ Combine XLSM to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to CSV - Combine EXCEL to CSV via C++
 url: /cpp/merger/merge-excel-to-csv/ 
-description: Aspose Excel. Free Online Merge EXCEL to CSV saveformat. C++ Merge EXCEL to CSV format. Combine EXCEL to CSV in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to CSV saveformat via C++., Free Online Merge EXCEL to csv in C++., C++ Combine EXCEL to CSV format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to CSV saveformat. C++ Combine EXCEL to CSV format. Combine EXCEL to CSV in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to CSV saveformat via C++., Free Online Merge EXCEL to csv in C++., C++ Combine EXCEL to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

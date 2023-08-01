@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLSB - Combine MHTML to XLSB via Python
 url: /python-java/merger/merge-mhtml-to-xlsb/ 
-description: Aspose Excel. Free Online Merge MHTML to XLSB saveformat. Python Merge MHTML to XLSB format. Combine MHTML to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XLSB saveformat via Python., Free Online Merge MHTML to xlsb in Python., Python Combine MHTML to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XLSB saveformat. Python Combine MHTML to XLSB format. Combine MHTML to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to XLSB saveformat via Python., Free Online Merge MHTML to xlsb in Python., Python Combine MHTML to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

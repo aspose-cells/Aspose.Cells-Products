@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PDF - Combine PRN to PDF via C++
 url: /cpp/merger/merge-prn-to-pdf/ 
-description: Aspose Excel. Free Online Merge PRN to PDF saveformat. C++ Merge PRN to PDF format. Combine PRN to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to PDF saveformat via C++., Free Online Merge PRN to pdf in C++., C++ Combine PRN to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to PDF saveformat. C++ Combine PRN to PDF format. Combine PRN to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to PDF saveformat via C++., Free Online Merge PRN to pdf in C++., C++ Combine PRN to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

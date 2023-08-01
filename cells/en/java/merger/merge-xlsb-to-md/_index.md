@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MD - Combine XLSB to MD via Java
 url: /java/merger/merge-xlsb-to-md/ 
-description: Aspose Excel. Free Online Merge XLSB to MD saveformat. Java Merge XLSB to MD format. Combine XLSB to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MD saveformat via Java., Free Online Merge XLSB to md in Java., Java Combine XLSB to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to MD saveformat. Java Combine XLSB to MD format. Combine XLSB to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to MD saveformat via Java., Free Online Merge XLSB to md in Java., Java Combine XLSB to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

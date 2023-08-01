@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLSX - Combine FODS to XLSX via Python
 url: /python-net/merger/merge-fods-to-xlsx/ 
-description: Aspose Excel. Free Online Merge FODS to XLSX saveformat. Python Merge FODS to XLSX format. Combine FODS to XLSX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLSX saveformat via Python., Free Online Merge FODS to xlsx in Python., Python Combine FODS to XLSX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XLSX saveformat. Python Combine FODS to XLSX format. Combine FODS to XLSX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to XLSX saveformat via Python., Free Online Merge FODS to xlsx in Python., Python Combine FODS to XLSX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

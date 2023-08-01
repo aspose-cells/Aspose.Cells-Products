@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to HTM - Combine EXCEL to HTM via C#
 url: /net/merger/merge-excel-to-htm/ 
-description: Aspose Excel. Free Online Merge EXCEL to HTM saveformat. C# Merge EXCEL to HTM format. Combine EXCEL to HTM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to HTM saveformat via C#., Free Online Merge EXCEL to htm in C#., C# Combine EXCEL to HTM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to HTM saveformat. C# Combine EXCEL to HTM format. Combine EXCEL to HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to HTM saveformat via C#., Free Online Merge EXCEL to htm in C#., C# Combine EXCEL to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

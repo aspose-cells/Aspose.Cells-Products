@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DOCX - Combine HTM to DOCX via C#
 url: /net/merger/merge-htm-to-docx/ 
-description: Aspose Excel. Free Online Merge HTM to DOCX saveformat. C# Merge HTM to DOCX format. Combine HTM to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to DOCX saveformat via C#., Free Online Merge HTM to docx in C#., C# Combine HTM to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to DOCX saveformat. C# Combine HTM to DOCX format. Combine HTM to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to DOCX saveformat via C#., Free Online Merge HTM to docx in C#., C# Combine HTM to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

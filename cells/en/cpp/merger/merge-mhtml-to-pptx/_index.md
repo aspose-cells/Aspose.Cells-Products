@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PPTX - Combine MHTML to PPTX via C++
 url: /cpp/merger/merge-mhtml-to-pptx/ 
-description: Aspose Excel. Free Online Merge MHTML to PPTX saveformat. C++ Merge MHTML to PPTX format. Combine MHTML to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to PPTX saveformat via C++., Free Online Merge MHTML to pptx in C++., C++ Combine MHTML to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to PPTX saveformat. C++ Combine MHTML to PPTX format. Combine MHTML to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to PPTX saveformat via C++., Free Online Merge MHTML to pptx in C++., C++ Combine MHTML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

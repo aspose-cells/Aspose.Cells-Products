@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLTX - Combine SPREADSHEETML to XLTX via C#
 url: /net/merger/merge-spreadsheetml-to-xltx/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XLTX saveformat. C# Merge SPREADSHEETML to XLTX format. Combine SPREADSHEETML to XLTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLTX saveformat via C#., Free Online Merge SPREADSHEETML to xltx in C#., C# Combine SPREADSHEETML to XLTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to XLTX saveformat. C# Combine SPREADSHEETML to XLTX format. Combine SPREADSHEETML to XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine SPREADSHEETML to XLTX saveformat via C#., Free Online Merge SPREADSHEETML to xltx in C#., C# Combine SPREADSHEETML to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MHTML - Combine JSON to MHTML via C#
 url: /net/merger/merge-json-to-mhtml/ 
-description: Aspose Excel. Free Online Merge JSON to MHTML saveformat. C# Merge JSON to MHTML format. Combine JSON to MHTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to MHTML saveformat via C#., Free Online Merge JSON to mhtml in C#., C# Combine JSON to MHTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to MHTML saveformat. C# Combine JSON to MHTML format. Combine JSON to MHTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine JSON to MHTML saveformat via C#., Free Online Merge JSON to mhtml in C#., C# Combine JSON to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

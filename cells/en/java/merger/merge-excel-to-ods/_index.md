@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ODS - Combine EXCEL to ODS via Java
 url: /java/merger/merge-excel-to-ods/ 
-description: Aspose Excel. Free Online Merge EXCEL to ODS saveformat. Java Merge EXCEL to ODS format. Combine EXCEL to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to ODS saveformat via Java., Free Online Merge EXCEL to ods in Java., Java Combine EXCEL to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to ODS saveformat. Java Combine EXCEL to ODS format. Combine EXCEL to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to ODS saveformat via Java., Free Online Merge EXCEL to ods in Java., Java Combine EXCEL to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

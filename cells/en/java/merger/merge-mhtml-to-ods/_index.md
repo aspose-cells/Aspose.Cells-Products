@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ODS - Combine MHTML to ODS via Java
 url: /java/merger/merge-mhtml-to-ods/ 
-description: Aspose Excel. Free Online Merge MHTML to ODS saveformat. Java Merge MHTML to ODS format. Combine MHTML to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to ODS saveformat via Java., Free Online Merge MHTML to ods in Java., Java Combine MHTML to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to ODS saveformat. Java Combine MHTML to ODS format. Combine MHTML to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to ODS saveformat via Java., Free Online Merge MHTML to ods in Java., Java Combine MHTML to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

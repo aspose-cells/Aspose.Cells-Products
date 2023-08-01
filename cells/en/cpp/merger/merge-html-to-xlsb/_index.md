@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLSB - Combine HTML to XLSB via C++
 url: /cpp/merger/merge-html-to-xlsb/ 
-description: Aspose Excel. Free Online Merge HTML to XLSB saveformat. C++ Merge HTML to XLSB format. Combine HTML to XLSB in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to XLSB saveformat via C++., Free Online Merge HTML to xlsb in C++., C++ Combine HTML to XLSB format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to XLSB saveformat. C++ Combine HTML to XLSB format. Combine HTML to XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to XLSB saveformat via C++., Free Online Merge HTML to xlsb in C++., C++ Combine HTML to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

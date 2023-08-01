@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to WORD - Combine XLTM to WORD via C#
 url: /net/merger/merge-xltm-to-word/ 
-description: Aspose Excel. Free Online Merge XLTM to WORD saveformat. C# Merge XLTM to WORD format. Combine XLTM to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to WORD saveformat via C#., Free Online Merge XLTM to word in C#., C# Combine XLTM to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to WORD saveformat. C# Combine XLTM to WORD format. Combine XLTM to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTM to WORD saveformat via C#., Free Online Merge XLTM to word in C#., C# Combine XLTM to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

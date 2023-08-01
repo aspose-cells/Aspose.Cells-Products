@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to PPTX - Combine TABDELIMITED to PPTX via Python
 url: /python-java/merger/merge-tabdelimited-to-pptx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to PPTX saveformat. Python Merge TABDELIMITED to PPTX format. Combine TABDELIMITED to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to PPTX saveformat via Python., Free Online Merge TABDELIMITED to pptx in Python., Python Combine TABDELIMITED to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to PPTX saveformat. Python Combine TABDELIMITED to PPTX format. Combine TABDELIMITED to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to PPTX saveformat via Python., Free Online Merge TABDELIMITED to pptx in Python., Python Combine TABDELIMITED to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

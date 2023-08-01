@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TXT - Combine PRN to TXT via Python
 url: /python-net/merger/merge-prn-to-txt/ 
-description: Aspose Excel. Free Online Merge PRN to TXT saveformat. Python Merge PRN to TXT format. Combine PRN to TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to TXT saveformat via Python., Free Online Merge PRN to txt in Python., Python Combine PRN to TXT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to TXT saveformat. Python Combine PRN to TXT format. Combine PRN to TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to TXT saveformat via Python., Free Online Merge PRN to txt in Python., Python Combine PRN to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

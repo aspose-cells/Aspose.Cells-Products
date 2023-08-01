@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to MHT - Combine CSV to MHT via Java
 url: /java/merger/merge-csv-to-mht/ 
-description: Aspose Excel. Free Online Merge CSV to MHT saveformat. Java Merge CSV to MHT format. Combine CSV to MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to MHT saveformat via Java., Free Online Merge CSV to mht in Java., Java Combine CSV to MHT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to MHT saveformat. Java Combine CSV to MHT format. Combine CSV to MHT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to MHT saveformat via Java., Free Online Merge CSV to mht in Java., Java Combine CSV to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

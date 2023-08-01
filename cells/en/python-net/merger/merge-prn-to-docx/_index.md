@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DOCX - Combine PRN to DOCX via Python
 url: /python-net/merger/merge-prn-to-docx/ 
-description: Aspose Excel. Free Online Merge PRN to DOCX saveformat. Python Merge PRN to DOCX format. Combine PRN to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to DOCX saveformat via Python., Free Online Merge PRN to docx in Python., Python Combine PRN to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to DOCX saveformat. Python Combine PRN to DOCX format. Combine PRN to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to DOCX saveformat via Python., Free Online Merge PRN to docx in Python., Python Combine PRN to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

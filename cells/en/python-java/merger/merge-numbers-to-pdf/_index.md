@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PDF - Combine NUMBERS to PDF via Python
 url: /python-java/merger/merge-numbers-to-pdf/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PDF saveformat. Python Merge NUMBERS to PDF format. Combine NUMBERS to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PDF saveformat via Python., Free Online Merge NUMBERS to pdf in Python., Python Combine NUMBERS to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to PDF saveformat. Python Combine NUMBERS to PDF format. Combine NUMBERS to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to PDF saveformat via Python., Free Online Merge NUMBERS to pdf in Python., Python Combine NUMBERS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

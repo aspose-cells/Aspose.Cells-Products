@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MD - Combine SXC to MD via C#
 url: /net/merger/merge-sxc-to-md/ 
-description: Aspose Excel. Free Online Merge SXC to MD saveformat. C# Merge SXC to MD format. Combine SXC to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to MD saveformat via C#., Free Online Merge SXC to md in C#., C# Combine SXC to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to MD saveformat. C# Combine SXC to MD format. Combine SXC to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to MD saveformat via C#., Free Online Merge SXC to md in C#., C# Combine SXC to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

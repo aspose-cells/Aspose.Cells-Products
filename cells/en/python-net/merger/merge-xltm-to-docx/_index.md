@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DOCX - Combine XLTM to DOCX via Python
 url: /python-net/merger/merge-xltm-to-docx/ 
-description: Aspose Excel. Free Online Merge XLTM to DOCX saveformat. Python Merge XLTM to DOCX format. Combine XLTM to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DOCX saveformat via Python., Free Online Merge XLTM to docx in Python., Python Combine XLTM to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to DOCX saveformat. Python Combine XLTM to DOCX format. Combine XLTM to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to DOCX saveformat via Python., Free Online Merge XLTM to docx in Python., Python Combine XLTM to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

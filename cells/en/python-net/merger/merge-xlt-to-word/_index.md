@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to WORD - Combine XLT to WORD via Python
 url: /python-net/merger/merge-xlt-to-word/ 
-description: Aspose Excel. Free Online Merge XLT to WORD saveformat. Python Merge XLT to WORD format. Combine XLT to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to WORD saveformat via Python., Free Online Merge XLT to word in Python., Python Combine XLT to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to WORD saveformat. Python Combine XLT to WORD format. Combine XLT to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to WORD saveformat via Python., Free Online Merge XLT to word in Python., Python Combine XLT to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

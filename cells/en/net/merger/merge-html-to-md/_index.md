@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MD - Combine HTML to MD via C#
 url: /net/merger/merge-html-to-md/ 
-description: Aspose Excel. Free Online Merge HTML to MD saveformat. C# Merge HTML to MD format. Combine HTML to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to MD saveformat via C#., Free Online Merge HTML to md in C#., C# Combine HTML to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to MD saveformat. C# Combine HTML to MD format. Combine HTML to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to MD saveformat via C#., Free Online Merge HTML to md in C#., C# Combine HTML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

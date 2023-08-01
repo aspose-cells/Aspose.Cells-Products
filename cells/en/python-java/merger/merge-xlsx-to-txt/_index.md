@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to TXT - Combine XLSX to TXT via Python
 url: /python-java/merger/merge-xlsx-to-txt/ 
-description: Aspose Excel. Free Online Merge XLSX to TXT saveformat. Python Merge XLSX to TXT format. Combine XLSX to TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to TXT saveformat via Python., Free Online Merge XLSX to txt in Python., Python Combine XLSX to TXT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to TXT saveformat. Python Combine XLSX to TXT format. Combine XLSX to TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSX to TXT saveformat via Python., Free Online Merge XLSX to txt in Python., Python Combine XLSX to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

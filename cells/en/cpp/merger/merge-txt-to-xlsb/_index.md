@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLSB - Combine TXT to XLSB via C++
 url: /cpp/merger/merge-txt-to-xlsb/ 
-description: Aspose Excel. Free Online Merge TXT to XLSB saveformat. C++ Merge TXT to XLSB format. Combine TXT to XLSB in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to XLSB saveformat via C++., Free Online Merge TXT to xlsb in C++., C++ Combine TXT to XLSB format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to XLSB saveformat. C++ Combine TXT to XLSB format. Combine TXT to XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to XLSB saveformat via C++., Free Online Merge TXT to xlsb in C++., C++ Combine TXT to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

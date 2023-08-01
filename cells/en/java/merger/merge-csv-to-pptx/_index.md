@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to PPTX - Combine CSV to PPTX via Java
 url: /java/merger/merge-csv-to-pptx/ 
-description: Aspose Excel. Free Online Merge CSV to PPTX saveformat. Java Merge CSV to PPTX format. Combine CSV to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to PPTX saveformat via Java., Free Online Merge CSV to pptx in Java., Java Combine CSV to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to PPTX saveformat. Java Combine CSV to PPTX format. Combine CSV to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to PPTX saveformat via Java., Free Online Merge CSV to pptx in Java., Java Combine CSV to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

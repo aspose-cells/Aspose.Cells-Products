@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MD - Combine TXT to MD via C#
 url: /net/merger/merge-txt-to-md/ 
-description: Aspose Excel. Free Online Merge TXT to MD saveformat. C# Merge TXT to MD format. Combine TXT to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to MD saveformat via C#., Free Online Merge TXT to md in C#., C# Combine TXT to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to MD saveformat. C# Combine TXT to MD format. Combine TXT to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to MD saveformat via C#., Free Online Merge TXT to md in C#., C# Combine TXT to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TXT - Combine MHTML to TXT via C#
 url: /net/merger/merge-mhtml-to-txt/ 
-description: Aspose Excel. Free Online Merge MHTML to TXT saveformat. C# Merge MHTML to TXT format. Combine MHTML to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TXT saveformat via C#., Free Online Merge MHTML to txt in C#., C# Combine MHTML to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to TXT saveformat. C# Combine MHTML to TXT format. Combine MHTML to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to TXT saveformat via C#., Free Online Merge MHTML to txt in C#., C# Combine MHTML to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

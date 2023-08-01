@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to MD - Combine XLS to MD via C#
 url: /net/merger/merge-xls-to-md/ 
-description: Aspose Excel. Free Online Merge XLS to MD saveformat. C# Merge XLS to MD format. Combine XLS to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to MD saveformat via C#., Free Online Merge XLS to md in C#., C# Combine XLS to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to MD saveformat. C# Combine XLS to MD format. Combine XLS to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to MD saveformat via C#., Free Online Merge XLS to md in C#., C# Combine XLS to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

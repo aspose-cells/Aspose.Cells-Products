@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to POWERPOINT - Combine JSON to POWERPOINT via C++
 url: /cpp/merger/merge-json-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JSON to POWERPOINT saveformat. C++ Merge JSON to POWERPOINT format. Combine JSON to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to POWERPOINT saveformat via C++., Free Online Merge JSON to powerpoint in C++., C++ Combine JSON to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to POWERPOINT saveformat. C++ Combine JSON to POWERPOINT format. Combine JSON to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to POWERPOINT saveformat via C++., Free Online Merge JSON to powerpoint in C++., C++ Combine JSON to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

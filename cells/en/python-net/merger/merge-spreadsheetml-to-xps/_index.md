@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XPS - Combine SPREADSHEETML to XPS via Python
 url: /python-net/merger/merge-spreadsheetml-to-xps/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XPS saveformat. Python Merge SPREADSHEETML to XPS format. Combine SPREADSHEETML to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to XPS saveformat via Python., Free Online Merge SPREADSHEETML to xps in Python., Python Combine SPREADSHEETML to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to XPS saveformat. Python Combine SPREADSHEETML to XPS format. Combine SPREADSHEETML to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to XPS saveformat via Python., Free Online Merge SPREADSHEETML to xps in Python., Python Combine SPREADSHEETML to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

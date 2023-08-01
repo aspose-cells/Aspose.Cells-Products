@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to WORD - Combine XLSB to WORD via C++
 url: /cpp/merger/merge-xlsb-to-word/ 
-description: Aspose Excel. Free Online Merge XLSB to WORD saveformat. C++ Merge XLSB to WORD format. Combine XLSB to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to WORD saveformat via C++., Free Online Merge XLSB to word in C++., C++ Combine XLSB to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to WORD saveformat. C++ Combine XLSB to WORD format. Combine XLSB to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to WORD saveformat via C++., Free Online Merge XLSB to word in C++., C++ Combine XLSB to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

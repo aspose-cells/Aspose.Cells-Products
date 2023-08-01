@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to POWERPOINT - Combine XLT to POWERPOINT via C++
 url: /cpp/merger/merge-xlt-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLT to POWERPOINT saveformat. C++ Merge XLT to POWERPOINT format. Combine XLT to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to POWERPOINT saveformat via C++., Free Online Merge XLT to powerpoint in C++., C++ Combine XLT to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to POWERPOINT saveformat. C++ Combine XLT to POWERPOINT format. Combine XLT to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to POWERPOINT saveformat via C++., Free Online Merge XLT to powerpoint in C++., C++ Combine XLT to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

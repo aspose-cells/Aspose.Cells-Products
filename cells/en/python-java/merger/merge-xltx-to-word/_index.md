@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to WORD - Combine XLTX to WORD via Python
 url: /python-java/merger/merge-xltx-to-word/ 
-description: Aspose Excel. Free Online Merge XLTX to WORD saveformat. Python Merge XLTX to WORD format. Combine XLTX to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to WORD saveformat via Python., Free Online Merge XLTX to word in Python., Python Combine XLTX to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to WORD saveformat. Python Combine XLTX to WORD format. Combine XLTX to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to WORD saveformat via Python., Free Online Merge XLTX to word in Python., Python Combine XLTX to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

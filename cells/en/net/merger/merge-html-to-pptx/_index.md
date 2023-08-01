@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PPTX - Combine HTML to PPTX via C#
 url: /net/merger/merge-html-to-pptx/ 
-description: Aspose Excel. Free Online Merge HTML to PPTX saveformat. C# Merge HTML to PPTX format. Combine HTML to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to PPTX saveformat via C#., Free Online Merge HTML to pptx in C#., C# Combine HTML to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to PPTX saveformat. C# Combine HTML to PPTX format. Combine HTML to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to PPTX saveformat via C#., Free Online Merge HTML to pptx in C#., C# Combine HTML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

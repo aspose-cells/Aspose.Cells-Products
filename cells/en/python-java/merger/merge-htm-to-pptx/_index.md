@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PPTX - Combine HTM to PPTX via Python
 url: /python-java/merger/merge-htm-to-pptx/ 
-description: Aspose Excel. Free Online Merge HTM to PPTX saveformat. Python Merge HTM to PPTX format. Combine HTM to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to PPTX saveformat via Python., Free Online Merge HTM to pptx in Python., Python Combine HTM to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to PPTX saveformat. Python Combine HTM to PPTX format. Combine HTM to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to PPTX saveformat via Python., Free Online Merge HTM to pptx in Python., Python Combine HTM to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

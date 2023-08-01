@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DOCX - Combine TABDELIMITED to DOCX via Python
 url: /python-net/merger/merge-tabdelimited-to-docx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DOCX saveformat. Python Merge TABDELIMITED to DOCX format. Combine TABDELIMITED to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to DOCX saveformat via Python., Free Online Merge TABDELIMITED to docx in Python., Python Combine TABDELIMITED to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to DOCX saveformat. Python Combine TABDELIMITED to DOCX format. Combine TABDELIMITED to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to DOCX saveformat via Python., Free Online Merge TABDELIMITED to docx in Python., Python Combine TABDELIMITED to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

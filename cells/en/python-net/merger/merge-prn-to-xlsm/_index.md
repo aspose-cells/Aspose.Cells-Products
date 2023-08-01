@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLSM - Combine PRN to XLSM via Python
 url: /python-net/merger/merge-prn-to-xlsm/ 
-description: Aspose Excel. Free Online Merge PRN to XLSM saveformat. Python Merge PRN to XLSM format. Combine PRN to XLSM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to XLSM saveformat via Python., Free Online Merge PRN to xlsm in Python., Python Combine PRN to XLSM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to XLSM saveformat. Python Combine PRN to XLSM format. Combine PRN to XLSM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to XLSM saveformat via Python., Free Online Merge PRN to xlsm in Python., Python Combine PRN to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

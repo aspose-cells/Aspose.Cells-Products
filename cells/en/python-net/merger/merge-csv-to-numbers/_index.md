@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to NUMBERS - Combine CSV to NUMBERS via Python
 url: /python-net/merger/merge-csv-to-numbers/ 
-description: Aspose Excel. Free Online Merge CSV to NUMBERS saveformat. Python Merge CSV to NUMBERS format. Combine CSV to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to NUMBERS saveformat via Python., Free Online Merge CSV to numbers in Python., Python Combine CSV to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to NUMBERS saveformat. Python Combine CSV to NUMBERS format. Combine CSV to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to NUMBERS saveformat via Python., Free Online Merge CSV to numbers in Python., Python Combine CSV to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PDF - Combine HTML to PDF via C++
 url: /cpp/merger/merge-html-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTML to PDF saveformat. C++ Merge HTML to PDF format. Combine HTML to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to PDF saveformat via C++., Free Online Merge HTML to pdf in C++., C++ Combine HTML to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to PDF saveformat. C++ Combine HTML to PDF format. Combine HTML to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to PDF saveformat via C++., Free Online Merge HTML to pdf in C++., C++ Combine HTML to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

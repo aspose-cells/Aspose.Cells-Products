@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLS - Combine PRN to XLS via Python
 url: /python-java/merger/merge-prn-to-xls/ 
-description: Aspose Excel. Free Online Merge PRN to XLS saveformat. Python Merge PRN to XLS format. Combine PRN to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to XLS saveformat via Python., Free Online Merge PRN to xls in Python., Python Combine PRN to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to XLS saveformat. Python Combine PRN to XLS format. Combine PRN to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to XLS saveformat via Python., Free Online Merge PRN to xls in Python., Python Combine PRN to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

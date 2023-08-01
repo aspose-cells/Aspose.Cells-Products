@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MHTML - Combine XLTM to MHTML via Python
 url: /python-java/merger/merge-xltm-to-mhtml/ 
-description: Aspose Excel. Free Online Merge XLTM to MHTML saveformat. Python Merge XLTM to MHTML format. Combine XLTM to MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to MHTML saveformat via Python., Free Online Merge XLTM to mhtml in Python., Python Combine XLTM to MHTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to MHTML saveformat. Python Combine XLTM to MHTML format. Combine XLTM to MHTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to MHTML saveformat via Python., Free Online Merge XLTM to mhtml in Python., Python Combine XLTM to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

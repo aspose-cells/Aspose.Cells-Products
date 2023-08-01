@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLT - Combine FODS to XLT via Java
 url: /java/merger/merge-fods-to-xlt/ 
-description: Aspose Excel. Free Online Merge FODS to XLT saveformat. Java Merge FODS to XLT format. Combine FODS to XLT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLT saveformat via Java., Free Online Merge FODS to xlt in Java., Java Combine FODS to XLT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLT saveformat. Java Combine FODS to XLT format. Combine FODS to XLT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to XLT saveformat via Java., Free Online Merge FODS to xlt in Java., Java Combine FODS to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

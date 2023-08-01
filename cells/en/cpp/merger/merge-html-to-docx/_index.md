@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DOCX - Combine HTML to DOCX via C++
 url: /cpp/merger/merge-html-to-docx/ 
-description: Aspose Excel. Free Online Merge HTML to DOCX saveformat. C++ Merge HTML to DOCX format. Combine HTML to DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to DOCX saveformat via C++., Free Online Merge HTML to docx in C++., C++ Combine HTML to DOCX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to DOCX saveformat. C++ Combine HTML to DOCX format. Combine HTML to DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to DOCX saveformat via C++., Free Online Merge HTML to docx in C++., C++ Combine HTML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

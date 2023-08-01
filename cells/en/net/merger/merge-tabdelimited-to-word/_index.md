@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to WORD - Combine TABDELIMITED to WORD via C#
 url: /net/merger/merge-tabdelimited-to-word/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to WORD saveformat. C# Merge TABDELIMITED to WORD format. Combine TABDELIMITED to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to WORD saveformat via C#., Free Online Merge TABDELIMITED to word in C#., C# Combine TABDELIMITED to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to WORD saveformat. C# Combine TABDELIMITED to WORD format. Combine TABDELIMITED to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TABDELIMITED to WORD saveformat via C#., Free Online Merge TABDELIMITED to word in C#., C# Combine TABDELIMITED to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

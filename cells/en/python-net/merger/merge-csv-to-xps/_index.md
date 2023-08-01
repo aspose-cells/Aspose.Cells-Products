@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XPS - Combine CSV to XPS via Python
 url: /python-net/merger/merge-csv-to-xps/ 
-description: Aspose Excel. Free Online Merge CSV to XPS saveformat. Python Merge CSV to XPS format. Combine CSV to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to XPS saveformat via Python., Free Online Merge CSV to xps in Python., Python Combine CSV to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to XPS saveformat. Python Combine CSV to XPS format. Combine CSV to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to XPS saveformat via Python., Free Online Merge CSV to xps in Python., Python Combine CSV to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

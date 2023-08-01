@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XPS - Combine CSV to XPS via Java
 url: /java/merger/merge-csv-to-xps/ 
-description: Aspose Excel. Free Online Merge CSV to XPS saveformat. Java Merge CSV to XPS format. Combine CSV to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to XPS saveformat via Java., Free Online Merge CSV to xps in Java., Java Combine CSV to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to XPS saveformat. Java Combine CSV to XPS format. Combine CSV to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to XPS saveformat via Java., Free Online Merge CSV to xps in Java., Java Combine CSV to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLSM - Combine XLS to XLSM via Java
 url: /java/merger/merge-xls-to-xlsm/ 
-description: Aspose Excel. Free Online Merge XLS to XLSM saveformat. Java Merge XLS to XLSM format. Combine XLS to XLSM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to XLSM saveformat via Java., Free Online Merge XLS to xlsm in Java., Java Combine XLS to XLSM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to XLSM saveformat. Java Combine XLS to XLSM format. Combine XLS to XLSM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLS to XLSM saveformat via Java., Free Online Merge XLS to xlsm in Java., Java Combine XLS to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

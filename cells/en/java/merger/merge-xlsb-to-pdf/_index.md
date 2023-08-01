@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PDF - Combine XLSB to PDF via Java
 url: /java/merger/merge-xlsb-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLSB to PDF saveformat. Java Merge XLSB to PDF format. Combine XLSB to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to PDF saveformat via Java., Free Online Merge XLSB to pdf in Java., Java Combine XLSB to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to PDF saveformat. Java Combine XLSB to PDF format. Combine XLSB to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to PDF saveformat via Java., Free Online Merge XLSB to pdf in Java., Java Combine XLSB to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

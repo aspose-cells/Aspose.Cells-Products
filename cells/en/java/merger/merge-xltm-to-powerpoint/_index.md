@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to POWERPOINT - Combine XLTM to POWERPOINT via Java
 url: /java/merger/merge-xltm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLTM to POWERPOINT saveformat. Java Merge XLTM to POWERPOINT format. Combine XLTM to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to POWERPOINT saveformat via Java., Free Online Merge XLTM to powerpoint in Java., Java Combine XLTM to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to POWERPOINT saveformat. Java Combine XLTM to POWERPOINT format. Combine XLTM to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to POWERPOINT saveformat via Java., Free Online Merge XLTM to powerpoint in Java., Java Combine XLTM to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

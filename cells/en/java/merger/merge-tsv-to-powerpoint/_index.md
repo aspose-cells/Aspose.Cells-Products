@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to POWERPOINT - Combine TSV to POWERPOINT via Java
 url: /java/merger/merge-tsv-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TSV to POWERPOINT saveformat. Java Merge TSV to POWERPOINT format. Combine TSV to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to POWERPOINT saveformat via Java., Free Online Merge TSV to powerpoint in Java., Java Combine TSV to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to POWERPOINT saveformat. Java Combine TSV to POWERPOINT format. Combine TSV to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TSV to POWERPOINT saveformat via Java., Free Online Merge TSV to powerpoint in Java., Java Combine TSV to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

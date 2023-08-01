@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MHTML - Combine TXT to MHTML via Python
 url: /python-java/merger/merge-txt-to-mhtml/ 
-description: Aspose Excel. Free Online Merge TXT to MHTML saveformat. Python Merge TXT to MHTML format. Combine TXT to MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to MHTML saveformat via Python., Free Online Merge TXT to mhtml in Python., Python Combine TXT to MHTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to MHTML saveformat. Python Combine TXT to MHTML format. Combine TXT to MHTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to MHTML saveformat via Python., Free Online Merge TXT to mhtml in Python., Python Combine TXT to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

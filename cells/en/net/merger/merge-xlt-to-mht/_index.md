@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MHT - Combine XLT to MHT via C#
 url: /net/merger/merge-xlt-to-mht/ 
-description: Aspose Excel. Free Online Merge XLT to MHT saveformat. C# Merge XLT to MHT format. Combine XLT to MHT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to MHT saveformat via C#., Free Online Merge XLT to mht in C#., C# Combine XLT to MHT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to MHT saveformat. C# Combine XLT to MHT format. Combine XLT to MHT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to MHT saveformat via C#., Free Online Merge XLT to mht in C#., C# Combine XLT to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

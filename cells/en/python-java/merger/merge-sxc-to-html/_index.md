@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to HTML - Combine SXC to HTML via Python
 url: /python-java/merger/merge-sxc-to-html/ 
-description: Aspose Excel. Free Online Merge SXC to HTML saveformat. Python Merge SXC to HTML format. Combine SXC to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to HTML saveformat via Python., Free Online Merge SXC to html in Python., Python Combine SXC to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to HTML saveformat. Python Combine SXC to HTML format. Combine SXC to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to HTML saveformat via Python., Free Online Merge SXC to html in Python., Python Combine SXC to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

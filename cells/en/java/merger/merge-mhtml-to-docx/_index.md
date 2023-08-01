@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DOCX - Combine MHTML to DOCX via Java
 url: /java/merger/merge-mhtml-to-docx/ 
-description: Aspose Excel. Free Online Merge MHTML to DOCX saveformat. Java Merge MHTML to DOCX format. Combine MHTML to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to DOCX saveformat via Java., Free Online Merge MHTML to docx in Java., Java Combine MHTML to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to DOCX saveformat. Java Combine MHTML to DOCX format. Combine MHTML to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to DOCX saveformat via Java., Free Online Merge MHTML to docx in Java., Java Combine MHTML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JSON - Combine NUMBERS to JSON via C#
 url: /net/merger/merge-numbers-to-json/ 
-description: Aspose Excel. Free Online Merge NUMBERS to JSON saveformat. C# Merge NUMBERS to JSON format. Combine NUMBERS to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JSON saveformat via C#., Free Online Merge NUMBERS to json in C#., C# Combine NUMBERS to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to JSON saveformat. C# Combine NUMBERS to JSON format. Combine NUMBERS to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to JSON saveformat via C#., Free Online Merge NUMBERS to json in C#., C# Combine NUMBERS to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

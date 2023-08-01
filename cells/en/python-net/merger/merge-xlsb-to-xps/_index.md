@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XPS - Combine XLSB to XPS via Python
 url: /python-net/merger/merge-xlsb-to-xps/ 
-description: Aspose Excel. Free Online Merge XLSB to XPS saveformat. Python Merge XLSB to XPS format. Combine XLSB to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XPS saveformat via Python., Free Online Merge XLSB to xps in Python., Python Combine XLSB to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to XPS saveformat. Python Combine XLSB to XPS format. Combine XLSB to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to XPS saveformat via Python., Free Online Merge XLSB to xps in Python., Python Combine XLSB to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

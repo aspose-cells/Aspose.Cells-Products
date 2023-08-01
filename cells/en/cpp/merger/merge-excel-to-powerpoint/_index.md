@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to POWERPOINT - Combine EXCEL to POWERPOINT via C++
 url: /cpp/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge EXCEL to POWERPOINT saveformat. C++ Merge EXCEL to POWERPOINT format. Combine EXCEL to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to POWERPOINT saveformat via C++., Free Online Merge EXCEL to powerpoint in C++., C++ Combine EXCEL to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to POWERPOINT saveformat. C++ Combine EXCEL to POWERPOINT format. Combine EXCEL to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to POWERPOINT saveformat via C++., Free Online Merge EXCEL to powerpoint in C++., C++ Combine EXCEL to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

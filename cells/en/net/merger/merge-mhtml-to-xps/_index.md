@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XPS - Combine MHTML to XPS via C#
 url: /net/merger/merge-mhtml-to-xps/ 
-description: Aspose Excel. Free Online Merge MHTML to XPS saveformat. C# Merge MHTML to XPS format. Combine MHTML to XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XPS saveformat via C#., Free Online Merge MHTML to xps in C#., C# Combine MHTML to XPS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to XPS saveformat. C# Combine MHTML to XPS format. Combine MHTML to XPS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to XPS saveformat via C#., Free Online Merge MHTML to xps in C#., C# Combine MHTML to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

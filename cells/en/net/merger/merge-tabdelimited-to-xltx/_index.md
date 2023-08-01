@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLTX - Combine TABDELIMITED to XLTX via C#
 url: /net/merger/merge-tabdelimited-to-xltx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLTX saveformat. C# Merge TABDELIMITED to XLTX format. Combine TABDELIMITED to XLTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLTX saveformat via C#., Free Online Merge TABDELIMITED to xltx in C#., C# Combine TABDELIMITED to XLTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to XLTX saveformat. C# Combine TABDELIMITED to XLTX format. Combine TABDELIMITED to XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TABDELIMITED to XLTX saveformat via C#., Free Online Merge TABDELIMITED to xltx in C#., C# Combine TABDELIMITED to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

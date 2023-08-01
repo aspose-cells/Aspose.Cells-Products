@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ODS - Combine FODS to ODS via Java
 url: /java/merger/merge-fods-to-ods/ 
-description: Aspose Excel. Free Online Merge FODS to ODS saveformat. Java Merge FODS to ODS format. Combine FODS to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to ODS saveformat via Java., Free Online Merge FODS to ods in Java., Java Combine FODS to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to ODS saveformat. Java Combine FODS to ODS format. Combine FODS to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to ODS saveformat via Java., Free Online Merge FODS to ods in Java., Java Combine FODS to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

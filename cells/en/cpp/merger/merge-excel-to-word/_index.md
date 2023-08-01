@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to WORD - Combine EXCEL to WORD via C++
 url: /cpp/merger/merge-excel-to-word/ 
-description: Aspose Excel. Free Online Merge EXCEL to WORD saveformat. C++ Merge EXCEL to WORD format. Combine EXCEL to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to WORD saveformat via C++., Free Online Merge EXCEL to word in C++., C++ Combine EXCEL to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to WORD saveformat. C++ Combine EXCEL to WORD format. Combine EXCEL to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to WORD saveformat via C++., Free Online Merge EXCEL to word in C++., C++ Combine EXCEL to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

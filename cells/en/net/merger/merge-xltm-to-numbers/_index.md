@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to NUMBERS - Combine XLTM to NUMBERS via C#
 url: /net/merger/merge-xltm-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLTM to NUMBERS saveformat. C# Merge XLTM to NUMBERS format. Combine XLTM to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to NUMBERS saveformat via C#., Free Online Merge XLTM to numbers in C#., C# Combine XLTM to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to NUMBERS saveformat. C# Combine XLTM to NUMBERS format. Combine XLTM to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTM to NUMBERS saveformat via C#., Free Online Merge XLTM to numbers in C#., C# Combine XLTM to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

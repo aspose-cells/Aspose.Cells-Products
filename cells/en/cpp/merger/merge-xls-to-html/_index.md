@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to HTML - Combine XLS to HTML via C++
 url: /cpp/merger/merge-xls-to-html/ 
-description: Aspose Excel. Free Online Merge XLS to HTML saveformat. C++ Merge XLS to HTML format. Combine XLS to HTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to HTML saveformat via C++., Free Online Merge XLS to html in C++., C++ Combine XLS to HTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to HTML saveformat. C++ Combine XLS to HTML format. Combine XLS to HTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLS to HTML saveformat via C++., Free Online Merge XLS to html in C++., C++ Combine XLS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

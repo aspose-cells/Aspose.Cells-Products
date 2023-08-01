@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to HTML - Combine HTML to HTML via C#
 url: /net/merger/merge-html-to-html/ 
-description: Aspose Excel. Free Online Merge HTML to HTML saveformat. C# Merge HTML to HTML format. Combine HTML to HTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to HTML saveformat via C#., Free Online Merge HTML to html in C#., C# Combine HTML to HTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to HTML saveformat. C# Combine HTML to HTML format. Combine HTML to HTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to HTML saveformat via C#., Free Online Merge HTML to html in C#., C# Combine HTML to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to CSV - Combine NUMBERS to CSV via Java
 url: /java/merger/merge-numbers-to-csv/ 
-description: Aspose Excel. Free Online Merge NUMBERS to CSV saveformat. Java Merge NUMBERS to CSV format. Combine NUMBERS to CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to CSV saveformat via Java., Free Online Merge NUMBERS to csv in Java., Java Combine NUMBERS to CSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to CSV saveformat. Java Combine NUMBERS to CSV format. Combine NUMBERS to CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to CSV saveformat via Java., Free Online Merge NUMBERS to csv in Java., Java Combine NUMBERS to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

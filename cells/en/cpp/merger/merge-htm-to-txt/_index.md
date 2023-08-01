@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TXT - Combine HTM to TXT via C++
 url: /cpp/merger/merge-htm-to-txt/ 
-description: Aspose Excel. Free Online Merge HTM to TXT saveformat. C++ Merge HTM to TXT format. Combine HTM to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to TXT saveformat via C++., Free Online Merge HTM to txt in C++., C++ Combine HTM to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to TXT saveformat. C++ Combine HTM to TXT format. Combine HTM to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to TXT saveformat via C++., Free Online Merge HTM to txt in C++., C++ Combine HTM to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

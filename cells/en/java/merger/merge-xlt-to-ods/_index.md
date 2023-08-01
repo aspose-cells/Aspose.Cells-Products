@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to ODS - Combine XLT to ODS via Java
 url: /java/merger/merge-xlt-to-ods/ 
-description: Aspose Excel. Free Online Merge XLT to ODS saveformat. Java Merge XLT to ODS format. Combine XLT to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to ODS saveformat via Java., Free Online Merge XLT to ods in Java., Java Combine XLT to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to ODS saveformat. Java Combine XLT to ODS format. Combine XLT to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLT to ODS saveformat via Java., Free Online Merge XLT to ods in Java., Java Combine XLT to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PDF - Combine XLT to PDF via C++
 url: /cpp/merger/merge-xlt-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLT to PDF saveformat. C++ Merge XLT to PDF format. Combine XLT to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to PDF saveformat via C++., Free Online Merge XLT to pdf in C++., C++ Combine XLT to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to PDF saveformat. C++ Combine XLT to PDF format. Combine XLT to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to PDF saveformat via C++., Free Online Merge XLT to pdf in C++., C++ Combine XLT to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

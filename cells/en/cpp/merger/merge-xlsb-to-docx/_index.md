@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DOCX - Combine XLSB to DOCX via C++
 url: /cpp/merger/merge-xlsb-to-docx/ 
-description: Aspose Excel. Free Online Merge XLSB to DOCX saveformat. C++ Merge XLSB to DOCX format. Combine XLSB to DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to DOCX saveformat via C++., Free Online Merge XLSB to docx in C++., C++ Combine XLSB to DOCX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to DOCX saveformat. C++ Combine XLSB to DOCX format. Combine XLSB to DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to DOCX saveformat via C++., Free Online Merge XLSB to docx in C++., C++ Combine XLSB to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

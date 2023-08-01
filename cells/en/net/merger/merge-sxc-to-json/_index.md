@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to JSON - Combine SXC to JSON via C#
 url: /net/merger/merge-sxc-to-json/ 
-description: Aspose Excel. Free Online Merge SXC to JSON saveformat. C# Merge SXC to JSON format. Combine SXC to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to JSON saveformat via C#., Free Online Merge SXC to json in C#., C# Combine SXC to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to JSON saveformat. C# Combine SXC to JSON format. Combine SXC to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to JSON saveformat via C#., Free Online Merge SXC to json in C#., C# Combine SXC to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

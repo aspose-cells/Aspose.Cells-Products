@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to WORD - Combine SPREADSHEETML to WORD via Python
 url: /python-net/merger/merge-spreadsheetml-to-word/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to WORD saveformat. Python Merge SPREADSHEETML to WORD format. Combine SPREADSHEETML to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to WORD saveformat via Python., Free Online Merge SPREADSHEETML to word in Python., Python Combine SPREADSHEETML to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to WORD saveformat. Python Combine SPREADSHEETML to WORD format. Combine SPREADSHEETML to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to WORD saveformat via Python., Free Online Merge SPREADSHEETML to word in Python., Python Combine SPREADSHEETML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

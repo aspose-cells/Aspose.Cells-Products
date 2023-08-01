@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TSV - Combine MHTML to TSV via Python
 url: /python-net/merger/merge-mhtml-to-tsv/ 
-description: Aspose Excel. Free Online Merge MHTML to TSV saveformat. Python Merge MHTML to TSV format. Combine MHTML to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TSV saveformat via Python., Free Online Merge MHTML to tsv in Python., Python Combine MHTML to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to TSV saveformat. Python Combine MHTML to TSV format. Combine MHTML to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to TSV saveformat via Python., Free Online Merge MHTML to tsv in Python., Python Combine MHTML to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

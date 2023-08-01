@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XPS - Combine EXCEL to XPS via Python
 url: /python-net/merger/merge-excel-to-xps/ 
-description: Aspose Excel. Free Online Merge EXCEL to XPS saveformat. Python Merge EXCEL to XPS format. Combine EXCEL to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XPS saveformat via Python., Free Online Merge EXCEL to xps in Python., Python Combine EXCEL to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to XPS saveformat. Python Combine EXCEL to XPS format. Combine EXCEL to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to XPS saveformat via Python., Free Online Merge EXCEL to xps in Python., Python Combine EXCEL to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

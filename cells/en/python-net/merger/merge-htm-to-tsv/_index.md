@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TSV - Combine HTM to TSV via Python
 url: /python-net/merger/merge-htm-to-tsv/ 
-description: Aspose Excel. Free Online Merge HTM to TSV saveformat. Python Merge HTM to TSV format. Combine HTM to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to TSV saveformat via Python., Free Online Merge HTM to tsv in Python., Python Combine HTM to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to TSV saveformat. Python Combine HTM to TSV format. Combine HTM to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to TSV saveformat via Python., Free Online Merge HTM to tsv in Python., Python Combine HTM to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

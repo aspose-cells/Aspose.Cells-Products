@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLS - Combine NUMBERS to XLS via Java
 url: /java/merger/merge-numbers-to-xls/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLS saveformat. Java Merge NUMBERS to XLS format. Combine NUMBERS to XLS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLS saveformat via Java., Free Online Merge NUMBERS to xls in Java., Java Combine NUMBERS to XLS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XLS saveformat. Java Combine NUMBERS to XLS format. Combine NUMBERS to XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to XLS saveformat via Java., Free Online Merge NUMBERS to xls in Java., Java Combine NUMBERS to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

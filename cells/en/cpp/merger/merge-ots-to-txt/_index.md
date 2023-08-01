@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TXT - Combine OTS to TXT via C++
 url: /cpp/merger/merge-ots-to-txt/ 
-description: Aspose Excel. Free Online Merge OTS to TXT saveformat. C++ Merge OTS to TXT format. Combine OTS to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to TXT saveformat via C++., Free Online Merge OTS to txt in C++., C++ Combine OTS to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to TXT saveformat. C++ Combine OTS to TXT format. Combine OTS to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to TXT saveformat via C++., Free Online Merge OTS to txt in C++., C++ Combine OTS to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

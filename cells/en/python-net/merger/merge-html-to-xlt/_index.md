@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLT - Combine HTML to XLT via Python
 url: /python-net/merger/merge-html-to-xlt/ 
-description: Aspose Excel. Free Online Merge HTML to XLT saveformat. Python Merge HTML to XLT format. Combine HTML to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLT saveformat via Python., Free Online Merge HTML to xlt in Python., Python Combine HTML to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XLT saveformat. Python Combine HTML to XLT format. Combine HTML to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to XLT saveformat via Python., Free Online Merge HTML to xlt in Python., Python Combine HTML to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PPTX - Combine XLTX to PPTX via C++
 url: /cpp/merger/merge-xltx-to-pptx/ 
-description: Aspose Excel. Free Online Merge XLTX to PPTX saveformat. C++ Merge XLTX to PPTX format. Combine XLTX to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to PPTX saveformat via C++., Free Online Merge XLTX to pptx in C++., C++ Combine XLTX to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to PPTX saveformat. C++ Combine XLTX to PPTX format. Combine XLTX to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to PPTX saveformat via C++., Free Online Merge XLTX to pptx in C++., C++ Combine XLTX to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

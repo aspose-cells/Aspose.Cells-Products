@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLS - Combine MHTML to XLS via Java
 url: /java/merger/merge-mhtml-to-xls/ 
-description: Aspose Excel. Free Online Merge MHTML to XLS saveformat. Java Merge MHTML to XLS format. Combine MHTML to XLS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLS saveformat via Java., Free Online Merge MHTML to xls in Java., Java Combine MHTML to XLS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to XLS saveformat. Java Combine MHTML to XLS format. Combine MHTML to XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to XLS saveformat via Java., Free Online Merge MHTML to xls in Java., Java Combine MHTML to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

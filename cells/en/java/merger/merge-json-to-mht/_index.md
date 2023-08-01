@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MHT - Combine JSON to MHT via Java
 url: /java/merger/merge-json-to-mht/ 
-description: Aspose Excel. Free Online Merge JSON to MHT saveformat. Java Merge JSON to MHT format. Combine JSON to MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to MHT saveformat via Java., Free Online Merge JSON to mht in Java., Java Combine JSON to MHT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to MHT saveformat. Java Combine JSON to MHT format. Combine JSON to MHT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to MHT saveformat via Java., Free Online Merge JSON to mht in Java., Java Combine JSON to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

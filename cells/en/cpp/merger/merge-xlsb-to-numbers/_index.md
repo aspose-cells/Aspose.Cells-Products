@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to NUMBERS - Combine XLSB to NUMBERS via C++
 url: /cpp/merger/merge-xlsb-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLSB to NUMBERS saveformat. C++ Merge XLSB to NUMBERS format. Combine XLSB to NUMBERS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to NUMBERS saveformat via C++., Free Online Merge XLSB to numbers in C++., C++ Combine XLSB to NUMBERS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to NUMBERS saveformat. C++ Combine XLSB to NUMBERS format. Combine XLSB to NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to NUMBERS saveformat via C++., Free Online Merge XLSB to numbers in C++., C++ Combine XLSB to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to WORD - Combine HTML to WORD via Python
 url: /python-java/merger/merge-html-to-word/ 
-description: Aspose Excel. Free Online Merge HTML to WORD saveformat. Python Merge HTML to WORD format. Combine HTML to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to WORD saveformat via Python., Free Online Merge HTML to word in Python., Python Combine HTML to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to WORD saveformat. Python Combine HTML to WORD format. Combine HTML to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to WORD saveformat via Python., Free Online Merge HTML to word in Python., Python Combine HTML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

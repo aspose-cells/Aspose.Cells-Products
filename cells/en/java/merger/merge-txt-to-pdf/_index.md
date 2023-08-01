@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PDF - Combine TXT to PDF via Java
 url: /java/merger/merge-txt-to-pdf/ 
-description: Aspose Excel. Free Online Merge TXT to PDF saveformat. Java Merge TXT to PDF format. Combine TXT to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to PDF saveformat via Java., Free Online Merge TXT to pdf in Java., Java Combine TXT to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to PDF saveformat. Java Combine TXT to PDF format. Combine TXT to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to PDF saveformat via Java., Free Online Merge TXT to pdf in Java., Java Combine TXT to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JSON - Combine XML to JSON via C#
 url: /net/merger/merge-xml-to-json/ 
-description: Aspose Excel. Free Online Merge XML to JSON saveformat. C# Merge XML to JSON format. Combine XML to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to JSON saveformat via C#., Free Online Merge XML to json in C#., C# Combine XML to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to JSON saveformat. C# Combine XML to JSON format. Combine XML to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to JSON saveformat via C#., Free Online Merge XML to json in C#., C# Combine XML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

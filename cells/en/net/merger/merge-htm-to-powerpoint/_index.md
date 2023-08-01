@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to POWERPOINT - Combine HTM to POWERPOINT via C#
 url: /net/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTM to POWERPOINT saveformat. C# Merge HTM to POWERPOINT format. Combine HTM to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to POWERPOINT saveformat via C#., Free Online Merge HTM to powerpoint in C#., C# Combine HTM to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to POWERPOINT saveformat. C# Combine HTM to POWERPOINT format. Combine HTM to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to POWERPOINT saveformat via C#., Free Online Merge HTM to powerpoint in C#., C# Combine HTM to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

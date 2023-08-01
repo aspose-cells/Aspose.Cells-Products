@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XPS - Combine JSON to XPS via Java
 url: /java/merger/merge-json-to-xps/ 
-description: Aspose Excel. Free Online Merge JSON to XPS saveformat. Java Merge JSON to XPS format. Combine JSON to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XPS saveformat via Java., Free Online Merge JSON to xps in Java., Java Combine JSON to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to XPS saveformat. Java Combine JSON to XPS format. Combine JSON to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to XPS saveformat via Java., Free Online Merge JSON to xps in Java., Java Combine JSON to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

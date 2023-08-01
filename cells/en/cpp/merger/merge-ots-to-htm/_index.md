@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to HTM - Combine OTS to HTM via C++
 url: /cpp/merger/merge-ots-to-htm/ 
-description: Aspose Excel. Free Online Merge OTS to HTM saveformat. C++ Merge OTS to HTM format. Combine OTS to HTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to HTM saveformat via C++., Free Online Merge OTS to htm in C++., C++ Combine OTS to HTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to HTM saveformat. C++ Combine OTS to HTM format. Combine OTS to HTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to HTM saveformat via C++., Free Online Merge OTS to htm in C++., C++ Combine OTS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

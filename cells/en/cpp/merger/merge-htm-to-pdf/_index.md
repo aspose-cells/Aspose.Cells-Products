@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PDF - Combine HTM to PDF via C++
 url: /cpp/merger/merge-htm-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTM to PDF saveformat. C++ Merge HTM to PDF format. Combine HTM to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to PDF saveformat via C++., Free Online Merge HTM to pdf in C++., C++ Combine HTM to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to PDF saveformat. C++ Combine HTM to PDF format. Combine HTM to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to PDF saveformat via C++., Free Online Merge HTM to pdf in C++., C++ Combine HTM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

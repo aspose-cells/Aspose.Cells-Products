@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to MD - Combine TABDELIMITED to MD via Python
 url: /python-java/merger/merge-tabdelimited-to-md/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to MD saveformat. Python Merge TABDELIMITED to MD format. Combine TABDELIMITED to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to MD saveformat via Python., Free Online Merge TABDELIMITED to md in Python., Python Combine TABDELIMITED to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to MD saveformat. Python Combine TABDELIMITED to MD format. Combine TABDELIMITED to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to MD saveformat via Python., Free Online Merge TABDELIMITED to md in Python., Python Combine TABDELIMITED to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

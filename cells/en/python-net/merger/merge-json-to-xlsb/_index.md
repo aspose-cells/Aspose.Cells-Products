@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLSB - Combine JSON to XLSB via Python
 url: /python-net/merger/merge-json-to-xlsb/ 
-description: Aspose Excel. Free Online Merge JSON to XLSB saveformat. Python Merge JSON to XLSB format. Combine JSON to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLSB saveformat via Python., Free Online Merge JSON to xlsb in Python., Python Combine JSON to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to XLSB saveformat. Python Combine JSON to XLSB format. Combine JSON to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to XLSB saveformat via Python., Free Online Merge JSON to xlsb in Python., Python Combine JSON to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to WORD - Combine XML to WORD via C++
 url: /cpp/merger/merge-xml-to-word/ 
-description: Aspose Excel. Free Online Merge XML to WORD saveformat. C++ Merge XML to WORD format. Combine XML to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to WORD saveformat via C++., Free Online Merge XML to word in C++., C++ Combine XML to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to WORD saveformat. C++ Combine XML to WORD format. Combine XML to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to WORD saveformat via C++., Free Online Merge XML to word in C++., C++ Combine XML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

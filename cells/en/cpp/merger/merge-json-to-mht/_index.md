@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MHT - Combine JSON to MHT via C++
 url: /cpp/merger/merge-json-to-mht/ 
-description: Aspose Excel. Free Online Merge JSON to MHT saveformat. C++ Merge JSON to MHT format. Combine JSON to MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to MHT saveformat via C++., Free Online Merge JSON to mht in C++., C++ Combine JSON to MHT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to MHT saveformat. C++ Combine JSON to MHT format. Combine JSON to MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to MHT saveformat via C++., Free Online Merge JSON to mht in C++., C++ Combine JSON to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

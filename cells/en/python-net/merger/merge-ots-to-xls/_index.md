@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLS - Combine OTS to XLS via Python
 url: /python-net/merger/merge-ots-to-xls/ 
-description: Aspose Excel. Free Online Merge OTS to XLS saveformat. Python Merge OTS to XLS format. Combine OTS to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLS saveformat via Python., Free Online Merge OTS to xls in Python., Python Combine OTS to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to XLS saveformat. Python Combine OTS to XLS format. Combine OTS to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to XLS saveformat via Python., Free Online Merge OTS to xls in Python., Python Combine OTS to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to NUMBERS - Combine HTML to NUMBERS via Java
 url: /java/merger/merge-html-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTML to NUMBERS saveformat. Java Merge HTML to NUMBERS format. Combine HTML to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to NUMBERS saveformat via Java., Free Online Merge HTML to numbers in Java., Java Combine HTML to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to NUMBERS saveformat. Java Combine HTML to NUMBERS format. Combine HTML to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to NUMBERS saveformat via Java., Free Online Merge HTML to numbers in Java., Java Combine HTML to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

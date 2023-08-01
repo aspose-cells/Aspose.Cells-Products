@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ODS - Combine TABDELIMITED to ODS via C#
 url: /net/merger/merge-tabdelimited-to-ods/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to ODS saveformat. C# Merge TABDELIMITED to ODS format. Combine TABDELIMITED to ODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to ODS saveformat via C#., Free Online Merge TABDELIMITED to ods in C#., C# Combine TABDELIMITED to ODS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to ODS saveformat. C# Combine TABDELIMITED to ODS format. Combine TABDELIMITED to ODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TABDELIMITED to ODS saveformat via C#., Free Online Merge TABDELIMITED to ods in C#., C# Combine TABDELIMITED to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

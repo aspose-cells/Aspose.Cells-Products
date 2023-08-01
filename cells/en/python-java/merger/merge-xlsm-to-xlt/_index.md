@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLT - Combine XLSM to XLT via Python
 url: /python-java/merger/merge-xlsm-to-xlt/ 
-description: Aspose Excel. Free Online Merge XLSM to XLT saveformat. Python Merge XLSM to XLT format. Combine XLSM to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to XLT saveformat via Python., Free Online Merge XLSM to xlt in Python., Python Combine XLSM to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to XLT saveformat. Python Combine XLSM to XLT format. Combine XLSM to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to XLT saveformat via Python., Free Online Merge XLSM to xlt in Python., Python Combine XLSM to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

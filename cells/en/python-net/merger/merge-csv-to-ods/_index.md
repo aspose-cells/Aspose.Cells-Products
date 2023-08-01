@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ODS - Combine CSV to ODS via Python
 url: /python-net/merger/merge-csv-to-ods/ 
-description: Aspose Excel. Free Online Merge CSV to ODS saveformat. Python Merge CSV to ODS format. Combine CSV to ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to ODS saveformat via Python., Free Online Merge CSV to ods in Python., Python Combine CSV to ODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to ODS saveformat. Python Combine CSV to ODS format. Combine CSV to ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to ODS saveformat via Python., Free Online Merge CSV to ods in Python., Python Combine CSV to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

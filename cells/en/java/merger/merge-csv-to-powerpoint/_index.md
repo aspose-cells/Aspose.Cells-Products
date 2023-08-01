@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to POWERPOINT - Combine CSV to POWERPOINT via Java
 url: /java/merger/merge-csv-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge CSV to POWERPOINT saveformat. Java Merge CSV to POWERPOINT format. Combine CSV to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to POWERPOINT saveformat via Java., Free Online Merge CSV to powerpoint in Java., Java Combine CSV to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to POWERPOINT saveformat. Java Combine CSV to POWERPOINT format. Combine CSV to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to POWERPOINT saveformat via Java., Free Online Merge CSV to powerpoint in Java., Java Combine CSV to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

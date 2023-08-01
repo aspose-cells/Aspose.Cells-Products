@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DOCX - Combine EXCEL to DOCX via C++
 url: /cpp/merger/merge-excel-to-docx/ 
-description: Aspose Excel. Free Online Merge EXCEL to DOCX saveformat. C++ Merge EXCEL to DOCX format. Combine EXCEL to DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to DOCX saveformat via C++., Free Online Merge EXCEL to docx in C++., C++ Combine EXCEL to DOCX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to DOCX saveformat. C++ Combine EXCEL to DOCX format. Combine EXCEL to DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to DOCX saveformat via C++., Free Online Merge EXCEL to docx in C++., C++ Combine EXCEL to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

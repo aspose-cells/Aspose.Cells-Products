@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PDF - Combine XLTM to PDF via Python
 url: /python-java/merger/merge-xltm-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLTM to PDF saveformat. Python Merge XLTM to PDF format. Combine XLTM to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to PDF saveformat via Python., Free Online Merge XLTM to pdf in Python., Python Combine XLTM to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to PDF saveformat. Python Combine XLTM to PDF format. Combine XLTM to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to PDF saveformat via Python., Free Online Merge XLTM to pdf in Python., Python Combine XLTM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

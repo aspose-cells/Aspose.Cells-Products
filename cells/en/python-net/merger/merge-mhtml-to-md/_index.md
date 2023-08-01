@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MD - Combine MHTML to MD via Python
 url: /python-net/merger/merge-mhtml-to-md/ 
-description: Aspose Excel. Free Online Merge MHTML to MD saveformat. Python Merge MHTML to MD format. Combine MHTML to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to MD saveformat via Python., Free Online Merge MHTML to md in Python., Python Combine MHTML to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to MD saveformat. Python Combine MHTML to MD format. Combine MHTML to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to MD saveformat via Python., Free Online Merge MHTML to md in Python., Python Combine MHTML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

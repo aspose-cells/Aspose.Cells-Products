@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to CSV - Combine XLS to CSV via Python
 url: /python-net/merger/merge-xls-to-csv/ 
-description: Aspose Excel. Free Online Merge XLS to CSV saveformat. Python Merge XLS to CSV format. Combine XLS to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to CSV saveformat via Python., Free Online Merge XLS to csv in Python., Python Combine XLS to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to CSV saveformat. Python Combine XLS to CSV format. Combine XLS to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to CSV saveformat via Python., Free Online Merge XLS to csv in Python., Python Combine XLS to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

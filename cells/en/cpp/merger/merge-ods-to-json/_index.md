@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JSON - Combine ODS to JSON via C++
 url: /cpp/merger/merge-ods-to-json/ 
-description: Aspose Excel. Free Online Merge ODS to JSON saveformat. C++ Merge ODS to JSON format. Combine ODS to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to JSON saveformat via C++., Free Online Merge ODS to json in C++., C++ Combine ODS to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to JSON saveformat. C++ Combine ODS to JSON format. Combine ODS to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to JSON saveformat via C++., Free Online Merge ODS to json in C++., C++ Combine ODS to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to DOCX - Combine ODS to DOCX via Python
 url: /python-net/merger/merge-ods-to-docx/ 
-description: Aspose Excel. Free Online Merge ODS to DOCX saveformat. Python Merge ODS to DOCX format. Combine ODS to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to DOCX saveformat via Python., Free Online Merge ODS to docx in Python., Python Combine ODS to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to DOCX saveformat. Python Combine ODS to DOCX format. Combine ODS to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to DOCX saveformat via Python., Free Online Merge ODS to docx in Python., Python Combine ODS to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

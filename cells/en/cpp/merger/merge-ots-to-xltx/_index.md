@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLTX - Combine OTS to XLTX via C++
 url: /cpp/merger/merge-ots-to-xltx/ 
-description: Aspose Excel. Free Online Merge OTS to XLTX saveformat. C++ Merge OTS to XLTX format. Combine OTS to XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to XLTX saveformat via C++., Free Online Merge OTS to xltx in C++., C++ Combine OTS to XLTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to XLTX saveformat. C++ Combine OTS to XLTX format. Combine OTS to XLTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to XLTX saveformat via C++., Free Online Merge OTS to xltx in C++., C++ Combine OTS to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

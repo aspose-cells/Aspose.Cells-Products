@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XPS - Combine TABDELIMITED to XPS via Python
 url: /python-net/merger/merge-tabdelimited-to-xps/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XPS saveformat. Python Merge TABDELIMITED to XPS format. Combine TABDELIMITED to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XPS saveformat via Python., Free Online Merge TABDELIMITED to xps in Python., Python Combine TABDELIMITED to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to XPS saveformat. Python Combine TABDELIMITED to XPS format. Combine TABDELIMITED to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to XPS saveformat via Python., Free Online Merge TABDELIMITED to xps in Python., Python Combine TABDELIMITED to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

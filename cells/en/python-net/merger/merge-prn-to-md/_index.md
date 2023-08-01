@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MD - Combine PRN to MD via Python
 url: /python-net/merger/merge-prn-to-md/ 
-description: Aspose Excel. Free Online Merge PRN to MD saveformat. Python Merge PRN to MD format. Combine PRN to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MD saveformat via Python., Free Online Merge PRN to md in Python., Python Combine PRN to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to MD saveformat. Python Combine PRN to MD format. Combine PRN to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to MD saveformat via Python., Free Online Merge PRN to md in Python., Python Combine PRN to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

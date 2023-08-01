@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLTX - Combine NUMBERS to XLTX via C#
 url: /net/merger/merge-numbers-to-xltx/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLTX saveformat. C# Merge NUMBERS to XLTX format. Combine NUMBERS to XLTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLTX saveformat via C#., Free Online Merge NUMBERS to xltx in C#., C# Combine NUMBERS to XLTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to XLTX saveformat. C# Combine NUMBERS to XLTX format. Combine NUMBERS to XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to XLTX saveformat via C#., Free Online Merge NUMBERS to xltx in C#., C# Combine NUMBERS to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

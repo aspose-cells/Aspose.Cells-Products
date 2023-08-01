@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to CSV - Combine FODS to CSV via Java
 url: /java/merger/merge-fods-to-csv/ 
-description: Aspose Excel. Free Online Merge FODS to CSV saveformat. Java Merge FODS to CSV format. Combine FODS to CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to CSV saveformat via Java., Free Online Merge FODS to csv in Java., Java Combine FODS to CSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to CSV saveformat. Java Combine FODS to CSV format. Combine FODS to CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to CSV saveformat via Java., Free Online Merge FODS to csv in Java., Java Combine FODS to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

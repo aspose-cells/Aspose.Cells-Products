@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLTM - Combine HTML to XLTM via Java
 url: /java/merger/merge-html-to-xltm/ 
-description: Aspose Excel. Free Online Merge HTML to XLTM saveformat. Java Merge HTML to XLTM format. Combine HTML to XLTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLTM saveformat via Java., Free Online Merge HTML to xltm in Java., Java Combine HTML to XLTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to XLTM saveformat. Java Combine HTML to XLTM format. Combine HTML to XLTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to XLTM saveformat via Java., Free Online Merge HTML to xltm in Java., Java Combine HTML to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PDF - Combine ODS to PDF via C#
 url: /net/merger/merge-ods-to-pdf/ 
-description: Aspose Excel. Free Online Merge ODS to PDF saveformat. C# Merge ODS to PDF format. Combine ODS to PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to PDF saveformat via C#., Free Online Merge ODS to pdf in C#., C# Combine ODS to PDF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to PDF saveformat. C# Combine ODS to PDF format. Combine ODS to PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to PDF saveformat via C#., Free Online Merge ODS to pdf in C#., C# Combine ODS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

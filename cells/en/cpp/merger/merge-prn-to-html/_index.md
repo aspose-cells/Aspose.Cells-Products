@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to HTML - Combine PRN to HTML via C++
 url: /cpp/merger/merge-prn-to-html/ 
-description: Aspose Excel. Free Online Merge PRN to HTML saveformat. C++ Merge PRN to HTML format. Combine PRN to HTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to HTML saveformat via C++., Free Online Merge PRN to html in C++., C++ Combine PRN to HTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to HTML saveformat. C++ Combine PRN to HTML format. Combine PRN to HTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to HTML saveformat via C++., Free Online Merge PRN to html in C++., C++ Combine PRN to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

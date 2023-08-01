@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to TSV - Combine XLTX to TSV via Python
 url: /python-java/merger/merge-xltx-to-tsv/ 
-description: Aspose Excel. Free Online Merge XLTX to TSV saveformat. Python Merge XLTX to TSV format. Combine XLTX to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to TSV saveformat via Python., Free Online Merge XLTX to tsv in Python., Python Combine XLTX to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to TSV saveformat. Python Combine XLTX to TSV format. Combine XLTX to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to TSV saveformat via Python., Free Online Merge XLTX to tsv in Python., Python Combine XLTX to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

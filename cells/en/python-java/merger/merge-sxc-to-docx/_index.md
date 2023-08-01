@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DOCX - Combine SXC to DOCX via Python
 url: /python-java/merger/merge-sxc-to-docx/ 
-description: Aspose Excel. Free Online Merge SXC to DOCX saveformat. Python Merge SXC to DOCX format. Combine SXC to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to DOCX saveformat via Python., Free Online Merge SXC to docx in Python., Python Combine SXC to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to DOCX saveformat. Python Combine SXC to DOCX format. Combine SXC to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to DOCX saveformat via Python., Free Online Merge SXC to docx in Python., Python Combine SXC to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

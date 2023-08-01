@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PDF - Combine SPREADSHEETML to PDF via Java
 url: /java/merger/merge-spreadsheetml-to-pdf/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to PDF saveformat. Java Merge SPREADSHEETML to PDF format. Combine SPREADSHEETML to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to PDF saveformat via Java., Free Online Merge SPREADSHEETML to pdf in Java., Java Combine SPREADSHEETML to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to PDF saveformat. Java Combine SPREADSHEETML to PDF format. Combine SPREADSHEETML to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to PDF saveformat via Java., Free Online Merge SPREADSHEETML to pdf in Java., Java Combine SPREADSHEETML to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

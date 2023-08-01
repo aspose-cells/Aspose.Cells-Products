@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to ODS - Combine OTS to ODS via Java
 url: /java/merger/merge-ots-to-ods/ 
-description: Aspose Excel. Free Online Merge OTS to ODS saveformat. Java Merge OTS to ODS format. Combine OTS to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to ODS saveformat via Java., Free Online Merge OTS to ods in Java., Java Combine OTS to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to ODS saveformat. Java Combine OTS to ODS format. Combine OTS to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to ODS saveformat via Java., Free Online Merge OTS to ods in Java., Java Combine OTS to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

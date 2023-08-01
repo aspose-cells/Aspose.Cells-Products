@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to HTML - Combine HTM to HTML via Python
 url: /python-net/merger/merge-htm-to-html/ 
-description: Aspose Excel. Free Online Merge HTM to HTML saveformat. Python Merge HTM to HTML format. Combine HTM to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to HTML saveformat via Python., Free Online Merge HTM to html in Python., Python Combine HTM to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to HTML saveformat. Python Combine HTM to HTML format. Combine HTM to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to HTML saveformat via Python., Free Online Merge HTM to html in Python., Python Combine HTM to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

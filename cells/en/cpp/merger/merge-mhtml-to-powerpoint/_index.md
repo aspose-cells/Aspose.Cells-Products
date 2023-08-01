@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to POWERPOINT - Combine MHTML to POWERPOINT via C++
 url: /cpp/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge MHTML to POWERPOINT saveformat. C++ Merge MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to POWERPOINT saveformat via C++., Free Online Merge MHTML to powerpoint in C++., C++ Combine MHTML to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to POWERPOINT saveformat. C++ Combine MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to POWERPOINT saveformat via C++., Free Online Merge MHTML to powerpoint in C++., C++ Combine MHTML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

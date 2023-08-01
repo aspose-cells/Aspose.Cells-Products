@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to TXT - Combine JSON to TXT via Python
 url: /python-net/merger/merge-json-to-txt/ 
-description: Aspose Excel. Free Online Merge JSON to TXT saveformat. Python Merge JSON to TXT format. Combine JSON to TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to TXT saveformat via Python., Free Online Merge JSON to txt in Python., Python Combine JSON to TXT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to TXT saveformat. Python Combine JSON to TXT format. Combine JSON to TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to TXT saveformat via Python., Free Online Merge JSON to txt in Python., Python Combine JSON to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

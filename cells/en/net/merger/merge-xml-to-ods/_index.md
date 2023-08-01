@@ -1,8 +1,8 @@
 ---
 title: Merge XML to ODS - Combine XML to ODS via C#
 url: /net/merger/merge-xml-to-ods/ 
-description: Aspose Excel. Free Online Merge XML to ODS saveformat. C# Merge XML to ODS format. Combine XML to ODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to ODS saveformat via C#., Free Online Merge XML to ods in C#., C# Combine XML to ODS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to ODS saveformat. C# Combine XML to ODS format. Combine XML to ODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to ODS saveformat via C#., Free Online Merge XML to ods in C#., C# Combine XML to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

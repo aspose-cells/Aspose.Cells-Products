@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ODS - Combine HTM to ODS via Python
 url: /python-net/merger/merge-htm-to-ods/ 
-description: Aspose Excel. Free Online Merge HTM to ODS saveformat. Python Merge HTM to ODS format. Combine HTM to ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to ODS saveformat via Python., Free Online Merge HTM to ods in Python., Python Combine HTM to ODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to ODS saveformat. Python Combine HTM to ODS format. Combine HTM to ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to ODS saveformat via Python., Free Online Merge HTM to ods in Python., Python Combine HTM to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to WORD - Combine CSV to WORD via C++
 url: /cpp/merger/merge-csv-to-word/ 
-description: Aspose Excel. Free Online Merge CSV to WORD saveformat. C++ Merge CSV to WORD format. Combine CSV to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to WORD saveformat via C++., Free Online Merge CSV to word in C++., C++ Combine CSV to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to WORD saveformat. C++ Combine CSV to WORD format. Combine CSV to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine CSV to WORD saveformat via C++., Free Online Merge CSV to word in C++., C++ Combine CSV to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

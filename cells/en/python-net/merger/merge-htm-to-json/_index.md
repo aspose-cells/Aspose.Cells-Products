@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to JSON - Combine HTM to JSON via Python
 url: /python-net/merger/merge-htm-to-json/ 
-description: Aspose Excel. Free Online Merge HTM to JSON saveformat. Python Merge HTM to JSON format. Combine HTM to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to JSON saveformat via Python., Free Online Merge HTM to json in Python., Python Combine HTM to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to JSON saveformat. Python Combine HTM to JSON format. Combine HTM to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to JSON saveformat via Python., Free Online Merge HTM to json in Python., Python Combine HTM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

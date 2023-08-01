@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MD - Combine XLTM to MD via Java
 url: /java/merger/merge-xltm-to-md/ 
-description: Aspose Excel. Free Online Merge XLTM to MD saveformat. Java Merge XLTM to MD format. Combine XLTM to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MD saveformat via Java., Free Online Merge XLTM to md in Java., Java Combine XLTM to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to MD saveformat. Java Combine XLTM to MD format. Combine XLTM to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to MD saveformat via Java., Free Online Merge XLTM to md in Java., Java Combine XLTM to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

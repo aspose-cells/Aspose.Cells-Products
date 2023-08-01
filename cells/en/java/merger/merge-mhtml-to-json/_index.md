@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to JSON - Combine MHTML to JSON via Java
 url: /java/merger/merge-mhtml-to-json/ 
-description: Aspose Excel. Free Online Merge MHTML to JSON saveformat. Java Merge MHTML to JSON format. Combine MHTML to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to JSON saveformat via Java., Free Online Merge MHTML to json in Java., Java Combine MHTML to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to JSON saveformat. Java Combine MHTML to JSON format. Combine MHTML to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to JSON saveformat via Java., Free Online Merge MHTML to json in Java., Java Combine MHTML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

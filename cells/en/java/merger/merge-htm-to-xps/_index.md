@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XPS - Combine HTM to XPS via Java
 url: /java/merger/merge-htm-to-xps/ 
-description: Aspose Excel. Free Online Merge HTM to XPS saveformat. Java Merge HTM to XPS format. Combine HTM to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to XPS saveformat via Java., Free Online Merge HTM to xps in Java., Java Combine HTM to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to XPS saveformat. Java Combine HTM to XPS format. Combine HTM to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to XPS saveformat via Java., Free Online Merge HTM to xps in Java., Java Combine HTM to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

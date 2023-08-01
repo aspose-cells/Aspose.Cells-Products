@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to CSV - Combine MHTML to CSV via Java
 url: /java/merger/merge-mhtml-to-csv/ 
-description: Aspose Excel. Free Online Merge MHTML to CSV saveformat. Java Merge MHTML to CSV format. Combine MHTML to CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to CSV saveformat via Java., Free Online Merge MHTML to csv in Java., Java Combine MHTML to CSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to CSV saveformat. Java Combine MHTML to CSV format. Combine MHTML to CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to CSV saveformat via Java., Free Online Merge MHTML to csv in Java., Java Combine MHTML to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

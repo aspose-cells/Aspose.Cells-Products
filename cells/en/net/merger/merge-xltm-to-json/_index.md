@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JSON - Combine XLTM to JSON via C#
 url: /net/merger/merge-xltm-to-json/ 
-description: Aspose Excel. Free Online Merge XLTM to JSON saveformat. C# Merge XLTM to JSON format. Combine XLTM to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to JSON saveformat via C#., Free Online Merge XLTM to json in C#., C# Combine XLTM to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to JSON saveformat. C# Combine XLTM to JSON format. Combine XLTM to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTM to JSON saveformat via C#., Free Online Merge XLTM to json in C#., C# Combine XLTM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

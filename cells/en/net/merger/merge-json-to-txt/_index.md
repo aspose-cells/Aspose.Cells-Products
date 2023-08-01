@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to TXT - Combine JSON to TXT via C#
 url: /net/merger/merge-json-to-txt/ 
-description: Aspose Excel. Free Online Merge JSON to TXT saveformat. C# Merge JSON to TXT format. Combine JSON to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to TXT saveformat via C#., Free Online Merge JSON to txt in C#., C# Combine JSON to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to TXT saveformat. C# Combine JSON to TXT format. Combine JSON to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine JSON to TXT saveformat via C#., Free Online Merge JSON to txt in C#., C# Combine JSON to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

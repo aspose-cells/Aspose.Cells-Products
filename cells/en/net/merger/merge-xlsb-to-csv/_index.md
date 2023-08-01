@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to CSV - Combine XLSB to CSV via C#
 url: /net/merger/merge-xlsb-to-csv/ 
-description: Aspose Excel. Free Online Merge XLSB to CSV saveformat. C# Merge XLSB to CSV format. Combine XLSB to CSV in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to CSV saveformat via C#., Free Online Merge XLSB to csv in C#., C# Combine XLSB to CSV format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to CSV saveformat. C# Combine XLSB to CSV format. Combine XLSB to CSV in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to CSV saveformat via C#., Free Online Merge XLSB to csv in C#., C# Combine XLSB to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

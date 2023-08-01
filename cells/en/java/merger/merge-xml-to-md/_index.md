@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MD - Combine XML to MD via Java
 url: /java/merger/merge-xml-to-md/ 
-description: Aspose Excel. Free Online Merge XML to MD saveformat. Java Merge XML to MD format. Combine XML to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to MD saveformat via Java., Free Online Merge XML to md in Java., Java Combine XML to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to MD saveformat. Java Combine XML to MD format. Combine XML to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to MD saveformat via Java., Free Online Merge XML to md in Java., Java Combine XML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

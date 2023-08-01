@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLSM - Combine EXCEL to XLSM via C#
 url: /net/merger/merge-excel-to-xlsm/ 
-description: Aspose Excel. Free Online Merge EXCEL to XLSM saveformat. C# Merge EXCEL to XLSM format. Combine EXCEL to XLSM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLSM saveformat via C#., Free Online Merge EXCEL to xlsm in C#., C# Combine EXCEL to XLSM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to XLSM saveformat. C# Combine EXCEL to XLSM format. Combine EXCEL to XLSM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to XLSM saveformat via C#., Free Online Merge EXCEL to xlsm in C#., C# Combine EXCEL to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

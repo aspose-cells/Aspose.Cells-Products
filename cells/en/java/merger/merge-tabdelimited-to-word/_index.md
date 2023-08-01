@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to WORD - Combine TABDELIMITED to WORD via Java
 url: /java/merger/merge-tabdelimited-to-word/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to WORD saveformat. Java Merge TABDELIMITED to WORD format. Combine TABDELIMITED to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to WORD saveformat via Java., Free Online Merge TABDELIMITED to word in Java., Java Combine TABDELIMITED to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to WORD saveformat. Java Combine TABDELIMITED to WORD format. Combine TABDELIMITED to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TABDELIMITED to WORD saveformat via Java., Free Online Merge TABDELIMITED to word in Java., Java Combine TABDELIMITED to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

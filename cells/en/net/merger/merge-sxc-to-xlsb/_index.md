@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLSB - Combine SXC to XLSB via C#
 url: /net/merger/merge-sxc-to-xlsb/ 
-description: Aspose Excel. Free Online Merge SXC to XLSB saveformat. C# Merge SXC to XLSB format. Combine SXC to XLSB in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLSB saveformat via C#., Free Online Merge SXC to xlsb in C#., C# Combine SXC to XLSB format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to XLSB saveformat. C# Combine SXC to XLSB format. Combine SXC to XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to XLSB saveformat via C#., Free Online Merge SXC to xlsb in C#., C# Combine SXC to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

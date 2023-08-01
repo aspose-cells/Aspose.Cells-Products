@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MHTML - Combine XLTX to MHTML via C++
 url: /cpp/merger/merge-xltx-to-mhtml/ 
-description: Aspose Excel. Free Online Merge XLTX to MHTML saveformat. C++ Merge XLTX to MHTML format. Combine XLTX to MHTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to MHTML saveformat via C++., Free Online Merge XLTX to mhtml in C++., C++ Combine XLTX to MHTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to MHTML saveformat. C++ Combine XLTX to MHTML format. Combine XLTX to MHTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to MHTML saveformat via C++., Free Online Merge XLTX to mhtml in C++., C++ Combine XLTX to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to POWERPOINT - Combine TXT to POWERPOINT via Java
 url: /java/merger/merge-txt-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TXT to POWERPOINT saveformat. Java Merge TXT to POWERPOINT format. Combine TXT to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to POWERPOINT saveformat via Java., Free Online Merge TXT to powerpoint in Java., Java Combine TXT to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to POWERPOINT saveformat. Java Combine TXT to POWERPOINT format. Combine TXT to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to POWERPOINT saveformat via Java., Free Online Merge TXT to powerpoint in Java., Java Combine TXT to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

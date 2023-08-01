@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to JSON - Combine HTML to JSON via Python
 url: /python-java/merger/merge-html-to-json/ 
-description: Aspose Excel. Free Online Merge HTML to JSON saveformat. Python Merge HTML to JSON format. Combine HTML to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to JSON saveformat via Python., Free Online Merge HTML to json in Python., Python Combine HTML to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to JSON saveformat. Python Combine HTML to JSON format. Combine HTML to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to JSON saveformat via Python., Free Online Merge HTML to json in Python., Python Combine HTML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

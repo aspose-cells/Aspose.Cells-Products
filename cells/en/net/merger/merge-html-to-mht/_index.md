@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MHT - Combine HTML to MHT via C#
 url: /net/merger/merge-html-to-mht/ 
-description: Aspose Excel. Free Online Merge HTML to MHT saveformat. C# Merge HTML to MHT format. Combine HTML to MHT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to MHT saveformat via C#., Free Online Merge HTML to mht in C#., C# Combine HTML to MHT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to MHT saveformat. C# Combine HTML to MHT format. Combine HTML to MHT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to MHT saveformat via C#., Free Online Merge HTML to mht in C#., C# Combine HTML to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to NUMBERS - Combine OTS to NUMBERS via C#
 url: /net/merger/merge-ots-to-numbers/ 
-description: Aspose Excel. Free Online Merge OTS to NUMBERS saveformat. C# Merge OTS to NUMBERS format. Combine OTS to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to NUMBERS saveformat via C#., Free Online Merge OTS to numbers in C#., C# Combine OTS to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to NUMBERS saveformat. C# Combine OTS to NUMBERS format. Combine OTS to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to NUMBERS saveformat via C#., Free Online Merge OTS to numbers in C#., C# Combine OTS to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

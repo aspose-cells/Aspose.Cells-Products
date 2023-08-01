@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to JSON - Combine HTML to JSON via C++
 url: /cpp/merger/merge-html-to-json/ 
-description: Aspose Excel. Free Online Merge HTML to JSON saveformat. C++ Merge HTML to JSON format. Combine HTML to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to JSON saveformat via C++., Free Online Merge HTML to json in C++., C++ Combine HTML to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to JSON saveformat. C++ Combine HTML to JSON format. Combine HTML to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to JSON saveformat via C++., Free Online Merge HTML to json in C++., C++ Combine HTML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

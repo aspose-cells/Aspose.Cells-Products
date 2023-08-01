@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XPS - Combine XLSM to XPS via Java
 url: /java/merger/merge-xlsm-to-xps/ 
-description: Aspose Excel. Free Online Merge XLSM to XPS saveformat. Java Merge XLSM to XPS format. Combine XLSM to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to XPS saveformat via Java., Free Online Merge XLSM to xps in Java., Java Combine XLSM to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to XPS saveformat. Java Combine XLSM to XPS format. Combine XLSM to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to XPS saveformat via Java., Free Online Merge XLSM to xps in Java., Java Combine XLSM to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

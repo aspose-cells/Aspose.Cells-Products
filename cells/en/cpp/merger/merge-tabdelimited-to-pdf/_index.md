@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to PDF - Combine TABDELIMITED to PDF via C++
 url: /cpp/merger/merge-tabdelimited-to-pdf/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to PDF saveformat. C++ Merge TABDELIMITED to PDF format. Combine TABDELIMITED to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to PDF saveformat via C++., Free Online Merge TABDELIMITED to pdf in C++., C++ Combine TABDELIMITED to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to PDF saveformat. C++ Combine TABDELIMITED to PDF format. Combine TABDELIMITED to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to PDF saveformat via C++., Free Online Merge TABDELIMITED to pdf in C++., C++ Combine TABDELIMITED to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

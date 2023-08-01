@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to HTML - Combine XLS to HTML via Python
 url: /python-net/merger/merge-xls-to-html/ 
-description: Aspose Excel. Free Online Merge XLS to HTML saveformat. Python Merge XLS to HTML format. Combine XLS to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to HTML saveformat via Python., Free Online Merge XLS to html in Python., Python Combine XLS to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to HTML saveformat. Python Combine XLS to HTML format. Combine XLS to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to HTML saveformat via Python., Free Online Merge XLS to html in Python., Python Combine XLS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

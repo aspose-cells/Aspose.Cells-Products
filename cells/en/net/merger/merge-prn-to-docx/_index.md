@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DOCX - Combine PRN to DOCX via C#
 url: /net/merger/merge-prn-to-docx/ 
-description: Aspose Excel. Free Online Merge PRN to DOCX saveformat. C# Merge PRN to DOCX format. Combine PRN to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to DOCX saveformat via C#., Free Online Merge PRN to docx in C#., C# Combine PRN to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to DOCX saveformat. C# Combine PRN to DOCX format. Combine PRN to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine PRN to DOCX saveformat via C#., Free Online Merge PRN to docx in C#., C# Combine PRN to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

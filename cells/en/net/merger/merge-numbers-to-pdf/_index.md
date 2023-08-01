@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PDF - Combine NUMBERS to PDF via C#
 url: /net/merger/merge-numbers-to-pdf/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PDF saveformat. C# Merge NUMBERS to PDF format. Combine NUMBERS to PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to PDF saveformat via C#., Free Online Merge NUMBERS to pdf in C#., C# Combine NUMBERS to PDF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to PDF saveformat. C# Combine NUMBERS to PDF format. Combine NUMBERS to PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to PDF saveformat via C#., Free Online Merge NUMBERS to pdf in C#., C# Combine NUMBERS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

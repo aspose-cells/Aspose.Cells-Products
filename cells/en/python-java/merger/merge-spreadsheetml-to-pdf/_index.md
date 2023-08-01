@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PDF - Combine SPREADSHEETML to PDF via Python
 url: /python-java/merger/merge-spreadsheetml-to-pdf/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to PDF saveformat. Python Merge SPREADSHEETML to PDF format. Combine SPREADSHEETML to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PDF saveformat via Python., Free Online Merge SPREADSHEETML to pdf in Python., Python Combine SPREADSHEETML to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to PDF saveformat. Python Combine SPREADSHEETML to PDF format. Combine SPREADSHEETML to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to PDF saveformat via Python., Free Online Merge SPREADSHEETML to pdf in Python., Python Combine SPREADSHEETML to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

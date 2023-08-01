@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MHT - Combine XLTX to MHT via Python
 url: /python-java/merger/merge-xltx-to-mht/ 
-description: Aspose Excel. Free Online Merge XLTX to MHT saveformat. Python Merge XLTX to MHT format. Combine XLTX to MHT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to MHT saveformat via Python., Free Online Merge XLTX to mht in Python., Python Combine XLTX to MHT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to MHT saveformat. Python Combine XLTX to MHT format. Combine XLTX to MHT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to MHT saveformat via Python., Free Online Merge XLTX to mht in Python., Python Combine XLTX to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PDF - Combine OTS to PDF via Python
 url: /python-java/merger/merge-ots-to-pdf/ 
-description: Aspose Excel. Free Online Merge OTS to PDF saveformat. Python Merge OTS to PDF format. Combine OTS to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PDF saveformat via Python., Free Online Merge OTS to pdf in Python., Python Combine OTS to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to PDF saveformat. Python Combine OTS to PDF format. Combine OTS to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to PDF saveformat via Python., Free Online Merge OTS to pdf in Python., Python Combine OTS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

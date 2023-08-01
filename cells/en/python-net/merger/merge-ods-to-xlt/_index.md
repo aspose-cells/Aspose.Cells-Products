@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLT - Combine ODS to XLT via Python
 url: /python-net/merger/merge-ods-to-xlt/ 
-description: Aspose Excel. Free Online Merge ODS to XLT saveformat. Python Merge ODS to XLT format. Combine ODS to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to XLT saveformat via Python., Free Online Merge ODS to xlt in Python., Python Combine ODS to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to XLT saveformat. Python Combine ODS to XLT format. Combine ODS to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to XLT saveformat via Python., Free Online Merge ODS to xlt in Python., Python Combine ODS to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

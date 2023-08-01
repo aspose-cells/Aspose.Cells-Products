@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PPTX - Combine FODS to PPTX via Java
 url: /java/merger/merge-fods-to-pptx/ 
-description: Aspose Excel. Free Online Merge FODS to PPTX saveformat. Java Merge FODS to PPTX format. Combine FODS to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to PPTX saveformat via Java., Free Online Merge FODS to pptx in Java., Java Combine FODS to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to PPTX saveformat. Java Combine FODS to PPTX format. Combine FODS to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to PPTX saveformat via Java., Free Online Merge FODS to pptx in Java., Java Combine FODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLS - Combine NUMBERS to XLS via C++
 url: /cpp/merger/merge-numbers-to-xls/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLS saveformat. C++ Merge NUMBERS to XLS format. Combine NUMBERS to XLS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to XLS saveformat via C++., Free Online Merge NUMBERS to xls in C++., C++ Combine NUMBERS to XLS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to XLS saveformat. C++ Combine NUMBERS to XLS format. Combine NUMBERS to XLS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to XLS saveformat via C++., Free Online Merge NUMBERS to xls in C++., C++ Combine NUMBERS to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

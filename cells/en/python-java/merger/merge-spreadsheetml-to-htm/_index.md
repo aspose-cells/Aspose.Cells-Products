@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to HTM - Combine SPREADSHEETML to HTM via Python
 url: /python-java/merger/merge-spreadsheetml-to-htm/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to HTM saveformat. Python Merge SPREADSHEETML to HTM format. Combine SPREADSHEETML to HTM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTM saveformat via Python., Free Online Merge SPREADSHEETML to htm in Python., Python Combine SPREADSHEETML to HTM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to HTM saveformat. Python Combine SPREADSHEETML to HTM format. Combine SPREADSHEETML to HTM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to HTM saveformat via Python., Free Online Merge SPREADSHEETML to htm in Python., Python Combine SPREADSHEETML to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XPS - Combine FODS to XPS via C++
 url: /cpp/merger/merge-fods-to-xps/ 
-description: Aspose Excel. Free Online Merge FODS to XPS saveformat. C++ Merge FODS to XPS format. Combine FODS to XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to XPS saveformat via C++., Free Online Merge FODS to xps in C++., C++ Combine FODS to XPS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to XPS saveformat. C++ Combine FODS to XPS format. Combine FODS to XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to XPS saveformat via C++., Free Online Merge FODS to xps in C++., C++ Combine FODS to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

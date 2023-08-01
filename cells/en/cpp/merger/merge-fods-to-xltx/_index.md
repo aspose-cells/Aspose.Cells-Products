@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLTX - Combine FODS to XLTX via C++
 url: /cpp/merger/merge-fods-to-xltx/ 
-description: Aspose Excel. Free Online Merge FODS to XLTX saveformat. C++ Merge FODS to XLTX format. Combine FODS to XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to XLTX saveformat via C++., Free Online Merge FODS to xltx in C++., C++ Combine FODS to XLTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to XLTX saveformat. C++ Combine FODS to XLTX format. Combine FODS to XLTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to XLTX saveformat via C++., Free Online Merge FODS to xltx in C++., C++ Combine FODS to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

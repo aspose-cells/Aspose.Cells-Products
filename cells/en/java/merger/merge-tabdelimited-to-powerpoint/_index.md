@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to POWERPOINT - Combine TABDELIMITED to POWERPOINT via Java
 url: /java/merger/merge-tabdelimited-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to POWERPOINT saveformat. Java Merge TABDELIMITED to POWERPOINT format. Combine TABDELIMITED to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to POWERPOINT saveformat via Java., Free Online Merge TABDELIMITED to powerpoint in Java., Java Combine TABDELIMITED to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to POWERPOINT saveformat. Java Combine TABDELIMITED to POWERPOINT format. Combine TABDELIMITED to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TABDELIMITED to POWERPOINT saveformat via Java., Free Online Merge TABDELIMITED to powerpoint in Java., Java Combine TABDELIMITED to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to JSON - Combine EXCEL to JSON via Java
 url: /java/merger/merge-excel-to-json/ 
-description: Aspose Excel. Free Online Merge EXCEL to JSON saveformat. Java Merge EXCEL to JSON format. Combine EXCEL to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to JSON saveformat via Java., Free Online Merge EXCEL to json in Java., Java Combine EXCEL to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to JSON saveformat. Java Combine EXCEL to JSON format. Combine EXCEL to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to JSON saveformat via Java., Free Online Merge EXCEL to json in Java., Java Combine EXCEL to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

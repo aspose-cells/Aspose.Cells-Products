@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTM - Combine FODS to HTM via C++
 url: /cpp/merger/merge-fods-to-htm/ 
-description: Aspose Excel. Free Online Merge FODS to HTM saveformat. C++ Merge FODS to HTM format. Combine FODS to HTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to HTM saveformat via C++., Free Online Merge FODS to htm in C++., C++ Combine FODS to HTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to HTM saveformat. C++ Combine FODS to HTM format. Combine FODS to HTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to HTM saveformat via C++., Free Online Merge FODS to htm in C++., C++ Combine FODS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

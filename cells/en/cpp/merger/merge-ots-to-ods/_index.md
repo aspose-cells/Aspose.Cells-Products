@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to ODS - Combine OTS to ODS via C++
 url: /cpp/merger/merge-ots-to-ods/ 
-description: Aspose Excel. Free Online Merge OTS to ODS saveformat. C++ Merge OTS to ODS format. Combine OTS to ODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to ODS saveformat via C++., Free Online Merge OTS to ods in C++., C++ Combine OTS to ODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to ODS saveformat. C++ Combine OTS to ODS format. Combine OTS to ODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to ODS saveformat via C++., Free Online Merge OTS to ods in C++., C++ Combine OTS to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to WORD - Combine XLT to WORD via C++
 url: /cpp/merger/merge-xlt-to-word/ 
-description: Aspose Excel. Free Online Merge XLT to WORD saveformat. C++ Merge XLT to WORD format. Combine XLT to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to WORD saveformat via C++., Free Online Merge XLT to word in C++., C++ Combine XLT to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to WORD saveformat. C++ Combine XLT to WORD format. Combine XLT to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to WORD saveformat via C++., Free Online Merge XLT to word in C++., C++ Combine XLT to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

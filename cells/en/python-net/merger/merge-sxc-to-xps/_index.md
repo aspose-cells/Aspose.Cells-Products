@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XPS - Combine SXC to XPS via Python
 url: /python-net/merger/merge-sxc-to-xps/ 
-description: Aspose Excel. Free Online Merge SXC to XPS saveformat. Python Merge SXC to XPS format. Combine SXC to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XPS saveformat via Python., Free Online Merge SXC to xps in Python., Python Combine SXC to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to XPS saveformat. Python Combine SXC to XPS format. Combine SXC to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to XPS saveformat via Python., Free Online Merge SXC to xps in Python., Python Combine SXC to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLSB - Combine SPREADSHEETML to XLSB via C++
 url: /cpp/merger/merge-spreadsheetml-to-xlsb/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XLSB saveformat. C++ Merge SPREADSHEETML to XLSB format. Combine SPREADSHEETML to XLSB in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to XLSB saveformat via C++., Free Online Merge SPREADSHEETML to xlsb in C++., C++ Combine SPREADSHEETML to XLSB format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to XLSB saveformat. C++ Combine SPREADSHEETML to XLSB format. Combine SPREADSHEETML to XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to XLSB saveformat via C++., Free Online Merge SPREADSHEETML to xlsb in C++., C++ Combine SPREADSHEETML to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

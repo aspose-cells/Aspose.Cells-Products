@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to POWERPOINT - Combine MHTML to POWERPOINT via Python
 url: /python-java/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge MHTML to POWERPOINT saveformat. Python Merge MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to POWERPOINT saveformat via Python., Free Online Merge MHTML to powerpoint in Python., Python Combine MHTML to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to POWERPOINT saveformat. Python Combine MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to POWERPOINT saveformat via Python., Free Online Merge MHTML to powerpoint in Python., Python Combine MHTML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

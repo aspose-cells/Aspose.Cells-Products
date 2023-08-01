@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TSV - Combine TXT to TSV via Java
 url: /java/merger/merge-txt-to-tsv/ 
-description: Aspose Excel. Free Online Merge TXT to TSV saveformat. Java Merge TXT to TSV format. Combine TXT to TSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to TSV saveformat via Java., Free Online Merge TXT to tsv in Java., Java Combine TXT to TSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to TSV saveformat. Java Combine TXT to TSV format. Combine TXT to TSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to TSV saveformat via Java., Free Online Merge TXT to tsv in Java., Java Combine TXT to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

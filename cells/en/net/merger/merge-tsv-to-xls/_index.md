@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLS - Combine TSV to XLS via C#
 url: /net/merger/merge-tsv-to-xls/ 
-description: Aspose Excel. Free Online Merge TSV to XLS saveformat. C# Merge TSV to XLS format. Combine TSV to XLS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to XLS saveformat via C#., Free Online Merge TSV to xls in C#., C# Combine TSV to XLS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to XLS saveformat. C# Combine TSV to XLS format. Combine TSV to XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TSV to XLS saveformat via C#., Free Online Merge TSV to xls in C#., C# Combine TSV to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

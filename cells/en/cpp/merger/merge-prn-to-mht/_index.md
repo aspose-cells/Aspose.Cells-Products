@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MHT - Combine PRN to MHT via C++
 url: /cpp/merger/merge-prn-to-mht/ 
-description: Aspose Excel. Free Online Merge PRN to MHT saveformat. C++ Merge PRN to MHT format. Combine PRN to MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to MHT saveformat via C++., Free Online Merge PRN to mht in C++., C++ Combine PRN to MHT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to MHT saveformat. C++ Combine PRN to MHT format. Combine PRN to MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to MHT saveformat via C++., Free Online Merge PRN to mht in C++., C++ Combine PRN to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

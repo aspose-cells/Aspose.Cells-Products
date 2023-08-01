@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MD - Combine EXCEL to MD via Python
 url: /python-java/merger/merge-excel-to-md/ 
-description: Aspose Excel. Free Online Merge EXCEL to MD saveformat. Python Merge EXCEL to MD format. Combine EXCEL to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to MD saveformat via Python., Free Online Merge EXCEL to md in Python., Python Combine EXCEL to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to MD saveformat. Python Combine EXCEL to MD format. Combine EXCEL to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to MD saveformat via Python., Free Online Merge EXCEL to md in Python., Python Combine EXCEL to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

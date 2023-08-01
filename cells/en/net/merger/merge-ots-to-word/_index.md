@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to WORD - Combine OTS to WORD via C#
 url: /net/merger/merge-ots-to-word/ 
-description: Aspose Excel. Free Online Merge OTS to WORD saveformat. C# Merge OTS to WORD format. Combine OTS to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to WORD saveformat via C#., Free Online Merge OTS to word in C#., C# Combine OTS to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to WORD saveformat. C# Combine OTS to WORD format. Combine OTS to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to WORD saveformat via C#., Free Online Merge OTS to word in C#., C# Combine OTS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

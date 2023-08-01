@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLSB - Combine FODS to XLSB via Python
 url: /python-net/merger/merge-fods-to-xlsb/ 
-description: Aspose Excel. Free Online Merge FODS to XLSB saveformat. Python Merge FODS to XLSB format. Combine FODS to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XLSB saveformat via Python., Free Online Merge FODS to xlsb in Python., Python Combine FODS to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XLSB saveformat. Python Combine FODS to XLSB format. Combine FODS to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to XLSB saveformat via Python., Free Online Merge FODS to xlsb in Python., Python Combine FODS to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

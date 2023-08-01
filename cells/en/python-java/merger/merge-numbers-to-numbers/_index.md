@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to NUMBERS - Combine NUMBERS to NUMBERS via Python
 url: /python-java/merger/merge-numbers-to-numbers/ 
-description: Aspose Excel. Free Online Merge NUMBERS to NUMBERS saveformat. Python Merge NUMBERS to NUMBERS format. Combine NUMBERS to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to NUMBERS saveformat via Python., Free Online Merge NUMBERS to numbers in Python., Python Combine NUMBERS to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to NUMBERS saveformat. Python Combine NUMBERS to NUMBERS format. Combine NUMBERS to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to NUMBERS saveformat via Python., Free Online Merge NUMBERS to numbers in Python., Python Combine NUMBERS to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

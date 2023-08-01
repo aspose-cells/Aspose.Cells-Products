@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MD - Combine XLTM to MD via Python
 url: /python-java/merger/merge-xltm-to-md/ 
-description: Aspose Excel. Free Online Merge XLTM to MD saveformat. Python Merge XLTM to MD format. Combine XLTM to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to MD saveformat via Python., Free Online Merge XLTM to md in Python., Python Combine XLTM to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to MD saveformat. Python Combine XLTM to MD format. Combine XLTM to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to MD saveformat via Python., Free Online Merge XLTM to md in Python., Python Combine XLTM to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

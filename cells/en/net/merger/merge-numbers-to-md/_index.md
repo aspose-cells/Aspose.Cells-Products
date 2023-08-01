@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MD - Combine NUMBERS to MD via C#
 url: /net/merger/merge-numbers-to-md/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MD saveformat. C# Merge NUMBERS to MD format. Combine NUMBERS to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to MD saveformat via C#., Free Online Merge NUMBERS to md in C#., C# Combine NUMBERS to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to MD saveformat. C# Combine NUMBERS to MD format. Combine NUMBERS to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to MD saveformat via C#., Free Online Merge NUMBERS to md in C#., C# Combine NUMBERS to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

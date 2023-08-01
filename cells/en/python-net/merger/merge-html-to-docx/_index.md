@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DOCX - Combine HTML to DOCX via Python
 url: /python-net/merger/merge-html-to-docx/ 
-description: Aspose Excel. Free Online Merge HTML to DOCX saveformat. Python Merge HTML to DOCX format. Combine HTML to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to DOCX saveformat via Python., Free Online Merge HTML to docx in Python., Python Combine HTML to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to DOCX saveformat. Python Combine HTML to DOCX format. Combine HTML to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to DOCX saveformat via Python., Free Online Merge HTML to docx in Python., Python Combine HTML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to CSV - Combine XLT to CSV via C#
 url: /net/merger/merge-xlt-to-csv/ 
-description: Aspose Excel. Free Online Merge XLT to CSV saveformat. C# Merge XLT to CSV format. Combine XLT to CSV in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to CSV saveformat via C#., Free Online Merge XLT to csv in C#., C# Combine XLT to CSV format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to CSV saveformat. C# Combine XLT to CSV format. Combine XLT to CSV in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to CSV saveformat via C#., Free Online Merge XLT to csv in C#., C# Combine XLT to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

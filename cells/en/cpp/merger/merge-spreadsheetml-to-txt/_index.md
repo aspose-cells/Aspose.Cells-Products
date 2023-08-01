@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to TXT - Combine SPREADSHEETML to TXT via C++
 url: /cpp/merger/merge-spreadsheetml-to-txt/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to TXT saveformat. C++ Merge SPREADSHEETML to TXT format. Combine SPREADSHEETML to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to TXT saveformat via C++., Free Online Merge SPREADSHEETML to txt in C++., C++ Combine SPREADSHEETML to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to TXT saveformat. C++ Combine SPREADSHEETML to TXT format. Combine SPREADSHEETML to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to TXT saveformat via C++., Free Online Merge SPREADSHEETML to txt in C++., C++ Combine SPREADSHEETML to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to NUMBERS - Combine HTM to NUMBERS via Java
 url: /java/merger/merge-htm-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTM to NUMBERS saveformat. Java Merge HTM to NUMBERS format. Combine HTM to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to NUMBERS saveformat via Java., Free Online Merge HTM to numbers in Java., Java Combine HTM to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to NUMBERS saveformat. Java Combine HTM to NUMBERS format. Combine HTM to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to NUMBERS saveformat via Java., Free Online Merge HTM to numbers in Java., Java Combine HTM to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to POWERPOINT - Combine HTML to POWERPOINT via C#
 url: /net/merger/merge-html-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTML to POWERPOINT saveformat. C# Merge HTML to POWERPOINT format. Combine HTML to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to POWERPOINT saveformat via C#., Free Online Merge HTML to powerpoint in C#., C# Combine HTML to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to POWERPOINT saveformat. C# Combine HTML to POWERPOINT format. Combine HTML to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to POWERPOINT saveformat via C#., Free Online Merge HTML to powerpoint in C#., C# Combine HTML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

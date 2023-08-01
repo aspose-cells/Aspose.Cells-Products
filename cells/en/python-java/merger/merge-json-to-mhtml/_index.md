@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MHTML - Combine JSON to MHTML via Python
 url: /python-java/merger/merge-json-to-mhtml/ 
-description: Aspose Excel. Free Online Merge JSON to MHTML saveformat. Python Merge JSON to MHTML format. Combine JSON to MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to MHTML saveformat via Python., Free Online Merge JSON to mhtml in Python., Python Combine JSON to MHTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to MHTML saveformat. Python Combine JSON to MHTML format. Combine JSON to MHTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to MHTML saveformat via Python., Free Online Merge JSON to mhtml in Python., Python Combine JSON to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

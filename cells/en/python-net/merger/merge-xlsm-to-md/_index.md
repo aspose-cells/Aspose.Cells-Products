@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to MD - Combine XLSM to MD via Python
 url: /python-net/merger/merge-xlsm-to-md/ 
-description: Aspose Excel. Free Online Merge XLSM to MD saveformat. Python Merge XLSM to MD format. Combine XLSM to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to MD saveformat via Python., Free Online Merge XLSM to md in Python., Python Combine XLSM to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to MD saveformat. Python Combine XLSM to MD format. Combine XLSM to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to MD saveformat via Python., Free Online Merge XLSM to md in Python., Python Combine XLSM to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

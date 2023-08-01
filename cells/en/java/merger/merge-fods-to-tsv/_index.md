@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TSV - Combine FODS to TSV via Java
 url: /java/merger/merge-fods-to-tsv/ 
-description: Aspose Excel. Free Online Merge FODS to TSV saveformat. Java Merge FODS to TSV format. Combine FODS to TSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to TSV saveformat via Java., Free Online Merge FODS to tsv in Java., Java Combine FODS to TSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to TSV saveformat. Java Combine FODS to TSV format. Combine FODS to TSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to TSV saveformat via Java., Free Online Merge FODS to tsv in Java., Java Combine FODS to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to WORD - Combine XLSM to WORD via C++
 url: /cpp/merger/merge-xlsm-to-word/ 
-description: Aspose Excel. Free Online Merge XLSM to WORD saveformat. C++ Merge XLSM to WORD format. Combine XLSM to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to WORD saveformat via C++., Free Online Merge XLSM to word in C++., C++ Combine XLSM to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to WORD saveformat. C++ Combine XLSM to WORD format. Combine XLSM to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to WORD saveformat via C++., Free Online Merge XLSM to word in C++., C++ Combine XLSM to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

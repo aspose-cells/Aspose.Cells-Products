@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PDF - Combine XLTX to PDF via C++
 url: /cpp/merger/merge-xltx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLTX to PDF saveformat. C++ Merge XLTX to PDF format. Combine XLTX to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to PDF saveformat via C++., Free Online Merge XLTX to pdf in C++., C++ Combine XLTX to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to PDF saveformat. C++ Combine XLTX to PDF format. Combine XLTX to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to PDF saveformat via C++., Free Online Merge XLTX to pdf in C++., C++ Combine XLTX to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

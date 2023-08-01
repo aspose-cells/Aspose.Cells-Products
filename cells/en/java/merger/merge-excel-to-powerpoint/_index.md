@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to POWERPOINT - Combine EXCEL to POWERPOINT via Java
 url: /java/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge EXCEL to POWERPOINT saveformat. Java Merge EXCEL to POWERPOINT format. Combine EXCEL to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to POWERPOINT saveformat via Java., Free Online Merge EXCEL to powerpoint in Java., Java Combine EXCEL to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to POWERPOINT saveformat. Java Combine EXCEL to POWERPOINT format. Combine EXCEL to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to POWERPOINT saveformat via Java., Free Online Merge EXCEL to powerpoint in Java., Java Combine EXCEL to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

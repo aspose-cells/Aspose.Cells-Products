@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLSB - Combine FODS to XLSB via C#
 url: /net/merger/merge-fods-to-xlsb/ 
-description: Aspose Excel. Free Online Merge FODS to XLSB saveformat. C# Merge FODS to XLSB format. Combine FODS to XLSB in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XLSB saveformat via C#., Free Online Merge FODS to xlsb in C#., C# Combine FODS to XLSB format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to XLSB saveformat. C# Combine FODS to XLSB format. Combine FODS to XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to XLSB saveformat via C#., Free Online Merge FODS to xlsb in C#., C# Combine FODS to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TXT - Combine NUMBERS to TXT via C++
 url: /cpp/merger/merge-numbers-to-txt/ 
-description: Aspose Excel. Free Online Merge NUMBERS to TXT saveformat. C++ Merge NUMBERS to TXT format. Combine NUMBERS to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to TXT saveformat via C++., Free Online Merge NUMBERS to txt in C++., C++ Combine NUMBERS to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to TXT saveformat. C++ Combine NUMBERS to TXT format. Combine NUMBERS to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to TXT saveformat via C++., Free Online Merge NUMBERS to txt in C++., C++ Combine NUMBERS to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

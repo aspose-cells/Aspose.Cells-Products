@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to POWERPOINT - Combine HTM to POWERPOINT via Python
 url: /python-net/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTM to POWERPOINT saveformat. Python Merge HTM to POWERPOINT format. Combine HTM to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to POWERPOINT saveformat via Python., Free Online Merge HTM to powerpoint in Python., Python Combine HTM to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to POWERPOINT saveformat. Python Combine HTM to POWERPOINT format. Combine HTM to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to POWERPOINT saveformat via Python., Free Online Merge HTM to powerpoint in Python., Python Combine HTM to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to HTML - Combine ODS to HTML via C++
 url: /cpp/merger/merge-ods-to-html/ 
-description: Aspose Excel. Free Online Merge ODS to HTML saveformat. C++ Merge ODS to HTML format. Combine ODS to HTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to HTML saveformat via C++., Free Online Merge ODS to html in C++., C++ Combine ODS to HTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to HTML saveformat. C++ Combine ODS to HTML format. Combine ODS to HTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to HTML saveformat via C++., Free Online Merge ODS to html in C++., C++ Combine ODS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to NUMBERS - Combine XLT to NUMBERS via Java
 url: /java/merger/merge-xlt-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLT to NUMBERS saveformat. Java Merge XLT to NUMBERS format. Combine XLT to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to NUMBERS saveformat via Java., Free Online Merge XLT to numbers in Java., Java Combine XLT to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to NUMBERS saveformat. Java Combine XLT to NUMBERS format. Combine XLT to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLT to NUMBERS saveformat via Java., Free Online Merge XLT to numbers in Java., Java Combine XLT to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

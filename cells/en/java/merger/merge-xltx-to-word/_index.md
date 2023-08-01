@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to WORD - Combine XLTX to WORD via Java
 url: /java/merger/merge-xltx-to-word/ 
-description: Aspose Excel. Free Online Merge XLTX to WORD saveformat. Java Merge XLTX to WORD format. Combine XLTX to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to WORD saveformat via Java., Free Online Merge XLTX to word in Java., Java Combine XLTX to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to WORD saveformat. Java Combine XLTX to WORD format. Combine XLTX to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to WORD saveformat via Java., Free Online Merge XLTX to word in Java., Java Combine XLTX to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

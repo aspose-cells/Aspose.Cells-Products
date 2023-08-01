@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PPTX - Combine FODS to PPTX via C++
 url: /cpp/merger/merge-fods-to-pptx/ 
-description: Aspose Excel. Free Online Merge FODS to PPTX saveformat. C++ Merge FODS to PPTX format. Combine FODS to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to PPTX saveformat via C++., Free Online Merge FODS to pptx in C++., C++ Combine FODS to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to PPTX saveformat. C++ Combine FODS to PPTX format. Combine FODS to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to PPTX saveformat via C++., Free Online Merge FODS to pptx in C++., C++ Combine FODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

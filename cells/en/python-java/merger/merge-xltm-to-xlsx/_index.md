@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XLSX - Combine XLTM to XLSX via Python
 url: /python-java/merger/merge-xltm-to-xlsx/ 
-description: Aspose Excel. Free Online Merge XLTM to XLSX saveformat. Python Merge XLTM to XLSX format. Combine XLTM to XLSX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to XLSX saveformat via Python., Free Online Merge XLTM to xlsx in Python., Python Combine XLTM to XLSX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to XLSX saveformat. Python Combine XLTM to XLSX format. Combine XLTM to XLSX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to XLSX saveformat via Python., Free Online Merge XLTM to xlsx in Python., Python Combine XLTM to XLSX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

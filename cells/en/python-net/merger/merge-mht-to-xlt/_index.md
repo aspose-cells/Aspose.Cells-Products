@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLT - Combine MHT to XLT via Python
 url: /python-net/merger/merge-mht-to-xlt/ 
-description: Aspose Excel. Free Online Merge MHT to XLT saveformat. Python Merge MHT to XLT format. Combine MHT to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLT saveformat via Python., Free Online Merge MHT to xlt in Python., Python Combine MHT to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XLT saveformat. Python Combine MHT to XLT format. Combine MHT to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to XLT saveformat via Python., Free Online Merge MHT to xlt in Python., Python Combine MHT to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PDF - Combine SXC to PDF via Java
 url: /java/merger/merge-sxc-to-pdf/ 
-description: Aspose Excel. Free Online Merge SXC to PDF saveformat. Java Merge SXC to PDF format. Combine SXC to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to PDF saveformat via Java., Free Online Merge SXC to pdf in Java., Java Combine SXC to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to PDF saveformat. Java Combine SXC to PDF format. Combine SXC to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to PDF saveformat via Java., Free Online Merge SXC to pdf in Java., Java Combine SXC to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

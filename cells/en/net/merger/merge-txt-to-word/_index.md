@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to WORD - Combine TXT to WORD via C#
 url: /net/merger/merge-txt-to-word/ 
-description: Aspose Excel. Free Online Merge TXT to WORD saveformat. C# Merge TXT to WORD format. Combine TXT to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to WORD saveformat via C#., Free Online Merge TXT to word in C#., C# Combine TXT to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to WORD saveformat. C# Combine TXT to WORD format. Combine TXT to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to WORD saveformat via C#., Free Online Merge TXT to word in C#., C# Combine TXT to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

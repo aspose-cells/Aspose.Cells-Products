@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to NUMBERS - Combine SXC to NUMBERS via Java
 url: /java/merger/merge-sxc-to-numbers/ 
-description: Aspose Excel. Free Online Merge SXC to NUMBERS saveformat. Java Merge SXC to NUMBERS format. Combine SXC to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to NUMBERS saveformat via Java., Free Online Merge SXC to numbers in Java., Java Combine SXC to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to NUMBERS saveformat. Java Combine SXC to NUMBERS format. Combine SXC to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to NUMBERS saveformat via Java., Free Online Merge SXC to numbers in Java., Java Combine SXC to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

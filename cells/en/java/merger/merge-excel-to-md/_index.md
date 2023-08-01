@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MD - Combine EXCEL to MD via Java
 url: /java/merger/merge-excel-to-md/ 
-description: Aspose Excel. Free Online Merge EXCEL to MD saveformat. Java Merge EXCEL to MD format. Combine EXCEL to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to MD saveformat via Java., Free Online Merge EXCEL to md in Java., Java Combine EXCEL to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to MD saveformat. Java Combine EXCEL to MD format. Combine EXCEL to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to MD saveformat via Java., Free Online Merge EXCEL to md in Java., Java Combine EXCEL to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

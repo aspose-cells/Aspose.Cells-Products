@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to WORD - Combine XLS to WORD via Python
 url: /python-java/merger/merge-xls-to-word/ 
-description: Aspose Excel. Free Online Merge XLS to WORD saveformat. Python Merge XLS to WORD format. Combine XLS to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to WORD saveformat via Python., Free Online Merge XLS to word in Python., Python Combine XLS to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to WORD saveformat. Python Combine XLS to WORD format. Combine XLS to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to WORD saveformat via Python., Free Online Merge XLS to word in Python., Python Combine XLS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

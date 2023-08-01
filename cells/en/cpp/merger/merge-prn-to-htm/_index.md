@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to HTM - Combine PRN to HTM via C++
 url: /cpp/merger/merge-prn-to-htm/ 
-description: Aspose Excel. Free Online Merge PRN to HTM saveformat. C++ Merge PRN to HTM format. Combine PRN to HTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to HTM saveformat via C++., Free Online Merge PRN to htm in C++., C++ Combine PRN to HTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to HTM saveformat. C++ Combine PRN to HTM format. Combine PRN to HTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to HTM saveformat via C++., Free Online Merge PRN to htm in C++., C++ Combine PRN to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

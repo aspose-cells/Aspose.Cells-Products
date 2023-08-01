@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DOCX - Combine MHT to DOCX via C++
 url: /cpp/merger/merge-mht-to-docx/ 
-description: Aspose Excel. Free Online Merge MHT to DOCX saveformat. C++ Merge MHT to DOCX format. Combine MHT to DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to DOCX saveformat via C++., Free Online Merge MHT to docx in C++., C++ Combine MHT to DOCX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to DOCX saveformat. C++ Combine MHT to DOCX format. Combine MHT to DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to DOCX saveformat via C++., Free Online Merge MHT to docx in C++., C++ Combine MHT to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

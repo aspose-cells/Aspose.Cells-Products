@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTM - Combine FODS to HTM via Java
 url: /java/merger/merge-fods-to-htm/ 
-description: Aspose Excel. Free Online Merge FODS to HTM saveformat. Java Merge FODS to HTM format. Combine FODS to HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to HTM saveformat via Java., Free Online Merge FODS to htm in Java., Java Combine FODS to HTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to HTM saveformat. Java Combine FODS to HTM format. Combine FODS to HTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to HTM saveformat via Java., Free Online Merge FODS to htm in Java., Java Combine FODS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

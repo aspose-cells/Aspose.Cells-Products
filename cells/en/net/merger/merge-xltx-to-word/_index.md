@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to WORD - Combine XLTX to WORD via C#
 url: /net/merger/merge-xltx-to-word/ 
-description: Aspose Excel. Free Online Merge XLTX to WORD saveformat. C# Merge XLTX to WORD format. Combine XLTX to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to WORD saveformat via C#., Free Online Merge XLTX to word in C#., C# Combine XLTX to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to WORD saveformat. C# Combine XLTX to WORD format. Combine XLTX to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to WORD saveformat via C#., Free Online Merge XLTX to word in C#., C# Combine XLTX to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

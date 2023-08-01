@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PPTX - Combine PRN to PPTX via Python
 url: /python-java/merger/merge-prn-to-pptx/ 
-description: Aspose Excel. Free Online Merge PRN to PPTX saveformat. Python Merge PRN to PPTX format. Combine PRN to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to PPTX saveformat via Python., Free Online Merge PRN to pptx in Python., Python Combine PRN to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to PPTX saveformat. Python Combine PRN to PPTX format. Combine PRN to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to PPTX saveformat via Python., Free Online Merge PRN to pptx in Python., Python Combine PRN to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

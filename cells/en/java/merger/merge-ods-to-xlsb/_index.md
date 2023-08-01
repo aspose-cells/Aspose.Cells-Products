@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLSB - Combine ODS to XLSB via Java
 url: /java/merger/merge-ods-to-xlsb/ 
-description: Aspose Excel. Free Online Merge ODS to XLSB saveformat. Java Merge ODS to XLSB format. Combine ODS to XLSB in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to XLSB saveformat via Java., Free Online Merge ODS to xlsb in Java., Java Combine ODS to XLSB format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to XLSB saveformat. Java Combine ODS to XLSB format. Combine ODS to XLSB in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to XLSB saveformat via Java., Free Online Merge ODS to xlsb in Java., Java Combine ODS to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

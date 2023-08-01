@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLTM - Combine NUMBERS to XLTM via Java
 url: /java/merger/merge-numbers-to-xltm/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLTM saveformat. Java Merge NUMBERS to XLTM format. Combine NUMBERS to XLTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLTM saveformat via Java., Free Online Merge NUMBERS to xltm in Java., Java Combine NUMBERS to XLTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XLTM saveformat. Java Combine NUMBERS to XLTM format. Combine NUMBERS to XLTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to XLTM saveformat via Java., Free Online Merge NUMBERS to xltm in Java., Java Combine NUMBERS to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

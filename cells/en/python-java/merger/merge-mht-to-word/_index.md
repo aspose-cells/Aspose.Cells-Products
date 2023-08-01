@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to WORD - Combine MHT to WORD via Python
 url: /python-java/merger/merge-mht-to-word/ 
-description: Aspose Excel. Free Online Merge MHT to WORD saveformat. Python Merge MHT to WORD format. Combine MHT to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to WORD saveformat via Python., Free Online Merge MHT to word in Python., Python Combine MHT to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to WORD saveformat. Python Combine MHT to WORD format. Combine MHT to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to WORD saveformat via Python., Free Online Merge MHT to word in Python., Python Combine MHT to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

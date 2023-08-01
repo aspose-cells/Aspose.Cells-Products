@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XPS - Combine HTML to XPS via Python
 url: /python-net/merger/merge-html-to-xps/ 
-description: Aspose Excel. Free Online Merge HTML to XPS saveformat. Python Merge HTML to XPS format. Combine HTML to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XPS saveformat via Python., Free Online Merge HTML to xps in Python., Python Combine HTML to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XPS saveformat. Python Combine HTML to XPS format. Combine HTML to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to XPS saveformat via Python., Free Online Merge HTML to xps in Python., Python Combine HTML to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

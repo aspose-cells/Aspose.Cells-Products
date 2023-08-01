@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLS - Combine XLT to XLS via Python
 url: /python-java/merger/merge-xlt-to-xls/ 
-description: Aspose Excel. Free Online Merge XLT to XLS saveformat. Python Merge XLT to XLS format. Combine XLT to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XLS saveformat via Python., Free Online Merge XLT to xls in Python., Python Combine XLT to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to XLS saveformat. Python Combine XLT to XLS format. Combine XLT to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to XLS saveformat via Python., Free Online Merge XLT to xls in Python., Python Combine XLT to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

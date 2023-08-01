@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to PPTX - Combine TSV to PPTX via C#
 url: /net/merger/merge-tsv-to-pptx/ 
-description: Aspose Excel. Free Online Merge TSV to PPTX saveformat. C# Merge TSV to PPTX format. Combine TSV to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to PPTX saveformat via C#., Free Online Merge TSV to pptx in C#., C# Combine TSV to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to PPTX saveformat. C# Combine TSV to PPTX format. Combine TSV to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine TSV to PPTX saveformat via C#., Free Online Merge TSV to pptx in C#., C# Combine TSV to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

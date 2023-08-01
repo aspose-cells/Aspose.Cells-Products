@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to JSON - Combine XLTX to JSON via C#
 url: /net/merger/merge-xltx-to-json/ 
-description: Aspose Excel. Free Online Merge XLTX to JSON saveformat. C# Merge XLTX to JSON format. Combine XLTX to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to JSON saveformat via C#., Free Online Merge XLTX to json in C#., C# Combine XLTX to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to JSON saveformat. C# Combine XLTX to JSON format. Combine XLTX to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to JSON saveformat via C#., Free Online Merge XLTX to json in C#., C# Combine XLTX to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

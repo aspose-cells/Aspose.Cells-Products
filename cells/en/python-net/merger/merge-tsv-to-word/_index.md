@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to WORD - Combine TSV to WORD via Python
 url: /python-net/merger/merge-tsv-to-word/ 
-description: Aspose Excel. Free Online Merge TSV to WORD saveformat. Python Merge TSV to WORD format. Combine TSV to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to WORD saveformat via Python., Free Online Merge TSV to word in Python., Python Combine TSV to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to WORD saveformat. Python Combine TSV to WORD format. Combine TSV to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to WORD saveformat via Python., Free Online Merge TSV to word in Python., Python Combine TSV to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

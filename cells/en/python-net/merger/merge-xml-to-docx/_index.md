@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DOCX - Combine XML to DOCX via Python
 url: /python-net/merger/merge-xml-to-docx/ 
-description: Aspose Excel. Free Online Merge XML to DOCX saveformat. Python Merge XML to DOCX format. Combine XML to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to DOCX saveformat via Python., Free Online Merge XML to docx in Python., Python Combine XML to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to DOCX saveformat. Python Combine XML to DOCX format. Combine XML to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to DOCX saveformat via Python., Free Online Merge XML to docx in Python., Python Combine XML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

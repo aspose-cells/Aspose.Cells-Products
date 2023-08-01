@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to JSON - Combine TABDELIMITED to JSON via Python
 url: /python-java/merger/merge-tabdelimited-to-json/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to JSON saveformat. Python Merge TABDELIMITED to JSON format. Combine TABDELIMITED to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to JSON saveformat via Python., Free Online Merge TABDELIMITED to json in Python., Python Combine TABDELIMITED to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to JSON saveformat. Python Combine TABDELIMITED to JSON format. Combine TABDELIMITED to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to JSON saveformat via Python., Free Online Merge TABDELIMITED to json in Python., Python Combine TABDELIMITED to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

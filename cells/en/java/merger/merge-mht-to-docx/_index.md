@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DOCX - Combine MHT to DOCX via Java
 url: /java/merger/merge-mht-to-docx/ 
-description: Aspose Excel. Free Online Merge MHT to DOCX saveformat. Java Merge MHT to DOCX format. Combine MHT to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to DOCX saveformat via Java., Free Online Merge MHT to docx in Java., Java Combine MHT to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to DOCX saveformat. Java Combine MHT to DOCX format. Combine MHT to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to DOCX saveformat via Java., Free Online Merge MHT to docx in Java., Java Combine MHT to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

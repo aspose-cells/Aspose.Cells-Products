@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to POWERPOINT - Combine MHT to POWERPOINT via Java
 url: /java/merger/merge-mht-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge MHT to POWERPOINT saveformat. Java Merge MHT to POWERPOINT format. Combine MHT to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to POWERPOINT saveformat via Java., Free Online Merge MHT to powerpoint in Java., Java Combine MHT to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to POWERPOINT saveformat. Java Combine MHT to POWERPOINT format. Combine MHT to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to POWERPOINT saveformat via Java., Free Online Merge MHT to powerpoint in Java., Java Combine MHT to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

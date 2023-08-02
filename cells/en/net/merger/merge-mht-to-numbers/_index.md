@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to NUMBERS - Combine MHT to NUMBERS via C#
 url: /net/merger/merge-mht-to-numbers/ 
-description: Aspose Excel. Free Online Merge MHT to NUMBERS saveformat. C# Merge MHT to NUMBERS format. Combine MHT to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to NUMBERS saveformat via C#., Free Online Merge MHT to numbers in C#., C# Combine MHT to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to NUMBERS saveformat. C# Combine MHT to NUMBERS format. Combine MHT to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to NUMBERS saveformat via C#., Free Online Merge MHT to numbers in C#., C# Combine MHT to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

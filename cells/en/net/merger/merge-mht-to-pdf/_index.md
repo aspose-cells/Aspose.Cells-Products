@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PDF - Combine MHT to PDF via C#
 url: /net/merger/merge-mht-to-pdf/ 
-description: Aspose Excel. Free Online Merge MHT to PDF saveformat. C# Merge MHT to PDF format. Combine MHT to PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to PDF saveformat via C#., Free Online Merge MHT to pdf in C#., C# Combine MHT to PDF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to PDF saveformat. C# Combine MHT to PDF format. Combine MHT to PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to PDF saveformat via C#., Free Online Merge MHT to pdf in C#., C# Combine MHT to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

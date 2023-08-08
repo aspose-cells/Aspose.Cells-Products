@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLAM - Combine HTM to XLAM via C#
 url: /net/merger/merge-htm-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to XLAM saveformat. C# Combine HTM to XLAM format. Combine HTM to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to XLAM saveformat via C#., Free Online Merge HTM to xlam in C#., C# Combine HTM to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to XLAM C#. C# Merge HTM to XLAM format. Combine HTM to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to XLAM., Free Online Merge HTM to xlam in C#., C# Combine HTM to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

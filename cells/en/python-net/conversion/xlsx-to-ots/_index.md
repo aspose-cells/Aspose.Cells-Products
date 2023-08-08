@@ -1,7 +1,7 @@
 ---
-title: XLSX to OTS - Convert XLSX to OTS files Python via Python
-description: Aspose Excel. Free Online Convert XLSX to OTS saveformat. Python XLSX to OTS format. Save XLSX as OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to OTS saveformat., Free Online XLSX to OTS Converter]
+title: Python XLSX to OTS - Convert XLSX to OTS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to OTS saveformat. Python XLSX to OTS format. Save XLSX to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to OTS saveformat., Free Online XLSX to OTS Python., Python Convert XLSX to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

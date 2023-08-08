@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to OTS - Combine ODS to OTS via Python
 url: /python-java/merger/merge-ods-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to OTS saveformat. Python Combine ODS to OTS format. Combine ODS to OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to OTS saveformat via Python., Free Online Merge ODS to ots in Python., Python Combine ODS to OTS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to OTS Python. Python Merge ODS to OTS format. Combine ODS to OTS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to OTS., Free Online Merge ODS to ots in Python., Python Combine ODS to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

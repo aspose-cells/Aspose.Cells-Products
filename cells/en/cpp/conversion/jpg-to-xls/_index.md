@@ -1,7 +1,7 @@
 ---
-title: JPG to XLS - Convert JPG to XLS files C++
-description: Aspose Excel. Free Online Convert JPG to XLS saveformat. C++ JPG to XLS format. Save JPG as XLS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XLS saveformat., Free Online JPG to XLS Converter]
+title: C++ JPG to XLS - Online JPG to XLS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to XLS saveformat. C++ JPG to XLS format. Save JPG to XLS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to XLS saveformat., Free Online JPG to XLS C++., C++ Convert JPG to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLTX - Combine MHTML to XLTX via C#
 url: /net/merger/merge-mhtml-to-xltx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to XLTX saveformat. C# Combine MHTML to XLTX format. Combine MHTML to XLTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to XLTX saveformat via C#., Free Online Merge MHTML to xltx in C#., C# Combine MHTML to XLTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to XLTX C#. C# Merge MHTML to XLTX format. Combine MHTML to XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to XLTX., Free Online Merge MHTML to xltx in C#., C# Combine MHTML to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

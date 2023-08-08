@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TXT - Combine ODS to TXT via Java
 url: /java/merger/merge-ods-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to TXT saveformat. Java Combine ODS to TXT format. Combine ODS to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to TXT saveformat via Java., Free Online Merge ODS to txt in Java., Java Combine ODS to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to TXT Java. Java Merge ODS to TXT format. Combine ODS to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to TXT., Free Online Merge ODS to txt in Java., Java Combine ODS to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

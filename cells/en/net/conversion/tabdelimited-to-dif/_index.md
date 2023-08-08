@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to DIF - Convert TABDELIMITED to DIF files C#
-description: Aspose Excel. Free Online Convert TABDELIMITED to DIF saveformat. C# TABDELIMITED to DIF format. Save TABDELIMITED as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TABDELIMITED to DIF saveformat., Free Online TABDELIMITED to DIF Converter]
+title: C# TABDELIMITED to DIF - Online TABDELIMITED to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TABDELIMITED to DIF saveformat. C# TABDELIMITED to DIF format. Save TABDELIMITED to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TABDELIMITED to DIF saveformat., Free Online TABDELIMITED to DIF C#., C# Convert TABDELIMITED to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

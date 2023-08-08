@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to EMF - Combine XLSB to EMF via Python
 url: /python-net/merger/merge-xlsb-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to EMF saveformat. Python Combine XLSB to EMF format. Combine XLSB to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to EMF saveformat via Python., Free Online Merge XLSB to emf in Python., Python Combine XLSB to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to EMF Python. Python Merge XLSB to EMF format. Combine XLSB to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to EMF., Free Online Merge XLSB to emf in Python., Python Combine XLSB to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

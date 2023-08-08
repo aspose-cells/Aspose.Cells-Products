@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to GIF - Combine SPREADSHEETML to GIF via Java
 url: /java/merger/merge-spreadsheetml-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to GIF saveformat. Java Combine SPREADSHEETML to GIF format. Combine SPREADSHEETML to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to GIF saveformat via Java., Free Online Merge SPREADSHEETML to gif in Java., Java Combine SPREADSHEETML to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to GIF Java. Java Merge SPREADSHEETML to GIF format. Combine SPREADSHEETML to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to GIF., Free Online Merge SPREADSHEETML to gif in Java., Java Combine SPREADSHEETML to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

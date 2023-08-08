@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to EMF - Combine HTML to EMF via C++
 url: /cpp/merger/merge-html-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to EMF saveformat. C++ Combine HTML to EMF format. Combine HTML to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to EMF saveformat via C++., Free Online Merge HTML to emf in C++., C++ Combine HTML to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to EMF C++. C++ Merge HTML to EMF format. Combine HTML to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to EMF., Free Online Merge HTML to emf in C++., C++ Combine HTML to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

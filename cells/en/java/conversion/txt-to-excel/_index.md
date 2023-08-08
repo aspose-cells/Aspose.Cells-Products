@@ -1,7 +1,7 @@
 ---
-title: TXT to EXCEL - Convert TXT to EXCEL files Java
-description: Aspose Excel. Free Online Convert TXT to EXCEL saveformat. Java TXT to EXCEL format. Save TXT as EXCEL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to EXCEL saveformat., Free Online TXT to EXCEL Converter]
+title: Java TXT to EXCEL - Online TXT to EXCEL Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to EXCEL saveformat. Java TXT to EXCEL format. Save TXT to EXCEL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to EXCEL saveformat., Free Online TXT to EXCEL Java., Java Convert TXT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

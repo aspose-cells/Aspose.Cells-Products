@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XML - Combine XLSB to XML via Python
 url: /python-net/merger/merge-xlsb-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to XML saveformat. Python Combine XLSB to XML format. Combine XLSB to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to XML saveformat via Python., Free Online Merge XLSB to xml in Python., Python Combine XLSB to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to XML Python. Python Merge XLSB to XML format. Combine XLSB to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to XML., Free Online Merge XLSB to xml in Python., Python Combine XLSB to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

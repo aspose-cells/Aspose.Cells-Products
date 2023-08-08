@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to ETT - Combine XLTM to ETT via Python
 url: /python-net/merger/merge-xltm-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to ETT saveformat. Python Combine XLTM to ETT format. Combine XLTM to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to ETT saveformat via Python., Free Online Merge XLTM to ett in Python., Python Combine XLTM to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTM Merge. Free Online Merge XLTM to ETT Python. Python Merge XLTM to ETT format. Combine XLTM to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTM Merge., Python Merge XLTM to ETT., Free Online Merge XLTM to ett in Python., Python Combine XLTM to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

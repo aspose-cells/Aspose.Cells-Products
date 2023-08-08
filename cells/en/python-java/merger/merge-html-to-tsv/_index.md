@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TSV - Combine HTML to TSV via Python
 url: /python-java/merger/merge-html-to-tsv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to TSV saveformat. Python Combine HTML to TSV format. Combine HTML to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to TSV saveformat via Python., Free Online Merge HTML to tsv in Python., Python Combine HTML to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to TSV Python. Python Merge HTML to TSV format. Combine HTML to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to TSV., Free Online Merge HTML to tsv in Python., Python Combine HTML to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

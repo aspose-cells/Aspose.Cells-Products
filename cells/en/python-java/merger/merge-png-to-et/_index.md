@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ET - Combine PNG to ET via Python
 url: /python-java/merger/merge-png-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to ET saveformat. Python Combine PNG to ET format. Combine PNG to ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to ET saveformat via Python., Free Online Merge PNG to et in Python., Python Combine PNG to ET format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to ET Python. Python Merge PNG to ET format. Combine PNG to ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to ET., Free Online Merge PNG to et in Python., Python Combine PNG to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

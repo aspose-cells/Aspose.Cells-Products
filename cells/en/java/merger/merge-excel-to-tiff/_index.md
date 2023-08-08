@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to TIFF - Combine EXCEL to TIFF via Java
 url: /java/merger/merge-excel-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to TIFF saveformat. Java Combine EXCEL to TIFF format. Combine EXCEL to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to TIFF saveformat via Java., Free Online Merge EXCEL to tiff in Java., Java Combine EXCEL to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to TIFF Java. Java Merge EXCEL to TIFF format. Combine EXCEL to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to TIFF., Free Online Merge EXCEL to tiff in Java., Java Combine EXCEL to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

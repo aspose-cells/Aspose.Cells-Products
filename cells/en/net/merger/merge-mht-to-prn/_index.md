@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PRN - Combine MHT to PRN via C#
 url: /net/merger/merge-mht-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to PRN saveformat. C# Combine MHT to PRN format. Combine MHT to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to PRN saveformat via C#., Free Online Merge MHT to prn in C#., C# Combine MHT to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to PRN C#. C# Merge MHT to PRN format. Combine MHT to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to PRN., Free Online Merge MHT to prn in C#., C# Combine MHT to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

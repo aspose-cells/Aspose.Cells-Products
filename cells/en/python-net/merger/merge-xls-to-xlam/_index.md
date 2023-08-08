@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLAM - Combine XLS to XLAM via Python
 url: /python-net/merger/merge-xls-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to XLAM saveformat. Python Combine XLS to XLAM format. Combine XLS to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to XLAM saveformat via Python., Free Online Merge XLS to xlam in Python., Python Combine XLS to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to XLAM Python. Python Merge XLS to XLAM format. Combine XLS to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to XLAM., Free Online Merge XLS to xlam in Python., Python Combine XLS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

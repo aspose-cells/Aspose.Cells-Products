@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to DIF - Combine JSON to DIF via C++
 url: /cpp/merger/merge-json-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to DIF saveformat. C++ Combine JSON to DIF format. Combine JSON to DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to DIF saveformat via C++., Free Online Merge JSON to dif in C++., C++ Combine JSON to DIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to DIF C++. C++ Merge JSON to DIF format. Combine JSON to DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to DIF., Free Online Merge JSON to dif in C++., C++ Combine JSON to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

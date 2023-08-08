@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to WORD - Combine FODS to WORD via C#
 url: /net/merger/merge-fods-to-word/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to WORD saveformat. C# Combine FODS to WORD format. Combine FODS to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to WORD saveformat via C#., Free Online Merge FODS to word in C#., C# Combine FODS to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to WORD C#. C# Merge FODS to WORD format. Combine FODS to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to WORD., Free Online Merge FODS to word in C#., C# Combine FODS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

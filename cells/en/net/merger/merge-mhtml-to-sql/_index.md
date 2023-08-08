@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SQL - Combine MHTML to SQL via C#
 url: /net/merger/merge-mhtml-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to SQL saveformat. C# Combine MHTML to SQL format. Combine MHTML to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to SQL saveformat via C#., Free Online Merge MHTML to sql in C#., C# Combine MHTML to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to SQL C#. C# Merge MHTML to SQL format. Combine MHTML to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to SQL., Free Online Merge MHTML to sql in C#., C# Combine MHTML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

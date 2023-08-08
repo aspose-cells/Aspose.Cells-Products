@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XPS - Combine XLTM to XPS via Python
 url: /python-java/merger/merge-xltm-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to XPS saveformat. Python Combine XLTM to XPS format. Combine XLTM to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to XPS saveformat via Python., Free Online Merge XLTM to xps in Python., Python Combine XLTM to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTM Merge. Free Online Merge XLTM to XPS Python. Python Merge XLTM to XPS format. Combine XLTM to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTM Merge., Python Merge XLTM to XPS., Free Online Merge XLTM to xps in Python., Python Combine XLTM to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

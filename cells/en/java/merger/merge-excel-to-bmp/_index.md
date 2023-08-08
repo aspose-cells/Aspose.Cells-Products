@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to BMP - Combine EXCEL to BMP via Java
 url: /java/merger/merge-excel-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to BMP saveformat. Java Combine EXCEL to BMP format. Combine EXCEL to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to BMP saveformat via Java., Free Online Merge EXCEL to bmp in Java., Java Combine EXCEL to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to BMP Java. Java Merge EXCEL to BMP format. Combine EXCEL to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to BMP., Free Online Merge EXCEL to bmp in Java., Java Combine EXCEL to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

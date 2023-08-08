@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to GIF - Combine HTM to GIF via Python
 url: /python-net/merger/merge-htm-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to GIF saveformat. Python Combine HTM to GIF format. Combine HTM to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to GIF saveformat via Python., Free Online Merge HTM to gif in Python., Python Combine HTM to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to GIF Python. Python Merge HTM to GIF format. Combine HTM to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to GIF., Free Online Merge HTM to gif in Python., Python Combine HTM to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

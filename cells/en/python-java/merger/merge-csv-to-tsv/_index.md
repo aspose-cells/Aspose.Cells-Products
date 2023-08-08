@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to TSV - Combine CSV to TSV via Python
 url: /python-java/merger/merge-csv-to-tsv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to TSV saveformat. Python Combine CSV to TSV format. Combine CSV to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to TSV saveformat via Python., Free Online Merge CSV to tsv in Python., Python Combine CSV to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to TSV Python. Python Merge CSV to TSV format. Combine CSV to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to TSV., Free Online Merge CSV to tsv in Python., Python Combine CSV to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

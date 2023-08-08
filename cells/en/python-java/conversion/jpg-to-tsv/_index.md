@@ -1,7 +1,7 @@
 ---
-title: JPG to TSV - Convert JPG to TSV Python via Python
-description: Aspose Excel. Free Online Convert JPG to TSV saveformat. Python JPG to TSV format. Save JPG as TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to TSV saveformat., Free Online JPG to TSV Converter]
+title: Python JPG to TSV - Convert JPG to TSV Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to TSV saveformat. Python JPG to TSV format. Save JPG to TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to TSV saveformat., Free Online JPG to TSV Python., Python Convert JPG to TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

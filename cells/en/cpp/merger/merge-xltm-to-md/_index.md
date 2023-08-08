@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MD - Combine XLTM to MD via C++
 url: /cpp/merger/merge-xltm-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to MD saveformat. C++ Combine XLTM to MD format. Combine XLTM to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTM to MD saveformat via C++., Free Online Merge XLTM to md in C++., C++ Combine XLTM to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTM Merge. Free Online Merge XLTM to MD C++. C++ Merge XLTM to MD format. Combine XLTM to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTM Merge., C++ Merge XLTM to MD., Free Online Merge XLTM to md in C++., C++ Combine XLTM to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

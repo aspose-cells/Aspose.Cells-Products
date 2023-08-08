@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TXT - Combine PRN to TXT via Java
 url: /java/merger/merge-prn-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to TXT saveformat. Java Combine PRN to TXT format. Combine PRN to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to TXT saveformat via Java., Free Online Merge PRN to txt in Java., Java Combine PRN to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to TXT Java. Java Merge PRN to TXT format. Combine PRN to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to TXT., Free Online Merge PRN to txt in Java., Java Combine PRN to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to JSON - Combine EXCEL to JSON via Python
 url: /python-net/merger/merge-excel-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to JSON saveformat. Python Combine EXCEL to JSON format. Combine EXCEL to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to JSON saveformat via Python., Free Online Merge EXCEL to json in Python., Python Combine EXCEL to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to JSON Python. Python Merge EXCEL to JSON format. Combine EXCEL to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to JSON., Free Online Merge EXCEL to json in Python., Python Combine EXCEL to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

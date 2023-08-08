@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TABDELIMITED - Combine FODS to TABDELIMITED via Java
 url: /java/merger/merge-fods-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to TABDELIMITED saveformat. Java Combine FODS to TABDELIMITED format. Combine FODS to TABDELIMITED in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to TABDELIMITED saveformat via Java., Free Online Merge FODS to tabdelimited in Java., Java Combine FODS to TABDELIMITED format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to TABDELIMITED Java. Java Merge FODS to TABDELIMITED format. Combine FODS to TABDELIMITED in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to TABDELIMITED., Free Online Merge FODS to tabdelimited in Java., Java Combine FODS to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

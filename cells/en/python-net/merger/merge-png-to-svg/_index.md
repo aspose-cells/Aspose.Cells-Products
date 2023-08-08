@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SVG - Combine PNG to SVG via Python
 url: /python-net/merger/merge-png-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to SVG saveformat. Python Combine PNG to SVG format. Combine PNG to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to SVG saveformat via Python., Free Online Merge PNG to svg in Python., Python Combine PNG to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to SVG Python. Python Merge PNG to SVG format. Combine PNG to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to SVG., Free Online Merge PNG to svg in Python., Python Combine PNG to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

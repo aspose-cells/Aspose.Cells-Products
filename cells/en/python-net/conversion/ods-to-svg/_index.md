@@ -1,7 +1,7 @@
 ---
-title: ODS to SVG - Convert ODS to SVG files Python via Python
-description: Aspose Excel. Free Online Convert ODS to SVG saveformat. Python ODS to SVG format. Save ODS as SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to SVG saveformat., Free Online ODS to SVG Converter]
+title: Python ODS to SVG - Convert ODS to SVG Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to SVG saveformat. Python ODS to SVG format. Save ODS to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to SVG saveformat., Free Online ODS to SVG Python., Python Convert ODS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

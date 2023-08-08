@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MD - Combine PRN to MD via C++
 url: /cpp/merger/merge-prn-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to MD saveformat. C++ Combine PRN to MD format. Combine PRN to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to MD saveformat via C++., Free Online Merge PRN to md in C++., C++ Combine PRN to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to MD C++. C++ Merge PRN to MD format. Combine PRN to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to MD., Free Online Merge PRN to md in C++., C++ Combine PRN to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

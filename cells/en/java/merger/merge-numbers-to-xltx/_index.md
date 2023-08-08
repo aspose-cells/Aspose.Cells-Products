@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLTX - Combine NUMBERS to XLTX via Java
 url: /java/merger/merge-numbers-to-xltx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XLTX saveformat. Java Combine NUMBERS to XLTX format. Combine NUMBERS to XLTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to XLTX saveformat via Java., Free Online Merge NUMBERS to xltx in Java., Java Combine NUMBERS to XLTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to XLTX Java. Java Merge NUMBERS to XLTX format. Combine NUMBERS to XLTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to XLTX., Free Online Merge NUMBERS to xltx in Java., Java Combine NUMBERS to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

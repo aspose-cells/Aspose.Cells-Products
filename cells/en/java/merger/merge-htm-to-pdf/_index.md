@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PDF - Combine HTM to PDF via Java
 url: /java/merger/merge-htm-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to PDF saveformat. Java Combine HTM to PDF format. Combine HTM to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to PDF saveformat via Java., Free Online Merge HTM to pdf in Java., Java Combine HTM to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to PDF Java. Java Merge HTM to PDF format. Combine HTM to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to PDF., Free Online Merge HTM to pdf in Java., Java Combine HTM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

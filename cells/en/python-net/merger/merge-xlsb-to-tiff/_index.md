@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TIFF - Combine XLSB to TIFF via Python
 url: /python-net/merger/merge-xlsb-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to TIFF saveformat. Python Combine XLSB to TIFF format. Combine XLSB to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to TIFF saveformat via Python., Free Online Merge XLSB to tiff in Python., Python Combine XLSB to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to TIFF Python. Python Merge XLSB to TIFF format. Combine XLSB to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to TIFF., Free Online Merge XLSB to tiff in Python., Python Combine XLSB to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

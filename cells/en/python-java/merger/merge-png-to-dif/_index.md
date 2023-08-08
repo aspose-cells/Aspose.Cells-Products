@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DIF - Combine PNG to DIF via Python
 url: /python-java/merger/merge-png-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to DIF saveformat. Python Combine PNG to DIF format. Combine PNG to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to DIF saveformat via Python., Free Online Merge PNG to dif in Python., Python Combine PNG to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to DIF Python. Python Merge PNG to DIF format. Combine PNG to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to DIF., Free Online Merge PNG to dif in Python., Python Combine PNG to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to BMP - Combine HTM to BMP via Java
 url: /java/merger/merge-htm-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to BMP saveformat. Java Combine HTM to BMP format. Combine HTM to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to BMP saveformat via Java., Free Online Merge HTM to bmp in Java., Java Combine HTM to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to BMP Java. Java Merge HTM to BMP format. Combine HTM to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to BMP., Free Online Merge HTM to bmp in Java., Java Combine HTM to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

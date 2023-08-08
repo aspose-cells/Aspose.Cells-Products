@@ -1,7 +1,7 @@
 ---
-title: SXC to TXT - Convert SXC to TXT files C#
-description: Aspose Excel. Free Online Convert SXC to TXT saveformat. C# SXC to TXT format. Save SXC as TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to TXT saveformat., Free Online SXC to TXT Converter]
+title: C# SXC to TXT - Online SXC to TXT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert SXC to TXT saveformat. C# SXC to TXT format. Save SXC to TXT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# SXC to TXT saveformat., Free Online SXC to TXT C#., C# Convert SXC to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

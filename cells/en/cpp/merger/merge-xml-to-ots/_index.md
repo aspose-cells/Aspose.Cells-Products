@@ -1,8 +1,8 @@
 ---
 title: Merge XML to OTS - Combine XML to OTS via C++
 url: /cpp/merger/merge-xml-to-ots/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to OTS saveformat. C++ Combine XML to OTS format. Combine XML to OTS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to OTS saveformat via C++., Free Online Merge XML to ots in C++., C++ Combine XML to OTS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to OTS C++. C++ Merge XML to OTS format. Combine XML to OTS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to OTS., Free Online Merge XML to ots in C++., C++ Combine XML to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

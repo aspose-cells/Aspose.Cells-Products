@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to BMP - Combine MHTML to BMP via C++
 url: /cpp/merger/merge-mhtml-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to BMP saveformat. C++ Combine MHTML to BMP format. Combine MHTML to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to BMP saveformat via C++., Free Online Merge MHTML to bmp in C++., C++ Combine MHTML to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHTML Merge. Free Online Merge MHTML to BMP C++. C++ Merge MHTML to BMP format. Combine MHTML to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHTML Merge., C++ Merge MHTML to BMP., Free Online Merge MHTML to bmp in C++., C++ Combine MHTML to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

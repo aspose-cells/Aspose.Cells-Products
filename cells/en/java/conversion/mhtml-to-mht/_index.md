@@ -1,7 +1,7 @@
 ---
-title: MHTML to MHT - Convert MHTML to MHT files Java
-description: Aspose Excel. Free Online Convert MHTML to MHT saveformat. Java MHTML to MHT format. Save MHTML as MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to MHT saveformat., Free Online MHTML to MHT Converter]
+title: Java MHTML to MHT - Online MHTML to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to MHT saveformat. Java MHTML to MHT format. Save MHTML to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to MHT saveformat., Free Online MHTML to MHT Java., Java Convert MHTML to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

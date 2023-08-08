@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to BMP - Combine HTML to BMP via Python
 url: /python-java/merger/merge-html-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to BMP saveformat. Python Combine HTML to BMP format. Combine HTML to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to BMP saveformat via Python., Free Online Merge HTML to bmp in Python., Python Combine HTML to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to BMP Python. Python Merge HTML to BMP format. Combine HTML to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to BMP., Free Online Merge HTML to bmp in Python., Python Combine HTML to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

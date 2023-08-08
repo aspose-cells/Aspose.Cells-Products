@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLS - Combine JPEG to XLS via Python
 url: /python-net/merger/merge-jpeg-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to XLS saveformat. Python Combine JPEG to XLS format. Combine JPEG to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPEG to XLS saveformat via Python., Free Online Merge JPEG to xls in Python., Python Combine JPEG to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPEG Merge. Free Online Merge JPEG to XLS Python. Python Merge JPEG to XLS format. Combine JPEG to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPEG Merge., Python Merge JPEG to XLS., Free Online Merge JPEG to xls in Python., Python Combine JPEG to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

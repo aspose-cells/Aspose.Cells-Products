@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MARKDOWN - Combine JPEG to MARKDOWN via Python
 url: /python-net/merger/merge-jpeg-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to MARKDOWN saveformat. Python Combine JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPEG to MARKDOWN saveformat via Python., Free Online Merge JPEG to markdown in Python., Python Combine JPEG to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPEG Merge. Free Online Merge JPEG to MARKDOWN Python. Python Merge JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPEG Merge., Python Merge JPEG to MARKDOWN., Free Online Merge JPEG to markdown in Python., Python Combine JPEG to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

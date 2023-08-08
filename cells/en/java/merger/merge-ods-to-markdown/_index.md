@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MARKDOWN - Combine ODS to MARKDOWN via Java
 url: /java/merger/merge-ods-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to MARKDOWN saveformat. Java Combine ODS to MARKDOWN format. Combine ODS to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to MARKDOWN saveformat via Java., Free Online Merge ODS to markdown in Java., Java Combine ODS to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to MARKDOWN Java. Java Merge ODS to MARKDOWN format. Combine ODS to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to MARKDOWN., Free Online Merge ODS to markdown in Java., Java Combine ODS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

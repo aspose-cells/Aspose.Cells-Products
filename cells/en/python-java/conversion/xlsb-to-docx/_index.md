@@ -1,7 +1,7 @@
 ---
-title: XLSB to DOCX - Convert XLSB to DOCX Python via Python
-description: Aspose Excel. Free Online Convert XLSB to DOCX saveformat. Python XLSB to DOCX format. Save XLSB as DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to DOCX saveformat., Free Online XLSB to DOCX Converter]
+title: Python XLSB to DOCX - Convert XLSB to DOCX Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to DOCX saveformat. Python XLSB to DOCX format. Save XLSB to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to DOCX saveformat., Free Online XLSB to DOCX Python., Python Convert XLSB to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SVG - Combine MHTML to SVG via Java
 url: /java/merger/merge-mhtml-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to SVG saveformat. Java Combine MHTML to SVG format. Combine MHTML to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to SVG saveformat via Java., Free Online Merge MHTML to svg in Java., Java Combine MHTML to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to SVG Java. Java Merge MHTML to SVG format. Combine MHTML to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to SVG., Free Online Merge MHTML to svg in Java., Java Combine MHTML to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

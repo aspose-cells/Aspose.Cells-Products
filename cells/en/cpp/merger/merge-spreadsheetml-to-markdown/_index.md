@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MARKDOWN - Combine SPREADSHEETML to MARKDOWN via C++
 url: /cpp/merger/merge-spreadsheetml-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to MARKDOWN saveformat. C++ Combine SPREADSHEETML to MARKDOWN format. Combine SPREADSHEETML to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to MARKDOWN saveformat via C++., Free Online Merge SPREADSHEETML to markdown in C++., C++ Combine SPREADSHEETML to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to MARKDOWN C++. C++ Merge SPREADSHEETML to MARKDOWN format. Combine SPREADSHEETML to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to MARKDOWN., Free Online Merge SPREADSHEETML to markdown in C++., C++ Combine SPREADSHEETML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

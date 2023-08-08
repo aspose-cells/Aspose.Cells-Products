@@ -1,7 +1,7 @@
 ---
-title: XML to DIF - Convert XML to DIF files C#
-description: Aspose Excel. Free Online Convert XML to DIF saveformat. C# XML to DIF format. Save XML as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XML to DIF saveformat., Free Online XML to DIF Converter]
+title: C# XML to DIF - Online XML to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XML to DIF saveformat. C# XML to DIF format. Save XML to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XML to DIF saveformat., Free Online XML to DIF C#., C# Convert XML to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

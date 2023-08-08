@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SQL - Combine TXT to SQL via Java
 url: /java/merger/merge-txt-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to SQL saveformat. Java Combine TXT to SQL format. Combine TXT to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to SQL saveformat via Java., Free Online Merge TXT to sql in Java., Java Combine TXT to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to SQL Java. Java Merge TXT to SQL format. Combine TXT to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to SQL., Free Online Merge TXT to sql in Java., Java Combine TXT to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MARKDOWN - Combine TXT to MARKDOWN via Python
 url: /python-java/merger/merge-txt-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to MARKDOWN saveformat. Python Combine TXT to MARKDOWN format. Combine TXT to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to MARKDOWN saveformat via Python., Free Online Merge TXT to markdown in Python., Python Combine TXT to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to MARKDOWN Python. Python Merge TXT to MARKDOWN format. Combine TXT to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to MARKDOWN., Free Online Merge TXT to markdown in Python., Python Combine TXT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

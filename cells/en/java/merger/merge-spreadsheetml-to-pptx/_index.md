@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PPTX - Combine SPREADSHEETML to PPTX via Java
 url: /java/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to PPTX saveformat. Java Combine SPREADSHEETML to PPTX format. Combine SPREADSHEETML to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to PPTX saveformat via Java., Free Online Merge SPREADSHEETML to pptx in Java., Java Combine SPREADSHEETML to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to PPTX Java. Java Merge SPREADSHEETML to PPTX format. Combine SPREADSHEETML to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to PPTX., Free Online Merge SPREADSHEETML to pptx in Java., Java Combine SPREADSHEETML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

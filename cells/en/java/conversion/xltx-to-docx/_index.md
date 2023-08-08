@@ -1,7 +1,7 @@
 ---
-title: XLTX to DOCX - Convert XLTX to DOCX files Java
-description: Aspose Excel. Free Online Convert XLTX to DOCX saveformat. Java XLTX to DOCX format. Save XLTX as DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to DOCX saveformat., Free Online XLTX to DOCX Converter]
+title: Java XLTX to DOCX - Online XLTX to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to DOCX saveformat. Java XLTX to DOCX format. Save XLTX to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to DOCX saveformat., Free Online XLTX to DOCX Java., Java Convert XLTX to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: PNG to XLAM - Convert PNG to XLAM Python via Python
-description: Aspose Excel. Free Online Convert PNG to XLAM saveformat. Python PNG to XLAM format. Save PNG as XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to XLAM saveformat., Free Online PNG to XLAM Converter]
+title: Python PNG to XLAM - Convert PNG to XLAM Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to XLAM saveformat. Python PNG to XLAM format. Save PNG to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to XLAM saveformat., Free Online PNG to XLAM Python., Python Convert PNG to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

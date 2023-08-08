@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TIFF - Combine ODS to TIFF via C++
 url: /cpp/merger/merge-ods-to-tiff/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to TIFF saveformat. C++ Combine ODS to TIFF format. Combine ODS to TIFF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to TIFF saveformat via C++., Free Online Merge ODS to tiff in C++., C++ Combine ODS to TIFF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to TIFF C++. C++ Merge ODS to TIFF format. Combine ODS to TIFF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to TIFF., Free Online Merge ODS to tiff in C++., C++ Combine ODS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

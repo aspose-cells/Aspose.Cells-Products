@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XML - Combine XML to XML via C#
 url: /net/merger/merge-xml-to-xml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to XML saveformat. C# Combine XML to XML format. Combine XML to XML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to XML saveformat via C#., Free Online Merge XML to xml in C#., C# Combine XML to XML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to XML C#. C# Merge XML to XML format. Combine XML to XML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to XML., Free Online Merge XML to xml in C#., C# Combine XML to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XML - Combine SXC to XML via Java
 url: /java/merger/merge-sxc-to-xml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to XML saveformat. Java Combine SXC to XML format. Combine SXC to XML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to XML saveformat via Java., Free Online Merge SXC to xml in Java., Java Combine SXC to XML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to XML Java. Java Merge SXC to XML format. Combine SXC to XML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to XML., Free Online Merge SXC to xml in Java., Java Combine SXC to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

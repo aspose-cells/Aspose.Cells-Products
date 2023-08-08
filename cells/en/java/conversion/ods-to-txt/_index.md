@@ -1,7 +1,7 @@
 ---
-title: ODS to TXT - Convert ODS to TXT files Java
-description: Aspose Excel. Free Online Convert ODS to TXT saveformat. Java ODS to TXT format. Save ODS as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to TXT saveformat., Free Online ODS to TXT Converter]
+title: Java ODS to TXT - Online ODS to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to TXT saveformat. Java ODS to TXT format. Save ODS to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to TXT saveformat., Free Online ODS to TXT Java., Java Convert ODS to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

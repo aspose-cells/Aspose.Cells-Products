@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DIF - Combine XLSB to DIF via C#
 url: /net/merger/merge-xlsb-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to DIF saveformat. C# Combine XLSB to DIF format. Combine XLSB to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to DIF saveformat via C#., Free Online Merge XLSB to dif in C#., C# Combine XLSB to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to DIF C#. C# Merge XLSB to DIF format. Combine XLSB to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to DIF., Free Online Merge XLSB to dif in C#., C# Combine XLSB to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

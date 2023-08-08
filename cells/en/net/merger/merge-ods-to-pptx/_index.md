@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PPTX - Combine ODS to PPTX via C#
 url: /net/merger/merge-ods-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to PPTX saveformat. C# Combine ODS to PPTX format. Combine ODS to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to PPTX saveformat via C#., Free Online Merge ODS to pptx in C#., C# Combine ODS to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to PPTX C#. C# Merge ODS to PPTX format. Combine ODS to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to PPTX., Free Online Merge ODS to pptx in C#., C# Combine ODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

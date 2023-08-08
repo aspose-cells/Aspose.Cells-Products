@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to ETT - Combine MHT to ETT via C++
 url: /cpp/merger/merge-mht-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to ETT saveformat. C++ Combine MHT to ETT format. Combine MHT to ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to ETT saveformat via C++., Free Online Merge MHT to ett in C++., C++ Combine MHT to ETT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to ETT C++. C++ Merge MHT to ETT format. Combine MHT to ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to ETT., Free Online Merge MHT to ett in C++., C++ Combine MHT to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

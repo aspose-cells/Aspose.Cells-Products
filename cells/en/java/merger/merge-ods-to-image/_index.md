@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to IMAGE - Combine ODS to IMAGE via Java
 url: /java/merger/merge-ods-to-image/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to IMAGE saveformat. Java Combine ODS to IMAGE format. Combine ODS to IMAGE in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to IMAGE saveformat via Java., Free Online Merge ODS to image in Java., Java Combine ODS to IMAGE format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to IMAGE Java. Java Merge ODS to IMAGE format. Combine ODS to IMAGE in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to IMAGE., Free Online Merge ODS to image in Java., Java Combine ODS to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

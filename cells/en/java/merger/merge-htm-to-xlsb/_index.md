@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLSB - Combine HTM to XLSB via Java
 url: /java/merger/merge-htm-to-xlsb/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to XLSB saveformat. Java Combine HTM to XLSB format. Combine HTM to XLSB in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to XLSB saveformat via Java., Free Online Merge HTM to xlsb in Java., Java Combine HTM to XLSB format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to XLSB Java. Java Merge HTM to XLSB format. Combine HTM to XLSB in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to XLSB., Free Online Merge HTM to xlsb in Java., Java Combine HTM to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

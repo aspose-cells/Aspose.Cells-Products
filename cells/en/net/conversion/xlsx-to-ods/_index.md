@@ -1,7 +1,7 @@
 ---
-title: XLSX to ODS - Convert XLSX to ODS files C#
-description: Aspose Excel. Free Online Convert XLSX to ODS saveformat. C# XLSX to ODS format. Save XLSX as ODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to ODS saveformat., Free Online XLSX to ODS Converter]
+title: C# XLSX to ODS - Online XLSX to ODS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to ODS saveformat. C# XLSX to ODS format. Save XLSX to ODS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to ODS saveformat., Free Online XLSX to ODS C#., C# Convert XLSX to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to ET - Combine XLTM to ET via C#
 url: /net/merger/merge-xltm-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to ET saveformat. C# Combine XLTM to ET format. Combine XLTM to ET in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTM to ET saveformat via C#., Free Online Merge XLTM to et in C#., C# Combine XLTM to ET format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTM Merge. Free Online Merge XLTM to ET C#. C# Merge XLTM to ET format. Combine XLTM to ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTM Merge., C# Merge XLTM to ET., Free Online Merge XLTM to et in C#., C# Combine XLTM to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

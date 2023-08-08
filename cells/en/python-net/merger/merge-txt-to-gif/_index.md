@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to GIF - Combine TXT to GIF via Python
 url: /python-net/merger/merge-txt-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to GIF saveformat. Python Combine TXT to GIF format. Combine TXT to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to GIF saveformat via Python., Free Online Merge TXT to gif in Python., Python Combine TXT to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to GIF Python. Python Merge TXT to GIF format. Combine TXT to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to GIF., Free Online Merge TXT to gif in Python., Python Combine TXT to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

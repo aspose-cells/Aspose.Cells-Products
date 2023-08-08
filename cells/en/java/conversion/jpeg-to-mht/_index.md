@@ -1,7 +1,7 @@
 ---
-title: JPEG to MHT - Convert JPEG to MHT files Java
-description: Aspose Excel. Free Online Convert JPEG to MHT saveformat. Java JPEG to MHT format. Save JPEG as MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to MHT saveformat., Free Online JPEG to MHT Converter]
+title: Java JPEG to MHT - Online JPEG to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to MHT saveformat. Java JPEG to MHT format. Save JPEG to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to MHT saveformat., Free Online JPEG to MHT Java., Java Convert JPEG to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

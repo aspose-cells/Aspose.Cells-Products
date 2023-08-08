@@ -1,7 +1,7 @@
 ---
-title: XLSB to CSV - Convert XLSB to CSV files C#
-description: Aspose Excel. Free Online Convert XLSB to CSV saveformat. C# XLSB to CSV format. Save XLSB as CSV in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to CSV saveformat., Free Online XLSB to CSV Converter]
+title: C# XLSB to CSV - Online XLSB to CSV Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to CSV saveformat. C# XLSB to CSV format. Save XLSB to CSV C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to CSV saveformat., Free Online XLSB to CSV C#., C# Convert XLSB to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

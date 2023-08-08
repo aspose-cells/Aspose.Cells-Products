@@ -1,7 +1,7 @@
 ---
-title: HTML to FODS - Convert HTML to FODS files C++
-description: Aspose Excel. Free Online Convert HTML to FODS saveformat. C++ HTML to FODS format. Save HTML as FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to FODS saveformat., Free Online HTML to FODS Converter]
+title: C++ HTML to FODS - Online HTML to FODS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to FODS saveformat. C++ HTML to FODS format. Save HTML to FODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to FODS saveformat., Free Online HTML to FODS C++., C++ Convert HTML to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

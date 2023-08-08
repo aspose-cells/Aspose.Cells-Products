@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XML - Combine PRN to XML via Java
 url: /java/merger/merge-prn-to-xml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to XML saveformat. Java Combine PRN to XML format. Combine PRN to XML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to XML saveformat via Java., Free Online Merge PRN to xml in Java., Java Combine PRN to XML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to XML Java. Java Merge PRN to XML format. Combine PRN to XML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to XML., Free Online Merge PRN to xml in Java., Java Combine PRN to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

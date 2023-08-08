@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MD - Combine XLTX to MD via Java
 url: /java/merger/merge-xltx-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to MD saveformat. Java Combine XLTX to MD format. Combine XLTX to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to MD saveformat via Java., Free Online Merge XLTX to md in Java., Java Combine XLTX to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTX Merge. Free Online Merge XLTX to MD Java. Java Merge XLTX to MD format. Combine XLTX to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTX Merge., Java Merge XLTX to MD., Free Online Merge XLTX to md in Java., Java Combine XLTX to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

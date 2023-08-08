@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to BMP - Combine HTML to BMP via Java
 url: /java/merger/merge-html-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to BMP saveformat. Java Combine HTML to BMP format. Combine HTML to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to BMP saveformat via Java., Free Online Merge HTML to bmp in Java., Java Combine HTML to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to BMP Java. Java Merge HTML to BMP format. Combine HTML to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to BMP., Free Online Merge HTML to bmp in Java., Java Combine HTML to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

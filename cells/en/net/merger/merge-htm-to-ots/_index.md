@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to OTS - Combine HTM to OTS via C#
 url: /net/merger/merge-htm-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to OTS saveformat. C# Combine HTM to OTS format. Combine HTM to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to OTS saveformat via C#., Free Online Merge HTM to ots in C#., C# Combine HTM to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to OTS C#. C# Merge HTM to OTS format. Combine HTM to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to OTS., Free Online Merge HTM to ots in C#., C# Combine HTM to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

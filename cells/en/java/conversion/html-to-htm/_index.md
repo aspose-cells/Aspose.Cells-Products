@@ -1,7 +1,7 @@
 ---
-title: HTML to HTM - Convert HTML to HTM files Java
-description: Aspose Excel. Free Online Convert HTML to HTM saveformat. Java HTML to HTM format. Save HTML as HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to HTM saveformat., Free Online HTML to HTM Converter]
+title: Java HTML to HTM - Online HTML to HTM Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to HTM saveformat. Java HTML to HTM format. Save HTML to HTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to HTM saveformat., Free Online HTML to HTM Java., Java Convert HTML to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

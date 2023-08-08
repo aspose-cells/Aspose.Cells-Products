@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLAM - Combine FODS to XLAM via Python
 url: /python-net/merger/merge-fods-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XLAM saveformat. Python Combine FODS to XLAM format. Combine FODS to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to XLAM saveformat via Python., Free Online Merge FODS to xlam in Python., Python Combine FODS to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to XLAM Python. Python Merge FODS to XLAM format. Combine FODS to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to XLAM., Free Online Merge FODS to xlam in Python., Python Combine FODS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

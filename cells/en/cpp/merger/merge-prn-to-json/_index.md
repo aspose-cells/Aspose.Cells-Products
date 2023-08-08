@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to JSON - Combine PRN to JSON via C++
 url: /cpp/merger/merge-prn-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to JSON saveformat. C++ Combine PRN to JSON format. Combine PRN to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to JSON saveformat via C++., Free Online Merge PRN to json in C++., C++ Combine PRN to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to JSON C++. C++ Merge PRN to JSON format. Combine PRN to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to JSON., Free Online Merge PRN to json in C++., C++ Combine PRN to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

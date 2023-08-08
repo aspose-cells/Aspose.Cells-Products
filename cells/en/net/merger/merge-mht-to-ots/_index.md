@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to OTS - Combine MHT to OTS via C#
 url: /net/merger/merge-mht-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to OTS saveformat. C# Combine MHT to OTS format. Combine MHT to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to OTS saveformat via C#., Free Online Merge MHT to ots in C#., C# Combine MHT to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to OTS C#. C# Merge MHT to OTS format. Combine MHT to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to OTS., Free Online Merge MHT to ots in C#., C# Combine MHT to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

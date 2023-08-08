@@ -1,7 +1,7 @@
 ---
-title: TXT to ET - Convert TXT to ET files Python via Python
-description: Aspose Excel. Free Online Convert TXT to ET saveformat. Python TXT to ET format. Save TXT as ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to ET saveformat., Free Online TXT to ET Converter]
+title: Python TXT to ET - Convert TXT to ET Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to ET saveformat. Python TXT to ET format. Save TXT to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to ET saveformat., Free Online TXT to ET Python., Python Convert TXT to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

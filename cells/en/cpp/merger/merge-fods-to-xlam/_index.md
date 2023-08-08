@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLAM - Combine FODS to XLAM via C++
 url: /cpp/merger/merge-fods-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to XLAM saveformat. C++ Combine FODS to XLAM format. Combine FODS to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to XLAM saveformat via C++., Free Online Merge FODS to xlam in C++., C++ Combine FODS to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to XLAM C++. C++ Merge FODS to XLAM format. Combine FODS to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to XLAM., Free Online Merge FODS to xlam in C++., C++ Combine FODS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

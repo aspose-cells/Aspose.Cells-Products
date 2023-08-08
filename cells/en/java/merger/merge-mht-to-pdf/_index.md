@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PDF - Combine MHT to PDF via Java
 url: /java/merger/merge-mht-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to PDF saveformat. Java Combine MHT to PDF format. Combine MHT to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to PDF saveformat via Java., Free Online Merge MHT to pdf in Java., Java Combine MHT to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to PDF Java. Java Merge MHT to PDF format. Combine MHT to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to PDF., Free Online Merge MHT to pdf in Java., Java Combine MHT to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

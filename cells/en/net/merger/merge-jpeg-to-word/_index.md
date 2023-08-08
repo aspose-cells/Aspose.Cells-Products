@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to WORD - Combine JPEG to WORD via C#
 url: /net/merger/merge-jpeg-to-word/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to WORD saveformat. C# Combine JPEG to WORD format. Combine JPEG to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to WORD saveformat via C#., Free Online Merge JPEG to word in C#., C# Combine JPEG to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to WORD C#. C# Merge JPEG to WORD format. Combine JPEG to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to WORD., Free Online Merge JPEG to word in C#., C# Combine JPEG to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MARKDOWN - Combine MHTML to MARKDOWN via Python
 url: /python-java/merger/merge-mhtml-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to MARKDOWN saveformat. Python Combine MHTML to MARKDOWN format. Combine MHTML to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to MARKDOWN saveformat via Python., Free Online Merge MHTML to markdown in Python., Python Combine MHTML to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to MARKDOWN Python. Python Merge MHTML to MARKDOWN format. Combine MHTML to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to MARKDOWN., Free Online Merge MHTML to markdown in Python., Python Combine MHTML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to NUMBERS - Combine FODS to NUMBERS via C#
 url: /net/merger/merge-fods-to-numbers/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to NUMBERS saveformat. C# Combine FODS to NUMBERS format. Combine FODS to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to NUMBERS saveformat via C#., Free Online Merge FODS to numbers in C#., C# Combine FODS to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to NUMBERS C#. C# Merge FODS to NUMBERS format. Combine FODS to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to NUMBERS., Free Online Merge FODS to numbers in C#., C# Combine FODS to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

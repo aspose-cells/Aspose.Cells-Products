@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TSV - Combine XLSM to TSV via Python
 url: /python-java/merger/merge-xlsm-to-tsv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to TSV saveformat. Python Combine XLSM to TSV format. Combine XLSM to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to TSV saveformat via Python., Free Online Merge XLSM to tsv in Python., Python Combine XLSM to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to TSV Python. Python Merge XLSM to TSV format. Combine XLSM to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to TSV., Free Online Merge XLSM to tsv in Python., Python Combine XLSM to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

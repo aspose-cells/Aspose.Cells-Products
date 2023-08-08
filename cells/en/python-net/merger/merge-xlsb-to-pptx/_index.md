@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PPTX - Combine XLSB to PPTX via Python
 url: /python-net/merger/merge-xlsb-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to PPTX saveformat. Python Combine XLSB to PPTX format. Combine XLSB to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to PPTX saveformat via Python., Free Online Merge XLSB to pptx in Python., Python Combine XLSB to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to PPTX Python. Python Merge XLSB to PPTX format. Combine XLSB to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to PPTX., Free Online Merge XLSB to pptx in Python., Python Combine XLSB to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

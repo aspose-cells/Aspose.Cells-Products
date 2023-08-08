@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to ETT - Combine XLS to ETT via Python
 url: /python-net/merger/merge-xls-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to ETT saveformat. Python Combine XLS to ETT format. Combine XLS to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to ETT saveformat via Python., Free Online Merge XLS to ett in Python., Python Combine XLS to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to ETT Python. Python Merge XLS to ETT format. Combine XLS to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to ETT., Free Online Merge XLS to ett in Python., Python Combine XLS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

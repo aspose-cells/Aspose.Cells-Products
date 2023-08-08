@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PPTX - Combine XML to PPTX via C++
 url: /cpp/merger/merge-xml-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to PPTX saveformat. C++ Combine XML to PPTX format. Combine XML to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to PPTX saveformat via C++., Free Online Merge XML to pptx in C++., C++ Combine XML to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to PPTX C++. C++ Merge XML to PPTX format. Combine XML to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to PPTX., Free Online Merge XML to pptx in C++., C++ Combine XML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

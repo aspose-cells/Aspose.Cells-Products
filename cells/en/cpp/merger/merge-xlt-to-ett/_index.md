@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to ETT - Combine XLT to ETT via C++
 url: /cpp/merger/merge-xlt-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to ETT saveformat. C++ Combine XLT to ETT format. Combine XLT to ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to ETT saveformat via C++., Free Online Merge XLT to ett in C++., C++ Combine XLT to ETT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLT Merge. Free Online Merge XLT to ETT C++. C++ Merge XLT to ETT format. Combine XLT to ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLT Merge., C++ Merge XLT to ETT., Free Online Merge XLT to ett in C++., C++ Combine XLT to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

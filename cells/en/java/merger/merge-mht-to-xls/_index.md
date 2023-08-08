@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLS - Combine MHT to XLS via Java
 url: /java/merger/merge-mht-to-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to XLS saveformat. Java Combine MHT to XLS format. Combine MHT to XLS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to XLS saveformat via Java., Free Online Merge MHT to xls in Java., Java Combine MHT to XLS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to XLS Java. Java Merge MHT to XLS format. Combine MHT to XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to XLS., Free Online Merge MHT to xls in Java., Java Combine MHT to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

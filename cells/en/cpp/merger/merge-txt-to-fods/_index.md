@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to FODS - Combine TXT to FODS via C++
 url: /cpp/merger/merge-txt-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to FODS saveformat. C++ Combine TXT to FODS format. Combine TXT to FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to FODS saveformat via C++., Free Online Merge TXT to fods in C++., C++ Combine TXT to FODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to FODS C++. C++ Merge TXT to FODS format. Combine TXT to FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to FODS., Free Online Merge TXT to fods in C++., C++ Combine TXT to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

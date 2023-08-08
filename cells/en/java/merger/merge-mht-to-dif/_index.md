@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DIF - Combine MHT to DIF via Java
 url: /java/merger/merge-mht-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to DIF saveformat. Java Combine MHT to DIF format. Combine MHT to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to DIF saveformat via Java., Free Online Merge MHT to dif in Java., Java Combine MHT to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to DIF Java. Java Merge MHT to DIF format. Combine MHT to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to DIF., Free Online Merge MHT to dif in Java., Java Combine MHT to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

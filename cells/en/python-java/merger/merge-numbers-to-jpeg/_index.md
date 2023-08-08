@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JPEG - Combine NUMBERS to JPEG via Python
 url: /python-java/merger/merge-numbers-to-jpeg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to JPEG saveformat. Python Combine NUMBERS to JPEG format. Combine NUMBERS to JPEG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to JPEG saveformat via Python., Free Online Merge NUMBERS to jpeg in Python., Python Combine NUMBERS to JPEG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to JPEG Python. Python Merge NUMBERS to JPEG format. Combine NUMBERS to JPEG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to JPEG., Free Online Merge NUMBERS to jpeg in Python., Python Combine NUMBERS to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

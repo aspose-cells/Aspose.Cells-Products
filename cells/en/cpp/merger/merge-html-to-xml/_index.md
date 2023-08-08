@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XML - Combine HTML to XML via C++
 url: /cpp/merger/merge-html-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to XML saveformat. C++ Combine HTML to XML format. Combine HTML to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to XML saveformat via C++., Free Online Merge HTML to xml in C++., C++ Combine HTML to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to XML C++. C++ Merge HTML to XML format. Combine HTML to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to XML., Free Online Merge HTML to xml in C++., C++ Combine HTML to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

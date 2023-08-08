@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SQL - Combine NUMBERS to SQL via Python
 url: /python-java/merger/merge-numbers-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to SQL saveformat. Python Combine NUMBERS to SQL format. Combine NUMBERS to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to SQL saveformat via Python., Free Online Merge NUMBERS to sql in Python., Python Combine NUMBERS to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to SQL Python. Python Merge NUMBERS to SQL format. Combine NUMBERS to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to SQL., Free Online Merge NUMBERS to sql in Python., Python Combine NUMBERS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

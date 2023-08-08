@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JSON - Combine XLSM to JSON via C++
 url: /cpp/merger/merge-xlsm-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to JSON saveformat. C++ Combine XLSM to JSON format. Combine XLSM to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to JSON saveformat via C++., Free Online Merge XLSM to json in C++., C++ Combine XLSM to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to JSON C++. C++ Merge XLSM to JSON format. Combine XLSM to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to JSON., Free Online Merge XLSM to json in C++., C++ Combine XLSM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

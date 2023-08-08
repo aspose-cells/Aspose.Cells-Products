@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLAM - Combine IMAGE to XLAM via Python
 url: /python-java/merger/merge-image-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to XLAM saveformat. Python Combine IMAGE to XLAM format. Combine IMAGE to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to XLAM saveformat via Python., Free Online Merge IMAGE to xlam in Python., Python Combine IMAGE to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to XLAM Python. Python Merge IMAGE to XLAM format. Combine IMAGE to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to XLAM., Free Online Merge IMAGE to xlam in Python., Python Combine IMAGE to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to OTS - Combine SXC to OTS via C#
 url: /net/merger/merge-sxc-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to OTS saveformat. C# Combine SXC to OTS format. Combine SXC to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to OTS saveformat via C#., Free Online Merge SXC to ots in C#., C# Combine SXC to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to OTS C#. C# Merge SXC to OTS format. Combine SXC to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to OTS., Free Online Merge SXC to ots in C#., C# Combine SXC to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

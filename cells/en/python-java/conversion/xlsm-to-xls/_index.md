@@ -1,7 +1,7 @@
 ---
-title: XLSM to XLS - Convert XLSM to XLS Python via Python
-description: Aspose Excel. Free Online Convert XLSM to XLS saveformat. Python XLSM to XLS format. Save XLSM as XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to XLS saveformat., Free Online XLSM to XLS Converter]
+title: Python XLSM to XLS - Convert XLSM to XLS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSM to XLS saveformat. Python XLSM to XLS format. Save XLSM to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to XLS saveformat., Free Online XLSM to XLS Python., Python Convert XLSM to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JSON - Combine XML to JSON via C++
 url: /cpp/merger/merge-xml-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to JSON saveformat. C++ Combine XML to JSON format. Combine XML to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to JSON saveformat via C++., Free Online Merge XML to json in C++., C++ Combine XML to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to JSON C++. C++ Merge XML to JSON format. Combine XML to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to JSON., Free Online Merge XML to json in C++., C++ Combine XML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

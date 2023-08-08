@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MD - Combine ODS to MD via Python
 url: /python-net/merger/merge-ods-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to MD saveformat. Python Combine ODS to MD format. Combine ODS to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to MD saveformat via Python., Free Online Merge ODS to md in Python., Python Combine ODS to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to MD Python. Python Merge ODS to MD format. Combine ODS to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to MD., Free Online Merge ODS to md in Python., Python Combine ODS to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

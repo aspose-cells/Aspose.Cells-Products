@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MD - Combine PRN to MD via Java
 url: /java/merger/merge-prn-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to MD saveformat. Java Combine PRN to MD format. Combine PRN to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to MD saveformat via Java., Free Online Merge PRN to md in Java., Java Combine PRN to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to MD Java. Java Merge PRN to MD format. Combine PRN to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to MD., Free Online Merge PRN to md in Java., Java Combine PRN to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

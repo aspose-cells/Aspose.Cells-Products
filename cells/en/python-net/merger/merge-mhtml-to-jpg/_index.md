@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to JPG - Combine MHTML to JPG via Python
 url: /python-net/merger/merge-mhtml-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to JPG saveformat. Python Combine MHTML to JPG format. Combine MHTML to JPG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to JPG saveformat via Python., Free Online Merge MHTML to jpg in Python., Python Combine MHTML to JPG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to JPG Python. Python Merge MHTML to JPG format. Combine MHTML to JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to JPG., Free Online Merge MHTML to jpg in Python., Python Combine MHTML to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

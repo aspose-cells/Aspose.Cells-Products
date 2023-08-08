@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to PDF - Combine JPEG to PDF via Java
 url: /java/merger/merge-jpeg-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to PDF saveformat. Java Combine JPEG to PDF format. Combine JPEG to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to PDF saveformat via Java., Free Online Merge JPEG to pdf in Java., Java Combine JPEG to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to PDF Java. Java Merge JPEG to PDF format. Combine JPEG to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to PDF., Free Online Merge JPEG to pdf in Java., Java Combine JPEG to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to IMAGE - Combine ODS to IMAGE via C++
 url: /cpp/merger/merge-ods-to-image/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to IMAGE saveformat. C++ Combine ODS to IMAGE format. Combine ODS to IMAGE in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to IMAGE saveformat via C++., Free Online Merge ODS to image in C++., C++ Combine ODS to IMAGE format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to IMAGE C++. C++ Merge ODS to IMAGE format. Combine ODS to IMAGE in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to IMAGE., Free Online Merge ODS to image in C++., C++ Combine ODS to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

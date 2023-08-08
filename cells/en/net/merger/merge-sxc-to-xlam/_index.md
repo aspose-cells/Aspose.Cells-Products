@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLAM - Combine SXC to XLAM via C#
 url: /net/merger/merge-sxc-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to XLAM saveformat. C# Combine SXC to XLAM format. Combine SXC to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to XLAM saveformat via C#., Free Online Merge SXC to xlam in C#., C# Combine SXC to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to XLAM C#. C# Merge SXC to XLAM format. Combine SXC to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to XLAM., Free Online Merge SXC to xlam in C#., C# Combine SXC to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

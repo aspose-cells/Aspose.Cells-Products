@@ -1,7 +1,7 @@
 ---
-title: XLS to PPTX - Convert XLS to PPTX files Python via Python
-description: Aspose Excel. Free Online Convert XLS to PPTX saveformat. Python XLS to PPTX format. Save XLS as PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to PPTX saveformat., Free Online XLS to PPTX Converter]
+title: Python XLS to PPTX - Convert XLS to PPTX Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to PPTX saveformat. Python XLS to PPTX format. Save XLS to PPTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to PPTX saveformat., Free Online XLS to PPTX Python., Python Convert XLS to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

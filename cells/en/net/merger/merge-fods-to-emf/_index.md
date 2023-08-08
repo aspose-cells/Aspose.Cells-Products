@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to EMF - Combine FODS to EMF via C#
 url: /net/merger/merge-fods-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to EMF saveformat. C# Combine FODS to EMF format. Combine FODS to EMF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to EMF saveformat via C#., Free Online Merge FODS to emf in C#., C# Combine FODS to EMF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to EMF C#. C# Merge FODS to EMF format. Combine FODS to EMF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to EMF., Free Online Merge FODS to emf in C#., C# Combine FODS to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

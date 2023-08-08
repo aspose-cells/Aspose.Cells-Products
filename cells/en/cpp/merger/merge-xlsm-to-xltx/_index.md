@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLTX - Combine XLSM to XLTX via C++
 url: /cpp/merger/merge-xlsm-to-xltx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to XLTX saveformat. C++ Combine XLSM to XLTX format. Combine XLSM to XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to XLTX saveformat via C++., Free Online Merge XLSM to xltx in C++., C++ Combine XLSM to XLTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to XLTX C++. C++ Merge XLSM to XLTX format. Combine XLSM to XLTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to XLTX., Free Online Merge XLSM to xltx in C++., C++ Combine XLSM to XLTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

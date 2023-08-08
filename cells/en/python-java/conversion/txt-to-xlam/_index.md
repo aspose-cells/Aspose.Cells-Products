@@ -1,7 +1,7 @@
 ---
-title: TXT to XLAM - Convert TXT to XLAM Python via Python
-description: Aspose Excel. Free Online Convert TXT to XLAM saveformat. Python TXT to XLAM format. Save TXT as XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to XLAM saveformat., Free Online TXT to XLAM Converter]
+title: Python TXT to XLAM - Convert TXT to XLAM Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to XLAM saveformat. Python TXT to XLAM format. Save TXT to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XLAM saveformat., Free Online TXT to XLAM Python., Python Convert TXT to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

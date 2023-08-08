@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTML - Combine FODS to HTML via Python
 url: /python-java/merger/merge-fods-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to HTML saveformat. Python Combine FODS to HTML format. Combine FODS to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to HTML saveformat via Python., Free Online Merge FODS to html in Python., Python Combine FODS to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to HTML Python. Python Merge FODS to HTML format. Combine FODS to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to HTML., Free Online Merge FODS to html in Python., Python Combine FODS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

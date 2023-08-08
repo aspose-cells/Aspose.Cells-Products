@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SXC - Combine NUMBERS to SXC via C#
 url: /net/merger/merge-numbers-to-sxc/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to SXC saveformat. C# Combine NUMBERS to SXC format. Combine NUMBERS to SXC in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to SXC saveformat via C#., Free Online Merge NUMBERS to sxc in C#., C# Combine NUMBERS to SXC format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to SXC C#. C# Merge NUMBERS to SXC format. Combine NUMBERS to SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to SXC., Free Online Merge NUMBERS to sxc in C#., C# Combine NUMBERS to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

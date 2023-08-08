@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to GIF - Combine IMAGE to GIF via Python
 url: /python-net/merger/merge-image-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to GIF saveformat. Python Combine IMAGE to GIF format. Combine IMAGE to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to GIF saveformat via Python., Free Online Merge IMAGE to gif in Python., Python Combine IMAGE to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to GIF Python. Python Merge IMAGE to GIF format. Combine IMAGE to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to GIF., Free Online Merge IMAGE to gif in Python., Python Combine IMAGE to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

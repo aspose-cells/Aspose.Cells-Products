@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SXC - Combine TXT to SXC via Java
 url: /java/merger/merge-txt-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to SXC saveformat. Java Combine TXT to SXC format. Combine TXT to SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to SXC saveformat via Java., Free Online Merge TXT to sxc in Java., Java Combine TXT to SXC format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to SXC Java. Java Merge TXT to SXC format. Combine TXT to SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to SXC., Free Online Merge TXT to sxc in Java., Java Combine TXT to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TABDELIMITED - Combine JPG to TABDELIMITED via Java
 url: /java/merger/merge-jpg-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to TABDELIMITED saveformat. Java Combine JPG to TABDELIMITED format. Combine JPG to TABDELIMITED in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to TABDELIMITED saveformat via Java., Free Online Merge JPG to tabdelimited in Java., Java Combine JPG to TABDELIMITED format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to TABDELIMITED Java. Java Merge JPG to TABDELIMITED format. Combine JPG to TABDELIMITED in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to TABDELIMITED., Free Online Merge JPG to tabdelimited in Java., Java Combine JPG to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

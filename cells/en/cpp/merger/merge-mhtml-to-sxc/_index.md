@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SXC - Combine MHTML to SXC via C++
 url: /cpp/merger/merge-mhtml-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to SXC saveformat. C++ Combine MHTML to SXC format. Combine MHTML to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to SXC saveformat via C++., Free Online Merge MHTML to sxc in C++., C++ Combine MHTML to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHTML Merge. Free Online Merge MHTML to SXC C++. C++ Merge MHTML to SXC format. Combine MHTML to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHTML Merge., C++ Merge MHTML to SXC., Free Online Merge MHTML to sxc in C++., C++ Combine MHTML to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to CSV - Combine SXC to CSV via Python
 url: /python-net/merger/merge-sxc-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to CSV saveformat. Python Combine SXC to CSV format. Combine SXC to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to CSV saveformat via Python., Free Online Merge SXC to csv in Python., Python Combine SXC to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to CSV Python. Python Merge SXC to CSV format. Combine SXC to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to CSV., Free Online Merge SXC to csv in Python., Python Combine SXC to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

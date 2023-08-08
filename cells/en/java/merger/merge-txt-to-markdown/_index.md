@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MARKDOWN - Combine TXT to MARKDOWN via Java
 url: /java/merger/merge-txt-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to MARKDOWN saveformat. Java Combine TXT to MARKDOWN format. Combine TXT to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to MARKDOWN saveformat via Java., Free Online Merge TXT to markdown in Java., Java Combine TXT to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to MARKDOWN Java. Java Merge TXT to MARKDOWN format. Combine TXT to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to MARKDOWN., Free Online Merge TXT to markdown in Java., Java Combine TXT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

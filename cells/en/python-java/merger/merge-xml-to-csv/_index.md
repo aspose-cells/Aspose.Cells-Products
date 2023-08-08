@@ -1,8 +1,8 @@
 ---
 title: Merge XML to CSV - Combine XML to CSV via Python
 url: /python-java/merger/merge-xml-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to CSV saveformat. Python Combine XML to CSV format. Combine XML to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to CSV saveformat via Python., Free Online Merge XML to csv in Python., Python Combine XML to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to CSV Python. Python Merge XML to CSV format. Combine XML to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to CSV., Free Online Merge XML to csv in Python., Python Combine XML to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

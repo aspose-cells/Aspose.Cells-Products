@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PNG - Combine OTS to PNG via C#
 url: /net/merger/merge-ots-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to PNG saveformat. C# Combine OTS to PNG format. Combine OTS to PNG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to PNG saveformat via C#., Free Online Merge OTS to png in C#., C# Combine OTS to PNG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. OTS Merge. Free Online Merge OTS to PNG C#. C# Merge OTS to PNG format. Combine OTS to PNG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., OTS Merge., C# Merge OTS to PNG., Free Online Merge OTS to png in C#., C# Combine OTS to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TIFF - Combine PRN to TIFF via Java
 url: /java/merger/merge-prn-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to TIFF saveformat. Java Combine PRN to TIFF format. Combine PRN to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to TIFF saveformat via Java., Free Online Merge PRN to tiff in Java., Java Combine PRN to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to TIFF Java. Java Merge PRN to TIFF format. Combine PRN to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to TIFF., Free Online Merge PRN to tiff in Java., Java Combine PRN to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to GIF - Combine XLS to GIF via Java
 url: /java/merger/merge-xls-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to GIF saveformat. Java Combine XLS to GIF format. Combine XLS to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLS to GIF saveformat via Java., Free Online Merge XLS to gif in Java., Java Combine XLS to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLS Merge. Free Online Merge XLS to GIF Java. Java Merge XLS to GIF format. Combine XLS to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLS Merge., Java Merge XLS to GIF., Free Online Merge XLS to gif in Java., Java Combine XLS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

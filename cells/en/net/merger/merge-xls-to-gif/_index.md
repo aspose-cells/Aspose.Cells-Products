@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to GIF - Combine XLS to GIF via C#
 url: /net/merger/merge-xls-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to GIF saveformat. C# Combine XLS to GIF format. Combine XLS to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to GIF saveformat via C#., Free Online Merge XLS to gif in C#., C# Combine XLS to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to GIF C#. C# Merge XLS to GIF format. Combine XLS to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to GIF., Free Online Merge XLS to gif in C#., C# Combine XLS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

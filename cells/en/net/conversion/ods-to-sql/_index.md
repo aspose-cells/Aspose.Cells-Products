@@ -1,7 +1,7 @@
 ---
-title: ODS to SQL - Convert ODS to SQL files C#
-description: Aspose Excel. Free Online Convert ODS to SQL saveformat. C# ODS to SQL format. Save ODS as SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to SQL saveformat., Free Online ODS to SQL Converter]
+title: C# ODS to SQL - Online ODS to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert ODS to SQL saveformat. C# ODS to SQL format. Save ODS to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# ODS to SQL saveformat., Free Online ODS to SQL C#., C# Convert ODS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

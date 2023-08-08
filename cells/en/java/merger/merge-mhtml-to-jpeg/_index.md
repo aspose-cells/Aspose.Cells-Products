@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to JPEG - Combine MHTML to JPEG via Java
 url: /java/merger/merge-mhtml-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to JPEG saveformat. Java Combine MHTML to JPEG format. Combine MHTML to JPEG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to JPEG saveformat via Java., Free Online Merge MHTML to jpeg in Java., Java Combine MHTML to JPEG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to JPEG Java. Java Merge MHTML to JPEG format. Combine MHTML to JPEG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to JPEG., Free Online Merge MHTML to jpeg in Java., Java Combine MHTML to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

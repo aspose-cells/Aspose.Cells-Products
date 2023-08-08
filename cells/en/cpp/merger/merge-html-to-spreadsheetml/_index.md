@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SPREADSHEETML - Combine HTML to SPREADSHEETML via C++
 url: /cpp/merger/merge-html-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to SPREADSHEETML saveformat. C++ Combine HTML to SPREADSHEETML format. Combine HTML to SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to SPREADSHEETML saveformat via C++., Free Online Merge HTML to spreadsheetml in C++., C++ Combine HTML to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to SPREADSHEETML C++. C++ Merge HTML to SPREADSHEETML format. Combine HTML to SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to SPREADSHEETML., Free Online Merge HTML to spreadsheetml in C++., C++ Combine HTML to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

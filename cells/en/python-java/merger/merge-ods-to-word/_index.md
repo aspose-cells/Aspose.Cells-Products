@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to WORD - Combine ODS to WORD via Python
 url: /python-java/merger/merge-ods-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to WORD saveformat. Python Combine ODS to WORD format. Combine ODS to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to WORD saveformat via Python., Free Online Merge ODS to word in Python., Python Combine ODS to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to WORD Python. Python Merge ODS to WORD format. Combine ODS to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to WORD., Free Online Merge ODS to word in Python., Python Combine ODS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

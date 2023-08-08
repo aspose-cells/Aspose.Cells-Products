@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SQL - Combine XLT to SQL via C#
 url: /net/merger/merge-xlt-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to SQL saveformat. C# Combine XLT to SQL format. Combine XLT to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to SQL saveformat via C#., Free Online Merge XLT to sql in C#., C# Combine XLT to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLT Merge. Free Online Merge XLT to SQL C#. C# Merge XLT to SQL format. Combine XLT to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLT Merge., C# Merge XLT to SQL., Free Online Merge XLT to sql in C#., C# Combine XLT to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

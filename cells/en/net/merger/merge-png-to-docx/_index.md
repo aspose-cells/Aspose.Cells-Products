@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DOCX - Combine PNG to DOCX via C#
 url: /net/merger/merge-png-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to DOCX saveformat. C# Combine PNG to DOCX format. Combine PNG to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to DOCX saveformat via C#., Free Online Merge PNG to docx in C#., C# Combine PNG to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to DOCX C#. C# Merge PNG to DOCX format. Combine PNG to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to DOCX., Free Online Merge PNG to docx in C#., C# Combine PNG to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to SXC - Combine TSV to SXC via Python
 url: /python-java/merger/merge-tsv-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to SXC saveformat. Python Combine TSV to SXC format. Combine TSV to SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to SXC saveformat via Python., Free Online Merge TSV to sxc in Python., Python Combine TSV to SXC format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TSV Merge. Free Online Merge TSV to SXC Python. Python Merge TSV to SXC format. Combine TSV to SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TSV Merge., Python Merge TSV to SXC., Free Online Merge TSV to sxc in Python., Python Combine TSV to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

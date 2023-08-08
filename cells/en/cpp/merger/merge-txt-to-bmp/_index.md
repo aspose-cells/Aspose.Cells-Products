@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to BMP - Combine TXT to BMP via C++
 url: /cpp/merger/merge-txt-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to BMP saveformat. C++ Combine TXT to BMP format. Combine TXT to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to BMP saveformat via C++., Free Online Merge TXT to bmp in C++., C++ Combine TXT to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to BMP C++. C++ Merge TXT to BMP format. Combine TXT to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to BMP., Free Online Merge TXT to bmp in C++., C++ Combine TXT to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

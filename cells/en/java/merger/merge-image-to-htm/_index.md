@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to HTM - Combine IMAGE to HTM via Java
 url: /java/merger/merge-image-to-htm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to HTM saveformat. Java Combine IMAGE to HTM format. Combine IMAGE to HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to HTM saveformat via Java., Free Online Merge IMAGE to htm in Java., Java Combine IMAGE to HTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to HTM Java. Java Merge IMAGE to HTM format. Combine IMAGE to HTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to HTM., Free Online Merge IMAGE to htm in Java., Java Combine IMAGE to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

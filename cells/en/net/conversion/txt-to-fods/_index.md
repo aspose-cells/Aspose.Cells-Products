@@ -1,7 +1,7 @@
 ---
-title: TXT to FODS - Convert TXT to FODS files C#
-description: Aspose Excel. Free Online Convert TXT to FODS saveformat. C# TXT to FODS format. Save TXT as FODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to FODS saveformat., Free Online TXT to FODS Converter]
+title: C# TXT to FODS - Online TXT to FODS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to FODS saveformat. C# TXT to FODS format. Save TXT to FODS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to FODS saveformat., Free Online TXT to FODS C#., C# Convert TXT to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

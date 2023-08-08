@@ -1,7 +1,7 @@
 ---
-title: XLSB to DIF - Convert XLSB to DIF files C++
-description: Aspose Excel. Free Online Convert XLSB to DIF saveformat. C++ XLSB to DIF format. Save XLSB as DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to DIF saveformat., Free Online XLSB to DIF Converter]
+title: C++ XLSB to DIF - Online XLSB to DIF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to DIF saveformat. C++ XLSB to DIF format. Save XLSB to DIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to DIF saveformat., Free Online XLSB to DIF C++., C++ Convert XLSB to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

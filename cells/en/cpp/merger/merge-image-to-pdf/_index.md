@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to PDF - Combine IMAGE to PDF via C++
 url: /cpp/merger/merge-image-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to PDF saveformat. C++ Combine IMAGE to PDF format. Combine IMAGE to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine IMAGE to PDF saveformat via C++., Free Online Merge IMAGE to pdf in C++., C++ Combine IMAGE to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to PDF C++. C++ Merge IMAGE to PDF format. Combine IMAGE to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., IMAGE Merge., C++ Merge IMAGE to PDF., Free Online Merge IMAGE to pdf in C++., C++ Combine IMAGE to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

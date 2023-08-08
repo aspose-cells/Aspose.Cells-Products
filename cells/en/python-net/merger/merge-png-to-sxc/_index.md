@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SXC - Combine PNG to SXC via Python
 url: /python-net/merger/merge-png-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to SXC saveformat. Python Combine PNG to SXC format. Combine PNG to SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to SXC saveformat via Python., Free Online Merge PNG to sxc in Python., Python Combine PNG to SXC format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to SXC Python. Python Merge PNG to SXC format. Combine PNG to SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to SXC., Free Online Merge PNG to sxc in Python., Python Combine PNG to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

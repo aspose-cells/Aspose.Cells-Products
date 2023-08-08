@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLAM - Combine TXT to XLAM via C++
 url: /cpp/merger/merge-txt-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to XLAM saveformat. C++ Combine TXT to XLAM format. Combine TXT to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to XLAM saveformat via C++., Free Online Merge TXT to xlam in C++., C++ Combine TXT to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to XLAM C++. C++ Merge TXT to XLAM format. Combine TXT to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to XLAM., Free Online Merge TXT to xlam in C++., C++ Combine TXT to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

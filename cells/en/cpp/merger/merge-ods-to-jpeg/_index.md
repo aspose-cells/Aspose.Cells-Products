@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JPEG - Combine ODS to JPEG via C++
 url: /cpp/merger/merge-ods-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to JPEG saveformat. C++ Combine ODS to JPEG format. Combine ODS to JPEG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to JPEG saveformat via C++., Free Online Merge ODS to jpeg in C++., C++ Combine ODS to JPEG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to JPEG C++. C++ Merge ODS to JPEG format. Combine ODS to JPEG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to JPEG., Free Online Merge ODS to jpeg in C++., C++ Combine ODS to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

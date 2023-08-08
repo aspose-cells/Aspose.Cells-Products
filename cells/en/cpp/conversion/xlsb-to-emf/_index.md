@@ -1,7 +1,7 @@
 ---
-title: XLSB to EMF - Convert XLSB to EMF files C++
-description: Aspose Excel. Free Online Convert XLSB to EMF saveformat. C++ XLSB to EMF format. Save XLSB as EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to EMF saveformat., Free Online XLSB to EMF Converter]
+title: C++ XLSB to EMF - Online XLSB to EMF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to EMF saveformat. C++ XLSB to EMF format. Save XLSB to EMF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to EMF saveformat., Free Online XLSB to EMF C++., C++ Convert XLSB to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

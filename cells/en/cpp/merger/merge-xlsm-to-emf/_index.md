@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to EMF - Combine XLSM to EMF via C++
 url: /cpp/merger/merge-xlsm-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to EMF saveformat. C++ Combine XLSM to EMF format. Combine XLSM to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to EMF saveformat via C++., Free Online Merge XLSM to emf in C++., C++ Combine XLSM to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to EMF C++. C++ Merge XLSM to EMF format. Combine XLSM to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to EMF., Free Online Merge XLSM to emf in C++., C++ Combine XLSM to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

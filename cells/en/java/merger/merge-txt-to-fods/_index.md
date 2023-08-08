@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to FODS - Combine TXT to FODS via Java
 url: /java/merger/merge-txt-to-fods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to FODS saveformat. Java Combine TXT to FODS format. Combine TXT to FODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to FODS saveformat via Java., Free Online Merge TXT to fods in Java., Java Combine TXT to FODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to FODS Java. Java Merge TXT to FODS format. Combine TXT to FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to FODS., Free Online Merge TXT to fods in Java., Java Combine TXT to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

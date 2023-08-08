@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLAM - Combine XML to XLAM via Java
 url: /java/merger/merge-xml-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to XLAM saveformat. Java Combine XML to XLAM format. Combine XML to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to XLAM saveformat via Java., Free Online Merge XML to xlam in Java., Java Combine XML to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to XLAM Java. Java Merge XML to XLAM format. Combine XML to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to XLAM., Free Online Merge XML to xlam in Java., Java Combine XML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSB to JSON - Convert XLSB to JSON files Python via Python
-description: Aspose Excel. Free Online Convert XLSB to JSON saveformat. Python XLSB to JSON format. Save XLSB as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to JSON saveformat., Free Online XLSB to JSON Converter]
+title: Python XLSB to JSON - Convert XLSB to JSON Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to JSON saveformat. Python XLSB to JSON format. Save XLSB to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to JSON saveformat., Free Online XLSB to JSON Python., Python Convert XLSB to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

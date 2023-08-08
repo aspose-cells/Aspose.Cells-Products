@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLT - Combine FODS to XLT via Python
 url: /python-java/merger/merge-fods-to-xlt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XLT saveformat. Python Combine FODS to XLT format. Combine FODS to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to XLT saveformat via Python., Free Online Merge FODS to xlt in Python., Python Combine FODS to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to XLT Python. Python Merge FODS to XLT format. Combine FODS to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to XLT., Free Online Merge FODS to xlt in Python., Python Combine FODS to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

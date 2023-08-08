@@ -1,7 +1,7 @@
 ---
-title: JPG to XPS - Convert JPG to XPS Python via Python
-description: Aspose Excel. Free Online Convert JPG to XPS saveformat. Python JPG to XPS format. Save JPG as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to XPS saveformat., Free Online JPG to XPS Converter]
+title: Python JPG to XPS - Convert JPG to XPS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to XPS saveformat. Python JPG to XPS format. Save JPG to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XPS saveformat., Free Online JPG to XPS Python., Python Convert JPG to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

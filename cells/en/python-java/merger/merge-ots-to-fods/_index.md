@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to FODS - Combine OTS to FODS via Python
 url: /python-java/merger/merge-ots-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to FODS saveformat. Python Combine OTS to FODS format. Combine OTS to FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to FODS saveformat via Python., Free Online Merge OTS to fods in Python., Python Combine OTS to FODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to FODS Python. Python Merge OTS to FODS format. Combine OTS to FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to FODS., Free Online Merge OTS to fods in Python., Python Combine OTS to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

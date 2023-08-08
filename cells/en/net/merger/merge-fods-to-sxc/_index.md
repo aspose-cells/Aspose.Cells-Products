@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SXC - Combine FODS to SXC via C#
 url: /net/merger/merge-fods-to-sxc/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to SXC saveformat. C# Combine FODS to SXC format. Combine FODS to SXC in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to SXC saveformat via C#., Free Online Merge FODS to sxc in C#., C# Combine FODS to SXC format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to SXC C#. C# Merge FODS to SXC format. Combine FODS to SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to SXC., Free Online Merge FODS to sxc in C#., C# Combine FODS to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

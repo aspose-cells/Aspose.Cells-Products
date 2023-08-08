@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SQL - Combine XLTX to SQL via Python
 url: /python-net/merger/merge-xltx-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to SQL saveformat. Python Combine XLTX to SQL format. Combine XLTX to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to SQL saveformat via Python., Free Online Merge XLTX to sql in Python., Python Combine XLTX to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to SQL Python. Python Merge XLTX to SQL format. Combine XLTX to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to SQL., Free Online Merge XLTX to sql in Python., Python Combine XLTX to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

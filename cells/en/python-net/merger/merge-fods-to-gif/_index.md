@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to GIF - Combine FODS to GIF via Python
 url: /python-net/merger/merge-fods-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to GIF saveformat. Python Combine FODS to GIF format. Combine FODS to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to GIF saveformat via Python., Free Online Merge FODS to gif in Python., Python Combine FODS to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to GIF Python. Python Merge FODS to GIF format. Combine FODS to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to GIF., Free Online Merge FODS to gif in Python., Python Combine FODS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to OTS - Combine SPREADSHEETML to OTS via Java
 url: /java/merger/merge-spreadsheetml-to-ots/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to OTS saveformat. Java Combine SPREADSHEETML to OTS format. Combine SPREADSHEETML to OTS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to OTS saveformat via Java., Free Online Merge SPREADSHEETML to ots in Java., Java Combine SPREADSHEETML to OTS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to OTS Java. Java Merge SPREADSHEETML to OTS format. Combine SPREADSHEETML to OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to OTS., Free Online Merge SPREADSHEETML to ots in Java., Java Combine SPREADSHEETML to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

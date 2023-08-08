@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SVG - Combine HTML to SVG via Python
 url: /python-net/merger/merge-html-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to SVG saveformat. Python Combine HTML to SVG format. Combine HTML to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to SVG saveformat via Python., Free Online Merge HTML to svg in Python., Python Combine HTML to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to SVG Python. Python Merge HTML to SVG format. Combine HTML to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to SVG., Free Online Merge HTML to svg in Python., Python Combine HTML to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

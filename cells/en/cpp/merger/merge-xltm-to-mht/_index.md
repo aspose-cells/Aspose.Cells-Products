@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MHT - Combine XLTM to MHT via C++
 url: /cpp/merger/merge-xltm-to-mht/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to MHT saveformat. C++ Combine XLTM to MHT format. Combine XLTM to MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTM to MHT saveformat via C++., Free Online Merge XLTM to mht in C++., C++ Combine XLTM to MHT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTM Merge. Free Online Merge XLTM to MHT C++. C++ Merge XLTM to MHT format. Combine XLTM to MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTM Merge., C++ Merge XLTM to MHT., Free Online Merge XLTM to mht in C++., C++ Combine XLTM to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

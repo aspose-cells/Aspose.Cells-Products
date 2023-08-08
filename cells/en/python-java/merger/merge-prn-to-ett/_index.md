@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to ETT - Combine PRN to ETT via Python
 url: /python-java/merger/merge-prn-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to ETT saveformat. Python Combine PRN to ETT format. Combine PRN to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to ETT saveformat via Python., Free Online Merge PRN to ett in Python., Python Combine PRN to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PRN Merge. Free Online Merge PRN to ETT Python. Python Merge PRN to ETT format. Combine PRN to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PRN Merge., Python Merge PRN to ETT., Free Online Merge PRN to ett in Python., Python Combine PRN to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

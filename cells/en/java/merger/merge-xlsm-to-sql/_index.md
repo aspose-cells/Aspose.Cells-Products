@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SQL - Combine XLSM to SQL via Java
 url: /java/merger/merge-xlsm-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to SQL saveformat. Java Combine XLSM to SQL format. Combine XLSM to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to SQL saveformat via Java., Free Online Merge XLSM to sql in Java., Java Combine XLSM to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to SQL Java. Java Merge XLSM to SQL format. Combine XLSM to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to SQL., Free Online Merge XLSM to sql in Java., Java Combine XLSM to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

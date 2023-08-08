@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLAM - Combine PNG to XLAM via Python
 url: /python-java/merger/merge-png-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to XLAM saveformat. Python Combine PNG to XLAM format. Combine PNG to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to XLAM saveformat via Python., Free Online Merge PNG to xlam in Python., Python Combine PNG to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to XLAM Python. Python Merge PNG to XLAM format. Combine PNG to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to XLAM., Free Online Merge PNG to xlam in Python., Python Combine PNG to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

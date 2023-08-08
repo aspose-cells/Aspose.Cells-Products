@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to FODS - Convert NUMBERS to FODS files C++
-description: Aspose Excel. Free Online Convert NUMBERS to FODS saveformat. C++ NUMBERS to FODS format. Save NUMBERS as FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to FODS saveformat., Free Online NUMBERS to FODS Converter]
+title: C++ NUMBERS to FODS - Online NUMBERS to FODS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to FODS saveformat. C++ NUMBERS to FODS format. Save NUMBERS to FODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to FODS saveformat., Free Online NUMBERS to FODS C++., C++ Convert NUMBERS to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

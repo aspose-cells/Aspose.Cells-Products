@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DIF - Combine HTM to DIF via C#
 url: /net/merger/merge-htm-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to DIF saveformat. C# Combine HTM to DIF format. Combine HTM to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to DIF saveformat via C#., Free Online Merge HTM to dif in C#., C# Combine HTM to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to DIF C#. C# Merge HTM to DIF format. Combine HTM to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to DIF., Free Online Merge HTM to dif in C#., C# Combine HTM to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

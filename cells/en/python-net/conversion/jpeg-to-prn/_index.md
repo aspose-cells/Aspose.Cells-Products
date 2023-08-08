@@ -1,7 +1,7 @@
 ---
-title: JPEG to PRN - Convert JPEG to PRN files Python via Python
-description: Aspose Excel. Free Online Convert JPEG to PRN saveformat. Python JPEG to PRN format. Save JPEG as PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to PRN saveformat., Free Online JPEG to PRN Converter]
+title: Python JPEG to PRN - Convert JPEG to PRN Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to PRN saveformat. Python JPEG to PRN format. Save JPEG to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to PRN saveformat., Free Online JPEG to PRN Python., Python Convert JPEG to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

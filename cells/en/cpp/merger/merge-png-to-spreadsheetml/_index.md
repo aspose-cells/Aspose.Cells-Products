@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SPREADSHEETML - Combine PNG to SPREADSHEETML via C++
 url: /cpp/merger/merge-png-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to SPREADSHEETML saveformat. C++ Combine PNG to SPREADSHEETML format. Combine PNG to SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to SPREADSHEETML saveformat via C++., Free Online Merge PNG to spreadsheetml in C++., C++ Combine PNG to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to SPREADSHEETML C++. C++ Merge PNG to SPREADSHEETML format. Combine PNG to SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to SPREADSHEETML., Free Online Merge PNG to spreadsheetml in C++., C++ Combine PNG to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

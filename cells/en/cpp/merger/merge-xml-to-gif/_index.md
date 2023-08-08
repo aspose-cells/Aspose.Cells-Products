@@ -1,8 +1,8 @@
 ---
 title: Merge XML to GIF - Combine XML to GIF via C++
 url: /cpp/merger/merge-xml-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to GIF saveformat. C++ Combine XML to GIF format. Combine XML to GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to GIF saveformat via C++., Free Online Merge XML to gif in C++., C++ Combine XML to GIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to GIF C++. C++ Merge XML to GIF format. Combine XML to GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to GIF., Free Online Merge XML to gif in C++., C++ Combine XML to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

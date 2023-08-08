@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to HTML - Combine EXCEL to HTML via C#
 url: /net/merger/merge-excel-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to HTML saveformat. C# Combine EXCEL to HTML format. Combine EXCEL to HTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to HTML saveformat via C#., Free Online Merge EXCEL to html in C#., C# Combine EXCEL to HTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to HTML C#. C# Merge EXCEL to HTML format. Combine EXCEL to HTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to HTML., Free Online Merge EXCEL to html in C#., C# Combine EXCEL to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

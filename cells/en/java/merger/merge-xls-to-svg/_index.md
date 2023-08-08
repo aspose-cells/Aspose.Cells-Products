@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SVG - Combine XLS to SVG via Java
 url: /java/merger/merge-xls-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to SVG saveformat. Java Combine XLS to SVG format. Combine XLS to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLS to SVG saveformat via Java., Free Online Merge XLS to svg in Java., Java Combine XLS to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLS Merge. Free Online Merge XLS to SVG Java. Java Merge XLS to SVG format. Combine XLS to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLS Merge., Java Merge XLS to SVG., Free Online Merge XLS to svg in Java., Java Combine XLS to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

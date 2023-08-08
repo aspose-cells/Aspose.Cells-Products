@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ODS - Combine IMAGE to ODS via Python
 url: /python-net/merger/merge-image-to-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to ODS saveformat. Python Combine IMAGE to ODS format. Combine IMAGE to ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to ODS saveformat via Python., Free Online Merge IMAGE to ods in Python., Python Combine IMAGE to ODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to ODS Python. Python Merge IMAGE to ODS format. Combine IMAGE to ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to ODS., Free Online Merge IMAGE to ods in Python., Python Combine IMAGE to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

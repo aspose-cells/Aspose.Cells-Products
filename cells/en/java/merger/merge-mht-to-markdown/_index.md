@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MARKDOWN - Combine MHT to MARKDOWN via Java
 url: /java/merger/merge-mht-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to MARKDOWN saveformat. Java Combine MHT to MARKDOWN format. Combine MHT to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to MARKDOWN saveformat via Java., Free Online Merge MHT to markdown in Java., Java Combine MHT to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to MARKDOWN Java. Java Merge MHT to MARKDOWN format. Combine MHT to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to MARKDOWN., Free Online Merge MHT to markdown in Java., Java Combine MHT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ETT - Combine JPG to ETT via Java
 url: /java/merger/merge-jpg-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to ETT saveformat. Java Combine JPG to ETT format. Combine JPG to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to ETT saveformat via Java., Free Online Merge JPG to ett in Java., Java Combine JPG to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to ETT Java. Java Merge JPG to ETT format. Combine JPG to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to ETT., Free Online Merge JPG to ett in Java., Java Combine JPG to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

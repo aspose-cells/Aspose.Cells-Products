@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to MHTML - Combine TABDELIMITED to MHTML via C++
 url: /cpp/merger/merge-tabdelimited-to-mhtml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to MHTML saveformat. C++ Combine TABDELIMITED to MHTML format. Combine TABDELIMITED to MHTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to MHTML saveformat via C++., Free Online Merge TABDELIMITED to mhtml in C++., C++ Combine TABDELIMITED to MHTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to MHTML C++. C++ Merge TABDELIMITED to MHTML format. Combine TABDELIMITED to MHTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to MHTML., Free Online Merge TABDELIMITED to mhtml in C++., C++ Combine TABDELIMITED to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

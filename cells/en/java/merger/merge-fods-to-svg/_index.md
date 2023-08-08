@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SVG - Combine FODS to SVG via Java
 url: /java/merger/merge-fods-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to SVG saveformat. Java Combine FODS to SVG format. Combine FODS to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to SVG saveformat via Java., Free Online Merge FODS to svg in Java., Java Combine FODS to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to SVG Java. Java Merge FODS to SVG format. Combine FODS to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to SVG., Free Online Merge FODS to svg in Java., Java Combine FODS to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

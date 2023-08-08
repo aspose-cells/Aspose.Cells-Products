@@ -1,7 +1,7 @@
 ---
-title: PNG to POWERPOINT - Convert PNG to POWERPOINT files C++
-description: Aspose Excel. Free Online Convert PNG to POWERPOINT saveformat. C++ PNG to POWERPOINT format. Save PNG as POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to POWERPOINT saveformat., Free Online PNG to POWERPOINT Converter]
+title: C++ PNG to POWERPOINT - Online PNG to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to POWERPOINT saveformat. C++ PNG to POWERPOINT format. Save PNG to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to POWERPOINT saveformat., Free Online PNG to POWERPOINT C++., C++ Convert PNG to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MARKDOWN - Combine FODS to MARKDOWN via C++
 url: /cpp/merger/merge-fods-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to MARKDOWN saveformat. C++ Combine FODS to MARKDOWN format. Combine FODS to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to MARKDOWN saveformat via C++., Free Online Merge FODS to markdown in C++., C++ Combine FODS to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to MARKDOWN C++. C++ Merge FODS to MARKDOWN format. Combine FODS to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to MARKDOWN., Free Online Merge FODS to markdown in C++., C++ Combine FODS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

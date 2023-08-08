@@ -1,7 +1,7 @@
 ---
-title: XLSX to XLTX - Convert XLSX to XLTX files Python via Python
-description: Aspose Excel. Free Online Convert XLSX to XLTX saveformat. Python XLSX to XLTX format. Save XLSX as XLTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to XLTX saveformat., Free Online XLSX to XLTX Converter]
+title: Python XLSX to XLTX - Convert XLSX to XLTX Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to XLTX saveformat. Python XLSX to XLTX format. Save XLSX to XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to XLTX saveformat., Free Online XLSX to XLTX Python., Python Convert XLSX to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

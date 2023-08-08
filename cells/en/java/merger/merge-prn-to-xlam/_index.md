@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLAM - Combine PRN to XLAM via Java
 url: /java/merger/merge-prn-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to XLAM saveformat. Java Combine PRN to XLAM format. Combine PRN to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to XLAM saveformat via Java., Free Online Merge PRN to xlam in Java., Java Combine PRN to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to XLAM Java. Java Merge PRN to XLAM format. Combine PRN to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to XLAM., Free Online Merge PRN to xlam in Java., Java Combine PRN to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

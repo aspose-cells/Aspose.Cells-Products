@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to GIF - Combine TXT to GIF via C#
 url: /net/merger/merge-txt-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to GIF saveformat. C# Combine TXT to GIF format. Combine TXT to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to GIF saveformat via C#., Free Online Merge TXT to gif in C#., C# Combine TXT to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to GIF C#. C# Merge TXT to GIF format. Combine TXT to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to GIF., Free Online Merge TXT to gif in C#., C# Combine TXT to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

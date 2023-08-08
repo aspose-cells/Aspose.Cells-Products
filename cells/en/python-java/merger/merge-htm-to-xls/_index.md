@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLS - Combine HTM to XLS via Python
 url: /python-java/merger/merge-htm-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XLS saveformat. Python Combine HTM to XLS format. Combine HTM to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to XLS saveformat via Python., Free Online Merge HTM to xls in Python., Python Combine HTM to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to XLS Python. Python Merge HTM to XLS format. Combine HTM to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to XLS., Free Online Merge HTM to xls in Python., Python Combine HTM to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

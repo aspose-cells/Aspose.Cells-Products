@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MARKDOWN - Combine XLT to MARKDOWN via C#
 url: /net/merger/merge-xlt-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to MARKDOWN saveformat. C# Combine XLT to MARKDOWN format. Combine XLT to MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to MARKDOWN saveformat via C#., Free Online Merge XLT to markdown in C#., C# Combine XLT to MARKDOWN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLT Merge. Free Online Merge XLT to MARKDOWN C#. C# Merge XLT to MARKDOWN format. Combine XLT to MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLT Merge., C# Merge XLT to MARKDOWN., Free Online Merge XLT to markdown in C#., C# Combine XLT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

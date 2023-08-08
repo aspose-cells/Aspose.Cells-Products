@@ -1,7 +1,7 @@
 ---
-title: PNG to DIF - Convert PNG to DIF files Java
-description: Aspose Excel. Free Online Convert PNG to DIF saveformat. Java PNG to DIF format. Save PNG as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to DIF saveformat., Free Online PNG to DIF Converter]
+title: Java PNG to DIF - Online PNG to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to DIF saveformat. Java PNG to DIF format. Save PNG to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to DIF saveformat., Free Online PNG to DIF Java., Java Convert PNG to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

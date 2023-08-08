@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to ODS - Combine XLSX to ODS via Python
 url: /python-java/merger/merge-xlsx-to-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to ODS saveformat. Python Combine XLSX to ODS format. Combine XLSX to ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSX to ODS saveformat via Python., Free Online Merge XLSX to ods in Python., Python Combine XLSX to ODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSX Merge. Free Online Merge XLSX to ODS Python. Python Merge XLSX to ODS format. Combine XLSX to ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSX Merge., Python Merge XLSX to ODS., Free Online Merge XLSX to ods in Python., Python Combine XLSX to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

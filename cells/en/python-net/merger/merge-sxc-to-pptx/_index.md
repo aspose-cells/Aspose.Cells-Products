@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PPTX - Combine SXC to PPTX via Python
 url: /python-net/merger/merge-sxc-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to PPTX saveformat. Python Combine SXC to PPTX format. Combine SXC to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to PPTX saveformat via Python., Free Online Merge SXC to pptx in Python., Python Combine SXC to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to PPTX Python. Python Merge SXC to PPTX format. Combine SXC to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to PPTX., Free Online Merge SXC to pptx in Python., Python Combine SXC to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

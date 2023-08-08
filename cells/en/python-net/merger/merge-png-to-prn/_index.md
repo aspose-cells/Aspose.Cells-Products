@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PRN - Combine PNG to PRN via Python
 url: /python-net/merger/merge-png-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to PRN saveformat. Python Combine PNG to PRN format. Combine PNG to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to PRN saveformat via Python., Free Online Merge PNG to prn in Python., Python Combine PNG to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to PRN Python. Python Merge PNG to PRN format. Combine PNG to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to PRN., Free Online Merge PNG to prn in Python., Python Combine PNG to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

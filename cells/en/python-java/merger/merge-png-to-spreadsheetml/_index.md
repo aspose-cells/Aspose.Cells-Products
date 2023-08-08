@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SPREADSHEETML - Combine PNG to SPREADSHEETML via Python
 url: /python-java/merger/merge-png-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to SPREADSHEETML saveformat. Python Combine PNG to SPREADSHEETML format. Combine PNG to SPREADSHEETML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to SPREADSHEETML saveformat via Python., Free Online Merge PNG to spreadsheetml in Python., Python Combine PNG to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to SPREADSHEETML Python. Python Merge PNG to SPREADSHEETML format. Combine PNG to SPREADSHEETML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to SPREADSHEETML., Free Online Merge PNG to spreadsheetml in Python., Python Combine PNG to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

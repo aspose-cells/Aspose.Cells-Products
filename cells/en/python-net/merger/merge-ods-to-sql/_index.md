@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SQL - Combine ODS to SQL via Python
 url: /python-net/merger/merge-ods-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to SQL saveformat. Python Combine ODS to SQL format. Combine ODS to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to SQL saveformat via Python., Free Online Merge ODS to sql in Python., Python Combine ODS to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to SQL Python. Python Merge ODS to SQL format. Combine ODS to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to SQL., Free Online Merge ODS to sql in Python., Python Combine ODS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MARKDOWN - Combine PNG to MARKDOWN via Java
 url: /java/merger/merge-png-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to MARKDOWN saveformat. Java Combine PNG to MARKDOWN format. Combine PNG to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to MARKDOWN saveformat via Java., Free Online Merge PNG to markdown in Java., Java Combine PNG to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to MARKDOWN Java. Java Merge PNG to MARKDOWN format. Combine PNG to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to MARKDOWN., Free Online Merge PNG to markdown in Java., Java Combine PNG to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

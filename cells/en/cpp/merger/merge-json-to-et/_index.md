@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to ET - Combine JSON to ET via C++
 url: /cpp/merger/merge-json-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to ET saveformat. C++ Combine JSON to ET format. Combine JSON to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to ET saveformat via C++., Free Online Merge JSON to et in C++., C++ Combine JSON to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to ET C++. C++ Merge JSON to ET format. Combine JSON to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to ET., Free Online Merge JSON to et in C++., C++ Combine JSON to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

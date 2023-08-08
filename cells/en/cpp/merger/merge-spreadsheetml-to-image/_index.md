@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to IMAGE - Combine SPREADSHEETML to IMAGE via C++
 url: /cpp/merger/merge-spreadsheetml-to-image/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to IMAGE saveformat. C++ Combine SPREADSHEETML to IMAGE format. Combine SPREADSHEETML to IMAGE in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to IMAGE saveformat via C++., Free Online Merge SPREADSHEETML to image in C++., C++ Combine SPREADSHEETML to IMAGE format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to IMAGE C++. C++ Merge SPREADSHEETML to IMAGE format. Combine SPREADSHEETML to IMAGE in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to IMAGE., Free Online Merge SPREADSHEETML to image in C++., C++ Combine SPREADSHEETML to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

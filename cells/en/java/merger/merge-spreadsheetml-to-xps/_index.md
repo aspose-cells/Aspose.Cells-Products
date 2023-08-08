@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XPS - Combine SPREADSHEETML to XPS via Java
 url: /java/merger/merge-spreadsheetml-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to XPS saveformat. Java Combine SPREADSHEETML to XPS format. Combine SPREADSHEETML to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to XPS saveformat via Java., Free Online Merge SPREADSHEETML to xps in Java., Java Combine SPREADSHEETML to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to XPS Java. Java Merge SPREADSHEETML to XPS format. Combine SPREADSHEETML to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to XPS., Free Online Merge SPREADSHEETML to xps in Java., Java Combine SPREADSHEETML to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to EMF - Combine JSON to EMF via Java
 url: /java/merger/merge-json-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to EMF saveformat. Java Combine JSON to EMF format. Combine JSON to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to EMF saveformat via Java., Free Online Merge JSON to emf in Java., Java Combine JSON to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to EMF Java. Java Merge JSON to EMF format. Combine JSON to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to EMF., Free Online Merge JSON to emf in Java., Java Combine JSON to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

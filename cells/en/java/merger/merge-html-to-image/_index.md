@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to IMAGE - Combine HTML to IMAGE via Java
 url: /java/merger/merge-html-to-image/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to IMAGE saveformat. Java Combine HTML to IMAGE format. Combine HTML to IMAGE in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to IMAGE saveformat via Java., Free Online Merge HTML to image in Java., Java Combine HTML to IMAGE format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to IMAGE Java. Java Merge HTML to IMAGE format. Combine HTML to IMAGE in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to IMAGE., Free Online Merge HTML to image in Java., Java Combine HTML to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

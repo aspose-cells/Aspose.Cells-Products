@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to GIF - Combine JSON to GIF via Java
 url: /java/merger/merge-json-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to GIF saveformat. Java Combine JSON to GIF format. Combine JSON to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to GIF saveformat via Java., Free Online Merge JSON to gif in Java., Java Combine JSON to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to GIF Java. Java Merge JSON to GIF format. Combine JSON to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to GIF., Free Online Merge JSON to gif in Java., Java Combine JSON to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

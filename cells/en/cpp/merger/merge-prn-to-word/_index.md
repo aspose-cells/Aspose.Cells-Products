@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to WORD - Combine PRN to WORD via C++
 url: /cpp/merger/merge-prn-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to WORD saveformat. C++ Combine PRN to WORD format. Combine PRN to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to WORD saveformat via C++., Free Online Merge PRN to word in C++., C++ Combine PRN to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to WORD C++. C++ Merge PRN to WORD format. Combine PRN to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to WORD., Free Online Merge PRN to word in C++., C++ Combine PRN to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

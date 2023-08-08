@@ -1,7 +1,7 @@
 ---
-title: HTML to JSON - Convert HTML to JSON Python via Python
-description: Aspose Excel. Free Online Convert HTML to JSON saveformat. Python HTML to JSON format. Save HTML as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to JSON saveformat., Free Online HTML to JSON Converter]
+title: Python HTML to JSON - Convert HTML to JSON Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to JSON saveformat. Python HTML to JSON format. Save HTML to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to JSON saveformat., Free Online HTML to JSON Python., Python Convert HTML to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to EMF - Combine SXC to EMF via Java
 url: /java/merger/merge-sxc-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to EMF saveformat. Java Combine SXC to EMF format. Combine SXC to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to EMF saveformat via Java., Free Online Merge SXC to emf in Java., Java Combine SXC to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to EMF Java. Java Merge SXC to EMF format. Combine SXC to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to EMF., Free Online Merge SXC to emf in Java., Java Combine SXC to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

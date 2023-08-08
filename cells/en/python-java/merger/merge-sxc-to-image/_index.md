@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to IMAGE - Combine SXC to IMAGE via Python
 url: /python-java/merger/merge-sxc-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to IMAGE saveformat. Python Combine SXC to IMAGE format. Combine SXC to IMAGE in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to IMAGE saveformat via Python., Free Online Merge SXC to image in Python., Python Combine SXC to IMAGE format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to IMAGE Python. Python Merge SXC to IMAGE format. Combine SXC to IMAGE in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to IMAGE., Free Online Merge SXC to image in Python., Python Combine SXC to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

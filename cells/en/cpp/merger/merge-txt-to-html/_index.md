@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTML - Combine TXT to HTML via C++
 url: /cpp/merger/merge-txt-to-html/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to HTML saveformat. C++ Combine TXT to HTML format. Combine TXT to HTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to HTML saveformat via C++., Free Online Merge TXT to html in C++., C++ Combine TXT to HTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to HTML C++. C++ Merge TXT to HTML format. Combine TXT to HTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to HTML., Free Online Merge TXT to html in C++., C++ Combine TXT to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

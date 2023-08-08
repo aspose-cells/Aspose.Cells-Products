@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ET - Combine TXT to ET via C++
 url: /cpp/merger/merge-txt-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to ET saveformat. C++ Combine TXT to ET format. Combine TXT to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to ET saveformat via C++., Free Online Merge TXT to et in C++., C++ Combine TXT to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to ET C++. C++ Merge TXT to ET format. Combine TXT to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to ET., Free Online Merge TXT to et in C++., C++ Combine TXT to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

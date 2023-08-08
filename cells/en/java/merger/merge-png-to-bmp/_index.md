@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to BMP - Combine PNG to BMP via Java
 url: /java/merger/merge-png-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to BMP saveformat. Java Combine PNG to BMP format. Combine PNG to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to BMP saveformat via Java., Free Online Merge PNG to bmp in Java., Java Combine PNG to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to BMP Java. Java Merge PNG to BMP format. Combine PNG to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to BMP., Free Online Merge PNG to bmp in Java., Java Combine PNG to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

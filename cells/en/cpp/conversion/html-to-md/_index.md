@@ -1,7 +1,7 @@
 ---
-title: HTML to MD - Convert HTML to MD files C++
-description: Aspose Excel. Free Online Convert HTML to MD saveformat. C++ HTML to MD format. Save HTML as MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to MD saveformat., Free Online HTML to MD Converter]
+title: C++ HTML to MD - Online HTML to MD Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to MD saveformat. C++ HTML to MD format. Save HTML to MD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to MD saveformat., Free Online HTML to MD C++., C++ Convert HTML to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

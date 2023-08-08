@@ -1,7 +1,7 @@
 ---
-title: PNG to GIF - Convert PNG to GIF Python via Python
-description: Aspose Excel. Free Online Convert PNG to GIF saveformat. Python PNG to GIF format. Save PNG as GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to GIF saveformat., Free Online PNG to GIF Converter]
+title: Python PNG to GIF - Convert PNG to GIF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to GIF saveformat. Python PNG to GIF format. Save PNG to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to GIF saveformat., Free Online PNG to GIF Python., Python Convert PNG to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

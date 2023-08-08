@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to JSON - Combine SPREADSHEETML to JSON via Java
 url: /java/merger/merge-spreadsheetml-to-json/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to JSON saveformat. Java Combine SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to JSON saveformat via Java., Free Online Merge SPREADSHEETML to json in Java., Java Combine SPREADSHEETML to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to JSON Java. Java Merge SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to JSON., Free Online Merge SPREADSHEETML to json in Java., Java Combine SPREADSHEETML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

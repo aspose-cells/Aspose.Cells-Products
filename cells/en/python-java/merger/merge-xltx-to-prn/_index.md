@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PRN - Combine XLTX to PRN via Python
 url: /python-java/merger/merge-xltx-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to PRN saveformat. Python Combine XLTX to PRN format. Combine XLTX to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to PRN saveformat via Python., Free Online Merge XLTX to prn in Python., Python Combine XLTX to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to PRN Python. Python Merge XLTX to PRN format. Combine XLTX to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to PRN., Free Online Merge XLTX to prn in Python., Python Combine XLTX to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

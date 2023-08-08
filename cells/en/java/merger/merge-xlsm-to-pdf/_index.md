@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to PDF - Combine XLSM to PDF via Java
 url: /java/merger/merge-xlsm-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to PDF saveformat. Java Combine XLSM to PDF format. Combine XLSM to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to PDF saveformat via Java., Free Online Merge XLSM to pdf in Java., Java Combine XLSM to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to PDF Java. Java Merge XLSM to PDF format. Combine XLSM to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to PDF., Free Online Merge XLSM to pdf in Java., Java Combine XLSM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

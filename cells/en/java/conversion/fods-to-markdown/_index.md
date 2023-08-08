@@ -1,7 +1,7 @@
 ---
-title: FODS to MARKDOWN - Convert FODS to MARKDOWN files Java
-description: Aspose Excel. Free Online Convert FODS to MARKDOWN saveformat. Java FODS to MARKDOWN format. Save FODS as MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Converter]
+title: Java FODS to MARKDOWN - Online FODS to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to MARKDOWN saveformat. Java FODS to MARKDOWN format. Save FODS to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Java., Java Convert FODS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

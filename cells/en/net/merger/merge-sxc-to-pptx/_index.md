@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PPTX - Combine SXC to PPTX via C#
 url: /net/merger/merge-sxc-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to PPTX saveformat. C# Combine SXC to PPTX format. Combine SXC to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to PPTX saveformat via C#., Free Online Merge SXC to pptx in C#., C# Combine SXC to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to PPTX C#. C# Merge SXC to PPTX format. Combine SXC to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to PPTX., Free Online Merge SXC to pptx in C#., C# Combine SXC to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

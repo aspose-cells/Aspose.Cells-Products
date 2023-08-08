@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLT - Combine JPEG to XLT via Java
 url: /java/merger/merge-jpeg-to-xlt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to XLT saveformat. Java Combine JPEG to XLT format. Combine JPEG to XLT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to XLT saveformat via Java., Free Online Merge JPEG to xlt in Java., Java Combine JPEG to XLT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to XLT Java. Java Merge JPEG to XLT format. Combine JPEG to XLT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to XLT., Free Online Merge JPEG to xlt in Java., Java Combine JPEG to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

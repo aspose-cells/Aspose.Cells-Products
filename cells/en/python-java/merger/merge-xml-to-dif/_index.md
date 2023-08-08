@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DIF - Combine XML to DIF via Python
 url: /python-java/merger/merge-xml-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to DIF saveformat. Python Combine XML to DIF format. Combine XML to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to DIF saveformat via Python., Free Online Merge XML to dif in Python., Python Combine XML to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to DIF Python. Python Merge XML to DIF format. Combine XML to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to DIF., Free Online Merge XML to dif in Python., Python Combine XML to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

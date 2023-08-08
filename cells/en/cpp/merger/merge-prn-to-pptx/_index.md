@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PPTX - Combine PRN to PPTX via C++
 url: /cpp/merger/merge-prn-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to PPTX saveformat. C++ Combine PRN to PPTX format. Combine PRN to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to PPTX saveformat via C++., Free Online Merge PRN to pptx in C++., C++ Combine PRN to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to PPTX C++. C++ Merge PRN to PPTX format. Combine PRN to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to PPTX., Free Online Merge PRN to pptx in C++., C++ Combine PRN to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

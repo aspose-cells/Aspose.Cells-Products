@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLTM - Combine OTS to XLTM via Java
 url: /java/merger/merge-ots-to-xltm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to XLTM saveformat. Java Combine OTS to XLTM format. Combine OTS to XLTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to XLTM saveformat via Java., Free Online Merge OTS to xltm in Java., Java Combine OTS to XLTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to XLTM Java. Java Merge OTS to XLTM format. Combine OTS to XLTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to XLTM., Free Online Merge OTS to xltm in Java., Java Combine OTS to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

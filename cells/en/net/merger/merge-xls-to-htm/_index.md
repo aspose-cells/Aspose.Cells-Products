@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to HTM - Combine XLS to HTM via C#
 url: /net/merger/merge-xls-to-htm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to HTM saveformat. C# Combine XLS to HTM format. Combine XLS to HTM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to HTM saveformat via C#., Free Online Merge XLS to htm in C#., C# Combine XLS to HTM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to HTM C#. C# Merge XLS to HTM format. Combine XLS to HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to HTM., Free Online Merge XLS to htm in C#., C# Combine XLS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

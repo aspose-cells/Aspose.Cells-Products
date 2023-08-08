@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SPREADSHEETML - Combine HTM to SPREADSHEETML via Java
 url: /java/merger/merge-htm-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to SPREADSHEETML saveformat. Java Combine HTM to SPREADSHEETML format. Combine HTM to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to SPREADSHEETML saveformat via Java., Free Online Merge HTM to spreadsheetml in Java., Java Combine HTM to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to SPREADSHEETML Java. Java Merge HTM to SPREADSHEETML format. Combine HTM to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to SPREADSHEETML., Free Online Merge HTM to spreadsheetml in Java., Java Combine HTM to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

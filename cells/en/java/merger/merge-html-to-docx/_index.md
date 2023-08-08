@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DOCX - Combine HTML to DOCX via Java
 url: /java/merger/merge-html-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to DOCX saveformat. Java Combine HTML to DOCX format. Combine HTML to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to DOCX saveformat via Java., Free Online Merge HTML to docx in Java., Java Combine HTML to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to DOCX Java. Java Merge HTML to DOCX format. Combine HTML to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to DOCX., Free Online Merge HTML to docx in Java., Java Combine HTML to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

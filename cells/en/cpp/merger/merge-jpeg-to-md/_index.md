@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MD - Combine JPEG to MD via C++
 url: /cpp/merger/merge-jpeg-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to MD saveformat. C++ Combine JPEG to MD format. Combine JPEG to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to MD saveformat via C++., Free Online Merge JPEG to md in C++., C++ Combine JPEG to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to MD C++. C++ Merge JPEG to MD format. Combine JPEG to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to MD., Free Online Merge JPEG to md in C++., C++ Combine JPEG to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

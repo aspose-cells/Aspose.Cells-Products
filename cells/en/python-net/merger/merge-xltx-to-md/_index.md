@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MD - Combine XLTX to MD via Python
 url: /python-net/merger/merge-xltx-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to MD saveformat. Python Combine XLTX to MD format. Combine XLTX to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to MD saveformat via Python., Free Online Merge XLTX to md in Python., Python Combine XLTX to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to MD Python. Python Merge XLTX to MD format. Combine XLTX to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to MD., Free Online Merge XLTX to md in Python., Python Combine XLTX to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

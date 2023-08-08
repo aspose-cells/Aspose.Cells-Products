@@ -1,7 +1,7 @@
 ---
-title: IMAGE to TXT - Convert IMAGE to TXT files Java
-description: Aspose Excel. Free Online Convert IMAGE to TXT saveformat. Java IMAGE to TXT format. Save IMAGE as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java IMAGE to TXT saveformat., Free Online IMAGE to TXT Converter]
+title: Java IMAGE to TXT - Online IMAGE to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert IMAGE to TXT saveformat. Java IMAGE to TXT format. Save IMAGE to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java IMAGE to TXT saveformat., Free Online IMAGE to TXT Java., Java Convert IMAGE to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

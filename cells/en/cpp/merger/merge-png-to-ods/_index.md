@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ODS - Combine PNG to ODS via C++
 url: /cpp/merger/merge-png-to-ods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to ODS saveformat. C++ Combine PNG to ODS format. Combine PNG to ODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to ODS saveformat via C++., Free Online Merge PNG to ods in C++., C++ Combine PNG to ODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to ODS C++. C++ Merge PNG to ODS format. Combine PNG to ODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to ODS., Free Online Merge PNG to ods in C++., C++ Combine PNG to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

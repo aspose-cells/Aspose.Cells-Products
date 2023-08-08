@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TXT - Combine SXC to TXT via C++
 url: /cpp/merger/merge-sxc-to-txt/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to TXT saveformat. C++ Combine SXC to TXT format. Combine SXC to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SXC to TXT saveformat via C++., Free Online Merge SXC to txt in C++., C++ Combine SXC to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SXC Merge. Free Online Merge SXC to TXT C++. C++ Merge SXC to TXT format. Combine SXC to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SXC Merge., C++ Merge SXC to TXT., Free Online Merge SXC to txt in C++., C++ Combine SXC to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MARKDOWN - Combine NUMBERS to MARKDOWN via C#
 url: /net/merger/merge-numbers-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to MARKDOWN saveformat. C# Combine NUMBERS to MARKDOWN format. Combine NUMBERS to MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to MARKDOWN saveformat via C#., Free Online Merge NUMBERS to markdown in C#., C# Combine NUMBERS to MARKDOWN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to MARKDOWN C#. C# Merge NUMBERS to MARKDOWN format. Combine NUMBERS to MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to MARKDOWN., Free Online Merge NUMBERS to markdown in C#., C# Combine NUMBERS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

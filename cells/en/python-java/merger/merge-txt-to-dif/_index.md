@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DIF - Combine TXT to DIF via Python
 url: /python-java/merger/merge-txt-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to DIF saveformat. Python Combine TXT to DIF format. Combine TXT to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to DIF saveformat via Python., Free Online Merge TXT to dif in Python., Python Combine TXT to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to DIF Python. Python Merge TXT to DIF format. Combine TXT to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to DIF., Free Online Merge TXT to dif in Python., Python Combine TXT to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

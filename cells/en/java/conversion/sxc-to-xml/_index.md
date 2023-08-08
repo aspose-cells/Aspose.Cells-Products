@@ -1,7 +1,7 @@
 ---
-title: SXC to XML - Convert SXC to XML files Java
-description: Aspose Excel. Free Online Convert SXC to XML saveformat. Java SXC to XML format. Save SXC as XML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to XML saveformat., Free Online SXC to XML Converter]
+title: Java SXC to XML - Online SXC to XML Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to XML saveformat. Java SXC to XML format. Save SXC to XML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to XML saveformat., Free Online SXC to XML Java., Java Convert SXC to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

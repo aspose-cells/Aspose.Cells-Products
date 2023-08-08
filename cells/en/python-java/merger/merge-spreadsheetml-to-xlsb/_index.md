@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLSB - Combine SPREADSHEETML to XLSB via Python
 url: /python-java/merger/merge-spreadsheetml-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to XLSB saveformat. Python Combine SPREADSHEETML to XLSB format. Combine SPREADSHEETML to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to XLSB saveformat via Python., Free Online Merge SPREADSHEETML to xlsb in Python., Python Combine SPREADSHEETML to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to XLSB Python. Python Merge SPREADSHEETML to XLSB format. Combine SPREADSHEETML to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SPREADSHEETML Merge., Python Merge SPREADSHEETML to XLSB., Free Online Merge SPREADSHEETML to xlsb in Python., Python Combine SPREADSHEETML to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

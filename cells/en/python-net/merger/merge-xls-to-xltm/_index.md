@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLTM - Combine XLS to XLTM via Python
 url: /python-net/merger/merge-xls-to-xltm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to XLTM saveformat. Python Combine XLS to XLTM format. Combine XLS to XLTM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to XLTM saveformat via Python., Free Online Merge XLS to xltm in Python., Python Combine XLS to XLTM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to XLTM Python. Python Merge XLS to XLTM format. Combine XLS to XLTM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to XLTM., Free Online Merge XLS to xltm in Python., Python Combine XLS to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

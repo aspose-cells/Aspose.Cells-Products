@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XLSB - Convert EXCEL to XLSB files C#
-description: Aspose Excel. Free Online Convert EXCEL to XLSB saveformat. C# EXCEL to XLSB format. Save EXCEL as XLSB in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# EXCEL to XLSB saveformat., Free Online EXCEL to XLSB Converter]
+title: C# EXCEL to XLSB - Online EXCEL to XLSB Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert EXCEL to XLSB saveformat. C# EXCEL to XLSB format. Save EXCEL to XLSB C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# EXCEL to XLSB saveformat., Free Online EXCEL to XLSB C#., C# Convert EXCEL to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XPS - Combine TXT to XPS via C++
 url: /cpp/merger/merge-txt-to-xps/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to XPS saveformat. C++ Combine TXT to XPS format. Combine TXT to XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to XPS saveformat via C++., Free Online Merge TXT to xps in C++., C++ Combine TXT to XPS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to XPS C++. C++ Merge TXT to XPS format. Combine TXT to XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to XPS., Free Online Merge TXT to xps in C++., C++ Combine TXT to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

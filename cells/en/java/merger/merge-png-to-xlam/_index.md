@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLAM - Combine PNG to XLAM via Java
 url: /java/merger/merge-png-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XLAM saveformat. Java Combine PNG to XLAM format. Combine PNG to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to XLAM saveformat via Java., Free Online Merge PNG to xlam in Java., Java Combine PNG to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to XLAM Java. Java Merge PNG to XLAM format. Combine PNG to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to XLAM., Free Online Merge PNG to xlam in Java., Java Combine PNG to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

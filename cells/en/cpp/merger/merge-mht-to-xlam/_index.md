@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLAM - Combine MHT to XLAM via C++
 url: /cpp/merger/merge-mht-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to XLAM saveformat. C++ Combine MHT to XLAM format. Combine MHT to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to XLAM saveformat via C++., Free Online Merge MHT to xlam in C++., C++ Combine MHT to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to XLAM C++. C++ Merge MHT to XLAM format. Combine MHT to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to XLAM., Free Online Merge MHT to xlam in C++., C++ Combine MHT to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

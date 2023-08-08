@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PPTX - Combine SXC to PPTX via Java
 url: /java/merger/merge-sxc-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to PPTX saveformat. Java Combine SXC to PPTX format. Combine SXC to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to PPTX saveformat via Java., Free Online Merge SXC to pptx in Java., Java Combine SXC to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to PPTX Java. Java Merge SXC to PPTX format. Combine SXC to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to PPTX., Free Online Merge SXC to pptx in Java., Java Combine SXC to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

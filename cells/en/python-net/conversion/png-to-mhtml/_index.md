@@ -1,7 +1,7 @@
 ---
-title: PNG to MHTML - Convert PNG to MHTML files Python via Python
-description: Aspose Excel. Free Online Convert PNG to MHTML saveformat. Python PNG to MHTML format. Save PNG as MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to MHTML saveformat., Free Online PNG to MHTML Converter]
+title: Python PNG to MHTML - Convert PNG to MHTML Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to MHTML saveformat. Python PNG to MHTML format. Save PNG to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MHTML saveformat., Free Online PNG to MHTML Python., Python Convert PNG to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

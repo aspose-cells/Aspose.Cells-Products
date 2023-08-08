@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SXC - Combine HTM to SXC via Python
 url: /python-net/merger/merge-htm-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to SXC saveformat. Python Combine HTM to SXC format. Combine HTM to SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to SXC saveformat via Python., Free Online Merge HTM to sxc in Python., Python Combine HTM to SXC format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to SXC Python. Python Merge HTM to SXC format. Combine HTM to SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to SXC., Free Online Merge HTM to sxc in Python., Python Combine HTM to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

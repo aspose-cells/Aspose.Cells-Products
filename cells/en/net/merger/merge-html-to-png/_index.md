@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PNG - Combine HTML to PNG via C#
 url: /net/merger/merge-html-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to PNG saveformat. C# Combine HTML to PNG format. Combine HTML to PNG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to PNG saveformat via C#., Free Online Merge HTML to png in C#., C# Combine HTML to PNG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to PNG C#. C# Merge HTML to PNG format. Combine HTML to PNG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to PNG., Free Online Merge HTML to png in C#., C# Combine HTML to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

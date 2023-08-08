@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to DIF - Combine XLSM to DIF via Python
 url: /python-java/merger/merge-xlsm-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to DIF saveformat. Python Combine XLSM to DIF format. Combine XLSM to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to DIF saveformat via Python., Free Online Merge XLSM to dif in Python., Python Combine XLSM to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to DIF Python. Python Merge XLSM to DIF format. Combine XLSM to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to DIF., Free Online Merge XLSM to dif in Python., Python Combine XLSM to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

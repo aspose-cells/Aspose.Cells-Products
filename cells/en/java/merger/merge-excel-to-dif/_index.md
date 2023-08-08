@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DIF - Combine EXCEL to DIF via Java
 url: /java/merger/merge-excel-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to DIF saveformat. Java Combine EXCEL to DIF format. Combine EXCEL to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to DIF saveformat via Java., Free Online Merge EXCEL to dif in Java., Java Combine EXCEL to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to DIF Java. Java Merge EXCEL to DIF format. Combine EXCEL to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to DIF., Free Online Merge EXCEL to dif in Java., Java Combine EXCEL to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

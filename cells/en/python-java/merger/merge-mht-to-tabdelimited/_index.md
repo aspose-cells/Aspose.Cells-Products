@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TABDELIMITED - Combine MHT to TABDELIMITED via Python
 url: /python-java/merger/merge-mht-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to TABDELIMITED saveformat. Python Combine MHT to TABDELIMITED format. Combine MHT to TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to TABDELIMITED saveformat via Python., Free Online Merge MHT to tabdelimited in Python., Python Combine MHT to TABDELIMITED format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to TABDELIMITED Python. Python Merge MHT to TABDELIMITED format. Combine MHT to TABDELIMITED in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to TABDELIMITED., Free Online Merge MHT to tabdelimited in Python., Python Combine MHT to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

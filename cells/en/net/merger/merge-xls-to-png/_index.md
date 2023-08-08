@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to PNG - Combine XLS to PNG via C#
 url: /net/merger/merge-xls-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to PNG saveformat. C# Combine XLS to PNG format. Combine XLS to PNG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to PNG saveformat via C#., Free Online Merge XLS to png in C#., C# Combine XLS to PNG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to PNG C#. C# Merge XLS to PNG format. Combine XLS to PNG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to PNG., Free Online Merge XLS to png in C#., C# Combine XLS to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

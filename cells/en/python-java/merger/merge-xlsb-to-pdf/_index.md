@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PDF - Combine XLSB to PDF via Python
 url: /python-java/merger/merge-xlsb-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to PDF saveformat. Python Combine XLSB to PDF format. Combine XLSB to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to PDF saveformat via Python., Free Online Merge XLSB to pdf in Python., Python Combine XLSB to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to PDF Python. Python Merge XLSB to PDF format. Combine XLSB to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to PDF., Free Online Merge XLSB to pdf in Python., Python Combine XLSB to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

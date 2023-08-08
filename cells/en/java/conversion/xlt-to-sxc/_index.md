@@ -1,7 +1,7 @@
 ---
-title: XLT to SXC - Convert XLT to SXC files Java
-description: Aspose Excel. Free Online Convert XLT to SXC saveformat. Java XLT to SXC format. Save XLT as SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to SXC saveformat., Free Online XLT to SXC Converter]
+title: Java XLT to SXC - Online XLT to SXC Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to SXC saveformat. Java XLT to SXC format. Save XLT to SXC Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to SXC saveformat., Free Online XLT to SXC Java., Java Convert XLT to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

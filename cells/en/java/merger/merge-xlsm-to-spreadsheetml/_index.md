@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SPREADSHEETML - Combine XLSM to SPREADSHEETML via Java
 url: /java/merger/merge-xlsm-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to SPREADSHEETML saveformat. Java Combine XLSM to SPREADSHEETML format. Combine XLSM to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to SPREADSHEETML saveformat via Java., Free Online Merge XLSM to spreadsheetml in Java., Java Combine XLSM to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to SPREADSHEETML Java. Java Merge XLSM to SPREADSHEETML format. Combine XLSM to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to SPREADSHEETML., Free Online Merge XLSM to spreadsheetml in Java., Java Combine XLSM to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

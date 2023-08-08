@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MARKDOWN - Combine XLSB to MARKDOWN via Python
 url: /python-java/merger/merge-xlsb-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to MARKDOWN saveformat. Python Combine XLSB to MARKDOWN format. Combine XLSB to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to MARKDOWN saveformat via Python., Free Online Merge XLSB to markdown in Python., Python Combine XLSB to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to MARKDOWN Python. Python Merge XLSB to MARKDOWN format. Combine XLSB to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to MARKDOWN., Free Online Merge XLSB to markdown in Python., Python Combine XLSB to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

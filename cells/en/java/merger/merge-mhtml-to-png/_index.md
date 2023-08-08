@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PNG - Combine MHTML to PNG via Java
 url: /java/merger/merge-mhtml-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to PNG saveformat. Java Combine MHTML to PNG format. Combine MHTML to PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to PNG saveformat via Java., Free Online Merge MHTML to png in Java., Java Combine MHTML to PNG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to PNG Java. Java Merge MHTML to PNG format. Combine MHTML to PNG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to PNG., Free Online Merge MHTML to png in Java., Java Combine MHTML to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

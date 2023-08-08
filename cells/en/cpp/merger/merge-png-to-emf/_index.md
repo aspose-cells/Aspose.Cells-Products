@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EMF - Combine PNG to EMF via C++
 url: /cpp/merger/merge-png-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to EMF saveformat. C++ Combine PNG to EMF format. Combine PNG to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to EMF saveformat via C++., Free Online Merge PNG to emf in C++., C++ Combine PNG to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to EMF C++. C++ Merge PNG to EMF format. Combine PNG to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to EMF., Free Online Merge PNG to emf in C++., C++ Combine PNG to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

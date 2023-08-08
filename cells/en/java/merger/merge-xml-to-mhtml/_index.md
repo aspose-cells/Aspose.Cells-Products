@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MHTML - Combine XML to MHTML via Java
 url: /java/merger/merge-xml-to-mhtml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to MHTML saveformat. Java Combine XML to MHTML format. Combine XML to MHTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to MHTML saveformat via Java., Free Online Merge XML to mhtml in Java., Java Combine XML to MHTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to MHTML Java. Java Merge XML to MHTML format. Combine XML to MHTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to MHTML., Free Online Merge XML to mhtml in Java., Java Combine XML to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

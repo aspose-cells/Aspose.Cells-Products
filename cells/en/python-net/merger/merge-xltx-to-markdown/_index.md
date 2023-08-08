@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MARKDOWN - Combine XLTX to MARKDOWN via Python
 url: /python-net/merger/merge-xltx-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to MARKDOWN saveformat. Python Combine XLTX to MARKDOWN format. Combine XLTX to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to MARKDOWN saveformat via Python., Free Online Merge XLTX to markdown in Python., Python Combine XLTX to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to MARKDOWN Python. Python Merge XLTX to MARKDOWN format. Combine XLTX to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to MARKDOWN., Free Online Merge XLTX to markdown in Python., Python Combine XLTX to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

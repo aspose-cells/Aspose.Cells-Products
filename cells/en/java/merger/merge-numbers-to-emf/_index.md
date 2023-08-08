@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to EMF - Combine NUMBERS to EMF via Java
 url: /java/merger/merge-numbers-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to EMF saveformat. Java Combine NUMBERS to EMF format. Combine NUMBERS to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to EMF saveformat via Java., Free Online Merge NUMBERS to emf in Java., Java Combine NUMBERS to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to EMF Java. Java Merge NUMBERS to EMF format. Combine NUMBERS to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to EMF., Free Online Merge NUMBERS to emf in Java., Java Combine NUMBERS to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

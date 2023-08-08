@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MD - Combine JSON to MD via Java
 url: /java/merger/merge-json-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to MD saveformat. Java Combine JSON to MD format. Combine JSON to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to MD saveformat via Java., Free Online Merge JSON to md in Java., Java Combine JSON to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to MD Java. Java Merge JSON to MD format. Combine JSON to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to MD., Free Online Merge JSON to md in Java., Java Combine JSON to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLAM - Combine XLTX to XLAM via Python
 url: /python-java/merger/merge-xltx-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to XLAM saveformat. Python Combine XLTX to XLAM format. Combine XLTX to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to XLAM saveformat via Python., Free Online Merge XLTX to xlam in Python., Python Combine XLTX to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to XLAM Python. Python Merge XLTX to XLAM format. Combine XLTX to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to XLAM., Free Online Merge XLTX to xlam in Python., Python Combine XLTX to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

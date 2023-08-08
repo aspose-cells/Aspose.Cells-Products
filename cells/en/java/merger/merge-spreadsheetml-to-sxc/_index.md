@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to SXC - Combine SPREADSHEETML to SXC via Java
 url: /java/merger/merge-spreadsheetml-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to SXC saveformat. Java Combine SPREADSHEETML to SXC format. Combine SPREADSHEETML to SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to SXC saveformat via Java., Free Online Merge SPREADSHEETML to sxc in Java., Java Combine SPREADSHEETML to SXC format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to SXC Java. Java Merge SPREADSHEETML to SXC format. Combine SPREADSHEETML to SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to SXC., Free Online Merge SPREADSHEETML to sxc in Java., Java Combine SPREADSHEETML to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

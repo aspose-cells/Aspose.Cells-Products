@@ -1,7 +1,7 @@
 ---
-title: ODS to MD - Convert ODS to MD Python via Python
-description: Aspose Excel. Free Online Convert ODS to MD saveformat. Python ODS to MD format. Save ODS as MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to MD saveformat., Free Online ODS to MD Converter]
+title: Python ODS to MD - Convert ODS to MD Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to MD saveformat. Python ODS to MD format. Save ODS to MD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to MD saveformat., Free Online ODS to MD Python., Python Convert ODS to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

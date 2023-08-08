@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DOCX - Combine EXCEL to DOCX via Python
 url: /python-net/merger/merge-excel-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to DOCX saveformat. Python Combine EXCEL to DOCX format. Combine EXCEL to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to DOCX saveformat via Python., Free Online Merge EXCEL to docx in Python., Python Combine EXCEL to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to DOCX Python. Python Merge EXCEL to DOCX format. Combine EXCEL to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to DOCX., Free Online Merge EXCEL to docx in Python., Python Combine EXCEL to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

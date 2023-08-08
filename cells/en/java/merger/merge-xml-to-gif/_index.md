@@ -1,8 +1,8 @@
 ---
 title: Merge XML to GIF - Combine XML to GIF via Java
 url: /java/merger/merge-xml-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to GIF saveformat. Java Combine XML to GIF format. Combine XML to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to GIF saveformat via Java., Free Online Merge XML to gif in Java., Java Combine XML to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to GIF Java. Java Merge XML to GIF format. Combine XML to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to GIF., Free Online Merge XML to gif in Java., Java Combine XML to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

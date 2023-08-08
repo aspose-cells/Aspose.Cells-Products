@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TIFF - Combine MHT to TIFF via Python
 url: /python-net/merger/merge-mht-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to TIFF saveformat. Python Combine MHT to TIFF format. Combine MHT to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to TIFF saveformat via Python., Free Online Merge MHT to tiff in Python., Python Combine MHT to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to TIFF Python. Python Merge MHT to TIFF format. Combine MHT to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to TIFF., Free Online Merge MHT to tiff in Python., Python Combine MHT to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

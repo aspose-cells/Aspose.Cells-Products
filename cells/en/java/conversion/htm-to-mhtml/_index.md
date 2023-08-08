@@ -1,7 +1,7 @@
 ---
-title: HTM to MHTML - Convert HTM to MHTML files Java
-description: Aspose Excel. Free Online Convert HTM to MHTML saveformat. Java HTM to MHTML format. Save HTM as MHTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to MHTML saveformat., Free Online HTM to MHTML Converter]
+title: Java HTM to MHTML - Online HTM to MHTML Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to MHTML saveformat. Java HTM to MHTML format. Save HTM to MHTML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to MHTML saveformat., Free Online HTM to MHTML Java., Java Convert HTM to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

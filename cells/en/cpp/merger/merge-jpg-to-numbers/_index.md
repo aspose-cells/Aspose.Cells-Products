@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to NUMBERS - Combine JPG to NUMBERS via C++
 url: /cpp/merger/merge-jpg-to-numbers/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to NUMBERS saveformat. C++ Combine JPG to NUMBERS format. Combine JPG to NUMBERS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to NUMBERS saveformat via C++., Free Online Merge JPG to numbers in C++., C++ Combine JPG to NUMBERS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to NUMBERS C++. C++ Merge JPG to NUMBERS format. Combine JPG to NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to NUMBERS., Free Online Merge JPG to numbers in C++., C++ Combine JPG to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

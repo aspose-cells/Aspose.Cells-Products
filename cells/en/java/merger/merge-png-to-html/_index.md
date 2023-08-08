@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to HTML - Combine PNG to HTML via Java
 url: /java/merger/merge-png-to-html/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to HTML saveformat. Java Combine PNG to HTML format. Combine PNG to HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to HTML saveformat via Java., Free Online Merge PNG to html in Java., Java Combine PNG to HTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to HTML Java. Java Merge PNG to HTML format. Combine PNG to HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to HTML., Free Online Merge PNG to html in Java., Java Combine PNG to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to POWERPOINT - Combine XLSB to POWERPOINT via Python
 url: /python-net/merger/merge-xlsb-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to POWERPOINT saveformat. Python Combine XLSB to POWERPOINT format. Combine XLSB to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to POWERPOINT saveformat via Python., Free Online Merge XLSB to powerpoint in Python., Python Combine XLSB to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to POWERPOINT Python. Python Merge XLSB to POWERPOINT format. Combine XLSB to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to POWERPOINT., Free Online Merge XLSB to powerpoint in Python., Python Combine XLSB to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

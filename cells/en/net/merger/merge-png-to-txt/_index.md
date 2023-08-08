@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TXT - Combine PNG to TXT via C#
 url: /net/merger/merge-png-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to TXT saveformat. C# Combine PNG to TXT format. Combine PNG to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to TXT saveformat via C#., Free Online Merge PNG to txt in C#., C# Combine PNG to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to TXT C#. C# Merge PNG to TXT format. Combine PNG to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to TXT., Free Online Merge PNG to txt in C#., C# Combine PNG to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

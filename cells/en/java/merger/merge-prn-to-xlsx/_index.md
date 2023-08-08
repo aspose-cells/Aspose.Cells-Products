@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLSX - Combine PRN to XLSX via Java
 url: /java/merger/merge-prn-to-xlsx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to XLSX saveformat. Java Combine PRN to XLSX format. Combine PRN to XLSX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to XLSX saveformat via Java., Free Online Merge PRN to xlsx in Java., Java Combine PRN to XLSX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to XLSX Java. Java Merge PRN to XLSX format. Combine PRN to XLSX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to XLSX., Free Online Merge PRN to xlsx in Java., Java Combine PRN to XLSX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

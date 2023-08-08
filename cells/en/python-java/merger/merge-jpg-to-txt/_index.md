@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TXT - Combine JPG to TXT via Python
 url: /python-java/merger/merge-jpg-to-txt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to TXT saveformat. Python Combine JPG to TXT format. Combine JPG to TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to TXT saveformat via Python., Free Online Merge JPG to txt in Python., Python Combine JPG to TXT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to TXT Python. Python Merge JPG to TXT format. Combine JPG to TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to TXT., Free Online Merge JPG to txt in Python., Python Combine JPG to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

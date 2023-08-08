@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SXC - Combine MHT to SXC via Java
 url: /java/merger/merge-mht-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to SXC saveformat. Java Combine MHT to SXC format. Combine MHT to SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to SXC saveformat via Java., Free Online Merge MHT to sxc in Java., Java Combine MHT to SXC format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to SXC Java. Java Merge MHT to SXC format. Combine MHT to SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to SXC., Free Online Merge MHT to sxc in Java., Java Combine MHT to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

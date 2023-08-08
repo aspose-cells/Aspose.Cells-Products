@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to HTML - Combine XLSM to HTML via Java
 url: /java/merger/merge-xlsm-to-html/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to HTML saveformat. Java Combine XLSM to HTML format. Combine XLSM to HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to HTML saveformat via Java., Free Online Merge XLSM to html in Java., Java Combine XLSM to HTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to HTML Java. Java Merge XLSM to HTML format. Combine XLSM to HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to HTML., Free Online Merge XLSM to html in Java., Java Combine XLSM to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to POWERPOINT - Combine XLSX to POWERPOINT via Python
 url: /python-java/merger/merge-xlsx-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to POWERPOINT saveformat. Python Combine XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSX to POWERPOINT saveformat via Python., Free Online Merge XLSX to powerpoint in Python., Python Combine XLSX to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSX Merge. Free Online Merge XLSX to POWERPOINT Python. Python Merge XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSX Merge., Python Merge XLSX to POWERPOINT., Free Online Merge XLSX to powerpoint in Python., Python Combine XLSX to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

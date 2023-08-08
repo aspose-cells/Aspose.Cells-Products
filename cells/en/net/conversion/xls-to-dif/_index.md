@@ -1,7 +1,7 @@
 ---
-title: XLS to DIF - Convert XLS to DIF files C#
-description: Aspose Excel. Free Online Convert XLS to DIF saveformat. C# XLS to DIF format. Save XLS as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to DIF saveformat., Free Online XLS to DIF Converter]
+title: C# XLS to DIF - Online XLS to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLS to DIF saveformat. C# XLS to DIF format. Save XLS to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLS to DIF saveformat., Free Online XLS to DIF C#., C# Convert XLS to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

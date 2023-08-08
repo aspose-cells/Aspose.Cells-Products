@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to POWERPOINT - Combine PNG to POWERPOINT via Python
 url: /python-net/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to POWERPOINT saveformat. Python Combine PNG to POWERPOINT format. Combine PNG to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to POWERPOINT saveformat via Python., Free Online Merge PNG to powerpoint in Python., Python Combine PNG to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to POWERPOINT Python. Python Merge PNG to POWERPOINT format. Combine PNG to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to POWERPOINT., Free Online Merge PNG to powerpoint in Python., Python Combine PNG to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MARKDOWN - Combine MHT to MARKDOWN via C++
 url: /cpp/merger/merge-mht-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to MARKDOWN saveformat. C++ Combine MHT to MARKDOWN format. Combine MHT to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to MARKDOWN saveformat via C++., Free Online Merge MHT to markdown in C++., C++ Combine MHT to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to MARKDOWN C++. C++ Merge MHT to MARKDOWN format. Combine MHT to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to MARKDOWN., Free Online Merge MHT to markdown in C++., C++ Combine MHT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

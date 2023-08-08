@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PPTX - Combine ODS to PPTX via Python
 url: /python-java/merger/merge-ods-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to PPTX saveformat. Python Combine ODS to PPTX format. Combine ODS to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to PPTX saveformat via Python., Free Online Merge ODS to pptx in Python., Python Combine ODS to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to PPTX Python. Python Merge ODS to PPTX format. Combine ODS to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to PPTX., Free Online Merge ODS to pptx in Python., Python Combine ODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

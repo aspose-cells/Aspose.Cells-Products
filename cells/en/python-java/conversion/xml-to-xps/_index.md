@@ -1,7 +1,7 @@
 ---
-title: XML to XPS - Convert XML to XPS Python via Python
-description: Aspose Excel. Free Online Convert XML to XPS saveformat. Python XML to XPS format. Save XML as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XML to XPS saveformat., Free Online XML to XPS Converter]
+title: Python XML to XPS - Convert XML to XPS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to XPS saveformat. Python XML to XPS format. Save XML to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to XPS saveformat., Free Online XML to XPS Python., Python Convert XML to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

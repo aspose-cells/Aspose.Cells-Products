@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to ET - Combine SPREADSHEETML to ET via C++
 url: /cpp/merger/merge-spreadsheetml-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to ET saveformat. C++ Combine SPREADSHEETML to ET format. Combine SPREADSHEETML to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to ET saveformat via C++., Free Online Merge SPREADSHEETML to et in C++., C++ Combine SPREADSHEETML to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to ET C++. C++ Merge SPREADSHEETML to ET format. Combine SPREADSHEETML to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to ET., Free Online Merge SPREADSHEETML to et in C++., C++ Combine SPREADSHEETML to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

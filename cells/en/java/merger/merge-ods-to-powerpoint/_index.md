@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to POWERPOINT - Combine ODS to POWERPOINT via Java
 url: /java/merger/merge-ods-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to POWERPOINT saveformat. Java Combine ODS to POWERPOINT format. Combine ODS to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to POWERPOINT saveformat via Java., Free Online Merge ODS to powerpoint in Java., Java Combine ODS to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to POWERPOINT Java. Java Merge ODS to POWERPOINT format. Combine ODS to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to POWERPOINT., Free Online Merge ODS to powerpoint in Java., Java Combine ODS to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

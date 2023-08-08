@@ -1,7 +1,7 @@
 ---
-title: XLSX to XLAM - Convert XLSX to XLAM files C#
-description: Aspose Excel. Free Online Convert XLSX to XLAM saveformat. C# XLSX to XLAM format. Save XLSX as XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to XLAM saveformat., Free Online XLSX to XLAM Converter]
+title: C# XLSX to XLAM - Online XLSX to XLAM Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to XLAM saveformat. C# XLSX to XLAM format. Save XLSX to XLAM C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to XLAM saveformat., Free Online XLSX to XLAM C#., C# Convert XLSX to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to WORD - Convert JPG to WORD files C++
-description: Aspose Excel. Free Online Convert JPG to WORD saveformat. C++ JPG to WORD format. Save JPG as WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to WORD saveformat., Free Online JPG to WORD Converter]
+title: C++ JPG to WORD - Online JPG to WORD Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to WORD saveformat. C++ JPG to WORD format. Save JPG to WORD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to WORD saveformat., Free Online JPG to WORD C++., C++ Convert JPG to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

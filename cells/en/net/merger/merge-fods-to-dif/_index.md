@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DIF - Combine FODS to DIF via C#
 url: /net/merger/merge-fods-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to DIF saveformat. C# Combine FODS to DIF format. Combine FODS to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to DIF saveformat via C#., Free Online Merge FODS to dif in C#., C# Combine FODS to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to DIF C#. C# Merge FODS to DIF format. Combine FODS to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to DIF., Free Online Merge FODS to dif in C#., C# Combine FODS to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

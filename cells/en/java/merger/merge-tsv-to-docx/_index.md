@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to DOCX - Combine TSV to DOCX via Java
 url: /java/merger/merge-tsv-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to DOCX saveformat. Java Combine TSV to DOCX format. Combine TSV to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TSV to DOCX saveformat via Java., Free Online Merge TSV to docx in Java., Java Combine TSV to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TSV Merge. Free Online Merge TSV to DOCX Java. Java Merge TSV to DOCX format. Combine TSV to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TSV Merge., Java Merge TSV to DOCX., Free Online Merge TSV to docx in Java., Java Combine TSV to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

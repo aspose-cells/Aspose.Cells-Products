@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PDF - Combine XLSB to PDF via C#
 url: /net/merger/merge-xlsb-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to PDF saveformat. C# Combine XLSB to PDF format. Combine XLSB to PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to PDF saveformat via C#., Free Online Merge XLSB to pdf in C#., C# Combine XLSB to PDF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to PDF C#. C# Merge XLSB to PDF format. Combine XLSB to PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to PDF., Free Online Merge XLSB to pdf in C#., C# Combine XLSB to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

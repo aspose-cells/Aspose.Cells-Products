@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TIFF - Combine IMAGE to TIFF via Java
 url: /java/merger/merge-image-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to TIFF saveformat. Java Combine IMAGE to TIFF format. Combine IMAGE to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to TIFF saveformat via Java., Free Online Merge IMAGE to tiff in Java., Java Combine IMAGE to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to TIFF Java. Java Merge IMAGE to TIFF format. Combine IMAGE to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to TIFF., Free Online Merge IMAGE to tiff in Java., Java Combine IMAGE to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

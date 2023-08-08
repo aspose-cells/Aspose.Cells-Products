@@ -1,7 +1,7 @@
 ---
-title: FODS to ETT - Convert FODS to ETT files Java
-description: Aspose Excel. Free Online Convert FODS to ETT saveformat. Java FODS to ETT format. Save FODS as ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to ETT saveformat., Free Online FODS to ETT Converter]
+title: Java FODS to ETT - Online FODS to ETT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to ETT saveformat. Java FODS to ETT format. Save FODS to ETT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to ETT saveformat., Free Online FODS to ETT Java., Java Convert FODS to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to WORD - Combine PNG to WORD via Java
 url: /java/merger/merge-png-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to WORD saveformat. Java Combine PNG to WORD format. Combine PNG to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to WORD saveformat via Java., Free Online Merge PNG to word in Java., Java Combine PNG to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to WORD Java. Java Merge PNG to WORD format. Combine PNG to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to WORD., Free Online Merge PNG to word in Java., Java Combine PNG to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

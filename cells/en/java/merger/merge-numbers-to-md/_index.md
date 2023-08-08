@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MD - Combine NUMBERS to MD via Java
 url: /java/merger/merge-numbers-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to MD saveformat. Java Combine NUMBERS to MD format. Combine NUMBERS to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to MD saveformat via Java., Free Online Merge NUMBERS to md in Java., Java Combine NUMBERS to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to MD Java. Java Merge NUMBERS to MD format. Combine NUMBERS to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to MD., Free Online Merge NUMBERS to md in Java., Java Combine NUMBERS to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

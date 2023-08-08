@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MARKDOWN - Combine OTS to MARKDOWN via Python
 url: /python-net/merger/merge-ots-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to MARKDOWN saveformat. Python Combine OTS to MARKDOWN format. Combine OTS to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to MARKDOWN saveformat via Python., Free Online Merge OTS to markdown in Python., Python Combine OTS to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to MARKDOWN Python. Python Merge OTS to MARKDOWN format. Combine OTS to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to MARKDOWN., Free Online Merge OTS to markdown in Python., Python Combine OTS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

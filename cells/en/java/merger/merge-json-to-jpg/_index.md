@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to JPG - Combine JSON to JPG via Java
 url: /java/merger/merge-json-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to JPG saveformat. Java Combine JSON to JPG format. Combine JSON to JPG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to JPG saveformat via Java., Free Online Merge JSON to jpg in Java., Java Combine JSON to JPG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to JPG Java. Java Merge JSON to JPG format. Combine JSON to JPG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to JPG., Free Online Merge JSON to jpg in Java., Java Combine JSON to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLAM - Combine ODS to XLAM via C++
 url: /cpp/merger/merge-ods-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to XLAM saveformat. C++ Combine ODS to XLAM format. Combine ODS to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to XLAM saveformat via C++., Free Online Merge ODS to xlam in C++., C++ Combine ODS to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to XLAM C++. C++ Merge ODS to XLAM format. Combine ODS to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to XLAM., Free Online Merge ODS to xlam in C++., C++ Combine ODS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

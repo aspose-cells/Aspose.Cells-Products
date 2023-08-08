@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ET - Combine PNG to ET via C++
 url: /cpp/merger/merge-png-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to ET saveformat. C++ Combine PNG to ET format. Combine PNG to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to ET saveformat via C++., Free Online Merge PNG to et in C++., C++ Combine PNG to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to ET C++. C++ Merge PNG to ET format. Combine PNG to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to ET., Free Online Merge PNG to et in C++., C++ Combine PNG to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

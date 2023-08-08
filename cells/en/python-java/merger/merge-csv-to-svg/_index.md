@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to SVG - Combine CSV to SVG via Python
 url: /python-java/merger/merge-csv-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to SVG saveformat. Python Combine CSV to SVG format. Combine CSV to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to SVG saveformat via Python., Free Online Merge CSV to svg in Python., Python Combine CSV to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to SVG Python. Python Merge CSV to SVG format. Combine CSV to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to SVG., Free Online Merge CSV to svg in Python., Python Combine CSV to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

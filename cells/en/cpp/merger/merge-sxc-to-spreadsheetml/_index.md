@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SPREADSHEETML - Combine SXC to SPREADSHEETML via C++
 url: /cpp/merger/merge-sxc-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to SPREADSHEETML saveformat. C++ Combine SXC to SPREADSHEETML format. Combine SXC to SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SXC to SPREADSHEETML saveformat via C++., Free Online Merge SXC to spreadsheetml in C++., C++ Combine SXC to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SXC Merge. Free Online Merge SXC to SPREADSHEETML C++. C++ Merge SXC to SPREADSHEETML format. Combine SXC to SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SXC Merge., C++ Merge SXC to SPREADSHEETML., Free Online Merge SXC to spreadsheetml in C++., C++ Combine SXC to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

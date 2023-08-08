@@ -1,7 +1,7 @@
 ---
-title: XLSX to ETT - Convert XLSX to ETT files Python via Python
-description: Aspose Excel. Free Online Convert XLSX to ETT saveformat. Python XLSX to ETT format. Save XLSX as ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to ETT saveformat., Free Online XLSX to ETT Converter]
+title: Python XLSX to ETT - Convert XLSX to ETT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to ETT saveformat. Python XLSX to ETT format. Save XLSX to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to ETT saveformat., Free Online XLSX to ETT Python., Python Convert XLSX to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

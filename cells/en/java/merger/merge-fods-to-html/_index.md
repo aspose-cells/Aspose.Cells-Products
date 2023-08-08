@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTML - Combine FODS to HTML via Java
 url: /java/merger/merge-fods-to-html/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to HTML saveformat. Java Combine FODS to HTML format. Combine FODS to HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to HTML saveformat via Java., Free Online Merge FODS to html in Java., Java Combine FODS to HTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to HTML Java. Java Merge FODS to HTML format. Combine FODS to HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to HTML., Free Online Merge FODS to html in Java., Java Combine FODS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

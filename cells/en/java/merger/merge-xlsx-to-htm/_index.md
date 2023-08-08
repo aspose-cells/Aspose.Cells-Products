@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to HTM - Combine XLSX to HTM via Java
 url: /java/merger/merge-xlsx-to-htm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to HTM saveformat. Java Combine XLSX to HTM format. Combine XLSX to HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSX to HTM saveformat via Java., Free Online Merge XLSX to htm in Java., Java Combine XLSX to HTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSX Merge. Free Online Merge XLSX to HTM Java. Java Merge XLSX to HTM format. Combine XLSX to HTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSX Merge., Java Merge XLSX to HTM., Free Online Merge XLSX to htm in Java., Java Combine XLSX to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

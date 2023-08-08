@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to FODS - Combine TABDELIMITED to FODS via C++
 url: /cpp/merger/merge-tabdelimited-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to FODS saveformat. C++ Combine TABDELIMITED to FODS format. Combine TABDELIMITED to FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to FODS saveformat via C++., Free Online Merge TABDELIMITED to fods in C++., C++ Combine TABDELIMITED to FODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to FODS C++. C++ Merge TABDELIMITED to FODS format. Combine TABDELIMITED to FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to FODS., Free Online Merge TABDELIMITED to fods in C++., C++ Combine TABDELIMITED to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MARKDOWN - Combine XLT to MARKDOWN via Java
 url: /java/merger/merge-xlt-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to MARKDOWN saveformat. Java Combine XLT to MARKDOWN format. Combine XLT to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLT to MARKDOWN saveformat via Java., Free Online Merge XLT to markdown in Java., Java Combine XLT to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLT Merge. Free Online Merge XLT to MARKDOWN Java. Java Merge XLT to MARKDOWN format. Combine XLT to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLT Merge., Java Merge XLT to MARKDOWN., Free Online Merge XLT to markdown in Java., Java Combine XLT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

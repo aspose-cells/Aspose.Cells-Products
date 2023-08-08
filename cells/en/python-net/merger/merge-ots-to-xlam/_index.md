@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLAM - Combine OTS to XLAM via Python
 url: /python-net/merger/merge-ots-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to XLAM saveformat. Python Combine OTS to XLAM format. Combine OTS to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to XLAM saveformat via Python., Free Online Merge OTS to xlam in Python., Python Combine OTS to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to XLAM Python. Python Merge OTS to XLAM format. Combine OTS to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to XLAM., Free Online Merge OTS to xlam in Python., Python Combine OTS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

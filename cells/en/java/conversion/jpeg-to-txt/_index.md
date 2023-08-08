@@ -1,7 +1,7 @@
 ---
-title: JPEG to TXT - Convert JPEG to TXT files Java
-description: Aspose Excel. Free Online Convert JPEG to TXT saveformat. Java JPEG to TXT format. Save JPEG as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to TXT saveformat., Free Online JPEG to TXT Converter]
+title: Java JPEG to TXT - Online JPEG to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to TXT saveformat. Java JPEG to TXT format. Save JPEG to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to TXT saveformat., Free Online JPEG to TXT Java., Java Convert JPEG to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PPTX - Combine PNG to PPTX via Python
 url: /python-net/merger/merge-png-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to PPTX saveformat. Python Combine PNG to PPTX format. Combine PNG to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to PPTX saveformat via Python., Free Online Merge PNG to pptx in Python., Python Combine PNG to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to PPTX Python. Python Merge PNG to PPTX format. Combine PNG to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to PPTX., Free Online Merge PNG to pptx in Python., Python Combine PNG to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

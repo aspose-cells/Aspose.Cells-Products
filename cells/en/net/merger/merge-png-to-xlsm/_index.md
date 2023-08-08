@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLSM - Combine PNG to XLSM via C#
 url: /net/merger/merge-png-to-xlsm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to XLSM saveformat. C# Combine PNG to XLSM format. Combine PNG to XLSM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to XLSM saveformat via C#., Free Online Merge PNG to xlsm in C#., C# Combine PNG to XLSM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to XLSM C#. C# Merge PNG to XLSM format. Combine PNG to XLSM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to XLSM., Free Online Merge PNG to xlsm in C#., C# Combine PNG to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

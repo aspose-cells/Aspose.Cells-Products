@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MHTML - Combine SXC to MHTML via C#
 url: /net/merger/merge-sxc-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to MHTML saveformat. C# Combine SXC to MHTML format. Combine SXC to MHTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to MHTML saveformat via C#., Free Online Merge SXC to mhtml in C#., C# Combine SXC to MHTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to MHTML C#. C# Merge SXC to MHTML format. Combine SXC to MHTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to MHTML., Free Online Merge SXC to mhtml in C#., C# Combine SXC to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

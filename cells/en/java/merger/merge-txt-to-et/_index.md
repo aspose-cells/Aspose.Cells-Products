@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ET - Combine TXT to ET via Java
 url: /java/merger/merge-txt-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to ET saveformat. Java Combine TXT to ET format. Combine TXT to ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to ET saveformat via Java., Free Online Merge TXT to et in Java., Java Combine TXT to ET format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to ET Java. Java Merge TXT to ET format. Combine TXT to ET in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to ET., Free Online Merge TXT to et in Java., Java Combine TXT to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

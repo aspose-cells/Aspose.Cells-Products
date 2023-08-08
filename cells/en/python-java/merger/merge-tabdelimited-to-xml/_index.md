@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XML - Combine TABDELIMITED to XML via Python
 url: /python-java/merger/merge-tabdelimited-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to XML saveformat. Python Combine TABDELIMITED to XML format. Combine TABDELIMITED to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to XML saveformat via Python., Free Online Merge TABDELIMITED to xml in Python., Python Combine TABDELIMITED to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to XML Python. Python Merge TABDELIMITED to XML format. Combine TABDELIMITED to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TABDELIMITED Merge., Python Merge TABDELIMITED to XML., Free Online Merge TABDELIMITED to xml in Python., Python Combine TABDELIMITED to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

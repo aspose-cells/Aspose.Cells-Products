@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TXT - Combine MHT to TXT via C#
 url: /net/merger/merge-mht-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to TXT saveformat. C# Combine MHT to TXT format. Combine MHT to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to TXT saveformat via C#., Free Online Merge MHT to txt in C#., C# Combine MHT to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to TXT C#. C# Merge MHT to TXT format. Combine MHT to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to TXT., Free Online Merge MHT to txt in C#., C# Combine MHT to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

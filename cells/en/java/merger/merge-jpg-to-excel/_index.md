@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to EXCEL - Combine JPG to EXCEL via Java
 url: /java/merger/merge-jpg-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to EXCEL saveformat. Java Combine JPG to EXCEL format. Combine JPG to EXCEL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to EXCEL saveformat via Java., Free Online Merge JPG to excel in Java., Java Combine JPG to EXCEL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to EXCEL Java. Java Merge JPG to EXCEL format. Combine JPG to EXCEL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to EXCEL., Free Online Merge JPG to excel in Java., Java Combine JPG to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

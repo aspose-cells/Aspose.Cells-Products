@@ -1,7 +1,7 @@
 ---
-title: XLSX to ETT - Convert XLSX to ETT files C#
-description: Aspose Excel. Free Online Convert XLSX to ETT saveformat. C# XLSX to ETT format. Save XLSX as ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to ETT saveformat., Free Online XLSX to ETT Converter]
+title: C# XLSX to ETT - Online XLSX to ETT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to ETT saveformat. C# XLSX to ETT format. Save XLSX to ETT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to ETT saveformat., Free Online XLSX to ETT C#., C# Convert XLSX to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to GIF - Combine XLTM to GIF via Java
 url: /java/merger/merge-xltm-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to GIF saveformat. Java Combine XLTM to GIF format. Combine XLTM to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to GIF saveformat via Java., Free Online Merge XLTM to gif in Java., Java Combine XLTM to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to GIF Java. Java Merge XLTM to GIF format. Combine XLTM to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to GIF., Free Online Merge XLTM to gif in Java., Java Combine XLTM to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

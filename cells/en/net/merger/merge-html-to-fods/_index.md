@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to FODS - Combine HTML to FODS via C#
 url: /net/merger/merge-html-to-fods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to FODS saveformat. C# Combine HTML to FODS format. Combine HTML to FODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to FODS saveformat via C#., Free Online Merge HTML to fods in C#., C# Combine HTML to FODS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to FODS C#. C# Merge HTML to FODS format. Combine HTML to FODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to FODS., Free Online Merge HTML to fods in C#., C# Combine HTML to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

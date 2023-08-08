@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MHTML - Combine EXCEL to MHTML via C#
 url: /net/merger/merge-excel-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to MHTML saveformat. C# Combine EXCEL to MHTML format. Combine EXCEL to MHTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to MHTML saveformat via C#., Free Online Merge EXCEL to mhtml in C#., C# Combine EXCEL to MHTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to MHTML C#. C# Merge EXCEL to MHTML format. Combine EXCEL to MHTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to MHTML., Free Online Merge EXCEL to mhtml in C#., C# Combine EXCEL to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

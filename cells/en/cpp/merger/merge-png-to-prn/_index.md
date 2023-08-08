@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PRN - Combine PNG to PRN via C++
 url: /cpp/merger/merge-png-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to PRN saveformat. C++ Combine PNG to PRN format. Combine PNG to PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to PRN saveformat via C++., Free Online Merge PNG to prn in C++., C++ Combine PNG to PRN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to PRN C++. C++ Merge PNG to PRN format. Combine PNG to PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to PRN., Free Online Merge PNG to prn in C++., C++ Combine PNG to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

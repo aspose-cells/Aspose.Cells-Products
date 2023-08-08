@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to POWERPOINT - Combine MHTML to POWERPOINT via Java
 url: /java/merger/merge-mhtml-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to POWERPOINT saveformat. Java Combine MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to POWERPOINT saveformat via Java., Free Online Merge MHTML to powerpoint in Java., Java Combine MHTML to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to POWERPOINT Java. Java Merge MHTML to POWERPOINT format. Combine MHTML to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to POWERPOINT., Free Online Merge MHTML to powerpoint in Java., Java Combine MHTML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

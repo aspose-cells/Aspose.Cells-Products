@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XML - Combine TXT to XML via Java
 url: /java/merger/merge-txt-to-xml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to XML saveformat. Java Combine TXT to XML format. Combine TXT to XML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to XML saveformat via Java., Free Online Merge TXT to xml in Java., Java Combine TXT to XML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to XML Java. Java Merge TXT to XML format. Combine TXT to XML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to XML., Free Online Merge TXT to xml in Java., Java Combine TXT to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

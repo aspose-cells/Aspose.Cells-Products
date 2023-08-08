@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TABDELIMITED - Combine ODS to TABDELIMITED via Python
 url: /python-net/merger/merge-ods-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to TABDELIMITED saveformat. Python Combine ODS to TABDELIMITED format. Combine ODS to TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to TABDELIMITED saveformat via Python., Free Online Merge ODS to tabdelimited in Python., Python Combine ODS to TABDELIMITED format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to TABDELIMITED Python. Python Merge ODS to TABDELIMITED format. Combine ODS to TABDELIMITED in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to TABDELIMITED., Free Online Merge ODS to tabdelimited in Python., Python Combine ODS to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

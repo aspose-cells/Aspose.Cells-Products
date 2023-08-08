@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DOCX - Combine FODS to DOCX via C#
 url: /net/merger/merge-fods-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to DOCX saveformat. C# Combine FODS to DOCX format. Combine FODS to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to DOCX saveformat via C#., Free Online Merge FODS to docx in C#., C# Combine FODS to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to DOCX C#. C# Merge FODS to DOCX format. Combine FODS to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to DOCX., Free Online Merge FODS to docx in C#., C# Combine FODS to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

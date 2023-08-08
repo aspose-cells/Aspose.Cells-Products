@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TIFF - Combine PRN to TIFF via C#
 url: /net/merger/merge-prn-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to TIFF saveformat. C# Combine PRN to TIFF format. Combine PRN to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PRN to TIFF saveformat via C#., Free Online Merge PRN to tiff in C#., C# Combine PRN to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PRN Merge. Free Online Merge PRN to TIFF C#. C# Merge PRN to TIFF format. Combine PRN to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PRN Merge., C# Merge PRN to TIFF., Free Online Merge PRN to tiff in C#., C# Combine PRN to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

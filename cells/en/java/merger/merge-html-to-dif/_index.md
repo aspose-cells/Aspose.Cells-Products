@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DIF - Combine HTML to DIF via Java
 url: /java/merger/merge-html-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to DIF saveformat. Java Combine HTML to DIF format. Combine HTML to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to DIF saveformat via Java., Free Online Merge HTML to dif in Java., Java Combine HTML to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to DIF Java. Java Merge HTML to DIF format. Combine HTML to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to DIF., Free Online Merge HTML to dif in Java., Java Combine HTML to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

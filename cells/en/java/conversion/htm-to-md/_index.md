@@ -1,7 +1,7 @@
 ---
-title: HTM to MD - Convert HTM to MD files Java
-description: Aspose Excel. Free Online Convert HTM to MD saveformat. Java HTM to MD format. Save HTM as MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to MD saveformat., Free Online HTM to MD Converter]
+title: Java HTM to MD - Online HTM to MD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to MD saveformat. Java HTM to MD format. Save HTM to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to MD saveformat., Free Online HTM to MD Java., Java Convert HTM to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

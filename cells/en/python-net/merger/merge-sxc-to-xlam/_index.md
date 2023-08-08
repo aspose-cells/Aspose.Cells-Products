@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLAM - Combine SXC to XLAM via Python
 url: /python-net/merger/merge-sxc-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to XLAM saveformat. Python Combine SXC to XLAM format. Combine SXC to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to XLAM saveformat via Python., Free Online Merge SXC to xlam in Python., Python Combine SXC to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to XLAM Python. Python Merge SXC to XLAM format. Combine SXC to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to XLAM., Free Online Merge SXC to xlam in Python., Python Combine SXC to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

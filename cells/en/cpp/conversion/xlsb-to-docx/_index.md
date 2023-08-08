@@ -1,7 +1,7 @@
 ---
-title: XLSB to DOCX - Convert XLSB to DOCX files C++
-description: Aspose Excel. Free Online Convert XLSB to DOCX saveformat. C++ XLSB to DOCX format. Save XLSB as DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to DOCX saveformat., Free Online XLSB to DOCX Converter]
+title: C++ XLSB to DOCX - Online XLSB to DOCX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to DOCX saveformat. C++ XLSB to DOCX format. Save XLSB to DOCX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to DOCX saveformat., Free Online XLSB to DOCX C++., C++ Convert XLSB to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

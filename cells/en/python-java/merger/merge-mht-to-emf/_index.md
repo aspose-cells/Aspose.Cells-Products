@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to EMF - Combine MHT to EMF via Python
 url: /python-java/merger/merge-mht-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to EMF saveformat. Python Combine MHT to EMF format. Combine MHT to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to EMF saveformat via Python., Free Online Merge MHT to emf in Python., Python Combine MHT to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to EMF Python. Python Merge MHT to EMF format. Combine MHT to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to EMF., Free Online Merge MHT to emf in Python., Python Combine MHT to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

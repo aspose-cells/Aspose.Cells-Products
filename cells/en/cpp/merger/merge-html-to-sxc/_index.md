@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SXC - Combine HTML to SXC via C++
 url: /cpp/merger/merge-html-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to SXC saveformat. C++ Combine HTML to SXC format. Combine HTML to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to SXC saveformat via C++., Free Online Merge HTML to sxc in C++., C++ Combine HTML to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to SXC C++. C++ Merge HTML to SXC format. Combine HTML to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to SXC., Free Online Merge HTML to sxc in C++., C++ Combine HTML to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

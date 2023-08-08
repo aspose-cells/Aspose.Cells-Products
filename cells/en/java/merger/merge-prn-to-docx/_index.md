@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DOCX - Combine PRN to DOCX via Java
 url: /java/merger/merge-prn-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to DOCX saveformat. Java Combine PRN to DOCX format. Combine PRN to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to DOCX saveformat via Java., Free Online Merge PRN to docx in Java., Java Combine PRN to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to DOCX Java. Java Merge PRN to DOCX format. Combine PRN to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to DOCX., Free Online Merge PRN to docx in Java., Java Combine PRN to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

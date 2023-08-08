@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to BMP - Combine XLSM to BMP via Python
 url: /python-java/merger/merge-xlsm-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to BMP saveformat. Python Combine XLSM to BMP format. Combine XLSM to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to BMP saveformat via Python., Free Online Merge XLSM to bmp in Python., Python Combine XLSM to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to BMP Python. Python Merge XLSM to BMP format. Combine XLSM to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to BMP., Free Online Merge XLSM to bmp in Python., Python Combine XLSM to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

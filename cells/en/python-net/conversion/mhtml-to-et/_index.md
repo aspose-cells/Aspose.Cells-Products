@@ -1,7 +1,7 @@
 ---
-title: MHTML to ET - Convert MHTML to ET files Python via Python
-description: Aspose Excel. Free Online Convert MHTML to ET saveformat. Python MHTML to ET format. Save MHTML as ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to ET saveformat., Free Online MHTML to ET Converter]
+title: Python MHTML to ET - Convert MHTML to ET Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to ET saveformat. Python MHTML to ET format. Save MHTML to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to ET saveformat., Free Online MHTML to ET Python., Python Convert MHTML to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to EMF - Combine HTM to EMF via Python
 url: /python-net/merger/merge-htm-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to EMF saveformat. Python Combine HTM to EMF format. Combine HTM to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to EMF saveformat via Python., Free Online Merge HTM to emf in Python., Python Combine HTM to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to EMF Python. Python Merge HTM to EMF format. Combine HTM to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to EMF., Free Online Merge HTM to emf in Python., Python Combine HTM to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

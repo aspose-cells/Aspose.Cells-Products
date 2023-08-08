@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to POWERPOINT - Combine TXT to POWERPOINT via C#
 url: /net/merger/merge-txt-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to POWERPOINT saveformat. C# Combine TXT to POWERPOINT format. Combine TXT to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to POWERPOINT saveformat via C#., Free Online Merge TXT to powerpoint in C#., C# Combine TXT to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to POWERPOINT C#. C# Merge TXT to POWERPOINT format. Combine TXT to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to POWERPOINT., Free Online Merge TXT to powerpoint in C#., C# Combine TXT to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

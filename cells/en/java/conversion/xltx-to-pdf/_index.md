@@ -1,7 +1,7 @@
 ---
-title: XLTX to PDF - Convert XLTX to PDF files Java
-description: Aspose Excel. Free Online Convert XLTX to PDF saveformat. Java XLTX to PDF format. Save XLTX as PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to PDF saveformat., Free Online XLTX to PDF Converter]
+title: Java XLTX to PDF - Online XLTX to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PDF saveformat. Java XLTX to PDF format. Save XLTX to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PDF saveformat., Free Online XLTX to PDF Java., Java Convert XLTX to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLTX - Convert JPEG to XLTX files C++
-description: Aspose Excel. Free Online Convert JPEG to XLTX saveformat. C++ JPEG to XLTX format. Save JPEG as XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XLTX saveformat., Free Online JPEG to XLTX Converter]
+title: C++ JPEG to XLTX - Online JPEG to XLTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to XLTX saveformat. C++ JPEG to XLTX format. Save JPEG to XLTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to XLTX saveformat., Free Online JPEG to XLTX C++., C++ Convert JPEG to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

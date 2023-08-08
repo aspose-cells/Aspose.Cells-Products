@@ -1,7 +1,7 @@
 ---
-title: JPG to EMF - Convert JPG to EMF files C++
-description: Aspose Excel. Free Online Convert JPG to EMF saveformat. C++ JPG to EMF format. Save JPG as EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to EMF saveformat., Free Online JPG to EMF Converter]
+title: C++ JPG to EMF - Online JPG to EMF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to EMF saveformat. C++ JPG to EMF format. Save JPG to EMF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to EMF saveformat., Free Online JPG to EMF C++., C++ Convert JPG to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

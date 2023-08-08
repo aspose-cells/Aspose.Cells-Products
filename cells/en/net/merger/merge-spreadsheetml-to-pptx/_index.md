@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PPTX - Combine SPREADSHEETML to PPTX via C#
 url: /net/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to PPTX saveformat. C# Combine SPREADSHEETML to PPTX format. Combine SPREADSHEETML to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SPREADSHEETML to PPTX saveformat via C#., Free Online Merge SPREADSHEETML to pptx in C#., C# Combine SPREADSHEETML to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to PPTX C#. C# Merge SPREADSHEETML to PPTX format. Combine SPREADSHEETML to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SPREADSHEETML Merge., C# Merge SPREADSHEETML to PPTX., Free Online Merge SPREADSHEETML to pptx in C#., C# Combine SPREADSHEETML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

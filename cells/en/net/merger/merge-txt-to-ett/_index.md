@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ETT - Combine TXT to ETT via C#
 url: /net/merger/merge-txt-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to ETT saveformat. C# Combine TXT to ETT format. Combine TXT to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to ETT saveformat via C#., Free Online Merge TXT to ett in C#., C# Combine TXT to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to ETT C#. C# Merge TXT to ETT format. Combine TXT to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to ETT., Free Online Merge TXT to ett in C#., C# Combine TXT to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

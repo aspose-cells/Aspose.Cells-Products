@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to JPEG - Combine IMAGE to JPEG via C++
 url: /cpp/merger/merge-image-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to JPEG saveformat. C++ Combine IMAGE to JPEG format. Combine IMAGE to JPEG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine IMAGE to JPEG saveformat via C++., Free Online Merge IMAGE to jpeg in C++., C++ Combine IMAGE to JPEG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to JPEG C++. C++ Merge IMAGE to JPEG format. Combine IMAGE to JPEG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., IMAGE Merge., C++ Merge IMAGE to JPEG., Free Online Merge IMAGE to jpeg in C++., C++ Combine IMAGE to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

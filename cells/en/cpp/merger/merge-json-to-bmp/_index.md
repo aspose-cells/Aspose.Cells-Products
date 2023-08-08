@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to BMP - Combine JSON to BMP via C++
 url: /cpp/merger/merge-json-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to BMP saveformat. C++ Combine JSON to BMP format. Combine JSON to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to BMP saveformat via C++., Free Online Merge JSON to bmp in C++., C++ Combine JSON to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to BMP C++. C++ Merge JSON to BMP format. Combine JSON to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to BMP., Free Online Merge JSON to bmp in C++., C++ Combine JSON to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

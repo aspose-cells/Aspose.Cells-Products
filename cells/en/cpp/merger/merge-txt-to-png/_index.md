@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PNG - Combine TXT to PNG via C++
 url: /cpp/merger/merge-txt-to-png/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to PNG saveformat. C++ Combine TXT to PNG format. Combine TXT to PNG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to PNG saveformat via C++., Free Online Merge TXT to png in C++., C++ Combine TXT to PNG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to PNG C++. C++ Merge TXT to PNG format. Combine TXT to PNG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to PNG., Free Online Merge TXT to png in C++., C++ Combine TXT to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PNG - Combine HTM to PNG via C++
 url: /cpp/merger/merge-htm-to-png/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to PNG saveformat. C++ Combine HTM to PNG format. Combine HTM to PNG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to PNG saveformat via C++., Free Online Merge HTM to png in C++., C++ Combine HTM to PNG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to PNG C++. C++ Merge HTM to PNG format. Combine HTM to PNG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to PNG., Free Online Merge HTM to png in C++., C++ Combine HTM to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

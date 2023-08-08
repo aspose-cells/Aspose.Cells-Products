@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to EXCEL - Combine HTML to EXCEL via C++
 url: /cpp/merger/merge-html-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to EXCEL saveformat. C++ Combine HTML to EXCEL format. Combine HTML to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to EXCEL saveformat via C++., Free Online Merge HTML to excel in C++., C++ Combine HTML to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to EXCEL C++. C++ Merge HTML to EXCEL format. Combine HTML to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to EXCEL., Free Online Merge HTML to excel in C++., C++ Combine HTML to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

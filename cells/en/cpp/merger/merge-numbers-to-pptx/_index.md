@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PPTX - Combine NUMBERS to PPTX via C++
 url: /cpp/merger/merge-numbers-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to PPTX saveformat. C++ Combine NUMBERS to PPTX format. Combine NUMBERS to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to PPTX saveformat via C++., Free Online Merge NUMBERS to pptx in C++., C++ Combine NUMBERS to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to PPTX C++. C++ Merge NUMBERS to PPTX format. Combine NUMBERS to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to PPTX., Free Online Merge NUMBERS to pptx in C++., C++ Combine NUMBERS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

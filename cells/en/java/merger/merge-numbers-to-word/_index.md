@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to WORD - Combine NUMBERS to WORD via Java
 url: /java/merger/merge-numbers-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to WORD saveformat. Java Combine NUMBERS to WORD format. Combine NUMBERS to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to WORD saveformat via Java., Free Online Merge NUMBERS to word in Java., Java Combine NUMBERS to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to WORD Java. Java Merge NUMBERS to WORD format. Combine NUMBERS to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to WORD., Free Online Merge NUMBERS to word in Java., Java Combine NUMBERS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

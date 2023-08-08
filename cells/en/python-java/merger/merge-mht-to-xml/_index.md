@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XML - Combine MHT to XML via Python
 url: /python-java/merger/merge-mht-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XML saveformat. Python Combine MHT to XML format. Combine MHT to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to XML saveformat via Python., Free Online Merge MHT to xml in Python., Python Combine MHT to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to XML Python. Python Merge MHT to XML format. Combine MHT to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to XML., Free Online Merge MHT to xml in Python., Python Combine MHT to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

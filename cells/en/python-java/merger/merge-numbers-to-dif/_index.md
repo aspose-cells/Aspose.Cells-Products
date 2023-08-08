@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DIF - Combine NUMBERS to DIF via Python
 url: /python-java/merger/merge-numbers-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to DIF saveformat. Python Combine NUMBERS to DIF format. Combine NUMBERS to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to DIF saveformat via Python., Free Online Merge NUMBERS to dif in Python., Python Combine NUMBERS to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to DIF Python. Python Merge NUMBERS to DIF format. Combine NUMBERS to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to DIF., Free Online Merge NUMBERS to dif in Python., Python Combine NUMBERS to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

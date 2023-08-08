@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLAM - Combine ODS to XLAM via Python
 url: /python-java/merger/merge-ods-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to XLAM saveformat. Python Combine ODS to XLAM format. Combine ODS to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to XLAM saveformat via Python., Free Online Merge ODS to xlam in Python., Python Combine ODS to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to XLAM Python. Python Merge ODS to XLAM format. Combine ODS to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to XLAM., Free Online Merge ODS to xlam in Python., Python Combine ODS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

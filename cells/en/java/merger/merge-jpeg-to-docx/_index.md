@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to DOCX - Combine JPEG to DOCX via Java
 url: /java/merger/merge-jpeg-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to DOCX saveformat. Java Combine JPEG to DOCX format. Combine JPEG to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to DOCX saveformat via Java., Free Online Merge JPEG to docx in Java., Java Combine JPEG to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to DOCX Java. Java Merge JPEG to DOCX format. Combine JPEG to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to DOCX., Free Online Merge JPEG to docx in Java., Java Combine JPEG to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

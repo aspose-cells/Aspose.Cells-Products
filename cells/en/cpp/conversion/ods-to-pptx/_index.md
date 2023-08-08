@@ -1,7 +1,7 @@
 ---
-title: ODS to PPTX - Convert ODS to PPTX files C++
-description: Aspose Excel. Free Online Convert ODS to PPTX saveformat. C++ ODS to PPTX format. Save ODS as PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ ODS to PPTX saveformat., Free Online ODS to PPTX Converter]
+title: C++ ODS to PPTX - Online ODS to PPTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert ODS to PPTX saveformat. C++ ODS to PPTX format. Save ODS to PPTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ ODS to PPTX saveformat., Free Online ODS to PPTX C++., C++ Convert ODS to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

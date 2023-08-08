@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLAM - Combine SPREADSHEETML to XLAM via Python
 url: /python-java/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to XLAM saveformat. Python Combine SPREADSHEETML to XLAM format. Combine SPREADSHEETML to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to XLAM saveformat via Python., Free Online Merge SPREADSHEETML to xlam in Python., Python Combine SPREADSHEETML to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to XLAM Python. Python Merge SPREADSHEETML to XLAM format. Combine SPREADSHEETML to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SPREADSHEETML Merge., Python Merge SPREADSHEETML to XLAM., Free Online Merge SPREADSHEETML to xlam in Python., Python Combine SPREADSHEETML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

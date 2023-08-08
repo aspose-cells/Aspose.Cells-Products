@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TIFF - Combine HTML to TIFF via C#
 url: /net/merger/merge-html-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to TIFF saveformat. C# Combine HTML to TIFF format. Combine HTML to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to TIFF saveformat via C#., Free Online Merge HTML to tiff in C#., C# Combine HTML to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to TIFF C#. C# Merge HTML to TIFF format. Combine HTML to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to TIFF., Free Online Merge HTML to tiff in C#., C# Combine HTML to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SXC to PNG - Convert SXC to PNG files Java
-description: Aspose Excel. Free Online Convert SXC to PNG saveformat. Java SXC to PNG format. Save SXC as PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to PNG saveformat., Free Online SXC to PNG Converter]
+title: Java SXC to PNG - Online SXC to PNG Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to PNG saveformat. Java SXC to PNG format. Save SXC to PNG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to PNG saveformat., Free Online SXC to PNG Java., Java Convert SXC to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

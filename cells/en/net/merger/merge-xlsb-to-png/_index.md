@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PNG - Combine XLSB to PNG via C#
 url: /net/merger/merge-xlsb-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to PNG saveformat. C# Combine XLSB to PNG format. Combine XLSB to PNG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to PNG saveformat via C#., Free Online Merge XLSB to png in C#., C# Combine XLSB to PNG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to PNG C#. C# Merge XLSB to PNG format. Combine XLSB to PNG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to PNG., Free Online Merge XLSB to png in C#., C# Combine XLSB to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to EXCEL - Combine HTM to EXCEL via Python
 url: /python-net/merger/merge-htm-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to EXCEL saveformat. Python Combine HTM to EXCEL format. Combine HTM to EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to EXCEL saveformat via Python., Free Online Merge HTM to excel in Python., Python Combine HTM to EXCEL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to EXCEL Python. Python Merge HTM to EXCEL format. Combine HTM to EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to EXCEL., Free Online Merge HTM to excel in Python., Python Combine HTM to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

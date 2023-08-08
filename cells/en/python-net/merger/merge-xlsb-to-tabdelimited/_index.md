@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TABDELIMITED - Combine XLSB to TABDELIMITED via Python
 url: /python-net/merger/merge-xlsb-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to TABDELIMITED saveformat. Python Combine XLSB to TABDELIMITED format. Combine XLSB to TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to TABDELIMITED saveformat via Python., Free Online Merge XLSB to tabdelimited in Python., Python Combine XLSB to TABDELIMITED format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to TABDELIMITED Python. Python Merge XLSB to TABDELIMITED format. Combine XLSB to TABDELIMITED in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to TABDELIMITED., Free Online Merge XLSB to tabdelimited in Python., Python Combine XLSB to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

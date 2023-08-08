@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLTM - Combine EXCEL to XLTM via C++
 url: /cpp/merger/merge-excel-to-xltm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to XLTM saveformat. C++ Combine EXCEL to XLTM format. Combine EXCEL to XLTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to XLTM saveformat via C++., Free Online Merge EXCEL to xltm in C++., C++ Combine EXCEL to XLTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to XLTM C++. C++ Merge EXCEL to XLTM format. Combine EXCEL to XLTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., EXCEL Merge., C++ Merge EXCEL to XLTM., Free Online Merge EXCEL to xltm in C++., C++ Combine EXCEL to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SXC to SQL - Convert SXC to SQL files C++
-description: Aspose Excel. Free Online Convert SXC to SQL saveformat. C++ SXC to SQL format. Save SXC as SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to SQL saveformat., Free Online SXC to SQL Converter]
+title: C++ SXC to SQL - Online SXC to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to SQL saveformat. C++ SXC to SQL format. Save SXC to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to SQL saveformat., Free Online SXC to SQL C++., C++ Convert SXC to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

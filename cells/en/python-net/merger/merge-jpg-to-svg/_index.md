@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SVG - Combine JPG to SVG via Python
 url: /python-net/merger/merge-jpg-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to SVG saveformat. Python Combine JPG to SVG format. Combine JPG to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to SVG saveformat via Python., Free Online Merge JPG to svg in Python., Python Combine JPG to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to SVG Python. Python Merge JPG to SVG format. Combine JPG to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to SVG., Free Online Merge JPG to svg in Python., Python Combine JPG to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

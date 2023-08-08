@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MHT - Combine XLSB to MHT via C#
 url: /net/merger/merge-xlsb-to-mht/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to MHT saveformat. C# Combine XLSB to MHT format. Combine XLSB to MHT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to MHT saveformat via C#., Free Online Merge XLSB to mht in C#., C# Combine XLSB to MHT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to MHT C#. C# Merge XLSB to MHT format. Combine XLSB to MHT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to MHT., Free Online Merge XLSB to mht in C#., C# Combine XLSB to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

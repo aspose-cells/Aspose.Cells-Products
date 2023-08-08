@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to HTM - Combine SXC to HTM via Java
 url: /java/merger/merge-sxc-to-htm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to HTM saveformat. Java Combine SXC to HTM format. Combine SXC to HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to HTM saveformat via Java., Free Online Merge SXC to htm in Java., Java Combine SXC to HTM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to HTM Java. Java Merge SXC to HTM format. Combine SXC to HTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to HTM., Free Online Merge SXC to htm in Java., Java Combine SXC to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

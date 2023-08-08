@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLSB - Combine XML to XLSB via C#
 url: /net/merger/merge-xml-to-xlsb/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to XLSB saveformat. C# Combine XML to XLSB format. Combine XML to XLSB in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to XLSB saveformat via C#., Free Online Merge XML to xlsb in C#., C# Combine XML to XLSB format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to XLSB C#. C# Merge XML to XLSB format. Combine XML to XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to XLSB., Free Online Merge XML to xlsb in C#., C# Combine XML to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

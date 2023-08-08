@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to NUMBERS - Combine PNG to NUMBERS via Python
 url: /python-java/merger/merge-png-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to NUMBERS saveformat. Python Combine PNG to NUMBERS format. Combine PNG to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to NUMBERS saveformat via Python., Free Online Merge PNG to numbers in Python., Python Combine PNG to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to NUMBERS Python. Python Merge PNG to NUMBERS format. Combine PNG to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to NUMBERS., Free Online Merge PNG to numbers in Python., Python Combine PNG to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

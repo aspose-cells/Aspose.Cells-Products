@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to MARKDOWN - Combine XLS to MARKDOWN via Python
 url: /python-net/merger/merge-xls-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to MARKDOWN saveformat. Python Combine XLS to MARKDOWN format. Combine XLS to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to MARKDOWN saveformat via Python., Free Online Merge XLS to markdown in Python., Python Combine XLS to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to MARKDOWN Python. Python Merge XLS to MARKDOWN format. Combine XLS to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to MARKDOWN., Free Online Merge XLS to markdown in Python., Python Combine XLS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

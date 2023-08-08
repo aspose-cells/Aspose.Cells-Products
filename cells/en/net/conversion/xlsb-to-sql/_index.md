@@ -1,7 +1,7 @@
 ---
-title: XLSB to SQL - Convert XLSB to SQL files C#
-description: Aspose Excel. Free Online Convert XLSB to SQL saveformat. C# XLSB to SQL format. Save XLSB as SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to SQL saveformat., Free Online XLSB to SQL Converter]
+title: C# XLSB to SQL - Online XLSB to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to SQL saveformat. C# XLSB to SQL format. Save XLSB to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to SQL saveformat., Free Online XLSB to SQL C#., C# Convert XLSB to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

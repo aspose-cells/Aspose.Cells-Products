@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SXC - Combine MHT to SXC via C#
 url: /net/merger/merge-mht-to-sxc/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to SXC saveformat. C# Combine MHT to SXC format. Combine MHT to SXC in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to SXC saveformat via C#., Free Online Merge MHT to sxc in C#., C# Combine MHT to SXC format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to SXC C#. C# Merge MHT to SXC format. Combine MHT to SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to SXC., Free Online Merge MHT to sxc in C#., C# Combine MHT to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

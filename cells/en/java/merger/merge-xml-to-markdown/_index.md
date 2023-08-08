@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MARKDOWN - Combine XML to MARKDOWN via Java
 url: /java/merger/merge-xml-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to MARKDOWN saveformat. Java Combine XML to MARKDOWN format. Combine XML to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to MARKDOWN saveformat via Java., Free Online Merge XML to markdown in Java., Java Combine XML to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to MARKDOWN Java. Java Merge XML to MARKDOWN format. Combine XML to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to MARKDOWN., Free Online Merge XML to markdown in Java., Java Combine XML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

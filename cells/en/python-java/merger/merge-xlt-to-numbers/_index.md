@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to NUMBERS - Combine XLT to NUMBERS via Python
 url: /python-java/merger/merge-xlt-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to NUMBERS saveformat. Python Combine XLT to NUMBERS format. Combine XLT to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to NUMBERS saveformat via Python., Free Online Merge XLT to numbers in Python., Python Combine XLT to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLT Merge. Free Online Merge XLT to NUMBERS Python. Python Merge XLT to NUMBERS format. Combine XLT to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLT Merge., Python Merge XLT to NUMBERS., Free Online Merge XLT to numbers in Python., Python Combine XLT to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

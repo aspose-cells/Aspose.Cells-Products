@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to BMP - Combine ODS to BMP via Python
 url: /python-java/merger/merge-ods-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to BMP saveformat. Python Combine ODS to BMP format. Combine ODS to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to BMP saveformat via Python., Free Online Merge ODS to bmp in Python., Python Combine ODS to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to BMP Python. Python Merge ODS to BMP format. Combine ODS to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to BMP., Free Online Merge ODS to bmp in Python., Python Combine ODS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to EMF - Combine TXT to EMF via Python
 url: /python-net/merger/merge-txt-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to EMF saveformat. Python Combine TXT to EMF format. Combine TXT to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to EMF saveformat via Python., Free Online Merge TXT to emf in Python., Python Combine TXT to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to EMF Python. Python Merge TXT to EMF format. Combine TXT to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to EMF., Free Online Merge TXT to emf in Python., Python Combine TXT to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

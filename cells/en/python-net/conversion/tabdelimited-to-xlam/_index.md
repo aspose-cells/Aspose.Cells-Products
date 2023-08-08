@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to XLAM - Convert TABDELIMITED to XLAM files Python via Python
-description: Aspose Excel. Free Online Convert TABDELIMITED to XLAM saveformat. Python TABDELIMITED to XLAM format. Save TABDELIMITED as XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to XLAM saveformat., Free Online TABDELIMITED to XLAM Converter]
+title: Python TABDELIMITED to XLAM - Convert TABDELIMITED to XLAM Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TABDELIMITED to XLAM saveformat. Python TABDELIMITED to XLAM format. Save TABDELIMITED to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to XLAM saveformat., Free Online TABDELIMITED to XLAM Python., Python Convert TABDELIMITED to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

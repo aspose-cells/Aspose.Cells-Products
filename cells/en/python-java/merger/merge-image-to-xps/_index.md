@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XPS - Combine IMAGE to XPS via Python
 url: /python-java/merger/merge-image-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to XPS saveformat. Python Combine IMAGE to XPS format. Combine IMAGE to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to XPS saveformat via Python., Free Online Merge IMAGE to xps in Python., Python Combine IMAGE to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to XPS Python. Python Merge IMAGE to XPS format. Combine IMAGE to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to XPS., Free Online Merge IMAGE to xps in Python., Python Combine IMAGE to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

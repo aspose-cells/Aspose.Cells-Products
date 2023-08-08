@@ -1,7 +1,7 @@
 ---
-title: SXC to XLAM - Convert SXC to XLAM files C++
-description: Aspose Excel. Free Online Convert SXC to XLAM saveformat. C++ SXC to XLAM format. Save SXC as XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to XLAM saveformat., Free Online SXC to XLAM Converter]
+title: C++ SXC to XLAM - Online SXC to XLAM Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to XLAM saveformat. C++ SXC to XLAM format. Save SXC to XLAM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to XLAM saveformat., Free Online SXC to XLAM C++., C++ Convert SXC to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

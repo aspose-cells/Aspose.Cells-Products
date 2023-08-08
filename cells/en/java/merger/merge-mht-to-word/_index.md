@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to WORD - Combine MHT to WORD via Java
 url: /java/merger/merge-mht-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to WORD saveformat. Java Combine MHT to WORD format. Combine MHT to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to WORD saveformat via Java., Free Online Merge MHT to word in Java., Java Combine MHT to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to WORD Java. Java Merge MHT to WORD format. Combine MHT to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to WORD., Free Online Merge MHT to word in Java., Java Combine MHT to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

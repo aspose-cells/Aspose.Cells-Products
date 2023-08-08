@@ -1,7 +1,7 @@
 ---
-title: MHTML to SVG - Convert MHTML to SVG Python via Python
-description: Aspose Excel. Free Online Convert MHTML to SVG saveformat. Python MHTML to SVG format. Save MHTML as SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to SVG saveformat., Free Online MHTML to SVG Converter]
+title: Python MHTML to SVG - Convert MHTML to SVG Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to SVG saveformat. Python MHTML to SVG format. Save MHTML to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to SVG saveformat., Free Online MHTML to SVG Python., Python Convert MHTML to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

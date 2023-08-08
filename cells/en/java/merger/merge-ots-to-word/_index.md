@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to WORD - Combine OTS to WORD via Java
 url: /java/merger/merge-ots-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to WORD saveformat. Java Combine OTS to WORD format. Combine OTS to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to WORD saveformat via Java., Free Online Merge OTS to word in Java., Java Combine OTS to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to WORD Java. Java Merge OTS to WORD format. Combine OTS to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to WORD., Free Online Merge OTS to word in Java., Java Combine OTS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SXC to MD - Convert SXC to MD files Java
-description: Aspose Excel. Free Online Convert SXC to MD saveformat. Java SXC to MD format. Save SXC as MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to MD saveformat., Free Online SXC to MD Converter]
+title: Java SXC to MD - Online SXC to MD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to MD saveformat. Java SXC to MD format. Save SXC to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to MD saveformat., Free Online SXC to MD Java., Java Convert SXC to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

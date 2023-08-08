@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SVG - Combine XLTM to SVG via Java
 url: /java/merger/merge-xltm-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to SVG saveformat. Java Combine XLTM to SVG format. Combine XLTM to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to SVG saveformat via Java., Free Online Merge XLTM to svg in Java., Java Combine XLTM to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to SVG Java. Java Merge XLTM to SVG format. Combine XLTM to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to SVG., Free Online Merge XLTM to svg in Java., Java Combine XLTM to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

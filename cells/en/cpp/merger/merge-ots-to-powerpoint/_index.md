@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to POWERPOINT - Combine OTS to POWERPOINT via C++
 url: /cpp/merger/merge-ots-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to POWERPOINT saveformat. C++ Combine OTS to POWERPOINT format. Combine OTS to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to POWERPOINT saveformat via C++., Free Online Merge OTS to powerpoint in C++., C++ Combine OTS to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to POWERPOINT C++. C++ Merge OTS to POWERPOINT format. Combine OTS to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to POWERPOINT., Free Online Merge OTS to powerpoint in C++., C++ Combine OTS to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

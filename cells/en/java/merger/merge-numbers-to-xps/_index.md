@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XPS - Combine NUMBERS to XPS via Java
 url: /java/merger/merge-numbers-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XPS saveformat. Java Combine NUMBERS to XPS format. Combine NUMBERS to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to XPS saveformat via Java., Free Online Merge NUMBERS to xps in Java., Java Combine NUMBERS to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to XPS Java. Java Merge NUMBERS to XPS format. Combine NUMBERS to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to XPS., Free Online Merge NUMBERS to xps in Java., Java Combine NUMBERS to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DOCX - Combine XLTM to DOCX via Java
 url: /java/merger/merge-xltm-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to DOCX saveformat. Java Combine XLTM to DOCX format. Combine XLTM to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to DOCX saveformat via Java., Free Online Merge XLTM to docx in Java., Java Combine XLTM to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to DOCX Java. Java Merge XLTM to DOCX format. Combine XLTM to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to DOCX., Free Online Merge XLTM to docx in Java., Java Combine XLTM to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

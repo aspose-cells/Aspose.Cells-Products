@@ -1,7 +1,7 @@
 ---
-title: ODS to PRN - Convert ODS to PRN Python via Python
-description: Aspose Excel. Free Online Convert ODS to PRN saveformat. Python ODS to PRN format. Save ODS as PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to PRN saveformat., Free Online ODS to PRN Converter]
+title: Python ODS to PRN - Convert ODS to PRN Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to PRN saveformat. Python ODS to PRN format. Save ODS to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to PRN saveformat., Free Online ODS to PRN Python., Python Convert ODS to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

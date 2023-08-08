@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SVG - Combine MHT to SVG via C#
 url: /net/merger/merge-mht-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to SVG saveformat. C# Combine MHT to SVG format. Combine MHT to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to SVG saveformat via C#., Free Online Merge MHT to svg in C#., C# Combine MHT to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to SVG C#. C# Merge MHT to SVG format. Combine MHT to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to SVG., Free Online Merge MHT to svg in C#., C# Combine MHT to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

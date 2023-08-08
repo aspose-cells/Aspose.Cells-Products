@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to TXT - Convert SPREADSHEETML to TXT files Java
-description: Aspose Excel. Free Online Convert SPREADSHEETML to TXT saveformat. Java SPREADSHEETML to TXT format. Save SPREADSHEETML as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SPREADSHEETML to TXT saveformat., Free Online SPREADSHEETML to TXT Converter]
+title: Java SPREADSHEETML to TXT - Online SPREADSHEETML to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SPREADSHEETML to TXT saveformat. Java SPREADSHEETML to TXT format. Save SPREADSHEETML to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SPREADSHEETML to TXT saveformat., Free Online SPREADSHEETML to TXT Java., Java Convert SPREADSHEETML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

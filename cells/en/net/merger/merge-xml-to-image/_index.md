@@ -1,8 +1,8 @@
 ---
 title: Merge XML to IMAGE - Combine XML to IMAGE via C#
 url: /net/merger/merge-xml-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to IMAGE saveformat. C# Combine XML to IMAGE format. Combine XML to IMAGE in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to IMAGE saveformat via C#., Free Online Merge XML to image in C#., C# Combine XML to IMAGE format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to IMAGE C#. C# Merge XML to IMAGE format. Combine XML to IMAGE in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to IMAGE., Free Online Merge XML to image in C#., C# Combine XML to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

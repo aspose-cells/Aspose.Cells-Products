@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ODS - Combine NUMBERS to ODS via Java
 url: /java/merger/merge-numbers-to-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to ODS saveformat. Java Combine NUMBERS to ODS format. Combine NUMBERS to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to ODS saveformat via Java., Free Online Merge NUMBERS to ods in Java., Java Combine NUMBERS to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to ODS Java. Java Merge NUMBERS to ODS format. Combine NUMBERS to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to ODS., Free Online Merge NUMBERS to ods in Java., Java Combine NUMBERS to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

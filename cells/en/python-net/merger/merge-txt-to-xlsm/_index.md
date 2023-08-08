@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLSM - Combine TXT to XLSM via Python
 url: /python-net/merger/merge-txt-to-xlsm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to XLSM saveformat. Python Combine TXT to XLSM format. Combine TXT to XLSM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to XLSM saveformat via Python., Free Online Merge TXT to xlsm in Python., Python Combine TXT to XLSM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to XLSM Python. Python Merge TXT to XLSM format. Combine TXT to XLSM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to XLSM., Free Online Merge TXT to xlsm in Python., Python Combine TXT to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

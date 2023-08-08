@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to EMF - Combine HTM to EMF via C++
 url: /cpp/merger/merge-htm-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to EMF saveformat. C++ Combine HTM to EMF format. Combine HTM to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to EMF saveformat via C++., Free Online Merge HTM to emf in C++., C++ Combine HTM to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to EMF C++. C++ Merge HTM to EMF format. Combine HTM to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to EMF., Free Online Merge HTM to emf in C++., C++ Combine HTM to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

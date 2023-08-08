@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SQL - Combine MHT to SQL via Java
 url: /java/merger/merge-mht-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to SQL saveformat. Java Combine MHT to SQL format. Combine MHT to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to SQL saveformat via Java., Free Online Merge MHT to sql in Java., Java Combine MHT to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to SQL Java. Java Merge MHT to SQL format. Combine MHT to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to SQL., Free Online Merge MHT to sql in Java., Java Combine MHT to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

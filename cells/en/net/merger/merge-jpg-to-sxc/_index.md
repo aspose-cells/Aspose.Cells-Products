@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SXC - Combine JPG to SXC via C#
 url: /net/merger/merge-jpg-to-sxc/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to SXC saveformat. C# Combine JPG to SXC format. Combine JPG to SXC in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to SXC saveformat via C#., Free Online Merge JPG to sxc in C#., C# Combine JPG to SXC format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to SXC C#. C# Merge JPG to SXC format. Combine JPG to SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to SXC., Free Online Merge JPG to sxc in C#., C# Combine JPG to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

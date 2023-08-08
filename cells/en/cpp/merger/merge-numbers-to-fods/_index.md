@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to FODS - Combine NUMBERS to FODS via C++
 url: /cpp/merger/merge-numbers-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to FODS saveformat. C++ Combine NUMBERS to FODS format. Combine NUMBERS to FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to FODS saveformat via C++., Free Online Merge NUMBERS to fods in C++., C++ Combine NUMBERS to FODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to FODS C++. C++ Merge NUMBERS to FODS format. Combine NUMBERS to FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to FODS., Free Online Merge NUMBERS to fods in C++., C++ Combine NUMBERS to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

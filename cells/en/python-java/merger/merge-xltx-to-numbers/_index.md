@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to NUMBERS - Combine XLTX to NUMBERS via Python
 url: /python-java/merger/merge-xltx-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to NUMBERS saveformat. Python Combine XLTX to NUMBERS format. Combine XLTX to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to NUMBERS saveformat via Python., Free Online Merge XLTX to numbers in Python., Python Combine XLTX to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to NUMBERS Python. Python Merge XLTX to NUMBERS format. Combine XLTX to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to NUMBERS., Free Online Merge XLTX to numbers in Python., Python Combine XLTX to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

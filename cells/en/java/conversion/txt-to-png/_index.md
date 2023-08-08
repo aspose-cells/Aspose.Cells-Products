@@ -1,7 +1,7 @@
 ---
-title: TXT to PNG - Convert TXT to PNG files Java
-description: Aspose Excel. Free Online Convert TXT to PNG saveformat. Java TXT to PNG format. Save TXT as PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to PNG saveformat., Free Online TXT to PNG Converter]
+title: Java TXT to PNG - Online TXT to PNG Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to PNG saveformat. Java TXT to PNG format. Save TXT to PNG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to PNG saveformat., Free Online TXT to PNG Java., Java Convert TXT to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

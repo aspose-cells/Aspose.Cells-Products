@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to EMF - Combine IMAGE to EMF via C++
 url: /cpp/merger/merge-image-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to EMF saveformat. C++ Combine IMAGE to EMF format. Combine IMAGE to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine IMAGE to EMF saveformat via C++., Free Online Merge IMAGE to emf in C++., C++ Combine IMAGE to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to EMF C++. C++ Merge IMAGE to EMF format. Combine IMAGE to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., IMAGE Merge., C++ Merge IMAGE to EMF., Free Online Merge IMAGE to emf in C++., C++ Combine IMAGE to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

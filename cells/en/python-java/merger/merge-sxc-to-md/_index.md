@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MD - Combine SXC to MD via Python
 url: /python-java/merger/merge-sxc-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to MD saveformat. Python Combine SXC to MD format. Combine SXC to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to MD saveformat via Python., Free Online Merge SXC to md in Python., Python Combine SXC to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to MD Python. Python Merge SXC to MD format. Combine SXC to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to MD., Free Online Merge SXC to md in Python., Python Combine SXC to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

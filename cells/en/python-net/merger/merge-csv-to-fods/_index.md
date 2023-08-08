@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to FODS - Combine CSV to FODS via Python
 url: /python-net/merger/merge-csv-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to FODS saveformat. Python Combine CSV to FODS format. Combine CSV to FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to FODS saveformat via Python., Free Online Merge CSV to fods in Python., Python Combine CSV to FODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to FODS Python. Python Merge CSV to FODS format. Combine CSV to FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to FODS., Free Online Merge CSV to fods in Python., Python Combine CSV to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

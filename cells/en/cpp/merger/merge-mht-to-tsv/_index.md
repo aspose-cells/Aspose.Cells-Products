@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TSV - Combine MHT to TSV via C++
 url: /cpp/merger/merge-mht-to-tsv/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to TSV saveformat. C++ Combine MHT to TSV format. Combine MHT to TSV in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to TSV saveformat via C++., Free Online Merge MHT to tsv in C++., C++ Combine MHT to TSV format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to TSV C++. C++ Merge MHT to TSV format. Combine MHT to TSV in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to TSV., Free Online Merge MHT to tsv in C++., C++ Combine MHT to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

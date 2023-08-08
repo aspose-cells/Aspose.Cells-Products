@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLAM - Combine CSV to XLAM via C++
 url: /cpp/merger/merge-csv-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to XLAM saveformat. C++ Combine CSV to XLAM format. Combine CSV to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine CSV to XLAM saveformat via C++., Free Online Merge CSV to xlam in C++., C++ Combine CSV to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. CSV Merge. Free Online Merge CSV to XLAM C++. C++ Merge CSV to XLAM format. Combine CSV to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., CSV Merge., C++ Merge CSV to XLAM., Free Online Merge CSV to xlam in C++., C++ Combine CSV to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

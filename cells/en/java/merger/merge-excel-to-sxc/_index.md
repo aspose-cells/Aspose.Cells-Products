@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SXC - Combine EXCEL to SXC via Java
 url: /java/merger/merge-excel-to-sxc/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to SXC saveformat. Java Combine EXCEL to SXC format. Combine EXCEL to SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to SXC saveformat via Java., Free Online Merge EXCEL to sxc in Java., Java Combine EXCEL to SXC format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to SXC Java. Java Merge EXCEL to SXC format. Combine EXCEL to SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to SXC., Free Online Merge EXCEL to sxc in Java., Java Combine EXCEL to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

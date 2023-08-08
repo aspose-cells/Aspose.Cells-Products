@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to OTS - Combine EXCEL to OTS via Python
 url: /python-java/merger/merge-excel-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to OTS saveformat. Python Combine EXCEL to OTS format. Combine EXCEL to OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to OTS saveformat via Python., Free Online Merge EXCEL to ots in Python., Python Combine EXCEL to OTS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to OTS Python. Python Merge EXCEL to OTS format. Combine EXCEL to OTS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to OTS., Free Online Merge EXCEL to ots in Python., Python Combine EXCEL to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XML - Combine TXT to XML via C++
 url: /cpp/merger/merge-txt-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to XML saveformat. C++ Combine TXT to XML format. Combine TXT to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to XML saveformat via C++., Free Online Merge TXT to xml in C++., C++ Combine TXT to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to XML C++. C++ Merge TXT to XML format. Combine TXT to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to XML., Free Online Merge TXT to xml in C++., C++ Combine TXT to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to HTM - Combine JPG to HTM via C#
 url: /net/merger/merge-jpg-to-htm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to HTM saveformat. C# Combine JPG to HTM format. Combine JPG to HTM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to HTM saveformat via C#., Free Online Merge JPG to htm in C#., C# Combine JPG to HTM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to HTM C#. C# Merge JPG to HTM format. Combine JPG to HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to HTM., Free Online Merge JPG to htm in C#., C# Combine JPG to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

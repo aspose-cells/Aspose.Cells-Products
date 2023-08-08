@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SVG - Combine XML to SVG via Python
 url: /python-net/merger/merge-xml-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to SVG saveformat. Python Combine XML to SVG format. Combine XML to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to SVG saveformat via Python., Free Online Merge XML to svg in Python., Python Combine XML to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to SVG Python. Python Merge XML to SVG format. Combine XML to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to SVG., Free Online Merge XML to svg in Python., Python Combine XML to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: MHTML to ET - Convert MHTML to ET files Java
-description: Aspose Excel. Free Online Convert MHTML to ET saveformat. Java MHTML to ET format. Save MHTML as ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to ET saveformat., Free Online MHTML to ET Converter]
+title: Java MHTML to ET - Online MHTML to ET Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to ET saveformat. Java MHTML to ET format. Save MHTML to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to ET saveformat., Free Online MHTML to ET Java., Java Convert MHTML to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

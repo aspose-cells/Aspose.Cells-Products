@@ -1,7 +1,7 @@
 ---
-title: TXT to XPS - Convert TXT to XPS files Python via Python
-description: Aspose Excel. Free Online Convert TXT to XPS saveformat. Python TXT to XPS format. Save TXT as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to XPS saveformat., Free Online TXT to XPS Converter]
+title: Python TXT to XPS - Convert TXT to XPS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to XPS saveformat. Python TXT to XPS format. Save TXT to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XPS saveformat., Free Online TXT to XPS Python., Python Convert TXT to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

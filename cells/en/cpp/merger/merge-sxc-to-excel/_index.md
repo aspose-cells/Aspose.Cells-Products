@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to EXCEL - Combine SXC to EXCEL via C++
 url: /cpp/merger/merge-sxc-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to EXCEL saveformat. C++ Combine SXC to EXCEL format. Combine SXC to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SXC to EXCEL saveformat via C++., Free Online Merge SXC to excel in C++., C++ Combine SXC to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SXC Merge. Free Online Merge SXC to EXCEL C++. C++ Merge SXC to EXCEL format. Combine SXC to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SXC Merge., C++ Merge SXC to EXCEL., Free Online Merge SXC to excel in C++., C++ Combine SXC to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to EXCEL - Combine NUMBERS to EXCEL via C++
 url: /cpp/merger/merge-numbers-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to EXCEL saveformat. C++ Combine NUMBERS to EXCEL format. Combine NUMBERS to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to EXCEL saveformat via C++., Free Online Merge NUMBERS to excel in C++., C++ Combine NUMBERS to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to EXCEL C++. C++ Merge NUMBERS to EXCEL format. Combine NUMBERS to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to EXCEL., Free Online Merge NUMBERS to excel in C++., C++ Combine NUMBERS to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

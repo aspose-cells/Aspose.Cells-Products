@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SVG - Combine XLS to SVG via C#
 url: /net/merger/merge-xls-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to SVG saveformat. C# Combine XLS to SVG format. Combine XLS to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to SVG saveformat via C#., Free Online Merge XLS to svg in C#., C# Combine XLS to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to SVG C#. C# Merge XLS to SVG format. Combine XLS to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to SVG., Free Online Merge XLS to svg in C#., C# Combine XLS to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MD - Combine XLSB to MD via C++
 url: /cpp/merger/merge-xlsb-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to MD saveformat. C++ Combine XLSB to MD format. Combine XLSB to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to MD saveformat via C++., Free Online Merge XLSB to md in C++., C++ Combine XLSB to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSB Merge. Free Online Merge XLSB to MD C++. C++ Merge XLSB to MD format. Combine XLSB to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSB Merge., C++ Merge XLSB to MD., Free Online Merge XLSB to md in C++., C++ Combine XLSB to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

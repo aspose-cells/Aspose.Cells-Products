@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MARKDOWN - Combine XLTM to MARKDOWN via Python
 url: /python-java/merger/merge-xltm-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to MARKDOWN saveformat. Python Combine XLTM to MARKDOWN format. Combine XLTM to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to MARKDOWN saveformat via Python., Free Online Merge XLTM to markdown in Python., Python Combine XLTM to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTM Merge. Free Online Merge XLTM to MARKDOWN Python. Python Merge XLTM to MARKDOWN format. Combine XLTM to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTM Merge., Python Merge XLTM to MARKDOWN., Free Online Merge XLTM to markdown in Python., Python Combine XLTM to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

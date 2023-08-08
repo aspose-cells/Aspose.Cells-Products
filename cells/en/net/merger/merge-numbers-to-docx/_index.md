@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DOCX - Combine NUMBERS to DOCX via C#
 url: /net/merger/merge-numbers-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to DOCX saveformat. C# Combine NUMBERS to DOCX format. Combine NUMBERS to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to DOCX saveformat via C#., Free Online Merge NUMBERS to docx in C#., C# Combine NUMBERS to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to DOCX C#. C# Merge NUMBERS to DOCX format. Combine NUMBERS to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to DOCX., Free Online Merge NUMBERS to docx in C#., C# Combine NUMBERS to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

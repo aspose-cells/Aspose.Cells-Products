@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TIFF - Combine FODS to TIFF via Java
 url: /java/merger/merge-fods-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to TIFF saveformat. Java Combine FODS to TIFF format. Combine FODS to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to TIFF saveformat via Java., Free Online Merge FODS to tiff in Java., Java Combine FODS to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to TIFF Java. Java Merge FODS to TIFF format. Combine FODS to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to TIFF., Free Online Merge FODS to tiff in Java., Java Combine FODS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

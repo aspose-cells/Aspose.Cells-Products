@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SXC - Combine XLSB to SXC via Python
 url: /python-net/merger/merge-xlsb-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to SXC saveformat. Python Combine XLSB to SXC format. Combine XLSB to SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to SXC saveformat via Python., Free Online Merge XLSB to sxc in Python., Python Combine XLSB to SXC format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to SXC Python. Python Merge XLSB to SXC format. Combine XLSB to SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to SXC., Free Online Merge XLSB to sxc in Python., Python Combine XLSB to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

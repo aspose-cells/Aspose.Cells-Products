@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MHT - Combine ODS to MHT via C++
 url: /cpp/merger/merge-ods-to-mht/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to MHT saveformat. C++ Combine ODS to MHT format. Combine ODS to MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to MHT saveformat via C++., Free Online Merge ODS to mht in C++., C++ Combine ODS to MHT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to MHT C++. C++ Merge ODS to MHT format. Combine ODS to MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to MHT., Free Online Merge ODS to mht in C++., C++ Combine ODS to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

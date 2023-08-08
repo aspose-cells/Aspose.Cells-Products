@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to JSON - Combine XLT to JSON via C#
 url: /net/merger/merge-xlt-to-json/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to JSON saveformat. C# Combine XLT to JSON format. Combine XLT to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLT to JSON saveformat via C#., Free Online Merge XLT to json in C#., C# Combine XLT to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLT Merge. Free Online Merge XLT to JSON C#. C# Merge XLT to JSON format. Combine XLT to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLT Merge., C# Merge XLT to JSON., Free Online Merge XLT to json in C#., C# Combine XLT to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

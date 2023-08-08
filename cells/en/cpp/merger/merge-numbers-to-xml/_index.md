@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XML - Combine NUMBERS to XML via C++
 url: /cpp/merger/merge-numbers-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to XML saveformat. C++ Combine NUMBERS to XML format. Combine NUMBERS to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to XML saveformat via C++., Free Online Merge NUMBERS to xml in C++., C++ Combine NUMBERS to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to XML C++. C++ Merge NUMBERS to XML format. Combine NUMBERS to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to XML., Free Online Merge NUMBERS to xml in C++., C++ Combine NUMBERS to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

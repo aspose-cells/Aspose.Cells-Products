@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLSB - Convert JPEG to XLSB files Java
-description: Aspose Excel. Free Online Convert JPEG to XLSB saveformat. Java JPEG to XLSB format. Save JPEG as XLSB in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to XLSB saveformat., Free Online JPEG to XLSB Converter]
+title: Java JPEG to XLSB - Online JPEG to XLSB Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to XLSB saveformat. Java JPEG to XLSB format. Save JPEG to XLSB Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to XLSB saveformat., Free Online JPEG to XLSB Java., Java Convert JPEG to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

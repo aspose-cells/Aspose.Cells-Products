@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JPG - Combine FODS to JPG via Python
 url: /python-java/merger/merge-fods-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to JPG saveformat. Python Combine FODS to JPG format. Combine FODS to JPG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to JPG saveformat via Python., Free Online Merge FODS to jpg in Python., Python Combine FODS to JPG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to JPG Python. Python Merge FODS to JPG format. Combine FODS to JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to JPG., Free Online Merge FODS to jpg in Python., Python Combine FODS to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

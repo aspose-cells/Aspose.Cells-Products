@@ -1,8 +1,8 @@
 ---
 title: Merge XML to WORD - Combine XML to WORD via Python
 url: /python-net/merger/merge-xml-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to WORD saveformat. Python Combine XML to WORD format. Combine XML to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to WORD saveformat via Python., Free Online Merge XML to word in Python., Python Combine XML to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to WORD Python. Python Merge XML to WORD format. Combine XML to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to WORD., Free Online Merge XML to word in Python., Python Combine XML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

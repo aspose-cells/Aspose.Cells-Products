@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SQL - Combine JPEG to SQL via Java
 url: /java/merger/merge-jpeg-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to SQL saveformat. Java Combine JPEG to SQL format. Combine JPEG to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to SQL saveformat via Java., Free Online Merge JPEG to sql in Java., Java Combine JPEG to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to SQL Java. Java Merge JPEG to SQL format. Combine JPEG to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to SQL., Free Online Merge JPEG to sql in Java., Java Combine JPEG to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

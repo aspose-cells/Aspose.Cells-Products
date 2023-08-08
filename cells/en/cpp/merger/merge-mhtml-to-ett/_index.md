@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ETT - Combine MHTML to ETT via C++
 url: /cpp/merger/merge-mhtml-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to ETT saveformat. C++ Combine MHTML to ETT format. Combine MHTML to ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to ETT saveformat via C++., Free Online Merge MHTML to ett in C++., C++ Combine MHTML to ETT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHTML Merge. Free Online Merge MHTML to ETT C++. C++ Merge MHTML to ETT format. Combine MHTML to ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHTML Merge., C++ Merge MHTML to ETT., Free Online Merge MHTML to ett in C++., C++ Combine MHTML to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

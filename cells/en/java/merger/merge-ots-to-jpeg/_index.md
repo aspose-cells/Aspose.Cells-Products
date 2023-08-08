@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to JPEG - Combine OTS to JPEG via Java
 url: /java/merger/merge-ots-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to JPEG saveformat. Java Combine OTS to JPEG format. Combine OTS to JPEG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to JPEG saveformat via Java., Free Online Merge OTS to jpeg in Java., Java Combine OTS to JPEG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to JPEG Java. Java Merge OTS to JPEG format. Combine OTS to JPEG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to JPEG., Free Online Merge OTS to jpeg in Java., Java Combine OTS to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

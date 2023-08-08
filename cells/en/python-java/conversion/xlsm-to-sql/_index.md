@@ -1,7 +1,7 @@
 ---
-title: XLSM to SQL - Convert XLSM to SQL Python via Python
-description: Aspose Excel. Free Online Convert XLSM to SQL saveformat. Python XLSM to SQL format. Save XLSM as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to SQL saveformat., Free Online XLSM to SQL Converter]
+title: Python XLSM to SQL - Convert XLSM to SQL Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSM to SQL saveformat. Python XLSM to SQL format. Save XLSM to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to SQL saveformat., Free Online XLSM to SQL Python., Python Convert XLSM to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

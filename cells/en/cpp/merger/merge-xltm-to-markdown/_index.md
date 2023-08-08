@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MARKDOWN - Combine XLTM to MARKDOWN via C++
 url: /cpp/merger/merge-xltm-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to MARKDOWN saveformat. C++ Combine XLTM to MARKDOWN format. Combine XLTM to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTM to MARKDOWN saveformat via C++., Free Online Merge XLTM to markdown in C++., C++ Combine XLTM to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTM Merge. Free Online Merge XLTM to MARKDOWN C++. C++ Merge XLTM to MARKDOWN format. Combine XLTM to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTM Merge., C++ Merge XLTM to MARKDOWN., Free Online Merge XLTM to markdown in C++., C++ Combine XLTM to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

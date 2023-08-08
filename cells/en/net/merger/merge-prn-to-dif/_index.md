@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DIF - Combine PRN to DIF via C#
 url: /net/merger/merge-prn-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to DIF saveformat. C# Combine PRN to DIF format. Combine PRN to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PRN to DIF saveformat via C#., Free Online Merge PRN to dif in C#., C# Combine PRN to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PRN Merge. Free Online Merge PRN to DIF C#. C# Merge PRN to DIF format. Combine PRN to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PRN Merge., C# Merge PRN to DIF., Free Online Merge PRN to dif in C#., C# Combine PRN to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

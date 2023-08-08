@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MHTML - Combine XLSB to MHTML via C++
 url: /cpp/merger/merge-xlsb-to-mhtml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to MHTML saveformat. C++ Combine XLSB to MHTML format. Combine XLSB to MHTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to MHTML saveformat via C++., Free Online Merge XLSB to mhtml in C++., C++ Combine XLSB to MHTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSB Merge. Free Online Merge XLSB to MHTML C++. C++ Merge XLSB to MHTML format. Combine XLSB to MHTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSB Merge., C++ Merge XLSB to MHTML., Free Online Merge XLSB to mhtml in C++., C++ Combine XLSB to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

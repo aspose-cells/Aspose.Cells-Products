@@ -1,7 +1,7 @@
 ---
-title: XLTX to XPS - Convert XLTX to XPS files C++
-description: Aspose Excel. Free Online Convert XLTX to XPS saveformat. C++ XLTX to XPS format. Save XLTX as XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to XPS saveformat., Free Online XLTX to XPS Converter]
+title: C++ XLTX to XPS - Online XLTX to XPS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTX to XPS saveformat. C++ XLTX to XPS format. Save XLTX to XPS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to XPS saveformat., Free Online XLTX to XPS C++., C++ Convert XLTX to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

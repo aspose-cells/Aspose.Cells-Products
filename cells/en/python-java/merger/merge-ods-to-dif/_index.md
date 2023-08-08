@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to DIF - Combine ODS to DIF via Python
 url: /python-java/merger/merge-ods-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to DIF saveformat. Python Combine ODS to DIF format. Combine ODS to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to DIF saveformat via Python., Free Online Merge ODS to dif in Python., Python Combine ODS to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to DIF Python. Python Merge ODS to DIF format. Combine ODS to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to DIF., Free Online Merge ODS to dif in Python., Python Combine ODS to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

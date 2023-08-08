@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to HTML - Combine OTS to HTML via Python
 url: /python-net/merger/merge-ots-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to HTML saveformat. Python Combine OTS to HTML format. Combine OTS to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to HTML saveformat via Python., Free Online Merge OTS to html in Python., Python Combine OTS to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to HTML Python. Python Merge OTS to HTML format. Combine OTS to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to HTML., Free Online Merge OTS to html in Python., Python Combine OTS to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

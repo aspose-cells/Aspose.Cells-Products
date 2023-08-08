@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MARKDOWN - Combine HTML to MARKDOWN via Python
 url: /python-java/merger/merge-html-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to MARKDOWN saveformat. Python Combine HTML to MARKDOWN format. Combine HTML to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to MARKDOWN saveformat via Python., Free Online Merge HTML to markdown in Python., Python Combine HTML to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to MARKDOWN Python. Python Merge HTML to MARKDOWN format. Combine HTML to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to MARKDOWN., Free Online Merge HTML to markdown in Python., Python Combine HTML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

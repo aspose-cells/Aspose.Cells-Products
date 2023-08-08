@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to GIF - Combine JPG to GIF via C++
 url: /cpp/merger/merge-jpg-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to GIF saveformat. C++ Combine JPG to GIF format. Combine JPG to GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to GIF saveformat via C++., Free Online Merge JPG to gif in C++., C++ Combine JPG to GIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to GIF C++. C++ Merge JPG to GIF format. Combine JPG to GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to GIF., Free Online Merge JPG to gif in C++., C++ Combine JPG to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

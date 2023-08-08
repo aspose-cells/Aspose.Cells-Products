@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SPREADSHEETML - Combine MHT to SPREADSHEETML via C++
 url: /cpp/merger/merge-mht-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to SPREADSHEETML saveformat. C++ Combine MHT to SPREADSHEETML format. Combine MHT to SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to SPREADSHEETML saveformat via C++., Free Online Merge MHT to spreadsheetml in C++., C++ Combine MHT to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to SPREADSHEETML C++. C++ Merge MHT to SPREADSHEETML format. Combine MHT to SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to SPREADSHEETML., Free Online Merge MHT to spreadsheetml in C++., C++ Combine MHT to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

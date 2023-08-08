@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLSM - Combine EXCEL to XLSM via Java
 url: /java/merger/merge-excel-to-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to XLSM saveformat. Java Combine EXCEL to XLSM format. Combine EXCEL to XLSM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to XLSM saveformat via Java., Free Online Merge EXCEL to xlsm in Java., Java Combine EXCEL to XLSM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to XLSM Java. Java Merge EXCEL to XLSM format. Combine EXCEL to XLSM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to XLSM., Free Online Merge EXCEL to xlsm in Java., Java Combine EXCEL to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

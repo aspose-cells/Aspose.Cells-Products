@@ -1,7 +1,7 @@
 ---
-title: XLS to JSON - Convert XLS to JSON files Python via Python
-description: Aspose Excel. Free Online Convert XLS to JSON saveformat. Python XLS to JSON format. Save XLS as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to JSON saveformat., Free Online XLS to JSON Converter]
+title: Python XLS to JSON - Convert XLS to JSON Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to JSON saveformat. Python XLS to JSON format. Save XLS to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to JSON saveformat., Free Online XLS to JSON Python., Python Convert XLS to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PRN - Combine XLTX to PRN via C++
 url: /cpp/merger/merge-xltx-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to PRN saveformat. C++ Combine XLTX to PRN format. Combine XLTX to PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to PRN saveformat via C++., Free Online Merge XLTX to prn in C++., C++ Combine XLTX to PRN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTX Merge. Free Online Merge XLTX to PRN C++. C++ Merge XLTX to PRN format. Combine XLTX to PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTX Merge., C++ Merge XLTX to PRN., Free Online Merge XLTX to prn in C++., C++ Combine XLTX to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

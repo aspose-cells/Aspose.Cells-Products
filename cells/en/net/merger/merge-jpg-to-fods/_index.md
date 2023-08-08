@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to FODS - Combine JPG to FODS via C#
 url: /net/merger/merge-jpg-to-fods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to FODS saveformat. C# Combine JPG to FODS format. Combine JPG to FODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to FODS saveformat via C#., Free Online Merge JPG to fods in C#., C# Combine JPG to FODS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to FODS C#. C# Merge JPG to FODS format. Combine JPG to FODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to FODS., Free Online Merge JPG to fods in C#., C# Combine JPG to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

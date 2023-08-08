@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTM - Combine FODS to HTM via Python
 url: /python-net/merger/merge-fods-to-htm/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to HTM saveformat. Python Combine FODS to HTM format. Combine FODS to HTM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to HTM saveformat via Python., Free Online Merge FODS to htm in Python., Python Combine FODS to HTM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to HTM Python. Python Merge FODS to HTM format. Combine FODS to HTM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to HTM., Free Online Merge FODS to htm in Python., Python Combine FODS to HTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to ET - Combine OTS to ET via Python
 url: /python-net/merger/merge-ots-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to ET saveformat. Python Combine OTS to ET format. Combine OTS to ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to ET saveformat via Python., Free Online Merge OTS to et in Python., Python Combine OTS to ET format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to ET Python. Python Merge OTS to ET format. Combine OTS to ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to ET., Free Online Merge OTS to et in Python., Python Combine OTS to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to FODS - Combine JSON to FODS via Python
 url: /python-java/merger/merge-json-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to FODS saveformat. Python Combine JSON to FODS format. Combine JSON to FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to FODS saveformat via Python., Free Online Merge JSON to fods in Python., Python Combine JSON to FODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JSON Merge. Free Online Merge JSON to FODS Python. Python Merge JSON to FODS format. Combine JSON to FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JSON Merge., Python Merge JSON to FODS., Free Online Merge JSON to fods in Python., Python Combine JSON to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

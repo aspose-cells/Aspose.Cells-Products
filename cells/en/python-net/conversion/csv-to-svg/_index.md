@@ -1,7 +1,7 @@
 ---
-title: CSV to SVG - Convert CSV to SVG files Python via Python
-description: Aspose Excel. Free Online Convert CSV to SVG saveformat. Python CSV to SVG format. Save CSV as SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python CSV to SVG saveformat., Free Online CSV to SVG Converter]
+title: Python CSV to SVG - Convert CSV to SVG Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert CSV to SVG saveformat. Python CSV to SVG format. Save CSV to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to SVG saveformat., Free Online CSV to SVG Python., Python Convert CSV to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

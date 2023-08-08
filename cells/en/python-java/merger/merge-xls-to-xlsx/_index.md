@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLSX - Combine XLS to XLSX via Python
 url: /python-java/merger/merge-xls-to-xlsx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to XLSX saveformat. Python Combine XLS to XLSX format. Combine XLS to XLSX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to XLSX saveformat via Python., Free Online Merge XLS to xlsx in Python., Python Combine XLS to XLSX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to XLSX Python. Python Merge XLS to XLSX format. Combine XLS to XLSX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to XLSX., Free Online Merge XLS to xlsx in Python., Python Combine XLS to XLSX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

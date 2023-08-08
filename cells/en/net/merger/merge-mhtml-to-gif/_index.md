@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to GIF - Combine MHTML to GIF via C#
 url: /net/merger/merge-mhtml-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to GIF saveformat. C# Combine MHTML to GIF format. Combine MHTML to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to GIF saveformat via C#., Free Online Merge MHTML to gif in C#., C# Combine MHTML to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to GIF C#. C# Merge MHTML to GIF format. Combine MHTML to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to GIF., Free Online Merge MHTML to gif in C#., C# Combine MHTML to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

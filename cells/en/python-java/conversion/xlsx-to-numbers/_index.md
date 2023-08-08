@@ -1,7 +1,7 @@
 ---
-title: XLSX to NUMBERS - Convert XLSX to NUMBERS Python via Python
-description: Aspose Excel. Free Online Convert XLSX to NUMBERS saveformat. Python XLSX to NUMBERS format. Save XLSX as NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS Converter]
+title: Python XLSX to NUMBERS - Convert XLSX to NUMBERS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to NUMBERS saveformat. Python XLSX to NUMBERS format. Save XLSX to NUMBERS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS Python., Python Convert XLSX to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

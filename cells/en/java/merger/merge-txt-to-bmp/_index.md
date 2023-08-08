@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to BMP - Combine TXT to BMP via Java
 url: /java/merger/merge-txt-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to BMP saveformat. Java Combine TXT to BMP format. Combine TXT to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to BMP saveformat via Java., Free Online Merge TXT to bmp in Java., Java Combine TXT to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to BMP Java. Java Merge TXT to BMP format. Combine TXT to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to BMP., Free Online Merge TXT to bmp in Java., Java Combine TXT to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

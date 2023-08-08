@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PDF - Combine XLSX to PDF via C#
 url: /net/merger/merge-xlsx-to-pdf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to PDF saveformat. C# Combine XLSX to PDF format. Combine XLSX to PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to PDF saveformat via C#., Free Online Merge XLSX to pdf in C#., C# Combine XLSX to PDF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to PDF C#. C# Merge XLSX to PDF format. Combine XLSX to PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to PDF., Free Online Merge XLSX to pdf in C#., C# Combine XLSX to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to CSV - Combine HTM to CSV via Java
 url: /java/merger/merge-htm-to-csv/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to CSV saveformat. Java Combine HTM to CSV format. Combine HTM to CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to CSV saveformat via Java., Free Online Merge HTM to csv in Java., Java Combine HTM to CSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to CSV Java. Java Merge HTM to CSV format. Combine HTM to CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to CSV., Free Online Merge HTM to csv in Java., Java Combine HTM to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

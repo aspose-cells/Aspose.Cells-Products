@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLSB - Combine FODS to XLSB via Java
 url: /java/merger/merge-fods-to-xlsb/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLSB saveformat. Java Combine FODS to XLSB format. Combine FODS to XLSB in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to XLSB saveformat via Java., Free Online Merge FODS to xlsb in Java., Java Combine FODS to XLSB format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to XLSB Java. Java Merge FODS to XLSB format. Combine FODS to XLSB in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to XLSB., Free Online Merge FODS to xlsb in Java., Java Combine FODS to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

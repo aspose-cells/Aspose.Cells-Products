@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to IMAGE - Combine XLSX to IMAGE via C#
 url: /net/merger/merge-xlsx-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to IMAGE saveformat. C# Combine XLSX to IMAGE format. Combine XLSX to IMAGE in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to IMAGE saveformat via C#., Free Online Merge XLSX to image in C#., C# Combine XLSX to IMAGE format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to IMAGE C#. C# Merge XLSX to IMAGE format. Combine XLSX to IMAGE in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to IMAGE., Free Online Merge XLSX to image in C#., C# Combine XLSX to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

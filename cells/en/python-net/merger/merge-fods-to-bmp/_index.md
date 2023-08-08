@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to BMP - Combine FODS to BMP via Python
 url: /python-net/merger/merge-fods-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to BMP saveformat. Python Combine FODS to BMP format. Combine FODS to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to BMP saveformat via Python., Free Online Merge FODS to bmp in Python., Python Combine FODS to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to BMP Python. Python Merge FODS to BMP format. Combine FODS to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to BMP., Free Online Merge FODS to bmp in Python., Python Combine FODS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SQL - Combine EXCEL to SQL via Python
 url: /python-java/merger/merge-excel-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to SQL saveformat. Python Combine EXCEL to SQL format. Combine EXCEL to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to SQL saveformat via Python., Free Online Merge EXCEL to sql in Python., Python Combine EXCEL to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to SQL Python. Python Merge EXCEL to SQL format. Combine EXCEL to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to SQL., Free Online Merge EXCEL to sql in Python., Python Combine EXCEL to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

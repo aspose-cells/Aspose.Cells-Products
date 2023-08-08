@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XML - Combine PRN to XML via C++
 url: /cpp/merger/merge-prn-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to XML saveformat. C++ Combine PRN to XML format. Combine PRN to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to XML saveformat via C++., Free Online Merge PRN to xml in C++., C++ Combine PRN to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to XML C++. C++ Merge PRN to XML format. Combine PRN to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to XML., Free Online Merge PRN to xml in C++., C++ Combine PRN to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

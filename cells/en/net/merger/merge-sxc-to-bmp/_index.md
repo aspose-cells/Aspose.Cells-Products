@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to BMP - Combine SXC to BMP via C#
 url: /net/merger/merge-sxc-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to BMP saveformat. C# Combine SXC to BMP format. Combine SXC to BMP in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to BMP saveformat via C#., Free Online Merge SXC to bmp in C#., C# Combine SXC to BMP format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to BMP C#. C# Merge SXC to BMP format. Combine SXC to BMP in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to BMP., Free Online Merge SXC to bmp in C#., C# Combine SXC to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

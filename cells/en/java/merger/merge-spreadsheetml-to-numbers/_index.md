@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to NUMBERS - Combine SPREADSHEETML to NUMBERS via Java
 url: /java/merger/merge-spreadsheetml-to-numbers/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to NUMBERS saveformat. Java Combine SPREADSHEETML to NUMBERS format. Combine SPREADSHEETML to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to NUMBERS saveformat via Java., Free Online Merge SPREADSHEETML to numbers in Java., Java Combine SPREADSHEETML to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to NUMBERS Java. Java Merge SPREADSHEETML to NUMBERS format. Combine SPREADSHEETML to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to NUMBERS., Free Online Merge SPREADSHEETML to numbers in Java., Java Combine SPREADSHEETML to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

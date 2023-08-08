@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to WORD - Combine JSON to WORD via C++
 url: /cpp/merger/merge-json-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to WORD saveformat. C++ Combine JSON to WORD format. Combine JSON to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to WORD saveformat via C++., Free Online Merge JSON to word in C++., C++ Combine JSON to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to WORD C++. C++ Merge JSON to WORD format. Combine JSON to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to WORD., Free Online Merge JSON to word in C++., C++ Combine JSON to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

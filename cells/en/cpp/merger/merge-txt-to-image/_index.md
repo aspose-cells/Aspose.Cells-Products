@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to IMAGE - Combine TXT to IMAGE via C++
 url: /cpp/merger/merge-txt-to-image/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to IMAGE saveformat. C++ Combine TXT to IMAGE format. Combine TXT to IMAGE in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to IMAGE saveformat via C++., Free Online Merge TXT to image in C++., C++ Combine TXT to IMAGE format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to IMAGE C++. C++ Merge TXT to IMAGE format. Combine TXT to IMAGE in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to IMAGE., Free Online Merge TXT to image in C++., C++ Combine TXT to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

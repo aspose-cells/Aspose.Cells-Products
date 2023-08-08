@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DIF - Combine CSV to DIF via Java
 url: /java/merger/merge-csv-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to DIF saveformat. Java Combine CSV to DIF format. Combine CSV to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to DIF saveformat via Java., Free Online Merge CSV to dif in Java., Java Combine CSV to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. CSV Merge. Free Online Merge CSV to DIF Java. Java Merge CSV to DIF format. Combine CSV to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., CSV Merge., Java Merge CSV to DIF., Free Online Merge CSV to dif in Java., Java Combine CSV to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

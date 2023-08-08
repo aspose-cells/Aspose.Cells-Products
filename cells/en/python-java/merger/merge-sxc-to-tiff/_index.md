@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TIFF - Combine SXC to TIFF via Python
 url: /python-java/merger/merge-sxc-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to TIFF saveformat. Python Combine SXC to TIFF format. Combine SXC to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to TIFF saveformat via Python., Free Online Merge SXC to tiff in Python., Python Combine SXC to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to TIFF Python. Python Merge SXC to TIFF format. Combine SXC to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to TIFF., Free Online Merge SXC to tiff in Python., Python Combine SXC to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

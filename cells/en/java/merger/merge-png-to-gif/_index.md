@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to GIF - Combine PNG to GIF via Java
 url: /java/merger/merge-png-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to GIF saveformat. Java Combine PNG to GIF format. Combine PNG to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to GIF saveformat via Java., Free Online Merge PNG to gif in Java., Java Combine PNG to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to GIF Java. Java Merge PNG to GIF format. Combine PNG to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to GIF., Free Online Merge PNG to gif in Java., Java Combine PNG to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to ETT - Combine SXC to ETT via C#
 url: /net/merger/merge-sxc-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to ETT saveformat. C# Combine SXC to ETT format. Combine SXC to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to ETT saveformat via C#., Free Online Merge SXC to ett in C#., C# Combine SXC to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to ETT C#. C# Merge SXC to ETT format. Combine SXC to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to ETT., Free Online Merge SXC to ett in C#., C# Combine SXC to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

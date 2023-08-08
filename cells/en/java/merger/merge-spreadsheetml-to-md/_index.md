@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MD - Combine SPREADSHEETML to MD via Java
 url: /java/merger/merge-spreadsheetml-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to MD saveformat. Java Combine SPREADSHEETML to MD format. Combine SPREADSHEETML to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to MD saveformat via Java., Free Online Merge SPREADSHEETML to md in Java., Java Combine SPREADSHEETML to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to MD Java. Java Merge SPREADSHEETML to MD format. Combine SPREADSHEETML to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to MD., Free Online Merge SPREADSHEETML to md in Java., Java Combine SPREADSHEETML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

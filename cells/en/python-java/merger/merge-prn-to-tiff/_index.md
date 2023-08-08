@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to TIFF - Combine PRN to TIFF via Python
 url: /python-java/merger/merge-prn-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to TIFF saveformat. Python Combine PRN to TIFF format. Combine PRN to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to TIFF saveformat via Python., Free Online Merge PRN to tiff in Python., Python Combine PRN to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PRN Merge. Free Online Merge PRN to TIFF Python. Python Merge PRN to TIFF format. Combine PRN to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PRN Merge., Python Merge PRN to TIFF., Free Online Merge PRN to tiff in Python., Python Combine PRN to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

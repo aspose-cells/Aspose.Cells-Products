@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SVG - Combine JPEG to SVG via C#
 url: /net/merger/merge-jpeg-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to SVG saveformat. C# Combine JPEG to SVG format. Combine JPEG to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to SVG saveformat via C#., Free Online Merge JPEG to svg in C#., C# Combine JPEG to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to SVG C#. C# Merge JPEG to SVG format. Combine JPEG to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to SVG., Free Online Merge JPEG to svg in C#., C# Combine JPEG to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

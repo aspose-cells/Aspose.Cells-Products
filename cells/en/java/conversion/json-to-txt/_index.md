@@ -1,7 +1,7 @@
 ---
-title: JSON to TXT - Convert JSON to TXT files Java
-description: Aspose Excel. Free Online Convert JSON to TXT saveformat. Java JSON to TXT format. Save JSON as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to TXT saveformat., Free Online JSON to TXT Converter]
+title: Java JSON to TXT - Online JSON to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JSON to TXT saveformat. Java JSON to TXT format. Save JSON to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to TXT saveformat., Free Online JSON to TXT Java., Java Convert JSON to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

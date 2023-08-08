@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MARKDOWN - Combine MHT to MARKDOWN via Python
 url: /python-net/merger/merge-mht-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to MARKDOWN saveformat. Python Combine MHT to MARKDOWN format. Combine MHT to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to MARKDOWN saveformat via Python., Free Online Merge MHT to markdown in Python., Python Combine MHT to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to MARKDOWN Python. Python Merge MHT to MARKDOWN format. Combine MHT to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to MARKDOWN., Free Online Merge MHT to markdown in Python., Python Combine MHT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

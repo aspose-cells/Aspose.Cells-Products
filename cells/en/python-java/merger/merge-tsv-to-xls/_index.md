@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLS - Combine TSV to XLS via Python
 url: /python-java/merger/merge-tsv-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XLS saveformat. Python Combine TSV to XLS format. Combine TSV to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to XLS saveformat via Python., Free Online Merge TSV to xls in Python., Python Combine TSV to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TSV Merge. Free Online Merge TSV to XLS Python. Python Merge TSV to XLS format. Combine TSV to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TSV Merge., Python Merge TSV to XLS., Free Online Merge TSV to xls in Python., Python Combine TSV to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

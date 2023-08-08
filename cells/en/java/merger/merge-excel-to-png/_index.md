@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PNG - Combine EXCEL to PNG via Java
 url: /java/merger/merge-excel-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to PNG saveformat. Java Combine EXCEL to PNG format. Combine EXCEL to PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to PNG saveformat via Java., Free Online Merge EXCEL to png in Java., Java Combine EXCEL to PNG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to PNG Java. Java Merge EXCEL to PNG format. Combine EXCEL to PNG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to PNG., Free Online Merge EXCEL to png in Java., Java Combine EXCEL to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

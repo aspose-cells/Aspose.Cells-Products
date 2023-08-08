@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to PDF - Combine JPEG to PDF via Python
 url: /python-net/merger/merge-jpeg-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to PDF saveformat. Python Combine JPEG to PDF format. Combine JPEG to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPEG to PDF saveformat via Python., Free Online Merge JPEG to pdf in Python., Python Combine JPEG to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPEG Merge. Free Online Merge JPEG to PDF Python. Python Merge JPEG to PDF format. Combine JPEG to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPEG Merge., Python Merge JPEG to PDF., Free Online Merge JPEG to pdf in Python., Python Combine JPEG to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

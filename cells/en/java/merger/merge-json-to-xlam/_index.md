@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLAM - Combine JSON to XLAM via Java
 url: /java/merger/merge-json-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to XLAM saveformat. Java Combine JSON to XLAM format. Combine JSON to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to XLAM saveformat via Java., Free Online Merge JSON to xlam in Java., Java Combine JSON to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to XLAM Java. Java Merge JSON to XLAM format. Combine JSON to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to XLAM., Free Online Merge JSON to xlam in Java., Java Combine JSON to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

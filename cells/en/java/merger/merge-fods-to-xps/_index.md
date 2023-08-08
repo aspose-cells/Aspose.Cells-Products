@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XPS - Combine FODS to XPS via Java
 url: /java/merger/merge-fods-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XPS saveformat. Java Combine FODS to XPS format. Combine FODS to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to XPS saveformat via Java., Free Online Merge FODS to xps in Java., Java Combine FODS to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to XPS Java. Java Merge FODS to XPS format. Combine FODS to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to XPS., Free Online Merge FODS to xps in Java., Java Combine FODS to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

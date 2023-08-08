@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to TIFF - Combine XLTM to TIFF via Java
 url: /java/merger/merge-xltm-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to TIFF saveformat. Java Combine XLTM to TIFF format. Combine XLTM to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to TIFF saveformat via Java., Free Online Merge XLTM to tiff in Java., Java Combine XLTM to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to TIFF Java. Java Merge XLTM to TIFF format. Combine XLTM to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to TIFF., Free Online Merge XLTM to tiff in Java., Java Combine XLTM to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

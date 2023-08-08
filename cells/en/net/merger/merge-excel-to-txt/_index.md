@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to TXT - Combine EXCEL to TXT via C#
 url: /net/merger/merge-excel-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to TXT saveformat. C# Combine EXCEL to TXT format. Combine EXCEL to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to TXT saveformat via C#., Free Online Merge EXCEL to txt in C#., C# Combine EXCEL to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to TXT C#. C# Merge EXCEL to TXT format. Combine EXCEL to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to TXT., Free Online Merge EXCEL to txt in C#., C# Combine EXCEL to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLSB - Combine ODS to XLSB via Python
 url: /python-java/merger/merge-ods-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to XLSB saveformat. Python Combine ODS to XLSB format. Combine ODS to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to XLSB saveformat via Python., Free Online Merge ODS to xlsb in Python., Python Combine ODS to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to XLSB Python. Python Merge ODS to XLSB format. Combine ODS to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to XLSB., Free Online Merge ODS to xlsb in Python., Python Combine ODS to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

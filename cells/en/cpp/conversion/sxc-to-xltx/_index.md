@@ -1,7 +1,7 @@
 ---
-title: SXC to XLTX - Convert SXC to XLTX files C++
-description: Aspose Excel. Free Online Convert SXC to XLTX saveformat. C++ SXC to XLTX format. Save SXC as XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to XLTX saveformat., Free Online SXC to XLTX Converter]
+title: C++ SXC to XLTX - Online SXC to XLTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to XLTX saveformat. C++ SXC to XLTX format. Save SXC to XLTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to XLTX saveformat., Free Online SXC to XLTX C++., C++ Convert SXC to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

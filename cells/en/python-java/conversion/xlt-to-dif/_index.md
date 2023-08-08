@@ -1,7 +1,7 @@
 ---
-title: XLT to DIF - Convert XLT to DIF Python via Python
-description: Aspose Excel. Free Online Convert XLT to DIF saveformat. Python XLT to DIF format. Save XLT as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLT to DIF saveformat., Free Online XLT to DIF Converter]
+title: Python XLT to DIF - Convert XLT to DIF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to DIF saveformat. Python XLT to DIF format. Save XLT to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to DIF saveformat., Free Online XLT to DIF Python., Python Convert XLT to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

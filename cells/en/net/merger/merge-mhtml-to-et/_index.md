@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ET - Combine MHTML to ET via C#
 url: /net/merger/merge-mhtml-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to ET saveformat. C# Combine MHTML to ET format. Combine MHTML to ET in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to ET saveformat via C#., Free Online Merge MHTML to et in C#., C# Combine MHTML to ET format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to ET C#. C# Merge MHTML to ET format. Combine MHTML to ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to ET., Free Online Merge MHTML to et in C#., C# Combine MHTML to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

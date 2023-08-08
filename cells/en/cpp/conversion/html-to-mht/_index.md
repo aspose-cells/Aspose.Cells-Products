@@ -1,7 +1,7 @@
 ---
-title: HTML to MHT - Convert HTML to MHT files C++
-description: Aspose Excel. Free Online Convert HTML to MHT saveformat. C++ HTML to MHT format. Save HTML as MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to MHT saveformat., Free Online HTML to MHT Converter]
+title: C++ HTML to MHT - Online HTML to MHT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to MHT saveformat. C++ HTML to MHT format. Save HTML to MHT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to MHT saveformat., Free Online HTML to MHT C++., C++ Convert HTML to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

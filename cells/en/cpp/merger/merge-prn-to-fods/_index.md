@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to FODS - Combine PRN to FODS via C++
 url: /cpp/merger/merge-prn-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to FODS saveformat. C++ Combine PRN to FODS format. Combine PRN to FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to FODS saveformat via C++., Free Online Merge PRN to fods in C++., C++ Combine PRN to FODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to FODS C++. C++ Merge PRN to FODS format. Combine PRN to FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to FODS., Free Online Merge PRN to fods in C++., C++ Combine PRN to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SQL - Combine JSON to SQL via Java
 url: /java/merger/merge-json-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to SQL saveformat. Java Combine JSON to SQL format. Combine JSON to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to SQL saveformat via Java., Free Online Merge JSON to sql in Java., Java Combine JSON to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to SQL Java. Java Merge JSON to SQL format. Combine JSON to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to SQL., Free Online Merge JSON to sql in Java., Java Combine JSON to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

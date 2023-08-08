@@ -1,7 +1,7 @@
 ---
-title: XLTX to CSV - Convert XLTX to CSV Python via Python
-description: Aspose Excel. Free Online Convert XLTX to CSV saveformat. Python XLTX to CSV format. Save XLTX as CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to CSV saveformat., Free Online XLTX to CSV Converter]
+title: Python XLTX to CSV - Convert XLTX to CSV Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to CSV saveformat. Python XLTX to CSV format. Save XLTX to CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to CSV saveformat., Free Online XLTX to CSV Python., Python Convert XLTX to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

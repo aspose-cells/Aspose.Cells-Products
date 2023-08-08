@@ -1,7 +1,7 @@
 ---
-title: XLTX to DIF - Convert XLTX to DIF files C#
-description: Aspose Excel. Free Online Convert XLTX to DIF saveformat. C# XLTX to DIF format. Save XLTX as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to DIF saveformat., Free Online XLTX to DIF Converter]
+title: C# XLTX to DIF - Online XLTX to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to DIF saveformat. C# XLTX to DIF format. Save XLTX to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to DIF saveformat., Free Online XLTX to DIF C#., C# Convert XLTX to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

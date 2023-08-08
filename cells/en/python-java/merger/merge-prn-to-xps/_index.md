@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XPS - Combine PRN to XPS via Python
 url: /python-java/merger/merge-prn-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to XPS saveformat. Python Combine PRN to XPS format. Combine PRN to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to XPS saveformat via Python., Free Online Merge PRN to xps in Python., Python Combine PRN to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PRN Merge. Free Online Merge PRN to XPS Python. Python Merge PRN to XPS format. Combine PRN to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PRN Merge., Python Merge PRN to XPS., Free Online Merge PRN to xps in Python., Python Combine PRN to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

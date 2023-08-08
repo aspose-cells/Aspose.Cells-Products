@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JSON - Combine PNG to JSON via Java
 url: /java/merger/merge-png-to-json/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to JSON saveformat. Java Combine PNG to JSON format. Combine PNG to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to JSON saveformat via Java., Free Online Merge PNG to json in Java., Java Combine PNG to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to JSON Java. Java Merge PNG to JSON format. Combine PNG to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to JSON., Free Online Merge PNG to json in Java., Java Combine PNG to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

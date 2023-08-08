@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SVG - Combine SXC to SVG via Java
 url: /java/merger/merge-sxc-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to SVG saveformat. Java Combine SXC to SVG format. Combine SXC to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to SVG saveformat via Java., Free Online Merge SXC to svg in Java., Java Combine SXC to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to SVG Java. Java Merge SXC to SVG format. Combine SXC to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to SVG., Free Online Merge SXC to svg in Java., Java Combine SXC to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

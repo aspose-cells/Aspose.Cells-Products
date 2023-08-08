@@ -1,7 +1,7 @@
 ---
-title: JPG to EXCEL - Convert JPG to EXCEL files Python via Python
-description: Aspose Excel. Free Online Convert JPG to EXCEL saveformat. Python JPG to EXCEL format. Save JPG as EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to EXCEL saveformat., Free Online JPG to EXCEL Converter]
+title: Python JPG to EXCEL - Convert JPG to EXCEL Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to EXCEL saveformat. Python JPG to EXCEL format. Save JPG to EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to EXCEL saveformat., Free Online JPG to EXCEL Python., Python Convert JPG to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

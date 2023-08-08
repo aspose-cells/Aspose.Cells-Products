@@ -1,7 +1,7 @@
 ---
-title: FODS to ET - Convert FODS to ET files Python via Python
-description: Aspose Excel. Free Online Convert FODS to ET saveformat. Python FODS to ET format. Save FODS as ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to ET saveformat., Free Online FODS to ET Converter]
+title: Python FODS to ET - Convert FODS to ET Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert FODS to ET saveformat. Python FODS to ET format. Save FODS to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to ET saveformat., Free Online FODS to ET Python., Python Convert FODS to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

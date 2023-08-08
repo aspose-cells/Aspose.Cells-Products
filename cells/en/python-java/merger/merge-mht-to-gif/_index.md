@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to GIF - Combine MHT to GIF via Python
 url: /python-java/merger/merge-mht-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to GIF saveformat. Python Combine MHT to GIF format. Combine MHT to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to GIF saveformat via Python., Free Online Merge MHT to gif in Python., Python Combine MHT to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to GIF Python. Python Merge MHT to GIF format. Combine MHT to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to GIF., Free Online Merge MHT to gif in Python., Python Combine MHT to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

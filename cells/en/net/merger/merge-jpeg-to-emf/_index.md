@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to EMF - Combine JPEG to EMF via C#
 url: /net/merger/merge-jpeg-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to EMF saveformat. C# Combine JPEG to EMF format. Combine JPEG to EMF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to EMF saveformat via C#., Free Online Merge JPEG to emf in C#., C# Combine JPEG to EMF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to EMF C#. C# Merge JPEG to EMF format. Combine JPEG to EMF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to EMF., Free Online Merge JPEG to emf in C#., C# Combine JPEG to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

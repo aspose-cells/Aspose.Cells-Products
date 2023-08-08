@@ -1,7 +1,7 @@
 ---
-title: XLTX to XLSB - Convert XLTX to XLSB files C#
-description: Aspose Excel. Free Online Convert XLTX to XLSB saveformat. C# XLTX to XLSB format. Save XLTX as XLSB in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to XLSB saveformat., Free Online XLTX to XLSB Converter]
+title: C# XLTX to XLSB - Online XLTX to XLSB Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to XLSB saveformat. C# XLTX to XLSB format. Save XLTX to XLSB C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to XLSB saveformat., Free Online XLTX to XLSB C#., C# Convert XLTX to XLSB]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

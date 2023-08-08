@@ -1,7 +1,7 @@
 ---
-title: SXC to XLAM - Convert SXC to XLAM files Python via Python
-description: Aspose Excel. Free Online Convert SXC to XLAM saveformat. Python SXC to XLAM format. Save SXC as XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to XLAM saveformat., Free Online SXC to XLAM Converter]
+title: Python SXC to XLAM - Convert SXC to XLAM Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to XLAM saveformat. Python SXC to XLAM format. Save SXC to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to XLAM saveformat., Free Online SXC to XLAM Python., Python Convert SXC to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

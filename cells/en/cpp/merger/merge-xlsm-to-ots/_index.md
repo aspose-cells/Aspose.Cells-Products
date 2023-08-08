@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to OTS - Combine XLSM to OTS via C++
 url: /cpp/merger/merge-xlsm-to-ots/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to OTS saveformat. C++ Combine XLSM to OTS format. Combine XLSM to OTS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to OTS saveformat via C++., Free Online Merge XLSM to ots in C++., C++ Combine XLSM to OTS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to OTS C++. C++ Merge XLSM to OTS format. Combine XLSM to OTS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to OTS., Free Online Merge XLSM to ots in C++., C++ Combine XLSM to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to MD - Convert JPG to MD files C#
-description: Aspose Excel. Free Online Convert JPG to MD saveformat. C# JPG to MD format. Save JPG as MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to MD saveformat., Free Online JPG to MD Converter]
+title: C# JPG to MD - Online JPG to MD Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to MD saveformat. C# JPG to MD format. Save JPG to MD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to MD saveformat., Free Online JPG to MD C#., C# Convert JPG to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

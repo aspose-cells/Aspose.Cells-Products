@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to XLTX - Convert NUMBERS to XLTX files C++
-description: Aspose Excel. Free Online Convert NUMBERS to XLTX saveformat. C++ NUMBERS to XLTX format. Save NUMBERS as XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLTX saveformat., Free Online NUMBERS to XLTX Converter]
+title: C++ NUMBERS to XLTX - Online NUMBERS to XLTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to XLTX saveformat. C++ NUMBERS to XLTX format. Save NUMBERS to XLTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to XLTX saveformat., Free Online NUMBERS to XLTX C++., C++ Convert NUMBERS to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

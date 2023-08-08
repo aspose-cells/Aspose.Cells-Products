@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to POWERPOINT - Combine XLSX to POWERPOINT via Java
 url: /java/merger/merge-xlsx-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to POWERPOINT saveformat. Java Combine XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSX to POWERPOINT saveformat via Java., Free Online Merge XLSX to powerpoint in Java., Java Combine XLSX to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSX Merge. Free Online Merge XLSX to POWERPOINT Java. Java Merge XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSX Merge., Java Merge XLSX to POWERPOINT., Free Online Merge XLSX to powerpoint in Java., Java Combine XLSX to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

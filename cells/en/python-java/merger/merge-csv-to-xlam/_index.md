@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLAM - Combine CSV to XLAM via Python
 url: /python-java/merger/merge-csv-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to XLAM saveformat. Python Combine CSV to XLAM format. Combine CSV to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to XLAM saveformat via Python., Free Online Merge CSV to xlam in Python., Python Combine CSV to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to XLAM Python. Python Merge CSV to XLAM format. Combine CSV to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to XLAM., Free Online Merge CSV to xlam in Python., Python Combine CSV to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

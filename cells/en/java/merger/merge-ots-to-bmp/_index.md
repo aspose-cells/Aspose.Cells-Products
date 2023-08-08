@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to BMP - Combine OTS to BMP via Java
 url: /java/merger/merge-ots-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to BMP saveformat. Java Combine OTS to BMP format. Combine OTS to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to BMP saveformat via Java., Free Online Merge OTS to bmp in Java., Java Combine OTS to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to BMP Java. Java Merge OTS to BMP format. Combine OTS to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to BMP., Free Online Merge OTS to bmp in Java., Java Combine OTS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

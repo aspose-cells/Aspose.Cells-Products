@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to GIF - Combine HTM to GIF via C#
 url: /net/merger/merge-htm-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to GIF saveformat. C# Combine HTM to GIF format. Combine HTM to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to GIF saveformat via C#., Free Online Merge HTM to gif in C#., C# Combine HTM to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to GIF C#. C# Merge HTM to GIF format. Combine HTM to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to GIF., Free Online Merge HTM to gif in C#., C# Combine HTM to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

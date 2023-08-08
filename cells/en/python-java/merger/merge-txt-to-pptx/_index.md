@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PPTX - Combine TXT to PPTX via Python
 url: /python-java/merger/merge-txt-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to PPTX saveformat. Python Combine TXT to PPTX format. Combine TXT to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to PPTX saveformat via Python., Free Online Merge TXT to pptx in Python., Python Combine TXT to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to PPTX Python. Python Merge TXT to PPTX format. Combine TXT to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to PPTX., Free Online Merge TXT to pptx in Python., Python Combine TXT to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

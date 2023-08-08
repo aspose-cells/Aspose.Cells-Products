@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ETT - Combine FODS to ETT via C++
 url: /cpp/merger/merge-fods-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to ETT saveformat. C++ Combine FODS to ETT format. Combine FODS to ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to ETT saveformat via C++., Free Online Merge FODS to ett in C++., C++ Combine FODS to ETT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to ETT C++. C++ Merge FODS to ETT format. Combine FODS to ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to ETT., Free Online Merge FODS to ett in C++., C++ Combine FODS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

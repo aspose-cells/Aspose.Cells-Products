@@ -1,7 +1,7 @@
 ---
-title: ODS to ET - Convert ODS to ET files Python via Python
-description: Aspose Excel. Free Online Convert ODS to ET saveformat. Python ODS to ET format. Save ODS as ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to ET saveformat., Free Online ODS to ET Converter]
+title: Python ODS to ET - Convert ODS to ET Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to ET saveformat. Python ODS to ET format. Save ODS to ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to ET saveformat., Free Online ODS to ET Python., Python Convert ODS to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

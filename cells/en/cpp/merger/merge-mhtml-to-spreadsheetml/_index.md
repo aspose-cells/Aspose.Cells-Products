@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SPREADSHEETML - Combine MHTML to SPREADSHEETML via C++
 url: /cpp/merger/merge-mhtml-to-spreadsheetml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to SPREADSHEETML saveformat. C++ Combine MHTML to SPREADSHEETML format. Combine MHTML to SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to SPREADSHEETML saveformat via C++., Free Online Merge MHTML to spreadsheetml in C++., C++ Combine MHTML to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHTML Merge. Free Online Merge MHTML to SPREADSHEETML C++. C++ Merge MHTML to SPREADSHEETML format. Combine MHTML to SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHTML Merge., C++ Merge MHTML to SPREADSHEETML., Free Online Merge MHTML to spreadsheetml in C++., C++ Combine MHTML to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

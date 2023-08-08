@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DOCX - Combine XLTM to DOCX via C++
 url: /cpp/merger/merge-xltm-to-docx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to DOCX saveformat. C++ Combine XLTM to DOCX format. Combine XLTM to DOCX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTM to DOCX saveformat via C++., Free Online Merge XLTM to docx in C++., C++ Combine XLTM to DOCX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTM Merge. Free Online Merge XLTM to DOCX C++. C++ Merge XLTM to DOCX format. Combine XLTM to DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTM Merge., C++ Merge XLTM to DOCX., Free Online Merge XLTM to docx in C++., C++ Combine XLTM to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

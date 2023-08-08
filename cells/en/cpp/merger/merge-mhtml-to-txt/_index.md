@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TXT - Combine MHTML to TXT via C++
 url: /cpp/merger/merge-mhtml-to-txt/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to TXT saveformat. C++ Combine MHTML to TXT format. Combine MHTML to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHTML to TXT saveformat via C++., Free Online Merge MHTML to txt in C++., C++ Combine MHTML to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHTML Merge. Free Online Merge MHTML to TXT C++. C++ Merge MHTML to TXT format. Combine MHTML to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHTML Merge., C++ Merge MHTML to TXT., Free Online Merge MHTML to txt in C++., C++ Combine MHTML to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

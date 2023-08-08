@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SQL - Combine XML to SQL via Python
 url: /python-net/merger/merge-xml-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to SQL saveformat. Python Combine XML to SQL format. Combine XML to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to SQL saveformat via Python., Free Online Merge XML to sql in Python., Python Combine XML to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to SQL Python. Python Merge XML to SQL format. Combine XML to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to SQL., Free Online Merge XML to sql in Python., Python Combine XML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

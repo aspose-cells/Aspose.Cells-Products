@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SXC - Combine PNG to SXC via C++
 url: /cpp/merger/merge-png-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to SXC saveformat. C++ Combine PNG to SXC format. Combine PNG to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to SXC saveformat via C++., Free Online Merge PNG to sxc in C++., C++ Combine PNG to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to SXC C++. C++ Merge PNG to SXC format. Combine PNG to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to SXC., Free Online Merge PNG to sxc in C++., C++ Combine PNG to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

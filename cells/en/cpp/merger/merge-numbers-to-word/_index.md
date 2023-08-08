@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to WORD - Combine NUMBERS to WORD via C++
 url: /cpp/merger/merge-numbers-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to WORD saveformat. C++ Combine NUMBERS to WORD format. Combine NUMBERS to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to WORD saveformat via C++., Free Online Merge NUMBERS to word in C++., C++ Combine NUMBERS to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to WORD C++. C++ Merge NUMBERS to WORD format. Combine NUMBERS to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to WORD., Free Online Merge NUMBERS to word in C++., C++ Combine NUMBERS to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

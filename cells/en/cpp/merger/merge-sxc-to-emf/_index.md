@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to EMF - Combine SXC to EMF via C++
 url: /cpp/merger/merge-sxc-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to EMF saveformat. C++ Combine SXC to EMF format. Combine SXC to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SXC to EMF saveformat via C++., Free Online Merge SXC to emf in C++., C++ Combine SXC to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SXC Merge. Free Online Merge SXC to EMF C++. C++ Merge SXC to EMF format. Combine SXC to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SXC Merge., C++ Merge SXC to EMF., Free Online Merge SXC to emf in C++., C++ Combine SXC to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

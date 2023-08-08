@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to EMF - Combine XLTM to EMF via C#
 url: /net/merger/merge-xltm-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to EMF saveformat. C# Combine XLTM to EMF format. Combine XLTM to EMF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTM to EMF saveformat via C#., Free Online Merge XLTM to emf in C#., C# Combine XLTM to EMF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTM Merge. Free Online Merge XLTM to EMF C#. C# Merge XLTM to EMF format. Combine XLTM to EMF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTM Merge., C# Merge XLTM to EMF., Free Online Merge XLTM to emf in C#., C# Combine XLTM to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

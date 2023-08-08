@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to ET - Combine JPEG to ET via C#
 url: /net/merger/merge-jpeg-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to ET saveformat. C# Combine JPEG to ET format. Combine JPEG to ET in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to ET saveformat via C#., Free Online Merge JPEG to et in C#., C# Combine JPEG to ET format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to ET C#. C# Merge JPEG to ET format. Combine JPEG to ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to ET., Free Online Merge JPEG to et in C#., C# Combine JPEG to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

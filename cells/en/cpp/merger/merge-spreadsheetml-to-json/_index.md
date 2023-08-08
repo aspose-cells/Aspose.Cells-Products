@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to JSON - Combine SPREADSHEETML to JSON via C++
 url: /cpp/merger/merge-spreadsheetml-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to JSON saveformat. C++ Combine SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to JSON saveformat via C++., Free Online Merge SPREADSHEETML to json in C++., C++ Combine SPREADSHEETML to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to JSON C++. C++ Merge SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to JSON., Free Online Merge SPREADSHEETML to json in C++., C++ Combine SPREADSHEETML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

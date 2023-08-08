@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to BMP - Combine JPEG to BMP via C++
 url: /cpp/merger/merge-jpeg-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to BMP saveformat. C++ Combine JPEG to BMP format. Combine JPEG to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to BMP saveformat via C++., Free Online Merge JPEG to bmp in C++., C++ Combine JPEG to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to BMP C++. C++ Merge JPEG to BMP format. Combine JPEG to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to BMP., Free Online Merge JPEG to bmp in C++., C++ Combine JPEG to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to ETT - Combine TSV to ETT via Java
 url: /java/merger/merge-tsv-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to ETT saveformat. Java Combine TSV to ETT format. Combine TSV to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TSV to ETT saveformat via Java., Free Online Merge TSV to ett in Java., Java Combine TSV to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TSV Merge. Free Online Merge TSV to ETT Java. Java Merge TSV to ETT format. Combine TSV to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TSV Merge., Java Merge TSV to ETT., Free Online Merge TSV to ett in Java., Java Combine TSV to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

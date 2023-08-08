@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DIF - Combine PRN to DIF via Java
 url: /java/merger/merge-prn-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to DIF saveformat. Java Combine PRN to DIF format. Combine PRN to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to DIF saveformat via Java., Free Online Merge PRN to dif in Java., Java Combine PRN to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to DIF Java. Java Merge PRN to DIF format. Combine PRN to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to DIF., Free Online Merge PRN to dif in Java., Java Combine PRN to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

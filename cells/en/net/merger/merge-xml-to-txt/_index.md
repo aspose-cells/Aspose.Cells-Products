@@ -1,8 +1,8 @@
 ---
 title: Merge XML to TXT - Combine XML to TXT via C#
 url: /net/merger/merge-xml-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to TXT saveformat. C# Combine XML to TXT format. Combine XML to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to TXT saveformat via C#., Free Online Merge XML to txt in C#., C# Combine XML to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to TXT C#. C# Merge XML to TXT format. Combine XML to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to TXT., Free Online Merge XML to txt in C#., C# Combine XML to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

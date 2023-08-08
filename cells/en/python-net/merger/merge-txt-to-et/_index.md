@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ET - Combine TXT to ET via Python
 url: /python-net/merger/merge-txt-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to ET saveformat. Python Combine TXT to ET format. Combine TXT to ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to ET saveformat via Python., Free Online Merge TXT to et in Python., Python Combine TXT to ET format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to ET Python. Python Merge TXT to ET format. Combine TXT to ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to ET., Free Online Merge TXT to et in Python., Python Combine TXT to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

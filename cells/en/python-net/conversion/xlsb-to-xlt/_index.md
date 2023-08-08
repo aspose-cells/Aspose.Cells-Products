@@ -1,7 +1,7 @@
 ---
-title: XLSB to XLT - Convert XLSB to XLT files Python via Python
-description: Aspose Excel. Free Online Convert XLSB to XLT saveformat. Python XLSB to XLT format. Save XLSB as XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to XLT saveformat., Free Online XLSB to XLT Converter]
+title: Python XLSB to XLT - Convert XLSB to XLT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to XLT saveformat. Python XLSB to XLT format. Save XLSB to XLT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLT saveformat., Free Online XLSB to XLT Python., Python Convert XLSB to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

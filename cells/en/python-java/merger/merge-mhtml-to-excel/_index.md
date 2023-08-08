@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to EXCEL - Combine MHTML to EXCEL via Python
 url: /python-java/merger/merge-mhtml-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to EXCEL saveformat. Python Combine MHTML to EXCEL format. Combine MHTML to EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to EXCEL saveformat via Python., Free Online Merge MHTML to excel in Python., Python Combine MHTML to EXCEL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to EXCEL Python. Python Merge MHTML to EXCEL format. Combine MHTML to EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to EXCEL., Free Online Merge MHTML to excel in Python., Python Combine MHTML to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to DIF - Convert NUMBERS to DIF files C++
-description: Aspose Excel. Free Online Convert NUMBERS to DIF saveformat. C++ NUMBERS to DIF format. Save NUMBERS as DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Converter]
+title: C++ NUMBERS to DIF - Online NUMBERS to DIF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to DIF saveformat. C++ NUMBERS to DIF format. Save NUMBERS to DIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to DIF saveformat., Free Online NUMBERS to DIF C++., C++ Convert NUMBERS to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

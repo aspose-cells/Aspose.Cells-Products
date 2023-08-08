@@ -1,7 +1,7 @@
 ---
-title: HTML to TXT - Convert HTML to TXT files Python via Python
-description: Aspose Excel. Free Online Convert HTML to TXT saveformat. Python HTML to TXT format. Save HTML as TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to TXT saveformat., Free Online HTML to TXT Converter]
+title: Python HTML to TXT - Convert HTML to TXT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to TXT saveformat. Python HTML to TXT format. Save HTML to TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to TXT saveformat., Free Online HTML to TXT Python., Python Convert HTML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

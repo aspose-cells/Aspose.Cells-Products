@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to POWERPOINT - Combine PRN to POWERPOINT via Java
 url: /java/merger/merge-prn-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to POWERPOINT saveformat. Java Combine PRN to POWERPOINT format. Combine PRN to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to POWERPOINT saveformat via Java., Free Online Merge PRN to powerpoint in Java., Java Combine PRN to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to POWERPOINT Java. Java Merge PRN to POWERPOINT format. Combine PRN to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to POWERPOINT., Free Online Merge PRN to powerpoint in Java., Java Combine PRN to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

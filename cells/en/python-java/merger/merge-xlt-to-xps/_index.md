@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XPS - Combine XLT to XPS via Python
 url: /python-java/merger/merge-xlt-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to XPS saveformat. Python Combine XLT to XPS format. Combine XLT to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to XPS saveformat via Python., Free Online Merge XLT to xps in Python., Python Combine XLT to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLT Merge. Free Online Merge XLT to XPS Python. Python Merge XLT to XPS format. Combine XLT to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLT Merge., Python Merge XLT to XPS., Free Online Merge XLT to xps in Python., Python Combine XLT to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

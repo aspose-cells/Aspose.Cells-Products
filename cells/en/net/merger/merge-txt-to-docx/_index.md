@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DOCX - Combine TXT to DOCX via C#
 url: /net/merger/merge-txt-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to DOCX saveformat. C# Combine TXT to DOCX format. Combine TXT to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to DOCX saveformat via C#., Free Online Merge TXT to docx in C#., C# Combine TXT to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to DOCX C#. C# Merge TXT to DOCX format. Combine TXT to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to DOCX., Free Online Merge TXT to docx in C#., C# Combine TXT to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

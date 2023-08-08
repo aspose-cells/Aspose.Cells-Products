@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to NUMBERS - Combine TXT to NUMBERS via Java
 url: /java/merger/merge-txt-to-numbers/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to NUMBERS saveformat. Java Combine TXT to NUMBERS format. Combine TXT to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to NUMBERS saveformat via Java., Free Online Merge TXT to numbers in Java., Java Combine TXT to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to NUMBERS Java. Java Merge TXT to NUMBERS format. Combine TXT to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to NUMBERS., Free Online Merge TXT to numbers in Java., Java Combine TXT to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

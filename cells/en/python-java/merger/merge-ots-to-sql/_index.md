@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to SQL - Combine OTS to SQL via Python
 url: /python-java/merger/merge-ots-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to SQL saveformat. Python Combine OTS to SQL format. Combine OTS to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to SQL saveformat via Python., Free Online Merge OTS to sql in Python., Python Combine OTS to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to SQL Python. Python Merge OTS to SQL format. Combine OTS to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to SQL., Free Online Merge OTS to sql in Python., Python Combine OTS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to TIFF - Combine XLT to TIFF via C++
 url: /cpp/merger/merge-xlt-to-tiff/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to TIFF saveformat. C++ Combine XLT to TIFF format. Combine XLT to TIFF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to TIFF saveformat via C++., Free Online Merge XLT to tiff in C++., C++ Combine XLT to TIFF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLT Merge. Free Online Merge XLT to TIFF C++. C++ Merge XLT to TIFF format. Combine XLT to TIFF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLT Merge., C++ Merge XLT to TIFF., Free Online Merge XLT to tiff in C++., C++ Combine XLT to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

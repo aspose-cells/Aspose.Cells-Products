@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to DOCX - Combine JPEG to DOCX via Python
 url: /python-java/merger/merge-jpeg-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to DOCX saveformat. Python Combine JPEG to DOCX format. Combine JPEG to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPEG to DOCX saveformat via Python., Free Online Merge JPEG to docx in Python., Python Combine JPEG to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPEG Merge. Free Online Merge JPEG to DOCX Python. Python Merge JPEG to DOCX format. Combine JPEG to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPEG Merge., Python Merge JPEG to DOCX., Free Online Merge JPEG to docx in Python., Python Combine JPEG to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

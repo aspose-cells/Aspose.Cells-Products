@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to JSON - Combine CSV to JSON via Python
 url: /python-java/merger/merge-csv-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to JSON saveformat. Python Combine CSV to JSON format. Combine CSV to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to JSON saveformat via Python., Free Online Merge CSV to json in Python., Python Combine CSV to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to JSON Python. Python Merge CSV to JSON format. Combine CSV to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to JSON., Free Online Merge CSV to json in Python., Python Combine CSV to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

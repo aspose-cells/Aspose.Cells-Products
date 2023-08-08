@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLS - Combine HTML to XLS via C#
 url: /net/merger/merge-html-to-xls/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to XLS saveformat. C# Combine HTML to XLS format. Combine HTML to XLS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to XLS saveformat via C#., Free Online Merge HTML to xls in C#., C# Combine HTML to XLS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to XLS C#. C# Merge HTML to XLS format. Combine HTML to XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to XLS., Free Online Merge HTML to xls in C#., C# Combine HTML to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to POWERPOINT - Combine FODS to POWERPOINT via C++
 url: /cpp/merger/merge-fods-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to POWERPOINT saveformat. C++ Combine FODS to POWERPOINT format. Combine FODS to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to POWERPOINT saveformat via C++., Free Online Merge FODS to powerpoint in C++., C++ Combine FODS to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to POWERPOINT C++. C++ Merge FODS to POWERPOINT format. Combine FODS to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to POWERPOINT., Free Online Merge FODS to powerpoint in C++., C++ Combine FODS to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLAM - Combine PNG to XLAM via C++
 url: /cpp/merger/merge-png-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to XLAM saveformat. C++ Combine PNG to XLAM format. Combine PNG to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to XLAM saveformat via C++., Free Online Merge PNG to xlam in C++., C++ Combine PNG to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to XLAM C++. C++ Merge PNG to XLAM format. Combine PNG to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to XLAM., Free Online Merge PNG to xlam in C++., C++ Combine PNG to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

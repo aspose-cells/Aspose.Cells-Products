@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to EXCEL - Combine HTM to EXCEL via C++
 url: /cpp/merger/merge-htm-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to EXCEL saveformat. C++ Combine HTM to EXCEL format. Combine HTM to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to EXCEL saveformat via C++., Free Online Merge HTM to excel in C++., C++ Combine HTM to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to EXCEL C++. C++ Merge HTM to EXCEL format. Combine HTM to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to EXCEL., Free Online Merge HTM to excel in C++., C++ Combine HTM to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

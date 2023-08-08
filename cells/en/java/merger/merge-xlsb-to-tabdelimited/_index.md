@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TABDELIMITED - Combine XLSB to TABDELIMITED via Java
 url: /java/merger/merge-xlsb-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to TABDELIMITED saveformat. Java Combine XLSB to TABDELIMITED format. Combine XLSB to TABDELIMITED in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to TABDELIMITED saveformat via Java., Free Online Merge XLSB to tabdelimited in Java., Java Combine XLSB to TABDELIMITED format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSB Merge. Free Online Merge XLSB to TABDELIMITED Java. Java Merge XLSB to TABDELIMITED format. Combine XLSB to TABDELIMITED in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSB Merge., Java Merge XLSB to TABDELIMITED., Free Online Merge XLSB to tabdelimited in Java., Java Combine XLSB to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

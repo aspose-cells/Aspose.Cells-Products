@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to CSV - Combine PNG to CSV via Python
 url: /python-java/merger/merge-png-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to CSV saveformat. Python Combine PNG to CSV format. Combine PNG to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to CSV saveformat via Python., Free Online Merge PNG to csv in Python., Python Combine PNG to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to CSV Python. Python Merge PNG to CSV format. Combine PNG to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to CSV., Free Online Merge PNG to csv in Python., Python Combine PNG to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

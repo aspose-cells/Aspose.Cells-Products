@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to PRN - Combine JPEG to PRN via Java
 url: /java/merger/merge-jpeg-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to PRN saveformat. Java Combine JPEG to PRN format. Combine JPEG to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to PRN saveformat via Java., Free Online Merge JPEG to prn in Java., Java Combine JPEG to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to PRN Java. Java Merge JPEG to PRN format. Combine JPEG to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to PRN., Free Online Merge JPEG to prn in Java., Java Combine JPEG to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSX to POWERPOINT - Convert XLSX to POWERPOINT files Python via Python
-description: Aspose Excel. Free Online Convert XLSX to POWERPOINT saveformat. Python XLSX to POWERPOINT format. Save XLSX as POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to POWERPOINT saveformat., Free Online XLSX to POWERPOINT Converter]
+title: Python XLSX to POWERPOINT - Convert XLSX to POWERPOINT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to POWERPOINT saveformat. Python XLSX to POWERPOINT format. Save XLSX to POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to POWERPOINT saveformat., Free Online XLSX to POWERPOINT Python., Python Convert XLSX to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

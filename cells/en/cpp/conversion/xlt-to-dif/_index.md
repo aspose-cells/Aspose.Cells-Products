@@ -1,7 +1,7 @@
 ---
-title: XLT to DIF - Convert XLT to DIF files C++
-description: Aspose Excel. Free Online Convert XLT to DIF saveformat. C++ XLT to DIF format. Save XLT as DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to DIF saveformat., Free Online XLT to DIF Converter]
+title: C++ XLT to DIF - Online XLT to DIF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLT to DIF saveformat. C++ XLT to DIF format. Save XLT to DIF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to DIF saveformat., Free Online XLT to DIF C++., C++ Convert XLT to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to GIF - Combine JPEG to GIF via C#
 url: /net/merger/merge-jpeg-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to GIF saveformat. C# Combine JPEG to GIF format. Combine JPEG to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to GIF saveformat via C#., Free Online Merge JPEG to gif in C#., C# Combine JPEG to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to GIF C#. C# Merge JPEG to GIF format. Combine JPEG to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to GIF., Free Online Merge JPEG to gif in C#., C# Combine JPEG to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

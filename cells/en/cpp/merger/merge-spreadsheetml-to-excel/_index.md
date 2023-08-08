@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to EXCEL - Combine SPREADSHEETML to EXCEL via C++
 url: /cpp/merger/merge-spreadsheetml-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to EXCEL saveformat. C++ Combine SPREADSHEETML to EXCEL format. Combine SPREADSHEETML to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to EXCEL saveformat via C++., Free Online Merge SPREADSHEETML to excel in C++., C++ Combine SPREADSHEETML to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to EXCEL C++. C++ Merge SPREADSHEETML to EXCEL format. Combine SPREADSHEETML to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to EXCEL., Free Online Merge SPREADSHEETML to excel in C++., C++ Combine SPREADSHEETML to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

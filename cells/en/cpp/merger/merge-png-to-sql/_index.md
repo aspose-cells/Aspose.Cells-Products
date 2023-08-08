@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to SQL - Combine PNG to SQL via C++
 url: /cpp/merger/merge-png-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to SQL saveformat. C++ Combine PNG to SQL format. Combine PNG to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to SQL saveformat via C++., Free Online Merge PNG to sql in C++., C++ Combine PNG to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to SQL C++. C++ Merge PNG to SQL format. Combine PNG to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to SQL., Free Online Merge PNG to sql in C++., C++ Combine PNG to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

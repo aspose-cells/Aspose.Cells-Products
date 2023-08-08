@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DOCX - Combine IMAGE to DOCX via Python
 url: /python-java/merger/merge-image-to-docx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to DOCX saveformat. Python Combine IMAGE to DOCX format. Combine IMAGE to DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to DOCX saveformat via Python., Free Online Merge IMAGE to docx in Python., Python Combine IMAGE to DOCX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to DOCX Python. Python Merge IMAGE to DOCX format. Combine IMAGE to DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to DOCX., Free Online Merge IMAGE to docx in Python., Python Combine IMAGE to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

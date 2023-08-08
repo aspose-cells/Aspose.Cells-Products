@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLT - Combine MHTML to XLT via Python
 url: /python-java/merger/merge-mhtml-to-xlt/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XLT saveformat. Python Combine MHTML to XLT format. Combine MHTML to XLT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to XLT saveformat via Python., Free Online Merge MHTML to xlt in Python., Python Combine MHTML to XLT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to XLT Python. Python Merge MHTML to XLT format. Combine MHTML to XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to XLT., Free Online Merge MHTML to xlt in Python., Python Combine MHTML to XLT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

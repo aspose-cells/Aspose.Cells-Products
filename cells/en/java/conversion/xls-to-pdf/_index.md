@@ -1,7 +1,7 @@
 ---
-title: XLS to PDF - Convert XLS to PDF files Java
-description: Aspose Excel. Free Online Convert XLS to PDF saveformat. Java XLS to PDF format. Save XLS as PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to PDF saveformat., Free Online XLS to PDF Converter]
+title: Java XLS to PDF - Online XLS to PDF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to PDF saveformat. Java XLS to PDF format. Save XLS to PDF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to PDF saveformat., Free Online XLS to PDF Java., Java Convert XLS to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

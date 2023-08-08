@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to DOCX - Combine XLSX to DOCX via C#
 url: /net/merger/merge-xlsx-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to DOCX saveformat. C# Combine XLSX to DOCX format. Combine XLSX to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to DOCX saveformat via C#., Free Online Merge XLSX to docx in C#., C# Combine XLSX to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to DOCX C#. C# Merge XLSX to DOCX format. Combine XLSX to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to DOCX., Free Online Merge XLSX to docx in C#., C# Combine XLSX to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

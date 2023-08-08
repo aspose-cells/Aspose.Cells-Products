@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to GIF - Combine FODS to GIF via C++
 url: /cpp/merger/merge-fods-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to GIF saveformat. C++ Combine FODS to GIF format. Combine FODS to GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to GIF saveformat via C++., Free Online Merge FODS to gif in C++., C++ Combine FODS to GIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to GIF C++. C++ Merge FODS to GIF format. Combine FODS to GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to GIF., Free Online Merge FODS to gif in C++., C++ Combine FODS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

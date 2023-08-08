@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PPTX - Combine PNG to PPTX via C#
 url: /net/merger/merge-png-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to PPTX saveformat. C# Combine PNG to PPTX format. Combine PNG to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to PPTX saveformat via C#., Free Online Merge PNG to pptx in C#., C# Combine PNG to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to PPTX C#. C# Merge PNG to PPTX format. Combine PNG to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to PPTX., Free Online Merge PNG to pptx in C#., C# Combine PNG to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

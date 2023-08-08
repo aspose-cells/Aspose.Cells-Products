@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MHT - Combine PNG to MHT via Java
 url: /java/merger/merge-png-to-mht/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to MHT saveformat. Java Combine PNG to MHT format. Combine PNG to MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to MHT saveformat via Java., Free Online Merge PNG to mht in Java., Java Combine PNG to MHT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to MHT Java. Java Merge PNG to MHT format. Combine PNG to MHT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to MHT., Free Online Merge PNG to mht in Java., Java Combine PNG to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

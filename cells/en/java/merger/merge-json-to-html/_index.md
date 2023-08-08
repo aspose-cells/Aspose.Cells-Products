@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to HTML - Combine JSON to HTML via Java
 url: /java/merger/merge-json-to-html/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to HTML saveformat. Java Combine JSON to HTML format. Combine JSON to HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to HTML saveformat via Java., Free Online Merge JSON to html in Java., Java Combine JSON to HTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to HTML Java. Java Merge JSON to HTML format. Combine JSON to HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to HTML., Free Online Merge JSON to html in Java., Java Combine JSON to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

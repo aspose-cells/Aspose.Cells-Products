@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to OTS - Combine XLSB to OTS via Python
 url: /python-net/merger/merge-xlsb-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to OTS saveformat. Python Combine XLSB to OTS format. Combine XLSB to OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to OTS saveformat via Python., Free Online Merge XLSB to ots in Python., Python Combine XLSB to OTS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to OTS Python. Python Merge XLSB to OTS format. Combine XLSB to OTS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to OTS., Free Online Merge XLSB to ots in Python., Python Combine XLSB to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

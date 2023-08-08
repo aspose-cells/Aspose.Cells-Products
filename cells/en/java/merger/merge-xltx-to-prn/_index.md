@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PRN - Combine XLTX to PRN via Java
 url: /java/merger/merge-xltx-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to PRN saveformat. Java Combine XLTX to PRN format. Combine XLTX to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to PRN saveformat via Java., Free Online Merge XLTX to prn in Java., Java Combine XLTX to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTX Merge. Free Online Merge XLTX to PRN Java. Java Merge XLTX to PRN format. Combine XLTX to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTX Merge., Java Merge XLTX to PRN., Free Online Merge XLTX to prn in Java., Java Combine XLTX to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

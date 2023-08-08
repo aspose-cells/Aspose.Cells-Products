@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XPS - Combine JPG to XPS via Java
 url: /java/merger/merge-jpg-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to XPS saveformat. Java Combine JPG to XPS format. Combine JPG to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to XPS saveformat via Java., Free Online Merge JPG to xps in Java., Java Combine JPG to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to XPS Java. Java Merge JPG to XPS format. Combine JPG to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to XPS., Free Online Merge JPG to xps in Java., Java Combine JPG to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

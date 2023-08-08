@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to ETT - Combine ODS to ETT via C#
 url: /net/merger/merge-ods-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to ETT saveformat. C# Combine ODS to ETT format. Combine ODS to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to ETT saveformat via C#., Free Online Merge ODS to ett in C#., C# Combine ODS to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to ETT C#. C# Merge ODS to ETT format. Combine ODS to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to ETT., Free Online Merge ODS to ett in C#., C# Combine ODS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

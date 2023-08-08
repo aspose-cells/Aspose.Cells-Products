@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SXC - Combine XLSM to SXC via C++
 url: /cpp/merger/merge-xlsm-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to SXC saveformat. C++ Combine XLSM to SXC format. Combine XLSM to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to SXC saveformat via C++., Free Online Merge XLSM to sxc in C++., C++ Combine XLSM to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to SXC C++. C++ Merge XLSM to SXC format. Combine XLSM to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to SXC., Free Online Merge XLSM to sxc in C++., C++ Combine XLSM to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

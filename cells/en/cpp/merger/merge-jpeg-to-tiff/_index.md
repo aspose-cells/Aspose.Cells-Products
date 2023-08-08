@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to TIFF - Combine JPEG to TIFF via C++
 url: /cpp/merger/merge-jpeg-to-tiff/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to TIFF saveformat. C++ Combine JPEG to TIFF format. Combine JPEG to TIFF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to TIFF saveformat via C++., Free Online Merge JPEG to tiff in C++., C++ Combine JPEG to TIFF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to TIFF C++. C++ Merge JPEG to TIFF format. Combine JPEG to TIFF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to TIFF., Free Online Merge JPEG to tiff in C++., C++ Combine JPEG to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to BMP - Combine MHTML to BMP via Java
 url: /java/merger/merge-mhtml-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to BMP saveformat. Java Combine MHTML to BMP format. Combine MHTML to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to BMP saveformat via Java., Free Online Merge MHTML to bmp in Java., Java Combine MHTML to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to BMP Java. Java Merge MHTML to BMP format. Combine MHTML to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to BMP., Free Online Merge MHTML to bmp in Java., Java Combine MHTML to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

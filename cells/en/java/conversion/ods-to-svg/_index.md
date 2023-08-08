@@ -1,7 +1,7 @@
 ---
-title: ODS to SVG - Convert ODS to SVG files Java
-description: Aspose Excel. Free Online Convert ODS to SVG saveformat. Java ODS to SVG format. Save ODS as SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to SVG saveformat., Free Online ODS to SVG Converter]
+title: Java ODS to SVG - Online ODS to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to SVG saveformat. Java ODS to SVG format. Save ODS to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SVG saveformat., Free Online ODS to SVG Java., Java Convert ODS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

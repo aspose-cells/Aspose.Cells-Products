@@ -1,7 +1,7 @@
 ---
-title: SXC to TABDELIMITED - Convert SXC to TABDELIMITED files Python via Python
-description: Aspose Excel. Free Online Convert SXC to TABDELIMITED saveformat. Python SXC to TABDELIMITED format. Save SXC as TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to TABDELIMITED saveformat., Free Online SXC to TABDELIMITED Converter]
+title: Python SXC to TABDELIMITED - Convert SXC to TABDELIMITED Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to TABDELIMITED saveformat. Python SXC to TABDELIMITED format. Save SXC to TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to TABDELIMITED saveformat., Free Online SXC to TABDELIMITED Python., Python Convert SXC to TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

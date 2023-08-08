@@ -1,7 +1,7 @@
 ---
-title: MHTML to SQL - Convert MHTML to SQL files Java
-description: Aspose Excel. Free Online Convert MHTML to SQL saveformat. Java MHTML to SQL format. Save MHTML as SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to SQL saveformat., Free Online MHTML to SQL Converter]
+title: Java MHTML to SQL - Online MHTML to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to SQL saveformat. Java MHTML to SQL format. Save MHTML to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to SQL saveformat., Free Online MHTML to SQL Java., Java Convert MHTML to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

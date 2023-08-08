@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XPS - Combine ODS to XPS via Java
 url: /java/merger/merge-ods-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to XPS saveformat. Java Combine ODS to XPS format. Combine ODS to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to XPS saveformat via Java., Free Online Merge ODS to xps in Java., Java Combine ODS to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to XPS Java. Java Merge ODS to XPS format. Combine ODS to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to XPS., Free Online Merge ODS to xps in Java., Java Combine ODS to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

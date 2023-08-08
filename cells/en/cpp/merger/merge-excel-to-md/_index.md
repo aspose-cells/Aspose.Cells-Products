@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MD - Combine EXCEL to MD via C++
 url: /cpp/merger/merge-excel-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to MD saveformat. C++ Combine EXCEL to MD format. Combine EXCEL to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to MD saveformat via C++., Free Online Merge EXCEL to md in C++., C++ Combine EXCEL to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to MD C++. C++ Merge EXCEL to MD format. Combine EXCEL to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., EXCEL Merge., C++ Merge EXCEL to MD., Free Online Merge EXCEL to md in C++., C++ Combine EXCEL to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

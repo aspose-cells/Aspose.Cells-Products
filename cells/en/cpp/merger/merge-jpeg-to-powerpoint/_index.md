@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to POWERPOINT - Combine JPEG to POWERPOINT via C++
 url: /cpp/merger/merge-jpeg-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to POWERPOINT saveformat. C++ Combine JPEG to POWERPOINT format. Combine JPEG to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to POWERPOINT saveformat via C++., Free Online Merge JPEG to powerpoint in C++., C++ Combine JPEG to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to POWERPOINT C++. C++ Merge JPEG to POWERPOINT format. Combine JPEG to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to POWERPOINT., Free Online Merge JPEG to powerpoint in C++., C++ Combine JPEG to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

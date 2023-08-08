@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XML - Combine HTM to XML via Python
 url: /python-net/merger/merge-htm-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XML saveformat. Python Combine HTM to XML format. Combine HTM to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to XML saveformat via Python., Free Online Merge HTM to xml in Python., Python Combine HTM to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to XML Python. Python Merge HTM to XML format. Combine HTM to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to XML., Free Online Merge HTM to xml in Python., Python Combine HTM to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PRN - Combine EXCEL to PRN via Java
 url: /java/merger/merge-excel-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to PRN saveformat. Java Combine EXCEL to PRN format. Combine EXCEL to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to PRN saveformat via Java., Free Online Merge EXCEL to prn in Java., Java Combine EXCEL to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to PRN Java. Java Merge EXCEL to PRN format. Combine EXCEL to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to PRN., Free Online Merge EXCEL to prn in Java., Java Combine EXCEL to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

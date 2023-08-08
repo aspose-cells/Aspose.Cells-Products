@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to GIF - Combine ODS to GIF via Python
 url: /python-net/merger/merge-ods-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to GIF saveformat. Python Combine ODS to GIF format. Combine ODS to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to GIF saveformat via Python., Free Online Merge ODS to gif in Python., Python Combine ODS to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to GIF Python. Python Merge ODS to GIF format. Combine ODS to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to GIF., Free Online Merge ODS to gif in Python., Python Combine ODS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

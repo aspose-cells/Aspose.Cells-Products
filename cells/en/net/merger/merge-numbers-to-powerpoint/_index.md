@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to POWERPOINT - Combine NUMBERS to POWERPOINT via C#
 url: /net/merger/merge-numbers-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to POWERPOINT saveformat. C# Combine NUMBERS to POWERPOINT format. Combine NUMBERS to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to POWERPOINT saveformat via C#., Free Online Merge NUMBERS to powerpoint in C#., C# Combine NUMBERS to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to POWERPOINT C#. C# Merge NUMBERS to POWERPOINT format. Combine NUMBERS to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to POWERPOINT., Free Online Merge NUMBERS to powerpoint in C#., C# Combine NUMBERS to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

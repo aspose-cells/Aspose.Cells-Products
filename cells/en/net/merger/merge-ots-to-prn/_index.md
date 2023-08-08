@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PRN - Combine OTS to PRN via C#
 url: /net/merger/merge-ots-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to PRN saveformat. C# Combine OTS to PRN format. Combine OTS to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to PRN saveformat via C#., Free Online Merge OTS to prn in C#., C# Combine OTS to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. OTS Merge. Free Online Merge OTS to PRN C#. C# Merge OTS to PRN format. Combine OTS to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., OTS Merge., C# Merge OTS to PRN., Free Online Merge OTS to prn in C#., C# Combine OTS to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

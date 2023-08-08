@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MD - Combine ODS to MD via C#
 url: /net/merger/merge-ods-to-md/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to MD saveformat. C# Combine ODS to MD format. Combine ODS to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to MD saveformat via C#., Free Online Merge ODS to md in C#., C# Combine ODS to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to MD C#. C# Merge ODS to MD format. Combine ODS to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to MD., Free Online Merge ODS to md in C#., C# Combine ODS to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

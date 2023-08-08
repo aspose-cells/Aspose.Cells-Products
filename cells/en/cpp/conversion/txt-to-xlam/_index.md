@@ -1,7 +1,7 @@
 ---
-title: TXT to XLAM - Convert TXT to XLAM files C++
-description: Aspose Excel. Free Online Convert TXT to XLAM saveformat. C++ TXT to XLAM format. Save TXT as XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to XLAM saveformat., Free Online TXT to XLAM Converter]
+title: C++ TXT to XLAM - Online TXT to XLAM Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to XLAM saveformat. C++ TXT to XLAM format. Save TXT to XLAM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to XLAM saveformat., Free Online TXT to XLAM C++., C++ Convert TXT to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

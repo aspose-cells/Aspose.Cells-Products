@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to POWERPOINT - Combine FODS to POWERPOINT via Python
 url: /python-java/merger/merge-fods-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to POWERPOINT saveformat. Python Combine FODS to POWERPOINT format. Combine FODS to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to POWERPOINT saveformat via Python., Free Online Merge FODS to powerpoint in Python., Python Combine FODS to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to POWERPOINT Python. Python Merge FODS to POWERPOINT format. Combine FODS to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to POWERPOINT., Free Online Merge FODS to powerpoint in Python., Python Combine FODS to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to DOCX - Combine OTS to DOCX via C#
 url: /net/merger/merge-ots-to-docx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to DOCX saveformat. C# Combine OTS to DOCX format. Combine OTS to DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to DOCX saveformat via C#., Free Online Merge OTS to docx in C#., C# Combine OTS to DOCX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. OTS Merge. Free Online Merge OTS to DOCX C#. C# Merge OTS to DOCX format. Combine OTS to DOCX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., OTS Merge., C# Merge OTS to DOCX., Free Online Merge OTS to docx in C#., C# Combine OTS to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

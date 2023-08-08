@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TIFF - Combine JPG to TIFF via Python
 url: /python-java/merger/merge-jpg-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to TIFF saveformat. Python Combine JPG to TIFF format. Combine JPG to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to TIFF saveformat via Python., Free Online Merge JPG to tiff in Python., Python Combine JPG to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to TIFF Python. Python Merge JPG to TIFF format. Combine JPG to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to TIFF., Free Online Merge JPG to tiff in Python., Python Combine JPG to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

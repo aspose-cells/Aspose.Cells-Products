@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MARKDOWN - Combine HTML to MARKDOWN via C++
 url: /cpp/merger/merge-html-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to MARKDOWN saveformat. C++ Combine HTML to MARKDOWN format. Combine HTML to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to MARKDOWN saveformat via C++., Free Online Merge HTML to markdown in C++., C++ Combine HTML to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to MARKDOWN C++. C++ Merge HTML to MARKDOWN format. Combine HTML to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to MARKDOWN., Free Online Merge HTML to markdown in C++., C++ Combine HTML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

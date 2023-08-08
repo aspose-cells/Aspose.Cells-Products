@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PPTX - Combine JPG to PPTX via C#
 url: /net/merger/merge-jpg-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to PPTX saveformat. C# Combine JPG to PPTX format. Combine JPG to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to PPTX saveformat via C#., Free Online Merge JPG to pptx in C#., C# Combine JPG to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to PPTX C#. C# Merge JPG to PPTX format. Combine JPG to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to PPTX., Free Online Merge JPG to pptx in C#., C# Combine JPG to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SXC - Combine HTM to SXC via C++
 url: /cpp/merger/merge-htm-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to SXC saveformat. C++ Combine HTM to SXC format. Combine HTM to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to SXC saveformat via C++., Free Online Merge HTM to sxc in C++., C++ Combine HTM to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to SXC C++. C++ Merge HTM to SXC format. Combine HTM to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to SXC., Free Online Merge HTM to sxc in C++., C++ Combine HTM to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

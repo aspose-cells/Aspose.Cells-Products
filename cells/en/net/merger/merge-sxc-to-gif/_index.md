@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to GIF - Combine SXC to GIF via C#
 url: /net/merger/merge-sxc-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to GIF saveformat. C# Combine SXC to GIF format. Combine SXC to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to GIF saveformat via C#., Free Online Merge SXC to gif in C#., C# Combine SXC to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to GIF C#. C# Merge SXC to GIF format. Combine SXC to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to GIF., Free Online Merge SXC to gif in C#., C# Combine SXC to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

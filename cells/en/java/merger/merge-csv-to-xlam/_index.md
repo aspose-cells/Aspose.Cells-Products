@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XLAM - Combine CSV to XLAM via Java
 url: /java/merger/merge-csv-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to XLAM saveformat. Java Combine CSV to XLAM format. Combine CSV to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to XLAM saveformat via Java., Free Online Merge CSV to xlam in Java., Java Combine CSV to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. CSV Merge. Free Online Merge CSV to XLAM Java. Java Merge CSV to XLAM format. Combine CSV to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., CSV Merge., Java Merge CSV to XLAM., Free Online Merge CSV to xlam in Java., Java Combine CSV to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

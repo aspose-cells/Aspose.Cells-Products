@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLS - Combine JSON to XLS via Python
 url: /python-net/merger/merge-json-to-xls/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to XLS saveformat. Python Combine JSON to XLS format. Combine JSON to XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to XLS saveformat via Python., Free Online Merge JSON to xls in Python., Python Combine JSON to XLS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JSON Merge. Free Online Merge JSON to XLS Python. Python Merge JSON to XLS format. Combine JSON to XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JSON Merge., Python Merge JSON to XLS., Free Online Merge JSON to xls in Python., Python Combine JSON to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

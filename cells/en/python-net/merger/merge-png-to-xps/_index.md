@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XPS - Combine PNG to XPS via Python
 url: /python-net/merger/merge-png-to-xps/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to XPS saveformat. Python Combine PNG to XPS format. Combine PNG to XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to XPS saveformat via Python., Free Online Merge PNG to xps in Python., Python Combine PNG to XPS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to XPS Python. Python Merge PNG to XPS format. Combine PNG to XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to XPS., Free Online Merge PNG to xps in Python., Python Combine PNG to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

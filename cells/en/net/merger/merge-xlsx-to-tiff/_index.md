@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to TIFF - Combine XLSX to TIFF via C#
 url: /net/merger/merge-xlsx-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to TIFF saveformat. C# Combine XLSX to TIFF format. Combine XLSX to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to TIFF saveformat via C#., Free Online Merge XLSX to tiff in C#., C# Combine XLSX to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to TIFF C#. C# Merge XLSX to TIFF format. Combine XLSX to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to TIFF., Free Online Merge XLSX to tiff in C#., C# Combine XLSX to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

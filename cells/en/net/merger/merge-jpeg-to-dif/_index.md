@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to DIF - Combine JPEG to DIF via C#
 url: /net/merger/merge-jpeg-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to DIF saveformat. C# Combine JPEG to DIF format. Combine JPEG to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to DIF saveformat via C#., Free Online Merge JPEG to dif in C#., C# Combine JPEG to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to DIF C#. C# Merge JPEG to DIF format. Combine JPEG to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to DIF., Free Online Merge JPEG to dif in C#., C# Combine JPEG to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

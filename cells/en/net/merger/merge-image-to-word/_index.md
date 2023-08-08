@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to WORD - Combine IMAGE to WORD via C#
 url: /net/merger/merge-image-to-word/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to WORD saveformat. C# Combine IMAGE to WORD format. Combine IMAGE to WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine IMAGE to WORD saveformat via C#., Free Online Merge IMAGE to word in C#., C# Combine IMAGE to WORD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to WORD C#. C# Merge IMAGE to WORD format. Combine IMAGE to WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., IMAGE Merge., C# Merge IMAGE to WORD., Free Online Merge IMAGE to word in C#., C# Combine IMAGE to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

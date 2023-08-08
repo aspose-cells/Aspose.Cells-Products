@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SVG - Combine XLTX to SVG via C#
 url: /net/merger/merge-xltx-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to SVG saveformat. C# Combine XLTX to SVG format. Combine XLTX to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to SVG saveformat via C#., Free Online Merge XLTX to svg in C#., C# Combine XLTX to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTX Merge. Free Online Merge XLTX to SVG C#. C# Merge XLTX to SVG format. Combine XLTX to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTX Merge., C# Merge XLTX to SVG., Free Online Merge XLTX to svg in C#., C# Combine XLTX to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

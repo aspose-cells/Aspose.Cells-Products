@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MARKDOWN - Combine EXCEL to MARKDOWN via C++
 url: /cpp/merger/merge-excel-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to MARKDOWN saveformat. C++ Combine EXCEL to MARKDOWN format. Combine EXCEL to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine EXCEL to MARKDOWN saveformat via C++., Free Online Merge EXCEL to markdown in C++., C++ Combine EXCEL to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to MARKDOWN C++. C++ Merge EXCEL to MARKDOWN format. Combine EXCEL to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., EXCEL Merge., C++ Merge EXCEL to MARKDOWN., Free Online Merge EXCEL to markdown in C++., C++ Combine EXCEL to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

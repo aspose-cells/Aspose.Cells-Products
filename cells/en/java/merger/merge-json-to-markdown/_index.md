@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MARKDOWN - Combine JSON to MARKDOWN via Java
 url: /java/merger/merge-json-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to MARKDOWN saveformat. Java Combine JSON to MARKDOWN format. Combine JSON to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to MARKDOWN saveformat via Java., Free Online Merge JSON to markdown in Java., Java Combine JSON to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to MARKDOWN Java. Java Merge JSON to MARKDOWN format. Combine JSON to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to MARKDOWN., Free Online Merge JSON to markdown in Java., Java Combine JSON to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MHT - Combine PRN to MHT via Python
 url: /python-net/merger/merge-prn-to-mht/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to MHT saveformat. Python Combine PRN to MHT format. Combine PRN to MHT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PRN to MHT saveformat via Python., Free Online Merge PRN to mht in Python., Python Combine PRN to MHT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PRN Merge. Free Online Merge PRN to MHT Python. Python Merge PRN to MHT format. Combine PRN to MHT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PRN Merge., Python Merge PRN to MHT., Free Online Merge PRN to mht in Python., Python Combine PRN to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

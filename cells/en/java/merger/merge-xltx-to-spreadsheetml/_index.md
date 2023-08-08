@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SPREADSHEETML - Combine XLTX to SPREADSHEETML via Java
 url: /java/merger/merge-xltx-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to SPREADSHEETML saveformat. Java Combine XLTX to SPREADSHEETML format. Combine XLTX to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to SPREADSHEETML saveformat via Java., Free Online Merge XLTX to spreadsheetml in Java., Java Combine XLTX to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTX Merge. Free Online Merge XLTX to SPREADSHEETML Java. Java Merge XLTX to SPREADSHEETML format. Combine XLTX to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTX Merge., Java Merge XLTX to SPREADSHEETML., Free Online Merge XLTX to spreadsheetml in Java., Java Combine XLTX to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

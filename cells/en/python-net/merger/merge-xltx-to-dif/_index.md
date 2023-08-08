@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to DIF - Combine XLTX to DIF via Python
 url: /python-net/merger/merge-xltx-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to DIF saveformat. Python Combine XLTX to DIF format. Combine XLTX to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to DIF saveformat via Python., Free Online Merge XLTX to dif in Python., Python Combine XLTX to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to DIF Python. Python Merge XLTX to DIF format. Combine XLTX to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to DIF., Free Online Merge XLTX to dif in Python., Python Combine XLTX to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

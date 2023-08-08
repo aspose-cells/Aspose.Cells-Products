@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SQL - Combine FODS to SQL via Python
 url: /python-java/merger/merge-fods-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to SQL saveformat. Python Combine FODS to SQL format. Combine FODS to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to SQL saveformat via Python., Free Online Merge FODS to sql in Python., Python Combine FODS to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to SQL Python. Python Merge FODS to SQL format. Combine FODS to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to SQL., Free Online Merge FODS to sql in Python., Python Combine FODS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

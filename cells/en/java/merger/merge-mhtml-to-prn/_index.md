@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PRN - Combine MHTML to PRN via Java
 url: /java/merger/merge-mhtml-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to PRN saveformat. Java Combine MHTML to PRN format. Combine MHTML to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to PRN saveformat via Java., Free Online Merge MHTML to prn in Java., Java Combine MHTML to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to PRN Java. Java Merge MHTML to PRN format. Combine MHTML to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to PRN., Free Online Merge MHTML to prn in Java., Java Combine MHTML to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

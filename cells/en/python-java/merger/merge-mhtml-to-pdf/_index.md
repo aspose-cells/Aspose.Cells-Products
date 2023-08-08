@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PDF - Combine MHTML to PDF via Python
 url: /python-java/merger/merge-mhtml-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to PDF saveformat. Python Combine MHTML to PDF format. Combine MHTML to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to PDF saveformat via Python., Free Online Merge MHTML to pdf in Python., Python Combine MHTML to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to PDF Python. Python Merge MHTML to PDF format. Combine MHTML to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to PDF., Free Online Merge MHTML to pdf in Python., Python Combine MHTML to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

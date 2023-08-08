@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MARKDOWN - Combine PRN to MARKDOWN via Java
 url: /java/merger/merge-prn-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to MARKDOWN saveformat. Java Combine PRN to MARKDOWN format. Combine PRN to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to MARKDOWN saveformat via Java., Free Online Merge PRN to markdown in Java., Java Combine PRN to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to MARKDOWN Java. Java Merge PRN to MARKDOWN format. Combine PRN to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to MARKDOWN., Free Online Merge PRN to markdown in Java., Java Combine PRN to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PDF - Combine OTS to PDF via C++
 url: /cpp/merger/merge-ots-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to PDF saveformat. C++ Combine OTS to PDF format. Combine OTS to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to PDF saveformat via C++., Free Online Merge OTS to pdf in C++., C++ Combine OTS to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to PDF C++. C++ Merge OTS to PDF format. Combine OTS to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to PDF., Free Online Merge OTS to pdf in C++., C++ Combine OTS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

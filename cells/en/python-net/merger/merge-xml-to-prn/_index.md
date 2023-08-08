@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PRN - Combine XML to PRN via Python
 url: /python-net/merger/merge-xml-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to PRN saveformat. Python Combine XML to PRN format. Combine XML to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to PRN saveformat via Python., Free Online Merge XML to prn in Python., Python Combine XML to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to PRN Python. Python Merge XML to PRN format. Combine XML to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to PRN., Free Online Merge XML to prn in Python., Python Combine XML to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

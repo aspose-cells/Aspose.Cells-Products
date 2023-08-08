@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to FODS - Combine XLSM to FODS via Python
 url: /python-java/merger/merge-xlsm-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to FODS saveformat. Python Combine XLSM to FODS format. Combine XLSM to FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to FODS saveformat via Python., Free Online Merge XLSM to fods in Python., Python Combine XLSM to FODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to FODS Python. Python Merge XLSM to FODS format. Combine XLSM to FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to FODS., Free Online Merge XLSM to fods in Python., Python Combine XLSM to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

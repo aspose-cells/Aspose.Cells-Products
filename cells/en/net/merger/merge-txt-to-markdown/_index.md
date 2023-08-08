@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MARKDOWN - Combine TXT to MARKDOWN via C#
 url: /net/merger/merge-txt-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to MARKDOWN saveformat. C# Combine TXT to MARKDOWN format. Combine TXT to MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to MARKDOWN saveformat via C#., Free Online Merge TXT to markdown in C#., C# Combine TXT to MARKDOWN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to MARKDOWN C#. C# Merge TXT to MARKDOWN format. Combine TXT to MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to MARKDOWN., Free Online Merge TXT to markdown in C#., C# Combine TXT to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

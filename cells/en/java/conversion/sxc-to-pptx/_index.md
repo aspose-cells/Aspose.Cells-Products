@@ -1,7 +1,7 @@
 ---
-title: SXC to PPTX - Convert SXC to PPTX files Java
-description: Aspose Excel. Free Online Convert SXC to PPTX saveformat. Java SXC to PPTX format. Save SXC as PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to PPTX saveformat., Free Online SXC to PPTX Converter]
+title: Java SXC to PPTX - Online SXC to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to PPTX saveformat. Java SXC to PPTX format. Save SXC to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to PPTX saveformat., Free Online SXC to PPTX Java., Java Convert SXC to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PRN - Combine XLSB to PRN via Python
 url: /python-java/merger/merge-xlsb-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to PRN saveformat. Python Combine XLSB to PRN format. Combine XLSB to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to PRN saveformat via Python., Free Online Merge XLSB to prn in Python., Python Combine XLSB to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to PRN Python. Python Merge XLSB to PRN format. Combine XLSB to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to PRN., Free Online Merge XLSB to prn in Python., Python Combine XLSB to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

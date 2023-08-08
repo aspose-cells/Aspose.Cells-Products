@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to TIFF - Combine EXCEL to TIFF via Python
 url: /python-net/merger/merge-excel-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to TIFF saveformat. Python Combine EXCEL to TIFF format. Combine EXCEL to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to TIFF saveformat via Python., Free Online Merge EXCEL to tiff in Python., Python Combine EXCEL to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to TIFF Python. Python Merge EXCEL to TIFF format. Combine EXCEL to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to TIFF., Free Online Merge EXCEL to tiff in Python., Python Combine EXCEL to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPEG to WORD - Convert JPEG to WORD files Java
-description: Aspose Excel. Free Online Convert JPEG to WORD saveformat. Java JPEG to WORD format. Save JPEG as WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to WORD saveformat., Free Online JPEG to WORD Converter]
+title: Java JPEG to WORD - Online JPEG to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to WORD saveformat. Java JPEG to WORD format. Save JPEG to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to WORD saveformat., Free Online JPEG to WORD Java., Java Convert JPEG to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

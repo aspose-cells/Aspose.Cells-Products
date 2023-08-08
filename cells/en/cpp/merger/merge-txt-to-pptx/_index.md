@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PPTX - Combine TXT to PPTX via C++
 url: /cpp/merger/merge-txt-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to PPTX saveformat. C++ Combine TXT to PPTX format. Combine TXT to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to PPTX saveformat via C++., Free Online Merge TXT to pptx in C++., C++ Combine TXT to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to PPTX C++. C++ Merge TXT to PPTX format. Combine TXT to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to PPTX., Free Online Merge TXT to pptx in C++., C++ Combine TXT to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

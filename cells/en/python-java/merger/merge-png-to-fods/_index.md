@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to FODS - Combine PNG to FODS via Python
 url: /python-java/merger/merge-png-to-fods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to FODS saveformat. Python Combine PNG to FODS format. Combine PNG to FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to FODS saveformat via Python., Free Online Merge PNG to fods in Python., Python Combine PNG to FODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to FODS Python. Python Merge PNG to FODS format. Combine PNG to FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to FODS., Free Online Merge PNG to fods in Python., Python Combine PNG to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

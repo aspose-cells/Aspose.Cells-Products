@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to EMF - Combine HTML to EMF via Java
 url: /java/merger/merge-html-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to EMF saveformat. Java Combine HTML to EMF format. Combine HTML to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to EMF saveformat via Java., Free Online Merge HTML to emf in Java., Java Combine HTML to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to EMF Java. Java Merge HTML to EMF format. Combine HTML to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to EMF., Free Online Merge HTML to emf in Java., Java Combine HTML to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

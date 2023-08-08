@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLAM - Combine JPEG to XLAM via C#
 url: /net/merger/merge-jpeg-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to XLAM saveformat. C# Combine JPEG to XLAM format. Combine JPEG to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to XLAM saveformat via C#., Free Online Merge JPEG to xlam in C#., C# Combine JPEG to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to XLAM C#. C# Merge JPEG to XLAM format. Combine JPEG to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to XLAM., Free Online Merge JPEG to xlam in C#., C# Combine JPEG to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

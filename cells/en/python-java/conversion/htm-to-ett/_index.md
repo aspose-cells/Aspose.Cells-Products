@@ -1,7 +1,7 @@
 ---
-title: HTM to ETT - Convert HTM to ETT Python via Python
-description: Aspose Excel. Free Online Convert HTM to ETT saveformat. Python HTM to ETT format. Save HTM as ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to ETT saveformat., Free Online HTM to ETT Converter]
+title: Python HTM to ETT - Convert HTM to ETT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to ETT saveformat. Python HTM to ETT format. Save HTM to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to ETT saveformat., Free Online HTM to ETT Python., Python Convert HTM to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

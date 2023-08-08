@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SQL - Combine XLSM to SQL via Python
 url: /python-net/merger/merge-xlsm-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to SQL saveformat. Python Combine XLSM to SQL format. Combine XLSM to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to SQL saveformat via Python., Free Online Merge XLSM to sql in Python., Python Combine XLSM to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to SQL Python. Python Merge XLSM to SQL format. Combine XLSM to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to SQL., Free Online Merge XLSM to sql in Python., Python Combine XLSM to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to NUMBERS - Combine PNG to NUMBERS via C#
 url: /net/merger/merge-png-to-numbers/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to NUMBERS saveformat. C# Combine PNG to NUMBERS format. Combine PNG to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to NUMBERS saveformat via C#., Free Online Merge PNG to numbers in C#., C# Combine PNG to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to NUMBERS C#. C# Merge PNG to NUMBERS format. Combine PNG to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to NUMBERS., Free Online Merge PNG to numbers in C#., C# Combine PNG to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

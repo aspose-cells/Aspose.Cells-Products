@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MARKDOWN - Combine MHTML to MARKDOWN via Java
 url: /java/merger/merge-mhtml-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to MARKDOWN saveformat. Java Combine MHTML to MARKDOWN format. Combine MHTML to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to MARKDOWN saveformat via Java., Free Online Merge MHTML to markdown in Java., Java Combine MHTML to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to MARKDOWN Java. Java Merge MHTML to MARKDOWN format. Combine MHTML to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to MARKDOWN., Free Online Merge MHTML to markdown in Java., Java Combine MHTML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

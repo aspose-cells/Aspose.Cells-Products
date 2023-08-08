@@ -1,7 +1,7 @@
 ---
-title: JPG to WORD - Convert JPG to WORD Python via Python
-description: Aspose Excel. Free Online Convert JPG to WORD saveformat. Python JPG to WORD format. Save JPG as WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to WORD saveformat., Free Online JPG to WORD Converter]
+title: Python JPG to WORD - Convert JPG to WORD Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to WORD saveformat. Python JPG to WORD format. Save JPG to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to WORD saveformat., Free Online JPG to WORD Python., Python Convert JPG to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

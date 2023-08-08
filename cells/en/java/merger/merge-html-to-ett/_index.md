@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ETT - Combine HTML to ETT via Java
 url: /java/merger/merge-html-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to ETT saveformat. Java Combine HTML to ETT format. Combine HTML to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to ETT saveformat via Java., Free Online Merge HTML to ett in Java., Java Combine HTML to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to ETT Java. Java Merge HTML to ETT format. Combine HTML to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to ETT., Free Online Merge HTML to ett in Java., Java Combine HTML to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

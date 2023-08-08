@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PPTX - Combine JSON to PPTX via C#
 url: /net/merger/merge-json-to-pptx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to PPTX saveformat. C# Combine JSON to PPTX format. Combine JSON to PPTX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JSON to PPTX saveformat via C#., Free Online Merge JSON to pptx in C#., C# Combine JSON to PPTX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JSON Merge. Free Online Merge JSON to PPTX C#. C# Merge JSON to PPTX format. Combine JSON to PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JSON Merge., C# Merge JSON to PPTX., Free Online Merge JSON to pptx in C#., C# Combine JSON to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

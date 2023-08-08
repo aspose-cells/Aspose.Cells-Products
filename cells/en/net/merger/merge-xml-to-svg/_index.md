@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SVG - Combine XML to SVG via C#
 url: /net/merger/merge-xml-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to SVG saveformat. C# Combine XML to SVG format. Combine XML to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to SVG saveformat via C#., Free Online Merge XML to svg in C#., C# Combine XML to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to SVG C#. C# Merge XML to SVG format. Combine XML to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to SVG., Free Online Merge XML to svg in C#., C# Combine XML to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

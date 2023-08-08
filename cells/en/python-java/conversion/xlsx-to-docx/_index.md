@@ -1,7 +1,7 @@
 ---
-title: XLSX to DOCX - Convert XLSX to DOCX Python via Python
-description: Aspose Excel. Free Online Convert XLSX to DOCX saveformat. Python XLSX to DOCX format. Save XLSX as DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to DOCX saveformat., Free Online XLSX to DOCX Converter]
+title: Python XLSX to DOCX - Convert XLSX to DOCX Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to DOCX saveformat. Python XLSX to DOCX format. Save XLSX to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to DOCX saveformat., Free Online XLSX to DOCX Python., Python Convert XLSX to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

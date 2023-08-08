@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to TXT - Combine JSON to TXT via Java
 url: /java/merger/merge-json-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to TXT saveformat. Java Combine JSON to TXT format. Combine JSON to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to TXT saveformat via Java., Free Online Merge JSON to txt in Java., Java Combine JSON to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to TXT Java. Java Merge JSON to TXT format. Combine JSON to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to TXT., Free Online Merge JSON to txt in Java., Java Combine JSON to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

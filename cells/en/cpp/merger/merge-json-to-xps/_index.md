@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XPS - Combine JSON to XPS via C++
 url: /cpp/merger/merge-json-to-xps/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to XPS saveformat. C++ Combine JSON to XPS format. Combine JSON to XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to XPS saveformat via C++., Free Online Merge JSON to xps in C++., C++ Combine JSON to XPS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to XPS C++. C++ Merge JSON to XPS format. Combine JSON to XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to XPS., Free Online Merge JSON to xps in C++., C++ Combine JSON to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

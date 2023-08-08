@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MARKDOWN - Combine SXC to MARKDOWN via Python
 url: /python-net/merger/merge-sxc-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to MARKDOWN saveformat. Python Combine SXC to MARKDOWN format. Combine SXC to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to MARKDOWN saveformat via Python., Free Online Merge SXC to markdown in Python., Python Combine SXC to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to MARKDOWN Python. Python Merge SXC to MARKDOWN format. Combine SXC to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to MARKDOWN., Free Online Merge SXC to markdown in Python., Python Combine SXC to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

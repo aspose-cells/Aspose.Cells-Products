@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to EXCEL - Combine MHTML to EXCEL via Java
 url: /java/merger/merge-mhtml-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to EXCEL saveformat. Java Combine MHTML to EXCEL format. Combine MHTML to EXCEL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to EXCEL saveformat via Java., Free Online Merge MHTML to excel in Java., Java Combine MHTML to EXCEL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to EXCEL Java. Java Merge MHTML to EXCEL format. Combine MHTML to EXCEL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to EXCEL., Free Online Merge MHTML to excel in Java., Java Combine MHTML to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

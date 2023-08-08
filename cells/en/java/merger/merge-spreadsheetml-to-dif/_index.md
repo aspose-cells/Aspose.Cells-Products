@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to DIF - Combine SPREADSHEETML to DIF via Java
 url: /java/merger/merge-spreadsheetml-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to DIF saveformat. Java Combine SPREADSHEETML to DIF format. Combine SPREADSHEETML to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to DIF saveformat via Java., Free Online Merge SPREADSHEETML to dif in Java., Java Combine SPREADSHEETML to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to DIF Java. Java Merge SPREADSHEETML to DIF format. Combine SPREADSHEETML to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to DIF., Free Online Merge SPREADSHEETML to dif in Java., Java Combine SPREADSHEETML to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

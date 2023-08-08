@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SQL - Combine JSON to SQL via Python
 url: /python-net/merger/merge-json-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to SQL saveformat. Python Combine JSON to SQL format. Combine JSON to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JSON to SQL saveformat via Python., Free Online Merge JSON to sql in Python., Python Combine JSON to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JSON Merge. Free Online Merge JSON to SQL Python. Python Merge JSON to SQL format. Combine JSON to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JSON Merge., Python Merge JSON to SQL., Free Online Merge JSON to sql in Python., Python Combine JSON to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

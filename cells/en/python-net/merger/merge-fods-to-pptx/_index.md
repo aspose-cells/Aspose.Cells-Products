@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PPTX - Combine FODS to PPTX via Python
 url: /python-net/merger/merge-fods-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to PPTX saveformat. Python Combine FODS to PPTX format. Combine FODS to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to PPTX saveformat via Python., Free Online Merge FODS to pptx in Python., Python Combine FODS to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to PPTX Python. Python Merge FODS to PPTX format. Combine FODS to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to PPTX., Free Online Merge FODS to pptx in Python., Python Combine FODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

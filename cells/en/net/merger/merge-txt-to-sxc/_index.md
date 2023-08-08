@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SXC - Combine TXT to SXC via C#
 url: /net/merger/merge-txt-to-sxc/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to SXC saveformat. C# Combine TXT to SXC format. Combine TXT to SXC in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to SXC saveformat via C#., Free Online Merge TXT to sxc in C#., C# Combine TXT to SXC format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to SXC C#. C# Merge TXT to SXC format. Combine TXT to SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to SXC., Free Online Merge TXT to sxc in C#., C# Combine TXT to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

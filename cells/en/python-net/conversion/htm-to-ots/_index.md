@@ -1,7 +1,7 @@
 ---
-title: HTM to OTS - Convert HTM to OTS files Python via Python
-description: Aspose Excel. Free Online Convert HTM to OTS saveformat. Python HTM to OTS format. Save HTM as OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to OTS saveformat., Free Online HTM to OTS Converter]
+title: Python HTM to OTS - Convert HTM to OTS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to OTS saveformat. Python HTM to OTS format. Save HTM to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to OTS saveformat., Free Online HTM to OTS Python., Python Convert HTM to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

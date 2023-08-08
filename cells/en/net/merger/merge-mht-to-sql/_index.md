@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SQL - Combine MHT to SQL via C#
 url: /net/merger/merge-mht-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to SQL saveformat. C# Combine MHT to SQL format. Combine MHT to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHT to SQL saveformat via C#., Free Online Merge MHT to sql in C#., C# Combine MHT to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHT Merge. Free Online Merge MHT to SQL C#. C# Merge MHT to SQL format. Combine MHT to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHT Merge., C# Merge MHT to SQL., Free Online Merge MHT to sql in C#., C# Combine MHT to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

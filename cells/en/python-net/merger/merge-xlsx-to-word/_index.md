@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to WORD - Combine XLSX to WORD via Python
 url: /python-net/merger/merge-xlsx-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to WORD saveformat. Python Combine XLSX to WORD format. Combine XLSX to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSX to WORD saveformat via Python., Free Online Merge XLSX to word in Python., Python Combine XLSX to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSX Merge. Free Online Merge XLSX to WORD Python. Python Merge XLSX to WORD format. Combine XLSX to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSX Merge., Python Merge XLSX to WORD., Free Online Merge XLSX to word in Python., Python Combine XLSX to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

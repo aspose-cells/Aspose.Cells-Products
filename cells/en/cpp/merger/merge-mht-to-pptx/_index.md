@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PPTX - Combine MHT to PPTX via C++
 url: /cpp/merger/merge-mht-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to PPTX saveformat. C++ Combine MHT to PPTX format. Combine MHT to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to PPTX saveformat via C++., Free Online Merge MHT to pptx in C++., C++ Combine MHT to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to PPTX C++. C++ Merge MHT to PPTX format. Combine MHT to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to PPTX., Free Online Merge MHT to pptx in C++., C++ Combine MHT to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

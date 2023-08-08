@@ -1,7 +1,7 @@
 ---
-title: SXC to PRN - Convert SXC to PRN files C++
-description: Aspose Excel. Free Online Convert SXC to PRN saveformat. C++ SXC to PRN format. Save SXC as PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to PRN saveformat., Free Online SXC to PRN Converter]
+title: C++ SXC to PRN - Online SXC to PRN Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to PRN saveformat. C++ SXC to PRN format. Save SXC to PRN C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to PRN saveformat., Free Online SXC to PRN C++., C++ Convert SXC to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

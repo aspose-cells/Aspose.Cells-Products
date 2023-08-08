@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLS - Combine IMAGE to XLS via Java
 url: /java/merger/merge-image-to-xls/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to XLS saveformat. Java Combine IMAGE to XLS format. Combine IMAGE to XLS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to XLS saveformat via Java., Free Online Merge IMAGE to xls in Java., Java Combine IMAGE to XLS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to XLS Java. Java Merge IMAGE to XLS format. Combine IMAGE to XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to XLS., Free Online Merge IMAGE to xls in Java., Java Combine IMAGE to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

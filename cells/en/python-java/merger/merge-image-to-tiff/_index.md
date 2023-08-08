@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TIFF - Combine IMAGE to TIFF via Python
 url: /python-java/merger/merge-image-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to TIFF saveformat. Python Combine IMAGE to TIFF format. Combine IMAGE to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to TIFF saveformat via Python., Free Online Merge IMAGE to tiff in Python., Python Combine IMAGE to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to TIFF Python. Python Merge IMAGE to TIFF format. Combine IMAGE to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to TIFF., Free Online Merge IMAGE to tiff in Python., Python Combine IMAGE to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

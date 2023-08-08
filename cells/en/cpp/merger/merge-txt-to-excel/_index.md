@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to EXCEL - Combine TXT to EXCEL via C++
 url: /cpp/merger/merge-txt-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to EXCEL saveformat. C++ Combine TXT to EXCEL format. Combine TXT to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to EXCEL saveformat via C++., Free Online Merge TXT to excel in C++., C++ Combine TXT to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to EXCEL C++. C++ Merge TXT to EXCEL format. Combine TXT to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to EXCEL., Free Online Merge TXT to excel in C++., C++ Combine TXT to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

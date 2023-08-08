@@ -1,7 +1,7 @@
 ---
-title: PNG to PRN - Convert PNG to PRN files Java
-description: Aspose Excel. Free Online Convert PNG to PRN saveformat. Java PNG to PRN format. Save PNG as PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to PRN saveformat., Free Online PNG to PRN Converter]
+title: Java PNG to PRN - Online PNG to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PNG to PRN saveformat. Java PNG to PRN format. Save PNG to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PNG to PRN saveformat., Free Online PNG to PRN Java., Java Convert PNG to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

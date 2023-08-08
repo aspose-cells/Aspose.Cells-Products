@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PNG - Combine XLTX to PNG via C#
 url: /net/merger/merge-xltx-to-png/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to PNG saveformat. C# Combine XLTX to PNG format. Combine XLTX to PNG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to PNG saveformat via C#., Free Online Merge XLTX to png in C#., C# Combine XLTX to PNG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTX Merge. Free Online Merge XLTX to PNG C#. C# Merge XLTX to PNG format. Combine XLTX to PNG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTX Merge., C# Merge XLTX to PNG., Free Online Merge XLTX to png in C#., C# Combine XLTX to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SPREADSHEETML - Combine XLS to SPREADSHEETML via C#
 url: /net/merger/merge-xls-to-spreadsheetml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to SPREADSHEETML saveformat. C# Combine XLS to SPREADSHEETML format. Combine XLS to SPREADSHEETML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to SPREADSHEETML saveformat via C#., Free Online Merge XLS to spreadsheetml in C#., C# Combine XLS to SPREADSHEETML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to SPREADSHEETML C#. C# Merge XLS to SPREADSHEETML format. Combine XLS to SPREADSHEETML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to SPREADSHEETML., Free Online Merge XLS to spreadsheetml in C#., C# Combine XLS to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

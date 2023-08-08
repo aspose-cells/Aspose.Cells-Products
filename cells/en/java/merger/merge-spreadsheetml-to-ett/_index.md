@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to ETT - Combine SPREADSHEETML to ETT via Java
 url: /java/merger/merge-spreadsheetml-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to ETT saveformat. Java Combine SPREADSHEETML to ETT format. Combine SPREADSHEETML to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to ETT saveformat via Java., Free Online Merge SPREADSHEETML to ett in Java., Java Combine SPREADSHEETML to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to ETT Java. Java Merge SPREADSHEETML to ETT format. Combine SPREADSHEETML to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to ETT., Free Online Merge SPREADSHEETML to ett in Java., Java Combine SPREADSHEETML to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

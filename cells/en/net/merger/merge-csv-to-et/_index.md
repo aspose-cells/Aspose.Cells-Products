@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ET - Combine CSV to ET via C#
 url: /net/merger/merge-csv-to-et/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge CSV to ET saveformat. C# Combine CSV to ET format. Combine CSV to ET in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine CSV to ET saveformat via C#., Free Online Merge CSV to et in C#., C# Combine CSV to ET format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. CSV Merge. Free Online Merge CSV to ET C#. C# Merge CSV to ET format. Combine CSV to ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., CSV Merge., C# Merge CSV to ET., Free Online Merge CSV to et in C#., C# Combine CSV to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

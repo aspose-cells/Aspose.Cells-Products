@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to NUMBERS - Combine TXT to NUMBERS via Python
 url: /python-net/merger/merge-txt-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to NUMBERS saveformat. Python Combine TXT to NUMBERS format. Combine TXT to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to NUMBERS saveformat via Python., Free Online Merge TXT to numbers in Python., Python Combine TXT to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to NUMBERS Python. Python Merge TXT to NUMBERS format. Combine TXT to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to NUMBERS., Free Online Merge TXT to numbers in Python., Python Combine TXT to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

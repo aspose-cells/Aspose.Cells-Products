@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MARKDOWN - Combine HTML to MARKDOWN via Java
 url: /java/merger/merge-html-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to MARKDOWN saveformat. Java Combine HTML to MARKDOWN format. Combine HTML to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to MARKDOWN saveformat via Java., Free Online Merge HTML to markdown in Java., Java Combine HTML to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to MARKDOWN Java. Java Merge HTML to MARKDOWN format. Combine HTML to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to MARKDOWN., Free Online Merge HTML to markdown in Java., Java Combine HTML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

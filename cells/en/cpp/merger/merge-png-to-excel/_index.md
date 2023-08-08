@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EXCEL - Combine PNG to EXCEL via C++
 url: /cpp/merger/merge-png-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to EXCEL saveformat. C++ Combine PNG to EXCEL format. Combine PNG to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to EXCEL saveformat via C++., Free Online Merge PNG to excel in C++., C++ Combine PNG to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to EXCEL C++. C++ Merge PNG to EXCEL format. Combine PNG to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to EXCEL., Free Online Merge PNG to excel in C++., C++ Combine PNG to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

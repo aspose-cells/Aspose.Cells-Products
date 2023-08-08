@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TABDELIMITED - Combine NUMBERS to TABDELIMITED via C++
 url: /cpp/merger/merge-numbers-to-tabdelimited/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to TABDELIMITED saveformat. C++ Combine NUMBERS to TABDELIMITED format. Combine NUMBERS to TABDELIMITED in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to TABDELIMITED saveformat via C++., Free Online Merge NUMBERS to tabdelimited in C++., C++ Combine NUMBERS to TABDELIMITED format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to TABDELIMITED C++. C++ Merge NUMBERS to TABDELIMITED format. Combine NUMBERS to TABDELIMITED in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to TABDELIMITED., Free Online Merge NUMBERS to tabdelimited in C++., C++ Combine NUMBERS to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

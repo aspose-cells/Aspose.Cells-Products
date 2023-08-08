@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to JSON - Combine TSV to JSON via Python
 url: /python-java/merger/merge-tsv-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to JSON saveformat. Python Combine TSV to JSON format. Combine TSV to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to JSON saveformat via Python., Free Online Merge TSV to json in Python., Python Combine TSV to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TSV Merge. Free Online Merge TSV to JSON Python. Python Merge TSV to JSON format. Combine TSV to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TSV Merge., Python Merge TSV to JSON., Free Online Merge TSV to json in Python., Python Combine TSV to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

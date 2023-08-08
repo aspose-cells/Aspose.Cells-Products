@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to GIF - Combine PRN to GIF via Java
 url: /java/merger/merge-prn-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to GIF saveformat. Java Combine PRN to GIF format. Combine PRN to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to GIF saveformat via Java., Free Online Merge PRN to gif in Java., Java Combine PRN to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to GIF Java. Java Merge PRN to GIF format. Combine PRN to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to GIF., Free Online Merge PRN to gif in Java., Java Combine PRN to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

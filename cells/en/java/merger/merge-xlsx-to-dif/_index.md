@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to DIF - Combine XLSX to DIF via Java
 url: /java/merger/merge-xlsx-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to DIF saveformat. Java Combine XLSX to DIF format. Combine XLSX to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSX to DIF saveformat via Java., Free Online Merge XLSX to dif in Java., Java Combine XLSX to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSX Merge. Free Online Merge XLSX to DIF Java. Java Merge XLSX to DIF format. Combine XLSX to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSX Merge., Java Merge XLSX to DIF., Free Online Merge XLSX to dif in Java., Java Combine XLSX to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

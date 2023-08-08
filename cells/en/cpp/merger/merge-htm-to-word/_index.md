@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to WORD - Combine HTM to WORD via C++
 url: /cpp/merger/merge-htm-to-word/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to WORD saveformat. C++ Combine HTM to WORD format. Combine HTM to WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to WORD saveformat via C++., Free Online Merge HTM to word in C++., C++ Combine HTM to WORD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to WORD C++. C++ Merge HTM to WORD format. Combine HTM to WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to WORD., Free Online Merge HTM to word in C++., C++ Combine HTM to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

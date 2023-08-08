@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLSM - Combine FODS to XLSM via Java
 url: /java/merger/merge-fods-to-xlsm/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLSM saveformat. Java Combine FODS to XLSM format. Combine FODS to XLSM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to XLSM saveformat via Java., Free Online Merge FODS to xlsm in Java., Java Combine FODS to XLSM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to XLSM Java. Java Merge FODS to XLSM format. Combine FODS to XLSM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to XLSM., Free Online Merge FODS to xlsm in Java., Java Combine FODS to XLSM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLS to TABDELIMITED - Convert XLS to TABDELIMITED files Python via Python
-description: Aspose Excel. Free Online Convert XLS to TABDELIMITED saveformat. Python XLS to TABDELIMITED format. Save XLS as TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to TABDELIMITED saveformat., Free Online XLS to TABDELIMITED Converter]
+title: Python XLS to TABDELIMITED - Convert XLS to TABDELIMITED Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to TABDELIMITED saveformat. Python XLS to TABDELIMITED format. Save XLS to TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to TABDELIMITED saveformat., Free Online XLS to TABDELIMITED Python., Python Convert XLS to TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

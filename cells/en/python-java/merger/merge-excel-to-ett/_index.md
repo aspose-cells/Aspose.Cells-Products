@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ETT - Combine EXCEL to ETT via Python
 url: /python-java/merger/merge-excel-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to ETT saveformat. Python Combine EXCEL to ETT format. Combine EXCEL to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to ETT saveformat via Python., Free Online Merge EXCEL to ett in Python., Python Combine EXCEL to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to ETT Python. Python Merge EXCEL to ETT format. Combine EXCEL to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to ETT., Free Online Merge EXCEL to ett in Python., Python Combine EXCEL to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

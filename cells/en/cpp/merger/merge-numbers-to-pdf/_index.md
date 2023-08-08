@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PDF - Combine NUMBERS to PDF via C++
 url: /cpp/merger/merge-numbers-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to PDF saveformat. C++ Combine NUMBERS to PDF format. Combine NUMBERS to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to PDF saveformat via C++., Free Online Merge NUMBERS to pdf in C++., C++ Combine NUMBERS to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to PDF C++. C++ Merge NUMBERS to PDF format. Combine NUMBERS to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to PDF., Free Online Merge NUMBERS to pdf in C++., C++ Combine NUMBERS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to ODS - Combine ODS to ODS via Python
 url: /python-net/merger/merge-ods-to-ods/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to ODS saveformat. Python Combine ODS to ODS format. Combine ODS to ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to ODS saveformat via Python., Free Online Merge ODS to ods in Python., Python Combine ODS to ODS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to ODS Python. Python Merge ODS to ODS format. Combine ODS to ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to ODS., Free Online Merge ODS to ods in Python., Python Combine ODS to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

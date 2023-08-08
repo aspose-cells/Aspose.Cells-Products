@@ -1,7 +1,7 @@
 ---
-title: XLSB to JPEG - Convert XLSB to JPEG files C++
-description: Aspose Excel. Free Online Convert XLSB to JPEG saveformat. C++ XLSB to JPEG format. Save XLSB as JPEG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to JPEG saveformat., Free Online XLSB to JPEG Converter]
+title: C++ XLSB to JPEG - Online XLSB to JPEG Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to JPEG saveformat. C++ XLSB to JPEG format. Save XLSB to JPEG C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to JPEG saveformat., Free Online XLSB to JPEG C++., C++ Convert XLSB to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

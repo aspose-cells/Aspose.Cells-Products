@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SQL - Combine XLTM to SQL via Java
 url: /java/merger/merge-xltm-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to SQL saveformat. Java Combine XLTM to SQL format. Combine XLTM to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to SQL saveformat via Java., Free Online Merge XLTM to sql in Java., Java Combine XLTM to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to SQL Java. Java Merge XLTM to SQL format. Combine XLTM to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to SQL., Free Online Merge XLTM to sql in Java., Java Combine XLTM to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

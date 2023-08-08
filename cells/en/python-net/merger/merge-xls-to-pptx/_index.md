@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to PPTX - Combine XLS to PPTX via Python
 url: /python-net/merger/merge-xls-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to PPTX saveformat. Python Combine XLS to PPTX format. Combine XLS to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to PPTX saveformat via Python., Free Online Merge XLS to pptx in Python., Python Combine XLS to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to PPTX Python. Python Merge XLS to PPTX format. Combine XLS to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to PPTX., Free Online Merge XLS to pptx in Python., Python Combine XLS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

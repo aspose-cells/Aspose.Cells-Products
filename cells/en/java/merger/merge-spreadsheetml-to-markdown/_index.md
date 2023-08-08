@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MARKDOWN - Combine SPREADSHEETML to MARKDOWN via Java
 url: /java/merger/merge-spreadsheetml-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to MARKDOWN saveformat. Java Combine SPREADSHEETML to MARKDOWN format. Combine SPREADSHEETML to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SPREADSHEETML to MARKDOWN saveformat via Java., Free Online Merge SPREADSHEETML to markdown in Java., Java Combine SPREADSHEETML to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to MARKDOWN Java. Java Merge SPREADSHEETML to MARKDOWN format. Combine SPREADSHEETML to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SPREADSHEETML Merge., Java Merge SPREADSHEETML to MARKDOWN., Free Online Merge SPREADSHEETML to markdown in Java., Java Combine SPREADSHEETML to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

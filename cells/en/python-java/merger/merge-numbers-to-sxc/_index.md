@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SXC - Combine NUMBERS to SXC via Python
 url: /python-java/merger/merge-numbers-to-sxc/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to SXC saveformat. Python Combine NUMBERS to SXC format. Combine NUMBERS to SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to SXC saveformat via Python., Free Online Merge NUMBERS to sxc in Python., Python Combine NUMBERS to SXC format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to SXC Python. Python Merge NUMBERS to SXC format. Combine NUMBERS to SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to SXC., Free Online Merge NUMBERS to sxc in Python., Python Combine NUMBERS to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

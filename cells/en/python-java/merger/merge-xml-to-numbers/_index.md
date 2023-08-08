@@ -1,8 +1,8 @@
 ---
 title: Merge XML to NUMBERS - Combine XML to NUMBERS via Python
 url: /python-java/merger/merge-xml-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to NUMBERS saveformat. Python Combine XML to NUMBERS format. Combine XML to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to NUMBERS saveformat via Python., Free Online Merge XML to numbers in Python., Python Combine XML to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to NUMBERS Python. Python Merge XML to NUMBERS format. Combine XML to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to NUMBERS., Free Online Merge XML to numbers in Python., Python Combine XML to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

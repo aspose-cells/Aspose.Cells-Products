@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to GIF - Combine XLS to GIF via Python
 url: /python-java/merger/merge-xls-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to GIF saveformat. Python Combine XLS to GIF format. Combine XLS to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to GIF saveformat via Python., Free Online Merge XLS to gif in Python., Python Combine XLS to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to GIF Python. Python Merge XLS to GIF format. Combine XLS to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to GIF., Free Online Merge XLS to gif in Python., Python Combine XLS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to IMAGE - Combine HTM to IMAGE via C#
 url: /net/merger/merge-htm-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to IMAGE saveformat. C# Combine HTM to IMAGE format. Combine HTM to IMAGE in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to IMAGE saveformat via C#., Free Online Merge HTM to image in C#., C# Combine HTM to IMAGE format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to IMAGE C#. C# Merge HTM to IMAGE format. Combine HTM to IMAGE in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to IMAGE., Free Online Merge HTM to image in C#., C# Combine HTM to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

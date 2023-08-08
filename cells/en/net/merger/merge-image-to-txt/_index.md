@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TXT - Combine IMAGE to TXT via C#
 url: /net/merger/merge-image-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to TXT saveformat. C# Combine IMAGE to TXT format. Combine IMAGE to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine IMAGE to TXT saveformat via C#., Free Online Merge IMAGE to txt in C#., C# Combine IMAGE to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to TXT C#. C# Merge IMAGE to TXT format. Combine IMAGE to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., IMAGE Merge., C# Merge IMAGE to TXT., Free Online Merge IMAGE to txt in C#., C# Combine IMAGE to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

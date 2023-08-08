@@ -1,7 +1,7 @@
 ---
-title: SXC to SQL - Convert SXC to SQL files Python via Python
-description: Aspose Excel. Free Online Convert SXC to SQL saveformat. Python SXC to SQL format. Save SXC as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to SQL saveformat., Free Online SXC to SQL Converter]
+title: Python SXC to SQL - Convert SXC to SQL Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to SQL saveformat. Python SXC to SQL format. Save SXC to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to SQL saveformat., Free Online SXC to SQL Python., Python Convert SXC to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

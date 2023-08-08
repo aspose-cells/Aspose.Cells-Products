@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to BMP - Combine NUMBERS to BMP via Java
 url: /java/merger/merge-numbers-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to BMP saveformat. Java Combine NUMBERS to BMP format. Combine NUMBERS to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to BMP saveformat via Java., Free Online Merge NUMBERS to bmp in Java., Java Combine NUMBERS to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to BMP Java. Java Merge NUMBERS to BMP format. Combine NUMBERS to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to BMP., Free Online Merge NUMBERS to bmp in Java., Java Combine NUMBERS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

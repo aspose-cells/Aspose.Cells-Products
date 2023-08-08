@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XLTM - Combine JPG to XLTM via C++
 url: /cpp/merger/merge-jpg-to-xltm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to XLTM saveformat. C++ Combine JPG to XLTM format. Combine JPG to XLTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to XLTM saveformat via C++., Free Online Merge JPG to xltm in C++., C++ Combine JPG to XLTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to XLTM C++. C++ Merge JPG to XLTM format. Combine JPG to XLTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to XLTM., Free Online Merge JPG to xltm in C++., C++ Combine JPG to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

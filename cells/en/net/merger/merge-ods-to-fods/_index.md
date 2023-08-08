@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to FODS - Combine ODS to FODS via C#
 url: /net/merger/merge-ods-to-fods/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to FODS saveformat. C# Combine ODS to FODS format. Combine ODS to FODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to FODS saveformat via C#., Free Online Merge ODS to fods in C#., C# Combine ODS to FODS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to FODS C#. C# Merge ODS to FODS format. Combine ODS to FODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to FODS., Free Online Merge ODS to fods in C#., C# Combine ODS to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

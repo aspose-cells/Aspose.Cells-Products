@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to MHTML - Combine JPG to MHTML via C#
 url: /net/merger/merge-jpg-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to MHTML saveformat. C# Combine JPG to MHTML format. Combine JPG to MHTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to MHTML saveformat via C#., Free Online Merge JPG to mhtml in C#., C# Combine JPG to MHTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to MHTML C#. C# Merge JPG to MHTML format. Combine JPG to MHTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to MHTML., Free Online Merge JPG to mhtml in C#., C# Combine JPG to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

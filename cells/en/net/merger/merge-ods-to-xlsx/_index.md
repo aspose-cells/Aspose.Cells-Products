@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLSX - Combine ODS to XLSX via C#
 url: /net/merger/merge-ods-to-xlsx/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to XLSX saveformat. C# Combine ODS to XLSX format. Combine ODS to XLSX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to XLSX saveformat via C#., Free Online Merge ODS to xlsx in C#., C# Combine ODS to XLSX format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to XLSX C#. C# Merge ODS to XLSX format. Combine ODS to XLSX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to XLSX., Free Online Merge ODS to xlsx in C#., C# Combine ODS to XLSX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to ET - Combine XLTX to ET via C++
 url: /cpp/merger/merge-xltx-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to ET saveformat. C++ Combine XLTX to ET format. Combine XLTX to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to ET saveformat via C++., Free Online Merge XLTX to et in C++., C++ Combine XLTX to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTX Merge. Free Online Merge XLTX to ET C++. C++ Merge XLTX to ET format. Combine XLTX to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTX Merge., C++ Merge XLTX to ET., Free Online Merge XLTX to et in C++., C++ Combine XLTX to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

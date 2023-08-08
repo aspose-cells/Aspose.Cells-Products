@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to ET - Combine EXCEL to ET via Java
 url: /java/merger/merge-excel-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to ET saveformat. Java Combine EXCEL to ET format. Combine EXCEL to ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to ET saveformat via Java., Free Online Merge EXCEL to et in Java., Java Combine EXCEL to ET format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to ET Java. Java Merge EXCEL to ET format. Combine EXCEL to ET in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to ET., Free Online Merge EXCEL to et in Java., Java Combine EXCEL to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

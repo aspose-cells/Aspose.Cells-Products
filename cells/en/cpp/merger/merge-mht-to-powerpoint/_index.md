@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to POWERPOINT - Combine MHT to POWERPOINT via C++
 url: /cpp/merger/merge-mht-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to POWERPOINT saveformat. C++ Combine MHT to POWERPOINT format. Combine MHT to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to POWERPOINT saveformat via C++., Free Online Merge MHT to powerpoint in C++., C++ Combine MHT to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to POWERPOINT C++. C++ Merge MHT to POWERPOINT format. Combine MHT to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to POWERPOINT., Free Online Merge MHT to powerpoint in C++., C++ Combine MHT to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

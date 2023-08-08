@@ -1,7 +1,7 @@
 ---
-title: HTML to XPS - Convert HTML to XPS files Python via Python
-description: Aspose Excel. Free Online Convert HTML to XPS saveformat. Python HTML to XPS format. Save HTML as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to XPS saveformat., Free Online HTML to XPS Converter]
+title: Python HTML to XPS - Convert HTML to XPS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to XPS saveformat. Python HTML to XPS format. Save HTML to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to XPS saveformat., Free Online HTML to XPS Python., Python Convert HTML to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to WORD - Combine IMAGE to WORD via Python
 url: /python-net/merger/merge-image-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to WORD saveformat. Python Combine IMAGE to WORD format. Combine IMAGE to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to WORD saveformat via Python., Free Online Merge IMAGE to word in Python., Python Combine IMAGE to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to WORD Python. Python Merge IMAGE to WORD format. Combine IMAGE to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to WORD., Free Online Merge IMAGE to word in Python., Python Combine IMAGE to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

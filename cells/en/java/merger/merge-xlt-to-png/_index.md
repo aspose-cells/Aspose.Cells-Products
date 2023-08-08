@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PNG - Combine XLT to PNG via Java
 url: /java/merger/merge-xlt-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to PNG saveformat. Java Combine XLT to PNG format. Combine XLT to PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLT to PNG saveformat via Java., Free Online Merge XLT to png in Java., Java Combine XLT to PNG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLT Merge. Free Online Merge XLT to PNG Java. Java Merge XLT to PNG format. Combine XLT to PNG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLT Merge., Java Merge XLT to PNG., Free Online Merge XLT to png in Java., Java Combine XLT to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

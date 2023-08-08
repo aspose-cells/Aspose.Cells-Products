@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to TABDELIMITED - Combine XLTX to TABDELIMITED via Java
 url: /java/merger/merge-xltx-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to TABDELIMITED saveformat. Java Combine XLTX to TABDELIMITED format. Combine XLTX to TABDELIMITED in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to TABDELIMITED saveformat via Java., Free Online Merge XLTX to tabdelimited in Java., Java Combine XLTX to TABDELIMITED format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTX Merge. Free Online Merge XLTX to TABDELIMITED Java. Java Merge XLTX to TABDELIMITED format. Combine XLTX to TABDELIMITED in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTX Merge., Java Merge XLTX to TABDELIMITED., Free Online Merge XLTX to tabdelimited in Java., Java Combine XLTX to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

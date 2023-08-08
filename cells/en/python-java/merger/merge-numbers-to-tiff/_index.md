@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TIFF - Combine NUMBERS to TIFF via Python
 url: /python-java/merger/merge-numbers-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to TIFF saveformat. Python Combine NUMBERS to TIFF format. Combine NUMBERS to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to TIFF saveformat via Python., Free Online Merge NUMBERS to tiff in Python., Python Combine NUMBERS to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to TIFF Python. Python Merge NUMBERS to TIFF format. Combine NUMBERS to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to TIFF., Free Online Merge NUMBERS to tiff in Python., Python Combine NUMBERS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

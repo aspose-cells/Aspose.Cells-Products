@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PDF - Combine PNG to PDF via Java
 url: /java/merger/merge-png-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to PDF saveformat. Java Combine PNG to PDF format. Combine PNG to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to PDF saveformat via Java., Free Online Merge PNG to pdf in Java., Java Combine PNG to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to PDF Java. Java Merge PNG to PDF format. Combine PNG to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to PDF., Free Online Merge PNG to pdf in Java., Java Combine PNG to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

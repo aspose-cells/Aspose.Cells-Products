@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DIF - Combine CSV to DIF via Python
 url: /python-net/merger/merge-csv-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to DIF saveformat. Python Combine CSV to DIF format. Combine CSV to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to DIF saveformat via Python., Free Online Merge CSV to dif in Python., Python Combine CSV to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to DIF Python. Python Merge CSV to DIF format. Combine CSV to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to DIF., Free Online Merge CSV to dif in Python., Python Combine CSV to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

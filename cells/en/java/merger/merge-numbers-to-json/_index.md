@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JSON - Combine NUMBERS to JSON via Java
 url: /java/merger/merge-numbers-to-json/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to JSON saveformat. Java Combine NUMBERS to JSON format. Combine NUMBERS to JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to JSON saveformat via Java., Free Online Merge NUMBERS to json in Java., Java Combine NUMBERS to JSON format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to JSON Java. Java Merge NUMBERS to JSON format. Combine NUMBERS to JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to JSON., Free Online Merge NUMBERS to json in Java., Java Combine NUMBERS to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

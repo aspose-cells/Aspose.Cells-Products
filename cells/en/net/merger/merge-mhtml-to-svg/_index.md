@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SVG - Combine MHTML to SVG via C#
 url: /net/merger/merge-mhtml-to-svg/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to SVG saveformat. C# Combine MHTML to SVG format. Combine MHTML to SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to SVG saveformat via C#., Free Online Merge MHTML to svg in C#., C# Combine MHTML to SVG format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to SVG C#. C# Merge MHTML to SVG format. Combine MHTML to SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to SVG., Free Online Merge MHTML to svg in C#., C# Combine MHTML to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

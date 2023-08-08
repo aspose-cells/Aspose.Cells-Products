@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to DIF - Combine XLSM to DIF via C++
 url: /cpp/merger/merge-xlsm-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to DIF saveformat. C++ Combine XLSM to DIF format. Combine XLSM to DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to DIF saveformat via C++., Free Online Merge XLSM to dif in C++., C++ Combine XLSM to DIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to DIF C++. C++ Merge XLSM to DIF format. Combine XLSM to DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to DIF., Free Online Merge XLSM to dif in C++., C++ Combine XLSM to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

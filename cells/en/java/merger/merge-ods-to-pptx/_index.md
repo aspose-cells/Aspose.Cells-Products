@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PPTX - Combine ODS to PPTX via Java
 url: /java/merger/merge-ods-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to PPTX saveformat. Java Combine ODS to PPTX format. Combine ODS to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to PPTX saveformat via Java., Free Online Merge ODS to pptx in Java., Java Combine ODS to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to PPTX Java. Java Merge ODS to PPTX format. Combine ODS to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to PPTX., Free Online Merge ODS to pptx in Java., Java Combine ODS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

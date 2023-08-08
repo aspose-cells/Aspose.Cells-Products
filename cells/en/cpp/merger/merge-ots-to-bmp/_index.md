@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to BMP - Combine OTS to BMP via C++
 url: /cpp/merger/merge-ots-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to BMP saveformat. C++ Combine OTS to BMP format. Combine OTS to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to BMP saveformat via C++., Free Online Merge OTS to bmp in C++., C++ Combine OTS to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to BMP C++. C++ Merge OTS to BMP format. Combine OTS to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to BMP., Free Online Merge OTS to bmp in C++., C++ Combine OTS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

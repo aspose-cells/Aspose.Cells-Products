@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to EMF - Combine SXC to EMF via Python
 url: /python-net/merger/merge-sxc-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to EMF saveformat. Python Combine SXC to EMF format. Combine SXC to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to EMF saveformat via Python., Free Online Merge SXC to emf in Python., Python Combine SXC to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to EMF Python. Python Merge SXC to EMF format. Combine SXC to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to EMF., Free Online Merge SXC to emf in Python., Python Combine SXC to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

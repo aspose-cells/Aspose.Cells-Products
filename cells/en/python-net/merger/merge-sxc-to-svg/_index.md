@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SVG - Combine SXC to SVG via Python
 url: /python-net/merger/merge-sxc-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to SVG saveformat. Python Combine SXC to SVG format. Combine SXC to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to SVG saveformat via Python., Free Online Merge SXC to svg in Python., Python Combine SXC to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to SVG Python. Python Merge SXC to SVG format. Combine SXC to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to SVG., Free Online Merge SXC to svg in Python., Python Combine SXC to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

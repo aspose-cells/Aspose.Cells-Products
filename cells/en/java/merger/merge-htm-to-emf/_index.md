@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to EMF - Combine HTM to EMF via Java
 url: /java/merger/merge-htm-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to EMF saveformat. Java Combine HTM to EMF format. Combine HTM to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to EMF saveformat via Java., Free Online Merge HTM to emf in Java., Java Combine HTM to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to EMF Java. Java Merge HTM to EMF format. Combine HTM to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to EMF., Free Online Merge HTM to emf in Java., Java Combine HTM to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

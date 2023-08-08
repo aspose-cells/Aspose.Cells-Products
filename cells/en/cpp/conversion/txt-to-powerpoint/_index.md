@@ -1,7 +1,7 @@
 ---
-title: TXT to POWERPOINT - Convert TXT to POWERPOINT files C++
-description: Aspose Excel. Free Online Convert TXT to POWERPOINT saveformat. C++ TXT to POWERPOINT format. Save TXT as POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT Converter]
+title: C++ TXT to POWERPOINT - Online TXT to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to POWERPOINT saveformat. C++ TXT to POWERPOINT format. Save TXT to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT C++., C++ Convert TXT to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

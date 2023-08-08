@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XPS - Combine JPEG to XPS via C++
 url: /cpp/merger/merge-jpeg-to-xps/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to XPS saveformat. C++ Combine JPEG to XPS format. Combine JPEG to XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to XPS saveformat via C++., Free Online Merge JPEG to xps in C++., C++ Combine JPEG to XPS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to XPS C++. C++ Merge JPEG to XPS format. Combine JPEG to XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to XPS., Free Online Merge JPEG to xps in C++., C++ Combine JPEG to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

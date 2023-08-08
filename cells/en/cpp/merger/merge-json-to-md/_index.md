@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MD - Combine JSON to MD via C++
 url: /cpp/merger/merge-json-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to MD saveformat. C++ Combine JSON to MD format. Combine JSON to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to MD saveformat via C++., Free Online Merge JSON to md in C++., C++ Combine JSON to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to MD C++. C++ Merge JSON to MD format. Combine JSON to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to MD., Free Online Merge JSON to md in C++., C++ Combine JSON to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

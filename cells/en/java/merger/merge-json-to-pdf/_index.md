@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PDF - Combine JSON to PDF via Java
 url: /java/merger/merge-json-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to PDF saveformat. Java Combine JSON to PDF format. Combine JSON to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to PDF saveformat via Java., Free Online Merge JSON to pdf in Java., Java Combine JSON to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to PDF Java. Java Merge JSON to PDF format. Combine JSON to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to PDF., Free Online Merge JSON to pdf in Java., Java Combine JSON to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

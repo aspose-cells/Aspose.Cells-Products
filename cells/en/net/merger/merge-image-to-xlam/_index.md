@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLAM - Combine IMAGE to XLAM via C#
 url: /net/merger/merge-image-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to XLAM saveformat. C# Combine IMAGE to XLAM format. Combine IMAGE to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine IMAGE to XLAM saveformat via C#., Free Online Merge IMAGE to xlam in C#., C# Combine IMAGE to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to XLAM C#. C# Merge IMAGE to XLAM format. Combine IMAGE to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., IMAGE Merge., C# Merge IMAGE to XLAM., Free Online Merge IMAGE to xlam in C#., C# Combine IMAGE to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

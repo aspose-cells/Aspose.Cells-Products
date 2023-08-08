@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to EXCEL - Combine HTML to EXCEL via Java
 url: /java/merger/merge-html-to-excel/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to EXCEL saveformat. Java Combine HTML to EXCEL format. Combine HTML to EXCEL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to EXCEL saveformat via Java., Free Online Merge HTML to excel in Java., Java Combine HTML to EXCEL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to EXCEL Java. Java Merge HTML to EXCEL format. Combine HTML to EXCEL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to EXCEL., Free Online Merge HTML to excel in Java., Java Combine HTML to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

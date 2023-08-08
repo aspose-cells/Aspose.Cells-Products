@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PRN - Combine ODS to PRN via C++
 url: /cpp/merger/merge-ods-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to PRN saveformat. C++ Combine ODS to PRN format. Combine ODS to PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to PRN saveformat via C++., Free Online Merge ODS to prn in C++., C++ Combine ODS to PRN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to PRN C++. C++ Merge ODS to PRN format. Combine ODS to PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to PRN., Free Online Merge ODS to prn in C++., C++ Combine ODS to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

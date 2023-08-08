@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TIFF - Combine HTM to TIFF via Python
 url: /python-net/merger/merge-htm-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to TIFF saveformat. Python Combine HTM to TIFF format. Combine HTM to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to TIFF saveformat via Python., Free Online Merge HTM to tiff in Python., Python Combine HTM to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to TIFF Python. Python Merge HTM to TIFF format. Combine HTM to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to TIFF., Free Online Merge HTM to tiff in Python., Python Combine HTM to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

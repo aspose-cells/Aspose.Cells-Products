@@ -1,7 +1,7 @@
 ---
-title: XLSX to XLSX - Convert XLSX to XLSX files Java
-description: Aspose Excel. Free Online Convert XLSX to XLSX saveformat. Java XLSX to XLSX format. Save XLSX as XLSX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to XLSX saveformat., Free Online XLSX to XLSX Converter]
+title: Java XLSX to XLSX - Online XLSX to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to XLSX saveformat. Java XLSX to XLSX format. Save XLSX to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to XLSX saveformat., Free Online XLSX to XLSX Java., Java Convert XLSX to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

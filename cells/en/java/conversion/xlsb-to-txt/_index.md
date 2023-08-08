@@ -1,7 +1,7 @@
 ---
-title: XLSB to TXT - Convert XLSB to TXT files Java
-description: Aspose Excel. Free Online Convert XLSB to TXT saveformat. Java XLSB to TXT format. Save XLSB as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to TXT saveformat., Free Online XLSB to TXT Converter]
+title: Java XLSB to TXT - Online XLSB to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to TXT saveformat. Java XLSB to TXT format. Save XLSB to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to TXT saveformat., Free Online XLSB to TXT Java., Java Convert XLSB to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TIFF - Combine PNG to TIFF via Python
 url: /python-java/merger/merge-png-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to TIFF saveformat. Python Combine PNG to TIFF format. Combine PNG to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine PNG to TIFF saveformat via Python., Free Online Merge PNG to tiff in Python., Python Combine PNG to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. PNG Merge. Free Online Merge PNG to TIFF Python. Python Merge PNG to TIFF format. Combine PNG to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., PNG Merge., Python Merge PNG to TIFF., Free Online Merge PNG to tiff in Python., Python Combine PNG to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to NUMBERS - Combine JPEG to NUMBERS via C#
 url: /net/merger/merge-jpeg-to-numbers/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to NUMBERS saveformat. C# Combine JPEG to NUMBERS format. Combine JPEG to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPEG to NUMBERS saveformat via C#., Free Online Merge JPEG to numbers in C#., C# Combine JPEG to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPEG Merge. Free Online Merge JPEG to NUMBERS C#. C# Merge JPEG to NUMBERS format. Combine JPEG to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPEG Merge., C# Merge JPEG to NUMBERS., Free Online Merge JPEG to numbers in C#., C# Combine JPEG to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

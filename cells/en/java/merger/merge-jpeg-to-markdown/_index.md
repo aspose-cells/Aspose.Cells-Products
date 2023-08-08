@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MARKDOWN - Combine JPEG to MARKDOWN via Java
 url: /java/merger/merge-jpeg-to-markdown/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to MARKDOWN saveformat. Java Combine JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to MARKDOWN saveformat via Java., Free Online Merge JPEG to markdown in Java., Java Combine JPEG to MARKDOWN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to MARKDOWN Java. Java Merge JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to MARKDOWN., Free Online Merge JPEG to markdown in Java., Java Combine JPEG to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

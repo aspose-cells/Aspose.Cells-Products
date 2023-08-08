@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XML - Combine XLS to XML via C++
 url: /cpp/merger/merge-xls-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to XML saveformat. C++ Combine XLS to XML format. Combine XLS to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLS to XML saveformat via C++., Free Online Merge XLS to xml in C++., C++ Combine XLS to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLS Merge. Free Online Merge XLS to XML C++. C++ Merge XLS to XML format. Combine XLS to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLS Merge., C++ Merge XLS to XML., Free Online Merge XLS to xml in C++., C++ Combine XLS to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

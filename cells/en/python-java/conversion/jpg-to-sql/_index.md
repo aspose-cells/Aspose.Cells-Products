@@ -1,7 +1,7 @@
 ---
-title: JPG to SQL - Convert JPG to SQL Python via Python
-description: Aspose Excel. Free Online Convert JPG to SQL saveformat. Python JPG to SQL format. Save JPG as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to SQL saveformat., Free Online JPG to SQL Converter]
+title: Python JPG to SQL - Convert JPG to SQL Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to SQL saveformat. Python JPG to SQL format. Save JPG to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to SQL saveformat., Free Online JPG to SQL Python., Python Convert JPG to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

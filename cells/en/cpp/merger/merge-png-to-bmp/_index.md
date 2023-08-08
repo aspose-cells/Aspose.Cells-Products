@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to BMP - Combine PNG to BMP via C++
 url: /cpp/merger/merge-png-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to BMP saveformat. C++ Combine PNG to BMP format. Combine PNG to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to BMP saveformat via C++., Free Online Merge PNG to bmp in C++., C++ Combine PNG to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to BMP C++. C++ Merge PNG to BMP format. Combine PNG to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to BMP., Free Online Merge PNG to bmp in C++., C++ Combine PNG to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

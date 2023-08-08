@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PRN - Combine EXCEL to PRN via C#
 url: /net/merger/merge-excel-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to PRN saveformat. C# Combine EXCEL to PRN format. Combine EXCEL to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to PRN saveformat via C#., Free Online Merge EXCEL to prn in C#., C# Combine EXCEL to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to PRN C#. C# Merge EXCEL to PRN format. Combine EXCEL to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to PRN., Free Online Merge EXCEL to prn in C#., C# Combine EXCEL to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

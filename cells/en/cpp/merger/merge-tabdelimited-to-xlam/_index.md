@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLAM - Combine TABDELIMITED to XLAM via C++
 url: /cpp/merger/merge-tabdelimited-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to XLAM saveformat. C++ Combine TABDELIMITED to XLAM format. Combine TABDELIMITED to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to XLAM saveformat via C++., Free Online Merge TABDELIMITED to xlam in C++., C++ Combine TABDELIMITED to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to XLAM C++. C++ Merge TABDELIMITED to XLAM format. Combine TABDELIMITED to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to XLAM., Free Online Merge TABDELIMITED to xlam in C++., C++ Combine TABDELIMITED to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

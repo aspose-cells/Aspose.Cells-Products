@@ -1,7 +1,7 @@
 ---
-title: OTS to POWERPOINT - Convert OTS to POWERPOINT files C++
-description: Aspose Excel. Free Online Convert OTS to POWERPOINT saveformat. C++ OTS to POWERPOINT format. Save OTS as POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ OTS to POWERPOINT saveformat., Free Online OTS to POWERPOINT Converter]
+title: C++ OTS to POWERPOINT - Online OTS to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert OTS to POWERPOINT saveformat. C++ OTS to POWERPOINT format. Save OTS to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ OTS to POWERPOINT saveformat., Free Online OTS to POWERPOINT C++., C++ Convert OTS to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

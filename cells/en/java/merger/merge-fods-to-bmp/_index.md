@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to BMP - Combine FODS to BMP via Java
 url: /java/merger/merge-fods-to-bmp/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to BMP saveformat. Java Combine FODS to BMP format. Combine FODS to BMP in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to BMP saveformat via Java., Free Online Merge FODS to bmp in Java., Java Combine FODS to BMP format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to BMP Java. Java Merge FODS to BMP format. Combine FODS to BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to BMP., Free Online Merge FODS to bmp in Java., Java Combine FODS to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

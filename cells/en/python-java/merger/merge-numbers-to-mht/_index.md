@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MHT - Combine NUMBERS to MHT via Python
 url: /python-java/merger/merge-numbers-to-mht/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to MHT saveformat. Python Combine NUMBERS to MHT format. Combine NUMBERS to MHT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to MHT saveformat via Python., Free Online Merge NUMBERS to mht in Python., Python Combine NUMBERS to MHT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to MHT Python. Python Merge NUMBERS to MHT format. Combine NUMBERS to MHT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to MHT., Free Online Merge NUMBERS to mht in Python., Python Combine NUMBERS to MHT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

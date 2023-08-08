@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SVG - Combine HTM to SVG via Python
 url: /python-net/merger/merge-htm-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to SVG saveformat. Python Combine HTM to SVG format. Combine HTM to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to SVG saveformat via Python., Free Online Merge HTM to svg in Python., Python Combine HTM to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to SVG Python. Python Merge HTM to SVG format. Combine HTM to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to SVG., Free Online Merge HTM to svg in Python., Python Combine HTM to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

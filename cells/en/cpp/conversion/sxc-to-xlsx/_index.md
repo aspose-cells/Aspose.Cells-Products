@@ -1,7 +1,7 @@
 ---
-title: SXC to XLSX - Convert SXC to XLSX files C++
-description: Aspose Excel. Free Online Convert SXC to XLSX saveformat. C++ SXC to XLSX format. Save SXC as XLSX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to XLSX saveformat., Free Online SXC to XLSX Converter]
+title: C++ SXC to XLSX - Online SXC to XLSX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to XLSX saveformat. C++ SXC to XLSX format. Save SXC to XLSX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to XLSX saveformat., Free Online SXC to XLSX C++., C++ Convert SXC to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

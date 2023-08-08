@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to MD - Combine JPG to MD via Java
 url: /java/merger/merge-jpg-to-md/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to MD saveformat. Java Combine JPG to MD format. Combine JPG to MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to MD saveformat via Java., Free Online Merge JPG to md in Java., Java Combine JPG to MD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to MD Java. Java Merge JPG to MD format. Combine JPG to MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to MD., Free Online Merge JPG to md in Java., Java Combine JPG to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

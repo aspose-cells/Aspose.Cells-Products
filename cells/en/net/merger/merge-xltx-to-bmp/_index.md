@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to BMP - Combine XLTX to BMP via C#
 url: /net/merger/merge-xltx-to-bmp/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to BMP saveformat. C# Combine XLTX to BMP format. Combine XLTX to BMP in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to BMP saveformat via C#., Free Online Merge XLTX to bmp in C#., C# Combine XLTX to BMP format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTX Merge. Free Online Merge XLTX to BMP C#. C# Merge XLTX to BMP format. Combine XLTX to BMP in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTX Merge., C# Merge XLTX to BMP., Free Online Merge XLTX to bmp in C#., C# Combine XLTX to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

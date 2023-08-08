@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLAM - Combine SPREADSHEETML to XLAM via C++
 url: /cpp/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to XLAM saveformat. C++ Combine SPREADSHEETML to XLAM format. Combine SPREADSHEETML to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to XLAM saveformat via C++., Free Online Merge SPREADSHEETML to xlam in C++., C++ Combine SPREADSHEETML to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to XLAM C++. C++ Merge SPREADSHEETML to XLAM format. Combine SPREADSHEETML to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to XLAM., Free Online Merge SPREADSHEETML to xlam in C++., C++ Combine SPREADSHEETML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DOCX - Combine EXCEL to DOCX via Java
 url: /java/merger/merge-excel-to-docx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to DOCX saveformat. Java Combine EXCEL to DOCX format. Combine EXCEL to DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to DOCX saveformat via Java., Free Online Merge EXCEL to docx in Java., Java Combine EXCEL to DOCX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to DOCX Java. Java Merge EXCEL to DOCX format. Combine EXCEL to DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to DOCX., Free Online Merge EXCEL to docx in Java., Java Combine EXCEL to DOCX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

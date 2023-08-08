@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to FODS - Combine OTS to FODS via C++
 url: /cpp/merger/merge-ots-to-fods/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to FODS saveformat. C++ Combine OTS to FODS format. Combine OTS to FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to FODS saveformat via C++., Free Online Merge OTS to fods in C++., C++ Combine OTS to FODS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to FODS C++. C++ Merge OTS to FODS format. Combine OTS to FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to FODS., Free Online Merge OTS to fods in C++., C++ Combine OTS to FODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

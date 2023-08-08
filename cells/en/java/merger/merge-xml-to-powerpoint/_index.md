@@ -1,8 +1,8 @@
 ---
 title: Merge XML to POWERPOINT - Combine XML to POWERPOINT via Java
 url: /java/merger/merge-xml-to-powerpoint/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to POWERPOINT saveformat. Java Combine XML to POWERPOINT format. Combine XML to POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to POWERPOINT saveformat via Java., Free Online Merge XML to powerpoint in Java., Java Combine XML to POWERPOINT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to POWERPOINT Java. Java Merge XML to POWERPOINT format. Combine XML to POWERPOINT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to POWERPOINT., Free Online Merge XML to powerpoint in Java., Java Combine XML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

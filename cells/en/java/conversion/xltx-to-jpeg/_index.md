@@ -1,7 +1,7 @@
 ---
-title: XLTX to JPEG - Convert XLTX to JPEG files Java
-description: Aspose Excel. Free Online Convert XLTX to JPEG saveformat. Java XLTX to JPEG format. Save XLTX as JPEG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to JPEG saveformat., Free Online XLTX to JPEG Converter]
+title: Java XLTX to JPEG - Online XLTX to JPEG Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to JPEG saveformat. Java XLTX to JPEG format. Save XLTX to JPEG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to JPEG saveformat., Free Online XLTX to JPEG Java., Java Convert XLTX to JPEG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

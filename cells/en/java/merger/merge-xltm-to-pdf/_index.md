@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PDF - Combine XLTM to PDF via Java
 url: /java/merger/merge-xltm-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to PDF saveformat. Java Combine XLTM to PDF format. Combine XLTM to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to PDF saveformat via Java., Free Online Merge XLTM to pdf in Java., Java Combine XLTM to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to PDF Java. Java Merge XLTM to PDF format. Combine XLTM to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to PDF., Free Online Merge XLTM to pdf in Java., Java Combine XLTM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: EXCEL to JPG - Convert EXCEL to JPG files C++
-description: Aspose Excel. Free Online Convert EXCEL to JPG saveformat. C++ EXCEL to JPG format. Save EXCEL as JPG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to JPG saveformat., Free Online EXCEL to JPG Converter]
+title: C++ EXCEL to JPG - Online EXCEL to JPG Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert EXCEL to JPG saveformat. C++ EXCEL to JPG format. Save EXCEL to JPG C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to JPG saveformat., Free Online EXCEL to JPG C++., C++ Convert EXCEL to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

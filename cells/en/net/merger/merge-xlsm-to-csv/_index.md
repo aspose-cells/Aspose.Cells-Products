@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to CSV - Combine XLSM to CSV via C#
 url: /net/merger/merge-xlsm-to-csv/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to CSV saveformat. C# Combine XLSM to CSV format. Combine XLSM to CSV in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSM to CSV saveformat via C#., Free Online Merge XLSM to csv in C#., C# Combine XLSM to CSV format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSM Merge. Free Online Merge XLSM to CSV C#. C# Merge XLSM to CSV format. Combine XLSM to CSV in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSM Merge., C# Merge XLSM to CSV., Free Online Merge XLSM to csv in C#., C# Combine XLSM to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

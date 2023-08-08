@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DIF - Combine IMAGE to DIF via Java
 url: /java/merger/merge-image-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to DIF saveformat. Java Combine IMAGE to DIF format. Combine IMAGE to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to DIF saveformat via Java., Free Online Merge IMAGE to dif in Java., Java Combine IMAGE to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to DIF Java. Java Merge IMAGE to DIF format. Combine IMAGE to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to DIF., Free Online Merge IMAGE to dif in Java., Java Combine IMAGE to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

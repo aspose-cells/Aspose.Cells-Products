@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SVG - Combine XLT to SVG via Python
 url: /python-java/merger/merge-xlt-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to SVG saveformat. Python Combine XLT to SVG format. Combine XLT to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to SVG saveformat via Python., Free Online Merge XLT to svg in Python., Python Combine XLT to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLT Merge. Free Online Merge XLT to SVG Python. Python Merge XLT to SVG format. Combine XLT to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLT Merge., Python Merge XLT to SVG., Free Online Merge XLT to svg in Python., Python Combine XLT to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

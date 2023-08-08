@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLTM - Combine PNG to XLTM via C++
 url: /cpp/merger/merge-png-to-xltm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to XLTM saveformat. C++ Combine PNG to XLTM format. Combine PNG to XLTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to XLTM saveformat via C++., Free Online Merge PNG to xltm in C++., C++ Combine PNG to XLTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to XLTM C++. C++ Merge PNG to XLTM format. Combine PNG to XLTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to XLTM., Free Online Merge PNG to xltm in C++., C++ Combine PNG to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

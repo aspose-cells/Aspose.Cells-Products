@@ -1,7 +1,7 @@
 ---
-title: JPG to PNG - Convert JPG to PNG Python via Python
-description: Aspose Excel. Free Online Convert JPG to PNG saveformat. Python JPG to PNG format. Save JPG as PNG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to PNG saveformat., Free Online JPG to PNG Converter]
+title: Python JPG to PNG - Convert JPG to PNG Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to PNG saveformat. Python JPG to PNG format. Save JPG to PNG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to PNG saveformat., Free Online JPG to PNG Python., Python Convert JPG to PNG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to IMAGE - Combine XLSM to IMAGE via Java
 url: /java/merger/merge-xlsm-to-image/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to IMAGE saveformat. Java Combine XLSM to IMAGE format. Combine XLSM to IMAGE in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to IMAGE saveformat via Java., Free Online Merge XLSM to image in Java., Java Combine XLSM to IMAGE format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to IMAGE Java. Java Merge XLSM to IMAGE format. Combine XLSM to IMAGE in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to IMAGE., Free Online Merge XLSM to image in Java., Java Combine XLSM to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

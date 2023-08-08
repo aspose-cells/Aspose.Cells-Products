@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLTM - Combine XLS to XLTM via C#
 url: /net/merger/merge-xls-to-xltm/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to XLTM saveformat. C# Combine XLS to XLTM format. Combine XLS to XLTM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to XLTM saveformat via C#., Free Online Merge XLS to xltm in C#., C# Combine XLS to XLTM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to XLTM C#. C# Merge XLS to XLTM format. Combine XLS to XLTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to XLTM., Free Online Merge XLS to xltm in C#., C# Combine XLS to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

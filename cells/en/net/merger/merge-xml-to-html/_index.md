@@ -1,8 +1,8 @@
 ---
 title: Merge XML to HTML - Combine XML to HTML via C#
 url: /net/merger/merge-xml-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to HTML saveformat. C# Combine XML to HTML format. Combine XML to HTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XML to HTML saveformat via C#., Free Online Merge XML to html in C#., C# Combine XML to HTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XML Merge. Free Online Merge XML to HTML C#. C# Merge XML to HTML format. Combine XML to HTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XML Merge., C# Merge XML to HTML., Free Online Merge XML to html in C#., C# Combine XML to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to GIF - Combine FODS to GIF via Java
 url: /java/merger/merge-fods-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to GIF saveformat. Java Combine FODS to GIF format. Combine FODS to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to GIF saveformat via Java., Free Online Merge FODS to gif in Java., Java Combine FODS to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to GIF Java. Java Merge FODS to GIF format. Combine FODS to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to GIF., Free Online Merge FODS to gif in Java., Java Combine FODS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

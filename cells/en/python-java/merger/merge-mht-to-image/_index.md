@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to IMAGE - Combine MHT to IMAGE via Python
 url: /python-java/merger/merge-mht-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to IMAGE saveformat. Python Combine MHT to IMAGE format. Combine MHT to IMAGE in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to IMAGE saveformat via Python., Free Online Merge MHT to image in Python., Python Combine MHT to IMAGE format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to IMAGE Python. Python Merge MHT to IMAGE format. Combine MHT to IMAGE in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to IMAGE., Free Online Merge MHT to image in Python., Python Combine MHT to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

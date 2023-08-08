@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TIFF - Combine MHT to TIFF via Java
 url: /java/merger/merge-mht-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to TIFF saveformat. Java Combine MHT to TIFF format. Combine MHT to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to TIFF saveformat via Java., Free Online Merge MHT to tiff in Java., Java Combine MHT to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to TIFF Java. Java Merge MHT to TIFF format. Combine MHT to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to TIFF., Free Online Merge MHT to tiff in Java., Java Combine MHT to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to EMF - Combine XLTX to EMF via Java
 url: /java/merger/merge-xltx-to-emf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to EMF saveformat. Java Combine XLTX to EMF format. Combine XLTX to EMF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTX to EMF saveformat via Java., Free Online Merge XLTX to emf in Java., Java Combine XLTX to EMF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTX Merge. Free Online Merge XLTX to EMF Java. Java Merge XLTX to EMF format. Combine XLTX to EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTX Merge., Java Merge XLTX to EMF., Free Online Merge XLTX to emf in Java., Java Combine XLTX to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

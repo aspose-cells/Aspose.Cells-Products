@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PRN - Combine SXC to PRN via C#
 url: /net/merger/merge-sxc-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to PRN saveformat. C# Combine SXC to PRN format. Combine SXC to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to PRN saveformat via C#., Free Online Merge SXC to prn in C#., C# Combine SXC to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to PRN C#. C# Merge SXC to PRN format. Combine SXC to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to PRN., Free Online Merge SXC to prn in C#., C# Combine SXC to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

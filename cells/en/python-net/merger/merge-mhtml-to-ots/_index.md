@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to OTS - Combine MHTML to OTS via Python
 url: /python-net/merger/merge-mhtml-to-ots/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to OTS saveformat. Python Combine MHTML to OTS format. Combine MHTML to OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to OTS saveformat via Python., Free Online Merge MHTML to ots in Python., Python Combine MHTML to OTS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to OTS Python. Python Merge MHTML to OTS format. Combine MHTML to OTS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to OTS., Free Online Merge MHTML to ots in Python., Python Combine MHTML to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

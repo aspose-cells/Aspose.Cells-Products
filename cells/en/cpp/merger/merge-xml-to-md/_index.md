@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MD - Combine XML to MD via C++
 url: /cpp/merger/merge-xml-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to MD saveformat. C++ Combine XML to MD format. Combine XML to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to MD saveformat via C++., Free Online Merge XML to md in C++., C++ Combine XML to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to MD C++. C++ Merge XML to MD format. Combine XML to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to MD., Free Online Merge XML to md in C++., C++ Combine XML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

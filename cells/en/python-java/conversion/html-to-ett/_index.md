@@ -1,7 +1,7 @@
 ---
-title: HTML to ETT - Convert HTML to ETT Python via Python
-description: Aspose Excel. Free Online Convert HTML to ETT saveformat. Python HTML to ETT format. Save HTML as ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to ETT saveformat., Free Online HTML to ETT Converter]
+title: Python HTML to ETT - Convert HTML to ETT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to ETT saveformat. Python HTML to ETT format. Save HTML to ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to ETT saveformat., Free Online HTML to ETT Python., Python Convert HTML to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

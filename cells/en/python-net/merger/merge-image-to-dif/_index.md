@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DIF - Combine IMAGE to DIF via Python
 url: /python-net/merger/merge-image-to-dif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to DIF saveformat. Python Combine IMAGE to DIF format. Combine IMAGE to DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to DIF saveformat via Python., Free Online Merge IMAGE to dif in Python., Python Combine IMAGE to DIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to DIF Python. Python Merge IMAGE to DIF format. Combine IMAGE to DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to DIF., Free Online Merge IMAGE to dif in Python., Python Combine IMAGE to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

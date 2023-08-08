@@ -1,7 +1,7 @@
 ---
-title: XLTX to ODS - Convert XLTX to ODS files Java
-description: Aspose Excel. Free Online Convert XLTX to ODS saveformat. Java XLTX to ODS format. Save XLTX as ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to ODS saveformat., Free Online XLTX to ODS Converter]
+title: Java XLTX to ODS - Online XLTX to ODS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to ODS saveformat. Java XLTX to ODS format. Save XLTX to ODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to ODS saveformat., Free Online XLTX to ODS Java., Java Convert XLTX to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

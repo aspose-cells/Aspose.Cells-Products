@@ -1,7 +1,7 @@
 ---
-title: PNG to DIF - Convert PNG to DIF Python via Python
-description: Aspose Excel. Free Online Convert PNG to DIF saveformat. Python PNG to DIF format. Save PNG as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to DIF saveformat., Free Online PNG to DIF Converter]
+title: Python PNG to DIF - Convert PNG to DIF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to DIF saveformat. Python PNG to DIF format. Save PNG to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to DIF saveformat., Free Online PNG to DIF Python., Python Convert PNG to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

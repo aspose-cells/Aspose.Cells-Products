@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SQL - Combine XML to SQL via Java
 url: /java/merger/merge-xml-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to SQL saveformat. Java Combine XML to SQL format. Combine XML to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to SQL saveformat via Java., Free Online Merge XML to sql in Java., Java Combine XML to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to SQL Java. Java Merge XML to SQL format. Combine XML to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to SQL., Free Online Merge XML to sql in Java., Java Combine XML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

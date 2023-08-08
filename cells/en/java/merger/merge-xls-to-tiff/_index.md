@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to TIFF - Combine XLS to TIFF via Java
 url: /java/merger/merge-xls-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to TIFF saveformat. Java Combine XLS to TIFF format. Combine XLS to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLS to TIFF saveformat via Java., Free Online Merge XLS to tiff in Java., Java Combine XLS to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLS Merge. Free Online Merge XLS to TIFF Java. Java Merge XLS to TIFF format. Combine XLS to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLS Merge., Java Merge XLS to TIFF., Free Online Merge XLS to tiff in Java., Java Combine XLS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

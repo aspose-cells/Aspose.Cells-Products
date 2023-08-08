@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to EXCEL - Combine NUMBERS to EXCEL via Python
 url: /python-net/merger/merge-numbers-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to EXCEL saveformat. Python Combine NUMBERS to EXCEL format. Combine NUMBERS to EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to EXCEL saveformat via Python., Free Online Merge NUMBERS to excel in Python., Python Combine NUMBERS to EXCEL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to EXCEL Python. Python Merge NUMBERS to EXCEL format. Combine NUMBERS to EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to EXCEL., Free Online Merge NUMBERS to excel in Python., Python Combine NUMBERS to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

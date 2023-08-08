@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to BMP - Combine MHT to BMP via C++
 url: /cpp/merger/merge-mht-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to BMP saveformat. C++ Combine MHT to BMP format. Combine MHT to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to BMP saveformat via C++., Free Online Merge MHT to bmp in C++., C++ Combine MHT to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to BMP C++. C++ Merge MHT to BMP format. Combine MHT to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to BMP., Free Online Merge MHT to bmp in C++., C++ Combine MHT to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

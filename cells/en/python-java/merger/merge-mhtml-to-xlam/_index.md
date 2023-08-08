@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLAM - Combine MHTML to XLAM via Python
 url: /python-java/merger/merge-mhtml-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XLAM saveformat. Python Combine MHTML to XLAM format. Combine MHTML to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to XLAM saveformat via Python., Free Online Merge MHTML to xlam in Python., Python Combine MHTML to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to XLAM Python. Python Merge MHTML to XLAM format. Combine MHTML to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to XLAM., Free Online Merge MHTML to xlam in Python., Python Combine MHTML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

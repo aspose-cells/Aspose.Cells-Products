@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SPREADSHEETML - Combine MHT to SPREADSHEETML via Java
 url: /java/merger/merge-mht-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to SPREADSHEETML saveformat. Java Combine MHT to SPREADSHEETML format. Combine MHT to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHT to SPREADSHEETML saveformat via Java., Free Online Merge MHT to spreadsheetml in Java., Java Combine MHT to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHT Merge. Free Online Merge MHT to SPREADSHEETML Java. Java Merge MHT to SPREADSHEETML format. Combine MHT to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHT Merge., Java Merge MHT to SPREADSHEETML., Free Online Merge MHT to spreadsheetml in Java., Java Combine MHT to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SQL - Combine JSON to SQL via C#
 url: /net/merger/merge-json-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to SQL saveformat. C# Combine JSON to SQL format. Combine JSON to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JSON to SQL saveformat via C#., Free Online Merge JSON to sql in C#., C# Combine JSON to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JSON Merge. Free Online Merge JSON to SQL C#. C# Merge JSON to SQL format. Combine JSON to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JSON Merge., C# Merge JSON to SQL., Free Online Merge JSON to sql in C#., C# Combine JSON to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

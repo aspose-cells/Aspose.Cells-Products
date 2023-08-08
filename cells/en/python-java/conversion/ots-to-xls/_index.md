@@ -1,7 +1,7 @@
 ---
-title: OTS to XLS - Convert OTS to XLS Python via Python
-description: Aspose Excel. Free Online Convert OTS to XLS saveformat. Python OTS to XLS format. Save OTS as XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to XLS saveformat., Free Online OTS to XLS Converter]
+title: Python OTS to XLS - Convert OTS to XLS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to XLS saveformat. Python OTS to XLS format. Save OTS to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to XLS saveformat., Free Online OTS to XLS Python., Python Convert OTS to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

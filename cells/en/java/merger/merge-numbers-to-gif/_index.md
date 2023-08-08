@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to GIF - Combine NUMBERS to GIF via Java
 url: /java/merger/merge-numbers-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to GIF saveformat. Java Combine NUMBERS to GIF format. Combine NUMBERS to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to GIF saveformat via Java., Free Online Merge NUMBERS to gif in Java., Java Combine NUMBERS to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to GIF Java. Java Merge NUMBERS to GIF format. Combine NUMBERS to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to GIF., Free Online Merge NUMBERS to gif in Java., Java Combine NUMBERS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

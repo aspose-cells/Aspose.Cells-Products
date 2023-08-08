@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MARKDOWN - Combine SXC to MARKDOWN via C#
 url: /net/merger/merge-sxc-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to MARKDOWN saveformat. C# Combine SXC to MARKDOWN format. Combine SXC to MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to MARKDOWN saveformat via C#., Free Online Merge SXC to markdown in C#., C# Combine SXC to MARKDOWN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to MARKDOWN C#. C# Merge SXC to MARKDOWN format. Combine SXC to MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to MARKDOWN., Free Online Merge SXC to markdown in C#., C# Combine SXC to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

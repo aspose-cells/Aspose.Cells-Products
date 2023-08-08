@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to EMF - Combine JPEG to EMF via Python
 url: /python-java/merger/merge-jpeg-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to EMF saveformat. Python Combine JPEG to EMF format. Combine JPEG to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPEG to EMF saveformat via Python., Free Online Merge JPEG to emf in Python., Python Combine JPEG to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPEG Merge. Free Online Merge JPEG to EMF Python. Python Merge JPEG to EMF format. Combine JPEG to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPEG Merge., Python Merge JPEG to EMF., Free Online Merge JPEG to emf in Python., Python Combine JPEG to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

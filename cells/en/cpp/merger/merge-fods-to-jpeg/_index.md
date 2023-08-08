@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JPEG - Combine FODS to JPEG via C++
 url: /cpp/merger/merge-fods-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to JPEG saveformat. C++ Combine FODS to JPEG format. Combine FODS to JPEG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to JPEG saveformat via C++., Free Online Merge FODS to jpeg in C++., C++ Combine FODS to JPEG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to JPEG C++. C++ Merge FODS to JPEG format. Combine FODS to JPEG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to JPEG., Free Online Merge FODS to jpeg in C++., C++ Combine FODS to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

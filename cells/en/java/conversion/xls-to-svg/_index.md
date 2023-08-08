@@ -1,7 +1,7 @@
 ---
-title: XLS to SVG - Convert XLS to SVG files Java
-description: Aspose Excel. Free Online Convert XLS to SVG saveformat. Java XLS to SVG format. Save XLS as SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to SVG saveformat., Free Online XLS to SVG Converter]
+title: Java XLS to SVG - Online XLS to SVG Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to SVG saveformat. Java XLS to SVG format. Save XLS to SVG Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to SVG saveformat., Free Online XLS to SVG Java., Java Convert XLS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

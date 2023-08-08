@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to POWERPOINT - Combine JPG to POWERPOINT via Python
 url: /python-net/merger/merge-jpg-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to POWERPOINT saveformat. Python Combine JPG to POWERPOINT format. Combine JPG to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to POWERPOINT saveformat via Python., Free Online Merge JPG to powerpoint in Python., Python Combine JPG to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to POWERPOINT Python. Python Merge JPG to POWERPOINT format. Combine JPG to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to POWERPOINT., Free Online Merge JPG to powerpoint in Python., Python Combine JPG to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

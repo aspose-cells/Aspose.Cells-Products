@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TIFF - Combine MHT to TIFF via C++
 url: /cpp/merger/merge-mht-to-tiff/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to TIFF saveformat. C++ Combine MHT to TIFF format. Combine MHT to TIFF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to TIFF saveformat via C++., Free Online Merge MHT to tiff in C++., C++ Combine MHT to TIFF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to TIFF C++. C++ Merge MHT to TIFF format. Combine MHT to TIFF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to TIFF., Free Online Merge MHT to tiff in C++., C++ Combine MHT to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

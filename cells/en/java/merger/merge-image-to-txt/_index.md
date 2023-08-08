@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to TXT - Combine IMAGE to TXT via Java
 url: /java/merger/merge-image-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to TXT saveformat. Java Combine IMAGE to TXT format. Combine IMAGE to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to TXT saveformat via Java., Free Online Merge IMAGE to txt in Java., Java Combine IMAGE to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to TXT Java. Java Merge IMAGE to TXT format. Combine IMAGE to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to TXT., Free Online Merge IMAGE to txt in Java., Java Combine IMAGE to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

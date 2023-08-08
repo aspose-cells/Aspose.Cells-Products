@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SQL - Combine HTM to SQL via Python
 url: /python-net/merger/merge-htm-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to SQL saveformat. Python Combine HTM to SQL format. Combine HTM to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to SQL saveformat via Python., Free Online Merge HTM to sql in Python., Python Combine HTM to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to SQL Python. Python Merge HTM to SQL format. Combine HTM to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to SQL., Free Online Merge HTM to sql in Python., Python Combine HTM to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

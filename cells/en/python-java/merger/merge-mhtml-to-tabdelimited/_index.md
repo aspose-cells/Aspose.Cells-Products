@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TABDELIMITED - Combine MHTML to TABDELIMITED via Python
 url: /python-java/merger/merge-mhtml-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to TABDELIMITED saveformat. Python Combine MHTML to TABDELIMITED format. Combine MHTML to TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to TABDELIMITED saveformat via Python., Free Online Merge MHTML to tabdelimited in Python., Python Combine MHTML to TABDELIMITED format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to TABDELIMITED Python. Python Merge MHTML to TABDELIMITED format. Combine MHTML to TABDELIMITED in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to TABDELIMITED., Free Online Merge MHTML to tabdelimited in Python., Python Combine MHTML to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

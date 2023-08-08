@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MHTML - Combine FODS to MHTML via Java
 url: /java/merger/merge-fods-to-mhtml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to MHTML saveformat. Java Combine FODS to MHTML format. Combine FODS to MHTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to MHTML saveformat via Java., Free Online Merge FODS to mhtml in Java., Java Combine FODS to MHTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to MHTML Java. Java Merge FODS to MHTML format. Combine FODS to MHTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to MHTML., Free Online Merge FODS to mhtml in Java., Java Combine FODS to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

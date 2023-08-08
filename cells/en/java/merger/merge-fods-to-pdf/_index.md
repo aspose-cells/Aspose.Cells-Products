@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PDF - Combine FODS to PDF via Java
 url: /java/merger/merge-fods-to-pdf/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to PDF saveformat. Java Combine FODS to PDF format. Combine FODS to PDF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine FODS to PDF saveformat via Java., Free Online Merge FODS to pdf in Java., Java Combine FODS to PDF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. FODS Merge. Free Online Merge FODS to PDF Java. Java Merge FODS to PDF format. Combine FODS to PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., FODS Merge., Java Merge FODS to PDF., Free Online Merge FODS to pdf in Java., Java Combine FODS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

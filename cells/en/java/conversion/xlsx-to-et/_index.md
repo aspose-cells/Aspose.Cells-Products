@@ -1,7 +1,7 @@
 ---
-title: XLSX to ET - Convert XLSX to ET files Java
-description: Aspose Excel. Free Online Convert XLSX to ET saveformat. Java XLSX to ET format. Save XLSX as ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to ET saveformat., Free Online XLSX to ET Converter]
+title: Java XLSX to ET - Online XLSX to ET Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to ET saveformat. Java XLSX to ET format. Save XLSX to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to ET saveformat., Free Online XLSX to ET Java., Java Convert XLSX to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

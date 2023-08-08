@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to EMF - Combine XLSB to EMF via C#
 url: /net/merger/merge-xlsb-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to EMF saveformat. C# Combine XLSB to EMF format. Combine XLSB to EMF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to EMF saveformat via C#., Free Online Merge XLSB to emf in C#., C# Combine XLSB to EMF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to EMF C#. C# Merge XLSB to EMF format. Combine XLSB to EMF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to EMF., Free Online Merge XLSB to emf in C#., C# Combine XLSB to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

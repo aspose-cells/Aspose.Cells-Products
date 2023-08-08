@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to PPTX - Combine TSV to PPTX via Python
 url: /python-net/merger/merge-tsv-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to PPTX saveformat. Python Combine TSV to PPTX format. Combine TSV to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to PPTX saveformat via Python., Free Online Merge TSV to pptx in Python., Python Combine TSV to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TSV Merge. Free Online Merge TSV to PPTX Python. Python Merge TSV to PPTX format. Combine TSV to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TSV Merge., Python Merge TSV to PPTX., Free Online Merge TSV to pptx in Python., Python Combine TSV to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

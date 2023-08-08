@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PRN - Combine XLSX to PRN via Python
 url: /python-java/merger/merge-xlsx-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to PRN saveformat. Python Combine XLSX to PRN format. Combine XLSX to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSX to PRN saveformat via Python., Free Online Merge XLSX to prn in Python., Python Combine XLSX to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSX Merge. Free Online Merge XLSX to PRN Python. Python Merge XLSX to PRN format. Combine XLSX to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSX Merge., Python Merge XLSX to PRN., Free Online Merge XLSX to prn in Python., Python Combine XLSX to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

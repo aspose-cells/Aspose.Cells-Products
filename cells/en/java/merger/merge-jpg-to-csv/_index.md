@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to CSV - Combine JPG to CSV via Java
 url: /java/merger/merge-jpg-to-csv/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to CSV saveformat. Java Combine JPG to CSV format. Combine JPG to CSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to CSV saveformat via Java., Free Online Merge JPG to csv in Java., Java Combine JPG to CSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to CSV Java. Java Merge JPG to CSV format. Combine JPG to CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to CSV., Free Online Merge JPG to csv in Java., Java Combine JPG to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

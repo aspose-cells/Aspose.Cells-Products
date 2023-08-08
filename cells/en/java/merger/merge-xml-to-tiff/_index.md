@@ -1,8 +1,8 @@
 ---
 title: Merge XML to TIFF - Combine XML to TIFF via Java
 url: /java/merger/merge-xml-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to TIFF saveformat. Java Combine XML to TIFF format. Combine XML to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to TIFF saveformat via Java., Free Online Merge XML to tiff in Java., Java Combine XML to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to TIFF Java. Java Merge XML to TIFF format. Combine XML to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to TIFF., Free Online Merge XML to tiff in Java., Java Combine XML to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

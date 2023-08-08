@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to WORD - Combine SXC to WORD via Java
 url: /java/merger/merge-sxc-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to WORD saveformat. Java Combine SXC to WORD format. Combine SXC to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to WORD saveformat via Java., Free Online Merge SXC to word in Java., Java Combine SXC to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to WORD Java. Java Merge SXC to WORD format. Combine SXC to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to WORD., Free Online Merge SXC to word in Java., Java Combine SXC to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

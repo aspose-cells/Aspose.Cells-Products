@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XLAM - Combine XLSB to XLAM via Python
 url: /python-net/merger/merge-xlsb-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to XLAM saveformat. Python Combine XLSB to XLAM format. Combine XLSB to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to XLAM saveformat via Python., Free Online Merge XLSB to xlam in Python., Python Combine XLSB to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to XLAM Python. Python Merge XLSB to XLAM format. Combine XLSB to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to XLAM., Free Online Merge XLSB to xlam in Python., Python Combine XLSB to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to GIF - Combine PNG to GIF via C#
 url: /net/merger/merge-png-to-gif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to GIF saveformat. C# Combine PNG to GIF format. Combine PNG to GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to GIF saveformat via C#., Free Online Merge PNG to gif in C#., C# Combine PNG to GIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to GIF C#. C# Merge PNG to GIF format. Combine PNG to GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to GIF., Free Online Merge PNG to gif in C#., C# Combine PNG to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLS to DIF - Convert XLS to DIF files Java
-description: Aspose Excel. Free Online Convert XLS to DIF saveformat. Java XLS to DIF format. Save XLS as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to DIF saveformat., Free Online XLS to DIF Converter]
+title: Java XLS to DIF - Online XLS to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to DIF saveformat. Java XLS to DIF format. Save XLS to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to DIF saveformat., Free Online XLS to DIF Java., Java Convert XLS to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

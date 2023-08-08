@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to POWERPOINT - Combine HTML to POWERPOINT via C++
 url: /cpp/merger/merge-html-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to POWERPOINT saveformat. C++ Combine HTML to POWERPOINT format. Combine HTML to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to POWERPOINT saveformat via C++., Free Online Merge HTML to powerpoint in C++., C++ Combine HTML to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to POWERPOINT C++. C++ Merge HTML to POWERPOINT format. Combine HTML to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to POWERPOINT., Free Online Merge HTML to powerpoint in C++., C++ Combine HTML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

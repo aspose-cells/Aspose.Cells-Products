@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SQL - Combine XLS to SQL via C++
 url: /cpp/merger/merge-xls-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to SQL saveformat. C++ Combine XLS to SQL format. Combine XLS to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLS to SQL saveformat via C++., Free Online Merge XLS to sql in C++., C++ Combine XLS to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLS Merge. Free Online Merge XLS to SQL C++. C++ Merge XLS to SQL format. Combine XLS to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLS Merge., C++ Merge XLS to SQL., Free Online Merge XLS to sql in C++., C++ Combine XLS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

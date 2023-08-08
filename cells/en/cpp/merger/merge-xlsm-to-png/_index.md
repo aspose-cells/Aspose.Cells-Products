@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to PNG - Combine XLSM to PNG via C++
 url: /cpp/merger/merge-xlsm-to-png/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to PNG saveformat. C++ Combine XLSM to PNG format. Combine XLSM to PNG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to PNG saveformat via C++., Free Online Merge XLSM to png in C++., C++ Combine XLSM to PNG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to PNG C++. C++ Merge XLSM to PNG format. Combine XLSM to PNG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to PNG., Free Online Merge XLSM to png in C++., C++ Combine XLSM to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

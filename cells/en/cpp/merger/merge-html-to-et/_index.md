@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ET - Combine HTML to ET via C++
 url: /cpp/merger/merge-html-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to ET saveformat. C++ Combine HTML to ET format. Combine HTML to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to ET saveformat via C++., Free Online Merge HTML to et in C++., C++ Combine HTML to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to ET C++. C++ Merge HTML to ET format. Combine HTML to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to ET., Free Online Merge HTML to et in C++., C++ Combine HTML to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

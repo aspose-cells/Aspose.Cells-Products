@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SQL - Combine JPG to SQL via C++
 url: /cpp/merger/merge-jpg-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to SQL saveformat. C++ Combine JPG to SQL format. Combine JPG to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to SQL saveformat via C++., Free Online Merge JPG to sql in C++., C++ Combine JPG to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to SQL C++. C++ Merge JPG to SQL format. Combine JPG to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to SQL., Free Online Merge JPG to sql in C++., C++ Combine JPG to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SVG - Combine JSON to SVG via Java
 url: /java/merger/merge-json-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to SVG saveformat. Java Combine JSON to SVG format. Combine JSON to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to SVG saveformat via Java., Free Online Merge JSON to svg in Java., Java Combine JSON to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to SVG Java. Java Merge JSON to SVG format. Combine JSON to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to SVG., Free Online Merge JSON to svg in Java., Java Combine JSON to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

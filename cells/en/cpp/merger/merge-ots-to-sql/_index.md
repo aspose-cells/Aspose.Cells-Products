@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to SQL - Combine OTS to SQL via C++
 url: /cpp/merger/merge-ots-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to SQL saveformat. C++ Combine OTS to SQL format. Combine OTS to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to SQL saveformat via C++., Free Online Merge OTS to sql in C++., C++ Combine OTS to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to SQL C++. C++ Merge OTS to SQL format. Combine OTS to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to SQL., Free Online Merge OTS to sql in C++., C++ Combine OTS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DIF - Combine XML to DIF via C++
 url: /cpp/merger/merge-xml-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to DIF saveformat. C++ Combine XML to DIF format. Combine XML to DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to DIF saveformat via C++., Free Online Merge XML to dif in C++., C++ Combine XML to DIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to DIF C++. C++ Merge XML to DIF format. Combine XML to DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to DIF., Free Online Merge XML to dif in C++., C++ Combine XML to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

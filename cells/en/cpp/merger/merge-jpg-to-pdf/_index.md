@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PDF - Combine JPG to PDF via C++
 url: /cpp/merger/merge-jpg-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to PDF saveformat. C++ Combine JPG to PDF format. Combine JPG to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to PDF saveformat via C++., Free Online Merge JPG to pdf in C++., C++ Combine JPG to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to PDF C++. C++ Merge JPG to PDF format. Combine JPG to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to PDF., Free Online Merge JPG to pdf in C++., C++ Combine JPG to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

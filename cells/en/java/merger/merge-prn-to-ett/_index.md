@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to ETT - Combine PRN to ETT via Java
 url: /java/merger/merge-prn-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to ETT saveformat. Java Combine PRN to ETT format. Combine PRN to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to ETT saveformat via Java., Free Online Merge PRN to ett in Java., Java Combine PRN to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to ETT Java. Java Merge PRN to ETT format. Combine PRN to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to ETT., Free Online Merge PRN to ett in Java., Java Combine PRN to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

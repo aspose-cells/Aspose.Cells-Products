@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to NUMBERS - Combine HTM to NUMBERS via C++
 url: /cpp/merger/merge-htm-to-numbers/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to NUMBERS saveformat. C++ Combine HTM to NUMBERS format. Combine HTM to NUMBERS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTM to NUMBERS saveformat via C++., Free Online Merge HTM to numbers in C++., C++ Combine HTM to NUMBERS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTM Merge. Free Online Merge HTM to NUMBERS C++. C++ Merge HTM to NUMBERS format. Combine HTM to NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTM Merge., C++ Merge HTM to NUMBERS., Free Online Merge HTM to numbers in C++., C++ Combine HTM to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

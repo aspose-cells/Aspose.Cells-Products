@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to EXCEL - Combine TXT to EXCEL via Python
 url: /python-net/merger/merge-txt-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to EXCEL saveformat. Python Combine TXT to EXCEL format. Combine TXT to EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to EXCEL saveformat via Python., Free Online Merge TXT to excel in Python., Python Combine TXT to EXCEL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to EXCEL Python. Python Merge TXT to EXCEL format. Combine TXT to EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to EXCEL., Free Online Merge TXT to excel in Python., Python Combine TXT to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

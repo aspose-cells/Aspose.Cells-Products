@@ -1,7 +1,7 @@
 ---
-title: XLSB to JSON - Convert XLSB to JSON files C++
-description: Aspose Excel. Free Online Convert XLSB to JSON saveformat. C++ XLSB to JSON format. Save XLSB as JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to JSON saveformat., Free Online XLSB to JSON Converter]
+title: C++ XLSB to JSON - Online XLSB to JSON Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to JSON saveformat. C++ XLSB to JSON format. Save XLSB to JSON C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to JSON saveformat., Free Online XLSB to JSON C++., C++ Convert XLSB to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

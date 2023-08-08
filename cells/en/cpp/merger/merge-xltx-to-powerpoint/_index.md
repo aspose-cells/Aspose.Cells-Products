@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to POWERPOINT - Combine XLTX to POWERPOINT via C++
 url: /cpp/merger/merge-xltx-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to POWERPOINT saveformat. C++ Combine XLTX to POWERPOINT format. Combine XLTX to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLTX to POWERPOINT saveformat via C++., Free Online Merge XLTX to powerpoint in C++., C++ Combine XLTX to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLTX Merge. Free Online Merge XLTX to POWERPOINT C++. C++ Merge XLTX to POWERPOINT format. Combine XLTX to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLTX Merge., C++ Merge XLTX to POWERPOINT., Free Online Merge XLTX to powerpoint in C++., C++ Combine XLTX to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

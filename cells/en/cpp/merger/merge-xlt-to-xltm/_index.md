@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTM - Combine XLT to XLTM via C++
 url: /cpp/merger/merge-xlt-to-xltm/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to XLTM saveformat. C++ Combine XLT to XLTM format. Combine XLT to XLTM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to XLTM saveformat via C++., Free Online Merge XLT to xltm in C++., C++ Combine XLT to XLTM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLT Merge. Free Online Merge XLT to XLTM C++. C++ Merge XLT to XLTM format. Combine XLT to XLTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLT Merge., C++ Merge XLT to XLTM., Free Online Merge XLT to xltm in C++., C++ Combine XLT to XLTM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

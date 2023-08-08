@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLAM - Combine HTML to XLAM via C#
 url: /net/merger/merge-html-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to XLAM saveformat. C# Combine HTML to XLAM format. Combine HTML to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to XLAM saveformat via C#., Free Online Merge HTML to xlam in C#., C# Combine HTML to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to XLAM C#. C# Merge HTML to XLAM format. Combine HTML to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to XLAM., Free Online Merge HTML to xlam in C#., C# Combine HTML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

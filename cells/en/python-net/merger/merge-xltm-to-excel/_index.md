@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to EXCEL - Combine XLTM to EXCEL via Python
 url: /python-net/merger/merge-xltm-to-excel/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to EXCEL saveformat. Python Combine XLTM to EXCEL format. Combine XLTM to EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to EXCEL saveformat via Python., Free Online Merge XLTM to excel in Python., Python Combine XLTM to EXCEL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTM Merge. Free Online Merge XLTM to EXCEL Python. Python Merge XLTM to EXCEL format. Combine XLTM to EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTM Merge., Python Merge XLTM to EXCEL., Free Online Merge XLTM to excel in Python., Python Combine XLTM to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

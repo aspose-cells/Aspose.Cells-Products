@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to ETT - Combine XLS to ETT via C#
 url: /net/merger/merge-xls-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to ETT saveformat. C# Combine XLS to ETT format. Combine XLS to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to ETT saveformat via C#., Free Online Merge XLS to ett in C#., C# Combine XLS to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to ETT C#. C# Merge XLS to ETT format. Combine XLS to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to ETT., Free Online Merge XLS to ett in C#., C# Combine XLS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

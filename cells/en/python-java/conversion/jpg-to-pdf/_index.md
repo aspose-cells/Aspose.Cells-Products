@@ -1,7 +1,7 @@
 ---
-title: JPG to PDF - Convert JPG to PDF Python via Python
-description: Aspose Excel. Free Online Convert JPG to PDF saveformat. Python JPG to PDF format. Save JPG as PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to PDF saveformat., Free Online JPG to PDF Converter]
+title: Python JPG to PDF - Convert JPG to PDF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to PDF saveformat. Python JPG to PDF format. Save JPG to PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to PDF saveformat., Free Online JPG to PDF Python., Python Convert JPG to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

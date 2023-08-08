@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to JSON - Combine HTM to JSON via C#
 url: /net/merger/merge-htm-to-json/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to JSON saveformat. C# Combine HTM to JSON format. Combine HTM to JSON in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to JSON saveformat via C#., Free Online Merge HTM to json in C#., C# Combine HTM to JSON format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to JSON C#. C# Merge HTM to JSON format. Combine HTM to JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to JSON., Free Online Merge HTM to json in C#., C# Combine HTM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

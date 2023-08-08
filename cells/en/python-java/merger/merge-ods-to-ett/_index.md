@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to ETT - Combine ODS to ETT via Python
 url: /python-java/merger/merge-ods-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to ETT saveformat. Python Combine ODS to ETT format. Combine ODS to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to ETT saveformat via Python., Free Online Merge ODS to ett in Python., Python Combine ODS to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to ETT Python. Python Merge ODS to ETT format. Combine ODS to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to ETT., Free Online Merge ODS to ett in Python., Python Combine ODS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

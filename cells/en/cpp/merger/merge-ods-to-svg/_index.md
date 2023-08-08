@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SVG - Combine ODS to SVG via C++
 url: /cpp/merger/merge-ods-to-svg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to SVG saveformat. C++ Combine ODS to SVG format. Combine ODS to SVG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine ODS to SVG saveformat via C++., Free Online Merge ODS to svg in C++., C++ Combine ODS to SVG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. ODS Merge. Free Online Merge ODS to SVG C++. C++ Merge ODS to SVG format. Combine ODS to SVG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., ODS Merge., C++ Merge ODS to SVG., Free Online Merge ODS to svg in C++., C++ Combine ODS to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

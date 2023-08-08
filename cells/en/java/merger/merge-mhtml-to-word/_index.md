@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to WORD - Combine MHTML to WORD via Java
 url: /java/merger/merge-mhtml-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to WORD saveformat. Java Combine MHTML to WORD format. Combine MHTML to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to WORD saveformat via Java., Free Online Merge MHTML to word in Java., Java Combine MHTML to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to WORD Java. Java Merge MHTML to WORD format. Combine MHTML to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to WORD., Free Online Merge MHTML to word in Java., Java Combine MHTML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

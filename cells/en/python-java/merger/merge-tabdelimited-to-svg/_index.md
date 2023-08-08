@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SVG - Combine TABDELIMITED to SVG via Python
 url: /python-java/merger/merge-tabdelimited-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to SVG saveformat. Python Combine TABDELIMITED to SVG format. Combine TABDELIMITED to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TABDELIMITED to SVG saveformat via Python., Free Online Merge TABDELIMITED to svg in Python., Python Combine TABDELIMITED to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to SVG Python. Python Merge TABDELIMITED to SVG format. Combine TABDELIMITED to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TABDELIMITED Merge., Python Merge TABDELIMITED to SVG., Free Online Merge TABDELIMITED to svg in Python., Python Combine TABDELIMITED to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

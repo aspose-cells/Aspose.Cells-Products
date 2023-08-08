@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to ETT - Combine PRN to ETT via C#
 url: /net/merger/merge-prn-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to ETT saveformat. C# Combine PRN to ETT format. Combine PRN to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PRN to ETT saveformat via C#., Free Online Merge PRN to ett in C#., C# Combine PRN to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PRN Merge. Free Online Merge PRN to ETT C#. C# Merge PRN to ETT format. Combine PRN to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PRN Merge., C# Merge PRN to ETT., Free Online Merge PRN to ett in C#., C# Combine PRN to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TXT - Combine FODS to TXT via C#
 url: /net/merger/merge-fods-to-txt/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to TXT saveformat. C# Combine FODS to TXT format. Combine FODS to TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to TXT saveformat via C#., Free Online Merge FODS to txt in C#., C# Combine FODS to TXT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to TXT C#. C# Merge FODS to TXT format. Combine FODS to TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to TXT., Free Online Merge FODS to txt in C#., C# Combine FODS to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

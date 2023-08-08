@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLAM - Combine ODS to XLAM via Java
 url: /java/merger/merge-ods-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to XLAM saveformat. Java Combine ODS to XLAM format. Combine ODS to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to XLAM saveformat via Java., Free Online Merge ODS to xlam in Java., Java Combine ODS to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to XLAM Java. Java Merge ODS to XLAM format. Combine ODS to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to XLAM., Free Online Merge ODS to xlam in Java., Java Combine ODS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

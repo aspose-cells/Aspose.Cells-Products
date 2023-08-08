@@ -1,7 +1,7 @@
 ---
-title: ODS to POWERPOINT - Convert ODS to POWERPOINT files Python via Python
-description: Aspose Excel. Free Online Convert ODS to POWERPOINT saveformat. Python ODS to POWERPOINT format. Save ODS as POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to POWERPOINT saveformat., Free Online ODS to POWERPOINT Converter]
+title: Python ODS to POWERPOINT - Convert ODS to POWERPOINT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to POWERPOINT saveformat. Python ODS to POWERPOINT format. Save ODS to POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to POWERPOINT saveformat., Free Online ODS to POWERPOINT Python., Python Convert ODS to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

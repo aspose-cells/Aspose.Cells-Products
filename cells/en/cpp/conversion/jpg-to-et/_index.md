@@ -1,7 +1,7 @@
 ---
-title: JPG to ET - Convert JPG to ET files C++
-description: Aspose Excel. Free Online Convert JPG to ET saveformat. C++ JPG to ET format. Save JPG as ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to ET saveformat., Free Online JPG to ET Converter]
+title: C++ JPG to ET - Online JPG to ET Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to ET saveformat. C++ JPG to ET format. Save JPG to ET C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to ET saveformat., Free Online JPG to ET C++., C++ Convert JPG to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

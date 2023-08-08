@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XPS - Combine MHTML to XPS via Java
 url: /java/merger/merge-mhtml-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to XPS saveformat. Java Combine MHTML to XPS format. Combine MHTML to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to XPS saveformat via Java., Free Online Merge MHTML to xps in Java., Java Combine MHTML to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to XPS Java. Java Merge MHTML to XPS format. Combine MHTML to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to XPS., Free Online Merge MHTML to xps in Java., Java Combine MHTML to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

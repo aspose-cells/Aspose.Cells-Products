@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SVG - Combine HTM to SVG via Java
 url: /java/merger/merge-htm-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to SVG saveformat. Java Combine HTM to SVG format. Combine HTM to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to SVG saveformat via Java., Free Online Merge HTM to svg in Java., Java Combine HTM to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to SVG Java. Java Merge HTM to SVG format. Combine HTM to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to SVG., Free Online Merge HTM to svg in Java., Java Combine HTM to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

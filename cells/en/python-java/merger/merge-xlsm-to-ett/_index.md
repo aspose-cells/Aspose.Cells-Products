@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to ETT - Combine XLSM to ETT via Python
 url: /python-java/merger/merge-xlsm-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to ETT saveformat. Python Combine XLSM to ETT format. Combine XLSM to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to ETT saveformat via Python., Free Online Merge XLSM to ett in Python., Python Combine XLSM to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to ETT Python. Python Merge XLSM to ETT format. Combine XLSM to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to ETT., Free Online Merge XLSM to ett in Python., Python Combine XLSM to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

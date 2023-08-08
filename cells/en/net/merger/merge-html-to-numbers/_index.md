@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to NUMBERS - Combine HTML to NUMBERS via C#
 url: /net/merger/merge-html-to-numbers/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to NUMBERS saveformat. C# Combine HTML to NUMBERS format. Combine HTML to NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to NUMBERS saveformat via C#., Free Online Merge HTML to numbers in C#., C# Combine HTML to NUMBERS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to NUMBERS C#. C# Merge HTML to NUMBERS format. Combine HTML to NUMBERS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to NUMBERS., Free Online Merge HTML to numbers in C#., C# Combine HTML to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

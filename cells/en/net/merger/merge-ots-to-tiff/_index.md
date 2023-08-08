@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TIFF - Combine OTS to TIFF via C#
 url: /net/merger/merge-ots-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to TIFF saveformat. C# Combine OTS to TIFF format. Combine OTS to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to TIFF saveformat via C#., Free Online Merge OTS to tiff in C#., C# Combine OTS to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. OTS Merge. Free Online Merge OTS to TIFF C#. C# Merge OTS to TIFF format. Combine OTS to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., OTS Merge., C# Merge OTS to TIFF., Free Online Merge OTS to tiff in C#., C# Combine OTS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

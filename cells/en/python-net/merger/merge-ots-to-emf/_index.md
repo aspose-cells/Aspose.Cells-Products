@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to EMF - Combine OTS to EMF via Python
 url: /python-net/merger/merge-ots-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to EMF saveformat. Python Combine OTS to EMF format. Combine OTS to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine OTS to EMF saveformat via Python., Free Online Merge OTS to emf in Python., Python Combine OTS to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. OTS Merge. Free Online Merge OTS to EMF Python. Python Merge OTS to EMF format. Combine OTS to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., OTS Merge., Python Merge OTS to EMF., Free Online Merge OTS to emf in Python., Python Combine OTS to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

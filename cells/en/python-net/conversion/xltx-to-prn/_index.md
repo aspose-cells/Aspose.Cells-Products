@@ -1,7 +1,7 @@
 ---
-title: XLTX to PRN - Convert XLTX to PRN files Python via Python
-description: Aspose Excel. Free Online Convert XLTX to PRN saveformat. Python XLTX to PRN format. Save XLTX as PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to PRN saveformat., Free Online XLTX to PRN Converter]
+title: Python XLTX to PRN - Convert XLTX to PRN Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to PRN saveformat. Python XLTX to PRN format. Save XLTX to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to PRN saveformat., Free Online XLTX to PRN Python., Python Convert XLTX to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

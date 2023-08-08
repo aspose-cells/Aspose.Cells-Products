@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLSB - Combine IMAGE to XLSB via Python
 url: /python-java/merger/merge-image-to-xlsb/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to XLSB saveformat. Python Combine IMAGE to XLSB format. Combine IMAGE to XLSB in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to XLSB saveformat via Python., Free Online Merge IMAGE to xlsb in Python., Python Combine IMAGE to XLSB format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to XLSB Python. Python Merge IMAGE to XLSB format. Combine IMAGE to XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to XLSB., Free Online Merge IMAGE to xlsb in Python., Python Combine IMAGE to XLSB format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

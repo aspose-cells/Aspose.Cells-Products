@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JPG - Combine ODS to JPG via Java
 url: /java/merger/merge-ods-to-jpg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to JPG saveformat. Java Combine ODS to JPG format. Combine ODS to JPG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine ODS to JPG saveformat via Java., Free Online Merge ODS to jpg in Java., Java Combine ODS to JPG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. ODS Merge. Free Online Merge ODS to JPG Java. Java Merge ODS to JPG format. Combine ODS to JPG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., ODS Merge., Java Merge ODS to JPG., Free Online Merge ODS to jpg in Java., Java Combine ODS to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

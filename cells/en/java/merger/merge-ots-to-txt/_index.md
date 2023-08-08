@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TXT - Combine OTS to TXT via Java
 url: /java/merger/merge-ots-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to TXT saveformat. Java Combine OTS to TXT format. Combine OTS to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to TXT saveformat via Java., Free Online Merge OTS to txt in Java., Java Combine OTS to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to TXT Java. Java Merge OTS to TXT format. Combine OTS to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to TXT., Free Online Merge OTS to txt in Java., Java Combine OTS to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JSON - Combine XLSM to JSON via Python
 url: /python-net/merger/merge-xlsm-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to JSON saveformat. Python Combine XLSM to JSON format. Combine XLSM to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to JSON saveformat via Python., Free Online Merge XLSM to json in Python., Python Combine XLSM to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to JSON Python. Python Merge XLSM to JSON format. Combine XLSM to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to JSON., Free Online Merge XLSM to json in Python., Python Combine XLSM to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

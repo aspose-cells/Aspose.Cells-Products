@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MD - Combine MHT to MD via C++
 url: /cpp/merger/merge-mht-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to MD saveformat. C++ Combine MHT to MD format. Combine MHT to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to MD saveformat via C++., Free Online Merge MHT to md in C++., C++ Combine MHT to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to MD C++. C++ Merge MHT to MD format. Combine MHT to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to MD., Free Online Merge MHT to md in C++., C++ Combine MHT to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

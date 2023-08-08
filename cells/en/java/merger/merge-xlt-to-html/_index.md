@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to HTML - Combine XLT to HTML via Java
 url: /java/merger/merge-xlt-to-html/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to HTML saveformat. Java Combine XLT to HTML format. Combine XLT to HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLT to HTML saveformat via Java., Free Online Merge XLT to html in Java., Java Combine XLT to HTML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLT Merge. Free Online Merge XLT to HTML Java. Java Merge XLT to HTML format. Combine XLT to HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLT Merge., Java Merge XLT to HTML., Free Online Merge XLT to html in Java., Java Combine XLT to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

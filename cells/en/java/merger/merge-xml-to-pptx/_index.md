@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PPTX - Combine XML to PPTX via Java
 url: /java/merger/merge-xml-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to PPTX saveformat. Java Combine XML to PPTX format. Combine XML to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to PPTX saveformat via Java., Free Online Merge XML to pptx in Java., Java Combine XML to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to PPTX Java. Java Merge XML to PPTX format. Combine XML to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to PPTX., Free Online Merge XML to pptx in Java., Java Combine XML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

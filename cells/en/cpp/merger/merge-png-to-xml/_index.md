@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XML - Combine PNG to XML via C++
 url: /cpp/merger/merge-png-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to XML saveformat. C++ Combine PNG to XML format. Combine PNG to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PNG to XML saveformat via C++., Free Online Merge PNG to xml in C++., C++ Combine PNG to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PNG Merge. Free Online Merge PNG to XML C++. C++ Merge PNG to XML format. Combine PNG to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PNG Merge., C++ Merge PNG to XML., Free Online Merge PNG to xml in C++., C++ Combine PNG to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

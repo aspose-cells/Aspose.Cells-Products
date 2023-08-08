@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PDF - Combine FODS to PDF via Python
 url: /python-net/merger/merge-fods-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to PDF saveformat. Python Combine FODS to PDF format. Combine FODS to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine FODS to PDF saveformat via Python., Free Online Merge FODS to pdf in Python., Python Combine FODS to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. FODS Merge. Free Online Merge FODS to PDF Python. Python Merge FODS to PDF format. Combine FODS to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., FODS Merge., Python Merge FODS to PDF., Free Online Merge FODS to pdf in Python., Python Combine FODS to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

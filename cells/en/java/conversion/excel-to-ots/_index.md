@@ -1,7 +1,7 @@
 ---
-title: EXCEL to OTS - Convert EXCEL to OTS files Java
-description: Aspose Excel. Free Online Convert EXCEL to OTS saveformat. Java EXCEL to OTS format. Save EXCEL as OTS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to OTS saveformat., Free Online EXCEL to OTS Converter]
+title: Java EXCEL to OTS - Online EXCEL to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to OTS saveformat. Java EXCEL to OTS format. Save EXCEL to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to OTS saveformat., Free Online EXCEL to OTS Java., Java Convert EXCEL to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

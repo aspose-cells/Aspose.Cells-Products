@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DIF - Combine MHT to DIF via C++
 url: /cpp/merger/merge-mht-to-dif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to DIF saveformat. C++ Combine MHT to DIF format. Combine MHT to DIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to DIF saveformat via C++., Free Online Merge MHT to dif in C++., C++ Combine MHT to DIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to DIF C++. C++ Merge MHT to DIF format. Combine MHT to DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to DIF., Free Online Merge MHT to dif in C++., C++ Combine MHT to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

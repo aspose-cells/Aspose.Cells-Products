@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to SQL - Combine PRN to SQL via Java
 url: /java/merger/merge-prn-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to SQL saveformat. Java Combine PRN to SQL format. Combine PRN to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to SQL saveformat via Java., Free Online Merge PRN to sql in Java., Java Combine PRN to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to SQL Java. Java Merge PRN to SQL format. Combine PRN to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to SQL., Free Online Merge PRN to sql in Java., Java Combine PRN to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

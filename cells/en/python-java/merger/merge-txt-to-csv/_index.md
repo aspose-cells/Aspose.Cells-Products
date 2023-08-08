@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to CSV - Combine TXT to CSV via Python
 url: /python-java/merger/merge-txt-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to CSV saveformat. Python Combine TXT to CSV format. Combine TXT to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to CSV saveformat via Python., Free Online Merge TXT to csv in Python., Python Combine TXT to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to CSV Python. Python Merge TXT to CSV format. Combine TXT to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to CSV., Free Online Merge TXT to csv in Python., Python Combine TXT to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

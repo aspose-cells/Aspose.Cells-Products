@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TSV - Combine XLSB to TSV via Python
 url: /python-java/merger/merge-xlsb-to-tsv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to TSV saveformat. Python Combine XLSB to TSV format. Combine XLSB to TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to TSV saveformat via Python., Free Online Merge XLSB to tsv in Python., Python Combine XLSB to TSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to TSV Python. Python Merge XLSB to TSV format. Combine XLSB to TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to TSV., Free Online Merge XLSB to tsv in Python., Python Combine XLSB to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

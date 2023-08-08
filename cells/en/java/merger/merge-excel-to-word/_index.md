@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to WORD - Combine EXCEL to WORD via Java
 url: /java/merger/merge-excel-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to WORD saveformat. Java Combine EXCEL to WORD format. Combine EXCEL to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine EXCEL to WORD saveformat via Java., Free Online Merge EXCEL to word in Java., Java Combine EXCEL to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to WORD Java. Java Merge EXCEL to WORD format. Combine EXCEL to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., EXCEL Merge., Java Merge EXCEL to WORD., Free Online Merge EXCEL to word in Java., Java Combine EXCEL to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

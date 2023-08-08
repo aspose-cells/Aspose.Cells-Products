@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to NUMBERS - Combine XLSB to NUMBERS via Python
 url: /python-java/merger/merge-xlsb-to-numbers/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to NUMBERS saveformat. Python Combine XLSB to NUMBERS format. Combine XLSB to NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to NUMBERS saveformat via Python., Free Online Merge XLSB to numbers in Python., Python Combine XLSB to NUMBERS format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to NUMBERS Python. Python Merge XLSB to NUMBERS format. Combine XLSB to NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to NUMBERS., Free Online Merge XLSB to numbers in Python., Python Combine XLSB to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

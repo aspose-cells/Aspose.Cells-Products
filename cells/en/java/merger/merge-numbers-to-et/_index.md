@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ET - Combine NUMBERS to ET via Java
 url: /java/merger/merge-numbers-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to ET saveformat. Java Combine NUMBERS to ET format. Combine NUMBERS to ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to ET saveformat via Java., Free Online Merge NUMBERS to et in Java., Java Combine NUMBERS to ET format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to ET Java. Java Merge NUMBERS to ET format. Combine NUMBERS to ET in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to ET., Free Online Merge NUMBERS to et in Java., Java Combine NUMBERS to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

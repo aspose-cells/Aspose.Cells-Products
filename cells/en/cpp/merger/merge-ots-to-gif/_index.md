@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to GIF - Combine OTS to GIF via C++
 url: /cpp/merger/merge-ots-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to GIF saveformat. C++ Combine OTS to GIF format. Combine OTS to GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to GIF saveformat via C++., Free Online Merge OTS to gif in C++., C++ Combine OTS to GIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to GIF C++. C++ Merge OTS to GIF format. Combine OTS to GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to GIF., Free Online Merge OTS to gif in C++., C++ Combine OTS to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

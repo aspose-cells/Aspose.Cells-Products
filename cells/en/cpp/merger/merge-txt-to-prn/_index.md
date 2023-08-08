@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PRN - Combine TXT to PRN via C++
 url: /cpp/merger/merge-txt-to-prn/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to PRN saveformat. C++ Combine TXT to PRN format. Combine TXT to PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TXT to PRN saveformat via C++., Free Online Merge TXT to prn in C++., C++ Combine TXT to PRN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TXT Merge. Free Online Merge TXT to PRN C++. C++ Merge TXT to PRN format. Combine TXT to PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TXT Merge., C++ Merge TXT to PRN., Free Online Merge TXT to prn in C++., C++ Combine TXT to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

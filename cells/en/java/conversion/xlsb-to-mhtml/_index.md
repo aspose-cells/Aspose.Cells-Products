@@ -1,7 +1,7 @@
 ---
-title: XLSB to MHTML - Convert XLSB to MHTML files Java
-description: Aspose Excel. Free Online Convert XLSB to MHTML saveformat. Java XLSB to MHTML format. Save XLSB as MHTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to MHTML saveformat., Free Online XLSB to MHTML Converter]
+title: Java XLSB to MHTML - Online XLSB to MHTML Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to MHTML saveformat. Java XLSB to MHTML format. Save XLSB to MHTML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to MHTML saveformat., Free Online XLSB to MHTML Java., Java Convert XLSB to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

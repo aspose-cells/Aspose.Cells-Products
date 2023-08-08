@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to JPEG - Combine HTML to JPEG via Java
 url: /java/merger/merge-html-to-jpeg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to JPEG saveformat. Java Combine HTML to JPEG format. Combine HTML to JPEG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to JPEG saveformat via Java., Free Online Merge HTML to jpeg in Java., Java Combine HTML to JPEG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to JPEG Java. Java Merge HTML to JPEG format. Combine HTML to JPEG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to JPEG., Free Online Merge HTML to jpeg in Java., Java Combine HTML to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

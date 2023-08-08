@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TIFF - Combine OTS to TIFF via Java
 url: /java/merger/merge-ots-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to TIFF saveformat. Java Combine OTS to TIFF format. Combine OTS to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to TIFF saveformat via Java., Free Online Merge OTS to tiff in Java., Java Combine OTS to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to TIFF Java. Java Merge OTS to TIFF format. Combine OTS to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to TIFF., Free Online Merge OTS to tiff in Java., Java Combine OTS to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

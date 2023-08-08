@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PRN - Combine HTM to PRN via C#
 url: /net/merger/merge-htm-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to PRN saveformat. C# Combine HTM to PRN format. Combine HTM to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to PRN saveformat via C#., Free Online Merge HTM to prn in C#., C# Combine HTM to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to PRN C#. C# Merge HTM to PRN format. Combine HTM to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to PRN., Free Online Merge HTM to prn in C#., C# Combine HTM to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

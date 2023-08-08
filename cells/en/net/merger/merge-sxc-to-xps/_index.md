@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XPS - Combine SXC to XPS via C#
 url: /net/merger/merge-sxc-to-xps/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to XPS saveformat. C# Combine SXC to XPS format. Combine SXC to XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to XPS saveformat via C#., Free Online Merge SXC to xps in C#., C# Combine SXC to XPS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to XPS C#. C# Merge SXC to XPS format. Combine SXC to XPS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to XPS., Free Online Merge SXC to xps in C#., C# Combine SXC to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

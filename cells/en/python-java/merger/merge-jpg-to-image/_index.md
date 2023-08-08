@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to IMAGE - Combine JPG to IMAGE via Python
 url: /python-java/merger/merge-jpg-to-image/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to IMAGE saveformat. Python Combine JPG to IMAGE format. Combine JPG to IMAGE in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to IMAGE saveformat via Python., Free Online Merge JPG to image in Python., Python Combine JPG to IMAGE format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to IMAGE Python. Python Merge JPG to IMAGE format. Combine JPG to IMAGE in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to IMAGE., Free Online Merge JPG to image in Python., Python Combine JPG to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

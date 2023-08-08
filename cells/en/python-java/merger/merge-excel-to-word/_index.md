@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to WORD - Combine EXCEL to WORD via Python
 url: /python-java/merger/merge-excel-to-word/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to WORD saveformat. Python Combine EXCEL to WORD format. Combine EXCEL to WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to WORD saveformat via Python., Free Online Merge EXCEL to word in Python., Python Combine EXCEL to WORD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to WORD Python. Python Merge EXCEL to WORD format. Combine EXCEL to WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to WORD., Free Online Merge EXCEL to word in Python., Python Combine EXCEL to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

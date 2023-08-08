@@ -1,7 +1,7 @@
 ---
-title: XLTX to DIF - Convert XLTX to DIF files Java
-description: Aspose Excel. Free Online Convert XLTX to DIF saveformat. Java XLTX to DIF format. Save XLTX as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to DIF saveformat., Free Online XLTX to DIF Converter]
+title: Java XLTX to DIF - Online XLTX to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to DIF saveformat. Java XLTX to DIF format. Save XLTX to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to DIF saveformat., Free Online XLTX to DIF Java., Java Convert XLTX to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

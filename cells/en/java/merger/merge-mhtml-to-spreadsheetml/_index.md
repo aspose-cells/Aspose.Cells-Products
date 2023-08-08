@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SPREADSHEETML - Combine MHTML to SPREADSHEETML via Java
 url: /java/merger/merge-mhtml-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to SPREADSHEETML saveformat. Java Combine MHTML to SPREADSHEETML format. Combine MHTML to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to SPREADSHEETML saveformat via Java., Free Online Merge MHTML to spreadsheetml in Java., Java Combine MHTML to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to SPREADSHEETML Java. Java Merge MHTML to SPREADSHEETML format. Combine MHTML to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to SPREADSHEETML., Free Online Merge MHTML to spreadsheetml in Java., Java Combine MHTML to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

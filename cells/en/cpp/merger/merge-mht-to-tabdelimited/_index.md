@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TABDELIMITED - Combine MHT to TABDELIMITED via C++
 url: /cpp/merger/merge-mht-to-tabdelimited/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to TABDELIMITED saveformat. C++ Combine MHT to TABDELIMITED format. Combine MHT to TABDELIMITED in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to TABDELIMITED saveformat via C++., Free Online Merge MHT to tabdelimited in C++., C++ Combine MHT to TABDELIMITED format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to TABDELIMITED C++. C++ Merge MHT to TABDELIMITED format. Combine MHT to TABDELIMITED in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to TABDELIMITED., Free Online Merge MHT to tabdelimited in C++., C++ Combine MHT to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

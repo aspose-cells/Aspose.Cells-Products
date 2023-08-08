@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to GIF - Combine EXCEL to GIF via Python
 url: /python-java/merger/merge-excel-to-gif/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to GIF saveformat. Python Combine EXCEL to GIF format. Combine EXCEL to GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine EXCEL to GIF saveformat via Python., Free Online Merge EXCEL to gif in Python., Python Combine EXCEL to GIF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to GIF Python. Python Merge EXCEL to GIF format. Combine EXCEL to GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., EXCEL Merge., Python Merge EXCEL to GIF., Free Online Merge EXCEL to gif in Python., Python Combine EXCEL to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

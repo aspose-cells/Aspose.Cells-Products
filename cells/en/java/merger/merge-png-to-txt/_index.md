@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TXT - Combine PNG to TXT via Java
 url: /java/merger/merge-png-to-txt/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to TXT saveformat. Java Combine PNG to TXT format. Combine PNG to TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to TXT saveformat via Java., Free Online Merge PNG to txt in Java., Java Combine PNG to TXT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to TXT Java. Java Merge PNG to TXT format. Combine PNG to TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to TXT., Free Online Merge PNG to txt in Java., Java Combine PNG to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

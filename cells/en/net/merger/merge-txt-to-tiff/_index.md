@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TIFF - Combine TXT to TIFF via C#
 url: /net/merger/merge-txt-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to TIFF saveformat. C# Combine TXT to TIFF format. Combine TXT to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine TXT to TIFF saveformat via C#., Free Online Merge TXT to tiff in C#., C# Combine TXT to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. TXT Merge. Free Online Merge TXT to TIFF C#. C# Merge TXT to TIFF format. Combine TXT to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., TXT Merge., C# Merge TXT to TIFF., Free Online Merge TXT to tiff in C#., C# Combine TXT to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

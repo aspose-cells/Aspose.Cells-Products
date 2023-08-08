@@ -1,7 +1,7 @@
 ---
-title: XLTM to OTS - Convert XLTM to OTS files Java
-description: Aspose Excel. Free Online Convert XLTM to OTS saveformat. Java XLTM to OTS format. Save XLTM as OTS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTM to OTS saveformat., Free Online XLTM to OTS Converter]
+title: Java XLTM to OTS - Online XLTM to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to OTS saveformat. Java XLTM to OTS format. Save XLTM to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to OTS saveformat., Free Online XLTM to OTS Java., Java Convert XLTM to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

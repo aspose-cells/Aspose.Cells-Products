@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to EMF - Combine XLTX to EMF via Python
 url: /python-java/merger/merge-xltx-to-emf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to EMF saveformat. Python Combine XLTX to EMF format. Combine XLTX to EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to EMF saveformat via Python., Free Online Merge XLTX to emf in Python., Python Combine XLTX to EMF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to EMF Python. Python Merge XLTX to EMF format. Combine XLTX to EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to EMF., Free Online Merge XLTX to emf in Python., Python Combine XLTX to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

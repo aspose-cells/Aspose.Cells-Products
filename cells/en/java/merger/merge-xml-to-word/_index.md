@@ -1,8 +1,8 @@
 ---
 title: Merge XML to WORD - Combine XML to WORD via Java
 url: /java/merger/merge-xml-to-word/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to WORD saveformat. Java Combine XML to WORD format. Combine XML to WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to WORD saveformat via Java., Free Online Merge XML to word in Java., Java Combine XML to WORD format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to WORD Java. Java Merge XML to WORD format. Combine XML to WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to WORD., Free Online Merge XML to word in Java., Java Combine XML to WORD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TIFF - Combine HTM to TIFF via Java
 url: /java/merger/merge-htm-to-tiff/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to TIFF saveformat. Java Combine HTM to TIFF format. Combine HTM to TIFF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to TIFF saveformat via Java., Free Online Merge HTM to tiff in Java., Java Combine HTM to TIFF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to TIFF Java. Java Merge HTM to TIFF format. Combine HTM to TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to TIFF., Free Online Merge HTM to tiff in Java., Java Combine HTM to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to IMAGE - Combine HTML to IMAGE via C#
 url: /net/merger/merge-html-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to IMAGE saveformat. C# Combine HTML to IMAGE format. Combine HTML to IMAGE in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to IMAGE saveformat via C#., Free Online Merge HTML to image in C#., C# Combine HTML to IMAGE format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to IMAGE C#. C# Merge HTML to IMAGE format. Combine HTML to IMAGE in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to IMAGE., Free Online Merge HTML to image in C#., C# Combine HTML to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

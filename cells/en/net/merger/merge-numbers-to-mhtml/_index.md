@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MHTML - Combine NUMBERS to MHTML via C#
 url: /net/merger/merge-numbers-to-mhtml/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to MHTML saveformat. C# Combine NUMBERS to MHTML format. Combine NUMBERS to MHTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to MHTML saveformat via C#., Free Online Merge NUMBERS to mhtml in C#., C# Combine NUMBERS to MHTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to MHTML C#. C# Merge NUMBERS to MHTML format. Combine NUMBERS to MHTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to MHTML., Free Online Merge NUMBERS to mhtml in C#., C# Combine NUMBERS to MHTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

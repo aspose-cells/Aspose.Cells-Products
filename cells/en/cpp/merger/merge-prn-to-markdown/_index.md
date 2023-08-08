@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MARKDOWN - Combine PRN to MARKDOWN via C++
 url: /cpp/merger/merge-prn-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to MARKDOWN saveformat. C++ Combine PRN to MARKDOWN format. Combine PRN to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine PRN to MARKDOWN saveformat via C++., Free Online Merge PRN to markdown in C++., C++ Combine PRN to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. PRN Merge. Free Online Merge PRN to MARKDOWN C++. C++ Merge PRN to MARKDOWN format. Combine PRN to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., PRN Merge., C++ Merge PRN to MARKDOWN., Free Online Merge PRN to markdown in C++., C++ Combine PRN to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

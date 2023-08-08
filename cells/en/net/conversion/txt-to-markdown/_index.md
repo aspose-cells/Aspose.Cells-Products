@@ -1,7 +1,7 @@
 ---
-title: TXT to MARKDOWN - Convert TXT to MARKDOWN files C#
-description: Aspose Excel. Free Online Convert TXT to MARKDOWN saveformat. C# TXT to MARKDOWN format. Save TXT as MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN Converter]
+title: C# TXT to MARKDOWN - Online TXT to MARKDOWN Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to MARKDOWN saveformat. C# TXT to MARKDOWN format. Save TXT to MARKDOWN C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN C#., C# Convert TXT to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

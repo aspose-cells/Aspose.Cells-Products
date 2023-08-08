@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SVG - Combine JPEG to SVG via Java
 url: /java/merger/merge-jpeg-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to SVG saveformat. Java Combine JPEG to SVG format. Combine JPEG to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to SVG saveformat via Java., Free Online Merge JPEG to svg in Java., Java Combine JPEG to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to SVG Java. Java Merge JPEG to SVG format. Combine JPEG to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to SVG., Free Online Merge JPEG to svg in Java., Java Combine JPEG to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

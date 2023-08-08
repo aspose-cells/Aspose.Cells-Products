@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to TSV - Combine JPEG to TSV via Java
 url: /java/merger/merge-jpeg-to-tsv/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to TSV saveformat. Java Combine JPEG to TSV format. Combine JPEG to TSV in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPEG to TSV saveformat via Java., Free Online Merge JPEG to tsv in Java., Java Combine JPEG to TSV format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPEG Merge. Free Online Merge JPEG to TSV Java. Java Merge JPEG to TSV format. Combine JPEG to TSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPEG Merge., Java Merge JPEG to TSV., Free Online Merge JPEG to tsv in Java., Java Combine JPEG to TSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

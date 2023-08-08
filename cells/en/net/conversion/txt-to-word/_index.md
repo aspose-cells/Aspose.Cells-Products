@@ -1,7 +1,7 @@
 ---
-title: TXT to WORD - Convert TXT to WORD files C#
-description: Aspose Excel. Free Online Convert TXT to WORD saveformat. C# TXT to WORD format. Save TXT as WORD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to WORD saveformat., Free Online TXT to WORD Converter]
+title: C# TXT to WORD - Online TXT to WORD Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to WORD saveformat. C# TXT to WORD format. Save TXT to WORD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to WORD saveformat., Free Online TXT to WORD C#., C# Convert TXT to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

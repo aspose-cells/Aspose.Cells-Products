@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to DIF - Combine JSON to DIF via Java
 url: /java/merger/merge-json-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to DIF saveformat. Java Combine JSON to DIF format. Combine JSON to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JSON to DIF saveformat via Java., Free Online Merge JSON to dif in Java., Java Combine JSON to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JSON Merge. Free Online Merge JSON to DIF Java. Java Merge JSON to DIF format. Combine JSON to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JSON Merge., Java Merge JSON to DIF., Free Online Merge JSON to dif in Java., Java Combine JSON to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLAM - Combine OTS to XLAM via C#
 url: /net/merger/merge-ots-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to XLAM saveformat. C# Combine OTS to XLAM format. Combine OTS to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine OTS to XLAM saveformat via C#., Free Online Merge OTS to xlam in C#., C# Combine OTS to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. OTS Merge. Free Online Merge OTS to XLAM C#. C# Merge OTS to XLAM format. Combine OTS to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., OTS Merge., C# Merge OTS to XLAM., Free Online Merge OTS to xlam in C#., C# Combine OTS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

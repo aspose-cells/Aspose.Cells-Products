@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SQL - Combine XLSX to SQL via C#
 url: /net/merger/merge-xlsx-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to SQL saveformat. C# Combine XLSX to SQL format. Combine XLSX to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to SQL saveformat via C#., Free Online Merge XLSX to sql in C#., C# Combine XLSX to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to SQL C#. C# Merge XLSX to SQL format. Combine XLSX to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to SQL., Free Online Merge XLSX to sql in C#., C# Combine XLSX to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

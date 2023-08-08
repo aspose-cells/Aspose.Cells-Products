@@ -1,7 +1,7 @@
 ---
-title: TXT to TXT - Convert TXT to TXT files C#
-description: Aspose Excel. Free Online Convert TXT to TXT saveformat. C# TXT to TXT format. Save TXT as TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to TXT saveformat., Free Online TXT to TXT Converter]
+title: C# TXT to TXT - Online TXT to TXT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to TXT saveformat. C# TXT to TXT format. Save TXT to TXT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to TXT saveformat., Free Online TXT to TXT C#., C# Convert TXT to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to GIF - Combine XLSM to GIF via Java
 url: /java/merger/merge-xlsm-to-gif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to GIF saveformat. Java Combine XLSM to GIF format. Combine XLSM to GIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSM to GIF saveformat via Java., Free Online Merge XLSM to gif in Java., Java Combine XLSM to GIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSM Merge. Free Online Merge XLSM to GIF Java. Java Merge XLSM to GIF format. Combine XLSM to GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSM Merge., Java Merge XLSM to GIF., Free Online Merge XLSM to gif in Java., Java Combine XLSM to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

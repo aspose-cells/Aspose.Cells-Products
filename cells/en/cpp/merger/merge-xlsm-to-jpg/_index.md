@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JPG - Combine XLSM to JPG via C++
 url: /cpp/merger/merge-xlsm-to-jpg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to JPG saveformat. C++ Combine XLSM to JPG format. Combine XLSM to JPG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to JPG saveformat via C++., Free Online Merge XLSM to jpg in C++., C++ Combine XLSM to JPG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to JPG C++. C++ Merge XLSM to JPG format. Combine XLSM to JPG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to JPG., Free Online Merge XLSM to jpg in C++., C++ Combine XLSM to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

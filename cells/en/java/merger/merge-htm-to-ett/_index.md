@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ETT - Combine HTM to ETT via Java
 url: /java/merger/merge-htm-to-ett/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to ETT saveformat. Java Combine HTM to ETT format. Combine HTM to ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTM to ETT saveformat via Java., Free Online Merge HTM to ett in Java., Java Combine HTM to ETT format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTM Merge. Free Online Merge HTM to ETT Java. Java Merge HTM to ETT format. Combine HTM to ETT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTM Merge., Java Merge HTM to ETT., Free Online Merge HTM to ett in Java., Java Combine HTM to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

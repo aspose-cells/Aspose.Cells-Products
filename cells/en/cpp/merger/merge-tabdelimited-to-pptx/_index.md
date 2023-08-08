@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to PPTX - Combine TABDELIMITED to PPTX via C++
 url: /cpp/merger/merge-tabdelimited-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to PPTX saveformat. C++ Combine TABDELIMITED to PPTX format. Combine TABDELIMITED to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to PPTX saveformat via C++., Free Online Merge TABDELIMITED to pptx in C++., C++ Combine TABDELIMITED to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to PPTX C++. C++ Merge TABDELIMITED to PPTX format. Combine TABDELIMITED to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to PPTX., Free Online Merge TABDELIMITED to pptx in C++., C++ Combine TABDELIMITED to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SQL - Combine MHTML to SQL via Java
 url: /java/merger/merge-mhtml-to-sql/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to SQL saveformat. Java Combine MHTML to SQL format. Combine MHTML to SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine MHTML to SQL saveformat via Java., Free Online Merge MHTML to sql in Java., Java Combine MHTML to SQL format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. MHTML Merge. Free Online Merge MHTML to SQL Java. Java Merge MHTML to SQL format. Combine MHTML to SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., MHTML Merge., Java Merge MHTML to SQL., Free Online Merge MHTML to sql in Java., Java Combine MHTML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

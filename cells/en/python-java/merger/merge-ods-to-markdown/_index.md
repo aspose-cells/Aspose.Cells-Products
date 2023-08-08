@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MARKDOWN - Combine ODS to MARKDOWN via Python
 url: /python-java/merger/merge-ods-to-markdown/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to MARKDOWN saveformat. Python Combine ODS to MARKDOWN format. Combine ODS to MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine ODS to MARKDOWN saveformat via Python., Free Online Merge ODS to markdown in Python., Python Combine ODS to MARKDOWN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. ODS Merge. Free Online Merge ODS to MARKDOWN Python. Python Merge ODS to MARKDOWN format. Combine ODS to MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., ODS Merge., Python Merge ODS to MARKDOWN., Free Online Merge ODS to markdown in Python., Python Combine ODS to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

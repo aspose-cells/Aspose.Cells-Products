@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to JPEG - Combine MHT to JPEG via C++
 url: /cpp/merger/merge-mht-to-jpeg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to JPEG saveformat. C++ Combine MHT to JPEG format. Combine MHT to JPEG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to JPEG saveformat via C++., Free Online Merge MHT to jpeg in C++., C++ Combine MHT to JPEG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to JPEG C++. C++ Merge MHT to JPEG format. Combine MHT to JPEG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to JPEG., Free Online Merge MHT to jpeg in C++., C++ Combine MHT to JPEG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

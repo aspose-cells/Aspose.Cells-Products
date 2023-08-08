@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PPTX - Combine HTML to PPTX via C++
 url: /cpp/merger/merge-html-to-pptx/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to PPTX saveformat. C++ Combine HTML to PPTX format. Combine HTML to PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to PPTX saveformat via C++., Free Online Merge HTML to pptx in C++., C++ Combine HTML to PPTX format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to PPTX C++. C++ Merge HTML to PPTX format. Combine HTML to PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to PPTX., Free Online Merge HTML to pptx in C++., C++ Combine HTML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

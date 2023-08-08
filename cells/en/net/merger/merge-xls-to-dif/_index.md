@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to DIF - Combine XLS to DIF via C#
 url: /net/merger/merge-xls-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to DIF saveformat. C# Combine XLS to DIF format. Combine XLS to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLS to DIF saveformat via C#., Free Online Merge XLS to dif in C#., C# Combine XLS to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLS Merge. Free Online Merge XLS to DIF C#. C# Merge XLS to DIF format. Combine XLS to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLS Merge., C# Merge XLS to DIF., Free Online Merge XLS to dif in C#., C# Combine XLS to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

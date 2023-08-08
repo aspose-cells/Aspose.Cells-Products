@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MARKDOWN - Combine HTM to MARKDOWN via C#
 url: /net/merger/merge-htm-to-markdown/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to MARKDOWN saveformat. C# Combine HTM to MARKDOWN format. Combine HTM to MARKDOWN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to MARKDOWN saveformat via C#., Free Online Merge HTM to markdown in C#., C# Combine HTM to MARKDOWN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to MARKDOWN C#. C# Merge HTM to MARKDOWN format. Combine HTM to MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to MARKDOWN., Free Online Merge HTM to markdown in C#., C# Combine HTM to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

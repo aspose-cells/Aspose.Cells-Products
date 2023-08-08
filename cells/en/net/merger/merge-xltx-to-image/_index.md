@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to IMAGE - Combine XLTX to IMAGE via C#
 url: /net/merger/merge-xltx-to-image/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to IMAGE saveformat. C# Combine XLTX to IMAGE format. Combine XLTX to IMAGE in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to IMAGE saveformat via C#., Free Online Merge XLTX to image in C#., C# Combine XLTX to IMAGE format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTX Merge. Free Online Merge XLTX to IMAGE C#. C# Merge XLTX to IMAGE format. Combine XLTX to IMAGE in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTX Merge., C# Merge XLTX to IMAGE., Free Online Merge XLTX to image in C#., C# Combine XLTX to IMAGE format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

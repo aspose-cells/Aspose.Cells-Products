@@ -1,7 +1,7 @@
 ---
-title: JPG to DOCX - Convert JPG to DOCX files C#
-description: Aspose Excel. Free Online Convert JPG to DOCX saveformat. C# JPG to DOCX format. Save JPG as DOCX in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to DOCX saveformat., Free Online JPG to DOCX Converter]
+title: C# JPG to DOCX - Online JPG to DOCX Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to DOCX saveformat. C# JPG to DOCX format. Save JPG to DOCX C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to DOCX saveformat., Free Online JPG to DOCX C#., C# Convert JPG to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

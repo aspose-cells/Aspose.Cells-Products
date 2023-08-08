@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to HTML - Combine JPG to HTML via C#
 url: /net/merger/merge-jpg-to-html/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to HTML saveformat. C# Combine JPG to HTML format. Combine JPG to HTML in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JPG to HTML saveformat via C#., Free Online Merge JPG to html in C#., C# Combine JPG to HTML format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JPG Merge. Free Online Merge JPG to HTML C#. C# Merge JPG to HTML format. Combine JPG to HTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JPG Merge., C# Merge JPG to HTML., Free Online Merge JPG to html in C#., C# Combine JPG to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

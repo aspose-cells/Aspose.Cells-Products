@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to OTS - Combine EXCEL to OTS via C#
 url: /net/merger/merge-excel-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to OTS saveformat. C# Combine EXCEL to OTS format. Combine EXCEL to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to OTS saveformat via C#., Free Online Merge EXCEL to ots in C#., C# Combine EXCEL to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to OTS C#. C# Merge EXCEL to OTS format. Combine EXCEL to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to OTS., Free Online Merge EXCEL to ots in C#., C# Combine EXCEL to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

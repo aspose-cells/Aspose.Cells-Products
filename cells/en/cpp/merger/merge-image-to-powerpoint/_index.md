@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to POWERPOINT - Combine IMAGE to POWERPOINT via C++
 url: /cpp/merger/merge-image-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to POWERPOINT saveformat. C++ Combine IMAGE to POWERPOINT format. Combine IMAGE to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine IMAGE to POWERPOINT saveformat via C++., Free Online Merge IMAGE to powerpoint in C++., C++ Combine IMAGE to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to POWERPOINT C++. C++ Merge IMAGE to POWERPOINT format. Combine IMAGE to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., IMAGE Merge., C++ Merge IMAGE to POWERPOINT., Free Online Merge IMAGE to powerpoint in C++., C++ Combine IMAGE to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XLAM - Combine XLTM to XLAM via Java
 url: /java/merger/merge-xltm-to-xlam/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to XLAM saveformat. Java Combine XLTM to XLAM format. Combine XLTM to XLAM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLTM to XLAM saveformat via Java., Free Online Merge XLTM to xlam in Java., Java Combine XLTM to XLAM format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLTM Merge. Free Online Merge XLTM to XLAM Java. Java Merge XLTM to XLAM format. Combine XLTM to XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLTM Merge., Java Merge XLTM to XLAM., Free Online Merge XLTM to xlam in Java., Java Combine XLTM to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

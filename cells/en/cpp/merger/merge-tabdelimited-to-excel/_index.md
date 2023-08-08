@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to EXCEL - Combine TABDELIMITED to EXCEL via C++
 url: /cpp/merger/merge-tabdelimited-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to EXCEL saveformat. C++ Combine TABDELIMITED to EXCEL format. Combine TABDELIMITED to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to EXCEL saveformat via C++., Free Online Merge TABDELIMITED to excel in C++., C++ Combine TABDELIMITED to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to EXCEL C++. C++ Merge TABDELIMITED to EXCEL format. Combine TABDELIMITED to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to EXCEL., Free Online Merge TABDELIMITED to excel in C++., C++ Combine TABDELIMITED to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

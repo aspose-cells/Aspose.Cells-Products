@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to NUMBERS - Combine XLSB to NUMBERS via Java
 url: /java/merger/merge-xlsb-to-numbers/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to NUMBERS saveformat. Java Combine XLSB to NUMBERS format. Combine XLSB to NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to NUMBERS saveformat via Java., Free Online Merge XLSB to numbers in Java., Java Combine XLSB to NUMBERS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSB Merge. Free Online Merge XLSB to NUMBERS Java. Java Merge XLSB to NUMBERS format. Combine XLSB to NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSB Merge., Java Merge XLSB to NUMBERS., Free Online Merge XLSB to numbers in Java., Java Combine XLSB to NUMBERS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

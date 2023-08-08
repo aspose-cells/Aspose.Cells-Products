@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to BMP - Combine IMAGE to BMP via Python
 url: /python-net/merger/merge-image-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to BMP saveformat. Python Combine IMAGE to BMP format. Combine IMAGE to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine IMAGE to BMP saveformat via Python., Free Online Merge IMAGE to bmp in Python., Python Combine IMAGE to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to BMP Python. Python Merge IMAGE to BMP format. Combine IMAGE to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., IMAGE Merge., Python Merge IMAGE to BMP., Free Online Merge IMAGE to bmp in Python., Python Combine IMAGE to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

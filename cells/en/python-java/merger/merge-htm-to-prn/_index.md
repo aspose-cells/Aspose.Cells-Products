@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PRN - Combine HTM to PRN via Python
 url: /python-java/merger/merge-htm-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to PRN saveformat. Python Combine HTM to PRN format. Combine HTM to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to PRN saveformat via Python., Free Online Merge HTM to prn in Python., Python Combine HTM to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to PRN Python. Python Merge HTM to PRN format. Combine HTM to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to PRN., Free Online Merge HTM to prn in Python., Python Combine HTM to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

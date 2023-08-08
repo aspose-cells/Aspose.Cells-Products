@@ -1,7 +1,7 @@
 ---
-title: HTML to DIF - Convert HTML to DIF files Python via Python
-description: Aspose Excel. Free Online Convert HTML to DIF saveformat. Python HTML to DIF format. Save HTML as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to DIF saveformat., Free Online HTML to DIF Converter]
+title: Python HTML to DIF - Convert HTML to DIF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to DIF saveformat. Python HTML to DIF format. Save HTML to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to DIF saveformat., Free Online HTML to DIF Python., Python Convert HTML to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ETT - Combine HTM to ETT via C#
 url: /net/merger/merge-htm-to-ett/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to ETT saveformat. C# Combine HTM to ETT format. Combine HTM to ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTM to ETT saveformat via C#., Free Online Merge HTM to ett in C#., C# Combine HTM to ETT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTM Merge. Free Online Merge HTM to ETT C#. C# Merge HTM to ETT format. Combine HTM to ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTM Merge., C# Merge HTM to ETT., Free Online Merge HTM to ett in C#., C# Combine HTM to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

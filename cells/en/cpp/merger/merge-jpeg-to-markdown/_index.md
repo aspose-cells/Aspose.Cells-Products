@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MARKDOWN - Combine JPEG to MARKDOWN via C++
 url: /cpp/merger/merge-jpeg-to-markdown/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to MARKDOWN saveformat. C++ Combine JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to MARKDOWN saveformat via C++., Free Online Merge JPEG to markdown in C++., C++ Combine JPEG to MARKDOWN format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to MARKDOWN C++. C++ Merge JPEG to MARKDOWN format. Combine JPEG to MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to MARKDOWN., Free Online Merge JPEG to markdown in C++., C++ Combine JPEG to MARKDOWN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

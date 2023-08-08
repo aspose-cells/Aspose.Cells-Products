@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PRN - Combine HTML to PRN via Java
 url: /java/merger/merge-html-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to PRN saveformat. Java Combine HTML to PRN format. Combine HTML to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine HTML to PRN saveformat via Java., Free Online Merge HTML to prn in Java., Java Combine HTML to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. HTML Merge. Free Online Merge HTML to PRN Java. Java Merge HTML to PRN format. Combine HTML to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., HTML Merge., Java Merge HTML to PRN., Free Online Merge HTML to prn in Java., Java Combine HTML to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

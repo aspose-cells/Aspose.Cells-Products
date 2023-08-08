@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to DIF - Convert NUMBERS to DIF files Python via Python
-description: Aspose Excel. Free Online Convert NUMBERS to DIF saveformat. Python NUMBERS to DIF format. Save NUMBERS as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Converter]
+title: Python NUMBERS to DIF - Convert NUMBERS to DIF Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert NUMBERS to DIF saveformat. Python NUMBERS to DIF format. Save NUMBERS to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Python., Python Convert NUMBERS to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

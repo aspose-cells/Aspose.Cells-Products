@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to SVG - Combine TSV to SVG via Python
 url: /python-java/merger/merge-tsv-to-svg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to SVG saveformat. Python Combine TSV to SVG format. Combine TSV to SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TSV to SVG saveformat via Python., Free Online Merge TSV to svg in Python., Python Combine TSV to SVG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TSV Merge. Free Online Merge TSV to SVG Python. Python Merge TSV to SVG format. Combine TSV to SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TSV Merge., Python Merge TSV to SVG., Free Online Merge TSV to svg in Python., Python Combine TSV to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

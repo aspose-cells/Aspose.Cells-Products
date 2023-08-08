@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PRN - Combine MHTML to PRN via Python
 url: /python-net/merger/merge-mhtml-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to PRN saveformat. Python Combine MHTML to PRN format. Combine MHTML to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to PRN saveformat via Python., Free Online Merge MHTML to prn in Python., Python Combine MHTML to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to PRN Python. Python Merge MHTML to PRN format. Combine MHTML to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to PRN., Free Online Merge MHTML to prn in Python., Python Combine MHTML to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

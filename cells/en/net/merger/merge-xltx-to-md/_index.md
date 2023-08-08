@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MD - Combine XLTX to MD via C#
 url: /net/merger/merge-xltx-to-md/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to MD saveformat. C# Combine XLTX to MD format. Combine XLTX to MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLTX to MD saveformat via C#., Free Online Merge XLTX to md in C#., C# Combine XLTX to MD format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLTX Merge. Free Online Merge XLTX to MD C#. C# Merge XLTX to MD format. Combine XLTX to MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLTX Merge., C# Merge XLTX to MD., Free Online Merge XLTX to md in C#., C# Combine XLTX to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

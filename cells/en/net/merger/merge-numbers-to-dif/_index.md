@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DIF - Combine NUMBERS to DIF via C#
 url: /net/merger/merge-numbers-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to DIF saveformat. C# Combine NUMBERS to DIF format. Combine NUMBERS to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine NUMBERS to DIF saveformat via C#., Free Online Merge NUMBERS to dif in C#., C# Combine NUMBERS to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to DIF C#. C# Merge NUMBERS to DIF format. Combine NUMBERS to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., NUMBERS Merge., C# Merge NUMBERS to DIF., Free Online Merge NUMBERS to dif in C#., C# Combine NUMBERS to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

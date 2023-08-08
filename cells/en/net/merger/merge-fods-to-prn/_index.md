@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PRN - Combine FODS to PRN via C#
 url: /net/merger/merge-fods-to-prn/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to PRN saveformat. C# Combine FODS to PRN format. Combine FODS to PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to PRN saveformat via C#., Free Online Merge FODS to prn in C#., C# Combine FODS to PRN format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to PRN C#. C# Merge FODS to PRN format. Combine FODS to PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to PRN., Free Online Merge FODS to prn in C#., C# Combine FODS to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SXC to PPTX - Convert SXC to PPTX files Python via Python
-description: Aspose Excel. Free Online Convert SXC to PPTX saveformat. Python SXC to PPTX format. Save SXC as PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to PPTX saveformat., Free Online SXC to PPTX Converter]
+title: Python SXC to PPTX - Convert SXC to PPTX Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to PPTX saveformat. Python SXC to PPTX format. Save SXC to PPTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to PPTX saveformat., Free Online SXC to PPTX Python., Python Convert SXC to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

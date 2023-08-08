@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to ETT - Combine OTS to ETT via C++
 url: /cpp/merger/merge-ots-to-ett/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to ETT saveformat. C++ Combine OTS to ETT format. Combine OTS to ETT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine OTS to ETT saveformat via C++., Free Online Merge OTS to ett in C++., C++ Combine OTS to ETT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. OTS Merge. Free Online Merge OTS to ETT C++. C++ Merge OTS to ETT format. Combine OTS to ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., OTS Merge., C++ Merge OTS to ETT., Free Online Merge OTS to ett in C++., C++ Combine OTS to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

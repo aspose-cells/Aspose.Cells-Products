@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to POWERPOINT - Combine XLSX to POWERPOINT via C#
 url: /net/merger/merge-xlsx-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to POWERPOINT saveformat. C# Combine XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to POWERPOINT saveformat via C#., Free Online Merge XLSX to powerpoint in C#., C# Combine XLSX to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to POWERPOINT C#. C# Merge XLSX to POWERPOINT format. Combine XLSX to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to POWERPOINT., Free Online Merge XLSX to powerpoint in C#., C# Combine XLSX to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

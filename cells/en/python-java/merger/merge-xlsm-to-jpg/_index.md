@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JPG - Combine XLSM to JPG via Python
 url: /python-java/merger/merge-xlsm-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to JPG saveformat. Python Combine XLSM to JPG format. Combine XLSM to JPG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to JPG saveformat via Python., Free Online Merge XLSM to jpg in Python., Python Combine XLSM to JPG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to JPG Python. Python Merge XLSM to JPG format. Combine XLSM to JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to JPG., Free Online Merge XLSM to jpg in Python., Python Combine XLSM to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

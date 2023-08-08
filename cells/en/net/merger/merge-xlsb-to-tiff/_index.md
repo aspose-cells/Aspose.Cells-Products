@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TIFF - Combine XLSB to TIFF via C#
 url: /net/merger/merge-xlsb-to-tiff/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to TIFF saveformat. C# Combine XLSB to TIFF format. Combine XLSB to TIFF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSB to TIFF saveformat via C#., Free Online Merge XLSB to tiff in C#., C# Combine XLSB to TIFF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSB Merge. Free Online Merge XLSB to TIFF C#. C# Merge XLSB to TIFF format. Combine XLSB to TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSB Merge., C# Merge XLSB to TIFF., Free Online Merge XLSB to tiff in C#., C# Combine XLSB to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

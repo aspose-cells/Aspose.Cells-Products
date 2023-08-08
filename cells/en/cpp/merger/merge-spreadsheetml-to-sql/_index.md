@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to SQL - Combine SPREADSHEETML to SQL via C++
 url: /cpp/merger/merge-spreadsheetml-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to SQL saveformat. C++ Combine SPREADSHEETML to SQL format. Combine SPREADSHEETML to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to SQL saveformat via C++., Free Online Merge SPREADSHEETML to sql in C++., C++ Combine SPREADSHEETML to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to SQL C++. C++ Merge SPREADSHEETML to SQL format. Combine SPREADSHEETML to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to SQL., Free Online Merge SPREADSHEETML to sql in C++., C++ Combine SPREADSHEETML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

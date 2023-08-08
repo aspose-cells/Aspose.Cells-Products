@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to TABDELIMITED - Combine XLS to TABDELIMITED via Java
 url: /java/merger/merge-xls-to-tabdelimited/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to TABDELIMITED saveformat. Java Combine XLS to TABDELIMITED format. Combine XLS to TABDELIMITED in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLS to TABDELIMITED saveformat via Java., Free Online Merge XLS to tabdelimited in Java., Java Combine XLS to TABDELIMITED format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLS Merge. Free Online Merge XLS to TABDELIMITED Java. Java Merge XLS to TABDELIMITED format. Combine XLS to TABDELIMITED in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLS Merge., Java Merge XLS to TABDELIMITED., Free Online Merge XLS to tabdelimited in Java., Java Combine XLS to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

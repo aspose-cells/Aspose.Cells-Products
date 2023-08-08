@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to EMF - Combine JSON to EMF via C++
 url: /cpp/merger/merge-json-to-emf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to EMF saveformat. C++ Combine JSON to EMF format. Combine JSON to EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to EMF saveformat via C++., Free Online Merge JSON to emf in C++., C++ Combine JSON to EMF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to EMF C++. C++ Merge JSON to EMF format. Combine JSON to EMF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to EMF., Free Online Merge JSON to emf in C++., C++ Combine JSON to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

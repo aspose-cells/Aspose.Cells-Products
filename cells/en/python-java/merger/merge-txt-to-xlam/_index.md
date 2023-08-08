@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLAM - Combine TXT to XLAM via Python
 url: /python-java/merger/merge-txt-to-xlam/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to XLAM saveformat. Python Combine TXT to XLAM format. Combine TXT to XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine TXT to XLAM saveformat via Python., Free Online Merge TXT to xlam in Python., Python Combine TXT to XLAM format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. TXT Merge. Free Online Merge TXT to XLAM Python. Python Merge TXT to XLAM format. Combine TXT to XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., TXT Merge., Python Merge TXT to XLAM., Free Online Merge TXT to xlam in Python., Python Combine TXT to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

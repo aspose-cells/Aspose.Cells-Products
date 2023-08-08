@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ET - Combine IMAGE to ET via Java
 url: /java/merger/merge-image-to-et/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to ET saveformat. Java Combine IMAGE to ET format. Combine IMAGE to ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine IMAGE to ET saveformat via Java., Free Online Merge IMAGE to et in Java., Java Combine IMAGE to ET format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. IMAGE Merge. Free Online Merge IMAGE to ET Java. Java Merge IMAGE to ET format. Combine IMAGE to ET in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., IMAGE Merge., Java Merge IMAGE to ET., Free Online Merge IMAGE to et in Java., Java Combine IMAGE to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

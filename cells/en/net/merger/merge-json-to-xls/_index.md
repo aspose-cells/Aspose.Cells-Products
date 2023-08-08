@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLS - Combine JSON to XLS via C#
 url: /net/merger/merge-json-to-xls/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to XLS saveformat. C# Combine JSON to XLS format. Combine JSON to XLS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine JSON to XLS saveformat via C#., Free Online Merge JSON to xls in C#., C# Combine JSON to XLS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. JSON Merge. Free Online Merge JSON to XLS C#. C# Merge JSON to XLS format. Combine JSON to XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., JSON Merge., C# Merge JSON to XLS., Free Online Merge JSON to xls in C#., C# Combine JSON to XLS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

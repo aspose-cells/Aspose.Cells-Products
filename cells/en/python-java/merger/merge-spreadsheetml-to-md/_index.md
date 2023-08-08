@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MD - Combine SPREADSHEETML to MD via Python
 url: /python-java/merger/merge-spreadsheetml-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to MD saveformat. Python Combine SPREADSHEETML to MD format. Combine SPREADSHEETML to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to MD saveformat via Python., Free Online Merge SPREADSHEETML to md in Python., Python Combine SPREADSHEETML to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to MD Python. Python Merge SPREADSHEETML to MD format. Combine SPREADSHEETML to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SPREADSHEETML Merge., Python Merge SPREADSHEETML to MD., Free Online Merge SPREADSHEETML to md in Python., Python Combine SPREADSHEETML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

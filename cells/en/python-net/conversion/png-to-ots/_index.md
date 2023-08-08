@@ -1,7 +1,7 @@
 ---
-title: PNG to OTS - Convert PNG to OTS files Python via Python
-description: Aspose Excel. Free Online Convert PNG to OTS saveformat. Python PNG to OTS format. Save PNG as OTS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to OTS saveformat., Free Online PNG to OTS Converter]
+title: Python PNG to OTS - Convert PNG to OTS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to OTS saveformat. Python PNG to OTS format. Save PNG to OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to OTS saveformat., Free Online PNG to OTS Python., Python Convert PNG to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

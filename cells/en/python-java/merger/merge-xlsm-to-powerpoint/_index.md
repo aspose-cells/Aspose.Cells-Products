@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to POWERPOINT - Combine XLSM to POWERPOINT via Python
 url: /python-java/merger/merge-xlsm-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to POWERPOINT saveformat. Python Combine XLSM to POWERPOINT format. Combine XLSM to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to POWERPOINT saveformat via Python., Free Online Merge XLSM to powerpoint in Python., Python Combine XLSM to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to POWERPOINT Python. Python Merge XLSM to POWERPOINT format. Combine XLSM to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to POWERPOINT., Free Online Merge XLSM to powerpoint in Python., Python Combine XLSM to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

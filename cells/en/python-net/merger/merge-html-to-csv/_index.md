@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to CSV - Combine HTML to CSV via Python
 url: /python-net/merger/merge-html-to-csv/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to CSV saveformat. Python Combine HTML to CSV format. Combine HTML to CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to CSV saveformat via Python., Free Online Merge HTML to csv in Python., Python Combine HTML to CSV format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to CSV Python. Python Merge HTML to CSV format. Combine HTML to CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to CSV., Free Online Merge HTML to csv in Python., Python Combine HTML to CSV format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

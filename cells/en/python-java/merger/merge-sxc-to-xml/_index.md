@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XML - Combine SXC to XML via Python
 url: /python-java/merger/merge-sxc-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to XML saveformat. Python Combine SXC to XML format. Combine SXC to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to XML saveformat via Python., Free Online Merge SXC to xml in Python., Python Combine SXC to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to XML Python. Python Merge SXC to XML format. Combine SXC to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to XML., Free Online Merge SXC to xml in Python., Python Combine SXC to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

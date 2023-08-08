@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to JSON - Combine SPREADSHEETML to JSON via Python
 url: /python-java/merger/merge-spreadsheetml-to-json/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to JSON saveformat. Python Combine SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SPREADSHEETML to JSON saveformat via Python., Free Online Merge SPREADSHEETML to json in Python., Python Combine SPREADSHEETML to JSON format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to JSON Python. Python Merge SPREADSHEETML to JSON format. Combine SPREADSHEETML to JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SPREADSHEETML Merge., Python Merge SPREADSHEETML to JSON., Free Online Merge SPREADSHEETML to json in Python., Python Combine SPREADSHEETML to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

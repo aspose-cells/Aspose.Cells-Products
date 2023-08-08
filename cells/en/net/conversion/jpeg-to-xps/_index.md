@@ -1,7 +1,7 @@
 ---
-title: JPEG to XPS - Convert JPEG to XPS files C#
-description: Aspose Excel. Free Online Convert JPEG to XPS saveformat. C# JPEG to XPS format. Save JPEG as XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to XPS saveformat., Free Online JPEG to XPS Converter]
+title: C# JPEG to XPS - Online JPEG to XPS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPEG to XPS saveformat. C# JPEG to XPS format. Save JPEG to XPS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPEG to XPS saveformat., Free Online JPEG to XPS C#., C# Convert JPEG to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

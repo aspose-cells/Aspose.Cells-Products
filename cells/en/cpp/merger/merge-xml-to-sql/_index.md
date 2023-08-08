@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SQL - Combine XML to SQL via C++
 url: /cpp/merger/merge-xml-to-sql/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to SQL saveformat. C++ Combine XML to SQL format. Combine XML to SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to SQL saveformat via C++., Free Online Merge XML to sql in C++., C++ Combine XML to SQL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to SQL C++. C++ Merge XML to SQL format. Combine XML to SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to SQL., Free Online Merge XML to sql in C++., C++ Combine XML to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

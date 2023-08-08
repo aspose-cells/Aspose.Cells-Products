@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SPREADSHEETML - Combine JPG to SPREADSHEETML via Java
 url: /java/merger/merge-jpg-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to SPREADSHEETML saveformat. Java Combine JPG to SPREADSHEETML format. Combine JPG to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine JPG to SPREADSHEETML saveformat via Java., Free Online Merge JPG to spreadsheetml in Java., Java Combine JPG to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. JPG Merge. Free Online Merge JPG to SPREADSHEETML Java. Java Merge JPG to SPREADSHEETML format. Combine JPG to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., JPG Merge., Java Merge JPG to SPREADSHEETML., Free Online Merge JPG to spreadsheetml in Java., Java Combine JPG to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

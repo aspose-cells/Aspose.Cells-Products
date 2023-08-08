@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PNG - Combine OTS to PNG via Java
 url: /java/merger/merge-ots-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to PNG saveformat. Java Combine OTS to PNG format. Combine OTS to PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine OTS to PNG saveformat via Java., Free Online Merge OTS to png in Java., Java Combine OTS to PNG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. OTS Merge. Free Online Merge OTS to PNG Java. Java Merge OTS to PNG format. Combine OTS to PNG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., OTS Merge., Java Merge OTS to PNG., Free Online Merge OTS to png in Java., Java Combine OTS to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

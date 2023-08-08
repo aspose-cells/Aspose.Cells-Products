@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to EXCEL - Combine JSON to EXCEL via C++
 url: /cpp/merger/merge-json-to-excel/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to EXCEL saveformat. C++ Combine JSON to EXCEL format. Combine JSON to EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JSON to EXCEL saveformat via C++., Free Online Merge JSON to excel in C++., C++ Combine JSON to EXCEL format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JSON Merge. Free Online Merge JSON to EXCEL C++. C++ Merge JSON to EXCEL format. Combine JSON to EXCEL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JSON Merge., C++ Merge JSON to EXCEL., Free Online Merge JSON to excel in C++., C++ Combine JSON to EXCEL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

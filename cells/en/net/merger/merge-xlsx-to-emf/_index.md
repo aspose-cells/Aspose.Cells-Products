@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to EMF - Combine XLSX to EMF via C#
 url: /net/merger/merge-xlsx-to-emf/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to EMF saveformat. C# Combine XLSX to EMF format. Combine XLSX to EMF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSX to EMF saveformat via C#., Free Online Merge XLSX to emf in C#., C# Combine XLSX to EMF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSX Merge. Free Online Merge XLSX to EMF C#. C# Merge XLSX to EMF format. Combine XLSX to EMF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSX Merge., C# Merge XLSX to EMF., Free Online Merge XLSX to emf in C#., C# Combine XLSX to EMF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

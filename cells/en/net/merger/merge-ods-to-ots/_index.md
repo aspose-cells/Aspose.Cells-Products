@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to OTS - Combine ODS to OTS via C#
 url: /net/merger/merge-ods-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to OTS saveformat. C# Combine ODS to OTS format. Combine ODS to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine ODS to OTS saveformat via C#., Free Online Merge ODS to ots in C#., C# Combine ODS to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. ODS Merge. Free Online Merge ODS to OTS C#. C# Merge ODS to OTS format. Combine ODS to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., ODS Merge., C# Merge ODS to OTS., Free Online Merge ODS to ots in C#., C# Combine ODS to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

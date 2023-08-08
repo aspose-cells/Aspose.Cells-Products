@@ -1,8 +1,8 @@
 ---
 title: Merge XML to BMP - Combine XML to BMP via C++
 url: /cpp/merger/merge-xml-to-bmp/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to BMP saveformat. C++ Combine XML to BMP format. Combine XML to BMP in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XML to BMP saveformat via C++., Free Online Merge XML to bmp in C++., C++ Combine XML to BMP format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XML Merge. Free Online Merge XML to BMP C++. C++ Merge XML to BMP format. Combine XML to BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XML Merge., C++ Merge XML to BMP., Free Online Merge XML to bmp in C++., C++ Combine XML to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

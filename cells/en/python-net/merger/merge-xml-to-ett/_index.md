@@ -1,8 +1,8 @@
 ---
 title: Merge XML to ETT - Combine XML to ETT via Python
 url: /python-net/merger/merge-xml-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to ETT saveformat. Python Combine XML to ETT format. Combine XML to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to ETT saveformat via Python., Free Online Merge XML to ett in Python., Python Combine XML to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to ETT Python. Python Merge XML to ETT format. Combine XML to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to ETT., Free Online Merge XML to ett in Python., Python Combine XML to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

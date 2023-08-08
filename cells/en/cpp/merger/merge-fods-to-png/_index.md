@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PNG - Combine FODS to PNG via C++
 url: /cpp/merger/merge-fods-to-png/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to PNG saveformat. C++ Combine FODS to PNG format. Combine FODS to PNG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to PNG saveformat via C++., Free Online Merge FODS to png in C++., C++ Combine FODS to PNG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to PNG C++. C++ Merge FODS to PNG format. Combine FODS to PNG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to PNG., Free Online Merge FODS to png in C++., C++ Combine FODS to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

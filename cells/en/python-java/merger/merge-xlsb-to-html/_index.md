@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to HTML - Combine XLSB to HTML via Python
 url: /python-java/merger/merge-xlsb-to-html/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to HTML saveformat. Python Combine XLSB to HTML format. Combine XLSB to HTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSB to HTML saveformat via Python., Free Online Merge XLSB to html in Python., Python Combine XLSB to HTML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSB Merge. Free Online Merge XLSB to HTML Python. Python Merge XLSB to HTML format. Combine XLSB to HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSB Merge., Python Merge XLSB to HTML., Free Online Merge XLSB to html in Python., Python Combine XLSB to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

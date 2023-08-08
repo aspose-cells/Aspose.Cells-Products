@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to POWERPOINT - Combine SPREADSHEETML to POWERPOINT via C++
 url: /cpp/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. C++ Combine SPREADSHEETML to POWERPOINT format. Combine SPREADSHEETML to POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to POWERPOINT saveformat via C++., Free Online Merge SPREADSHEETML to powerpoint in C++., C++ Combine SPREADSHEETML to POWERPOINT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to POWERPOINT C++. C++ Merge SPREADSHEETML to POWERPOINT format. Combine SPREADSHEETML to POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to POWERPOINT., Free Online Merge SPREADSHEETML to powerpoint in C++., C++ Combine SPREADSHEETML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

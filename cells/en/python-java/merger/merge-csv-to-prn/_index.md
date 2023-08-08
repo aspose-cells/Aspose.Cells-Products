@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to PRN - Combine CSV to PRN via Python
 url: /python-java/merger/merge-csv-to-prn/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to PRN saveformat. Python Combine CSV to PRN format. Combine CSV to PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to PRN saveformat via Python., Free Online Merge CSV to prn in Python., Python Combine CSV to PRN format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to PRN Python. Python Merge CSV to PRN format. Combine CSV to PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to PRN., Free Online Merge CSV to prn in Python., Python Combine CSV to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

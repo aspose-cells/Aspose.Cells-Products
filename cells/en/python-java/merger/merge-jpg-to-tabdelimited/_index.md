@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TABDELIMITED - Combine JPG to TABDELIMITED via Python
 url: /python-java/merger/merge-jpg-to-tabdelimited/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to TABDELIMITED saveformat. Python Combine JPG to TABDELIMITED format. Combine JPG to TABDELIMITED in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to TABDELIMITED saveformat via Python., Free Online Merge JPG to tabdelimited in Python., Python Combine JPG to TABDELIMITED format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to TABDELIMITED Python. Python Merge JPG to TABDELIMITED format. Combine JPG to TABDELIMITED in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to TABDELIMITED., Free Online Merge JPG to tabdelimited in Python., Python Combine JPG to TABDELIMITED format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

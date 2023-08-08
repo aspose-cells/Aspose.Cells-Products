@@ -1,7 +1,7 @@
 ---
-title: JPG to XLAM - Convert JPG to XLAM files C#
-description: Aspose Excel. Free Online Convert JPG to XLAM saveformat. C# JPG to XLAM format. Save JPG as XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to XLAM saveformat., Free Online JPG to XLAM Converter]
+title: C# JPG to XLAM - Online JPG to XLAM Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to XLAM saveformat. C# JPG to XLAM format. Save JPG to XLAM C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to XLAM saveformat., Free Online JPG to XLAM C#., C# Convert JPG to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

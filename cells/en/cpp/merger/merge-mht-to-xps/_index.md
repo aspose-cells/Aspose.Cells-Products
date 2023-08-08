@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XPS - Combine MHT to XPS via C++
 url: /cpp/merger/merge-mht-to-xps/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to XPS saveformat. C++ Combine MHT to XPS format. Combine MHT to XPS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to XPS saveformat via C++., Free Online Merge MHT to xps in C++., C++ Combine MHT to XPS format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to XPS C++. C++ Merge MHT to XPS format. Combine MHT to XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to XPS., Free Online Merge MHT to xps in C++., C++ Combine MHT to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

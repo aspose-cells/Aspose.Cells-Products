@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DIF - Combine XLSB to DIF via Java
 url: /java/merger/merge-xlsb-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to DIF saveformat. Java Combine XLSB to DIF format. Combine XLSB to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XLSB to DIF saveformat via Java., Free Online Merge XLSB to dif in Java., Java Combine XLSB to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XLSB Merge. Free Online Merge XLSB to DIF Java. Java Merge XLSB to DIF format. Combine XLSB to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XLSB Merge., Java Merge XLSB to DIF., Free Online Merge XLSB to dif in Java., Java Combine XLSB to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

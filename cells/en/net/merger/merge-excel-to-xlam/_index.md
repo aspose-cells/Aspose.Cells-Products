@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLAM - Combine EXCEL to XLAM via C#
 url: /net/merger/merge-excel-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to XLAM saveformat. C# Combine EXCEL to XLAM format. Combine EXCEL to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine EXCEL to XLAM saveformat via C#., Free Online Merge EXCEL to xlam in C#., C# Combine EXCEL to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. EXCEL Merge. Free Online Merge EXCEL to XLAM C#. C# Merge EXCEL to XLAM format. Combine EXCEL to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., EXCEL Merge., C# Merge EXCEL to XLAM., Free Online Merge EXCEL to xlam in C#., C# Combine EXCEL to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

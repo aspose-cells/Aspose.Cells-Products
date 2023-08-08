@@ -1,7 +1,7 @@
 ---
-title: XLS to TXT - Convert XLS to TXT files C#
-description: Aspose Excel. Free Online Convert XLS to TXT saveformat. C# XLS to TXT format. Save XLS as TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to TXT saveformat., Free Online XLS to TXT Converter]
+title: C# XLS to TXT - Online XLS to TXT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLS to TXT saveformat. C# XLS to TXT format. Save XLS to TXT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLS to TXT saveformat., Free Online XLS to TXT C#., C# Convert XLS to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

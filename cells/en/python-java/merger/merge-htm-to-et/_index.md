@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ET - Combine HTM to ET via Python
 url: /python-java/merger/merge-htm-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to ET saveformat. Python Combine HTM to ET format. Combine HTM to ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTM to ET saveformat via Python., Free Online Merge HTM to et in Python., Python Combine HTM to ET format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTM Merge. Free Online Merge HTM to ET Python. Python Merge HTM to ET format. Combine HTM to ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTM Merge., Python Merge HTM to ET., Free Online Merge HTM to et in Python., Python Combine HTM to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to HTML - Combine JPEG to HTML via C++
 url: /cpp/merger/merge-jpeg-to-html/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to HTML saveformat. C++ Combine JPEG to HTML format. Combine JPEG to HTML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to HTML saveformat via C++., Free Online Merge JPEG to html in C++., C++ Combine JPEG to HTML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to HTML C++. C++ Merge JPEG to HTML format. Combine JPEG to HTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to HTML., Free Online Merge JPEG to html in C++., C++ Combine JPEG to HTML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

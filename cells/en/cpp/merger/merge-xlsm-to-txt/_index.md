@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TXT - Combine XLSM to TXT via C++
 url: /cpp/merger/merge-xlsm-to-txt/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to TXT saveformat. C++ Combine XLSM to TXT format. Combine XLSM to TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSM to TXT saveformat via C++., Free Online Merge XLSM to txt in C++., C++ Combine XLSM to TXT format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSM Merge. Free Online Merge XLSM to TXT C++. C++ Merge XLSM to TXT format. Combine XLSM to TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSM Merge., C++ Merge XLSM to TXT., Free Online Merge XLSM to txt in C++., C++ Combine XLSM to TXT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to ETT - Combine SXC to ETT via Python
 url: /python-net/merger/merge-sxc-to-ett/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to ETT saveformat. Python Combine SXC to ETT format. Combine SXC to ETT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine SXC to ETT saveformat via Python., Free Online Merge SXC to ett in Python., Python Combine SXC to ETT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. SXC Merge. Free Online Merge SXC to ETT Python. Python Merge SXC to ETT format. Combine SXC to ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., SXC Merge., Python Merge SXC to ETT., Free Online Merge SXC to ett in Python., Python Combine SXC to ETT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

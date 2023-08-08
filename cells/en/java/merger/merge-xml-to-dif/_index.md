@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DIF - Combine XML to DIF via Java
 url: /java/merger/merge-xml-to-dif/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to DIF saveformat. Java Combine XML to DIF format. Combine XML to DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine XML to DIF saveformat via Java., Free Online Merge XML to dif in Java., Java Combine XML to DIF format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. XML Merge. Free Online Merge XML to DIF Java. Java Merge XML to DIF format. Combine XML to DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., XML Merge., Java Merge XML to DIF., Free Online Merge XML to dif in Java., Java Combine XML to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

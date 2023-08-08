@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MD - Combine XML to MD via Python
 url: /python-java/merger/merge-xml-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to MD saveformat. Python Combine XML to MD format. Combine XML to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to MD saveformat via Python., Free Online Merge XML to md in Python., Python Combine XML to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to MD Python. Python Merge XML to MD format. Combine XML to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to MD., Free Online Merge XML to md in Python., Python Combine XML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

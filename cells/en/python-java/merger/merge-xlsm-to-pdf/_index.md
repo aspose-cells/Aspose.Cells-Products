@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to PDF - Combine XLSM to PDF via Python
 url: /python-java/merger/merge-xlsm-to-pdf/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to PDF saveformat. Python Combine XLSM to PDF format. Combine XLSM to PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLSM to PDF saveformat via Python., Free Online Merge XLSM to pdf in Python., Python Combine XLSM to PDF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLSM Merge. Free Online Merge XLSM to PDF Python. Python Merge XLSM to PDF format. Combine XLSM to PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLSM Merge., Python Merge XLSM to PDF., Free Online Merge XLSM to pdf in Python., Python Combine XLSM to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

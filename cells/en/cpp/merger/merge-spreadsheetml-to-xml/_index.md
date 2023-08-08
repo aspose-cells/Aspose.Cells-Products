@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XML - Combine SPREADSHEETML to XML via C++
 url: /cpp/merger/merge-spreadsheetml-to-xml/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to XML saveformat. C++ Combine SPREADSHEETML to XML format. Combine SPREADSHEETML to XML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine SPREADSHEETML to XML saveformat via C++., Free Online Merge SPREADSHEETML to xml in C++., C++ Combine SPREADSHEETML to XML format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. SPREADSHEETML Merge. Free Online Merge SPREADSHEETML to XML C++. C++ Merge SPREADSHEETML to XML format. Combine SPREADSHEETML to XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., SPREADSHEETML Merge., C++ Merge SPREADSHEETML to XML., Free Online Merge SPREADSHEETML to xml in C++., C++ Combine SPREADSHEETML to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

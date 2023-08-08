@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PDF - Combine MHT to PDF via C++
 url: /cpp/merger/merge-mht-to-pdf/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to PDF saveformat. C++ Combine MHT to PDF format. Combine MHT to PDF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine MHT to PDF saveformat via C++., Free Online Merge MHT to pdf in C++., C++ Combine MHT to PDF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. MHT Merge. Free Online Merge MHT to PDF C++. C++ Merge MHT to PDF format. Combine MHT to PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., MHT Merge., C++ Merge MHT to PDF., Free Online Merge MHT to pdf in C++., C++ Combine MHT to PDF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

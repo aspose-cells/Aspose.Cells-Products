@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SVG - Combine XLSB to SVG via C++
 url: /cpp/merger/merge-xlsb-to-svg/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to SVG saveformat. C++ Combine XLSB to SVG format. Combine XLSB to SVG in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLSB to SVG saveformat via C++., Free Online Merge XLSB to svg in C++., C++ Combine XLSB to SVG format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLSB Merge. Free Online Merge XLSB to SVG C++. C++ Merge XLSB to SVG format. Combine XLSB to SVG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLSB Merge., C++ Merge XLSB to SVG., Free Online Merge XLSB to svg in C++., C++ Combine XLSB to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

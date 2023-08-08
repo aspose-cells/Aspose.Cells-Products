@@ -1,7 +1,7 @@
 ---
-title: XLS to MHT - Convert XLS to MHT files C++
-description: Aspose Excel. Free Online Convert XLS to MHT saveformat. C++ XLS to MHT format. Save XLS as MHT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to MHT saveformat., Free Online XLS to MHT Converter]
+title: C++ XLS to MHT - Online XLS to MHT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to MHT saveformat. C++ XLS to MHT format. Save XLS to MHT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to MHT saveformat., Free Online XLS to MHT C++., C++ Convert XLS to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

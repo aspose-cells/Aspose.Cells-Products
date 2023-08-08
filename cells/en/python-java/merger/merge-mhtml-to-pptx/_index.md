@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PPTX - Combine MHTML to PPTX via Python
 url: /python-java/merger/merge-mhtml-to-pptx/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to PPTX saveformat. Python Combine MHTML to PPTX format. Combine MHTML to PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHTML to PPTX saveformat via Python., Free Online Merge MHTML to pptx in Python., Python Combine MHTML to PPTX format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHTML Merge. Free Online Merge MHTML to PPTX Python. Python Merge MHTML to PPTX format. Combine MHTML to PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHTML Merge., Python Merge MHTML to PPTX., Free Online Merge MHTML to pptx in Python., Python Combine MHTML to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to POWERPOINT - Combine CSV to POWERPOINT via Python
 url: /python-net/merger/merge-csv-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to POWERPOINT saveformat. Python Combine CSV to POWERPOINT format. Combine CSV to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to POWERPOINT saveformat via Python., Free Online Merge CSV to powerpoint in Python., Python Combine CSV to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to POWERPOINT Python. Python Merge CSV to POWERPOINT format. Combine CSV to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to POWERPOINT., Free Online Merge CSV to powerpoint in Python., Python Combine CSV to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to OTS - Combine HTML to OTS via C#
 url: /net/merger/merge-html-to-ots/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to OTS saveformat. C# Combine HTML to OTS format. Combine HTML to OTS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine HTML to OTS saveformat via C#., Free Online Merge HTML to ots in C#., C# Combine HTML to OTS format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. HTML Merge. Free Online Merge HTML to OTS C#. C# Merge HTML to OTS format. Combine HTML to OTS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., HTML Merge., C# Merge HTML to OTS., Free Online Merge HTML to ots in C#., C# Combine HTML to OTS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

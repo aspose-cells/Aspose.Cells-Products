@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to TIFF - Combine XLTX to TIFF via Python
 url: /python-java/merger/merge-xltx-to-tiff/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to TIFF saveformat. Python Combine XLTX to TIFF format. Combine XLTX to TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to TIFF saveformat via Python., Free Online Merge XLTX to tiff in Python., Python Combine XLTX to TIFF format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to TIFF Python. Python Merge XLTX to TIFF format. Combine XLTX to TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to TIFF., Free Online Merge XLTX to tiff in Python., Python Combine XLTX to TIFF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

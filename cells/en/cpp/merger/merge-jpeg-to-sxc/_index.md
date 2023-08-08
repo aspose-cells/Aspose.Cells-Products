@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SXC - Combine JPEG to SXC via C++
 url: /cpp/merger/merge-jpeg-to-sxc/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to SXC saveformat. C++ Combine JPEG to SXC format. Combine JPEG to SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPEG to SXC saveformat via C++., Free Online Merge JPEG to sxc in C++., C++ Combine JPEG to SXC format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPEG Merge. Free Online Merge JPEG to SXC C++. C++ Merge JPEG to SXC format. Combine JPEG to SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPEG Merge., C++ Merge JPEG to SXC., Free Online Merge JPEG to sxc in C++., C++ Combine JPEG to SXC format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

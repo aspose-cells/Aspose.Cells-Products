@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PNG - Combine PNG to PNG via Java
 url: /java/merger/merge-png-to-png/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to PNG saveformat. Java Combine PNG to PNG format. Combine PNG to PNG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PNG to PNG saveformat via Java., Free Online Merge PNG to png in Java., Java Combine PNG to PNG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PNG Merge. Free Online Merge PNG to PNG Java. Java Merge PNG to PNG format. Combine PNG to PNG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PNG Merge., Java Merge PNG to PNG., Free Online Merge PNG to png in Java., Java Combine PNG to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

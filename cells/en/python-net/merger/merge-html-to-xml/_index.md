@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XML - Combine HTML to XML via Python
 url: /python-net/merger/merge-html-to-xml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XML saveformat. Python Combine HTML to XML format. Combine HTML to XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to XML saveformat via Python., Free Online Merge HTML to xml in Python., Python Combine HTML to XML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to XML Python. Python Merge HTML to XML format. Combine HTML to XML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to XML., Free Online Merge HTML to xml in Python., Python Combine HTML to XML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

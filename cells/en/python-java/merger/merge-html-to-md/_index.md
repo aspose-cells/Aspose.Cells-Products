@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MD - Combine HTML to MD via Python
 url: /python-java/merger/merge-html-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to MD saveformat. Python Combine HTML to MD format. Combine HTML to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine HTML to MD saveformat via Python., Free Online Merge HTML to md in Python., Python Combine HTML to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. HTML Merge. Free Online Merge HTML to MD Python. Python Merge HTML to MD format. Combine HTML to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., HTML Merge., Python Merge HTML to MD., Free Online Merge HTML to md in Python., Python Combine HTML to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

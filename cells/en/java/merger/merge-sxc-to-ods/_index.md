@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to ODS - Combine SXC to ODS via Java
 url: /java/merger/merge-sxc-to-ods/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to ODS saveformat. Java Combine SXC to ODS format. Combine SXC to ODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine SXC to ODS saveformat via Java., Free Online Merge SXC to ods in Java., Java Combine SXC to ODS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. SXC Merge. Free Online Merge SXC to ODS Java. Java Merge SXC to ODS format. Combine SXC to ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., SXC Merge., Java Merge SXC to ODS., Free Online Merge SXC to ods in Java., Java Combine SXC to ODS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

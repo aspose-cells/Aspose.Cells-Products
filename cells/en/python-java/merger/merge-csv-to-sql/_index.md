@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to SQL - Combine CSV to SQL via Python
 url: /python-java/merger/merge-csv-to-sql/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to SQL saveformat. Python Combine CSV to SQL format. Combine CSV to SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine CSV to SQL saveformat via Python., Free Online Merge CSV to sql in Python., Python Combine CSV to SQL format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. CSV Merge. Free Online Merge CSV to SQL Python. Python Merge CSV to SQL format. Combine CSV to SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., CSV Merge., Python Merge CSV to SQL., Free Online Merge CSV to sql in Python., Python Combine CSV to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

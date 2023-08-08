@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JSON - Combine FODS to JSON via C++
 url: /cpp/merger/merge-fods-to-json/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to JSON saveformat. C++ Combine FODS to JSON format. Combine FODS to JSON in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine FODS to JSON saveformat via C++., Free Online Merge FODS to json in C++., C++ Combine FODS to JSON format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. FODS Merge. Free Online Merge FODS to JSON C++. C++ Merge FODS to JSON format. Combine FODS to JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., FODS Merge., C++ Merge FODS to JSON., Free Online Merge FODS to json in C++., C++ Combine FODS to JSON format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

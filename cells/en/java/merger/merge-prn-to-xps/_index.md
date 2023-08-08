@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XPS - Combine PRN to XPS via Java
 url: /java/merger/merge-prn-to-xps/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to XPS saveformat. Java Combine PRN to XPS format. Combine PRN to XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine PRN to XPS saveformat via Java., Free Online Merge PRN to xps in Java., Java Combine PRN to XPS format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. PRN Merge. Free Online Merge PRN to XPS Java. Java Merge PRN to XPS format. Combine PRN to XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., PRN Merge., Java Merge PRN to XPS., Free Online Merge PRN to xps in Java., Java Combine PRN to XPS format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

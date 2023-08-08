@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to SVG - Combine CSV to SVG via Java
 url: /java/merger/merge-csv-to-svg/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to SVG saveformat. Java Combine CSV to SVG format. Combine CSV to SVG in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine CSV to SVG saveformat via Java., Free Online Merge CSV to svg in Java., Java Combine CSV to SVG format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. CSV Merge. Free Online Merge CSV to SVG Java. Java Merge CSV to SVG format. Combine CSV to SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., CSV Merge., Java Merge CSV to SVG., Free Online Merge CSV to svg in Java., Java Combine CSV to SVG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to POWERPOINT - Combine XML to POWERPOINT via Python
 url: /python-java/merger/merge-xml-to-powerpoint/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to POWERPOINT saveformat. Python Combine XML to POWERPOINT format. Combine XML to POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XML to POWERPOINT saveformat via Python., Free Online Merge XML to powerpoint in Python., Python Combine XML to POWERPOINT format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XML Merge. Free Online Merge XML to POWERPOINT Python. Python Merge XML to POWERPOINT format. Combine XML to POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XML Merge., Python Merge XML to POWERPOINT., Free Online Merge XML to powerpoint in Python., Python Combine XML to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

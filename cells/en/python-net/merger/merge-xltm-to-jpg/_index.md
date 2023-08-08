@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JPG - Combine XLTM to JPG via Python
 url: /python-net/merger/merge-xltm-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to JPG saveformat. Python Combine XLTM to JPG format. Combine XLTM to JPG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTM to JPG saveformat via Python., Free Online Merge XLTM to jpg in Python., Python Combine XLTM to JPG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTM Merge. Free Online Merge XLTM to JPG Python. Python Merge XLTM to JPG format. Combine XLTM to JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTM Merge., Python Merge XLTM to JPG., Free Online Merge XLTM to jpg in Python., Python Combine XLTM to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

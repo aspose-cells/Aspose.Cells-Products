@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MD - Combine XLT to MD via C++
 url: /cpp/merger/merge-xlt-to-md/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to MD saveformat. C++ Combine XLT to MD format. Combine XLT to MD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine XLT to MD saveformat via C++., Free Online Merge XLT to md in C++., C++ Combine XLT to MD format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. XLT Merge. Free Online Merge XLT to MD C++. C++ Merge XLT to MD format. Combine XLT to MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., XLT Merge., C++ Merge XLT to MD., Free Online Merge XLT to md in C++., C++ Combine XLT to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

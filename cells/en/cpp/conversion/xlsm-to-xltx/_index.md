@@ -1,7 +1,7 @@
 ---
-title: XLSM to XLTX - Convert XLSM to XLTX files C++
-description: Aspose Excel. Free Online Convert XLSM to XLTX saveformat. C++ XLSM to XLTX format. Save XLSM as XLTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to XLTX saveformat., Free Online XLSM to XLTX Converter]
+title: C++ XLSM to XLTX - Online XLSM to XLTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to XLTX saveformat. C++ XLSM to XLTX format. Save XLSM to XLTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to XLTX saveformat., Free Online XLSM to XLTX C++., C++ Convert XLSM to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

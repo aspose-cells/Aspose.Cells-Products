@@ -1,7 +1,7 @@
 ---
-title: FODS to XPS - Convert FODS to XPS files Java
-description: Aspose Excel. Free Online Convert FODS to XPS saveformat. Java FODS to XPS format. Save FODS as XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to XPS saveformat., Free Online FODS to XPS Converter]
+title: Java FODS to XPS - Online FODS to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to XPS saveformat. Java FODS to XPS format. Save FODS to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to XPS saveformat., Free Online FODS to XPS Java., Java Convert FODS to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

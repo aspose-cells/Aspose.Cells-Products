@@ -1,7 +1,7 @@
 ---
-title: XLSB to PRN - Convert XLSB to PRN files C#
-description: Aspose Excel. Free Online Convert XLSB to PRN saveformat. C# XLSB to PRN format. Save XLSB as PRN in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to PRN saveformat., Free Online XLSB to PRN Converter]
+title: C# XLSB to PRN - Online XLSB to PRN Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to PRN saveformat. C# XLSB to PRN format. Save XLSB to PRN C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to PRN saveformat., Free Online XLSB to PRN C#., C# Convert XLSB to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

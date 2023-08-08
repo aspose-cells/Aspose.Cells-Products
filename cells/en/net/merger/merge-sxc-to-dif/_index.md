@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DIF - Combine SXC to DIF via C#
 url: /net/merger/merge-sxc-to-dif/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to DIF saveformat. C# Combine SXC to DIF format. Combine SXC to DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine SXC to DIF saveformat via C#., Free Online Merge SXC to dif in C#., C# Combine SXC to DIF format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. SXC Merge. Free Online Merge SXC to DIF C#. C# Merge SXC to DIF format. Combine SXC to DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., SXC Merge., C# Merge SXC to DIF., Free Online Merge SXC to dif in C#., C# Combine SXC to DIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

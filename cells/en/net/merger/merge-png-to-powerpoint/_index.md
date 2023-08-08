@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to POWERPOINT - Combine PNG to POWERPOINT via C#
 url: /net/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to POWERPOINT saveformat. C# Combine PNG to POWERPOINT format. Combine PNG to POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine PNG to POWERPOINT saveformat via C#., Free Online Merge PNG to powerpoint in C#., C# Combine PNG to POWERPOINT format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. PNG Merge. Free Online Merge PNG to POWERPOINT C#. C# Merge PNG to POWERPOINT format. Combine PNG to POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., PNG Merge., C# Merge PNG to POWERPOINT., Free Online Merge PNG to powerpoint in C#., C# Combine PNG to POWERPOINT format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

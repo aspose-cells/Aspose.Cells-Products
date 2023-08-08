@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to BMP - Combine JPG to BMP via Python
 url: /python-java/merger/merge-jpg-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to BMP saveformat. Python Combine JPG to BMP format. Combine JPG to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to BMP saveformat via Python., Free Online Merge JPG to bmp in Python., Python Combine JPG to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to BMP Python. Python Merge JPG to BMP format. Combine JPG to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to BMP., Free Online Merge JPG to bmp in Python., Python Combine JPG to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

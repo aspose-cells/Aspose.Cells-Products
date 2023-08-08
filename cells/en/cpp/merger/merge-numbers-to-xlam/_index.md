@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLAM - Combine NUMBERS to XLAM via C++
 url: /cpp/merger/merge-numbers-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to XLAM saveformat. C++ Combine NUMBERS to XLAM format. Combine NUMBERS to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine NUMBERS to XLAM saveformat via C++., Free Online Merge NUMBERS to xlam in C++., C++ Combine NUMBERS to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to XLAM C++. C++ Merge NUMBERS to XLAM format. Combine NUMBERS to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., NUMBERS Merge., C++ Merge NUMBERS to XLAM., Free Online Merge NUMBERS to xlam in C++., C++ Combine NUMBERS to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PRN - Combine NUMBERS to PRN via Java
 url: /java/merger/merge-numbers-to-prn/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to PRN saveformat. Java Combine NUMBERS to PRN format. Combine NUMBERS to PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to PRN saveformat via Java., Free Online Merge NUMBERS to prn in Java., Java Combine NUMBERS to PRN format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to PRN Java. Java Merge NUMBERS to PRN format. Combine NUMBERS to PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to PRN., Free Online Merge NUMBERS to prn in Java., Java Combine NUMBERS to PRN format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

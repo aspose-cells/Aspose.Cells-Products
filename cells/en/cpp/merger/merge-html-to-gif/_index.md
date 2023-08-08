@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to GIF - Combine HTML to GIF via C++
 url: /cpp/merger/merge-html-to-gif/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to GIF saveformat. C++ Combine HTML to GIF format. Combine HTML to GIF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine HTML to GIF saveformat via C++., Free Online Merge HTML to gif in C++., C++ Combine HTML to GIF format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. HTML Merge. Free Online Merge HTML to GIF C++. C++ Merge HTML to GIF format. Combine HTML to GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., HTML Merge., C++ Merge HTML to GIF., Free Online Merge HTML to gif in C++., C++ Combine HTML to GIF format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

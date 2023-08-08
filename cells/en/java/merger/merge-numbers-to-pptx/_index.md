@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PPTX - Combine NUMBERS to PPTX via Java
 url: /java/merger/merge-numbers-to-pptx/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to PPTX saveformat. Java Combine NUMBERS to PPTX format. Combine NUMBERS to PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine NUMBERS to PPTX saveformat via Java., Free Online Merge NUMBERS to pptx in Java., Java Combine NUMBERS to PPTX format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to PPTX Java. Java Merge NUMBERS to PPTX format. Combine NUMBERS to PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., NUMBERS Merge., Java Merge NUMBERS to PPTX., Free Online Merge NUMBERS to pptx in Java., Java Combine NUMBERS to PPTX format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

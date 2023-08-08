@@ -1,7 +1,7 @@
 ---
-title: MHTML to POWERPOINT - Convert MHTML to POWERPOINT files Python via Python
-description: Aspose Excel. Free Online Convert MHTML to POWERPOINT saveformat. Python MHTML to POWERPOINT format. Save MHTML as POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to POWERPOINT saveformat., Free Online MHTML to POWERPOINT Converter]
+title: Python MHTML to POWERPOINT - Convert MHTML to POWERPOINT Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to POWERPOINT saveformat. Python MHTML to POWERPOINT format. Save MHTML to POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to POWERPOINT saveformat., Free Online MHTML to POWERPOINT Python., Python Convert MHTML to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

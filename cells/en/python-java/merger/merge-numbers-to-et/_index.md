@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ET - Combine NUMBERS to ET via Python
 url: /python-java/merger/merge-numbers-to-et/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to ET saveformat. Python Combine NUMBERS to ET format. Combine NUMBERS to ET in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine NUMBERS to ET saveformat via Python., Free Online Merge NUMBERS to et in Python., Python Combine NUMBERS to ET format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. NUMBERS Merge. Free Online Merge NUMBERS to ET Python. Python Merge NUMBERS to ET format. Combine NUMBERS to ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., NUMBERS Merge., Python Merge NUMBERS to ET., Free Online Merge NUMBERS to et in Python., Python Combine NUMBERS to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

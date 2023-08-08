@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SPREADSHEETML - Combine XLTX to SPREADSHEETML via Python
 url: /python-net/merger/merge-xltx-to-spreadsheetml/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to SPREADSHEETML saveformat. Python Combine XLTX to SPREADSHEETML format. Combine XLTX to SPREADSHEETML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLTX to SPREADSHEETML saveformat via Python., Free Online Merge XLTX to spreadsheetml in Python., Python Combine XLTX to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLTX Merge. Free Online Merge XLTX to SPREADSHEETML Python. Python Merge XLTX to SPREADSHEETML format. Combine XLTX to SPREADSHEETML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLTX Merge., Python Merge XLTX to SPREADSHEETML., Free Online Merge XLTX to spreadsheetml in Python., Python Combine XLTX to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

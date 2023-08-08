@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to BMP - Combine MHT to BMP via Python
 url: /python-net/merger/merge-mht-to-bmp/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to BMP saveformat. Python Combine MHT to BMP format. Combine MHT to BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine MHT to BMP saveformat via Python., Free Online Merge MHT to bmp in Python., Python Combine MHT to BMP format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. MHT Merge. Free Online Merge MHT to BMP Python. Python Merge MHT to BMP format. Combine MHT to BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., MHT Merge., Python Merge MHT to BMP., Free Online Merge MHT to bmp in Python., Python Combine MHT to BMP format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

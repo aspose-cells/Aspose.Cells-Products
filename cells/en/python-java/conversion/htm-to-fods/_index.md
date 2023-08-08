@@ -1,7 +1,7 @@
 ---
-title: HTM to FODS - Convert HTM to FODS Python via Python
-description: Aspose Excel. Free Online Convert HTM to FODS saveformat. Python HTM to FODS format. Save HTM as FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to FODS saveformat., Free Online HTM to FODS Converter]
+title: Python HTM to FODS - Convert HTM to FODS Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to FODS saveformat. Python HTM to FODS format. Save HTM to FODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to FODS saveformat., Free Online HTM to FODS Python., Python Convert HTM to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

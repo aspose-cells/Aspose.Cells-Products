@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to JPG - Combine JPG to JPG via Python
 url: /python-net/merger/merge-jpg-to-jpg/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to JPG saveformat. Python Combine JPG to JPG format. Combine JPG to JPG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine JPG to JPG saveformat via Python., Free Online Merge JPG to jpg in Python., Python Combine JPG to JPG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. JPG Merge. Free Online Merge JPG to JPG Python. Python Merge JPG to JPG format. Combine JPG to JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., JPG Merge., Python Merge JPG to JPG., Free Online Merge JPG to jpg in Python., Python Combine JPG to JPG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSB to XLAM - Convert XLSB to XLAM files C++
-description: Aspose Excel. Free Online Convert XLSB to XLAM saveformat. C++ XLSB to XLAM format. Save XLSB as XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XLAM saveformat., Free Online XLSB to XLAM Converter]
+title: C++ XLSB to XLAM - Online XLSB to XLAM Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to XLAM saveformat. C++ XLSB to XLAM format. Save XLSB to XLAM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to XLAM saveformat., Free Online XLSB to XLAM C++., C++ Convert XLSB to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

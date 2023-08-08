@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SQL - Combine FODS to SQL via C#
 url: /net/merger/merge-fods-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to SQL saveformat. C# Combine FODS to SQL format. Combine FODS to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine FODS to SQL saveformat via C#., Free Online Merge FODS to sql in C#., C# Combine FODS to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. FODS Merge. Free Online Merge FODS to SQL C#. C# Merge FODS to SQL format. Combine FODS to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., FODS Merge., C# Merge FODS to SQL., Free Online Merge FODS to sql in C#., C# Combine FODS to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

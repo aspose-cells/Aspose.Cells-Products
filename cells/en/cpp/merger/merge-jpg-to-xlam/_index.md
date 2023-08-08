@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XLAM - Combine JPG to XLAM via C++
 url: /cpp/merger/merge-jpg-to-xlam/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to XLAM saveformat. C++ Combine JPG to XLAM format. Combine JPG to XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine JPG to XLAM saveformat via C++., Free Online Merge JPG to xlam in C++., C++ Combine JPG to XLAM format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. JPG Merge. Free Online Merge JPG to XLAM C++. C++ Merge JPG to XLAM format. Combine JPG to XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., JPG Merge., C++ Merge JPG to XLAM., Free Online Merge JPG to xlam in C++., C++ Combine JPG to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

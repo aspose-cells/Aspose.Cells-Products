@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLAM - Combine MHTML to XLAM via C#
 url: /net/merger/merge-mhtml-to-xlam/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to XLAM saveformat. C# Combine MHTML to XLAM format. Combine MHTML to XLAM in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine MHTML to XLAM saveformat via C#., Free Online Merge MHTML to xlam in C#., C# Combine MHTML to XLAM format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. MHTML Merge. Free Online Merge MHTML to XLAM C#. C# Merge MHTML to XLAM format. Combine MHTML to XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., MHTML Merge., C# Merge MHTML to XLAM., Free Online Merge MHTML to xlam in C#., C# Combine MHTML to XLAM format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

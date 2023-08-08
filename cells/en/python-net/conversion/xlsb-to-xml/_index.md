@@ -1,7 +1,7 @@
 ---
-title: XLSB to XML - Convert XLSB to XML files Python via Python
-description: Aspose Excel. Free Online Convert XLSB to XML saveformat. Python XLSB to XML format. Save XLSB as XML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to XML saveformat., Free Online XLSB to XML Converter]
+title: Python XLSB to XML - Convert XLSB to XML Python via Python
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to XML saveformat. Python XLSB to XML format. Save XLSB to XML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XML saveformat., Free Online XLSB to XML Python., Python Convert XLSB to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

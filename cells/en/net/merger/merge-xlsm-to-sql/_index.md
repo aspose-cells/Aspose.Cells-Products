@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to SQL - Combine XLSM to SQL via C#
 url: /net/merger/merge-xlsm-to-sql/ 
-description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to SQL saveformat. C# Combine XLSM to SQL format. Combine XLSM to SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., Combine XLSM to SQL saveformat via C#., Free Online Merge XLSM to sql in C#., C# Combine XLSM to SQL format Online for Free]
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. XLSM Merge. Free Online Merge XLSM to SQL C#. C# Merge XLSM to SQL format. Combine XLSM to SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., XLSM Merge., C# Merge XLSM to SQL., Free Online Merge XLSM to sql in C#., C# Combine XLSM to SQL format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

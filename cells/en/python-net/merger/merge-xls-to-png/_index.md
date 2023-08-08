@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to PNG - Combine XLS to PNG via Python
 url: /python-net/merger/merge-xls-to-png/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to PNG saveformat. Python Combine XLS to PNG format. Combine XLS to PNG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLS to PNG saveformat via Python., Free Online Merge XLS to png in Python., Python Combine XLS to PNG format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLS Merge. Free Online Merge XLS to PNG Python. Python Merge XLS to PNG format. Combine XLS to PNG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLS Merge., Python Merge XLS to PNG., Free Online Merge XLS to png in Python., Python Combine XLS to PNG format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

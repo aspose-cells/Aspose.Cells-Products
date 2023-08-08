@@ -1,7 +1,7 @@
 ---
-title: JPG to XPS - Convert JPG to XPS files Java
-description: Aspose Excel. Free Online Convert JPG to XPS saveformat. Java JPG to XPS format. Save JPG as XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XPS saveformat., Free Online JPG to XPS Converter]
+title: Java JPG to XPS - Online JPG to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XPS saveformat. Java JPG to XPS format. Save JPG to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XPS saveformat., Free Online JPG to XPS Java., Java Convert JPG to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

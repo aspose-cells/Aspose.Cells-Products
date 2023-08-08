@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ET - Combine TABDELIMITED to ET via C++
 url: /cpp/merger/merge-tabdelimited-to-et/ 
-description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to ET saveformat. C++ Combine TABDELIMITED to ET format. Combine TABDELIMITED to ET in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., Combine TABDELIMITED to ET saveformat via C++., Free Online Merge TABDELIMITED to et in C++., C++ Combine TABDELIMITED to ET format Online for Free]
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. TABDELIMITED Merge. Free Online Merge TABDELIMITED to ET C++. C++ Merge TABDELIMITED to ET format. Combine TABDELIMITED to ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., TABDELIMITED Merge., C++ Merge TABDELIMITED to ET., Free Online Merge TABDELIMITED to et in C++., C++ Combine TABDELIMITED to ET format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

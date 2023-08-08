@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MD - Combine XLT to MD via Python
 url: /python-java/merger/merge-xlt-to-md/ 
-description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to MD saveformat. Python Combine XLT to MD format. Combine XLT to MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Combine XLT to MD saveformat via Python., Free Online Merge XLT to md in Python., Python Combine XLT to MD format Online for Free]
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. XLT Merge. Free Online Merge XLT to MD Python. Python Merge XLT to MD format. Combine XLT to MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., XLT Merge., Python Merge XLT to MD., Free Online Merge XLT to md in Python., Python Combine XLT to MD format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

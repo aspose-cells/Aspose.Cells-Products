@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SPREADSHEETML - Combine TXT to SPREADSHEETML via Java
 url: /java/merger/merge-txt-to-spreadsheetml/ 
-description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to SPREADSHEETML saveformat. Java Combine TXT to SPREADSHEETML format. Combine TXT to SPREADSHEETML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Combine TXT to SPREADSHEETML saveformat via Java., Free Online Merge TXT to spreadsheetml in Java., Java Combine TXT to SPREADSHEETML format Online for Free]
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. TXT Merge. Free Online Merge TXT to SPREADSHEETML Java. Java Merge TXT to SPREADSHEETML format. Combine TXT to SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., TXT Merge., Java Merge TXT to SPREADSHEETML., Free Online Merge TXT to spreadsheetml in Java., Java Combine TXT to SPREADSHEETML format Online for Free]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

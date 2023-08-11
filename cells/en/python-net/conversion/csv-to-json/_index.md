@@ -1,7 +1,7 @@
 ---
-title: Python CSV to JSON - Convert CSV to JSON Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert CSV to JSON saveformat. Python CSV to JSON format. Save CSV to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to JSON saveformat., Free Online CSV to JSON Python., Python Convert CSV to JSON]
+title: CSV to JSON - Convert CSV to JSON in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert CSV to JSON in Python. Python CSV to JSON format. Save CSV as JSON in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python CSV to JSON., Free Online Convert CSV to JSON in Python., Python Convert CSV to JSON., CSV to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

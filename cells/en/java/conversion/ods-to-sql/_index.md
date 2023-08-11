@@ -1,7 +1,7 @@
 ---
-title: Java ODS to SQL - Online ODS to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to SQL saveformat. Java ODS to SQL format. Save ODS to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to SQL saveformat., Free Online ODS to SQL Java., Java Convert ODS to SQL]
+title: ODS to SQL - Convert ODS to SQL in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to SQL in Java. Java ODS to SQL format. Save ODS as SQL in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to SQL., Free Online Convert ODS to SQL in Java., Java Convert ODS to SQL., ODS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

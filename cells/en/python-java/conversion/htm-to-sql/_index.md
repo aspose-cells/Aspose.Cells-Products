@@ -1,7 +1,7 @@
 ---
-title: Python HTM to SQL - Convert HTM to SQL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to SQL saveformat. Python HTM to SQL format. Save HTM to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to SQL saveformat., Free Online HTM to SQL Python., Python Convert HTM to SQL]
+title: HTM to SQL - Convert HTM to SQL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to SQL in Python. Python HTM to SQL format. Save HTM as SQL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to SQL., Free Online Convert HTM to SQL in Python., Python Convert HTM to SQL., HTM to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

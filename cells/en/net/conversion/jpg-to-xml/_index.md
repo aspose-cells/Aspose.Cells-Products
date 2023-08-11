@@ -1,7 +1,7 @@
 ---
-title: C# JPG to XML - Online JPG to XML Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to XML saveformat. C# JPG to XML format. Save JPG to XML C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to XML saveformat., Free Online JPG to XML C#., C# Convert JPG to XML]
+title: JPG to XML - Convert JPG to XML in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to XML in C#. C# JPG to XML format. Save JPG as XML in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to XML., Free Online Convert JPG to XML in C#., C# Convert JPG to XML., JPG to XML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

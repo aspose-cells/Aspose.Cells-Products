@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to ODS - Online XLSB to ODS Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to ODS saveformat. C# XLSB to ODS format. Save XLSB to ODS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to ODS saveformat., Free Online XLSB to ODS C#., C# Convert XLSB to ODS]
+title: XLSB to ODS - Convert XLSB to ODS in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to ODS in C#. C# XLSB to ODS format. Save XLSB as ODS in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to ODS., Free Online Convert XLSB to ODS in C#., C# Convert XLSB to ODS., XLSB to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

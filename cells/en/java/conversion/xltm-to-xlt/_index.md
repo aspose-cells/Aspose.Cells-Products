@@ -1,7 +1,7 @@
 ---
-title: Java XLTM to XLT - Online XLTM to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTM to XLT saveformat. Java XLTM to XLT format. Save XLTM to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTM to XLT saveformat., Free Online XLTM to XLT Java., Java Convert XLTM to XLT]
+title: XLTM to XLT - Convert XLTM to XLT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTM to XLT in Java. Java XLTM to XLT format. Save XLTM as XLT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTM to XLT., Free Online Convert XLTM to XLT in Java., Java Convert XLTM to XLT., XLTM to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

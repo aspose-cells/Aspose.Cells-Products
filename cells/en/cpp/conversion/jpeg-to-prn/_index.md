@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to PRN - Online JPEG to PRN Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to PRN saveformat. C++ JPEG to PRN format. Save JPEG to PRN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to PRN saveformat., Free Online JPEG to PRN C++., C++ Convert JPEG to PRN]
+title: JPEG to PRN - Convert JPEG to PRN in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to PRN in C++. C++ JPEG to PRN format. Save JPEG as PRN in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to PRN., Free Online Convert JPEG to PRN in C++., C++ Convert JPEG to PRN., JPEG to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

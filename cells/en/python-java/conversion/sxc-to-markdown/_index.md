@@ -1,7 +1,7 @@
 ---
-title: Python SXC to MARKDOWN - Convert SXC to MARKDOWN Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to MARKDOWN saveformat. Python SXC to MARKDOWN format. Save SXC to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MARKDOWN saveformat., Free Online SXC to MARKDOWN Python., Python Convert SXC to MARKDOWN]
+title: SXC to MARKDOWN - Convert SXC to MARKDOWN in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to MARKDOWN in Python. Python SXC to MARKDOWN format. Save SXC as MARKDOWN in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to MARKDOWN., Free Online Convert SXC to MARKDOWN in Python., Python Convert SXC to MARKDOWN., SXC to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

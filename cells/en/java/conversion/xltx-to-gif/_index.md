@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to GIF - Online XLTX to GIF Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to GIF saveformat. Java XLTX to GIF format. Save XLTX to GIF Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to GIF saveformat., Free Online XLTX to GIF Java., Java Convert XLTX to GIF]
+title: XLTX to GIF - Convert XLTX to GIF in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to GIF in Java. Java XLTX to GIF format. Save XLTX as GIF in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to GIF., Free Online Convert XLTX to GIF in Java., Java Convert XLTX to GIF., XLTX to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

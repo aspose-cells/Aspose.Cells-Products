@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM to GIF - Online XLSM to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to GIF saveformat. C++ XLSM to GIF format. Save XLSM to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to GIF saveformat., Free Online XLSM to GIF C++., C++ Convert XLSM to GIF]
+title: XLSM to GIF - Convert XLSM to GIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to GIF in C++. C++ XLSM to GIF format. Save XLSM as GIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to GIF., Free Online Convert XLSM to GIF in C++., C++ Convert XLSM to GIF., XLSM to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX to XLSB - Online XLTX to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTX to XLSB saveformat. C++ XLTX to XLSB format. Save XLTX to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to XLSB saveformat., Free Online XLTX to XLSB C++., C++ Convert XLTX to XLSB]
+title: XLTX to XLSB - Convert XLTX to XLSB in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to XLSB in C++. C++ XLTX to XLSB format. Save XLTX as XLSB in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to XLSB., Free Online Convert XLTX to XLSB in C++., C++ Convert XLTX to XLSB., XLTX to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

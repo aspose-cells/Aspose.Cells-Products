@@ -1,7 +1,7 @@
 ---
-title: C# XLTX to CSV - Online XLTX to CSV Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to CSV saveformat. C# XLTX to CSV format. Save XLTX to CSV C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to CSV saveformat., Free Online XLTX to CSV C#., C# Convert XLTX to CSV]
+title: XLTX to CSV - Convert XLTX to CSV in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLTX to CSV in C#. C# XLTX to CSV format. Save XLTX as CSV in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to CSV., Free Online Convert XLTX to CSV in C#., C# Convert XLTX to CSV., XLTX to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

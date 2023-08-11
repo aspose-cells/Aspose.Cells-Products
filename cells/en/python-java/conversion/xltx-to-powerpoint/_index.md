@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to POWERPOINT - Convert XLTX to POWERPOINT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to POWERPOINT saveformat. Python XLTX to POWERPOINT format. Save XLTX to POWERPOINT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to POWERPOINT saveformat., Free Online XLTX to POWERPOINT Python., Python Convert XLTX to POWERPOINT]
+title: XLTX to POWERPOINT - Convert XLTX to POWERPOINT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to POWERPOINT in Python. Python XLTX to POWERPOINT format. Save XLTX as POWERPOINT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to POWERPOINT., Free Online Convert XLTX to POWERPOINT in Python., Python Convert XLTX to POWERPOINT., XLTX to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

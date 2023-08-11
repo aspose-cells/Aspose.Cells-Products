@@ -1,7 +1,7 @@
 ---
-title: Python XML to DIF - Convert XML to DIF Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to DIF saveformat. Python XML to DIF format. Save XML to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to DIF saveformat., Free Online XML to DIF Python., Python Convert XML to DIF]
+title: XML to DIF - Convert XML to DIF in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XML to DIF in Python. Python XML to DIF format. Save XML as DIF in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XML to DIF., Free Online Convert XML to DIF in Python., Python Convert XML to DIF., XML to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python MHT to PRN - Convert MHT to PRN Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to PRN saveformat. Python MHT to PRN format. Save MHT to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to PRN saveformat., Free Online MHT to PRN Python., Python Convert MHT to PRN]
+title: MHT to PRN - Convert MHT to PRN in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to PRN in Python. Python MHT to PRN format. Save MHT as PRN in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to PRN., Free Online Convert MHT to PRN in Python., Python Convert MHT to PRN., MHT to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ MHT to TXT - Online MHT to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to TXT saveformat. C++ MHT to TXT format. Save MHT to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to TXT saveformat., Free Online MHT to TXT C++., C++ Convert MHT to TXT]
+title: MHT to TXT - Convert MHT to TXT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to TXT in C++. C++ MHT to TXT format. Save MHT as TXT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to TXT., Free Online Convert MHT to TXT in C++., C++ Convert MHT to TXT., MHT to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

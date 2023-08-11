@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to TIFF - Online JPEG to TIFF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to TIFF saveformat. C++ JPEG to TIFF format. Save JPEG to TIFF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to TIFF saveformat., Free Online JPEG to TIFF C++., C++ Convert JPEG to TIFF]
+title: JPEG to TIFF - Convert JPEG to TIFF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to TIFF in C++. C++ JPEG to TIFF format. Save JPEG as TIFF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to TIFF., Free Online Convert JPEG to TIFF in C++., C++ Convert JPEG to TIFF., JPEG to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

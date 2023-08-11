@@ -1,7 +1,7 @@
 ---
-title: C# TXT to XLT - Online TXT to XLT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to XLT saveformat. C# TXT to XLT format. Save TXT to XLT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to XLT saveformat., Free Online TXT to XLT C#., C# Convert TXT to XLT]
+title: TXT to XLT - Convert TXT to XLT in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to XLT in C#. C# TXT to XLT format. Save TXT as XLT in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to XLT., Free Online Convert TXT to XLT in C#., C# Convert TXT to XLT., TXT to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

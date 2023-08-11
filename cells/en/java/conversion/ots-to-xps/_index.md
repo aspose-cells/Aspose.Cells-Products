@@ -1,7 +1,7 @@
 ---
-title: Java OTS to XPS - Online OTS to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert OTS to XPS saveformat. Java OTS to XPS format. Save OTS to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java OTS to XPS saveformat., Free Online OTS to XPS Java., Java Convert OTS to XPS]
+title: OTS to XPS - Convert OTS to XPS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert OTS to XPS in Java. Java OTS to XPS format. Save OTS as XPS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to XPS., Free Online Convert OTS to XPS in Java., Java Convert OTS to XPS., OTS to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

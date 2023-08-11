@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to SQL - Online XLS to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to SQL saveformat. C++ XLS to SQL format. Save XLS to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to SQL saveformat., Free Online XLS to SQL C++., C++ Convert XLS to SQL]
+title: XLS to SQL - Convert XLS to SQL in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to SQL in C++. C++ XLS to SQL format. Save XLS as SQL in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to SQL., Free Online Convert XLS to SQL in C++., C++ Convert XLS to SQL., XLS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

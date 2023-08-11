@@ -1,7 +1,7 @@
 ---
-title: C++ EXCEL to XLS - Online EXCEL to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert EXCEL to XLS saveformat. C++ EXCEL to XLS format. Save EXCEL to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ EXCEL to XLS saveformat., Free Online EXCEL to XLS C++., C++ Convert EXCEL to XLS]
+title: EXCEL to XLS - Convert EXCEL to XLS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to XLS in C++. C++ EXCEL to XLS format. Save EXCEL as XLS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to XLS., Free Online Convert EXCEL to XLS in C++., C++ Convert EXCEL to XLS., EXCEL to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

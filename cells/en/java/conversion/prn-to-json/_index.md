@@ -1,7 +1,7 @@
 ---
-title: Java PRN to JSON - Online PRN to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert PRN to JSON saveformat. Java PRN to JSON format. Save PRN to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java PRN to JSON saveformat., Free Online PRN to JSON Java., Java Convert PRN to JSON]
+title: PRN to JSON - Convert PRN to JSON in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert PRN to JSON in Java. Java PRN to JSON format. Save PRN as JSON in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to JSON., Free Online Convert PRN to JSON in Java., Java Convert PRN to JSON., PRN to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

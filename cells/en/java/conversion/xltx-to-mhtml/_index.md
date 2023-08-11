@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to MHTML - Online XLTX to MHTML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to MHTML saveformat. Java XLTX to MHTML format. Save XLTX to MHTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to MHTML saveformat., Free Online XLTX to MHTML Java., Java Convert XLTX to MHTML]
+title: XLTX to MHTML - Convert XLTX to MHTML in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to MHTML in Java. Java XLTX to MHTML format. Save XLTX as MHTML in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to MHTML., Free Online Convert XLTX to MHTML in Java., Java Convert XLTX to MHTML., XLTX to MHTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

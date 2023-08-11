@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to EXCEL - Convert XLSB to EXCEL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to EXCEL saveformat. Python XLSB to EXCEL format. Save XLSB to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to EXCEL saveformat., Free Online XLSB to EXCEL Python., Python Convert XLSB to EXCEL]
+title: XLSB to EXCEL - Convert XLSB to EXCEL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to EXCEL in Python. Python XLSB to EXCEL format. Save XLSB as EXCEL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to EXCEL., Free Online Convert XLSB to EXCEL in Python., Python Convert XLSB to EXCEL., XLSB to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

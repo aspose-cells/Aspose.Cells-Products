@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to MD - Convert XLSB to MD Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to MD saveformat. Python XLSB to MD format. Save XLSB to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to MD saveformat., Free Online XLSB to MD Python., Python Convert XLSB to MD]
+title: XLSB to MD - Convert XLSB to MD in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to MD in Python. Python XLSB to MD format. Save XLSB as MD in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to MD., Free Online Convert XLSB to MD in Python., Python Convert XLSB to MD., XLSB to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

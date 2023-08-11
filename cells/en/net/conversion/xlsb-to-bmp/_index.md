@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to BMP - Online XLSB to BMP Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to BMP saveformat. C# XLSB to BMP format. Save XLSB to BMP C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to BMP saveformat., Free Online XLSB to BMP C#., C# Convert XLSB to BMP]
+title: XLSB to BMP - Convert XLSB to BMP in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to BMP in C#. C# XLSB to BMP format. Save XLSB as BMP in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to BMP., Free Online Convert XLSB to BMP in C#., C# Convert XLSB to BMP., XLSB to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

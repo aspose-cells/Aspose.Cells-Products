@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to OTS - Online XLSX to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to OTS saveformat. Java XLSX to OTS format. Save XLSX to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to OTS saveformat., Free Online XLSX to OTS Java., Java Convert XLSX to OTS]
+title: XLSX to OTS - Convert XLSX to OTS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to OTS in Java. Java XLSX to OTS format. Save XLSX as OTS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to OTS., Free Online Convert XLSX to OTS in Java., Java Convert XLSX to OTS., XLSX to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ FODS to MD - Online FODS to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert FODS to MD saveformat. C++ FODS to MD format. Save FODS to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to MD saveformat., Free Online FODS to MD C++., C++ Convert FODS to MD]
+title: FODS to MD - Convert FODS to MD in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to MD in C++. C++ FODS to MD format. Save FODS as MD in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to MD., Free Online Convert FODS to MD in C++., C++ Convert FODS to MD., FODS to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

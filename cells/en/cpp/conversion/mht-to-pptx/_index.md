@@ -1,7 +1,7 @@
 ---
-title: C++ MHT to PPTX - Online MHT to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to PPTX saveformat. C++ MHT to PPTX format. Save MHT to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to PPTX saveformat., Free Online MHT to PPTX C++., C++ Convert MHT to PPTX]
+title: MHT to PPTX - Convert MHT to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to PPTX in C++. C++ MHT to PPTX format. Save MHT as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to PPTX., Free Online Convert MHT to PPTX in C++., C++ Convert MHT to PPTX., MHT to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

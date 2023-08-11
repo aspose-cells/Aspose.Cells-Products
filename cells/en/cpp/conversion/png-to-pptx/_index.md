@@ -1,7 +1,7 @@
 ---
-title: C++ PNG to PPTX - Online PNG to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to PPTX saveformat. C++ PNG to PPTX format. Save PNG to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to PPTX saveformat., Free Online PNG to PPTX C++., C++ Convert PNG to PPTX]
+title: PNG to PPTX - Convert PNG to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PNG to PPTX in C++. C++ PNG to PPTX format. Save PNG as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to PPTX., Free Online Convert PNG to PPTX in C++., C++ Convert PNG to PPTX., PNG to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

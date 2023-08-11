@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to ETT - Online XLSB to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to ETT saveformat. C++ XLSB to ETT format. Save XLSB to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to ETT saveformat., Free Online XLSB to ETT C++., C++ Convert XLSB to ETT]
+title: XLSB to ETT - Convert XLSB to ETT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to ETT in C++. C++ XLSB to ETT format. Save XLSB as ETT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to ETT., Free Online Convert XLSB to ETT in C++., C++ Convert XLSB to ETT., XLSB to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

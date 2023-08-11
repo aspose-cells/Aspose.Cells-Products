@@ -1,7 +1,7 @@
 ---
-title: C++ FODS to XLSB - Online FODS to XLSB Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert FODS to XLSB saveformat. C++ FODS to XLSB format. Save FODS to XLSB C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to XLSB saveformat., Free Online FODS to XLSB C++., C++ Convert FODS to XLSB]
+title: FODS to XLSB - Convert FODS to XLSB in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to XLSB in C++. C++ FODS to XLSB format. Save FODS as XLSB in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to XLSB., Free Online Convert FODS to XLSB in C++., C++ Convert FODS to XLSB., FODS to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

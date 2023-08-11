@@ -1,7 +1,7 @@
 ---
-title: C++ XLT to FODS - Online XLT to FODS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLT to FODS saveformat. C++ XLT to FODS format. Save XLT to FODS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to FODS saveformat., Free Online XLT to FODS C++., C++ Convert XLT to FODS]
+title: XLT to FODS - Convert XLT to FODS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to FODS in C++. C++ XLT to FODS format. Save XLT as FODS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to FODS., Free Online Convert XLT to FODS in C++., C++ Convert XLT to FODS., XLT to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

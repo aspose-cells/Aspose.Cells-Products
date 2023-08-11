@@ -1,7 +1,7 @@
 ---
-title: C++ SXC to ET - Online SXC to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to ET saveformat. C++ SXC to ET format. Save SXC to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to ET saveformat., Free Online SXC to ET C++., C++ Convert SXC to ET]
+title: SXC to ET - Convert SXC to ET in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to ET in C++. C++ SXC to ET format. Save SXC as ET in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to ET., Free Online Convert SXC to ET in C++., C++ Convert SXC to ET., SXC to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

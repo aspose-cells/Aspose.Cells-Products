@@ -1,7 +1,7 @@
 ---
-title: Java MHT to XLAM - Online MHT to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to XLAM saveformat. Java MHT to XLAM format. Save MHT to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XLAM saveformat., Free Online MHT to XLAM Java., Java Convert MHT to XLAM]
+title: MHT to XLAM - Convert MHT to XLAM in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to XLAM in Java. Java MHT to XLAM format. Save MHT as XLAM in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to XLAM., Free Online Convert MHT to XLAM in Java., Java Convert MHT to XLAM., MHT to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

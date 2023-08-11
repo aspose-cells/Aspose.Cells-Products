@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to MARKDOWN - Online JPG to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to MARKDOWN saveformat. C++ JPG to MARKDOWN format. Save JPG to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to MARKDOWN saveformat., Free Online JPG to MARKDOWN C++., C++ Convert JPG to MARKDOWN]
+title: JPG to MARKDOWN - Convert JPG to MARKDOWN in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to MARKDOWN in C++. C++ JPG to MARKDOWN format. Save JPG as MARKDOWN in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to MARKDOWN., Free Online Convert JPG to MARKDOWN in C++., C++ Convert JPG to MARKDOWN., JPG to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

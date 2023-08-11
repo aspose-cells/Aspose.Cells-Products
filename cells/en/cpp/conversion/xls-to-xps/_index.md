@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to XPS - Online XLS to XPS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to XPS saveformat. C++ XLS to XPS format. Save XLS to XPS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to XPS saveformat., Free Online XLS to XPS C++., C++ Convert XLS to XPS]
+title: XLS to XPS - Convert XLS to XPS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to XPS in C++. C++ XLS to XPS format. Save XLS as XPS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to XPS., Free Online Convert XLS to XPS in C++., C++ Convert XLS to XPS., XLS to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

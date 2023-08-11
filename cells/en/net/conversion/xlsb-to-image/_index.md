@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to IMAGE - Online XLSB to IMAGE Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to IMAGE saveformat. C# XLSB to IMAGE format. Save XLSB to IMAGE C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to IMAGE saveformat., Free Online XLSB to IMAGE C#., C# Convert XLSB to IMAGE]
+title: XLSB to IMAGE - Convert XLSB to IMAGE in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to IMAGE in C#. C# XLSB to IMAGE format. Save XLSB as IMAGE in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to IMAGE., Free Online Convert XLSB to IMAGE in C#., C# Convert XLSB to IMAGE., XLSB to IMAGE Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

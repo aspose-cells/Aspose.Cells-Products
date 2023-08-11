@@ -1,7 +1,7 @@
 ---
-title: C# TXT to PPTX - Online TXT to PPTX Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to PPTX saveformat. C# TXT to PPTX format. Save TXT to PPTX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to PPTX saveformat., Free Online TXT to PPTX C#., C# Convert TXT to PPTX]
+title: TXT to PPTX - Convert TXT to PPTX in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to PPTX in C#. C# TXT to PPTX format. Save TXT as PPTX in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to PPTX., Free Online Convert TXT to PPTX in C#., C# Convert TXT to PPTX., TXT to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

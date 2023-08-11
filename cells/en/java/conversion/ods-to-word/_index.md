@@ -1,7 +1,7 @@
 ---
-title: Java ODS to WORD - Online ODS to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to WORD saveformat. Java ODS to WORD format. Save ODS to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to WORD saveformat., Free Online ODS to WORD Java., Java Convert ODS to WORD]
+title: ODS to WORD - Convert ODS to WORD in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to WORD in Java. Java ODS to WORD format. Save ODS as WORD in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to WORD., Free Online Convert ODS to WORD in Java., Java Convert ODS to WORD., ODS to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

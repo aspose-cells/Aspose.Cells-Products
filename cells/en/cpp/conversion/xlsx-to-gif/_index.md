@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX to GIF - Online XLSX to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSX to GIF saveformat. C++ XLSX to GIF format. Save XLSX to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to GIF saveformat., Free Online XLSX to GIF C++., C++ Convert XLSX to GIF]
+title: XLSX to GIF - Convert XLSX to GIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to GIF in C++. C++ XLSX to GIF format. Save XLSX as GIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to GIF., Free Online Convert XLSX to GIF in C++., C++ Convert XLSX to GIF., XLSX to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

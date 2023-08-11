@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to NUMBERS - Online JPEG to NUMBERS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to NUMBERS saveformat. C++ JPEG to NUMBERS format. Save JPEG to NUMBERS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to NUMBERS saveformat., Free Online JPEG to NUMBERS C++., C++ Convert JPEG to NUMBERS]
+title: JPEG to NUMBERS - Convert JPEG to NUMBERS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to NUMBERS in C++. C++ JPEG to NUMBERS format. Save JPEG as NUMBERS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to NUMBERS., Free Online Convert JPEG to NUMBERS in C++., C++ Convert JPEG to NUMBERS., JPEG to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

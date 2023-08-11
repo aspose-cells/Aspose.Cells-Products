@@ -1,7 +1,7 @@
 ---
-title: Python MHT to XLSB - Convert MHT to XLSB Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to XLSB saveformat. Python MHT to XLSB format. Save MHT to XLSB Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to XLSB saveformat., Free Online MHT to XLSB Python., Python Convert MHT to XLSB]
+title: MHT to XLSB - Convert MHT to XLSB in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to XLSB in Python. Python MHT to XLSB format. Save MHT as XLSB in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to XLSB., Free Online Convert MHT to XLSB in Python., Python Convert MHT to XLSB., MHT to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

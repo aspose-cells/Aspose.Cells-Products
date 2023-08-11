@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to MHTML - Online TXT to MHTML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to MHTML saveformat. C++ TXT to MHTML format. Save TXT to MHTML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to MHTML saveformat., Free Online TXT to MHTML C++., C++ Convert TXT to MHTML]
+title: TXT to MHTML - Convert TXT to MHTML in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to MHTML in C++. C++ TXT to MHTML format. Save TXT as MHTML in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to MHTML., Free Online Convert TXT to MHTML in C++., C++ Convert TXT to MHTML., TXT to MHTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

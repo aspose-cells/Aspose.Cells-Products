@@ -1,7 +1,7 @@
 ---
-title: Java HTML to XPS - Online HTML to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to XPS saveformat. Java HTML to XPS format. Save HTML to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to XPS saveformat., Free Online HTML to XPS Java., Java Convert HTML to XPS]
+title: HTML to XPS - Convert HTML to XPS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTML to XPS in Java. Java HTML to XPS format. Save HTML as XPS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to XPS., Free Online Convert HTML to XPS in Java., Java Convert HTML to XPS., HTML to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

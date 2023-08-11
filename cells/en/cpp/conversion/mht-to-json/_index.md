@@ -1,7 +1,7 @@
 ---
-title: C++ MHT to JSON - Online MHT to JSON Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to JSON saveformat. C++ MHT to JSON format. Save MHT to JSON C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to JSON saveformat., Free Online MHT to JSON C++., C++ Convert MHT to JSON]
+title: MHT to JSON - Convert MHT to JSON in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to JSON in C++. C++ MHT to JSON format. Save MHT as JSON in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to JSON., Free Online Convert MHT to JSON in C++., C++ Convert MHT to JSON., MHT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

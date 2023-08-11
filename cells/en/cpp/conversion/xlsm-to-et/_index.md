@@ -1,7 +1,7 @@
 ---
-title: C++ XLSM to ET - Online XLSM to ET Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to ET saveformat. C++ XLSM to ET format. Save XLSM to ET C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to ET saveformat., Free Online XLSM to ET C++., C++ Convert XLSM to ET]
+title: XLSM to ET - Convert XLSM to ET in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to ET in C++. C++ XLSM to ET format. Save XLSM as ET in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to ET., Free Online Convert XLSM to ET in C++., C++ Convert XLSM to ET., XLSM to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

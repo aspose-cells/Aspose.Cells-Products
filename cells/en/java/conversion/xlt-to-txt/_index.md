@@ -1,7 +1,7 @@
 ---
-title: Java XLT to TXT - Online XLT to TXT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLT to TXT saveformat. Java XLT to TXT format. Save XLT to TXT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLT to TXT saveformat., Free Online XLT to TXT Java., Java Convert XLT to TXT]
+title: XLT to TXT - Convert XLT to TXT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLT to TXT in Java. Java XLT to TXT format. Save XLT as TXT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to TXT., Free Online Convert XLT to TXT in Java., Java Convert XLT to TXT., XLT to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

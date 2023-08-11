@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to SVG - Online TXT to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to SVG saveformat. C++ TXT to SVG format. Save TXT to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to SVG saveformat., Free Online TXT to SVG C++., C++ Convert TXT to SVG]
+title: TXT to SVG - Convert TXT to SVG in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to SVG in C++. C++ TXT to SVG format. Save TXT as SVG in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to SVG., Free Online Convert TXT to SVG in C++., C++ Convert TXT to SVG., TXT to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

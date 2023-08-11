@@ -1,7 +1,7 @@
 ---
-title: C# XML to TXT - Online XML to TXT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XML to TXT saveformat. C# XML to TXT format. Save XML to TXT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XML to TXT saveformat., Free Online XML to TXT C#., C# Convert XML to TXT]
+title: XML to TXT - Convert XML to TXT in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XML to TXT in C#. C# XML to TXT format. Save XML as TXT in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XML to TXT., Free Online Convert XML to TXT in C#., C# Convert XML to TXT., XML to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

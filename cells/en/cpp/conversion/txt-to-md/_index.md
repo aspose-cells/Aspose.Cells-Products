@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to MD - Online TXT to MD Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to MD saveformat. C++ TXT to MD format. Save TXT to MD C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to MD saveformat., Free Online TXT to MD C++., C++ Convert TXT to MD]
+title: TXT to MD - Convert TXT to MD in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to MD in C++. C++ TXT to MD format. Save TXT as MD in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to MD., Free Online Convert TXT to MD in C++., C++ Convert TXT to MD., TXT to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

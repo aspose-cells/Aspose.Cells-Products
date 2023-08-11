@@ -1,7 +1,7 @@
 ---
-title: Java JPG to CSV - Online JPG to CSV Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to CSV saveformat. Java JPG to CSV format. Save JPG to CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to CSV saveformat., Free Online JPG to CSV Java., Java Convert JPG to CSV]
+title: JPG to CSV - Convert JPG to CSV in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to CSV in Java. Java JPG to CSV format. Save JPG as CSV in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to CSV., Free Online Convert JPG to CSV in Java., Java Convert JPG to CSV., JPG to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to DOCX - Online JPG to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to DOCX saveformat. C++ JPG to DOCX format. Save JPG to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to DOCX saveformat., Free Online JPG to DOCX C++., C++ Convert JPG to DOCX]
+title: JPG to DOCX - Convert JPG to DOCX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to DOCX in C++. C++ JPG to DOCX format. Save JPG as DOCX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to DOCX., Free Online Convert JPG to DOCX in C++., C++ Convert JPG to DOCX., JPG to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

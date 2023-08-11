@@ -1,7 +1,7 @@
 ---
-title: C++ PRN to PPTX - Online PRN to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PRN to PPTX saveformat. C++ PRN to PPTX format. Save PRN to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to PPTX saveformat., Free Online PRN to PPTX C++., C++ Convert PRN to PPTX]
+title: PRN to PPTX - Convert PRN to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PRN to PPTX in C++. C++ PRN to PPTX format. Save PRN as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to PPTX., Free Online Convert PRN to PPTX in C++., C++ Convert PRN to PPTX., PRN to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

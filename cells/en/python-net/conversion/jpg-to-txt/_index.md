@@ -1,7 +1,7 @@
 ---
-title: Python JPG to TXT - Convert JPG to TXT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to TXT saveformat. Python JPG to TXT format. Save JPG to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to TXT saveformat., Free Online JPG to TXT Python., Python Convert JPG to TXT]
+title: JPG to TXT - Convert JPG to TXT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to TXT in Python. Python JPG to TXT format. Save JPG as TXT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to TXT., Free Online Convert JPG to TXT in Python., Python Convert JPG to TXT., JPG to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

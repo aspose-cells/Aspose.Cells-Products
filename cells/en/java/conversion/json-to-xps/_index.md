@@ -1,7 +1,7 @@
 ---
-title: Java JSON to XPS - Online JSON to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JSON to XPS saveformat. Java JSON to XPS format. Save JSON to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JSON to XPS saveformat., Free Online JSON to XPS Java., Java Convert JSON to XPS]
+title: JSON to XPS - Convert JSON to XPS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JSON to XPS in Java. Java JSON to XPS format. Save JSON as XPS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to XPS., Free Online Convert JSON to XPS in Java., Java Convert JSON to XPS., JSON to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

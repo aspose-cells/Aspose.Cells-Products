@@ -1,7 +1,7 @@
 ---
-title: Java XML to SVG - Online XML to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to SVG saveformat. Java XML to SVG format. Save XML to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to SVG saveformat., Free Online XML to SVG Java., Java Convert XML to SVG]
+title: XML to SVG - Convert XML to SVG in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to SVG in Java. Java XML to SVG format. Save XML as SVG in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to SVG., Free Online Convert XML to SVG in Java., Java Convert XML to SVG., XML to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

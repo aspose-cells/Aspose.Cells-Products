@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to JSON - Online JPEG to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to JSON saveformat. Java JPEG to JSON format. Save JPEG to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to JSON saveformat., Free Online JPEG to JSON Java., Java Convert JPEG to JSON]
+title: JPEG to JSON - Convert JPEG to JSON in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to JSON in Java. Java JPEG to JSON format. Save JPEG as JSON in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to JSON., Free Online Convert JPEG to JSON in Java., Java Convert JPEG to JSON., JPEG to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

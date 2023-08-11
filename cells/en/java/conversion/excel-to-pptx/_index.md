@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to PPTX - Online EXCEL to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to PPTX saveformat. Java EXCEL to PPTX format. Save EXCEL to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to PPTX saveformat., Free Online EXCEL to PPTX Java., Java Convert EXCEL to PPTX]
+title: EXCEL to PPTX - Convert EXCEL to PPTX in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to PPTX in Java. Java EXCEL to PPTX format. Save EXCEL as PPTX in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to PPTX., Free Online Convert EXCEL to PPTX in Java., Java Convert EXCEL to PPTX., EXCEL to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

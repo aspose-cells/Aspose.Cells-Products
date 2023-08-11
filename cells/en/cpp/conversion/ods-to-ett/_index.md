@@ -1,7 +1,7 @@
 ---
-title: C++ ODS to ETT - Online ODS to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert ODS to ETT saveformat. C++ ODS to ETT format. Save ODS to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ ODS to ETT saveformat., Free Online ODS to ETT C++., C++ Convert ODS to ETT]
+title: ODS to ETT - Convert ODS to ETT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert ODS to ETT in C++. C++ ODS to ETT format. Save ODS as ETT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ ODS to ETT., Free Online Convert ODS to ETT in C++., C++ Convert ODS to ETT., ODS to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLSB to XLTX - Online XLSB to XLTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to XLTX saveformat. Java XLSB to XLTX format. Save XLSB to XLTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to XLTX saveformat., Free Online XLSB to XLTX Java., Java Convert XLSB to XLTX]
+title: XLSB to XLTX - Convert XLSB to XLTX in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to XLTX in Java. Java XLSB to XLTX format. Save XLSB as XLTX in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to XLTX., Free Online Convert XLSB to XLTX in Java., Java Convert XLSB to XLTX., XLSB to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

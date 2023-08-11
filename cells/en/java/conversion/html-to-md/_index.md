@@ -1,7 +1,7 @@
 ---
-title: Java HTML to MD - Online HTML to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to MD saveformat. Java HTML to MD format. Save HTML to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to MD saveformat., Free Online HTML to MD Java., Java Convert HTML to MD]
+title: HTML to MD - Convert HTML to MD in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTML to MD in Java. Java HTML to MD format. Save HTML as MD in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to MD., Free Online Convert HTML to MD in Java., Java Convert HTML to MD., HTML to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

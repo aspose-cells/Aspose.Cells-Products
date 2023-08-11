@@ -1,7 +1,7 @@
 ---
-title: Python XLSB to TXT - Convert XLSB to TXT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to TXT saveformat. Python XLSB to TXT format. Save XLSB to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to TXT saveformat., Free Online XLSB to TXT Python., Python Convert XLSB to TXT]
+title: XLSB to TXT - Convert XLSB to TXT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to TXT in Python. Python XLSB to TXT format. Save XLSB as TXT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to TXT., Free Online Convert XLSB to TXT in Python., Python Convert XLSB to TXT., XLSB to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

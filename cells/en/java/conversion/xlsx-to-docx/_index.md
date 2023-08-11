@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to DOCX - Online XLSX to DOCX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to DOCX saveformat. Java XLSX to DOCX format. Save XLSX to DOCX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to DOCX saveformat., Free Online XLSX to DOCX Java., Java Convert XLSX to DOCX]
+title: XLSX to DOCX - Convert XLSX to DOCX in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to DOCX in Java. Java XLSX to DOCX format. Save XLSX as DOCX in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to DOCX., Free Online Convert XLSX to DOCX in Java., Java Convert XLSX to DOCX., XLSX to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

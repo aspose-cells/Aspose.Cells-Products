@@ -1,7 +1,7 @@
 ---
-title: C# XLS to JPG - Online XLS to JPG Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLS to JPG saveformat. C# XLS to JPG format. Save XLS to JPG C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLS to JPG saveformat., Free Online XLS to JPG C#., C# Convert XLS to JPG]
+title: XLS to JPG - Convert XLS to JPG in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLS to JPG in C#. C# XLS to JPG format. Save XLS as JPG in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to JPG., Free Online Convert XLS to JPG in C#., C# Convert XLS to JPG., XLS to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

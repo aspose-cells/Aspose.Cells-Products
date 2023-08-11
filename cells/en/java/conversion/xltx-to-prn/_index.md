@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to PRN - Online XLTX to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PRN saveformat. Java XLTX to PRN format. Save XLTX to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PRN saveformat., Free Online XLTX to PRN Java., Java Convert XLTX to PRN]
+title: XLTX to PRN - Convert XLTX to PRN in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to PRN in Java. Java XLTX to PRN format. Save XLTX as PRN in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to PRN., Free Online Convert XLTX to PRN in Java., Java Convert XLTX to PRN., XLTX to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

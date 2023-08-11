@@ -1,7 +1,7 @@
 ---
-title: Python TSV to ETT - Convert TSV to ETT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TSV to ETT saveformat. Python TSV to ETT format. Save TSV to ETT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to ETT saveformat., Free Online TSV to ETT Python., Python Convert TSV to ETT]
+title: TSV to ETT - Convert TSV to ETT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TSV to ETT in Python. Python TSV to ETT format. Save TSV as ETT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to ETT., Free Online Convert TSV to ETT in Python., Python Convert TSV to ETT., TSV to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

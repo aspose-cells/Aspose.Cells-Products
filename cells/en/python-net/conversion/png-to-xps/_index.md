@@ -1,7 +1,7 @@
 ---
-title: Python PNG to XPS - Convert PNG to XPS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to XPS saveformat. Python PNG to XPS format. Save PNG to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to XPS saveformat., Free Online PNG to XPS Python., Python Convert PNG to XPS]
+title: PNG to XPS - Convert PNG to XPS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to XPS in Python. Python PNG to XPS format. Save PNG as XPS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to XPS., Free Online Convert PNG to XPS in Python., Python Convert PNG to XPS., PNG to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

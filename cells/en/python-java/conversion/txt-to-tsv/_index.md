@@ -1,7 +1,7 @@
 ---
-title: Python TXT to TSV - Convert TXT to TSV Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to TSV saveformat. Python TXT to TSV format. Save TXT to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to TSV saveformat., Free Online TXT to TSV Python., Python Convert TXT to TSV]
+title: TXT to TSV - Convert TXT to TSV in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to TSV in Python. Python TXT to TSV format. Save TXT as TSV in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to TSV., Free Online Convert TXT to TSV in Python., Python Convert TXT to TSV., TXT to TSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java ODS to OTS - Online ODS to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to OTS saveformat. Java ODS to OTS format. Save ODS to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to OTS saveformat., Free Online ODS to OTS Java., Java Convert ODS to OTS]
+title: ODS to OTS - Convert ODS to OTS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to OTS in Java. Java ODS to OTS format. Save ODS as OTS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to OTS., Free Online Convert ODS to OTS in Java., Java Convert ODS to OTS., ODS to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

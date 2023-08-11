@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX to DIF - Online XLSX to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSX to DIF saveformat. C++ XLSX to DIF format. Save XLSX to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to DIF saveformat., Free Online XLSX to DIF C++., C++ Convert XLSX to DIF]
+title: XLSX to DIF - Convert XLSX to DIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to DIF in C++. C++ XLSX to DIF format. Save XLSX as DIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to DIF., Free Online Convert XLSX to DIF in C++., C++ Convert XLSX to DIF., XLSX to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

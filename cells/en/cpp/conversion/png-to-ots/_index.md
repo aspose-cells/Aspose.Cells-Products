@@ -1,7 +1,7 @@
 ---
-title: C++ PNG to OTS - Online PNG to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to OTS saveformat. C++ PNG to OTS format. Save PNG to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to OTS saveformat., Free Online PNG to OTS C++., C++ Convert PNG to OTS]
+title: PNG to OTS - Convert PNG to OTS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PNG to OTS in C++. C++ PNG to OTS format. Save PNG as OTS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to OTS., Free Online Convert PNG to OTS in C++., C++ Convert PNG to OTS., PNG to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

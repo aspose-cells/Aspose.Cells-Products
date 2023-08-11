@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to BMP - Online XLS to BMP Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to BMP saveformat. C++ XLS to BMP format. Save XLS to BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to BMP saveformat., Free Online XLS to BMP C++., C++ Convert XLS to BMP]
+title: XLS to BMP - Convert XLS to BMP in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to BMP in C++. C++ XLS to BMP format. Save XLS as BMP in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to BMP., Free Online Convert XLS to BMP in C++., C++ Convert XLS to BMP., XLS to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

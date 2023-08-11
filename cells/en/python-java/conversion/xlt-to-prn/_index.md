@@ -1,7 +1,7 @@
 ---
-title: Python XLT to PRN - Convert XLT to PRN Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to PRN saveformat. Python XLT to PRN format. Save XLT to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to PRN saveformat., Free Online XLT to PRN Python., Python Convert XLT to PRN]
+title: XLT to PRN - Convert XLT to PRN in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLT to PRN in Python. Python XLT to PRN format. Save XLT as PRN in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLT to PRN., Free Online Convert XLT to PRN in Python., Python Convert XLT to PRN., XLT to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

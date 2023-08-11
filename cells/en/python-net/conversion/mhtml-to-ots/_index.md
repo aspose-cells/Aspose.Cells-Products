@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to OTS - Convert MHTML to OTS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to OTS saveformat. Python MHTML to OTS format. Save MHTML to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to OTS saveformat., Free Online MHTML to OTS Python., Python Convert MHTML to OTS]
+title: MHTML to OTS - Convert MHTML to OTS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to OTS in Python. Python MHTML to OTS format. Save MHTML as OTS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to OTS., Free Online Convert MHTML to OTS in Python., Python Convert MHTML to OTS., MHTML to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

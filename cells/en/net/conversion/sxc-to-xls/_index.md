@@ -1,7 +1,7 @@
 ---
-title: C# SXC to XLS - Online SXC to XLS Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert SXC to XLS saveformat. C# SXC to XLS format. Save SXC to XLS C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# SXC to XLS saveformat., Free Online SXC to XLS C#., C# Convert SXC to XLS]
+title: SXC to XLS - Convert SXC to XLS in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to XLS in C#. C# SXC to XLS format. Save SXC as XLS in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to XLS., Free Online Convert SXC to XLS in C#., C# Convert SXC to XLS., SXC to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

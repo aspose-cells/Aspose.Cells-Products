@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX to PDF - Online XLTX to PDF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTX to PDF saveformat. C++ XLTX to PDF format. Save XLTX to PDF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to PDF saveformat., Free Online XLTX to PDF C++., C++ Convert XLTX to PDF]
+title: XLTX to PDF - Convert XLTX to PDF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to PDF in C++. C++ XLTX to PDF format. Save XLTX as PDF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to PDF., Free Online Convert XLTX to PDF in C++., C++ Convert XLTX to PDF., XLTX to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

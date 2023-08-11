@@ -1,7 +1,7 @@
 ---
-title: Python PNG to MHT - Convert PNG to MHT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to MHT saveformat. Python PNG to MHT format. Save PNG to MHT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MHT saveformat., Free Online PNG to MHT Python., Python Convert PNG to MHT]
+title: PNG to MHT - Convert PNG to MHT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to MHT in Python. Python PNG to MHT format. Save PNG as MHT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to MHT., Free Online Convert PNG to MHT in Python., Python Convert PNG to MHT., PNG to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

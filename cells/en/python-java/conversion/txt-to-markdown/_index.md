@@ -1,7 +1,7 @@
 ---
-title: Python TXT to MARKDOWN - Convert TXT to MARKDOWN Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to MARKDOWN saveformat. Python TXT to MARKDOWN format. Save TXT to MARKDOWN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN Python., Python Convert TXT to MARKDOWN]
+title: TXT to MARKDOWN - Convert TXT to MARKDOWN in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to MARKDOWN in Python. Python TXT to MARKDOWN format. Save TXT as MARKDOWN in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to MARKDOWN., Free Online Convert TXT to MARKDOWN in Python., Python Convert TXT to MARKDOWN., TXT to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

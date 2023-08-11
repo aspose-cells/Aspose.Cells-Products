@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to GIF - Online TXT to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to GIF saveformat. C++ TXT to GIF format. Save TXT to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to GIF saveformat., Free Online TXT to GIF C++., C++ Convert TXT to GIF]
+title: TXT to GIF - Convert TXT to GIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to GIF in C++. C++ TXT to GIF format. Save TXT as GIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to GIF., Free Online Convert TXT to GIF in C++., C++ Convert TXT to GIF., TXT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

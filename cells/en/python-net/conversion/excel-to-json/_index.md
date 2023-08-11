@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL to JSON - Convert EXCEL to JSON Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to JSON saveformat. Python EXCEL to JSON format. Save EXCEL to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to JSON saveformat., Free Online EXCEL to JSON Python., Python Convert EXCEL to JSON]
+title: EXCEL to JSON - Convert EXCEL to JSON in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to JSON in Python. Python EXCEL to JSON format. Save EXCEL as JSON in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to JSON., Free Online Convert EXCEL to JSON in Python., Python Convert EXCEL to JSON., EXCEL to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

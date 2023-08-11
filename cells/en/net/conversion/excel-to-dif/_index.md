@@ -1,7 +1,7 @@
 ---
-title: C# EXCEL to DIF - Online EXCEL to DIF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert EXCEL to DIF saveformat. C# EXCEL to DIF format. Save EXCEL to DIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# EXCEL to DIF saveformat., Free Online EXCEL to DIF C#., C# Convert EXCEL to DIF]
+title: EXCEL to DIF - Convert EXCEL to DIF in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert EXCEL to DIF in C#. C# EXCEL to DIF format. Save EXCEL as DIF in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# EXCEL to DIF., Free Online Convert EXCEL to DIF in C#., C# Convert EXCEL to DIF., EXCEL to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

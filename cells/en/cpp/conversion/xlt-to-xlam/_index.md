@@ -1,7 +1,7 @@
 ---
-title: C++ XLT to XLAM - Online XLT to XLAM Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLT to XLAM saveformat. C++ XLT to XLAM format. Save XLT to XLAM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLT to XLAM saveformat., Free Online XLT to XLAM C++., C++ Convert XLT to XLAM]
+title: XLT to XLAM - Convert XLT to XLAM in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to XLAM in C++. C++ XLT to XLAM format. Save XLT as XLAM in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to XLAM., Free Online Convert XLT to XLAM in C++., C++ Convert XLT to XLAM., XLT to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

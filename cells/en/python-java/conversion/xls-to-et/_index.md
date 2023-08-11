@@ -1,7 +1,7 @@
 ---
-title: Python XLS to ET - Convert XLS to ET Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to ET saveformat. Python XLS to ET format. Save XLS to ET Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to ET saveformat., Free Online XLS to ET Python., Python Convert XLS to ET]
+title: XLS to ET - Convert XLS to ET in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLS to ET in Python. Python XLS to ET format. Save XLS as ET in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to ET., Free Online Convert XLS to ET in Python., Python Convert XLS to ET., XLS to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to XLT - Online XLSX to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to XLT saveformat. Java XLSX to XLT format. Save XLSX to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to XLT saveformat., Free Online XLSX to XLT Java., Java Convert XLSX to XLT]
+title: XLSX to XLT - Convert XLSX to XLT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to XLT in Java. Java XLSX to XLT format. Save XLSX as XLT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to XLT., Free Online Convert XLSX to XLT in Java., Java Convert XLSX to XLT., XLSX to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

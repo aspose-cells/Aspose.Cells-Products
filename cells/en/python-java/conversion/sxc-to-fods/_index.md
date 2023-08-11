@@ -1,7 +1,7 @@
 ---
-title: Python SXC to FODS - Convert SXC to FODS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to FODS saveformat. Python SXC to FODS format. Save SXC to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to FODS saveformat., Free Online SXC to FODS Python., Python Convert SXC to FODS]
+title: SXC to FODS - Convert SXC to FODS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to FODS in Python. Python SXC to FODS format. Save SXC as FODS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to FODS., Free Online Convert SXC to FODS in Python., Python Convert SXC to FODS., SXC to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

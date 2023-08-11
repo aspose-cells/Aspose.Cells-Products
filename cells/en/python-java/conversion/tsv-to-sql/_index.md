@@ -1,7 +1,7 @@
 ---
-title: Python TSV to SQL - Convert TSV to SQL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TSV to SQL saveformat. Python TSV to SQL format. Save TSV to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to SQL saveformat., Free Online TSV to SQL Python., Python Convert TSV to SQL]
+title: TSV to SQL - Convert TSV to SQL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TSV to SQL in Python. Python TSV to SQL format. Save TSV as SQL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to SQL., Free Online Convert TSV to SQL in Python., Python Convert TSV to SQL., TSV to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

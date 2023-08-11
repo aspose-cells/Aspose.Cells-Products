@@ -1,7 +1,7 @@
 ---
-title: C++ XLTM to XLS - Online XLTM to XLS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTM to XLS saveformat. C++ XLTM to XLS format. Save XLTM to XLS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTM to XLS saveformat., Free Online XLTM to XLS C++., C++ Convert XLTM to XLS]
+title: XLTM to XLS - Convert XLTM to XLS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to XLS in C++. C++ XLTM to XLS format. Save XLTM as XLS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to XLS., Free Online Convert XLTM to XLS in C++., C++ Convert XLTM to XLS., XLTM to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

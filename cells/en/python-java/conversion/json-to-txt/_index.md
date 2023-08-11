@@ -1,7 +1,7 @@
 ---
-title: Python JSON to TXT - Convert JSON to TXT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JSON to TXT saveformat. Python JSON to TXT format. Save JSON to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to TXT saveformat., Free Online JSON to TXT Python., Python Convert JSON to TXT]
+title: JSON to TXT - Convert JSON to TXT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JSON to TXT in Python. Python JSON to TXT format. Save JSON as TXT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to TXT., Free Online Convert JSON to TXT in Python., Python Convert JSON to TXT., JSON to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

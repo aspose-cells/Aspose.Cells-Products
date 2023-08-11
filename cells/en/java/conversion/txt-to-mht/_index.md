@@ -1,7 +1,7 @@
 ---
-title: Java TXT to MHT - Online TXT to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to MHT saveformat. Java TXT to MHT format. Save TXT to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to MHT saveformat., Free Online TXT to MHT Java., Java Convert TXT to MHT]
+title: TXT to MHT - Convert TXT to MHT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to MHT in Java. Java TXT to MHT format. Save TXT as MHT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to MHT., Free Online Convert TXT to MHT in Java., Java Convert TXT to MHT., TXT to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

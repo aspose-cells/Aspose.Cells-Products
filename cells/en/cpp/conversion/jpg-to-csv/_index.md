@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to CSV - Online JPG to CSV Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to CSV saveformat. C++ JPG to CSV format. Save JPG to CSV C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to CSV saveformat., Free Online JPG to CSV C++., C++ Convert JPG to CSV]
+title: JPG to CSV - Convert JPG to CSV in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to CSV in C++. C++ JPG to CSV format. Save JPG as CSV in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to CSV., Free Online Convert JPG to CSV in C++., C++ Convert JPG to CSV., JPG to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ JPG to BMP - Online JPG to BMP Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to BMP saveformat. C++ JPG to BMP format. Save JPG to BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to BMP saveformat., Free Online JPG to BMP C++., C++ Convert JPG to BMP]
+title: JPG to BMP - Convert JPG to BMP in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to BMP in C++. C++ JPG to BMP format. Save JPG as BMP in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to BMP., Free Online Convert JPG to BMP in C++., C++ Convert JPG to BMP., JPG to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

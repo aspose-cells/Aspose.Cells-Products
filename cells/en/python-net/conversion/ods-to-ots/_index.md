@@ -1,7 +1,7 @@
 ---
-title: Python ODS to OTS - Convert ODS to OTS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to OTS saveformat. Python ODS to OTS format. Save ODS to OTS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to OTS saveformat., Free Online ODS to OTS Python., Python Convert ODS to OTS]
+title: ODS to OTS - Convert ODS to OTS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert ODS to OTS in Python. Python ODS to OTS format. Save ODS as OTS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to OTS., Free Online Convert ODS to OTS in Python., Python Convert ODS to OTS., ODS to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python SXC to TSV - Convert SXC to TSV Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to TSV saveformat. Python SXC to TSV format. Save SXC to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to TSV saveformat., Free Online SXC to TSV Python., Python Convert SXC to TSV]
+title: SXC to TSV - Convert SXC to TSV in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to TSV in Python. Python SXC to TSV format. Save SXC as TSV in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to TSV., Free Online Convert SXC to TSV in Python., Python Convert SXC to TSV., SXC to TSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

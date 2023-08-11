@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to XLTM - Online TXT to XLTM Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to XLTM saveformat. C++ TXT to XLTM format. Save TXT to XLTM C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to XLTM saveformat., Free Online TXT to XLTM C++., C++ Convert TXT to XLTM]
+title: TXT to XLTM - Convert TXT to XLTM in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to XLTM in C++. C++ TXT to XLTM format. Save TXT as XLTM in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to XLTM., Free Online Convert TXT to XLTM in C++., C++ Convert TXT to XLTM., TXT to XLTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

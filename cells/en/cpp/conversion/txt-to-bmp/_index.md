@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to BMP - Online TXT to BMP Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to BMP saveformat. C++ TXT to BMP format. Save TXT to BMP C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to BMP saveformat., Free Online TXT to BMP C++., C++ Convert TXT to BMP]
+title: TXT to BMP - Convert TXT to BMP in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to BMP in C++. C++ TXT to BMP format. Save TXT as BMP in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to BMP., Free Online Convert TXT to BMP in C++., C++ Convert TXT to BMP., TXT to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

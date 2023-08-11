@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to PPTX - Online JPEG to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to PPTX saveformat. C++ JPEG to PPTX format. Save JPEG to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to PPTX saveformat., Free Online JPEG to PPTX C++., C++ Convert JPEG to PPTX]
+title: JPEG to PPTX - Convert JPEG to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to PPTX in C++. C++ JPEG to PPTX format. Save JPEG as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to PPTX., Free Online Convert JPEG to PPTX in C++., C++ Convert JPEG to PPTX., JPEG to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

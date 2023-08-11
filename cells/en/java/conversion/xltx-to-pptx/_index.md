@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to PPTX - Online XLTX to PPTX Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PPTX saveformat. Java XLTX to PPTX format. Save XLTX to PPTX Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PPTX saveformat., Free Online XLTX to PPTX Java., Java Convert XLTX to PPTX]
+title: XLTX to PPTX - Convert XLTX to PPTX in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to PPTX in Java. Java XLTX to PPTX format. Save XLTX as PPTX in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to PPTX., Free Online Convert XLTX to PPTX in Java., Java Convert XLTX to PPTX., XLTX to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

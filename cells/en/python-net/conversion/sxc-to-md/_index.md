@@ -1,7 +1,7 @@
 ---
-title: Python SXC to MD - Convert SXC to MD Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to MD saveformat. Python SXC to MD format. Save SXC to MD Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MD saveformat., Free Online SXC to MD Python., Python Convert SXC to MD]
+title: SXC to MD - Convert SXC to MD in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to MD in Python. Python SXC to MD format. Save SXC as MD in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to MD., Free Online Convert SXC to MD in Python., Python Convert SXC to MD., SXC to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

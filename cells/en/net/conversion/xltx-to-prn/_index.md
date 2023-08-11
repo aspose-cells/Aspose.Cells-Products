@@ -1,7 +1,7 @@
 ---
-title: C# XLTX to PRN - Online XLTX to PRN Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to PRN saveformat. C# XLTX to PRN format. Save XLTX to PRN C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to PRN saveformat., Free Online XLTX to PRN C#., C# Convert XLTX to PRN]
+title: XLTX to PRN - Convert XLTX to PRN in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLTX to PRN in C#. C# XLTX to PRN format. Save XLTX as PRN in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to PRN., Free Online Convert XLTX to PRN in C#., C# Convert XLTX to PRN., XLTX to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

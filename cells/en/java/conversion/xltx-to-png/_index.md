@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to PNG - Online XLTX to PNG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to PNG saveformat. Java XLTX to PNG format. Save XLTX to PNG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to PNG saveformat., Free Online XLTX to PNG Java., Java Convert XLTX to PNG]
+title: XLTX to PNG - Convert XLTX to PNG in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to PNG in Java. Java XLTX to PNG format. Save XLTX as PNG in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to PNG., Free Online Convert XLTX to PNG in Java., Java Convert XLTX to PNG., XLTX to PNG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python XLT to JSON - Convert XLT to JSON Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLT to JSON saveformat. Python XLT to JSON format. Save XLT to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to JSON saveformat., Free Online XLT to JSON Python., Python Convert XLT to JSON]
+title: XLT to JSON - Convert XLT to JSON in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLT to JSON in Python. Python XLT to JSON format. Save XLT as JSON in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLT to JSON., Free Online Convert XLT to JSON in Python., Python Convert XLT to JSON., XLT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

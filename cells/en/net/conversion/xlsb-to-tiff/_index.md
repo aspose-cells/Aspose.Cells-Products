@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to TIFF - Online XLSB to TIFF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to TIFF saveformat. C# XLSB to TIFF format. Save XLSB to TIFF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to TIFF saveformat., Free Online XLSB to TIFF C#., C# Convert XLSB to TIFF]
+title: XLSB to TIFF - Convert XLSB to TIFF in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to TIFF in C#. C# XLSB to TIFF format. Save XLSB as TIFF in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to TIFF., Free Online Convert XLSB to TIFF in C#., C# Convert XLSB to TIFF., XLSB to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

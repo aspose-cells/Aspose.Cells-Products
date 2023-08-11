@@ -1,7 +1,7 @@
 ---
-title: C++ FODS to PPTX - Online FODS to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert FODS to PPTX saveformat. C++ FODS to PPTX format. Save FODS to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to PPTX saveformat., Free Online FODS to PPTX C++., C++ Convert FODS to PPTX]
+title: FODS to PPTX - Convert FODS to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to PPTX in C++. C++ FODS to PPTX format. Save FODS as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to PPTX., Free Online Convert FODS to PPTX in C++., C++ Convert FODS to PPTX., FODS to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

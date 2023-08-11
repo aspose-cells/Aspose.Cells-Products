@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to SVG - Convert XLTX to SVG Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to SVG saveformat. Python XLTX to SVG format. Save XLTX to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to SVG saveformat., Free Online XLTX to SVG Python., Python Convert XLTX to SVG]
+title: XLTX to SVG - Convert XLTX to SVG in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to SVG in Python. Python XLTX to SVG format. Save XLTX as SVG in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to SVG., Free Online Convert XLTX to SVG in Python., Python Convert XLTX to SVG., XLTX to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

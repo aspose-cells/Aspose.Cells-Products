@@ -1,7 +1,7 @@
 ---
-title: Java JPEG to MD - Online JPEG to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to MD saveformat. Java JPEG to MD format. Save JPEG to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to MD saveformat., Free Online JPEG to MD Java., Java Convert JPEG to MD]
+title: JPEG to MD - Convert JPEG to MD in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to MD in Java. Java JPEG to MD format. Save JPEG as MD in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to MD., Free Online Convert JPEG to MD in Java., Java Convert JPEG to MD., JPEG to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

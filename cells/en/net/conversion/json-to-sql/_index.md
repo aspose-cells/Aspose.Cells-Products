@@ -1,7 +1,7 @@
 ---
-title: C# JSON to SQL - Online JSON to SQL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JSON to SQL saveformat. C# JSON to SQL format. Save JSON to SQL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JSON to SQL saveformat., Free Online JSON to SQL C#., C# Convert JSON to SQL]
+title: JSON to SQL - Convert JSON to SQL in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert JSON to SQL in C#. C# JSON to SQL format. Save JSON as SQL in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JSON to SQL., Free Online Convert JSON to SQL in C#., C# Convert JSON to SQL., JSON to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to SVG - Online XLTX to SVG Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to SVG saveformat. Java XLTX to SVG format. Save XLTX to SVG Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to SVG saveformat., Free Online XLTX to SVG Java., Java Convert XLTX to SVG]
+title: XLTX to SVG - Convert XLTX to SVG in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to SVG in Java. Java XLTX to SVG format. Save XLTX as SVG in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to SVG., Free Online Convert XLTX to SVG in Java., Java Convert XLTX to SVG., XLTX to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

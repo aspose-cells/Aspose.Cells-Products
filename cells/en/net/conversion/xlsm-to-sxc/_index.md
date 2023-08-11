@@ -1,7 +1,7 @@
 ---
-title: C# XLSM to SXC - Online XLSM to SXC Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSM to SXC saveformat. C# XLSM to SXC format. Save XLSM to SXC C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSM to SXC saveformat., Free Online XLSM to SXC C#., C# Convert XLSM to SXC]
+title: XLSM to SXC - Convert XLSM to SXC in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSM to SXC in C#. C# XLSM to SXC format. Save XLSM as SXC in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSM to SXC., Free Online Convert XLSM to SXC in C#., C# Convert XLSM to SXC., XLSM to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

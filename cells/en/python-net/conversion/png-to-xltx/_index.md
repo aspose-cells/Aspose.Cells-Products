@@ -1,7 +1,7 @@
 ---
-title: Python PNG to XLTX - Convert PNG to XLTX Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to XLTX saveformat. Python PNG to XLTX format. Save PNG to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to XLTX saveformat., Free Online PNG to XLTX Python., Python Convert PNG to XLTX]
+title: PNG to XLTX - Convert PNG to XLTX in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to XLTX in Python. Python PNG to XLTX format. Save PNG as XLTX in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to XLTX., Free Online Convert PNG to XLTX in Python., Python Convert PNG to XLTX., PNG to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

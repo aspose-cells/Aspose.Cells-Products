@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX to JSON - Online XLSX to JSON Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSX to JSON saveformat. C++ XLSX to JSON format. Save XLSX to JSON C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to JSON saveformat., Free Online XLSX to JSON C++., C++ Convert XLSX to JSON]
+title: XLSX to JSON - Convert XLSX to JSON in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to JSON in C++. C++ XLSX to JSON format. Save XLSX as JSON in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to JSON., Free Online Convert XLSX to JSON in C++., C++ Convert XLSX to JSON., XLSX to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

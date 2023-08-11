@@ -1,7 +1,7 @@
 ---
-title: Java XLS to HTML - Online XLS to HTML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to HTML saveformat. Java XLS to HTML format. Save XLS to HTML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to HTML saveformat., Free Online XLS to HTML Java., Java Convert XLS to HTML]
+title: XLS to HTML - Convert XLS to HTML in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLS to HTML in Java. Java XLS to HTML format. Save XLS as HTML in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to HTML., Free Online Convert XLS to HTML in Java., Java Convert XLS to HTML., XLS to HTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

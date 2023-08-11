@@ -1,7 +1,7 @@
 ---
-title: Python MHT to DOCX - Convert MHT to DOCX Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to DOCX saveformat. Python MHT to DOCX format. Save MHT to DOCX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to DOCX saveformat., Free Online MHT to DOCX Python., Python Convert MHT to DOCX]
+title: MHT to DOCX - Convert MHT to DOCX in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to DOCX in Python. Python MHT to DOCX format. Save MHT as DOCX in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to DOCX., Free Online Convert MHT to DOCX in Python., Python Convert MHT to DOCX., MHT to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java SXC to MHT - Online SXC to MHT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to MHT saveformat. Java SXC to MHT format. Save SXC to MHT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to MHT saveformat., Free Online SXC to MHT Java., Java Convert SXC to MHT]
+title: SXC to MHT - Convert SXC to MHT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to MHT in Java. Java SXC to MHT format. Save SXC as MHT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to MHT., Free Online Convert SXC to MHT in Java., Java Convert SXC to MHT., SXC to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to ET - Online XLSB to ET Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to ET saveformat. C# XLSB to ET format. Save XLSB to ET C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to ET saveformat., Free Online XLSB to ET C#., C# Convert XLSB to ET]
+title: XLSB to ET - Convert XLSB to ET in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to ET in C#. C# XLSB to ET format. Save XLSB as ET in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to ET., Free Online Convert XLSB to ET in C#., C# Convert XLSB to ET., XLSB to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

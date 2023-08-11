@@ -1,7 +1,7 @@
 ---
-title: Java HTML to JSON - Online HTML to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to JSON saveformat. Java HTML to JSON format. Save HTML to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to JSON saveformat., Free Online HTML to JSON Java., Java Convert HTML to JSON]
+title: HTML to JSON - Convert HTML to JSON in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTML to JSON in Java. Java HTML to JSON format. Save HTML as JSON in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to JSON., Free Online Convert HTML to JSON in Java., Java Convert HTML to JSON., HTML to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

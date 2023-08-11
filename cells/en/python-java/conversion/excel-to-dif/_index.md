@@ -1,7 +1,7 @@
 ---
-title: Python EXCEL to DIF - Convert EXCEL to DIF Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to DIF saveformat. Python EXCEL to DIF format. Save EXCEL to DIF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to DIF saveformat., Free Online EXCEL to DIF Python., Python Convert EXCEL to DIF]
+title: EXCEL to DIF - Convert EXCEL to DIF in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to DIF in Python. Python EXCEL to DIF format. Save EXCEL as DIF in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to DIF., Free Online Convert EXCEL to DIF in Python., Python Convert EXCEL to DIF., EXCEL to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

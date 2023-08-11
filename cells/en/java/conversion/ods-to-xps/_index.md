@@ -1,7 +1,7 @@
 ---
-title: Java ODS to XPS - Online ODS to XPS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to XPS saveformat. Java ODS to XPS format. Save ODS to XPS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to XPS saveformat., Free Online ODS to XPS Java., Java Convert ODS to XPS]
+title: ODS to XPS - Convert ODS to XPS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to XPS in Java. Java ODS to XPS format. Save ODS as XPS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to XPS., Free Online Convert ODS to XPS in Java., Java Convert ODS to XPS., ODS to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

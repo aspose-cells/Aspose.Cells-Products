@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to XML - Online XLSX to XML Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to XML saveformat. Java XLSX to XML format. Save XLSX to XML Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to XML saveformat., Free Online XLSX to XML Java., Java Convert XLSX to XML]
+title: XLSX to XML - Convert XLSX to XML in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to XML in Java. Java XLSX to XML format. Save XLSX as XML in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to XML., Free Online Convert XLSX to XML in Java., Java Convert XLSX to XML., XLSX to XML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to JPG - Convert MHTML to JPG Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to JPG saveformat. Python MHTML to JPG format. Save MHTML to JPG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to JPG saveformat., Free Online MHTML to JPG Python., Python Convert MHTML to JPG]
+title: MHTML to JPG - Convert MHTML to JPG in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to JPG in Python. Python MHTML to JPG format. Save MHTML as JPG in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to JPG., Free Online Convert MHTML to JPG in Python., Python Convert MHTML to JPG., MHTML to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

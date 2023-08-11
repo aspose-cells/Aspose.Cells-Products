@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to XLAM - Online XLSX to XLAM Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to XLAM saveformat. Java XLSX to XLAM format. Save XLSX to XLAM Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to XLAM saveformat., Free Online XLSX to XLAM Java., Java Convert XLSX to XLAM]
+title: XLSX to XLAM - Convert XLSX to XLAM in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to XLAM in Java. Java XLSX to XLAM format. Save XLSX as XLAM in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to XLAM., Free Online Convert XLSX to XLAM in Java., Java Convert XLSX to XLAM., XLSX to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

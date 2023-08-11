@@ -1,7 +1,7 @@
 ---
-title: Java ODS to CSV - Online ODS to CSV Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to CSV saveformat. Java ODS to CSV format. Save ODS to CSV Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to CSV saveformat., Free Online ODS to CSV Java., Java Convert ODS to CSV]
+title: ODS to CSV - Convert ODS to CSV in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to CSV in Java. Java ODS to CSV format. Save ODS as CSV in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to CSV., Free Online Convert ODS to CSV in Java., Java Convert ODS to CSV., ODS to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

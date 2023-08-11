@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to PRN - Convert MHTML to PRN Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to PRN saveformat. Python MHTML to PRN format. Save MHTML to PRN Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to PRN saveformat., Free Online MHTML to PRN Python., Python Convert MHTML to PRN]
+title: MHTML to PRN - Convert MHTML to PRN in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to PRN in Python. Python MHTML to PRN format. Save MHTML as PRN in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to PRN., Free Online Convert MHTML to PRN in Python., Python Convert MHTML to PRN., MHTML to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C# PNG to MHT - Online PNG to MHT Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert PNG to MHT saveformat. C# PNG to MHT format. Save PNG to MHT C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# PNG to MHT saveformat., Free Online PNG to MHT C#., C# Convert PNG to MHT]
+title: PNG to MHT - Convert PNG to MHT in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to MHT in C#. C# PNG to MHT format. Save PNG as MHT in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to MHT., Free Online Convert PNG to MHT in C#., C# Convert PNG to MHT., PNG to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

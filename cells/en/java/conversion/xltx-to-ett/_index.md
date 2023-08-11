@@ -1,7 +1,7 @@
 ---
-title: Java XLTX to ETT - Online XLTX to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to ETT saveformat. Java XLTX to ETT format. Save XLTX to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to ETT saveformat., Free Online XLTX to ETT Java., Java Convert XLTX to ETT]
+title: XLTX to ETT - Convert XLTX to ETT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to ETT in Java. Java XLTX to ETT format. Save XLTX as ETT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to ETT., Free Online Convert XLTX to ETT in Java., Java Convert XLTX to ETT., XLTX to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

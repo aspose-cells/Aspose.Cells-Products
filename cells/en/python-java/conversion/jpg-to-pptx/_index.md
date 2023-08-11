@@ -1,7 +1,7 @@
 ---
-title: Python JPG to PPTX - Convert JPG to PPTX Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to PPTX saveformat. Python JPG to PPTX format. Save JPG to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to PPTX saveformat., Free Online JPG to PPTX Python., Python Convert JPG to PPTX]
+title: JPG to PPTX - Convert JPG to PPTX in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to PPTX in Python. Python JPG to PPTX format. Save JPG as PPTX in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to PPTX., Free Online Convert JPG to PPTX in Python., Python Convert JPG to PPTX., JPG to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

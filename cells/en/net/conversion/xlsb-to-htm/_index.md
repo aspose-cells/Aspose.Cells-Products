@@ -1,7 +1,7 @@
 ---
-title: C# XLSB to HTM - Online XLSB to HTM Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to HTM saveformat. C# XLSB to HTM format. Save XLSB to HTM C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to HTM saveformat., Free Online XLSB to HTM C#., C# Convert XLSB to HTM]
+title: XLSB to HTM - Convert XLSB to HTM in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to HTM in C#. C# XLSB to HTM format. Save XLSB as HTM in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to HTM., Free Online Convert XLSB to HTM in C#., C# Convert XLSB to HTM., XLSB to HTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

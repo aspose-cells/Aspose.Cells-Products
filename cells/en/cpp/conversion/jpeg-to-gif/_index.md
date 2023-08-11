@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to GIF - Online JPEG to GIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to GIF saveformat. C++ JPEG to GIF format. Save JPEG to GIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to GIF saveformat., Free Online JPEG to GIF C++., C++ Convert JPEG to GIF]
+title: JPEG to GIF - Convert JPEG to GIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to GIF in C++. C++ JPEG to GIF format. Save JPEG as GIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to GIF., Free Online Convert JPEG to GIF in C++., C++ Convert JPEG to GIF., JPEG to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

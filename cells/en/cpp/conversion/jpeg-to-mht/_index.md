@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to MHT - Online JPEG to MHT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to MHT saveformat. C++ JPEG to MHT format. Save JPEG to MHT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to MHT saveformat., Free Online JPEG to MHT C++., C++ Convert JPEG to MHT]
+title: JPEG to MHT - Convert JPEG to MHT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to MHT in C++. C++ JPEG to MHT format. Save JPEG as MHT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to MHT., Free Online Convert JPEG to MHT in C++., C++ Convert JPEG to MHT., JPEG to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

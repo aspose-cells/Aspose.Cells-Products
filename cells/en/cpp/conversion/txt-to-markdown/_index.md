@@ -1,7 +1,7 @@
 ---
-title: C++ TXT to MARKDOWN - Online TXT to MARKDOWN Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to MARKDOWN saveformat. C++ TXT to MARKDOWN format. Save TXT to MARKDOWN C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN C++., C++ Convert TXT to MARKDOWN]
+title: TXT to MARKDOWN - Convert TXT to MARKDOWN in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to MARKDOWN in C++. C++ TXT to MARKDOWN format. Save TXT as MARKDOWN in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to MARKDOWN., Free Online Convert TXT to MARKDOWN in C++., C++ Convert TXT to MARKDOWN., TXT to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python PNG to TSV - Convert PNG to TSV Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to TSV saveformat. Python PNG to TSV format. Save PNG to TSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to TSV saveformat., Free Online PNG to TSV Python., Python Convert PNG to TSV]
+title: PNG to TSV - Convert PNG to TSV in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to TSV in Python. Python PNG to TSV format. Save PNG as TSV in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to TSV., Free Online Convert PNG to TSV in Python., Python Convert PNG to TSV., PNG to TSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

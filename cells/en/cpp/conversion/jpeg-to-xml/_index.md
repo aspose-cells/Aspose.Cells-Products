@@ -1,7 +1,7 @@
 ---
-title: C++ JPEG to XML - Online JPEG to XML Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPEG to XML saveformat. C++ JPEG to XML format. Save JPEG to XML C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPEG to XML saveformat., Free Online JPEG to XML C++., C++ Convert JPEG to XML]
+title: JPEG to XML - Convert JPEG to XML in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to XML in C++. C++ JPEG to XML format. Save JPEG as XML in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XML., Free Online Convert JPEG to XML in C++., C++ Convert JPEG to XML., JPEG to XML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

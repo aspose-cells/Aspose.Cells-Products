@@ -1,7 +1,7 @@
 ---
-title: Python TSV to PPTX - Convert TSV to PPTX Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TSV to PPTX saveformat. Python TSV to PPTX format. Save TSV to PPTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to PPTX saveformat., Free Online TSV to PPTX Python., Python Convert TSV to PPTX]
+title: TSV to PPTX - Convert TSV to PPTX in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TSV to PPTX in Python. Python TSV to PPTX format. Save TSV as PPTX in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to PPTX., Free Online Convert TSV to PPTX in Python., Python Convert TSV to PPTX., TSV to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

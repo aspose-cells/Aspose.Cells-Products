@@ -1,7 +1,7 @@
 ---
-title: Java EXCEL to ET - Online EXCEL to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to ET saveformat. Java EXCEL to ET format. Save EXCEL to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to ET saveformat., Free Online EXCEL to ET Java., Java Convert EXCEL to ET]
+title: EXCEL to ET - Convert EXCEL to ET in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to ET in Java. Java EXCEL to ET format. Save EXCEL as ET in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to ET., Free Online Convert EXCEL to ET in Java., Java Convert EXCEL to ET., EXCEL to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

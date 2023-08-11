@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to XLTX - Convert JPEG to XLTX Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to XLTX saveformat. Python JPEG to XLTX format. Save JPEG to XLTX Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to XLTX saveformat., Free Online JPEG to XLTX Python., Python Convert JPEG to XLTX]
+title: JPEG to XLTX - Convert JPEG to XLTX in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPEG to XLTX in Python. Python JPEG to XLTX format. Save JPEG as XLTX in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to XLTX., Free Online Convert JPEG to XLTX in Python., Python Convert JPEG to XLTX., JPEG to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

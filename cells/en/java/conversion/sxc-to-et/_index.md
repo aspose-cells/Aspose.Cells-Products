@@ -1,7 +1,7 @@
 ---
-title: Java SXC to ET - Online SXC to ET Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to ET saveformat. Java SXC to ET format. Save SXC to ET Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to ET saveformat., Free Online SXC to ET Java., Java Convert SXC to ET]
+title: SXC to ET - Convert SXC to ET in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to ET in Java. Java SXC to ET format. Save SXC as ET in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to ET., Free Online Convert SXC to ET in Java., Java Convert SXC to ET., SXC to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

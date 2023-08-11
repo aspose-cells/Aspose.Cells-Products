@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to OTS - Online XLS to OTS Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to OTS saveformat. C++ XLS to OTS format. Save XLS to OTS C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to OTS saveformat., Free Online XLS to OTS C++., C++ Convert XLS to OTS]
+title: XLS to OTS - Convert XLS to OTS in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to OTS in C++. C++ XLS to OTS format. Save XLS as OTS in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to OTS., Free Online Convert XLS to OTS in C++., C++ Convert XLS to OTS., XLS to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

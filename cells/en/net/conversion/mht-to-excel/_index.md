@@ -1,7 +1,7 @@
 ---
-title: C# MHT to EXCEL - Online MHT to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to EXCEL saveformat. C# MHT to EXCEL format. Save MHT to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to EXCEL saveformat., Free Online MHT to EXCEL C#., C# Convert MHT to EXCEL]
+title: MHT to EXCEL - Convert MHT to EXCEL in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to EXCEL in C#. C# MHT to EXCEL format. Save MHT as EXCEL in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to EXCEL., Free Online Convert MHT to EXCEL in C#., C# Convert MHT to EXCEL., MHT to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

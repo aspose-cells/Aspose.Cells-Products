@@ -1,7 +1,7 @@
 ---
-title: C++ SXC to DIF - Online SXC to DIF Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to DIF saveformat. C++ SXC to DIF format. Save SXC to DIF C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to DIF saveformat., Free Online SXC to DIF C++., C++ Convert SXC to DIF]
+title: SXC to DIF - Convert SXC to DIF in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to DIF in C++. C++ SXC to DIF format. Save SXC as DIF in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to DIF., Free Online Convert SXC to DIF in C++., C++ Convert SXC to DIF., SXC to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

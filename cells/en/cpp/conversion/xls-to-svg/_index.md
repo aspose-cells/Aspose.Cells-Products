@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to SVG - Online XLS to SVG Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to SVG saveformat. C++ XLS to SVG format. Save XLS to SVG C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to SVG saveformat., Free Online XLS to SVG C++., C++ Convert XLS to SVG]
+title: XLS to SVG - Convert XLS to SVG in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to SVG in C++. C++ XLS to SVG format. Save XLS as SVG in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to SVG., Free Online Convert XLS to SVG in C++., C++ Convert XLS to SVG., XLS to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

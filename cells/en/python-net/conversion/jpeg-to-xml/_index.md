@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to XML - Convert JPEG to XML Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to XML saveformat. Python JPEG to XML format. Save JPEG to XML Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to XML saveformat., Free Online JPEG to XML Python., Python Convert JPEG to XML]
+title: JPEG to XML - Convert JPEG to XML in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPEG to XML in Python. Python JPEG to XML format. Save JPEG as XML in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to XML., Free Online Convert JPEG to XML in Python., Python Convert JPEG to XML., JPEG to XML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Python CSV to TXT - Convert CSV to TXT Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert CSV to TXT saveformat. Python CSV to TXT format. Save CSV to TXT Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to TXT saveformat., Free Online CSV to TXT Python., Python Convert CSV to TXT]
+title: CSV to TXT - Convert CSV to TXT in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert CSV to TXT in Python. Python CSV to TXT format. Save CSV as TXT in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python CSV to TXT., Free Online Convert CSV to TXT in Python., Python Convert CSV to TXT., CSV to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

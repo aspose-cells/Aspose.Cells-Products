@@ -1,7 +1,7 @@
 ---
-title: C# JPG to XLSX - Online JPG to XLSX Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to XLSX saveformat. C# JPG to XLSX format. Save JPG to XLSX C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to XLSX saveformat., Free Online JPG to XLSX C#., C# Convert JPG to XLSX]
+title: JPG to XLSX - Convert JPG to XLSX in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to XLSX in C#. C# JPG to XLSX format. Save JPG as XLSX in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to XLSX., Free Online Convert JPG to XLSX in C#., C# Convert JPG to XLSX., JPG to XLSX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

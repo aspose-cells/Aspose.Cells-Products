@@ -1,7 +1,7 @@
 ---
-title: Python XLS to EXCEL - Convert XLS to EXCEL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to EXCEL saveformat. Python XLS to EXCEL format. Save XLS to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to EXCEL saveformat., Free Online XLS to EXCEL Python., Python Convert XLS to EXCEL]
+title: XLS to EXCEL - Convert XLS to EXCEL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLS to EXCEL in Python. Python XLS to EXCEL format. Save XLS as EXCEL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to EXCEL., Free Online Convert XLS to EXCEL in Python., Python Convert XLS to EXCEL., XLS to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

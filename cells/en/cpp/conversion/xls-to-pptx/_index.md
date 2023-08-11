@@ -1,7 +1,7 @@
 ---
-title: C++ XLS to PPTX - Online XLS to PPTX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLS to PPTX saveformat. C++ XLS to PPTX format. Save XLS to PPTX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLS to PPTX saveformat., Free Online XLS to PPTX C++., C++ Convert XLS to PPTX]
+title: XLS to PPTX - Convert XLS to PPTX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to PPTX in C++. C++ XLS to PPTX format. Save XLS as PPTX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to PPTX., Free Online Convert XLS to PPTX in C++., C++ Convert XLS to PPTX., XLS to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

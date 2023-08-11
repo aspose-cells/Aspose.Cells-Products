@@ -1,7 +1,7 @@
 ---
-title: Python XLTX to EXCEL - Convert XLTX to EXCEL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to EXCEL saveformat. Python XLTX to EXCEL format. Save XLTX to EXCEL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to EXCEL saveformat., Free Online XLTX to EXCEL Python., Python Convert XLTX to EXCEL]
+title: XLTX to EXCEL - Convert XLTX to EXCEL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to EXCEL in Python. Python XLTX to EXCEL format. Save XLTX as EXCEL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to EXCEL., Free Online Convert XLTX to EXCEL in Python., Python Convert XLTX to EXCEL., XLTX to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

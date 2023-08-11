@@ -1,7 +1,7 @@
 ---
-title: C++ XLSB to SQL - Online XLSB to SQL Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to SQL saveformat. C++ XLSB to SQL format. Save XLSB to SQL C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SQL saveformat., Free Online XLSB to SQL C++., C++ Convert XLSB to SQL]
+title: XLSB to SQL - Convert XLSB to SQL in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to SQL in C++. C++ XLSB to SQL format. Save XLSB as SQL in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to SQL., Free Online Convert XLSB to SQL in C++., C++ Convert XLSB to SQL., XLSB to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

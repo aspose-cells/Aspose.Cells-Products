@@ -1,7 +1,7 @@
 ---
-title: Python MHTML to SQL - Convert MHTML to SQL Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to SQL saveformat. Python MHTML to SQL format. Save MHTML to SQL Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to SQL saveformat., Free Online MHTML to SQL Python., Python Convert MHTML to SQL]
+title: MHTML to SQL - Convert MHTML to SQL in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to SQL in Python. Python MHTML to SQL format. Save MHTML as SQL in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to SQL., Free Online Convert MHTML to SQL in Python., Python Convert MHTML to SQL., MHTML to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

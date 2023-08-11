@@ -1,7 +1,7 @@
 ---
-title: Python SXC to PDF - Convert SXC to PDF Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to PDF saveformat. Python SXC to PDF format. Save SXC to PDF Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to PDF saveformat., Free Online SXC to PDF Python., Python Convert SXC to PDF]
+title: SXC to PDF - Convert SXC to PDF in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to PDF in Python. Python SXC to PDF format. Save SXC as PDF in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to PDF., Free Online Convert SXC to PDF in Python., Python Convert SXC to PDF., SXC to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

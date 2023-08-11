@@ -1,7 +1,7 @@
 ---
-title: Java MHT to ETT - Online MHT to ETT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to ETT saveformat. Java MHT to ETT format. Save MHT to ETT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to ETT saveformat., Free Online MHT to ETT Java., Java Convert MHT to ETT]
+title: MHT to ETT - Convert MHT to ETT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to ETT in Java. Java MHT to ETT format. Save MHT as ETT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to ETT., Free Online Convert MHT to ETT in Java., Java Convert MHT to ETT., MHT to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

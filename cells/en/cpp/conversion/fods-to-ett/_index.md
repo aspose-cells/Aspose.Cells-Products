@@ -1,7 +1,7 @@
 ---
-title: C++ FODS to ETT - Online FODS to ETT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert FODS to ETT saveformat. C++ FODS to ETT format. Save FODS to ETT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to ETT saveformat., Free Online FODS to ETT C++., C++ Convert FODS to ETT]
+title: FODS to ETT - Convert FODS to ETT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to ETT in C++. C++ FODS to ETT format. Save FODS as ETT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to ETT., Free Online Convert FODS to ETT in C++., C++ Convert FODS to ETT., FODS to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

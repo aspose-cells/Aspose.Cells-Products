@@ -1,7 +1,7 @@
 ---
-title: Java XLS to FODS - Online XLS to FODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to FODS saveformat. Java XLS to FODS format. Save XLS to FODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to FODS saveformat., Free Online XLS to FODS Java., Java Convert XLS to FODS]
+title: XLS to FODS - Convert XLS to FODS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLS to FODS in Java. Java XLS to FODS format. Save XLS as FODS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to FODS., Free Online Convert XLS to FODS in Java., Java Convert XLS to FODS., XLS to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

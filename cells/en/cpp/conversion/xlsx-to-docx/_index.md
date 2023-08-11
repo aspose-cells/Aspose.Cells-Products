@@ -1,7 +1,7 @@
 ---
-title: C++ XLSX to DOCX - Online XLSX to DOCX Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSX to DOCX saveformat. C++ XLSX to DOCX format. Save XLSX to DOCX C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSX to DOCX saveformat., Free Online XLSX to DOCX C++., C++ Convert XLSX to DOCX]
+title: XLSX to DOCX - Convert XLSX to DOCX in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to DOCX in C++. C++ XLSX to DOCX format. Save XLSX as DOCX in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to DOCX., Free Online Convert XLSX to DOCX in C++., C++ Convert XLSX to DOCX., XLSX to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

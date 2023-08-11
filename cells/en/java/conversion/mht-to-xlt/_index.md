@@ -1,7 +1,7 @@
 ---
-title: Java MHT to XLT - Online MHT to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to XLT saveformat. Java MHT to XLT format. Save MHT to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to XLT saveformat., Free Online MHT to XLT Java., Java Convert MHT to XLT]
+title: MHT to XLT - Convert MHT to XLT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to XLT in Java. Java MHT to XLT format. Save MHT as XLT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to XLT., Free Online Convert MHT to XLT in Java., Java Convert MHT to XLT., MHT to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

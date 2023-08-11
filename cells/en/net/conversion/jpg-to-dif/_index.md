@@ -1,7 +1,7 @@
 ---
-title: C# JPG to DIF - Online JPG to DIF Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to DIF saveformat. C# JPG to DIF format. Save JPG to DIF C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to DIF saveformat., Free Online JPG to DIF C#., C# Convert JPG to DIF]
+title: JPG to DIF - Convert JPG to DIF in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to DIF in C#. C# JPG to DIF format. Save JPG as DIF in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to DIF., Free Online Convert JPG to DIF in C#., C# Convert JPG to DIF., JPG to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

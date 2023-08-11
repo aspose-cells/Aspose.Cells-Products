@@ -1,7 +1,7 @@
 ---
-title: Python JPEG to SVG - Convert JPEG to SVG Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to SVG saveformat. Python JPEG to SVG format. Save JPEG to SVG Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to SVG saveformat., Free Online JPEG to SVG Python., Python Convert JPEG to SVG]
+title: JPEG to SVG - Convert JPEG to SVG in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPEG to SVG in Python. Python JPEG to SVG format. Save JPEG as SVG in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to SVG., Free Online Convert JPEG to SVG in Python., Python Convert JPEG to SVG., JPEG to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

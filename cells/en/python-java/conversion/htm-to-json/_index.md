@@ -1,7 +1,7 @@
 ---
-title: Python HTM to JSON - Convert HTM to JSON Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to JSON saveformat. Python HTM to JSON format. Save HTM to JSON Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to JSON saveformat., Free Online HTM to JSON Python., Python Convert HTM to JSON]
+title: HTM to JSON - Convert HTM to JSON in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to JSON in Python. Python HTM to JSON format. Save HTM as JSON in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to JSON., Free Online Convert HTM to JSON in Python., Python Convert HTM to JSON., HTM to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

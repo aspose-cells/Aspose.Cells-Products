@@ -1,7 +1,7 @@
 ---
-title: Java TXT to OTS - Online TXT to OTS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to OTS saveformat. Java TXT to OTS format. Save TXT to OTS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to OTS saveformat., Free Online TXT to OTS Java., Java Convert TXT to OTS]
+title: TXT to OTS - Convert TXT to OTS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to OTS in Java. Java TXT to OTS format. Save TXT as OTS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to OTS., Free Online Convert TXT to OTS in Java., Java Convert TXT to OTS., TXT to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

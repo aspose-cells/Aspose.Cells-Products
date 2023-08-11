@@ -1,7 +1,7 @@
 ---
-title: Python JSON to XPS - Convert JSON to XPS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JSON to XPS saveformat. Python JSON to XPS format. Save JSON to XPS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to XPS saveformat., Free Online JSON to XPS Python., Python Convert JSON to XPS]
+title: JSON to XPS - Convert JSON to XPS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert JSON to XPS in Python. Python JSON to XPS format. Save JSON as XPS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to XPS., Free Online Convert JSON to XPS in Python., Python Convert JSON to XPS., JSON to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

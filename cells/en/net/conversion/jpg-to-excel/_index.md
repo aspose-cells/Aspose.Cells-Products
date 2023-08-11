@@ -1,7 +1,7 @@
 ---
-title: C# JPG to EXCEL - Online JPG to EXCEL Converter
-description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to EXCEL saveformat. C# JPG to EXCEL format. Save JPG to EXCEL C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to EXCEL saveformat., Free Online JPG to EXCEL C#., C# Convert JPG to EXCEL]
+title: JPG to EXCEL - Convert JPG to EXCEL in C#
+description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to EXCEL in C#. C# JPG to EXCEL format. Save JPG as EXCEL in C#. C# Aspose Cells.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to EXCEL., Free Online Convert JPG to EXCEL in C#., C# Convert JPG to EXCEL., JPG to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

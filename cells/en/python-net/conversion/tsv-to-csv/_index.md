@@ -1,7 +1,7 @@
 ---
-title: Python TSV to CSV - Convert TSV to CSV Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TSV to CSV saveformat. Python TSV to CSV format. Save TSV to CSV Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to CSV saveformat., Free Online TSV to CSV Python., Python Convert TSV to CSV]
+title: TSV to CSV - Convert TSV to CSV in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert TSV to CSV in Python. Python TSV to CSV format. Save TSV as CSV in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to CSV., Free Online Convert TSV to CSV in Python., Python Convert TSV to CSV., TSV to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

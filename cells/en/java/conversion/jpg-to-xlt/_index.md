@@ -1,7 +1,7 @@
 ---
-title: Java JPG to XLT - Online JPG to XLT Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XLT saveformat. Java JPG to XLT format. Save JPG to XLT Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XLT saveformat., Free Online JPG to XLT Java., Java Convert JPG to XLT]
+title: JPG to XLT - Convert JPG to XLT in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to XLT in Java. Java JPG to XLT format. Save JPG as XLT in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XLT., Free Online Convert JPG to XLT in Java., Java Convert JPG to XLT., JPG to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

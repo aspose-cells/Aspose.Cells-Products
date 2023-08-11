@@ -1,7 +1,7 @@
 ---
-title: Java TXT to SQL - Online TXT to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to SQL saveformat. Java TXT to SQL format. Save TXT to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to SQL saveformat., Free Online TXT to SQL Java., Java Convert TXT to SQL]
+title: TXT to SQL - Convert TXT to SQL in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to SQL in Java. Java TXT to SQL format. Save TXT as SQL in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to SQL., Free Online Convert TXT to SQL in Java., Java Convert TXT to SQL., TXT to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

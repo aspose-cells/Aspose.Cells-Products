@@ -1,7 +1,7 @@
 ---
-title: Java JPG to XLS - Online JPG to XLS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XLS saveformat. Java JPG to XLS format. Save JPG to XLS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XLS saveformat., Free Online JPG to XLS Java., Java Convert JPG to XLS]
+title: JPG to XLS - Convert JPG to XLS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to XLS in Java. Java JPG to XLS format. Save JPG as XLS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XLS., Free Online Convert JPG to XLS in Java., Java Convert JPG to XLS., JPG to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLS to SQL - Online XLS to SQL Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to SQL saveformat. Java XLS to SQL format. Save XLS to SQL Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to SQL saveformat., Free Online XLS to SQL Java., Java Convert XLS to SQL]
+title: XLS to SQL - Convert XLS to SQL in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLS to SQL in Java. Java XLS to SQL format. Save XLS as SQL in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to SQL., Free Online Convert XLS to SQL in Java., Java Convert XLS to SQL., XLS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to WORD - Online XLSX to WORD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to WORD saveformat. Java XLSX to WORD format. Save XLSX to WORD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to WORD saveformat., Free Online XLSX to WORD Java., Java Convert XLSX to WORD]
+title: XLSX to WORD - Convert XLSX to WORD in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to WORD in Java. Java XLSX to WORD format. Save XLSX as WORD in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to WORD., Free Online Convert XLSX to WORD in Java., Java Convert XLSX to WORD., XLSX to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

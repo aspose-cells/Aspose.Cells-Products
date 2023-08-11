@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to PRN - Online XLSX to PRN Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to PRN saveformat. Java XLSX to PRN format. Save XLSX to PRN Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to PRN saveformat., Free Online XLSX to PRN Java., Java Convert XLSX to PRN]
+title: XLSX to PRN - Convert XLSX to PRN in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to PRN in Java. Java XLSX to PRN format. Save XLSX as PRN in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to PRN., Free Online Convert XLSX to PRN in Java., Java Convert XLSX to PRN., XLSX to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

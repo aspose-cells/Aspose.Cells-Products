@@ -1,7 +1,7 @@
 ---
-title: Java XLSX to MD - Online XLSX to MD Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to MD saveformat. Java XLSX to MD format. Save XLSX to MD Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to MD saveformat., Free Online XLSX to MD Java., Java Convert XLSX to MD]
+title: XLSX to MD - Convert XLSX to MD in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to MD in Java. Java XLSX to MD format. Save XLSX as MD in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to MD., Free Online Convert XLSX to MD in Java., Java Convert XLSX to MD., XLSX to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: C++ XLTX to TXT - Online XLTX to TXT Converter
-description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTX to TXT saveformat. C++ XLTX to TXT format. Save XLTX to TXT C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to TXT saveformat., Free Online XLTX to TXT C++., C++ Convert XLTX to TXT]
+title: XLTX to TXT - Convert XLTX to TXT in C++
+description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to TXT in C++. C++ XLTX to TXT format. Save XLTX as TXT in C++. C++ Aspose Cells.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to TXT., Free Online Convert XLTX to TXT in C++., C++ Convert XLTX to TXT., XLTX to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

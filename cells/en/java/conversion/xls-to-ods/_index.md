@@ -1,7 +1,7 @@
 ---
-title: Java XLS to ODS - Online XLS to ODS Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to ODS saveformat. Java XLS to ODS format. Save XLS to ODS Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to ODS saveformat., Free Online XLS to ODS Java., Java Convert XLS to ODS]
+title: XLS to ODS - Convert XLS to ODS in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLS to ODS in Java. Java XLS to ODS format. Save XLS as ODS in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to ODS., Free Online Convert XLS to ODS in Java., Java Convert XLS to ODS., XLS to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

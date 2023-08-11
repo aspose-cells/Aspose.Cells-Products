@@ -1,7 +1,7 @@
 ---
-title: Java TXT to JSON - Online TXT to JSON Converter
-description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to JSON saveformat. Java TXT to JSON format. Save TXT to JSON Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to JSON saveformat., Free Online TXT to JSON Java., Java Convert TXT to JSON]
+title: TXT to JSON - Convert TXT to JSON in Java
+description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to JSON in Java. Java TXT to JSON format. Save TXT as JSON in Java. Java Aspose Cells.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to JSON., Free Online Convert TXT to JSON in Java., Java Convert TXT to JSON., TXT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

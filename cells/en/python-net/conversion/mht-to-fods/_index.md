@@ -1,7 +1,7 @@
 ---
-title: Python MHT to FODS - Convert MHT to FODS Python via Python
-description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to FODS saveformat. Python MHT to FODS format. Save MHT to FODS Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to FODS saveformat., Free Online MHT to FODS Python., Python Convert MHT to FODS]
+title: MHT to FODS - Convert MHT to FODS in Python
+description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to FODS in Python. Python MHT to FODS format. Save MHT as FODS in Python. Python Aspose Cells.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to FODS., Free Online Convert MHT to FODS in Python., Python Convert MHT to FODS., MHT to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

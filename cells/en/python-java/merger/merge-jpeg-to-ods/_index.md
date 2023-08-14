@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to ODS - Combine JPEG to ODS in Python
 url: /python-java/merger/merge-jpeg-to-ods/ 
-description: Aspose Excel. Free Online Merge JPEG to ODS saveformat. Python Combine JPEG to ODS format. Merge JPEG to ODS in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to ODS saveformat via Python., Free Online Merge JPEG to ods in Python., Python Combine JPEG to ODS Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to ODS saveformat. Python Combine JPEG to ODS format. Merge JPEG to ODS in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to ODS in Python., Free Online Python Merge JPEG to ods., Python Combine JPEG to ODS Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

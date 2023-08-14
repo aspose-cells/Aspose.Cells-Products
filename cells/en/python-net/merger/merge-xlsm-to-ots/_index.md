@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to OTS - Combine XLSM to OTS in Python
 url: /python-net/merger/merge-xlsm-to-ots/ 
-description: Aspose Excel. Free Online Merge XLSM to OTS saveformat. Python Combine XLSM to OTS format. Merge XLSM to OTS in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to OTS saveformat via Python., Free Online Merge XLSM to ots in Python., Python Combine XLSM to OTS Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to OTS saveformat. Python Combine XLSM to OTS format. Merge XLSM to OTS in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to OTS in Python., Free Online Python Merge XLSM to ots., Python Combine XLSM to OTS Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

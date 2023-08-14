@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to PPTX - Combine IMAGE to PPTX in Java
 url: /java/merger/merge-image-to-pptx/ 
-description: Aspose Excel. Free Online Merge IMAGE to PPTX saveformat. Java Combine IMAGE to PPTX format. Merge IMAGE to PPTX in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX saveformat via Java., Free Online Merge IMAGE to pptx in Java., Java Combine IMAGE to PPTX Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to PPTX saveformat. Java Combine IMAGE to PPTX format. Merge IMAGE to PPTX in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to PPTX in Java., Free Online Java Merge IMAGE to pptx., Java Combine IMAGE to PPTX Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

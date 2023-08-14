@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ETT - Combine NUMBERS to ETT in Python
 url: /python-net/merger/merge-numbers-to-ett/ 
-description: Aspose Excel. Free Online Merge NUMBERS to ETT saveformat. Python Combine NUMBERS to ETT format. Merge NUMBERS to ETT in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to ETT saveformat via Python., Free Online Merge NUMBERS to ett in Python., Python Combine NUMBERS to ETT Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to ETT saveformat. Python Combine NUMBERS to ETT format. Merge NUMBERS to ETT in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to ETT in Python., Free Online Python Merge NUMBERS to ett., Python Combine NUMBERS to ETT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

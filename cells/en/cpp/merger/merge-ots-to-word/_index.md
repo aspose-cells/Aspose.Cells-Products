@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to WORD - Combine OTS to WORD in C++
 url: /cpp/merger/merge-ots-to-word/ 
-description: Aspose Excel. Free Online Merge OTS to WORD saveformat. C++ Combine OTS to WORD format. Merge OTS to WORD in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to WORD saveformat via C++., Free Online Merge OTS to word in C++., C++ Combine OTS to WORD Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to WORD saveformat. C++ Combine OTS to WORD format. Merge OTS to WORD in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to WORD in C++., Free Online C++ Merge OTS to word., C++ Combine OTS to WORD Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

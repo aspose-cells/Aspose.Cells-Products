@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to ET - Combine NUMBERS to ET in C#
 url: /net/merger/merge-numbers-to-et/ 
-description: Aspose Excel. Free Online Merge NUMBERS to ET saveformat. C# Combine NUMBERS to ET format. Merge NUMBERS to ET in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to ET saveformat via C#., Free Online Merge NUMBERS to et in C#., C# Combine NUMBERS to ET Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to ET saveformat. C# Combine NUMBERS to ET format. Merge NUMBERS to ET in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to ET in C#., Free Online C# Merge NUMBERS to et., C# Combine NUMBERS to ET Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

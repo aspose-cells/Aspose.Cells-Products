@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to EMF - Combine FODS to EMF in Python
 url: /python-net/merger/merge-fods-to-emf/ 
-description: Aspose Excel. Free Online Merge FODS to EMF saveformat. Python Combine FODS to EMF format. Merge FODS to EMF in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to EMF saveformat via Python., Free Online Merge FODS to emf in Python., Python Combine FODS to EMF Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to EMF saveformat. Python Combine FODS to EMF format. Merge FODS to EMF in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to EMF in Python., Free Online Python Merge FODS to emf., Python Combine FODS to EMF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

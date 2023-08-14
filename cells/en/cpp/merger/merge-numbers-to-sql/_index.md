@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SQL - Combine NUMBERS to SQL in C++
 url: /cpp/merger/merge-numbers-to-sql/ 
-description: Aspose Excel. Free Online Merge NUMBERS to SQL saveformat. C++ Combine NUMBERS to SQL format. Merge NUMBERS to SQL in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to SQL saveformat via C++., Free Online Merge NUMBERS to sql in C++., C++ Combine NUMBERS to SQL Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to SQL saveformat. C++ Combine NUMBERS to SQL format. Merge NUMBERS to SQL in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to SQL in C++., Free Online C++ Merge NUMBERS to sql., C++ Combine NUMBERS to SQL Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PRN - Combine SPREADSHEETML to PRN in C++
 url: /cpp/merger/merge-spreadsheetml-to-prn/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to PRN saveformat. C++ Combine SPREADSHEETML to PRN format. Merge SPREADSHEETML to PRN in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to PRN saveformat via C++., Free Online Merge SPREADSHEETML to prn in C++., C++ Combine SPREADSHEETML to PRN Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to PRN saveformat. C++ Combine SPREADSHEETML to PRN format. Merge SPREADSHEETML to PRN in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to PRN in C++., Free Online C++ Merge SPREADSHEETML to prn., C++ Combine SPREADSHEETML to PRN Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

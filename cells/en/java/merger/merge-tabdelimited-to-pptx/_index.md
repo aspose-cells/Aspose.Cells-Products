@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to PPTX - Combine TABDELIMITED to PPTX in Java
 url: /java/merger/merge-tabdelimited-to-pptx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to PPTX saveformat. Java Combine TABDELIMITED to PPTX format. Merge TABDELIMITED to PPTX in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to PPTX saveformat via Java., Free Online Merge TABDELIMITED to pptx in Java., Java Combine TABDELIMITED to PPTX Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to PPTX saveformat. Java Combine TABDELIMITED to PPTX format. Merge TABDELIMITED to PPTX in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to PPTX in Java., Free Online Java Merge TABDELIMITED to pptx., Java Combine TABDELIMITED to PPTX Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

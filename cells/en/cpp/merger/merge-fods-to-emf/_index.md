@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to EMF - Combine FODS to EMF in C++
 url: /cpp/merger/merge-fods-to-emf/ 
-description: Aspose Excel. Free Online Merge FODS to EMF saveformat. C++ Combine FODS to EMF format. Merge FODS to EMF in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to EMF saveformat via C++., Free Online Merge FODS to emf in C++., C++ Combine FODS to EMF Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to EMF saveformat. C++ Combine FODS to EMF format. Merge FODS to EMF in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to EMF in C++., Free Online C++ Merge FODS to emf., C++ Combine FODS to EMF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

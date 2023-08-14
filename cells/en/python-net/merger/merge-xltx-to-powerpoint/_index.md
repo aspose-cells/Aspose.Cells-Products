@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to POWERPOINT - Combine XLTX to POWERPOINT in Python
 url: /python-net/merger/merge-xltx-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLTX to POWERPOINT saveformat. Python Combine XLTX to POWERPOINT format. Merge XLTX to POWERPOINT in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT saveformat via Python., Free Online Merge XLTX to powerpoint in Python., Python Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to POWERPOINT saveformat. Python Combine XLTX to POWERPOINT format. Merge XLTX to POWERPOINT in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to POWERPOINT in Python., Free Online Python Merge XLTX to powerpoint., Python Combine XLTX to POWERPOINT Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

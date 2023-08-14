@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PNG - Combine XML to PNG in Python
 url: /python-net/merger/merge-xml-to-png/ 
-description: Aspose Excel. Free Online Merge XML to PNG saveformat. Python Combine XML to PNG format. Merge XML to PNG in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PNG saveformat via Python., Free Online Merge XML to png in Python., Python Combine XML to PNG Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to PNG saveformat. Python Combine XML to PNG format. Merge XML to PNG in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PNG in Python., Free Online Python Merge XML to png., Python Combine XML to PNG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

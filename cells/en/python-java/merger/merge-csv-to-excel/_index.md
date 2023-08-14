@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to EXCEL - Combine CSV to EXCEL in Python
 url: /python-java/merger/merge-csv-to-excel/ 
-description: Aspose Excel. Free Online Merge CSV to EXCEL saveformat. Python Combine CSV to EXCEL format. Merge CSV to EXCEL in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to EXCEL saveformat via Python., Free Online Merge CSV to excel in Python., Python Combine CSV to EXCEL Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to EXCEL saveformat. Python Combine CSV to EXCEL format. Merge CSV to EXCEL in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to EXCEL in Python., Free Online Python Merge CSV to excel., Python Combine CSV to EXCEL Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

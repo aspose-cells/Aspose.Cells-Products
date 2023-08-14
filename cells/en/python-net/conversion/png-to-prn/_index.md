@@ -1,7 +1,7 @@
 ---
-title: PNG to PRN - Convert PNG to PRN files Python
-description: Aspose Excel. Free Online Convert PNG to PRN saveformat. Python PNG to PRN format. Save PNG as PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to PRN saveformat., Free Online PNG to PRN Converter]
+title: Python PNG to PRN - Online PNG to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert PNG to PRN saveformat. Python PNG to PRN format. Save PNG to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to PRN saveformat., Free Online PNG to PRN Python., Python Convert PNG to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

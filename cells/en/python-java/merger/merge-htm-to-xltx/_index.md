@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLTX - Combine HTM to XLTX in Python
 url: /python-java/merger/merge-htm-to-xltx/ 
-description: Aspose Excel. Free Online Merge HTM to XLTX saveformat. Python Combine HTM to XLTX format. Merge HTM to XLTX in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX saveformat via Python., Free Online Merge HTM to xltx in Python., Python Combine HTM to XLTX Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XLTX saveformat. Python Combine HTM to XLTX format. Merge HTM to XLTX in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Free Online Python Merge HTM to xltx., Python Combine HTM to XLTX Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

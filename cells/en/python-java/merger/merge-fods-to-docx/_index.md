@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DOCX - Combine FODS to DOCX in Python
 url: /python-java/merger/merge-fods-to-docx/ 
-description: Aspose Excel. Free Online Merge FODS to DOCX saveformat. Python Combine FODS to DOCX format. Merge FODS to DOCX in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to DOCX saveformat via Python., Free Online Merge FODS to docx in Python., Python Combine FODS to DOCX Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to DOCX saveformat. Python Combine FODS to DOCX format. Merge FODS to DOCX in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to DOCX in Python., Free Online Python Merge FODS to docx., Python Combine FODS to DOCX Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

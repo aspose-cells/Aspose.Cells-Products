@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to FODS - Combine XLTX to FODS in Python
 url: /python-net/merger/merge-xltx-to-fods/ 
-description: Aspose Excel. Free Online Merge XLTX to FODS saveformat. Python Combine XLTX to FODS format. Merge XLTX to FODS in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to FODS saveformat via Python., Free Online Merge XLTX to fods in Python., Python Combine XLTX to FODS Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to FODS saveformat. Python Combine XLTX to FODS format. Merge XLTX to FODS in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to FODS in Python., Free Online Python Merge XLTX to fods., Python Combine XLTX to FODS Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

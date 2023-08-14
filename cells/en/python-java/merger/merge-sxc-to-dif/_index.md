@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DIF - Combine SXC to DIF in Python
 url: /python-java/merger/merge-sxc-to-dif/ 
-description: Aspose Excel. Free Online Merge SXC to DIF saveformat. Python Combine SXC to DIF format. Merge SXC to DIF in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to DIF saveformat via Python., Free Online Merge SXC to dif in Python., Python Combine SXC to DIF Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to DIF saveformat. Python Combine SXC to DIF format. Merge SXC to DIF in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to DIF in Python., Free Online Python Merge SXC to dif., Python Combine SXC to DIF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

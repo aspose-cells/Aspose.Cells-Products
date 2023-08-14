@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PNG - Combine HTM to PNG in C#
 url: /net/merger/merge-htm-to-png/ 
-description: Aspose Excel. Free Online Merge HTM to PNG saveformat. C# Combine HTM to PNG format. Merge HTM to PNG in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PNG saveformat via C#., Free Online Merge HTM to png in C#., C# Combine HTM to PNG Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to PNG saveformat. C# Combine HTM to PNG format. Merge HTM to PNG in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PNG in C#., Free Online C# Merge HTM to png., C# Combine HTM to PNG Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

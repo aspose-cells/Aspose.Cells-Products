@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EMF - Combine PNG to EMF in Java
 url: /java/merger/merge-png-to-emf/ 
-description: Aspose Excel. Free Online Merge PNG to EMF saveformat. Java Combine PNG to EMF format. Merge PNG to EMF in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to EMF saveformat via Java., Free Online Merge PNG to emf in Java., Java Combine PNG to EMF Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to EMF saveformat. Java Combine PNG to EMF format. Merge PNG to EMF in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to EMF in Java., Free Online Java Merge PNG to emf., Java Combine PNG to EMF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

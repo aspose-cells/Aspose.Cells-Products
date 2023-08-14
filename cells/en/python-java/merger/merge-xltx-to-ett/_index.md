@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to ETT - Combine XLTX to ETT in Python
 url: /python-java/merger/merge-xltx-to-ett/ 
-description: Aspose Excel. Free Online Merge XLTX to ETT saveformat. Python Combine XLTX to ETT format. Merge XLTX to ETT in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to ETT saveformat via Python., Free Online Merge XLTX to ett in Python., Python Combine XLTX to ETT Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to ETT saveformat. Python Combine XLTX to ETT format. Merge XLTX to ETT in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to ETT in Python., Free Online Python Merge XLTX to ett., Python Combine XLTX to ETT Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

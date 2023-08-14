@@ -1,7 +1,7 @@
 ---
-title: XLS to PDF - Convert XLS to PDF files Python
-description: Aspose Excel. Free Online Convert XLS to PDF saveformat. Python XLS to PDF format. Save XLS as PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to PDF saveformat., Free Online XLS to PDF Converter]
+title: Python XLS to PDF - Online XLS to PDF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to PDF saveformat. Python XLS to PDF format. Save XLS to PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to PDF saveformat., Free Online XLS to PDF Python., Python Convert XLS to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

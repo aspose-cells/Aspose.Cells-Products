@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to BMP - Combine NUMBERS to BMP in C++
 url: /cpp/merger/merge-numbers-to-bmp/ 
-description: Aspose Excel. Free Online Merge NUMBERS to BMP saveformat. C++ Combine NUMBERS to BMP format. Merge NUMBERS to BMP in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to BMP saveformat via C++., Free Online Merge NUMBERS to bmp in C++., C++ Combine NUMBERS to BMP Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to BMP saveformat. C++ Combine NUMBERS to BMP format. Merge NUMBERS to BMP in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to BMP in C++., Free Online C++ Merge NUMBERS to bmp., C++ Combine NUMBERS to BMP Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

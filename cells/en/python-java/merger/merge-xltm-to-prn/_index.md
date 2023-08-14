@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PRN - Combine XLTM to PRN in Python
 url: /python-java/merger/merge-xltm-to-prn/ 
-description: Aspose Excel. Free Online Merge XLTM to PRN saveformat. Python Combine XLTM to PRN format. Merge XLTM to PRN in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to PRN saveformat via Python., Free Online Merge XLTM to prn in Python., Python Combine XLTM to PRN Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to PRN saveformat. Python Combine XLTM to PRN format. Merge XLTM to PRN in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to PRN in Python., Free Online Python Merge XLTM to prn., Python Combine XLTM to PRN Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

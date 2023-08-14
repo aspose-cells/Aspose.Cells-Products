@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to WORD - Combine JPEG to WORD in Python
 url: /python-net/merger/merge-jpeg-to-word/ 
-description: Aspose Excel. Free Online Merge JPEG to WORD saveformat. Python Combine JPEG to WORD format. Merge JPEG to WORD in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to WORD saveformat via Python., Free Online Merge JPEG to word in Python., Python Combine JPEG to WORD Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to WORD saveformat. Python Combine JPEG to WORD format. Merge JPEG to WORD in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to WORD in Python., Free Online Python Merge JPEG to word., Python Combine JPEG to WORD Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

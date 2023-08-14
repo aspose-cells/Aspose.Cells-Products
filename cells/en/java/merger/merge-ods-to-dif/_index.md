@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to DIF - Combine ODS to DIF in Java
 url: /java/merger/merge-ods-to-dif/ 
-description: Aspose Excel. Free Online Merge ODS to DIF saveformat. Java Combine ODS to DIF format. Merge ODS to DIF in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to DIF saveformat via Java., Free Online Merge ODS to dif in Java., Java Combine ODS to DIF Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to DIF saveformat. Java Combine ODS to DIF format. Merge ODS to DIF in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to DIF in Java., Free Online Java Merge ODS to dif., Java Combine ODS to DIF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

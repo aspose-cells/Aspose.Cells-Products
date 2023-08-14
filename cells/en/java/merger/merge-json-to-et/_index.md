@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to ET - Combine JSON to ET in Java
 url: /java/merger/merge-json-to-et/ 
-description: Aspose Excel. Free Online Merge JSON to ET saveformat. Java Combine JSON to ET format. Merge JSON to ET in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to ET saveformat via Java., Free Online Merge JSON to et in Java., Java Combine JSON to ET Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to ET saveformat. Java Combine JSON to ET format. Merge JSON to ET in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to ET in Java., Free Online Java Merge JSON to et., Java Combine JSON to ET Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

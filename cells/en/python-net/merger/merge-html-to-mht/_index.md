@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MHT - Combine HTML to MHT in Python
 url: /python-net/merger/merge-html-to-mht/ 
-description: Aspose Excel. Free Online Merge HTML to MHT saveformat. Python Combine HTML to MHT format. Merge HTML to MHT in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to MHT saveformat via Python., Free Online Merge HTML to mht in Python., Python Combine HTML to MHT Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to MHT saveformat. Python Combine HTML to MHT format. Merge HTML to MHT in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to MHT in Python., Free Online Python Merge HTML to mht., Python Combine HTML to MHT Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

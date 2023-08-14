@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XPS - Combine NUMBERS to XPS in Python
 url: /python-java/merger/merge-numbers-to-xps/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XPS saveformat. Python Combine NUMBERS to XPS format. Merge NUMBERS to XPS in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XPS saveformat via Python., Free Online Merge NUMBERS to xps in Python., Python Combine NUMBERS to XPS Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to XPS saveformat. Python Combine NUMBERS to XPS format. Merge NUMBERS to XPS in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XPS in Python., Free Online Python Merge NUMBERS to xps., Python Combine NUMBERS to XPS Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

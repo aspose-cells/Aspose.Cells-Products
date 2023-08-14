@@ -1,8 +1,8 @@
 ---
 title: Merge XML to EXCEL - Combine XML to EXCEL in Python
 url: /python-java/merger/merge-xml-to-excel/ 
-description: Aspose Excel. Free Online Merge XML to EXCEL saveformat. Python Combine XML to EXCEL format. Merge XML to EXCEL in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EXCEL saveformat via Python., Free Online Merge XML to excel in Python., Python Combine XML to EXCEL Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to EXCEL saveformat. Python Combine XML to EXCEL format. Merge XML to EXCEL in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EXCEL in Python., Free Online Python Merge XML to excel., Python Combine XML to EXCEL Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

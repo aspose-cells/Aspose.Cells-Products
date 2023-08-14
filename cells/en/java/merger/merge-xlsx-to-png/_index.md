@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PNG - Combine XLSX to PNG in Java
 url: /java/merger/merge-xlsx-to-png/ 
-description: Aspose Excel. Free Online Merge XLSX to PNG saveformat. Java Combine XLSX to PNG format. Merge XLSX to PNG in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PNG saveformat via Java., Free Online Merge XLSX to png in Java., Java Combine XLSX to PNG Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to PNG saveformat. Java Combine XLSX to PNG format. Merge XLSX to PNG in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PNG in Java., Free Online Java Merge XLSX to png., Java Combine XLSX to PNG Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

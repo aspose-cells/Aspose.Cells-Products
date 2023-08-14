@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to EMF - Combine ODS to EMF in Python
 url: /python-net/merger/merge-ods-to-emf/ 
-description: Aspose Excel. Free Online Merge ODS to EMF saveformat. Python Combine ODS to EMF format. Merge ODS to EMF in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to EMF saveformat via Python., Free Online Merge ODS to emf in Python., Python Combine ODS to EMF Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to EMF saveformat. Python Combine ODS to EMF format. Merge ODS to EMF in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to EMF in Python., Free Online Python Merge ODS to emf., Python Combine ODS to EMF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

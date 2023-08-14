@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to SQL - Combine TSV to SQL in Java
 url: /java/merger/merge-tsv-to-sql/ 
-description: Aspose Excel. Free Online Merge TSV to SQL saveformat. Java Combine TSV to SQL format. Merge TSV to SQL in Java. TSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to SQL saveformat via Java., Free Online Merge TSV to sql in Java., Java Combine TSV to SQL Online for Free., TSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TSV to SQL saveformat. Java Combine TSV to SQL format. Merge TSV to SQL in Java. TSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to SQL in Java., Free Online Java Merge TSV to sql., Java Combine TSV to SQL Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

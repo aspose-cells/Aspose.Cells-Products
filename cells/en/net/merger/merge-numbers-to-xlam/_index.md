@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLAM - Combine NUMBERS to XLAM in C#
 url: /net/merger/merge-numbers-to-xlam/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLAM saveformat. C# Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLAM saveformat via C#., Free Online Merge NUMBERS to xlam in C#., C# Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to XLAM saveformat. C# Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLAM in C#., Free Online C# Merge NUMBERS to xlam., C# Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

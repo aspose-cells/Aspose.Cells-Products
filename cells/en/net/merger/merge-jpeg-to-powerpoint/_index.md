@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to POWERPOINT - Combine JPEG to POWERPOINT in C#
 url: /net/merger/merge-jpeg-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JPEG to POWERPOINT saveformat. C# Combine JPEG to POWERPOINT format. Merge JPEG to POWERPOINT in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to POWERPOINT saveformat via C#., Free Online Merge JPEG to powerpoint in C#., C# Combine JPEG to POWERPOINT Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to POWERPOINT saveformat. C# Combine JPEG to POWERPOINT format. Merge JPEG to POWERPOINT in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to POWERPOINT in C#., Free Online C# Merge JPEG to powerpoint., C# Combine JPEG to POWERPOINT Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

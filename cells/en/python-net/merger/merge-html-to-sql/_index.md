@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SQL - Combine HTML to SQL in Python
 url: /python-net/merger/merge-html-to-sql/ 
-description: Aspose Excel. Free Online Merge HTML to SQL saveformat. Python Combine HTML to SQL format. Merge HTML to SQL in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to SQL saveformat via Python., Free Online Merge HTML to sql in Python., Python Combine HTML to SQL Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to SQL saveformat. Python Combine HTML to SQL format. Merge HTML to SQL in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to SQL in Python., Free Online Python Merge HTML to sql., Python Combine HTML to SQL Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

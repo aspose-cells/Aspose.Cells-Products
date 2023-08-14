@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to ETT - Combine PRN to ETT in C++
 url: /cpp/merger/merge-prn-to-ett/ 
-description: Aspose Excel. Free Online Merge PRN to ETT saveformat. C++ Combine PRN to ETT format. Merge PRN to ETT in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to ETT saveformat via C++., Free Online Merge PRN to ett in C++., C++ Combine PRN to ETT Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to ETT saveformat. C++ Combine PRN to ETT format. Merge PRN to ETT in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to ETT in C++., Free Online C++ Merge PRN to ett., C++ Combine PRN to ETT Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

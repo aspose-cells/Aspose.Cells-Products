@@ -1,7 +1,7 @@
 ---
-title: XLSB to SQL - Convert XLSB to SQL files Python
-description: Aspose Excel. Free Online Convert XLSB to SQL saveformat. Python XLSB to SQL format. Save XLSB as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to SQL saveformat., Free Online XLSB to SQL Converter]
+title: Python XLSB to SQL - Online XLSB to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to SQL saveformat. Python XLSB to SQL format. Save XLSB to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to SQL saveformat., Free Online XLSB to SQL Python., Python Convert XLSB to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

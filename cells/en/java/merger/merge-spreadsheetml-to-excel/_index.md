@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to EXCEL - Combine SPREADSHEETML to EXCEL in Java
 url: /java/merger/merge-spreadsheetml-to-excel/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to EXCEL saveformat. Java Combine SPREADSHEETML to EXCEL format. Merge SPREADSHEETML to EXCEL in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL saveformat via Java., Free Online Merge SPREADSHEETML to excel in Java., Java Combine SPREADSHEETML to EXCEL Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to EXCEL saveformat. Java Combine SPREADSHEETML to EXCEL format. Merge SPREADSHEETML to EXCEL in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to EXCEL in Java., Free Online Java Merge SPREADSHEETML to excel., Java Combine SPREADSHEETML to EXCEL Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

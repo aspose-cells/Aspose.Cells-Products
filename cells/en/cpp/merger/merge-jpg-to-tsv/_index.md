@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TSV - Combine JPG to TSV in C++
 url: /cpp/merger/merge-jpg-to-tsv/ 
-description: Aspose Excel. Free Online Merge JPG to TSV saveformat. C++ Combine JPG to TSV format. Merge JPG to TSV in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TSV saveformat via C++., Free Online Merge JPG to tsv in C++., C++ Combine JPG to TSV Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to TSV saveformat. C++ Combine JPG to TSV format. Merge JPG to TSV in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TSV in C++., Free Online C++ Merge JPG to tsv., C++ Combine JPG to TSV Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

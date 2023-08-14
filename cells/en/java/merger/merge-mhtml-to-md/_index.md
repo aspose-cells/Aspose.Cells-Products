@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MD - Combine MHTML to MD in Java
 url: /java/merger/merge-mhtml-to-md/ 
-description: Aspose Excel. Free Online Merge MHTML to MD saveformat. Java Combine MHTML to MD format. Merge MHTML to MD in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MD saveformat via Java., Free Online Merge MHTML to md in Java., Java Combine MHTML to MD Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to MD saveformat. Java Combine MHTML to MD format. Merge MHTML to MD in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MD in Java., Free Online Java Merge MHTML to md., Java Combine MHTML to MD Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

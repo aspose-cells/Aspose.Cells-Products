@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to OTS - Combine PNG to OTS in Python
 url: /python-java/merger/merge-png-to-ots/ 
-description: Aspose Excel. Free Online Merge PNG to OTS saveformat. Python Combine PNG to OTS format. Merge PNG to OTS in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS saveformat via Python., Free Online Merge PNG to ots in Python., Python Combine PNG to OTS Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to OTS saveformat. Python Combine PNG to OTS format. Merge PNG to OTS in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to OTS in Python., Free Online Python Merge PNG to ots., Python Combine PNG to OTS Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

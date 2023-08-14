@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XML - Combine TXT to XML in Python
 url: /python-java/merger/merge-txt-to-xml/ 
-description: Aspose Excel. Free Online Merge TXT to XML saveformat. Python Combine TXT to XML format. Merge TXT to XML in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XML saveformat via Python., Free Online Merge TXT to xml in Python., Python Combine TXT to XML Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to XML saveformat. Python Combine TXT to XML format. Merge TXT to XML in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XML in Python., Free Online Python Merge TXT to xml., Python Combine TXT to XML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLSM - Combine SXC to XLSM in Python
 url: /python-java/merger/merge-sxc-to-xlsm/ 
-description: Aspose Excel. Free Online Merge SXC to XLSM saveformat. Python Combine SXC to XLSM format. Merge SXC to XLSM in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XLSM saveformat via Python., Free Online Merge SXC to xlsm in Python., Python Combine SXC to XLSM Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to XLSM saveformat. Python Combine SXC to XLSM format. Merge SXC to XLSM in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XLSM in Python., Free Online Python Merge SXC to xlsm., Python Combine SXC to XLSM Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to TABDELIMITED - Combine EXCEL to TABDELIMITED in Python
 url: /python-java/merger/merge-excel-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge EXCEL to TABDELIMITED saveformat. Python Combine EXCEL to TABDELIMITED format. Merge EXCEL to TABDELIMITED in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to TABDELIMITED saveformat via Python., Free Online Merge EXCEL to tabdelimited in Python., Python Combine EXCEL to TABDELIMITED Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to TABDELIMITED saveformat. Python Combine EXCEL to TABDELIMITED format. Merge EXCEL to TABDELIMITED in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to TABDELIMITED in Python., Free Online Python Merge EXCEL to tabdelimited., Python Combine EXCEL to TABDELIMITED Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to NUMBERS - Combine FODS to NUMBERS in Python
 url: /python-net/merger/merge-fods-to-numbers/ 
-description: Aspose Excel. Free Online Merge FODS to NUMBERS saveformat. Python Combine FODS to NUMBERS format. Merge FODS to NUMBERS in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to NUMBERS saveformat via Python., Free Online Merge FODS to numbers in Python., Python Combine FODS to NUMBERS Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to NUMBERS saveformat. Python Combine FODS to NUMBERS format. Merge FODS to NUMBERS in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to NUMBERS in Python., Free Online Python Merge FODS to numbers., Python Combine FODS to NUMBERS Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

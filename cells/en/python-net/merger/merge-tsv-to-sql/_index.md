@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to SQL - Combine TSV to SQL in Python
 url: /python-net/merger/merge-tsv-to-sql/ 
-description: Aspose Excel. Free Online Merge TSV to SQL saveformat. Python Combine TSV to SQL format. Merge TSV to SQL in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to SQL saveformat via Python., Free Online Merge TSV to sql in Python., Python Combine TSV to SQL Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to SQL saveformat. Python Combine TSV to SQL format. Merge TSV to SQL in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to SQL in Python., Free Online Python Merge TSV to sql., Python Combine TSV to SQL Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

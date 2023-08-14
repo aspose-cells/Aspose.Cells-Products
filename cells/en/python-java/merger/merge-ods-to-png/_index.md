@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PNG - Combine ODS to PNG in Python
 url: /python-java/merger/merge-ods-to-png/ 
-description: Aspose Excel. Free Online Merge ODS to PNG saveformat. Python Combine ODS to PNG format. Merge ODS to PNG in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PNG saveformat via Python., Free Online Merge ODS to png in Python., Python Combine ODS to PNG Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to PNG saveformat. Python Combine ODS to PNG format. Merge ODS to PNG in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PNG in Python., Free Online Python Merge ODS to png., Python Combine ODS to PNG Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

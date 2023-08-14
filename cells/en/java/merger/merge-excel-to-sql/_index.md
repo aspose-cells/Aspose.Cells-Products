@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SQL - Combine EXCEL to SQL in Java
 url: /java/merger/merge-excel-to-sql/ 
-description: Aspose Excel. Free Online Merge EXCEL to SQL saveformat. Java Combine EXCEL to SQL format. Merge EXCEL to SQL in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to SQL saveformat via Java., Free Online Merge EXCEL to sql in Java., Java Combine EXCEL to SQL Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to SQL saveformat. Java Combine EXCEL to SQL format. Merge EXCEL to SQL in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to SQL in Java., Free Online Java Merge EXCEL to sql., Java Combine EXCEL to SQL Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

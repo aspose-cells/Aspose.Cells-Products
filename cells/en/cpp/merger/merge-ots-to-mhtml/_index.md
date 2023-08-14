@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MHTML - Combine OTS to MHTML in C++
 url: /cpp/merger/merge-ots-to-mhtml/ 
-description: Aspose Excel. Free Online Merge OTS to MHTML saveformat. C++ Combine OTS to MHTML format. Merge OTS to MHTML in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to MHTML saveformat via C++., Free Online Merge OTS to mhtml in C++., C++ Combine OTS to MHTML Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to MHTML saveformat. C++ Combine OTS to MHTML format. Merge OTS to MHTML in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to MHTML in C++., Free Online C++ Merge OTS to mhtml., C++ Combine OTS to MHTML Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

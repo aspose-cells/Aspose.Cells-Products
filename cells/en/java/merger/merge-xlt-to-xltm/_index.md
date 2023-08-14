@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTM - Combine XLT to XLTM in Java
 url: /java/merger/merge-xlt-to-xltm/ 
-description: Aspose Excel. Free Online Merge XLT to XLTM saveformat. Java Combine XLT to XLTM format. Merge XLT to XLTM in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XLTM saveformat via Java., Free Online Merge XLT to xltm in Java., Java Combine XLT to XLTM Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to XLTM saveformat. Java Combine XLT to XLTM format. Merge XLT to XLTM in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XLTM in Java., Free Online Java Merge XLT to xltm., Java Combine XLT to XLTM Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

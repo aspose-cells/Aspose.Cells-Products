@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLAM - Combine JSON to XLAM in C++
 url: /cpp/merger/merge-json-to-xlam/ 
-description: Aspose Excel. Free Online Merge JSON to XLAM saveformat. C++ Combine JSON to XLAM format. Merge JSON to XLAM in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLAM saveformat via C++., Free Online Merge JSON to xlam in C++., C++ Combine JSON to XLAM Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to XLAM saveformat. C++ Combine JSON to XLAM format. Merge JSON to XLAM in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLAM in C++., Free Online C++ Merge JSON to xlam., C++ Combine JSON to XLAM Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

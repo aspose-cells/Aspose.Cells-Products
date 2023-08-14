@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DIF - Combine MHTML to DIF in Java
 url: /java/merger/merge-mhtml-to-dif/ 
-description: Aspose Excel. Free Online Merge MHTML to DIF saveformat. Java Combine MHTML to DIF format. Merge MHTML to DIF in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to DIF saveformat via Java., Free Online Merge MHTML to dif in Java., Java Combine MHTML to DIF Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to DIF saveformat. Java Combine MHTML to DIF format. Merge MHTML to DIF in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to DIF in Java., Free Online Java Merge MHTML to dif., Java Combine MHTML to DIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

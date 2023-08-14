@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PDF - Combine XLSB to PDF in C++
 url: /cpp/merger/merge-xlsb-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLSB to PDF saveformat. C++ Combine XLSB to PDF format. Merge XLSB to PDF in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to PDF saveformat via C++., Free Online Merge XLSB to pdf in C++., C++ Combine XLSB to PDF Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to PDF saveformat. C++ Combine XLSB to PDF format. Merge XLSB to PDF in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to PDF in C++., Free Online C++ Merge XLSB to pdf., C++ Combine XLSB to PDF Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

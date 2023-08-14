@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLAM - Combine TABDELIMITED to XLAM in C#
 url: /net/merger/merge-tabdelimited-to-xlam/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLAM saveformat. C# Combine TABDELIMITED to XLAM format. Merge TABDELIMITED to XLAM in C#. TABDELIMITED Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLAM saveformat via C#., Free Online Merge TABDELIMITED to xlam in C#., C# Combine TABDELIMITED to XLAM Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to XLAM saveformat. C# Combine TABDELIMITED to XLAM format. Merge TABDELIMITED to XLAM in C#. TABDELIMITED Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to XLAM in C#., Free Online C# Merge TABDELIMITED to xlam., C# Combine TABDELIMITED to XLAM Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

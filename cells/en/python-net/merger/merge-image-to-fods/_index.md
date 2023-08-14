@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to FODS - Combine IMAGE to FODS in Python
 url: /python-net/merger/merge-image-to-fods/ 
-description: Aspose Excel. Free Online Merge IMAGE to FODS saveformat. Python Combine IMAGE to FODS format. Merge IMAGE to FODS in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to FODS saveformat via Python., Free Online Merge IMAGE to fods in Python., Python Combine IMAGE to FODS Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to FODS saveformat. Python Combine IMAGE to FODS format. Merge IMAGE to FODS in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to FODS in Python., Free Online Python Merge IMAGE to fods., Python Combine IMAGE to FODS Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

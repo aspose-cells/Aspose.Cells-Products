@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JPEG - Combine ODS to JPEG in C#
 url: /net/merger/merge-ods-to-jpeg/ 
-description: Aspose Excel. Free Online Merge ODS to JPEG saveformat. C# Combine ODS to JPEG format. Merge ODS to JPEG in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to JPEG saveformat via C#., Free Online Merge ODS to jpeg in C#., C# Combine ODS to JPEG Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to JPEG saveformat. C# Combine ODS to JPEG format. Merge ODS to JPEG in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to JPEG in C#., Free Online C# Merge ODS to jpeg., C# Combine ODS to JPEG Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

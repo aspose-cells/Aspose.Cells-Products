@@ -1,7 +1,7 @@
 ---
-title: JPEG to NUMBERS - Convert JPEG to NUMBERS files Python
-description: Aspose Excel. Free Online Convert JPEG to NUMBERS saveformat. Python JPEG to NUMBERS format. Save JPEG as NUMBERS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to NUMBERS saveformat., Free Online JPEG to NUMBERS Converter]
+title: Python JPEG to NUMBERS - Online JPEG to NUMBERS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to NUMBERS saveformat. Python JPEG to NUMBERS format. Save JPEG to NUMBERS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to NUMBERS saveformat., Free Online JPEG to NUMBERS Python., Python Convert JPEG to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

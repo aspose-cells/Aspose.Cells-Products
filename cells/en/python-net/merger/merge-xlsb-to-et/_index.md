@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ET - Combine XLSB to ET in Python
 url: /python-net/merger/merge-xlsb-to-et/ 
-description: Aspose Excel. Free Online Merge XLSB to ET saveformat. Python Combine XLSB to ET format. Merge XLSB to ET in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to ET saveformat via Python., Free Online Merge XLSB to et in Python., Python Combine XLSB to ET Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to ET saveformat. Python Combine XLSB to ET format. Merge XLSB to ET in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to ET in Python., Free Online Python Merge XLSB to et., Python Combine XLSB to ET Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

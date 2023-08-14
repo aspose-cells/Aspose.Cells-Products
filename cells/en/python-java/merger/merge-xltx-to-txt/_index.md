@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to TXT - Combine XLTX to TXT in Python
 url: /python-java/merger/merge-xltx-to-txt/ 
-description: Aspose Excel. Free Online Merge XLTX to TXT saveformat. Python Combine XLTX to TXT format. Merge XLTX to TXT in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to TXT saveformat via Python., Free Online Merge XLTX to txt in Python., Python Combine XLTX to TXT Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to TXT saveformat. Python Combine XLTX to TXT format. Merge XLTX to TXT in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to TXT in Python., Free Online Python Merge XLTX to txt., Python Combine XLTX to TXT Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

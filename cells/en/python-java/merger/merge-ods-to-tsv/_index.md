@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TSV - Combine ODS to TSV in Python
 url: /python-java/merger/merge-ods-to-tsv/ 
-description: Aspose Excel. Free Online Merge ODS to TSV saveformat. Python Combine ODS to TSV format. Merge ODS to TSV in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to TSV saveformat via Python., Free Online Merge ODS to tsv in Python., Python Combine ODS to TSV Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to TSV saveformat. Python Combine ODS to TSV format. Merge ODS to TSV in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to TSV in Python., Free Online Python Merge ODS to tsv., Python Combine ODS to TSV Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

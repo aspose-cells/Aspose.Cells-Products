@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XPS - Combine OTS to XPS in C++
 url: /cpp/merger/merge-ots-to-xps/ 
-description: Aspose Excel. Free Online Merge OTS to XPS saveformat. C++ Combine OTS to XPS format. Merge OTS to XPS in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to XPS saveformat via C++., Free Online Merge OTS to xps in C++., C++ Combine OTS to XPS Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to XPS saveformat. C++ Combine OTS to XPS format. Merge OTS to XPS in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to XPS in C++., Free Online C++ Merge OTS to xps., C++ Combine OTS to XPS Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

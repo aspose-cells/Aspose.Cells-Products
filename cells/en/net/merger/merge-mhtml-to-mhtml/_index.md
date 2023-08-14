@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to MHTML - Combine MHTML to MHTML in C#
 url: /net/merger/merge-mhtml-to-mhtml/ 
-description: Aspose Excel. Free Online Merge MHTML to MHTML saveformat. C# Combine MHTML to MHTML format. Merge MHTML to MHTML in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to MHTML saveformat via C#., Free Online Merge MHTML to mhtml in C#., C# Combine MHTML to MHTML Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to MHTML saveformat. C# Combine MHTML to MHTML format. Merge MHTML to MHTML in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to MHTML in C#., Free Online C# Merge MHTML to mhtml., C# Combine MHTML to MHTML Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

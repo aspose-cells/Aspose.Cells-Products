@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PDF - Combine HTML to PDF in Python
 url: /python-java/merger/merge-html-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTML to PDF saveformat. Python Combine HTML to PDF format. Merge HTML to PDF in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PDF saveformat via Python., Free Online Merge HTML to pdf in Python., Python Combine HTML to PDF Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to PDF saveformat. Python Combine HTML to PDF format. Merge HTML to PDF in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PDF in Python., Free Online Python Merge HTML to pdf., Python Combine HTML to PDF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

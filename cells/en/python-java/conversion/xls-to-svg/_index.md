@@ -1,7 +1,7 @@
 ---
-title: XLS to SVG - Convert XLS to SVG files Python
-description: Aspose Excel. Free Online Convert XLS to SVG saveformat. Python XLS to SVG format. Save XLS as SVG in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to SVG saveformat., Free Online XLS to SVG Converter]
+title: Python XLS to SVG - Online XLS to SVG Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to SVG saveformat. Python XLS to SVG format. Save XLS to SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to SVG saveformat., Free Online XLS to SVG Python., Python Convert XLS to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

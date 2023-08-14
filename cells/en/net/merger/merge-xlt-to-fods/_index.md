@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to FODS - Combine XLT to FODS in C#
 url: /net/merger/merge-xlt-to-fods/ 
-description: Aspose Excel. Free Online Merge XLT to FODS saveformat. C# Combine XLT to FODS format. Merge XLT to FODS in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to FODS saveformat via C#., Free Online Merge XLT to fods in C#., C# Combine XLT to FODS Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to FODS saveformat. C# Combine XLT to FODS format. Merge XLT to FODS in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to FODS in C#., Free Online C# Merge XLT to fods., C# Combine XLT to FODS Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

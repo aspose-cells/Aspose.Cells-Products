@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to WORD - Combine EXCEL to WORD in C#
 url: /net/merger/merge-excel-to-word/ 
-description: Aspose Excel. Free Online Merge EXCEL to WORD saveformat. C# Combine EXCEL to WORD format. Merge EXCEL to WORD in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to WORD saveformat via C#., Free Online Merge EXCEL to word in C#., C# Combine EXCEL to WORD Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to WORD saveformat. C# Combine EXCEL to WORD format. Merge EXCEL to WORD in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to WORD in C#., Free Online C# Merge EXCEL to word., C# Combine EXCEL to WORD Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to JPEG - Combine HTML to JPEG in Python
 url: /python-net/merger/merge-html-to-jpeg/ 
-description: Aspose Excel. Free Online Merge HTML to JPEG saveformat. Python Combine HTML to JPEG format. Merge HTML to JPEG in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to JPEG saveformat via Python., Free Online Merge HTML to jpeg in Python., Python Combine HTML to JPEG Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to JPEG saveformat. Python Combine HTML to JPEG format. Merge HTML to JPEG in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to JPEG in Python., Free Online Python Merge HTML to jpeg., Python Combine HTML to JPEG Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

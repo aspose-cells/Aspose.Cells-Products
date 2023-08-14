@@ -1,7 +1,7 @@
 ---
-title: ODS to MARKDOWN - Convert ODS to MARKDOWN files Java
-description: Aspose Excel. Free Online Convert ODS to MARKDOWN saveformat. Java ODS to MARKDOWN format. Save ODS as MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to MARKDOWN saveformat., Free Online ODS to MARKDOWN Converter]
+title: Java ODS to MARKDOWN - Online ODS to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to MARKDOWN saveformat. Java ODS to MARKDOWN format. Save ODS to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to MARKDOWN saveformat., Free Online ODS to MARKDOWN Java., Java Convert ODS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

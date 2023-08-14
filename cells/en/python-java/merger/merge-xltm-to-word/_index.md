@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to WORD - Combine XLTM to WORD in Python
 url: /python-java/merger/merge-xltm-to-word/ 
-description: Aspose Excel. Free Online Merge XLTM to WORD saveformat. Python Combine XLTM to WORD format. Merge XLTM to WORD in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to WORD saveformat via Python., Free Online Merge XLTM to word in Python., Python Combine XLTM to WORD Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to WORD saveformat. Python Combine XLTM to WORD format. Merge XLTM to WORD in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to WORD in Python., Free Online Python Merge XLTM to word., Python Combine XLTM to WORD Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

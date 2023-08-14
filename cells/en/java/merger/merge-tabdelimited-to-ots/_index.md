@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to OTS - Combine TABDELIMITED to OTS in Java
 url: /java/merger/merge-tabdelimited-to-ots/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to OTS saveformat. Java Combine TABDELIMITED to OTS format. Merge TABDELIMITED to OTS in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to OTS saveformat via Java., Free Online Merge TABDELIMITED to ots in Java., Java Combine TABDELIMITED to OTS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to OTS saveformat. Java Combine TABDELIMITED to OTS format. Merge TABDELIMITED to OTS in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to OTS in Java., Free Online Java Merge TABDELIMITED to ots., Java Combine TABDELIMITED to OTS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

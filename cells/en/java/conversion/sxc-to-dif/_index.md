@@ -1,7 +1,7 @@
 ---
-title: SXC to DIF - Convert SXC to DIF files Java
-description: Aspose Excel. Free Online Convert SXC to DIF saveformat. Java SXC to DIF format. Save SXC as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to DIF saveformat., Free Online SXC to DIF Converter]
+title: Java SXC to DIF - Online SXC to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to DIF saveformat. Java SXC to DIF format. Save SXC to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to DIF saveformat., Free Online SXC to DIF Java., Java Convert SXC to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

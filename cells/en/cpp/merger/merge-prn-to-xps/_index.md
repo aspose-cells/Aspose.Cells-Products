@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XPS - Combine PRN to XPS in C++
 url: /cpp/merger/merge-prn-to-xps/ 
-description: Aspose Excel. Free Online Merge PRN to XPS saveformat. C++ Combine PRN to XPS format. Merge PRN to XPS in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XPS saveformat via C++., Free Online Merge PRN to xps in C++., C++ Combine PRN to XPS Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to XPS saveformat. C++ Combine PRN to XPS format. Merge PRN to XPS in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XPS in C++., Free Online C++ Merge PRN to xps., C++ Combine PRN to XPS Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

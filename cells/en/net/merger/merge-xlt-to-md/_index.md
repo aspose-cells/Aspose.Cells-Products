@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MD - Combine XLT to MD in C#
 url: /net/merger/merge-xlt-to-md/ 
-description: Aspose Excel. Free Online Merge XLT to MD saveformat. C# Combine XLT to MD format. Merge XLT to MD in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to MD saveformat via C#., Free Online Merge XLT to md in C#., C# Combine XLT to MD Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to MD saveformat. C# Combine XLT to MD format. Merge XLT to MD in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to MD in C#., Free Online C# Merge XLT to md., C# Combine XLT to MD Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

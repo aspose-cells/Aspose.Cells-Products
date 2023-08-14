@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to NUMBERS - Combine FODS to NUMBERS in Java
 url: /java/merger/merge-fods-to-numbers/ 
-description: Aspose Excel. Free Online Merge FODS to NUMBERS saveformat. Java Combine FODS to NUMBERS format. Merge FODS to NUMBERS in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to NUMBERS saveformat via Java., Free Online Merge FODS to numbers in Java., Java Combine FODS to NUMBERS Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to NUMBERS saveformat. Java Combine FODS to NUMBERS format. Merge FODS to NUMBERS in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to NUMBERS in Java., Free Online Java Merge FODS to numbers., Java Combine FODS to NUMBERS Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

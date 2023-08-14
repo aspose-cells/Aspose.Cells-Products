@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PPTX - Combine SPREADSHEETML to PPTX in C++
 url: /cpp/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to PPTX saveformat. C++ Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to PPTX saveformat via C++., Free Online Merge SPREADSHEETML to pptx in C++., C++ Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to PPTX saveformat. C++ Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to PPTX in C++., Free Online C++ Merge SPREADSHEETML to pptx., C++ Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to JPG - Combine MHT to JPG in Java
 url: /java/merger/merge-mht-to-jpg/ 
-description: Aspose Excel. Free Online Merge MHT to JPG saveformat. Java Combine MHT to JPG format. Merge MHT to JPG in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to JPG saveformat via Java., Free Online Merge MHT to jpg in Java., Java Combine MHT to JPG Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to JPG saveformat. Java Combine MHT to JPG format. Merge MHT to JPG in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to JPG in Java., Free Online Java Merge MHT to jpg., Java Combine MHT to JPG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

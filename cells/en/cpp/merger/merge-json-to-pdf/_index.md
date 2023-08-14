@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PDF - Combine JSON to PDF in C++
 url: /cpp/merger/merge-json-to-pdf/ 
-description: Aspose Excel. Free Online Merge JSON to PDF saveformat. C++ Combine JSON to PDF format. Merge JSON to PDF in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to PDF saveformat via C++., Free Online Merge JSON to pdf in C++., C++ Combine JSON to PDF Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to PDF saveformat. C++ Combine JSON to PDF format. Merge JSON to PDF in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to PDF in C++., Free Online C++ Merge JSON to pdf., C++ Combine JSON to PDF Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLSB - Combine PNG to XLSB in Python
 url: /python-java/merger/merge-png-to-xlsb/ 
-description: Aspose Excel. Free Online Merge PNG to XLSB saveformat. Python Combine PNG to XLSB format. Merge PNG to XLSB in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XLSB saveformat via Python., Free Online Merge PNG to xlsb in Python., Python Combine PNG to XLSB Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to XLSB saveformat. Python Combine PNG to XLSB format. Merge PNG to XLSB in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XLSB in Python., Free Online Python Merge PNG to xlsb., Python Combine PNG to XLSB Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

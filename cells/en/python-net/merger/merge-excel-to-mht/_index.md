@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MHT - Combine EXCEL to MHT in Python
 url: /python-net/merger/merge-excel-to-mht/ 
-description: Aspose Excel. Free Online Merge EXCEL to MHT saveformat. Python Combine EXCEL to MHT format. Merge EXCEL to MHT in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to MHT saveformat via Python., Free Online Merge EXCEL to mht in Python., Python Combine EXCEL to MHT Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to MHT saveformat. Python Combine EXCEL to MHT format. Merge EXCEL to MHT in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to MHT in Python., Free Online Python Merge EXCEL to mht., Python Combine EXCEL to MHT Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

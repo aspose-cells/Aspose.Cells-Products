@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PNG - Combine SXC to PNG in C#
 url: /net/merger/merge-sxc-to-png/ 
-description: Aspose Excel. Free Online Merge SXC to PNG saveformat. C# Combine SXC to PNG format. Merge SXC to PNG in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to PNG saveformat via C#., Free Online Merge SXC to png in C#., C# Combine SXC to PNG Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to PNG saveformat. C# Combine SXC to PNG format. Merge SXC to PNG in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to PNG in C#., Free Online C# Merge SXC to png., C# Combine SXC to PNG Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

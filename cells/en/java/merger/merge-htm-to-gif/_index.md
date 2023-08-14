@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to GIF - Combine HTM to GIF in Java
 url: /java/merger/merge-htm-to-gif/ 
-description: Aspose Excel. Free Online Merge HTM to GIF saveformat. Java Combine HTM to GIF format. Merge HTM to GIF in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to GIF saveformat via Java., Free Online Merge HTM to gif in Java., Java Combine HTM to GIF Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to GIF saveformat. Java Combine HTM to GIF format. Merge HTM to GIF in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to GIF in Java., Free Online Java Merge HTM to gif., Java Combine HTM to GIF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

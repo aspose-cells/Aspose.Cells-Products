@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JPG - Combine PNG to JPG in C#
 url: /net/merger/merge-png-to-jpg/ 
-description: Aspose Excel. Free Online Merge PNG to JPG saveformat. C# Combine PNG to JPG format. Merge PNG to JPG in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to JPG saveformat via C#., Free Online Merge PNG to jpg in C#., C# Combine PNG to JPG Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to JPG saveformat. C# Combine PNG to JPG format. Merge PNG to JPG in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to JPG in C#., Free Online C# Merge PNG to jpg., C# Combine PNG to JPG Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

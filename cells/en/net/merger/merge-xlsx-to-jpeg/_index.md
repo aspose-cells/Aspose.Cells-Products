@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to JPEG - Combine XLSX to JPEG in C#
 url: /net/merger/merge-xlsx-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XLSX to JPEG saveformat. C# Combine XLSX to JPEG format. Merge XLSX to JPEG in C#. XLSX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to JPEG saveformat via C#., Free Online Merge XLSX to jpeg in C#., C# Combine XLSX to JPEG Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to JPEG saveformat. C# Combine XLSX to JPEG format. Merge XLSX to JPEG in C#. XLSX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to JPEG in C#., Free Online C# Merge XLSX to jpeg., C# Combine XLSX to JPEG Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

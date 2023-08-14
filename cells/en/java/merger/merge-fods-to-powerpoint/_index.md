@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to POWERPOINT - Combine FODS to POWERPOINT in Java
 url: /java/merger/merge-fods-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge FODS to POWERPOINT saveformat. Java Combine FODS to POWERPOINT format. Merge FODS to POWERPOINT in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to POWERPOINT saveformat via Java., Free Online Merge FODS to powerpoint in Java., Java Combine FODS to POWERPOINT Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to POWERPOINT saveformat. Java Combine FODS to POWERPOINT format. Merge FODS to POWERPOINT in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to POWERPOINT in Java., Free Online Java Merge FODS to powerpoint., Java Combine FODS to POWERPOINT Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

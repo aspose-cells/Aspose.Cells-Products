@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PDF - Combine HTM to PDF in Python
 url: /python-java/merger/merge-htm-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTM to PDF saveformat. Python Combine HTM to PDF format. Merge HTM to PDF in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to PDF saveformat via Python., Free Online Merge HTM to pdf in Python., Python Combine HTM to PDF Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to PDF saveformat. Python Combine HTM to PDF format. Merge HTM to PDF in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to PDF in Python., Free Online Python Merge HTM to pdf., Python Combine HTM to PDF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

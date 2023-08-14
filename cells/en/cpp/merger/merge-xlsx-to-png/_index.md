@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PNG - Combine XLSX to PNG in C++
 url: /cpp/merger/merge-xlsx-to-png/ 
-description: Aspose Excel. Free Online Merge XLSX to PNG saveformat. C++ Combine XLSX to PNG format. Merge XLSX to PNG in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to PNG saveformat via C++., Free Online Merge XLSX to png in C++., C++ Combine XLSX to PNG Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to PNG saveformat. C++ Combine XLSX to PNG format. Merge XLSX to PNG in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to PNG in C++., Free Online C++ Merge XLSX to png., C++ Combine XLSX to PNG Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to DIF - Combine XLSX to DIF in Python
 url: /python-net/merger/merge-xlsx-to-dif/ 
-description: Aspose Excel. Free Online Merge XLSX to DIF saveformat. Python Combine XLSX to DIF format. Merge XLSX to DIF in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to DIF saveformat via Python., Free Online Merge XLSX to dif in Python., Python Combine XLSX to DIF Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to DIF saveformat. Python Combine XLSX to DIF format. Merge XLSX to DIF in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to DIF in Python., Free Online Python Merge XLSX to dif., Python Combine XLSX to DIF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

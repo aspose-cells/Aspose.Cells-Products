@@ -1,7 +1,7 @@
 ---
-title: JPG to XLSX - Convert JPG to XLSX files Java
-description: Aspose Excel. Free Online Convert JPG to XLSX saveformat. Java JPG to XLSX format. Save JPG as XLSX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XLSX saveformat., Free Online JPG to XLSX Converter]
+title: Java JPG to XLSX - Online JPG to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XLSX saveformat. Java JPG to XLSX format. Save JPG to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XLSX saveformat., Free Online JPG to XLSX Java., Java Convert JPG to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

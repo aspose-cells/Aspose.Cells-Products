@@ -1,7 +1,7 @@
 ---
-title: HTM to ET - Convert HTM to ET files C#
-description: Aspose Excel. Free Online Convert HTM to ET saveformat. C# HTM to ET format. Save HTM as ET in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTM to ET saveformat., Free Online HTM to ET Converter]
+title: C# HTM to ET - Online HTM to ET Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTM to ET saveformat. C# HTM to ET format. Save HTM to ET C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTM to ET saveformat., Free Online HTM to ET C#., C# Convert HTM to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

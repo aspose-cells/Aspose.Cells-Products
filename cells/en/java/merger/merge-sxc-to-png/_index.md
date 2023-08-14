@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PNG - Combine SXC to PNG in Java
 url: /java/merger/merge-sxc-to-png/ 
-description: Aspose Excel. Free Online Merge SXC to PNG saveformat. Java Combine SXC to PNG format. Merge SXC to PNG in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to PNG saveformat via Java., Free Online Merge SXC to png in Java., Java Combine SXC to PNG Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to PNG saveformat. Java Combine SXC to PNG format. Merge SXC to PNG in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to PNG in Java., Free Online Java Merge SXC to png., Java Combine SXC to PNG Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

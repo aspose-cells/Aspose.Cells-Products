@@ -1,7 +1,7 @@
 ---
-title: PNG to XLS - Convert PNG to XLS files C++
-description: Aspose Excel. Free Online Convert PNG to XLS saveformat. C++ PNG to XLS format. Save PNG as XLS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to XLS saveformat., Free Online PNG to XLS Converter]
+title: C++ PNG to XLS - Online PNG to XLS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to XLS saveformat. C++ PNG to XLS format. Save PNG to XLS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to XLS saveformat., Free Online PNG to XLS C++., C++ Convert PNG to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

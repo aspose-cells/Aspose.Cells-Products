@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to POWERPOINT - Combine TXT to POWERPOINT in Python
 url: /python-net/merger/merge-txt-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TXT to POWERPOINT saveformat. Python Combine TXT to POWERPOINT format. Merge TXT to POWERPOINT in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to POWERPOINT saveformat via Python., Free Online Merge TXT to powerpoint in Python., Python Combine TXT to POWERPOINT Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to POWERPOINT saveformat. Python Combine TXT to POWERPOINT format. Merge TXT to POWERPOINT in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to POWERPOINT in Python., Free Online Python Merge TXT to powerpoint., Python Combine TXT to POWERPOINT Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSM to SXC - Convert XLSM to SXC files Java
-description: Aspose Excel. Free Online Convert XLSM to SXC saveformat. Java XLSM to SXC format. Save XLSM as SXC in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to SXC saveformat., Free Online XLSM to SXC Converter]
+title: Java XLSM to SXC - Online XLSM to SXC Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSM to SXC saveformat. Java XLSM to SXC format. Save XLSM to SXC Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSM to SXC saveformat., Free Online XLSM to SXC Java., Java Convert XLSM to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

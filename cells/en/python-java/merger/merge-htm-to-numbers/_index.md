@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to NUMBERS - Combine HTM to NUMBERS in Python
 url: /python-java/merger/merge-htm-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTM to NUMBERS saveformat. Python Combine HTM to NUMBERS format. Merge HTM to NUMBERS in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to NUMBERS saveformat via Python., Free Online Merge HTM to numbers in Python., Python Combine HTM to NUMBERS Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to NUMBERS saveformat. Python Combine HTM to NUMBERS format. Merge HTM to NUMBERS in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to NUMBERS in Python., Free Online Python Merge HTM to numbers., Python Combine HTM to NUMBERS Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

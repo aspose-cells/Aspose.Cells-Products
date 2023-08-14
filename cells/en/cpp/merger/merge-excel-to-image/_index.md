@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to IMAGE - Combine EXCEL to IMAGE in C++
 url: /cpp/merger/merge-excel-to-image/ 
-description: Aspose Excel. Free Online Merge EXCEL to IMAGE saveformat. C++ Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to IMAGE saveformat via C++., Free Online Merge EXCEL to image in C++., C++ Combine EXCEL to IMAGE Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to IMAGE saveformat. C++ Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to IMAGE in C++., Free Online C++ Merge EXCEL to image., C++ Combine EXCEL to IMAGE Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

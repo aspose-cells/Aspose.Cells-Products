@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to HTML - Combine XLT to HTML in C#
 url: /net/merger/merge-xlt-to-html/ 
-description: Aspose Excel. Free Online Merge XLT to HTML saveformat. C# Combine XLT to HTML format. Merge XLT to HTML in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to HTML saveformat via C#., Free Online Merge XLT to html in C#., C# Combine XLT to HTML Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to HTML saveformat. C# Combine XLT to HTML format. Merge XLT to HTML in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to HTML in C#., Free Online C# Merge XLT to html., C# Combine XLT to HTML Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

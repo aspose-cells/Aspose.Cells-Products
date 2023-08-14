@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PRN - Combine JSON to PRN in Python
 url: /python-java/merger/merge-json-to-prn/ 
-description: Aspose Excel. Free Online Merge JSON to PRN saveformat. Python Combine JSON to PRN format. Merge JSON to PRN in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PRN saveformat via Python., Free Online Merge JSON to prn in Python., Python Combine JSON to PRN Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to PRN saveformat. Python Combine JSON to PRN format. Merge JSON to PRN in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PRN in Python., Free Online Python Merge JSON to prn., Python Combine JSON to PRN Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

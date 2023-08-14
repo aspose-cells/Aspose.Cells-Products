@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MD - Combine HTM to MD in C++
 url: /cpp/merger/merge-htm-to-md/ 
-description: Aspose Excel. Free Online Merge HTM to MD saveformat. C++ Combine HTM to MD format. Merge HTM to MD in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to MD saveformat via C++., Free Online Merge HTM to md in C++., C++ Combine HTM to MD Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to MD saveformat. C++ Combine HTM to MD format. Merge HTM to MD in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to MD in C++., Free Online C++ Merge HTM to md., C++ Combine HTM to MD Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

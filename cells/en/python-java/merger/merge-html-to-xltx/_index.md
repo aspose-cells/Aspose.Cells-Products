@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLTX - Combine HTML to XLTX in Python
 url: /python-java/merger/merge-html-to-xltx/ 
-description: Aspose Excel. Free Online Merge HTML to XLTX saveformat. Python Combine HTML to XLTX format. Merge HTML to XLTX in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLTX saveformat via Python., Free Online Merge HTML to xltx in Python., Python Combine HTML to XLTX Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XLTX saveformat. Python Combine HTML to XLTX format. Merge HTML to XLTX in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLTX in Python., Free Online Python Merge HTML to xltx., Python Combine HTML to XLTX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

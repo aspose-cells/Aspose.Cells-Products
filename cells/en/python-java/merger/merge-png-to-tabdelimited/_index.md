@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TABDELIMITED - Combine PNG to TABDELIMITED in Python
 url: /python-java/merger/merge-png-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge PNG to TABDELIMITED saveformat. Python Combine PNG to TABDELIMITED format. Merge PNG to TABDELIMITED in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TABDELIMITED saveformat via Python., Free Online Merge PNG to tabdelimited in Python., Python Combine PNG to TABDELIMITED Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to TABDELIMITED saveformat. Python Combine PNG to TABDELIMITED format. Merge PNG to TABDELIMITED in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TABDELIMITED in Python., Free Online Python Merge PNG to tabdelimited., Python Combine PNG to TABDELIMITED Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XML - Combine HTM to XML in Java
 url: /java/merger/merge-htm-to-xml/ 
-description: Aspose Excel. Free Online Merge HTM to XML saveformat. Java Combine HTM to XML format. Merge HTM to XML in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to XML saveformat via Java., Free Online Merge HTM to xml in Java., Java Combine HTM to XML Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to XML saveformat. Java Combine HTM to XML format. Merge HTM to XML in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to XML in Java., Free Online Java Merge HTM to xml., Java Combine HTM to XML Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

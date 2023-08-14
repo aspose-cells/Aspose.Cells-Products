@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TIFF - Combine HTML to TIFF in Python
 url: /python-net/merger/merge-html-to-tiff/ 
-description: Aspose Excel. Free Online Merge HTML to TIFF saveformat. Python Combine HTML to TIFF format. Merge HTML to TIFF in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to TIFF saveformat via Python., Free Online Merge HTML to tiff in Python., Python Combine HTML to TIFF Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to TIFF saveformat. Python Combine HTML to TIFF format. Merge HTML to TIFF in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to TIFF in Python., Free Online Python Merge HTML to tiff., Python Combine HTML to TIFF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

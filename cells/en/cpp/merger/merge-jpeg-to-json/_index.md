@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to JSON - Combine JPEG to JSON in C++
 url: /cpp/merger/merge-jpeg-to-json/ 
-description: Aspose Excel. Free Online Merge JPEG to JSON saveformat. C++ Combine JPEG to JSON format. Merge JPEG to JSON in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to JSON saveformat via C++., Free Online Merge JPEG to json in C++., C++ Combine JPEG to JSON Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to JSON saveformat. C++ Combine JPEG to JSON format. Merge JPEG to JSON in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to JSON in C++., Free Online C++ Merge JPEG to json., C++ Combine JPEG to JSON Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

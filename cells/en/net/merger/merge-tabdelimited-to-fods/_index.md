@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to FODS - Combine TABDELIMITED to FODS in C#
 url: /net/merger/merge-tabdelimited-to-fods/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to FODS saveformat. C# Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in C#. TABDELIMITED Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to FODS saveformat via C#., Free Online Merge TABDELIMITED to fods in C#., C# Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to FODS saveformat. C# Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in C#. TABDELIMITED Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to FODS in C#., Free Online C# Merge TABDELIMITED to fods., C# Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

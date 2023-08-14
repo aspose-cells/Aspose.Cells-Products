@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to FODS - Convert TABDELIMITED to FODS files C++
-description: Aspose Excel. Free Online Convert TABDELIMITED to FODS saveformat. C++ TABDELIMITED to FODS format. Save TABDELIMITED as FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TABDELIMITED to FODS saveformat., Free Online TABDELIMITED to FODS Converter]
+title: C++ TABDELIMITED to FODS - Online TABDELIMITED to FODS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TABDELIMITED to FODS saveformat. C++ TABDELIMITED to FODS format. Save TABDELIMITED to FODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED to FODS saveformat., Free Online TABDELIMITED to FODS C++., C++ Convert TABDELIMITED to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

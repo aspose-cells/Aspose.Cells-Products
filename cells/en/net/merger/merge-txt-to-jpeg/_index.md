@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to JPEG - Combine TXT to JPEG in C#
 url: /net/merger/merge-txt-to-jpeg/ 
-description: Aspose Excel. Free Online Merge TXT to JPEG saveformat. C# Combine TXT to JPEG format. Merge TXT to JPEG in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to JPEG saveformat via C#., Free Online Merge TXT to jpeg in C#., C# Combine TXT to JPEG Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to JPEG saveformat. C# Combine TXT to JPEG format. Merge TXT to JPEG in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to JPEG in C#., Free Online C# Merge TXT to jpeg., C# Combine TXT to JPEG Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: IMAGE to SXC - Convert IMAGE to SXC files Python
-description: Aspose Excel. Free Online Convert IMAGE to SXC saveformat. Python IMAGE to SXC format. Save IMAGE as SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to SXC saveformat., Free Online IMAGE to SXC Converter]
+title: Python IMAGE to SXC - Online IMAGE to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert IMAGE to SXC saveformat. Python IMAGE to SXC format. Save IMAGE to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to SXC saveformat., Free Online IMAGE to SXC Python., Python Convert IMAGE to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SQL - Combine TABDELIMITED to SQL in Python
 url: /python-net/merger/merge-tabdelimited-to-sql/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SQL saveformat. Python Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SQL saveformat via Python., Free Online Merge TABDELIMITED to sql in Python., Python Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to SQL saveformat. Python Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SQL in Python., Free Online Python Merge TABDELIMITED to sql., Python Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

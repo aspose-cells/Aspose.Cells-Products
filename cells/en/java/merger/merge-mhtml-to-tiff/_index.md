@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TIFF - Combine MHTML to TIFF in Java
 url: /java/merger/merge-mhtml-to-tiff/ 
-description: Aspose Excel. Free Online Merge MHTML to TIFF saveformat. Java Combine MHTML to TIFF format. Merge MHTML to TIFF in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to TIFF saveformat via Java., Free Online Merge MHTML to tiff in Java., Java Combine MHTML to TIFF Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to TIFF saveformat. Java Combine MHTML to TIFF format. Merge MHTML to TIFF in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to TIFF in Java., Free Online Java Merge MHTML to tiff., Java Combine MHTML to TIFF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

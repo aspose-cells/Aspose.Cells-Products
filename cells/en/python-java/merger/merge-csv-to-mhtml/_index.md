@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to MHTML - Combine CSV to MHTML in Python
 url: /python-java/merger/merge-csv-to-mhtml/ 
-description: Aspose Excel. Free Online Merge CSV to MHTML saveformat. Python Combine CSV to MHTML format. Merge CSV to MHTML in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to MHTML saveformat via Python., Free Online Merge CSV to mhtml in Python., Python Combine CSV to MHTML Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to MHTML saveformat. Python Combine CSV to MHTML format. Merge CSV to MHTML in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to MHTML in Python., Free Online Python Merge CSV to mhtml., Python Combine CSV to MHTML Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

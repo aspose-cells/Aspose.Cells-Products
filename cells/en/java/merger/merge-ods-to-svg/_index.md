@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SVG - Combine ODS to SVG in Java
 url: /java/merger/merge-ods-to-svg/ 
-description: Aspose Excel. Free Online Merge ODS to SVG saveformat. Java Combine ODS to SVG format. Merge ODS to SVG in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to SVG saveformat via Java., Free Online Merge ODS to svg in Java., Java Combine ODS to SVG Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to SVG saveformat. Java Combine ODS to SVG format. Merge ODS to SVG in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to SVG in Java., Free Online Java Merge ODS to svg., Java Combine ODS to SVG Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JSON - Combine XML to JSON in Python
 url: /python-net/merger/merge-xml-to-json/ 
-description: Aspose Excel. Free Online Merge XML to JSON saveformat. Python Combine XML to JSON format. Merge XML to JSON in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to JSON saveformat via Python., Free Online Merge XML to json in Python., Python Combine XML to JSON Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to JSON saveformat. Python Combine XML to JSON format. Merge XML to JSON in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to JSON in Python., Free Online Python Merge XML to json., Python Combine XML to JSON Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

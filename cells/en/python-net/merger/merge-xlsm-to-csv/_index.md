@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to CSV - Combine XLSM to CSV in Python
 url: /python-net/merger/merge-xlsm-to-csv/ 
-description: Aspose Excel. Free Online Merge XLSM to CSV saveformat. Python Combine XLSM to CSV format. Merge XLSM to CSV in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to CSV saveformat via Python., Free Online Merge XLSM to csv in Python., Python Combine XLSM to CSV Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to CSV saveformat. Python Combine XLSM to CSV format. Merge XLSM to CSV in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to CSV in Python., Free Online Python Merge XLSM to csv., Python Combine XLSM to CSV Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

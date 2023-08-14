@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XLSM - Combine JPG to XLSM in C#
 url: /net/merger/merge-jpg-to-xlsm/ 
-description: Aspose Excel. Free Online Merge JPG to XLSM saveformat. C# Combine JPG to XLSM format. Merge JPG to XLSM in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to XLSM saveformat via C#., Free Online Merge JPG to xlsm in C#., C# Combine JPG to XLSM Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to XLSM saveformat. C# Combine JPG to XLSM format. Merge JPG to XLSM in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to XLSM in C#., Free Online C# Merge JPG to xlsm., C# Combine JPG to XLSM Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

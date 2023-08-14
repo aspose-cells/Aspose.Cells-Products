@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MD - Combine TXT to MD in C++
 url: /cpp/merger/merge-txt-to-md/ 
-description: Aspose Excel. Free Online Merge TXT to MD saveformat. C++ Combine TXT to MD format. Merge TXT to MD in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to MD saveformat via C++., Free Online Merge TXT to md in C++., C++ Combine TXT to MD Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to MD saveformat. C++ Combine TXT to MD format. Merge TXT to MD in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to MD in C++., Free Online C++ Merge TXT to md., C++ Combine TXT to MD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

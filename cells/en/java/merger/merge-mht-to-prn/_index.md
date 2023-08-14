@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PRN - Combine MHT to PRN in Java
 url: /java/merger/merge-mht-to-prn/ 
-description: Aspose Excel. Free Online Merge MHT to PRN saveformat. Java Combine MHT to PRN format. Merge MHT to PRN in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to PRN saveformat via Java., Free Online Merge MHT to prn in Java., Java Combine MHT to PRN Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to PRN saveformat. Java Combine MHT to PRN format. Merge MHT to PRN in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to PRN in Java., Free Online Java Merge MHT to prn., Java Combine MHT to PRN Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

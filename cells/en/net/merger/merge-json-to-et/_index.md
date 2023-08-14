@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to ET - Combine JSON to ET in C#
 url: /net/merger/merge-json-to-et/ 
-description: Aspose Excel. Free Online Merge JSON to ET saveformat. C# Combine JSON to ET format. Merge JSON to ET in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to ET saveformat via C#., Free Online Merge JSON to et in C#., C# Combine JSON to ET Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to ET saveformat. C# Combine JSON to ET format. Merge JSON to ET in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to ET in C#., Free Online C# Merge JSON to et., C# Combine JSON to ET Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

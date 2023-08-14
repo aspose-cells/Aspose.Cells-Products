@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SPREADSHEETML - Combine ODS to SPREADSHEETML in C++
 url: /cpp/merger/merge-ods-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge ODS to SPREADSHEETML saveformat. C++ Combine ODS to SPREADSHEETML format. Merge ODS to SPREADSHEETML in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to SPREADSHEETML saveformat via C++., Free Online Merge ODS to spreadsheetml in C++., C++ Combine ODS to SPREADSHEETML Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to SPREADSHEETML saveformat. C++ Combine ODS to SPREADSHEETML format. Merge ODS to SPREADSHEETML in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to SPREADSHEETML in C++., Free Online C++ Merge ODS to spreadsheetml., C++ Combine ODS to SPREADSHEETML Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

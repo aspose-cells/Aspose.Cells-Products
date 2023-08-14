@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DIF - Combine XLTM to DIF in Python
 url: /python-net/merger/merge-xltm-to-dif/ 
-description: Aspose Excel. Free Online Merge XLTM to DIF saveformat. Python Combine XLTM to DIF format. Merge XLTM to DIF in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DIF saveformat via Python., Free Online Merge XLTM to dif in Python., Python Combine XLTM to DIF Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to DIF saveformat. Python Combine XLTM to DIF format. Merge XLTM to DIF in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to DIF in Python., Free Online Python Merge XLTM to dif., Python Combine XLTM to DIF Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

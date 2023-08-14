@@ -1,7 +1,7 @@
 ---
-title: JPG to BMP - Convert JPG to BMP files C#
-description: Aspose Excel. Free Online Convert JPG to BMP saveformat. C# JPG to BMP format. Save JPG as BMP in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to BMP saveformat., Free Online JPG to BMP Converter]
+title: C# JPG to BMP - Online JPG to BMP Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to BMP saveformat. C# JPG to BMP format. Save JPG to BMP C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to BMP saveformat., Free Online JPG to BMP C#., C# Convert JPG to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

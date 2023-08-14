@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DOCX - Combine PNG to DOCX in C++
 url: /cpp/merger/merge-png-to-docx/ 
-description: Aspose Excel. Free Online Merge PNG to DOCX saveformat. C++ Combine PNG to DOCX format. Merge PNG to DOCX in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to DOCX saveformat via C++., Free Online Merge PNG to docx in C++., C++ Combine PNG to DOCX Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to DOCX saveformat. C++ Combine PNG to DOCX format. Merge PNG to DOCX in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to DOCX in C++., Free Online C++ Merge PNG to docx., C++ Combine PNG to DOCX Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

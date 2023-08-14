@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PNG - Combine MHT to PNG in C#
 url: /net/merger/merge-mht-to-png/ 
-description: Aspose Excel. Free Online Merge MHT to PNG saveformat. C# Combine MHT to PNG format. Merge MHT to PNG in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to PNG saveformat via C#., Free Online Merge MHT to png in C#., C# Combine MHT to PNG Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to PNG saveformat. C# Combine MHT to PNG format. Merge MHT to PNG in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to PNG in C#., Free Online C# Merge MHT to png., C# Combine MHT to PNG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLSB - Combine TXT to XLSB in Python
 url: /python-net/merger/merge-txt-to-xlsb/ 
-description: Aspose Excel. Free Online Merge TXT to XLSB saveformat. Python Combine TXT to XLSB format. Merge TXT to XLSB in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XLSB saveformat via Python., Free Online Merge TXT to xlsb in Python., Python Combine TXT to XLSB Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to XLSB saveformat. Python Combine TXT to XLSB format. Merge TXT to XLSB in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XLSB in Python., Free Online Python Merge TXT to xlsb., Python Combine TXT to XLSB Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

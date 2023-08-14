@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to FODS - Combine XLTM to FODS in C#
 url: /net/merger/merge-xltm-to-fods/ 
-description: Aspose Excel. Free Online Merge XLTM to FODS saveformat. C# Combine XLTM to FODS format. Merge XLTM to FODS in C#. XLTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to FODS saveformat via C#., Free Online Merge XLTM to fods in C#., C# Combine XLTM to FODS Online for Free., XLTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to FODS saveformat. C# Combine XLTM to FODS format. Merge XLTM to FODS in C#. XLTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to FODS in C#., Free Online C# Merge XLTM to fods., C# Combine XLTM to FODS Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

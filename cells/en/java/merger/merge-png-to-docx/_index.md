@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DOCX - Combine PNG to DOCX in Java
 url: /java/merger/merge-png-to-docx/ 
-description: Aspose Excel. Free Online Merge PNG to DOCX saveformat. Java Combine PNG to DOCX format. Merge PNG to DOCX in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to DOCX saveformat via Java., Free Online Merge PNG to docx in Java., Java Combine PNG to DOCX Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to DOCX saveformat. Java Combine PNG to DOCX format. Merge PNG to DOCX in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to DOCX in Java., Free Online Java Merge PNG to docx., Java Combine PNG to DOCX Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

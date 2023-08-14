@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PRN - Combine NUMBERS to PRN in C++
 url: /cpp/merger/merge-numbers-to-prn/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PRN saveformat. C++ Combine NUMBERS to PRN format. Merge NUMBERS to PRN in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PRN saveformat via C++., Free Online Merge NUMBERS to prn in C++., C++ Combine NUMBERS to PRN Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to PRN saveformat. C++ Combine NUMBERS to PRN format. Merge NUMBERS to PRN in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PRN in C++., Free Online C++ Merge NUMBERS to prn., C++ Combine NUMBERS to PRN Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

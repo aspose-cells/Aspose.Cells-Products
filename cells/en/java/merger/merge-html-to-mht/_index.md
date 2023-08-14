@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MHT - Combine HTML to MHT in Java
 url: /java/merger/merge-html-to-mht/ 
-description: Aspose Excel. Free Online Merge HTML to MHT saveformat. Java Combine HTML to MHT format. Merge HTML to MHT in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to MHT saveformat via Java., Free Online Merge HTML to mht in Java., Java Combine HTML to MHT Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to MHT saveformat. Java Combine HTML to MHT format. Merge HTML to MHT in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to MHT in Java., Free Online Java Merge HTML to mht., Java Combine HTML to MHT Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

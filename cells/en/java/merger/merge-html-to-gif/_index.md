@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to GIF - Combine HTML to GIF in Java
 url: /java/merger/merge-html-to-gif/ 
-description: Aspose Excel. Free Online Merge HTML to GIF saveformat. Java Combine HTML to GIF format. Merge HTML to GIF in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to GIF saveformat via Java., Free Online Merge HTML to gif in Java., Java Combine HTML to GIF Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to GIF saveformat. Java Combine HTML to GIF format. Merge HTML to GIF in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to GIF in Java., Free Online Java Merge HTML to gif., Java Combine HTML to GIF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

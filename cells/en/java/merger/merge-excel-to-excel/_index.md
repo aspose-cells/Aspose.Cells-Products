@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to EXCEL - Combine EXCEL to EXCEL in Java
 url: /java/merger/merge-excel-to-excel/ 
-description: Aspose Excel. Free Online Merge EXCEL to EXCEL saveformat. Java Combine EXCEL to EXCEL format. Merge EXCEL to EXCEL in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL saveformat via Java., Free Online Merge EXCEL to excel in Java., Java Combine EXCEL to EXCEL Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to EXCEL saveformat. Java Combine EXCEL to EXCEL format. Merge EXCEL to EXCEL in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to EXCEL in Java., Free Online Java Merge EXCEL to excel., Java Combine EXCEL to EXCEL Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

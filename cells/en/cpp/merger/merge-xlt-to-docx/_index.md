@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to DOCX - Combine XLT to DOCX in C++
 url: /cpp/merger/merge-xlt-to-docx/ 
-description: Aspose Excel. Free Online Merge XLT to DOCX saveformat. C++ Combine XLT to DOCX format. Merge XLT to DOCX in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to DOCX saveformat via C++., Free Online Merge XLT to docx in C++., C++ Combine XLT to DOCX Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to DOCX saveformat. C++ Combine XLT to DOCX format. Merge XLT to DOCX in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to DOCX in C++., Free Online C++ Merge XLT to docx., C++ Combine XLT to DOCX Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

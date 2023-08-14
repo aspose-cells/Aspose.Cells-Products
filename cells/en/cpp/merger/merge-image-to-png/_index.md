@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to PNG - Combine IMAGE to PNG in C++
 url: /cpp/merger/merge-image-to-png/ 
-description: Aspose Excel. Free Online Merge IMAGE to PNG saveformat. C++ Combine IMAGE to PNG format. Merge IMAGE to PNG in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to PNG saveformat via C++., Free Online Merge IMAGE to png in C++., C++ Combine IMAGE to PNG Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to PNG saveformat. C++ Combine IMAGE to PNG format. Merge IMAGE to PNG in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to PNG in C++., Free Online C++ Merge IMAGE to png., C++ Combine IMAGE to PNG Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

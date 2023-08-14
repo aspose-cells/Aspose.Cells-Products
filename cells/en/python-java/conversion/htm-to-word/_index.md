@@ -1,7 +1,7 @@
 ---
-title: HTM to WORD - Convert HTM to WORD files Python
-description: Aspose Excel. Free Online Convert HTM to WORD saveformat. Python HTM to WORD format. Save HTM as WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to WORD saveformat., Free Online HTM to WORD Converter]
+title: Python HTM to WORD - Online HTM to WORD Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTM to WORD saveformat. Python HTM to WORD format. Save HTM to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to WORD saveformat., Free Online HTM to WORD Python., Python Convert HTM to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

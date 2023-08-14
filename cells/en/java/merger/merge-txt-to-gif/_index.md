@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to GIF - Combine TXT to GIF in Java
 url: /java/merger/merge-txt-to-gif/ 
-description: Aspose Excel. Free Online Merge TXT to GIF saveformat. Java Combine TXT to GIF format. Merge TXT to GIF in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to GIF saveformat via Java., Free Online Merge TXT to gif in Java., Java Combine TXT to GIF Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to GIF saveformat. Java Combine TXT to GIF format. Merge TXT to GIF in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to GIF in Java., Free Online Java Merge TXT to gif., Java Combine TXT to GIF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to NUMBERS - Combine MHTML to NUMBERS in Python
 url: /python-net/merger/merge-mhtml-to-numbers/ 
-description: Aspose Excel. Free Online Merge MHTML to NUMBERS saveformat. Python Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to NUMBERS saveformat via Python., Free Online Merge MHTML to numbers in Python., Python Combine MHTML to NUMBERS Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to NUMBERS saveformat. Python Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to NUMBERS in Python., Free Online Python Merge MHTML to numbers., Python Combine MHTML to NUMBERS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

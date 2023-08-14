@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLSM - Combine PNG to XLSM in Python
 url: /python-java/merger/merge-png-to-xlsm/ 
-description: Aspose Excel. Free Online Merge PNG to XLSM saveformat. Python Combine PNG to XLSM format. Merge PNG to XLSM in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XLSM saveformat via Python., Free Online Merge PNG to xlsm in Python., Python Combine PNG to XLSM Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to XLSM saveformat. Python Combine PNG to XLSM format. Merge PNG to XLSM in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to XLSM in Python., Free Online Python Merge PNG to xlsm., Python Combine PNG to XLSM Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

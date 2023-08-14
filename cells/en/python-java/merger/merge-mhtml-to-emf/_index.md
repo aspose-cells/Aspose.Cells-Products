@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to EMF - Combine MHTML to EMF in Python
 url: /python-java/merger/merge-mhtml-to-emf/ 
-description: Aspose Excel. Free Online Merge MHTML to EMF saveformat. Python Combine MHTML to EMF format. Merge MHTML to EMF in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EMF saveformat via Python., Free Online Merge MHTML to emf in Python., Python Combine MHTML to EMF Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to EMF saveformat. Python Combine MHTML to EMF format. Merge MHTML to EMF in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to EMF in Python., Free Online Python Merge MHTML to emf., Python Combine MHTML to EMF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

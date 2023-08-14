@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MHTML - Combine HTML to MHTML in C++
 url: /cpp/merger/merge-html-to-mhtml/ 
-description: Aspose Excel. Free Online Merge HTML to MHTML saveformat. C++ Combine HTML to MHTML format. Merge HTML to MHTML in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to MHTML saveformat via C++., Free Online Merge HTML to mhtml in C++., C++ Combine HTML to MHTML Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to MHTML saveformat. C++ Combine HTML to MHTML format. Merge HTML to MHTML in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to MHTML in C++., Free Online C++ Merge HTML to mhtml., C++ Combine HTML to MHTML Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

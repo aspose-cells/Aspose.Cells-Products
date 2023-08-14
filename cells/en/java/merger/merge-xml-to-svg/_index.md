@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SVG - Combine XML to SVG in Java
 url: /java/merger/merge-xml-to-svg/ 
-description: Aspose Excel. Free Online Merge XML to SVG saveformat. Java Combine XML to SVG format. Merge XML to SVG in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to SVG saveformat via Java., Free Online Merge XML to svg in Java., Java Combine XML to SVG Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to SVG saveformat. Java Combine XML to SVG format. Merge XML to SVG in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to SVG in Java., Free Online Java Merge XML to svg., Java Combine XML to SVG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

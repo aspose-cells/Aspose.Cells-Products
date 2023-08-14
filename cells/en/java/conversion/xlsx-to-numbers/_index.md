@@ -1,7 +1,7 @@
 ---
-title: XLSX to NUMBERS - Convert XLSX to NUMBERS files Java
-description: Aspose Excel. Free Online Convert XLSX to NUMBERS saveformat. Java XLSX to NUMBERS format. Save XLSX as NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS Converter]
+title: Java XLSX to NUMBERS - Online XLSX to NUMBERS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to NUMBERS saveformat. Java XLSX to NUMBERS format. Save XLSX to NUMBERS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS Java., Java Convert XLSX to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

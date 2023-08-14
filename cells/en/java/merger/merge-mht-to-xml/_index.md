@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XML - Combine MHT to XML in Java
 url: /java/merger/merge-mht-to-xml/ 
-description: Aspose Excel. Free Online Merge MHT to XML saveformat. Java Combine MHT to XML format. Merge MHT to XML in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XML saveformat via Java., Free Online Merge MHT to xml in Java., Java Combine MHT to XML Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to XML saveformat. Java Combine MHT to XML format. Merge MHT to XML in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XML in Java., Free Online Java Merge MHT to xml., Java Combine MHT to XML Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

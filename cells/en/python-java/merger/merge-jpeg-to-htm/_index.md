@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to HTM - Combine JPEG to HTM in Python
 url: /python-java/merger/merge-jpeg-to-htm/ 
-description: Aspose Excel. Free Online Merge JPEG to HTM saveformat. Python Combine JPEG to HTM format. Merge JPEG to HTM in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to HTM saveformat via Python., Free Online Merge JPEG to htm in Python., Python Combine JPEG to HTM Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to HTM saveformat. Python Combine JPEG to HTM format. Merge JPEG to HTM in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to HTM in Python., Free Online Python Merge JPEG to htm., Python Combine JPEG to HTM Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

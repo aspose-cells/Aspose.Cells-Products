@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XPS - Combine PNG to XPS in Java
 url: /java/merger/merge-png-to-xps/ 
-description: Aspose Excel. Free Online Merge PNG to XPS saveformat. Java Combine PNG to XPS format. Merge PNG to XPS in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XPS saveformat via Java., Free Online Merge PNG to xps in Java., Java Combine PNG to XPS Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XPS saveformat. Java Combine PNG to XPS format. Merge PNG to XPS in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XPS in Java., Free Online Java Merge PNG to xps., Java Combine PNG to XPS Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLTM - Combine HTML to XLTM in Python
 url: /python-java/merger/merge-html-to-xltm/ 
-description: Aspose Excel. Free Online Merge HTML to XLTM saveformat. Python Combine HTML to XLTM format. Merge HTML to XLTM in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLTM saveformat via Python., Free Online Merge HTML to xltm in Python., Python Combine HTML to XLTM Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XLTM saveformat. Python Combine HTML to XLTM format. Merge HTML to XLTM in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLTM in Python., Free Online Python Merge HTML to xltm., Python Combine HTML to XLTM Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

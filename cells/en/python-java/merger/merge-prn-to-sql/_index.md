@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to SQL - Combine PRN to SQL in Python
 url: /python-java/merger/merge-prn-to-sql/ 
-description: Aspose Excel. Free Online Merge PRN to SQL saveformat. Python Combine PRN to SQL format. Merge PRN to SQL in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to SQL saveformat via Python., Free Online Merge PRN to sql in Python., Python Combine PRN to SQL Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to SQL saveformat. Python Combine PRN to SQL format. Merge PRN to SQL in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to SQL in Python., Free Online Python Merge PRN to sql., Python Combine PRN to SQL Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

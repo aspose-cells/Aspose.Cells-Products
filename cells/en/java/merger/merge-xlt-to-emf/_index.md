@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to EMF - Combine XLT to EMF in Java
 url: /java/merger/merge-xlt-to-emf/ 
-description: Aspose Excel. Free Online Merge XLT to EMF saveformat. Java Combine XLT to EMF format. Merge XLT to EMF in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to EMF saveformat via Java., Free Online Merge XLT to emf in Java., Java Combine XLT to EMF Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to EMF saveformat. Java Combine XLT to EMF format. Merge XLT to EMF in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to EMF in Java., Free Online Java Merge XLT to emf., Java Combine XLT to EMF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

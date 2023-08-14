@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SXC - Combine JSON to SXC in Python
 url: /python-net/merger/merge-json-to-sxc/ 
-description: Aspose Excel. Free Online Merge JSON to SXC saveformat. Python Combine JSON to SXC format. Merge JSON to SXC in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to SXC saveformat via Python., Free Online Merge JSON to sxc in Python., Python Combine JSON to SXC Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to SXC saveformat. Python Combine JSON to SXC format. Merge JSON to SXC in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to SXC in Python., Free Online Python Merge JSON to sxc., Python Combine JSON to SXC Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLTX - Combine FODS to XLTX in Java
 url: /java/merger/merge-fods-to-xltx/ 
-description: Aspose Excel. Free Online Merge FODS to XLTX saveformat. Java Combine FODS to XLTX format. Merge FODS to XLTX in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLTX saveformat via Java., Free Online Merge FODS to xltx in Java., Java Combine FODS to XLTX Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLTX saveformat. Java Combine FODS to XLTX format. Merge FODS to XLTX in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLTX in Java., Free Online Java Merge FODS to xltx., Java Combine FODS to XLTX Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

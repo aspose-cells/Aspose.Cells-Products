@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to GIF - Combine MHTML to GIF in C++
 url: /cpp/merger/merge-mhtml-to-gif/ 
-description: Aspose Excel. Free Online Merge MHTML to GIF saveformat. C++ Combine MHTML to GIF format. Merge MHTML to GIF in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to GIF saveformat via C++., Free Online Merge MHTML to gif in C++., C++ Combine MHTML to GIF Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to GIF saveformat. C++ Combine MHTML to GIF format. Merge MHTML to GIF in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to GIF in C++., Free Online C++ Merge MHTML to gif., C++ Combine MHTML to GIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

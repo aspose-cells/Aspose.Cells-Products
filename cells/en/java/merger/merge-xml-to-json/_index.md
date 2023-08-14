@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JSON - Combine XML to JSON in Java
 url: /java/merger/merge-xml-to-json/ 
-description: Aspose Excel. Free Online Merge XML to JSON saveformat. Java Combine XML to JSON format. Merge XML to JSON in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JSON saveformat via Java., Free Online Merge XML to json in Java., Java Combine XML to JSON Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to JSON saveformat. Java Combine XML to JSON format. Merge XML to JSON in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JSON in Java., Free Online Java Merge XML to json., Java Combine XML to JSON Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

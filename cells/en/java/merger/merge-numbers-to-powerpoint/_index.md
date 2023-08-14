@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to POWERPOINT - Combine NUMBERS to POWERPOINT in Java
 url: /java/merger/merge-numbers-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge NUMBERS to POWERPOINT saveformat. Java Combine NUMBERS to POWERPOINT format. Merge NUMBERS to POWERPOINT in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to POWERPOINT saveformat via Java., Free Online Merge NUMBERS to powerpoint in Java., Java Combine NUMBERS to POWERPOINT Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to POWERPOINT saveformat. Java Combine NUMBERS to POWERPOINT format. Merge NUMBERS to POWERPOINT in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to POWERPOINT in Java., Free Online Java Merge NUMBERS to powerpoint., Java Combine NUMBERS to POWERPOINT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

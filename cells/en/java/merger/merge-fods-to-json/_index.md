@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JSON - Combine FODS to JSON in Java
 url: /java/merger/merge-fods-to-json/ 
-description: Aspose Excel. Free Online Merge FODS to JSON saveformat. Java Combine FODS to JSON format. Merge FODS to JSON in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JSON saveformat via Java., Free Online Merge FODS to json in Java., Java Combine FODS to JSON Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to JSON saveformat. Java Combine FODS to JSON format. Merge FODS to JSON in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JSON in Java., Free Online Java Merge FODS to json., Java Combine FODS to JSON Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

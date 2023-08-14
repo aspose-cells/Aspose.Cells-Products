@@ -1,7 +1,7 @@
 ---
-title: XLSM to TXT - Convert XLSM to TXT files C++
-description: Aspose Excel. Free Online Convert XLSM to TXT saveformat. C++ XLSM to TXT format. Save XLSM as TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to TXT saveformat., Free Online XLSM to TXT Converter]
+title: C++ XLSM to TXT - Online XLSM to TXT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to TXT saveformat. C++ XLSM to TXT format. Save XLSM to TXT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to TXT saveformat., Free Online XLSM to TXT C++., C++ Convert XLSM to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

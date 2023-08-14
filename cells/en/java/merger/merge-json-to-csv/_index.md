@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to CSV - Combine JSON to CSV in Java
 url: /java/merger/merge-json-to-csv/ 
-description: Aspose Excel. Free Online Merge JSON to CSV saveformat. Java Combine JSON to CSV format. Merge JSON to CSV in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to CSV saveformat via Java., Free Online Merge JSON to csv in Java., Java Combine JSON to CSV Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to CSV saveformat. Java Combine JSON to CSV format. Merge JSON to CSV in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to CSV in Java., Free Online Java Merge JSON to csv., Java Combine JSON to CSV Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

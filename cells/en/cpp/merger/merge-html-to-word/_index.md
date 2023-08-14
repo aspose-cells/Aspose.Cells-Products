@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to WORD - Combine HTML to WORD in C++
 url: /cpp/merger/merge-html-to-word/ 
-description: Aspose Excel. Free Online Merge HTML to WORD saveformat. C++ Combine HTML to WORD format. Merge HTML to WORD in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to WORD saveformat via C++., Free Online Merge HTML to word in C++., C++ Combine HTML to WORD Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to WORD saveformat. C++ Combine HTML to WORD format. Merge HTML to WORD in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to WORD in C++., Free Online C++ Merge HTML to word., C++ Combine HTML to WORD Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

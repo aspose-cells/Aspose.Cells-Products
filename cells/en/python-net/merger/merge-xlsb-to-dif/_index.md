@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DIF - Combine XLSB to DIF in Python
 url: /python-net/merger/merge-xlsb-to-dif/ 
-description: Aspose Excel. Free Online Merge XLSB to DIF saveformat. Python Combine XLSB to DIF format. Merge XLSB to DIF in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to DIF saveformat via Python., Free Online Merge XLSB to dif in Python., Python Combine XLSB to DIF Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to DIF saveformat. Python Combine XLSB to DIF format. Merge XLSB to DIF in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to DIF in Python., Free Online Python Merge XLSB to dif., Python Combine XLSB to DIF Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

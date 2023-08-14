@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to OTS - Combine EXCEL to OTS in Java
 url: /java/merger/merge-excel-to-ots/ 
-description: Aspose Excel. Free Online Merge EXCEL to OTS saveformat. Java Combine EXCEL to OTS format. Merge EXCEL to OTS in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to OTS saveformat via Java., Free Online Merge EXCEL to ots in Java., Java Combine EXCEL to OTS Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to OTS saveformat. Java Combine EXCEL to OTS format. Merge EXCEL to OTS in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to OTS in Java., Free Online Java Merge EXCEL to ots., Java Combine EXCEL to OTS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

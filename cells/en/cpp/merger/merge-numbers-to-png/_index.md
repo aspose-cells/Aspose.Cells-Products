@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PNG - Combine NUMBERS to PNG in C++
 url: /cpp/merger/merge-numbers-to-png/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PNG saveformat. C++ Combine NUMBERS to PNG format. Merge NUMBERS to PNG in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PNG saveformat via C++., Free Online Merge NUMBERS to png in C++., C++ Combine NUMBERS to PNG Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to PNG saveformat. C++ Combine NUMBERS to PNG format. Merge NUMBERS to PNG in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PNG in C++., Free Online C++ Merge NUMBERS to png., C++ Combine NUMBERS to PNG Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

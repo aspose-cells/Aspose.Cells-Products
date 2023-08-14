@@ -1,8 +1,8 @@
 ---
 title: Merge XML to BMP - Combine XML to BMP in Python
 url: /python-net/merger/merge-xml-to-bmp/ 
-description: Aspose Excel. Free Online Merge XML to BMP saveformat. Python Combine XML to BMP format. Merge XML to BMP in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to BMP saveformat via Python., Free Online Merge XML to bmp in Python., Python Combine XML to BMP Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to BMP saveformat. Python Combine XML to BMP format. Merge XML to BMP in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to BMP in Python., Free Online Python Merge XML to bmp., Python Combine XML to BMP Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

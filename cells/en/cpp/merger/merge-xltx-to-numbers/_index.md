@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to NUMBERS - Combine XLTX to NUMBERS in C++
 url: /cpp/merger/merge-xltx-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLTX to NUMBERS saveformat. C++ Combine XLTX to NUMBERS format. Merge XLTX to NUMBERS in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to NUMBERS saveformat via C++., Free Online Merge XLTX to numbers in C++., C++ Combine XLTX to NUMBERS Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to NUMBERS saveformat. C++ Combine XLTX to NUMBERS format. Merge XLTX to NUMBERS in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to NUMBERS in C++., Free Online C++ Merge XLTX to numbers., C++ Combine XLTX to NUMBERS Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

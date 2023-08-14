@@ -1,7 +1,7 @@
 ---
-title: SXC to CSV - Convert SXC to CSV files Python
-description: Aspose Excel. Free Online Convert SXC to CSV saveformat. Python SXC to CSV format. Save SXC as CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to CSV saveformat., Free Online SXC to CSV Converter]
+title: Python SXC to CSV - Online SXC to CSV Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to CSV saveformat. Python SXC to CSV format. Save SXC to CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to CSV saveformat., Free Online SXC to CSV Python., Python Convert SXC to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

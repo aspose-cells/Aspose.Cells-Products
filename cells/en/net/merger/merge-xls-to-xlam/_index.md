@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to XLAM - Combine XLS to XLAM in C#
 url: /net/merger/merge-xls-to-xlam/ 
-description: Aspose Excel. Free Online Merge XLS to XLAM saveformat. C# Combine XLS to XLAM format. Merge XLS to XLAM in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to XLAM saveformat via C#., Free Online Merge XLS to xlam in C#., C# Combine XLS to XLAM Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to XLAM saveformat. C# Combine XLS to XLAM format. Merge XLS to XLAM in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to XLAM in C#., Free Online C# Merge XLS to xlam., C# Combine XLS to XLAM Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

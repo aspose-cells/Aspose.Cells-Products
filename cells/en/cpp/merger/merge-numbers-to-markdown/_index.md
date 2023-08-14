@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MARKDOWN - Combine NUMBERS to MARKDOWN in C++
 url: /cpp/merger/merge-numbers-to-markdown/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MARKDOWN saveformat. C++ Combine NUMBERS to MARKDOWN format. Merge NUMBERS to MARKDOWN in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MARKDOWN saveformat via C++., Free Online Merge NUMBERS to markdown in C++., C++ Combine NUMBERS to MARKDOWN Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to MARKDOWN saveformat. C++ Combine NUMBERS to MARKDOWN format. Merge NUMBERS to MARKDOWN in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MARKDOWN in C++., Free Online C++ Merge NUMBERS to markdown., C++ Combine NUMBERS to MARKDOWN Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to MARKDOWN - Convert JPG to MARKDOWN files Python
-description: Aspose Excel. Free Online Convert JPG to MARKDOWN saveformat. Python JPG to MARKDOWN format. Save JPG as MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to MARKDOWN saveformat., Free Online JPG to MARKDOWN Converter]
+title: Python JPG to MARKDOWN - Online JPG to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to MARKDOWN saveformat. Python JPG to MARKDOWN format. Save JPG to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to MARKDOWN saveformat., Free Online JPG to MARKDOWN Python., Python Convert JPG to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

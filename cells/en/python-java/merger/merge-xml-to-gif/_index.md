@@ -1,8 +1,8 @@
 ---
 title: Merge XML to GIF - Combine XML to GIF in Python
 url: /python-java/merger/merge-xml-to-gif/ 
-description: Aspose Excel. Free Online Merge XML to GIF saveformat. Python Combine XML to GIF format. Merge XML to GIF in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to GIF saveformat via Python., Free Online Merge XML to gif in Python., Python Combine XML to GIF Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to GIF saveformat. Python Combine XML to GIF format. Merge XML to GIF in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to GIF in Python., Free Online Python Merge XML to gif., Python Combine XML to GIF Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

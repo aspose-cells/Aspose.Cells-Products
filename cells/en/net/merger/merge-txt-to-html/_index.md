@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTML - Combine TXT to HTML in C#
 url: /net/merger/merge-txt-to-html/ 
-description: Aspose Excel. Free Online Merge TXT to HTML saveformat. C# Combine TXT to HTML format. Merge TXT to HTML in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to HTML saveformat via C#., Free Online Merge TXT to html in C#., C# Combine TXT to HTML Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to HTML saveformat. C# Combine TXT to HTML format. Merge TXT to HTML in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to HTML in C#., Free Online C# Merge TXT to html., C# Combine TXT to HTML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

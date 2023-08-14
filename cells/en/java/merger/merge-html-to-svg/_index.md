@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SVG - Combine HTML to SVG in Java
 url: /java/merger/merge-html-to-svg/ 
-description: Aspose Excel. Free Online Merge HTML to SVG saveformat. Java Combine HTML to SVG format. Merge HTML to SVG in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to SVG saveformat via Java., Free Online Merge HTML to svg in Java., Java Combine HTML to SVG Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to SVG saveformat. Java Combine HTML to SVG format. Merge HTML to SVG in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to SVG in Java., Free Online Java Merge HTML to svg., Java Combine HTML to SVG Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

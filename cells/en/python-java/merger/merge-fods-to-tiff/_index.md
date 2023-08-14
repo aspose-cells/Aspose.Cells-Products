@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TIFF - Combine FODS to TIFF in Python
 url: /python-java/merger/merge-fods-to-tiff/ 
-description: Aspose Excel. Free Online Merge FODS to TIFF saveformat. Python Combine FODS to TIFF format. Merge FODS to TIFF in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TIFF saveformat via Python., Free Online Merge FODS to tiff in Python., Python Combine FODS to TIFF Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to TIFF saveformat. Python Combine FODS to TIFF format. Merge FODS to TIFF in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TIFF in Python., Free Online Python Merge FODS to tiff., Python Combine FODS to TIFF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

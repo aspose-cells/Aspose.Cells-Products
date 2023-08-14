@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MARKDOWN - Combine SXC to MARKDOWN in Java
 url: /java/merger/merge-sxc-to-markdown/ 
-description: Aspose Excel. Free Online Merge SXC to MARKDOWN saveformat. Java Combine SXC to MARKDOWN format. Merge SXC to MARKDOWN in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MARKDOWN saveformat via Java., Free Online Merge SXC to markdown in Java., Java Combine SXC to MARKDOWN Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to MARKDOWN saveformat. Java Combine SXC to MARKDOWN format. Merge SXC to MARKDOWN in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MARKDOWN in Java., Free Online Java Merge SXC to markdown., Java Combine SXC to MARKDOWN Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

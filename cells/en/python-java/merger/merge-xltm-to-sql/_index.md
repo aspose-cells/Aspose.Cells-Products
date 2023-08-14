@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SQL - Combine XLTM to SQL in Python
 url: /python-java/merger/merge-xltm-to-sql/ 
-description: Aspose Excel. Free Online Merge XLTM to SQL saveformat. Python Combine XLTM to SQL format. Merge XLTM to SQL in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SQL saveformat via Python., Free Online Merge XLTM to sql in Python., Python Combine XLTM to SQL Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to SQL saveformat. Python Combine XLTM to SQL format. Merge XLTM to SQL in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SQL in Python., Free Online Python Merge XLTM to sql., Python Combine XLTM to SQL Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

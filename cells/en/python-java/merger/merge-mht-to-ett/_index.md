@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to ETT - Combine MHT to ETT in Python
 url: /python-java/merger/merge-mht-to-ett/ 
-description: Aspose Excel. Free Online Merge MHT to ETT saveformat. Python Combine MHT to ETT format. Merge MHT to ETT in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ETT saveformat via Python., Free Online Merge MHT to ett in Python., Python Combine MHT to ETT Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to ETT saveformat. Python Combine MHT to ETT format. Merge MHT to ETT in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to ETT in Python., Free Online Python Merge MHT to ett., Python Combine MHT to ETT Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

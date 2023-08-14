@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to TIFF - Combine TABDELIMITED to TIFF in Python
 url: /python-java/merger/merge-tabdelimited-to-tiff/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to TIFF saveformat. Python Combine TABDELIMITED to TIFF format. Merge TABDELIMITED to TIFF in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to TIFF saveformat via Python., Free Online Merge TABDELIMITED to tiff in Python., Python Combine TABDELIMITED to TIFF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to TIFF saveformat. Python Combine TABDELIMITED to TIFF format. Merge TABDELIMITED to TIFF in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to TIFF in Python., Free Online Python Merge TABDELIMITED to tiff., Python Combine TABDELIMITED to TIFF Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

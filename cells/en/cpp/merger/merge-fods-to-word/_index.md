@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to WORD - Combine FODS to WORD in C++
 url: /cpp/merger/merge-fods-to-word/ 
-description: Aspose Excel. Free Online Merge FODS to WORD saveformat. C++ Combine FODS to WORD format. Merge FODS to WORD in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to WORD saveformat via C++., Free Online Merge FODS to word in C++., C++ Combine FODS to WORD Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to WORD saveformat. C++ Combine FODS to WORD format. Merge FODS to WORD in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to WORD in C++., Free Online C++ Merge FODS to word., C++ Combine FODS to WORD Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

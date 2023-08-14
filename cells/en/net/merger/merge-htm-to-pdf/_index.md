@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PDF - Combine HTM to PDF in C#
 url: /net/merger/merge-htm-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTM to PDF saveformat. C# Combine HTM to PDF format. Merge HTM to PDF in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PDF saveformat via C#., Free Online Merge HTM to pdf in C#., C# Combine HTM to PDF Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to PDF saveformat. C# Combine HTM to PDF format. Merge HTM to PDF in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PDF in C#., Free Online C# Merge HTM to pdf., C# Combine HTM to PDF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

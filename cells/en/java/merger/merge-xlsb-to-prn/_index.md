@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PRN - Combine XLSB to PRN in Java
 url: /java/merger/merge-xlsb-to-prn/ 
-description: Aspose Excel. Free Online Merge XLSB to PRN saveformat. Java Combine XLSB to PRN format. Merge XLSB to PRN in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to PRN saveformat via Java., Free Online Merge XLSB to prn in Java., Java Combine XLSB to PRN Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to PRN saveformat. Java Combine XLSB to PRN format. Merge XLSB to PRN in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to PRN in Java., Free Online Java Merge XLSB to prn., Java Combine XLSB to PRN Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

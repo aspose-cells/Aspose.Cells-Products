@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DOCX - Combine MHT to DOCX in C#
 url: /net/merger/merge-mht-to-docx/ 
-description: Aspose Excel. Free Online Merge MHT to DOCX saveformat. C# Combine MHT to DOCX format. Merge MHT to DOCX in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to DOCX saveformat via C#., Free Online Merge MHT to docx in C#., C# Combine MHT to DOCX Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to DOCX saveformat. C# Combine MHT to DOCX format. Merge MHT to DOCX in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to DOCX in C#., Free Online C# Merge MHT to docx., C# Combine MHT to DOCX Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

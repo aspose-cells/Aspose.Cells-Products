@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to HTM - Combine XLSB to HTM in C++
 url: /cpp/merger/merge-xlsb-to-htm/ 
-description: Aspose Excel. Free Online Merge XLSB to HTM saveformat. C++ Combine XLSB to HTM format. Merge XLSB to HTM in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to HTM saveformat via C++., Free Online Merge XLSB to htm in C++., C++ Combine XLSB to HTM Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to HTM saveformat. C++ Combine XLSB to HTM format. Merge XLSB to HTM in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to HTM in C++., Free Online C++ Merge XLSB to htm., C++ Combine XLSB to HTM Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLTX to XLTX - Convert XLTX to XLTX files Java
-description: Aspose Excel. Free Online Convert XLTX to XLTX saveformat. Java XLTX to XLTX format. Save XLTX as XLTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to XLTX saveformat., Free Online XLTX to XLTX Converter]
+title: Java XLTX to XLTX - Online XLTX to XLTX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to XLTX saveformat. Java XLTX to XLTX format. Save XLTX to XLTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to XLTX saveformat., Free Online XLTX to XLTX Java., Java Convert XLTX to XLTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

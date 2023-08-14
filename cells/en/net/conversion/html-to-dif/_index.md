@@ -1,7 +1,7 @@
 ---
-title: HTML to DIF - Convert HTML to DIF files C#
-description: Aspose Excel. Free Online Convert HTML to DIF saveformat. C# HTML to DIF format. Save HTML as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to DIF saveformat., Free Online HTML to DIF Converter]
+title: C# HTML to DIF - Online HTML to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTML to DIF saveformat. C# HTML to DIF format. Save HTML to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTML to DIF saveformat., Free Online HTML to DIF C#., C# Convert HTML to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

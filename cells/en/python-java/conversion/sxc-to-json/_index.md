@@ -1,7 +1,7 @@
 ---
-title: SXC to JSON - Convert SXC to JSON files Python
-description: Aspose Excel. Free Online Convert SXC to JSON saveformat. Python SXC to JSON format. Save SXC as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to JSON saveformat., Free Online SXC to JSON Converter]
+title: Python SXC to JSON - Online SXC to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to JSON saveformat. Python SXC to JSON format. Save SXC to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to JSON saveformat., Free Online SXC to JSON Python., Python Convert SXC to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to WORD - Combine IMAGE to WORD in Java
 url: /java/merger/merge-image-to-word/ 
-description: Aspose Excel. Free Online Merge IMAGE to WORD saveformat. Java Combine IMAGE to WORD format. Merge IMAGE to WORD in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to WORD saveformat via Java., Free Online Merge IMAGE to word in Java., Java Combine IMAGE to WORD Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to WORD saveformat. Java Combine IMAGE to WORD format. Merge IMAGE to WORD in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to WORD in Java., Free Online Java Merge IMAGE to word., Java Combine IMAGE to WORD Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

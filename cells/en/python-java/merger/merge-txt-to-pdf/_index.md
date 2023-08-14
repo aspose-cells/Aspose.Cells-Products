@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PDF - Combine TXT to PDF in Python
 url: /python-java/merger/merge-txt-to-pdf/ 
-description: Aspose Excel. Free Online Merge TXT to PDF saveformat. Python Combine TXT to PDF format. Merge TXT to PDF in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to PDF saveformat via Python., Free Online Merge TXT to pdf in Python., Python Combine TXT to PDF Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to PDF saveformat. Python Combine TXT to PDF format. Merge TXT to PDF in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to PDF in Python., Free Online Python Merge TXT to pdf., Python Combine TXT to PDF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to POWERPOINT - Combine TABDELIMITED to POWERPOINT in C++
 url: /cpp/merger/merge-tabdelimited-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to POWERPOINT saveformat. C++ Combine TABDELIMITED to POWERPOINT format. Merge TABDELIMITED to POWERPOINT in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to POWERPOINT saveformat via C++., Free Online Merge TABDELIMITED to powerpoint in C++., C++ Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to POWERPOINT saveformat. C++ Combine TABDELIMITED to POWERPOINT format. Merge TABDELIMITED to POWERPOINT in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to POWERPOINT in C++., Free Online C++ Merge TABDELIMITED to powerpoint., C++ Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

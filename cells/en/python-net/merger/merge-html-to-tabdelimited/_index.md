@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to TABDELIMITED - Combine HTML to TABDELIMITED in Python
 url: /python-net/merger/merge-html-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge HTML to TABDELIMITED saveformat. Python Combine HTML to TABDELIMITED format. Merge HTML to TABDELIMITED in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to TABDELIMITED saveformat via Python., Free Online Merge HTML to tabdelimited in Python., Python Combine HTML to TABDELIMITED Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to TABDELIMITED saveformat. Python Combine HTML to TABDELIMITED format. Merge HTML to TABDELIMITED in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to TABDELIMITED in Python., Free Online Python Merge HTML to tabdelimited., Python Combine HTML to TABDELIMITED Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

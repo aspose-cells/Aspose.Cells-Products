@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLTX - Combine JPEG to XLTX in Python
 url: /python-java/merger/merge-jpeg-to-xltx/ 
-description: Aspose Excel. Free Online Merge JPEG to XLTX saveformat. Python Combine JPEG to XLTX format. Merge JPEG to XLTX in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLTX saveformat via Python., Free Online Merge JPEG to xltx in Python., Python Combine JPEG to XLTX Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to XLTX saveformat. Python Combine JPEG to XLTX format. Merge JPEG to XLTX in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XLTX in Python., Free Online Python Merge JPEG to xltx., Python Combine JPEG to XLTX Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

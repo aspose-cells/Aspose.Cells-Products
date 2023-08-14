@@ -1,7 +1,7 @@
 ---
-title: FODS to DIF - Convert FODS to DIF files Python
-description: Aspose Excel. Free Online Convert FODS to DIF saveformat. Python FODS to DIF format. Save FODS as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to DIF saveformat., Free Online FODS to DIF Converter]
+title: Python FODS to DIF - Online FODS to DIF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert FODS to DIF saveformat. Python FODS to DIF format. Save FODS to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to DIF saveformat., Free Online FODS to DIF Python., Python Convert FODS to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

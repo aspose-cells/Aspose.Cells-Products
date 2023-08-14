@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DIF - Combine HTML to DIF in Python
 url: /python-java/merger/merge-html-to-dif/ 
-description: Aspose Excel. Free Online Merge HTML to DIF saveformat. Python Combine HTML to DIF format. Merge HTML to DIF in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to DIF saveformat via Python., Free Online Merge HTML to dif in Python., Python Combine HTML to DIF Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to DIF saveformat. Python Combine HTML to DIF format. Merge HTML to DIF in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to DIF in Python., Free Online Python Merge HTML to dif., Python Combine HTML to DIF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

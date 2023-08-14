@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLSM - Combine TABDELIMITED to XLSM in Python
 url: /python-net/merger/merge-tabdelimited-to-xlsm/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLSM saveformat. Python Combine TABDELIMITED to XLSM format. Merge TABDELIMITED to XLSM in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLSM saveformat via Python., Free Online Merge TABDELIMITED to xlsm in Python., Python Combine TABDELIMITED to XLSM Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to XLSM saveformat. Python Combine TABDELIMITED to XLSM format. Merge TABDELIMITED to XLSM in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLSM in Python., Free Online Python Merge TABDELIMITED to xlsm., Python Combine TABDELIMITED to XLSM Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

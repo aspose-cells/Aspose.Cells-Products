@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SQL - Combine ODS to SQL in C#
 url: /net/merger/merge-ods-to-sql/ 
-description: Aspose Excel. Free Online Merge ODS to SQL saveformat. C# Combine ODS to SQL format. Merge ODS to SQL in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to SQL saveformat via C#., Free Online Merge ODS to sql in C#., C# Combine ODS to SQL Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to SQL saveformat. C# Combine ODS to SQL format. Merge ODS to SQL in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to SQL in C#., Free Online C# Merge ODS to sql., C# Combine ODS to SQL Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

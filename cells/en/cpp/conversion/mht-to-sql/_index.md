@@ -1,7 +1,7 @@
 ---
-title: MHT to SQL - Convert MHT to SQL files C++
-description: Aspose Excel. Free Online Convert MHT to SQL saveformat. C++ MHT to SQL format. Save MHT as SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to SQL saveformat., Free Online MHT to SQL Converter]
+title: C++ MHT to SQL - Online MHT to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to SQL saveformat. C++ MHT to SQL format. Save MHT to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to SQL saveformat., Free Online MHT to SQL C++., C++ Convert MHT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

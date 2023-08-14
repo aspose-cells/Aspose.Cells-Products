@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SQL - Combine FODS to SQL in Java
 url: /java/merger/merge-fods-to-sql/ 
-description: Aspose Excel. Free Online Merge FODS to SQL saveformat. Java Combine FODS to SQL format. Merge FODS to SQL in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to SQL saveformat via Java., Free Online Merge FODS to sql in Java., Java Combine FODS to SQL Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to SQL saveformat. Java Combine FODS to SQL format. Merge FODS to SQL in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to SQL in Java., Free Online Java Merge FODS to sql., Java Combine FODS to SQL Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

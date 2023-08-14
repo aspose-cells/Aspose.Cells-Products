@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to DOCX - Combine ODS to DOCX in Java
 url: /java/merger/merge-ods-to-docx/ 
-description: Aspose Excel. Free Online Merge ODS to DOCX saveformat. Java Combine ODS to DOCX format. Merge ODS to DOCX in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to DOCX saveformat via Java., Free Online Merge ODS to docx in Java., Java Combine ODS to DOCX Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to DOCX saveformat. Java Combine ODS to DOCX format. Merge ODS to DOCX in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to DOCX in Java., Free Online Java Merge ODS to docx., Java Combine ODS to DOCX Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to WORD - Combine FODS to WORD in Python
 url: /python-net/merger/merge-fods-to-word/ 
-description: Aspose Excel. Free Online Merge FODS to WORD saveformat. Python Combine FODS to WORD format. Merge FODS to WORD in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to WORD saveformat via Python., Free Online Merge FODS to word in Python., Python Combine FODS to WORD Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to WORD saveformat. Python Combine FODS to WORD format. Merge FODS to WORD in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to WORD in Python., Free Online Python Merge FODS to word., Python Combine FODS to WORD Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

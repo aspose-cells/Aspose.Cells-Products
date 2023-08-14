@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to BMP - Combine TXT to BMP in C#
 url: /net/merger/merge-txt-to-bmp/ 
-description: Aspose Excel. Free Online Merge TXT to BMP saveformat. C# Combine TXT to BMP format. Merge TXT to BMP in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to BMP saveformat via C#., Free Online Merge TXT to bmp in C#., C# Combine TXT to BMP Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to BMP saveformat. C# Combine TXT to BMP format. Merge TXT to BMP in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to BMP in C#., Free Online C# Merge TXT to bmp., C# Combine TXT to BMP Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ETT - Combine FODS to ETT in Java
 url: /java/merger/merge-fods-to-ett/ 
-description: Aspose Excel. Free Online Merge FODS to ETT saveformat. Java Combine FODS to ETT format. Merge FODS to ETT in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to ETT saveformat via Java., Free Online Merge FODS to ett in Java., Java Combine FODS to ETT Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to ETT saveformat. Java Combine FODS to ETT format. Merge FODS to ETT in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to ETT in Java., Free Online Java Merge FODS to ett., Java Combine FODS to ETT Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

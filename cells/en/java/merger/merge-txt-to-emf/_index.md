@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to EMF - Combine TXT to EMF in Java
 url: /java/merger/merge-txt-to-emf/ 
-description: Aspose Excel. Free Online Merge TXT to EMF saveformat. Java Combine TXT to EMF format. Merge TXT to EMF in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to EMF saveformat via Java., Free Online Merge TXT to emf in Java., Java Combine TXT to EMF Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to EMF saveformat. Java Combine TXT to EMF format. Merge TXT to EMF in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to EMF in Java., Free Online Java Merge TXT to emf., Java Combine TXT to EMF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

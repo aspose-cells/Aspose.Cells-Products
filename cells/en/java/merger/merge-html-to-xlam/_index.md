@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLAM - Combine HTML to XLAM in Java
 url: /java/merger/merge-html-to-xlam/ 
-description: Aspose Excel. Free Online Merge HTML to XLAM saveformat. Java Combine HTML to XLAM format. Merge HTML to XLAM in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLAM saveformat via Java., Free Online Merge HTML to xlam in Java., Java Combine HTML to XLAM Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to XLAM saveformat. Java Combine HTML to XLAM format. Merge HTML to XLAM in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLAM in Java., Free Online Java Merge HTML to xlam., Java Combine HTML to XLAM Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

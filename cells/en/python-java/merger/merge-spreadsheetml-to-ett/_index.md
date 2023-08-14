@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to ETT - Combine SPREADSHEETML to ETT in Python
 url: /python-java/merger/merge-spreadsheetml-to-ett/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to ETT saveformat. Python Combine SPREADSHEETML to ETT format. Merge SPREADSHEETML to ETT in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to ETT saveformat via Python., Free Online Merge SPREADSHEETML to ett in Python., Python Combine SPREADSHEETML to ETT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to ETT saveformat. Python Combine SPREADSHEETML to ETT format. Merge SPREADSHEETML to ETT in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to ETT in Python., Free Online Python Merge SPREADSHEETML to ett., Python Combine SPREADSHEETML to ETT Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

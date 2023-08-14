@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to POWERPOINT - Combine HTM to POWERPOINT in C++
 url: /cpp/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTM to POWERPOINT saveformat. C++ Combine HTM to POWERPOINT format. Merge HTM to POWERPOINT in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to POWERPOINT saveformat via C++., Free Online Merge HTM to powerpoint in C++., C++ Combine HTM to POWERPOINT Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to POWERPOINT saveformat. C++ Combine HTM to POWERPOINT format. Merge HTM to POWERPOINT in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to POWERPOINT in C++., Free Online C++ Merge HTM to powerpoint., C++ Combine HTM to POWERPOINT Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PDF - Combine HTML to PDF in Java
 url: /java/merger/merge-html-to-pdf/ 
-description: Aspose Excel. Free Online Merge HTML to PDF saveformat. Java Combine HTML to PDF format. Merge HTML to PDF in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to PDF saveformat via Java., Free Online Merge HTML to pdf in Java., Java Combine HTML to PDF Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to PDF saveformat. Java Combine HTML to PDF format. Merge HTML to PDF in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to PDF in Java., Free Online Java Merge HTML to pdf., Java Combine HTML to PDF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

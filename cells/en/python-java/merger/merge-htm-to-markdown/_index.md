@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MARKDOWN - Combine HTM to MARKDOWN in Python
 url: /python-java/merger/merge-htm-to-markdown/ 
-description: Aspose Excel. Free Online Merge HTM to MARKDOWN saveformat. Python Combine HTM to MARKDOWN format. Merge HTM to MARKDOWN in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MARKDOWN saveformat via Python., Free Online Merge HTM to markdown in Python., Python Combine HTM to MARKDOWN Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to MARKDOWN saveformat. Python Combine HTM to MARKDOWN format. Merge HTM to MARKDOWN in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MARKDOWN in Python., Free Online Python Merge HTM to markdown., Python Combine HTM to MARKDOWN Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

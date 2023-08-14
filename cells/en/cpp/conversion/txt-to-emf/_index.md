@@ -1,7 +1,7 @@
 ---
-title: TXT to EMF - Convert TXT to EMF files C++
-description: Aspose Excel. Free Online Convert TXT to EMF saveformat. C++ TXT to EMF format. Save TXT as EMF in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to EMF saveformat., Free Online TXT to EMF Converter]
+title: C++ TXT to EMF - Online TXT to EMF Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to EMF saveformat. C++ TXT to EMF format. Save TXT to EMF C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to EMF saveformat., Free Online TXT to EMF C++., C++ Convert TXT to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

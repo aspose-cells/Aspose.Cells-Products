@@ -1,7 +1,7 @@
 ---
-title: XLSX to SQL - Convert XLSX to SQL files Java
-description: Aspose Excel. Free Online Convert XLSX to SQL saveformat. Java XLSX to SQL format. Save XLSX as SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to SQL saveformat., Free Online XLSX to SQL Converter]
+title: Java XLSX to SQL - Online XLSX to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to SQL saveformat. Java XLSX to SQL format. Save XLSX to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to SQL saveformat., Free Online XLSX to SQL Java., Java Convert XLSX to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

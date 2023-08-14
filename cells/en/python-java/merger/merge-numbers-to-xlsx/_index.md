@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLSX - Combine NUMBERS to XLSX in Python
 url: /python-java/merger/merge-numbers-to-xlsx/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLSX saveformat. Python Combine NUMBERS to XLSX format. Merge NUMBERS to XLSX in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSX saveformat via Python., Free Online Merge NUMBERS to xlsx in Python., Python Combine NUMBERS to XLSX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to XLSX saveformat. Python Combine NUMBERS to XLSX format. Merge NUMBERS to XLSX in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSX in Python., Free Online Python Merge NUMBERS to xlsx., Python Combine NUMBERS to XLSX Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PPTX - Combine SXC to PPTX in C++
 url: /cpp/merger/merge-sxc-to-pptx/ 
-description: Aspose Excel. Free Online Merge SXC to PPTX saveformat. C++ Combine SXC to PPTX format. Merge SXC to PPTX in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to PPTX saveformat via C++., Free Online Merge SXC to pptx in C++., C++ Combine SXC to PPTX Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to PPTX saveformat. C++ Combine SXC to PPTX format. Merge SXC to PPTX in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to PPTX in C++., Free Online C++ Merge SXC to pptx., C++ Combine SXC to PPTX Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

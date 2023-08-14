@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ODS - Combine HTML to ODS in Java
 url: /java/merger/merge-html-to-ods/ 
-description: Aspose Excel. Free Online Merge HTML to ODS saveformat. Java Combine HTML to ODS format. Merge HTML to ODS in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to ODS saveformat via Java., Free Online Merge HTML to ods in Java., Java Combine HTML to ODS Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to ODS saveformat. Java Combine HTML to ODS format. Merge HTML to ODS in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to ODS in Java., Free Online Java Merge HTML to ods., Java Combine HTML to ODS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

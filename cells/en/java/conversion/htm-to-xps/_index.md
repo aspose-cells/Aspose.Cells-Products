@@ -1,7 +1,7 @@
 ---
-title: HTM to XPS - Convert HTM to XPS files Java
-description: Aspose Excel. Free Online Convert HTM to XPS saveformat. Java HTM to XPS format. Save HTM as XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to XPS saveformat., Free Online HTM to XPS Converter]
+title: Java HTM to XPS - Online HTM to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to XPS saveformat. Java HTM to XPS format. Save HTM to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to XPS saveformat., Free Online HTM to XPS Java., Java Convert HTM to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

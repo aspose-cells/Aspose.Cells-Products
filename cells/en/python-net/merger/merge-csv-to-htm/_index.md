@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to HTM - Combine CSV to HTM in Python
 url: /python-net/merger/merge-csv-to-htm/ 
-description: Aspose Excel. Free Online Merge CSV to HTM saveformat. Python Combine CSV to HTM format. Merge CSV to HTM in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to HTM saveformat via Python., Free Online Merge CSV to htm in Python., Python Combine CSV to HTM Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to HTM saveformat. Python Combine CSV to HTM format. Merge CSV to HTM in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to HTM in Python., Free Online Python Merge CSV to htm., Python Combine CSV to HTM Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PDF - Combine XML to PDF in C++
 url: /cpp/merger/merge-xml-to-pdf/ 
-description: Aspose Excel. Free Online Merge XML to PDF saveformat. C++ Combine XML to PDF format. Merge XML to PDF in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to PDF saveformat via C++., Free Online Merge XML to pdf in C++., C++ Combine XML to PDF Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to PDF saveformat. C++ Combine XML to PDF format. Merge XML to PDF in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to PDF in C++., Free Online C++ Merge XML to pdf., C++ Combine XML to PDF Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

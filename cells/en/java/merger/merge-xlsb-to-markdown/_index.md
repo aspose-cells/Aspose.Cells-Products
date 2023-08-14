@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MARKDOWN - Combine XLSB to MARKDOWN in Java
 url: /java/merger/merge-xlsb-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLSB to MARKDOWN saveformat. Java Combine XLSB to MARKDOWN format. Merge XLSB to MARKDOWN in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MARKDOWN saveformat via Java., Free Online Merge XLSB to markdown in Java., Java Combine XLSB to MARKDOWN Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to MARKDOWN saveformat. Java Combine XLSB to MARKDOWN format. Merge XLSB to MARKDOWN in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MARKDOWN in Java., Free Online Java Merge XLSB to markdown., Java Combine XLSB to MARKDOWN Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

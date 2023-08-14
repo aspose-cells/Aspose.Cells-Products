@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MARKDOWN - Combine HTM to MARKDOWN in Java
 url: /java/merger/merge-htm-to-markdown/ 
-description: Aspose Excel. Free Online Merge HTM to MARKDOWN saveformat. Java Combine HTM to MARKDOWN format. Merge HTM to MARKDOWN in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to MARKDOWN saveformat via Java., Free Online Merge HTM to markdown in Java., Java Combine HTM to MARKDOWN Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to MARKDOWN saveformat. Java Combine HTM to MARKDOWN format. Merge HTM to MARKDOWN in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to MARKDOWN in Java., Free Online Java Merge HTM to markdown., Java Combine HTM to MARKDOWN Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

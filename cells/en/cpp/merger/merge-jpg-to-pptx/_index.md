@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PPTX - Combine JPG to PPTX in C++
 url: /cpp/merger/merge-jpg-to-pptx/ 
-description: Aspose Excel. Free Online Merge JPG to PPTX saveformat. C++ Combine JPG to PPTX format. Merge JPG to PPTX in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to PPTX saveformat via C++., Free Online Merge JPG to pptx in C++., C++ Combine JPG to PPTX Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to PPTX saveformat. C++ Combine JPG to PPTX format. Merge JPG to PPTX in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to PPTX in C++., Free Online C++ Merge JPG to pptx., C++ Combine JPG to PPTX Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

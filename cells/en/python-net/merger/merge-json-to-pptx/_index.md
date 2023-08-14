@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PPTX - Combine JSON to PPTX in Python
 url: /python-net/merger/merge-json-to-pptx/ 
-description: Aspose Excel. Free Online Merge JSON to PPTX saveformat. Python Combine JSON to PPTX format. Merge JSON to PPTX in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PPTX saveformat via Python., Free Online Merge JSON to pptx in Python., Python Combine JSON to PPTX Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to PPTX saveformat. Python Combine JSON to PPTX format. Merge JSON to PPTX in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to PPTX in Python., Free Online Python Merge JSON to pptx., Python Combine JSON to PPTX Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

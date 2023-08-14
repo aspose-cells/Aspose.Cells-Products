@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XPS - Combine JSON to XPS in Python
 url: /python-net/merger/merge-json-to-xps/ 
-description: Aspose Excel. Free Online Merge JSON to XPS saveformat. Python Combine JSON to XPS format. Merge JSON to XPS in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XPS saveformat via Python., Free Online Merge JSON to xps in Python., Python Combine JSON to XPS Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to XPS saveformat. Python Combine JSON to XPS format. Merge JSON to XPS in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XPS in Python., Free Online Python Merge JSON to xps., Python Combine JSON to XPS Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

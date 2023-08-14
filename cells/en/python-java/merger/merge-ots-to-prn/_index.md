@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PRN - Combine OTS to PRN in Python
 url: /python-java/merger/merge-ots-to-prn/ 
-description: Aspose Excel. Free Online Merge OTS to PRN saveformat. Python Combine OTS to PRN format. Merge OTS to PRN in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PRN saveformat via Python., Free Online Merge OTS to prn in Python., Python Combine OTS to PRN Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to PRN saveformat. Python Combine OTS to PRN format. Merge OTS to PRN in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to PRN in Python., Free Online Python Merge OTS to prn., Python Combine OTS to PRN Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

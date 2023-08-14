@@ -1,8 +1,8 @@
 ---
 title: Merge XML to BMP - Combine XML to BMP in Java
 url: /java/merger/merge-xml-to-bmp/ 
-description: Aspose Excel. Free Online Merge XML to BMP saveformat. Java Combine XML to BMP format. Merge XML to BMP in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to BMP saveformat via Java., Free Online Merge XML to bmp in Java., Java Combine XML to BMP Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to BMP saveformat. Java Combine XML to BMP format. Merge XML to BMP in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to BMP in Java., Free Online Java Merge XML to bmp., Java Combine XML to BMP Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

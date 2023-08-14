@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TSV - Combine JPG to TSV in Python
 url: /python-net/merger/merge-jpg-to-tsv/ 
-description: Aspose Excel. Free Online Merge JPG to TSV saveformat. Python Combine JPG to TSV format. Merge JPG to TSV in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to TSV saveformat via Python., Free Online Merge JPG to tsv in Python., Python Combine JPG to TSV Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to TSV saveformat. Python Combine JPG to TSV format. Merge JPG to TSV in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to TSV in Python., Free Online Python Merge JPG to tsv., Python Combine JPG to TSV Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

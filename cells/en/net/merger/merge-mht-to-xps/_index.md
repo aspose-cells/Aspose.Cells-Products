@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XPS - Combine MHT to XPS in C#
 url: /net/merger/merge-mht-to-xps/ 
-description: Aspose Excel. Free Online Merge MHT to XPS saveformat. C# Combine MHT to XPS format. Merge MHT to XPS in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XPS saveformat via C#., Free Online Merge MHT to xps in C#., C# Combine MHT to XPS Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to XPS saveformat. C# Combine MHT to XPS format. Merge MHT to XPS in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XPS in C#., Free Online C# Merge MHT to xps., C# Combine MHT to XPS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

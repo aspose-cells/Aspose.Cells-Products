@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to CSV - Combine OTS to CSV in Java
 url: /java/merger/merge-ots-to-csv/ 
-description: Aspose Excel. Free Online Merge OTS to CSV saveformat. Java Combine OTS to CSV format. Merge OTS to CSV in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to CSV saveformat via Java., Free Online Merge OTS to csv in Java., Java Combine OTS to CSV Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to CSV saveformat. Java Combine OTS to CSV format. Merge OTS to CSV in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to CSV in Java., Free Online Java Merge OTS to csv., Java Combine OTS to CSV Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

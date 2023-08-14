@@ -1,8 +1,8 @@
 ---
 title: Merge XML to ETT - Combine XML to ETT in C#
 url: /net/merger/merge-xml-to-ett/ 
-description: Aspose Excel. Free Online Merge XML to ETT saveformat. C# Combine XML to ETT format. Merge XML to ETT in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to ETT saveformat via C#., Free Online Merge XML to ett in C#., C# Combine XML to ETT Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to ETT saveformat. C# Combine XML to ETT format. Merge XML to ETT in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to ETT in C#., Free Online C# Merge XML to ett., C# Combine XML to ETT Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSX to CSV - Convert XLSX to CSV files C#
-description: Aspose Excel. Free Online Convert XLSX to CSV saveformat. C# XLSX to CSV format. Save XLSX as CSV in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to CSV saveformat., Free Online XLSX to CSV Converter]
+title: C# XLSX to CSV - Online XLSX to CSV Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to CSV saveformat. C# XLSX to CSV format. Save XLSX to CSV C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to CSV saveformat., Free Online XLSX to CSV C#., C# Convert XLSX to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

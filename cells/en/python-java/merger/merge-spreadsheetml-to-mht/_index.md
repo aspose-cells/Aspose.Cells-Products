@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MHT - Combine SPREADSHEETML to MHT in Python
 url: /python-java/merger/merge-spreadsheetml-to-mht/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to MHT saveformat. Python Combine SPREADSHEETML to MHT format. Merge SPREADSHEETML to MHT in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MHT saveformat via Python., Free Online Merge SPREADSHEETML to mht in Python., Python Combine SPREADSHEETML to MHT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to MHT saveformat. Python Combine SPREADSHEETML to MHT format. Merge SPREADSHEETML to MHT in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to MHT in Python., Free Online Python Merge SPREADSHEETML to mht., Python Combine SPREADSHEETML to MHT Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

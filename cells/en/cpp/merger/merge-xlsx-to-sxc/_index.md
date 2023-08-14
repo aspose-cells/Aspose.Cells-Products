@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SXC - Combine XLSX to SXC in C++
 url: /cpp/merger/merge-xlsx-to-sxc/ 
-description: Aspose Excel. Free Online Merge XLSX to SXC saveformat. C++ Combine XLSX to SXC format. Merge XLSX to SXC in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SXC saveformat via C++., Free Online Merge XLSX to sxc in C++., C++ Combine XLSX to SXC Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to SXC saveformat. C++ Combine XLSX to SXC format. Merge XLSX to SXC in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SXC in C++., Free Online C++ Merge XLSX to sxc., C++ Combine XLSX to SXC Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

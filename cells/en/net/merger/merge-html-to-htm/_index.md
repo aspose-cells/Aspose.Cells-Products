@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to HTM - Combine HTML to HTM in C#
 url: /net/merger/merge-html-to-htm/ 
-description: Aspose Excel. Free Online Merge HTML to HTM saveformat. C# Combine HTML to HTM format. Merge HTML to HTM in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to HTM saveformat via C#., Free Online Merge HTML to htm in C#., C# Combine HTML to HTM Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to HTM saveformat. C# Combine HTML to HTM format. Merge HTML to HTM in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to HTM in C#., Free Online C# Merge HTML to htm., C# Combine HTML to HTM Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

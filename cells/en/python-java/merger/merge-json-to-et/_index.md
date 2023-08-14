@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to ET - Combine JSON to ET in Python
 url: /python-java/merger/merge-json-to-et/ 
-description: Aspose Excel. Free Online Merge JSON to ET saveformat. Python Combine JSON to ET format. Merge JSON to ET in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to ET saveformat via Python., Free Online Merge JSON to et in Python., Python Combine JSON to ET Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to ET saveformat. Python Combine JSON to ET format. Merge JSON to ET in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to ET in Python., Free Online Python Merge JSON to et., Python Combine JSON to ET Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

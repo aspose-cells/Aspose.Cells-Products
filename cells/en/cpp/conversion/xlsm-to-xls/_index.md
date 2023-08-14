@@ -1,7 +1,7 @@
 ---
-title: XLSM to XLS - Convert XLSM to XLS files C++
-description: Aspose Excel. Free Online Convert XLSM to XLS saveformat. C++ XLSM to XLS format. Save XLSM as XLS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to XLS saveformat., Free Online XLSM to XLS Converter]
+title: C++ XLSM to XLS - Online XLSM to XLS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to XLS saveformat. C++ XLSM to XLS format. Save XLSM to XLS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to XLS saveformat., Free Online XLSM to XLS C++., C++ Convert XLSM to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

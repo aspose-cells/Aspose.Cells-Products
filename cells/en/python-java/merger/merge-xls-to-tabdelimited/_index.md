@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to TABDELIMITED - Combine XLS to TABDELIMITED in Python
 url: /python-java/merger/merge-xls-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge XLS to TABDELIMITED saveformat. Python Combine XLS to TABDELIMITED format. Merge XLS to TABDELIMITED in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to TABDELIMITED saveformat via Python., Free Online Merge XLS to tabdelimited in Python., Python Combine XLS to TABDELIMITED Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to TABDELIMITED saveformat. Python Combine XLS to TABDELIMITED format. Merge XLS to TABDELIMITED in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to TABDELIMITED in Python., Free Online Python Merge XLS to tabdelimited., Python Combine XLS to TABDELIMITED Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

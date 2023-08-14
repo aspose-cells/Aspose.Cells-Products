@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to BMP - Combine XLS to BMP in Python
 url: /python-net/merger/merge-xls-to-bmp/ 
-description: Aspose Excel. Free Online Merge XLS to BMP saveformat. Python Combine XLS to BMP format. Merge XLS to BMP in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to BMP saveformat via Python., Free Online Merge XLS to bmp in Python., Python Combine XLS to BMP Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to BMP saveformat. Python Combine XLS to BMP format. Merge XLS to BMP in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to BMP in Python., Free Online Python Merge XLS to bmp., Python Combine XLS to BMP Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

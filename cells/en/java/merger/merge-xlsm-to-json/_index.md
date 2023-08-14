@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JSON - Combine XLSM to JSON in Java
 url: /java/merger/merge-xlsm-to-json/ 
-description: Aspose Excel. Free Online Merge XLSM to JSON saveformat. Java Combine XLSM to JSON format. Merge XLSM to JSON in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to JSON saveformat via Java., Free Online Merge XLSM to json in Java., Java Combine XLSM to JSON Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to JSON saveformat. Java Combine XLSM to JSON format. Merge XLSM to JSON in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to JSON in Java., Free Online Java Merge XLSM to json., Java Combine XLSM to JSON Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

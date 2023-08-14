@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MHT - Combine NUMBERS to MHT in Java
 url: /java/merger/merge-numbers-to-mht/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MHT saveformat. Java Combine NUMBERS to MHT format. Merge NUMBERS to MHT in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MHT saveformat via Java., Free Online Merge NUMBERS to mht in Java., Java Combine NUMBERS to MHT Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to MHT saveformat. Java Combine NUMBERS to MHT format. Merge NUMBERS to MHT in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MHT in Java., Free Online Java Merge NUMBERS to mht., Java Combine NUMBERS to MHT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to WORD - Combine CSV to WORD in Python
 url: /python-net/merger/merge-csv-to-word/ 
-description: Aspose Excel. Free Online Merge CSV to WORD saveformat. Python Combine CSV to WORD format. Merge CSV to WORD in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to WORD saveformat via Python., Free Online Merge CSV to word in Python., Python Combine CSV to WORD Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to WORD saveformat. Python Combine CSV to WORD format. Merge CSV to WORD in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to WORD in Python., Free Online Python Merge CSV to word., Python Combine CSV to WORD Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

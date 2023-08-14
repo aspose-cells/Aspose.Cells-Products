@@ -1,7 +1,7 @@
 ---
-title: XLSB to PPTX - Convert XLSB to PPTX files Python
-description: Aspose Excel. Free Online Convert XLSB to PPTX saveformat. Python XLSB to PPTX format. Save XLSB as PPTX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to PPTX saveformat., Free Online XLSB to PPTX Converter]
+title: Python XLSB to PPTX - Online XLSB to PPTX Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to PPTX saveformat. Python XLSB to PPTX format. Save XLSB to PPTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to PPTX saveformat., Free Online XLSB to PPTX Python., Python Convert XLSB to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

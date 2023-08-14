@@ -1,7 +1,7 @@
 ---
-title: XLTX to SQL - Convert XLTX to SQL files C#
-description: Aspose Excel. Free Online Convert XLTX to SQL saveformat. C# XLTX to SQL format. Save XLTX as SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to SQL saveformat., Free Online XLTX to SQL Converter]
+title: C# XLTX to SQL - Online XLTX to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to SQL saveformat. C# XLTX to SQL format. Save XLTX to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to SQL saveformat., Free Online XLTX to SQL C#., C# Convert XLTX to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

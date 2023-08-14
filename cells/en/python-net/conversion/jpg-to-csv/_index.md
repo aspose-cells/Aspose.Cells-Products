@@ -1,7 +1,7 @@
 ---
-title: JPG to CSV - Convert JPG to CSV files Python
-description: Aspose Excel. Free Online Convert JPG to CSV saveformat. Python JPG to CSV format. Save JPG as CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to CSV saveformat., Free Online JPG to CSV Converter]
+title: Python JPG to CSV - Online JPG to CSV Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to CSV saveformat. Python JPG to CSV format. Save JPG to CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to CSV saveformat., Free Online JPG to CSV Python., Python Convert JPG to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

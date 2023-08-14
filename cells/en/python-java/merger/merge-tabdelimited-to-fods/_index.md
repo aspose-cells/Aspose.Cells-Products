@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to FODS - Combine TABDELIMITED to FODS in Python
 url: /python-java/merger/merge-tabdelimited-to-fods/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to FODS saveformat. Python Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to FODS saveformat via Python., Free Online Merge TABDELIMITED to fods in Python., Python Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to FODS saveformat. Python Combine TABDELIMITED to FODS format. Merge TABDELIMITED to FODS in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to FODS in Python., Free Online Python Merge TABDELIMITED to fods., Python Combine TABDELIMITED to FODS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

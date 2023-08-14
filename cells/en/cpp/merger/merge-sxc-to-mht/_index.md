@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MHT - Combine SXC to MHT in C++
 url: /cpp/merger/merge-sxc-to-mht/ 
-description: Aspose Excel. Free Online Merge SXC to MHT saveformat. C++ Combine SXC to MHT format. Merge SXC to MHT in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to MHT saveformat via C++., Free Online Merge SXC to mht in C++., C++ Combine SXC to MHT Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to MHT saveformat. C++ Combine SXC to MHT format. Merge SXC to MHT in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to MHT in C++., Free Online C++ Merge SXC to mht., C++ Combine SXC to MHT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

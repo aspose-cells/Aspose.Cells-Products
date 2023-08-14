@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to GIF - Combine OTS to GIF in Python
 url: /python-java/merger/merge-ots-to-gif/ 
-description: Aspose Excel. Free Online Merge OTS to GIF saveformat. Python Combine OTS to GIF format. Merge OTS to GIF in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to GIF saveformat via Python., Free Online Merge OTS to gif in Python., Python Combine OTS to GIF Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to GIF saveformat. Python Combine OTS to GIF format. Merge OTS to GIF in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to GIF in Python., Free Online Python Merge OTS to gif., Python Combine OTS to GIF Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

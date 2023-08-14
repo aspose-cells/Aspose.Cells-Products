@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to WORD - Combine HTM to WORD in Python
 url: /python-net/merger/merge-htm-to-word/ 
-description: Aspose Excel. Free Online Merge HTM to WORD saveformat. Python Combine HTM to WORD format. Merge HTM to WORD in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to WORD saveformat via Python., Free Online Merge HTM to word in Python., Python Combine HTM to WORD Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to WORD saveformat. Python Combine HTM to WORD format. Merge HTM to WORD in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to WORD in Python., Free Online Python Merge HTM to word., Python Combine HTM to WORD Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

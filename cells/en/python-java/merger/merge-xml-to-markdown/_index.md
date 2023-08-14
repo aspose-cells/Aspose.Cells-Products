@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MARKDOWN - Combine XML to MARKDOWN in Python
 url: /python-java/merger/merge-xml-to-markdown/ 
-description: Aspose Excel. Free Online Merge XML to MARKDOWN saveformat. Python Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MARKDOWN saveformat via Python., Free Online Merge XML to markdown in Python., Python Combine XML to MARKDOWN Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to MARKDOWN saveformat. Python Combine XML to MARKDOWN format. Merge XML to MARKDOWN in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to MARKDOWN in Python., Free Online Python Merge XML to markdown., Python Combine XML to MARKDOWN Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

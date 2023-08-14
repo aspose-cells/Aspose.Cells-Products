@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to FODS - Combine PRN to FODS in Java
 url: /java/merger/merge-prn-to-fods/ 
-description: Aspose Excel. Free Online Merge PRN to FODS saveformat. Java Combine PRN to FODS format. Merge PRN to FODS in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to FODS saveformat via Java., Free Online Merge PRN to fods in Java., Java Combine PRN to FODS Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to FODS saveformat. Java Combine PRN to FODS format. Merge PRN to FODS in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to FODS in Java., Free Online Java Merge PRN to fods., Java Combine PRN to FODS Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

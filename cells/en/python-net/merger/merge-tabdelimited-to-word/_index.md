@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to WORD - Combine TABDELIMITED to WORD in Python
 url: /python-net/merger/merge-tabdelimited-to-word/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to WORD saveformat. Python Combine TABDELIMITED to WORD format. Merge TABDELIMITED to WORD in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to WORD saveformat via Python., Free Online Merge TABDELIMITED to word in Python., Python Combine TABDELIMITED to WORD Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to WORD saveformat. Python Combine TABDELIMITED to WORD format. Merge TABDELIMITED to WORD in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to WORD in Python., Free Online Python Merge TABDELIMITED to word., Python Combine TABDELIMITED to WORD Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

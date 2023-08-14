@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to DIF - Combine XLTX to DIF in Java
 url: /java/merger/merge-xltx-to-dif/ 
-description: Aspose Excel. Free Online Merge XLTX to DIF saveformat. Java Combine XLTX to DIF format. Merge XLTX to DIF in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to DIF saveformat via Java., Free Online Merge XLTX to dif in Java., Java Combine XLTX to DIF Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to DIF saveformat. Java Combine XLTX to DIF format. Merge XLTX to DIF in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to DIF in Java., Free Online Java Merge XLTX to dif., Java Combine XLTX to DIF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

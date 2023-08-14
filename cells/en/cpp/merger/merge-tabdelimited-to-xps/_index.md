@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XPS - Combine TABDELIMITED to XPS in C++
 url: /cpp/merger/merge-tabdelimited-to-xps/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XPS saveformat. C++ Combine TABDELIMITED to XPS format. Merge TABDELIMITED to XPS in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XPS saveformat via C++., Free Online Merge TABDELIMITED to xps in C++., C++ Combine TABDELIMITED to XPS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to XPS saveformat. C++ Combine TABDELIMITED to XPS format. Merge TABDELIMITED to XPS in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XPS in C++., Free Online C++ Merge TABDELIMITED to xps., C++ Combine TABDELIMITED to XPS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

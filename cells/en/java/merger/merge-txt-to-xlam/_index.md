@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLAM - Combine TXT to XLAM in Java
 url: /java/merger/merge-txt-to-xlam/ 
-description: Aspose Excel. Free Online Merge TXT to XLAM saveformat. Java Combine TXT to XLAM format. Merge TXT to XLAM in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM saveformat via Java., Free Online Merge TXT to xlam in Java., Java Combine TXT to XLAM Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to XLAM saveformat. Java Combine TXT to XLAM format. Merge TXT to XLAM in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLAM in Java., Free Online Java Merge TXT to xlam., Java Combine TXT to XLAM Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

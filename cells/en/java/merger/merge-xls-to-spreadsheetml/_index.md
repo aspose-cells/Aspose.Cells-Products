@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SPREADSHEETML - Combine XLS to SPREADSHEETML in Java
 url: /java/merger/merge-xls-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge XLS to SPREADSHEETML saveformat. Java Combine XLS to SPREADSHEETML format. Merge XLS to SPREADSHEETML in Java. XLS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SPREADSHEETML saveformat via Java., Free Online Merge XLS to spreadsheetml in Java., Java Combine XLS to SPREADSHEETML Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to SPREADSHEETML saveformat. Java Combine XLS to SPREADSHEETML format. Merge XLS to SPREADSHEETML in Java. XLS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SPREADSHEETML in Java., Free Online Java Merge XLS to spreadsheetml., Java Combine XLS to SPREADSHEETML Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

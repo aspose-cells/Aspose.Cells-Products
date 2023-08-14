@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to WORD - Combine XLSM to WORD in Python
 url: /python-net/merger/merge-xlsm-to-word/ 
-description: Aspose Excel. Free Online Merge XLSM to WORD saveformat. Python Combine XLSM to WORD format. Merge XLSM to WORD in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to WORD saveformat via Python., Free Online Merge XLSM to word in Python., Python Combine XLSM to WORD Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to WORD saveformat. Python Combine XLSM to WORD format. Merge XLSM to WORD in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to WORD in Python., Free Online Python Merge XLSM to word., Python Combine XLSM to WORD Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

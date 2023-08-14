@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to EMF - Combine XLS to EMF in C++
 url: /cpp/merger/merge-xls-to-emf/ 
-description: Aspose Excel. Free Online Merge XLS to EMF saveformat. C++ Combine XLS to EMF format. Merge XLS to EMF in C++. XLS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to EMF saveformat via C++., Free Online Merge XLS to emf in C++., C++ Combine XLS to EMF Online for Free., XLS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to EMF saveformat. C++ Combine XLS to EMF format. Merge XLS to EMF in C++. XLS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to EMF in C++., Free Online C++ Merge XLS to emf., C++ Combine XLS to EMF Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

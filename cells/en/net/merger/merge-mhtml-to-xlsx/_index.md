@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLSX - Combine MHTML to XLSX in C#
 url: /net/merger/merge-mhtml-to-xlsx/ 
-description: Aspose Excel. Free Online Merge MHTML to XLSX saveformat. C# Combine MHTML to XLSX format. Merge MHTML to XLSX in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XLSX saveformat via C#., Free Online Merge MHTML to xlsx in C#., C# Combine MHTML to XLSX Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to XLSX saveformat. C# Combine MHTML to XLSX format. Merge MHTML to XLSX in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to XLSX in C#., Free Online C# Merge MHTML to xlsx., C# Combine MHTML to XLSX Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

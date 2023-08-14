@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to BMP - Combine JPEG to BMP in C#
 url: /net/merger/merge-jpeg-to-bmp/ 
-description: Aspose Excel. Free Online Merge JPEG to BMP saveformat. C# Combine JPEG to BMP format. Merge JPEG to BMP in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to BMP saveformat via C#., Free Online Merge JPEG to bmp in C#., C# Combine JPEG to BMP Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to BMP saveformat. C# Combine JPEG to BMP format. Merge JPEG to BMP in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to BMP in C#., Free Online C# Merge JPEG to bmp., C# Combine JPEG to BMP Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

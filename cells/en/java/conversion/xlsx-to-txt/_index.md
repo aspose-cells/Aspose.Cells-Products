@@ -1,7 +1,7 @@
 ---
-title: XLSX to TXT - Convert XLSX to TXT files Java
-description: Aspose Excel. Free Online Convert XLSX to TXT saveformat. Java XLSX to TXT format. Save XLSX as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to TXT saveformat., Free Online XLSX to TXT Converter]
+title: Java XLSX to TXT - Online XLSX to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSX to TXT saveformat. Java XLSX to TXT format. Save XLSX to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSX to TXT saveformat., Free Online XLSX to TXT Java., Java Convert XLSX to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

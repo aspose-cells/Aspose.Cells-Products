@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TIFF - Combine MHT to TIFF in C#
 url: /net/merger/merge-mht-to-tiff/ 
-description: Aspose Excel. Free Online Merge MHT to TIFF saveformat. C# Combine MHT to TIFF format. Merge MHT to TIFF in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to TIFF saveformat via C#., Free Online Merge MHT to tiff in C#., C# Combine MHT to TIFF Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to TIFF saveformat. C# Combine MHT to TIFF format. Merge MHT to TIFF in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to TIFF in C#., Free Online C# Merge MHT to tiff., C# Combine MHT to TIFF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to NUMBERS - Combine PRN to NUMBERS in C#
 url: /net/merger/merge-prn-to-numbers/ 
-description: Aspose Excel. Free Online Merge PRN to NUMBERS saveformat. C# Combine PRN to NUMBERS format. Merge PRN to NUMBERS in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to NUMBERS saveformat via C#., Free Online Merge PRN to numbers in C#., C# Combine PRN to NUMBERS Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to NUMBERS saveformat. C# Combine PRN to NUMBERS format. Merge PRN to NUMBERS in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to NUMBERS in C#., Free Online C# Merge PRN to numbers., C# Combine PRN to NUMBERS Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

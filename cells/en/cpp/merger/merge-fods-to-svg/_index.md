@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SVG - Combine FODS to SVG in C++
 url: /cpp/merger/merge-fods-to-svg/ 
-description: Aspose Excel. Free Online Merge FODS to SVG saveformat. C++ Combine FODS to SVG format. Merge FODS to SVG in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to SVG saveformat via C++., Free Online Merge FODS to svg in C++., C++ Combine FODS to SVG Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to SVG saveformat. C++ Combine FODS to SVG format. Merge FODS to SVG in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to SVG in C++., Free Online C++ Merge FODS to svg., C++ Combine FODS to SVG Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

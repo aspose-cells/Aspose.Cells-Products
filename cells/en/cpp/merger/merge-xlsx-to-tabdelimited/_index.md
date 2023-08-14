@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to TABDELIMITED - Combine XLSX to TABDELIMITED in C++
 url: /cpp/merger/merge-xlsx-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge XLSX to TABDELIMITED saveformat. C++ Combine XLSX to TABDELIMITED format. Merge XLSX to TABDELIMITED in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to TABDELIMITED saveformat via C++., Free Online Merge XLSX to tabdelimited in C++., C++ Combine XLSX to TABDELIMITED Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to TABDELIMITED saveformat. C++ Combine XLSX to TABDELIMITED format. Merge XLSX to TABDELIMITED in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to TABDELIMITED in C++., Free Online C++ Merge XLSX to tabdelimited., C++ Combine XLSX to TABDELIMITED Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

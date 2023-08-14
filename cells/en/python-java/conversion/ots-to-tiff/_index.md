@@ -1,7 +1,7 @@
 ---
-title: OTS to TIFF - Convert OTS to TIFF files Python
-description: Aspose Excel. Free Online Convert OTS to TIFF saveformat. Python OTS to TIFF format. Save OTS as TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to TIFF saveformat., Free Online OTS to TIFF Converter]
+title: Python OTS to TIFF - Online OTS to TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to TIFF saveformat. Python OTS to TIFF format. Save OTS to TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to TIFF saveformat., Free Online OTS to TIFF Python., Python Convert OTS to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

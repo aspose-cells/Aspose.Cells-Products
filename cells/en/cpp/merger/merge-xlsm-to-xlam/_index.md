@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLAM - Combine XLSM to XLAM in C++
 url: /cpp/merger/merge-xlsm-to-xlam/ 
-description: Aspose Excel. Free Online Merge XLSM to XLAM saveformat. C++ Combine XLSM to XLAM format. Merge XLSM to XLAM in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to XLAM saveformat via C++., Free Online Merge XLSM to xlam in C++., C++ Combine XLSM to XLAM Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to XLAM saveformat. C++ Combine XLSM to XLAM format. Merge XLSM to XLAM in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to XLAM in C++., Free Online C++ Merge XLSM to xlam., C++ Combine XLSM to XLAM Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

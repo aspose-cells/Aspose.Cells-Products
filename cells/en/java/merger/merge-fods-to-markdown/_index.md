@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MARKDOWN - Combine FODS to MARKDOWN in Java
 url: /java/merger/merge-fods-to-markdown/ 
-description: Aspose Excel. Free Online Merge FODS to MARKDOWN saveformat. Java Combine FODS to MARKDOWN format. Merge FODS to MARKDOWN in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to MARKDOWN saveformat via Java., Free Online Merge FODS to markdown in Java., Java Combine FODS to MARKDOWN Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to MARKDOWN saveformat. Java Combine FODS to MARKDOWN format. Merge FODS to MARKDOWN in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to MARKDOWN in Java., Free Online Java Merge FODS to markdown., Java Combine FODS to MARKDOWN Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

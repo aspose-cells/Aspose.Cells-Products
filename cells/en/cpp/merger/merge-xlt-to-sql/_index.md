@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SQL - Combine XLT to SQL in C++
 url: /cpp/merger/merge-xlt-to-sql/ 
-description: Aspose Excel. Free Online Merge XLT to SQL saveformat. C++ Combine XLT to SQL format. Merge XLT to SQL in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SQL saveformat via C++., Free Online Merge XLT to sql in C++., C++ Combine XLT to SQL Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to SQL saveformat. C++ Combine XLT to SQL format. Merge XLT to SQL in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SQL in C++., Free Online C++ Merge XLT to sql., C++ Combine XLT to SQL Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

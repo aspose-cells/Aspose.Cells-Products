@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to WORD - Combine XLSX to WORD in C++
 url: /cpp/merger/merge-xlsx-to-word/ 
-description: Aspose Excel. Free Online Merge XLSX to WORD saveformat. C++ Combine XLSX to WORD format. Merge XLSX to WORD in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to WORD saveformat via C++., Free Online Merge XLSX to word in C++., C++ Combine XLSX to WORD Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to WORD saveformat. C++ Combine XLSX to WORD format. Merge XLSX to WORD in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to WORD in C++., Free Online C++ Merge XLSX to word., C++ Combine XLSX to WORD Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

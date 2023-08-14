@@ -1,7 +1,7 @@
 ---
-title: XLSX to SQL - Convert XLSX to SQL files C#
-description: Aspose Excel. Free Online Convert XLSX to SQL saveformat. C# XLSX to SQL format. Save XLSX as SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to SQL saveformat., Free Online XLSX to SQL Converter]
+title: C# XLSX to SQL - Online XLSX to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSX to SQL saveformat. C# XLSX to SQL format. Save XLSX to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSX to SQL saveformat., Free Online XLSX to SQL C#., C# Convert XLSX to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

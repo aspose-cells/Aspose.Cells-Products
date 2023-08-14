@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MHTML - Combine SXC to MHTML in Java
 url: /java/merger/merge-sxc-to-mhtml/ 
-description: Aspose Excel. Free Online Merge SXC to MHTML saveformat. Java Combine SXC to MHTML format. Merge SXC to MHTML in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MHTML saveformat via Java., Free Online Merge SXC to mhtml in Java., Java Combine SXC to MHTML Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to MHTML saveformat. Java Combine SXC to MHTML format. Merge SXC to MHTML in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MHTML in Java., Free Online Java Merge SXC to mhtml., Java Combine SXC to MHTML Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

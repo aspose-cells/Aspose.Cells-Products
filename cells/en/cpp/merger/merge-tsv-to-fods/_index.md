@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to FODS - Combine TSV to FODS in C++
 url: /cpp/merger/merge-tsv-to-fods/ 
-description: Aspose Excel. Free Online Merge TSV to FODS saveformat. C++ Combine TSV to FODS format. Merge TSV to FODS in C++. TSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to FODS saveformat via C++., Free Online Merge TSV to fods in C++., C++ Combine TSV to FODS Online for Free., TSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TSV to FODS saveformat. C++ Combine TSV to FODS format. Merge TSV to FODS in C++. TSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to FODS in C++., Free Online C++ Merge TSV to fods., C++ Combine TSV to FODS Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

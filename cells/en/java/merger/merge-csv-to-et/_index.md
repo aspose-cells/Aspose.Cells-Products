@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ET - Combine CSV to ET in Java
 url: /java/merger/merge-csv-to-et/ 
-description: Aspose Excel. Free Online Merge CSV to ET saveformat. Java Combine CSV to ET format. Merge CSV to ET in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to ET saveformat via Java., Free Online Merge CSV to et in Java., Java Combine CSV to ET Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to ET saveformat. Java Combine CSV to ET format. Merge CSV to ET in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to ET in Java., Free Online Java Merge CSV to et., Java Combine CSV to ET Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

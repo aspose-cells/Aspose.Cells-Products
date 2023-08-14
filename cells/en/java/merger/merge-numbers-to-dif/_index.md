@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DIF - Combine NUMBERS to DIF in Java
 url: /java/merger/merge-numbers-to-dif/ 
-description: Aspose Excel. Free Online Merge NUMBERS to DIF saveformat. Java Combine NUMBERS to DIF format. Merge NUMBERS to DIF in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DIF saveformat via Java., Free Online Merge NUMBERS to dif in Java., Java Combine NUMBERS to DIF Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to DIF saveformat. Java Combine NUMBERS to DIF format. Merge NUMBERS to DIF in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DIF in Java., Free Online Java Merge NUMBERS to dif., Java Combine NUMBERS to DIF Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

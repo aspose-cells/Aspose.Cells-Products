@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to POWERPOINT - Combine HTM to POWERPOINT in Java
 url: /java/merger/merge-htm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTM to POWERPOINT saveformat. Java Combine HTM to POWERPOINT format. Merge HTM to POWERPOINT in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT saveformat via Java., Free Online Merge HTM to powerpoint in Java., Java Combine HTM to POWERPOINT Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to POWERPOINT saveformat. Java Combine HTM to POWERPOINT format. Merge HTM to POWERPOINT in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to POWERPOINT in Java., Free Online Java Merge HTM to powerpoint., Java Combine HTM to POWERPOINT Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

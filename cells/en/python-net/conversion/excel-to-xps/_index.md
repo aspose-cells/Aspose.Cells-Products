@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XPS - Convert EXCEL to XPS files Python
-description: Aspose Excel. Free Online Convert EXCEL to XPS saveformat. Python EXCEL to XPS format. Save EXCEL as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to XPS saveformat., Free Online EXCEL to XPS Converter]
+title: Python EXCEL to XPS - Online EXCEL to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to XPS saveformat. Python EXCEL to XPS format. Save EXCEL to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to XPS saveformat., Free Online EXCEL to XPS Python., Python Convert EXCEL to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

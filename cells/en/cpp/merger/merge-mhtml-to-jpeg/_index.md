@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to JPEG - Combine MHTML to JPEG in C++
 url: /cpp/merger/merge-mhtml-to-jpeg/ 
-description: Aspose Excel. Free Online Merge MHTML to JPEG saveformat. C++ Combine MHTML to JPEG format. Merge MHTML to JPEG in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to JPEG saveformat via C++., Free Online Merge MHTML to jpeg in C++., C++ Combine MHTML to JPEG Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to JPEG saveformat. C++ Combine MHTML to JPEG format. Merge MHTML to JPEG in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to JPEG in C++., Free Online C++ Merge MHTML to jpeg., C++ Combine MHTML to JPEG Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

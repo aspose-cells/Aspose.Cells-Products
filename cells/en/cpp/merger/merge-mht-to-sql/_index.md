@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SQL - Combine MHT to SQL in C++
 url: /cpp/merger/merge-mht-to-sql/ 
-description: Aspose Excel. Free Online Merge MHT to SQL saveformat. C++ Combine MHT to SQL format. Merge MHT to SQL in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to SQL saveformat via C++., Free Online Merge MHT to sql in C++., C++ Combine MHT to SQL Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to SQL saveformat. C++ Combine MHT to SQL format. Merge MHT to SQL in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to SQL in C++., Free Online C++ Merge MHT to sql., C++ Combine MHT to SQL Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to HTML - Combine XLSB to HTML in C#
 url: /net/merger/merge-xlsb-to-html/ 
-description: Aspose Excel. Free Online Merge XLSB to HTML saveformat. C# Combine XLSB to HTML format. Merge XLSB to HTML in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML saveformat via C#., Free Online Merge XLSB to html in C#., C# Combine XLSB to HTML Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to HTML saveformat. C# Combine XLSB to HTML format. Merge XLSB to HTML in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML in C#., Free Online C# Merge XLSB to html., C# Combine XLSB to HTML Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PNG - Combine MHTML to PNG in C#
 url: /net/merger/merge-mhtml-to-png/ 
-description: Aspose Excel. Free Online Merge MHTML to PNG saveformat. C# Combine MHTML to PNG format. Merge MHTML to PNG in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to PNG saveformat via C#., Free Online Merge MHTML to png in C#., C# Combine MHTML to PNG Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to PNG saveformat. C# Combine MHTML to PNG format. Merge MHTML to PNG in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to PNG in C#., Free Online C# Merge MHTML to png., C# Combine MHTML to PNG Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TIFF - Combine PNG to TIFF in Java
 url: /java/merger/merge-png-to-tiff/ 
-description: Aspose Excel. Free Online Merge PNG to TIFF saveformat. Java Combine PNG to TIFF format. Merge PNG to TIFF in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to TIFF saveformat via Java., Free Online Merge PNG to tiff in Java., Java Combine PNG to TIFF Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to TIFF saveformat. Java Combine PNG to TIFF format. Merge PNG to TIFF in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to TIFF in Java., Free Online Java Merge PNG to tiff., Java Combine PNG to TIFF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

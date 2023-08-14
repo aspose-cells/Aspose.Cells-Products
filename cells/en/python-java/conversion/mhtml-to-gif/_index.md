@@ -1,7 +1,7 @@
 ---
-title: MHTML to GIF - Convert MHTML to GIF files Python
-description: Aspose Excel. Free Online Convert MHTML to GIF saveformat. Python MHTML to GIF format. Save MHTML as GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to GIF saveformat., Free Online MHTML to GIF Converter]
+title: Python MHTML to GIF - Online MHTML to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to GIF saveformat. Python MHTML to GIF format. Save MHTML to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to GIF saveformat., Free Online MHTML to GIF Python., Python Convert MHTML to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

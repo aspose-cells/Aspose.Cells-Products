@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to EMF - Combine MHTML to EMF in Java
 url: /java/merger/merge-mhtml-to-emf/ 
-description: Aspose Excel. Free Online Merge MHTML to EMF saveformat. Java Combine MHTML to EMF format. Merge MHTML to EMF in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EMF saveformat via Java., Free Online Merge MHTML to emf in Java., Java Combine MHTML to EMF Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to EMF saveformat. Java Combine MHTML to EMF format. Merge MHTML to EMF in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to EMF in Java., Free Online Java Merge MHTML to emf., Java Combine MHTML to EMF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

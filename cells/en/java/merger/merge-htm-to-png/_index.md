@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PNG - Combine HTM to PNG in Java
 url: /java/merger/merge-htm-to-png/ 
-description: Aspose Excel. Free Online Merge HTM to PNG saveformat. Java Combine HTM to PNG format. Merge HTM to PNG in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PNG saveformat via Java., Free Online Merge HTM to png in Java., Java Combine HTM to PNG Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to PNG saveformat. Java Combine HTM to PNG format. Merge HTM to PNG in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PNG in Java., Free Online Java Merge HTM to png., Java Combine HTM to PNG Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

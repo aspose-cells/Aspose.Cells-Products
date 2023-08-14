@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to MARKDOWN - Combine OTS to MARKDOWN in C#
 url: /net/merger/merge-ots-to-markdown/ 
-description: Aspose Excel. Free Online Merge OTS to MARKDOWN saveformat. C# Combine OTS to MARKDOWN format. Merge OTS to MARKDOWN in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MARKDOWN saveformat via C#., Free Online Merge OTS to markdown in C#., C# Combine OTS to MARKDOWN Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to MARKDOWN saveformat. C# Combine OTS to MARKDOWN format. Merge OTS to MARKDOWN in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MARKDOWN in C#., Free Online C# Merge OTS to markdown., C# Combine OTS to MARKDOWN Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

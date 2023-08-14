@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to DIF - Combine JSON to DIF in Python
 url: /python-net/merger/merge-json-to-dif/ 
-description: Aspose Excel. Free Online Merge JSON to DIF saveformat. Python Combine JSON to DIF format. Merge JSON to DIF in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to DIF saveformat via Python., Free Online Merge JSON to dif in Python., Python Combine JSON to DIF Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to DIF saveformat. Python Combine JSON to DIF format. Merge JSON to DIF in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to DIF in Python., Free Online Python Merge JSON to dif., Python Combine JSON to DIF Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

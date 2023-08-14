@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DOCX - Combine XLSB to DOCX in Java
 url: /java/merger/merge-xlsb-to-docx/ 
-description: Aspose Excel. Free Online Merge XLSB to DOCX saveformat. Java Combine XLSB to DOCX format. Merge XLSB to DOCX in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to DOCX saveformat via Java., Free Online Merge XLSB to docx in Java., Java Combine XLSB to DOCX Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to DOCX saveformat. Java Combine XLSB to DOCX format. Merge XLSB to DOCX in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to DOCX in Java., Free Online Java Merge XLSB to docx., Java Combine XLSB to DOCX Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

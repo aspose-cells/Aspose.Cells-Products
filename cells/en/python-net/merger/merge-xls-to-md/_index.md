@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to MD - Combine XLS to MD in Python
 url: /python-net/merger/merge-xls-to-md/ 
-description: Aspose Excel. Free Online Merge XLS to MD saveformat. Python Combine XLS to MD format. Merge XLS to MD in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MD saveformat via Python., Free Online Merge XLS to md in Python., Python Combine XLS to MD Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to MD saveformat. Python Combine XLS to MD format. Merge XLS to MD in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to MD in Python., Free Online Python Merge XLS to md., Python Combine XLS to MD Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

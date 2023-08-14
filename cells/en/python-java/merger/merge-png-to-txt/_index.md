@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TXT - Combine PNG to TXT in Python
 url: /python-java/merger/merge-png-to-txt/ 
-description: Aspose Excel. Free Online Merge PNG to TXT saveformat. Python Combine PNG to TXT format. Merge PNG to TXT in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TXT saveformat via Python., Free Online Merge PNG to txt in Python., Python Combine PNG to TXT Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to TXT saveformat. Python Combine PNG to TXT format. Merge PNG to TXT in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TXT in Python., Free Online Python Merge PNG to txt., Python Combine PNG to TXT Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

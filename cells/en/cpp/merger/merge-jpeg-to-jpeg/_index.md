@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to JPEG - Combine JPEG to JPEG in C++
 url: /cpp/merger/merge-jpeg-to-jpeg/ 
-description: Aspose Excel. Free Online Merge JPEG to JPEG saveformat. C++ Combine JPEG to JPEG format. Merge JPEG to JPEG in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to JPEG saveformat via C++., Free Online Merge JPEG to jpeg in C++., C++ Combine JPEG to JPEG Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to JPEG saveformat. C++ Combine JPEG to JPEG format. Merge JPEG to JPEG in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to JPEG in C++., Free Online C++ Merge JPEG to jpeg., C++ Combine JPEG to JPEG Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

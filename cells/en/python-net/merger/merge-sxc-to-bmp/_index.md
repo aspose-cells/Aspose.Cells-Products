@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to BMP - Combine SXC to BMP in Python
 url: /python-net/merger/merge-sxc-to-bmp/ 
-description: Aspose Excel. Free Online Merge SXC to BMP saveformat. Python Combine SXC to BMP format. Merge SXC to BMP in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to BMP saveformat via Python., Free Online Merge SXC to bmp in Python., Python Combine SXC to BMP Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to BMP saveformat. Python Combine SXC to BMP format. Merge SXC to BMP in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to BMP in Python., Free Online Python Merge SXC to bmp., Python Combine SXC to BMP Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

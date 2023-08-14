@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to JSON - Combine HTM to JSON in C++
 url: /cpp/merger/merge-htm-to-json/ 
-description: Aspose Excel. Free Online Merge HTM to JSON saveformat. C++ Combine HTM to JSON format. Merge HTM to JSON in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to JSON saveformat via C++., Free Online Merge HTM to json in C++., C++ Combine HTM to JSON Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to JSON saveformat. C++ Combine HTM to JSON format. Merge HTM to JSON in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to JSON in C++., Free Online C++ Merge HTM to json., C++ Combine HTM to JSON Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

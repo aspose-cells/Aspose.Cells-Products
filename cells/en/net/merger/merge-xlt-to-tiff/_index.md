@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to TIFF - Combine XLT to TIFF in C#
 url: /net/merger/merge-xlt-to-tiff/ 
-description: Aspose Excel. Free Online Merge XLT to TIFF saveformat. C# Combine XLT to TIFF format. Merge XLT to TIFF in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to TIFF saveformat via C#., Free Online Merge XLT to tiff in C#., C# Combine XLT to TIFF Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to TIFF saveformat. C# Combine XLT to TIFF format. Merge XLT to TIFF in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to TIFF in C#., Free Online C# Merge XLT to tiff., C# Combine XLT to TIFF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to JSON - Combine JPG to JSON in C#
 url: /net/merger/merge-jpg-to-json/ 
-description: Aspose Excel. Free Online Merge JPG to JSON saveformat. C# Combine JPG to JSON format. Merge JPG to JSON in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to JSON saveformat via C#., Free Online Merge JPG to json in C#., C# Combine JPG to JSON Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to JSON saveformat. C# Combine JPG to JSON format. Merge JPG to JSON in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to JSON in C#., Free Online C# Merge JPG to json., C# Combine JPG to JSON Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

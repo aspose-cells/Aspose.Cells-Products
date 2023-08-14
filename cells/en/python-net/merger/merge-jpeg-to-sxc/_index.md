@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SXC - Combine JPEG to SXC in Python
 url: /python-net/merger/merge-jpeg-to-sxc/ 
-description: Aspose Excel. Free Online Merge JPEG to SXC saveformat. Python Combine JPEG to SXC format. Merge JPEG to SXC in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SXC saveformat via Python., Free Online Merge JPEG to sxc in Python., Python Combine JPEG to SXC Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to SXC saveformat. Python Combine JPEG to SXC format. Merge JPEG to SXC in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to SXC in Python., Free Online Python Merge JPEG to sxc., Python Combine JPEG to SXC Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to POWERPOINT - Combine EXCEL to POWERPOINT in C#
 url: /net/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge EXCEL to POWERPOINT saveformat. C# Combine EXCEL to POWERPOINT format. Merge EXCEL to POWERPOINT in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to POWERPOINT saveformat via C#., Free Online Merge EXCEL to powerpoint in C#., C# Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to POWERPOINT saveformat. C# Combine EXCEL to POWERPOINT format. Merge EXCEL to POWERPOINT in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to POWERPOINT in C#., Free Online C# Merge EXCEL to powerpoint., C# Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

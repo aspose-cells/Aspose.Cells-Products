@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TXT - Combine TXT to TXT in Java
 url: /java/merger/merge-txt-to-txt/ 
-description: Aspose Excel. Free Online Merge TXT to TXT saveformat. Java Combine TXT to TXT format. Merge TXT to TXT in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to TXT saveformat via Java., Free Online Merge TXT to txt in Java., Java Combine TXT to TXT Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to TXT saveformat. Java Combine TXT to TXT format. Merge TXT to TXT in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to TXT in Java., Free Online Java Merge TXT to txt., Java Combine TXT to TXT Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

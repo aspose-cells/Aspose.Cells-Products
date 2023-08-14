@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DOCX - Combine NUMBERS to DOCX in Python
 url: /python-java/merger/merge-numbers-to-docx/ 
-description: Aspose Excel. Free Online Merge NUMBERS to DOCX saveformat. Python Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to DOCX saveformat via Python., Free Online Merge NUMBERS to docx in Python., Python Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to DOCX saveformat. Python Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to DOCX in Python., Free Online Python Merge NUMBERS to docx., Python Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

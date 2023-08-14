@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to WORD - Combine MHTML to WORD in C++
 url: /cpp/merger/merge-mhtml-to-word/ 
-description: Aspose Excel. Free Online Merge MHTML to WORD saveformat. C++ Combine MHTML to WORD format. Merge MHTML to WORD in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to WORD saveformat via C++., Free Online Merge MHTML to word in C++., C++ Combine MHTML to WORD Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to WORD saveformat. C++ Combine MHTML to WORD format. Merge MHTML to WORD in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to WORD in C++., Free Online C++ Merge MHTML to word., C++ Combine MHTML to WORD Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

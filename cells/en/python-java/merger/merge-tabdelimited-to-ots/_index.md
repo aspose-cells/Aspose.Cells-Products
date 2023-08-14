@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to OTS - Combine TABDELIMITED to OTS in Python
 url: /python-java/merger/merge-tabdelimited-to-ots/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to OTS saveformat. Python Combine TABDELIMITED to OTS format. Merge TABDELIMITED to OTS in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to OTS saveformat via Python., Free Online Merge TABDELIMITED to ots in Python., Python Combine TABDELIMITED to OTS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to OTS saveformat. Python Combine TABDELIMITED to OTS format. Merge TABDELIMITED to OTS in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to OTS in Python., Free Online Python Merge TABDELIMITED to ots., Python Combine TABDELIMITED to OTS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

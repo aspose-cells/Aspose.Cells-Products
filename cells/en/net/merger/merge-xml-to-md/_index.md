@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MD - Combine XML to MD in C#
 url: /net/merger/merge-xml-to-md/ 
-description: Aspose Excel. Free Online Merge XML to MD saveformat. C# Combine XML to MD format. Merge XML to MD in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MD saveformat via C#., Free Online Merge XML to md in C#., C# Combine XML to MD Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to MD saveformat. C# Combine XML to MD format. Merge XML to MD in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MD in C#., Free Online C# Merge XML to md., C# Combine XML to MD Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

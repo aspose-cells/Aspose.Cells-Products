@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ETT - Combine MHTML to ETT in Python
 url: /python-java/merger/merge-mhtml-to-ett/ 
-description: Aspose Excel. Free Online Merge MHTML to ETT saveformat. Python Combine MHTML to ETT format. Merge MHTML to ETT in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to ETT saveformat via Python., Free Online Merge MHTML to ett in Python., Python Combine MHTML to ETT Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to ETT saveformat. Python Combine MHTML to ETT format. Merge MHTML to ETT in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to ETT in Python., Free Online Python Merge MHTML to ett., Python Combine MHTML to ETT Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

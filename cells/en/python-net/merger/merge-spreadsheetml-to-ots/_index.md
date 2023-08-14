@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to OTS - Combine SPREADSHEETML to OTS in Python
 url: /python-net/merger/merge-spreadsheetml-to-ots/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to OTS saveformat. Python Combine SPREADSHEETML to OTS format. Merge SPREADSHEETML to OTS in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to OTS saveformat via Python., Free Online Merge SPREADSHEETML to ots in Python., Python Combine SPREADSHEETML to OTS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to OTS saveformat. Python Combine SPREADSHEETML to OTS format. Merge SPREADSHEETML to OTS in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to OTS in Python., Free Online Python Merge SPREADSHEETML to ots., Python Combine SPREADSHEETML to OTS Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

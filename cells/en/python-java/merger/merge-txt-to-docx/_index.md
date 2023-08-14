@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DOCX - Combine TXT to DOCX in Python
 url: /python-java/merger/merge-txt-to-docx/ 
-description: Aspose Excel. Free Online Merge TXT to DOCX saveformat. Python Combine TXT to DOCX format. Merge TXT to DOCX in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to DOCX saveformat via Python., Free Online Merge TXT to docx in Python., Python Combine TXT to DOCX Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to DOCX saveformat. Python Combine TXT to DOCX format. Merge TXT to DOCX in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to DOCX in Python., Free Online Python Merge TXT to docx., Python Combine TXT to DOCX Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

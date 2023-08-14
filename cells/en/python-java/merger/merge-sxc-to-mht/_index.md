@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MHT - Combine SXC to MHT in Python
 url: /python-java/merger/merge-sxc-to-mht/ 
-description: Aspose Excel. Free Online Merge SXC to MHT saveformat. Python Combine SXC to MHT format. Merge SXC to MHT in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to MHT saveformat via Python., Free Online Merge SXC to mht in Python., Python Combine SXC to MHT Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to MHT saveformat. Python Combine SXC to MHT format. Merge SXC to MHT in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to MHT in Python., Free Online Python Merge SXC to mht., Python Combine SXC to MHT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

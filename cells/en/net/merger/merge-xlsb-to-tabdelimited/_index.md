@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TABDELIMITED - Combine XLSB to TABDELIMITED in C#
 url: /net/merger/merge-xlsb-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge XLSB to TABDELIMITED saveformat. C# Combine XLSB to TABDELIMITED format. Merge XLSB to TABDELIMITED in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to TABDELIMITED saveformat via C#., Free Online Merge XLSB to tabdelimited in C#., C# Combine XLSB to TABDELIMITED Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to TABDELIMITED saveformat. C# Combine XLSB to TABDELIMITED format. Merge XLSB to TABDELIMITED in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to TABDELIMITED in C#., Free Online C# Merge XLSB to tabdelimited., C# Combine XLSB to TABDELIMITED Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

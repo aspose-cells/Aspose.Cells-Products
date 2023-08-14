@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XPS - Combine MHT to XPS in Python
 url: /python-java/merger/merge-mht-to-xps/ 
-description: Aspose Excel. Free Online Merge MHT to XPS saveformat. Python Combine MHT to XPS format. Merge MHT to XPS in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XPS saveformat via Python., Free Online Merge MHT to xps in Python., Python Combine MHT to XPS Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XPS saveformat. Python Combine MHT to XPS format. Merge MHT to XPS in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XPS in Python., Free Online Python Merge MHT to xps., Python Combine MHT to XPS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

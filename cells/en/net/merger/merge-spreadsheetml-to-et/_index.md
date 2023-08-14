@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to ET - Combine SPREADSHEETML to ET in C#
 url: /net/merger/merge-spreadsheetml-to-et/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to ET saveformat. C# Combine SPREADSHEETML to ET format. Merge SPREADSHEETML to ET in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to ET saveformat via C#., Free Online Merge SPREADSHEETML to et in C#., C# Combine SPREADSHEETML to ET Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to ET saveformat. C# Combine SPREADSHEETML to ET format. Merge SPREADSHEETML to ET in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to ET in C#., Free Online C# Merge SPREADSHEETML to et., C# Combine SPREADSHEETML to ET Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

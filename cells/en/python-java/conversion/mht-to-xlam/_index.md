@@ -1,7 +1,7 @@
 ---
-title: MHT to XLAM - Convert MHT to XLAM files Python
-description: Aspose Excel. Free Online Convert MHT to XLAM saveformat. Python MHT to XLAM format. Save MHT as XLAM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to XLAM saveformat., Free Online MHT to XLAM Converter]
+title: Python MHT to XLAM - Online MHT to XLAM Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to XLAM saveformat. Python MHT to XLAM format. Save MHT to XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to XLAM saveformat., Free Online MHT to XLAM Python., Python Convert MHT to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

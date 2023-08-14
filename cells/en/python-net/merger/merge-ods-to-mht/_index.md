@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MHT - Combine ODS to MHT in Python
 url: /python-net/merger/merge-ods-to-mht/ 
-description: Aspose Excel. Free Online Merge ODS to MHT saveformat. Python Combine ODS to MHT format. Merge ODS to MHT in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to MHT saveformat via Python., Free Online Merge ODS to mht in Python., Python Combine ODS to MHT Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to MHT saveformat. Python Combine ODS to MHT format. Merge ODS to MHT in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to MHT in Python., Free Online Python Merge ODS to mht., Python Combine ODS to MHT Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

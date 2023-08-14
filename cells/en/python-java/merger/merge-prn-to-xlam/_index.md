@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLAM - Combine PRN to XLAM in Python
 url: /python-java/merger/merge-prn-to-xlam/ 
-description: Aspose Excel. Free Online Merge PRN to XLAM saveformat. Python Combine PRN to XLAM format. Merge PRN to XLAM in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to XLAM saveformat via Python., Free Online Merge PRN to xlam in Python., Python Combine PRN to XLAM Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to XLAM saveformat. Python Combine PRN to XLAM format. Merge PRN to XLAM in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to XLAM in Python., Free Online Python Merge PRN to xlam., Python Combine PRN to XLAM Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

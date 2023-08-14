@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to PRN - Combine CSV to PRN in C++
 url: /cpp/merger/merge-csv-to-prn/ 
-description: Aspose Excel. Free Online Merge CSV to PRN saveformat. C++ Combine CSV to PRN format. Merge CSV to PRN in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to PRN saveformat via C++., Free Online Merge CSV to prn in C++., C++ Combine CSV to PRN Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to PRN saveformat. C++ Combine CSV to PRN format. Merge CSV to PRN in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to PRN in C++., Free Online C++ Merge CSV to prn., C++ Combine CSV to PRN Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PDF - Combine EXCEL to PDF in Java
 url: /java/merger/merge-excel-to-pdf/ 
-description: Aspose Excel. Free Online Merge EXCEL to PDF saveformat. Java Combine EXCEL to PDF format. Merge EXCEL to PDF in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PDF saveformat via Java., Free Online Merge EXCEL to pdf in Java., Java Combine EXCEL to PDF Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to PDF saveformat. Java Combine EXCEL to PDF format. Merge EXCEL to PDF in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PDF in Java., Free Online Java Merge EXCEL to pdf., Java Combine EXCEL to PDF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

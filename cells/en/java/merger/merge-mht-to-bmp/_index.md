@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to BMP - Combine MHT to BMP in Java
 url: /java/merger/merge-mht-to-bmp/ 
-description: Aspose Excel. Free Online Merge MHT to BMP saveformat. Java Combine MHT to BMP format. Merge MHT to BMP in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to BMP saveformat via Java., Free Online Merge MHT to bmp in Java., Java Combine MHT to BMP Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to BMP saveformat. Java Combine MHT to BMP format. Merge MHT to BMP in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to BMP in Java., Free Online Java Merge MHT to bmp., Java Combine MHT to BMP Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

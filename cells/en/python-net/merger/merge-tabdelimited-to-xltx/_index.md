@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLTX - Combine TABDELIMITED to XLTX in Python
 url: /python-net/merger/merge-tabdelimited-to-xltx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLTX saveformat. Python Combine TABDELIMITED to XLTX format. Merge TABDELIMITED to XLTX in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLTX saveformat via Python., Free Online Merge TABDELIMITED to xltx in Python., Python Combine TABDELIMITED to XLTX Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to XLTX saveformat. Python Combine TABDELIMITED to XLTX format. Merge TABDELIMITED to XLTX in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLTX in Python., Free Online Python Merge TABDELIMITED to xltx., Python Combine TABDELIMITED to XLTX Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: MHT to DIF - Convert MHT to DIF files C#
-description: Aspose Excel. Free Online Convert MHT to DIF saveformat. C# MHT to DIF format. Save MHT as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to DIF saveformat., Free Online MHT to DIF Converter]
+title: C# MHT to DIF - Online MHT to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to DIF saveformat. C# MHT to DIF format. Save MHT to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to DIF saveformat., Free Online MHT to DIF C#., C# Convert MHT to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

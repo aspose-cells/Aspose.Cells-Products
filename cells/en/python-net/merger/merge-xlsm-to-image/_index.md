@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to IMAGE - Combine XLSM to IMAGE in Python
 url: /python-net/merger/merge-xlsm-to-image/ 
-description: Aspose Excel. Free Online Merge XLSM to IMAGE saveformat. Python Combine XLSM to IMAGE format. Merge XLSM to IMAGE in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to IMAGE saveformat via Python., Free Online Merge XLSM to image in Python., Python Combine XLSM to IMAGE Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to IMAGE saveformat. Python Combine XLSM to IMAGE format. Merge XLSM to IMAGE in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to IMAGE in Python., Free Online Python Merge XLSM to image., Python Combine XLSM to IMAGE Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

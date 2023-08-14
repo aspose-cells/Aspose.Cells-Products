@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SVG - Combine EXCEL to SVG in C++
 url: /cpp/merger/merge-excel-to-svg/ 
-description: Aspose Excel. Free Online Merge EXCEL to SVG saveformat. C++ Combine EXCEL to SVG format. Merge EXCEL to SVG in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to SVG saveformat via C++., Free Online Merge EXCEL to svg in C++., C++ Combine EXCEL to SVG Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to SVG saveformat. C++ Combine EXCEL to SVG format. Merge EXCEL to SVG in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to SVG in C++., Free Online C++ Merge EXCEL to svg., C++ Combine EXCEL to SVG Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to OTS - Combine XLSM to OTS in Java
 url: /java/merger/merge-xlsm-to-ots/ 
-description: Aspose Excel. Free Online Merge XLSM to OTS saveformat. Java Combine XLSM to OTS format. Merge XLSM to OTS in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to OTS saveformat via Java., Free Online Merge XLSM to ots in Java., Java Combine XLSM to OTS Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to OTS saveformat. Java Combine XLSM to OTS format. Merge XLSM to OTS in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to OTS in Java., Free Online Java Merge XLSM to ots., Java Combine XLSM to OTS Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MHTML - Combine PNG to MHTML in C++
 url: /cpp/merger/merge-png-to-mhtml/ 
-description: Aspose Excel. Free Online Merge PNG to MHTML saveformat. C++ Combine PNG to MHTML format. Merge PNG to MHTML in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHTML saveformat via C++., Free Online Merge PNG to mhtml in C++., C++ Combine PNG to MHTML Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to MHTML saveformat. C++ Combine PNG to MHTML format. Merge PNG to MHTML in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHTML in C++., Free Online C++ Merge PNG to mhtml., C++ Combine PNG to MHTML Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

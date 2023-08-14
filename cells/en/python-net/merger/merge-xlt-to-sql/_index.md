@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SQL - Combine XLT to SQL in Python
 url: /python-net/merger/merge-xlt-to-sql/ 
-description: Aspose Excel. Free Online Merge XLT to SQL saveformat. Python Combine XLT to SQL format. Merge XLT to SQL in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to SQL saveformat via Python., Free Online Merge XLT to sql in Python., Python Combine XLT to SQL Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to SQL saveformat. Python Combine XLT to SQL format. Merge XLT to SQL in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to SQL in Python., Free Online Python Merge XLT to sql., Python Combine XLT to SQL Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DIF - Combine HTM to DIF in Python
 url: /python-net/merger/merge-htm-to-dif/ 
-description: Aspose Excel. Free Online Merge HTM to DIF saveformat. Python Combine HTM to DIF format. Merge HTM to DIF in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DIF saveformat via Python., Free Online Merge HTM to dif in Python., Python Combine HTM to DIF Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to DIF saveformat. Python Combine HTM to DIF format. Merge HTM to DIF in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DIF in Python., Free Online Python Merge HTM to dif., Python Combine HTM to DIF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

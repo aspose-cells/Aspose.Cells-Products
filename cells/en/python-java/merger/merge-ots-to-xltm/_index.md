@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLTM - Combine OTS to XLTM in Python
 url: /python-java/merger/merge-ots-to-xltm/ 
-description: Aspose Excel. Free Online Merge OTS to XLTM saveformat. Python Combine OTS to XLTM format. Merge OTS to XLTM in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLTM saveformat via Python., Free Online Merge OTS to xltm in Python., Python Combine OTS to XLTM Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to XLTM saveformat. Python Combine OTS to XLTM format. Merge OTS to XLTM in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLTM in Python., Free Online Python Merge OTS to xltm., Python Combine OTS to XLTM Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

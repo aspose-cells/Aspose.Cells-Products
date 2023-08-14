@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to BMP - Combine HTML to BMP in C++
 url: /cpp/merger/merge-html-to-bmp/ 
-description: Aspose Excel. Free Online Merge HTML to BMP saveformat. C++ Combine HTML to BMP format. Merge HTML to BMP in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to BMP saveformat via C++., Free Online Merge HTML to bmp in C++., C++ Combine HTML to BMP Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to BMP saveformat. C++ Combine HTML to BMP format. Merge HTML to BMP in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to BMP in C++., Free Online C++ Merge HTML to bmp., C++ Combine HTML to BMP Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

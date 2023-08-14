@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to JSON - Combine XLTX to JSON in Python
 url: /python-java/merger/merge-xltx-to-json/ 
-description: Aspose Excel. Free Online Merge XLTX to JSON saveformat. Python Combine XLTX to JSON format. Merge XLTX to JSON in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to JSON saveformat via Python., Free Online Merge XLTX to json in Python., Python Combine XLTX to JSON Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to JSON saveformat. Python Combine XLTX to JSON format. Merge XLTX to JSON in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to JSON in Python., Free Online Python Merge XLTX to json., Python Combine XLTX to JSON Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

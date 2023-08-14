@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to IMAGE - Combine EXCEL to IMAGE in Python
 url: /python-java/merger/merge-excel-to-image/ 
-description: Aspose Excel. Free Online Merge EXCEL to IMAGE saveformat. Python Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to IMAGE saveformat via Python., Free Online Merge EXCEL to image in Python., Python Combine EXCEL to IMAGE Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to IMAGE saveformat. Python Combine EXCEL to IMAGE format. Merge EXCEL to IMAGE in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to IMAGE in Python., Free Online Python Merge EXCEL to image., Python Combine EXCEL to IMAGE Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to IMAGE - Combine XLT to IMAGE in C#
 url: /net/merger/merge-xlt-to-image/ 
-description: Aspose Excel. Free Online Merge XLT to IMAGE saveformat. C# Combine XLT to IMAGE format. Merge XLT to IMAGE in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to IMAGE saveformat via C#., Free Online Merge XLT to image in C#., C# Combine XLT to IMAGE Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to IMAGE saveformat. C# Combine XLT to IMAGE format. Merge XLT to IMAGE in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to IMAGE in C#., Free Online C# Merge XLT to image., C# Combine XLT to IMAGE Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

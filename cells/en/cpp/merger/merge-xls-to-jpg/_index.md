@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to JPG - Combine XLS to JPG in C++
 url: /cpp/merger/merge-xls-to-jpg/ 
-description: Aspose Excel. Free Online Merge XLS to JPG saveformat. C++ Combine XLS to JPG format. Merge XLS to JPG in C++. XLS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to JPG saveformat via C++., Free Online Merge XLS to jpg in C++., C++ Combine XLS to JPG Online for Free., XLS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLS to JPG saveformat. C++ Combine XLS to JPG format. Merge XLS to JPG in C++. XLS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLS to JPG in C++., Free Online C++ Merge XLS to jpg., C++ Combine XLS to JPG Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

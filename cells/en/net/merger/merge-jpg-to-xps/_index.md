@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XPS - Combine JPG to XPS in C#
 url: /net/merger/merge-jpg-to-xps/ 
-description: Aspose Excel. Free Online Merge JPG to XPS saveformat. C# Combine JPG to XPS format. Merge JPG to XPS in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to XPS saveformat via C#., Free Online Merge JPG to xps in C#., C# Combine JPG to XPS Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to XPS saveformat. C# Combine JPG to XPS format. Merge JPG to XPS in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to XPS in C#., Free Online C# Merge JPG to xps., C# Combine JPG to XPS Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

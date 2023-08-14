@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to DOCX - Combine XLSX to DOCX in Java
 url: /java/merger/merge-xlsx-to-docx/ 
-description: Aspose Excel. Free Online Merge XLSX to DOCX saveformat. Java Combine XLSX to DOCX format. Merge XLSX to DOCX in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to DOCX saveformat via Java., Free Online Merge XLSX to docx in Java., Java Combine XLSX to DOCX Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to DOCX saveformat. Java Combine XLSX to DOCX format. Merge XLSX to DOCX in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to DOCX in Java., Free Online Java Merge XLSX to docx., Java Combine XLSX to DOCX Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

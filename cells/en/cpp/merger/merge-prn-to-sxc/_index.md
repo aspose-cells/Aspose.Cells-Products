@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to SXC - Combine PRN to SXC in C++
 url: /cpp/merger/merge-prn-to-sxc/ 
-description: Aspose Excel. Free Online Merge PRN to SXC saveformat. C++ Combine PRN to SXC format. Merge PRN to SXC in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to SXC saveformat via C++., Free Online Merge PRN to sxc in C++., C++ Combine PRN to SXC Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to SXC saveformat. C++ Combine PRN to SXC format. Merge PRN to SXC in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to SXC in C++., Free Online C++ Merge PRN to sxc., C++ Combine PRN to SXC Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DOCX - Combine MHT to DOCX in Python
 url: /python-net/merger/merge-mht-to-docx/ 
-description: Aspose Excel. Free Online Merge MHT to DOCX saveformat. Python Combine MHT to DOCX format. Merge MHT to DOCX in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to DOCX saveformat via Python., Free Online Merge MHT to docx in Python., Python Combine MHT to DOCX Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to DOCX saveformat. Python Combine MHT to DOCX format. Merge MHT to DOCX in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to DOCX in Python., Free Online Python Merge MHT to docx., Python Combine MHT to DOCX Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MARKDOWN - Combine EXCEL to MARKDOWN in Java
 url: /java/merger/merge-excel-to-markdown/ 
-description: Aspose Excel. Free Online Merge EXCEL to MARKDOWN saveformat. Java Combine EXCEL to MARKDOWN format. Merge EXCEL to MARKDOWN in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to MARKDOWN saveformat via Java., Free Online Merge EXCEL to markdown in Java., Java Combine EXCEL to MARKDOWN Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to MARKDOWN saveformat. Java Combine EXCEL to MARKDOWN format. Merge EXCEL to MARKDOWN in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to MARKDOWN in Java., Free Online Java Merge EXCEL to markdown., Java Combine EXCEL to MARKDOWN Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

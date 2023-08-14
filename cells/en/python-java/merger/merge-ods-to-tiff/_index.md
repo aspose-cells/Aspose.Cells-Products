@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TIFF - Combine ODS to TIFF in Python
 url: /python-java/merger/merge-ods-to-tiff/ 
-description: Aspose Excel. Free Online Merge ODS to TIFF saveformat. Python Combine ODS to TIFF format. Merge ODS to TIFF in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to TIFF saveformat via Python., Free Online Merge ODS to tiff in Python., Python Combine ODS to TIFF Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to TIFF saveformat. Python Combine ODS to TIFF format. Merge ODS to TIFF in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to TIFF in Python., Free Online Python Merge ODS to tiff., Python Combine ODS to TIFF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

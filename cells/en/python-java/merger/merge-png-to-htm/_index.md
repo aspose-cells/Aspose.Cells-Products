@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to HTM - Combine PNG to HTM in Python
 url: /python-java/merger/merge-png-to-htm/ 
-description: Aspose Excel. Free Online Merge PNG to HTM saveformat. Python Combine PNG to HTM format. Merge PNG to HTM in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to HTM saveformat via Python., Free Online Merge PNG to htm in Python., Python Combine PNG to HTM Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to HTM saveformat. Python Combine PNG to HTM format. Merge PNG to HTM in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to HTM in Python., Free Online Python Merge PNG to htm., Python Combine PNG to HTM Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

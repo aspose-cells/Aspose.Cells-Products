@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to TIFF - Combine XLSX to TIFF in Python
 url: /python-net/merger/merge-xlsx-to-tiff/ 
-description: Aspose Excel. Free Online Merge XLSX to TIFF saveformat. Python Combine XLSX to TIFF format. Merge XLSX to TIFF in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to TIFF saveformat via Python., Free Online Merge XLSX to tiff in Python., Python Combine XLSX to TIFF Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to TIFF saveformat. Python Combine XLSX to TIFF format. Merge XLSX to TIFF in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to TIFF in Python., Free Online Python Merge XLSX to tiff., Python Combine XLSX to TIFF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

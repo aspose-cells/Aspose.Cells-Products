@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SQL - Combine HTM to SQL in C#
 url: /net/merger/merge-htm-to-sql/ 
-description: Aspose Excel. Free Online Merge HTM to SQL saveformat. C# Combine HTM to SQL format. Merge HTM to SQL in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to SQL saveformat via C#., Free Online Merge HTM to sql in C#., C# Combine HTM to SQL Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to SQL saveformat. C# Combine HTM to SQL format. Merge HTM to SQL in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to SQL in C#., Free Online C# Merge HTM to sql., C# Combine HTM to SQL Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

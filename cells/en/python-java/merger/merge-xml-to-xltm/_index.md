@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLTM - Combine XML to XLTM in Python
 url: /python-java/merger/merge-xml-to-xltm/ 
-description: Aspose Excel. Free Online Merge XML to XLTM saveformat. Python Combine XML to XLTM format. Merge XML to XLTM in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLTM saveformat via Python., Free Online Merge XML to xltm in Python., Python Combine XML to XLTM Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to XLTM saveformat. Python Combine XML to XLTM format. Merge XML to XLTM in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLTM in Python., Free Online Python Merge XML to xltm., Python Combine XML to XLTM Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

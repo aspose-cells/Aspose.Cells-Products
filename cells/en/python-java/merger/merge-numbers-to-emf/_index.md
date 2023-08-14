@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to EMF - Combine NUMBERS to EMF in Python
 url: /python-java/merger/merge-numbers-to-emf/ 
-description: Aspose Excel. Free Online Merge NUMBERS to EMF saveformat. Python Combine NUMBERS to EMF format. Merge NUMBERS to EMF in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to EMF saveformat via Python., Free Online Merge NUMBERS to emf in Python., Python Combine NUMBERS to EMF Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to EMF saveformat. Python Combine NUMBERS to EMF format. Merge NUMBERS to EMF in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to EMF in Python., Free Online Python Merge NUMBERS to emf., Python Combine NUMBERS to EMF Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

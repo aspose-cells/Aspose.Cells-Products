@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SQL - Combine TXT to SQL in C#
 url: /net/merger/merge-txt-to-sql/ 
-description: Aspose Excel. Free Online Merge TXT to SQL saveformat. C# Combine TXT to SQL format. Merge TXT to SQL in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SQL saveformat via C#., Free Online Merge TXT to sql in C#., C# Combine TXT to SQL Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to SQL saveformat. C# Combine TXT to SQL format. Merge TXT to SQL in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SQL in C#., Free Online C# Merge TXT to sql., C# Combine TXT to SQL Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to POWERPOINT - Combine OTS to POWERPOINT in Python
 url: /python-net/merger/merge-ots-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge OTS to POWERPOINT saveformat. Python Combine OTS to POWERPOINT format. Merge OTS to POWERPOINT in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to POWERPOINT saveformat via Python., Free Online Merge OTS to powerpoint in Python., Python Combine OTS to POWERPOINT Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to POWERPOINT saveformat. Python Combine OTS to POWERPOINT format. Merge OTS to POWERPOINT in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to POWERPOINT in Python., Free Online Python Merge OTS to powerpoint., Python Combine OTS to POWERPOINT Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLAM - Combine TABDELIMITED to XLAM in Python
 url: /python-java/merger/merge-tabdelimited-to-xlam/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLAM saveformat. Python Combine TABDELIMITED to XLAM format. Merge TABDELIMITED to XLAM in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM saveformat via Python., Free Online Merge TABDELIMITED to xlam in Python., Python Combine TABDELIMITED to XLAM Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to XLAM saveformat. Python Combine TABDELIMITED to XLAM format. Merge TABDELIMITED to XLAM in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to XLAM in Python., Free Online Python Merge TABDELIMITED to xlam., Python Combine TABDELIMITED to XLAM Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

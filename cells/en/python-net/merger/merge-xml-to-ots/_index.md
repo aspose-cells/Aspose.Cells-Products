@@ -1,8 +1,8 @@
 ---
 title: Merge XML to OTS - Combine XML to OTS in Python
 url: /python-net/merger/merge-xml-to-ots/ 
-description: Aspose Excel. Free Online Merge XML to OTS saveformat. Python Combine XML to OTS format. Merge XML to OTS in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to OTS saveformat via Python., Free Online Merge XML to ots in Python., Python Combine XML to OTS Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to OTS saveformat. Python Combine XML to OTS format. Merge XML to OTS in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to OTS in Python., Free Online Python Merge XML to ots., Python Combine XML to OTS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

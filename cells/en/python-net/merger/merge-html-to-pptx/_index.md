@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PPTX - Combine HTML to PPTX in Python
 url: /python-net/merger/merge-html-to-pptx/ 
-description: Aspose Excel. Free Online Merge HTML to PPTX saveformat. Python Combine HTML to PPTX format. Merge HTML to PPTX in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PPTX saveformat via Python., Free Online Merge HTML to pptx in Python., Python Combine HTML to PPTX Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to PPTX saveformat. Python Combine HTML to PPTX format. Merge HTML to PPTX in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PPTX in Python., Free Online Python Merge HTML to pptx., Python Combine HTML to PPTX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

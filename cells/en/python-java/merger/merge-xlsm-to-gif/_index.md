@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to GIF - Combine XLSM to GIF in Python
 url: /python-java/merger/merge-xlsm-to-gif/ 
-description: Aspose Excel. Free Online Merge XLSM to GIF saveformat. Python Combine XLSM to GIF format. Merge XLSM to GIF in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to GIF saveformat via Python., Free Online Merge XLSM to gif in Python., Python Combine XLSM to GIF Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to GIF saveformat. Python Combine XLSM to GIF format. Merge XLSM to GIF in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to GIF in Python., Free Online Python Merge XLSM to gif., Python Combine XLSM to GIF Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

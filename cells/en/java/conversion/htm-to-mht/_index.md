@@ -1,7 +1,7 @@
 ---
-title: HTM to MHT - Convert HTM to MHT files Java
-description: Aspose Excel. Free Online Convert HTM to MHT saveformat. Java HTM to MHT format. Save HTM as MHT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to MHT saveformat., Free Online HTM to MHT Converter]
+title: Java HTM to MHT - Online HTM to MHT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to MHT saveformat. Java HTM to MHT format. Save HTM to MHT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to MHT saveformat., Free Online HTM to MHT Java., Java Convert HTM to MHT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

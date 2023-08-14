@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SVG - Combine XLTX to SVG in C++
 url: /cpp/merger/merge-xltx-to-svg/ 
-description: Aspose Excel. Free Online Merge XLTX to SVG saveformat. C++ Combine XLTX to SVG format. Merge XLTX to SVG in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to SVG saveformat via C++., Free Online Merge XLTX to svg in C++., C++ Combine XLTX to SVG Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to SVG saveformat. C++ Combine XLTX to SVG format. Merge XLTX to SVG in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to SVG in C++., Free Online C++ Merge XLTX to svg., C++ Combine XLTX to SVG Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

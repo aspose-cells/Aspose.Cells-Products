@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to POWERPOINT - Combine XLT to POWERPOINT in Python
 url: /python-net/merger/merge-xlt-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLT to POWERPOINT saveformat. Python Combine XLT to POWERPOINT format. Merge XLT to POWERPOINT in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT saveformat via Python., Free Online Merge XLT to powerpoint in Python., Python Combine XLT to POWERPOINT Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to POWERPOINT saveformat. Python Combine XLT to POWERPOINT format. Merge XLT to POWERPOINT in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to POWERPOINT in Python., Free Online Python Merge XLT to powerpoint., Python Combine XLT to POWERPOINT Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to DOCX - Combine JPEG to DOCX in C#
 url: /net/merger/merge-jpeg-to-docx/ 
-description: Aspose Excel. Free Online Merge JPEG to DOCX saveformat. C# Combine JPEG to DOCX format. Merge JPEG to DOCX in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to DOCX saveformat via C#., Free Online Merge JPEG to docx in C#., C# Combine JPEG to DOCX Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to DOCX saveformat. C# Combine JPEG to DOCX format. Merge JPEG to DOCX in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to DOCX in C#., Free Online C# Merge JPEG to docx., C# Combine JPEG to DOCX Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

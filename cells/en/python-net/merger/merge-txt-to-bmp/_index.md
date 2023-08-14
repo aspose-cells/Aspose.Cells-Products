@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to BMP - Combine TXT to BMP in Python
 url: /python-net/merger/merge-txt-to-bmp/ 
-description: Aspose Excel. Free Online Merge TXT to BMP saveformat. Python Combine TXT to BMP format. Merge TXT to BMP in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to BMP saveformat via Python., Free Online Merge TXT to bmp in Python., Python Combine TXT to BMP Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to BMP saveformat. Python Combine TXT to BMP format. Merge TXT to BMP in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to BMP in Python., Free Online Python Merge TXT to bmp., Python Combine TXT to BMP Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

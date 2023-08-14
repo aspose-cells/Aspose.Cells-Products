@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MARKDOWN - Combine ODS to MARKDOWN in C++
 url: /cpp/merger/merge-ods-to-markdown/ 
-description: Aspose Excel. Free Online Merge ODS to MARKDOWN saveformat. C++ Combine ODS to MARKDOWN format. Merge ODS to MARKDOWN in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MARKDOWN saveformat via C++., Free Online Merge ODS to markdown in C++., C++ Combine ODS to MARKDOWN Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to MARKDOWN saveformat. C++ Combine ODS to MARKDOWN format. Merge ODS to MARKDOWN in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MARKDOWN in C++., Free Online C++ Merge ODS to markdown., C++ Combine ODS to MARKDOWN Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

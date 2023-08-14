@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to HTML - Combine XLSB to HTML in Java
 url: /java/merger/merge-xlsb-to-html/ 
-description: Aspose Excel. Free Online Merge XLSB to HTML saveformat. Java Combine XLSB to HTML format. Merge XLSB to HTML in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to HTML saveformat via Java., Free Online Merge XLSB to html in Java., Java Combine XLSB to HTML Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to HTML saveformat. Java Combine XLSB to HTML format. Merge XLSB to HTML in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to HTML in Java., Free Online Java Merge XLSB to html., Java Combine XLSB to HTML Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

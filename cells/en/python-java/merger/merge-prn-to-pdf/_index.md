@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PDF - Combine PRN to PDF in Python
 url: /python-java/merger/merge-prn-to-pdf/ 
-description: Aspose Excel. Free Online Merge PRN to PDF saveformat. Python Combine PRN to PDF format. Merge PRN to PDF in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to PDF saveformat via Python., Free Online Merge PRN to pdf in Python., Python Combine PRN to PDF Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to PDF saveformat. Python Combine PRN to PDF format. Merge PRN to PDF in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to PDF in Python., Free Online Python Merge PRN to pdf., Python Combine PRN to PDF Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

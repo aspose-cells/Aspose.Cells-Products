@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PRN - Combine TXT to PRN in C#
 url: /net/merger/merge-txt-to-prn/ 
-description: Aspose Excel. Free Online Merge TXT to PRN saveformat. C# Combine TXT to PRN format. Merge TXT to PRN in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PRN saveformat via C#., Free Online Merge TXT to prn in C#., C# Combine TXT to PRN Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to PRN saveformat. C# Combine TXT to PRN format. Merge TXT to PRN in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PRN in C#., Free Online C# Merge TXT to prn., C# Combine TXT to PRN Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

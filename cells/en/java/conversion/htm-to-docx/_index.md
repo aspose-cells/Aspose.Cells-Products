@@ -1,7 +1,7 @@
 ---
-title: HTM to DOCX - Convert HTM to DOCX files Java
-description: Aspose Excel. Free Online Convert HTM to DOCX saveformat. Java HTM to DOCX format. Save HTM as DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to DOCX saveformat., Free Online HTM to DOCX Converter]
+title: Java HTM to DOCX - Online HTM to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to DOCX saveformat. Java HTM to DOCX format. Save HTM to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to DOCX saveformat., Free Online HTM to DOCX Java., Java Convert HTM to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

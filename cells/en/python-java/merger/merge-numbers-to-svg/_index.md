@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SVG - Combine NUMBERS to SVG in Python
 url: /python-java/merger/merge-numbers-to-svg/ 
-description: Aspose Excel. Free Online Merge NUMBERS to SVG saveformat. Python Combine NUMBERS to SVG format. Merge NUMBERS to SVG in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG saveformat via Python., Free Online Merge NUMBERS to svg in Python., Python Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to SVG saveformat. Python Combine NUMBERS to SVG format. Merge NUMBERS to SVG in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to SVG in Python., Free Online Python Merge NUMBERS to svg., Python Combine NUMBERS to SVG Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLSB - Combine PNG to XLSB in Java
 url: /java/merger/merge-png-to-xlsb/ 
-description: Aspose Excel. Free Online Merge PNG to XLSB saveformat. Java Combine PNG to XLSB format. Merge PNG to XLSB in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSB saveformat via Java., Free Online Merge PNG to xlsb in Java., Java Combine PNG to XLSB Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XLSB saveformat. Java Combine PNG to XLSB format. Merge PNG to XLSB in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSB in Java., Free Online Java Merge PNG to xlsb., Java Combine PNG to XLSB Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

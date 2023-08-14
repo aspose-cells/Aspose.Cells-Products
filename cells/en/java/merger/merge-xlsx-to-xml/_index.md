@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to XML - Combine XLSX to XML in Java
 url: /java/merger/merge-xlsx-to-xml/ 
-description: Aspose Excel. Free Online Merge XLSX to XML saveformat. Java Combine XLSX to XML format. Merge XLSX to XML in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XML saveformat via Java., Free Online Merge XLSX to xml in Java., Java Combine XLSX to XML Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to XML saveformat. Java Combine XLSX to XML format. Merge XLSX to XML in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XML in Java., Free Online Java Merge XLSX to xml., Java Combine XLSX to XML Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

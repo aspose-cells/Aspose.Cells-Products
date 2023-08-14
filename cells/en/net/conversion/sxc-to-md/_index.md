@@ -1,7 +1,7 @@
 ---
-title: SXC to MD - Convert SXC to MD files C#
-description: Aspose Excel. Free Online Convert SXC to MD saveformat. C# SXC to MD format. Save SXC as MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to MD saveformat., Free Online SXC to MD Converter]
+title: C# SXC to MD - Online SXC to MD Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert SXC to MD saveformat. C# SXC to MD format. Save SXC to MD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# SXC to MD saveformat., Free Online SXC to MD C#., C# Convert SXC to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

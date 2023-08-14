@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to MHTML - Combine XLSM to MHTML in Python
 url: /python-net/merger/merge-xlsm-to-mhtml/ 
-description: Aspose Excel. Free Online Merge XLSM to MHTML saveformat. Python Combine XLSM to MHTML format. Merge XLSM to MHTML in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to MHTML saveformat via Python., Free Online Merge XLSM to mhtml in Python., Python Combine XLSM to MHTML Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to MHTML saveformat. Python Combine XLSM to MHTML format. Merge XLSM to MHTML in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to MHTML in Python., Free Online Python Merge XLSM to mhtml., Python Combine XLSM to MHTML Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

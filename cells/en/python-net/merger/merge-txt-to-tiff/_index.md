@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TIFF - Combine TXT to TIFF in Python
 url: /python-net/merger/merge-txt-to-tiff/ 
-description: Aspose Excel. Free Online Merge TXT to TIFF saveformat. Python Combine TXT to TIFF format. Merge TXT to TIFF in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TIFF saveformat via Python., Free Online Merge TXT to tiff in Python., Python Combine TXT to TIFF Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to TIFF saveformat. Python Combine TXT to TIFF format. Merge TXT to TIFF in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TIFF in Python., Free Online Python Merge TXT to tiff., Python Combine TXT to TIFF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

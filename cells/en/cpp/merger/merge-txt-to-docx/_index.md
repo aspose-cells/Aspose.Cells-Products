@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DOCX - Combine TXT to DOCX in C++
 url: /cpp/merger/merge-txt-to-docx/ 
-description: Aspose Excel. Free Online Merge TXT to DOCX saveformat. C++ Combine TXT to DOCX format. Merge TXT to DOCX in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to DOCX saveformat via C++., Free Online Merge TXT to docx in C++., C++ Combine TXT to DOCX Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to DOCX saveformat. C++ Combine TXT to DOCX format. Merge TXT to DOCX in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to DOCX in C++., Free Online C++ Merge TXT to docx., C++ Combine TXT to DOCX Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

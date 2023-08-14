@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to TSV - Combine XLSX to TSV in Java
 url: /java/merger/merge-xlsx-to-tsv/ 
-description: Aspose Excel. Free Online Merge XLSX to TSV saveformat. Java Combine XLSX to TSV format. Merge XLSX to TSV in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to TSV saveformat via Java., Free Online Merge XLSX to tsv in Java., Java Combine XLSX to TSV Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to TSV saveformat. Java Combine XLSX to TSV format. Merge XLSX to TSV in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to TSV in Java., Free Online Java Merge XLSX to tsv., Java Combine XLSX to TSV Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

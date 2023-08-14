@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MARKDOWN - Combine NUMBERS to MARKDOWN in Java
 url: /java/merger/merge-numbers-to-markdown/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MARKDOWN saveformat. Java Combine NUMBERS to MARKDOWN format. Merge NUMBERS to MARKDOWN in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MARKDOWN saveformat via Java., Free Online Merge NUMBERS to markdown in Java., Java Combine NUMBERS to MARKDOWN Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to MARKDOWN saveformat. Java Combine NUMBERS to MARKDOWN format. Merge NUMBERS to MARKDOWN in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MARKDOWN in Java., Free Online Java Merge NUMBERS to markdown., Java Combine NUMBERS to MARKDOWN Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

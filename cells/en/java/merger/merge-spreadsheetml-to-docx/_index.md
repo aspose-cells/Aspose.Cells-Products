@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to DOCX - Combine SPREADSHEETML to DOCX in Java
 url: /java/merger/merge-spreadsheetml-to-docx/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to DOCX saveformat. Java Combine SPREADSHEETML to DOCX format. Merge SPREADSHEETML to DOCX in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to DOCX saveformat via Java., Free Online Merge SPREADSHEETML to docx in Java., Java Combine SPREADSHEETML to DOCX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to DOCX saveformat. Java Combine SPREADSHEETML to DOCX format. Merge SPREADSHEETML to DOCX in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to DOCX in Java., Free Online Java Merge SPREADSHEETML to docx., Java Combine SPREADSHEETML to DOCX Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

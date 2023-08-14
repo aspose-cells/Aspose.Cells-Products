@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PDF - Combine XLTX to PDF in Java
 url: /java/merger/merge-xltx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLTX to PDF saveformat. Java Combine XLTX to PDF format. Merge XLTX to PDF in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to PDF saveformat via Java., Free Online Merge XLTX to pdf in Java., Java Combine XLTX to PDF Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to PDF saveformat. Java Combine XLTX to PDF format. Merge XLTX to PDF in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to PDF in Java., Free Online Java Merge XLTX to pdf., Java Combine XLTX to PDF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

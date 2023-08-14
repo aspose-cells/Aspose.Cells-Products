@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLSB - Combine XML to XLSB in Java
 url: /java/merger/merge-xml-to-xlsb/ 
-description: Aspose Excel. Free Online Merge XML to XLSB saveformat. Java Combine XML to XLSB format. Merge XML to XLSB in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to XLSB saveformat via Java., Free Online Merge XML to xlsb in Java., Java Combine XML to XLSB Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to XLSB saveformat. Java Combine XML to XLSB format. Merge XML to XLSB in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to XLSB in Java., Free Online Java Merge XML to xlsb., Java Combine XML to XLSB Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to WORD - Combine MHT to WORD in C#
 url: /net/merger/merge-mht-to-word/ 
-description: Aspose Excel. Free Online Merge MHT to WORD saveformat. C# Combine MHT to WORD format. Merge MHT to WORD in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to WORD saveformat via C#., Free Online Merge MHT to word in C#., C# Combine MHT to WORD Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to WORD saveformat. C# Combine MHT to WORD format. Merge MHT to WORD in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to WORD in C#., Free Online C# Merge MHT to word., C# Combine MHT to WORD Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

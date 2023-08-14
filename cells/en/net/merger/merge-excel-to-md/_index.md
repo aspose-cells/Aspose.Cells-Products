@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MD - Combine EXCEL to MD in C#
 url: /net/merger/merge-excel-to-md/ 
-description: Aspose Excel. Free Online Merge EXCEL to MD saveformat. C# Combine EXCEL to MD format. Merge EXCEL to MD in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MD saveformat via C#., Free Online Merge EXCEL to md in C#., C# Combine EXCEL to MD Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to MD saveformat. C# Combine EXCEL to MD format. Merge EXCEL to MD in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MD in C#., Free Online C# Merge EXCEL to md., C# Combine EXCEL to MD Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

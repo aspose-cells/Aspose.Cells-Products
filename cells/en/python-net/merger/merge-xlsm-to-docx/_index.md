@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to DOCX - Combine XLSM to DOCX in Python
 url: /python-net/merger/merge-xlsm-to-docx/ 
-description: Aspose Excel. Free Online Merge XLSM to DOCX saveformat. Python Combine XLSM to DOCX format. Merge XLSM to DOCX in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to DOCX saveformat via Python., Free Online Merge XLSM to docx in Python., Python Combine XLSM to DOCX Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to DOCX saveformat. Python Combine XLSM to DOCX format. Merge XLSM to DOCX in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to DOCX in Python., Free Online Python Merge XLSM to docx., Python Combine XLSM to DOCX Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to TIFF - Combine EXCEL to TIFF in C++
 url: /cpp/merger/merge-excel-to-tiff/ 
-description: Aspose Excel. Free Online Merge EXCEL to TIFF saveformat. C++ Combine EXCEL to TIFF format. Merge EXCEL to TIFF in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to TIFF saveformat via C++., Free Online Merge EXCEL to tiff in C++., C++ Combine EXCEL to TIFF Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to TIFF saveformat. C++ Combine EXCEL to TIFF format. Merge EXCEL to TIFF in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to TIFF in C++., Free Online C++ Merge EXCEL to tiff., C++ Combine EXCEL to TIFF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

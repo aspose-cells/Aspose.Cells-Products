@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to NUMBERS - Combine XLTM to NUMBERS in Python
 url: /python-java/merger/merge-xltm-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLTM to NUMBERS saveformat. Python Combine XLTM to NUMBERS format. Merge XLTM to NUMBERS in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to NUMBERS saveformat via Python., Free Online Merge XLTM to numbers in Python., Python Combine XLTM to NUMBERS Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to NUMBERS saveformat. Python Combine XLTM to NUMBERS format. Merge XLTM to NUMBERS in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to NUMBERS in Python., Free Online Python Merge XLTM to numbers., Python Combine XLTM to NUMBERS Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

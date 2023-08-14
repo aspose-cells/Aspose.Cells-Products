@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to NUMBERS - Combine SPREADSHEETML to NUMBERS in Python
 url: /python-java/merger/merge-spreadsheetml-to-numbers/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to NUMBERS saveformat. Python Combine SPREADSHEETML to NUMBERS format. Merge SPREADSHEETML to NUMBERS in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to NUMBERS saveformat via Python., Free Online Merge SPREADSHEETML to numbers in Python., Python Combine SPREADSHEETML to NUMBERS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to NUMBERS saveformat. Python Combine SPREADSHEETML to NUMBERS format. Merge SPREADSHEETML to NUMBERS in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to NUMBERS in Python., Free Online Python Merge SPREADSHEETML to numbers., Python Combine SPREADSHEETML to NUMBERS Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MHT - Combine ODS to MHT in Java
 url: /java/merger/merge-ods-to-mht/ 
-description: Aspose Excel. Free Online Merge ODS to MHT saveformat. Java Combine ODS to MHT format. Merge ODS to MHT in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to MHT saveformat via Java., Free Online Merge ODS to mht in Java., Java Combine ODS to MHT Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to MHT saveformat. Java Combine ODS to MHT format. Merge ODS to MHT in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to MHT in Java., Free Online Java Merge ODS to mht., Java Combine ODS to MHT Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

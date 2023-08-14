@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ODS - Combine HTM to ODS in C#
 url: /net/merger/merge-htm-to-ods/ 
-description: Aspose Excel. Free Online Merge HTM to ODS saveformat. C# Combine HTM to ODS format. Merge HTM to ODS in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to ODS saveformat via C#., Free Online Merge HTM to ods in C#., C# Combine HTM to ODS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to ODS saveformat. C# Combine HTM to ODS format. Merge HTM to ODS in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to ODS in C#., Free Online C# Merge HTM to ods., C# Combine HTM to ODS Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

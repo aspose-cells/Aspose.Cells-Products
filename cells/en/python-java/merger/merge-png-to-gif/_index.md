@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to GIF - Combine PNG to GIF in Python
 url: /python-java/merger/merge-png-to-gif/ 
-description: Aspose Excel. Free Online Merge PNG to GIF saveformat. Python Combine PNG to GIF format. Merge PNG to GIF in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to GIF saveformat via Python., Free Online Merge PNG to gif in Python., Python Combine PNG to GIF Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to GIF saveformat. Python Combine PNG to GIF format. Merge PNG to GIF in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to GIF in Python., Free Online Python Merge PNG to gif., Python Combine PNG to GIF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

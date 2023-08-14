@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PPTX - Combine JSON to PPTX in Java
 url: /java/merger/merge-json-to-pptx/ 
-description: Aspose Excel. Free Online Merge JSON to PPTX saveformat. Java Combine JSON to PPTX format. Merge JSON to PPTX in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to PPTX saveformat via Java., Free Online Merge JSON to pptx in Java., Java Combine JSON to PPTX Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to PPTX saveformat. Java Combine JSON to PPTX format. Merge JSON to PPTX in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to PPTX in Java., Free Online Java Merge JSON to pptx., Java Combine JSON to PPTX Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

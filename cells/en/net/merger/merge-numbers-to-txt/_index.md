@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TXT - Combine NUMBERS to TXT in C#
 url: /net/merger/merge-numbers-to-txt/ 
-description: Aspose Excel. Free Online Merge NUMBERS to TXT saveformat. C# Combine NUMBERS to TXT format. Merge NUMBERS to TXT in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to TXT saveformat via C#., Free Online Merge NUMBERS to txt in C#., C# Combine NUMBERS to TXT Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to TXT saveformat. C# Combine NUMBERS to TXT format. Merge NUMBERS to TXT in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to TXT in C#., Free Online C# Merge NUMBERS to txt., C# Combine NUMBERS to TXT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

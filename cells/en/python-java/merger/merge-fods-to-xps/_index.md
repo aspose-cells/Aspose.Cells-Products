@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XPS - Combine FODS to XPS in Python
 url: /python-java/merger/merge-fods-to-xps/ 
-description: Aspose Excel. Free Online Merge FODS to XPS saveformat. Python Combine FODS to XPS format. Merge FODS to XPS in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XPS saveformat via Python., Free Online Merge FODS to xps in Python., Python Combine FODS to XPS Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XPS saveformat. Python Combine FODS to XPS format. Merge FODS to XPS in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XPS in Python., Free Online Python Merge FODS to xps., Python Combine FODS to XPS Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

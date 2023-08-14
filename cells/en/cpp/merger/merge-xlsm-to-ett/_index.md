@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to ETT - Combine XLSM to ETT in C++
 url: /cpp/merger/merge-xlsm-to-ett/ 
-description: Aspose Excel. Free Online Merge XLSM to ETT saveformat. C++ Combine XLSM to ETT format. Merge XLSM to ETT in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to ETT saveformat via C++., Free Online Merge XLSM to ett in C++., C++ Combine XLSM to ETT Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to ETT saveformat. C++ Combine XLSM to ETT format. Merge XLSM to ETT in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to ETT in C++., Free Online C++ Merge XLSM to ett., C++ Combine XLSM to ETT Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

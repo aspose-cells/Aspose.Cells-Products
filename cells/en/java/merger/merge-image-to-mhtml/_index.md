@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MHTML - Combine IMAGE to MHTML in Java
 url: /java/merger/merge-image-to-mhtml/ 
-description: Aspose Excel. Free Online Merge IMAGE to MHTML saveformat. Java Combine IMAGE to MHTML format. Merge IMAGE to MHTML in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MHTML saveformat via Java., Free Online Merge IMAGE to mhtml in Java., Java Combine IMAGE to MHTML Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to MHTML saveformat. Java Combine IMAGE to MHTML format. Merge IMAGE to MHTML in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MHTML in Java., Free Online Java Merge IMAGE to mhtml., Java Combine IMAGE to MHTML Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

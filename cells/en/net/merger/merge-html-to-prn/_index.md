@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PRN - Combine HTML to PRN in C#
 url: /net/merger/merge-html-to-prn/ 
-description: Aspose Excel. Free Online Merge HTML to PRN saveformat. C# Combine HTML to PRN format. Merge HTML to PRN in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to PRN saveformat via C#., Free Online Merge HTML to prn in C#., C# Combine HTML to PRN Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to PRN saveformat. C# Combine HTML to PRN format. Merge HTML to PRN in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to PRN in C#., Free Online C# Merge HTML to prn., C# Combine HTML to PRN Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to OTS - Combine MHTML to OTS in C#
 url: /net/merger/merge-mhtml-to-ots/ 
-description: Aspose Excel. Free Online Merge MHTML to OTS saveformat. C# Combine MHTML to OTS format. Merge MHTML to OTS in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to OTS saveformat via C#., Free Online Merge MHTML to ots in C#., C# Combine MHTML to OTS Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to OTS saveformat. C# Combine MHTML to OTS format. Merge MHTML to OTS in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to OTS in C#., Free Online C# Merge MHTML to ots., C# Combine MHTML to OTS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

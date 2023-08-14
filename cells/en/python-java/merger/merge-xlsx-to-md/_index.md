@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MD - Combine XLSX to MD in Python
 url: /python-java/merger/merge-xlsx-to-md/ 
-description: Aspose Excel. Free Online Merge XLSX to MD saveformat. Python Combine XLSX to MD format. Merge XLSX to MD in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MD saveformat via Python., Free Online Merge XLSX to md in Python., Python Combine XLSX to MD Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to MD saveformat. Python Combine XLSX to MD format. Merge XLSX to MD in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MD in Python., Free Online Python Merge XLSX to md., Python Combine XLSX to MD Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

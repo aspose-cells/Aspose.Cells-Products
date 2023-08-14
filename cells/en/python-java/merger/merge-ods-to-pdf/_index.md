@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PDF - Combine ODS to PDF in Python
 url: /python-java/merger/merge-ods-to-pdf/ 
-description: Aspose Excel. Free Online Merge ODS to PDF saveformat. Python Combine ODS to PDF format. Merge ODS to PDF in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PDF saveformat via Python., Free Online Merge ODS to pdf in Python., Python Combine ODS to PDF Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to PDF saveformat. Python Combine ODS to PDF format. Merge ODS to PDF in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PDF in Python., Free Online Python Merge ODS to pdf., Python Combine ODS to PDF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

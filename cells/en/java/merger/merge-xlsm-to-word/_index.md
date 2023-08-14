@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to WORD - Combine XLSM to WORD in Java
 url: /java/merger/merge-xlsm-to-word/ 
-description: Aspose Excel. Free Online Merge XLSM to WORD saveformat. Java Combine XLSM to WORD format. Merge XLSM to WORD in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to WORD saveformat via Java., Free Online Merge XLSM to word in Java., Java Combine XLSM to WORD Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to WORD saveformat. Java Combine XLSM to WORD format. Merge XLSM to WORD in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to WORD in Java., Free Online Java Merge XLSM to word., Java Combine XLSM to WORD Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

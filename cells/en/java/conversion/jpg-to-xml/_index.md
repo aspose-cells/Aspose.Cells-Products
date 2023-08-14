@@ -1,7 +1,7 @@
 ---
-title: JPG to XML - Convert JPG to XML files Java
-description: Aspose Excel. Free Online Convert JPG to XML saveformat. Java JPG to XML format. Save JPG as XML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XML saveformat., Free Online JPG to XML Converter]
+title: Java JPG to XML - Online JPG to XML Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XML saveformat. Java JPG to XML format. Save JPG to XML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XML saveformat., Free Online JPG to XML Java., Java Convert JPG to XML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

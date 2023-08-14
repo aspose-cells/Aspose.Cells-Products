@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLTX - Combine JSON to XLTX in C++
 url: /cpp/merger/merge-json-to-xltx/ 
-description: Aspose Excel. Free Online Merge JSON to XLTX saveformat. C++ Combine JSON to XLTX format. Merge JSON to XLTX in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLTX saveformat via C++., Free Online Merge JSON to xltx in C++., C++ Combine JSON to XLTX Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to XLTX saveformat. C++ Combine JSON to XLTX format. Merge JSON to XLTX in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLTX in C++., Free Online C++ Merge JSON to xltx., C++ Combine JSON to XLTX Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

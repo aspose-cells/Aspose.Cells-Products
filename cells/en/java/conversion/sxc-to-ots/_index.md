@@ -1,7 +1,7 @@
 ---
-title: SXC to OTS - Convert SXC to OTS files Java
-description: Aspose Excel. Free Online Convert SXC to OTS saveformat. Java SXC to OTS format. Save SXC as OTS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to OTS saveformat., Free Online SXC to OTS Converter]
+title: Java SXC to OTS - Online SXC to OTS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to OTS saveformat. Java SXC to OTS format. Save SXC to OTS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to OTS saveformat., Free Online SXC to OTS Java., Java Convert SXC to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

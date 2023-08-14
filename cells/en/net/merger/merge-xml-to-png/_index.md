@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PNG - Combine XML to PNG in C#
 url: /net/merger/merge-xml-to-png/ 
-description: Aspose Excel. Free Online Merge XML to PNG saveformat. C# Combine XML to PNG format. Merge XML to PNG in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to PNG saveformat via C#., Free Online Merge XML to png in C#., C# Combine XML to PNG Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to PNG saveformat. C# Combine XML to PNG format. Merge XML to PNG in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to PNG in C#., Free Online C# Merge XML to png., C# Combine XML to PNG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

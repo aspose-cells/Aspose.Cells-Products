@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ET - Combine JPG to ET in Python
 url: /python-net/merger/merge-jpg-to-et/ 
-description: Aspose Excel. Free Online Merge JPG to ET saveformat. Python Combine JPG to ET format. Merge JPG to ET in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to ET saveformat via Python., Free Online Merge JPG to et in Python., Python Combine JPG to ET Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to ET saveformat. Python Combine JPG to ET format. Merge JPG to ET in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to ET in Python., Free Online Python Merge JPG to et., Python Combine JPG to ET Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

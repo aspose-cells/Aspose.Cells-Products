@@ -1,7 +1,7 @@
 ---
-title: XLS to ODS - Convert XLS to ODS files Python
-description: Aspose Excel. Free Online Convert XLS to ODS saveformat. Python XLS to ODS format. Save XLS as ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to ODS saveformat., Free Online XLS to ODS Converter]
+title: Python XLS to ODS - Online XLS to ODS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to ODS saveformat. Python XLS to ODS format. Save XLS to ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to ODS saveformat., Free Online XLS to ODS Python., Python Convert XLS to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

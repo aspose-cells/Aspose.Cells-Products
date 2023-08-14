@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to NUMBERS - Combine JPG to NUMBERS in Java
 url: /java/merger/merge-jpg-to-numbers/ 
-description: Aspose Excel. Free Online Merge JPG to NUMBERS saveformat. Java Combine JPG to NUMBERS format. Merge JPG to NUMBERS in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to NUMBERS saveformat via Java., Free Online Merge JPG to numbers in Java., Java Combine JPG to NUMBERS Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to NUMBERS saveformat. Java Combine JPG to NUMBERS format. Merge JPG to NUMBERS in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to NUMBERS in Java., Free Online Java Merge JPG to numbers., Java Combine JPG to NUMBERS Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

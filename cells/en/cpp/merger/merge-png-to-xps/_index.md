@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XPS - Combine PNG to XPS in C++
 url: /cpp/merger/merge-png-to-xps/ 
-description: Aspose Excel. Free Online Merge PNG to XPS saveformat. C++ Combine PNG to XPS format. Merge PNG to XPS in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to XPS saveformat via C++., Free Online Merge PNG to xps in C++., C++ Combine PNG to XPS Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to XPS saveformat. C++ Combine PNG to XPS format. Merge PNG to XPS in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to XPS in C++., Free Online C++ Merge PNG to xps., C++ Combine PNG to XPS Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

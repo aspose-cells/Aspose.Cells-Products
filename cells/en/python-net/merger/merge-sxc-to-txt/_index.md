@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TXT - Combine SXC to TXT in Python
 url: /python-net/merger/merge-sxc-to-txt/ 
-description: Aspose Excel. Free Online Merge SXC to TXT saveformat. Python Combine SXC to TXT format. Merge SXC to TXT in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to TXT saveformat via Python., Free Online Merge SXC to txt in Python., Python Combine SXC to TXT Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to TXT saveformat. Python Combine SXC to TXT format. Merge SXC to TXT in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to TXT in Python., Free Online Python Merge SXC to txt., Python Combine SXC to TXT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

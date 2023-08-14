@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DOCX - Combine CSV to DOCX in Python
 url: /python-java/merger/merge-csv-to-docx/ 
-description: Aspose Excel. Free Online Merge CSV to DOCX saveformat. Python Combine CSV to DOCX format. Merge CSV to DOCX in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to DOCX saveformat via Python., Free Online Merge CSV to docx in Python., Python Combine CSV to DOCX Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to DOCX saveformat. Python Combine CSV to DOCX format. Merge CSV to DOCX in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to DOCX in Python., Free Online Python Merge CSV to docx., Python Combine CSV to DOCX Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

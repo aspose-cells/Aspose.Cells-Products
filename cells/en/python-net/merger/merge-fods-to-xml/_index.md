@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XML - Combine FODS to XML in Python
 url: /python-net/merger/merge-fods-to-xml/ 
-description: Aspose Excel. Free Online Merge FODS to XML saveformat. Python Combine FODS to XML format. Merge FODS to XML in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XML saveformat via Python., Free Online Merge FODS to xml in Python., Python Combine FODS to XML Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to XML saveformat. Python Combine FODS to XML format. Merge FODS to XML in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to XML in Python., Free Online Python Merge FODS to xml., Python Combine FODS to XML Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

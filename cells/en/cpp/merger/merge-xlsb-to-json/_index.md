@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to JSON - Combine XLSB to JSON in C++
 url: /cpp/merger/merge-xlsb-to-json/ 
-description: Aspose Excel. Free Online Merge XLSB to JSON saveformat. C++ Combine XLSB to JSON format. Merge XLSB to JSON in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to JSON saveformat via C++., Free Online Merge XLSB to json in C++., C++ Combine XLSB to JSON Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to JSON saveformat. C++ Combine XLSB to JSON format. Merge XLSB to JSON in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to JSON in C++., Free Online C++ Merge XLSB to json., C++ Combine XLSB to JSON Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

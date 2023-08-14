@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XML - Combine JPG to XML in C++
 url: /cpp/merger/merge-jpg-to-xml/ 
-description: Aspose Excel. Free Online Merge JPG to XML saveformat. C++ Combine JPG to XML format. Merge JPG to XML in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to XML saveformat via C++., Free Online Merge JPG to xml in C++., C++ Combine JPG to XML Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to XML saveformat. C++ Combine JPG to XML format. Merge JPG to XML in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to XML in C++., Free Online C++ Merge JPG to xml., C++ Combine JPG to XML Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

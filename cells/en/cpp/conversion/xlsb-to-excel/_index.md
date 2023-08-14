@@ -1,7 +1,7 @@
 ---
-title: XLSB to EXCEL - Convert XLSB to EXCEL files C++
-description: Aspose Excel. Free Online Convert XLSB to EXCEL saveformat. C++ XLSB to EXCEL format. Save XLSB as EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to EXCEL saveformat., Free Online XLSB to EXCEL Converter]
+title: C++ XLSB to EXCEL - Online XLSB to EXCEL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to EXCEL saveformat. C++ XLSB to EXCEL format. Save XLSB to EXCEL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to EXCEL saveformat., Free Online XLSB to EXCEL C++., C++ Convert XLSB to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

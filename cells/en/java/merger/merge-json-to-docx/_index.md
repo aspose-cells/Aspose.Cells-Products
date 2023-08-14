@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to DOCX - Combine JSON to DOCX in Java
 url: /java/merger/merge-json-to-docx/ 
-description: Aspose Excel. Free Online Merge JSON to DOCX saveformat. Java Combine JSON to DOCX format. Merge JSON to DOCX in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to DOCX saveformat via Java., Free Online Merge JSON to docx in Java., Java Combine JSON to DOCX Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to DOCX saveformat. Java Combine JSON to DOCX format. Merge JSON to DOCX in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to DOCX in Java., Free Online Java Merge JSON to docx., Java Combine JSON to DOCX Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SVG - Combine HTM to SVG in C++
 url: /cpp/merger/merge-htm-to-svg/ 
-description: Aspose Excel. Free Online Merge HTM to SVG saveformat. C++ Combine HTM to SVG format. Merge HTM to SVG in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to SVG saveformat via C++., Free Online Merge HTM to svg in C++., C++ Combine HTM to SVG Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to SVG saveformat. C++ Combine HTM to SVG format. Merge HTM to SVG in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to SVG in C++., Free Online C++ Merge HTM to svg., C++ Combine HTM to SVG Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

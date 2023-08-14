@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MD - Combine XLSB to MD in Python
 url: /python-java/merger/merge-xlsb-to-md/ 
-description: Aspose Excel. Free Online Merge XLSB to MD saveformat. Python Combine XLSB to MD format. Merge XLSB to MD in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to MD saveformat via Python., Free Online Merge XLSB to md in Python., Python Combine XLSB to MD Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to MD saveformat. Python Combine XLSB to MD format. Merge XLSB to MD in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to MD in Python., Free Online Python Merge XLSB to md., Python Combine XLSB to MD Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

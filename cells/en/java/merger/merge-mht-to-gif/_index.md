@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to GIF - Combine MHT to GIF in Java
 url: /java/merger/merge-mht-to-gif/ 
-description: Aspose Excel. Free Online Merge MHT to GIF saveformat. Java Combine MHT to GIF format. Merge MHT to GIF in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to GIF saveformat via Java., Free Online Merge MHT to gif in Java., Java Combine MHT to GIF Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to GIF saveformat. Java Combine MHT to GIF format. Merge MHT to GIF in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to GIF in Java., Free Online Java Merge MHT to gif., Java Combine MHT to GIF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

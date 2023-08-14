@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MARKDOWN - Combine XLSX to MARKDOWN in Java
 url: /java/merger/merge-xlsx-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLSX to MARKDOWN saveformat. Java Combine XLSX to MARKDOWN format. Merge XLSX to MARKDOWN in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to MARKDOWN saveformat via Java., Free Online Merge XLSX to markdown in Java., Java Combine XLSX to MARKDOWN Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to MARKDOWN saveformat. Java Combine XLSX to MARKDOWN format. Merge XLSX to MARKDOWN in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to MARKDOWN in Java., Free Online Java Merge XLSX to markdown., Java Combine XLSX to MARKDOWN Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

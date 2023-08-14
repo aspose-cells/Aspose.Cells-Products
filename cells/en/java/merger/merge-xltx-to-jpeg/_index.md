@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to JPEG - Combine XLTX to JPEG in Java
 url: /java/merger/merge-xltx-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XLTX to JPEG saveformat. Java Combine XLTX to JPEG format. Merge XLTX to JPEG in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JPEG saveformat via Java., Free Online Merge XLTX to jpeg in Java., Java Combine XLTX to JPEG Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to JPEG saveformat. Java Combine XLTX to JPEG format. Merge XLTX to JPEG in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to JPEG in Java., Free Online Java Merge XLTX to jpeg., Java Combine XLTX to JPEG Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

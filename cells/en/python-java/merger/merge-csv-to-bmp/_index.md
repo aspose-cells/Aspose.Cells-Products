@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to BMP - Combine CSV to BMP in Python
 url: /python-java/merger/merge-csv-to-bmp/ 
-description: Aspose Excel. Free Online Merge CSV to BMP saveformat. Python Combine CSV to BMP format. Merge CSV to BMP in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to BMP saveformat via Python., Free Online Merge CSV to bmp in Python., Python Combine CSV to BMP Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to BMP saveformat. Python Combine CSV to BMP format. Merge CSV to BMP in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to BMP in Python., Free Online Python Merge CSV to bmp., Python Combine CSV to BMP Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

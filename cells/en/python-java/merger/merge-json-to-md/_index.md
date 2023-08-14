@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MD - Combine JSON to MD in Python
 url: /python-java/merger/merge-json-to-md/ 
-description: Aspose Excel. Free Online Merge JSON to MD saveformat. Python Combine JSON to MD format. Merge JSON to MD in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to MD saveformat via Python., Free Online Merge JSON to md in Python., Python Combine JSON to MD Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to MD saveformat. Python Combine JSON to MD format. Merge JSON to MD in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to MD in Python., Free Online Python Merge JSON to md., Python Combine JSON to MD Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

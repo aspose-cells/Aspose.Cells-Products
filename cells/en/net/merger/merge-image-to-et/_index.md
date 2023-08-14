@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ET - Combine IMAGE to ET in C#
 url: /net/merger/merge-image-to-et/ 
-description: Aspose Excel. Free Online Merge IMAGE to ET saveformat. C# Combine IMAGE to ET format. Merge IMAGE to ET in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to ET saveformat via C#., Free Online Merge IMAGE to et in C#., C# Combine IMAGE to ET Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to ET saveformat. C# Combine IMAGE to ET format. Merge IMAGE to ET in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to ET in C#., Free Online C# Merge IMAGE to et., C# Combine IMAGE to ET Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

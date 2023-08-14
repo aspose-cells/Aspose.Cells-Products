@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLTX - Combine HTML to XLTX in Java
 url: /java/merger/merge-html-to-xltx/ 
-description: Aspose Excel. Free Online Merge HTML to XLTX saveformat. Java Combine HTML to XLTX format. Merge HTML to XLTX in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLTX saveformat via Java., Free Online Merge HTML to xltx in Java., Java Combine HTML to XLTX Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to XLTX saveformat. Java Combine HTML to XLTX format. Merge HTML to XLTX in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLTX in Java., Free Online Java Merge HTML to xltx., Java Combine HTML to XLTX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

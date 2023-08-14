@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to ETT - Combine MHT to ETT in Java
 url: /java/merger/merge-mht-to-ett/ 
-description: Aspose Excel. Free Online Merge MHT to ETT saveformat. Java Combine MHT to ETT format. Merge MHT to ETT in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to ETT saveformat via Java., Free Online Merge MHT to ett in Java., Java Combine MHT to ETT Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to ETT saveformat. Java Combine MHT to ETT format. Merge MHT to ETT in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to ETT in Java., Free Online Java Merge MHT to ett., Java Combine MHT to ETT Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

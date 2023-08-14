@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to SQL - Combine CSV to SQL in C#
 url: /net/merger/merge-csv-to-sql/ 
-description: Aspose Excel. Free Online Merge CSV to SQL saveformat. C# Combine CSV to SQL format. Merge CSV to SQL in C#. CSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to SQL saveformat via C#., Free Online Merge CSV to sql in C#., C# Combine CSV to SQL Online for Free., CSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge CSV to SQL saveformat. C# Combine CSV to SQL format. Merge CSV to SQL in C#. CSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to SQL in C#., Free Online C# Merge CSV to sql., C# Combine CSV to SQL Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to NUMBERS - Combine HTM to NUMBERS in C#
 url: /net/merger/merge-htm-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTM to NUMBERS saveformat. C# Combine HTM to NUMBERS format. Merge HTM to NUMBERS in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to NUMBERS saveformat via C#., Free Online Merge HTM to numbers in C#., C# Combine HTM to NUMBERS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to NUMBERS saveformat. C# Combine HTM to NUMBERS format. Merge HTM to NUMBERS in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to NUMBERS in C#., Free Online C# Merge HTM to numbers., C# Combine HTM to NUMBERS Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

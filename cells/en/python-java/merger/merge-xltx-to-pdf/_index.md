@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PDF - Combine XLTX to PDF in Python
 url: /python-java/merger/merge-xltx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLTX to PDF saveformat. Python Combine XLTX to PDF format. Merge XLTX to PDF in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PDF saveformat via Python., Free Online Merge XLTX to pdf in Python., Python Combine XLTX to PDF Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to PDF saveformat. Python Combine XLTX to PDF format. Merge XLTX to PDF in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to PDF in Python., Free Online Python Merge XLTX to pdf., Python Combine XLTX to PDF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

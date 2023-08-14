@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MHT - Combine PNG to MHT in C++
 url: /cpp/merger/merge-png-to-mht/ 
-description: Aspose Excel. Free Online Merge PNG to MHT saveformat. C++ Combine PNG to MHT format. Merge PNG to MHT in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHT saveformat via C++., Free Online Merge PNG to mht in C++., C++ Combine PNG to MHT Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to MHT saveformat. C++ Combine PNG to MHT format. Merge PNG to MHT in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to MHT in C++., Free Online C++ Merge PNG to mht., C++ Combine PNG to MHT Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

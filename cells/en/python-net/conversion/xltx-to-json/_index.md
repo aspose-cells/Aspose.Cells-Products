@@ -1,7 +1,7 @@
 ---
-title: XLTX to JSON - Convert XLTX to JSON files Python
-description: Aspose Excel. Free Online Convert XLTX to JSON saveformat. Python XLTX to JSON format. Save XLTX as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to JSON saveformat., Free Online XLTX to JSON Converter]
+title: Python XLTX to JSON - Online XLTX to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to JSON saveformat. Python XLTX to JSON format. Save XLTX to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to JSON saveformat., Free Online XLTX to JSON Python., Python Convert XLTX to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

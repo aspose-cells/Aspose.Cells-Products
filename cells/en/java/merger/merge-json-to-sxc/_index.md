@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SXC - Combine JSON to SXC in Java
 url: /java/merger/merge-json-to-sxc/ 
-description: Aspose Excel. Free Online Merge JSON to SXC saveformat. Java Combine JSON to SXC format. Merge JSON to SXC in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to SXC saveformat via Java., Free Online Merge JSON to sxc in Java., Java Combine JSON to SXC Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to SXC saveformat. Java Combine JSON to SXC format. Merge JSON to SXC in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to SXC in Java., Free Online Java Merge JSON to sxc., Java Combine JSON to SXC Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

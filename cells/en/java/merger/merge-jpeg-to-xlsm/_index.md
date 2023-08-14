@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLSM - Combine JPEG to XLSM in Java
 url: /java/merger/merge-jpeg-to-xlsm/ 
-description: Aspose Excel. Free Online Merge JPEG to XLSM saveformat. Java Combine JPEG to XLSM format. Merge JPEG to XLSM in Java. JPEG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLSM saveformat via Java., Free Online Merge JPEG to xlsm in Java., Java Combine JPEG to XLSM Online for Free., JPEG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to XLSM saveformat. Java Combine JPEG to XLSM format. Merge JPEG to XLSM in Java. JPEG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLSM in Java., Free Online Java Merge JPEG to xlsm., Java Combine JPEG to XLSM Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to JPEG - Combine XLT to JPEG in C#
 url: /net/merger/merge-xlt-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XLT to JPEG saveformat. C# Combine XLT to JPEG format. Merge XLT to JPEG in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to JPEG saveformat via C#., Free Online Merge XLT to jpeg in C#., C# Combine XLT to JPEG Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to JPEG saveformat. C# Combine XLT to JPEG format. Merge XLT to JPEG in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to JPEG in C#., Free Online C# Merge XLT to jpeg., C# Combine XLT to JPEG Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLT - Combine EXCEL to XLT in Java
 url: /java/merger/merge-excel-to-xlt/ 
-description: Aspose Excel. Free Online Merge EXCEL to XLT saveformat. Java Combine EXCEL to XLT format. Merge EXCEL to XLT in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLT saveformat via Java., Free Online Merge EXCEL to xlt in Java., Java Combine EXCEL to XLT Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to XLT saveformat. Java Combine EXCEL to XLT format. Merge EXCEL to XLT in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLT in Java., Free Online Java Merge EXCEL to xlt., Java Combine EXCEL to XLT Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

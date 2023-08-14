@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to JSON - Combine XLSX to JSON in Java
 url: /java/merger/merge-xlsx-to-json/ 
-description: Aspose Excel. Free Online Merge XLSX to JSON saveformat. Java Combine XLSX to JSON format. Merge XLSX to JSON in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to JSON saveformat via Java., Free Online Merge XLSX to json in Java., Java Combine XLSX to JSON Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to JSON saveformat. Java Combine XLSX to JSON format. Merge XLSX to JSON in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to JSON in Java., Free Online Java Merge XLSX to json., Java Combine XLSX to JSON Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

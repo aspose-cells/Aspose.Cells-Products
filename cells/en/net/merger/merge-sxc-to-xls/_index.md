@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLS - Combine SXC to XLS in C#
 url: /net/merger/merge-sxc-to-xls/ 
-description: Aspose Excel. Free Online Merge SXC to XLS saveformat. C# Combine SXC to XLS format. Merge SXC to XLS in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLS saveformat via C#., Free Online Merge SXC to xls in C#., C# Combine SXC to XLS Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to XLS saveformat. C# Combine SXC to XLS format. Merge SXC to XLS in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLS in C#., Free Online C# Merge SXC to xls., C# Combine SXC to XLS Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

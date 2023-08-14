@@ -1,8 +1,8 @@
 ---
 title: Merge XML to IMAGE - Combine XML to IMAGE in Python
 url: /python-java/merger/merge-xml-to-image/ 
-description: Aspose Excel. Free Online Merge XML to IMAGE saveformat. Python Combine XML to IMAGE format. Merge XML to IMAGE in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to IMAGE saveformat via Python., Free Online Merge XML to image in Python., Python Combine XML to IMAGE Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to IMAGE saveformat. Python Combine XML to IMAGE format. Merge XML to IMAGE in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to IMAGE in Python., Free Online Python Merge XML to image., Python Combine XML to IMAGE Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

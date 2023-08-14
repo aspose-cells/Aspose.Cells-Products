@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to IMAGE - Combine HTM to IMAGE in Python
 url: /python-net/merger/merge-htm-to-image/ 
-description: Aspose Excel. Free Online Merge HTM to IMAGE saveformat. Python Combine HTM to IMAGE format. Merge HTM to IMAGE in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to IMAGE saveformat via Python., Free Online Merge HTM to image in Python., Python Combine HTM to IMAGE Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to IMAGE saveformat. Python Combine HTM to IMAGE format. Merge HTM to IMAGE in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to IMAGE in Python., Free Online Python Merge HTM to image., Python Combine HTM to IMAGE Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

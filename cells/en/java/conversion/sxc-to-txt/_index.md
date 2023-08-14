@@ -1,7 +1,7 @@
 ---
-title: SXC to TXT - Convert SXC to TXT files Java
-description: Aspose Excel. Free Online Convert SXC to TXT saveformat. Java SXC to TXT format. Save SXC as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to TXT saveformat., Free Online SXC to TXT Converter]
+title: Java SXC to TXT - Online SXC to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to TXT saveformat. Java SXC to TXT format. Save SXC to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to TXT saveformat., Free Online SXC to TXT Java., Java Convert SXC to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

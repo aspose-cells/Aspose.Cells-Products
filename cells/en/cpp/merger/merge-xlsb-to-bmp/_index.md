@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to BMP - Combine XLSB to BMP in C++
 url: /cpp/merger/merge-xlsb-to-bmp/ 
-description: Aspose Excel. Free Online Merge XLSB to BMP saveformat. C++ Combine XLSB to BMP format. Merge XLSB to BMP in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to BMP saveformat via C++., Free Online Merge XLSB to bmp in C++., C++ Combine XLSB to BMP Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to BMP saveformat. C++ Combine XLSB to BMP format. Merge XLSB to BMP in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to BMP in C++., Free Online C++ Merge XLSB to bmp., C++ Combine XLSB to BMP Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DIF - Combine FODS to DIF in Java
 url: /java/merger/merge-fods-to-dif/ 
-description: Aspose Excel. Free Online Merge FODS to DIF saveformat. Java Combine FODS to DIF format. Merge FODS to DIF in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to DIF saveformat via Java., Free Online Merge FODS to dif in Java., Java Combine FODS to DIF Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to DIF saveformat. Java Combine FODS to DIF format. Merge FODS to DIF in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to DIF in Java., Free Online Java Merge FODS to dif., Java Combine FODS to DIF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

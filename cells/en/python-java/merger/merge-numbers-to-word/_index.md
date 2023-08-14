@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to WORD - Combine NUMBERS to WORD in Python
 url: /python-java/merger/merge-numbers-to-word/ 
-description: Aspose Excel. Free Online Merge NUMBERS to WORD saveformat. Python Combine NUMBERS to WORD format. Merge NUMBERS to WORD in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to WORD saveformat via Python., Free Online Merge NUMBERS to word in Python., Python Combine NUMBERS to WORD Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to WORD saveformat. Python Combine NUMBERS to WORD format. Merge NUMBERS to WORD in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to WORD in Python., Free Online Python Merge NUMBERS to word., Python Combine NUMBERS to WORD Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

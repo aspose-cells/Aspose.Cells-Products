@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLSM - Combine XLTX to XLSM in Python
 url: /python-net/merger/merge-xltx-to-xlsm/ 
-description: Aspose Excel. Free Online Merge XLTX to XLSM saveformat. Python Combine XLTX to XLSM format. Merge XLTX to XLSM in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLSM saveformat via Python., Free Online Merge XLTX to xlsm in Python., Python Combine XLTX to XLSM Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to XLSM saveformat. Python Combine XLTX to XLSM format. Merge XLTX to XLSM in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLSM in Python., Free Online Python Merge XLTX to xlsm., Python Combine XLTX to XLSM Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

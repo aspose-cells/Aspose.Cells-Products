@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to POWERPOINT - Combine XLTM to POWERPOINT in C#
 url: /net/merger/merge-xltm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLTM to POWERPOINT saveformat. C# Combine XLTM to POWERPOINT format. Merge XLTM to POWERPOINT in C#. XLTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to POWERPOINT saveformat via C#., Free Online Merge XLTM to powerpoint in C#., C# Combine XLTM to POWERPOINT Online for Free., XLTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to POWERPOINT saveformat. C# Combine XLTM to POWERPOINT format. Merge XLTM to POWERPOINT in C#. XLTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to POWERPOINT in C#., Free Online C# Merge XLTM to powerpoint., C# Combine XLTM to POWERPOINT Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

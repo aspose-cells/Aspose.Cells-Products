@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SVG - Combine MHTML to SVG in C++
 url: /cpp/merger/merge-mhtml-to-svg/ 
-description: Aspose Excel. Free Online Merge MHTML to SVG saveformat. C++ Combine MHTML to SVG format. Merge MHTML to SVG in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to SVG saveformat via C++., Free Online Merge MHTML to svg in C++., C++ Combine MHTML to SVG Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to SVG saveformat. C++ Combine MHTML to SVG format. Merge MHTML to SVG in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to SVG in C++., Free Online C++ Merge MHTML to svg., C++ Combine MHTML to SVG Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

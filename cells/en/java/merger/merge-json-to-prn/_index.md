@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to PRN - Combine JSON to PRN in Java
 url: /java/merger/merge-json-to-prn/ 
-description: Aspose Excel. Free Online Merge JSON to PRN saveformat. Java Combine JSON to PRN format. Merge JSON to PRN in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to PRN saveformat via Java., Free Online Merge JSON to prn in Java., Java Combine JSON to PRN Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to PRN saveformat. Java Combine JSON to PRN format. Merge JSON to PRN in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to PRN in Java., Free Online Java Merge JSON to prn., Java Combine JSON to PRN Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

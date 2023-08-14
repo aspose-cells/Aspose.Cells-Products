@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MARKDOWN - Combine PRN to MARKDOWN in Python
 url: /python-java/merger/merge-prn-to-markdown/ 
-description: Aspose Excel. Free Online Merge PRN to MARKDOWN saveformat. Python Combine PRN to MARKDOWN format. Merge PRN to MARKDOWN in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MARKDOWN saveformat via Python., Free Online Merge PRN to markdown in Python., Python Combine PRN to MARKDOWN Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to MARKDOWN saveformat. Python Combine PRN to MARKDOWN format. Merge PRN to MARKDOWN in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to MARKDOWN in Python., Free Online Python Merge PRN to markdown., Python Combine PRN to MARKDOWN Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

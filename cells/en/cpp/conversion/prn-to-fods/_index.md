@@ -1,7 +1,7 @@
 ---
-title: PRN to FODS - Convert PRN to FODS files C++
-description: Aspose Excel. Free Online Convert PRN to FODS saveformat. C++ PRN to FODS format. Save PRN as FODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to FODS saveformat., Free Online PRN to FODS Converter]
+title: C++ PRN to FODS - Online PRN to FODS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PRN to FODS saveformat. C++ PRN to FODS format. Save PRN to FODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to FODS saveformat., Free Online PRN to FODS C++., C++ Convert PRN to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PRN - Combine JPG to PRN in C#
 url: /net/merger/merge-jpg-to-prn/ 
-description: Aspose Excel. Free Online Merge JPG to PRN saveformat. C# Combine JPG to PRN format. Merge JPG to PRN in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to PRN saveformat via C#., Free Online Merge JPG to prn in C#., C# Combine JPG to PRN Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to PRN saveformat. C# Combine JPG to PRN format. Merge JPG to PRN in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to PRN in C#., Free Online C# Merge JPG to prn., C# Combine JPG to PRN Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PDF - Combine XLTX to PDF in C#
 url: /net/merger/merge-xltx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLTX to PDF saveformat. C# Combine XLTX to PDF format. Merge XLTX to PDF in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to PDF saveformat via C#., Free Online Merge XLTX to pdf in C#., C# Combine XLTX to PDF Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to PDF saveformat. C# Combine XLTX to PDF format. Merge XLTX to PDF in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to PDF in C#., Free Online C# Merge XLTX to pdf., C# Combine XLTX to PDF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

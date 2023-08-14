@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PPTX - Combine MHT to PPTX in C#
 url: /net/merger/merge-mht-to-pptx/ 
-description: Aspose Excel. Free Online Merge MHT to PPTX saveformat. C# Combine MHT to PPTX format. Merge MHT to PPTX in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to PPTX saveformat via C#., Free Online Merge MHT to pptx in C#., C# Combine MHT to PPTX Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to PPTX saveformat. C# Combine MHT to PPTX format. Merge MHT to PPTX in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to PPTX in C#., Free Online C# Merge MHT to pptx., C# Combine MHT to PPTX Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

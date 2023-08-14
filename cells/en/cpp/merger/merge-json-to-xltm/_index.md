@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLTM - Combine JSON to XLTM in C++
 url: /cpp/merger/merge-json-to-xltm/ 
-description: Aspose Excel. Free Online Merge JSON to XLTM saveformat. C++ Combine JSON to XLTM format. Merge JSON to XLTM in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLTM saveformat via C++., Free Online Merge JSON to xltm in C++., C++ Combine JSON to XLTM Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to XLTM saveformat. C++ Combine JSON to XLTM format. Merge JSON to XLTM in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLTM in C++., Free Online C++ Merge JSON to xltm., C++ Combine JSON to XLTM Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

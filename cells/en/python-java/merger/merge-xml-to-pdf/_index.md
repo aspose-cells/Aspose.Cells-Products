@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PDF - Combine XML to PDF in Python
 url: /python-java/merger/merge-xml-to-pdf/ 
-description: Aspose Excel. Free Online Merge XML to PDF saveformat. Python Combine XML to PDF format. Merge XML to PDF in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PDF saveformat via Python., Free Online Merge XML to pdf in Python., Python Combine XML to PDF Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to PDF saveformat. Python Combine XML to PDF format. Merge XML to PDF in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PDF in Python., Free Online Python Merge XML to pdf., Python Combine XML to PDF Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

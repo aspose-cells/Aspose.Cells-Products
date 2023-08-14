@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SVG - Combine XLSX to SVG in C++
 url: /cpp/merger/merge-xlsx-to-svg/ 
-description: Aspose Excel. Free Online Merge XLSX to SVG saveformat. C++ Combine XLSX to SVG format. Merge XLSX to SVG in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SVG saveformat via C++., Free Online Merge XLSX to svg in C++., C++ Combine XLSX to SVG Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to SVG saveformat. C++ Combine XLSX to SVG format. Merge XLSX to SVG in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to SVG in C++., Free Online C++ Merge XLSX to svg., C++ Combine XLSX to SVG Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

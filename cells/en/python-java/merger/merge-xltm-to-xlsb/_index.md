@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XLSB - Combine XLTM to XLSB in Python
 url: /python-java/merger/merge-xltm-to-xlsb/ 
-description: Aspose Excel. Free Online Merge XLTM to XLSB saveformat. Python Combine XLTM to XLSB format. Merge XLTM to XLSB in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to XLSB saveformat via Python., Free Online Merge XLTM to xlsb in Python., Python Combine XLTM to XLSB Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to XLSB saveformat. Python Combine XLTM to XLSB format. Merge XLTM to XLSB in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to XLSB in Python., Free Online Python Merge XLTM to xlsb., Python Combine XLTM to XLSB Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MHTML - Combine XLSB to MHTML in Java
 url: /java/merger/merge-xlsb-to-mhtml/ 
-description: Aspose Excel. Free Online Merge XLSB to MHTML saveformat. Java Combine XLSB to MHTML format. Merge XLSB to MHTML in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MHTML saveformat via Java., Free Online Merge XLSB to mhtml in Java., Java Combine XLSB to MHTML Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to MHTML saveformat. Java Combine XLSB to MHTML format. Merge XLSB to MHTML in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to MHTML in Java., Free Online Java Merge XLSB to mhtml., Java Combine XLSB to MHTML Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

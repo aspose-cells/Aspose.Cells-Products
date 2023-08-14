@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to POWERPOINT - Combine PNG to POWERPOINT in Java
 url: /java/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge PNG to POWERPOINT saveformat. Java Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to POWERPOINT saveformat via Java., Free Online Merge PNG to powerpoint in Java., Java Combine PNG to POWERPOINT Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to POWERPOINT saveformat. Java Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to POWERPOINT in Java., Free Online Java Merge PNG to powerpoint., Java Combine PNG to POWERPOINT Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

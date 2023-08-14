@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SVG - Combine ODS to SVG in Python
 url: /python-net/merger/merge-ods-to-svg/ 
-description: Aspose Excel. Free Online Merge ODS to SVG saveformat. Python Combine ODS to SVG format. Merge ODS to SVG in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to SVG saveformat via Python., Free Online Merge ODS to svg in Python., Python Combine ODS to SVG Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to SVG saveformat. Python Combine ODS to SVG format. Merge ODS to SVG in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to SVG in Python., Free Online Python Merge ODS to svg., Python Combine ODS to SVG Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

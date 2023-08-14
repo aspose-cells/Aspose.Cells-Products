@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to DOCX - Combine TSV to DOCX in Python
 url: /python-java/merger/merge-tsv-to-docx/ 
-description: Aspose Excel. Free Online Merge TSV to DOCX saveformat. Python Combine TSV to DOCX format. Merge TSV to DOCX in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DOCX saveformat via Python., Free Online Merge TSV to docx in Python., Python Combine TSV to DOCX Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to DOCX saveformat. Python Combine TSV to DOCX format. Merge TSV to DOCX in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DOCX in Python., Free Online Python Merge TSV to docx., Python Combine TSV to DOCX Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

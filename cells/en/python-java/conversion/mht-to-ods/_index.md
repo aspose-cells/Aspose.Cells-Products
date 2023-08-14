@@ -1,7 +1,7 @@
 ---
-title: MHT to ODS - Convert MHT to ODS files Python
-description: Aspose Excel. Free Online Convert MHT to ODS saveformat. Python MHT to ODS format. Save MHT as ODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to ODS saveformat., Free Online MHT to ODS Converter]
+title: Python MHT to ODS - Online MHT to ODS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to ODS saveformat. Python MHT to ODS format. Save MHT to ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to ODS saveformat., Free Online MHT to ODS Python., Python Convert MHT to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

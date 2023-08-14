@@ -1,7 +1,7 @@
 ---
-title: JPG to TXT - Convert JPG to TXT files C++
-description: Aspose Excel. Free Online Convert JPG to TXT saveformat. C++ JPG to TXT format. Save JPG as TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to TXT saveformat., Free Online JPG to TXT Converter]
+title: C++ JPG to TXT - Online JPG to TXT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to TXT saveformat. C++ JPG to TXT format. Save JPG to TXT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to TXT saveformat., Free Online JPG to TXT C++., C++ Convert JPG to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

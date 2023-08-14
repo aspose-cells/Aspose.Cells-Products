@@ -1,7 +1,7 @@
 ---
-title: IMAGE to DIF - Convert IMAGE to DIF files Python
-description: Aspose Excel. Free Online Convert IMAGE to DIF saveformat. Python IMAGE to DIF format. Save IMAGE as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to DIF saveformat., Free Online IMAGE to DIF Converter]
+title: Python IMAGE to DIF - Online IMAGE to DIF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert IMAGE to DIF saveformat. Python IMAGE to DIF format. Save IMAGE to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python IMAGE to DIF saveformat., Free Online IMAGE to DIF Python., Python Convert IMAGE to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

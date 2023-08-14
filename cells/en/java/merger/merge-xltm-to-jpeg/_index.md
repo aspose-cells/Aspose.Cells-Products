@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JPEG - Combine XLTM to JPEG in Java
 url: /java/merger/merge-xltm-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XLTM to JPEG saveformat. Java Combine XLTM to JPEG format. Merge XLTM to JPEG in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to JPEG saveformat via Java., Free Online Merge XLTM to jpeg in Java., Java Combine XLTM to JPEG Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to JPEG saveformat. Java Combine XLTM to JPEG format. Merge XLTM to JPEG in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to JPEG in Java., Free Online Java Merge XLTM to jpeg., Java Combine XLTM to JPEG Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SVG - Combine XLTM to SVG in C++
 url: /cpp/merger/merge-xltm-to-svg/ 
-description: Aspose Excel. Free Online Merge XLTM to SVG saveformat. C++ Combine XLTM to SVG format. Merge XLTM to SVG in C++. XLTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to SVG saveformat via C++., Free Online Merge XLTM to svg in C++., C++ Combine XLTM to SVG Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to SVG saveformat. C++ Combine XLTM to SVG format. Merge XLTM to SVG in C++. XLTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to SVG in C++., Free Online C++ Merge XLTM to svg., C++ Combine XLTM to SVG Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

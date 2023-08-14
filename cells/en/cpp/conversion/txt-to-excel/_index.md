@@ -1,7 +1,7 @@
 ---
-title: TXT to EXCEL - Convert TXT to EXCEL files C++
-description: Aspose Excel. Free Online Convert TXT to EXCEL saveformat. C++ TXT to EXCEL format. Save TXT as EXCEL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to EXCEL saveformat., Free Online TXT to EXCEL Converter]
+title: C++ TXT to EXCEL - Online TXT to EXCEL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to EXCEL saveformat. C++ TXT to EXCEL format. Save TXT to EXCEL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to EXCEL saveformat., Free Online TXT to EXCEL C++., C++ Convert TXT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

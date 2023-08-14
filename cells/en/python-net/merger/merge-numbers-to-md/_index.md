@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MD - Combine NUMBERS to MD in Python
 url: /python-net/merger/merge-numbers-to-md/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MD saveformat. Python Combine NUMBERS to MD format. Merge NUMBERS to MD in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to MD saveformat via Python., Free Online Merge NUMBERS to md in Python., Python Combine NUMBERS to MD Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to MD saveformat. Python Combine NUMBERS to MD format. Merge NUMBERS to MD in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to MD in Python., Free Online Python Merge NUMBERS to md., Python Combine NUMBERS to MD Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TABDELIMITED - Combine OTS to TABDELIMITED in C++
 url: /cpp/merger/merge-ots-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge OTS to TABDELIMITED saveformat. C++ Combine OTS to TABDELIMITED format. Merge OTS to TABDELIMITED in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to TABDELIMITED saveformat via C++., Free Online Merge OTS to tabdelimited in C++., C++ Combine OTS to TABDELIMITED Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to TABDELIMITED saveformat. C++ Combine OTS to TABDELIMITED format. Merge OTS to TABDELIMITED in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to TABDELIMITED in C++., Free Online C++ Merge OTS to tabdelimited., C++ Combine OTS to TABDELIMITED Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

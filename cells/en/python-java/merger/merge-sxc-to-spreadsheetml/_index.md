@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SPREADSHEETML - Combine SXC to SPREADSHEETML in Python
 url: /python-java/merger/merge-sxc-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge SXC to SPREADSHEETML saveformat. Python Combine SXC to SPREADSHEETML format. Merge SXC to SPREADSHEETML in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SPREADSHEETML saveformat via Python., Free Online Merge SXC to spreadsheetml in Python., Python Combine SXC to SPREADSHEETML Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to SPREADSHEETML saveformat. Python Combine SXC to SPREADSHEETML format. Merge SXC to SPREADSHEETML in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SPREADSHEETML in Python., Free Online Python Merge SXC to spreadsheetml., Python Combine SXC to SPREADSHEETML Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

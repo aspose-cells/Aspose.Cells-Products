@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ET - Combine HTML to ET in C#
 url: /net/merger/merge-html-to-et/ 
-description: Aspose Excel. Free Online Merge HTML to ET saveformat. C# Combine HTML to ET format. Merge HTML to ET in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ET saveformat via C#., Free Online Merge HTML to et in C#., C# Combine HTML to ET Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to ET saveformat. C# Combine HTML to ET format. Merge HTML to ET in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ET in C#., Free Online C# Merge HTML to et., C# Combine HTML to ET Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

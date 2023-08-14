@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to WORD - Combine XLS to WORD in C#
 url: /net/merger/merge-xls-to-word/ 
-description: Aspose Excel. Free Online Merge XLS to WORD saveformat. C# Combine XLS to WORD format. Merge XLS to WORD in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to WORD saveformat via C#., Free Online Merge XLS to word in C#., C# Combine XLS to WORD Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to WORD saveformat. C# Combine XLS to WORD format. Merge XLS to WORD in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to WORD in C#., Free Online C# Merge XLS to word., C# Combine XLS to WORD Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to WORD - Combine CSV to WORD in Java
 url: /java/merger/merge-csv-to-word/ 
-description: Aspose Excel. Free Online Merge CSV to WORD saveformat. Java Combine CSV to WORD format. Merge CSV to WORD in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to WORD saveformat via Java., Free Online Merge CSV to word in Java., Java Combine CSV to WORD Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to WORD saveformat. Java Combine CSV to WORD format. Merge CSV to WORD in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to WORD in Java., Free Online Java Merge CSV to word., Java Combine CSV to WORD Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

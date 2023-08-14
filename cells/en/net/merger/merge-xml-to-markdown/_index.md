@@ -1,8 +1,8 @@
 ---
 title: Merge XML to MARKDOWN - Combine XML to MARKDOWN in C#
 url: /net/merger/merge-xml-to-markdown/ 
-description: Aspose Excel. Free Online Merge XML to MARKDOWN saveformat. C# Combine XML to MARKDOWN format. Merge XML to MARKDOWN in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MARKDOWN saveformat via C#., Free Online Merge XML to markdown in C#., C# Combine XML to MARKDOWN Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to MARKDOWN saveformat. C# Combine XML to MARKDOWN format. Merge XML to MARKDOWN in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MARKDOWN in C#., Free Online C# Merge XML to markdown., C# Combine XML to MARKDOWN Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

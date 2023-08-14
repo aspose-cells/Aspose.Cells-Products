@@ -1,7 +1,7 @@
 ---
-title: FODS to SQL - Convert FODS to SQL files Java
-description: Aspose Excel. Free Online Convert FODS to SQL saveformat. Java FODS to SQL format. Save FODS as SQL in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to SQL saveformat., Free Online FODS to SQL Converter]
+title: Java FODS to SQL - Online FODS to SQL Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to SQL saveformat. Java FODS to SQL format. Save FODS to SQL Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to SQL saveformat., Free Online FODS to SQL Java., Java Convert FODS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

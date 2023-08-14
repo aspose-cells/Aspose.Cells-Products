@@ -1,7 +1,7 @@
 ---
-title: XLTX to XLAM - Convert XLTX to XLAM files C++
-description: Aspose Excel. Free Online Convert XLTX to XLAM saveformat. C++ XLTX to XLAM format. Save XLTX as XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to XLAM saveformat., Free Online XLTX to XLAM Converter]
+title: C++ XLTX to XLAM - Online XLTX to XLAM Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLTX to XLAM saveformat. C++ XLTX to XLAM format. Save XLTX to XLAM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLTX to XLAM saveformat., Free Online XLTX to XLAM C++., C++ Convert XLTX to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

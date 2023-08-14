@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DOCX - Combine XML to DOCX in C++
 url: /cpp/merger/merge-xml-to-docx/ 
-description: Aspose Excel. Free Online Merge XML to DOCX saveformat. C++ Combine XML to DOCX format. Merge XML to DOCX in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to DOCX saveformat via C++., Free Online Merge XML to docx in C++., C++ Combine XML to DOCX Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to DOCX saveformat. C++ Combine XML to DOCX format. Merge XML to DOCX in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to DOCX in C++., Free Online C++ Merge XML to docx., C++ Combine XML to DOCX Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

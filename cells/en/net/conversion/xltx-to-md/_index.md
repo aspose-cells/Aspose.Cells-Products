@@ -1,7 +1,7 @@
 ---
-title: XLTX to MD - Convert XLTX to MD files C#
-description: Aspose Excel. Free Online Convert XLTX to MD saveformat. C# XLTX to MD format. Save XLTX as MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to MD saveformat., Free Online XLTX to MD Converter]
+title: C# XLTX to MD - Online XLTX to MD Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLTX to MD saveformat. C# XLTX to MD format. Save XLTX to MD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLTX to MD saveformat., Free Online XLTX to MD C#., C# Convert XLTX to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

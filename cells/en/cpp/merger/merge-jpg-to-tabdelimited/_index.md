@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TABDELIMITED - Combine JPG to TABDELIMITED in C++
 url: /cpp/merger/merge-jpg-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge JPG to TABDELIMITED saveformat. C++ Combine JPG to TABDELIMITED format. Merge JPG to TABDELIMITED in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TABDELIMITED saveformat via C++., Free Online Merge JPG to tabdelimited in C++., C++ Combine JPG to TABDELIMITED Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to TABDELIMITED saveformat. C++ Combine JPG to TABDELIMITED format. Merge JPG to TABDELIMITED in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TABDELIMITED in C++., Free Online C++ Merge JPG to tabdelimited., C++ Combine JPG to TABDELIMITED Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

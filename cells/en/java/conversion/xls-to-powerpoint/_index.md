@@ -1,7 +1,7 @@
 ---
-title: XLS to POWERPOINT - Convert XLS to POWERPOINT files Java
-description: Aspose Excel. Free Online Convert XLS to POWERPOINT saveformat. Java XLS to POWERPOINT format. Save XLS as POWERPOINT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLS to POWERPOINT saveformat., Free Online XLS to POWERPOINT Converter]
+title: Java XLS to POWERPOINT - Online XLS to POWERPOINT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLS to POWERPOINT saveformat. Java XLS to POWERPOINT format. Save XLS to POWERPOINT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLS to POWERPOINT saveformat., Free Online XLS to POWERPOINT Java., Java Convert XLS to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

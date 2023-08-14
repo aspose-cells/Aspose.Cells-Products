@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to TSV - Combine FODS to TSV in Python
 url: /python-java/merger/merge-fods-to-tsv/ 
-description: Aspose Excel. Free Online Merge FODS to TSV saveformat. Python Combine FODS to TSV format. Merge FODS to TSV in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TSV saveformat via Python., Free Online Merge FODS to tsv in Python., Python Combine FODS to TSV Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to TSV saveformat. Python Combine FODS to TSV format. Merge FODS to TSV in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to TSV in Python., Free Online Python Merge FODS to tsv., Python Combine FODS to TSV Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

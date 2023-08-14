@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XPS - Combine FODS to XPS in C#
 url: /net/merger/merge-fods-to-xps/ 
-description: Aspose Excel. Free Online Merge FODS to XPS saveformat. C# Combine FODS to XPS format. Merge FODS to XPS in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XPS saveformat via C#., Free Online Merge FODS to xps in C#., C# Combine FODS to XPS Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to XPS saveformat. C# Combine FODS to XPS format. Merge FODS to XPS in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to XPS in C#., Free Online C# Merge FODS to xps., C# Combine FODS to XPS Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

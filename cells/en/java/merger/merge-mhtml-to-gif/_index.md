@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to GIF - Combine MHTML to GIF in Java
 url: /java/merger/merge-mhtml-to-gif/ 
-description: Aspose Excel. Free Online Merge MHTML to GIF saveformat. Java Combine MHTML to GIF format. Merge MHTML to GIF in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to GIF saveformat via Java., Free Online Merge MHTML to gif in Java., Java Combine MHTML to GIF Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to GIF saveformat. Java Combine MHTML to GIF format. Merge MHTML to GIF in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to GIF in Java., Free Online Java Merge MHTML to gif., Java Combine MHTML to GIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

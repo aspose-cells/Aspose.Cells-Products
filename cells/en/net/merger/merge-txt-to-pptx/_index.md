@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PPTX - Combine TXT to PPTX in C#
 url: /net/merger/merge-txt-to-pptx/ 
-description: Aspose Excel. Free Online Merge TXT to PPTX saveformat. C# Combine TXT to PPTX format. Merge TXT to PPTX in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PPTX saveformat via C#., Free Online Merge TXT to pptx in C#., C# Combine TXT to PPTX Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to PPTX saveformat. C# Combine TXT to PPTX format. Merge TXT to PPTX in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PPTX in C#., Free Online C# Merge TXT to pptx., C# Combine TXT to PPTX Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

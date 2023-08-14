@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to CSV - Combine JPG to CSV in Python
 url: /python-java/merger/merge-jpg-to-csv/ 
-description: Aspose Excel. Free Online Merge JPG to CSV saveformat. Python Combine JPG to CSV format. Merge JPG to CSV in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to CSV saveformat via Python., Free Online Merge JPG to csv in Python., Python Combine JPG to CSV Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to CSV saveformat. Python Combine JPG to CSV format. Merge JPG to CSV in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to CSV in Python., Free Online Python Merge JPG to csv., Python Combine JPG to CSV Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

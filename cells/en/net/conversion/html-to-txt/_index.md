@@ -1,7 +1,7 @@
 ---
-title: HTML to TXT - Convert HTML to TXT files C#
-description: Aspose Excel. Free Online Convert HTML to TXT saveformat. C# HTML to TXT format. Save HTML as TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to TXT saveformat., Free Online HTML to TXT Converter]
+title: C# HTML to TXT - Online HTML to TXT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTML to TXT saveformat. C# HTML to TXT format. Save HTML to TXT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTML to TXT saveformat., Free Online HTML to TXT C#., C# Convert HTML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

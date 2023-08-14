@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DIF - Combine MHT to DIF in C#
 url: /net/merger/merge-mht-to-dif/ 
-description: Aspose Excel. Free Online Merge MHT to DIF saveformat. C# Combine MHT to DIF format. Merge MHT to DIF in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to DIF saveformat via C#., Free Online Merge MHT to dif in C#., C# Combine MHT to DIF Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to DIF saveformat. C# Combine MHT to DIF format. Merge MHT to DIF in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to DIF in C#., Free Online C# Merge MHT to dif., C# Combine MHT to DIF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

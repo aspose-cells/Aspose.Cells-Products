@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to JPEG - Combine PRN to JPEG in Python
 url: /python-java/merger/merge-prn-to-jpeg/ 
-description: Aspose Excel. Free Online Merge PRN to JPEG saveformat. Python Combine PRN to JPEG format. Merge PRN to JPEG in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to JPEG saveformat via Python., Free Online Merge PRN to jpeg in Python., Python Combine PRN to JPEG Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to JPEG saveformat. Python Combine PRN to JPEG format. Merge PRN to JPEG in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to JPEG in Python., Free Online Python Merge PRN to jpeg., Python Combine PRN to JPEG Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to TABDELIMITED - Combine XLS to TABDELIMITED in C#
 url: /net/merger/merge-xls-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge XLS to TABDELIMITED saveformat. C# Combine XLS to TABDELIMITED format. Merge XLS to TABDELIMITED in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to TABDELIMITED saveformat via C#., Free Online Merge XLS to tabdelimited in C#., C# Combine XLS to TABDELIMITED Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to TABDELIMITED saveformat. C# Combine XLS to TABDELIMITED format. Merge XLS to TABDELIMITED in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to TABDELIMITED in C#., Free Online C# Merge XLS to tabdelimited., C# Combine XLS to TABDELIMITED Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to DIF - Combine SPREADSHEETML to DIF in Python
 url: /python-java/merger/merge-spreadsheetml-to-dif/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to DIF saveformat. Python Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to DIF saveformat via Python., Free Online Merge SPREADSHEETML to dif in Python., Python Combine SPREADSHEETML to DIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to DIF saveformat. Python Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to DIF in Python., Free Online Python Merge SPREADSHEETML to dif., Python Combine SPREADSHEETML to DIF Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

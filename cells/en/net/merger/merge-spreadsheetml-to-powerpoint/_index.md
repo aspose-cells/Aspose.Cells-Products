@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to POWERPOINT - Combine SPREADSHEETML to POWERPOINT in C#
 url: /net/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. C# Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to POWERPOINT saveformat via C#., Free Online Merge SPREADSHEETML to powerpoint in C#., C# Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. C# Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in C#., Free Online C# Merge SPREADSHEETML to powerpoint., C# Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

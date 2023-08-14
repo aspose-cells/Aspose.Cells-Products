@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SVG - Combine MHT to SVG in Python
 url: /python-net/merger/merge-mht-to-svg/ 
-description: Aspose Excel. Free Online Merge MHT to SVG saveformat. Python Combine MHT to SVG format. Merge MHT to SVG in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to SVG saveformat via Python., Free Online Merge MHT to svg in Python., Python Combine MHT to SVG Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to SVG saveformat. Python Combine MHT to SVG format. Merge MHT to SVG in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to SVG in Python., Free Online Python Merge MHT to svg., Python Combine MHT to SVG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

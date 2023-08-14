@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SVG - Combine XLSB to SVG in Python
 url: /python-net/merger/merge-xlsb-to-svg/ 
-description: Aspose Excel. Free Online Merge XLSB to SVG saveformat. Python Combine XLSB to SVG format. Merge XLSB to SVG in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SVG saveformat via Python., Free Online Merge XLSB to svg in Python., Python Combine XLSB to SVG Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to SVG saveformat. Python Combine XLSB to SVG format. Merge XLSB to SVG in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SVG in Python., Free Online Python Merge XLSB to svg., Python Combine XLSB to SVG Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

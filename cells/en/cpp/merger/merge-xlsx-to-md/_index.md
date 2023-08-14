@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MD - Combine XLSX to MD in C++
 url: /cpp/merger/merge-xlsx-to-md/ 
-description: Aspose Excel. Free Online Merge XLSX to MD saveformat. C++ Combine XLSX to MD format. Merge XLSX to MD in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to MD saveformat via C++., Free Online Merge XLSX to md in C++., C++ Combine XLSX to MD Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to MD saveformat. C++ Combine XLSX to MD format. Merge XLSX to MD in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to MD in C++., Free Online C++ Merge XLSX to md., C++ Combine XLSX to MD Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TABDELIMITED - Combine HTM to TABDELIMITED in Python
 url: /python-net/merger/merge-htm-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge HTM to TABDELIMITED saveformat. Python Combine HTM to TABDELIMITED format. Merge HTM to TABDELIMITED in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to TABDELIMITED saveformat via Python., Free Online Merge HTM to tabdelimited in Python., Python Combine HTM to TABDELIMITED Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to TABDELIMITED saveformat. Python Combine HTM to TABDELIMITED format. Merge HTM to TABDELIMITED in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to TABDELIMITED in Python., Free Online Python Merge HTM to tabdelimited., Python Combine HTM to TABDELIMITED Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

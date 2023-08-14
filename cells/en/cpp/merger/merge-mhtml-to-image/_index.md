@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to IMAGE - Combine MHTML to IMAGE in C++
 url: /cpp/merger/merge-mhtml-to-image/ 
-description: Aspose Excel. Free Online Merge MHTML to IMAGE saveformat. C++ Combine MHTML to IMAGE format. Merge MHTML to IMAGE in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to IMAGE saveformat via C++., Free Online Merge MHTML to image in C++., C++ Combine MHTML to IMAGE Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to IMAGE saveformat. C++ Combine MHTML to IMAGE format. Merge MHTML to IMAGE in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to IMAGE in C++., Free Online C++ Merge MHTML to image., C++ Combine MHTML to IMAGE Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SQL - Combine MHT to SQL in Python
 url: /python-java/merger/merge-mht-to-sql/ 
-description: Aspose Excel. Free Online Merge MHT to SQL saveformat. Python Combine MHT to SQL format. Merge MHT to SQL in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to SQL saveformat via Python., Free Online Merge MHT to sql in Python., Python Combine MHT to SQL Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to SQL saveformat. Python Combine MHT to SQL format. Merge MHT to SQL in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to SQL in Python., Free Online Python Merge MHT to sql., Python Combine MHT to SQL Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

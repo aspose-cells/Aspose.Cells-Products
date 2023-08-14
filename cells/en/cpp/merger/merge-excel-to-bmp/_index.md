@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to BMP - Combine EXCEL to BMP in C++
 url: /cpp/merger/merge-excel-to-bmp/ 
-description: Aspose Excel. Free Online Merge EXCEL to BMP saveformat. C++ Combine EXCEL to BMP format. Merge EXCEL to BMP in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to BMP saveformat via C++., Free Online Merge EXCEL to bmp in C++., C++ Combine EXCEL to BMP Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to BMP saveformat. C++ Combine EXCEL to BMP format. Merge EXCEL to BMP in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to BMP in C++., Free Online C++ Merge EXCEL to bmp., C++ Combine EXCEL to BMP Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

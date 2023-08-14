@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to WORD - Combine MHTML to WORD in Python
 url: /python-java/merger/merge-mhtml-to-word/ 
-description: Aspose Excel. Free Online Merge MHTML to WORD saveformat. Python Combine MHTML to WORD format. Merge MHTML to WORD in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to WORD saveformat via Python., Free Online Merge MHTML to word in Python., Python Combine MHTML to WORD Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to WORD saveformat. Python Combine MHTML to WORD format. Merge MHTML to WORD in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to WORD in Python., Free Online Python Merge MHTML to word., Python Combine MHTML to WORD Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

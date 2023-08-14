@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ET - Combine PNG to ET in Java
 url: /java/merger/merge-png-to-et/ 
-description: Aspose Excel. Free Online Merge PNG to ET saveformat. Java Combine PNG to ET format. Merge PNG to ET in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to ET saveformat via Java., Free Online Merge PNG to et in Java., Java Combine PNG to ET Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to ET saveformat. Java Combine PNG to ET format. Merge PNG to ET in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to ET in Java., Free Online Java Merge PNG to et., Java Combine PNG to ET Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

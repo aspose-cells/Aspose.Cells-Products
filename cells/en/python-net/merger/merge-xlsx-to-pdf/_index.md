@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PDF - Combine XLSX to PDF in Python
 url: /python-net/merger/merge-xlsx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLSX to PDF saveformat. Python Combine XLSX to PDF format. Merge XLSX to PDF in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to PDF saveformat via Python., Free Online Merge XLSX to pdf in Python., Python Combine XLSX to PDF Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to PDF saveformat. Python Combine XLSX to PDF format. Merge XLSX to PDF in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to PDF in Python., Free Online Python Merge XLSX to pdf., Python Combine XLSX to PDF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

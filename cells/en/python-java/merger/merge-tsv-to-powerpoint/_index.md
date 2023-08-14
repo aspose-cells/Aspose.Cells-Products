@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to POWERPOINT - Combine TSV to POWERPOINT in Python
 url: /python-java/merger/merge-tsv-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TSV to POWERPOINT saveformat. Python Combine TSV to POWERPOINT format. Merge TSV to POWERPOINT in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to POWERPOINT saveformat via Python., Free Online Merge TSV to powerpoint in Python., Python Combine TSV to POWERPOINT Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to POWERPOINT saveformat. Python Combine TSV to POWERPOINT format. Merge TSV to POWERPOINT in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to POWERPOINT in Python., Free Online Python Merge TSV to powerpoint., Python Combine TSV to POWERPOINT Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

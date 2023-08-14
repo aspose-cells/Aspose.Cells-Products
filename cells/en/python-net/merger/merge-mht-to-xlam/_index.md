@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLAM - Combine MHT to XLAM in Python
 url: /python-net/merger/merge-mht-to-xlam/ 
-description: Aspose Excel. Free Online Merge MHT to XLAM saveformat. Python Combine MHT to XLAM format. Merge MHT to XLAM in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLAM saveformat via Python., Free Online Merge MHT to xlam in Python., Python Combine MHT to XLAM Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XLAM saveformat. Python Combine MHT to XLAM format. Merge MHT to XLAM in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLAM in Python., Free Online Python Merge MHT to xlam., Python Combine MHT to XLAM Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

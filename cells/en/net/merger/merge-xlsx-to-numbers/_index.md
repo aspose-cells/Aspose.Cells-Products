@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to NUMBERS - Combine XLSX to NUMBERS in C#
 url: /net/merger/merge-xlsx-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLSX to NUMBERS saveformat. C# Combine XLSX to NUMBERS format. Merge XLSX to NUMBERS in C#. XLSX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to NUMBERS saveformat via C#., Free Online Merge XLSX to numbers in C#., C# Combine XLSX to NUMBERS Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to NUMBERS saveformat. C# Combine XLSX to NUMBERS format. Merge XLSX to NUMBERS in C#. XLSX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to NUMBERS in C#., Free Online C# Merge XLSX to numbers., C# Combine XLSX to NUMBERS Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: EXCEL to WORD - Convert EXCEL to WORD files Java
-description: Aspose Excel. Free Online Convert EXCEL to WORD saveformat. Java EXCEL to WORD format. Save EXCEL as WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to WORD saveformat., Free Online EXCEL to WORD Converter]
+title: Java EXCEL to WORD - Online EXCEL to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to WORD saveformat. Java EXCEL to WORD format. Save EXCEL to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to WORD saveformat., Free Online EXCEL to WORD Java., Java Convert EXCEL to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SQL - Combine XLSB to SQL in Python
 url: /python-java/merger/merge-xlsb-to-sql/ 
-description: Aspose Excel. Free Online Merge XLSB to SQL saveformat. Python Combine XLSB to SQL format. Merge XLSB to SQL in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SQL saveformat via Python., Free Online Merge XLSB to sql in Python., Python Combine XLSB to SQL Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to SQL saveformat. Python Combine XLSB to SQL format. Merge XLSB to SQL in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to SQL in Python., Free Online Python Merge XLSB to sql., Python Combine XLSB to SQL Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

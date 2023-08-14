@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PRN - Combine FODS to PRN in Python
 url: /python-net/merger/merge-fods-to-prn/ 
-description: Aspose Excel. Free Online Merge FODS to PRN saveformat. Python Combine FODS to PRN format. Merge FODS to PRN in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PRN saveformat via Python., Free Online Merge FODS to prn in Python., Python Combine FODS to PRN Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to PRN saveformat. Python Combine FODS to PRN format. Merge FODS to PRN in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to PRN in Python., Free Online Python Merge FODS to prn., Python Combine FODS to PRN Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to CSV - Combine ODS to CSV in C++
 url: /cpp/merger/merge-ods-to-csv/ 
-description: Aspose Excel. Free Online Merge ODS to CSV saveformat. C++ Combine ODS to CSV format. Merge ODS to CSV in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to CSV saveformat via C++., Free Online Merge ODS to csv in C++., C++ Combine ODS to CSV Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to CSV saveformat. C++ Combine ODS to CSV format. Merge ODS to CSV in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to CSV in C++., Free Online C++ Merge ODS to csv., C++ Combine ODS to CSV Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

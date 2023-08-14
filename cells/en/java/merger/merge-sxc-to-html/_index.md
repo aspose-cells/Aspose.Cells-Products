@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to HTML - Combine SXC to HTML in Java
 url: /java/merger/merge-sxc-to-html/ 
-description: Aspose Excel. Free Online Merge SXC to HTML saveformat. Java Combine SXC to HTML format. Merge SXC to HTML in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to HTML saveformat via Java., Free Online Merge SXC to html in Java., Java Combine SXC to HTML Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to HTML saveformat. Java Combine SXC to HTML format. Merge SXC to HTML in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to HTML in Java., Free Online Java Merge SXC to html., Java Combine SXC to HTML Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

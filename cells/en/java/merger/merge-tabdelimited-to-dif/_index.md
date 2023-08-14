@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DIF - Combine TABDELIMITED to DIF in Java
 url: /java/merger/merge-tabdelimited-to-dif/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DIF saveformat. Java Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to DIF saveformat via Java., Free Online Merge TABDELIMITED to dif in Java., Java Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to DIF saveformat. Java Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to DIF in Java., Free Online Java Merge TABDELIMITED to dif., Java Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to XLT - Convert NUMBERS to XLT files C++
-description: Aspose Excel. Free Online Convert NUMBERS to XLT saveformat. C++ NUMBERS to XLT format. Save NUMBERS as XLT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLT saveformat., Free Online NUMBERS to XLT Converter]
+title: C++ NUMBERS to XLT - Online NUMBERS to XLT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert NUMBERS to XLT saveformat. C++ NUMBERS to XLT format. Save NUMBERS to XLT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ NUMBERS to XLT saveformat., Free Online NUMBERS to XLT C++., C++ Convert NUMBERS to XLT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

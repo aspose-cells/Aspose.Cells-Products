@@ -1,7 +1,7 @@
 ---
-title: XLSB to SPREADSHEETML - Convert XLSB to SPREADSHEETML files C++
-description: Aspose Excel. Free Online Convert XLSB to SPREADSHEETML saveformat. C++ XLSB to SPREADSHEETML format. Save XLSB as SPREADSHEETML in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to SPREADSHEETML saveformat., Free Online XLSB to SPREADSHEETML Converter]
+title: C++ XLSB to SPREADSHEETML - Online XLSB to SPREADSHEETML Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to SPREADSHEETML saveformat. C++ XLSB to SPREADSHEETML format. Save XLSB to SPREADSHEETML C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SPREADSHEETML saveformat., Free Online XLSB to SPREADSHEETML C++., C++ Convert XLSB to SPREADSHEETML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

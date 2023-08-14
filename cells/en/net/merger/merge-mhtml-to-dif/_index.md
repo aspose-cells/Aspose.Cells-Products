@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DIF - Combine MHTML to DIF in C#
 url: /net/merger/merge-mhtml-to-dif/ 
-description: Aspose Excel. Free Online Merge MHTML to DIF saveformat. C# Combine MHTML to DIF format. Merge MHTML to DIF in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DIF saveformat via C#., Free Online Merge MHTML to dif in C#., C# Combine MHTML to DIF Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to DIF saveformat. C# Combine MHTML to DIF format. Merge MHTML to DIF in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DIF in C#., Free Online C# Merge MHTML to dif., C# Combine MHTML to DIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

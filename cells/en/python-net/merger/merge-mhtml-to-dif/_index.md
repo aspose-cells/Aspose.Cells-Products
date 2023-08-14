@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DIF - Combine MHTML to DIF in Python
 url: /python-net/merger/merge-mhtml-to-dif/ 
-description: Aspose Excel. Free Online Merge MHTML to DIF saveformat. Python Combine MHTML to DIF format. Merge MHTML to DIF in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to DIF saveformat via Python., Free Online Merge MHTML to dif in Python., Python Combine MHTML to DIF Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to DIF saveformat. Python Combine MHTML to DIF format. Merge MHTML to DIF in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to DIF in Python., Free Online Python Merge MHTML to dif., Python Combine MHTML to DIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

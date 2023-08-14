@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TXT - Combine JPG to TXT in C++
 url: /cpp/merger/merge-jpg-to-txt/ 
-description: Aspose Excel. Free Online Merge JPG to TXT saveformat. C++ Combine JPG to TXT format. Merge JPG to TXT in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TXT saveformat via C++., Free Online Merge JPG to txt in C++., C++ Combine JPG to TXT Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to TXT saveformat. C++ Combine JPG to TXT format. Merge JPG to TXT in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to TXT in C++., Free Online C++ Merge JPG to txt., C++ Combine JPG to TXT Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SQL - Combine EXCEL to SQL in C#
 url: /net/merger/merge-excel-to-sql/ 
-description: Aspose Excel. Free Online Merge EXCEL to SQL saveformat. C# Combine EXCEL to SQL format. Merge EXCEL to SQL in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to SQL saveformat via C#., Free Online Merge EXCEL to sql in C#., C# Combine EXCEL to SQL Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to SQL saveformat. C# Combine EXCEL to SQL format. Merge EXCEL to SQL in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to SQL in C#., Free Online C# Merge EXCEL to sql., C# Combine EXCEL to SQL Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

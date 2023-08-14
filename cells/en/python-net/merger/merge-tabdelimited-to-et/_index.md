@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ET - Combine TABDELIMITED to ET in Python
 url: /python-net/merger/merge-tabdelimited-to-et/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to ET saveformat. Python Combine TABDELIMITED to ET format. Merge TABDELIMITED to ET in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to ET saveformat via Python., Free Online Merge TABDELIMITED to et in Python., Python Combine TABDELIMITED to ET Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to ET saveformat. Python Combine TABDELIMITED to ET format. Merge TABDELIMITED to ET in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to ET in Python., Free Online Python Merge TABDELIMITED to et., Python Combine TABDELIMITED to ET Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

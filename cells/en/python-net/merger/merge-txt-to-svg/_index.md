@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SVG - Combine TXT to SVG in Python
 url: /python-net/merger/merge-txt-to-svg/ 
-description: Aspose Excel. Free Online Merge TXT to SVG saveformat. Python Combine TXT to SVG format. Merge TXT to SVG in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to SVG saveformat via Python., Free Online Merge TXT to svg in Python., Python Combine TXT to SVG Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to SVG saveformat. Python Combine TXT to SVG format. Merge TXT to SVG in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to SVG in Python., Free Online Python Merge TXT to svg., Python Combine TXT to SVG Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

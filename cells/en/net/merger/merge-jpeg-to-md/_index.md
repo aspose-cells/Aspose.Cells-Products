@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MD - Combine JPEG to MD in C#
 url: /net/merger/merge-jpeg-to-md/ 
-description: Aspose Excel. Free Online Merge JPEG to MD saveformat. C# Combine JPEG to MD format. Merge JPEG to MD in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to MD saveformat via C#., Free Online Merge JPEG to md in C#., C# Combine JPEG to MD Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to MD saveformat. C# Combine JPEG to MD format. Merge JPEG to MD in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to MD in C#., Free Online C# Merge JPEG to md., C# Combine JPEG to MD Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

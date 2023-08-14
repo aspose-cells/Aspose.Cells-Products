@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to BMP - Combine HTM to BMP in Python
 url: /python-net/merger/merge-htm-to-bmp/ 
-description: Aspose Excel. Free Online Merge HTM to BMP saveformat. Python Combine HTM to BMP format. Merge HTM to BMP in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to BMP saveformat via Python., Free Online Merge HTM to bmp in Python., Python Combine HTM to BMP Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to BMP saveformat. Python Combine HTM to BMP format. Merge HTM to BMP in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to BMP in Python., Free Online Python Merge HTM to bmp., Python Combine HTM to BMP Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

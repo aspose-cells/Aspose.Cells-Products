@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to POWERPOINT - Combine PNG to POWERPOINT in C++
 url: /cpp/merger/merge-png-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge PNG to POWERPOINT saveformat. C++ Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to POWERPOINT saveformat via C++., Free Online Merge PNG to powerpoint in C++., C++ Combine PNG to POWERPOINT Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to POWERPOINT saveformat. C++ Combine PNG to POWERPOINT format. Merge PNG to POWERPOINT in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to POWERPOINT in C++., Free Online C++ Merge PNG to powerpoint., C++ Combine PNG to POWERPOINT Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to FODS - Combine EXCEL to FODS in Java
 url: /java/merger/merge-excel-to-fods/ 
-description: Aspose Excel. Free Online Merge EXCEL to FODS saveformat. Java Combine EXCEL to FODS format. Merge EXCEL to FODS in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to FODS saveformat via Java., Free Online Merge EXCEL to fods in Java., Java Combine EXCEL to FODS Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to FODS saveformat. Java Combine EXCEL to FODS format. Merge EXCEL to FODS in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to FODS in Java., Free Online Java Merge EXCEL to fods., Java Combine EXCEL to FODS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to POWERPOINT - Combine TABDELIMITED to POWERPOINT in Python
 url: /python-net/merger/merge-tabdelimited-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to POWERPOINT saveformat. Python Combine TABDELIMITED to POWERPOINT format. Merge TABDELIMITED to POWERPOINT in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to POWERPOINT saveformat via Python., Free Online Merge TABDELIMITED to powerpoint in Python., Python Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to POWERPOINT saveformat. Python Combine TABDELIMITED to POWERPOINT format. Merge TABDELIMITED to POWERPOINT in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to POWERPOINT in Python., Free Online Python Merge TABDELIMITED to powerpoint., Python Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

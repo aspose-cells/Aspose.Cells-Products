@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to NUMBERS - Combine TSV to NUMBERS in C++
 url: /cpp/merger/merge-tsv-to-numbers/ 
-description: Aspose Excel. Free Online Merge TSV to NUMBERS saveformat. C++ Combine TSV to NUMBERS format. Merge TSV to NUMBERS in C++. TSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to NUMBERS saveformat via C++., Free Online Merge TSV to numbers in C++., C++ Combine TSV to NUMBERS Online for Free., TSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TSV to NUMBERS saveformat. C++ Combine TSV to NUMBERS format. Merge TSV to NUMBERS in C++. TSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to NUMBERS in C++., Free Online C++ Merge TSV to numbers., C++ Combine TSV to NUMBERS Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

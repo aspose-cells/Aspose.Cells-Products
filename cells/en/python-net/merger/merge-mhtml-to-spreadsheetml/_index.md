@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SPREADSHEETML - Combine MHTML to SPREADSHEETML in Python
 url: /python-net/merger/merge-mhtml-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge MHTML to SPREADSHEETML saveformat. Python Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SPREADSHEETML saveformat via Python., Free Online Merge MHTML to spreadsheetml in Python., Python Combine MHTML to SPREADSHEETML Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to SPREADSHEETML saveformat. Python Combine MHTML to SPREADSHEETML format. Merge MHTML to SPREADSHEETML in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SPREADSHEETML in Python., Free Online Python Merge MHTML to spreadsheetml., Python Combine MHTML to SPREADSHEETML Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

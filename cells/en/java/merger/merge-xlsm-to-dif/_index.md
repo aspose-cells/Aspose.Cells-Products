@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to DIF - Combine XLSM to DIF in Java
 url: /java/merger/merge-xlsm-to-dif/ 
-description: Aspose Excel. Free Online Merge XLSM to DIF saveformat. Java Combine XLSM to DIF format. Merge XLSM to DIF in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to DIF saveformat via Java., Free Online Merge XLSM to dif in Java., Java Combine XLSM to DIF Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to DIF saveformat. Java Combine XLSM to DIF format. Merge XLSM to DIF in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to DIF in Java., Free Online Java Merge XLSM to dif., Java Combine XLSM to DIF Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

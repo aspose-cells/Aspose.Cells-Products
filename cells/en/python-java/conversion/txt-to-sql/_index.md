@@ -1,7 +1,7 @@
 ---
-title: TXT to SQL - Convert TXT to SQL files Python
-description: Aspose Excel. Free Online Convert TXT to SQL saveformat. Python TXT to SQL format. Save TXT as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to SQL saveformat., Free Online TXT to SQL Converter]
+title: Python TXT to SQL - Online TXT to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to SQL saveformat. Python TXT to SQL format. Save TXT to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to SQL saveformat., Free Online TXT to SQL Python., Python Convert TXT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

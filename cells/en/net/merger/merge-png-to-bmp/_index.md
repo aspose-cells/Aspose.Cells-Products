@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to BMP - Combine PNG to BMP in C#
 url: /net/merger/merge-png-to-bmp/ 
-description: Aspose Excel. Free Online Merge PNG to BMP saveformat. C# Combine PNG to BMP format. Merge PNG to BMP in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to BMP saveformat via C#., Free Online Merge PNG to bmp in C#., C# Combine PNG to BMP Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to BMP saveformat. C# Combine PNG to BMP format. Merge PNG to BMP in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to BMP in C#., Free Online C# Merge PNG to bmp., C# Combine PNG to BMP Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

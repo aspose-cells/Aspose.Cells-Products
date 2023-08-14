@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DIF - Combine XLTM to DIF in C#
 url: /net/merger/merge-xltm-to-dif/ 
-description: Aspose Excel. Free Online Merge XLTM to DIF saveformat. C# Combine XLTM to DIF format. Merge XLTM to DIF in C#. XLTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to DIF saveformat via C#., Free Online Merge XLTM to dif in C#., C# Combine XLTM to DIF Online for Free., XLTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to DIF saveformat. C# Combine XLTM to DIF format. Merge XLTM to DIF in C#. XLTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to DIF in C#., Free Online C# Merge XLTM to dif., C# Combine XLTM to DIF Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

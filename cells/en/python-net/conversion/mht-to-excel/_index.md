@@ -1,7 +1,7 @@
 ---
-title: MHT to EXCEL - Convert MHT to EXCEL files Python
-description: Aspose Excel. Free Online Convert MHT to EXCEL saveformat. Python MHT to EXCEL format. Save MHT as EXCEL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to EXCEL saveformat., Free Online MHT to EXCEL Converter]
+title: Python MHT to EXCEL - Online MHT to EXCEL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to EXCEL saveformat. Python MHT to EXCEL format. Save MHT to EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to EXCEL saveformat., Free Online MHT to EXCEL Python., Python Convert MHT to EXCEL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

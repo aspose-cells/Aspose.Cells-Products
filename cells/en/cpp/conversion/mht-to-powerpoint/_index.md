@@ -1,7 +1,7 @@
 ---
-title: MHT to POWERPOINT - Convert MHT to POWERPOINT files C++
-description: Aspose Excel. Free Online Convert MHT to POWERPOINT saveformat. C++ MHT to POWERPOINT format. Save MHT as POWERPOINT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to POWERPOINT saveformat., Free Online MHT to POWERPOINT Converter]
+title: C++ MHT to POWERPOINT - Online MHT to POWERPOINT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to POWERPOINT saveformat. C++ MHT to POWERPOINT format. Save MHT to POWERPOINT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to POWERPOINT saveformat., Free Online MHT to POWERPOINT C++., C++ Convert MHT to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

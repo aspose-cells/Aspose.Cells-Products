@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to WORD - Combine XLT to WORD in Java
 url: /java/merger/merge-xlt-to-word/ 
-description: Aspose Excel. Free Online Merge XLT to WORD saveformat. Java Combine XLT to WORD format. Merge XLT to WORD in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to WORD saveformat via Java., Free Online Merge XLT to word in Java., Java Combine XLT to WORD Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to WORD saveformat. Java Combine XLT to WORD format. Merge XLT to WORD in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to WORD in Java., Free Online Java Merge XLT to word., Java Combine XLT to WORD Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPEG to POWERPOINT - Convert JPEG to POWERPOINT files C#
-description: Aspose Excel. Free Online Convert JPEG to POWERPOINT saveformat. C# JPEG to POWERPOINT format. Save JPEG as POWERPOINT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT Converter]
+title: C# JPEG to POWERPOINT - Online JPEG to POWERPOINT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPEG to POWERPOINT saveformat. C# JPEG to POWERPOINT format. Save JPEG to POWERPOINT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT C#., C# Convert JPEG to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

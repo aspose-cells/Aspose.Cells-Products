@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to BMP - Combine SPREADSHEETML to BMP in C++
 url: /cpp/merger/merge-spreadsheetml-to-bmp/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to BMP saveformat. C++ Combine SPREADSHEETML to BMP format. Merge SPREADSHEETML to BMP in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to BMP saveformat via C++., Free Online Merge SPREADSHEETML to bmp in C++., C++ Combine SPREADSHEETML to BMP Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to BMP saveformat. C++ Combine SPREADSHEETML to BMP format. Merge SPREADSHEETML to BMP in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to BMP in C++., Free Online C++ Merge SPREADSHEETML to bmp., C++ Combine SPREADSHEETML to BMP Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to POWERPOINT - Combine XLSB to POWERPOINT in Java
 url: /java/merger/merge-xlsb-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLSB to POWERPOINT saveformat. Java Combine XLSB to POWERPOINT format. Merge XLSB to POWERPOINT in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to POWERPOINT saveformat via Java., Free Online Merge XLSB to powerpoint in Java., Java Combine XLSB to POWERPOINT Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to POWERPOINT saveformat. Java Combine XLSB to POWERPOINT format. Merge XLSB to POWERPOINT in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to POWERPOINT in Java., Free Online Java Merge XLSB to powerpoint., Java Combine XLSB to POWERPOINT Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to XLAM - Combine FODS to XLAM in Java
 url: /java/merger/merge-fods-to-xlam/ 
-description: Aspose Excel. Free Online Merge FODS to XLAM saveformat. Java Combine FODS to XLAM format. Merge FODS to XLAM in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLAM saveformat via Java., Free Online Merge FODS to xlam in Java., Java Combine FODS to XLAM Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to XLAM saveformat. Java Combine FODS to XLAM format. Merge FODS to XLAM in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLAM in Java., Free Online Java Merge FODS to xlam., Java Combine FODS to XLAM Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to DOCX - Combine XLT to DOCX in Python
 url: /python-net/merger/merge-xlt-to-docx/ 
-description: Aspose Excel. Free Online Merge XLT to DOCX saveformat. Python Combine XLT to DOCX format. Merge XLT to DOCX in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to DOCX saveformat via Python., Free Online Merge XLT to docx in Python., Python Combine XLT to DOCX Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to DOCX saveformat. Python Combine XLT to DOCX format. Merge XLT to DOCX in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to DOCX in Python., Free Online Python Merge XLT to docx., Python Combine XLT to DOCX Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

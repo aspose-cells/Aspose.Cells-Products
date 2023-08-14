@@ -1,7 +1,7 @@
 ---
-title: TXT to DIF - Convert TXT to DIF files Java
-description: Aspose Excel. Free Online Convert TXT to DIF saveformat. Java TXT to DIF format. Save TXT as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to DIF saveformat., Free Online TXT to DIF Converter]
+title: Java TXT to DIF - Online TXT to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to DIF saveformat. Java TXT to DIF format. Save TXT to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to DIF saveformat., Free Online TXT to DIF Java., Java Convert TXT to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

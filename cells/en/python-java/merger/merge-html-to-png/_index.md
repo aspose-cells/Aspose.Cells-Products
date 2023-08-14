@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PNG - Combine HTML to PNG in Python
 url: /python-java/merger/merge-html-to-png/ 
-description: Aspose Excel. Free Online Merge HTML to PNG saveformat. Python Combine HTML to PNG format. Merge HTML to PNG in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PNG saveformat via Python., Free Online Merge HTML to png in Python., Python Combine HTML to PNG Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to PNG saveformat. Python Combine HTML to PNG format. Merge HTML to PNG in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PNG in Python., Free Online Python Merge HTML to png., Python Combine HTML to PNG Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

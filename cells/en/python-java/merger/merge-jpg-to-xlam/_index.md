@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XLAM - Combine JPG to XLAM in Python
 url: /python-java/merger/merge-jpg-to-xlam/ 
-description: Aspose Excel. Free Online Merge JPG to XLAM saveformat. Python Combine JPG to XLAM format. Merge JPG to XLAM in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to XLAM saveformat via Python., Free Online Merge JPG to xlam in Python., Python Combine JPG to XLAM Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to XLAM saveformat. Python Combine JPG to XLAM format. Merge JPG to XLAM in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to XLAM in Python., Free Online Python Merge JPG to xlam., Python Combine JPG to XLAM Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

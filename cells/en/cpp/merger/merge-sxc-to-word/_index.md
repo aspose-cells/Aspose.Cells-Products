@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to WORD - Combine SXC to WORD in C++
 url: /cpp/merger/merge-sxc-to-word/ 
-description: Aspose Excel. Free Online Merge SXC to WORD saveformat. C++ Combine SXC to WORD format. Merge SXC to WORD in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to WORD saveformat via C++., Free Online Merge SXC to word in C++., C++ Combine SXC to WORD Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to WORD saveformat. C++ Combine SXC to WORD format. Merge SXC to WORD in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to WORD in C++., Free Online C++ Merge SXC to word., C++ Combine SXC to WORD Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

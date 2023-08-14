@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to DIF - Combine XLSX to DIF in C++
 url: /cpp/merger/merge-xlsx-to-dif/ 
-description: Aspose Excel. Free Online Merge XLSX to DIF saveformat. C++ Combine XLSX to DIF format. Merge XLSX to DIF in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to DIF saveformat via C++., Free Online Merge XLSX to dif in C++., C++ Combine XLSX to DIF Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to DIF saveformat. C++ Combine XLSX to DIF format. Merge XLSX to DIF in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to DIF in C++., Free Online C++ Merge XLSX to dif., C++ Combine XLSX to DIF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

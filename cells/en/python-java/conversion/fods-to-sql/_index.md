@@ -1,7 +1,7 @@
 ---
-title: FODS to SQL - Convert FODS to SQL files Python
-description: Aspose Excel. Free Online Convert FODS to SQL saveformat. Python FODS to SQL format. Save FODS as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to SQL saveformat., Free Online FODS to SQL Converter]
+title: Python FODS to SQL - Online FODS to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert FODS to SQL saveformat. Python FODS to SQL format. Save FODS to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to SQL saveformat., Free Online FODS to SQL Python., Python Convert FODS to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

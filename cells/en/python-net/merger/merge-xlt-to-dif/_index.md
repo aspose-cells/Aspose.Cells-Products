@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to DIF - Combine XLT to DIF in Python
 url: /python-net/merger/merge-xlt-to-dif/ 
-description: Aspose Excel. Free Online Merge XLT to DIF saveformat. Python Combine XLT to DIF format. Merge XLT to DIF in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to DIF saveformat via Python., Free Online Merge XLT to dif in Python., Python Combine XLT to DIF Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to DIF saveformat. Python Combine XLT to DIF format. Merge XLT to DIF in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to DIF in Python., Free Online Python Merge XLT to dif., Python Combine XLT to DIF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

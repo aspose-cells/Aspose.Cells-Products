@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to EMF - Combine MHT to EMF in Java
 url: /java/merger/merge-mht-to-emf/ 
-description: Aspose Excel. Free Online Merge MHT to EMF saveformat. Java Combine MHT to EMF format. Merge MHT to EMF in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to EMF saveformat via Java., Free Online Merge MHT to emf in Java., Java Combine MHT to EMF Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to EMF saveformat. Java Combine MHT to EMF format. Merge MHT to EMF in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to EMF in Java., Free Online Java Merge MHT to emf., Java Combine MHT to EMF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

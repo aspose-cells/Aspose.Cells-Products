@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to GIF - Combine HTM to GIF in C++
 url: /cpp/merger/merge-htm-to-gif/ 
-description: Aspose Excel. Free Online Merge HTM to GIF saveformat. C++ Combine HTM to GIF format. Merge HTM to GIF in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to GIF saveformat via C++., Free Online Merge HTM to gif in C++., C++ Combine HTM to GIF Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to GIF saveformat. C++ Combine HTM to GIF format. Merge HTM to GIF in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to GIF in C++., Free Online C++ Merge HTM to gif., C++ Combine HTM to GIF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

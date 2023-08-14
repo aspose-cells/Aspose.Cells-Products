@@ -1,7 +1,7 @@
 ---
-title: XLSB to JSON - Convert XLSB to JSON files Java
-description: Aspose Excel. Free Online Convert XLSB to JSON saveformat. Java XLSB to JSON format. Save XLSB as JSON in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to JSON saveformat., Free Online XLSB to JSON Converter]
+title: Java XLSB to JSON - Online XLSB to JSON Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLSB to JSON saveformat. Java XLSB to JSON format. Save XLSB to JSON Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLSB to JSON saveformat., Free Online XLSB to JSON Java., Java Convert XLSB to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TABDELIMITED - Combine ODS to TABDELIMITED in C++
 url: /cpp/merger/merge-ods-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge ODS to TABDELIMITED saveformat. C++ Combine ODS to TABDELIMITED format. Merge ODS to TABDELIMITED in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to TABDELIMITED saveformat via C++., Free Online Merge ODS to tabdelimited in C++., C++ Combine ODS to TABDELIMITED Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to TABDELIMITED saveformat. C++ Combine ODS to TABDELIMITED format. Merge ODS to TABDELIMITED in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to TABDELIMITED in C++., Free Online C++ Merge ODS to tabdelimited., C++ Combine ODS to TABDELIMITED Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

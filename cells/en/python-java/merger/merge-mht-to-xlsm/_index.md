@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLSM - Combine MHT to XLSM in Python
 url: /python-java/merger/merge-mht-to-xlsm/ 
-description: Aspose Excel. Free Online Merge MHT to XLSM saveformat. Python Combine MHT to XLSM format. Merge MHT to XLSM in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLSM saveformat via Python., Free Online Merge MHT to xlsm in Python., Python Combine MHT to XLSM Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to XLSM saveformat. Python Combine MHT to XLSM format. Merge MHT to XLSM in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to XLSM in Python., Free Online Python Merge MHT to xlsm., Python Combine MHT to XLSM Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

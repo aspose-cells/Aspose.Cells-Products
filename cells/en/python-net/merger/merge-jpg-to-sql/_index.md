@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SQL - Combine JPG to SQL in Python
 url: /python-net/merger/merge-jpg-to-sql/ 
-description: Aspose Excel. Free Online Merge JPG to SQL saveformat. Python Combine JPG to SQL format. Merge JPG to SQL in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to SQL saveformat via Python., Free Online Merge JPG to sql in Python., Python Combine JPG to SQL Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to SQL saveformat. Python Combine JPG to SQL format. Merge JPG to SQL in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to SQL in Python., Free Online Python Merge JPG to sql., Python Combine JPG to SQL Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

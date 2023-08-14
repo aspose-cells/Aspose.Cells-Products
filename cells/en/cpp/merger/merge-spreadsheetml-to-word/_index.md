@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to WORD - Combine SPREADSHEETML to WORD in C++
 url: /cpp/merger/merge-spreadsheetml-to-word/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to WORD saveformat. C++ Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to WORD saveformat via C++., Free Online Merge SPREADSHEETML to word in C++., C++ Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to WORD saveformat. C++ Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to WORD in C++., Free Online C++ Merge SPREADSHEETML to word., C++ Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

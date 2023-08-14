@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DIF - Combine CSV to DIF in C++
 url: /cpp/merger/merge-csv-to-dif/ 
-description: Aspose Excel. Free Online Merge CSV to DIF saveformat. C++ Combine CSV to DIF format. Merge CSV to DIF in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to DIF saveformat via C++., Free Online Merge CSV to dif in C++., C++ Combine CSV to DIF Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to DIF saveformat. C++ Combine CSV to DIF format. Merge CSV to DIF in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to DIF in C++., Free Online C++ Merge CSV to dif., C++ Combine CSV to DIF Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to TIFF - Combine CSV to TIFF in Python
 url: /python-java/merger/merge-csv-to-tiff/ 
-description: Aspose Excel. Free Online Merge CSV to TIFF saveformat. Python Combine CSV to TIFF format. Merge CSV to TIFF in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF saveformat via Python., Free Online Merge CSV to tiff in Python., Python Combine CSV to TIFF Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to TIFF saveformat. Python Combine CSV to TIFF format. Merge CSV to TIFF in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to TIFF in Python., Free Online Python Merge CSV to tiff., Python Combine CSV to TIFF Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

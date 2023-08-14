@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MD - Combine IMAGE to MD in C++
 url: /cpp/merger/merge-image-to-md/ 
-description: Aspose Excel. Free Online Merge IMAGE to MD saveformat. C++ Combine IMAGE to MD format. Merge IMAGE to MD in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to MD saveformat via C++., Free Online Merge IMAGE to md in C++., C++ Combine IMAGE to MD Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to MD saveformat. C++ Combine IMAGE to MD format. Merge IMAGE to MD in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to MD in C++., Free Online C++ Merge IMAGE to md., C++ Combine IMAGE to MD Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

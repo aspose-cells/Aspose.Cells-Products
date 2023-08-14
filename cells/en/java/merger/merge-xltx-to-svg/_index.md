@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SVG - Combine XLTX to SVG in Java
 url: /java/merger/merge-xltx-to-svg/ 
-description: Aspose Excel. Free Online Merge XLTX to SVG saveformat. Java Combine XLTX to SVG format. Merge XLTX to SVG in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to SVG saveformat via Java., Free Online Merge XLTX to svg in Java., Java Combine XLTX to SVG Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to SVG saveformat. Java Combine XLTX to SVG format. Merge XLTX to SVG in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to SVG in Java., Free Online Java Merge XLTX to svg., Java Combine XLTX to SVG Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to BMP - Combine MHTML to BMP in Python
 url: /python-net/merger/merge-mhtml-to-bmp/ 
-description: Aspose Excel. Free Online Merge MHTML to BMP saveformat. Python Combine MHTML to BMP format. Merge MHTML to BMP in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to BMP saveformat via Python., Free Online Merge MHTML to bmp in Python., Python Combine MHTML to BMP Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to BMP saveformat. Python Combine MHTML to BMP format. Merge MHTML to BMP in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to BMP in Python., Free Online Python Merge MHTML to bmp., Python Combine MHTML to BMP Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

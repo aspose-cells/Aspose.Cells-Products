@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to TXT - Combine JSON to TXT in C++
 url: /cpp/merger/merge-json-to-txt/ 
-description: Aspose Excel. Free Online Merge JSON to TXT saveformat. C++ Combine JSON to TXT format. Merge JSON to TXT in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to TXT saveformat via C++., Free Online Merge JSON to txt in C++., C++ Combine JSON to TXT Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to TXT saveformat. C++ Combine JSON to TXT format. Merge JSON to TXT in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to TXT in C++., Free Online C++ Merge JSON to txt., C++ Combine JSON to TXT Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

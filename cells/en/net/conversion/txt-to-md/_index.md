@@ -1,7 +1,7 @@
 ---
-title: TXT to MD - Convert TXT to MD files C#
-description: Aspose Excel. Free Online Convert TXT to MD saveformat. C# TXT to MD format. Save TXT as MD in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to MD saveformat., Free Online TXT to MD Converter]
+title: C# TXT to MD - Online TXT to MD Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to MD saveformat. C# TXT to MD format. Save TXT to MD C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to MD saveformat., Free Online TXT to MD C#., C# Convert TXT to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

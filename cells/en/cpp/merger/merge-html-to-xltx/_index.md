@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLTX - Combine HTML to XLTX in C++
 url: /cpp/merger/merge-html-to-xltx/ 
-description: Aspose Excel. Free Online Merge HTML to XLTX saveformat. C++ Combine HTML to XLTX format. Merge HTML to XLTX in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to XLTX saveformat via C++., Free Online Merge HTML to xltx in C++., C++ Combine HTML to XLTX Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to XLTX saveformat. C++ Combine HTML to XLTX format. Merge HTML to XLTX in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to XLTX in C++., Free Online C++ Merge HTML to xltx., C++ Combine HTML to XLTX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

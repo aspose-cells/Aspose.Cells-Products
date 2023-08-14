@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLAM - Combine NUMBERS to XLAM in Java
 url: /java/merger/merge-numbers-to-xlam/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLAM saveformat. Java Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLAM saveformat via Java., Free Online Merge NUMBERS to xlam in Java., Java Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XLAM saveformat. Java Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XLAM in Java., Free Online Java Merge NUMBERS to xlam., Java Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

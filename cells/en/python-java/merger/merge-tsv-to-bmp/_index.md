@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to BMP - Combine TSV to BMP in Python
 url: /python-java/merger/merge-tsv-to-bmp/ 
-description: Aspose Excel. Free Online Merge TSV to BMP saveformat. Python Combine TSV to BMP format. Merge TSV to BMP in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to BMP saveformat via Python., Free Online Merge TSV to bmp in Python., Python Combine TSV to BMP Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to BMP saveformat. Python Combine TSV to BMP format. Merge TSV to BMP in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to BMP in Python., Free Online Python Merge TSV to bmp., Python Combine TSV to BMP Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

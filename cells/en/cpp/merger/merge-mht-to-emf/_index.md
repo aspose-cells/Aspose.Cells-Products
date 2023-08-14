@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to EMF - Combine MHT to EMF in C++
 url: /cpp/merger/merge-mht-to-emf/ 
-description: Aspose Excel. Free Online Merge MHT to EMF saveformat. C++ Combine MHT to EMF format. Merge MHT to EMF in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to EMF saveformat via C++., Free Online Merge MHT to emf in C++., C++ Combine MHT to EMF Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to EMF saveformat. C++ Combine MHT to EMF format. Merge MHT to EMF in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to EMF in C++., Free Online C++ Merge MHT to emf., C++ Combine MHT to EMF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

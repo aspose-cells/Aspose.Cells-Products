@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XPS - Combine XLSB to XPS in Java
 url: /java/merger/merge-xlsb-to-xps/ 
-description: Aspose Excel. Free Online Merge XLSB to XPS saveformat. Java Combine XLSB to XPS format. Merge XLSB to XPS in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to XPS saveformat via Java., Free Online Merge XLSB to xps in Java., Java Combine XLSB to XPS Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to XPS saveformat. Java Combine XLSB to XPS format. Merge XLSB to XPS in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to XPS in Java., Free Online Java Merge XLSB to xps., Java Combine XLSB to XPS Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

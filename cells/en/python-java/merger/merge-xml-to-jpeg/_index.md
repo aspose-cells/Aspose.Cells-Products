@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JPEG - Combine XML to JPEG in Python
 url: /python-java/merger/merge-xml-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XML to JPEG saveformat. Python Combine XML to JPEG format. Merge XML to JPEG in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to JPEG saveformat via Python., Free Online Merge XML to jpeg in Python., Python Combine XML to JPEG Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to JPEG saveformat. Python Combine XML to JPEG format. Merge XML to JPEG in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to JPEG in Python., Free Online Python Merge XML to jpeg., Python Combine XML to JPEG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

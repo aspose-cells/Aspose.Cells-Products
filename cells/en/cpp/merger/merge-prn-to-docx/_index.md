@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DOCX - Combine PRN to DOCX in C++
 url: /cpp/merger/merge-prn-to-docx/ 
-description: Aspose Excel. Free Online Merge PRN to DOCX saveformat. C++ Combine PRN to DOCX format. Merge PRN to DOCX in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to DOCX saveformat via C++., Free Online Merge PRN to docx in C++., C++ Combine PRN to DOCX Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to DOCX saveformat. C++ Combine PRN to DOCX format. Merge PRN to DOCX in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to DOCX in C++., Free Online C++ Merge PRN to docx., C++ Combine PRN to DOCX Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

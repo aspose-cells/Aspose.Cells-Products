@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to FODS - Combine MHT to FODS in Python
 url: /python-java/merger/merge-mht-to-fods/ 
-description: Aspose Excel. Free Online Merge MHT to FODS saveformat. Python Combine MHT to FODS format. Merge MHT to FODS in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to FODS saveformat via Python., Free Online Merge MHT to fods in Python., Python Combine MHT to FODS Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to FODS saveformat. Python Combine MHT to FODS format. Merge MHT to FODS in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to FODS in Python., Free Online Python Merge MHT to fods., Python Combine MHT to FODS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

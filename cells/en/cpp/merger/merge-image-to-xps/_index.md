@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XPS - Combine IMAGE to XPS in C++
 url: /cpp/merger/merge-image-to-xps/ 
-description: Aspose Excel. Free Online Merge IMAGE to XPS saveformat. C++ Combine IMAGE to XPS format. Merge IMAGE to XPS in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XPS saveformat via C++., Free Online Merge IMAGE to xps in C++., C++ Combine IMAGE to XPS Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to XPS saveformat. C++ Combine IMAGE to XPS format. Merge IMAGE to XPS in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XPS in C++., Free Online C++ Merge IMAGE to xps., C++ Combine IMAGE to XPS Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

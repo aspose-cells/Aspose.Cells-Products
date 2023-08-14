@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to WORD - Combine XLSB to WORD in Python
 url: /python-java/merger/merge-xlsb-to-word/ 
-description: Aspose Excel. Free Online Merge XLSB to WORD saveformat. Python Combine XLSB to WORD format. Merge XLSB to WORD in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to WORD saveformat via Python., Free Online Merge XLSB to word in Python., Python Combine XLSB to WORD Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to WORD saveformat. Python Combine XLSB to WORD format. Merge XLSB to WORD in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to WORD in Python., Free Online Python Merge XLSB to word., Python Combine XLSB to WORD Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

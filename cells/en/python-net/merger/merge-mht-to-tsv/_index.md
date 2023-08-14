@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to TSV - Combine MHT to TSV in Python
 url: /python-net/merger/merge-mht-to-tsv/ 
-description: Aspose Excel. Free Online Merge MHT to TSV saveformat. Python Combine MHT to TSV format. Merge MHT to TSV in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to TSV saveformat via Python., Free Online Merge MHT to tsv in Python., Python Combine MHT to TSV Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to TSV saveformat. Python Combine MHT to TSV format. Merge MHT to TSV in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to TSV in Python., Free Online Python Merge MHT to tsv., Python Combine MHT to TSV Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

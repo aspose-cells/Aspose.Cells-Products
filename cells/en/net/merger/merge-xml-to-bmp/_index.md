@@ -1,8 +1,8 @@
 ---
 title: Merge XML to BMP - Combine XML to BMP in C#
 url: /net/merger/merge-xml-to-bmp/ 
-description: Aspose Excel. Free Online Merge XML to BMP saveformat. C# Combine XML to BMP format. Merge XML to BMP in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to BMP saveformat via C#., Free Online Merge XML to bmp in C#., C# Combine XML to BMP Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to BMP saveformat. C# Combine XML to BMP format. Merge XML to BMP in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to BMP in C#., Free Online C# Merge XML to bmp., C# Combine XML to BMP Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

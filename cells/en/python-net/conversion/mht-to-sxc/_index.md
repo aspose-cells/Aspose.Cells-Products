@@ -1,7 +1,7 @@
 ---
-title: MHT to SXC - Convert MHT to SXC files Python
-description: Aspose Excel. Free Online Convert MHT to SXC saveformat. Python MHT to SXC format. Save MHT as SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to SXC saveformat., Free Online MHT to SXC Converter]
+title: Python MHT to SXC - Online MHT to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to SXC saveformat. Python MHT to SXC format. Save MHT to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to SXC saveformat., Free Online MHT to SXC Python., Python Convert MHT to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

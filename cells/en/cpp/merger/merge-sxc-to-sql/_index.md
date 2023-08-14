@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SQL - Combine SXC to SQL in C++
 url: /cpp/merger/merge-sxc-to-sql/ 
-description: Aspose Excel. Free Online Merge SXC to SQL saveformat. C++ Combine SXC to SQL format. Merge SXC to SQL in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to SQL saveformat via C++., Free Online Merge SXC to sql in C++., C++ Combine SXC to SQL Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to SQL saveformat. C++ Combine SXC to SQL format. Merge SXC to SQL in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to SQL in C++., Free Online C++ Merge SXC to sql., C++ Combine SXC to SQL Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

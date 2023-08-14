@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLSM - Combine PNG to XLSM in Java
 url: /java/merger/merge-png-to-xlsm/ 
-description: Aspose Excel. Free Online Merge PNG to XLSM saveformat. Java Combine PNG to XLSM format. Merge PNG to XLSM in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSM saveformat via Java., Free Online Merge PNG to xlsm in Java., Java Combine PNG to XLSM Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XLSM saveformat. Java Combine PNG to XLSM format. Merge PNG to XLSM in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLSM in Java., Free Online Java Merge PNG to xlsm., Java Combine PNG to XLSM Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

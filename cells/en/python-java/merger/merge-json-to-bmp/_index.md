@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to BMP - Combine JSON to BMP in Python
 url: /python-java/merger/merge-json-to-bmp/ 
-description: Aspose Excel. Free Online Merge JSON to BMP saveformat. Python Combine JSON to BMP format. Merge JSON to BMP in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to BMP saveformat via Python., Free Online Merge JSON to bmp in Python., Python Combine JSON to BMP Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to BMP saveformat. Python Combine JSON to BMP format. Merge JSON to BMP in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to BMP in Python., Free Online Python Merge JSON to bmp., Python Combine JSON to BMP Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

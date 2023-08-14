@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PPTX - Combine TXT to PPTX in Java
 url: /java/merger/merge-txt-to-pptx/ 
-description: Aspose Excel. Free Online Merge TXT to PPTX saveformat. Java Combine TXT to PPTX format. Merge TXT to PPTX in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to PPTX saveformat via Java., Free Online Merge TXT to pptx in Java., Java Combine TXT to PPTX Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to PPTX saveformat. Java Combine TXT to PPTX format. Merge TXT to PPTX in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to PPTX in Java., Free Online Java Merge TXT to pptx., Java Combine TXT to PPTX Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to TIFF - Combine XML to TIFF in Python
 url: /python-java/merger/merge-xml-to-tiff/ 
-description: Aspose Excel. Free Online Merge XML to TIFF saveformat. Python Combine XML to TIFF format. Merge XML to TIFF in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to TIFF saveformat via Python., Free Online Merge XML to tiff in Python., Python Combine XML to TIFF Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to TIFF saveformat. Python Combine XML to TIFF format. Merge XML to TIFF in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to TIFF in Python., Free Online Python Merge XML to tiff., Python Combine XML to TIFF Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

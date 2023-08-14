@@ -1,8 +1,8 @@
 ---
 title: Merge XML to DOCX - Combine XML to DOCX in Java
 url: /java/merger/merge-xml-to-docx/ 
-description: Aspose Excel. Free Online Merge XML to DOCX saveformat. Java Combine XML to DOCX format. Merge XML to DOCX in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to DOCX saveformat via Java., Free Online Merge XML to docx in Java., Java Combine XML to DOCX Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to DOCX saveformat. Java Combine XML to DOCX format. Merge XML to DOCX in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to DOCX in Java., Free Online Java Merge XML to docx., Java Combine XML to DOCX Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

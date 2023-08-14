@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to MD - Combine JPEG to MD in Python
 url: /python-net/merger/merge-jpeg-to-md/ 
-description: Aspose Excel. Free Online Merge JPEG to MD saveformat. Python Combine JPEG to MD format. Merge JPEG to MD in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MD saveformat via Python., Free Online Merge JPEG to md in Python., Python Combine JPEG to MD Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to MD saveformat. Python Combine JPEG to MD format. Merge JPEG to MD in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to MD in Python., Free Online Python Merge JPEG to md., Python Combine JPEG to MD Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

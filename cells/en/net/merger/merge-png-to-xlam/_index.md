@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLAM - Combine PNG to XLAM in C#
 url: /net/merger/merge-png-to-xlam/ 
-description: Aspose Excel. Free Online Merge PNG to XLAM saveformat. C# Combine PNG to XLAM format. Merge PNG to XLAM in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to XLAM saveformat via C#., Free Online Merge PNG to xlam in C#., C# Combine PNG to XLAM Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to XLAM saveformat. C# Combine PNG to XLAM format. Merge PNG to XLAM in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to XLAM in C#., Free Online C# Merge PNG to xlam., C# Combine PNG to XLAM Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

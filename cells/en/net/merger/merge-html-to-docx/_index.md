@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DOCX - Combine HTML to DOCX in C#
 url: /net/merger/merge-html-to-docx/ 
-description: Aspose Excel. Free Online Merge HTML to DOCX saveformat. C# Combine HTML to DOCX format. Merge HTML to DOCX in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to DOCX saveformat via C#., Free Online Merge HTML to docx in C#., C# Combine HTML to DOCX Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to DOCX saveformat. C# Combine HTML to DOCX format. Merge HTML to DOCX in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to DOCX in C#., Free Online C# Merge HTML to docx., C# Combine HTML to DOCX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

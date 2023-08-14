@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to SQL - Combine CSV to SQL in Java
 url: /java/merger/merge-csv-to-sql/ 
-description: Aspose Excel. Free Online Merge CSV to SQL saveformat. Java Combine CSV to SQL format. Merge CSV to SQL in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to SQL saveformat via Java., Free Online Merge CSV to sql in Java., Java Combine CSV to SQL Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to SQL saveformat. Java Combine CSV to SQL format. Merge CSV to SQL in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to SQL in Java., Free Online Java Merge CSV to sql., Java Combine CSV to SQL Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

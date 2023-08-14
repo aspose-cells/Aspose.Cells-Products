@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to JSON - Combine EXCEL to JSON in C#
 url: /net/merger/merge-excel-to-json/ 
-description: Aspose Excel. Free Online Merge EXCEL to JSON saveformat. C# Combine EXCEL to JSON format. Merge EXCEL to JSON in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to JSON saveformat via C#., Free Online Merge EXCEL to json in C#., C# Combine EXCEL to JSON Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to JSON saveformat. C# Combine EXCEL to JSON format. Merge EXCEL to JSON in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to JSON in C#., Free Online C# Merge EXCEL to json., C# Combine EXCEL to JSON Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

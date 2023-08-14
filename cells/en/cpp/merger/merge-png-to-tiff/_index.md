@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TIFF - Combine PNG to TIFF in C++
 url: /cpp/merger/merge-png-to-tiff/ 
-description: Aspose Excel. Free Online Merge PNG to TIFF saveformat. C++ Combine PNG to TIFF format. Merge PNG to TIFF in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to TIFF saveformat via C++., Free Online Merge PNG to tiff in C++., C++ Combine PNG to TIFF Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to TIFF saveformat. C++ Combine PNG to TIFF format. Merge PNG to TIFF in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to TIFF in C++., Free Online C++ Merge PNG to tiff., C++ Combine PNG to TIFF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

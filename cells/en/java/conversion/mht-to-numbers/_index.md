@@ -1,7 +1,7 @@
 ---
-title: MHT to NUMBERS - Convert MHT to NUMBERS files Java
-description: Aspose Excel. Free Online Convert MHT to NUMBERS saveformat. Java MHT to NUMBERS format. Save MHT as NUMBERS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to NUMBERS saveformat., Free Online MHT to NUMBERS Converter]
+title: Java MHT to NUMBERS - Online MHT to NUMBERS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to NUMBERS saveformat. Java MHT to NUMBERS format. Save MHT to NUMBERS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to NUMBERS saveformat., Free Online MHT to NUMBERS Java., Java Convert MHT to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

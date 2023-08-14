@@ -1,7 +1,7 @@
 ---
-title: MHTML to TXT - Convert MHTML to TXT files Java
-description: Aspose Excel. Free Online Convert MHTML to TXT saveformat. Java MHTML to TXT format. Save MHTML as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to TXT saveformat., Free Online MHTML to TXT Converter]
+title: Java MHTML to TXT - Online MHTML to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to TXT saveformat. Java MHTML to TXT format. Save MHTML to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to TXT saveformat., Free Online MHTML to TXT Java., Java Convert MHTML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

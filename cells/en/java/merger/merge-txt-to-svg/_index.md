@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SVG - Combine TXT to SVG in Java
 url: /java/merger/merge-txt-to-svg/ 
-description: Aspose Excel. Free Online Merge TXT to SVG saveformat. Java Combine TXT to SVG format. Merge TXT to SVG in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to SVG saveformat via Java., Free Online Merge TXT to svg in Java., Java Combine TXT to SVG Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to SVG saveformat. Java Combine TXT to SVG format. Merge TXT to SVG in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to SVG in Java., Free Online Java Merge TXT to svg., Java Combine TXT to SVG Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SXC - Combine ODS to SXC in C++
 url: /cpp/merger/merge-ods-to-sxc/ 
-description: Aspose Excel. Free Online Merge ODS to SXC saveformat. C++ Combine ODS to SXC format. Merge ODS to SXC in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to SXC saveformat via C++., Free Online Merge ODS to sxc in C++., C++ Combine ODS to SXC Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to SXC saveformat. C++ Combine ODS to SXC format. Merge ODS to SXC in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to SXC in C++., Free Online C++ Merge ODS to sxc., C++ Combine ODS to SXC Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to ETT - Combine JPG to ETT in C++
 url: /cpp/merger/merge-jpg-to-ett/ 
-description: Aspose Excel. Free Online Merge JPG to ETT saveformat. C++ Combine JPG to ETT format. Merge JPG to ETT in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to ETT saveformat via C++., Free Online Merge JPG to ett in C++., C++ Combine JPG to ETT Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to ETT saveformat. C++ Combine JPG to ETT format. Merge JPG to ETT in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to ETT in C++., Free Online C++ Merge JPG to ett., C++ Combine JPG to ETT Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

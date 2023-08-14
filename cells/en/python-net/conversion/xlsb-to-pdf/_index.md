@@ -1,7 +1,7 @@
 ---
-title: XLSB to PDF - Convert XLSB to PDF files Python
-description: Aspose Excel. Free Online Convert XLSB to PDF saveformat. Python XLSB to PDF format. Save XLSB as PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to PDF saveformat., Free Online XLSB to PDF Converter]
+title: Python XLSB to PDF - Online XLSB to PDF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSB to PDF saveformat. Python XLSB to PDF format. Save XLSB to PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to PDF saveformat., Free Online XLSB to PDF Python., Python Convert XLSB to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

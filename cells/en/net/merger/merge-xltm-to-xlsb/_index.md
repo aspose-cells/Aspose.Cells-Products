@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to XLSB - Combine XLTM to XLSB in C#
 url: /net/merger/merge-xltm-to-xlsb/ 
-description: Aspose Excel. Free Online Merge XLTM to XLSB saveformat. C# Combine XLTM to XLSB format. Merge XLTM to XLSB in C#. XLTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to XLSB saveformat via C#., Free Online Merge XLTM to xlsb in C#., C# Combine XLTM to XLSB Online for Free., XLTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTM to XLSB saveformat. C# Combine XLTM to XLSB format. Merge XLTM to XLSB in C#. XLTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to XLSB in C#., Free Online C# Merge XLTM to xlsb., C# Combine XLTM to XLSB Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

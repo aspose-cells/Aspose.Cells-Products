@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XPS - Combine MHTML to XPS in Python
 url: /python-java/merger/merge-mhtml-to-xps/ 
-description: Aspose Excel. Free Online Merge MHTML to XPS saveformat. Python Combine MHTML to XPS format. Merge MHTML to XPS in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XPS saveformat via Python., Free Online Merge MHTML to xps in Python., Python Combine MHTML to XPS Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to XPS saveformat. Python Combine MHTML to XPS format. Merge MHTML to XPS in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XPS in Python., Free Online Python Merge MHTML to xps., Python Combine MHTML to XPS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

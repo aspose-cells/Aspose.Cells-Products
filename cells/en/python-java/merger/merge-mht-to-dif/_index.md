@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to DIF - Combine MHT to DIF in Python
 url: /python-java/merger/merge-mht-to-dif/ 
-description: Aspose Excel. Free Online Merge MHT to DIF saveformat. Python Combine MHT to DIF format. Merge MHT to DIF in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to DIF saveformat via Python., Free Online Merge MHT to dif in Python., Python Combine MHT to DIF Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to DIF saveformat. Python Combine MHT to DIF format. Merge MHT to DIF in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to DIF in Python., Free Online Python Merge MHT to dif., Python Combine MHT to DIF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

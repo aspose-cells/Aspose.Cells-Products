@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to PPTX - Combine XLSB to PPTX in C#
 url: /net/merger/merge-xlsb-to-pptx/ 
-description: Aspose Excel. Free Online Merge XLSB to PPTX saveformat. C# Combine XLSB to PPTX format. Merge XLSB to PPTX in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to PPTX saveformat via C#., Free Online Merge XLSB to pptx in C#., C# Combine XLSB to PPTX Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to PPTX saveformat. C# Combine XLSB to PPTX format. Merge XLSB to PPTX in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to PPTX in C#., Free Online C# Merge XLSB to pptx., C# Combine XLSB to PPTX Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to BMP - Combine TABDELIMITED to BMP in C++
 url: /cpp/merger/merge-tabdelimited-to-bmp/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to BMP saveformat. C++ Combine TABDELIMITED to BMP format. Merge TABDELIMITED to BMP in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to BMP saveformat via C++., Free Online Merge TABDELIMITED to bmp in C++., C++ Combine TABDELIMITED to BMP Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to BMP saveformat. C++ Combine TABDELIMITED to BMP format. Merge TABDELIMITED to BMP in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to BMP in C++., Free Online C++ Merge TABDELIMITED to bmp., C++ Combine TABDELIMITED to BMP Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

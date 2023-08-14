@@ -1,7 +1,7 @@
 ---
-title: TXT to SXC - Convert TXT to SXC files C++
-description: Aspose Excel. Free Online Convert TXT to SXC saveformat. C++ TXT to SXC format. Save TXT as SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to SXC saveformat., Free Online TXT to SXC Converter]
+title: C++ TXT to SXC - Online TXT to SXC Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TXT to SXC saveformat. C++ TXT to SXC format. Save TXT to SXC C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TXT to SXC saveformat., Free Online TXT to SXC C++., C++ Convert TXT to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

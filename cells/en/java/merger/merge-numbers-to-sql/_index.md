@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to SQL - Combine NUMBERS to SQL in Java
 url: /java/merger/merge-numbers-to-sql/ 
-description: Aspose Excel. Free Online Merge NUMBERS to SQL saveformat. Java Combine NUMBERS to SQL format. Merge NUMBERS to SQL in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SQL saveformat via Java., Free Online Merge NUMBERS to sql in Java., Java Combine NUMBERS to SQL Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to SQL saveformat. Java Combine NUMBERS to SQL format. Merge NUMBERS to SQL in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to SQL in Java., Free Online Java Merge NUMBERS to sql., Java Combine NUMBERS to SQL Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

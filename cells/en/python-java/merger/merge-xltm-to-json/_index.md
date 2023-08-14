@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to JSON - Combine XLTM to JSON in Python
 url: /python-java/merger/merge-xltm-to-json/ 
-description: Aspose Excel. Free Online Merge XLTM to JSON saveformat. Python Combine XLTM to JSON format. Merge XLTM to JSON in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to JSON saveformat via Python., Free Online Merge XLTM to json in Python., Python Combine XLTM to JSON Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to JSON saveformat. Python Combine XLTM to JSON format. Merge XLTM to JSON in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to JSON in Python., Free Online Python Merge XLTM to json., Python Combine XLTM to JSON Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

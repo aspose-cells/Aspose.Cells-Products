@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to ET - Combine IMAGE to ET in Python
 url: /python-java/merger/merge-image-to-et/ 
-description: Aspose Excel. Free Online Merge IMAGE to ET saveformat. Python Combine IMAGE to ET format. Merge IMAGE to ET in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to ET saveformat via Python., Free Online Merge IMAGE to et in Python., Python Combine IMAGE to ET Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to ET saveformat. Python Combine IMAGE to ET format. Merge IMAGE to ET in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to ET in Python., Free Online Python Merge IMAGE to et., Python Combine IMAGE to ET Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLSB - Combine JSON to XLSB in Java
 url: /java/merger/merge-json-to-xlsb/ 
-description: Aspose Excel. Free Online Merge JSON to XLSB saveformat. Java Combine JSON to XLSB format. Merge JSON to XLSB in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLSB saveformat via Java., Free Online Merge JSON to xlsb in Java., Java Combine JSON to XLSB Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to XLSB saveformat. Java Combine JSON to XLSB format. Merge JSON to XLSB in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLSB in Java., Free Online Java Merge JSON to xlsb., Java Combine JSON to XLSB Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

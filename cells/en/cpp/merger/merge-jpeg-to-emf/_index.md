@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to EMF - Combine JPEG to EMF in C++
 url: /cpp/merger/merge-jpeg-to-emf/ 
-description: Aspose Excel. Free Online Merge JPEG to EMF saveformat. C++ Combine JPEG to EMF format. Merge JPEG to EMF in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to EMF saveformat via C++., Free Online Merge JPEG to emf in C++., C++ Combine JPEG to EMF Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to EMF saveformat. C++ Combine JPEG to EMF format. Merge JPEG to EMF in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to EMF in C++., Free Online C++ Merge JPEG to emf., C++ Combine JPEG to EMF Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

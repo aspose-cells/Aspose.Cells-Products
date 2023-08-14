@@ -1,7 +1,7 @@
 ---
-title: XLSB to PDF - Convert XLSB to PDF files C#
-description: Aspose Excel. Free Online Convert XLSB to PDF saveformat. C# XLSB to PDF format. Save XLSB as PDF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to PDF saveformat., Free Online XLSB to PDF Converter]
+title: C# XLSB to PDF - Online XLSB to PDF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to PDF saveformat. C# XLSB to PDF format. Save XLSB to PDF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to PDF saveformat., Free Online XLSB to PDF C#., C# Convert XLSB to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

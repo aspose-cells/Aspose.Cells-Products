@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to NUMBERS - Combine HTML to NUMBERS in C++
 url: /cpp/merger/merge-html-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTML to NUMBERS saveformat. C++ Combine HTML to NUMBERS format. Merge HTML to NUMBERS in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to NUMBERS saveformat via C++., Free Online Merge HTML to numbers in C++., C++ Combine HTML to NUMBERS Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to NUMBERS saveformat. C++ Combine HTML to NUMBERS format. Merge HTML to NUMBERS in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to NUMBERS in C++., Free Online C++ Merge HTML to numbers., C++ Combine HTML to NUMBERS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

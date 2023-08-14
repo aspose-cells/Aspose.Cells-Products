@@ -1,7 +1,7 @@
 ---
-title: TXT to XLS - Convert TXT to XLS files Python
-description: Aspose Excel. Free Online Convert TXT to XLS saveformat. Python TXT to XLS format. Save TXT as XLS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to XLS saveformat., Free Online TXT to XLS Converter]
+title: Python TXT to XLS - Online TXT to XLS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to XLS saveformat. Python TXT to XLS format. Save TXT to XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XLS saveformat., Free Online TXT to XLS Python., Python Convert TXT to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

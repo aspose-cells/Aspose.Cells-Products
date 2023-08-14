@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to ET - Combine ODS to ET in C#
 url: /net/merger/merge-ods-to-et/ 
-description: Aspose Excel. Free Online Merge ODS to ET saveformat. C# Combine ODS to ET format. Merge ODS to ET in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to ET saveformat via C#., Free Online Merge ODS to et in C#., C# Combine ODS to ET Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to ET saveformat. C# Combine ODS to ET format. Merge ODS to ET in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to ET in C#., Free Online C# Merge ODS to et., C# Combine ODS to ET Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XML to PRN - Convert XML to PRN files Python
-description: Aspose Excel. Free Online Convert XML to PRN saveformat. Python XML to PRN format. Save XML as PRN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XML to PRN saveformat., Free Online XML to PRN Converter]
+title: Python XML to PRN - Online XML to PRN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XML to PRN saveformat. Python XML to PRN format. Save XML to PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to PRN saveformat., Free Online XML to PRN Python., Python Convert XML to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

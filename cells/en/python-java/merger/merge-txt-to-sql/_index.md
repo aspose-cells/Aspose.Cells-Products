@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SQL - Combine TXT to SQL in Python
 url: /python-java/merger/merge-txt-to-sql/ 
-description: Aspose Excel. Free Online Merge TXT to SQL saveformat. Python Combine TXT to SQL format. Merge TXT to SQL in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to SQL saveformat via Python., Free Online Merge TXT to sql in Python., Python Combine TXT to SQL Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to SQL saveformat. Python Combine TXT to SQL format. Merge TXT to SQL in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to SQL in Python., Free Online Python Merge TXT to sql., Python Combine TXT to SQL Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

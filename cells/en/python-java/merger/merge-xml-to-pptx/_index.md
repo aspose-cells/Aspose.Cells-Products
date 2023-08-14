@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PPTX - Combine XML to PPTX in Python
 url: /python-java/merger/merge-xml-to-pptx/ 
-description: Aspose Excel. Free Online Merge XML to PPTX saveformat. Python Combine XML to PPTX format. Merge XML to PPTX in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PPTX saveformat via Python., Free Online Merge XML to pptx in Python., Python Combine XML to PPTX Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to PPTX saveformat. Python Combine XML to PPTX format. Merge XML to PPTX in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to PPTX in Python., Free Online Python Merge XML to pptx., Python Combine XML to PPTX Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

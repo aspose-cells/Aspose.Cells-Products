@@ -1,7 +1,7 @@
 ---
-title: PNG to PRN - Convert PNG to PRN files C++
-description: Aspose Excel. Free Online Convert PNG to PRN saveformat. C++ PNG to PRN format. Save PNG as PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to PRN saveformat., Free Online PNG to PRN Converter]
+title: C++ PNG to PRN - Online PNG to PRN Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to PRN saveformat. C++ PNG to PRN format. Save PNG to PRN C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to PRN saveformat., Free Online PNG to PRN C++., C++ Convert PNG to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

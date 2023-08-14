@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLSB - Combine MHT to XLSB in C++
 url: /cpp/merger/merge-mht-to-xlsb/ 
-description: Aspose Excel. Free Online Merge MHT to XLSB saveformat. C++ Combine MHT to XLSB format. Merge MHT to XLSB in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to XLSB saveformat via C++., Free Online Merge MHT to xlsb in C++., C++ Combine MHT to XLSB Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to XLSB saveformat. C++ Combine MHT to XLSB format. Merge MHT to XLSB in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to XLSB in C++., Free Online C++ Merge MHT to xlsb., C++ Combine MHT to XLSB Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to SVG - Combine OTS to SVG in Java
 url: /java/merger/merge-ots-to-svg/ 
-description: Aspose Excel. Free Online Merge OTS to SVG saveformat. Java Combine OTS to SVG format. Merge OTS to SVG in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to SVG saveformat via Java., Free Online Merge OTS to svg in Java., Java Combine OTS to SVG Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to SVG saveformat. Java Combine OTS to SVG format. Merge OTS to SVG in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to SVG in Java., Free Online Java Merge OTS to svg., Java Combine OTS to SVG Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

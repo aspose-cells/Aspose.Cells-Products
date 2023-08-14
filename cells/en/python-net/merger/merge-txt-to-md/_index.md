@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MD - Combine TXT to MD in Python
 url: /python-net/merger/merge-txt-to-md/ 
-description: Aspose Excel. Free Online Merge TXT to MD saveformat. Python Combine TXT to MD format. Merge TXT to MD in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to MD saveformat via Python., Free Online Merge TXT to md in Python., Python Combine TXT to MD Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to MD saveformat. Python Combine TXT to MD format. Merge TXT to MD in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to MD in Python., Free Online Python Merge TXT to md., Python Combine TXT to MD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

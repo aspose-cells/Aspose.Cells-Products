@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to POWERPOINT - Combine IMAGE to POWERPOINT in Python
 url: /python-net/merger/merge-image-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge IMAGE to POWERPOINT saveformat. Python Combine IMAGE to POWERPOINT format. Merge IMAGE to POWERPOINT in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to POWERPOINT saveformat via Python., Free Online Merge IMAGE to powerpoint in Python., Python Combine IMAGE to POWERPOINT Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to POWERPOINT saveformat. Python Combine IMAGE to POWERPOINT format. Merge IMAGE to POWERPOINT in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to POWERPOINT in Python., Free Online Python Merge IMAGE to powerpoint., Python Combine IMAGE to POWERPOINT Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

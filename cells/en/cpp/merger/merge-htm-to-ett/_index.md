@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to ETT - Combine HTM to ETT in C++
 url: /cpp/merger/merge-htm-to-ett/ 
-description: Aspose Excel. Free Online Merge HTM to ETT saveformat. C++ Combine HTM to ETT format. Merge HTM to ETT in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to ETT saveformat via C++., Free Online Merge HTM to ett in C++., C++ Combine HTM to ETT Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to ETT saveformat. C++ Combine HTM to ETT format. Merge HTM to ETT in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to ETT in C++., Free Online C++ Merge HTM to ett., C++ Combine HTM to ETT Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

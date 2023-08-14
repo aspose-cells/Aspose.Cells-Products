@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTML - Combine TXT to HTML in Java
 url: /java/merger/merge-txt-to-html/ 
-description: Aspose Excel. Free Online Merge TXT to HTML saveformat. Java Combine TXT to HTML format. Merge TXT to HTML in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to HTML saveformat via Java., Free Online Merge TXT to html in Java., Java Combine TXT to HTML Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to HTML saveformat. Java Combine TXT to HTML format. Merge TXT to HTML in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to HTML in Java., Free Online Java Merge TXT to html., Java Combine TXT to HTML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

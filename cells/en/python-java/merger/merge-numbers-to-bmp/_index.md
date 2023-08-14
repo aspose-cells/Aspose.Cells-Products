@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to BMP - Combine NUMBERS to BMP in Python
 url: /python-java/merger/merge-numbers-to-bmp/ 
-description: Aspose Excel. Free Online Merge NUMBERS to BMP saveformat. Python Combine NUMBERS to BMP format. Merge NUMBERS to BMP in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to BMP saveformat via Python., Free Online Merge NUMBERS to bmp in Python., Python Combine NUMBERS to BMP Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to BMP saveformat. Python Combine NUMBERS to BMP format. Merge NUMBERS to BMP in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to BMP in Python., Free Online Python Merge NUMBERS to bmp., Python Combine NUMBERS to BMP Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

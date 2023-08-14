@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to TXT - Combine ODS to TXT in C#
 url: /net/merger/merge-ods-to-txt/ 
-description: Aspose Excel. Free Online Merge ODS to TXT saveformat. C# Combine ODS to TXT format. Merge ODS to TXT in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to TXT saveformat via C#., Free Online Merge ODS to txt in C#., C# Combine ODS to TXT Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to TXT saveformat. C# Combine ODS to TXT format. Merge ODS to TXT in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to TXT in C#., Free Online C# Merge ODS to txt., C# Combine ODS to TXT Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

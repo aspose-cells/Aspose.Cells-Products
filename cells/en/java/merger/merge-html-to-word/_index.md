@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to WORD - Combine HTML to WORD in Java
 url: /java/merger/merge-html-to-word/ 
-description: Aspose Excel. Free Online Merge HTML to WORD saveformat. Java Combine HTML to WORD format. Merge HTML to WORD in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to WORD saveformat via Java., Free Online Merge HTML to word in Java., Java Combine HTML to WORD Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to WORD saveformat. Java Combine HTML to WORD format. Merge HTML to WORD in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to WORD in Java., Free Online Java Merge HTML to word., Java Combine HTML to WORD Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

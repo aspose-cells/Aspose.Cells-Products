@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to GIF - Combine PRN to GIF in C++
 url: /cpp/merger/merge-prn-to-gif/ 
-description: Aspose Excel. Free Online Merge PRN to GIF saveformat. C++ Combine PRN to GIF format. Merge PRN to GIF in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to GIF saveformat via C++., Free Online Merge PRN to gif in C++., C++ Combine PRN to GIF Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to GIF saveformat. C++ Combine PRN to GIF format. Merge PRN to GIF in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to GIF in C++., Free Online C++ Merge PRN to gif., C++ Combine PRN to GIF Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

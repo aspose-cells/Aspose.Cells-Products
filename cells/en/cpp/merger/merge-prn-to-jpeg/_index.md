@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to JPEG - Combine PRN to JPEG in C++
 url: /cpp/merger/merge-prn-to-jpeg/ 
-description: Aspose Excel. Free Online Merge PRN to JPEG saveformat. C++ Combine PRN to JPEG format. Merge PRN to JPEG in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to JPEG saveformat via C++., Free Online Merge PRN to jpeg in C++., C++ Combine PRN to JPEG Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to JPEG saveformat. C++ Combine PRN to JPEG format. Merge PRN to JPEG in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to JPEG in C++., Free Online C++ Merge PRN to jpeg., C++ Combine PRN to JPEG Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

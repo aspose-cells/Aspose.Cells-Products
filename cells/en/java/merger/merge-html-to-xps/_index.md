@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XPS - Combine HTML to XPS in Java
 url: /java/merger/merge-html-to-xps/ 
-description: Aspose Excel. Free Online Merge HTML to XPS saveformat. Java Combine HTML to XPS format. Merge HTML to XPS in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XPS saveformat via Java., Free Online Merge HTML to xps in Java., Java Combine HTML to XPS Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to XPS saveformat. Java Combine HTML to XPS format. Merge HTML to XPS in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XPS in Java., Free Online Java Merge HTML to xps., Java Combine HTML to XPS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

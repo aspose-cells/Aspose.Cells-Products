@@ -1,8 +1,8 @@
 ---
 title: Merge XML to POWERPOINT - Combine XML to POWERPOINT in C++
 url: /cpp/merger/merge-xml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XML to POWERPOINT saveformat. C++ Combine XML to POWERPOINT format. Merge XML to POWERPOINT in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to POWERPOINT saveformat via C++., Free Online Merge XML to powerpoint in C++., C++ Combine XML to POWERPOINT Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to POWERPOINT saveformat. C++ Combine XML to POWERPOINT format. Merge XML to POWERPOINT in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to POWERPOINT in C++., Free Online C++ Merge XML to powerpoint., C++ Combine XML to POWERPOINT Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

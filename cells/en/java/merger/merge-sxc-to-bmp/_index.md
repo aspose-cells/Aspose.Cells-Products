@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to BMP - Combine SXC to BMP in Java
 url: /java/merger/merge-sxc-to-bmp/ 
-description: Aspose Excel. Free Online Merge SXC to BMP saveformat. Java Combine SXC to BMP format. Merge SXC to BMP in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to BMP saveformat via Java., Free Online Merge SXC to bmp in Java., Java Combine SXC to BMP Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to BMP saveformat. Java Combine SXC to BMP format. Merge SXC to BMP in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to BMP in Java., Free Online Java Merge SXC to bmp., Java Combine SXC to BMP Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

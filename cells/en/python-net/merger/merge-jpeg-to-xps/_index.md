@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XPS - Combine JPEG to XPS in Python
 url: /python-net/merger/merge-jpeg-to-xps/ 
-description: Aspose Excel. Free Online Merge JPEG to XPS saveformat. Python Combine JPEG to XPS format. Merge JPEG to XPS in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XPS saveformat via Python., Free Online Merge JPEG to xps in Python., Python Combine JPEG to XPS Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to XPS saveformat. Python Combine JPEG to XPS format. Merge JPEG to XPS in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to XPS in Python., Free Online Python Merge JPEG to xps., Python Combine JPEG to XPS Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

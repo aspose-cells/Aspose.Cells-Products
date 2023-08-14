@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to MD - Combine PNG to MD in Java
 url: /java/merger/merge-png-to-md/ 
-description: Aspose Excel. Free Online Merge PNG to MD saveformat. Java Combine PNG to MD format. Merge PNG to MD in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to MD saveformat via Java., Free Online Merge PNG to md in Java., Java Combine PNG to MD Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to MD saveformat. Java Combine PNG to MD format. Merge PNG to MD in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to MD in Java., Free Online Java Merge PNG to md., Java Combine PNG to MD Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

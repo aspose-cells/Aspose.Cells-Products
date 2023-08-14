@@ -1,7 +1,7 @@
 ---
-title: TXT to SQL - Convert TXT to SQL files C#
-description: Aspose Excel. Free Online Convert TXT to SQL saveformat. C# TXT to SQL format. Save TXT as SQL in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to SQL saveformat., Free Online TXT to SQL Converter]
+title: C# TXT to SQL - Online TXT to SQL Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to SQL saveformat. C# TXT to SQL format. Save TXT to SQL C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to SQL saveformat., Free Online TXT to SQL C#., C# Convert TXT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

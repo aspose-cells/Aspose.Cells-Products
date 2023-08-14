@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DIF - Combine IMAGE to DIF in C++
 url: /cpp/merger/merge-image-to-dif/ 
-description: Aspose Excel. Free Online Merge IMAGE to DIF saveformat. C++ Combine IMAGE to DIF format. Merge IMAGE to DIF in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to DIF saveformat via C++., Free Online Merge IMAGE to dif in C++., C++ Combine IMAGE to DIF Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to DIF saveformat. C++ Combine IMAGE to DIF format. Merge IMAGE to DIF in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to DIF in C++., Free Online C++ Merge IMAGE to dif., C++ Combine IMAGE to DIF Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

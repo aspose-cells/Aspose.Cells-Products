@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PRN - Combine SXC to PRN in Python
 url: /python-java/merger/merge-sxc-to-prn/ 
-description: Aspose Excel. Free Online Merge SXC to PRN saveformat. Python Combine SXC to PRN format. Merge SXC to PRN in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PRN saveformat via Python., Free Online Merge SXC to prn in Python., Python Combine SXC to PRN Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to PRN saveformat. Python Combine SXC to PRN format. Merge SXC to PRN in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PRN in Python., Free Online Python Merge SXC to prn., Python Combine SXC to PRN Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

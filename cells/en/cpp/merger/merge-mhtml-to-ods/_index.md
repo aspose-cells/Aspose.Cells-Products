@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ODS - Combine MHTML to ODS in C++
 url: /cpp/merger/merge-mhtml-to-ods/ 
-description: Aspose Excel. Free Online Merge MHTML to ODS saveformat. C++ Combine MHTML to ODS format. Merge MHTML to ODS in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to ODS saveformat via C++., Free Online Merge MHTML to ods in C++., C++ Combine MHTML to ODS Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to ODS saveformat. C++ Combine MHTML to ODS format. Merge MHTML to ODS in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to ODS in C++., Free Online C++ Merge MHTML to ods., C++ Combine MHTML to ODS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

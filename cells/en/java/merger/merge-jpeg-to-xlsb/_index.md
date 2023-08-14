@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLSB - Combine JPEG to XLSB in Java
 url: /java/merger/merge-jpeg-to-xlsb/ 
-description: Aspose Excel. Free Online Merge JPEG to XLSB saveformat. Java Combine JPEG to XLSB format. Merge JPEG to XLSB in Java. JPEG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLSB saveformat via Java., Free Online Merge JPEG to xlsb in Java., Java Combine JPEG to XLSB Online for Free., JPEG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to XLSB saveformat. Java Combine JPEG to XLSB format. Merge JPEG to XLSB in Java. JPEG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to XLSB in Java., Free Online Java Merge JPEG to xlsb., Java Combine JPEG to XLSB Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

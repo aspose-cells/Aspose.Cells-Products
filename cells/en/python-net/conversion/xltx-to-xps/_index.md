@@ -1,7 +1,7 @@
 ---
-title: XLTX to XPS - Convert XLTX to XPS files Python
-description: Aspose Excel. Free Online Convert XLTX to XPS saveformat. Python XLTX to XPS format. Save XLTX as XPS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to XPS saveformat., Free Online XLTX to XPS Converter]
+title: Python XLTX to XPS - Online XLTX to XPS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLTX to XPS saveformat. Python XLTX to XPS format. Save XLTX to XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to XPS saveformat., Free Online XLTX to XPS Python., Python Convert XLTX to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

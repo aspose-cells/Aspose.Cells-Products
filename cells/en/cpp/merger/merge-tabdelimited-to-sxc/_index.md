@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SXC - Combine TABDELIMITED to SXC in C++
 url: /cpp/merger/merge-tabdelimited-to-sxc/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SXC saveformat. C++ Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SXC saveformat via C++., Free Online Merge TABDELIMITED to sxc in C++., C++ Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to SXC saveformat. C++ Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SXC in C++., Free Online C++ Merge TABDELIMITED to sxc., C++ Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

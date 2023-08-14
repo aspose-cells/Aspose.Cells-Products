@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to JSON - Combine HTML to JSON in C#
 url: /net/merger/merge-html-to-json/ 
-description: Aspose Excel. Free Online Merge HTML to JSON saveformat. C# Combine HTML to JSON format. Merge HTML to JSON in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to JSON saveformat via C#., Free Online Merge HTML to json in C#., C# Combine HTML to JSON Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to JSON saveformat. C# Combine HTML to JSON format. Merge HTML to JSON in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to JSON in C#., Free Online C# Merge HTML to json., C# Combine HTML to JSON Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

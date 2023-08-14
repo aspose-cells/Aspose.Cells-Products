@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MD - Combine IMAGE to MD in Java
 url: /java/merger/merge-image-to-md/ 
-description: Aspose Excel. Free Online Merge IMAGE to MD saveformat. Java Combine IMAGE to MD format. Merge IMAGE to MD in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD saveformat via Java., Free Online Merge IMAGE to md in Java., Java Combine IMAGE to MD Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to MD saveformat. Java Combine IMAGE to MD format. Merge IMAGE to MD in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to MD in Java., Free Online Java Merge IMAGE to md., Java Combine IMAGE to MD Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

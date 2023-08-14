@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to GIF - Combine SXC to GIF in Java
 url: /java/merger/merge-sxc-to-gif/ 
-description: Aspose Excel. Free Online Merge SXC to GIF saveformat. Java Combine SXC to GIF format. Merge SXC to GIF in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to GIF saveformat via Java., Free Online Merge SXC to gif in Java., Java Combine SXC to GIF Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to GIF saveformat. Java Combine SXC to GIF format. Merge SXC to GIF in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to GIF in Java., Free Online Java Merge SXC to gif., Java Combine SXC to GIF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PDF - Combine EXCEL to PDF in Python
 url: /python-java/merger/merge-excel-to-pdf/ 
-description: Aspose Excel. Free Online Merge EXCEL to PDF saveformat. Python Combine EXCEL to PDF format. Merge EXCEL to PDF in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to PDF saveformat via Python., Free Online Merge EXCEL to pdf in Python., Python Combine EXCEL to PDF Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to PDF saveformat. Python Combine EXCEL to PDF format. Merge EXCEL to PDF in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to PDF in Python., Free Online Python Merge EXCEL to pdf., Python Combine EXCEL to PDF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

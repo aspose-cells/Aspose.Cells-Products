@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XPS - Combine EXCEL to XPS in C++
 url: /cpp/merger/merge-excel-to-xps/ 
-description: Aspose Excel. Free Online Merge EXCEL to XPS saveformat. C++ Combine EXCEL to XPS format. Merge EXCEL to XPS in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to XPS saveformat via C++., Free Online Merge EXCEL to xps in C++., C++ Combine EXCEL to XPS Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to XPS saveformat. C++ Combine EXCEL to XPS format. Merge EXCEL to XPS in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to XPS in C++., Free Online C++ Merge EXCEL to xps., C++ Combine EXCEL to XPS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

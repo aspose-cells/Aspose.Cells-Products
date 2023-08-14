@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DIF - Combine PNG to DIF in Java
 url: /java/merger/merge-png-to-dif/ 
-description: Aspose Excel. Free Online Merge PNG to DIF saveformat. Java Combine PNG to DIF format. Merge PNG to DIF in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to DIF saveformat via Java., Free Online Merge PNG to dif in Java., Java Combine PNG to DIF Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to DIF saveformat. Java Combine PNG to DIF format. Merge PNG to DIF in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to DIF in Java., Free Online Java Merge PNG to dif., Java Combine PNG to DIF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

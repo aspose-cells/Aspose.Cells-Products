@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PNG - Combine EXCEL to PNG in Python
 url: /python-net/merger/merge-excel-to-png/ 
-description: Aspose Excel. Free Online Merge EXCEL to PNG saveformat. Python Combine EXCEL to PNG format. Merge EXCEL to PNG in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to PNG saveformat via Python., Free Online Merge EXCEL to png in Python., Python Combine EXCEL to PNG Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to PNG saveformat. Python Combine EXCEL to PNG format. Merge EXCEL to PNG in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to PNG in Python., Free Online Python Merge EXCEL to png., Python Combine EXCEL to PNG Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

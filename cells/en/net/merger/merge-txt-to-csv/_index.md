@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to CSV - Combine TXT to CSV in C#
 url: /net/merger/merge-txt-to-csv/ 
-description: Aspose Excel. Free Online Merge TXT to CSV saveformat. C# Combine TXT to CSV format. Merge TXT to CSV in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV saveformat via C#., Free Online Merge TXT to csv in C#., C# Combine TXT to CSV Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to CSV saveformat. C# Combine TXT to CSV format. Merge TXT to CSV in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV in C#., Free Online C# Merge TXT to csv., C# Combine TXT to CSV Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

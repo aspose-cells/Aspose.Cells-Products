@@ -1,7 +1,7 @@
 ---
-title: SXC to XLSX - Convert SXC to XLSX files Python
-description: Aspose Excel. Free Online Convert SXC to XLSX saveformat. Python SXC to XLSX format. Save SXC as XLSX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to XLSX saveformat., Free Online SXC to XLSX Converter]
+title: Python SXC to XLSX - Online SXC to XLSX Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to XLSX saveformat. Python SXC to XLSX format. Save SXC to XLSX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to XLSX saveformat., Free Online SXC to XLSX Python., Python Convert SXC to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

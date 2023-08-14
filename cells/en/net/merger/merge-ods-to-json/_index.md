@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to JSON - Combine ODS to JSON in C#
 url: /net/merger/merge-ods-to-json/ 
-description: Aspose Excel. Free Online Merge ODS to JSON saveformat. C# Combine ODS to JSON format. Merge ODS to JSON in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to JSON saveformat via C#., Free Online Merge ODS to json in C#., C# Combine ODS to JSON Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to JSON saveformat. C# Combine ODS to JSON format. Merge ODS to JSON in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to JSON in C#., Free Online C# Merge ODS to json., C# Combine ODS to JSON Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

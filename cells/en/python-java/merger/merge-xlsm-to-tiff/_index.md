@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TIFF - Combine XLSM to TIFF in Python
 url: /python-java/merger/merge-xlsm-to-tiff/ 
-description: Aspose Excel. Free Online Merge XLSM to TIFF saveformat. Python Combine XLSM to TIFF format. Merge XLSM to TIFF in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to TIFF saveformat via Python., Free Online Merge XLSM to tiff in Python., Python Combine XLSM to TIFF Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to TIFF saveformat. Python Combine XLSM to TIFF format. Merge XLSM to TIFF in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to TIFF in Python., Free Online Python Merge XLSM to tiff., Python Combine XLSM to TIFF Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

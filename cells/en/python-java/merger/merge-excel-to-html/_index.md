@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to HTML - Combine EXCEL to HTML in Python
 url: /python-java/merger/merge-excel-to-html/ 
-description: Aspose Excel. Free Online Merge EXCEL to HTML saveformat. Python Combine EXCEL to HTML format. Merge EXCEL to HTML in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to HTML saveformat via Python., Free Online Merge EXCEL to html in Python., Python Combine EXCEL to HTML Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to HTML saveformat. Python Combine EXCEL to HTML format. Merge EXCEL to HTML in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to HTML in Python., Free Online Python Merge EXCEL to html., Python Combine EXCEL to HTML Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

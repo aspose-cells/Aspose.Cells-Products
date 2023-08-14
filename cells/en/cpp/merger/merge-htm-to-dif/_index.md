@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DIF - Combine HTM to DIF in C++
 url: /cpp/merger/merge-htm-to-dif/ 
-description: Aspose Excel. Free Online Merge HTM to DIF saveformat. C++ Combine HTM to DIF format. Merge HTM to DIF in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to DIF saveformat via C++., Free Online Merge HTM to dif in C++., C++ Combine HTM to DIF Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to DIF saveformat. C++ Combine HTM to DIF format. Merge HTM to DIF in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to DIF in C++., Free Online C++ Merge HTM to dif., C++ Combine HTM to DIF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

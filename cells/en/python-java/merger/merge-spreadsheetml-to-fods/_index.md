@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to FODS - Combine SPREADSHEETML to FODS in Python
 url: /python-java/merger/merge-spreadsheetml-to-fods/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to FODS saveformat. Python Combine SPREADSHEETML to FODS format. Merge SPREADSHEETML to FODS in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to FODS saveformat via Python., Free Online Merge SPREADSHEETML to fods in Python., Python Combine SPREADSHEETML to FODS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to FODS saveformat. Python Combine SPREADSHEETML to FODS format. Merge SPREADSHEETML to FODS in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to FODS in Python., Free Online Python Merge SPREADSHEETML to fods., Python Combine SPREADSHEETML to FODS Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

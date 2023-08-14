@@ -1,7 +1,7 @@
 ---
-title: XLSX to PDF - Convert XLSX to PDF files Python
-description: Aspose Excel. Free Online Convert XLSX to PDF saveformat. Python XLSX to PDF format. Save XLSX as PDF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to PDF saveformat., Free Online XLSX to PDF Converter]
+title: Python XLSX to PDF - Online XLSX to PDF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLSX to PDF saveformat. Python XLSX to PDF format. Save XLSX to PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to PDF saveformat., Free Online XLSX to PDF Python., Python Convert XLSX to PDF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SVG - Combine TXT to SVG in C#
 url: /net/merger/merge-txt-to-svg/ 
-description: Aspose Excel. Free Online Merge TXT to SVG saveformat. C# Combine TXT to SVG format. Merge TXT to SVG in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SVG saveformat via C#., Free Online Merge TXT to svg in C#., C# Combine TXT to SVG Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to SVG saveformat. C# Combine TXT to SVG format. Merge TXT to SVG in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SVG in C#., Free Online C# Merge TXT to svg., C# Combine TXT to SVG Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

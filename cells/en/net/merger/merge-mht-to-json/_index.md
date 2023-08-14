@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to JSON - Combine MHT to JSON in C#
 url: /net/merger/merge-mht-to-json/ 
-description: Aspose Excel. Free Online Merge MHT to JSON saveformat. C# Combine MHT to JSON format. Merge MHT to JSON in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to JSON saveformat via C#., Free Online Merge MHT to json in C#., C# Combine MHT to JSON Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to JSON saveformat. C# Combine MHT to JSON format. Merge MHT to JSON in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to JSON in C#., Free Online C# Merge MHT to json., C# Combine MHT to JSON Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to OTS - Combine XML to OTS in C#
 url: /net/merger/merge-xml-to-ots/ 
-description: Aspose Excel. Free Online Merge XML to OTS saveformat. C# Combine XML to OTS format. Merge XML to OTS in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to OTS saveformat via C#., Free Online Merge XML to ots in C#., C# Combine XML to OTS Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to OTS saveformat. C# Combine XML to OTS format. Merge XML to OTS in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to OTS in C#., Free Online C# Merge XML to ots., C# Combine XML to OTS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

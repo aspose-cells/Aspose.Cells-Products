@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PDF - Combine XLT to PDF in Python
 url: /python-net/merger/merge-xlt-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLT to PDF saveformat. Python Combine XLT to PDF format. Merge XLT to PDF in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PDF saveformat via Python., Free Online Merge XLT to pdf in Python., Python Combine XLT to PDF Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to PDF saveformat. Python Combine XLT to PDF format. Merge XLT to PDF in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PDF in Python., Free Online Python Merge XLT to pdf., Python Combine XLT to PDF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

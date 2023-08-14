@@ -1,7 +1,7 @@
 ---
-title: JSON to SQL - Convert JSON to SQL files Python
-description: Aspose Excel. Free Online Convert JSON to SQL saveformat. Python JSON to SQL format. Save JSON as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to SQL saveformat., Free Online JSON to SQL Converter]
+title: Python JSON to SQL - Online JSON to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JSON to SQL saveformat. Python JSON to SQL format. Save JSON to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to SQL saveformat., Free Online JSON to SQL Python., Python Convert JSON to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

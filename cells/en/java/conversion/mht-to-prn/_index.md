@@ -1,7 +1,7 @@
 ---
-title: MHT to PRN - Convert MHT to PRN files Java
-description: Aspose Excel. Free Online Convert MHT to PRN saveformat. Java MHT to PRN format. Save MHT as PRN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to PRN saveformat., Free Online MHT to PRN Converter]
+title: Java MHT to PRN - Online MHT to PRN Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to PRN saveformat. Java MHT to PRN format. Save MHT to PRN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to PRN saveformat., Free Online MHT to PRN Java., Java Convert MHT to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

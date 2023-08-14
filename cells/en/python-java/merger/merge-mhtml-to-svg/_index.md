@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SVG - Combine MHTML to SVG in Python
 url: /python-java/merger/merge-mhtml-to-svg/ 
-description: Aspose Excel. Free Online Merge MHTML to SVG saveformat. Python Combine MHTML to SVG format. Merge MHTML to SVG in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SVG saveformat via Python., Free Online Merge MHTML to svg in Python., Python Combine MHTML to SVG Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to SVG saveformat. Python Combine MHTML to SVG format. Merge MHTML to SVG in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SVG in Python., Free Online Python Merge MHTML to svg., Python Combine MHTML to SVG Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

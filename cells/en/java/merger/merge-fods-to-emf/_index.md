@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to EMF - Combine FODS to EMF in Java
 url: /java/merger/merge-fods-to-emf/ 
-description: Aspose Excel. Free Online Merge FODS to EMF saveformat. Java Combine FODS to EMF format. Merge FODS to EMF in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to EMF saveformat via Java., Free Online Merge FODS to emf in Java., Java Combine FODS to EMF Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to EMF saveformat. Java Combine FODS to EMF format. Merge FODS to EMF in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to EMF in Java., Free Online Java Merge FODS to emf., Java Combine FODS to EMF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

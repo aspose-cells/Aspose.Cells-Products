@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JPG - Combine NUMBERS to JPG in C#
 url: /net/merger/merge-numbers-to-jpg/ 
-description: Aspose Excel. Free Online Merge NUMBERS to JPG saveformat. C# Combine NUMBERS to JPG format. Merge NUMBERS to JPG in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JPG saveformat via C#., Free Online Merge NUMBERS to jpg in C#., C# Combine NUMBERS to JPG Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to JPG saveformat. C# Combine NUMBERS to JPG format. Merge NUMBERS to JPG in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to JPG in C#., Free Online C# Merge NUMBERS to jpg., C# Combine NUMBERS to JPG Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

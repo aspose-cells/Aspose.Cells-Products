@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ETT - Combine XLSB to ETT in C#
 url: /net/merger/merge-xlsb-to-ett/ 
-description: Aspose Excel. Free Online Merge XLSB to ETT saveformat. C# Combine XLSB to ETT format. Merge XLSB to ETT in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to ETT saveformat via C#., Free Online Merge XLSB to ett in C#., C# Combine XLSB to ETT Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to ETT saveformat. C# Combine XLSB to ETT format. Merge XLSB to ETT in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to ETT in C#., Free Online C# Merge XLSB to ett., C# Combine XLSB to ETT Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

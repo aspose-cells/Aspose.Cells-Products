@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DIF - Combine SXC to DIF in C++
 url: /cpp/merger/merge-sxc-to-dif/ 
-description: Aspose Excel. Free Online Merge SXC to DIF saveformat. C++ Combine SXC to DIF format. Merge SXC to DIF in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to DIF saveformat via C++., Free Online Merge SXC to dif in C++., C++ Combine SXC to DIF Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to DIF saveformat. C++ Combine SXC to DIF format. Merge SXC to DIF in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to DIF in C++., Free Online C++ Merge SXC to dif., C++ Combine SXC to DIF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

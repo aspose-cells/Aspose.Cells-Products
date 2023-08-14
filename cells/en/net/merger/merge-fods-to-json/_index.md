@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JSON - Combine FODS to JSON in C#
 url: /net/merger/merge-fods-to-json/ 
-description: Aspose Excel. Free Online Merge FODS to JSON saveformat. C# Combine FODS to JSON format. Merge FODS to JSON in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to JSON saveformat via C#., Free Online Merge FODS to json in C#., C# Combine FODS to JSON Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to JSON saveformat. C# Combine FODS to JSON format. Merge FODS to JSON in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to JSON in C#., Free Online C# Merge FODS to json., C# Combine FODS to JSON Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to POWERPOINT - Combine JPG to POWERPOINT in Java
 url: /java/merger/merge-jpg-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JPG to POWERPOINT saveformat. Java Combine JPG to POWERPOINT format. Merge JPG to POWERPOINT in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to POWERPOINT saveformat via Java., Free Online Merge JPG to powerpoint in Java., Java Combine JPG to POWERPOINT Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to POWERPOINT saveformat. Java Combine JPG to POWERPOINT format. Merge JPG to POWERPOINT in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to POWERPOINT in Java., Free Online Java Merge JPG to powerpoint., Java Combine JPG to POWERPOINT Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XML to TXT - Convert XML to TXT files Java
-description: Aspose Excel. Free Online Convert XML to TXT saveformat. Java XML to TXT format. Save XML as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to TXT saveformat., Free Online XML to TXT Converter]
+title: Java XML to TXT - Online XML to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XML to TXT saveformat. Java XML to TXT format. Save XML to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XML to TXT saveformat., Free Online XML to TXT Java., Java Convert XML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

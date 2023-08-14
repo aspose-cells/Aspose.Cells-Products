@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ET - Combine FODS to ET in C#
 url: /net/merger/merge-fods-to-et/ 
-description: Aspose Excel. Free Online Merge FODS to ET saveformat. C# Combine FODS to ET format. Merge FODS to ET in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to ET saveformat via C#., Free Online Merge FODS to et in C#., C# Combine FODS to ET Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to ET saveformat. C# Combine FODS to ET format. Merge FODS to ET in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to ET in C#., Free Online C# Merge FODS to et., C# Combine FODS to ET Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

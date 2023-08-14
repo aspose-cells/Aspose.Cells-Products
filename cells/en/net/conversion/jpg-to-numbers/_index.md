@@ -1,7 +1,7 @@
 ---
-title: JPG to NUMBERS - Convert JPG to NUMBERS files C#
-description: Aspose Excel. Free Online Convert JPG to NUMBERS saveformat. C# JPG to NUMBERS format. Save JPG as NUMBERS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to NUMBERS saveformat., Free Online JPG to NUMBERS Converter]
+title: C# JPG to NUMBERS - Online JPG to NUMBERS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to NUMBERS saveformat. C# JPG to NUMBERS format. Save JPG to NUMBERS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to NUMBERS saveformat., Free Online JPG to NUMBERS C#., C# Convert JPG to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

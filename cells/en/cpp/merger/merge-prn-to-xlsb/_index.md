@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLSB - Combine PRN to XLSB in C++
 url: /cpp/merger/merge-prn-to-xlsb/ 
-description: Aspose Excel. Free Online Merge PRN to XLSB saveformat. C++ Combine PRN to XLSB format. Merge PRN to XLSB in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLSB saveformat via C++., Free Online Merge PRN to xlsb in C++., C++ Combine PRN to XLSB Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to XLSB saveformat. C++ Combine PRN to XLSB format. Merge PRN to XLSB in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLSB in C++., Free Online C++ Merge PRN to xlsb., C++ Combine PRN to XLSB Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

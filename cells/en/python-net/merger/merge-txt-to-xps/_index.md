@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XPS - Combine TXT to XPS in Python
 url: /python-net/merger/merge-txt-to-xps/ 
-description: Aspose Excel. Free Online Merge TXT to XPS saveformat. Python Combine TXT to XPS format. Merge TXT to XPS in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XPS saveformat via Python., Free Online Merge TXT to xps in Python., Python Combine TXT to XPS Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to XPS saveformat. Python Combine TXT to XPS format. Merge TXT to XPS in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to XPS in Python., Free Online Python Merge TXT to xps., Python Combine TXT to XPS Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

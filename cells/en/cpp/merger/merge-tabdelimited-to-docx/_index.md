@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DOCX - Combine TABDELIMITED to DOCX in C++
 url: /cpp/merger/merge-tabdelimited-to-docx/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DOCX saveformat. C++ Combine TABDELIMITED to DOCX format. Merge TABDELIMITED to DOCX in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to DOCX saveformat via C++., Free Online Merge TABDELIMITED to docx in C++., C++ Combine TABDELIMITED to DOCX Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to DOCX saveformat. C++ Combine TABDELIMITED to DOCX format. Merge TABDELIMITED to DOCX in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to DOCX in C++., Free Online C++ Merge TABDELIMITED to docx., C++ Combine TABDELIMITED to DOCX Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

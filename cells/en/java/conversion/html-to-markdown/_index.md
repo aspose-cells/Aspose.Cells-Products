@@ -1,7 +1,7 @@
 ---
-title: HTML to MARKDOWN - Convert HTML to MARKDOWN files Java
-description: Aspose Excel. Free Online Convert HTML to MARKDOWN saveformat. Java HTML to MARKDOWN format. Save HTML as MARKDOWN in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to MARKDOWN saveformat., Free Online HTML to MARKDOWN Converter]
+title: Java HTML to MARKDOWN - Online HTML to MARKDOWN Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to MARKDOWN saveformat. Java HTML to MARKDOWN format. Save HTML to MARKDOWN Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to MARKDOWN saveformat., Free Online HTML to MARKDOWN Java., Java Convert HTML to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

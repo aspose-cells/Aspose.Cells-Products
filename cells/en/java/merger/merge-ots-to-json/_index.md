@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to JSON - Combine OTS to JSON in Java
 url: /java/merger/merge-ots-to-json/ 
-description: Aspose Excel. Free Online Merge OTS to JSON saveformat. Java Combine OTS to JSON format. Merge OTS to JSON in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to JSON saveformat via Java., Free Online Merge OTS to json in Java., Java Combine OTS to JSON Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to JSON saveformat. Java Combine OTS to JSON format. Merge OTS to JSON in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to JSON in Java., Free Online Java Merge OTS to json., Java Combine OTS to JSON Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

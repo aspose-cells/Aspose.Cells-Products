@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JSON - Combine PNG to JSON in C++
 url: /cpp/merger/merge-png-to-json/ 
-description: Aspose Excel. Free Online Merge PNG to JSON saveformat. C++ Combine PNG to JSON format. Merge PNG to JSON in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to JSON saveformat via C++., Free Online Merge PNG to json in C++., C++ Combine PNG to JSON Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to JSON saveformat. C++ Combine PNG to JSON format. Merge PNG to JSON in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to JSON in C++., Free Online C++ Merge PNG to json., C++ Combine PNG to JSON Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DIF - Combine TXT to DIF in C++
 url: /cpp/merger/merge-txt-to-dif/ 
-description: Aspose Excel. Free Online Merge TXT to DIF saveformat. C++ Combine TXT to DIF format. Merge TXT to DIF in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to DIF saveformat via C++., Free Online Merge TXT to dif in C++., C++ Combine TXT to DIF Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to DIF saveformat. C++ Combine TXT to DIF format. Merge TXT to DIF in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to DIF in C++., Free Online C++ Merge TXT to dif., C++ Combine TXT to DIF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

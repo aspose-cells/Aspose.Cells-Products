@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to ETT - Combine TXT to ETT in Java
 url: /java/merger/merge-txt-to-ett/ 
-description: Aspose Excel. Free Online Merge TXT to ETT saveformat. Java Combine TXT to ETT format. Merge TXT to ETT in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to ETT saveformat via Java., Free Online Merge TXT to ett in Java., Java Combine TXT to ETT Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to ETT saveformat. Java Combine TXT to ETT format. Merge TXT to ETT in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to ETT in Java., Free Online Java Merge TXT to ett., Java Combine TXT to ETT Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

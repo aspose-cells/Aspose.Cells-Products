@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MHTML - Combine XLSX to MHTML in Python
 url: /python-java/merger/merge-xlsx-to-mhtml/ 
-description: Aspose Excel. Free Online Merge XLSX to MHTML saveformat. Python Combine XLSX to MHTML format. Merge XLSX to MHTML in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MHTML saveformat via Python., Free Online Merge XLSX to mhtml in Python., Python Combine XLSX to MHTML Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to MHTML saveformat. Python Combine XLSX to MHTML format. Merge XLSX to MHTML in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to MHTML in Python., Free Online Python Merge XLSX to mhtml., Python Combine XLSX to MHTML Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

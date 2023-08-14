@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XPS - Combine MHT to XPS in Java
 url: /java/merger/merge-mht-to-xps/ 
-description: Aspose Excel. Free Online Merge MHT to XPS saveformat. Java Combine MHT to XPS format. Merge MHT to XPS in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XPS saveformat via Java., Free Online Merge MHT to xps in Java., Java Combine MHT to XPS Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to XPS saveformat. Java Combine MHT to XPS format. Merge MHT to XPS in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XPS in Java., Free Online Java Merge MHT to xps., Java Combine MHT to XPS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

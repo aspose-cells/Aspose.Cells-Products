@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLS - Combine PRN to XLS in C++
 url: /cpp/merger/merge-prn-to-xls/ 
-description: Aspose Excel. Free Online Merge PRN to XLS saveformat. C++ Combine PRN to XLS format. Merge PRN to XLS in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLS saveformat via C++., Free Online Merge PRN to xls in C++., C++ Combine PRN to XLS Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to XLS saveformat. C++ Combine PRN to XLS format. Merge PRN to XLS in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to XLS in C++., Free Online C++ Merge PRN to xls., C++ Combine PRN to XLS Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

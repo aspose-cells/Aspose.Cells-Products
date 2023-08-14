@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MHT - Combine XLSX to MHT in Java
 url: /java/merger/merge-xlsx-to-mht/ 
-description: Aspose Excel. Free Online Merge XLSX to MHT saveformat. Java Combine XLSX to MHT format. Merge XLSX to MHT in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to MHT saveformat via Java., Free Online Merge XLSX to mht in Java., Java Combine XLSX to MHT Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to MHT saveformat. Java Combine XLSX to MHT format. Merge XLSX to MHT in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to MHT in Java., Free Online Java Merge XLSX to mht., Java Combine XLSX to MHT Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

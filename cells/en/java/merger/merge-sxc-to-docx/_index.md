@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DOCX - Combine SXC to DOCX in Java
 url: /java/merger/merge-sxc-to-docx/ 
-description: Aspose Excel. Free Online Merge SXC to DOCX saveformat. Java Combine SXC to DOCX format. Merge SXC to DOCX in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to DOCX saveformat via Java., Free Online Merge SXC to docx in Java., Java Combine SXC to DOCX Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to DOCX saveformat. Java Combine SXC to DOCX format. Merge SXC to DOCX in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to DOCX in Java., Free Online Java Merge SXC to docx., Java Combine SXC to DOCX Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

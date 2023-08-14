@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SXC - Combine TABDELIMITED to SXC in Java
 url: /java/merger/merge-tabdelimited-to-sxc/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SXC saveformat. Java Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to SXC saveformat via Java., Free Online Merge TABDELIMITED to sxc in Java., Java Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to SXC saveformat. Java Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to SXC in Java., Free Online Java Merge TABDELIMITED to sxc., Java Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MD - Combine MHT to MD in Java
 url: /java/merger/merge-mht-to-md/ 
-description: Aspose Excel. Free Online Merge MHT to MD saveformat. Java Combine MHT to MD format. Merge MHT to MD in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD saveformat via Java., Free Online Merge MHT to md in Java., Java Combine MHT to MD Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to MD saveformat. Java Combine MHT to MD format. Merge MHT to MD in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to MD in Java., Free Online Java Merge MHT to md., Java Combine MHT to MD Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

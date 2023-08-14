@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MHTML - Combine IMAGE to MHTML in Python
 url: /python-net/merger/merge-image-to-mhtml/ 
-description: Aspose Excel. Free Online Merge IMAGE to MHTML saveformat. Python Combine IMAGE to MHTML format. Merge IMAGE to MHTML in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to MHTML saveformat via Python., Free Online Merge IMAGE to mhtml in Python., Python Combine IMAGE to MHTML Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to MHTML saveformat. Python Combine IMAGE to MHTML format. Merge IMAGE to MHTML in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to MHTML in Python., Free Online Python Merge IMAGE to mhtml., Python Combine IMAGE to MHTML Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

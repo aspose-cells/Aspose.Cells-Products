@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to DIF - Combine ODS to DIF in C#
 url: /net/merger/merge-ods-to-dif/ 
-description: Aspose Excel. Free Online Merge ODS to DIF saveformat. C# Combine ODS to DIF format. Merge ODS to DIF in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to DIF saveformat via C#., Free Online Merge ODS to dif in C#., C# Combine ODS to DIF Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to DIF saveformat. C# Combine ODS to DIF format. Merge ODS to DIF in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to DIF in C#., Free Online C# Merge ODS to dif., C# Combine ODS to DIF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

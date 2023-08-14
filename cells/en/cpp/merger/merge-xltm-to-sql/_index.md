@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SQL - Combine XLTM to SQL in C++
 url: /cpp/merger/merge-xltm-to-sql/ 
-description: Aspose Excel. Free Online Merge XLTM to SQL saveformat. C++ Combine XLTM to SQL format. Merge XLTM to SQL in C++. XLTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to SQL saveformat via C++., Free Online Merge XLTM to sql in C++., C++ Combine XLTM to SQL Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to SQL saveformat. C++ Combine XLTM to SQL format. Merge XLTM to SQL in C++. XLTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to SQL in C++., Free Online C++ Merge XLTM to sql., C++ Combine XLTM to SQL Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

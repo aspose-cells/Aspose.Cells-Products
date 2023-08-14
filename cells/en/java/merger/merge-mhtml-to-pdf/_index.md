@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PDF - Combine MHTML to PDF in Java
 url: /java/merger/merge-mhtml-to-pdf/ 
-description: Aspose Excel. Free Online Merge MHTML to PDF saveformat. Java Combine MHTML to PDF format. Merge MHTML to PDF in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PDF saveformat via Java., Free Online Merge MHTML to pdf in Java., Java Combine MHTML to PDF Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to PDF saveformat. Java Combine MHTML to PDF format. Merge MHTML to PDF in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PDF in Java., Free Online Java Merge MHTML to pdf., Java Combine MHTML to PDF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

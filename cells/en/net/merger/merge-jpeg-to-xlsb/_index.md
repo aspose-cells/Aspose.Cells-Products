@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLSB - Combine JPEG to XLSB in C#
 url: /net/merger/merge-jpeg-to-xlsb/ 
-description: Aspose Excel. Free Online Merge JPEG to XLSB saveformat. C# Combine JPEG to XLSB format. Merge JPEG to XLSB in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XLSB saveformat via C#., Free Online Merge JPEG to xlsb in C#., C# Combine JPEG to XLSB Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to XLSB saveformat. C# Combine JPEG to XLSB format. Merge JPEG to XLSB in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XLSB in C#., Free Online C# Merge JPEG to xlsb., C# Combine JPEG to XLSB Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

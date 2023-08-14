@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SQL - Combine TABDELIMITED to SQL in C++
 url: /cpp/merger/merge-tabdelimited-to-sql/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SQL saveformat. C++ Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SQL saveformat via C++., Free Online Merge TABDELIMITED to sql in C++., C++ Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to SQL saveformat. C++ Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SQL in C++., Free Online C++ Merge TABDELIMITED to sql., C++ Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

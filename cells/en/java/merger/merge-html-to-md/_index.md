@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MD - Combine HTML to MD in Java
 url: /java/merger/merge-html-to-md/ 
-description: Aspose Excel. Free Online Merge HTML to MD saveformat. Java Combine HTML to MD format. Merge HTML to MD in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to MD saveformat via Java., Free Online Merge HTML to md in Java., Java Combine HTML to MD Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to MD saveformat. Java Combine HTML to MD format. Merge HTML to MD in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to MD in Java., Free Online Java Merge HTML to md., Java Combine HTML to MD Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLT - Combine JSON to XLT in C++
 url: /cpp/merger/merge-json-to-xlt/ 
-description: Aspose Excel. Free Online Merge JSON to XLT saveformat. C++ Combine JSON to XLT format. Merge JSON to XLT in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLT saveformat via C++., Free Online Merge JSON to xlt in C++., C++ Combine JSON to XLT Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to XLT saveformat. C++ Combine JSON to XLT format. Merge JSON to XLT in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to XLT in C++., Free Online C++ Merge JSON to xlt., C++ Combine JSON to XLT Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PDF - Combine NUMBERS to PDF in Java
 url: /java/merger/merge-numbers-to-pdf/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PDF saveformat. Java Combine NUMBERS to PDF format. Merge NUMBERS to PDF in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to PDF saveformat via Java., Free Online Merge NUMBERS to pdf in Java., Java Combine NUMBERS to PDF Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to PDF saveformat. Java Combine NUMBERS to PDF format. Merge NUMBERS to PDF in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to PDF in Java., Free Online Java Merge NUMBERS to pdf., Java Combine NUMBERS to PDF Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

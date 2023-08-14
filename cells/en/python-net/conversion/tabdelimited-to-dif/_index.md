@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to DIF - Convert TABDELIMITED to DIF files Python
-description: Aspose Excel. Free Online Convert TABDELIMITED to DIF saveformat. Python TABDELIMITED to DIF format. Save TABDELIMITED as DIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to DIF saveformat., Free Online TABDELIMITED to DIF Converter]
+title: Python TABDELIMITED to DIF - Online TABDELIMITED to DIF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TABDELIMITED to DIF saveformat. Python TABDELIMITED to DIF format. Save TABDELIMITED to DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to DIF saveformat., Free Online TABDELIMITED to DIF Python., Python Convert TABDELIMITED to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

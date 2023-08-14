@@ -1,7 +1,7 @@
 ---
-title: MHTML to TSV - Convert MHTML to TSV files Python
-description: Aspose Excel. Free Online Convert MHTML to TSV saveformat. Python MHTML to TSV format. Save MHTML as TSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to TSV saveformat., Free Online MHTML to TSV Converter]
+title: Python MHTML to TSV - Online MHTML to TSV Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHTML to TSV saveformat. Python MHTML to TSV format. Save MHTML to TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to TSV saveformat., Free Online MHTML to TSV Python., Python Convert MHTML to TSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

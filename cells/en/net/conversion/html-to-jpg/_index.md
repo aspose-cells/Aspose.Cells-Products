@@ -1,7 +1,7 @@
 ---
-title: HTML to JPG - Convert HTML to JPG files C#
-description: Aspose Excel. Free Online Convert HTML to JPG saveformat. C# HTML to JPG format. Save HTML as JPG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to JPG saveformat., Free Online HTML to JPG Converter]
+title: C# HTML to JPG - Online HTML to JPG Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert HTML to JPG saveformat. C# HTML to JPG format. Save HTML to JPG C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# HTML to JPG saveformat., Free Online HTML to JPG C#., C# Convert HTML to JPG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

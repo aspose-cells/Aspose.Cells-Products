@@ -1,7 +1,7 @@
 ---
-title: JPEG to ETT - Convert JPEG to ETT files C#
-description: Aspose Excel. Free Online Convert JPEG to ETT saveformat. C# JPEG to ETT format. Save JPEG as ETT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to ETT saveformat., Free Online JPEG to ETT Converter]
+title: C# JPEG to ETT - Online JPEG to ETT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPEG to ETT saveformat. C# JPEG to ETT format. Save JPEG to ETT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPEG to ETT saveformat., Free Online JPEG to ETT C#., C# Convert JPEG to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

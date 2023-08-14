@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to HTM - Combine JPG to HTM in C++
 url: /cpp/merger/merge-jpg-to-htm/ 
-description: Aspose Excel. Free Online Merge JPG to HTM saveformat. C++ Combine JPG to HTM format. Merge JPG to HTM in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to HTM saveformat via C++., Free Online Merge JPG to htm in C++., C++ Combine JPG to HTM Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to HTM saveformat. C++ Combine JPG to HTM format. Merge JPG to HTM in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to HTM in C++., Free Online C++ Merge JPG to htm., C++ Combine JPG to HTM Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

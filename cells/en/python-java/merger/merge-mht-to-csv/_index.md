@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to CSV - Combine MHT to CSV in Python
 url: /python-java/merger/merge-mht-to-csv/ 
-description: Aspose Excel. Free Online Merge MHT to CSV saveformat. Python Combine MHT to CSV format. Merge MHT to CSV in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to CSV saveformat via Python., Free Online Merge MHT to csv in Python., Python Combine MHT to CSV Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to CSV saveformat. Python Combine MHT to CSV format. Merge MHT to CSV in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to CSV in Python., Free Online Python Merge MHT to csv., Python Combine MHT to CSV Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

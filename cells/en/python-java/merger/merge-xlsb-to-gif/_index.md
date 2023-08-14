@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to GIF - Combine XLSB to GIF in Python
 url: /python-java/merger/merge-xlsb-to-gif/ 
-description: Aspose Excel. Free Online Merge XLSB to GIF saveformat. Python Combine XLSB to GIF format. Merge XLSB to GIF in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to GIF saveformat via Python., Free Online Merge XLSB to gif in Python., Python Combine XLSB to GIF Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to GIF saveformat. Python Combine XLSB to GIF format. Merge XLSB to GIF in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to GIF in Python., Free Online Python Merge XLSB to gif., Python Combine XLSB to GIF Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ET - Combine XLSB to ET in Java
 url: /java/merger/merge-xlsb-to-et/ 
-description: Aspose Excel. Free Online Merge XLSB to ET saveformat. Java Combine XLSB to ET format. Merge XLSB to ET in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to ET saveformat via Java., Free Online Merge XLSB to et in Java., Java Combine XLSB to ET Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to ET saveformat. Java Combine XLSB to ET format. Merge XLSB to ET in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to ET in Java., Free Online Java Merge XLSB to et., Java Combine XLSB to ET Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

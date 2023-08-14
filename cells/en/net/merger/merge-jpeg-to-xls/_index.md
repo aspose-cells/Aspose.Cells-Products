@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to XLS - Combine JPEG to XLS in C#
 url: /net/merger/merge-jpeg-to-xls/ 
-description: Aspose Excel. Free Online Merge JPEG to XLS saveformat. C# Combine JPEG to XLS format. Merge JPEG to XLS in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XLS saveformat via C#., Free Online Merge JPEG to xls in C#., C# Combine JPEG to XLS Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to XLS saveformat. C# Combine JPEG to XLS format. Merge JPEG to XLS in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to XLS in C#., Free Online C# Merge JPEG to xls., C# Combine JPEG to XLS Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

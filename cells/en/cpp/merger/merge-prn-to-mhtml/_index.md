@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MHTML - Combine PRN to MHTML in C++
 url: /cpp/merger/merge-prn-to-mhtml/ 
-description: Aspose Excel. Free Online Merge PRN to MHTML saveformat. C++ Combine PRN to MHTML format. Merge PRN to MHTML in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to MHTML saveformat via C++., Free Online Merge PRN to mhtml in C++., C++ Combine PRN to MHTML Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to MHTML saveformat. C++ Combine PRN to MHTML format. Merge PRN to MHTML in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to MHTML in C++., Free Online C++ Merge PRN to mhtml., C++ Combine PRN to MHTML Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

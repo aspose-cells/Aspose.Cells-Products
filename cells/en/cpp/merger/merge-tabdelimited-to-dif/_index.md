@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DIF - Combine TABDELIMITED to DIF in C++
 url: /cpp/merger/merge-tabdelimited-to-dif/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DIF saveformat. C++ Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to DIF saveformat via C++., Free Online Merge TABDELIMITED to dif in C++., C++ Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to DIF saveformat. C++ Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to DIF in C++., Free Online C++ Merge TABDELIMITED to dif., C++ Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

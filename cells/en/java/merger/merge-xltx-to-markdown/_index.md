@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to MARKDOWN - Combine XLTX to MARKDOWN in Java
 url: /java/merger/merge-xltx-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLTX to MARKDOWN saveformat. Java Combine XLTX to MARKDOWN format. Merge XLTX to MARKDOWN in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to MARKDOWN saveformat via Java., Free Online Merge XLTX to markdown in Java., Java Combine XLTX to MARKDOWN Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to MARKDOWN saveformat. Java Combine XLTX to MARKDOWN format. Merge XLTX to MARKDOWN in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to MARKDOWN in Java., Free Online Java Merge XLTX to markdown., Java Combine XLTX to MARKDOWN Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

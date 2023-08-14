@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to EMF - Combine IMAGE to EMF in Java
 url: /java/merger/merge-image-to-emf/ 
-description: Aspose Excel. Free Online Merge IMAGE to EMF saveformat. Java Combine IMAGE to EMF format. Merge IMAGE to EMF in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EMF saveformat via Java., Free Online Merge IMAGE to emf in Java., Java Combine IMAGE to EMF Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to EMF saveformat. Java Combine IMAGE to EMF format. Merge IMAGE to EMF in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to EMF in Java., Free Online Java Merge IMAGE to emf., Java Combine IMAGE to EMF Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

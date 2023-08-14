@@ -1,7 +1,7 @@
 ---
-title: XLTX to FODS - Convert XLTX to FODS files Java
-description: Aspose Excel. Free Online Convert XLTX to FODS saveformat. Java XLTX to FODS format. Save XLTX as FODS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to FODS saveformat., Free Online XLTX to FODS Converter]
+title: Java XLTX to FODS - Online XLTX to FODS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert XLTX to FODS saveformat. Java XLTX to FODS format. Save XLTX to FODS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java XLTX to FODS saveformat., Free Online XLTX to FODS Java., Java Convert XLTX to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

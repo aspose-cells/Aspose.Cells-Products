@@ -1,7 +1,7 @@
 ---
-title: MHT to XPS - Convert MHT to XPS files C#
-description: Aspose Excel. Free Online Convert MHT to XPS saveformat. C# MHT to XPS format. Save MHT as XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to XPS saveformat., Free Online MHT to XPS Converter]
+title: C# MHT to XPS - Online MHT to XPS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to XPS saveformat. C# MHT to XPS format. Save MHT to XPS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to XPS saveformat., Free Online MHT to XPS C#., C# Convert MHT to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

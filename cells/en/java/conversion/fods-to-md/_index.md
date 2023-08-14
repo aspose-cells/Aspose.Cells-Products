@@ -1,7 +1,7 @@
 ---
-title: FODS to MD - Convert FODS to MD files Java
-description: Aspose Excel. Free Online Convert FODS to MD saveformat. Java FODS to MD format. Save FODS as MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to MD saveformat., Free Online FODS to MD Converter]
+title: Java FODS to MD - Online FODS to MD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert FODS to MD saveformat. Java FODS to MD format. Save FODS to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java FODS to MD saveformat., Free Online FODS to MD Java., Java Convert FODS to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

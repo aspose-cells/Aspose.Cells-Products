@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to CSV - Combine FODS to CSV in C++
 url: /cpp/merger/merge-fods-to-csv/ 
-description: Aspose Excel. Free Online Merge FODS to CSV saveformat. C++ Combine FODS to CSV format. Merge FODS to CSV in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to CSV saveformat via C++., Free Online Merge FODS to csv in C++., C++ Combine FODS to CSV Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to CSV saveformat. C++ Combine FODS to CSV format. Merge FODS to CSV in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to CSV in C++., Free Online C++ Merge FODS to csv., C++ Combine FODS to CSV Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

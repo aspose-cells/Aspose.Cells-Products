@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to SPREADSHEETML - Combine TXT to SPREADSHEETML in C#
 url: /net/merger/merge-txt-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge TXT to SPREADSHEETML saveformat. C# Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML saveformat via C#., Free Online Merge TXT to spreadsheetml in C#., C# Combine TXT to SPREADSHEETML Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to SPREADSHEETML saveformat. C# Combine TXT to SPREADSHEETML format. Merge TXT to SPREADSHEETML in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to SPREADSHEETML in C#., Free Online C# Merge TXT to spreadsheetml., C# Combine TXT to SPREADSHEETML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

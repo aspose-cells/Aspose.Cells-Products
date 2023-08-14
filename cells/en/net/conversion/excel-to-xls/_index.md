@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XLS - Convert EXCEL to XLS files C#
-description: Aspose Excel. Free Online Convert EXCEL to XLS saveformat. C# EXCEL to XLS format. Save EXCEL as XLS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# EXCEL to XLS saveformat., Free Online EXCEL to XLS Converter]
+title: C# EXCEL to XLS - Online EXCEL to XLS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert EXCEL to XLS saveformat. C# EXCEL to XLS format. Save EXCEL to XLS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# EXCEL to XLS saveformat., Free Online EXCEL to XLS C#., C# Convert EXCEL to XLS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

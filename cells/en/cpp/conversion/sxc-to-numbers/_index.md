@@ -1,7 +1,7 @@
 ---
-title: SXC to NUMBERS - Convert SXC to NUMBERS files C++
-description: Aspose Excel. Free Online Convert SXC to NUMBERS saveformat. C++ SXC to NUMBERS format. Save SXC as NUMBERS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to NUMBERS saveformat., Free Online SXC to NUMBERS Converter]
+title: C++ SXC to NUMBERS - Online SXC to NUMBERS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert SXC to NUMBERS saveformat. C++ SXC to NUMBERS format. Save SXC to NUMBERS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ SXC to NUMBERS saveformat., Free Online SXC to NUMBERS C++., C++ Convert SXC to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

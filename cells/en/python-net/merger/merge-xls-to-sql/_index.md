@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SQL - Combine XLS to SQL in Python
 url: /python-net/merger/merge-xls-to-sql/ 
-description: Aspose Excel. Free Online Merge XLS to SQL saveformat. Python Combine XLS to SQL format. Merge XLS to SQL in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SQL saveformat via Python., Free Online Merge XLS to sql in Python., Python Combine XLS to SQL Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to SQL saveformat. Python Combine XLS to SQL format. Merge XLS to SQL in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to SQL in Python., Free Online Python Merge XLS to sql., Python Combine XLS to SQL Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

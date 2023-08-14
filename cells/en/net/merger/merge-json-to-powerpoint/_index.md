@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to POWERPOINT - Combine JSON to POWERPOINT in C#
 url: /net/merger/merge-json-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JSON to POWERPOINT saveformat. C# Combine JSON to POWERPOINT format. Merge JSON to POWERPOINT in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to POWERPOINT saveformat via C#., Free Online Merge JSON to powerpoint in C#., C# Combine JSON to POWERPOINT Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to POWERPOINT saveformat. C# Combine JSON to POWERPOINT format. Merge JSON to POWERPOINT in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to POWERPOINT in C#., Free Online C# Merge JSON to powerpoint., C# Combine JSON to POWERPOINT Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

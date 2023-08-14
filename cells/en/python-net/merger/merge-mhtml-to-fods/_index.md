@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to FODS - Combine MHTML to FODS in Python
 url: /python-net/merger/merge-mhtml-to-fods/ 
-description: Aspose Excel. Free Online Merge MHTML to FODS saveformat. Python Combine MHTML to FODS format. Merge MHTML to FODS in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to FODS saveformat via Python., Free Online Merge MHTML to fods in Python., Python Combine MHTML to FODS Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to FODS saveformat. Python Combine MHTML to FODS format. Merge MHTML to FODS in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to FODS in Python., Free Online Python Merge MHTML to fods., Python Combine MHTML to FODS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

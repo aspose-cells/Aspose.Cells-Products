@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MD - Combine FODS to MD in C#
 url: /net/merger/merge-fods-to-md/ 
-description: Aspose Excel. Free Online Merge FODS to MD saveformat. C# Combine FODS to MD format. Merge FODS to MD in C#. FODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to MD saveformat via C#., Free Online Merge FODS to md in C#., C# Combine FODS to MD Online for Free., FODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge FODS to MD saveformat. C# Combine FODS to MD format. Merge FODS to MD in C#. FODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to MD in C#., Free Online C# Merge FODS to md., C# Combine FODS to MD Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SPREADSHEETML - Combine TABDELIMITED to SPREADSHEETML in C++
 url: /cpp/merger/merge-tabdelimited-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SPREADSHEETML saveformat. C++ Combine TABDELIMITED to SPREADSHEETML format. Merge TABDELIMITED to SPREADSHEETML in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SPREADSHEETML saveformat via C++., Free Online Merge TABDELIMITED to spreadsheetml in C++., C++ Combine TABDELIMITED to SPREADSHEETML Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to SPREADSHEETML saveformat. C++ Combine TABDELIMITED to SPREADSHEETML format. Merge TABDELIMITED to SPREADSHEETML in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to SPREADSHEETML in C++., Free Online C++ Merge TABDELIMITED to spreadsheetml., C++ Combine TABDELIMITED to SPREADSHEETML Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: PNG to TXT - Convert PNG to TXT files C++
-description: Aspose Excel. Free Online Convert PNG to TXT saveformat. C++ PNG to TXT format. Save PNG as TXT in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to TXT saveformat., Free Online PNG to TXT Converter]
+title: C++ PNG to TXT - Online PNG to TXT Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to TXT saveformat. C++ PNG to TXT format. Save PNG to TXT C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to TXT saveformat., Free Online PNG to TXT C++., C++ Convert PNG to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

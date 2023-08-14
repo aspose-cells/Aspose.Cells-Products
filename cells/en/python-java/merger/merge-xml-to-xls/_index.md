@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLS - Combine XML to XLS in Python
 url: /python-java/merger/merge-xml-to-xls/ 
-description: Aspose Excel. Free Online Merge XML to XLS saveformat. Python Combine XML to XLS format. Merge XML to XLS in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLS saveformat via Python., Free Online Merge XML to xls in Python., Python Combine XML to XLS Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to XLS saveformat. Python Combine XML to XLS format. Merge XML to XLS in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLS in Python., Free Online Python Merge XML to xls., Python Combine XML to XLS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to HTM - Combine TABDELIMITED to HTM in C++
 url: /cpp/merger/merge-tabdelimited-to-htm/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to HTM saveformat. C++ Combine TABDELIMITED to HTM format. Merge TABDELIMITED to HTM in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to HTM saveformat via C++., Free Online Merge TABDELIMITED to htm in C++., C++ Combine TABDELIMITED to HTM Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to HTM saveformat. C++ Combine TABDELIMITED to HTM format. Merge TABDELIMITED to HTM in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to HTM in C++., Free Online C++ Merge TABDELIMITED to htm., C++ Combine TABDELIMITED to HTM Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PRN - Combine OTS to PRN in Java
 url: /java/merger/merge-ots-to-prn/ 
-description: Aspose Excel. Free Online Merge OTS to PRN saveformat. Java Combine OTS to PRN format. Merge OTS to PRN in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to PRN saveformat via Java., Free Online Merge OTS to prn in Java., Java Combine OTS to PRN Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to PRN saveformat. Java Combine OTS to PRN format. Merge OTS to PRN in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to PRN in Java., Free Online Java Merge OTS to prn., Java Combine OTS to PRN Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLAM - Combine XLTX to XLAM in C++
 url: /cpp/merger/merge-xltx-to-xlam/ 
-description: Aspose Excel. Free Online Merge XLTX to XLAM saveformat. C++ Combine XLTX to XLAM format. Merge XLTX to XLAM in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to XLAM saveformat via C++., Free Online Merge XLTX to xlam in C++., C++ Combine XLTX to XLAM Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to XLAM saveformat. C++ Combine XLTX to XLAM format. Merge XLTX to XLAM in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to XLAM in C++., Free Online C++ Merge XLTX to xlam., C++ Combine XLTX to XLAM Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

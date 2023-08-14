@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLTX - Combine OTS to XLTX in Python
 url: /python-net/merger/merge-ots-to-xltx/ 
-description: Aspose Excel. Free Online Merge OTS to XLTX saveformat. Python Combine OTS to XLTX format. Merge OTS to XLTX in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLTX saveformat via Python., Free Online Merge OTS to xltx in Python., Python Combine OTS to XLTX Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to XLTX saveformat. Python Combine OTS to XLTX format. Merge OTS to XLTX in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to XLTX in Python., Free Online Python Merge OTS to xltx., Python Combine OTS to XLTX Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

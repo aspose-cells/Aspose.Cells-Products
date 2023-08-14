@@ -1,7 +1,7 @@
 ---
-title: HTML to SXC - Convert HTML to SXC files Python
-description: Aspose Excel. Free Online Convert HTML to SXC saveformat. Python HTML to SXC format. Save HTML as SXC in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to SXC saveformat., Free Online HTML to SXC Converter]
+title: Python HTML to SXC - Online HTML to SXC Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert HTML to SXC saveformat. Python HTML to SXC format. Save HTML to SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SXC saveformat., Free Online HTML to SXC Python., Python Convert HTML to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

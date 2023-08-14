@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to GIF - Combine HTML to GIF in Python
 url: /python-java/merger/merge-html-to-gif/ 
-description: Aspose Excel. Free Online Merge HTML to GIF saveformat. Python Combine HTML to GIF format. Merge HTML to GIF in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to GIF saveformat via Python., Free Online Merge HTML to gif in Python., Python Combine HTML to GIF Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to GIF saveformat. Python Combine HTML to GIF format. Merge HTML to GIF in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to GIF in Python., Free Online Python Merge HTML to gif., Python Combine HTML to GIF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

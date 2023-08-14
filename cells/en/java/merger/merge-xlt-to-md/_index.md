@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to MD - Combine XLT to MD in Java
 url: /java/merger/merge-xlt-to-md/ 
-description: Aspose Excel. Free Online Merge XLT to MD saveformat. Java Combine XLT to MD format. Merge XLT to MD in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to MD saveformat via Java., Free Online Merge XLT to md in Java., Java Combine XLT to MD Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to MD saveformat. Java Combine XLT to MD format. Merge XLT to MD in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to MD in Java., Free Online Java Merge XLT to md., Java Combine XLT to MD Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

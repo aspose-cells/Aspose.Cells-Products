@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to DIF - Combine TSV to DIF in Python
 url: /python-net/merger/merge-tsv-to-dif/ 
-description: Aspose Excel. Free Online Merge TSV to DIF saveformat. Python Combine TSV to DIF format. Merge TSV to DIF in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DIF saveformat via Python., Free Online Merge TSV to dif in Python., Python Combine TSV to DIF Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to DIF saveformat. Python Combine TSV to DIF format. Merge TSV to DIF in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to DIF in Python., Free Online Python Merge TSV to dif., Python Combine TSV to DIF Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

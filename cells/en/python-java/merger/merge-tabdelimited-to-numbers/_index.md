@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to NUMBERS - Combine TABDELIMITED to NUMBERS in Python
 url: /python-java/merger/merge-tabdelimited-to-numbers/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to NUMBERS saveformat. Python Combine TABDELIMITED to NUMBERS format. Merge TABDELIMITED to NUMBERS in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to NUMBERS saveformat via Python., Free Online Merge TABDELIMITED to numbers in Python., Python Combine TABDELIMITED to NUMBERS Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to NUMBERS saveformat. Python Combine TABDELIMITED to NUMBERS format. Merge TABDELIMITED to NUMBERS in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to NUMBERS in Python., Free Online Python Merge TABDELIMITED to numbers., Python Combine TABDELIMITED to NUMBERS Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

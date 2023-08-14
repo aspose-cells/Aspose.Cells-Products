@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to MD - Combine HTML to MD in C++
 url: /cpp/merger/merge-html-to-md/ 
-description: Aspose Excel. Free Online Merge HTML to MD saveformat. C++ Combine HTML to MD format. Merge HTML to MD in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to MD saveformat via C++., Free Online Merge HTML to md in C++., C++ Combine HTML to MD Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to MD saveformat. C++ Combine HTML to MD format. Merge HTML to MD in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to MD in C++., Free Online C++ Merge HTML to md., C++ Combine HTML to MD Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

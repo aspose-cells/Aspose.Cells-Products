@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XLSB - Combine HTM to XLSB in Python
 url: /python-net/merger/merge-htm-to-xlsb/ 
-description: Aspose Excel. Free Online Merge HTM to XLSB saveformat. Python Combine HTM to XLSB format. Merge HTM to XLSB in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSB saveformat via Python., Free Online Merge HTM to xlsb in Python., Python Combine HTM to XLSB Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to XLSB saveformat. Python Combine HTM to XLSB format. Merge HTM to XLSB in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSB in Python., Free Online Python Merge HTM to xlsb., Python Combine HTM to XLSB Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

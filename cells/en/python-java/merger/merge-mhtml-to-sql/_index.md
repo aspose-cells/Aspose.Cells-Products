@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to SQL - Combine MHTML to SQL in Python
 url: /python-java/merger/merge-mhtml-to-sql/ 
-description: Aspose Excel. Free Online Merge MHTML to SQL saveformat. Python Combine MHTML to SQL format. Merge MHTML to SQL in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SQL saveformat via Python., Free Online Merge MHTML to sql in Python., Python Combine MHTML to SQL Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to SQL saveformat. Python Combine MHTML to SQL format. Merge MHTML to SQL in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to SQL in Python., Free Online Python Merge MHTML to sql., Python Combine MHTML to SQL Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

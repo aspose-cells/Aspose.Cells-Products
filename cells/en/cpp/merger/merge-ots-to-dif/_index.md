@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to DIF - Combine OTS to DIF in C++
 url: /cpp/merger/merge-ots-to-dif/ 
-description: Aspose Excel. Free Online Merge OTS to DIF saveformat. C++ Combine OTS to DIF format. Merge OTS to DIF in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to DIF saveformat via C++., Free Online Merge OTS to dif in C++., C++ Combine OTS to DIF Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to DIF saveformat. C++ Combine OTS to DIF format. Merge OTS to DIF in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to DIF in C++., Free Online C++ Merge OTS to dif., C++ Combine OTS to DIF Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

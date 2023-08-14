@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to WORD - Combine TXT to WORD in Java
 url: /java/merger/merge-txt-to-word/ 
-description: Aspose Excel. Free Online Merge TXT to WORD saveformat. Java Combine TXT to WORD format. Merge TXT to WORD in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to WORD saveformat via Java., Free Online Merge TXT to word in Java., Java Combine TXT to WORD Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to WORD saveformat. Java Combine TXT to WORD format. Merge TXT to WORD in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to WORD in Java., Free Online Java Merge TXT to word., Java Combine TXT to WORD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

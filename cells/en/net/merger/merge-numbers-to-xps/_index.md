@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XPS - Combine NUMBERS to XPS in C#
 url: /net/merger/merge-numbers-to-xps/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XPS saveformat. C# Combine NUMBERS to XPS format. Merge NUMBERS to XPS in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XPS saveformat via C#., Free Online Merge NUMBERS to xps in C#., C# Combine NUMBERS to XPS Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to XPS saveformat. C# Combine NUMBERS to XPS format. Merge NUMBERS to XPS in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XPS in C#., Free Online C# Merge NUMBERS to xps., C# Combine NUMBERS to XPS Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

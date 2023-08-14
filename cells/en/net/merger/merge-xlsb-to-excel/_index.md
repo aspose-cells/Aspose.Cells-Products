@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to EXCEL - Combine XLSB to EXCEL in C#
 url: /net/merger/merge-xlsb-to-excel/ 
-description: Aspose Excel. Free Online Merge XLSB to EXCEL saveformat. C# Combine XLSB to EXCEL format. Merge XLSB to EXCEL in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to EXCEL saveformat via C#., Free Online Merge XLSB to excel in C#., C# Combine XLSB to EXCEL Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to EXCEL saveformat. C# Combine XLSB to EXCEL format. Merge XLSB to EXCEL in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to EXCEL in C#., Free Online C# Merge XLSB to excel., C# Combine XLSB to EXCEL Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

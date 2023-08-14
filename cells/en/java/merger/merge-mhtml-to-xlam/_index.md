@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLAM - Combine MHTML to XLAM in Java
 url: /java/merger/merge-mhtml-to-xlam/ 
-description: Aspose Excel. Free Online Merge MHTML to XLAM saveformat. Java Combine MHTML to XLAM format. Merge MHTML to XLAM in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLAM saveformat via Java., Free Online Merge MHTML to xlam in Java., Java Combine MHTML to XLAM Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to XLAM saveformat. Java Combine MHTML to XLAM format. Merge MHTML to XLAM in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLAM in Java., Free Online Java Merge MHTML to xlam., Java Combine MHTML to XLAM Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

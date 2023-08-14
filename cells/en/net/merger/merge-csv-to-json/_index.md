@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to JSON - Combine CSV to JSON in C#
 url: /net/merger/merge-csv-to-json/ 
-description: Aspose Excel. Free Online Merge CSV to JSON saveformat. C# Combine CSV to JSON format. Merge CSV to JSON in C#. CSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to JSON saveformat via C#., Free Online Merge CSV to json in C#., C# Combine CSV to JSON Online for Free., CSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge CSV to JSON saveformat. C# Combine CSV to JSON format. Merge CSV to JSON in C#. CSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to JSON in C#., Free Online C# Merge CSV to json., C# Combine CSV to JSON Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

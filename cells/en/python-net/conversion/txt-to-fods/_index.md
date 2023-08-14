@@ -1,7 +1,7 @@
 ---
-title: TXT to FODS - Convert TXT to FODS files Python
-description: Aspose Excel. Free Online Convert TXT to FODS saveformat. Python TXT to FODS format. Save TXT as FODS in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to FODS saveformat., Free Online TXT to FODS Converter]
+title: Python TXT to FODS - Online TXT to FODS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to FODS saveformat. Python TXT to FODS format. Save TXT to FODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to FODS saveformat., Free Online TXT to FODS Python., Python Convert TXT to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

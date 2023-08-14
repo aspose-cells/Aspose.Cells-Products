@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLS - Combine XLTX to XLS in C++
 url: /cpp/merger/merge-xltx-to-xls/ 
-description: Aspose Excel. Free Online Merge XLTX to XLS saveformat. C++ Combine XLTX to XLS format. Merge XLTX to XLS in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to XLS saveformat via C++., Free Online Merge XLTX to xls in C++., C++ Combine XLTX to XLS Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to XLS saveformat. C++ Combine XLTX to XLS format. Merge XLTX to XLS in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to XLS in C++., Free Online C++ Merge XLTX to xls., C++ Combine XLTX to XLS Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

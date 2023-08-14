@@ -1,7 +1,7 @@
 ---
-title: SXC to DOCX - Convert SXC to DOCX files Python
-description: Aspose Excel. Free Online Convert SXC to DOCX saveformat. Python SXC to DOCX format. Save SXC as DOCX in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to DOCX saveformat., Free Online SXC to DOCX Converter]
+title: Python SXC to DOCX - Online SXC to DOCX Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert SXC to DOCX saveformat. Python SXC to DOCX format. Save SXC to DOCX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to DOCX saveformat., Free Online SXC to DOCX Python., Python Convert SXC to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to BMP - Combine XLSX to BMP in C++
 url: /cpp/merger/merge-xlsx-to-bmp/ 
-description: Aspose Excel. Free Online Merge XLSX to BMP saveformat. C++ Combine XLSX to BMP format. Merge XLSX to BMP in C++. XLSX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to BMP saveformat via C++., Free Online Merge XLSX to bmp in C++., C++ Combine XLSX to BMP Online for Free., XLSX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSX to BMP saveformat. C++ Combine XLSX to BMP format. Merge XLSX to BMP in C++. XLSX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to BMP in C++., Free Online C++ Merge XLSX to bmp., C++ Combine XLSX to BMP Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

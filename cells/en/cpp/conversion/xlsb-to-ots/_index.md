@@ -1,7 +1,7 @@
 ---
-title: XLSB to OTS - Convert XLSB to OTS files C++
-description: Aspose Excel. Free Online Convert XLSB to OTS saveformat. C++ XLSB to OTS format. Save XLSB as OTS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to OTS saveformat., Free Online XLSB to OTS Converter]
+title: C++ XLSB to OTS - Online XLSB to OTS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to OTS saveformat. C++ XLSB to OTS format. Save XLSB to OTS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to OTS saveformat., Free Online XLSB to OTS C++., C++ Convert XLSB to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

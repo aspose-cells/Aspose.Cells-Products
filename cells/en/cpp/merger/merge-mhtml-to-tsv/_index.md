@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TSV - Combine MHTML to TSV in C++
 url: /cpp/merger/merge-mhtml-to-tsv/ 
-description: Aspose Excel. Free Online Merge MHTML to TSV saveformat. C++ Combine MHTML to TSV format. Merge MHTML to TSV in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to TSV saveformat via C++., Free Online Merge MHTML to tsv in C++., C++ Combine MHTML to TSV Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to TSV saveformat. C++ Combine MHTML to TSV format. Merge MHTML to TSV in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to TSV in C++., Free Online C++ Merge MHTML to tsv., C++ Combine MHTML to TSV Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

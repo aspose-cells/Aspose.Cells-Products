@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to SPREADSHEETML - Combine JPEG to SPREADSHEETML in C++
 url: /cpp/merger/merge-jpeg-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge JPEG to SPREADSHEETML saveformat. C++ Combine JPEG to SPREADSHEETML format. Merge JPEG to SPREADSHEETML in C++. JPEG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to SPREADSHEETML saveformat via C++., Free Online Merge JPEG to spreadsheetml in C++., C++ Combine JPEG to SPREADSHEETML Online for Free., JPEG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPEG to SPREADSHEETML saveformat. C++ Combine JPEG to SPREADSHEETML format. Merge JPEG to SPREADSHEETML in C++. JPEG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPEG to SPREADSHEETML in C++., Free Online C++ Merge JPEG to spreadsheetml., C++ Combine JPEG to SPREADSHEETML Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

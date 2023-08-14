@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to CSV - Combine JPG to CSV in C#
 url: /net/merger/merge-jpg-to-csv/ 
-description: Aspose Excel. Free Online Merge JPG to CSV saveformat. C# Combine JPG to CSV format. Merge JPG to CSV in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to CSV saveformat via C#., Free Online Merge JPG to csv in C#., C# Combine JPG to CSV Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to CSV saveformat. C# Combine JPG to CSV format. Merge JPG to CSV in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to CSV in C#., Free Online C# Merge JPG to csv., C# Combine JPG to CSV Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

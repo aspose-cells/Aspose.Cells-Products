@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to JSON - Combine SXC to JSON in C++
 url: /cpp/merger/merge-sxc-to-json/ 
-description: Aspose Excel. Free Online Merge SXC to JSON saveformat. C++ Combine SXC to JSON format. Merge SXC to JSON in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to JSON saveformat via C++., Free Online Merge SXC to json in C++., C++ Combine SXC to JSON Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to JSON saveformat. C++ Combine SXC to JSON format. Merge SXC to JSON in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to JSON in C++., Free Online C++ Merge SXC to json., C++ Combine SXC to JSON Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

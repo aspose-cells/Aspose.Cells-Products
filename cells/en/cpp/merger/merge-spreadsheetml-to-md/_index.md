@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to MD - Combine SPREADSHEETML to MD in C++
 url: /cpp/merger/merge-spreadsheetml-to-md/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to MD saveformat. C++ Combine SPREADSHEETML to MD format. Merge SPREADSHEETML to MD in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to MD saveformat via C++., Free Online Merge SPREADSHEETML to md in C++., C++ Combine SPREADSHEETML to MD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to MD saveformat. C++ Combine SPREADSHEETML to MD format. Merge SPREADSHEETML to MD in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to MD in C++., Free Online C++ Merge SPREADSHEETML to md., C++ Combine SPREADSHEETML to MD Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

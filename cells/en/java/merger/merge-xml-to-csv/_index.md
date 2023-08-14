@@ -1,8 +1,8 @@
 ---
 title: Merge XML to CSV - Combine XML to CSV in Java
 url: /java/merger/merge-xml-to-csv/ 
-description: Aspose Excel. Free Online Merge XML to CSV saveformat. Java Combine XML to CSV format. Merge XML to CSV in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to CSV saveformat via Java., Free Online Merge XML to csv in Java., Java Combine XML to CSV Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to CSV saveformat. Java Combine XML to CSV format. Merge XML to CSV in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to CSV in Java., Free Online Java Merge XML to csv., Java Combine XML to CSV Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

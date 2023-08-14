@@ -1,7 +1,7 @@
 ---
-title: ODS to XLSX - Convert ODS to XLSX files Java
-description: Aspose Excel. Free Online Convert ODS to XLSX saveformat. Java ODS to XLSX format. Save ODS as XLSX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to XLSX saveformat., Free Online ODS to XLSX Converter]
+title: Java ODS to XLSX - Online ODS to XLSX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert ODS to XLSX saveformat. Java ODS to XLSX format. Save ODS to XLSX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java ODS to XLSX saveformat., Free Online ODS to XLSX Java., Java Convert ODS to XLSX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

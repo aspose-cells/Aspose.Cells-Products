@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SQL - Combine XLSB to SQL in C#
 url: /net/merger/merge-xlsb-to-sql/ 
-description: Aspose Excel. Free Online Merge XLSB to SQL saveformat. C# Combine XLSB to SQL format. Merge XLSB to SQL in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to SQL saveformat via C#., Free Online Merge XLSB to sql in C#., C# Combine XLSB to SQL Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to SQL saveformat. C# Combine XLSB to SQL format. Merge XLSB to SQL in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to SQL in C#., Free Online C# Merge XLSB to sql., C# Combine XLSB to SQL Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

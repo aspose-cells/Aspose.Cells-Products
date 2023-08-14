@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLSB - Combine XLT to XLSB in C++
 url: /cpp/merger/merge-xlt-to-xlsb/ 
-description: Aspose Excel. Free Online Merge XLT to XLSB saveformat. C++ Combine XLT to XLSB format. Merge XLT to XLSB in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLSB saveformat via C++., Free Online Merge XLT to xlsb in C++., C++ Combine XLT to XLSB Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to XLSB saveformat. C++ Combine XLT to XLSB format. Merge XLT to XLSB in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLSB in C++., Free Online C++ Merge XLT to xlsb., C++ Combine XLT to XLSB Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

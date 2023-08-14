@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MHTML - Combine SXC to MHTML in Python
 url: /python-net/merger/merge-sxc-to-mhtml/ 
-description: Aspose Excel. Free Online Merge SXC to MHTML saveformat. Python Combine SXC to MHTML format. Merge SXC to MHTML in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to MHTML saveformat via Python., Free Online Merge SXC to mhtml in Python., Python Combine SXC to MHTML Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to MHTML saveformat. Python Combine SXC to MHTML format. Merge SXC to MHTML in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to MHTML in Python., Free Online Python Merge SXC to mhtml., Python Combine SXC to MHTML Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

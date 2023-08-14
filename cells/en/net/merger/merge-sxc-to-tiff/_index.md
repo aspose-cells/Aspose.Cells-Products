@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to TIFF - Combine SXC to TIFF in C#
 url: /net/merger/merge-sxc-to-tiff/ 
-description: Aspose Excel. Free Online Merge SXC to TIFF saveformat. C# Combine SXC to TIFF format. Merge SXC to TIFF in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to TIFF saveformat via C#., Free Online Merge SXC to tiff in C#., C# Combine SXC to TIFF Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to TIFF saveformat. C# Combine SXC to TIFF format. Merge SXC to TIFF in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to TIFF in C#., Free Online C# Merge SXC to tiff., C# Combine SXC to TIFF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

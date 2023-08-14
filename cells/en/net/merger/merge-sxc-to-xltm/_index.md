@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLTM - Combine SXC to XLTM in C#
 url: /net/merger/merge-sxc-to-xltm/ 
-description: Aspose Excel. Free Online Merge SXC to XLTM saveformat. C# Combine SXC to XLTM format. Merge SXC to XLTM in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLTM saveformat via C#., Free Online Merge SXC to xltm in C#., C# Combine SXC to XLTM Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to XLTM saveformat. C# Combine SXC to XLTM format. Merge SXC to XLTM in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLTM in C#., Free Online C# Merge SXC to xltm., C# Combine SXC to XLTM Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

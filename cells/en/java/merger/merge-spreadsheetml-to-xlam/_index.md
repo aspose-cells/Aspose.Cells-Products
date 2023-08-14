@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLAM - Combine SPREADSHEETML to XLAM in Java
 url: /java/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XLAM saveformat. Java Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to XLAM saveformat via Java., Free Online Merge SPREADSHEETML to xlam in Java., Java Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to XLAM saveformat. Java Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to XLAM in Java., Free Online Java Merge SPREADSHEETML to xlam., Java Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

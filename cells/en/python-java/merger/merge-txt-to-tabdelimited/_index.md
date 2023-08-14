@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TABDELIMITED - Combine TXT to TABDELIMITED in Python
 url: /python-java/merger/merge-txt-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge TXT to TABDELIMITED saveformat. Python Combine TXT to TABDELIMITED format. Merge TXT to TABDELIMITED in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TABDELIMITED saveformat via Python., Free Online Merge TXT to tabdelimited in Python., Python Combine TXT to TABDELIMITED Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to TABDELIMITED saveformat. Python Combine TXT to TABDELIMITED format. Merge TXT to TABDELIMITED in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to TABDELIMITED in Python., Free Online Python Merge TXT to tabdelimited., Python Combine TXT to TABDELIMITED Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

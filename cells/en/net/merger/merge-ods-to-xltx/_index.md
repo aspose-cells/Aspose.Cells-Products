@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XLTX - Combine ODS to XLTX in C#
 url: /net/merger/merge-ods-to-xltx/ 
-description: Aspose Excel. Free Online Merge ODS to XLTX saveformat. C# Combine ODS to XLTX format. Merge ODS to XLTX in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to XLTX saveformat via C#., Free Online Merge ODS to xltx in C#., C# Combine ODS to XLTX Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to XLTX saveformat. C# Combine ODS to XLTX format. Merge ODS to XLTX in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to XLTX in C#., Free Online C# Merge ODS to xltx., C# Combine ODS to XLTX Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

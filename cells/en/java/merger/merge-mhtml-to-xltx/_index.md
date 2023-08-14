@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to XLTX - Combine MHTML to XLTX in Java
 url: /java/merger/merge-mhtml-to-xltx/ 
-description: Aspose Excel. Free Online Merge MHTML to XLTX saveformat. Java Combine MHTML to XLTX format. Merge MHTML to XLTX in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLTX saveformat via Java., Free Online Merge MHTML to xltx in Java., Java Combine MHTML to XLTX Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to XLTX saveformat. Java Combine MHTML to XLTX format. Merge MHTML to XLTX in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLTX in Java., Free Online Java Merge MHTML to xltx., Java Combine MHTML to XLTX Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

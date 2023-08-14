@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to JPG - Combine OTS to JPG in C#
 url: /net/merger/merge-ots-to-jpg/ 
-description: Aspose Excel. Free Online Merge OTS to JPG saveformat. C# Combine OTS to JPG format. Merge OTS to JPG in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to JPG saveformat via C#., Free Online Merge OTS to jpg in C#., C# Combine OTS to JPG Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to JPG saveformat. C# Combine OTS to JPG format. Merge OTS to JPG in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to JPG in C#., Free Online C# Merge OTS to jpg., C# Combine OTS to JPG Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

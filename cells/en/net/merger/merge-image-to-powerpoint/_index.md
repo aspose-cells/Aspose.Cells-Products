@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to POWERPOINT - Combine IMAGE to POWERPOINT in C#
 url: /net/merger/merge-image-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge IMAGE to POWERPOINT saveformat. C# Combine IMAGE to POWERPOINT format. Merge IMAGE to POWERPOINT in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to POWERPOINT saveformat via C#., Free Online Merge IMAGE to powerpoint in C#., C# Combine IMAGE to POWERPOINT Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to POWERPOINT saveformat. C# Combine IMAGE to POWERPOINT format. Merge IMAGE to POWERPOINT in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to POWERPOINT in C#., Free Online C# Merge IMAGE to powerpoint., C# Combine IMAGE to POWERPOINT Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

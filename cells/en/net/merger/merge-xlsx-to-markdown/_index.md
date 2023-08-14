@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to MARKDOWN - Combine XLSX to MARKDOWN in C#
 url: /net/merger/merge-xlsx-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLSX to MARKDOWN saveformat. C# Combine XLSX to MARKDOWN format. Merge XLSX to MARKDOWN in C#. XLSX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to MARKDOWN saveformat via C#., Free Online Merge XLSX to markdown in C#., C# Combine XLSX to MARKDOWN Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to MARKDOWN saveformat. C# Combine XLSX to MARKDOWN format. Merge XLSX to MARKDOWN in C#. XLSX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to MARKDOWN in C#., Free Online C# Merge XLSX to markdown., C# Combine XLSX to MARKDOWN Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

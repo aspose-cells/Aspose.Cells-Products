@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MHT - Combine TXT to MHT in Python
 url: /python-net/merger/merge-txt-to-mht/ 
-description: Aspose Excel. Free Online Merge TXT to MHT saveformat. Python Combine TXT to MHT format. Merge TXT to MHT in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to MHT saveformat via Python., Free Online Merge TXT to mht in Python., Python Combine TXT to MHT Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to MHT saveformat. Python Combine TXT to MHT format. Merge TXT to MHT in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to MHT in Python., Free Online Python Merge TXT to mht., Python Combine TXT to MHT Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

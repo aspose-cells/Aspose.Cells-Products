@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SQL - Combine JSON to SQL in C++
 url: /cpp/merger/merge-json-to-sql/ 
-description: Aspose Excel. Free Online Merge JSON to SQL saveformat. C++ Combine JSON to SQL format. Merge JSON to SQL in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to SQL saveformat via C++., Free Online Merge JSON to sql in C++., C++ Combine JSON to SQL Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to SQL saveformat. C++ Combine JSON to SQL format. Merge JSON to SQL in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to SQL in C++., Free Online C++ Merge JSON to sql., C++ Combine JSON to SQL Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

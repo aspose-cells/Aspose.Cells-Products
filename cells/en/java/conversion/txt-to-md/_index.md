@@ -1,7 +1,7 @@
 ---
-title: TXT to MD - Convert TXT to MD files Java
-description: Aspose Excel. Free Online Convert TXT to MD saveformat. Java TXT to MD format. Save TXT as MD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to MD saveformat., Free Online TXT to MD Converter]
+title: Java TXT to MD - Online TXT to MD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to MD saveformat. Java TXT to MD format. Save TXT to MD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to MD saveformat., Free Online TXT to MD Java., Java Convert TXT to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

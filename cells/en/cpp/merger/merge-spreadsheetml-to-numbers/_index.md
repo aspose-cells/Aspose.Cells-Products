@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to NUMBERS - Combine SPREADSHEETML to NUMBERS in C++
 url: /cpp/merger/merge-spreadsheetml-to-numbers/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to NUMBERS saveformat. C++ Combine SPREADSHEETML to NUMBERS format. Merge SPREADSHEETML to NUMBERS in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to NUMBERS saveformat via C++., Free Online Merge SPREADSHEETML to numbers in C++., C++ Combine SPREADSHEETML to NUMBERS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to NUMBERS saveformat. C++ Combine SPREADSHEETML to NUMBERS format. Merge SPREADSHEETML to NUMBERS in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to NUMBERS in C++., Free Online C++ Merge SPREADSHEETML to numbers., C++ Combine SPREADSHEETML to NUMBERS Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

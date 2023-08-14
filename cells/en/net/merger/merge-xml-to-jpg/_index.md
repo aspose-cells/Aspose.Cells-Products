@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JPG - Combine XML to JPG in C#
 url: /net/merger/merge-xml-to-jpg/ 
-description: Aspose Excel. Free Online Merge XML to JPG saveformat. C# Combine XML to JPG format. Merge XML to JPG in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to JPG saveformat via C#., Free Online Merge XML to jpg in C#., C# Combine XML to JPG Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to JPG saveformat. C# Combine XML to JPG format. Merge XML to JPG in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to JPG in C#., Free Online C# Merge XML to jpg., C# Combine XML to JPG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

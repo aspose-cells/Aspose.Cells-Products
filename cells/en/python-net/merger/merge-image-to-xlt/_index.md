@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLT - Combine IMAGE to XLT in Python
 url: /python-net/merger/merge-image-to-xlt/ 
-description: Aspose Excel. Free Online Merge IMAGE to XLT saveformat. Python Combine IMAGE to XLT format. Merge IMAGE to XLT in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XLT saveformat via Python., Free Online Merge IMAGE to xlt in Python., Python Combine IMAGE to XLT Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to XLT saveformat. Python Combine IMAGE to XLT format. Merge IMAGE to XLT in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to XLT in Python., Free Online Python Merge IMAGE to xlt., Python Combine IMAGE to XLT Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

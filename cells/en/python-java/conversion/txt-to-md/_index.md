@@ -1,7 +1,7 @@
 ---
-title: TXT to MD - Convert TXT to MD files Python
-description: Aspose Excel. Free Online Convert TXT to MD saveformat. Python TXT to MD format. Save TXT as MD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to MD saveformat., Free Online TXT to MD Converter]
+title: Python TXT to MD - Online TXT to MD Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert TXT to MD saveformat. Python TXT to MD format. Save TXT to MD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to MD saveformat., Free Online TXT to MD Python., Python Convert TXT to MD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

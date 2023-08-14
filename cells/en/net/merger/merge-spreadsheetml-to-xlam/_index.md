@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLAM - Combine SPREADSHEETML to XLAM in C#
 url: /net/merger/merge-spreadsheetml-to-xlam/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XLAM saveformat. C# Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM saveformat via C#., Free Online Merge SPREADSHEETML to xlam in C#., C# Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to XLAM saveformat. C# Combine SPREADSHEETML to XLAM format. Merge SPREADSHEETML to XLAM in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLAM in C#., Free Online C# Merge SPREADSHEETML to xlam., C# Combine SPREADSHEETML to XLAM Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

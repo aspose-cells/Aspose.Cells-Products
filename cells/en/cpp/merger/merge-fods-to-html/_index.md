@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to HTML - Combine FODS to HTML in C++
 url: /cpp/merger/merge-fods-to-html/ 
-description: Aspose Excel. Free Online Merge FODS to HTML saveformat. C++ Combine FODS to HTML format. Merge FODS to HTML in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to HTML saveformat via C++., Free Online Merge FODS to html in C++., C++ Combine FODS to HTML Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to HTML saveformat. C++ Combine FODS to HTML format. Merge FODS to HTML in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to HTML in C++., Free Online C++ Merge FODS to html., C++ Combine FODS to HTML Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

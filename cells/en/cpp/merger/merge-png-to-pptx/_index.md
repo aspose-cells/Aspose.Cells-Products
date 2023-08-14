@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PPTX - Combine PNG to PPTX in C++
 url: /cpp/merger/merge-png-to-pptx/ 
-description: Aspose Excel. Free Online Merge PNG to PPTX saveformat. C++ Combine PNG to PPTX format. Merge PNG to PPTX in C++. PNG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to PPTX saveformat via C++., Free Online Merge PNG to pptx in C++., C++ Combine PNG to PPTX Online for Free., PNG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PNG to PPTX saveformat. C++ Combine PNG to PPTX format. Merge PNG to PPTX in C++. PNG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PNG to PPTX in C++., Free Online C++ Merge PNG to pptx., C++ Combine PNG to PPTX Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PNG - Combine MHTML to PNG in Python
 url: /python-net/merger/merge-mhtml-to-png/ 
-description: Aspose Excel. Free Online Merge MHTML to PNG saveformat. Python Combine MHTML to PNG format. Merge MHTML to PNG in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to PNG saveformat via Python., Free Online Merge MHTML to png in Python., Python Combine MHTML to PNG Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to PNG saveformat. Python Combine MHTML to PNG format. Merge MHTML to PNG in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to PNG in Python., Free Online Python Merge MHTML to png., Python Combine MHTML to PNG Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

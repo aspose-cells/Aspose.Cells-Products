@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XML - Combine NUMBERS to XML in Java
 url: /java/merger/merge-numbers-to-xml/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XML saveformat. Java Combine NUMBERS to XML format. Merge NUMBERS to XML in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XML saveformat via Java., Free Online Merge NUMBERS to xml in Java., Java Combine NUMBERS to XML Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to XML saveformat. Java Combine NUMBERS to XML format. Merge NUMBERS to XML in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to XML in Java., Free Online Java Merge NUMBERS to xml., Java Combine NUMBERS to XML Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to JSON - Combine HTM to JSON in Java
 url: /java/merger/merge-htm-to-json/ 
-description: Aspose Excel. Free Online Merge HTM to JSON saveformat. Java Combine HTM to JSON format. Merge HTM to JSON in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to JSON saveformat via Java., Free Online Merge HTM to json in Java., Java Combine HTM to JSON Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to JSON saveformat. Java Combine HTM to JSON format. Merge HTM to JSON in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to JSON in Java., Free Online Java Merge HTM to json., Java Combine HTM to JSON Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

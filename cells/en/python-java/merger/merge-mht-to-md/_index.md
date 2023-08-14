@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MD - Combine MHT to MD in Python
 url: /python-java/merger/merge-mht-to-md/ 
-description: Aspose Excel. Free Online Merge MHT to MD saveformat. Python Combine MHT to MD format. Merge MHT to MD in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to MD saveformat via Python., Free Online Merge MHT to md in Python., Python Combine MHT to MD Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to MD saveformat. Python Combine MHT to MD format. Merge MHT to MD in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to MD in Python., Free Online Python Merge MHT to md., Python Combine MHT to MD Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

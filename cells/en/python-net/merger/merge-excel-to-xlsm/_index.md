@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLSM - Combine EXCEL to XLSM in Python
 url: /python-net/merger/merge-excel-to-xlsm/ 
-description: Aspose Excel. Free Online Merge EXCEL to XLSM saveformat. Python Combine EXCEL to XLSM format. Merge EXCEL to XLSM in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSM saveformat via Python., Free Online Merge EXCEL to xlsm in Python., Python Combine EXCEL to XLSM Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to XLSM saveformat. Python Combine EXCEL to XLSM format. Merge EXCEL to XLSM in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSM in Python., Free Online Python Merge EXCEL to xlsm., Python Combine EXCEL to XLSM Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

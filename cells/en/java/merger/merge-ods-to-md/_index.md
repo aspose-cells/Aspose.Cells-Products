@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to MD - Combine ODS to MD in Java
 url: /java/merger/merge-ods-to-md/ 
-description: Aspose Excel. Free Online Merge ODS to MD saveformat. Java Combine ODS to MD format. Merge ODS to MD in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to MD saveformat via Java., Free Online Merge ODS to md in Java., Java Combine ODS to MD Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to MD saveformat. Java Combine ODS to MD format. Merge ODS to MD in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to MD in Java., Free Online Java Merge ODS to md., Java Combine ODS to MD Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

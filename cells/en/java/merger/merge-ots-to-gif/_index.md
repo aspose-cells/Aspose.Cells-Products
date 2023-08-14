@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to GIF - Combine OTS to GIF in Java
 url: /java/merger/merge-ots-to-gif/ 
-description: Aspose Excel. Free Online Merge OTS to GIF saveformat. Java Combine OTS to GIF format. Merge OTS to GIF in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to GIF saveformat via Java., Free Online Merge OTS to gif in Java., Java Combine OTS to GIF Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to GIF saveformat. Java Combine OTS to GIF format. Merge OTS to GIF in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to GIF in Java., Free Online Java Merge OTS to gif., Java Combine OTS to GIF Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

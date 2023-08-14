@@ -1,7 +1,7 @@
 ---
-title: JPEG to BMP - Convert JPEG to BMP files Python
-description: Aspose Excel. Free Online Convert JPEG to BMP saveformat. Python JPEG to BMP format. Save JPEG as BMP in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to BMP saveformat., Free Online JPEG to BMP Converter]
+title: Python JPEG to BMP - Online JPEG to BMP Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to BMP saveformat. Python JPEG to BMP format. Save JPEG to BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to BMP saveformat., Free Online JPEG to BMP Python., Python Convert JPEG to BMP]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

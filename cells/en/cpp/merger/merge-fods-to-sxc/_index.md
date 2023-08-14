@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SXC - Combine FODS to SXC in C++
 url: /cpp/merger/merge-fods-to-sxc/ 
-description: Aspose Excel. Free Online Merge FODS to SXC saveformat. C++ Combine FODS to SXC format. Merge FODS to SXC in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to SXC saveformat via C++., Free Online Merge FODS to sxc in C++., C++ Combine FODS to SXC Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to SXC saveformat. C++ Combine FODS to SXC format. Merge FODS to SXC in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to SXC in C++., Free Online C++ Merge FODS to sxc., C++ Combine FODS to SXC Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

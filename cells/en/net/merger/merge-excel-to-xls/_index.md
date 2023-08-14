@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLS - Combine EXCEL to XLS in C#
 url: /net/merger/merge-excel-to-xls/ 
-description: Aspose Excel. Free Online Merge EXCEL to XLS saveformat. C# Combine EXCEL to XLS format. Merge EXCEL to XLS in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLS saveformat via C#., Free Online Merge EXCEL to xls in C#., C# Combine EXCEL to XLS Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to XLS saveformat. C# Combine EXCEL to XLS format. Merge EXCEL to XLS in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLS in C#., Free Online C# Merge EXCEL to xls., C# Combine EXCEL to XLS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

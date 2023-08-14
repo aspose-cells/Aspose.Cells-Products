@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ODS - Combine HTML to ODS in C#
 url: /net/merger/merge-html-to-ods/ 
-description: Aspose Excel. Free Online Merge HTML to ODS saveformat. C# Combine HTML to ODS format. Merge HTML to ODS in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ODS saveformat via C#., Free Online Merge HTML to ods in C#., C# Combine HTML to ODS Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to ODS saveformat. C# Combine HTML to ODS format. Merge HTML to ODS in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to ODS in C#., Free Online C# Merge HTML to ods., C# Combine HTML to ODS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

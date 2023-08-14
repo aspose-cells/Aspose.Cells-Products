@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to EMF - Combine ODS to EMF in Java
 url: /java/merger/merge-ods-to-emf/ 
-description: Aspose Excel. Free Online Merge ODS to EMF saveformat. Java Combine ODS to EMF format. Merge ODS to EMF in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to EMF saveformat via Java., Free Online Merge ODS to emf in Java., Java Combine ODS to EMF Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to EMF saveformat. Java Combine ODS to EMF format. Merge ODS to EMF in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to EMF in Java., Free Online Java Merge ODS to emf., Java Combine ODS to EMF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

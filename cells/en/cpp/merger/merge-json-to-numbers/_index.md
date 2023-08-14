@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to NUMBERS - Combine JSON to NUMBERS in C++
 url: /cpp/merger/merge-json-to-numbers/ 
-description: Aspose Excel. Free Online Merge JSON to NUMBERS saveformat. C++ Combine JSON to NUMBERS format. Merge JSON to NUMBERS in C++. JSON Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to NUMBERS saveformat via C++., Free Online Merge JSON to numbers in C++., C++ Combine JSON to NUMBERS Online for Free., JSON Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JSON to NUMBERS saveformat. C++ Combine JSON to NUMBERS format. Merge JSON to NUMBERS in C++. JSON Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to NUMBERS in C++., Free Online C++ Merge JSON to numbers., C++ Combine JSON to NUMBERS Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

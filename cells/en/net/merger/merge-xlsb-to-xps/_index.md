@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to XPS - Combine XLSB to XPS in C#
 url: /net/merger/merge-xlsb-to-xps/ 
-description: Aspose Excel. Free Online Merge XLSB to XPS saveformat. C# Combine XLSB to XPS format. Merge XLSB to XPS in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XPS saveformat via C#., Free Online Merge XLSB to xps in C#., C# Combine XLSB to XPS Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to XPS saveformat. C# Combine XLSB to XPS format. Merge XLSB to XPS in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XPS in C#., Free Online C# Merge XLSB to xps., C# Combine XLSB to XPS Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

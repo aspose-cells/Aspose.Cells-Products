@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to WORD - Combine JSON to WORD in Java
 url: /java/merger/merge-json-to-word/ 
-description: Aspose Excel. Free Online Merge JSON to WORD saveformat. Java Combine JSON to WORD format. Merge JSON to WORD in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to WORD saveformat via Java., Free Online Merge JSON to word in Java., Java Combine JSON to WORD Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to WORD saveformat. Java Combine JSON to WORD format. Merge JSON to WORD in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to WORD in Java., Free Online Java Merge JSON to word., Java Combine JSON to WORD Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

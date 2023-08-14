@@ -1,7 +1,7 @@
 ---
-title: MHT to WORD - Convert MHT to WORD files Java
-description: Aspose Excel. Free Online Convert MHT to WORD saveformat. Java MHT to WORD format. Save MHT as WORD in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to WORD saveformat., Free Online MHT to WORD Converter]
+title: Java MHT to WORD - Online MHT to WORD Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHT to WORD saveformat. Java MHT to WORD format. Save MHT to WORD Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHT to WORD saveformat., Free Online MHT to WORD Java., Java Convert MHT to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

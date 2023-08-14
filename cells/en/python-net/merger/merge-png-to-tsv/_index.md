@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to TSV - Combine PNG to TSV in Python
 url: /python-net/merger/merge-png-to-tsv/ 
-description: Aspose Excel. Free Online Merge PNG to TSV saveformat. Python Combine PNG to TSV format. Merge PNG to TSV in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TSV saveformat via Python., Free Online Merge PNG to tsv in Python., Python Combine PNG to TSV Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to TSV saveformat. Python Combine PNG to TSV format. Merge PNG to TSV in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to TSV in Python., Free Online Python Merge PNG to tsv., Python Combine PNG to TSV Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

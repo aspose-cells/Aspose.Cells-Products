@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to POWERPOINT - Combine PRN to POWERPOINT in Python
 url: /python-java/merger/merge-prn-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge PRN to POWERPOINT saveformat. Python Combine PRN to POWERPOINT format. Merge PRN to POWERPOINT in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to POWERPOINT saveformat via Python., Free Online Merge PRN to powerpoint in Python., Python Combine PRN to POWERPOINT Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to POWERPOINT saveformat. Python Combine PRN to POWERPOINT format. Merge PRN to POWERPOINT in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to POWERPOINT in Python., Free Online Python Merge PRN to powerpoint., Python Combine PRN to POWERPOINT Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

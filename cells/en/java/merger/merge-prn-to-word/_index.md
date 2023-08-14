@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to WORD - Combine PRN to WORD in Java
 url: /java/merger/merge-prn-to-word/ 
-description: Aspose Excel. Free Online Merge PRN to WORD saveformat. Java Combine PRN to WORD format. Merge PRN to WORD in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to WORD saveformat via Java., Free Online Merge PRN to word in Java., Java Combine PRN to WORD Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to WORD saveformat. Java Combine PRN to WORD format. Merge PRN to WORD in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to WORD in Java., Free Online Java Merge PRN to word., Java Combine PRN to WORD Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

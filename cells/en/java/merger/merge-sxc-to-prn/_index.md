@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PRN - Combine SXC to PRN in Java
 url: /java/merger/merge-sxc-to-prn/ 
-description: Aspose Excel. Free Online Merge SXC to PRN saveformat. Java Combine SXC to PRN format. Merge SXC to PRN in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to PRN saveformat via Java., Free Online Merge SXC to prn in Java., Java Combine SXC to PRN Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to PRN saveformat. Java Combine SXC to PRN format. Merge SXC to PRN in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to PRN in Java., Free Online Java Merge SXC to prn., Java Combine SXC to PRN Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MD - Combine TXT to MD in Java
 url: /java/merger/merge-txt-to-md/ 
-description: Aspose Excel. Free Online Merge TXT to MD saveformat. Java Combine TXT to MD format. Merge TXT to MD in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to MD saveformat via Java., Free Online Merge TXT to md in Java., Java Combine TXT to MD Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to MD saveformat. Java Combine TXT to MD format. Merge TXT to MD in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to MD in Java., Free Online Java Merge TXT to md., Java Combine TXT to MD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

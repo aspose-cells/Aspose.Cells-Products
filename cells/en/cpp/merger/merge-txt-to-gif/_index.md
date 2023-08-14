@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to GIF - Combine TXT to GIF in C++
 url: /cpp/merger/merge-txt-to-gif/ 
-description: Aspose Excel. Free Online Merge TXT to GIF saveformat. C++ Combine TXT to GIF format. Merge TXT to GIF in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to GIF saveformat via C++., Free Online Merge TXT to gif in C++., C++ Combine TXT to GIF Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to GIF saveformat. C++ Combine TXT to GIF format. Merge TXT to GIF in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to GIF in C++., Free Online C++ Merge TXT to gif., C++ Combine TXT to GIF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

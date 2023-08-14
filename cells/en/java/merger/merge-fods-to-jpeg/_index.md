@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to JPEG - Combine FODS to JPEG in Java
 url: /java/merger/merge-fods-to-jpeg/ 
-description: Aspose Excel. Free Online Merge FODS to JPEG saveformat. Java Combine FODS to JPEG format. Merge FODS to JPEG in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JPEG saveformat via Java., Free Online Merge FODS to jpeg in Java., Java Combine FODS to JPEG Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to JPEG saveformat. Java Combine FODS to JPEG format. Merge FODS to JPEG in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to JPEG in Java., Free Online Java Merge FODS to jpeg., Java Combine FODS to JPEG Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

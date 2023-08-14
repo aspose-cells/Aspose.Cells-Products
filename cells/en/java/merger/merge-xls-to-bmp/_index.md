@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to BMP - Combine XLS to BMP in Java
 url: /java/merger/merge-xls-to-bmp/ 
-description: Aspose Excel. Free Online Merge XLS to BMP saveformat. Java Combine XLS to BMP format. Merge XLS to BMP in Java. XLS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP saveformat via Java., Free Online Merge XLS to bmp in Java., Java Combine XLS to BMP Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to BMP saveformat. Java Combine XLS to BMP format. Merge XLS to BMP in Java. XLS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to BMP in Java., Free Online Java Merge XLS to bmp., Java Combine XLS to BMP Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

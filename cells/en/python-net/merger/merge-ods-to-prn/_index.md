@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PRN - Combine ODS to PRN in Python
 url: /python-net/merger/merge-ods-to-prn/ 
-description: Aspose Excel. Free Online Merge ODS to PRN saveformat. Python Combine ODS to PRN format. Merge ODS to PRN in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PRN saveformat via Python., Free Online Merge ODS to prn in Python., Python Combine ODS to PRN Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to PRN saveformat. Python Combine ODS to PRN format. Merge ODS to PRN in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to PRN in Python., Free Online Python Merge ODS to prn., Python Combine ODS to PRN Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to IMAGE - Combine XLS to IMAGE in Python
 url: /python-java/merger/merge-xls-to-image/ 
-description: Aspose Excel. Free Online Merge XLS to IMAGE saveformat. Python Combine XLS to IMAGE format. Merge XLS to IMAGE in Python. XLS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to IMAGE saveformat via Python., Free Online Merge XLS to image in Python., Python Combine XLS to IMAGE Online for Free., XLS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLS to IMAGE saveformat. Python Combine XLS to IMAGE format. Merge XLS to IMAGE in Python. XLS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to IMAGE in Python., Free Online Python Merge XLS to image., Python Combine XLS to IMAGE Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

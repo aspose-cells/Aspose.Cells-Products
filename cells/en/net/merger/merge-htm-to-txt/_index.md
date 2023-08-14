@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TXT - Combine HTM to TXT in C#
 url: /net/merger/merge-htm-to-txt/ 
-description: Aspose Excel. Free Online Merge HTM to TXT saveformat. C# Combine HTM to TXT format. Merge HTM to TXT in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to TXT saveformat via C#., Free Online Merge HTM to txt in C#., C# Combine HTM to TXT Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to TXT saveformat. C# Combine HTM to TXT format. Merge HTM to TXT in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to TXT in C#., Free Online C# Merge HTM to txt., C# Combine HTM to TXT Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

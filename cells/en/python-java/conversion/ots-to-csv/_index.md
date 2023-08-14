@@ -1,7 +1,7 @@
 ---
-title: OTS to CSV - Convert OTS to CSV files Python
-description: Aspose Excel. Free Online Convert OTS to CSV saveformat. Python OTS to CSV format. Save OTS as CSV in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to CSV saveformat., Free Online OTS to CSV Converter]
+title: Python OTS to CSV - Online OTS to CSV Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert OTS to CSV saveformat. Python OTS to CSV format. Save OTS to CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to CSV saveformat., Free Online OTS to CSV Python., Python Convert OTS to CSV]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

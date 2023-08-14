@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to PPTX - Combine SPREADSHEETML to PPTX in Python
 url: /python-java/merger/merge-spreadsheetml-to-pptx/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to PPTX saveformat. Python Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX saveformat via Python., Free Online Merge SPREADSHEETML to pptx in Python., Python Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to PPTX saveformat. Python Combine SPREADSHEETML to PPTX format. Merge SPREADSHEETML to PPTX in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to PPTX in Python., Free Online Python Merge SPREADSHEETML to pptx., Python Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

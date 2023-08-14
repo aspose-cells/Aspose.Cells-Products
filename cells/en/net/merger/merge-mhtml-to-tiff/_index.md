@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TIFF - Combine MHTML to TIFF in C#
 url: /net/merger/merge-mhtml-to-tiff/ 
-description: Aspose Excel. Free Online Merge MHTML to TIFF saveformat. C# Combine MHTML to TIFF format. Merge MHTML to TIFF in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TIFF saveformat via C#., Free Online Merge MHTML to tiff in C#., C# Combine MHTML to TIFF Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to TIFF saveformat. C# Combine MHTML to TIFF format. Merge MHTML to TIFF in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to TIFF in C#., Free Online C# Merge MHTML to tiff., C# Combine MHTML to TIFF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

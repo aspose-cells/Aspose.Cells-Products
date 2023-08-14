@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to GIF - Combine EXCEL to GIF in Java
 url: /java/merger/merge-excel-to-gif/ 
-description: Aspose Excel. Free Online Merge EXCEL to GIF saveformat. Java Combine EXCEL to GIF format. Merge EXCEL to GIF in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to GIF saveformat via Java., Free Online Merge EXCEL to gif in Java., Java Combine EXCEL to GIF Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to GIF saveformat. Java Combine EXCEL to GIF format. Merge EXCEL to GIF in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to GIF in Java., Free Online Java Merge EXCEL to gif., Java Combine EXCEL to GIF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

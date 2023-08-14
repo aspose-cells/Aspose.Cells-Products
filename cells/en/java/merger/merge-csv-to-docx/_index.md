@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to DOCX - Combine CSV to DOCX in Java
 url: /java/merger/merge-csv-to-docx/ 
-description: Aspose Excel. Free Online Merge CSV to DOCX saveformat. Java Combine CSV to DOCX format. Merge CSV to DOCX in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to DOCX saveformat via Java., Free Online Merge CSV to docx in Java., Java Combine CSV to DOCX Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to DOCX saveformat. Java Combine CSV to DOCX format. Merge CSV to DOCX in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to DOCX in Java., Free Online Java Merge CSV to docx., Java Combine CSV to DOCX Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

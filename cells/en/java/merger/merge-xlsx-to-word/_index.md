@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to WORD - Combine XLSX to WORD in Java
 url: /java/merger/merge-xlsx-to-word/ 
-description: Aspose Excel. Free Online Merge XLSX to WORD saveformat. Java Combine XLSX to WORD format. Merge XLSX to WORD in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to WORD saveformat via Java., Free Online Merge XLSX to word in Java., Java Combine XLSX to WORD Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to WORD saveformat. Java Combine XLSX to WORD format. Merge XLSX to WORD in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to WORD in Java., Free Online Java Merge XLSX to word., Java Combine XLSX to WORD Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

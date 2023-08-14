@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SVG - Combine MHT to SVG in Java
 url: /java/merger/merge-mht-to-svg/ 
-description: Aspose Excel. Free Online Merge MHT to SVG saveformat. Java Combine MHT to SVG format. Merge MHT to SVG in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SVG saveformat via Java., Free Online Merge MHT to svg in Java., Java Combine MHT to SVG Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to SVG saveformat. Java Combine MHT to SVG format. Merge MHT to SVG in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to SVG in Java., Free Online Java Merge MHT to svg., Java Combine MHT to SVG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

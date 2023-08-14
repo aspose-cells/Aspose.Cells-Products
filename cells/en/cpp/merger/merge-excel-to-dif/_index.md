@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DIF - Combine EXCEL to DIF in C++
 url: /cpp/merger/merge-excel-to-dif/ 
-description: Aspose Excel. Free Online Merge EXCEL to DIF saveformat. C++ Combine EXCEL to DIF format. Merge EXCEL to DIF in C++. EXCEL Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to DIF saveformat via C++., Free Online Merge EXCEL to dif in C++., C++ Combine EXCEL to DIF Online for Free., EXCEL Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge EXCEL to DIF saveformat. C++ Combine EXCEL to DIF format. Merge EXCEL to DIF in C++. EXCEL Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge EXCEL to DIF in C++., Free Online C++ Merge EXCEL to dif., C++ Combine EXCEL to DIF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

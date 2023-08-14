@@ -1,7 +1,7 @@
 ---
-title: JSON to TXT - Convert JSON to TXT files C#
-description: Aspose Excel. Free Online Convert JSON to TXT saveformat. C# JSON to TXT format. Save JSON as TXT in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JSON to TXT saveformat., Free Online JSON to TXT Converter]
+title: C# JSON to TXT - Online JSON to TXT Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JSON to TXT saveformat. C# JSON to TXT format. Save JSON to TXT C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JSON to TXT saveformat., Free Online JSON to TXT C#., C# Convert JSON to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

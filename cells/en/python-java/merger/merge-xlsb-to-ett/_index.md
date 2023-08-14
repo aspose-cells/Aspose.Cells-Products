@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ETT - Combine XLSB to ETT in Python
 url: /python-java/merger/merge-xlsb-to-ett/ 
-description: Aspose Excel. Free Online Merge XLSB to ETT saveformat. Python Combine XLSB to ETT format. Merge XLSB to ETT in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to ETT saveformat via Python., Free Online Merge XLSB to ett in Python., Python Combine XLSB to ETT Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to ETT saveformat. Python Combine XLSB to ETT format. Merge XLSB to ETT in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to ETT in Python., Free Online Python Merge XLSB to ett., Python Combine XLSB to ETT Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

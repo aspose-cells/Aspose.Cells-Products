@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to JSON - Combine XLT to JSON in Java
 url: /java/merger/merge-xlt-to-json/ 
-description: Aspose Excel. Free Online Merge XLT to JSON saveformat. Java Combine XLT to JSON format. Merge XLT to JSON in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to JSON saveformat via Java., Free Online Merge XLT to json in Java., Java Combine XLT to JSON Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to JSON saveformat. Java Combine XLT to JSON format. Merge XLT to JSON in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to JSON in Java., Free Online Java Merge XLT to json., Java Combine XLT to JSON Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: PNG to SXC - Convert PNG to SXC files C++
-description: Aspose Excel. Free Online Convert PNG to SXC saveformat. C++ PNG to SXC format. Save PNG as SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to SXC saveformat., Free Online PNG to SXC Converter]
+title: C++ PNG to SXC - Online PNG to SXC Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to SXC saveformat. C++ PNG to SXC format. Save PNG to SXC C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to SXC saveformat., Free Online PNG to SXC C++., C++ Convert PNG to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

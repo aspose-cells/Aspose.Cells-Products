@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PRN - Combine OTS to PRN in C++
 url: /cpp/merger/merge-ots-to-prn/ 
-description: Aspose Excel. Free Online Merge OTS to PRN saveformat. C++ Combine OTS to PRN format. Merge OTS to PRN in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PRN saveformat via C++., Free Online Merge OTS to prn in C++., C++ Combine OTS to PRN Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to PRN saveformat. C++ Combine OTS to PRN format. Merge OTS to PRN in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PRN in C++., Free Online C++ Merge OTS to prn., C++ Combine OTS to PRN Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

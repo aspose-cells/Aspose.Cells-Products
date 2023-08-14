@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to SVG - Combine MHT to SVG in C++
 url: /cpp/merger/merge-mht-to-svg/ 
-description: Aspose Excel. Free Online Merge MHT to SVG saveformat. C++ Combine MHT to SVG format. Merge MHT to SVG in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to SVG saveformat via C++., Free Online Merge MHT to svg in C++., C++ Combine MHT to SVG Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to SVG saveformat. C++ Combine MHT to SVG format. Merge MHT to SVG in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to SVG in C++., Free Online C++ Merge MHT to svg., C++ Combine MHT to SVG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

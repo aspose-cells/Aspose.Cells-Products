@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to POWERPOINT - Combine TSV to POWERPOINT in C#
 url: /net/merger/merge-tsv-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge TSV to POWERPOINT saveformat. C# Combine TSV to POWERPOINT format. Merge TSV to POWERPOINT in C#. TSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to POWERPOINT saveformat via C#., Free Online Merge TSV to powerpoint in C#., C# Combine TSV to POWERPOINT Online for Free., TSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TSV to POWERPOINT saveformat. C# Combine TSV to POWERPOINT format. Merge TSV to POWERPOINT in C#. TSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to POWERPOINT in C#., Free Online C# Merge TSV to powerpoint., C# Combine TSV to POWERPOINT Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

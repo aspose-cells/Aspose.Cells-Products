@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to PDF - Combine JPEG to PDF in C#
 url: /net/merger/merge-jpeg-to-pdf/ 
-description: Aspose Excel. Free Online Merge JPEG to PDF saveformat. C# Combine JPEG to PDF format. Merge JPEG to PDF in C#. JPEG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to PDF saveformat via C#., Free Online Merge JPEG to pdf in C#., C# Combine JPEG to PDF Online for Free., JPEG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPEG to PDF saveformat. C# Combine JPEG to PDF format. Merge JPEG to PDF in C#. JPEG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPEG to PDF in C#., Free Online C# Merge JPEG to pdf., C# Combine JPEG to PDF Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

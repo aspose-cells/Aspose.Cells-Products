@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to WORD - Combine FODS to WORD in Java
 url: /java/merger/merge-fods-to-word/ 
-description: Aspose Excel. Free Online Merge FODS to WORD saveformat. Java Combine FODS to WORD format. Merge FODS to WORD in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to WORD saveformat via Java., Free Online Merge FODS to word in Java., Java Combine FODS to WORD Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to WORD saveformat. Java Combine FODS to WORD format. Merge FODS to WORD in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to WORD in Java., Free Online Java Merge FODS to word., Java Combine FODS to WORD Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

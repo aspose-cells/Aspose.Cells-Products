@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to HTM - Combine ODS to HTM in Java
 url: /java/merger/merge-ods-to-htm/ 
-description: Aspose Excel. Free Online Merge ODS to HTM saveformat. Java Combine ODS to HTM format. Merge ODS to HTM in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to HTM saveformat via Java., Free Online Merge ODS to htm in Java., Java Combine ODS to HTM Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to HTM saveformat. Java Combine ODS to HTM format. Merge ODS to HTM in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to HTM in Java., Free Online Java Merge ODS to htm., Java Combine ODS to HTM Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

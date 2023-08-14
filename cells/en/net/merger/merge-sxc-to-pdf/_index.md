@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PDF - Combine SXC to PDF in C#
 url: /net/merger/merge-sxc-to-pdf/ 
-description: Aspose Excel. Free Online Merge SXC to PDF saveformat. C# Combine SXC to PDF format. Merge SXC to PDF in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to PDF saveformat via C#., Free Online Merge SXC to pdf in C#., C# Combine SXC to PDF Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to PDF saveformat. C# Combine SXC to PDF format. Merge SXC to PDF in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to PDF in C#., Free Online C# Merge SXC to pdf., C# Combine SXC to PDF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

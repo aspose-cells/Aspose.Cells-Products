@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to SVG - Combine XLSX to SVG in Python
 url: /python-net/merger/merge-xlsx-to-svg/ 
-description: Aspose Excel. Free Online Merge XLSX to SVG saveformat. Python Combine XLSX to SVG format. Merge XLSX to SVG in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to SVG saveformat via Python., Free Online Merge XLSX to svg in Python., Python Combine XLSX to SVG Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to SVG saveformat. Python Combine XLSX to SVG format. Merge XLSX to SVG in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to SVG in Python., Free Online Python Merge XLSX to svg., Python Combine XLSX to SVG Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

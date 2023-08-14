@@ -1,7 +1,7 @@
 ---
-title: XLSB to SXC - Convert XLSB to SXC files C++
-description: Aspose Excel. Free Online Convert XLSB to SXC saveformat. C++ XLSB to SXC format. Save XLSB as SXC in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to SXC saveformat., Free Online XLSB to SXC Converter]
+title: C++ XLSB to SXC - Online XLSB to SXC Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to SXC saveformat. C++ XLSB to SXC format. Save XLSB to SXC C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to SXC saveformat., Free Online XLSB to SXC C++., C++ Convert XLSB to SXC]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

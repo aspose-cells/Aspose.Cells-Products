@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to POWERPOINT - Combine NUMBERS to POWERPOINT in Python
 url: /python-net/merger/merge-numbers-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge NUMBERS to POWERPOINT saveformat. Python Combine NUMBERS to POWERPOINT format. Merge NUMBERS to POWERPOINT in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to POWERPOINT saveformat via Python., Free Online Merge NUMBERS to powerpoint in Python., Python Combine NUMBERS to POWERPOINT Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to POWERPOINT saveformat. Python Combine NUMBERS to POWERPOINT format. Merge NUMBERS to POWERPOINT in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to POWERPOINT in Python., Free Online Python Merge NUMBERS to powerpoint., Python Combine NUMBERS to POWERPOINT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

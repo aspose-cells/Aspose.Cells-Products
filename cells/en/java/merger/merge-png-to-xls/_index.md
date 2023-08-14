@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to XLS - Combine PNG to XLS in Java
 url: /java/merger/merge-png-to-xls/ 
-description: Aspose Excel. Free Online Merge PNG to XLS saveformat. Java Combine PNG to XLS format. Merge PNG to XLS in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLS saveformat via Java., Free Online Merge PNG to xls in Java., Java Combine PNG to XLS Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to XLS saveformat. Java Combine PNG to XLS format. Merge PNG to XLS in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to XLS in Java., Free Online Java Merge PNG to xls., Java Combine PNG to XLS Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

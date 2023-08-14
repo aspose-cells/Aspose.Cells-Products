@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ETT - Combine PNG to ETT in C#
 url: /net/merger/merge-png-to-ett/ 
-description: Aspose Excel. Free Online Merge PNG to ETT saveformat. C# Combine PNG to ETT format. Merge PNG to ETT in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to ETT saveformat via C#., Free Online Merge PNG to ett in C#., C# Combine PNG to ETT Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to ETT saveformat. C# Combine PNG to ETT format. Merge PNG to ETT in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to ETT in C#., Free Online C# Merge PNG to ett., C# Combine PNG to ETT Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

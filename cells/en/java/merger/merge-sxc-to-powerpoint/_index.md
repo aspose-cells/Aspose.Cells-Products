@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to POWERPOINT - Combine SXC to POWERPOINT in Java
 url: /java/merger/merge-sxc-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SXC to POWERPOINT saveformat. Java Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to POWERPOINT saveformat via Java., Free Online Merge SXC to powerpoint in Java., Java Combine SXC to POWERPOINT Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to POWERPOINT saveformat. Java Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to POWERPOINT in Java., Free Online Java Merge SXC to powerpoint., Java Combine SXC to POWERPOINT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

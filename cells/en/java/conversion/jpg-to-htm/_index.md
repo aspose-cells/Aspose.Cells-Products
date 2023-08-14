@@ -1,7 +1,7 @@
 ---
-title: JPG to HTM - Convert JPG to HTM files Java
-description: Aspose Excel. Free Online Convert JPG to HTM saveformat. Java JPG to HTM format. Save JPG as HTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to HTM saveformat., Free Online JPG to HTM Converter]
+title: Java JPG to HTM - Online JPG to HTM Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to HTM saveformat. Java JPG to HTM format. Save JPG to HTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to HTM saveformat., Free Online JPG to HTM Java., Java Convert JPG to HTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to TIFF - Combine JPG to TIFF in C#
 url: /net/merger/merge-jpg-to-tiff/ 
-description: Aspose Excel. Free Online Merge JPG to TIFF saveformat. C# Combine JPG to TIFF format. Merge JPG to TIFF in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TIFF saveformat via C#., Free Online Merge JPG to tiff in C#., C# Combine JPG to TIFF Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to TIFF saveformat. C# Combine JPG to TIFF format. Merge JPG to TIFF in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to TIFF in C#., Free Online C# Merge JPG to tiff., C# Combine JPG to TIFF Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

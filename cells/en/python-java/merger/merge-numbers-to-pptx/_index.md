@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PPTX - Combine NUMBERS to PPTX in Python
 url: /python-java/merger/merge-numbers-to-pptx/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PPTX saveformat. Python Combine NUMBERS to PPTX format. Merge NUMBERS to PPTX in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PPTX saveformat via Python., Free Online Merge NUMBERS to pptx in Python., Python Combine NUMBERS to PPTX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to PPTX saveformat. Python Combine NUMBERS to PPTX format. Merge NUMBERS to PPTX in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PPTX in Python., Free Online Python Merge NUMBERS to pptx., Python Combine NUMBERS to PPTX Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

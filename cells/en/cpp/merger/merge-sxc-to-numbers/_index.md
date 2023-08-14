@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to NUMBERS - Combine SXC to NUMBERS in C++
 url: /cpp/merger/merge-sxc-to-numbers/ 
-description: Aspose Excel. Free Online Merge SXC to NUMBERS saveformat. C++ Combine SXC to NUMBERS format. Merge SXC to NUMBERS in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to NUMBERS saveformat via C++., Free Online Merge SXC to numbers in C++., C++ Combine SXC to NUMBERS Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to NUMBERS saveformat. C++ Combine SXC to NUMBERS format. Merge SXC to NUMBERS in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to NUMBERS in C++., Free Online C++ Merge SXC to numbers., C++ Combine SXC to NUMBERS Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

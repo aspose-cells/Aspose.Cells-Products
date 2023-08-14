@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to MD - Combine HTM to MD in Python
 url: /python-java/merger/merge-htm-to-md/ 
-description: Aspose Excel. Free Online Merge HTM to MD saveformat. Python Combine HTM to MD format. Merge HTM to MD in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MD saveformat via Python., Free Online Merge HTM to md in Python., Python Combine HTM to MD Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to MD saveformat. Python Combine HTM to MD format. Merge HTM to MD in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to MD in Python., Free Online Python Merge HTM to md., Python Combine HTM to MD Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

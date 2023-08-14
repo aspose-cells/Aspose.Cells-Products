@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MD - Combine FODS to MD in Java
 url: /java/merger/merge-fods-to-md/ 
-description: Aspose Excel. Free Online Merge FODS to MD saveformat. Java Combine FODS to MD format. Merge FODS to MD in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to MD saveformat via Java., Free Online Merge FODS to md in Java., Java Combine FODS to MD Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to MD saveformat. Java Combine FODS to MD format. Merge FODS to MD in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to MD in Java., Free Online Java Merge FODS to md., Java Combine FODS to MD Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

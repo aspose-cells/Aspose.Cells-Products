@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to DIF - Combine JPG to DIF in Python
 url: /python-java/merger/merge-jpg-to-dif/ 
-description: Aspose Excel. Free Online Merge JPG to DIF saveformat. Python Combine JPG to DIF format. Merge JPG to DIF in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to DIF saveformat via Python., Free Online Merge JPG to dif in Python., Python Combine JPG to DIF Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to DIF saveformat. Python Combine JPG to DIF format. Merge JPG to DIF in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to DIF in Python., Free Online Python Merge JPG to dif., Python Combine JPG to DIF Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

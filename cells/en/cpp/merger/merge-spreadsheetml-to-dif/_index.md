@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to DIF - Combine SPREADSHEETML to DIF in C++
 url: /cpp/merger/merge-spreadsheetml-to-dif/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to DIF saveformat. C++ Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in C++. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to DIF saveformat via C++., Free Online Merge SPREADSHEETML to dif in C++., C++ Combine SPREADSHEETML to DIF Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SPREADSHEETML to DIF saveformat. C++ Combine SPREADSHEETML to DIF format. Merge SPREADSHEETML to DIF in C++. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to DIF in C++., Free Online C++ Merge SPREADSHEETML to dif., C++ Combine SPREADSHEETML to DIF Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

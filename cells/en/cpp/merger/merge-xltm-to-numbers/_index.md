@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to NUMBERS - Combine XLTM to NUMBERS in C++
 url: /cpp/merger/merge-xltm-to-numbers/ 
-description: Aspose Excel. Free Online Merge XLTM to NUMBERS saveformat. C++ Combine XLTM to NUMBERS format. Merge XLTM to NUMBERS in C++. XLTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to NUMBERS saveformat via C++., Free Online Merge XLTM to numbers in C++., C++ Combine XLTM to NUMBERS Online for Free., XLTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTM to NUMBERS saveformat. C++ Combine XLTM to NUMBERS format. Merge XLTM to NUMBERS in C++. XLTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to NUMBERS in C++., Free Online C++ Merge XLTM to numbers., C++ Combine XLTM to NUMBERS Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

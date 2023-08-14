@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SPREADSHEETML - Combine ODS to SPREADSHEETML in Python
 url: /python-java/merger/merge-ods-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge ODS to SPREADSHEETML saveformat. Python Combine ODS to SPREADSHEETML format. Merge ODS to SPREADSHEETML in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to SPREADSHEETML saveformat via Python., Free Online Merge ODS to spreadsheetml in Python., Python Combine ODS to SPREADSHEETML Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to SPREADSHEETML saveformat. Python Combine ODS to SPREADSHEETML format. Merge ODS to SPREADSHEETML in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to SPREADSHEETML in Python., Free Online Python Merge ODS to spreadsheetml., Python Combine ODS to SPREADSHEETML Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

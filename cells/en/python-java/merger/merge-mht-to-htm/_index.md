@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to HTM - Combine MHT to HTM in Python
 url: /python-java/merger/merge-mht-to-htm/ 
-description: Aspose Excel. Free Online Merge MHT to HTM saveformat. Python Combine MHT to HTM format. Merge MHT to HTM in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to HTM saveformat via Python., Free Online Merge MHT to htm in Python., Python Combine MHT to HTM Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to HTM saveformat. Python Combine MHT to HTM format. Merge MHT to HTM in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to HTM in Python., Free Online Python Merge MHT to htm., Python Combine MHT to HTM Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

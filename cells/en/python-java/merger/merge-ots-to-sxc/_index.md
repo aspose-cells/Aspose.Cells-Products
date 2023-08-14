@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to SXC - Combine OTS to SXC in Python
 url: /python-java/merger/merge-ots-to-sxc/ 
-description: Aspose Excel. Free Online Merge OTS to SXC saveformat. Python Combine OTS to SXC format. Merge OTS to SXC in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to SXC saveformat via Python., Free Online Merge OTS to sxc in Python., Python Combine OTS to SXC Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to SXC saveformat. Python Combine OTS to SXC format. Merge OTS to SXC in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to SXC in Python., Free Online Python Merge OTS to sxc., Python Combine OTS to SXC Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

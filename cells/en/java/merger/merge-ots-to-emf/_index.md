@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to EMF - Combine OTS to EMF in Java
 url: /java/merger/merge-ots-to-emf/ 
-description: Aspose Excel. Free Online Merge OTS to EMF saveformat. Java Combine OTS to EMF format. Merge OTS to EMF in Java. OTS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF saveformat via Java., Free Online Merge OTS to emf in Java., Java Combine OTS to EMF Online for Free., OTS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge OTS to EMF saveformat. Java Combine OTS to EMF format. Merge OTS to EMF in Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to EMF in Java., Free Online Java Merge OTS to emf., Java Combine OTS to EMF Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

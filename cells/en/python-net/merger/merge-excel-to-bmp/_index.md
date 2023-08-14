@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to BMP - Combine EXCEL to BMP in Python
 url: /python-net/merger/merge-excel-to-bmp/ 
-description: Aspose Excel. Free Online Merge EXCEL to BMP saveformat. Python Combine EXCEL to BMP format. Merge EXCEL to BMP in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to BMP saveformat via Python., Free Online Merge EXCEL to bmp in Python., Python Combine EXCEL to BMP Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to BMP saveformat. Python Combine EXCEL to BMP format. Merge EXCEL to BMP in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to BMP in Python., Free Online Python Merge EXCEL to bmp., Python Combine EXCEL to BMP Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

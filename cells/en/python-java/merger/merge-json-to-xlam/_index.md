@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLAM - Combine JSON to XLAM in Python
 url: /python-java/merger/merge-json-to-xlam/ 
-description: Aspose Excel. Free Online Merge JSON to XLAM saveformat. Python Combine JSON to XLAM format. Merge JSON to XLAM in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLAM saveformat via Python., Free Online Merge JSON to xlam in Python., Python Combine JSON to XLAM Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to XLAM saveformat. Python Combine JSON to XLAM format. Merge JSON to XLAM in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLAM in Python., Free Online Python Merge JSON to xlam., Python Combine JSON to XLAM Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

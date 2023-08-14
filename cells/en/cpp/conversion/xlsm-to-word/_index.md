@@ -1,7 +1,7 @@
 ---
-title: XLSM to WORD - Convert XLSM to WORD files C++
-description: Aspose Excel. Free Online Convert XLSM to WORD saveformat. C++ XLSM to WORD format. Save XLSM as WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to WORD saveformat., Free Online XLSM to WORD Converter]
+title: C++ XLSM to WORD - Online XLSM to WORD Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to WORD saveformat. C++ XLSM to WORD format. Save XLSM to WORD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to WORD saveformat., Free Online XLSM to WORD C++., C++ Convert XLSM to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

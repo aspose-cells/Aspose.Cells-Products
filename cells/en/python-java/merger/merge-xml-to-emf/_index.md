@@ -1,8 +1,8 @@
 ---
 title: Merge XML to EMF - Combine XML to EMF in Python
 url: /python-java/merger/merge-xml-to-emf/ 
-description: Aspose Excel. Free Online Merge XML to EMF saveformat. Python Combine XML to EMF format. Merge XML to EMF in Python. XML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF saveformat via Python., Free Online Merge XML to emf in Python., Python Combine XML to EMF Online for Free., XML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XML to EMF saveformat. Python Combine XML to EMF format. Merge XML to EMF in Python. XML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to EMF in Python., Free Online Python Merge XML to emf., Python Combine XML to EMF Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

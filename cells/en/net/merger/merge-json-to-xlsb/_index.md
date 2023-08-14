@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLSB - Combine JSON to XLSB in C#
 url: /net/merger/merge-json-to-xlsb/ 
-description: Aspose Excel. Free Online Merge JSON to XLSB saveformat. C# Combine JSON to XLSB format. Merge JSON to XLSB in C#. JSON Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to XLSB saveformat via C#., Free Online Merge JSON to xlsb in C#., C# Combine JSON to XLSB Online for Free., JSON Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JSON to XLSB saveformat. C# Combine JSON to XLSB format. Merge JSON to XLSB in C#. JSON Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JSON to XLSB in C#., Free Online C# Merge JSON to xlsb., C# Combine JSON to XLSB Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

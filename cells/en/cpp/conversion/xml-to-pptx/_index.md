@@ -1,7 +1,7 @@
 ---
-title: XML to PPTX - Convert XML to PPTX files C++
-description: Aspose Excel. Free Online Convert XML to PPTX saveformat. C++ XML to PPTX format. Save XML as PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to PPTX saveformat., Free Online XML to PPTX Converter]
+title: C++ XML to PPTX - Online XML to PPTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XML to PPTX saveformat. C++ XML to PPTX format. Save XML to PPTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XML to PPTX saveformat., Free Online XML to PPTX C++., C++ Convert XML to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

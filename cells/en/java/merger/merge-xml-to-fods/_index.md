@@ -1,8 +1,8 @@
 ---
 title: Merge XML to FODS - Combine XML to FODS in Java
 url: /java/merger/merge-xml-to-fods/ 
-description: Aspose Excel. Free Online Merge XML to FODS saveformat. Java Combine XML to FODS format. Merge XML to FODS in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to FODS saveformat via Java., Free Online Merge XML to fods in Java., Java Combine XML to FODS Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to FODS saveformat. Java Combine XML to FODS format. Merge XML to FODS in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to FODS in Java., Free Online Java Merge XML to fods., Java Combine XML to FODS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

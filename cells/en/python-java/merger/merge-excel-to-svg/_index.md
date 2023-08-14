@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SVG - Combine EXCEL to SVG in Python
 url: /python-java/merger/merge-excel-to-svg/ 
-description: Aspose Excel. Free Online Merge EXCEL to SVG saveformat. Python Combine EXCEL to SVG format. Merge EXCEL to SVG in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to SVG saveformat via Python., Free Online Merge EXCEL to svg in Python., Python Combine EXCEL to SVG Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to SVG saveformat. Python Combine EXCEL to SVG format. Merge EXCEL to SVG in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to SVG in Python., Free Online Python Merge EXCEL to svg., Python Combine EXCEL to SVG Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

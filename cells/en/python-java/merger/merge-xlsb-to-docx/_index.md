@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DOCX - Combine XLSB to DOCX in Python
 url: /python-java/merger/merge-xlsb-to-docx/ 
-description: Aspose Excel. Free Online Merge XLSB to DOCX saveformat. Python Combine XLSB to DOCX format. Merge XLSB to DOCX in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to DOCX saveformat via Python., Free Online Merge XLSB to docx in Python., Python Combine XLSB to DOCX Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to DOCX saveformat. Python Combine XLSB to DOCX format. Merge XLSB to DOCX in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to DOCX in Python., Free Online Python Merge XLSB to docx., Python Combine XLSB to DOCX Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

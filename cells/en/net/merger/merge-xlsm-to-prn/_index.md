@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to PRN - Combine XLSM to PRN in C#
 url: /net/merger/merge-xlsm-to-prn/ 
-description: Aspose Excel. Free Online Merge XLSM to PRN saveformat. C# Combine XLSM to PRN format. Merge XLSM to PRN in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to PRN saveformat via C#., Free Online Merge XLSM to prn in C#., C# Combine XLSM to PRN Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to PRN saveformat. C# Combine XLSM to PRN format. Merge XLSM to PRN in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to PRN in C#., Free Online C# Merge XLSM to prn., C# Combine XLSM to PRN Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

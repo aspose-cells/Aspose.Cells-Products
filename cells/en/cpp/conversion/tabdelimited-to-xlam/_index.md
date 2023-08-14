@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to XLAM - Convert TABDELIMITED to XLAM files C++
-description: Aspose Excel. Free Online Convert TABDELIMITED to XLAM saveformat. C++ TABDELIMITED to XLAM format. Save TABDELIMITED as XLAM in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TABDELIMITED to XLAM saveformat., Free Online TABDELIMITED to XLAM Converter]
+title: C++ TABDELIMITED to XLAM - Online TABDELIMITED to XLAM Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert TABDELIMITED to XLAM saveformat. C++ TABDELIMITED to XLAM format. Save TABDELIMITED to XLAM C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ TABDELIMITED to XLAM saveformat., Free Online TABDELIMITED to XLAM C++., C++ Convert TABDELIMITED to XLAM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

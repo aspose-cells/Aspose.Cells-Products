@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to PDF - Combine PNG to PDF in Python
 url: /python-java/merger/merge-png-to-pdf/ 
-description: Aspose Excel. Free Online Merge PNG to PDF saveformat. Python Combine PNG to PDF format. Merge PNG to PDF in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to PDF saveformat via Python., Free Online Merge PNG to pdf in Python., Python Combine PNG to PDF Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to PDF saveformat. Python Combine PNG to PDF format. Merge PNG to PDF in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to PDF in Python., Free Online Python Merge PNG to pdf., Python Combine PNG to PDF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

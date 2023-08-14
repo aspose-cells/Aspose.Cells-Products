@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SQL - Combine HTML to SQL in C#
 url: /net/merger/merge-html-to-sql/ 
-description: Aspose Excel. Free Online Merge HTML to SQL saveformat. C# Combine HTML to SQL format. Merge HTML to SQL in C#. HTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to SQL saveformat via C#., Free Online Merge HTML to sql in C#., C# Combine HTML to SQL Online for Free., HTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTML to SQL saveformat. C# Combine HTML to SQL format. Merge HTML to SQL in C#. HTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to SQL in C#., Free Online C# Merge HTML to sql., C# Combine HTML to SQL Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

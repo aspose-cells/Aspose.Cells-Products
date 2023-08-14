@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLTX - Combine XLT to XLTX in Python
 url: /python-net/merger/merge-xlt-to-xltx/ 
-description: Aspose Excel. Free Online Merge XLT to XLTX saveformat. Python Combine XLT to XLTX format. Merge XLT to XLTX in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XLTX saveformat via Python., Free Online Merge XLT to xltx in Python., Python Combine XLT to XLTX Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to XLTX saveformat. Python Combine XLT to XLTX format. Merge XLT to XLTX in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XLTX in Python., Free Online Python Merge XLT to xltx., Python Combine XLT to XLTX Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SXC to DOCX - Convert SXC to DOCX files Java
-description: Aspose Excel. Free Online Convert SXC to DOCX saveformat. Java SXC to DOCX format. Save SXC as DOCX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to DOCX saveformat., Free Online SXC to DOCX Converter]
+title: Java SXC to DOCX - Online SXC to DOCX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert SXC to DOCX saveformat. Java SXC to DOCX format. Save SXC to DOCX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java SXC to DOCX saveformat., Free Online SXC to DOCX Java., Java Convert SXC to DOCX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

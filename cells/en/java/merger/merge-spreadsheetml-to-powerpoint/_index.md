@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to POWERPOINT - Combine SPREADSHEETML to POWERPOINT in Java
 url: /java/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. Java Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to POWERPOINT saveformat via Java., Free Online Merge SPREADSHEETML to powerpoint in Java., Java Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. Java Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in Java., Free Online Java Merge SPREADSHEETML to powerpoint., Java Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

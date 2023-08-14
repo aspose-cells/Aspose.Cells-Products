@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SXC - Combine FODS to SXC in Python
 url: /python-java/merger/merge-fods-to-sxc/ 
-description: Aspose Excel. Free Online Merge FODS to SXC saveformat. Python Combine FODS to SXC format. Merge FODS to SXC in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SXC saveformat via Python., Free Online Merge FODS to sxc in Python., Python Combine FODS to SXC Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to SXC saveformat. Python Combine FODS to SXC format. Merge FODS to SXC in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SXC in Python., Free Online Python Merge FODS to sxc., Python Combine FODS to SXC Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

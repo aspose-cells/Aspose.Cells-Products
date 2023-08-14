@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to IMAGE - Combine FODS to IMAGE in C++
 url: /cpp/merger/merge-fods-to-image/ 
-description: Aspose Excel. Free Online Merge FODS to IMAGE saveformat. C++ Combine FODS to IMAGE format. Merge FODS to IMAGE in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to IMAGE saveformat via C++., Free Online Merge FODS to image in C++., C++ Combine FODS to IMAGE Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to IMAGE saveformat. C++ Combine FODS to IMAGE format. Merge FODS to IMAGE in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to IMAGE in C++., Free Online C++ Merge FODS to image., C++ Combine FODS to IMAGE Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

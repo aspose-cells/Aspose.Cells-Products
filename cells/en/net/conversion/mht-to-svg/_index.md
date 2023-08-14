@@ -1,7 +1,7 @@
 ---
-title: MHT to SVG - Convert MHT to SVG files C#
-description: Aspose Excel. Free Online Convert MHT to SVG saveformat. C# MHT to SVG format. Save MHT as SVG in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to SVG saveformat., Free Online MHT to SVG Converter]
+title: C# MHT to SVG - Online MHT to SVG Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert MHT to SVG saveformat. C# MHT to SVG format. Save MHT to SVG C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# MHT to SVG saveformat., Free Online MHT to SVG C#., C# Convert MHT to SVG]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

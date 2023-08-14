@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TIFF - Combine HTM to TIFF in C#
 url: /net/merger/merge-htm-to-tiff/ 
-description: Aspose Excel. Free Online Merge HTM to TIFF saveformat. C# Combine HTM to TIFF format. Merge HTM to TIFF in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to TIFF saveformat via C#., Free Online Merge HTM to tiff in C#., C# Combine HTM to TIFF Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to TIFF saveformat. C# Combine HTM to TIFF format. Merge HTM to TIFF in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to TIFF in C#., Free Online C# Merge HTM to tiff., C# Combine HTM to TIFF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

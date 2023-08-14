@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DOCX - Combine HTM to DOCX in C++
 url: /cpp/merger/merge-htm-to-docx/ 
-description: Aspose Excel. Free Online Merge HTM to DOCX saveformat. C++ Combine HTM to DOCX format. Merge HTM to DOCX in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to DOCX saveformat via C++., Free Online Merge HTM to docx in C++., C++ Combine HTM to DOCX Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to DOCX saveformat. C++ Combine HTM to DOCX format. Merge HTM to DOCX in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to DOCX in C++., Free Online C++ Merge HTM to docx., C++ Combine HTM to DOCX Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

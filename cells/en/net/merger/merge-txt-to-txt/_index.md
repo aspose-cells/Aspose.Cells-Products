@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TXT - Combine TXT to TXT in C#
 url: /net/merger/merge-txt-to-txt/ 
-description: Aspose Excel. Free Online Merge TXT to TXT saveformat. C# Combine TXT to TXT format. Merge TXT to TXT in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to TXT saveformat via C#., Free Online Merge TXT to txt in C#., C# Combine TXT to TXT Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to TXT saveformat. C# Combine TXT to TXT format. Merge TXT to TXT in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to TXT in C#., Free Online C# Merge TXT to txt., C# Combine TXT to TXT Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to PDF - Combine TXT to PDF in C#
 url: /net/merger/merge-txt-to-pdf/ 
-description: Aspose Excel. Free Online Merge TXT to PDF saveformat. C# Combine TXT to PDF format. Merge TXT to PDF in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PDF saveformat via C#., Free Online Merge TXT to pdf in C#., C# Combine TXT to PDF Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to PDF saveformat. C# Combine TXT to PDF format. Merge TXT to PDF in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PDF in C#., Free Online C# Merge TXT to pdf., C# Combine TXT to PDF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

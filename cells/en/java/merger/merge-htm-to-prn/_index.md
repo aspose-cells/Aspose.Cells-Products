@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PRN - Combine HTM to PRN in Java
 url: /java/merger/merge-htm-to-prn/ 
-description: Aspose Excel. Free Online Merge HTM to PRN saveformat. Java Combine HTM to PRN format. Merge HTM to PRN in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN saveformat via Java., Free Online Merge HTM to prn in Java., Java Combine HTM to PRN Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to PRN saveformat. Java Combine HTM to PRN format. Merge HTM to PRN in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PRN in Java., Free Online Java Merge HTM to prn., Java Combine HTM to PRN Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

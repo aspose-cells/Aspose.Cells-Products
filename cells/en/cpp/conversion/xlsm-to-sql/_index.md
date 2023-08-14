@@ -1,7 +1,7 @@
 ---
-title: XLSM to SQL - Convert XLSM to SQL files C++
-description: Aspose Excel. Free Online Convert XLSM to SQL saveformat. C++ XLSM to SQL format. Save XLSM as SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to SQL saveformat., Free Online XLSM to SQL Converter]
+title: C++ XLSM to SQL - Online XLSM to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSM to SQL saveformat. C++ XLSM to SQL format. Save XLSM to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSM to SQL saveformat., Free Online XLSM to SQL C++., C++ Convert XLSM to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

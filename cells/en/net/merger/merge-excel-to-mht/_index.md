@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to MHT - Combine EXCEL to MHT in C#
 url: /net/merger/merge-excel-to-mht/ 
-description: Aspose Excel. Free Online Merge EXCEL to MHT saveformat. C# Combine EXCEL to MHT format. Merge EXCEL to MHT in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MHT saveformat via C#., Free Online Merge EXCEL to mht in C#., C# Combine EXCEL to MHT Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to MHT saveformat. C# Combine EXCEL to MHT format. Merge EXCEL to MHT in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to MHT in C#., Free Online C# Merge EXCEL to mht., C# Combine EXCEL to MHT Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

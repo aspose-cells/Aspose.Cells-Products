@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MD - Combine PRN to MD in C#
 url: /net/merger/merge-prn-to-md/ 
-description: Aspose Excel. Free Online Merge PRN to MD saveformat. C# Combine PRN to MD format. Merge PRN to MD in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to MD saveformat via C#., Free Online Merge PRN to md in C#., C# Combine PRN to MD Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to MD saveformat. C# Combine PRN to MD format. Merge PRN to MD in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to MD in C#., Free Online C# Merge PRN to md., C# Combine PRN to MD Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

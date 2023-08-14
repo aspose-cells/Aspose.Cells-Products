@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to JPG - Combine MHT to JPG in C#
 url: /net/merger/merge-mht-to-jpg/ 
-description: Aspose Excel. Free Online Merge MHT to JPG saveformat. C# Combine MHT to JPG format. Merge MHT to JPG in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to JPG saveformat via C#., Free Online Merge MHT to jpg in C#., C# Combine MHT to JPG Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to JPG saveformat. C# Combine MHT to JPG format. Merge MHT to JPG in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to JPG in C#., Free Online C# Merge MHT to jpg., C# Combine MHT to JPG Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

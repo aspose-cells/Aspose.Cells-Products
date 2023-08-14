@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to PPTX - Combine MHTML to PPTX in Java
 url: /java/merger/merge-mhtml-to-pptx/ 
-description: Aspose Excel. Free Online Merge MHTML to PPTX saveformat. Java Combine MHTML to PPTX format. Merge MHTML to PPTX in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX saveformat via Java., Free Online Merge MHTML to pptx in Java., Java Combine MHTML to PPTX Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to PPTX saveformat. Java Combine MHTML to PPTX format. Merge MHTML to PPTX in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to PPTX in Java., Free Online Java Merge MHTML to pptx., Java Combine MHTML to PPTX Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

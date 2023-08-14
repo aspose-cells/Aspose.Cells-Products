@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to PDF - Combine XLSX to PDF in Java
 url: /java/merger/merge-xlsx-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLSX to PDF saveformat. Java Combine XLSX to PDF format. Merge XLSX to PDF in Java. XLSX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PDF saveformat via Java., Free Online Merge XLSX to pdf in Java., Java Combine XLSX to PDF Online for Free., XLSX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSX to PDF saveformat. Java Combine XLSX to PDF format. Merge XLSX to PDF in Java. XLSX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PDF in Java., Free Online Java Merge XLSX to pdf., Java Combine XLSX to PDF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

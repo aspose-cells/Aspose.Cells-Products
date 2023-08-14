@@ -1,7 +1,7 @@
 ---
-title: EXCEL to DIF - Convert EXCEL to DIF files Java
-description: Aspose Excel. Free Online Convert EXCEL to DIF saveformat. Java EXCEL to DIF format. Save EXCEL as DIF in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to DIF saveformat., Free Online EXCEL to DIF Converter]
+title: Java EXCEL to DIF - Online EXCEL to DIF Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert EXCEL to DIF saveformat. Java EXCEL to DIF format. Save EXCEL to DIF Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java EXCEL to DIF saveformat., Free Online EXCEL to DIF Java., Java Convert EXCEL to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

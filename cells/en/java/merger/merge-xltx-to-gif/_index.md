@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to GIF - Combine XLTX to GIF in Java
 url: /java/merger/merge-xltx-to-gif/ 
-description: Aspose Excel. Free Online Merge XLTX to GIF saveformat. Java Combine XLTX to GIF format. Merge XLTX to GIF in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to GIF saveformat via Java., Free Online Merge XLTX to gif in Java., Java Combine XLTX to GIF Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to GIF saveformat. Java Combine XLTX to GIF format. Merge XLTX to GIF in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to GIF in Java., Free Online Java Merge XLTX to gif., Java Combine XLTX to GIF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

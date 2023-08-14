@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLTM - Convert JPEG to XLTM files Python
-description: Aspose Excel. Free Online Convert JPEG to XLTM saveformat. Python JPEG to XLTM format. Save JPEG as XLTM in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to XLTM saveformat., Free Online JPEG to XLTM Converter]
+title: Python JPEG to XLTM - Online JPEG to XLTM Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to XLTM saveformat. Python JPEG to XLTM format. Save JPEG to XLTM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to XLTM saveformat., Free Online JPEG to XLTM Python., Python Convert JPEG to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

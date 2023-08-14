@@ -1,7 +1,7 @@
 ---
-title: FODS to OTS - Convert FODS to OTS files C++
-description: Aspose Excel. Free Online Convert FODS to OTS saveformat. C++ FODS to OTS format. Save FODS as OTS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to OTS saveformat., Free Online FODS to OTS Converter]
+title: C++ FODS to OTS - Online FODS to OTS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert FODS to OTS saveformat. C++ FODS to OTS format. Save FODS to OTS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ FODS to OTS saveformat., Free Online FODS to OTS C++., C++ Convert FODS to OTS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XPS - Combine XML to XPS in C#
 url: /net/merger/merge-xml-to-xps/ 
-description: Aspose Excel. Free Online Merge XML to XPS saveformat. C# Combine XML to XPS format. Merge XML to XPS in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to XPS saveformat via C#., Free Online Merge XML to xps in C#., C# Combine XML to XPS Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to XPS saveformat. C# Combine XML to XPS format. Merge XML to XPS in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to XPS in C#., Free Online C# Merge XML to xps., C# Combine XML to XPS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

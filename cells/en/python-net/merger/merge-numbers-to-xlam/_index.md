@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLAM - Combine NUMBERS to XLAM in Python
 url: /python-net/merger/merge-numbers-to-xlam/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLAM saveformat. Python Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLAM saveformat via Python., Free Online Merge NUMBERS to xlam in Python., Python Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to XLAM saveformat. Python Combine NUMBERS to XLAM format. Merge NUMBERS to XLAM in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLAM in Python., Free Online Python Merge NUMBERS to xlam., Python Combine NUMBERS to XLAM Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

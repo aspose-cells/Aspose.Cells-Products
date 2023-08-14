@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to PDF - Combine MHT to PDF in Python
 url: /python-net/merger/merge-mht-to-pdf/ 
-description: Aspose Excel. Free Online Merge MHT to PDF saveformat. Python Combine MHT to PDF format. Merge MHT to PDF in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PDF saveformat via Python., Free Online Merge MHT to pdf in Python., Python Combine MHT to PDF Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to PDF saveformat. Python Combine MHT to PDF format. Merge MHT to PDF in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to PDF in Python., Free Online Python Merge MHT to pdf., Python Combine MHT to PDF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

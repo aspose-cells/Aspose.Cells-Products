@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLSX - Combine OTS to XLSX in C#
 url: /net/merger/merge-ots-to-xlsx/ 
-description: Aspose Excel. Free Online Merge OTS to XLSX saveformat. C# Combine OTS to XLSX format. Merge OTS to XLSX in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLSX saveformat via C#., Free Online Merge OTS to xlsx in C#., C# Combine OTS to XLSX Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to XLSX saveformat. C# Combine OTS to XLSX format. Merge OTS to XLSX in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLSX in C#., Free Online C# Merge OTS to xlsx., C# Combine OTS to XLSX Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

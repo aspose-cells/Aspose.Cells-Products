@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to SQL - Combine XLS to SQL in Java
 url: /java/merger/merge-xls-to-sql/ 
-description: Aspose Excel. Free Online Merge XLS to SQL saveformat. Java Combine XLS to SQL format. Merge XLS to SQL in Java. XLS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SQL saveformat via Java., Free Online Merge XLS to sql in Java., Java Combine XLS to SQL Online for Free., XLS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLS to SQL saveformat. Java Combine XLS to SQL format. Merge XLS to SQL in Java. XLS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to SQL in Java., Free Online Java Merge XLS to sql., Java Combine XLS to SQL Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

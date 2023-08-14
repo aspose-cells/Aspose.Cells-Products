@@ -1,8 +1,8 @@
 ---
 title: Merge XML to ET - Combine XML to ET in Java
 url: /java/merger/merge-xml-to-et/ 
-description: Aspose Excel. Free Online Merge XML to ET saveformat. Java Combine XML to ET format. Merge XML to ET in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to ET saveformat via Java., Free Online Merge XML to et in Java., Java Combine XML to ET Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to ET saveformat. Java Combine XML to ET format. Merge XML to ET in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to ET in Java., Free Online Java Merge XML to et., Java Combine XML to ET Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

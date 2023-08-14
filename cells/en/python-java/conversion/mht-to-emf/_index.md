@@ -1,7 +1,7 @@
 ---
-title: MHT to EMF - Convert MHT to EMF files Python
-description: Aspose Excel. Free Online Convert MHT to EMF saveformat. Python MHT to EMF format. Save MHT as EMF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to EMF saveformat., Free Online MHT to EMF Converter]
+title: Python MHT to EMF - Online MHT to EMF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to EMF saveformat. Python MHT to EMF format. Save MHT to EMF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to EMF saveformat., Free Online MHT to EMF Python., Python Convert MHT to EMF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

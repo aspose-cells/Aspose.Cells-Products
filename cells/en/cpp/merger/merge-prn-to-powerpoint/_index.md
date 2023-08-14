@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to POWERPOINT - Combine PRN to POWERPOINT in C++
 url: /cpp/merger/merge-prn-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge PRN to POWERPOINT saveformat. C++ Combine PRN to POWERPOINT format. Merge PRN to POWERPOINT in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to POWERPOINT saveformat via C++., Free Online Merge PRN to powerpoint in C++., C++ Combine PRN to POWERPOINT Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to POWERPOINT saveformat. C++ Combine PRN to POWERPOINT format. Merge PRN to POWERPOINT in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to POWERPOINT in C++., Free Online C++ Merge PRN to powerpoint., C++ Combine PRN to POWERPOINT Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

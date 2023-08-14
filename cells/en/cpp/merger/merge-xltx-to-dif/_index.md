@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to DIF - Combine XLTX to DIF in C++
 url: /cpp/merger/merge-xltx-to-dif/ 
-description: Aspose Excel. Free Online Merge XLTX to DIF saveformat. C++ Combine XLTX to DIF format. Merge XLTX to DIF in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to DIF saveformat via C++., Free Online Merge XLTX to dif in C++., C++ Combine XLTX to DIF Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to DIF saveformat. C++ Combine XLTX to DIF format. Merge XLTX to DIF in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to DIF in C++., Free Online C++ Merge XLTX to dif., C++ Combine XLTX to DIF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

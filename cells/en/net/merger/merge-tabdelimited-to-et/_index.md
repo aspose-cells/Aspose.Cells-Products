@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to ET - Combine TABDELIMITED to ET in C#
 url: /net/merger/merge-tabdelimited-to-et/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to ET saveformat. C# Combine TABDELIMITED to ET format. Merge TABDELIMITED to ET in C#. TABDELIMITED Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to ET saveformat via C#., Free Online Merge TABDELIMITED to et in C#., C# Combine TABDELIMITED to ET Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TABDELIMITED to ET saveformat. C# Combine TABDELIMITED to ET format. Merge TABDELIMITED to ET in C#. TABDELIMITED Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to ET in C#., Free Online C# Merge TABDELIMITED to et., C# Combine TABDELIMITED to ET Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

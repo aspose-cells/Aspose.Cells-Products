@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to TABDELIMITED - Combine XLTM to TABDELIMITED in Python
 url: /python-java/merger/merge-xltm-to-tabdelimited/ 
-description: Aspose Excel. Free Online Merge XLTM to TABDELIMITED saveformat. Python Combine XLTM to TABDELIMITED format. Merge XLTM to TABDELIMITED in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TABDELIMITED saveformat via Python., Free Online Merge XLTM to tabdelimited in Python., Python Combine XLTM to TABDELIMITED Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to TABDELIMITED saveformat. Python Combine XLTM to TABDELIMITED format. Merge XLTM to TABDELIMITED in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TABDELIMITED in Python., Free Online Python Merge XLTM to tabdelimited., Python Combine XLTM to TABDELIMITED Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

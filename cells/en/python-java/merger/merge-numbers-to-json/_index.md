@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to JSON - Combine NUMBERS to JSON in Python
 url: /python-java/merger/merge-numbers-to-json/ 
-description: Aspose Excel. Free Online Merge NUMBERS to JSON saveformat. Python Combine NUMBERS to JSON format. Merge NUMBERS to JSON in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON saveformat via Python., Free Online Merge NUMBERS to json in Python., Python Combine NUMBERS to JSON Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to JSON saveformat. Python Combine NUMBERS to JSON format. Merge NUMBERS to JSON in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to JSON in Python., Free Online Python Merge NUMBERS to json., Python Combine NUMBERS to JSON Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

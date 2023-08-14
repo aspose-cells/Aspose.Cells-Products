@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to WORD - Combine OTS to WORD in Python
 url: /python-net/merger/merge-ots-to-word/ 
-description: Aspose Excel. Free Online Merge OTS to WORD saveformat. Python Combine OTS to WORD format. Merge OTS to WORD in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to WORD saveformat via Python., Free Online Merge OTS to word in Python., Python Combine OTS to WORD Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to WORD saveformat. Python Combine OTS to WORD format. Merge OTS to WORD in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to WORD in Python., Free Online Python Merge OTS to word., Python Combine OTS to WORD Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

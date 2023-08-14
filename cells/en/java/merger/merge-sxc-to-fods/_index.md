@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to FODS - Combine SXC to FODS in Java
 url: /java/merger/merge-sxc-to-fods/ 
-description: Aspose Excel. Free Online Merge SXC to FODS saveformat. Java Combine SXC to FODS format. Merge SXC to FODS in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to FODS saveformat via Java., Free Online Merge SXC to fods in Java., Java Combine SXC to FODS Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to FODS saveformat. Java Combine SXC to FODS format. Merge SXC to FODS in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to FODS in Java., Free Online Java Merge SXC to fods., Java Combine SXC to FODS Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

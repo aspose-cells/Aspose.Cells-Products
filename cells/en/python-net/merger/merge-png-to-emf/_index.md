@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EMF - Combine PNG to EMF in Python
 url: /python-net/merger/merge-png-to-emf/ 
-description: Aspose Excel. Free Online Merge PNG to EMF saveformat. Python Combine PNG to EMF format. Merge PNG to EMF in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EMF saveformat via Python., Free Online Merge PNG to emf in Python., Python Combine PNG to EMF Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to EMF saveformat. Python Combine PNG to EMF format. Merge PNG to EMF in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EMF in Python., Free Online Python Merge PNG to emf., Python Combine PNG to EMF Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

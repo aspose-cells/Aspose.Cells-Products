@@ -1,7 +1,7 @@
 ---
-title: MHTML to SQL - Convert MHTML to SQL files C++
-description: Aspose Excel. Free Online Convert MHTML to SQL saveformat. C++ MHTML to SQL format. Save MHTML as SQL in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to SQL saveformat., Free Online MHTML to SQL Converter]
+title: C++ MHTML to SQL - Online MHTML to SQL Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHTML to SQL saveformat. C++ MHTML to SQL format. Save MHTML to SQL C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHTML to SQL saveformat., Free Online MHTML to SQL C++., C++ Convert MHTML to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to FODS - Combine TXT to FODS in Python
 url: /python-net/merger/merge-txt-to-fods/ 
-description: Aspose Excel. Free Online Merge TXT to FODS saveformat. Python Combine TXT to FODS format. Merge TXT to FODS in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to FODS saveformat via Python., Free Online Merge TXT to fods in Python., Python Combine TXT to FODS Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to FODS saveformat. Python Combine TXT to FODS format. Merge TXT to FODS in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to FODS in Python., Free Online Python Merge TXT to fods., Python Combine TXT to FODS Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

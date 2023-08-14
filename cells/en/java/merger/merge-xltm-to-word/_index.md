@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to WORD - Combine XLTM to WORD in Java
 url: /java/merger/merge-xltm-to-word/ 
-description: Aspose Excel. Free Online Merge XLTM to WORD saveformat. Java Combine XLTM to WORD format. Merge XLTM to WORD in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to WORD saveformat via Java., Free Online Merge XLTM to word in Java., Java Combine XLTM to WORD Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to WORD saveformat. Java Combine XLTM to WORD format. Merge XLTM to WORD in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to WORD in Java., Free Online Java Merge XLTM to word., Java Combine XLTM to WORD Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

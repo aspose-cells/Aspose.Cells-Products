@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to DIF - Combine XLTM to DIF in Java
 url: /java/merger/merge-xltm-to-dif/ 
-description: Aspose Excel. Free Online Merge XLTM to DIF saveformat. Java Combine XLTM to DIF format. Merge XLTM to DIF in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to DIF saveformat via Java., Free Online Merge XLTM to dif in Java., Java Combine XLTM to DIF Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to DIF saveformat. Java Combine XLTM to DIF format. Merge XLTM to DIF in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to DIF in Java., Free Online Java Merge XLTM to dif., Java Combine XLTM to DIF Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

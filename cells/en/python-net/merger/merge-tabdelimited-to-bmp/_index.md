@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to BMP - Combine TABDELIMITED to BMP in Python
 url: /python-net/merger/merge-tabdelimited-to-bmp/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to BMP saveformat. Python Combine TABDELIMITED to BMP format. Merge TABDELIMITED to BMP in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to BMP saveformat via Python., Free Online Merge TABDELIMITED to bmp in Python., Python Combine TABDELIMITED to BMP Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to BMP saveformat. Python Combine TABDELIMITED to BMP format. Merge TABDELIMITED to BMP in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to BMP in Python., Free Online Python Merge TABDELIMITED to bmp., Python Combine TABDELIMITED to BMP Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

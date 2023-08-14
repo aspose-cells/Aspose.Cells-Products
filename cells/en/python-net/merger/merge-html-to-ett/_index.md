@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to ETT - Combine HTML to ETT in Python
 url: /python-net/merger/merge-html-to-ett/ 
-description: Aspose Excel. Free Online Merge HTML to ETT saveformat. Python Combine HTML to ETT format. Merge HTML to ETT in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT saveformat via Python., Free Online Merge HTML to ett in Python., Python Combine HTML to ETT Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to ETT saveformat. Python Combine HTML to ETT format. Merge HTML to ETT in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to ETT in Python., Free Online Python Merge HTML to ett., Python Combine HTML to ETT Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

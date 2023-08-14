@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLTM - Combine IMAGE to XLTM in C#
 url: /net/merger/merge-image-to-xltm/ 
-description: Aspose Excel. Free Online Merge IMAGE to XLTM saveformat. C# Combine IMAGE to XLTM format. Merge IMAGE to XLTM in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLTM saveformat via C#., Free Online Merge IMAGE to xltm in C#., C# Combine IMAGE to XLTM Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to XLTM saveformat. C# Combine IMAGE to XLTM format. Merge IMAGE to XLTM in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to XLTM in C#., Free Online C# Merge IMAGE to xltm., C# Combine IMAGE to XLTM Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

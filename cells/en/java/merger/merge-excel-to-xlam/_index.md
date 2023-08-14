@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to XLAM - Combine EXCEL to XLAM in Java
 url: /java/merger/merge-excel-to-xlam/ 
-description: Aspose Excel. Free Online Merge EXCEL to XLAM saveformat. Java Combine EXCEL to XLAM format. Merge EXCEL to XLAM in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLAM saveformat via Java., Free Online Merge EXCEL to xlam in Java., Java Combine EXCEL to XLAM Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to XLAM saveformat. Java Combine EXCEL to XLAM format. Merge EXCEL to XLAM in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to XLAM in Java., Free Online Java Merge EXCEL to xlam., Java Combine EXCEL to XLAM Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

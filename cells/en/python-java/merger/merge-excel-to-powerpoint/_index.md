@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to POWERPOINT - Combine EXCEL to POWERPOINT in Python
 url: /python-java/merger/merge-excel-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge EXCEL to POWERPOINT saveformat. Python Combine EXCEL to POWERPOINT format. Merge EXCEL to POWERPOINT in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to POWERPOINT saveformat via Python., Free Online Merge EXCEL to powerpoint in Python., Python Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to POWERPOINT saveformat. Python Combine EXCEL to POWERPOINT format. Merge EXCEL to POWERPOINT in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to POWERPOINT in Python., Free Online Python Merge EXCEL to powerpoint., Python Combine EXCEL to POWERPOINT Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to FODS - Combine EXCEL to FODS in Python
 url: /python-java/merger/merge-excel-to-fods/ 
-description: Aspose Excel. Free Online Merge EXCEL to FODS saveformat. Python Combine EXCEL to FODS format. Merge EXCEL to FODS in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to FODS saveformat via Python., Free Online Merge EXCEL to fods in Python., Python Combine EXCEL to FODS Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to FODS saveformat. Python Combine EXCEL to FODS format. Merge EXCEL to FODS in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to FODS in Python., Free Online Python Merge EXCEL to fods., Python Combine EXCEL to FODS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

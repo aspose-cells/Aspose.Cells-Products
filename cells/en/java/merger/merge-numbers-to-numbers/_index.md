@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to NUMBERS - Combine NUMBERS to NUMBERS in Java
 url: /java/merger/merge-numbers-to-numbers/ 
-description: Aspose Excel. Free Online Merge NUMBERS to NUMBERS saveformat. Java Combine NUMBERS to NUMBERS format. Merge NUMBERS to NUMBERS in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to NUMBERS saveformat via Java., Free Online Merge NUMBERS to numbers in Java., Java Combine NUMBERS to NUMBERS Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to NUMBERS saveformat. Java Combine NUMBERS to NUMBERS format. Merge NUMBERS to NUMBERS in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to NUMBERS in Java., Free Online Java Merge NUMBERS to numbers., Java Combine NUMBERS to NUMBERS Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

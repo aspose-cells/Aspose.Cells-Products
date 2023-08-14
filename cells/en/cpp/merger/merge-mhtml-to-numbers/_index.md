@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to NUMBERS - Combine MHTML to NUMBERS in C++
 url: /cpp/merger/merge-mhtml-to-numbers/ 
-description: Aspose Excel. Free Online Merge MHTML to NUMBERS saveformat. C++ Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to NUMBERS saveformat via C++., Free Online Merge MHTML to numbers in C++., C++ Combine MHTML to NUMBERS Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to NUMBERS saveformat. C++ Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to NUMBERS in C++., Free Online C++ Merge MHTML to numbers., C++ Combine MHTML to NUMBERS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

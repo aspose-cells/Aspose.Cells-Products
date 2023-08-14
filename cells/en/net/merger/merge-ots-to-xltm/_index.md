@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to XLTM - Combine OTS to XLTM in C#
 url: /net/merger/merge-ots-to-xltm/ 
-description: Aspose Excel. Free Online Merge OTS to XLTM saveformat. C# Combine OTS to XLTM format. Merge OTS to XLTM in C#. OTS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLTM saveformat via C#., Free Online Merge OTS to xltm in C#., C# Combine OTS to XLTM Online for Free., OTS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge OTS to XLTM saveformat. C# Combine OTS to XLTM format. Merge OTS to XLTM in C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLTM in C#., Free Online C# Merge OTS to xltm., C# Combine OTS to XLTM Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

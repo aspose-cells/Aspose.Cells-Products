@@ -1,7 +1,7 @@
 ---
-title: HTML to TXT - Convert HTML to TXT files Java
-description: Aspose Excel. Free Online Convert HTML to TXT saveformat. Java HTML to TXT format. Save HTML as TXT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to TXT saveformat., Free Online HTML to TXT Converter]
+title: Java HTML to TXT - Online HTML to TXT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTML to TXT saveformat. Java HTML to TXT format. Save HTML to TXT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTML to TXT saveformat., Free Online HTML to TXT Java., Java Convert HTML to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to GIF - Combine MHTML to GIF in Python
 url: /python-java/merger/merge-mhtml-to-gif/ 
-description: Aspose Excel. Free Online Merge MHTML to GIF saveformat. Python Combine MHTML to GIF format. Merge MHTML to GIF in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to GIF saveformat via Python., Free Online Merge MHTML to gif in Python., Python Combine MHTML to GIF Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to GIF saveformat. Python Combine MHTML to GIF format. Merge MHTML to GIF in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to GIF in Python., Free Online Python Merge MHTML to gif., Python Combine MHTML to GIF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

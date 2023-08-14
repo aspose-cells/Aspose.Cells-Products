@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SQL - Combine SXC to SQL in Python
 url: /python-net/merger/merge-sxc-to-sql/ 
-description: Aspose Excel. Free Online Merge SXC to SQL saveformat. Python Combine SXC to SQL format. Merge SXC to SQL in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SQL saveformat via Python., Free Online Merge SXC to sql in Python., Python Combine SXC to SQL Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to SQL saveformat. Python Combine SXC to SQL format. Merge SXC to SQL in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to SQL in Python., Free Online Python Merge SXC to sql., Python Combine SXC to SQL Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to TABDELIMITED - Convert JPG to TABDELIMITED files C#
-description: Aspose Excel. Free Online Convert JPG to TABDELIMITED saveformat. C# JPG to TABDELIMITED format. Save JPG as TABDELIMITED in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to TABDELIMITED saveformat., Free Online JPG to TABDELIMITED Converter]
+title: C# JPG to TABDELIMITED - Online JPG to TABDELIMITED Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to TABDELIMITED saveformat. C# JPG to TABDELIMITED format. Save JPG to TABDELIMITED C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to TABDELIMITED saveformat., Free Online JPG to TABDELIMITED C#., C# Convert JPG to TABDELIMITED]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

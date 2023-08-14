@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to TXT - Combine CSV to TXT in Java
 url: /java/merger/merge-csv-to-txt/ 
-description: Aspose Excel. Free Online Merge CSV to TXT saveformat. Java Combine CSV to TXT format. Merge CSV to TXT in Java. CSV Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to TXT saveformat via Java., Free Online Merge CSV to txt in Java., Java Combine CSV to TXT Online for Free., CSV Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge CSV to TXT saveformat. Java Combine CSV to TXT format. Merge CSV to TXT in Java. CSV Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to TXT in Java., Free Online Java Merge CSV to txt., Java Combine CSV to TXT Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

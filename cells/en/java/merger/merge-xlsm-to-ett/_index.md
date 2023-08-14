@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to ETT - Combine XLSM to ETT in Java
 url: /java/merger/merge-xlsm-to-ett/ 
-description: Aspose Excel. Free Online Merge XLSM to ETT saveformat. Java Combine XLSM to ETT format. Merge XLSM to ETT in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to ETT saveformat via Java., Free Online Merge XLSM to ett in Java., Java Combine XLSM to ETT Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to ETT saveformat. Java Combine XLSM to ETT format. Merge XLSM to ETT in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to ETT in Java., Free Online Java Merge XLSM to ett., Java Combine XLSM to ETT Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

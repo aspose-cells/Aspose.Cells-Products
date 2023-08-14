@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XPS - Combine TXT to XPS in Java
 url: /java/merger/merge-txt-to-xps/ 
-description: Aspose Excel. Free Online Merge TXT to XPS saveformat. Java Combine TXT to XPS format. Merge TXT to XPS in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XPS saveformat via Java., Free Online Merge TXT to xps in Java., Java Combine TXT to XPS Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to XPS saveformat. Java Combine TXT to XPS format. Merge TXT to XPS in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XPS in Java., Free Online Java Merge TXT to xps., Java Combine TXT to XPS Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

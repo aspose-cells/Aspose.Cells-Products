@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to POWERPOINT - Combine XLTM to POWERPOINT in Python
 url: /python-java/merger/merge-xltm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLTM to POWERPOINT saveformat. Python Combine XLTM to POWERPOINT format. Merge XLTM to POWERPOINT in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to POWERPOINT saveformat via Python., Free Online Merge XLTM to powerpoint in Python., Python Combine XLTM to POWERPOINT Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to POWERPOINT saveformat. Python Combine XLTM to POWERPOINT format. Merge XLTM to POWERPOINT in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to POWERPOINT in Python., Free Online Python Merge XLTM to powerpoint., Python Combine XLTM to POWERPOINT Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

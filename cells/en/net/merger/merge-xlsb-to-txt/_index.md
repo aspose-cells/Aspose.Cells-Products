@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to TXT - Combine XLSB to TXT in C#
 url: /net/merger/merge-xlsb-to-txt/ 
-description: Aspose Excel. Free Online Merge XLSB to TXT saveformat. C# Combine XLSB to TXT format. Merge XLSB to TXT in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to TXT saveformat via C#., Free Online Merge XLSB to txt in C#., C# Combine XLSB to TXT Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to TXT saveformat. C# Combine XLSB to TXT format. Merge XLSB to TXT in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to TXT in C#., Free Online C# Merge XLSB to txt., C# Combine XLSB to TXT Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

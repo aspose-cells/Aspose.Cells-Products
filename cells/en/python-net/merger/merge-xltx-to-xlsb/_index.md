@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to XLSB - Combine XLTX to XLSB in Python
 url: /python-net/merger/merge-xltx-to-xlsb/ 
-description: Aspose Excel. Free Online Merge XLTX to XLSB saveformat. Python Combine XLTX to XLSB format. Merge XLTX to XLSB in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLSB saveformat via Python., Free Online Merge XLTX to xlsb in Python., Python Combine XLTX to XLSB Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to XLSB saveformat. Python Combine XLTX to XLSB format. Merge XLTX to XLSB in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to XLSB in Python., Free Online Python Merge XLTX to xlsb., Python Combine XLTX to XLSB Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

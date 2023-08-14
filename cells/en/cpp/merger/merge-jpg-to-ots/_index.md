@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to OTS - Combine JPG to OTS in C++
 url: /cpp/merger/merge-jpg-to-ots/ 
-description: Aspose Excel. Free Online Merge JPG to OTS saveformat. C++ Combine JPG to OTS format. Merge JPG to OTS in C++. JPG Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to OTS saveformat via C++., Free Online Merge JPG to ots in C++., C++ Combine JPG to OTS Online for Free., JPG Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge JPG to OTS saveformat. C++ Combine JPG to OTS format. Merge JPG to OTS in C++. JPG Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JPG to OTS in C++., Free Online C++ Merge JPG to ots., C++ Combine JPG to OTS Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

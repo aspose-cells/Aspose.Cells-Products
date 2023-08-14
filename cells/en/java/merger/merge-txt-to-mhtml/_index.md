@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MHTML - Combine TXT to MHTML in Java
 url: /java/merger/merge-txt-to-mhtml/ 
-description: Aspose Excel. Free Online Merge TXT to MHTML saveformat. Java Combine TXT to MHTML format. Merge TXT to MHTML in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to MHTML saveformat via Java., Free Online Merge TXT to mhtml in Java., Java Combine TXT to MHTML Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to MHTML saveformat. Java Combine TXT to MHTML format. Merge TXT to MHTML in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to MHTML in Java., Free Online Java Merge TXT to mhtml., Java Combine TXT to MHTML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

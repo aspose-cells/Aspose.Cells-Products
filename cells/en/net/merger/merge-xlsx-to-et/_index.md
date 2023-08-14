@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to ET - Combine XLSX to ET in C#
 url: /net/merger/merge-xlsx-to-et/ 
-description: Aspose Excel. Free Online Merge XLSX to ET saveformat. C# Combine XLSX to ET format. Merge XLSX to ET in C#. XLSX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to ET saveformat via C#., Free Online Merge XLSX to et in C#., C# Combine XLSX to ET Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to ET saveformat. C# Combine XLSX to ET format. Merge XLSX to ET in C#. XLSX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to ET in C#., Free Online C# Merge XLSX to et., C# Combine XLSX to ET Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

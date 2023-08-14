@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PNG - Combine HTML to PNG in C++
 url: /cpp/merger/merge-html-to-png/ 
-description: Aspose Excel. Free Online Merge HTML to PNG saveformat. C++ Combine HTML to PNG format. Merge HTML to PNG in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to PNG saveformat via C++., Free Online Merge HTML to png in C++., C++ Combine HTML to PNG Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to PNG saveformat. C++ Combine HTML to PNG format. Merge HTML to PNG in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to PNG in C++., Free Online C++ Merge HTML to png., C++ Combine HTML to PNG Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to ET - Combine MHTML to ET in Java
 url: /java/merger/merge-mhtml-to-et/ 
-description: Aspose Excel. Free Online Merge MHTML to ET saveformat. Java Combine MHTML to ET format. Merge MHTML to ET in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to ET saveformat via Java., Free Online Merge MHTML to et in Java., Java Combine MHTML to ET Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to ET saveformat. Java Combine MHTML to ET format. Merge MHTML to ET in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to ET in Java., Free Online Java Merge MHTML to et., Java Combine MHTML to ET Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

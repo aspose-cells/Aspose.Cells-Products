@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to PRN - Combine XLTX to PRN in C#
 url: /net/merger/merge-xltx-to-prn/ 
-description: Aspose Excel. Free Online Merge XLTX to PRN saveformat. C# Combine XLTX to PRN format. Merge XLTX to PRN in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to PRN saveformat via C#., Free Online Merge XLTX to prn in C#., C# Combine XLTX to PRN Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to PRN saveformat. C# Combine XLTX to PRN format. Merge XLTX to PRN in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to PRN in C#., Free Online C# Merge XLTX to prn., C# Combine XLTX to PRN Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

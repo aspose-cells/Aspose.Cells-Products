@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to PPTX - Combine HTM to PPTX in Java
 url: /java/merger/merge-htm-to-pptx/ 
-description: Aspose Excel. Free Online Merge HTM to PPTX saveformat. Java Combine HTM to PPTX format. Merge HTM to PPTX in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PPTX saveformat via Java., Free Online Merge HTM to pptx in Java., Java Combine HTM to PPTX Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to PPTX saveformat. Java Combine HTM to PPTX format. Merge HTM to PPTX in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to PPTX in Java., Free Online Java Merge HTM to pptx., Java Combine HTM to PPTX Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

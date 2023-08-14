@@ -1,7 +1,7 @@
 ---
-title: HTML to NUMBERS - Convert HTML to NUMBERS files C++
-description: Aspose Excel. Free Online Convert HTML to NUMBERS saveformat. C++ HTML to NUMBERS format. Save HTML as NUMBERS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to NUMBERS saveformat., Free Online HTML to NUMBERS Converter]
+title: C++ HTML to NUMBERS - Online HTML to NUMBERS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert HTML to NUMBERS saveformat. C++ HTML to NUMBERS format. Save HTML to NUMBERS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ HTML to NUMBERS saveformat., Free Online HTML to NUMBERS C++., C++ Convert HTML to NUMBERS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

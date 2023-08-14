@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to EXCEL - Combine NUMBERS to EXCEL in C#
 url: /net/merger/merge-numbers-to-excel/ 
-description: Aspose Excel. Free Online Merge NUMBERS to EXCEL saveformat. C# Combine NUMBERS to EXCEL format. Merge NUMBERS to EXCEL in C#. NUMBERS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to EXCEL saveformat via C#., Free Online Merge NUMBERS to excel in C#., C# Combine NUMBERS to EXCEL Online for Free., NUMBERS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge NUMBERS to EXCEL saveformat. C# Combine NUMBERS to EXCEL format. Merge NUMBERS to EXCEL in C#. NUMBERS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to EXCEL in C#., Free Online C# Merge NUMBERS to excel., C# Combine NUMBERS to EXCEL Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

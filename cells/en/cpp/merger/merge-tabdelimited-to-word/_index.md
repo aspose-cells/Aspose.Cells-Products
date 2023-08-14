@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to WORD - Combine TABDELIMITED to WORD in C++
 url: /cpp/merger/merge-tabdelimited-to-word/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to WORD saveformat. C++ Combine TABDELIMITED to WORD format. Merge TABDELIMITED to WORD in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to WORD saveformat via C++., Free Online Merge TABDELIMITED to word in C++., C++ Combine TABDELIMITED to WORD Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to WORD saveformat. C++ Combine TABDELIMITED to WORD format. Merge TABDELIMITED to WORD in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to WORD in C++., Free Online C++ Merge TABDELIMITED to word., C++ Combine TABDELIMITED to WORD Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

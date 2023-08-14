@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MARKDOWN - Combine XLTM to MARKDOWN in Java
 url: /java/merger/merge-xltm-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLTM to MARKDOWN saveformat. Java Combine XLTM to MARKDOWN format. Merge XLTM to MARKDOWN in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MARKDOWN saveformat via Java., Free Online Merge XLTM to markdown in Java., Java Combine XLTM to MARKDOWN Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to MARKDOWN saveformat. Java Combine XLTM to MARKDOWN format. Merge XLTM to MARKDOWN in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MARKDOWN in Java., Free Online Java Merge XLTM to markdown., Java Combine XLTM to MARKDOWN Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

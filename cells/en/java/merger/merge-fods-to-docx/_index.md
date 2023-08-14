@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DOCX - Combine FODS to DOCX in Java
 url: /java/merger/merge-fods-to-docx/ 
-description: Aspose Excel. Free Online Merge FODS to DOCX saveformat. Java Combine FODS to DOCX format. Merge FODS to DOCX in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to DOCX saveformat via Java., Free Online Merge FODS to docx in Java., Java Combine FODS to DOCX Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to DOCX saveformat. Java Combine FODS to DOCX format. Merge FODS to DOCX in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to DOCX in Java., Free Online Java Merge FODS to docx., Java Combine FODS to DOCX Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to PNG - Combine XML to PNG in Java
 url: /java/merger/merge-xml-to-png/ 
-description: Aspose Excel. Free Online Merge XML to PNG saveformat. Java Combine XML to PNG format. Merge XML to PNG in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to PNG saveformat via Java., Free Online Merge XML to png in Java., Java Combine XML to PNG Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to PNG saveformat. Java Combine XML to PNG format. Merge XML to PNG in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to PNG in Java., Free Online Java Merge XML to png., Java Combine XML to PNG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to PPTX - Combine EXCEL to PPTX in Java
 url: /java/merger/merge-excel-to-pptx/ 
-description: Aspose Excel. Free Online Merge EXCEL to PPTX saveformat. Java Combine EXCEL to PPTX format. Merge EXCEL to PPTX in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PPTX saveformat via Java., Free Online Merge EXCEL to pptx in Java., Java Combine EXCEL to PPTX Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to PPTX saveformat. Java Combine EXCEL to PPTX format. Merge EXCEL to PPTX in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to PPTX in Java., Free Online Java Merge EXCEL to pptx., Java Combine EXCEL to PPTX Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SPREADSHEETML - Combine HTM to SPREADSHEETML in C++
 url: /cpp/merger/merge-htm-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge HTM to SPREADSHEETML saveformat. C++ Combine HTM to SPREADSHEETML format. Merge HTM to SPREADSHEETML in C++. HTM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to SPREADSHEETML saveformat via C++., Free Online Merge HTM to spreadsheetml in C++., C++ Combine HTM to SPREADSHEETML Online for Free., HTM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTM to SPREADSHEETML saveformat. C++ Combine HTM to SPREADSHEETML format. Merge HTM to SPREADSHEETML in C++. HTM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTM to SPREADSHEETML in C++., Free Online C++ Merge HTM to spreadsheetml., C++ Combine HTM to SPREADSHEETML Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

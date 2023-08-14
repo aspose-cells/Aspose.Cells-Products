@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to MARKDOWN - Combine FODS to MARKDOWN in Python
 url: /python-java/merger/merge-fods-to-markdown/ 
-description: Aspose Excel. Free Online Merge FODS to MARKDOWN saveformat. Python Combine FODS to MARKDOWN format. Merge FODS to MARKDOWN in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to MARKDOWN saveformat via Python., Free Online Merge FODS to markdown in Python., Python Combine FODS to MARKDOWN Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to MARKDOWN saveformat. Python Combine FODS to MARKDOWN format. Merge FODS to MARKDOWN in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to MARKDOWN in Python., Free Online Python Merge FODS to markdown., Python Combine FODS to MARKDOWN Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

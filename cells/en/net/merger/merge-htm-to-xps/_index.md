@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to XPS - Combine HTM to XPS in C#
 url: /net/merger/merge-htm-to-xps/ 
-description: Aspose Excel. Free Online Merge HTM to XPS saveformat. C# Combine HTM to XPS format. Merge HTM to XPS in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to XPS saveformat via C#., Free Online Merge HTM to xps in C#., C# Combine HTM to XPS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to XPS saveformat. C# Combine HTM to XPS format. Merge HTM to XPS in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to XPS in C#., Free Online C# Merge HTM to xps., C# Combine HTM to XPS Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

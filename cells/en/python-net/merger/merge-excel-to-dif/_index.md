@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to DIF - Combine EXCEL to DIF in Python
 url: /python-net/merger/merge-excel-to-dif/ 
-description: Aspose Excel. Free Online Merge EXCEL to DIF saveformat. Python Combine EXCEL to DIF format. Merge EXCEL to DIF in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to DIF saveformat via Python., Free Online Merge EXCEL to dif in Python., Python Combine EXCEL to DIF Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to DIF saveformat. Python Combine EXCEL to DIF format. Merge EXCEL to DIF in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to DIF in Python., Free Online Python Merge EXCEL to dif., Python Combine EXCEL to DIF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to DOCX - Combine MHTML to DOCX in C#
 url: /net/merger/merge-mhtml-to-docx/ 
-description: Aspose Excel. Free Online Merge MHTML to DOCX saveformat. C# Combine MHTML to DOCX format. Merge MHTML to DOCX in C#. MHTML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DOCX saveformat via C#., Free Online Merge MHTML to docx in C#., C# Combine MHTML to DOCX Online for Free., MHTML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHTML to DOCX saveformat. C# Combine MHTML to DOCX format. Merge MHTML to DOCX in C#. MHTML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to DOCX in C#., Free Online C# Merge MHTML to docx., C# Combine MHTML to DOCX Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

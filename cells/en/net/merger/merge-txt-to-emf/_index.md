@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to EMF - Combine TXT to EMF in C#
 url: /net/merger/merge-txt-to-emf/ 
-description: Aspose Excel. Free Online Merge TXT to EMF saveformat. C# Combine TXT to EMF format. Merge TXT to EMF in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to EMF saveformat via C#., Free Online Merge TXT to emf in C#., C# Combine TXT to EMF Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to EMF saveformat. C# Combine TXT to EMF format. Merge TXT to EMF in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to EMF in C#., Free Online C# Merge TXT to emf., C# Combine TXT to EMF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

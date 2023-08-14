@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to POWERPOINT - Combine HTML to POWERPOINT in Java
 url: /java/merger/merge-html-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTML to POWERPOINT saveformat. Java Combine HTML to POWERPOINT format. Merge HTML to POWERPOINT in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to POWERPOINT saveformat via Java., Free Online Merge HTML to powerpoint in Java., Java Combine HTML to POWERPOINT Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to POWERPOINT saveformat. Java Combine HTML to POWERPOINT format. Merge HTML to POWERPOINT in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to POWERPOINT in Java., Free Online Java Merge HTML to powerpoint., Java Combine HTML to POWERPOINT Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

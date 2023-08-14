@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to GIF - Combine XLTX to GIF in C++
 url: /cpp/merger/merge-xltx-to-gif/ 
-description: Aspose Excel. Free Online Merge XLTX to GIF saveformat. C++ Combine XLTX to GIF format. Merge XLTX to GIF in C++. XLTX Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to GIF saveformat via C++., Free Online Merge XLTX to gif in C++., C++ Combine XLTX to GIF Online for Free., XLTX Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLTX to GIF saveformat. C++ Combine XLTX to GIF format. Merge XLTX to GIF in C++. XLTX Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTX to GIF in C++., Free Online C++ Merge XLTX to gif., C++ Combine XLTX to GIF Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

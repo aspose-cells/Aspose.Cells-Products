@@ -1,8 +1,8 @@
 ---
 title: Merge XLS to BMP - Combine XLS to BMP in C#
 url: /net/merger/merge-xls-to-bmp/ 
-description: Aspose Excel. Free Online Merge XLS to BMP saveformat. C# Combine XLS to BMP format. Merge XLS to BMP in C#. XLS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to BMP saveformat via C#., Free Online Merge XLS to bmp in C#., C# Combine XLS to BMP Online for Free., XLS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLS to BMP saveformat. C# Combine XLS to BMP format. Merge XLS to BMP in C#. XLS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to BMP in C#., Free Online C# Merge XLS to bmp., C# Combine XLS to BMP Online for Free., XLS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

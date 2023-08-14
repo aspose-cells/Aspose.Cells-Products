@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLTM - Combine XML to XLTM in C++
 url: /cpp/merger/merge-xml-to-xltm/ 
-description: Aspose Excel. Free Online Merge XML to XLTM saveformat. C++ Combine XML to XLTM format. Merge XML to XLTM in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLTM saveformat via C++., Free Online Merge XML to xltm in C++., C++ Combine XML to XLTM Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to XLTM saveformat. C++ Combine XML to XLTM format. Merge XML to XLTM in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLTM in C++., Free Online C++ Merge XML to xltm., C++ Combine XML to XLTM Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

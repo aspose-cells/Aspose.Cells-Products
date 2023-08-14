@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to POWERPOINT - Combine CSV to POWERPOINT in C++
 url: /cpp/merger/merge-csv-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge CSV to POWERPOINT saveformat. C++ Combine CSV to POWERPOINT format. Merge CSV to POWERPOINT in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to POWERPOINT saveformat via C++., Free Online Merge CSV to powerpoint in C++., C++ Combine CSV to POWERPOINT Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to POWERPOINT saveformat. C++ Combine CSV to POWERPOINT format. Merge CSV to POWERPOINT in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to POWERPOINT in C++., Free Online C++ Merge CSV to powerpoint., C++ Combine CSV to POWERPOINT Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

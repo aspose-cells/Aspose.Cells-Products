@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to SVG - Combine FODS to SVG in Python
 url: /python-net/merger/merge-fods-to-svg/ 
-description: Aspose Excel. Free Online Merge FODS to SVG saveformat. Python Combine FODS to SVG format. Merge FODS to SVG in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SVG saveformat via Python., Free Online Merge FODS to svg in Python., Python Combine FODS to SVG Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to SVG saveformat. Python Combine FODS to SVG format. Merge FODS to SVG in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to SVG in Python., Free Online Python Merge FODS to svg., Python Combine FODS to SVG Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

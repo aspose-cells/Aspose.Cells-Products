@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to SQL - Combine ODS to SQL in Java
 url: /java/merger/merge-ods-to-sql/ 
-description: Aspose Excel. Free Online Merge ODS to SQL saveformat. Java Combine ODS to SQL format. Merge ODS to SQL in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to SQL saveformat via Java., Free Online Merge ODS to sql in Java., Java Combine ODS to SQL Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to SQL saveformat. Java Combine ODS to SQL format. Merge ODS to SQL in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to SQL in Java., Free Online Java Merge ODS to sql., Java Combine ODS to SQL Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

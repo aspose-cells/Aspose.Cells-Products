@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to TXT - Combine XLSM to TXT in Java
 url: /java/merger/merge-xlsm-to-txt/ 
-description: Aspose Excel. Free Online Merge XLSM to TXT saveformat. Java Combine XLSM to TXT format. Merge XLSM to TXT in Java. XLSM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to TXT saveformat via Java., Free Online Merge XLSM to txt in Java., Java Combine XLSM to TXT Online for Free., XLSM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSM to TXT saveformat. Java Combine XLSM to TXT format. Merge XLSM to TXT in Java. XLSM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSM to TXT in Java., Free Online Java Merge XLSM to txt., Java Combine XLSM to TXT Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to SXC - Combine SPREADSHEETML to SXC in C#
 url: /net/merger/merge-spreadsheetml-to-sxc/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to SXC saveformat. C# Combine SPREADSHEETML to SXC format. Merge SPREADSHEETML to SXC in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to SXC saveformat via C#., Free Online Merge SPREADSHEETML to sxc in C#., C# Combine SPREADSHEETML to SXC Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to SXC saveformat. C# Combine SPREADSHEETML to SXC format. Merge SPREADSHEETML to SXC in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to SXC in C#., Free Online C# Merge SPREADSHEETML to sxc., C# Combine SPREADSHEETML to SXC Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

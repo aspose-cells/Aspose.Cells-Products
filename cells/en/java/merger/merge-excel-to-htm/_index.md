@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to HTM - Combine EXCEL to HTM in Java
 url: /java/merger/merge-excel-to-htm/ 
-description: Aspose Excel. Free Online Merge EXCEL to HTM saveformat. Java Combine EXCEL to HTM format. Merge EXCEL to HTM in Java. EXCEL Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to HTM saveformat via Java., Free Online Merge EXCEL to htm in Java., Java Combine EXCEL to HTM Online for Free., EXCEL Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge EXCEL to HTM saveformat. Java Combine EXCEL to HTM format. Merge EXCEL to HTM in Java. EXCEL Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to HTM in Java., Free Online Java Merge EXCEL to htm., Java Combine EXCEL to HTM Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

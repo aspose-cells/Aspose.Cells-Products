@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to HTML - Combine XLTX to HTML in C#
 url: /net/merger/merge-xltx-to-html/ 
-description: Aspose Excel. Free Online Merge XLTX to HTML saveformat. C# Combine XLTX to HTML format. Merge XLTX to HTML in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to HTML saveformat via C#., Free Online Merge XLTX to html in C#., C# Combine XLTX to HTML Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to HTML saveformat. C# Combine XLTX to HTML format. Merge XLTX to HTML in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to HTML in C#., Free Online C# Merge XLTX to html., C# Combine XLTX to HTML Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to PPTX - Convert JPG to PPTX files Java
-description: Aspose Excel. Free Online Convert JPG to PPTX saveformat. Java JPG to PPTX format. Save JPG as PPTX in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to PPTX saveformat., Free Online JPG to PPTX Converter]
+title: Java JPG to PPTX - Online JPG to PPTX Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to PPTX saveformat. Java JPG to PPTX format. Save JPG to PPTX Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to PPTX saveformat., Free Online JPG to PPTX Java., Java Convert JPG to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

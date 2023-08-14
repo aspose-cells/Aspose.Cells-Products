@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SVG - Combine XLT to SVG in C++
 url: /cpp/merger/merge-xlt-to-svg/ 
-description: Aspose Excel. Free Online Merge XLT to SVG saveformat. C++ Combine XLT to SVG format. Merge XLT to SVG in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SVG saveformat via C++., Free Online Merge XLT to svg in C++., C++ Combine XLT to SVG Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to SVG saveformat. C++ Combine XLT to SVG format. Merge XLT to SVG in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to SVG in C++., Free Online C++ Merge XLT to svg., C++ Combine XLT to SVG Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

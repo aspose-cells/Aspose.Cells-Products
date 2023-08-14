@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to TIFF - Combine XLT to TIFF in Python
 url: /python-java/merger/merge-xlt-to-tiff/ 
-description: Aspose Excel. Free Online Merge XLT to TIFF saveformat. Python Combine XLT to TIFF format. Merge XLT to TIFF in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to TIFF saveformat via Python., Free Online Merge XLT to tiff in Python., Python Combine XLT to TIFF Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to TIFF saveformat. Python Combine XLT to TIFF format. Merge XLT to TIFF in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to TIFF in Python., Free Online Python Merge XLT to tiff., Python Combine XLT to TIFF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

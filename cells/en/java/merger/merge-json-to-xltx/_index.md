@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to XLTX - Combine JSON to XLTX in Java
 url: /java/merger/merge-json-to-xltx/ 
-description: Aspose Excel. Free Online Merge JSON to XLTX saveformat. Java Combine JSON to XLTX format. Merge JSON to XLTX in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLTX saveformat via Java., Free Online Merge JSON to xltx in Java., Java Combine JSON to XLTX Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to XLTX saveformat. Java Combine JSON to XLTX format. Merge JSON to XLTX in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XLTX in Java., Free Online Java Merge JSON to xltx., Java Combine JSON to XLTX Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

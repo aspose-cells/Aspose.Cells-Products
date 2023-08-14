@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to POWERPOINT - Combine SXC to POWERPOINT in Python
 url: /python-java/merger/merge-sxc-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SXC to POWERPOINT saveformat. Python Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT saveformat via Python., Free Online Merge SXC to powerpoint in Python., Python Combine SXC to POWERPOINT Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to POWERPOINT saveformat. Python Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Python., Free Online Python Merge SXC to powerpoint., Python Combine SXC to POWERPOINT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

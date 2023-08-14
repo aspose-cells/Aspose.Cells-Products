@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to WORD - Combine PNG to WORD in Python
 url: /python-java/merger/merge-png-to-word/ 
-description: Aspose Excel. Free Online Merge PNG to WORD saveformat. Python Combine PNG to WORD format. Merge PNG to WORD in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to WORD saveformat via Python., Free Online Merge PNG to word in Python., Python Combine PNG to WORD Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to WORD saveformat. Python Combine PNG to WORD format. Merge PNG to WORD in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to WORD in Python., Free Online Python Merge PNG to word., Python Combine PNG to WORD Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

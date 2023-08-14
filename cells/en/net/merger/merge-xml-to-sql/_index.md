@@ -1,8 +1,8 @@
 ---
 title: Merge XML to SQL - Combine XML to SQL in C#
 url: /net/merger/merge-xml-to-sql/ 
-description: Aspose Excel. Free Online Merge XML to SQL saveformat. C# Combine XML to SQL format. Merge XML to SQL in C#. XML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to SQL saveformat via C#., Free Online Merge XML to sql in C#., C# Combine XML to SQL Online for Free., XML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XML to SQL saveformat. C# Combine XML to SQL format. Merge XML to SQL in C#. XML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to SQL in C#., Free Online C# Merge XML to sql., C# Combine XML to SQL Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

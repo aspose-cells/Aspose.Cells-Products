@@ -1,7 +1,7 @@
 ---
-title: TXT to XPS - Convert TXT to XPS files C#
-description: Aspose Excel. Free Online Convert TXT to XPS saveformat. C# TXT to XPS format. Save TXT as XPS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to XPS saveformat., Free Online TXT to XPS Converter]
+title: C# TXT to XPS - Online TXT to XPS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert TXT to XPS saveformat. C# TXT to XPS format. Save TXT to XPS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# TXT to XPS saveformat., Free Online TXT to XPS C#., C# Convert TXT to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

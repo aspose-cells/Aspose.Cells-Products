@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to WORD - Combine PRN to WORD in Python
 url: /python-java/merger/merge-prn-to-word/ 
-description: Aspose Excel. Free Online Merge PRN to WORD saveformat. Python Combine PRN to WORD format. Merge PRN to WORD in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to WORD saveformat via Python., Free Online Merge PRN to word in Python., Python Combine PRN to WORD Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to WORD saveformat. Python Combine PRN to WORD format. Merge PRN to WORD in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to WORD in Python., Free Online Python Merge PRN to word., Python Combine PRN to WORD Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

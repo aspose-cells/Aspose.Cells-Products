@@ -1,7 +1,7 @@
 ---
-title: JPG to FODS - Convert JPG to FODS files C#
-description: Aspose Excel. Free Online Convert JPG to FODS saveformat. C# JPG to FODS format. Save JPG as FODS in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to FODS saveformat., Free Online JPG to FODS Converter]
+title: C# JPG to FODS - Online JPG to FODS Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert JPG to FODS saveformat. C# JPG to FODS format. Save JPG to FODS C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# JPG to FODS saveformat., Free Online JPG to FODS C#., C# Convert JPG to FODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

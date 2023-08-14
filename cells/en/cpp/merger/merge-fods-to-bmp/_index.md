@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to BMP - Combine FODS to BMP in C++
 url: /cpp/merger/merge-fods-to-bmp/ 
-description: Aspose Excel. Free Online Merge FODS to BMP saveformat. C++ Combine FODS to BMP format. Merge FODS to BMP in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to BMP saveformat via C++., Free Online Merge FODS to bmp in C++., C++ Combine FODS to BMP Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to BMP saveformat. C++ Combine FODS to BMP format. Merge FODS to BMP in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to BMP in C++., Free Online C++ Merge FODS to bmp., C++ Combine FODS to BMP Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

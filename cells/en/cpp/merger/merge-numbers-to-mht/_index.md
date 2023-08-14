@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to MHT - Combine NUMBERS to MHT in C++
 url: /cpp/merger/merge-numbers-to-mht/ 
-description: Aspose Excel. Free Online Merge NUMBERS to MHT saveformat. C++ Combine NUMBERS to MHT format. Merge NUMBERS to MHT in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MHT saveformat via C++., Free Online Merge NUMBERS to mht in C++., C++ Combine NUMBERS to MHT Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to MHT saveformat. C++ Combine NUMBERS to MHT format. Merge NUMBERS to MHT in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to MHT in C++., Free Online C++ Merge NUMBERS to mht., C++ Combine NUMBERS to MHT Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

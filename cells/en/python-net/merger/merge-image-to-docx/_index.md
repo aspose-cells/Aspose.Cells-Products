@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DOCX - Combine IMAGE to DOCX in Python
 url: /python-net/merger/merge-image-to-docx/ 
-description: Aspose Excel. Free Online Merge IMAGE to DOCX saveformat. Python Combine IMAGE to DOCX format. Merge IMAGE to DOCX in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to DOCX saveformat via Python., Free Online Merge IMAGE to docx in Python., Python Combine IMAGE to DOCX Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to DOCX saveformat. Python Combine IMAGE to DOCX format. Merge IMAGE to DOCX in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to DOCX in Python., Free Online Python Merge IMAGE to docx., Python Combine IMAGE to DOCX Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

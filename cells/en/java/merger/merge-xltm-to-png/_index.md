@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PNG - Combine XLTM to PNG in Java
 url: /java/merger/merge-xltm-to-png/ 
-description: Aspose Excel. Free Online Merge XLTM to PNG saveformat. Java Combine XLTM to PNG format. Merge XLTM to PNG in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to PNG saveformat via Java., Free Online Merge XLTM to png in Java., Java Combine XLTM to PNG Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to PNG saveformat. Java Combine XLTM to PNG format. Merge XLTM to PNG in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to PNG in Java., Free Online Java Merge XLTM to png., Java Combine XLTM to PNG Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

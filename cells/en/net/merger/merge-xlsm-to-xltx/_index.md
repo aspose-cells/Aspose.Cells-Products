@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to XLTX - Combine XLSM to XLTX in C#
 url: /net/merger/merge-xlsm-to-xltx/ 
-description: Aspose Excel. Free Online Merge XLSM to XLTX saveformat. C# Combine XLSM to XLTX format. Merge XLSM to XLTX in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTX saveformat via C#., Free Online Merge XLSM to xltx in C#., C# Combine XLSM to XLTX Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to XLTX saveformat. C# Combine XLSM to XLTX format. Merge XLSM to XLTX in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to XLTX in C#., Free Online C# Merge XLSM to xltx., C# Combine XLSM to XLTX Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

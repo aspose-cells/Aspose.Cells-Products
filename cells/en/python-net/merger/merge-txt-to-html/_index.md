@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTML - Combine TXT to HTML in Python
 url: /python-net/merger/merge-txt-to-html/ 
-description: Aspose Excel. Free Online Merge TXT to HTML saveformat. Python Combine TXT to HTML format. Merge TXT to HTML in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to HTML saveformat via Python., Free Online Merge TXT to html in Python., Python Combine TXT to HTML Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to HTML saveformat. Python Combine TXT to HTML format. Merge TXT to HTML in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to HTML in Python., Free Online Python Merge TXT to html., Python Combine TXT to HTML Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

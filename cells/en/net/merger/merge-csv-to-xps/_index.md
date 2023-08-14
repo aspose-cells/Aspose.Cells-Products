@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to XPS - Combine CSV to XPS in C#
 url: /net/merger/merge-csv-to-xps/ 
-description: Aspose Excel. Free Online Merge CSV to XPS saveformat. C# Combine CSV to XPS format. Merge CSV to XPS in C#. CSV Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XPS saveformat via C#., Free Online Merge CSV to xps in C#., C# Combine CSV to XPS Online for Free., CSV Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge CSV to XPS saveformat. C# Combine CSV to XPS format. Merge CSV to XPS in C#. CSV Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XPS in C#., Free Online C# Merge CSV to xps., C# Combine CSV to XPS Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

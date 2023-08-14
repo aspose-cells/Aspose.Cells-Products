@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLSB - Combine NUMBERS to XLSB in Python
 url: /python-net/merger/merge-numbers-to-xlsb/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLSB saveformat. Python Combine NUMBERS to XLSB format. Merge NUMBERS to XLSB in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSB saveformat via Python., Free Online Merge NUMBERS to xlsb in Python., Python Combine NUMBERS to XLSB Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to XLSB saveformat. Python Combine NUMBERS to XLSB format. Merge NUMBERS to XLSB in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSB in Python., Free Online Python Merge NUMBERS to xlsb., Python Combine NUMBERS to XLSB Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

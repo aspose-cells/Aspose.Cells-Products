@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to SVG - Combine JSON to SVG in Python
 url: /python-java/merger/merge-json-to-svg/ 
-description: Aspose Excel. Free Online Merge JSON to SVG saveformat. Python Combine JSON to SVG format. Merge JSON to SVG in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to SVG saveformat via Python., Free Online Merge JSON to svg in Python., Python Combine JSON to SVG Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to SVG saveformat. Python Combine JSON to SVG format. Merge JSON to SVG in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to SVG in Python., Free Online Python Merge JSON to svg., Python Combine JSON to SVG Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

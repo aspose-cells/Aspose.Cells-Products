@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DOCX - Combine SXC to DOCX in C#
 url: /net/merger/merge-sxc-to-docx/ 
-description: Aspose Excel. Free Online Merge SXC to DOCX saveformat. C# Combine SXC to DOCX format. Merge SXC to DOCX in C#. SXC Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to DOCX saveformat via C#., Free Online Merge SXC to docx in C#., C# Combine SXC to DOCX Online for Free., SXC Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SXC to DOCX saveformat. C# Combine SXC to DOCX format. Merge SXC to DOCX in C#. SXC Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to DOCX in C#., Free Online C# Merge SXC to docx., C# Combine SXC to DOCX Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to EXCEL - Combine JPEG to EXCEL in Python
 url: /python-java/merger/merge-jpeg-to-excel/ 
-description: Aspose Excel. Free Online Merge JPEG to EXCEL saveformat. Python Combine JPEG to EXCEL format. Merge JPEG to EXCEL in Python. JPEG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to EXCEL saveformat via Python., Free Online Merge JPEG to excel in Python., Python Combine JPEG to EXCEL Online for Free., JPEG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPEG to EXCEL saveformat. Python Combine JPEG to EXCEL format. Merge JPEG to EXCEL in Python. JPEG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPEG to EXCEL in Python., Free Online Python Merge JPEG to excel., Python Combine JPEG to EXCEL Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

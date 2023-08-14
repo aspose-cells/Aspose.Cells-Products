@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to MHT - Combine MHT to MHT in Python
 url: /python-java/merger/merge-mht-to-mht/ 
-description: Aspose Excel. Free Online Merge MHT to MHT saveformat. Python Combine MHT to MHT format. Merge MHT to MHT in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to MHT saveformat via Python., Free Online Merge MHT to mht in Python., Python Combine MHT to MHT Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to MHT saveformat. Python Combine MHT to MHT format. Merge MHT to MHT in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to MHT in Python., Free Online Python Merge MHT to mht., Python Combine MHT to MHT Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

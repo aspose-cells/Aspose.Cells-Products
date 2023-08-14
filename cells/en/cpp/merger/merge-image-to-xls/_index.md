@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to XLS - Combine IMAGE to XLS in C++
 url: /cpp/merger/merge-image-to-xls/ 
-description: Aspose Excel. Free Online Merge IMAGE to XLS saveformat. C++ Combine IMAGE to XLS format. Merge IMAGE to XLS in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XLS saveformat via C++., Free Online Merge IMAGE to xls in C++., C++ Combine IMAGE to XLS Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to XLS saveformat. C++ Combine IMAGE to XLS format. Merge IMAGE to XLS in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to XLS in C++., Free Online C++ Merge IMAGE to xls., C++ Combine IMAGE to XLS Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

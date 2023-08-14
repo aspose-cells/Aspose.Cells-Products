@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to DIF - Combine HTML to DIF in C++
 url: /cpp/merger/merge-html-to-dif/ 
-description: Aspose Excel. Free Online Merge HTML to DIF saveformat. C++ Combine HTML to DIF format. Merge HTML to DIF in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to DIF saveformat via C++., Free Online Merge HTML to dif in C++., C++ Combine HTML to DIF Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to DIF saveformat. C++ Combine HTML to DIF format. Merge HTML to DIF in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to DIF in C++., Free Online C++ Merge HTML to dif., C++ Combine HTML to DIF Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

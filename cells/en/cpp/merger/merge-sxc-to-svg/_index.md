@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to SVG - Combine SXC to SVG in C++
 url: /cpp/merger/merge-sxc-to-svg/ 
-description: Aspose Excel. Free Online Merge SXC to SVG saveformat. C++ Combine SXC to SVG format. Merge SXC to SVG in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to SVG saveformat via C++., Free Online Merge SXC to svg in C++., C++ Combine SXC to SVG Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to SVG saveformat. C++ Combine SXC to SVG format. Merge SXC to SVG in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to SVG in C++., Free Online C++ Merge SXC to svg., C++ Combine SXC to SVG Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

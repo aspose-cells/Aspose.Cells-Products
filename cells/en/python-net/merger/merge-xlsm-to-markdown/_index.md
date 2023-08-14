@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to MARKDOWN - Combine XLSM to MARKDOWN in Python
 url: /python-net/merger/merge-xlsm-to-markdown/ 
-description: Aspose Excel. Free Online Merge XLSM to MARKDOWN saveformat. Python Combine XLSM to MARKDOWN format. Merge XLSM to MARKDOWN in Python. XLSM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to MARKDOWN saveformat via Python., Free Online Merge XLSM to markdown in Python., Python Combine XLSM to MARKDOWN Online for Free., XLSM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSM to MARKDOWN saveformat. Python Combine XLSM to MARKDOWN format. Merge XLSM to MARKDOWN in Python. XLSM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSM to MARKDOWN in Python., Free Online Python Merge XLSM to markdown., Python Combine XLSM to MARKDOWN Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to ET - Combine FODS to ET in Python
 url: /python-java/merger/merge-fods-to-et/ 
-description: Aspose Excel. Free Online Merge FODS to ET saveformat. Python Combine FODS to ET format. Merge FODS to ET in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to ET saveformat via Python., Free Online Merge FODS to et in Python., Python Combine FODS to ET Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to ET saveformat. Python Combine FODS to ET format. Merge FODS to ET in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to ET in Python., Free Online Python Merge FODS to et., Python Combine FODS to ET Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

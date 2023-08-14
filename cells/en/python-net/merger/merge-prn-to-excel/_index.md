@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to EXCEL - Combine PRN to EXCEL in Python
 url: /python-net/merger/merge-prn-to-excel/ 
-description: Aspose Excel. Free Online Merge PRN to EXCEL saveformat. Python Combine PRN to EXCEL format. Merge PRN to EXCEL in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to EXCEL saveformat via Python., Free Online Merge PRN to excel in Python., Python Combine PRN to EXCEL Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to EXCEL saveformat. Python Combine PRN to EXCEL format. Merge PRN to EXCEL in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to EXCEL in Python., Free Online Python Merge PRN to excel., Python Combine PRN to EXCEL Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

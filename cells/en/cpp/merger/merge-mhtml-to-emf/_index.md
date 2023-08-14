@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to EMF - Combine MHTML to EMF in C++
 url: /cpp/merger/merge-mhtml-to-emf/ 
-description: Aspose Excel. Free Online Merge MHTML to EMF saveformat. C++ Combine MHTML to EMF format. Merge MHTML to EMF in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to EMF saveformat via C++., Free Online Merge MHTML to emf in C++., C++ Combine MHTML to EMF Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to EMF saveformat. C++ Combine MHTML to EMF format. Merge MHTML to EMF in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to EMF in C++., Free Online C++ Merge MHTML to emf., C++ Combine MHTML to EMF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

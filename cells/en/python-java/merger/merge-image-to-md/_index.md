@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to MD - Combine IMAGE to MD in Python
 url: /python-java/merger/merge-image-to-md/ 
-description: Aspose Excel. Free Online Merge IMAGE to MD saveformat. Python Combine IMAGE to MD format. Merge IMAGE to MD in Python. IMAGE Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to MD saveformat via Python., Free Online Merge IMAGE to md in Python., Python Combine IMAGE to MD Online for Free., IMAGE Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge IMAGE to MD saveformat. Python Combine IMAGE to MD format. Merge IMAGE to MD in Python. IMAGE Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge IMAGE to MD in Python., Free Online Python Merge IMAGE to md., Python Combine IMAGE to MD Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

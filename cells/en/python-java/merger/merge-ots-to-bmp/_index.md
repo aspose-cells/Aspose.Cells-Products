@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to BMP - Combine OTS to BMP in Python
 url: /python-java/merger/merge-ots-to-bmp/ 
-description: Aspose Excel. Free Online Merge OTS to BMP saveformat. Python Combine OTS to BMP format. Merge OTS to BMP in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to BMP saveformat via Python., Free Online Merge OTS to bmp in Python., Python Combine OTS to BMP Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to BMP saveformat. Python Combine OTS to BMP format. Merge OTS to BMP in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to BMP in Python., Free Online Python Merge OTS to bmp., Python Combine OTS to BMP Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

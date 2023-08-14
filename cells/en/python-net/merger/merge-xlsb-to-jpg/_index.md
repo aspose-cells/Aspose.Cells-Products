@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to JPG - Combine XLSB to JPG in Python
 url: /python-net/merger/merge-xlsb-to-jpg/ 
-description: Aspose Excel. Free Online Merge XLSB to JPG saveformat. Python Combine XLSB to JPG format. Merge XLSB to JPG in Python. XLSB Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to JPG saveformat via Python., Free Online Merge XLSB to jpg in Python., Python Combine XLSB to JPG Online for Free., XLSB Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSB to JPG saveformat. Python Combine XLSB to JPG format. Merge XLSB to JPG in Python. XLSB Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to JPG in Python., Free Online Python Merge XLSB to jpg., Python Combine XLSB to JPG Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

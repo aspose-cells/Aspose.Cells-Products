@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to POWERPOINT - Combine XLSB to POWERPOINT in C++
 url: /cpp/merger/merge-xlsb-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLSB to POWERPOINT saveformat. C++ Combine XLSB to POWERPOINT format. Merge XLSB to POWERPOINT in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to POWERPOINT saveformat via C++., Free Online Merge XLSB to powerpoint in C++., C++ Combine XLSB to POWERPOINT Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to POWERPOINT saveformat. C++ Combine XLSB to POWERPOINT format. Merge XLSB to POWERPOINT in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to POWERPOINT in C++., Free Online C++ Merge XLSB to powerpoint., C++ Combine XLSB to POWERPOINT Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

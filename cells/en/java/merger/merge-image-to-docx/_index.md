@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DOCX - Combine IMAGE to DOCX in Java
 url: /java/merger/merge-image-to-docx/ 
-description: Aspose Excel. Free Online Merge IMAGE to DOCX saveformat. Java Combine IMAGE to DOCX format. Merge IMAGE to DOCX in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to DOCX saveformat via Java., Free Online Merge IMAGE to docx in Java., Java Combine IMAGE to DOCX Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to DOCX saveformat. Java Combine IMAGE to DOCX format. Merge IMAGE to DOCX in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to DOCX in Java., Free Online Java Merge IMAGE to docx., Java Combine IMAGE to DOCX Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

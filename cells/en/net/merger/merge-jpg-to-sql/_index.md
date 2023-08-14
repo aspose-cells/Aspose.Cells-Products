@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to SQL - Combine JPG to SQL in C#
 url: /net/merger/merge-jpg-to-sql/ 
-description: Aspose Excel. Free Online Merge JPG to SQL saveformat. C# Combine JPG to SQL format. Merge JPG to SQL in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SQL saveformat via C#., Free Online Merge JPG to sql in C#., C# Combine JPG to SQL Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to SQL saveformat. C# Combine JPG to SQL format. Merge JPG to SQL in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to SQL in C#., Free Online C# Merge JPG to sql., C# Combine JPG to SQL Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

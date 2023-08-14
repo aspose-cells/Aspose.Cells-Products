@@ -1,7 +1,7 @@
 ---
-title: TXT to ETT - Convert TXT to ETT files Java
-description: Aspose Excel. Free Online Convert TXT to ETT saveformat. Java TXT to ETT format. Save TXT as ETT in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to ETT saveformat., Free Online TXT to ETT Converter]
+title: Java TXT to ETT - Online TXT to ETT Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert TXT to ETT saveformat. Java TXT to ETT format. Save TXT to ETT Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java TXT to ETT saveformat., Free Online TXT to ETT Java., Java Convert TXT to ETT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

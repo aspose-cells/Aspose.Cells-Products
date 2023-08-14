@@ -1,7 +1,7 @@
 ---
-title: EXCEL to TXT - Convert EXCEL to TXT files Python
-description: Aspose Excel. Free Online Convert EXCEL to TXT saveformat. Python EXCEL to TXT format. Save EXCEL as TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to TXT saveformat., Free Online EXCEL to TXT Converter]
+title: Python EXCEL to TXT - Online EXCEL to TXT Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert EXCEL to TXT saveformat. Python EXCEL to TXT format. Save EXCEL to TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to TXT saveformat., Free Online EXCEL to TXT Python., Python Convert EXCEL to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to ETT - Combine TSV to ETT in Python
 url: /python-net/merger/merge-tsv-to-ett/ 
-description: Aspose Excel. Free Online Merge TSV to ETT saveformat. Python Combine TSV to ETT format. Merge TSV to ETT in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ETT saveformat via Python., Free Online Merge TSV to ett in Python., Python Combine TSV to ETT Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to ETT saveformat. Python Combine TSV to ETT format. Merge TSV to ETT in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to ETT in Python., Free Online Python Merge TSV to ett., Python Combine TSV to ETT Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

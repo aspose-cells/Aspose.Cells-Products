@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PPTX - Combine HTML to PPTX in Java
 url: /java/merger/merge-html-to-pptx/ 
-description: Aspose Excel. Free Online Merge HTML to PPTX saveformat. Java Combine HTML to PPTX format. Merge HTML to PPTX in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to PPTX saveformat via Java., Free Online Merge HTML to pptx in Java., Java Combine HTML to PPTX Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to PPTX saveformat. Java Combine HTML to PPTX format. Merge HTML to PPTX in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to PPTX in Java., Free Online Java Merge HTML to pptx., Java Combine HTML to PPTX Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

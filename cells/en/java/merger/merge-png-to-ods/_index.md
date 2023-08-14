@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to ODS - Combine PNG to ODS in Java
 url: /java/merger/merge-png-to-ods/ 
-description: Aspose Excel. Free Online Merge PNG to ODS saveformat. Java Combine PNG to ODS format. Merge PNG to ODS in Java. PNG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to ODS saveformat via Java., Free Online Merge PNG to ods in Java., Java Combine PNG to ODS Online for Free., PNG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PNG to ODS saveformat. Java Combine PNG to ODS format. Merge PNG to ODS in Java. PNG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PNG to ODS in Java., Free Online Java Merge PNG to ods., Java Combine PNG to ODS Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to SQL - Combine XLTX to SQL in C#
 url: /net/merger/merge-xltx-to-sql/ 
-description: Aspose Excel. Free Online Merge XLTX to SQL saveformat. C# Combine XLTX to SQL format. Merge XLTX to SQL in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to SQL saveformat via C#., Free Online Merge XLTX to sql in C#., C# Combine XLTX to SQL Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to SQL saveformat. C# Combine XLTX to SQL format. Merge XLTX to SQL in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to SQL in C#., Free Online C# Merge XLTX to sql., C# Combine XLTX to SQL Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

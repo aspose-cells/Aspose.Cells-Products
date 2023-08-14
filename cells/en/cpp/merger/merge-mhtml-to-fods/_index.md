@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to FODS - Combine MHTML to FODS in C++
 url: /cpp/merger/merge-mhtml-to-fods/ 
-description: Aspose Excel. Free Online Merge MHTML to FODS saveformat. C++ Combine MHTML to FODS format. Merge MHTML to FODS in C++. MHTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to FODS saveformat via C++., Free Online Merge MHTML to fods in C++., C++ Combine MHTML to FODS Online for Free., MHTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHTML to FODS saveformat. C++ Combine MHTML to FODS format. Merge MHTML to FODS in C++. MHTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to FODS in C++., Free Online C++ Merge MHTML to fods., C++ Combine MHTML to FODS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

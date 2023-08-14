@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to WORD - Combine TXT to WORD in Python
 url: /python-java/merger/merge-txt-to-word/ 
-description: Aspose Excel. Free Online Merge TXT to WORD saveformat. Python Combine TXT to WORD format. Merge TXT to WORD in Python. TXT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to WORD saveformat via Python., Free Online Merge TXT to word in Python., Python Combine TXT to WORD Online for Free., TXT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TXT to WORD saveformat. Python Combine TXT to WORD format. Merge TXT to WORD in Python. TXT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to WORD in Python., Free Online Python Merge TXT to word., Python Combine TXT to WORD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

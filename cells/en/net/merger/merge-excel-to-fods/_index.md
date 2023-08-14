@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to FODS - Combine EXCEL to FODS in C#
 url: /net/merger/merge-excel-to-fods/ 
-description: Aspose Excel. Free Online Merge EXCEL to FODS saveformat. C# Combine EXCEL to FODS format. Merge EXCEL to FODS in C#. EXCEL Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to FODS saveformat via C#., Free Online Merge EXCEL to fods in C#., C# Combine EXCEL to FODS Online for Free., EXCEL Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge EXCEL to FODS saveformat. C# Combine EXCEL to FODS format. Merge EXCEL to FODS in C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to FODS in C#., Free Online C# Merge EXCEL to fods., C# Combine EXCEL to FODS Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

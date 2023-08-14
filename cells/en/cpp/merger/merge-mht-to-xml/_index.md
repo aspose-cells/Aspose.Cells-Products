@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XML - Combine MHT to XML in C++
 url: /cpp/merger/merge-mht-to-xml/ 
-description: Aspose Excel. Free Online Merge MHT to XML saveformat. C++ Combine MHT to XML format. Merge MHT to XML in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to XML saveformat via C++., Free Online Merge MHT to xml in C++., C++ Combine MHT to XML Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to XML saveformat. C++ Combine MHT to XML format. Merge MHT to XML in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to XML in C++., Free Online C++ Merge MHT to xml., C++ Combine MHT to XML Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

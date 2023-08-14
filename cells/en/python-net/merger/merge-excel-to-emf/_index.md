@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to EMF - Combine EXCEL to EMF in Python
 url: /python-net/merger/merge-excel-to-emf/ 
-description: Aspose Excel. Free Online Merge EXCEL to EMF saveformat. Python Combine EXCEL to EMF format. Merge EXCEL to EMF in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to EMF saveformat via Python., Free Online Merge EXCEL to emf in Python., Python Combine EXCEL to EMF Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to EMF saveformat. Python Combine EXCEL to EMF format. Merge EXCEL to EMF in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to EMF in Python., Free Online Python Merge EXCEL to emf., Python Combine EXCEL to EMF Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

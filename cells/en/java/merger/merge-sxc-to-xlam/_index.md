@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to XLAM - Combine SXC to XLAM in Java
 url: /java/merger/merge-sxc-to-xlam/ 
-description: Aspose Excel. Free Online Merge SXC to XLAM saveformat. Java Combine SXC to XLAM format. Merge SXC to XLAM in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to XLAM saveformat via Java., Free Online Merge SXC to xlam in Java., Java Combine SXC to XLAM Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to XLAM saveformat. Java Combine SXC to XLAM format. Merge SXC to XLAM in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to XLAM in Java., Free Online Java Merge SXC to xlam., Java Combine SXC to XLAM Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

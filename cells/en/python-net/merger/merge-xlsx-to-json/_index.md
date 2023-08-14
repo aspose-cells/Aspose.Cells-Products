@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to JSON - Combine XLSX to JSON in Python
 url: /python-net/merger/merge-xlsx-to-json/ 
-description: Aspose Excel. Free Online Merge XLSX to JSON saveformat. Python Combine XLSX to JSON format. Merge XLSX to JSON in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to JSON saveformat via Python., Free Online Merge XLSX to json in Python., Python Combine XLSX to JSON Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to JSON saveformat. Python Combine XLSX to JSON format. Merge XLSX to JSON in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to JSON in Python., Free Online Python Merge XLSX to json., Python Combine XLSX to JSON Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

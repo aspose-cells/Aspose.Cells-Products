@@ -1,7 +1,7 @@
 ---
-title: XLS to POWERPOINT - Convert XLS to POWERPOINT files Python
-description: Aspose Excel. Free Online Convert XLS to POWERPOINT saveformat. Python XLS to POWERPOINT format. Save XLS as POWERPOINT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to POWERPOINT saveformat., Free Online XLS to POWERPOINT Converter]
+title: Python XLS to POWERPOINT - Online XLS to POWERPOINT Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert XLS to POWERPOINT saveformat. Python XLS to POWERPOINT format. Save XLS to POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to POWERPOINT saveformat., Free Online XLS to POWERPOINT Python., Python Convert XLS to POWERPOINT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

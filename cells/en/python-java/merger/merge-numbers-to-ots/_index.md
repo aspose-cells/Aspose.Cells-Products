@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to OTS - Combine NUMBERS to OTS in Python
 url: /python-java/merger/merge-numbers-to-ots/ 
-description: Aspose Excel. Free Online Merge NUMBERS to OTS saveformat. Python Combine NUMBERS to OTS format. Merge NUMBERS to OTS in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to OTS saveformat via Python., Free Online Merge NUMBERS to ots in Python., Python Combine NUMBERS to OTS Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to OTS saveformat. Python Combine NUMBERS to OTS format. Merge NUMBERS to OTS in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to OTS in Python., Free Online Python Merge NUMBERS to ots., Python Combine NUMBERS to OTS Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

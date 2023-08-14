@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to SQL - Combine HTM to SQL in Java
 url: /java/merger/merge-htm-to-sql/ 
-description: Aspose Excel. Free Online Merge HTM to SQL saveformat. Java Combine HTM to SQL format. Merge HTM to SQL in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to SQL saveformat via Java., Free Online Merge HTM to sql in Java., Java Combine HTM to SQL Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to SQL saveformat. Java Combine HTM to SQL format. Merge HTM to SQL in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to SQL in Java., Free Online Java Merge HTM to sql., Java Combine HTM to SQL Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

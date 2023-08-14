@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to MARKDOWN - Combine PRN to MARKDOWN in C#
 url: /net/merger/merge-prn-to-markdown/ 
-description: Aspose Excel. Free Online Merge PRN to MARKDOWN saveformat. C# Combine PRN to MARKDOWN format. Merge PRN to MARKDOWN in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to MARKDOWN saveformat via C#., Free Online Merge PRN to markdown in C#., C# Combine PRN to MARKDOWN Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to MARKDOWN saveformat. C# Combine PRN to MARKDOWN format. Merge PRN to MARKDOWN in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to MARKDOWN in C#., Free Online C# Merge PRN to markdown., C# Combine PRN to MARKDOWN Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to JPG - Combine JPG to JPG in C#
 url: /net/merger/merge-jpg-to-jpg/ 
-description: Aspose Excel. Free Online Merge JPG to JPG saveformat. C# Combine JPG to JPG format. Merge JPG to JPG in C#. JPG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to JPG saveformat via C#., Free Online Merge JPG to jpg in C#., C# Combine JPG to JPG Online for Free., JPG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge JPG to JPG saveformat. C# Combine JPG to JPG format. Merge JPG to JPG in C#. JPG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge JPG to JPG in C#., Free Online C# Merge JPG to jpg., C# Combine JPG to JPG Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

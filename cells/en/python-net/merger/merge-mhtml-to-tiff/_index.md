@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to TIFF - Combine MHTML to TIFF in Python
 url: /python-net/merger/merge-mhtml-to-tiff/ 
-description: Aspose Excel. Free Online Merge MHTML to TIFF saveformat. Python Combine MHTML to TIFF format. Merge MHTML to TIFF in Python. MHTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TIFF saveformat via Python., Free Online Merge MHTML to tiff in Python., Python Combine MHTML to TIFF Online for Free., MHTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHTML to TIFF saveformat. Python Combine MHTML to TIFF format. Merge MHTML to TIFF in Python. MHTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to TIFF in Python., Free Online Python Merge MHTML to tiff., Python Combine MHTML to TIFF Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

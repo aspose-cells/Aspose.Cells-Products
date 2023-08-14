@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to TXT - Combine OTS to TXT in Python
 url: /python-net/merger/merge-ots-to-txt/ 
-description: Aspose Excel. Free Online Merge OTS to TXT saveformat. Python Combine OTS to TXT format. Merge OTS to TXT in Python. OTS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to TXT saveformat via Python., Free Online Merge OTS to txt in Python., Python Combine OTS to TXT Online for Free., OTS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge OTS to TXT saveformat. Python Combine OTS to TXT format. Merge OTS to TXT in Python. OTS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to TXT in Python., Free Online Python Merge OTS to txt., Python Combine OTS to TXT Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

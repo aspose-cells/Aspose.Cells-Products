@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to POWERPOINT - Combine SXC to POWERPOINT in C++
 url: /cpp/merger/merge-sxc-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SXC to POWERPOINT saveformat. C++ Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to POWERPOINT saveformat via C++., Free Online Merge SXC to powerpoint in C++., C++ Combine SXC to POWERPOINT Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to POWERPOINT saveformat. C++ Combine SXC to POWERPOINT format. Merge SXC to POWERPOINT in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to POWERPOINT in C++., Free Online C++ Merge SXC to powerpoint., C++ Combine SXC to POWERPOINT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to ET - Combine XLT to ET in Python
 url: /python-java/merger/merge-xlt-to-et/ 
-description: Aspose Excel. Free Online Merge XLT to ET saveformat. Python Combine XLT to ET format. Merge XLT to ET in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to ET saveformat via Python., Free Online Merge XLT to et in Python., Python Combine XLT to ET Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to ET saveformat. Python Combine XLT to ET format. Merge XLT to ET in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to ET in Python., Free Online Python Merge XLT to et., Python Combine XLT to ET Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

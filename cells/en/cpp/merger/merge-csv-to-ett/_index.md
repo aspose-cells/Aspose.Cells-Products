@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ETT - Combine CSV to ETT in C++
 url: /cpp/merger/merge-csv-to-ett/ 
-description: Aspose Excel. Free Online Merge CSV to ETT saveformat. C++ Combine CSV to ETT format. Merge CSV to ETT in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to ETT saveformat via C++., Free Online Merge CSV to ett in C++., C++ Combine CSV to ETT Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to ETT saveformat. C++ Combine CSV to ETT format. Merge CSV to ETT in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to ETT in C++., Free Online C++ Merge CSV to ett., C++ Combine CSV to ETT Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

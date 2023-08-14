@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to FODS - Combine MHT to FODS in Java
 url: /java/merger/merge-mht-to-fods/ 
-description: Aspose Excel. Free Online Merge MHT to FODS saveformat. Java Combine MHT to FODS format. Merge MHT to FODS in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to FODS saveformat via Java., Free Online Merge MHT to fods in Java., Java Combine MHT to FODS Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to FODS saveformat. Java Combine MHT to FODS format. Merge MHT to FODS in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to FODS in Java., Free Online Java Merge MHT to fods., Java Combine MHT to FODS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

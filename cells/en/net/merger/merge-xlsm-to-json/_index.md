@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to JSON - Combine XLSM to JSON in C#
 url: /net/merger/merge-xlsm-to-json/ 
-description: Aspose Excel. Free Online Merge XLSM to JSON saveformat. C# Combine XLSM to JSON format. Merge XLSM to JSON in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to JSON saveformat via C#., Free Online Merge XLSM to json in C#., C# Combine XLSM to JSON Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to JSON saveformat. C# Combine XLSM to JSON format. Merge XLSM to JSON in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to JSON in C#., Free Online C# Merge XLSM to json., C# Combine XLSM to JSON Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

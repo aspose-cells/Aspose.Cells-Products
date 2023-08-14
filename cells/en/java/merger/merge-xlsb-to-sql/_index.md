@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to SQL - Combine XLSB to SQL in Java
 url: /java/merger/merge-xlsb-to-sql/ 
-description: Aspose Excel. Free Online Merge XLSB to SQL saveformat. Java Combine XLSB to SQL format. Merge XLSB to SQL in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to SQL saveformat via Java., Free Online Merge XLSB to sql in Java., Java Combine XLSB to SQL Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to SQL saveformat. Java Combine XLSB to SQL format. Merge XLSB to SQL in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to SQL in Java., Free Online Java Merge XLSB to sql., Java Combine XLSB to SQL Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

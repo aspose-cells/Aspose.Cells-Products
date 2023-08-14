@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to NUMBERS - Combine ODS to NUMBERS in C++
 url: /cpp/merger/merge-ods-to-numbers/ 
-description: Aspose Excel. Free Online Merge ODS to NUMBERS saveformat. C++ Combine ODS to NUMBERS format. Merge ODS to NUMBERS in C++. ODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to NUMBERS saveformat via C++., Free Online Merge ODS to numbers in C++., C++ Combine ODS to NUMBERS Online for Free., ODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge ODS to NUMBERS saveformat. C++ Combine ODS to NUMBERS format. Merge ODS to NUMBERS in C++. ODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to NUMBERS in C++., Free Online C++ Merge ODS to numbers., C++ Combine ODS to NUMBERS Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

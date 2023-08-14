@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to DOCX - Combine XLTX to DOCX in Python
 url: /python-java/merger/merge-xltx-to-docx/ 
-description: Aspose Excel. Free Online Merge XLTX to DOCX saveformat. Python Combine XLTX to DOCX format. Merge XLTX to DOCX in Python. XLTX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to DOCX saveformat via Python., Free Online Merge XLTX to docx in Python., Python Combine XLTX to DOCX Online for Free., XLTX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTX to DOCX saveformat. Python Combine XLTX to DOCX format. Merge XLTX to DOCX in Python. XLTX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to DOCX in Python., Free Online Python Merge XLTX to docx., Python Combine XLTX to DOCX Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

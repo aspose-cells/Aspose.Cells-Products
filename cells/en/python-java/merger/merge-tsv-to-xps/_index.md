@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XPS - Combine TSV to XPS in Python
 url: /python-java/merger/merge-tsv-to-xps/ 
-description: Aspose Excel. Free Online Merge TSV to XPS saveformat. Python Combine TSV to XPS format. Merge TSV to XPS in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XPS saveformat via Python., Free Online Merge TSV to xps in Python., Python Combine TSV to XPS Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XPS saveformat. Python Combine TSV to XPS format. Merge TSV to XPS in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XPS in Python., Free Online Python Merge TSV to xps., Python Combine TSV to XPS Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to TIFF - Combine XLTM to TIFF in Python
 url: /python-java/merger/merge-xltm-to-tiff/ 
-description: Aspose Excel. Free Online Merge XLTM to TIFF saveformat. Python Combine XLTM to TIFF format. Merge XLTM to TIFF in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TIFF saveformat via Python., Free Online Merge XLTM to tiff in Python., Python Combine XLTM to TIFF Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to TIFF saveformat. Python Combine XLTM to TIFF format. Merge XLTM to TIFF in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to TIFF in Python., Free Online Python Merge XLTM to tiff., Python Combine XLTM to TIFF Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

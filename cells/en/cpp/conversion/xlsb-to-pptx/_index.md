@@ -1,7 +1,7 @@
 ---
-title: XLSB to PPTX - Convert XLSB to PPTX files C++
-description: Aspose Excel. Free Online Convert XLSB to PPTX saveformat. C++ XLSB to PPTX format. Save XLSB as PPTX in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to PPTX saveformat., Free Online XLSB to PPTX Converter]
+title: C++ XLSB to PPTX - Online XLSB to PPTX Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert XLSB to PPTX saveformat. C++ XLSB to PPTX format. Save XLSB to PPTX C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ XLSB to PPTX saveformat., Free Online XLSB to PPTX C++., C++ Convert XLSB to PPTX]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

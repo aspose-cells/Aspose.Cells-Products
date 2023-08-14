@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to MARKDOWN - Combine TXT to MARKDOWN in C++
 url: /cpp/merger/merge-txt-to-markdown/ 
-description: Aspose Excel. Free Online Merge TXT to MARKDOWN saveformat. C++ Combine TXT to MARKDOWN format. Merge TXT to MARKDOWN in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to MARKDOWN saveformat via C++., Free Online Merge TXT to markdown in C++., C++ Combine TXT to MARKDOWN Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to MARKDOWN saveformat. C++ Combine TXT to MARKDOWN format. Merge TXT to MARKDOWN in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to MARKDOWN in C++., Free Online C++ Merge TXT to markdown., C++ Combine TXT to MARKDOWN Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

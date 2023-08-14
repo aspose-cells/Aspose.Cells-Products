@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to PPTX - Combine PRN to PPTX in Java
 url: /java/merger/merge-prn-to-pptx/ 
-description: Aspose Excel. Free Online Merge PRN to PPTX saveformat. Java Combine PRN to PPTX format. Merge PRN to PPTX in Java. PRN Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to PPTX saveformat via Java., Free Online Merge PRN to pptx in Java., Java Combine PRN to PPTX Online for Free., PRN Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge PRN to PPTX saveformat. Java Combine PRN to PPTX format. Merge PRN to PPTX in Java. PRN Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to PPTX in Java., Free Online Java Merge PRN to pptx., Java Combine PRN to PPTX Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

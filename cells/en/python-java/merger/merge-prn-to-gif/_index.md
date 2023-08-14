@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to GIF - Combine PRN to GIF in Python
 url: /python-java/merger/merge-prn-to-gif/ 
-description: Aspose Excel. Free Online Merge PRN to GIF saveformat. Python Combine PRN to GIF format. Merge PRN to GIF in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to GIF saveformat via Python., Free Online Merge PRN to gif in Python., Python Combine PRN to GIF Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to GIF saveformat. Python Combine PRN to GIF format. Merge PRN to GIF in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to GIF in Python., Free Online Python Merge PRN to gif., Python Combine PRN to GIF Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

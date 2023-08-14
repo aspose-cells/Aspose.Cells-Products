@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to EXCEL - Combine XLSB to EXCEL in Java
 url: /java/merger/merge-xlsb-to-excel/ 
-description: Aspose Excel. Free Online Merge XLSB to EXCEL saveformat. Java Combine XLSB to EXCEL format. Merge XLSB to EXCEL in Java. XLSB Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to EXCEL saveformat via Java., Free Online Merge XLSB to excel in Java., Java Combine XLSB to EXCEL Online for Free., XLSB Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLSB to EXCEL saveformat. Java Combine XLSB to EXCEL format. Merge XLSB to EXCEL in Java. XLSB Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to EXCEL in Java., Free Online Java Merge XLSB to excel., Java Combine XLSB to EXCEL Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

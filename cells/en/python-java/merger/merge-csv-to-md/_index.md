@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to MD - Combine CSV to MD in Python
 url: /python-java/merger/merge-csv-to-md/ 
-description: Aspose Excel. Free Online Merge CSV to MD saveformat. Python Combine CSV to MD format. Merge CSV to MD in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to MD saveformat via Python., Free Online Merge CSV to md in Python., Python Combine CSV to MD Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to MD saveformat. Python Combine CSV to MD format. Merge CSV to MD in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to MD in Python., Free Online Python Merge CSV to md., Python Combine CSV to MD Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

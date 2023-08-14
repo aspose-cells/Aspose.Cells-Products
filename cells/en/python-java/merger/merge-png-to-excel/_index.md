@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to EXCEL - Combine PNG to EXCEL in Python
 url: /python-java/merger/merge-png-to-excel/ 
-description: Aspose Excel. Free Online Merge PNG to EXCEL saveformat. Python Combine PNG to EXCEL format. Merge PNG to EXCEL in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EXCEL saveformat via Python., Free Online Merge PNG to excel in Python., Python Combine PNG to EXCEL Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to EXCEL saveformat. Python Combine PNG to EXCEL format. Merge PNG to EXCEL in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to EXCEL in Python., Free Online Python Merge PNG to excel., Python Combine PNG to EXCEL Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

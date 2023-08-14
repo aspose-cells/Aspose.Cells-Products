@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to POWERPOINT - Combine HTML to POWERPOINT in Python
 url: /python-net/merger/merge-html-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge HTML to POWERPOINT saveformat. Python Combine HTML to POWERPOINT format. Merge HTML to POWERPOINT in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to POWERPOINT saveformat via Python., Free Online Merge HTML to powerpoint in Python., Python Combine HTML to POWERPOINT Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to POWERPOINT saveformat. Python Combine HTML to POWERPOINT format. Merge HTML to POWERPOINT in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to POWERPOINT in Python., Free Online Python Merge HTML to powerpoint., Python Combine HTML to POWERPOINT Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

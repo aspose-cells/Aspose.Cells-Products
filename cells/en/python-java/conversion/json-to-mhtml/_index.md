@@ -1,7 +1,7 @@
 ---
-title: JSON to MHTML - Convert JSON to MHTML files Python
-description: Aspose Excel. Free Online Convert JSON to MHTML saveformat. Python JSON to MHTML format. Save JSON as MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to MHTML saveformat., Free Online JSON to MHTML Converter]
+title: Python JSON to MHTML - Online JSON to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JSON to MHTML saveformat. Python JSON to MHTML format. Save JSON to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to MHTML saveformat., Free Online JSON to MHTML Python., Python Convert JSON to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

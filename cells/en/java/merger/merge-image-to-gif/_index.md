@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to GIF - Combine IMAGE to GIF in Java
 url: /java/merger/merge-image-to-gif/ 
-description: Aspose Excel. Free Online Merge IMAGE to GIF saveformat. Java Combine IMAGE to GIF format. Merge IMAGE to GIF in Java. IMAGE Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to GIF saveformat via Java., Free Online Merge IMAGE to gif in Java., Java Combine IMAGE to GIF Online for Free., IMAGE Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge IMAGE to GIF saveformat. Java Combine IMAGE to GIF format. Merge IMAGE to GIF in Java. IMAGE Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge IMAGE to GIF in Java., Free Online Java Merge IMAGE to gif., Java Combine IMAGE to GIF Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

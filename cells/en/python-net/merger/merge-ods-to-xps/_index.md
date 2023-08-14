@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to XPS - Combine ODS to XPS in Python
 url: /python-net/merger/merge-ods-to-xps/ 
-description: Aspose Excel. Free Online Merge ODS to XPS saveformat. Python Combine ODS to XPS format. Merge ODS to XPS in Python. ODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to XPS saveformat via Python., Free Online Merge ODS to xps in Python., Python Combine ODS to XPS Online for Free., ODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge ODS to XPS saveformat. Python Combine ODS to XPS format. Merge ODS to XPS in Python. ODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to XPS in Python., Free Online Python Merge ODS to xps., Python Combine ODS to XPS Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

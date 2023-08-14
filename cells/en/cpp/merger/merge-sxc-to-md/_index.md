@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MD - Combine SXC to MD in C++
 url: /cpp/merger/merge-sxc-to-md/ 
-description: Aspose Excel. Free Online Merge SXC to MD saveformat. C++ Combine SXC to MD format. Merge SXC to MD in C++. SXC Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to MD saveformat via C++., Free Online Merge SXC to md in C++., C++ Combine SXC to MD Online for Free., SXC Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge SXC to MD saveformat. C++ Combine SXC to MD format. Merge SXC to MD in C++. SXC Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to MD in C++., Free Online C++ Merge SXC to md., C++ Combine SXC to MD Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to IMAGE - Combine MHT to IMAGE in C++
 url: /cpp/merger/merge-mht-to-image/ 
-description: Aspose Excel. Free Online Merge MHT to IMAGE saveformat. C++ Combine MHT to IMAGE format. Merge MHT to IMAGE in C++. MHT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to IMAGE saveformat via C++., Free Online Merge MHT to image in C++., C++ Combine MHT to IMAGE Online for Free., MHT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge MHT to IMAGE saveformat. C++ Combine MHT to IMAGE format. Merge MHT to IMAGE in C++. MHT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to IMAGE in C++., Free Online C++ Merge MHT to image., C++ Combine MHT to IMAGE Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

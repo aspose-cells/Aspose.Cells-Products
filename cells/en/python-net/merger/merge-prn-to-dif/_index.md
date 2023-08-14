@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to DIF - Combine PRN to DIF in Python
 url: /python-net/merger/merge-prn-to-dif/ 
-description: Aspose Excel. Free Online Merge PRN to DIF saveformat. Python Combine PRN to DIF format. Merge PRN to DIF in Python. PRN Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to DIF saveformat via Python., Free Online Merge PRN to dif in Python., Python Combine PRN to DIF Online for Free., PRN Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PRN to DIF saveformat. Python Combine PRN to DIF format. Merge PRN to DIF in Python. PRN Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to DIF in Python., Free Online Python Merge PRN to dif., Python Combine PRN to DIF Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to ETT - Combine SXC to ETT in Java
 url: /java/merger/merge-sxc-to-ett/ 
-description: Aspose Excel. Free Online Merge SXC to ETT saveformat. Java Combine SXC to ETT format. Merge SXC to ETT in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to ETT saveformat via Java., Free Online Merge SXC to ett in Java., Java Combine SXC to ETT Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to ETT saveformat. Java Combine SXC to ETT format. Merge SXC to ETT in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to ETT in Java., Free Online Java Merge SXC to ett., Java Combine SXC to ETT Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

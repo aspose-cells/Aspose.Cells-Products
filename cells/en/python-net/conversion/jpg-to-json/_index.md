@@ -1,7 +1,7 @@
 ---
-title: JPG to JSON - Convert JPG to JSON files Python
-description: Aspose Excel. Free Online Convert JPG to JSON saveformat. Python JPG to JSON format. Save JPG as JSON in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to JSON saveformat., Free Online JPG to JSON Converter]
+title: Python JPG to JSON - Online JPG to JSON Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPG to JSON saveformat. Python JPG to JSON format. Save JPG to JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to JSON saveformat., Free Online JPG to JSON Python., Python Convert JPG to JSON]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

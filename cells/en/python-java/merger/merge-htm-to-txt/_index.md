@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to TXT - Combine HTM to TXT in Python
 url: /python-java/merger/merge-htm-to-txt/ 
-description: Aspose Excel. Free Online Merge HTM to TXT saveformat. Python Combine HTM to TXT format. Merge HTM to TXT in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to TXT saveformat via Python., Free Online Merge HTM to txt in Python., Python Combine HTM to TXT Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to TXT saveformat. Python Combine HTM to TXT format. Merge HTM to TXT in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to TXT in Python., Free Online Python Merge HTM to txt., Python Combine HTM to TXT Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

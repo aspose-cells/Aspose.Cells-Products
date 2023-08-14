@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to DIF - Combine TXT to DIF in Java
 url: /java/merger/merge-txt-to-dif/ 
-description: Aspose Excel. Free Online Merge TXT to DIF saveformat. Java Combine TXT to DIF format. Merge TXT to DIF in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DIF saveformat via Java., Free Online Merge TXT to dif in Java., Java Combine TXT to DIF Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to DIF saveformat. Java Combine TXT to DIF format. Merge TXT to DIF in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to DIF in Java., Free Online Java Merge TXT to dif., Java Combine TXT to DIF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

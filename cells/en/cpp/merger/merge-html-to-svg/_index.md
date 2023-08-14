@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SVG - Combine HTML to SVG in C++
 url: /cpp/merger/merge-html-to-svg/ 
-description: Aspose Excel. Free Online Merge HTML to SVG saveformat. C++ Combine HTML to SVG format. Merge HTML to SVG in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to SVG saveformat via C++., Free Online Merge HTML to svg in C++., C++ Combine HTML to SVG Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to SVG saveformat. C++ Combine HTML to SVG format. Merge HTML to SVG in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to SVG in C++., Free Online C++ Merge HTML to svg., C++ Combine HTML to SVG Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

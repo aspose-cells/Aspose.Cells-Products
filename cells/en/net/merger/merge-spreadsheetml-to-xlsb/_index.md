@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to XLSB - Combine SPREADSHEETML to XLSB in C#
 url: /net/merger/merge-spreadsheetml-to-xlsb/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to XLSB saveformat. C# Combine SPREADSHEETML to XLSB format. Merge SPREADSHEETML to XLSB in C#. SPREADSHEETML Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLSB saveformat via C#., Free Online Merge SPREADSHEETML to xlsb in C#., C# Combine SPREADSHEETML to XLSB Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge SPREADSHEETML to XLSB saveformat. C# Combine SPREADSHEETML to XLSB format. Merge SPREADSHEETML to XLSB in C#. SPREADSHEETML Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLSB in C#., Free Online C# Merge SPREADSHEETML to xlsb., C# Combine SPREADSHEETML to XLSB Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

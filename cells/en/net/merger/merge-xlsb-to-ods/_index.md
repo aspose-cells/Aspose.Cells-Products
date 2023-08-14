@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to ODS - Combine XLSB to ODS in C#
 url: /net/merger/merge-xlsb-to-ods/ 
-description: Aspose Excel. Free Online Merge XLSB to ODS saveformat. C# Combine XLSB to ODS format. Merge XLSB to ODS in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to ODS saveformat via C#., Free Online Merge XLSB to ods in C#., C# Combine XLSB to ODS Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to ODS saveformat. C# Combine XLSB to ODS format. Merge XLSB to ODS in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to ODS in C#., Free Online C# Merge XLSB to ods., C# Combine XLSB to ODS Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

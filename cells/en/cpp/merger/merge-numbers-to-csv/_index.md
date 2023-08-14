@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to CSV - Combine NUMBERS to CSV in C++
 url: /cpp/merger/merge-numbers-to-csv/ 
-description: Aspose Excel. Free Online Merge NUMBERS to CSV saveformat. C++ Combine NUMBERS to CSV format. Merge NUMBERS to CSV in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to CSV saveformat via C++., Free Online Merge NUMBERS to csv in C++., C++ Combine NUMBERS to CSV Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to CSV saveformat. C++ Combine NUMBERS to CSV format. Merge NUMBERS to CSV in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to CSV in C++., Free Online C++ Merge NUMBERS to csv., C++ Combine NUMBERS to CSV Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

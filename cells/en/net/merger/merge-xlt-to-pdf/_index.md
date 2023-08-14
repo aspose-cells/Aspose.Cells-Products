@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PDF - Combine XLT to PDF in C#
 url: /net/merger/merge-xlt-to-pdf/ 
-description: Aspose Excel. Free Online Merge XLT to PDF saveformat. C# Combine XLT to PDF format. Merge XLT to PDF in C#. XLT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PDF saveformat via C#., Free Online Merge XLT to pdf in C#., C# Combine XLT to PDF Online for Free., XLT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLT to PDF saveformat. C# Combine XLT to PDF format. Merge XLT to PDF in C#. XLT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PDF in C#., Free Online C# Merge XLT to pdf., C# Combine XLT to PDF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to GIF - Combine XLSB to GIF in C++
 url: /cpp/merger/merge-xlsb-to-gif/ 
-description: Aspose Excel. Free Online Merge XLSB to GIF saveformat. C++ Combine XLSB to GIF format. Merge XLSB to GIF in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to GIF saveformat via C++., Free Online Merge XLSB to gif in C++., C++ Combine XLSB to GIF Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to GIF saveformat. C++ Combine XLSB to GIF format. Merge XLSB to GIF in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to GIF in C++., Free Online C++ Merge XLSB to gif., C++ Combine XLSB to GIF Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

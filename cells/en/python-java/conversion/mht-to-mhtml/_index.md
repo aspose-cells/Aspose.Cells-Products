@@ -1,7 +1,7 @@
 ---
-title: MHT to MHTML - Convert MHT to MHTML files Python
-description: Aspose Excel. Free Online Convert MHT to MHTML saveformat. Python MHT to MHTML format. Save MHT as MHTML in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to MHTML saveformat., Free Online MHT to MHTML Converter]
+title: Python MHT to MHTML - Online MHT to MHTML Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to MHTML saveformat. Python MHT to MHTML format. Save MHT to MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to MHTML saveformat., Free Online MHT to MHTML Python., Python Convert MHT to MHTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

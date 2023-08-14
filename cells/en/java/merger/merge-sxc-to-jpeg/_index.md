@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to JPEG - Combine SXC to JPEG in Java
 url: /java/merger/merge-sxc-to-jpeg/ 
-description: Aspose Excel. Free Online Merge SXC to JPEG saveformat. Java Combine SXC to JPEG format. Merge SXC to JPEG in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to JPEG saveformat via Java., Free Online Merge SXC to jpeg in Java., Java Combine SXC to JPEG Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to JPEG saveformat. Java Combine SXC to JPEG format. Merge SXC to JPEG in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to JPEG in Java., Free Online Java Merge SXC to jpeg., Java Combine SXC to JPEG Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

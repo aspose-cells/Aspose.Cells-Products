@@ -1,8 +1,8 @@
 ---
 title: Merge XML to JPEG - Combine XML to JPEG in Java
 url: /java/merger/merge-xml-to-jpeg/ 
-description: Aspose Excel. Free Online Merge XML to JPEG saveformat. Java Combine XML to JPEG format. Merge XML to JPEG in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JPEG saveformat via Java., Free Online Merge XML to jpeg in Java., Java Combine XML to JPEG Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to JPEG saveformat. Java Combine XML to JPEG format. Merge XML to JPEG in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to JPEG in Java., Free Online Java Merge XML to jpeg., Java Combine XML to JPEG Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

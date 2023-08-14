@@ -1,7 +1,7 @@
 ---
-title: PRN to WORD - Convert PRN to WORD files C++
-description: Aspose Excel. Free Online Convert PRN to WORD saveformat. C++ PRN to WORD format. Save PRN as WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to WORD saveformat., Free Online PRN to WORD Converter]
+title: C++ PRN to WORD - Online PRN to WORD Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PRN to WORD saveformat. C++ PRN to WORD format. Save PRN to WORD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PRN to WORD saveformat., Free Online PRN to WORD C++., C++ Convert PRN to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

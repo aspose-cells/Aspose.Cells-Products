@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to FODS - Combine XLSB to FODS in C++
 url: /cpp/merger/merge-xlsb-to-fods/ 
-description: Aspose Excel. Free Online Merge XLSB to FODS saveformat. C++ Combine XLSB to FODS format. Merge XLSB to FODS in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to FODS saveformat via C++., Free Online Merge XLSB to fods in C++., C++ Combine XLSB to FODS Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to FODS saveformat. C++ Combine XLSB to FODS format. Merge XLSB to FODS in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to FODS in C++., Free Online C++ Merge XLSB to fods., C++ Combine XLSB to FODS Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to MHT - Combine XLTM to MHT in Java
 url: /java/merger/merge-xltm-to-mht/ 
-description: Aspose Excel. Free Online Merge XLTM to MHT saveformat. Java Combine XLTM to MHT format. Merge XLTM to MHT in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MHT saveformat via Java., Free Online Merge XLTM to mht in Java., Java Combine XLTM to MHT Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to MHT saveformat. Java Combine XLTM to MHT format. Merge XLTM to MHT in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MHT in Java., Free Online Java Merge XLTM to mht., Java Combine XLTM to MHT Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

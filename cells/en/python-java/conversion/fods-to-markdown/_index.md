@@ -1,7 +1,7 @@
 ---
-title: FODS to MARKDOWN - Convert FODS to MARKDOWN files Python
-description: Aspose Excel. Free Online Convert FODS to MARKDOWN saveformat. Python FODS to MARKDOWN format. Save FODS as MARKDOWN in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Converter]
+title: Python FODS to MARKDOWN - Online FODS to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert FODS to MARKDOWN saveformat. Python FODS to MARKDOWN format. Save FODS to MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Python., Python Convert FODS to MARKDOWN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

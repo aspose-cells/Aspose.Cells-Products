@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to ET - Combine CSV to ET in Python
 url: /python-java/merger/merge-csv-to-et/ 
-description: Aspose Excel. Free Online Merge CSV to ET saveformat. Python Combine CSV to ET format. Merge CSV to ET in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to ET saveformat via Python., Free Online Merge CSV to et in Python., Python Combine CSV to ET Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to ET saveformat. Python Combine CSV to ET format. Merge CSV to ET in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to ET in Python., Free Online Python Merge CSV to et., Python Combine CSV to ET Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

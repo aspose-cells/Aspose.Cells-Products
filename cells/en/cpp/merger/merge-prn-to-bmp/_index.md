@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to BMP - Combine PRN to BMP in C++
 url: /cpp/merger/merge-prn-to-bmp/ 
-description: Aspose Excel. Free Online Merge PRN to BMP saveformat. C++ Combine PRN to BMP format. Merge PRN to BMP in C++. PRN Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to BMP saveformat via C++., Free Online Merge PRN to bmp in C++., C++ Combine PRN to BMP Online for Free., PRN Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge PRN to BMP saveformat. C++ Combine PRN to BMP format. Merge PRN to BMP in C++. PRN Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to BMP in C++., Free Online C++ Merge PRN to bmp., C++ Combine PRN to BMP Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

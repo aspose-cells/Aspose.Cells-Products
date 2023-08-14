@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to POWERPOINT - Combine JSON to POWERPOINT in Java
 url: /java/merger/merge-json-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge JSON to POWERPOINT saveformat. Java Combine JSON to POWERPOINT format. Merge JSON to POWERPOINT in Java. JSON Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to POWERPOINT saveformat via Java., Free Online Merge JSON to powerpoint in Java., Java Combine JSON to POWERPOINT Online for Free., JSON Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JSON to POWERPOINT saveformat. Java Combine JSON to POWERPOINT format. Merge JSON to POWERPOINT in Java. JSON Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to POWERPOINT in Java., Free Online Java Merge JSON to powerpoint., Java Combine JSON to POWERPOINT Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

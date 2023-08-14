@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to ODS - Combine JSON to ODS in Python
 url: /python-net/merger/merge-json-to-ods/ 
-description: Aspose Excel. Free Online Merge JSON to ODS saveformat. Python Combine JSON to ODS format. Merge JSON to ODS in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to ODS saveformat via Python., Free Online Merge JSON to ods in Python., Python Combine JSON to ODS Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to ODS saveformat. Python Combine JSON to ODS format. Merge JSON to ODS in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to ODS in Python., Free Online Python Merge JSON to ods., Python Combine JSON to ODS Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

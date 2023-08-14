@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to POWERPOINT - Combine SPREADSHEETML to POWERPOINT in Python
 url: /python-java/merger/merge-spreadsheetml-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. Python Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in Python. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOINT saveformat via Python., Free Online Merge SPREADSHEETML to powerpoint in Python., Python Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SPREADSHEETML to POWERPOINT saveformat. Python Combine SPREADSHEETML to POWERPOINT format. Merge SPREADSHEETML to POWERPOINT in Python. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to POWERPOINT in Python., Free Online Python Merge SPREADSHEETML to powerpoint., Python Combine SPREADSHEETML to POWERPOINT Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

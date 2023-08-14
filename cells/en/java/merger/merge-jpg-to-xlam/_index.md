@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to XLAM - Combine JPG to XLAM in Java
 url: /java/merger/merge-jpg-to-xlam/ 
-description: Aspose Excel. Free Online Merge JPG to XLAM saveformat. Java Combine JPG to XLAM format. Merge JPG to XLAM in Java. JPG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to XLAM saveformat via Java., Free Online Merge JPG to xlam in Java., Java Combine JPG to XLAM Online for Free., JPG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPG to XLAM saveformat. Java Combine JPG to XLAM format. Merge JPG to XLAM in Java. JPG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPG to XLAM in Java., Free Online Java Merge JPG to xlam., Java Combine JPG to XLAM Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

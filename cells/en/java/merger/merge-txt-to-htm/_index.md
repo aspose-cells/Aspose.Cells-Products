@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to HTM - Combine TXT to HTM in Java
 url: /java/merger/merge-txt-to-htm/ 
-description: Aspose Excel. Free Online Merge TXT to HTM saveformat. Java Combine TXT to HTM format. Merge TXT to HTM in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to HTM saveformat via Java., Free Online Merge TXT to htm in Java., Java Combine TXT to HTM Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to HTM saveformat. Java Combine TXT to HTM format. Merge TXT to HTM in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to HTM in Java., Free Online Java Merge TXT to htm., Java Combine TXT to HTM Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

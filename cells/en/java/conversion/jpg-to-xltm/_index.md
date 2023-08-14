@@ -1,7 +1,7 @@
 ---
-title: JPG to XLTM - Convert JPG to XLTM files Java
-description: Aspose Excel. Free Online Convert JPG to XLTM saveformat. Java JPG to XLTM format. Save JPG as XLTM in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to XLTM saveformat., Free Online JPG to XLTM Converter]
+title: Java JPG to XLTM - Online JPG to XLTM Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPG to XLTM saveformat. Java JPG to XLTM format. Save JPG to XLTM Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPG to XLTM saveformat., Free Online JPG to XLTM Java., Java Convert JPG to XLTM]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

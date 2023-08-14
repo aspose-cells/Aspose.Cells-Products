@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to WORD - Combine SXC to WORD in Python
 url: /python-net/merger/merge-sxc-to-word/ 
-description: Aspose Excel. Free Online Merge SXC to WORD saveformat. Python Combine SXC to WORD format. Merge SXC to WORD in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to WORD saveformat via Python., Free Online Merge SXC to word in Python., Python Combine SXC to WORD Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to WORD saveformat. Python Combine SXC to WORD format. Merge SXC to WORD in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to WORD in Python., Free Online Python Merge SXC to word., Python Combine SXC to WORD Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

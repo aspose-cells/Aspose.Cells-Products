@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to JPEG - Combine PNG to JPEG in Python
 url: /python-java/merger/merge-png-to-jpeg/ 
-description: Aspose Excel. Free Online Merge PNG to JPEG saveformat. Python Combine PNG to JPEG format. Merge PNG to JPEG in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to JPEG saveformat via Python., Free Online Merge PNG to jpeg in Python., Python Combine PNG to JPEG Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to JPEG saveformat. Python Combine PNG to JPEG format. Merge PNG to JPEG in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to JPEG in Python., Free Online Python Merge PNG to jpeg., Python Combine PNG to JPEG Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

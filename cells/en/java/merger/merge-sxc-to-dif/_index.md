@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to DIF - Combine SXC to DIF in Java
 url: /java/merger/merge-sxc-to-dif/ 
-description: Aspose Excel. Free Online Merge SXC to DIF saveformat. Java Combine SXC to DIF format. Merge SXC to DIF in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to DIF saveformat via Java., Free Online Merge SXC to dif in Java., Java Combine SXC to DIF Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to DIF saveformat. Java Combine SXC to DIF format. Merge SXC to DIF in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to DIF in Java., Free Online Java Merge SXC to dif., Java Combine SXC to DIF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

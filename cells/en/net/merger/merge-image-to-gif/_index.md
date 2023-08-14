@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to GIF - Combine IMAGE to GIF in C#
 url: /net/merger/merge-image-to-gif/ 
-description: Aspose Excel. Free Online Merge IMAGE to GIF saveformat. C# Combine IMAGE to GIF format. Merge IMAGE to GIF in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to GIF saveformat via C#., Free Online Merge IMAGE to gif in C#., C# Combine IMAGE to GIF Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to GIF saveformat. C# Combine IMAGE to GIF format. Merge IMAGE to GIF in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to GIF in C#., Free Online C# Merge IMAGE to gif., C# Combine IMAGE to GIF Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to MD - Combine SXC to MD in Java
 url: /java/merger/merge-sxc-to-md/ 
-description: Aspose Excel. Free Online Merge SXC to MD saveformat. Java Combine SXC to MD format. Merge SXC to MD in Java. SXC Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MD saveformat via Java., Free Online Merge SXC to md in Java., Java Combine SXC to MD Online for Free., SXC Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SXC to MD saveformat. Java Combine SXC to MD format. Merge SXC to MD in Java. SXC Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to MD in Java., Free Online Java Merge SXC to md., Java Combine SXC to MD Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

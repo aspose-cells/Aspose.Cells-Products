@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DOCX - Combine HTM to DOCX in Python
 url: /python-net/merger/merge-htm-to-docx/ 
-description: Aspose Excel. Free Online Merge HTM to DOCX saveformat. Python Combine HTM to DOCX format. Merge HTM to DOCX in Python. HTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DOCX saveformat via Python., Free Online Merge HTM to docx in Python., Python Combine HTM to DOCX Online for Free., HTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTM to DOCX saveformat. Python Combine HTM to DOCX format. Merge HTM to DOCX in Python. HTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to DOCX in Python., Free Online Python Merge HTM to docx., Python Combine HTM to DOCX Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

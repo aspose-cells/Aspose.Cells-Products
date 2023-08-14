@@ -1,7 +1,7 @@
 ---
-title: JPEG to TXT - Convert JPEG to TXT files Python
-description: Aspose Excel. Free Online Convert JPEG to TXT saveformat. Python JPEG to TXT format. Save JPEG as TXT in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to TXT saveformat., Free Online JPEG to TXT Converter]
+title: Python JPEG to TXT - Online JPEG to TXT Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to TXT saveformat. Python JPEG to TXT format. Save JPEG to TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to TXT saveformat., Free Online JPEG to TXT Python., Python Convert JPEG to TXT]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to PDF - Combine ODS to PDF in Java
 url: /java/merger/merge-ods-to-pdf/ 
-description: Aspose Excel. Free Online Merge ODS to PDF saveformat. Java Combine ODS to PDF format. Merge ODS to PDF in Java. ODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to PDF saveformat via Java., Free Online Merge ODS to pdf in Java., Java Combine ODS to PDF Online for Free., ODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge ODS to PDF saveformat. Java Combine ODS to PDF format. Merge ODS to PDF in Java. ODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to PDF in Java., Free Online Java Merge ODS to pdf., Java Combine ODS to PDF Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

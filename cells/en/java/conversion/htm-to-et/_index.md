@@ -1,7 +1,7 @@
 ---
-title: HTM to ET - Convert HTM to ET files Java
-description: Aspose Excel. Free Online Convert HTM to ET saveformat. Java HTM to ET format. Save HTM as ET in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to ET saveformat., Free Online HTM to ET Converter]
+title: Java HTM to ET - Online HTM to ET Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert HTM to ET saveformat. Java HTM to ET format. Save HTM to ET Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java HTM to ET saveformat., Free Online HTM to ET Java., Java Convert HTM to ET]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

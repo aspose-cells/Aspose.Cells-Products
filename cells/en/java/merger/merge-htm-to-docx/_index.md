@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DOCX - Combine HTM to DOCX in Java
 url: /java/merger/merge-htm-to-docx/ 
-description: Aspose Excel. Free Online Merge HTM to DOCX saveformat. Java Combine HTM to DOCX format. Merge HTM to DOCX in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to DOCX saveformat via Java., Free Online Merge HTM to docx in Java., Java Combine HTM to DOCX Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to DOCX saveformat. Java Combine HTM to DOCX format. Merge HTM to DOCX in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to DOCX in Java., Free Online Java Merge HTM to docx., Java Combine HTM to DOCX Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

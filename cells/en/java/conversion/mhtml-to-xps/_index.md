@@ -1,7 +1,7 @@
 ---
-title: MHTML to XPS - Convert MHTML to XPS files Java
-description: Aspose Excel. Free Online Convert MHTML to XPS saveformat. Java MHTML to XPS format. Save MHTML as XPS in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to XPS saveformat., Free Online MHTML to XPS Converter]
+title: Java MHTML to XPS - Online MHTML to XPS Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert MHTML to XPS saveformat. Java MHTML to XPS format. Save MHTML to XPS Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java MHTML to XPS saveformat., Free Online MHTML to XPS Java., Java Convert MHTML to XPS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

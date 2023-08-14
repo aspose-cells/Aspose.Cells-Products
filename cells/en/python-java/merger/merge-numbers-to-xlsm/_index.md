@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to XLSM - Combine NUMBERS to XLSM in Python
 url: /python-java/merger/merge-numbers-to-xlsm/ 
-description: Aspose Excel. Free Online Merge NUMBERS to XLSM saveformat. Python Combine NUMBERS to XLSM format. Merge NUMBERS to XLSM in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSM saveformat via Python., Free Online Merge NUMBERS to xlsm in Python., Python Combine NUMBERS to XLSM Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to XLSM saveformat. Python Combine NUMBERS to XLSM format. Merge NUMBERS to XLSM in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to XLSM in Python., Free Online Python Merge NUMBERS to xlsm., Python Combine NUMBERS to XLSM Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

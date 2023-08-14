@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XPS - Combine XLT to XPS in Java
 url: /java/merger/merge-xlt-to-xps/ 
-description: Aspose Excel. Free Online Merge XLT to XPS saveformat. Java Combine XLT to XPS format. Merge XLT to XPS in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XPS saveformat via Java., Free Online Merge XLT to xps in Java., Java Combine XLT to XPS Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to XPS saveformat. Java Combine XLT to XPS format. Merge XLT to XPS in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XPS in Java., Free Online Java Merge XLT to xps., Java Combine XLT to XPS Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

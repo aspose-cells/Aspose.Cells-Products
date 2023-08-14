@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to DIF - Combine XLT to DIF in C++
 url: /cpp/merger/merge-xlt-to-dif/ 
-description: Aspose Excel. Free Online Merge XLT to DIF saveformat. C++ Combine XLT to DIF format. Merge XLT to DIF in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to DIF saveformat via C++., Free Online Merge XLT to dif in C++., C++ Combine XLT to DIF Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to DIF saveformat. C++ Combine XLT to DIF format. Merge XLT to DIF in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to DIF in C++., Free Online C++ Merge XLT to dif., C++ Combine XLT to DIF Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

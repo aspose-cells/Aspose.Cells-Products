@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to WORD - Combine SPREADSHEETML to WORD in Java
 url: /java/merger/merge-spreadsheetml-to-word/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to WORD saveformat. Java Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to WORD saveformat via Java., Free Online Merge SPREADSHEETML to word in Java., Java Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to WORD saveformat. Java Combine SPREADSHEETML to WORD format. Merge SPREADSHEETML to WORD in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to WORD in Java., Free Online Java Merge SPREADSHEETML to word., Java Combine SPREADSHEETML to WORD Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

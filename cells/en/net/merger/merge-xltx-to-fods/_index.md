@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to FODS - Combine XLTX to FODS in C#
 url: /net/merger/merge-xltx-to-fods/ 
-description: Aspose Excel. Free Online Merge XLTX to FODS saveformat. C# Combine XLTX to FODS format. Merge XLTX to FODS in C#. XLTX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to FODS saveformat via C#., Free Online Merge XLTX to fods in C#., C# Combine XLTX to FODS Online for Free., XLTX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLTX to FODS saveformat. C# Combine XLTX to FODS format. Merge XLTX to FODS in C#. XLTX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to FODS in C#., Free Online C# Merge XLTX to fods., C# Combine XLTX to FODS Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

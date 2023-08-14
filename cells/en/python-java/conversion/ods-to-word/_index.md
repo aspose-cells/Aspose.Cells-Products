@@ -1,7 +1,7 @@
 ---
-title: ODS to WORD - Convert ODS to WORD files Python
-description: Aspose Excel. Free Online Convert ODS to WORD saveformat. Python ODS to WORD format. Save ODS as WORD in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to WORD saveformat., Free Online ODS to WORD Converter]
+title: Python ODS to WORD - Online ODS to WORD Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert ODS to WORD saveformat. Python ODS to WORD format. Save ODS to WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to WORD saveformat., Free Online ODS to WORD Python., Python Convert ODS to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

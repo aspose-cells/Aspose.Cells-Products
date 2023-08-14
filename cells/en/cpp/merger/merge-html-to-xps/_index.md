@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XPS - Combine HTML to XPS in C++
 url: /cpp/merger/merge-html-to-xps/ 
-description: Aspose Excel. Free Online Merge HTML to XPS saveformat. C++ Combine HTML to XPS format. Merge HTML to XPS in C++. HTML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to XPS saveformat via C++., Free Online Merge HTML to xps in C++., C++ Combine HTML to XPS Online for Free., HTML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge HTML to XPS saveformat. C++ Combine HTML to XPS format. Merge HTML to XPS in C++. HTML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to XPS in C++., Free Online C++ Merge HTML to xps., C++ Combine HTML to XPS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

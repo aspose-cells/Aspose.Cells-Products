@@ -1,7 +1,7 @@
 ---
-title: MHT to SQL - Convert MHT to SQL files Python
-description: Aspose Excel. Free Online Convert MHT to SQL saveformat. Python MHT to SQL format. Save MHT as SQL in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to SQL saveformat., Free Online MHT to SQL Converter]
+title: Python MHT to SQL - Online MHT to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to SQL saveformat. Python MHT to SQL format. Save MHT to SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to SQL saveformat., Free Online MHT to SQL Python., Python Convert MHT to SQL]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

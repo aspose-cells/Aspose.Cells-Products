@@ -1,8 +1,8 @@
 ---
 title: Merge TSV to XLAM - Combine TSV to XLAM in Python
 url: /python-net/merger/merge-tsv-to-xlam/ 
-description: Aspose Excel. Free Online Merge TSV to XLAM saveformat. Python Combine TSV to XLAM format. Merge TSV to XLAM in Python. TSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLAM saveformat via Python., Free Online Merge TSV to xlam in Python., Python Combine TSV to XLAM Online for Free., TSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TSV to XLAM saveformat. Python Combine TSV to XLAM format. Merge TSV to XLAM in Python. TSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to XLAM in Python., Free Online Python Merge TSV to xlam., Python Combine TSV to XLAM Online for Free., TSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge XML to HTML - Combine XML to HTML in Java
 url: /java/merger/merge-xml-to-html/ 
-description: Aspose Excel. Free Online Merge XML to HTML saveformat. Java Combine XML to HTML format. Merge XML to HTML in Java. XML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to HTML saveformat via Java., Free Online Merge XML to html in Java., Java Combine XML to HTML Online for Free., XML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XML to HTML saveformat. Java Combine XML to HTML format. Merge XML to HTML in Java. XML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to HTML in Java., Free Online Java Merge XML to html., Java Combine XML to HTML Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to JSON - Combine JPG to JSON in Python
 url: /python-net/merger/merge-jpg-to-json/ 
-description: Aspose Excel. Free Online Merge JPG to JSON saveformat. Python Combine JPG to JSON format. Merge JPG to JSON in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to JSON saveformat via Python., Free Online Merge JPG to json in Python., Python Combine JPG to JSON Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to JSON saveformat. Python Combine JPG to JSON format. Merge JPG to JSON in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to JSON in Python., Free Online Python Merge JPG to json., Python Combine JPG to JSON Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

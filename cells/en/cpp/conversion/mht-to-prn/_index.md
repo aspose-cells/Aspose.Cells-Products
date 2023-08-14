@@ -1,7 +1,7 @@
 ---
-title: MHT to PRN - Convert MHT to PRN files C++
-description: Aspose Excel. Free Online Convert MHT to PRN saveformat. C++ MHT to PRN format. Save MHT as PRN in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to PRN saveformat., Free Online MHT to PRN Converter]
+title: C++ MHT to PRN - Online MHT to PRN Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert MHT to PRN saveformat. C++ MHT to PRN format. Save MHT to PRN C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ MHT to PRN saveformat., Free Online MHT to PRN C++., C++ Convert MHT to PRN]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

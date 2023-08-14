@@ -1,8 +1,8 @@
 ---
 title: Merge JPEG to WORD - Combine JPEG to WORD in Java
 url: /java/merger/merge-jpeg-to-word/ 
-description: Aspose Excel. Free Online Merge JPEG to WORD saveformat. Java Combine JPEG to WORD format. Merge JPEG to WORD in Java. JPEG Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to WORD saveformat via Java., Free Online Merge JPEG to word in Java., Java Combine JPEG to WORD Online for Free., JPEG Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge JPEG to WORD saveformat. Java Combine JPEG to WORD format. Merge JPEG to WORD in Java. JPEG Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JPEG to WORD in Java., Free Online Java Merge JPEG to word., Java Combine JPEG to WORD Online for Free., JPEG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

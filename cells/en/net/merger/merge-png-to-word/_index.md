@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to WORD - Combine PNG to WORD in C#
 url: /net/merger/merge-png-to-word/ 
-description: Aspose Excel. Free Online Merge PNG to WORD saveformat. C# Combine PNG to WORD format. Merge PNG to WORD in C#. PNG Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to WORD saveformat via C#., Free Online Merge PNG to word in C#., C# Combine PNG to WORD Online for Free., PNG Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PNG to WORD saveformat. C# Combine PNG to WORD format. Merge PNG to WORD in C#. PNG Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PNG to WORD in C#., Free Online C# Merge PNG to word., C# Combine PNG to WORD Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

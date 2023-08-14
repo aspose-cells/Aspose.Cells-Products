@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to DIF - Combine TABDELIMITED to DIF in Python
 url: /python-java/merger/merge-tabdelimited-to-dif/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to DIF saveformat. Python Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to DIF saveformat via Python., Free Online Merge TABDELIMITED to dif in Python., Python Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to DIF saveformat. Python Combine TABDELIMITED to DIF format. Merge TABDELIMITED to DIF in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to DIF in Python., Free Online Python Merge TABDELIMITED to dif., Python Combine TABDELIMITED to DIF Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

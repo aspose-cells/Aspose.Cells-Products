@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to WORD - Combine XLSM to WORD in C#
 url: /net/merger/merge-xlsm-to-word/ 
-description: Aspose Excel. Free Online Merge XLSM to WORD saveformat. C# Combine XLSM to WORD format. Merge XLSM to WORD in C#. XLSM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to WORD saveformat via C#., Free Online Merge XLSM to word in C#., C# Combine XLSM to WORD Online for Free., XLSM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSM to WORD saveformat. C# Combine XLSM to WORD format. Merge XLSM to WORD in C#. XLSM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to WORD in C#., Free Online C# Merge XLSM to word., C# Combine XLSM to WORD Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

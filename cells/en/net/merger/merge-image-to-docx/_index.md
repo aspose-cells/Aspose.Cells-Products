@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to DOCX - Combine IMAGE to DOCX in C#
 url: /net/merger/merge-image-to-docx/ 
-description: Aspose Excel. Free Online Merge IMAGE to DOCX saveformat. C# Combine IMAGE to DOCX format. Merge IMAGE to DOCX in C#. IMAGE Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to DOCX saveformat via C#., Free Online Merge IMAGE to docx in C#., C# Combine IMAGE to DOCX Online for Free., IMAGE Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge IMAGE to DOCX saveformat. C# Combine IMAGE to DOCX format. Merge IMAGE to DOCX in C#. IMAGE Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge IMAGE to DOCX in C#., Free Online C# Merge IMAGE to docx., C# Combine IMAGE to DOCX Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

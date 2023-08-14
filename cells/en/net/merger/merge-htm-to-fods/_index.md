@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to FODS - Combine HTM to FODS in C#
 url: /net/merger/merge-htm-to-fods/ 
-description: Aspose Excel. Free Online Merge HTM to FODS saveformat. C# Combine HTM to FODS format. Merge HTM to FODS in C#. HTM Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to FODS saveformat via C#., Free Online Merge HTM to fods in C#., C# Combine HTM to FODS Online for Free., HTM Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge HTM to FODS saveformat. C# Combine HTM to FODS format. Merge HTM to FODS in C#. HTM Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to FODS in C#., Free Online C# Merge HTM to fods., C# Combine HTM to FODS Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

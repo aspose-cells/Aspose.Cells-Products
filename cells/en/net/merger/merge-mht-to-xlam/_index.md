@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLAM - Combine MHT to XLAM in C#
 url: /net/merger/merge-mht-to-xlam/ 
-description: Aspose Excel. Free Online Merge MHT to XLAM saveformat. C# Combine MHT to XLAM format. Merge MHT to XLAM in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLAM saveformat via C#., Free Online Merge MHT to xlam in C#., C# Combine MHT to XLAM Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to XLAM saveformat. C# Combine MHT to XLAM format. Merge MHT to XLAM in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLAM in C#., Free Online C# Merge MHT to xlam., C# Combine MHT to XLAM Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PNG - Combine FODS to PNG in Java
 url: /java/merger/merge-fods-to-png/ 
-description: Aspose Excel. Free Online Merge FODS to PNG saveformat. Java Combine FODS to PNG format. Merge FODS to PNG in Java. FODS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to PNG saveformat via Java., Free Online Merge FODS to png in Java., Java Combine FODS to PNG Online for Free., FODS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge FODS to PNG saveformat. Java Combine FODS to PNG format. Merge FODS to PNG in Java. FODS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to PNG in Java., Free Online Java Merge FODS to png., Java Combine FODS to PNG Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

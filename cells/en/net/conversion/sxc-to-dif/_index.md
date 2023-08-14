@@ -1,7 +1,7 @@
 ---
-title: SXC to DIF - Convert SXC to DIF files C#
-description: Aspose Excel. Free Online Convert SXC to DIF saveformat. C# SXC to DIF format. Save SXC as DIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to DIF saveformat., Free Online SXC to DIF Converter]
+title: C# SXC to DIF - Online SXC to DIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert SXC to DIF saveformat. C# SXC to DIF format. Save SXC to DIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# SXC to DIF saveformat., Free Online SXC to DIF C#., C# Convert SXC to DIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

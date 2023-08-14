@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to XLAM - Combine XLT to XLAM in C++
 url: /cpp/merger/merge-xlt-to-xlam/ 
-description: Aspose Excel. Free Online Merge XLT to XLAM saveformat. C++ Combine XLT to XLAM format. Merge XLT to XLAM in C++. XLT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLAM saveformat via C++., Free Online Merge XLT to xlam in C++., C++ Combine XLT to XLAM Online for Free., XLT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLT to XLAM saveformat. C++ Combine XLT to XLAM format. Merge XLT to XLAM in C++. XLT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to XLAM in C++., Free Online C++ Merge XLT to xlam., C++ Combine XLT to XLAM Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

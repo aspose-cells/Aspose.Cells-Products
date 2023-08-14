@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to TIFF - Combine TXT to TIFF in Java
 url: /java/merger/merge-txt-to-tiff/ 
-description: Aspose Excel. Free Online Merge TXT to TIFF saveformat. Java Combine TXT to TIFF format. Merge TXT to TIFF in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to TIFF saveformat via Java., Free Online Merge TXT to tiff in Java., Java Combine TXT to TIFF Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to TIFF saveformat. Java Combine TXT to TIFF format. Merge TXT to TIFF in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to TIFF in Java., Free Online Java Merge TXT to tiff., Java Combine TXT to TIFF Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

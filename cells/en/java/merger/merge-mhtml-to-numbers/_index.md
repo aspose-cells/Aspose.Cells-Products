@@ -1,8 +1,8 @@
 ---
 title: Merge MHTML to NUMBERS - Combine MHTML to NUMBERS in Java
 url: /java/merger/merge-mhtml-to-numbers/ 
-description: Aspose Excel. Free Online Merge MHTML to NUMBERS saveformat. Java Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in Java. MHTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to NUMBERS saveformat via Java., Free Online Merge MHTML to numbers in Java., Java Combine MHTML to NUMBERS Online for Free., MHTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHTML to NUMBERS saveformat. Java Combine MHTML to NUMBERS format. Merge MHTML to NUMBERS in Java. MHTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to NUMBERS in Java., Free Online Java Merge MHTML to numbers., Java Combine MHTML to NUMBERS Online for Free., MHTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

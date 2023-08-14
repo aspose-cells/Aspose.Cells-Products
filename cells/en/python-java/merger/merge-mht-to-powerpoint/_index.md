@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to POWERPOINT - Combine MHT to POWERPOINT in Python
 url: /python-java/merger/merge-mht-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge MHT to POWERPOINT saveformat. Python Combine MHT to POWERPOINT format. Merge MHT to POWERPOINT in Python. MHT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to POWERPOINT saveformat via Python., Free Online Merge MHT to powerpoint in Python., Python Combine MHT to POWERPOINT Online for Free., MHT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge MHT to POWERPOINT saveformat. Python Combine MHT to POWERPOINT format. Merge MHT to POWERPOINT in Python. MHT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to POWERPOINT in Python., Free Online Python Merge MHT to powerpoint., Python Combine MHT to POWERPOINT Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTM to DIF - Combine HTM to DIF in Java
 url: /java/merger/merge-htm-to-dif/ 
-description: Aspose Excel. Free Online Merge HTM to DIF saveformat. Java Combine HTM to DIF format. Merge HTM to DIF in Java. HTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to DIF saveformat via Java., Free Online Merge HTM to dif in Java., Java Combine HTM to DIF Online for Free., HTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTM to DIF saveformat. Java Combine HTM to DIF format. Merge HTM to DIF in Java. HTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to DIF in Java., Free Online Java Merge HTM to dif., Java Combine HTM to DIF Online for Free., HTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

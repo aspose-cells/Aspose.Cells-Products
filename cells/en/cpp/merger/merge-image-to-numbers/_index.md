@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to NUMBERS - Combine IMAGE to NUMBERS in C++
 url: /cpp/merger/merge-image-to-numbers/ 
-description: Aspose Excel. Free Online Merge IMAGE to NUMBERS saveformat. C++ Combine IMAGE to NUMBERS format. Merge IMAGE to NUMBERS in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to NUMBERS saveformat via C++., Free Online Merge IMAGE to numbers in C++., C++ Combine IMAGE to NUMBERS Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to NUMBERS saveformat. C++ Combine IMAGE to NUMBERS format. Merge IMAGE to NUMBERS in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to NUMBERS in C++., Free Online C++ Merge IMAGE to numbers., C++ Combine IMAGE to NUMBERS Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

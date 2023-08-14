@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to PPTX - Combine CSV to PPTX in Python
 url: /python-net/merger/merge-csv-to-pptx/ 
-description: Aspose Excel. Free Online Merge CSV to PPTX saveformat. Python Combine CSV to PPTX format. Merge CSV to PPTX in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to PPTX saveformat via Python., Free Online Merge CSV to pptx in Python., Python Combine CSV to PPTX Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to PPTX saveformat. Python Combine CSV to PPTX format. Merge CSV to PPTX in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to PPTX in Python., Free Online Python Merge CSV to pptx., Python Combine CSV to PPTX Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

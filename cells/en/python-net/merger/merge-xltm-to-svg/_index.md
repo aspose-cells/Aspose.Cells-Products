@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to SVG - Combine XLTM to SVG in Python
 url: /python-net/merger/merge-xltm-to-svg/ 
-description: Aspose Excel. Free Online Merge XLTM to SVG saveformat. Python Combine XLTM to SVG format. Merge XLTM to SVG in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SVG saveformat via Python., Free Online Merge XLTM to svg in Python., Python Combine XLTM to SVG Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to SVG saveformat. Python Combine XLTM to SVG format. Merge XLTM to SVG in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to SVG in Python., Free Online Python Merge XLTM to svg., Python Combine XLTM to SVG Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SXC - Combine TABDELIMITED to SXC in Python
 url: /python-java/merger/merge-tabdelimited-to-sxc/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SXC saveformat. Python Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Python. TABDELIMITED Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SXC saveformat via Python., Free Online Merge TABDELIMITED to sxc in Python., Python Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge TABDELIMITED to SXC saveformat. Python Combine TABDELIMITED to SXC format. Merge TABDELIMITED to SXC in Python. TABDELIMITED Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to SXC in Python., Free Online Python Merge TABDELIMITED to sxc., Python Combine TABDELIMITED to SXC Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

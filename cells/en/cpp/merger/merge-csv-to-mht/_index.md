@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to MHT - Combine CSV to MHT in C++
 url: /cpp/merger/merge-csv-to-mht/ 
-description: Aspose Excel. Free Online Merge CSV to MHT saveformat. C++ Combine CSV to MHT format. Merge CSV to MHT in C++. CSV Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to MHT saveformat via C++., Free Online Merge CSV to mht in C++., C++ Combine CSV to MHT Online for Free., CSV Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge CSV to MHT saveformat. C++ Combine CSV to MHT format. Merge CSV to MHT in C++. CSV Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to MHT in C++., Free Online C++ Merge CSV to mht., C++ Combine CSV to MHT Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to XLAM - Combine HTML to XLAM in Python
 url: /python-java/merger/merge-html-to-xlam/ 
-description: Aspose Excel. Free Online Merge HTML to XLAM saveformat. Python Combine HTML to XLAM format. Merge HTML to XLAM in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLAM saveformat via Python., Free Online Merge HTML to xlam in Python., Python Combine HTML to XLAM Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to XLAM saveformat. Python Combine HTML to XLAM format. Merge HTML to XLAM in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to XLAM in Python., Free Online Python Merge HTML to xlam., Python Combine HTML to XLAM Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

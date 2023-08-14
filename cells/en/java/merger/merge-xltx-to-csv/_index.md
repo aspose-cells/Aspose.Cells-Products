@@ -1,8 +1,8 @@
 ---
 title: Merge XLTX to CSV - Combine XLTX to CSV in Java
 url: /java/merger/merge-xltx-to-csv/ 
-description: Aspose Excel. Free Online Merge XLTX to CSV saveformat. Java Combine XLTX to CSV format. Merge XLTX to CSV in Java. XLTX Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to CSV saveformat via Java., Free Online Merge XLTX to csv in Java., Java Combine XLTX to CSV Online for Free., XLTX Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTX to CSV saveformat. Java Combine XLTX to CSV format. Merge XLTX to CSV in Java. XLTX Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTX to CSV in Java., Free Online Java Merge XLTX to csv., Java Combine XLTX to CSV Online for Free., XLTX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

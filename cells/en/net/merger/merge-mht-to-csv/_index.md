@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to CSV - Combine MHT to CSV in C#
 url: /net/merger/merge-mht-to-csv/ 
-description: Aspose Excel. Free Online Merge MHT to CSV saveformat. C# Combine MHT to CSV format. Merge MHT to CSV in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to CSV saveformat via C#., Free Online Merge MHT to csv in C#., C# Combine MHT to CSV Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to CSV saveformat. C# Combine MHT to CSV format. Merge MHT to CSV in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to CSV in C#., Free Online C# Merge MHT to csv., C# Combine MHT to CSV Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

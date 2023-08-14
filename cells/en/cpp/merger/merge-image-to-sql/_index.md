@@ -1,8 +1,8 @@
 ---
 title: Merge IMAGE to SQL - Combine IMAGE to SQL in C++
 url: /cpp/merger/merge-image-to-sql/ 
-description: Aspose Excel. Free Online Merge IMAGE to SQL saveformat. C++ Combine IMAGE to SQL format. Merge IMAGE to SQL in C++. IMAGE Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to SQL saveformat via C++., Free Online Merge IMAGE to sql in C++., C++ Combine IMAGE to SQL Online for Free., IMAGE Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge IMAGE to SQL saveformat. C++ Combine IMAGE to SQL format. Merge IMAGE to SQL in C++. IMAGE Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge IMAGE to SQL in C++., Free Online C++ Merge IMAGE to sql., C++ Combine IMAGE to SQL Online for Free., IMAGE Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

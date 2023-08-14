@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to SQL - Combine TABDELIMITED to SQL in Java
 url: /java/merger/merge-tabdelimited-to-sql/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to SQL saveformat. Java Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in Java. TABDELIMITED Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to SQL saveformat via Java., Free Online Merge TABDELIMITED to sql in Java., Java Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TABDELIMITED to SQL saveformat. Java Combine TABDELIMITED to SQL format. Merge TABDELIMITED to SQL in Java. TABDELIMITED Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to SQL in Java., Free Online Java Merge TABDELIMITED to sql., Java Combine TABDELIMITED to SQL Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

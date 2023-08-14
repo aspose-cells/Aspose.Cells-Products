@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to ET - Combine XLTM to ET in Java
 url: /java/merger/merge-xltm-to-et/ 
-description: Aspose Excel. Free Online Merge XLTM to ET saveformat. Java Combine XLTM to ET format. Merge XLTM to ET in Java. XLTM Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to ET saveformat via Java., Free Online Merge XLTM to et in Java., Java Combine XLTM to ET Online for Free., XLTM Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLTM to ET saveformat. Java Combine XLTM to ET format. Merge XLTM to ET in Java. XLTM Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to ET in Java., Free Online Java Merge XLTM to et., Java Combine XLTM to ET Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

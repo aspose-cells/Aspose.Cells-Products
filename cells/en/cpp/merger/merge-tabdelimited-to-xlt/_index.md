@@ -1,8 +1,8 @@
 ---
 title: Merge TABDELIMITED to XLT - Combine TABDELIMITED to XLT in C++
 url: /cpp/merger/merge-tabdelimited-to-xlt/ 
-description: Aspose Excel. Free Online Merge TABDELIMITED to XLT saveformat. C++ Combine TABDELIMITED to XLT format. Merge TABDELIMITED to XLT in C++. TABDELIMITED Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XLT saveformat via C++., Free Online Merge TABDELIMITED to xlt in C++., C++ Combine TABDELIMITED to XLT Online for Free., TABDELIMITED Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TABDELIMITED to XLT saveformat. C++ Combine TABDELIMITED to XLT format. Merge TABDELIMITED to XLT in C++. TABDELIMITED Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XLT in C++., Free Online C++ Merge TABDELIMITED to xlt., C++ Combine TABDELIMITED to XLT Online for Free., TABDELIMITED Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

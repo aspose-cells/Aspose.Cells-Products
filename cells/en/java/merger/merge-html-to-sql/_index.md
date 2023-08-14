@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to SQL - Combine HTML to SQL in Java
 url: /java/merger/merge-html-to-sql/ 
-description: Aspose Excel. Free Online Merge HTML to SQL saveformat. Java Combine HTML to SQL format. Merge HTML to SQL in Java. HTML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to SQL saveformat via Java., Free Online Merge HTML to sql in Java., Java Combine HTML to SQL Online for Free., HTML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge HTML to SQL saveformat. Java Combine HTML to SQL format. Merge HTML to SQL in Java. HTML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to SQL in Java., Free Online Java Merge HTML to sql., Java Combine HTML to SQL Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge PNG to DOCX - Combine PNG to DOCX in Python
 url: /python-net/merger/merge-png-to-docx/ 
-description: Aspose Excel. Free Online Merge PNG to DOCX saveformat. Python Combine PNG to DOCX format. Merge PNG to DOCX in Python. PNG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to DOCX saveformat via Python., Free Online Merge PNG to docx in Python., Python Combine PNG to DOCX Online for Free., PNG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge PNG to DOCX saveformat. Python Combine PNG to DOCX format. Merge PNG to DOCX in Python. PNG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PNG to DOCX in Python., Free Online Python Merge PNG to docx., Python Combine PNG to DOCX Online for Free., PNG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

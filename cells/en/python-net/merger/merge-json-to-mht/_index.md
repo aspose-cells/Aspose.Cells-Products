@@ -1,8 +1,8 @@
 ---
 title: Merge JSON to MHT - Combine JSON to MHT in Python
 url: /python-net/merger/merge-json-to-mht/ 
-description: Aspose Excel. Free Online Merge JSON to MHT saveformat. Python Combine JSON to MHT format. Merge JSON to MHT in Python. JSON Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to MHT saveformat via Python., Free Online Merge JSON to mht in Python., Python Combine JSON to MHT Online for Free., JSON Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JSON to MHT saveformat. Python Combine JSON to MHT format. Merge JSON to MHT in Python. JSON Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to MHT in Python., Free Online Python Merge JSON to mht., Python Combine JSON to MHT Online for Free., JSON Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

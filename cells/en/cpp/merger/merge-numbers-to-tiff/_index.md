@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to TIFF - Combine NUMBERS to TIFF in C++
 url: /cpp/merger/merge-numbers-to-tiff/ 
-description: Aspose Excel. Free Online Merge NUMBERS to TIFF saveformat. C++ Combine NUMBERS to TIFF format. Merge NUMBERS to TIFF in C++. NUMBERS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to TIFF saveformat via C++., Free Online Merge NUMBERS to tiff in C++., C++ Combine NUMBERS to TIFF Online for Free., NUMBERS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge NUMBERS to TIFF saveformat. C++ Combine NUMBERS to TIFF format. Merge NUMBERS to TIFF in C++. NUMBERS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to TIFF in C++., Free Online C++ Merge NUMBERS to tiff., C++ Combine NUMBERS to TIFF Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

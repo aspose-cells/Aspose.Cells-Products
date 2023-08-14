@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to GIF - Combine MHT to GIF in C#
 url: /net/merger/merge-mht-to-gif/ 
-description: Aspose Excel. Free Online Merge MHT to GIF saveformat. C# Combine MHT to GIF format. Merge MHT to GIF in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to GIF saveformat via C#., Free Online Merge MHT to gif in C#., C# Combine MHT to GIF Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to GIF saveformat. C# Combine MHT to GIF format. Merge MHT to GIF in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to GIF in C#., Free Online C# Merge MHT to gif., C# Combine MHT to GIF Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

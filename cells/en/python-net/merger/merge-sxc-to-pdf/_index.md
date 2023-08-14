@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to PDF - Combine SXC to PDF in Python
 url: /python-net/merger/merge-sxc-to-pdf/ 
-description: Aspose Excel. Free Online Merge SXC to PDF saveformat. Python Combine SXC to PDF format. Merge SXC to PDF in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PDF saveformat via Python., Free Online Merge SXC to pdf in Python., Python Combine SXC to PDF Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to PDF saveformat. Python Combine SXC to PDF format. Merge SXC to PDF in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to PDF in Python., Free Online Python Merge SXC to pdf., Python Combine SXC to PDF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

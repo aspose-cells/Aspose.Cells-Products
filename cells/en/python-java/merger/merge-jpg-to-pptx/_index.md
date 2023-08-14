@@ -1,8 +1,8 @@
 ---
 title: Merge JPG to PPTX - Combine JPG to PPTX in Python
 url: /python-java/merger/merge-jpg-to-pptx/ 
-description: Aspose Excel. Free Online Merge JPG to PPTX saveformat. Python Combine JPG to PPTX format. Merge JPG to PPTX in Python. JPG Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PPTX saveformat via Python., Free Online Merge JPG to pptx in Python., Python Combine JPG to PPTX Online for Free., JPG Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge JPG to PPTX saveformat. Python Combine JPG to PPTX format. Merge JPG to PPTX in Python. JPG Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JPG to PPTX in Python., Free Online Python Merge JPG to pptx., Python Combine JPG to PPTX Online for Free., JPG Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

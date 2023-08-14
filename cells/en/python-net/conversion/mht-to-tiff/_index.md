@@ -1,7 +1,7 @@
 ---
-title: MHT to TIFF - Convert MHT to TIFF files Python
-description: Aspose Excel. Free Online Convert MHT to TIFF saveformat. Python MHT to TIFF format. Save MHT as TIFF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to TIFF saveformat., Free Online MHT to TIFF Converter]
+title: Python MHT to TIFF - Online MHT to TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert MHT to TIFF saveformat. Python MHT to TIFF format. Save MHT to TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHT to TIFF saveformat., Free Online MHT to TIFF Python., Python Convert MHT to TIFF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

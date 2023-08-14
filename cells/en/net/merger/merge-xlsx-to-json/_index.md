@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to JSON - Combine XLSX to JSON in C#
 url: /net/merger/merge-xlsx-to-json/ 
-description: Aspose Excel. Free Online Merge XLSX to JSON saveformat. C# Combine XLSX to JSON format. Merge XLSX to JSON in C#. XLSX Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to JSON saveformat via C#., Free Online Merge XLSX to json in C#., C# Combine XLSX to JSON Online for Free., XLSX Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSX to JSON saveformat. C# Combine XLSX to JSON format. Merge XLSX to JSON in C#. XLSX Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to JSON in C#., Free Online C# Merge XLSX to json., C# Combine XLSX to JSON Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

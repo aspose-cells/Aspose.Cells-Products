@@ -1,8 +1,8 @@
 ---
 title: Merge EXCEL to SPREADSHEETML - Combine EXCEL to SPREADSHEETML in Python
 url: /python-java/merger/merge-excel-to-spreadsheetml/ 
-description: Aspose Excel. Free Online Merge EXCEL to SPREADSHEETML saveformat. Python Combine EXCEL to SPREADSHEETML format. Merge EXCEL to SPREADSHEETML in Python. EXCEL Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to SPREADSHEETML saveformat via Python., Free Online Merge EXCEL to spreadsheetml in Python., Python Combine EXCEL to SPREADSHEETML Online for Free., EXCEL Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge EXCEL to SPREADSHEETML saveformat. Python Combine EXCEL to SPREADSHEETML format. Merge EXCEL to SPREADSHEETML in Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to SPREADSHEETML in Python., Free Online Python Merge EXCEL to spreadsheetml., Python Combine EXCEL to SPREADSHEETML Online for Free., EXCEL Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

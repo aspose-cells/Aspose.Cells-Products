@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to DOCX - Combine NUMBERS to DOCX in Java
 url: /java/merger/merge-numbers-to-docx/ 
-description: Aspose Excel. Free Online Merge NUMBERS to DOCX saveformat. Java Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Java. NUMBERS Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DOCX saveformat via Java., Free Online Merge NUMBERS to docx in Java., Java Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge NUMBERS to DOCX saveformat. Java Combine NUMBERS to DOCX format. Merge NUMBERS to DOCX in Java. NUMBERS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to DOCX in Java., Free Online Java Merge NUMBERS to docx., Java Combine NUMBERS to DOCX Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

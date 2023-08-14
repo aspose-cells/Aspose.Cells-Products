@@ -1,7 +1,7 @@
 ---
-title: XLSB to GIF - Convert XLSB to GIF files C#
-description: Aspose Excel. Free Online Convert XLSB to GIF saveformat. C# XLSB to GIF format. Save XLSB as GIF in C#.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to GIF saveformat., Free Online XLSB to GIF Converter]
+title: C# XLSB to GIF - Online XLSB to GIF Converter
+description: Aspose Excel. C# Aspose.Cells. C# Aspose Cells. Free Online C# Convert XLSB to GIF saveformat. C# XLSB to GIF format. Save XLSB to GIF C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# Aspose Cells., C# XLSB to GIF saveformat., Free Online XLSB to GIF C#., C# Convert XLSB to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

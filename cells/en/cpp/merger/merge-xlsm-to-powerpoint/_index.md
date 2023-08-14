@@ -1,8 +1,8 @@
 ---
 title: Merge XLSM to POWERPOINT - Combine XLSM to POWERPOINT in C++
 url: /cpp/merger/merge-xlsm-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge XLSM to POWERPOINT saveformat. C++ Combine XLSM to POWERPOINT format. Merge XLSM to POWERPOINT in C++. XLSM Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to POWERPOINT saveformat via C++., Free Online Merge XLSM to powerpoint in C++., C++ Combine XLSM to POWERPOINT Online for Free., XLSM Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSM to POWERPOINT saveformat. C++ Combine XLSM to POWERPOINT format. Merge XLSM to POWERPOINT in C++. XLSM Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to POWERPOINT in C++., Free Online C++ Merge XLSM to powerpoint., C++ Combine XLSM to POWERPOINT Online for Free., XLSM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLAM - Combine TXT to XLAM in C#
 url: /net/merger/merge-txt-to-xlam/ 
-description: Aspose Excel. Free Online Merge TXT to XLAM saveformat. C# Combine TXT to XLAM format. Merge TXT to XLAM in C#. TXT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to XLAM saveformat via C#., Free Online Merge TXT to xlam in C#., C# Combine TXT to XLAM Online for Free., TXT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge TXT to XLAM saveformat. C# Combine TXT to XLAM format. Merge TXT to XLAM in C#. TXT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to XLAM in C#., Free Online C# Merge TXT to xlam., C# Combine TXT to XLAM Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

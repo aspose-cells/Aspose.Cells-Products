@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to WORD - Combine TXT to WORD in C++
 url: /cpp/merger/merge-txt-to-word/ 
-description: Aspose Excel. Free Online Merge TXT to WORD saveformat. C++ Combine TXT to WORD format. Merge TXT to WORD in C++. TXT Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to WORD saveformat via C++., Free Online Merge TXT to word in C++., C++ Combine TXT to WORD Online for Free., TXT Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge TXT to WORD saveformat. C++ Combine TXT to WORD format. Merge TXT to WORD in C++. TXT Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TXT to WORD in C++., Free Online C++ Merge TXT to word., C++ Combine TXT to WORD Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge TXT to XLSB - Combine TXT to XLSB in Java
 url: /java/merger/merge-txt-to-xlsb/ 
-description: Aspose Excel. Free Online Merge TXT to XLSB saveformat. Java Combine TXT to XLSB format. Merge TXT to XLSB in Java. TXT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLSB saveformat via Java., Free Online Merge TXT to xlsb in Java., Java Combine TXT to XLSB Online for Free., TXT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge TXT to XLSB saveformat. Java Combine TXT to XLSB format. Merge TXT to XLSB in Java. TXT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TXT to XLSB in Java., Free Online Java Merge TXT to xlsb., Java Combine TXT to XLSB Online for Free., TXT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

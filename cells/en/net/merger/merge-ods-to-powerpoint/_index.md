@@ -1,8 +1,8 @@
 ---
 title: Merge ODS to POWERPOINT - Combine ODS to POWERPOINT in C#
 url: /net/merger/merge-ods-to-powerpoint/ 
-description: Aspose Excel. Free Online Merge ODS to POWERPOINT saveformat. C# Combine ODS to POWERPOINT format. Merge ODS to POWERPOINT in C#. ODS Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to POWERPOINT saveformat via C#., Free Online Merge ODS to powerpoint in C#., C# Combine ODS to POWERPOINT Online for Free., ODS Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge ODS to POWERPOINT saveformat. C# Combine ODS to POWERPOINT format. Merge ODS to POWERPOINT in C#. ODS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to POWERPOINT in C#., Free Online C# Merge ODS to powerpoint., C# Combine ODS to POWERPOINT Online for Free., ODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

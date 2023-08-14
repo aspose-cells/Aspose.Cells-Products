@@ -1,8 +1,8 @@
 ---
 title: Merge PRN to XLAM - Combine PRN to XLAM in C#
 url: /net/merger/merge-prn-to-xlam/ 
-description: Aspose Excel. Free Online Merge PRN to XLAM saveformat. C# Combine PRN to XLAM format. Merge PRN to XLAM in C#. PRN Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to XLAM saveformat via C#., Free Online Merge PRN to xlam in C#., C# Combine PRN to XLAM Online for Free., PRN Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge PRN to XLAM saveformat. C# Combine PRN to XLAM format. Merge PRN to XLAM in C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to XLAM in C#., Free Online C# Merge PRN to xlam., C# Combine PRN to XLAM Online for Free., PRN Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPEG to HTML - Convert JPEG to HTML files Java
-description: Aspose Excel. Free Online Convert JPEG to HTML saveformat. Java JPEG to HTML format. Save JPEG as HTML in Java.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to HTML saveformat., Free Online JPEG to HTML Converter]
+title: Java JPEG to HTML - Online JPEG to HTML Converter
+description: Aspose Excel. Java Aspose.Cells. Java Aspose Cells. Free Online Java Convert JPEG to HTML saveformat. Java JPEG to HTML format. Save JPEG to HTML Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java Aspose Cells., Java JPEG to HTML saveformat., Free Online JPEG to HTML Java., Java Convert JPEG to HTML]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

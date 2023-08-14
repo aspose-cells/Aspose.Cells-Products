@@ -1,8 +1,8 @@
 ---
 title: Merge CSV to GIF - Combine CSV to GIF in Python
 url: /python-java/merger/merge-csv-to-gif/ 
-description: Aspose Excel. Free Online Merge CSV to GIF saveformat. Python Combine CSV to GIF format. Merge CSV to GIF in Python. CSV Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to GIF saveformat via Python., Free Online Merge CSV to gif in Python., Python Combine CSV to GIF Online for Free., CSV Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge CSV to GIF saveformat. Python Combine CSV to GIF format. Merge CSV to GIF in Python. CSV Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to GIF in Python., Free Online Python Merge CSV to gif., Python Combine CSV to GIF Online for Free., CSV Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to XLAM - Combine MHT to XLAM in Java
 url: /java/merger/merge-mht-to-xlam/ 
-description: Aspose Excel. Free Online Merge MHT to XLAM saveformat. Java Combine MHT to XLAM format. Merge MHT to XLAM in Java. MHT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XLAM saveformat via Java., Free Online Merge MHT to xlam in Java., Java Combine MHT to XLAM Online for Free., MHT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge MHT to XLAM saveformat. Java Combine MHT to XLAM format. Merge MHT to XLAM in Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XLAM in Java., Free Online Java Merge MHT to xlam., Java Combine MHT to XLAM Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

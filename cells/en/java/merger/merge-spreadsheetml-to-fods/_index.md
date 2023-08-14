@@ -1,8 +1,8 @@
 ---
 title: Merge SPREADSHEETML to FODS - Combine SPREADSHEETML to FODS in Java
 url: /java/merger/merge-spreadsheetml-to-fods/ 
-description: Aspose Excel. Free Online Merge SPREADSHEETML to FODS saveformat. Java Combine SPREADSHEETML to FODS format. Merge SPREADSHEETML to FODS in Java. SPREADSHEETML Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to FODS saveformat via Java., Free Online Merge SPREADSHEETML to fods in Java., Java Combine SPREADSHEETML to FODS Online for Free., SPREADSHEETML Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge SPREADSHEETML to FODS saveformat. Java Combine SPREADSHEETML to FODS format. Merge SPREADSHEETML to FODS in Java. SPREADSHEETML Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to FODS in Java., Free Online Java Merge SPREADSHEETML to fods., Java Combine SPREADSHEETML to FODS Online for Free., SPREADSHEETML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

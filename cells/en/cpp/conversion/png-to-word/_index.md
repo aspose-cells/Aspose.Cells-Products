@@ -1,7 +1,7 @@
 ---
-title: PNG to WORD - Convert PNG to WORD files C++
-description: Aspose Excel. Free Online Convert PNG to WORD saveformat. C++ PNG to WORD format. Save PNG as WORD in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to WORD saveformat., Free Online PNG to WORD Converter]
+title: C++ PNG to WORD - Online PNG to WORD Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert PNG to WORD saveformat. C++ PNG to WORD format. Save PNG to WORD C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ PNG to WORD saveformat., Free Online PNG to WORD C++., C++ Convert PNG to WORD]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

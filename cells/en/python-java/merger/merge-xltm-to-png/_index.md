@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to PNG - Combine XLTM to PNG in Python
 url: /python-java/merger/merge-xltm-to-png/ 
-description: Aspose Excel. Free Online Merge XLTM to PNG saveformat. Python Combine XLTM to PNG format. Merge XLTM to PNG in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to PNG saveformat via Python., Free Online Merge XLTM to png in Python., Python Combine XLTM to PNG Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to PNG saveformat. Python Combine XLTM to PNG format. Merge XLTM to PNG in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to PNG in Python., Free Online Python Merge XLTM to png., Python Combine XLTM to PNG Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

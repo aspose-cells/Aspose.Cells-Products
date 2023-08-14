@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to MD - Combine XLSB to MD in C#
 url: /net/merger/merge-xlsb-to-md/ 
-description: Aspose Excel. Free Online Merge XLSB to MD saveformat. C# Combine XLSB to MD format. Merge XLSB to MD in C#. XLSB Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to MD saveformat via C#., Free Online Merge XLSB to md in C#., C# Combine XLSB to MD Online for Free., XLSB Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge XLSB to MD saveformat. C# Combine XLSB to MD format. Merge XLSB to MD in C#. XLSB Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to MD in C#., Free Online C# Merge XLSB to md., C# Combine XLSB to MD Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

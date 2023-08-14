@@ -1,7 +1,7 @@
 ---
-title: JPG to ODS - Convert JPG to ODS files C++
-description: Aspose Excel. Free Online Convert JPG to ODS saveformat. C++ JPG to ODS format. Save JPG as ODS in C++.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to ODS saveformat., Free Online JPG to ODS Converter]
+title: C++ JPG to ODS - Online JPG to ODS Converter
+description: Aspose Excel. C++ Aspose.Cells. C++ Aspose Cells. Free Online C++ Convert JPG to ODS saveformat. C++ JPG to ODS format. Save JPG to ODS C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ Aspose Cells., C++ JPG to ODS saveformat., Free Online JPG to ODS C++., C++ Convert JPG to ODS]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

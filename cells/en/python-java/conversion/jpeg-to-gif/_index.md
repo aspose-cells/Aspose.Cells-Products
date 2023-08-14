@@ -1,7 +1,7 @@
 ---
-title: JPEG to GIF - Convert JPEG to GIF files Python
-description: Aspose Excel. Free Online Convert JPEG to GIF saveformat. Python JPEG to GIF format. Save JPEG as GIF in Python.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to GIF saveformat., Free Online JPEG to GIF Converter]
+title: Python JPEG to GIF - Online JPEG to GIF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Convert JPEG to GIF saveformat. Python JPEG to GIF format. Save JPEG to GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to GIF saveformat., Free Online JPEG to GIF Python., Python Convert JPEG to GIF]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

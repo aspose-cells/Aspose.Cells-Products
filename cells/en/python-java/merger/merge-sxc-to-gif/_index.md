@@ -1,8 +1,8 @@
 ---
 title: Merge SXC to GIF - Combine SXC to GIF in Python
 url: /python-java/merger/merge-sxc-to-gif/ 
-description: Aspose Excel. Free Online Merge SXC to GIF saveformat. Python Combine SXC to GIF format. Merge SXC to GIF in Python. SXC Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to GIF saveformat via Python., Free Online Merge SXC to gif in Python., Python Combine SXC to GIF Online for Free., SXC Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge SXC to GIF saveformat. Python Combine SXC to GIF format. Merge SXC to GIF in Python. SXC Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to GIF in Python., Free Online Python Merge SXC to gif., Python Combine SXC to GIF Online for Free., SXC Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

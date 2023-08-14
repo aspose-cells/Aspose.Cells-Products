@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to DIF - Combine FODS to DIF in Python
 url: /python-net/merger/merge-fods-to-dif/ 
-description: Aspose Excel. Free Online Merge FODS to DIF saveformat. Python Combine FODS to DIF format. Merge FODS to DIF in Python. FODS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to DIF saveformat via Python., Free Online Merge FODS to dif in Python., Python Combine FODS to DIF Online for Free., FODS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge FODS to DIF saveformat. Python Combine FODS to DIF format. Merge FODS to DIF in Python. FODS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge FODS to DIF in Python., Free Online Python Merge FODS to dif., Python Combine FODS to DIF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

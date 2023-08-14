@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to PRN - Combine HTML to PRN in Python
 url: /python-net/merger/merge-html-to-prn/ 
-description: Aspose Excel. Free Online Merge HTML to PRN saveformat. Python Combine HTML to PRN format. Merge HTML to PRN in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PRN saveformat via Python., Free Online Merge HTML to prn in Python., Python Combine HTML to PRN Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to PRN saveformat. Python Combine HTML to PRN format. Merge HTML to PRN in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to PRN in Python., Free Online Python Merge HTML to prn., Python Combine HTML to PRN Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

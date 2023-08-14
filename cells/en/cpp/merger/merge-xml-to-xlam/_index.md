@@ -1,8 +1,8 @@
 ---
 title: Merge XML to XLAM - Combine XML to XLAM in C++
 url: /cpp/merger/merge-xml-to-xlam/ 
-description: Aspose Excel. Free Online Merge XML to XLAM saveformat. C++ Combine XML to XLAM format. Merge XML to XLAM in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLAM saveformat via C++., Free Online Merge XML to xlam in C++., C++ Combine XML to XLAM Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to XLAM saveformat. C++ Combine XML to XLAM format. Merge XML to XLAM in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to XLAM in C++., Free Online C++ Merge XML to xlam., C++ Combine XML to XLAM Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

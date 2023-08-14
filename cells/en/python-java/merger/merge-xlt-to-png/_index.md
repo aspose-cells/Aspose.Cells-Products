@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to PNG - Combine XLT to PNG in Python
 url: /python-java/merger/merge-xlt-to-png/ 
-description: Aspose Excel. Free Online Merge XLT to PNG saveformat. Python Combine XLT to PNG format. Merge XLT to PNG in Python. XLT Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PNG saveformat via Python., Free Online Merge XLT to png in Python., Python Combine XLT to PNG Online for Free., XLT Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLT to PNG saveformat. Python Combine XLT to PNG format. Merge XLT to PNG in Python. XLT Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to PNG in Python., Free Online Python Merge XLT to png., Python Combine XLT to PNG Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

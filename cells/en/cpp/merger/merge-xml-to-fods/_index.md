@@ -1,8 +1,8 @@
 ---
 title: Merge XML to FODS - Combine XML to FODS in C++
 url: /cpp/merger/merge-xml-to-fods/ 
-description: Aspose Excel. Free Online Merge XML to FODS saveformat. C++ Combine XML to FODS format. Merge XML to FODS in C++. XML Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to FODS saveformat via C++., Free Online Merge XML to fods in C++., C++ Combine XML to FODS Online for Free., XML Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XML to FODS saveformat. C++ Combine XML to FODS format. Merge XML to FODS in C++. XML Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to FODS in C++., Free Online C++ Merge XML to fods., C++ Combine XML to FODS Online for Free., XML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

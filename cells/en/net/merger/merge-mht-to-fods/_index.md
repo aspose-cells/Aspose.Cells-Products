@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to FODS - Combine MHT to FODS in C#
 url: /net/merger/merge-mht-to-fods/ 
-description: Aspose Excel. Free Online Merge MHT to FODS saveformat. C# Combine MHT to FODS format. Merge MHT to FODS in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to FODS saveformat via C#., Free Online Merge MHT to fods in C#., C# Combine MHT to FODS Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to FODS saveformat. C# Combine MHT to FODS format. Merge MHT to FODS in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to FODS in C#., Free Online C# Merge MHT to fods., C# Combine MHT to FODS Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

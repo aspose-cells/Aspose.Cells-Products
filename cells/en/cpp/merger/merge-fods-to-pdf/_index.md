@@ -1,8 +1,8 @@
 ---
 title: Merge FODS to PDF - Combine FODS to PDF in C++
 url: /cpp/merger/merge-fods-to-pdf/ 
-description: Aspose Excel. Free Online Merge FODS to PDF saveformat. C++ Combine FODS to PDF format. Merge FODS to PDF in C++. FODS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to PDF saveformat via C++., Free Online Merge FODS to pdf in C++., C++ Combine FODS to PDF Online for Free., FODS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge FODS to PDF saveformat. C++ Combine FODS to PDF format. Merge FODS to PDF in C++. FODS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to PDF in C++., Free Online C++ Merge FODS to pdf., C++ Combine FODS to PDF Online for Free., FODS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

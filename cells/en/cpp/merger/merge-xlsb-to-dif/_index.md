@@ -1,8 +1,8 @@
 ---
 title: Merge XLSB to DIF - Combine XLSB to DIF in C++
 url: /cpp/merger/merge-xlsb-to-dif/ 
-description: Aspose Excel. Free Online Merge XLSB to DIF saveformat. C++ Combine XLSB to DIF format. Merge XLSB to DIF in C++. XLSB Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to DIF saveformat via C++., Free Online Merge XLSB to dif in C++., C++ Combine XLSB to DIF Online for Free., XLSB Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge XLSB to DIF saveformat. C++ Combine XLSB to DIF format. Merge XLSB to DIF in C++. XLSB Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to DIF in C++., Free Online C++ Merge XLSB to dif., C++ Combine XLSB to DIF Online for Free., XLSB Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

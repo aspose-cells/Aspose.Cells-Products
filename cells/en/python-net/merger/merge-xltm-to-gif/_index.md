@@ -1,8 +1,8 @@
 ---
 title: Merge XLTM to GIF - Combine XLTM to GIF in Python
 url: /python-net/merger/merge-xltm-to-gif/ 
-description: Aspose Excel. Free Online Merge XLTM to GIF saveformat. Python Combine XLTM to GIF format. Merge XLTM to GIF in Python. XLTM Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to GIF saveformat via Python., Free Online Merge XLTM to gif in Python., Python Combine XLTM to GIF Online for Free., XLTM Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLTM to GIF saveformat. Python Combine XLTM to GIF format. Merge XLTM to GIF in Python. XLTM Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTM to GIF in Python., Free Online Python Merge XLTM to gif., Python Combine XLTM to GIF Online for Free., XLTM Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

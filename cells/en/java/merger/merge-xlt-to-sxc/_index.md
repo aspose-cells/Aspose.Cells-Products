@@ -1,8 +1,8 @@
 ---
 title: Merge XLT to SXC - Combine XLT to SXC in Java
 url: /java/merger/merge-xlt-to-sxc/ 
-description: Aspose Excel. Free Online Merge XLT to SXC saveformat. Java Combine XLT to SXC format. Merge XLT to SXC in Java. XLT Merge.
-keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to SXC saveformat via Java., Free Online Merge XLT to sxc in Java., Java Combine XLT to SXC Online for Free., XLT Merge]
+description: Aspose Excel. Java Aspose.Cells. Free Online Merge XLT to SXC saveformat. Java Combine XLT to SXC format. Merge XLT to SXC in Java. XLT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to SXC in Java., Free Online Java Merge XLT to sxc., Java Combine XLT to SXC Online for Free., XLT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

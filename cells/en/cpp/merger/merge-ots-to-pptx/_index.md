@@ -1,8 +1,8 @@
 ---
 title: Merge OTS to PPTX - Combine OTS to PPTX in C++
 url: /cpp/merger/merge-ots-to-pptx/ 
-description: Aspose Excel. Free Online Merge OTS to PPTX saveformat. C++ Combine OTS to PPTX format. Merge OTS to PPTX in C++. OTS Merge.
-keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PPTX saveformat via C++., Free Online Merge OTS to pptx in C++., C++ Combine OTS to PPTX Online for Free., OTS Merge]
+description: Aspose Excel. C++ Aspose.Cells. Free Online Merge OTS to PPTX saveformat. C++ Combine OTS to PPTX format. Merge OTS to PPTX in C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to PPTX in C++., Free Online C++ Merge OTS to pptx., C++ Combine OTS to PPTX Online for Free., OTS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

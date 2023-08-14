@@ -1,8 +1,8 @@
 ---
 title: Merge NUMBERS to PRN - Combine NUMBERS to PRN in Python
 url: /python-net/merger/merge-numbers-to-prn/ 
-description: Aspose Excel. Free Online Merge NUMBERS to PRN saveformat. Python Combine NUMBERS to PRN format. Merge NUMBERS to PRN in Python. NUMBERS Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PRN saveformat via Python., Free Online Merge NUMBERS to prn in Python., Python Combine NUMBERS to PRN Online for Free., NUMBERS Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge NUMBERS to PRN saveformat. Python Combine NUMBERS to PRN format. Merge NUMBERS to PRN in Python. NUMBERS Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to PRN in Python., Free Online Python Merge NUMBERS to prn., Python Combine NUMBERS to PRN Online for Free., NUMBERS Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,8 +1,8 @@
 ---
 title: Merge MHT to ETT - Combine MHT to ETT in C#
 url: /net/merger/merge-mht-to-ett/ 
-description: Aspose Excel. Free Online Merge MHT to ETT saveformat. C# Combine MHT to ETT format. Merge MHT to ETT in C#. MHT Merge.
-keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to ETT saveformat via C#., Free Online Merge MHT to ett in C#., C# Combine MHT to ETT Online for Free., MHT Merge]
+description: Aspose Excel. C# Aspose.Cells. Free Online Merge MHT to ETT saveformat. C# Combine MHT to ETT format. Merge MHT to ETT in C#. MHT Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to ETT in C#., Free Online C# Merge MHT to ett., C# Combine MHT to ETT Online for Free., MHT Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

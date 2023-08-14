@@ -1,8 +1,8 @@
 ---
 title: Merge XLSX to EMF - Combine XLSX to EMF in Python
 url: /python-java/merger/merge-xlsx-to-emf/ 
-description: Aspose Excel. Free Online Merge XLSX to EMF saveformat. Python Combine XLSX to EMF format. Merge XLSX to EMF in Python. XLSX Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to EMF saveformat via Python., Free Online Merge XLSX to emf in Python., Python Combine XLSX to EMF Online for Free., XLSX Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge XLSX to EMF saveformat. Python Combine XLSX to EMF format. Merge XLSX to EMF in Python. XLSX Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to EMF in Python., Free Online Python Merge XLSX to emf., Python Combine XLSX to EMF Online for Free., XLSX Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

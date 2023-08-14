@@ -1,8 +1,8 @@
 ---
 title: Merge HTML to NUMBERS - Combine HTML to NUMBERS in Python
 url: /python-java/merger/merge-html-to-numbers/ 
-description: Aspose Excel. Free Online Merge HTML to NUMBERS saveformat. Python Combine HTML to NUMBERS format. Merge HTML to NUMBERS in Python. HTML Merge.
-keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to NUMBERS saveformat via Python., Free Online Merge HTML to numbers in Python., Python Combine HTML to NUMBERS Online for Free., HTML Merge]
+description: Aspose Excel. Python Aspose.Cells. Free Online Merge HTML to NUMBERS saveformat. Python Combine HTML to NUMBERS format. Merge HTML to NUMBERS in Python. HTML Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to NUMBERS in Python., Free Online Python Merge HTML to numbers., Python Combine HTML to NUMBERS Online for Free., HTML Merge]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

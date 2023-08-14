@@ -1,7 +1,7 @@
 ---
-title: CSV to SQL - Convert CSV to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert CSV to SQL in C#. C# CSV to SQL format. Save CSV as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# CSV to SQL., Free Online Convert CSV to SQL in C#., C# Convert CSV to SQL., CSV to SQL Converter]
+title: CSV to SQL - Convert CSV to SQL files C#
+description: Aspose Excel. Free Online Convert CSV to SQL saveformat. C# CSV to SQL format. Save CSV as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# CSV to SQL saveformat., Free Online CSV to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

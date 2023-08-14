@@ -1,7 +1,7 @@
 ---
-title: XLT to WORD - Convert XLT to WORD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLT to WORD in Java. Java XLT to WORD format. Save XLT as WORD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to WORD., Free Online Convert XLT to WORD in Java., Java Convert XLT to WORD., XLT to WORD Converter]
+title: XLT to WORD - Convert XLT to WORD files Java
+description: Aspose Excel. Free Online Convert XLT to WORD saveformat. Java XLT to WORD format. Save XLT as WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to WORD saveformat., Free Online XLT to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

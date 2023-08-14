@@ -1,6 +1,6 @@
 ---
 title: Create TSV - Create TSV file in Python
-description: Python Aspose Cells. Python Create TSV File. Create TSV Python. Python TSV Creater. Create TSV in Python. Generate TSV file using Python.
+description: Aspose Excel. Python Create TSV File. Create TSV Python. Python TSV Creater. Create TSV in Python. Generate TSV file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create TSV Python., Python TSV Creater., Create TSV file in Python., Generate TSV file in Python]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: XLT to PDF - Convert XLT to PDF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLT to PDF in Java. Java XLT to PDF format. Save XLT as PDF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to PDF., Free Online Convert XLT to PDF in Java., Java Convert XLT to PDF., XLT to PDF Converter]
+title: XLT to PDF - Convert XLT to PDF files Java
+description: Aspose Excel. Free Online Convert XLT to PDF saveformat. Java XLT to PDF format. Save XLT as PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to PDF saveformat., Free Online XLT to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create TIFF - Create TIFF file in C#
-description: C# Aspose Cells. C# Create TIFF File. Create TIFF C#. C# TIFF Creater. Create TIFF in C#. Generate TIFF file using C#.
+description: Aspose Excel. C# Create TIFF File. Create TIFF C#. C# TIFF Creater. Create TIFF in C#. Generate TIFF file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create TIFF C#., C# TIFF Creater., Create TIFF file in C#., Generate TIFF file in C#]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Create XLAM - Create XLAM file in C++
-description: C++ Aspose Cells. C++ Create XLAM File. Create XLAM C++. C++ XLAM Creater. Create XLAM in C++. Generate XLAM file using C++.
+description: Aspose Excel. C++ Create XLAM File. Create XLAM C++. C++ XLAM Creater. Create XLAM in C++. Generate XLAM file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XLAM C++., C++ XLAM Creater., Create XLAM file in C++., Generate XLAM file in C++]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: ODS to PRN - Convert ODS to PRN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to PRN in Java. Java ODS to PRN format. Save ODS as PRN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to PRN., Free Online Convert ODS to PRN in Java., Java Convert ODS to PRN., ODS to PRN Converter]
+title: ODS to PRN - Convert ODS to PRN files Java
+description: Aspose Excel. Free Online Convert ODS to PRN saveformat. Java ODS to PRN format. Save ODS as PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to PRN saveformat., Free Online ODS to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

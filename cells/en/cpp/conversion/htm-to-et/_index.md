@@ -1,7 +1,7 @@
 ---
-title: HTM to ET - Convert HTM to ET in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTM to ET in C++. C++ HTM to ET format. Save HTM as ET in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to ET., Free Online Convert HTM to ET in C++., C++ Convert HTM to ET., HTM to ET Converter]
+title: HTM to ET - Convert HTM to ET files C++
+description: Aspose Excel. Free Online Convert HTM to ET saveformat. C++ HTM to ET format. Save HTM as ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to ET saveformat., Free Online HTM to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

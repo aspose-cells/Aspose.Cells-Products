@@ -1,7 +1,7 @@
 ---
-title: TSV to DIF - Convert TSV to DIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TSV to DIF in Python. Python TSV to DIF format. Save TSV as DIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to DIF., Free Online Convert TSV to DIF in Python., Python Convert TSV to DIF., TSV to DIF Converter]
+title: TSV to DIF - Convert TSV to DIF files Python
+description: Aspose Excel. Free Online Convert TSV to DIF saveformat. Python TSV to DIF format. Save TSV as DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TSV to DIF saveformat., Free Online TSV to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

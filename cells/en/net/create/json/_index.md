@@ -1,6 +1,6 @@
 ---
 title: Create JSON - Create JSON file in C#
-description: C# Aspose Cells. C# Create JSON File. Create JSON C#. C# JSON Creater. Create JSON in C#. Generate JSON file using C#.
+description: Aspose Excel. C# Create JSON File. Create JSON C#. C# JSON Creater. Create JSON in C#. Generate JSON file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create JSON C#., C# JSON Creater., Create JSON file in C#., Generate JSON file in C#]
 ---
 

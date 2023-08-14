@@ -1,7 +1,7 @@
 ---
-title: EXCEL to ODS - Convert EXCEL to ODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to ODS in Java. Java EXCEL to ODS format. Save EXCEL as ODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to ODS., Free Online Convert EXCEL to ODS in Java., Java Convert EXCEL to ODS., EXCEL to ODS Converter]
+title: EXCEL to ODS - Convert EXCEL to ODS files Java
+description: Aspose Excel. Free Online Convert EXCEL to ODS saveformat. Java EXCEL to ODS format. Save EXCEL as ODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to ODS saveformat., Free Online EXCEL to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: CSV to TXT - Convert CSV to TXT in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert CSV to TXT in Java. Java CSV to TXT format. Save CSV as TXT in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java CSV to TXT., Free Online Convert CSV to TXT in Java., Java Convert CSV to TXT., CSV to TXT Converter]
+title: CSV to TXT - Convert CSV to TXT files Java
+description: Aspose Excel. Free Online Convert CSV to TXT saveformat. Java CSV to TXT format. Save CSV as TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java CSV to TXT saveformat., Free Online CSV to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

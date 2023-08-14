@@ -1,7 +1,7 @@
 ---
-title: FODS to MARKDOWN - Convert FODS to MARKDOWN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to MARKDOWN in C#. C# FODS to MARKDOWN format. Save FODS as MARKDOWN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to MARKDOWN., Free Online Convert FODS to MARKDOWN in C#., C# Convert FODS to MARKDOWN., FODS to MARKDOWN Converter]
+title: FODS to MARKDOWN - Convert FODS to MARKDOWN files C#
+description: Aspose Excel. Free Online Convert FODS to MARKDOWN saveformat. C# FODS to MARKDOWN format. Save FODS as MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to MARKDOWN saveformat., Free Online FODS to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: OTS to TXT - Convert OTS to TXT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert OTS to TXT in C++. C++ OTS to TXT format. Save OTS as TXT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ OTS to TXT., Free Online Convert OTS to TXT in C++., C++ Convert OTS to TXT., OTS to TXT Converter]
+title: OTS to TXT - Convert OTS to TXT files C++
+description: Aspose Excel. Free Online Convert OTS to TXT saveformat. C++ OTS to TXT format. Save OTS as TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ OTS to TXT saveformat., Free Online OTS to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

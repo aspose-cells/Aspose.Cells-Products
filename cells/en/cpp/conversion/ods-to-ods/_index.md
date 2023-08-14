@@ -1,7 +1,7 @@
 ---
-title: ODS to ODS - Convert ODS to ODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert ODS to ODS in C++. C++ ODS to ODS format. Save ODS as ODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ ODS to ODS., Free Online Convert ODS to ODS in C++., C++ Convert ODS to ODS., ODS to ODS Converter]
+title: ODS to ODS - Convert ODS to ODS files C++
+description: Aspose Excel. Free Online Convert ODS to ODS saveformat. C++ ODS to ODS format. Save ODS as ODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ ODS to ODS saveformat., Free Online ODS to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

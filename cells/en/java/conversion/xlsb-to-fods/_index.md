@@ -1,7 +1,7 @@
 ---
-title: XLSB to FODS - Convert XLSB to FODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to FODS in Java. Java XLSB to FODS format. Save XLSB as FODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to FODS., Free Online Convert XLSB to FODS in Java., Java Convert XLSB to FODS., XLSB to FODS Converter]
+title: XLSB to FODS - Convert XLSB to FODS files Java
+description: Aspose Excel. Free Online Convert XLSB to FODS saveformat. Java XLSB to FODS format. Save XLSB as FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to FODS saveformat., Free Online XLSB to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

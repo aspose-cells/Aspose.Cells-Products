@@ -1,7 +1,7 @@
 ---
-title: XLSX to HTM - Convert XLSX to HTM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to HTM in Java. Java XLSX to HTM format. Save XLSX as HTM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to HTM., Free Online Convert XLSX to HTM in Java., Java Convert XLSX to HTM., XLSX to HTM Converter]
+title: XLSX to HTM - Convert XLSX to HTM files Java
+description: Aspose Excel. Free Online Convert XLSX to HTM saveformat. Java XLSX to HTM format. Save XLSX as HTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to HTM saveformat., Free Online XLSX to HTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

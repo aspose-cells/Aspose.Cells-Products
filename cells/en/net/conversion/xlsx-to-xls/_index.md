@@ -1,7 +1,7 @@
 ---
-title: XLSX to XLS - Convert XLSX to XLS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to XLS in C#. C# XLSX to XLS format. Save XLSX as XLS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to XLS., Free Online Convert XLSX to XLS in C#., C# Convert XLSX to XLS., XLSX to XLS Converter]
+title: XLSX to XLS - Convert XLSX to XLS files C#
+description: Aspose Excel. Free Online Convert XLSX to XLS saveformat. C# XLSX to XLS format. Save XLSX as XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to XLS saveformat., Free Online XLSX to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

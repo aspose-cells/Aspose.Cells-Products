@@ -1,7 +1,7 @@
 ---
-title: XLT to OTS - Convert XLT to OTS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLT to OTS in Python. Python XLT to OTS format. Save XLT as OTS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLT to OTS., Free Online Convert XLT to OTS in Python., Python Convert XLT to OTS., XLT to OTS Converter]
+title: XLT to OTS - Convert XLT to OTS files Python
+description: Aspose Excel. Free Online Convert XLT to OTS saveformat. Python XLT to OTS format. Save XLT as OTS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLT to OTS saveformat., Free Online XLT to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: TXT to ODS - Convert TXT to ODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to ODS in Python. Python TXT to ODS format. Save TXT as ODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to ODS., Free Online Convert TXT to ODS in Python., Python Convert TXT to ODS., TXT to ODS Converter]
+title: TXT to ODS - Convert TXT to ODS files Python
+description: Aspose Excel. Free Online Convert TXT to ODS saveformat. Python TXT to ODS format. Save TXT as ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to ODS saveformat., Free Online TXT to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

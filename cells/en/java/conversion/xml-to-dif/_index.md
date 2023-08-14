@@ -1,7 +1,7 @@
 ---
-title: XML to DIF - Convert XML to DIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to DIF in Java. Java XML to DIF format. Save XML as DIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to DIF., Free Online Convert XML to DIF in Java., Java Convert XML to DIF., XML to DIF Converter]
+title: XML to DIF - Convert XML to DIF files Java
+description: Aspose Excel. Free Online Convert XML to DIF saveformat. Java XML to DIF format. Save XML as DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to DIF saveformat., Free Online XML to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

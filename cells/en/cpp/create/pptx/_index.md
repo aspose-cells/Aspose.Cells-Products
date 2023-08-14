@@ -1,6 +1,6 @@
 ---
 title: Create PPTX - Create PPTX file in C++
-description: C++ Aspose Cells. C++ Create PPTX File. Create PPTX C++. C++ PPTX Creater. Create PPTX in C++. Generate PPTX file using C++.
+description: Aspose Excel. C++ Create PPTX File. Create PPTX C++. C++ PPTX Creater. Create PPTX in C++. Generate PPTX file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create PPTX C++., C++ PPTX Creater., Create PPTX file in C++., Generate PPTX file in C++]
 ---
 

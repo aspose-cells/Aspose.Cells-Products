@@ -1,7 +1,7 @@
 ---
-title: XLS to TXT - Convert XLS to TXT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to TXT in C++. C++ XLS to TXT format. Save XLS as TXT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to TXT., Free Online Convert XLS to TXT in C++., C++ Convert XLS to TXT., XLS to TXT Converter]
+title: XLS to TXT - Convert XLS to TXT files C++
+description: Aspose Excel. Free Online Convert XLS to TXT saveformat. C++ XLS to TXT format. Save XLS as TXT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to TXT saveformat., Free Online XLS to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

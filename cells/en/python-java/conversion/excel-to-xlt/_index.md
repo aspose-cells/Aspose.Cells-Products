@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XLT - Convert EXCEL to XLT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to XLT in Python. Python EXCEL to XLT format. Save EXCEL as XLT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to XLT., Free Online Convert EXCEL to XLT in Python., Python Convert EXCEL to XLT., EXCEL to XLT Converter]
+title: EXCEL to XLT - Convert EXCEL to XLT files Python
+description: Aspose Excel. Free Online Convert EXCEL to XLT saveformat. Python EXCEL to XLT format. Save EXCEL as XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to XLT saveformat., Free Online EXCEL to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSX to SXC - Convert XLSX to SXC in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to SXC in Java. Java XLSX to SXC format. Save XLSX as SXC in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to SXC., Free Online Convert XLSX to SXC in Java., Java Convert XLSX to SXC., XLSX to SXC Converter]
+title: XLSX to SXC - Convert XLSX to SXC files Java
+description: Aspose Excel. Free Online Convert XLSX to SXC saveformat. Java XLSX to SXC format. Save XLSX as SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to SXC saveformat., Free Online XLSX to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

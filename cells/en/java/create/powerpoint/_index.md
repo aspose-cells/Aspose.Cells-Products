@@ -1,6 +1,6 @@
 ---
 title: Create POWERPOINT - Create POWERPOINT file in Java
-description: Java Aspose Cells. Java Create POWERPOINT File. Create POWERPOINT Java. Java POWERPOINT Creater. Create POWERPOINT in Java. Generate POWERPOINT file using Java.
+description: Aspose Excel. Java Create POWERPOINT File. Create POWERPOINT Java. Java POWERPOINT Creater. Create POWERPOINT in Java. Generate POWERPOINT file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create POWERPOINT Java., Java POWERPOINT Creater., Create POWERPOINT file in Java., Generate POWERPOINT file in Java]
 ---
 

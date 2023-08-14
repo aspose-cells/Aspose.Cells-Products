@@ -1,7 +1,7 @@
 ---
-title: PNG to XLAM - Convert PNG to XLAM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PNG to XLAM in C++. C++ PNG to XLAM format. Save PNG as XLAM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to XLAM., Free Online Convert PNG to XLAM in C++., C++ Convert PNG to XLAM., PNG to XLAM Converter]
+title: PNG to XLAM - Convert PNG to XLAM files C++
+description: Aspose Excel. Free Online Convert PNG to XLAM saveformat. C++ PNG to XLAM format. Save PNG as XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to XLAM saveformat., Free Online PNG to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

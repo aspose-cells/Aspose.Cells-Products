@@ -1,7 +1,7 @@
 ---
-title: XLTM to NUMBERS - Convert XLTM to NUMBERS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to NUMBERS in C++. C++ XLTM to NUMBERS format. Save XLTM as NUMBERS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to NUMBERS., Free Online Convert XLTM to NUMBERS in C++., C++ Convert XLTM to NUMBERS., XLTM to NUMBERS Converter]
+title: XLTM to NUMBERS - Convert XLTM to NUMBERS files C++
+description: Aspose Excel. Free Online Convert XLTM to NUMBERS saveformat. C++ XLTM to NUMBERS format. Save XLTM as NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to NUMBERS saveformat., Free Online XLTM to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

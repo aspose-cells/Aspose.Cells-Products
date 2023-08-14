@@ -1,6 +1,6 @@
 ---
 title: Create IMAGE - Create IMAGE file in Java
-description: Java Aspose Cells. Java Create IMAGE File. Create IMAGE Java. Java IMAGE Creater. Create IMAGE in Java. Generate IMAGE file using Java.
+description: Aspose Excel. Java Create IMAGE File. Create IMAGE Java. Java IMAGE Creater. Create IMAGE in Java. Generate IMAGE file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create IMAGE Java., Java IMAGE Creater., Create IMAGE file in Java., Generate IMAGE file in Java]
 ---
 

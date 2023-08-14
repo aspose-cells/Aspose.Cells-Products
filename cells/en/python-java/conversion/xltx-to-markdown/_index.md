@@ -1,7 +1,7 @@
 ---
-title: XLTX to MARKDOWN - Convert XLTX to MARKDOWN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to MARKDOWN in Python. Python XLTX to MARKDOWN format. Save XLTX as MARKDOWN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to MARKDOWN., Free Online Convert XLTX to MARKDOWN in Python., Python Convert XLTX to MARKDOWN., XLTX to MARKDOWN Converter]
+title: XLTX to MARKDOWN - Convert XLTX to MARKDOWN files Python
+description: Aspose Excel. Free Online Convert XLTX to MARKDOWN saveformat. Python XLTX to MARKDOWN format. Save XLTX as MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to MARKDOWN saveformat., Free Online XLTX to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

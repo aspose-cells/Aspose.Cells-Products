@@ -1,7 +1,7 @@
 ---
-title: MHTML to JPG - Convert MHTML to JPG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHTML to JPG in C++. C++ MHTML to JPG format. Save MHTML as JPG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to JPG., Free Online Convert MHTML to JPG in C++., C++ Convert MHTML to JPG., MHTML to JPG Converter]
+title: MHTML to JPG - Convert MHTML to JPG files C++
+description: Aspose Excel. Free Online Convert MHTML to JPG saveformat. C++ MHTML to JPG format. Save MHTML as JPG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to JPG saveformat., Free Online MHTML to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create WORD - Create WORD file in C++
-description: C++ Aspose Cells. C++ Create WORD File. Create WORD C++. C++ WORD Creater. Create WORD in C++. Generate WORD file using C++.
+description: Aspose Excel. C++ Create WORD File. Create WORD C++. C++ WORD Creater. Create WORD in C++. Generate WORD file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create WORD C++., C++ WORD Creater., Create WORD file in C++., Generate WORD file in C++]
 ---
 

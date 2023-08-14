@@ -1,7 +1,7 @@
 ---
-title: XLT to ETT - Convert XLT to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to ETT in C++. C++ XLT to ETT format. Save XLT as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to ETT., Free Online Convert XLT to ETT in C++., C++ Convert XLT to ETT., XLT to ETT Converter]
+title: XLT to ETT - Convert XLT to ETT files C++
+description: Aspose Excel. Free Online Convert XLT to ETT saveformat. C++ XLT to ETT format. Save XLT as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to ETT saveformat., Free Online XLT to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

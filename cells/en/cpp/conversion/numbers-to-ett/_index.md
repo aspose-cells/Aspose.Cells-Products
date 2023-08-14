@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to ETT - Convert NUMBERS to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert NUMBERS to ETT in C++. C++ NUMBERS to ETT format. Save NUMBERS as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to ETT., Free Online Convert NUMBERS to ETT in C++., C++ Convert NUMBERS to ETT., NUMBERS to ETT Converter]
+title: NUMBERS to ETT - Convert NUMBERS to ETT files C++
+description: Aspose Excel. Free Online Convert NUMBERS to ETT saveformat. C++ NUMBERS to ETT format. Save NUMBERS as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to ETT saveformat., Free Online NUMBERS to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

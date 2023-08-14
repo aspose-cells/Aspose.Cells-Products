@@ -1,6 +1,6 @@
 ---
 title: Create XLAM - Create XLAM file in Java
-description: Java Aspose Cells. Java Create XLAM File. Create XLAM Java. Java XLAM Creater. Create XLAM in Java. Generate XLAM file using Java.
+description: Aspose Excel. Java Create XLAM File. Create XLAM Java. Java XLAM Creater. Create XLAM in Java. Generate XLAM file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XLAM Java., Java XLAM Creater., Create XLAM file in Java., Generate XLAM file in Java]
 ---
 

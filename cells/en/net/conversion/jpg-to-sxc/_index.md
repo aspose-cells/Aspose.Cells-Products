@@ -1,7 +1,7 @@
 ---
-title: JPG to SXC - Convert JPG to SXC in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to SXC in C#. C# JPG to SXC format. Save JPG as SXC in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to SXC., Free Online Convert JPG to SXC in C#., C# Convert JPG to SXC., JPG to SXC Converter]
+title: JPG to SXC - Convert JPG to SXC files C#
+description: Aspose Excel. Free Online Convert JPG to SXC saveformat. C# JPG to SXC format. Save JPG as SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to SXC saveformat., Free Online JPG to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: EXCEL to POWERPOINT - Convert EXCEL to POWERPOINT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to POWERPOINT in Python. Python EXCEL to POWERPOINT format. Save EXCEL as POWERPOINT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to POWERPOINT., Free Online Convert EXCEL to POWERPOINT in Python., Python Convert EXCEL to POWERPOINT., EXCEL to POWERPOINT Converter]
+title: EXCEL to POWERPOINT - Convert EXCEL to POWERPOINT files Python
+description: Aspose Excel. Free Online Convert EXCEL to POWERPOINT saveformat. Python EXCEL to POWERPOINT format. Save EXCEL as POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

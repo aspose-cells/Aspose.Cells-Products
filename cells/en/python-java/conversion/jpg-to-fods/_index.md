@@ -1,7 +1,7 @@
 ---
-title: JPG to FODS - Convert JPG to FODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to FODS in Python. Python JPG to FODS format. Save JPG as FODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to FODS., Free Online Convert JPG to FODS in Python., Python Convert JPG to FODS., JPG to FODS Converter]
+title: JPG to FODS - Convert JPG to FODS files Python
+description: Aspose Excel. Free Online Convert JPG to FODS saveformat. Python JPG to FODS format. Save JPG as FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to FODS saveformat., Free Online JPG to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

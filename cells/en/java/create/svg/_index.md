@@ -1,6 +1,6 @@
 ---
 title: Create SVG - Create SVG file in Java
-description: Java Aspose Cells. Java Create SVG File. Create SVG Java. Java SVG Creater. Create SVG in Java. Generate SVG file using Java.
+description: Aspose Excel. Java Create SVG File. Create SVG Java. Java SVG Creater. Create SVG in Java. Generate SVG file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create SVG Java., Java SVG Creater., Create SVG file in Java., Generate SVG file in Java]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: XLTX to SPREADSHEETML - Convert XLTX to SPREADSHEETML in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to SPREADSHEETML in Java. Java XLTX to SPREADSHEETML format. Save XLTX as SPREADSHEETML in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to SPREADSHEETML., Free Online Convert XLTX to SPREADSHEETML in Java., Java Convert XLTX to SPREADSHEETML., XLTX to SPREADSHEETML Converter]
+title: XLTX to SPREADSHEETML - Convert XLTX to SPREADSHEETML files Java
+description: Aspose Excel. Free Online Convert XLTX to SPREADSHEETML saveformat. Java XLTX to SPREADSHEETML format. Save XLTX as SPREADSHEETML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to SPREADSHEETML saveformat., Free Online XLTX to SPREADSHEETML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

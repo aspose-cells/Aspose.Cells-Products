@@ -1,7 +1,7 @@
 ---
-title: SXC to WORD - Convert SXC to WORD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to WORD in Java. Java SXC to WORD format. Save SXC as WORD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to WORD., Free Online Convert SXC to WORD in Java., Java Convert SXC to WORD., SXC to WORD Converter]
+title: SXC to WORD - Convert SXC to WORD files Java
+description: Aspose Excel. Free Online Convert SXC to WORD saveformat. Java SXC to WORD format. Save SXC as WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to WORD saveformat., Free Online SXC to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

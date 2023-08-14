@@ -1,6 +1,6 @@
 ---
 title: Create EXCEL - Create EXCEL file in Java
-description: Java Aspose Cells. Java Create EXCEL File. Create EXCEL Java. Java EXCEL Creater. Create EXCEL in Java. Generate EXCEL file using Java.
+description: Aspose Excel. Java Create EXCEL File. Create EXCEL Java. Java EXCEL Creater. Create EXCEL in Java. Generate EXCEL file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create EXCEL Java., Java EXCEL Creater., Create EXCEL file in Java., Generate EXCEL file in Java]
 ---
 

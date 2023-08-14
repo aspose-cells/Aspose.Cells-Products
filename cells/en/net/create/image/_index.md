@@ -1,6 +1,6 @@
 ---
 title: Create IMAGE - Create IMAGE file in C#
-description: C# Aspose Cells. C# Create IMAGE File. Create IMAGE C#. C# IMAGE Creater. Create IMAGE in C#. Generate IMAGE file using C#.
+description: Aspose Excel. C# Create IMAGE File. Create IMAGE C#. C# IMAGE Creater. Create IMAGE in C#. Generate IMAGE file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create IMAGE C#., C# IMAGE Creater., Create IMAGE file in C#., Generate IMAGE file in C#]
 ---
 

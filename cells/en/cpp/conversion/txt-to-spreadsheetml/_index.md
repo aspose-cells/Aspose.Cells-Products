@@ -1,7 +1,7 @@
 ---
-title: TXT to SPREADSHEETML - Convert TXT to SPREADSHEETML in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to SPREADSHEETML in C++. C++ TXT to SPREADSHEETML format. Save TXT as SPREADSHEETML in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to SPREADSHEETML., Free Online Convert TXT to SPREADSHEETML in C++., C++ Convert TXT to SPREADSHEETML., TXT to SPREADSHEETML Converter]
+title: TXT to SPREADSHEETML - Convert TXT to SPREADSHEETML files C++
+description: Aspose Excel. Free Online Convert TXT to SPREADSHEETML saveformat. C++ TXT to SPREADSHEETML format. Save TXT as SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to SPREADSHEETML saveformat., Free Online TXT to SPREADSHEETML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

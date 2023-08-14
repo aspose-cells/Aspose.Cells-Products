@@ -1,7 +1,7 @@
 ---
-title: ODS to MD - Convert ODS to MD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert ODS to MD in C#. C# ODS to MD format. Save ODS as MD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to MD., Free Online Convert ODS to MD in C#., C# Convert ODS to MD., ODS to MD Converter]
+title: ODS to MD - Convert ODS to MD files C#
+description: Aspose Excel. Free Online Convert ODS to MD saveformat. C# ODS to MD format. Save ODS as MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to MD saveformat., Free Online ODS to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

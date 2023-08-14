@@ -1,7 +1,7 @@
 ---
-title: XLSB to MARKDOWN - Convert XLSB to MARKDOWN in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to MARKDOWN in C++. C++ XLSB to MARKDOWN format. Save XLSB as MARKDOWN in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to MARKDOWN., Free Online Convert XLSB to MARKDOWN in C++., C++ Convert XLSB to MARKDOWN., XLSB to MARKDOWN Converter]
+title: XLSB to MARKDOWN - Convert XLSB to MARKDOWN files C++
+description: Aspose Excel. Free Online Convert XLSB to MARKDOWN saveformat. C++ XLSB to MARKDOWN format. Save XLSB as MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to MARKDOWN saveformat., Free Online XLSB to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

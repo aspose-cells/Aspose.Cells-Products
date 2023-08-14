@@ -1,7 +1,7 @@
 ---
-title: MHT to ETT - Convert MHT to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to ETT in C++. C++ MHT to ETT format. Save MHT as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to ETT., Free Online Convert MHT to ETT in C++., C++ Convert MHT to ETT., MHT to ETT Converter]
+title: MHT to ETT - Convert MHT to ETT files C++
+description: Aspose Excel. Free Online Convert MHT to ETT saveformat. C++ MHT to ETT format. Save MHT as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to ETT saveformat., Free Online MHT to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

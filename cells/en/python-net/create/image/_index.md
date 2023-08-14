@@ -1,6 +1,6 @@
 ---
 title: Create IMAGE - Create IMAGE file in Python
-description: Python Aspose Cells. Python Create IMAGE File. Create IMAGE Python. Python IMAGE Creater. Create IMAGE in Python. Generate IMAGE file using Python.
+description: Aspose Excel. Python Create IMAGE File. Create IMAGE Python. Python IMAGE Creater. Create IMAGE in Python. Generate IMAGE file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create IMAGE Python., Python IMAGE Creater., Create IMAGE file in Python., Generate IMAGE file in Python]
 ---
 

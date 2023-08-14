@@ -1,7 +1,7 @@
 ---
-title: ODS to MD - Convert ODS to MD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to MD in Java. Java ODS to MD format. Save ODS as MD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to MD., Free Online Convert ODS to MD in Java., Java Convert ODS to MD., ODS to MD Converter]
+title: ODS to MD - Convert ODS to MD files Java
+description: Aspose Excel. Free Online Convert ODS to MD saveformat. Java ODS to MD format. Save ODS as MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to MD saveformat., Free Online ODS to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

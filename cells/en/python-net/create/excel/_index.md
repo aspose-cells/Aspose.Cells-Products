@@ -1,6 +1,6 @@
 ---
 title: Create EXCEL - Create EXCEL file in Python
-description: Python Aspose Cells. Python Create EXCEL File. Create EXCEL Python. Python EXCEL Creater. Create EXCEL in Python. Generate EXCEL file using Python.
+description: Aspose Excel. Python Create EXCEL File. Create EXCEL Python. Python EXCEL Creater. Create EXCEL in Python. Generate EXCEL file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create EXCEL Python., Python EXCEL Creater., Create EXCEL file in Python., Generate EXCEL file in Python]
 ---
 

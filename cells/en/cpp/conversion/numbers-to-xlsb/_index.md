@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to XLSB - Convert NUMBERS to XLSB in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert NUMBERS to XLSB in C++. C++ NUMBERS to XLSB format. Save NUMBERS as XLSB in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLSB., Free Online Convert NUMBERS to XLSB in C++., C++ Convert NUMBERS to XLSB., NUMBERS to XLSB Converter]
+title: NUMBERS to XLSB - Convert NUMBERS to XLSB files C++
+description: Aspose Excel. Free Online Convert NUMBERS to XLSB saveformat. C++ NUMBERS to XLSB format. Save NUMBERS as XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLSB saveformat., Free Online NUMBERS to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

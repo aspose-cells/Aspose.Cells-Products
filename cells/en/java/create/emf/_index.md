@@ -1,6 +1,6 @@
 ---
 title: Create EMF - Create EMF file in Java
-description: Java Aspose Cells. Java Create EMF File. Create EMF Java. Java EMF Creater. Create EMF in Java. Generate EMF file using Java.
+description: Aspose Excel. Java Create EMF File. Create EMF Java. Java EMF Creater. Create EMF in Java. Generate EMF file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create EMF Java., Java EMF Creater., Create EMF file in Java., Generate EMF file in Java]
 ---
 

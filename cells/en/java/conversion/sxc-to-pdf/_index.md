@@ -1,7 +1,7 @@
 ---
-title: SXC to PDF - Convert SXC to PDF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to PDF in Java. Java SXC to PDF format. Save SXC as PDF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to PDF., Free Online Convert SXC to PDF in Java., Java Convert SXC to PDF., SXC to PDF Converter]
+title: SXC to PDF - Convert SXC to PDF files Java
+description: Aspose Excel. Free Online Convert SXC to PDF saveformat. Java SXC to PDF format. Save SXC as PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to PDF saveformat., Free Online SXC to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

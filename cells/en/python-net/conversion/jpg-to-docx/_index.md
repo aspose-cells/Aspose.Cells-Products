@@ -1,7 +1,7 @@
 ---
-title: JPG to DOCX - Convert JPG to DOCX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to DOCX in Python. Python JPG to DOCX format. Save JPG as DOCX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to DOCX., Free Online Convert JPG to DOCX in Python., Python Convert JPG to DOCX., JPG to DOCX Converter]
+title: JPG to DOCX - Convert JPG to DOCX files Python
+description: Aspose Excel. Free Online Convert JPG to DOCX saveformat. Python JPG to DOCX format. Save JPG as DOCX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to DOCX saveformat., Free Online JPG to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

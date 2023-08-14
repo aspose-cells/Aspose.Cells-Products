@@ -1,7 +1,7 @@
 ---
-title: HTM to MARKDOWN - Convert HTM to MARKDOWN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to MARKDOWN in Java. Java HTM to MARKDOWN format. Save HTM as MARKDOWN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to MARKDOWN., Free Online Convert HTM to MARKDOWN in Java., Java Convert HTM to MARKDOWN., HTM to MARKDOWN Converter]
+title: HTM to MARKDOWN - Convert HTM to MARKDOWN files Java
+description: Aspose Excel. Free Online Convert HTM to MARKDOWN saveformat. Java HTM to MARKDOWN format. Save HTM as MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to MARKDOWN saveformat., Free Online HTM to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

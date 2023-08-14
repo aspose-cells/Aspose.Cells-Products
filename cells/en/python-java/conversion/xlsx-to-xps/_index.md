@@ -1,7 +1,7 @@
 ---
-title: XLSX to XPS - Convert XLSX to XPS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSX to XPS in Python. Python XLSX to XPS format. Save XLSX as XPS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to XPS., Free Online Convert XLSX to XPS in Python., Python Convert XLSX to XPS., XLSX to XPS Converter]
+title: XLSX to XPS - Convert XLSX to XPS files Python
+description: Aspose Excel. Free Online Convert XLSX to XPS saveformat. Python XLSX to XPS format. Save XLSX as XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to XPS saveformat., Free Online XLSX to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: TXT to JSON - Convert TXT to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to JSON in C++. C++ TXT to JSON format. Save TXT as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to JSON., Free Online Convert TXT to JSON in C++., C++ Convert TXT to JSON., TXT to JSON Converter]
+title: TXT to JSON - Convert TXT to JSON files C++
+description: Aspose Excel. Free Online Convert TXT to JSON saveformat. C++ TXT to JSON format. Save TXT as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to JSON saveformat., Free Online TXT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

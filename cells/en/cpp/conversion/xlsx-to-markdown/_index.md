@@ -1,7 +1,7 @@
 ---
-title: XLSX to MARKDOWN - Convert XLSX to MARKDOWN in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to MARKDOWN in C++. C++ XLSX to MARKDOWN format. Save XLSX as MARKDOWN in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to MARKDOWN., Free Online Convert XLSX to MARKDOWN in C++., C++ Convert XLSX to MARKDOWN., XLSX to MARKDOWN Converter]
+title: XLSX to MARKDOWN - Convert XLSX to MARKDOWN files C++
+description: Aspose Excel. Free Online Convert XLSX to MARKDOWN saveformat. C++ XLSX to MARKDOWN format. Save XLSX as MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to MARKDOWN saveformat., Free Online XLSX to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

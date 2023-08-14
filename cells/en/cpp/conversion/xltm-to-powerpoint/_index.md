@@ -1,7 +1,7 @@
 ---
-title: XLTM to POWERPOINT - Convert XLTM to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to POWERPOINT in C++. C++ XLTM to POWERPOINT format. Save XLTM as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to POWERPOINT., Free Online Convert XLTM to POWERPOINT in C++., C++ Convert XLTM to POWERPOINT., XLTM to POWERPOINT Converter]
+title: XLTM to POWERPOINT - Convert XLTM to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert XLTM to POWERPOINT saveformat. C++ XLTM to POWERPOINT format. Save XLTM as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to POWERPOINT saveformat., Free Online XLTM to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create BMP - Create BMP file in C#
-description: C# Aspose Cells. C# Create BMP File. Create BMP C#. C# BMP Creater. Create BMP in C#. Generate BMP file using C#.
+description: Aspose Excel. C# Create BMP File. Create BMP C#. C# BMP Creater. Create BMP in C#. Generate BMP file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create BMP C#., C# BMP Creater., Create BMP file in C#., Generate BMP file in C#]
 ---
 

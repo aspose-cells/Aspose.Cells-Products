@@ -1,7 +1,7 @@
 ---
-title: HTML to MD - Convert HTML to MD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTML to MD in C#. C# HTML to MD format. Save HTML as MD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to MD., Free Online Convert HTML to MD in C#., C# Convert HTML to MD., HTML to MD Converter]
+title: HTML to MD - Convert HTML to MD files C#
+description: Aspose Excel. Free Online Convert HTML to MD saveformat. C# HTML to MD format. Save HTML as MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to MD saveformat., Free Online HTML to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

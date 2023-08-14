@@ -1,7 +1,7 @@
 ---
-title: PNG to ETT - Convert PNG to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PNG to ETT in C++. C++ PNG to ETT format. Save PNG as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to ETT., Free Online Convert PNG to ETT in C++., C++ Convert PNG to ETT., PNG to ETT Converter]
+title: PNG to ETT - Convert PNG to ETT files C++
+description: Aspose Excel. Free Online Convert PNG to ETT saveformat. C++ PNG to ETT format. Save PNG as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to ETT saveformat., Free Online PNG to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

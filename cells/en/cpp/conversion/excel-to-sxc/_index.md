@@ -1,7 +1,7 @@
 ---
-title: EXCEL to SXC - Convert EXCEL to SXC in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to SXC in C++. C++ EXCEL to SXC format. Save EXCEL as SXC in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to SXC., Free Online Convert EXCEL to SXC in C++., C++ Convert EXCEL to SXC., EXCEL to SXC Converter]
+title: EXCEL to SXC - Convert EXCEL to SXC files C++
+description: Aspose Excel. Free Online Convert EXCEL to SXC saveformat. C++ EXCEL to SXC format. Save EXCEL as SXC in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to SXC saveformat., Free Online EXCEL to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

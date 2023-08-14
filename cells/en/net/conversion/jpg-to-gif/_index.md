@@ -1,7 +1,7 @@
 ---
-title: JPG to GIF - Convert JPG to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to GIF in C#. C# JPG to GIF format. Save JPG as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to GIF., Free Online Convert JPG to GIF in C#., C# Convert JPG to GIF., JPG to GIF Converter]
+title: JPG to GIF - Convert JPG to GIF files C#
+description: Aspose Excel. Free Online Convert JPG to GIF saveformat. C# JPG to GIF format. Save JPG as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to GIF saveformat., Free Online JPG to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

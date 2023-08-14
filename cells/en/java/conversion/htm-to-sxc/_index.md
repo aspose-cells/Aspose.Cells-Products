@@ -1,7 +1,7 @@
 ---
-title: HTM to SXC - Convert HTM to SXC in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to SXC in Java. Java HTM to SXC format. Save HTM as SXC in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to SXC., Free Online Convert HTM to SXC in Java., Java Convert HTM to SXC., HTM to SXC Converter]
+title: HTM to SXC - Convert HTM to SXC files Java
+description: Aspose Excel. Free Online Convert HTM to SXC saveformat. Java HTM to SXC format. Save HTM as SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to SXC saveformat., Free Online HTM to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

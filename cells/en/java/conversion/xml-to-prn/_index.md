@@ -1,7 +1,7 @@
 ---
-title: XML to PRN - Convert XML to PRN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to PRN in Java. Java XML to PRN format. Save XML as PRN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to PRN., Free Online Convert XML to PRN in Java., Java Convert XML to PRN., XML to PRN Converter]
+title: XML to PRN - Convert XML to PRN files Java
+description: Aspose Excel. Free Online Convert XML to PRN saveformat. Java XML to PRN format. Save XML as PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to PRN saveformat., Free Online XML to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

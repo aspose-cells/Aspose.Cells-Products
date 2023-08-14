@@ -1,7 +1,7 @@
 ---
-title: EXCEL to TSV - Convert EXCEL to TSV in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to TSV in Python. Python EXCEL to TSV format. Save EXCEL as TSV in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to TSV., Free Online Convert EXCEL to TSV in Python., Python Convert EXCEL to TSV., EXCEL to TSV Converter]
+title: EXCEL to TSV - Convert EXCEL to TSV files Python
+description: Aspose Excel. Free Online Convert EXCEL to TSV saveformat. Python EXCEL to TSV format. Save EXCEL as TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to TSV saveformat., Free Online EXCEL to TSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

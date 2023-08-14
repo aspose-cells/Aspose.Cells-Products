@@ -1,7 +1,7 @@
 ---
-title: XLTM to TIFF - Convert XLTM to TIFF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTM to TIFF in Python. Python XLTM to TIFF format. Save XLTM as TIFF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTM to TIFF., Free Online Convert XLTM to TIFF in Python., Python Convert XLTM to TIFF., XLTM to TIFF Converter]
+title: XLTM to TIFF - Convert XLTM to TIFF files Python
+description: Aspose Excel. Free Online Convert XLTM to TIFF saveformat. Python XLTM to TIFF format. Save XLTM as TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTM to TIFF saveformat., Free Online XLTM to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

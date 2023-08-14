@@ -1,7 +1,7 @@
 ---
-title: MHTML to FODS - Convert MHTML to FODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to FODS in Python. Python MHTML to FODS format. Save MHTML as FODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to FODS., Free Online Convert MHTML to FODS in Python., Python Convert MHTML to FODS., MHTML to FODS Converter]
+title: MHTML to FODS - Convert MHTML to FODS files Python
+description: Aspose Excel. Free Online Convert MHTML to FODS saveformat. Python MHTML to FODS format. Save MHTML as FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to FODS saveformat., Free Online MHTML to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

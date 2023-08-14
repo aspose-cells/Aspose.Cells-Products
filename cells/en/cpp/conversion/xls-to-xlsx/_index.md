@@ -1,7 +1,7 @@
 ---
-title: XLS to XLSX - Convert XLS to XLSX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to XLSX in C++. C++ XLS to XLSX format. Save XLS as XLSX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to XLSX., Free Online Convert XLS to XLSX in C++., C++ Convert XLS to XLSX., XLS to XLSX Converter]
+title: XLS to XLSX - Convert XLS to XLSX files C++
+description: Aspose Excel. Free Online Convert XLS to XLSX saveformat. C++ XLS to XLSX format. Save XLS as XLSX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to XLSX saveformat., Free Online XLS to XLSX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

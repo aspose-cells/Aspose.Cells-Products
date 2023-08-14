@@ -1,7 +1,7 @@
 ---
-title: MHTML to SXC - Convert MHTML to SXC in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHTML to SXC in Java. Java MHTML to SXC format. Save MHTML as SXC in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to SXC., Free Online Convert MHTML to SXC in Java., Java Convert MHTML to SXC., MHTML to SXC Converter]
+title: MHTML to SXC - Convert MHTML to SXC files Java
+description: Aspose Excel. Free Online Convert MHTML to SXC saveformat. Java MHTML to SXC format. Save MHTML as SXC in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to SXC saveformat., Free Online MHTML to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

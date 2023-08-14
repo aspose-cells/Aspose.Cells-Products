@@ -1,7 +1,7 @@
 ---
-title: JPEG to MARKDOWN - Convert JPEG to MARKDOWN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to MARKDOWN in C#. C# JPEG to MARKDOWN format. Save JPEG as MARKDOWN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to MARKDOWN., Free Online Convert JPEG to MARKDOWN in C#., C# Convert JPEG to MARKDOWN., JPEG to MARKDOWN Converter]
+title: JPEG to MARKDOWN - Convert JPEG to MARKDOWN files C#
+description: Aspose Excel. Free Online Convert JPEG to MARKDOWN saveformat. C# JPEG to MARKDOWN format. Save JPEG as MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to MARKDOWN saveformat., Free Online JPEG to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

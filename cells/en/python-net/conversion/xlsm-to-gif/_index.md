@@ -1,7 +1,7 @@
 ---
-title: XLSM to GIF - Convert XLSM to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSM to GIF in Python. Python XLSM to GIF format. Save XLSM as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to GIF., Free Online Convert XLSM to GIF in Python., Python Convert XLSM to GIF., XLSM to GIF Converter]
+title: XLSM to GIF - Convert XLSM to GIF files Python
+description: Aspose Excel. Free Online Convert XLSM to GIF saveformat. Python XLSM to GIF format. Save XLSM as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to GIF saveformat., Free Online XLSM to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

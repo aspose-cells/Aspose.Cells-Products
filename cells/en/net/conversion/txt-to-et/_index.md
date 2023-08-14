@@ -1,7 +1,7 @@
 ---
-title: TXT to ET - Convert TXT to ET in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to ET in C#. C# TXT to ET format. Save TXT as ET in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to ET., Free Online Convert TXT to ET in C#., C# Convert TXT to ET., TXT to ET Converter]
+title: TXT to ET - Convert TXT to ET files C#
+description: Aspose Excel. Free Online Convert TXT to ET saveformat. C# TXT to ET format. Save TXT as ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to ET saveformat., Free Online TXT to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

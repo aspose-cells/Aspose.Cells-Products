@@ -1,7 +1,7 @@
 ---
-title: HTML to PRN - Convert HTML to PRN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTML to PRN in C#. C# HTML to PRN format. Save HTML as PRN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to PRN., Free Online Convert HTML to PRN in C#., C# Convert HTML to PRN., HTML to PRN Converter]
+title: HTML to PRN - Convert HTML to PRN files C#
+description: Aspose Excel. Free Online Convert HTML to PRN saveformat. C# HTML to PRN format. Save HTML as PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to PRN saveformat., Free Online HTML to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

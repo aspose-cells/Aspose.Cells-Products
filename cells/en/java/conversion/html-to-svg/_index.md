@@ -1,7 +1,7 @@
 ---
-title: HTML to SVG - Convert HTML to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTML to SVG in Java. Java HTML to SVG format. Save HTML as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to SVG., Free Online Convert HTML to SVG in Java., Java Convert HTML to SVG., HTML to SVG Converter]
+title: HTML to SVG - Convert HTML to SVG files Java
+description: Aspose Excel. Free Online Convert HTML to SVG saveformat. Java HTML to SVG format. Save HTML as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to SVG saveformat., Free Online HTML to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

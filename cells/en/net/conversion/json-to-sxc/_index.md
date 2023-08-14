@@ -1,7 +1,7 @@
 ---
-title: JSON to SXC - Convert JSON to SXC in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JSON to SXC in C#. C# JSON to SXC format. Save JSON as SXC in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JSON to SXC., Free Online Convert JSON to SXC in C#., C# Convert JSON to SXC., JSON to SXC Converter]
+title: JSON to SXC - Convert JSON to SXC files C#
+description: Aspose Excel. Free Online Convert JSON to SXC saveformat. C# JSON to SXC format. Save JSON as SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JSON to SXC saveformat., Free Online JSON to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

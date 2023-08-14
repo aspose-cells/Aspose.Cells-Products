@@ -1,7 +1,7 @@
 ---
-title: PNG to XLTX - Convert PNG to XLTX in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to XLTX in C#. C# PNG to XLTX format. Save PNG as XLTX in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to XLTX., Free Online Convert PNG to XLTX in C#., C# Convert PNG to XLTX., PNG to XLTX Converter]
+title: PNG to XLTX - Convert PNG to XLTX files C#
+description: Aspose Excel. Free Online Convert PNG to XLTX saveformat. C# PNG to XLTX format. Save PNG as XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to XLTX saveformat., Free Online PNG to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

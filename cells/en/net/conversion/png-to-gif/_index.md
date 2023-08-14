@@ -1,7 +1,7 @@
 ---
-title: PNG to GIF - Convert PNG to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to GIF in C#. C# PNG to GIF format. Save PNG as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to GIF., Free Online Convert PNG to GIF in C#., C# Convert PNG to GIF., PNG to GIF Converter]
+title: PNG to GIF - Convert PNG to GIF files C#
+description: Aspose Excel. Free Online Convert PNG to GIF saveformat. C# PNG to GIF format. Save PNG as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to GIF saveformat., Free Online PNG to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

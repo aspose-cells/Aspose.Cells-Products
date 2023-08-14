@@ -1,7 +1,7 @@
 ---
-title: XLSM to SQL - Convert XLSM to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSM to SQL in C#. C# XLSM to SQL format. Save XLSM as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSM to SQL., Free Online Convert XLSM to SQL in C#., C# Convert XLSM to SQL., XLSM to SQL Converter]
+title: XLSM to SQL - Convert XLSM to SQL files C#
+description: Aspose Excel. Free Online Convert XLSM to SQL saveformat. C# XLSM to SQL format. Save XLSM as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSM to SQL saveformat., Free Online XLSM to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

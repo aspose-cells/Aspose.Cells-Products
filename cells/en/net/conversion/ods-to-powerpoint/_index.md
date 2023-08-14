@@ -1,7 +1,7 @@
 ---
-title: ODS to POWERPOINT - Convert ODS to POWERPOINT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert ODS to POWERPOINT in C#. C# ODS to POWERPOINT format. Save ODS as POWERPOINT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to POWERPOINT., Free Online Convert ODS to POWERPOINT in C#., C# Convert ODS to POWERPOINT., ODS to POWERPOINT Converter]
+title: ODS to POWERPOINT - Convert ODS to POWERPOINT files C#
+description: Aspose Excel. Free Online Convert ODS to POWERPOINT saveformat. C# ODS to POWERPOINT format. Save ODS as POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to POWERPOINT saveformat., Free Online ODS to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

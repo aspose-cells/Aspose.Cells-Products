@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to DIF - Convert NUMBERS to DIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert NUMBERS to DIF in Java. Java NUMBERS to DIF format. Save NUMBERS as DIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java NUMBERS to DIF., Free Online Convert NUMBERS to DIF in Java., Java Convert NUMBERS to DIF., NUMBERS to DIF Converter]
+title: NUMBERS to DIF - Convert NUMBERS to DIF files Java
+description: Aspose Excel. Free Online Convert NUMBERS to DIF saveformat. Java NUMBERS to DIF format. Save NUMBERS as DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java NUMBERS to DIF saveformat., Free Online NUMBERS to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

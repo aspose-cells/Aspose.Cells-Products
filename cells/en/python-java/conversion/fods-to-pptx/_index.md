@@ -1,7 +1,7 @@
 ---
-title: FODS to PPTX - Convert FODS to PPTX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to PPTX in Python. Python FODS to PPTX format. Save FODS as PPTX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to PPTX., Free Online Convert FODS to PPTX in Python., Python Convert FODS to PPTX., FODS to PPTX Converter]
+title: FODS to PPTX - Convert FODS to PPTX files Python
+description: Aspose Excel. Free Online Convert FODS to PPTX saveformat. Python FODS to PPTX format. Save FODS as PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to PPTX saveformat., Free Online FODS to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

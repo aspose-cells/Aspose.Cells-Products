@@ -1,7 +1,7 @@
 ---
-title: XLSX to SVG - Convert XLSX to SVG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to SVG in C#. C# XLSX to SVG format. Save XLSX as SVG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to SVG., Free Online Convert XLSX to SVG in C#., C# Convert XLSX to SVG., XLSX to SVG Converter]
+title: XLSX to SVG - Convert XLSX to SVG files C#
+description: Aspose Excel. Free Online Convert XLSX to SVG saveformat. C# XLSX to SVG format. Save XLSX as SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to SVG saveformat., Free Online XLSX to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

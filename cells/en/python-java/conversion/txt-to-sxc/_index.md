@@ -1,7 +1,7 @@
 ---
-title: TXT to SXC - Convert TXT to SXC in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to SXC in Python. Python TXT to SXC format. Save TXT as SXC in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to SXC., Free Online Convert TXT to SXC in Python., Python Convert TXT to SXC., TXT to SXC Converter]
+title: TXT to SXC - Convert TXT to SXC files Python
+description: Aspose Excel. Free Online Convert TXT to SXC saveformat. Python TXT to SXC format. Save TXT as SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to SXC saveformat., Free Online TXT to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

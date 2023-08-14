@@ -1,7 +1,7 @@
 ---
-title: OTS to GIF - Convert OTS to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to GIF in C#. C# OTS to GIF format. Save OTS as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to GIF., Free Online Convert OTS to GIF in C#., C# Convert OTS to GIF., OTS to GIF Converter]
+title: OTS to GIF - Convert OTS to GIF files C#
+description: Aspose Excel. Free Online Convert OTS to GIF saveformat. C# OTS to GIF format. Save OTS as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to GIF saveformat., Free Online OTS to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

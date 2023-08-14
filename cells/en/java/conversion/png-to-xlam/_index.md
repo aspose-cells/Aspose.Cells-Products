@@ -1,7 +1,7 @@
 ---
-title: PNG to XLAM - Convert PNG to XLAM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to XLAM in Java. Java PNG to XLAM format. Save PNG as XLAM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to XLAM., Free Online Convert PNG to XLAM in Java., Java Convert PNG to XLAM., PNG to XLAM Converter]
+title: PNG to XLAM - Convert PNG to XLAM files Java
+description: Aspose Excel. Free Online Convert PNG to XLAM saveformat. Java PNG to XLAM format. Save PNG as XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to XLAM saveformat., Free Online PNG to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

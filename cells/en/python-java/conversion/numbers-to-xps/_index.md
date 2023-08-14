@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to XPS - Convert NUMBERS to XPS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert NUMBERS to XPS in Python. Python NUMBERS to XPS format. Save NUMBERS as XPS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python NUMBERS to XPS., Free Online Convert NUMBERS to XPS in Python., Python Convert NUMBERS to XPS., NUMBERS to XPS Converter]
+title: NUMBERS to XPS - Convert NUMBERS to XPS files Python
+description: Aspose Excel. Free Online Convert NUMBERS to XPS saveformat. Python NUMBERS to XPS format. Save NUMBERS as XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python NUMBERS to XPS saveformat., Free Online NUMBERS to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

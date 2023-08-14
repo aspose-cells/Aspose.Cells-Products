@@ -1,7 +1,7 @@
 ---
-title: MHTML to XLSB - Convert MHTML to XLSB in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHTML to XLSB in C++. C++ MHTML to XLSB format. Save MHTML as XLSB in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to XLSB., Free Online Convert MHTML to XLSB in C++., C++ Convert MHTML to XLSB., MHTML to XLSB Converter]
+title: MHTML to XLSB - Convert MHTML to XLSB files C++
+description: Aspose Excel. Free Online Convert MHTML to XLSB saveformat. C++ MHTML to XLSB format. Save MHTML as XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to XLSB saveformat., Free Online MHTML to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

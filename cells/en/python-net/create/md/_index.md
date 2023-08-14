@@ -1,6 +1,6 @@
 ---
 title: Create MD - Create MD file in Python
-description: Python Aspose Cells. Python Create MD File. Create MD Python. Python MD Creater. Create MD in Python. Generate MD file using Python.
+description: Aspose Excel. Python Create MD File. Create MD Python. Python MD Creater. Create MD in Python. Generate MD file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create MD Python., Python MD Creater., Create MD file in Python., Generate MD file in Python]
 ---
 

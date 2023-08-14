@@ -1,6 +1,6 @@
 ---
 title: Create SVG - Create SVG file in Python
-description: Python Aspose Cells. Python Create SVG File. Create SVG Python. Python SVG Creater. Create SVG in Python. Generate SVG file using Python.
+description: Aspose Excel. Python Create SVG File. Create SVG Python. Python SVG Creater. Create SVG in Python. Generate SVG file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create SVG Python., Python SVG Creater., Create SVG file in Python., Generate SVG file in Python]
 ---
 

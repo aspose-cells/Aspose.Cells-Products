@@ -1,7 +1,7 @@
 ---
-title: XLSX to CSV - Convert XLSX to CSV in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to CSV in Java. Java XLSX to CSV format. Save XLSX as CSV in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to CSV., Free Online Convert XLSX to CSV in Java., Java Convert XLSX to CSV., XLSX to CSV Converter]
+title: XLSX to CSV - Convert XLSX to CSV files Java
+description: Aspose Excel. Free Online Convert XLSX to CSV saveformat. Java XLSX to CSV format. Save XLSX as CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to CSV saveformat., Free Online XLSX to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

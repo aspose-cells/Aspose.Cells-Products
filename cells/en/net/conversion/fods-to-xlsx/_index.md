@@ -1,7 +1,7 @@
 ---
-title: FODS to XLSX - Convert FODS to XLSX in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to XLSX in C#. C# FODS to XLSX format. Save FODS as XLSX in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to XLSX., Free Online Convert FODS to XLSX in C#., C# Convert FODS to XLSX., FODS to XLSX Converter]
+title: FODS to XLSX - Convert FODS to XLSX files C#
+description: Aspose Excel. Free Online Convert FODS to XLSX saveformat. C# FODS to XLSX format. Save FODS as XLSX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to XLSX saveformat., Free Online FODS to XLSX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to MHTML - Convert JPG to MHTML in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to MHTML in Java. Java JPG to MHTML format. Save JPG as MHTML in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to MHTML., Free Online Convert JPG to MHTML in Java., Java Convert JPG to MHTML., JPG to MHTML Converter]
+title: JPG to MHTML - Convert JPG to MHTML files Java
+description: Aspose Excel. Free Online Convert JPG to MHTML saveformat. Java JPG to MHTML format. Save JPG as MHTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to MHTML saveformat., Free Online JPG to MHTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

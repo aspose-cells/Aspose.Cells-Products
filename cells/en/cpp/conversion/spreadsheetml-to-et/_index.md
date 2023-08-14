@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to ET - Convert SPREADSHEETML to ET in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SPREADSHEETML to ET in C++. C++ SPREADSHEETML to ET format. Save SPREADSHEETML as ET in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to ET., Free Online Convert SPREADSHEETML to ET in C++., C++ Convert SPREADSHEETML to ET., SPREADSHEETML to ET Converter]
+title: SPREADSHEETML to ET - Convert SPREADSHEETML to ET files C++
+description: Aspose Excel. Free Online Convert SPREADSHEETML to ET saveformat. C++ SPREADSHEETML to ET format. Save SPREADSHEETML as ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to ET saveformat., Free Online SPREADSHEETML to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

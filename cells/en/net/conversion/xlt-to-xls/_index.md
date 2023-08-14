@@ -1,7 +1,7 @@
 ---
-title: XLT to XLS - Convert XLT to XLS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLT to XLS in C#. C# XLT to XLS format. Save XLT as XLS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to XLS., Free Online Convert XLT to XLS in C#., C# Convert XLT to XLS., XLT to XLS Converter]
+title: XLT to XLS - Convert XLT to XLS files C#
+description: Aspose Excel. Free Online Convert XLT to XLS saveformat. C# XLT to XLS format. Save XLT as XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to XLS saveformat., Free Online XLT to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

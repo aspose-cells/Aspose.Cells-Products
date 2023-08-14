@@ -1,7 +1,7 @@
 ---
-title: MHT to SVG - Convert MHT to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to SVG in Java. Java MHT to SVG format. Save MHT as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to SVG., Free Online Convert MHT to SVG in Java., Java Convert MHT to SVG., MHT to SVG Converter]
+title: MHT to SVG - Convert MHT to SVG files Java
+description: Aspose Excel. Free Online Convert MHT to SVG saveformat. Java MHT to SVG format. Save MHT as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to SVG saveformat., Free Online MHT to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

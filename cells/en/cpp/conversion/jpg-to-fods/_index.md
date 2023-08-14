@@ -1,7 +1,7 @@
 ---
-title: JPG to FODS - Convert JPG to FODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to FODS in C++. C++ JPG to FODS format. Save JPG as FODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to FODS., Free Online Convert JPG to FODS in C++., C++ Convert JPG to FODS., JPG to FODS Converter]
+title: JPG to FODS - Convert JPG to FODS files C++
+description: Aspose Excel. Free Online Convert JPG to FODS saveformat. C++ JPG to FODS format. Save JPG as FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to FODS saveformat., Free Online JPG to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

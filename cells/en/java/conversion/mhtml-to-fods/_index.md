@@ -1,7 +1,7 @@
 ---
-title: MHTML to FODS - Convert MHTML to FODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHTML to FODS in Java. Java MHTML to FODS format. Save MHTML as FODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to FODS., Free Online Convert MHTML to FODS in Java., Java Convert MHTML to FODS., MHTML to FODS Converter]
+title: MHTML to FODS - Convert MHTML to FODS files Java
+description: Aspose Excel. Free Online Convert MHTML to FODS saveformat. Java MHTML to FODS format. Save MHTML as FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to FODS saveformat., Free Online MHTML to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

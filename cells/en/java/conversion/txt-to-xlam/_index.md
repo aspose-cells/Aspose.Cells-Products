@@ -1,7 +1,7 @@
 ---
-title: TXT to XLAM - Convert TXT to XLAM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to XLAM in Java. Java TXT to XLAM format. Save TXT as XLAM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to XLAM., Free Online Convert TXT to XLAM in Java., Java Convert TXT to XLAM., TXT to XLAM Converter]
+title: TXT to XLAM - Convert TXT to XLAM files Java
+description: Aspose Excel. Free Online Convert TXT to XLAM saveformat. Java TXT to XLAM format. Save TXT as XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to XLAM saveformat., Free Online TXT to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create SPREADSHEETML - Create SPREADSHEETML file in Python
-description: Python Aspose Cells. Python Create SPREADSHEETML File. Create SPREADSHEETML Python. Python SPREADSHEETML Creater. Create SPREADSHEETML in Python. Generate SPREADSHEETML file using Python.
+description: Aspose Excel. Python Create SPREADSHEETML File. Create SPREADSHEETML Python. Python SPREADSHEETML Creater. Create SPREADSHEETML in Python. Generate SPREADSHEETML file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create SPREADSHEETML Python., Python SPREADSHEETML Creater., Create SPREADSHEETML file in Python., Generate SPREADSHEETML file in Python]
 ---
 

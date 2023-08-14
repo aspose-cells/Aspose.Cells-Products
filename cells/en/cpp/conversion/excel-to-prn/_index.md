@@ -1,7 +1,7 @@
 ---
-title: EXCEL to PRN - Convert EXCEL to PRN in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to PRN in C++. C++ EXCEL to PRN format. Save EXCEL as PRN in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to PRN., Free Online Convert EXCEL to PRN in C++., C++ Convert EXCEL to PRN., EXCEL to PRN Converter]
+title: EXCEL to PRN - Convert EXCEL to PRN files C++
+description: Aspose Excel. Free Online Convert EXCEL to PRN saveformat. C++ EXCEL to PRN format. Save EXCEL as PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to PRN saveformat., Free Online EXCEL to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

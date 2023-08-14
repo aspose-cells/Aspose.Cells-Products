@@ -1,7 +1,7 @@
 ---
-title: HTML to OTS - Convert HTML to OTS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTML to OTS in Java. Java HTML to OTS format. Save HTML as OTS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to OTS., Free Online Convert HTML to OTS in Java., Java Convert HTML to OTS., HTML to OTS Converter]
+title: HTML to OTS - Convert HTML to OTS files Java
+description: Aspose Excel. Free Online Convert HTML to OTS saveformat. Java HTML to OTS format. Save HTML as OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTML to OTS saveformat., Free Online HTML to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

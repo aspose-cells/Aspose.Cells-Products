@@ -1,7 +1,7 @@
 ---
-title: HTML to XLS - Convert HTML to XLS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to XLS in Python. Python HTML to XLS format. Save HTML as XLS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to XLS., Free Online Convert HTML to XLS in Python., Python Convert HTML to XLS., HTML to XLS Converter]
+title: HTML to XLS - Convert HTML to XLS files Python
+description: Aspose Excel. Free Online Convert HTML to XLS saveformat. Python HTML to XLS format. Save HTML as XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to XLS saveformat., Free Online HTML to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

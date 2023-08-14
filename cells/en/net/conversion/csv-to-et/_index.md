@@ -1,7 +1,7 @@
 ---
-title: CSV to ET - Convert CSV to ET in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert CSV to ET in C#. C# CSV to ET format. Save CSV as ET in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# CSV to ET., Free Online Convert CSV to ET in C#., C# Convert CSV to ET., CSV to ET Converter]
+title: CSV to ET - Convert CSV to ET files C#
+description: Aspose Excel. Free Online Convert CSV to ET saveformat. C# CSV to ET format. Save CSV as ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# CSV to ET saveformat., Free Online CSV to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

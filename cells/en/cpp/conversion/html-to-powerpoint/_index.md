@@ -1,7 +1,7 @@
 ---
-title: HTML to POWERPOINT - Convert HTML to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTML to POWERPOINT in C++. C++ HTML to POWERPOINT format. Save HTML as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to POWERPOINT., Free Online Convert HTML to POWERPOINT in C++., C++ Convert HTML to POWERPOINT., HTML to POWERPOINT Converter]
+title: HTML to POWERPOINT - Convert HTML to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert HTML to POWERPOINT saveformat. C++ HTML to POWERPOINT format. Save HTML as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to POWERPOINT saveformat., Free Online HTML to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

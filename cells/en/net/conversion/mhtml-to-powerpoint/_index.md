@@ -1,7 +1,7 @@
 ---
-title: MHTML to POWERPOINT - Convert MHTML to POWERPOINT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHTML to POWERPOINT in C#. C# MHTML to POWERPOINT format. Save MHTML as POWERPOINT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to POWERPOINT., Free Online Convert MHTML to POWERPOINT in C#., C# Convert MHTML to POWERPOINT., MHTML to POWERPOINT Converter]
+title: MHTML to POWERPOINT - Convert MHTML to POWERPOINT files C#
+description: Aspose Excel. Free Online Convert MHTML to POWERPOINT saveformat. C# MHTML to POWERPOINT format. Save MHTML as POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to POWERPOINT saveformat., Free Online MHTML to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

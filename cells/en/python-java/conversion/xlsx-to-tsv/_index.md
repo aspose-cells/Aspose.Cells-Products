@@ -1,7 +1,7 @@
 ---
-title: XLSX to TSV - Convert XLSX to TSV in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSX to TSV in Python. Python XLSX to TSV format. Save XLSX as TSV in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to TSV., Free Online Convert XLSX to TSV in Python., Python Convert XLSX to TSV., XLSX to TSV Converter]
+title: XLSX to TSV - Convert XLSX to TSV files Python
+description: Aspose Excel. Free Online Convert XLSX to TSV saveformat. Python XLSX to TSV format. Save XLSX as TSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to TSV saveformat., Free Online XLSX to TSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

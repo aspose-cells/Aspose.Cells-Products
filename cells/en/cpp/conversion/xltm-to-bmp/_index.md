@@ -1,7 +1,7 @@
 ---
-title: XLTM to BMP - Convert XLTM to BMP in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to BMP in C++. C++ XLTM to BMP format. Save XLTM as BMP in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to BMP., Free Online Convert XLTM to BMP in C++., C++ Convert XLTM to BMP., XLTM to BMP Converter]
+title: XLTM to BMP - Convert XLTM to BMP files C++
+description: Aspose Excel. Free Online Convert XLTM to BMP saveformat. C++ XLTM to BMP format. Save XLTM as BMP in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to BMP saveformat., Free Online XLTM to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

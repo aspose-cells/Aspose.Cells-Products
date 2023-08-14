@@ -1,7 +1,7 @@
 ---
-title: SXC to GIF - Convert SXC to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to GIF in C#. C# SXC to GIF format. Save SXC as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to GIF., Free Online Convert SXC to GIF in C#., C# Convert SXC to GIF., SXC to GIF Converter]
+title: SXC to GIF - Convert SXC to GIF files C#
+description: Aspose Excel. Free Online Convert SXC to GIF saveformat. C# SXC to GIF format. Save SXC as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to GIF saveformat., Free Online SXC to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

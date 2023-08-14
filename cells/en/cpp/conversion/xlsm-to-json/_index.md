@@ -1,7 +1,7 @@
 ---
-title: XLSM to JSON - Convert XLSM to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to JSON in C++. C++ XLSM to JSON format. Save XLSM as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to JSON., Free Online Convert XLSM to JSON in C++., C++ Convert XLSM to JSON., XLSM to JSON Converter]
+title: XLSM to JSON - Convert XLSM to JSON files C++
+description: Aspose Excel. Free Online Convert XLSM to JSON saveformat. C++ XLSM to JSON format. Save XLSM as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to JSON saveformat., Free Online XLSM to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

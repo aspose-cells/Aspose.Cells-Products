@@ -1,7 +1,7 @@
 ---
-title: XLSX to PRN - Convert XLSX to PRN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to PRN in C#. C# XLSX to PRN format. Save XLSX as PRN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to PRN., Free Online Convert XLSX to PRN in C#., C# Convert XLSX to PRN., XLSX to PRN Converter]
+title: XLSX to PRN - Convert XLSX to PRN files C#
+description: Aspose Excel. Free Online Convert XLSX to PRN saveformat. C# XLSX to PRN format. Save XLSX as PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to PRN saveformat., Free Online XLSX to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

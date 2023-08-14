@@ -1,6 +1,6 @@
 ---
 title: Create TIFF - Create TIFF file in Java
-description: Java Aspose Cells. Java Create TIFF File. Create TIFF Java. Java TIFF Creater. Create TIFF in Java. Generate TIFF file using Java.
+description: Aspose Excel. Java Create TIFF File. Create TIFF Java. Java TIFF Creater. Create TIFF in Java. Generate TIFF file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create TIFF Java., Java TIFF Creater., Create TIFF file in Java., Generate TIFF file in Java]
 ---
 

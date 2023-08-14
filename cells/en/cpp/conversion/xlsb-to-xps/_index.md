@@ -1,7 +1,7 @@
 ---
-title: XLSB to XPS - Convert XLSB to XPS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to XPS in C++. C++ XLSB to XPS format. Save XLSB as XPS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XPS., Free Online Convert XLSB to XPS in C++., C++ Convert XLSB to XPS., XLSB to XPS Converter]
+title: XLSB to XPS - Convert XLSB to XPS files C++
+description: Aspose Excel. Free Online Convert XLSB to XPS saveformat. C++ XLSB to XPS format. Save XLSB as XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XPS saveformat., Free Online XLSB to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

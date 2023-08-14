@@ -1,6 +1,6 @@
 ---
 title: Create DIF - Create DIF file in Python
-description: Python Aspose Cells. Python Create DIF File. Create DIF Python. Python DIF Creater. Create DIF in Python. Generate DIF file using Python.
+description: Aspose Excel. Python Create DIF File. Create DIF Python. Python DIF Creater. Create DIF in Python. Generate DIF file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create DIF Python., Python DIF Creater., Create DIF file in Python., Generate DIF file in Python]
 ---
 

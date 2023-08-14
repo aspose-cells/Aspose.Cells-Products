@@ -1,7 +1,7 @@
 ---
-title: TXT to EMF - Convert TXT to EMF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to EMF in Java. Java TXT to EMF format. Save TXT as EMF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to EMF., Free Online Convert TXT to EMF in Java., Java Convert TXT to EMF., TXT to EMF Converter]
+title: TXT to EMF - Convert TXT to EMF files Java
+description: Aspose Excel. Free Online Convert TXT to EMF saveformat. Java TXT to EMF format. Save TXT as EMF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to EMF saveformat., Free Online TXT to EMF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

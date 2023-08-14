@@ -1,7 +1,7 @@
 ---
-title: XLSM to XLTM - Convert XLSM to XLTM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSM to XLTM in Java. Java XLSM to XLTM format. Save XLSM as XLTM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to XLTM., Free Online Convert XLSM to XLTM in Java., Java Convert XLSM to XLTM., XLSM to XLTM Converter]
+title: XLSM to XLTM - Convert XLSM to XLTM files Java
+description: Aspose Excel. Free Online Convert XLSM to XLTM saveformat. Java XLSM to XLTM format. Save XLSM as XLTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to XLTM saveformat., Free Online XLSM to XLTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

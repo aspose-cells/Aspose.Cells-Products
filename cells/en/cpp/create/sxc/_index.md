@@ -1,6 +1,6 @@
 ---
 title: Create SXC - Create SXC file in C++
-description: C++ Aspose Cells. C++ Create SXC File. Create SXC C++. C++ SXC Creater. Create SXC in C++. Generate SXC file using C++.
+description: Aspose Excel. C++ Create SXC File. Create SXC C++. C++ SXC Creater. Create SXC in C++. Generate SXC file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create SXC C++., C++ SXC Creater., Create SXC file in C++., Generate SXC file in C++]
 ---
 

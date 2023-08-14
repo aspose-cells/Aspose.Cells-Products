@@ -1,7 +1,7 @@
 ---
-title: OTS to GIF - Convert OTS to GIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert OTS to GIF in Java. Java OTS to GIF format. Save OTS as GIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to GIF., Free Online Convert OTS to GIF in Java., Java Convert OTS to GIF., OTS to GIF Converter]
+title: OTS to GIF - Convert OTS to GIF files Java
+description: Aspose Excel. Free Online Convert OTS to GIF saveformat. Java OTS to GIF format. Save OTS as GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to GIF saveformat., Free Online OTS to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

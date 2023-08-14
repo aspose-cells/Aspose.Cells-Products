@@ -1,7 +1,7 @@
 ---
-title: XLSM to OTS - Convert XLSM to OTS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to OTS in C++. C++ XLSM to OTS format. Save XLSM as OTS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to OTS., Free Online Convert XLSM to OTS in C++., C++ Convert XLSM to OTS., XLSM to OTS Converter]
+title: XLSM to OTS - Convert XLSM to OTS files C++
+description: Aspose Excel. Free Online Convert XLSM to OTS saveformat. C++ XLSM to OTS format. Save XLSM as OTS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to OTS saveformat., Free Online XLSM to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

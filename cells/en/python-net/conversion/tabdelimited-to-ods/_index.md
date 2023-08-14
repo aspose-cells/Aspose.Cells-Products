@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to ODS - Convert TABDELIMITED to ODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to ODS in Python. Python TABDELIMITED to ODS format. Save TABDELIMITED as ODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to ODS., Free Online Convert TABDELIMITED to ODS in Python., Python Convert TABDELIMITED to ODS., TABDELIMITED to ODS Converter]
+title: TABDELIMITED to ODS - Convert TABDELIMITED to ODS files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to ODS saveformat. Python TABDELIMITED to ODS format. Save TABDELIMITED as ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to ODS saveformat., Free Online TABDELIMITED to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

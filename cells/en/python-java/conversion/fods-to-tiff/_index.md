@@ -1,7 +1,7 @@
 ---
-title: FODS to TIFF - Convert FODS to TIFF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to TIFF in Python. Python FODS to TIFF format. Save FODS as TIFF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to TIFF., Free Online Convert FODS to TIFF in Python., Python Convert FODS to TIFF., FODS to TIFF Converter]
+title: FODS to TIFF - Convert FODS to TIFF files Python
+description: Aspose Excel. Free Online Convert FODS to TIFF saveformat. Python FODS to TIFF format. Save FODS as TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to TIFF saveformat., Free Online FODS to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

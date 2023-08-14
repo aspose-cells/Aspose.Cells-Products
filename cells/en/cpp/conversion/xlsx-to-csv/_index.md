@@ -1,7 +1,7 @@
 ---
-title: XLSX to CSV - Convert XLSX to CSV in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to CSV in C++. C++ XLSX to CSV format. Save XLSX as CSV in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to CSV., Free Online Convert XLSX to CSV in C++., C++ Convert XLSX to CSV., XLSX to CSV Converter]
+title: XLSX to CSV - Convert XLSX to CSV files C++
+description: Aspose Excel. Free Online Convert XLSX to CSV saveformat. C++ XLSX to CSV format. Save XLSX as CSV in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to CSV saveformat., Free Online XLSX to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

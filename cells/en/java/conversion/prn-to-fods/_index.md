@@ -1,7 +1,7 @@
 ---
-title: PRN to FODS - Convert PRN to FODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PRN to FODS in Java. Java PRN to FODS format. Save PRN as FODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to FODS., Free Online Convert PRN to FODS in Java., Java Convert PRN to FODS., PRN to FODS Converter]
+title: PRN to FODS - Convert PRN to FODS files Java
+description: Aspose Excel. Free Online Convert PRN to FODS saveformat. Java PRN to FODS format. Save PRN as FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to FODS saveformat., Free Online PRN to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

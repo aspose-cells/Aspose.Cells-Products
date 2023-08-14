@@ -1,7 +1,7 @@
 ---
-title: HTM to FODS - Convert HTM to FODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to FODS in Java. Java HTM to FODS format. Save HTM as FODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to FODS., Free Online Convert HTM to FODS in Java., Java Convert HTM to FODS., HTM to FODS Converter]
+title: HTM to FODS - Convert HTM to FODS files Java
+description: Aspose Excel. Free Online Convert HTM to FODS saveformat. Java HTM to FODS format. Save HTM as FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to FODS saveformat., Free Online HTM to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

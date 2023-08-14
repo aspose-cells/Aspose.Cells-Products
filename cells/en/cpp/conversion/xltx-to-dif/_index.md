@@ -1,7 +1,7 @@
 ---
-title: XLTX to DIF - Convert XLTX to DIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to DIF in C++. C++ XLTX to DIF format. Save XLTX as DIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to DIF., Free Online Convert XLTX to DIF in C++., C++ Convert XLTX to DIF., XLTX to DIF Converter]
+title: XLTX to DIF - Convert XLTX to DIF files C++
+description: Aspose Excel. Free Online Convert XLTX to DIF saveformat. C++ XLTX to DIF format. Save XLTX as DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to DIF saveformat., Free Online XLTX to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

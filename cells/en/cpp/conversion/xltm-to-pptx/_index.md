@@ -1,7 +1,7 @@
 ---
-title: XLTM to PPTX - Convert XLTM to PPTX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to PPTX in C++. C++ XLTM to PPTX format. Save XLTM as PPTX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to PPTX., Free Online Convert XLTM to PPTX in C++., C++ Convert XLTM to PPTX., XLTM to PPTX Converter]
+title: XLTM to PPTX - Convert XLTM to PPTX files C++
+description: Aspose Excel. Free Online Convert XLTM to PPTX saveformat. C++ XLTM to PPTX format. Save XLTM as PPTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to PPTX saveformat., Free Online XLTM to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

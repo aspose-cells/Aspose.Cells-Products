@@ -1,6 +1,6 @@
 ---
 title: Create ET - Create ET file in Python
-description: Python Aspose Cells. Python Create ET File. Create ET Python. Python ET Creater. Create ET in Python. Generate ET file using Python.
+description: Aspose Excel. Python Create ET File. Create ET Python. Python ET Creater. Create ET in Python. Generate ET file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create ET Python., Python ET Creater., Create ET file in Python., Generate ET file in Python]
 ---
 

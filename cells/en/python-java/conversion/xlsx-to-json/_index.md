@@ -1,7 +1,7 @@
 ---
-title: XLSX to JSON - Convert XLSX to JSON in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSX to JSON in Python. Python XLSX to JSON format. Save XLSX as JSON in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to JSON., Free Online Convert XLSX to JSON in Python., Python Convert XLSX to JSON., XLSX to JSON Converter]
+title: XLSX to JSON - Convert XLSX to JSON files Python
+description: Aspose Excel. Free Online Convert XLSX to JSON saveformat. Python XLSX to JSON format. Save XLSX as JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to JSON saveformat., Free Online XLSX to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

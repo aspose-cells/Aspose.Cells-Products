@@ -1,7 +1,7 @@
 ---
-title: XLTX to SQL - Convert XLTX to SQL in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to SQL in Python. Python XLTX to SQL format. Save XLTX as SQL in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to SQL., Free Online Convert XLTX to SQL in Python., Python Convert XLTX to SQL., XLTX to SQL Converter]
+title: XLTX to SQL - Convert XLTX to SQL files Python
+description: Aspose Excel. Free Online Convert XLTX to SQL saveformat. Python XLTX to SQL format. Save XLTX as SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to SQL saveformat., Free Online XLTX to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

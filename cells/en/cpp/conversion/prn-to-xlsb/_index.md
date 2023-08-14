@@ -1,7 +1,7 @@
 ---
-title: PRN to XLSB - Convert PRN to XLSB in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PRN to XLSB in C++. C++ PRN to XLSB format. Save PRN as XLSB in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to XLSB., Free Online Convert PRN to XLSB in C++., C++ Convert PRN to XLSB., PRN to XLSB Converter]
+title: PRN to XLSB - Convert PRN to XLSB files C++
+description: Aspose Excel. Free Online Convert PRN to XLSB saveformat. C++ PRN to XLSB format. Save PRN as XLSB in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to XLSB saveformat., Free Online PRN to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

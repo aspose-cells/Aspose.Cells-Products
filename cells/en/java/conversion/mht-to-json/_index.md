@@ -1,7 +1,7 @@
 ---
-title: MHT to JSON - Convert MHT to JSON in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to JSON in Java. Java MHT to JSON format. Save MHT as JSON in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to JSON., Free Online Convert MHT to JSON in Java., Java Convert MHT to JSON., MHT to JSON Converter]
+title: MHT to JSON - Convert MHT to JSON files Java
+description: Aspose Excel. Free Online Convert MHT to JSON saveformat. Java MHT to JSON format. Save MHT as JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to JSON saveformat., Free Online MHT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

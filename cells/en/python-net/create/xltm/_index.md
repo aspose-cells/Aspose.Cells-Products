@@ -1,6 +1,6 @@
 ---
 title: Create XLTM - Create XLTM file in Python
-description: Python Aspose Cells. Python Create XLTM File. Create XLTM Python. Python XLTM Creater. Create XLTM in Python. Generate XLTM file using Python.
+description: Aspose Excel. Python Create XLTM File. Create XLTM Python. Python XLTM Creater. Create XLTM in Python. Generate XLTM file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create XLTM Python., Python XLTM Creater., Create XLTM file in Python., Generate XLTM file in Python]
 ---
 

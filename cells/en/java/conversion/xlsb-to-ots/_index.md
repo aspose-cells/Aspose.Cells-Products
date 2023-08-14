@@ -1,7 +1,7 @@
 ---
-title: XLSB to OTS - Convert XLSB to OTS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to OTS in Java. Java XLSB to OTS format. Save XLSB as OTS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to OTS., Free Online Convert XLSB to OTS in Java., Java Convert XLSB to OTS., XLSB to OTS Converter]
+title: XLSB to OTS - Convert XLSB to OTS files Java
+description: Aspose Excel. Free Online Convert XLSB to OTS saveformat. Java XLSB to OTS format. Save XLSB as OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to OTS saveformat., Free Online XLSB to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

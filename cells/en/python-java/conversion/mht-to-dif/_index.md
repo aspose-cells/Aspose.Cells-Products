@@ -1,7 +1,7 @@
 ---
-title: MHT to DIF - Convert MHT to DIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to DIF in Python. Python MHT to DIF format. Save MHT as DIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to DIF., Free Online Convert MHT to DIF in Python., Python Convert MHT to DIF., MHT to DIF Converter]
+title: MHT to DIF - Convert MHT to DIF files Python
+description: Aspose Excel. Free Online Convert MHT to DIF saveformat. Python MHT to DIF format. Save MHT as DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to DIF saveformat., Free Online MHT to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

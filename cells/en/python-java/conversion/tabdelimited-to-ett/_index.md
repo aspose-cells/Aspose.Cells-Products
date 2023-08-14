@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to ETT - Convert TABDELIMITED to ETT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to ETT in Python. Python TABDELIMITED to ETT format. Save TABDELIMITED as ETT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to ETT., Free Online Convert TABDELIMITED to ETT in Python., Python Convert TABDELIMITED to ETT., TABDELIMITED to ETT Converter]
+title: TABDELIMITED to ETT - Convert TABDELIMITED to ETT files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to ETT saveformat. Python TABDELIMITED to ETT format. Save TABDELIMITED as ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to ETT saveformat., Free Online TABDELIMITED to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: EXCEL to GIF - Convert EXCEL to GIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to GIF in Java. Java EXCEL to GIF format. Save EXCEL as GIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to GIF., Free Online Convert EXCEL to GIF in Java., Java Convert EXCEL to GIF., EXCEL to GIF Converter]
+title: EXCEL to GIF - Convert EXCEL to GIF files Java
+description: Aspose Excel. Free Online Convert EXCEL to GIF saveformat. Java EXCEL to GIF format. Save EXCEL as GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to GIF saveformat., Free Online EXCEL to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

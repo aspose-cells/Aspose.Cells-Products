@@ -1,7 +1,7 @@
 ---
-title: OTS to CSV - Convert OTS to CSV in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert OTS to CSV in Java. Java OTS to CSV format. Save OTS as CSV in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to CSV., Free Online Convert OTS to CSV in Java., Java Convert OTS to CSV., OTS to CSV Converter]
+title: OTS to CSV - Convert OTS to CSV files Java
+description: Aspose Excel. Free Online Convert OTS to CSV saveformat. Java OTS to CSV format. Save OTS as CSV in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to CSV saveformat., Free Online OTS to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

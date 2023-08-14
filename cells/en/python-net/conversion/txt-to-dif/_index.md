@@ -1,7 +1,7 @@
 ---
-title: TXT to DIF - Convert TXT to DIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to DIF in Python. Python TXT to DIF format. Save TXT as DIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to DIF., Free Online Convert TXT to DIF in Python., Python Convert TXT to DIF., TXT to DIF Converter]
+title: TXT to DIF - Convert TXT to DIF files Python
+description: Aspose Excel. Free Online Convert TXT to DIF saveformat. Python TXT to DIF format. Save TXT as DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to DIF saveformat., Free Online TXT to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: HTM to SVG - Convert HTM to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to SVG in Java. Java HTM to SVG format. Save HTM as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to SVG., Free Online Convert HTM to SVG in Java., Java Convert HTM to SVG., HTM to SVG Converter]
+title: HTM to SVG - Convert HTM to SVG files Java
+description: Aspose Excel. Free Online Convert HTM to SVG saveformat. Java HTM to SVG format. Save HTM as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to SVG saveformat., Free Online HTM to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

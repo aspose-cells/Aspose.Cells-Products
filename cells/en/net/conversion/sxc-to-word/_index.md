@@ -1,7 +1,7 @@
 ---
-title: SXC to WORD - Convert SXC to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to WORD in C#. C# SXC to WORD format. Save SXC as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to WORD., Free Online Convert SXC to WORD in C#., C# Convert SXC to WORD., SXC to WORD Converter]
+title: SXC to WORD - Convert SXC to WORD files C#
+description: Aspose Excel. Free Online Convert SXC to WORD saveformat. C# SXC to WORD format. Save SXC as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to WORD saveformat., Free Online SXC to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

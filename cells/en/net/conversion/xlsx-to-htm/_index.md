@@ -1,7 +1,7 @@
 ---
-title: XLSX to HTM - Convert XLSX to HTM in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to HTM in C#. C# XLSX to HTM format. Save XLSX as HTM in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to HTM., Free Online Convert XLSX to HTM in C#., C# Convert XLSX to HTM., XLSX to HTM Converter]
+title: XLSX to HTM - Convert XLSX to HTM files C#
+description: Aspose Excel. Free Online Convert XLSX to HTM saveformat. C# XLSX to HTM format. Save XLSX as HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to HTM saveformat., Free Online XLSX to HTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create JSON - Create JSON file in Java
-description: Java Aspose Cells. Java Create JSON File. Create JSON Java. Java JSON Creater. Create JSON in Java. Generate JSON file using Java.
+description: Aspose Excel. Java Create JSON File. Create JSON Java. Java JSON Creater. Create JSON in Java. Generate JSON file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create JSON Java., Java JSON Creater., Create JSON file in Java., Generate JSON file in Java]
 ---
 

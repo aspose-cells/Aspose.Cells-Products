@@ -1,7 +1,7 @@
 ---
-title: XLTM to TXT - Convert XLTM to TXT in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTM to TXT in Java. Java XLTM to TXT format. Save XLTM as TXT in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTM to TXT., Free Online Convert XLTM to TXT in Java., Java Convert XLTM to TXT., XLTM to TXT Converter]
+title: XLTM to TXT - Convert XLTM to TXT files Java
+description: Aspose Excel. Free Online Convert XLTM to TXT saveformat. Java XLTM to TXT format. Save XLTM as TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTM to TXT saveformat., Free Online XLTM to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

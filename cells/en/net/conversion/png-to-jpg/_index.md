@@ -1,7 +1,7 @@
 ---
-title: PNG to JPG - Convert PNG to JPG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to JPG in C#. C# PNG to JPG format. Save PNG as JPG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to JPG., Free Online Convert PNG to JPG in C#., C# Convert PNG to JPG., PNG to JPG Converter]
+title: PNG to JPG - Convert PNG to JPG files C#
+description: Aspose Excel. Free Online Convert PNG to JPG saveformat. C# PNG to JPG format. Save PNG as JPG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to JPG saveformat., Free Online PNG to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create HTM - Create HTM file in C++
-description: C++ Aspose Cells. C++ Create HTM File. Create HTM C++. C++ HTM Creater. Create HTM in C++. Generate HTM file using C++.
+description: Aspose Excel. C++ Create HTM File. Create HTM C++. C++ HTM Creater. Create HTM in C++. Generate HTM file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create HTM C++., C++ HTM Creater., Create HTM file in C++., Generate HTM file in C++]
 ---
 

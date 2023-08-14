@@ -1,7 +1,7 @@
 ---
-title: PNG to JSON - Convert PNG to JSON in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to JSON in Java. Java PNG to JSON format. Save PNG as JSON in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to JSON., Free Online Convert PNG to JSON in Java., Java Convert PNG to JSON., PNG to JSON Converter]
+title: PNG to JSON - Convert PNG to JSON files Java
+description: Aspose Excel. Free Online Convert PNG to JSON saveformat. Java PNG to JSON format. Save PNG as JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to JSON saveformat., Free Online PNG to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

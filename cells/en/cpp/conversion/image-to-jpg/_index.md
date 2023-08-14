@@ -1,7 +1,7 @@
 ---
-title: IMAGE to JPG - Convert IMAGE to JPG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert IMAGE to JPG in C++. C++ IMAGE to JPG format. Save IMAGE as JPG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ IMAGE to JPG., Free Online Convert IMAGE to JPG in C++., C++ Convert IMAGE to JPG., IMAGE to JPG Converter]
+title: IMAGE to JPG - Convert IMAGE to JPG files C++
+description: Aspose Excel. Free Online Convert IMAGE to JPG saveformat. C++ IMAGE to JPG format. Save IMAGE as JPG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ IMAGE to JPG saveformat., Free Online IMAGE to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

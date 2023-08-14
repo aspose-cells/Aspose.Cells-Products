@@ -1,6 +1,6 @@
 ---
 title: Create DIF - Create DIF file in C#
-description: C# Aspose Cells. C# Create DIF File. Create DIF C#. C# DIF Creater. Create DIF in C#. Generate DIF file using C#.
+description: Aspose Excel. C# Create DIF File. Create DIF C#. C# DIF Creater. Create DIF in C#. Generate DIF file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create DIF C#., C# DIF Creater., Create DIF file in C#., Generate DIF file in C#]
 ---
 

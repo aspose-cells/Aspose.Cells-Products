@@ -1,7 +1,7 @@
 ---
-title: XLTM to JSON - Convert XLTM to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to JSON in C++. C++ XLTM to JSON format. Save XLTM as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to JSON., Free Online Convert XLTM to JSON in C++., C++ Convert XLTM to JSON., XLTM to JSON Converter]
+title: XLTM to JSON - Convert XLTM to JSON files C++
+description: Aspose Excel. Free Online Convert XLTM to JSON saveformat. C++ XLTM to JSON format. Save XLTM as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to JSON saveformat., Free Online XLTM to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

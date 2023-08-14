@@ -1,7 +1,7 @@
 ---
-title: JPEG to PDF - Convert JPEG to PDF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to PDF in C#. C# JPEG to PDF format. Save JPEG as PDF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to PDF., Free Online Convert JPEG to PDF in C#., C# Convert JPEG to PDF., JPEG to PDF Converter]
+title: JPEG to PDF - Convert JPEG to PDF files C#
+description: Aspose Excel. Free Online Convert JPEG to PDF saveformat. C# JPEG to PDF format. Save JPEG as PDF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to PDF saveformat., Free Online JPEG to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

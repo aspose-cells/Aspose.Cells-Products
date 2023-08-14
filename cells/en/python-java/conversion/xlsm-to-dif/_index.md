@@ -1,7 +1,7 @@
 ---
-title: XLSM to DIF - Convert XLSM to DIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSM to DIF in Python. Python XLSM to DIF format. Save XLSM as DIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to DIF., Free Online Convert XLSM to DIF in Python., Python Convert XLSM to DIF., XLSM to DIF Converter]
+title: XLSM to DIF - Convert XLSM to DIF files Python
+description: Aspose Excel. Free Online Convert XLSM to DIF saveformat. Python XLSM to DIF format. Save XLSM as DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to DIF saveformat., Free Online XLSM to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

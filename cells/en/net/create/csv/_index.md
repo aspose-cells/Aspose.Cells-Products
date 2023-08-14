@@ -1,6 +1,6 @@
 ---
 title: Create CSV - Create CSV file in C#
-description: C# Aspose Cells. C# Create CSV File. Create CSV C#. C# CSV Creater. Create CSV in C#. Generate CSV file using C#.
+description: Aspose Excel. C# Create CSV File. Create CSV C#. C# CSV Creater. Create CSV in C#. Generate CSV file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create CSV C#., C# CSV Creater., Create CSV file in C#., Generate CSV file in C#]
 ---
 

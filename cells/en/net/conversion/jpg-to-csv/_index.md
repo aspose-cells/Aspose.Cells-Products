@@ -1,7 +1,7 @@
 ---
-title: JPG to CSV - Convert JPG to CSV in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to CSV in C#. C# JPG to CSV format. Save JPG as CSV in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to CSV., Free Online Convert JPG to CSV in C#., C# Convert JPG to CSV., JPG to CSV Converter]
+title: JPG to CSV - Convert JPG to CSV files C#
+description: Aspose Excel. Free Online Convert JPG to CSV saveformat. C# JPG to CSV format. Save JPG as CSV in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to CSV saveformat., Free Online JPG to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

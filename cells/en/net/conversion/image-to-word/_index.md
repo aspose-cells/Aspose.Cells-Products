@@ -1,7 +1,7 @@
 ---
-title: IMAGE to WORD - Convert IMAGE to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert IMAGE to WORD in C#. C# IMAGE to WORD format. Save IMAGE as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# IMAGE to WORD., Free Online Convert IMAGE to WORD in C#., C# Convert IMAGE to WORD., IMAGE to WORD Converter]
+title: IMAGE to WORD - Convert IMAGE to WORD files C#
+description: Aspose Excel. Free Online Convert IMAGE to WORD saveformat. C# IMAGE to WORD format. Save IMAGE as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# IMAGE to WORD saveformat., Free Online IMAGE to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

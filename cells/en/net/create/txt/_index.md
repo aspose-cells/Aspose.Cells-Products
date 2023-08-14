@@ -1,6 +1,6 @@
 ---
 title: Create TXT - Create TXT file in C#
-description: C# Aspose Cells. C# Create TXT File. Create TXT C#. C# TXT Creater. Create TXT in C#. Generate TXT file using C#.
+description: Aspose Excel. C# Create TXT File. Create TXT C#. C# TXT Creater. Create TXT in C#. Generate TXT file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create TXT C#., C# TXT Creater., Create TXT file in C#., Generate TXT file in C#]
 ---
 

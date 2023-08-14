@@ -1,7 +1,7 @@
 ---
-title: PRN to XLAM - Convert PRN to XLAM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PRN to XLAM in C++. C++ PRN to XLAM format. Save PRN as XLAM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to XLAM., Free Online Convert PRN to XLAM in C++., C++ Convert PRN to XLAM., PRN to XLAM Converter]
+title: PRN to XLAM - Convert PRN to XLAM files C++
+description: Aspose Excel. Free Online Convert PRN to XLAM saveformat. C++ PRN to XLAM format. Save PRN as XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to XLAM saveformat., Free Online PRN to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: EXCEL to FODS - Convert EXCEL to FODS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to FODS in Java. Java EXCEL to FODS format. Save EXCEL as FODS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to FODS., Free Online Convert EXCEL to FODS in Java., Java Convert EXCEL to FODS., EXCEL to FODS Converter]
+title: EXCEL to FODS - Convert EXCEL to FODS files Java
+description: Aspose Excel. Free Online Convert EXCEL to FODS saveformat. Java EXCEL to FODS format. Save EXCEL as FODS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to FODS saveformat., Free Online EXCEL to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

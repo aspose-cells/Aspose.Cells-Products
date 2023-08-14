@@ -1,6 +1,6 @@
 ---
 title: Create XLSX - Create XLSX file in Python
-description: Python Aspose Cells. Python Create XLSX File. Create XLSX Python. Python XLSX Creater. Create XLSX in Python. Generate XLSX file using Python.
+description: Aspose Excel. Python Create XLSX File. Create XLSX Python. Python XLSX Creater. Create XLSX in Python. Generate XLSX file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create XLSX Python., Python XLSX Creater., Create XLSX file in Python., Generate XLSX file in Python]
 ---
 

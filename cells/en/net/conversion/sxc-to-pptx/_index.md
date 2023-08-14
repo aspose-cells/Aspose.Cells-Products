@@ -1,7 +1,7 @@
 ---
-title: SXC to PPTX - Convert SXC to PPTX in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to PPTX in C#. C# SXC to PPTX format. Save SXC as PPTX in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to PPTX., Free Online Convert SXC to PPTX in C#., C# Convert SXC to PPTX., SXC to PPTX Converter]
+title: SXC to PPTX - Convert SXC to PPTX files C#
+description: Aspose Excel. Free Online Convert SXC to PPTX saveformat. C# SXC to PPTX format. Save SXC as PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to PPTX saveformat., Free Online SXC to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLT to MHT - Convert XLT to MHT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLT to MHT in C#. C# XLT to MHT format. Save XLT as MHT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to MHT., Free Online Convert XLT to MHT in C#., C# Convert XLT to MHT., XLT to MHT Converter]
+title: XLT to MHT - Convert XLT to MHT files C#
+description: Aspose Excel. Free Online Convert XLT to MHT saveformat. C# XLT to MHT format. Save XLT as MHT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to MHT saveformat., Free Online XLT to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

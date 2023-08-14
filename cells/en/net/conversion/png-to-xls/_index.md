@@ -1,7 +1,7 @@
 ---
-title: PNG to XLS - Convert PNG to XLS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to XLS in C#. C# PNG to XLS format. Save PNG as XLS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to XLS., Free Online Convert PNG to XLS in C#., C# Convert PNG to XLS., PNG to XLS Converter]
+title: PNG to XLS - Convert PNG to XLS files C#
+description: Aspose Excel. Free Online Convert PNG to XLS saveformat. C# PNG to XLS format. Save PNG as XLS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to XLS saveformat., Free Online PNG to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

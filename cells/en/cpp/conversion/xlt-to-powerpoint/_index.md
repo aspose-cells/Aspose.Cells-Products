@@ -1,7 +1,7 @@
 ---
-title: XLT to POWERPOINT - Convert XLT to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to POWERPOINT in C++. C++ XLT to POWERPOINT format. Save XLT as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to POWERPOINT., Free Online Convert XLT to POWERPOINT in C++., C++ Convert XLT to POWERPOINT., XLT to POWERPOINT Converter]
+title: XLT to POWERPOINT - Convert XLT to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert XLT to POWERPOINT saveformat. C++ XLT to POWERPOINT format. Save XLT as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to POWERPOINT saveformat., Free Online XLT to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

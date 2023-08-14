@@ -1,6 +1,6 @@
 ---
 title: Create EXCEL - Create EXCEL file in C++
-description: C++ Aspose Cells. C++ Create EXCEL File. Create EXCEL C++. C++ EXCEL Creater. Create EXCEL in C++. Generate EXCEL file using C++.
+description: Aspose Excel. C++ Create EXCEL File. Create EXCEL C++. C++ EXCEL Creater. Create EXCEL in C++. Generate EXCEL file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create EXCEL C++., C++ EXCEL Creater., Create EXCEL file in C++., Generate EXCEL file in C++]
 ---
 

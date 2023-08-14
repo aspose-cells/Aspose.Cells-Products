@@ -1,7 +1,7 @@
 ---
-title: HTML to WORD - Convert HTML to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to WORD in Python. Python HTML to WORD format. Save HTML as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to WORD., Free Online Convert HTML to WORD in Python., Python Convert HTML to WORD., HTML to WORD Converter]
+title: HTML to WORD - Convert HTML to WORD files Python
+description: Aspose Excel. Free Online Convert HTML to WORD saveformat. Python HTML to WORD format. Save HTML as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to WORD saveformat., Free Online HTML to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

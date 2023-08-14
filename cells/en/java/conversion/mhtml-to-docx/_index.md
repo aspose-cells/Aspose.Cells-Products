@@ -1,7 +1,7 @@
 ---
-title: MHTML to DOCX - Convert MHTML to DOCX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHTML to DOCX in Java. Java MHTML to DOCX format. Save MHTML as DOCX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to DOCX., Free Online Convert MHTML to DOCX in Java., Java Convert MHTML to DOCX., MHTML to DOCX Converter]
+title: MHTML to DOCX - Convert MHTML to DOCX files Java
+description: Aspose Excel. Free Online Convert MHTML to DOCX saveformat. Java MHTML to DOCX format. Save MHTML as DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to DOCX saveformat., Free Online MHTML to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSB to DIF - Convert XLSB to DIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to DIF in C#. C# XLSB to DIF format. Save XLSB as DIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to DIF., Free Online Convert XLSB to DIF in C#., C# Convert XLSB to DIF., XLSB to DIF Converter]
+title: XLSB to DIF - Convert XLSB to DIF files C#
+description: Aspose Excel. Free Online Convert XLSB to DIF saveformat. C# XLSB to DIF format. Save XLSB as DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to DIF saveformat., Free Online XLSB to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

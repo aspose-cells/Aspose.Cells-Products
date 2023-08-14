@@ -1,6 +1,6 @@
 ---
 title: Create GIF - Create GIF file in Java
-description: Java Aspose Cells. Java Create GIF File. Create GIF Java. Java GIF Creater. Create GIF in Java. Generate GIF file using Java.
+description: Aspose Excel. Java Create GIF File. Create GIF Java. Java GIF Creater. Create GIF in Java. Generate GIF file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create GIF Java., Java GIF Creater., Create GIF file in Java., Generate GIF file in Java]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: JPEG to POWERPOINT - Convert JPEG to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to POWERPOINT in C++. C++ JPEG to POWERPOINT format. Save JPEG as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to POWERPOINT., Free Online Convert JPEG to POWERPOINT in C++., C++ Convert JPEG to POWERPOINT., JPEG to POWERPOINT Converter]
+title: JPEG to POWERPOINT - Convert JPEG to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert JPEG to POWERPOINT saveformat. C++ JPEG to POWERPOINT format. Save JPEG as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to POWERPOINT saveformat., Free Online JPEG to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

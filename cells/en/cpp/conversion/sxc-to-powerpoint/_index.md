@@ -1,7 +1,7 @@
 ---
-title: SXC to POWERPOINT - Convert SXC to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to POWERPOINT in C++. C++ SXC to POWERPOINT format. Save SXC as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to POWERPOINT., Free Online Convert SXC to POWERPOINT in C++., C++ Convert SXC to POWERPOINT., SXC to POWERPOINT Converter]
+title: SXC to POWERPOINT - Convert SXC to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert SXC to POWERPOINT saveformat. C++ SXC to POWERPOINT format. Save SXC as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to POWERPOINT saveformat., Free Online SXC to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

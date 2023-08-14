@@ -1,7 +1,7 @@
 ---
-title: XML to MD - Convert XML to MD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to MD in Java. Java XML to MD format. Save XML as MD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to MD., Free Online Convert XML to MD in Java., Java Convert XML to MD., XML to MD Converter]
+title: XML to MD - Convert XML to MD files Java
+description: Aspose Excel. Free Online Convert XML to MD saveformat. Java XML to MD format. Save XML as MD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to MD saveformat., Free Online XML to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

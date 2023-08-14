@@ -1,7 +1,7 @@
 ---
-title: TXT to DIF - Convert TXT to DIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to DIF in C#. C# TXT to DIF format. Save TXT as DIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to DIF., Free Online Convert TXT to DIF in C#., C# Convert TXT to DIF., TXT to DIF Converter]
+title: TXT to DIF - Convert TXT to DIF files C#
+description: Aspose Excel. Free Online Convert TXT to DIF saveformat. C# TXT to DIF format. Save TXT as DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to DIF saveformat., Free Online TXT to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

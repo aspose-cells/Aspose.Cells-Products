@@ -1,7 +1,7 @@
 ---
-title: PRN to SXC - Convert PRN to SXC in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PRN to SXC in Python. Python PRN to SXC format. Save PRN as SXC in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to SXC., Free Online Convert PRN to SXC in Python., Python Convert PRN to SXC., PRN to SXC Converter]
+title: PRN to SXC - Convert PRN to SXC files Python
+description: Aspose Excel. Free Online Convert PRN to SXC saveformat. Python PRN to SXC format. Save PRN as SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to SXC saveformat., Free Online PRN to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to GIF - Convert JPG to GIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to GIF in Java. Java JPG to GIF format. Save JPG as GIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to GIF., Free Online Convert JPG to GIF in Java., Java Convert JPG to GIF., JPG to GIF Converter]
+title: JPG to GIF - Convert JPG to GIF files Java
+description: Aspose Excel. Free Online Convert JPG to GIF saveformat. Java JPG to GIF format. Save JPG as GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to GIF saveformat., Free Online JPG to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

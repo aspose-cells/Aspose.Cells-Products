@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to PPTX - Convert SPREADSHEETML to PPTX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SPREADSHEETML to PPTX in Java. Java SPREADSHEETML to PPTX format. Save SPREADSHEETML as PPTX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SPREADSHEETML to PPTX., Free Online Convert SPREADSHEETML to PPTX in Java., Java Convert SPREADSHEETML to PPTX., SPREADSHEETML to PPTX Converter]
+title: SPREADSHEETML to PPTX - Convert SPREADSHEETML to PPTX files Java
+description: Aspose Excel. Free Online Convert SPREADSHEETML to PPTX saveformat. Java SPREADSHEETML to PPTX format. Save SPREADSHEETML as PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SPREADSHEETML to PPTX saveformat., Free Online SPREADSHEETML to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

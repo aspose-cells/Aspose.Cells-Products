@@ -1,7 +1,7 @@
 ---
-title: XML to ETT - Convert XML to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XML to ETT in C++. C++ XML to ETT format. Save XML as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to ETT., Free Online Convert XML to ETT in C++., C++ Convert XML to ETT., XML to ETT Converter]
+title: XML to ETT - Convert XML to ETT files C++
+description: Aspose Excel. Free Online Convert XML to ETT saveformat. C++ XML to ETT format. Save XML as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to ETT saveformat., Free Online XML to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

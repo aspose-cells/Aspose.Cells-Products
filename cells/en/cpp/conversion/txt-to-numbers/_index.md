@@ -1,7 +1,7 @@
 ---
-title: TXT to NUMBERS - Convert TXT to NUMBERS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to NUMBERS in C++. C++ TXT to NUMBERS format. Save TXT as NUMBERS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to NUMBERS., Free Online Convert TXT to NUMBERS in C++., C++ Convert TXT to NUMBERS., TXT to NUMBERS Converter]
+title: TXT to NUMBERS - Convert TXT to NUMBERS files C++
+description: Aspose Excel. Free Online Convert TXT to NUMBERS saveformat. C++ TXT to NUMBERS format. Save TXT as NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to NUMBERS saveformat., Free Online TXT to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

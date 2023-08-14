@@ -1,7 +1,7 @@
 ---
-title: XLSB to NUMBERS - Convert XLSB to NUMBERS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to NUMBERS in Python. Python XLSB to NUMBERS format. Save XLSB as NUMBERS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to NUMBERS., Free Online Convert XLSB to NUMBERS in Python., Python Convert XLSB to NUMBERS., XLSB to NUMBERS Converter]
+title: XLSB to NUMBERS - Convert XLSB to NUMBERS files Python
+description: Aspose Excel. Free Online Convert XLSB to NUMBERS saveformat. Python XLSB to NUMBERS format. Save XLSB as NUMBERS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to NUMBERS saveformat., Free Online XLSB to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

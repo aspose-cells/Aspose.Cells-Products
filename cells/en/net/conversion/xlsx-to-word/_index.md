@@ -1,7 +1,7 @@
 ---
-title: XLSX to WORD - Convert XLSX to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to WORD in C#. C# XLSX to WORD format. Save XLSX as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to WORD., Free Online Convert XLSX to WORD in C#., C# Convert XLSX to WORD., XLSX to WORD Converter]
+title: XLSX to WORD - Convert XLSX to WORD files C#
+description: Aspose Excel. Free Online Convert XLSX to WORD saveformat. C# XLSX to WORD format. Save XLSX as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to WORD saveformat., Free Online XLSX to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

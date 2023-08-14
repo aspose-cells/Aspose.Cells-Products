@@ -1,7 +1,7 @@
 ---
-title: FODS to EXCEL - Convert FODS to EXCEL in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to EXCEL in Python. Python FODS to EXCEL format. Save FODS as EXCEL in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to EXCEL., Free Online Convert FODS to EXCEL in Python., Python Convert FODS to EXCEL., FODS to EXCEL Converter]
+title: FODS to EXCEL - Convert FODS to EXCEL files Python
+description: Aspose Excel. Free Online Convert FODS to EXCEL saveformat. Python FODS to EXCEL format. Save FODS as EXCEL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to EXCEL saveformat., Free Online FODS to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

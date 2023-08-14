@@ -1,7 +1,7 @@
 ---
-title: OTS to GIF - Convert OTS to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert OTS to GIF in Python. Python OTS to GIF format. Save OTS as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to GIF., Free Online Convert OTS to GIF in Python., Python Convert OTS to GIF., OTS to GIF Converter]
+title: OTS to GIF - Convert OTS to GIF files Python
+description: Aspose Excel. Free Online Convert OTS to GIF saveformat. Python OTS to GIF format. Save OTS as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to GIF saveformat., Free Online OTS to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

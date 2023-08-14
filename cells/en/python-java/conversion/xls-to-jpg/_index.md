@@ -1,7 +1,7 @@
 ---
-title: XLS to JPG - Convert XLS to JPG in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLS to JPG in Python. Python XLS to JPG format. Save XLS as JPG in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to JPG., Free Online Convert XLS to JPG in Python., Python Convert XLS to JPG., XLS to JPG Converter]
+title: XLS to JPG - Convert XLS to JPG files Python
+description: Aspose Excel. Free Online Convert XLS to JPG saveformat. Python XLS to JPG format. Save XLS as JPG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to JPG saveformat., Free Online XLS to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

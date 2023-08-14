@@ -1,6 +1,6 @@
 ---
 title: Create SVG - Create SVG file in C#
-description: C# Aspose Cells. C# Create SVG File. Create SVG C#. C# SVG Creater. Create SVG in C#. Generate SVG file using C#.
+description: Aspose Excel. C# Create SVG File. Create SVG C#. C# SVG Creater. Create SVG in C#. Generate SVG file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create SVG C#., C# SVG Creater., Create SVG file in C#., Generate SVG file in C#]
 ---
 

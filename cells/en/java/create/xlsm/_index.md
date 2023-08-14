@@ -1,6 +1,6 @@
 ---
 title: Create XLSM - Create XLSM file in Java
-description: Java Aspose Cells. Java Create XLSM File. Create XLSM Java. Java XLSM Creater. Create XLSM in Java. Generate XLSM file using Java.
+description: Aspose Excel. Java Create XLSM File. Create XLSM Java. Java XLSM Creater. Create XLSM in Java. Generate XLSM file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XLSM Java., Java XLSM Creater., Create XLSM file in Java., Generate XLSM file in Java]
 ---
 

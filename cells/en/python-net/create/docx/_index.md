@@ -1,6 +1,6 @@
 ---
 title: Create DOCX - Create DOCX file in Python
-description: Python Aspose Cells. Python Create DOCX File. Create DOCX Python. Python DOCX Creater. Create DOCX in Python. Generate DOCX file using Python.
+description: Aspose Excel. Python Create DOCX File. Create DOCX Python. Python DOCX Creater. Create DOCX in Python. Generate DOCX file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create DOCX Python., Python DOCX Creater., Create DOCX file in Python., Generate DOCX file in Python]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: IMAGE to POWERPOINT - Convert IMAGE to POWERPOINT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert IMAGE to POWERPOINT in C#. C# IMAGE to POWERPOINT format. Save IMAGE as POWERPOINT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# IMAGE to POWERPOINT., Free Online Convert IMAGE to POWERPOINT in C#., C# Convert IMAGE to POWERPOINT., IMAGE to POWERPOINT Converter]
+title: IMAGE to POWERPOINT - Convert IMAGE to POWERPOINT files C#
+description: Aspose Excel. Free Online Convert IMAGE to POWERPOINT saveformat. C# IMAGE to POWERPOINT format. Save IMAGE as POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# IMAGE to POWERPOINT saveformat., Free Online IMAGE to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

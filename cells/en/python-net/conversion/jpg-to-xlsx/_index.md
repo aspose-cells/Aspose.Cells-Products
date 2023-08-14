@@ -1,7 +1,7 @@
 ---
-title: JPG to XLSX - Convert JPG to XLSX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to XLSX in Python. Python JPG to XLSX format. Save JPG as XLSX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to XLSX., Free Online Convert JPG to XLSX in Python., Python Convert JPG to XLSX., JPG to XLSX Converter]
+title: JPG to XLSX - Convert JPG to XLSX files Python
+description: Aspose Excel. Free Online Convert JPG to XLSX saveformat. Python JPG to XLSX format. Save JPG as XLSX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to XLSX saveformat., Free Online JPG to XLSX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

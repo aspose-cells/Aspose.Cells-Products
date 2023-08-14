@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLTX - Convert JPEG to XLTX in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to XLTX in C#. C# JPEG to XLTX format. Save JPEG as XLTX in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to XLTX., Free Online Convert JPEG to XLTX in C#., C# Convert JPEG to XLTX., JPEG to XLTX Converter]
+title: JPEG to XLTX - Convert JPEG to XLTX files C#
+description: Aspose Excel. Free Online Convert JPEG to XLTX saveformat. C# JPEG to XLTX format. Save JPEG as XLTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to XLTX saveformat., Free Online JPEG to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

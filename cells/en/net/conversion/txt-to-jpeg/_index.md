@@ -1,7 +1,7 @@
 ---
-title: TXT to JPEG - Convert TXT to JPEG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to JPEG in C#. C# TXT to JPEG format. Save TXT as JPEG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to JPEG., Free Online Convert TXT to JPEG in C#., C# Convert TXT to JPEG., TXT to JPEG Converter]
+title: TXT to JPEG - Convert TXT to JPEG files C#
+description: Aspose Excel. Free Online Convert TXT to JPEG saveformat. C# TXT to JPEG format. Save TXT as JPEG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to JPEG saveformat., Free Online TXT to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

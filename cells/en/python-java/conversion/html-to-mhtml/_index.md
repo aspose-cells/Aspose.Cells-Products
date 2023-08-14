@@ -1,7 +1,7 @@
 ---
-title: HTML to MHTML - Convert HTML to MHTML in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to MHTML in Python. Python HTML to MHTML format. Save HTML as MHTML in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to MHTML., Free Online Convert HTML to MHTML in Python., Python Convert HTML to MHTML., HTML to MHTML Converter]
+title: HTML to MHTML - Convert HTML to MHTML files Python
+description: Aspose Excel. Free Online Convert HTML to MHTML saveformat. Python HTML to MHTML format. Save HTML as MHTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to MHTML saveformat., Free Online HTML to MHTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

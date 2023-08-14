@@ -1,7 +1,7 @@
 ---
-title: IMAGE to SVG - Convert IMAGE to SVG in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert IMAGE to SVG in Python. Python IMAGE to SVG format. Save IMAGE as SVG in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to SVG., Free Online Convert IMAGE to SVG in Python., Python Convert IMAGE to SVG., IMAGE to SVG Converter]
+title: IMAGE to SVG - Convert IMAGE to SVG files Python
+description: Aspose Excel. Free Online Convert IMAGE to SVG saveformat. Python IMAGE to SVG format. Save IMAGE as SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to SVG saveformat., Free Online IMAGE to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

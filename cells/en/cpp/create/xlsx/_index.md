@@ -1,6 +1,6 @@
 ---
 title: Create XLSX - Create XLSX file in C++
-description: C++ Aspose Cells. C++ Create XLSX File. Create XLSX C++. C++ XLSX Creater. Create XLSX in C++. Generate XLSX file using C++.
+description: Aspose Excel. C++ Create XLSX File. Create XLSX C++. C++ XLSX Creater. Create XLSX in C++. Generate XLSX file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XLSX C++., C++ XLSX Creater., Create XLSX file in C++., Generate XLSX file in C++]
 ---
 

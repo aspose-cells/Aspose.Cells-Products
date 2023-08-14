@@ -1,7 +1,7 @@
 ---
-title: TXT to MARKDOWN - Convert TXT to MARKDOWN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to MARKDOWN in Java. Java TXT to MARKDOWN format. Save TXT as MARKDOWN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to MARKDOWN., Free Online Convert TXT to MARKDOWN in Java., Java Convert TXT to MARKDOWN., TXT to MARKDOWN Converter]
+title: TXT to MARKDOWN - Convert TXT to MARKDOWN files Java
+description: Aspose Excel. Free Online Convert TXT to MARKDOWN saveformat. Java TXT to MARKDOWN format. Save TXT as MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to MARKDOWN saveformat., Free Online TXT to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

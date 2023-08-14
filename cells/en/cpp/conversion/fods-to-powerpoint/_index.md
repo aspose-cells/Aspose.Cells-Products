@@ -1,7 +1,7 @@
 ---
-title: FODS to POWERPOINT - Convert FODS to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to POWERPOINT in C++. C++ FODS to POWERPOINT format. Save FODS as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to POWERPOINT., Free Online Convert FODS to POWERPOINT in C++., C++ Convert FODS to POWERPOINT., FODS to POWERPOINT Converter]
+title: FODS to POWERPOINT - Convert FODS to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert FODS to POWERPOINT saveformat. C++ FODS to POWERPOINT format. Save FODS as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to POWERPOINT saveformat., Free Online FODS to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

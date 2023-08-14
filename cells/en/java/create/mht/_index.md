@@ -1,6 +1,6 @@
 ---
 title: Create MHT - Create MHT file in Java
-description: Java Aspose Cells. Java Create MHT File. Create MHT Java. Java MHT Creater. Create MHT in Java. Generate MHT file using Java.
+description: Aspose Excel. Java Create MHT File. Create MHT Java. Java MHT Creater. Create MHT in Java. Generate MHT file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create MHT Java., Java MHT Creater., Create MHT file in Java., Generate MHT file in Java]
 ---
 

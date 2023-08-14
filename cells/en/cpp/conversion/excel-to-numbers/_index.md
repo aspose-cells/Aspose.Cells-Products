@@ -1,7 +1,7 @@
 ---
-title: EXCEL to NUMBERS - Convert EXCEL to NUMBERS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to NUMBERS in C++. C++ EXCEL to NUMBERS format. Save EXCEL as NUMBERS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to NUMBERS., Free Online Convert EXCEL to NUMBERS in C++., C++ Convert EXCEL to NUMBERS., EXCEL to NUMBERS Converter]
+title: EXCEL to NUMBERS - Convert EXCEL to NUMBERS files C++
+description: Aspose Excel. Free Online Convert EXCEL to NUMBERS saveformat. C++ EXCEL to NUMBERS format. Save EXCEL as NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to NUMBERS saveformat., Free Online EXCEL to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

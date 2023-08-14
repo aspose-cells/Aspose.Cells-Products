@@ -1,6 +1,6 @@
 ---
 title: Create PDF - Create PDF file in Python
-description: Python Aspose Cells. Python Create PDF File. Create PDF Python. Python PDF Creater. Create PDF in Python. Generate PDF file using Python.
+description: Aspose Excel. Python Create PDF File. Create PDF Python. Python PDF Creater. Create PDF in Python. Generate PDF file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create PDF Python., Python PDF Creater., Create PDF file in Python., Generate PDF file in Python]
 ---
 

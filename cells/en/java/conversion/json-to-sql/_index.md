@@ -1,7 +1,7 @@
 ---
-title: JSON to SQL - Convert JSON to SQL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JSON to SQL in Java. Java JSON to SQL format. Save JSON as SQL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to SQL., Free Online Convert JSON to SQL in Java., Java Convert JSON to SQL., JSON to SQL Converter]
+title: JSON to SQL - Convert JSON to SQL files Java
+description: Aspose Excel. Free Online Convert JSON to SQL saveformat. Java JSON to SQL format. Save JSON as SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to SQL saveformat., Free Online JSON to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

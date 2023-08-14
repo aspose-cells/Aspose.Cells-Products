@@ -1,6 +1,6 @@
 ---
 title: Create JSON - Create JSON file in Python
-description: Python Aspose Cells. Python Create JSON File. Create JSON Python. Python JSON Creater. Create JSON in Python. Generate JSON file using Python.
+description: Aspose Excel. Python Create JSON File. Create JSON Python. Python JSON Creater. Create JSON in Python. Generate JSON file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create JSON Python., Python JSON Creater., Create JSON file in Python., Generate JSON file in Python]
 ---
 

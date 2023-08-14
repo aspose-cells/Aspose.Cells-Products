@@ -1,7 +1,7 @@
 ---
-title: PNG to TIFF - Convert PNG to TIFF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to TIFF in Java. Java PNG to TIFF format. Save PNG as TIFF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to TIFF., Free Online Convert PNG to TIFF in Java., Java Convert PNG to TIFF., PNG to TIFF Converter]
+title: PNG to TIFF - Convert PNG to TIFF files Java
+description: Aspose Excel. Free Online Convert PNG to TIFF saveformat. Java PNG to TIFF format. Save PNG as TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to TIFF saveformat., Free Online PNG to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

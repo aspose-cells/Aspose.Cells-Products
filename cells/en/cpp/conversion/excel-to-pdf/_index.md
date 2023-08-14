@@ -1,7 +1,7 @@
 ---
-title: EXCEL to PDF - Convert EXCEL to PDF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to PDF in C++. C++ EXCEL to PDF format. Save EXCEL as PDF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to PDF., Free Online Convert EXCEL to PDF in C++., C++ Convert EXCEL to PDF., EXCEL to PDF Converter]
+title: EXCEL to PDF - Convert EXCEL to PDF files C++
+description: Aspose Excel. Free Online Convert EXCEL to PDF saveformat. C++ EXCEL to PDF format. Save EXCEL as PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to PDF saveformat., Free Online EXCEL to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: PNG to XLS - Convert PNG to XLS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to XLS in Java. Java PNG to XLS format. Save PNG as XLS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to XLS., Free Online Convert PNG to XLS in Java., Java Convert PNG to XLS., PNG to XLS Converter]
+title: PNG to XLS - Convert PNG to XLS files Java
+description: Aspose Excel. Free Online Convert PNG to XLS saveformat. Java PNG to XLS format. Save PNG as XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to XLS saveformat., Free Online PNG to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

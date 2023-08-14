@@ -1,7 +1,7 @@
 ---
-title: XLSX to JPEG - Convert XLSX to JPEG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to JPEG in C++. C++ XLSX to JPEG format. Save XLSX as JPEG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to JPEG., Free Online Convert XLSX to JPEG in C++., C++ Convert XLSX to JPEG., XLSX to JPEG Converter]
+title: XLSX to JPEG - Convert XLSX to JPEG files C++
+description: Aspose Excel. Free Online Convert XLSX to JPEG saveformat. C++ XLSX to JPEG format. Save XLSX as JPEG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to JPEG saveformat., Free Online XLSX to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

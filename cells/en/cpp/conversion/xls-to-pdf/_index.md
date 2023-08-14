@@ -1,7 +1,7 @@
 ---
-title: XLS to PDF - Convert XLS to PDF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to PDF in C++. C++ XLS to PDF format. Save XLS as PDF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to PDF., Free Online Convert XLS to PDF in C++., C++ Convert XLS to PDF., XLS to PDF Converter]
+title: XLS to PDF - Convert XLS to PDF files C++
+description: Aspose Excel. Free Online Convert XLS to PDF saveformat. C++ XLS to PDF format. Save XLS as PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to PDF saveformat., Free Online XLS to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

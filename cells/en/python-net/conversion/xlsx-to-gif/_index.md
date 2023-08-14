@@ -1,7 +1,7 @@
 ---
-title: XLSX to GIF - Convert XLSX to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSX to GIF in Python. Python XLSX to GIF format. Save XLSX as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to GIF., Free Online Convert XLSX to GIF in Python., Python Convert XLSX to GIF., XLSX to GIF Converter]
+title: XLSX to GIF - Convert XLSX to GIF files Python
+description: Aspose Excel. Free Online Convert XLSX to GIF saveformat. Python XLSX to GIF format. Save XLSX as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSX to GIF saveformat., Free Online XLSX to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

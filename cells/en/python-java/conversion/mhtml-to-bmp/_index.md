@@ -1,7 +1,7 @@
 ---
-title: MHTML to BMP - Convert MHTML to BMP in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to BMP in Python. Python MHTML to BMP format. Save MHTML as BMP in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to BMP., Free Online Convert MHTML to BMP in Python., Python Convert MHTML to BMP., MHTML to BMP Converter]
+title: MHTML to BMP - Convert MHTML to BMP files Python
+description: Aspose Excel. Free Online Convert MHTML to BMP saveformat. Python MHTML to BMP format. Save MHTML as BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to BMP saveformat., Free Online MHTML to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: HTML to XLSB - Convert HTML to XLSB in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTML to XLSB in C#. C# HTML to XLSB format. Save HTML as XLSB in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to XLSB., Free Online Convert HTML to XLSB in C#., C# Convert HTML to XLSB., HTML to XLSB Converter]
+title: HTML to XLSB - Convert HTML to XLSB files C#
+description: Aspose Excel. Free Online Convert HTML to XLSB saveformat. C# HTML to XLSB format. Save HTML as XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to XLSB saveformat., Free Online HTML to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

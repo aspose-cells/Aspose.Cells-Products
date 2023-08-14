@@ -1,7 +1,7 @@
 ---
-title: JPEG to MD - Convert JPEG to MD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to MD in C++. C++ JPEG to MD format. Save JPEG as MD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to MD., Free Online Convert JPEG to MD in C++., C++ Convert JPEG to MD., JPEG to MD Converter]
+title: JPEG to MD - Convert JPEG to MD files C++
+description: Aspose Excel. Free Online Convert JPEG to MD saveformat. C++ JPEG to MD format. Save JPEG as MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to MD saveformat., Free Online JPEG to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSM to FODS - Convert XLSM to FODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to FODS in C++. C++ XLSM to FODS format. Save XLSM as FODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to FODS., Free Online Convert XLSM to FODS in C++., C++ Convert XLSM to FODS., XLSM to FODS Converter]
+title: XLSM to FODS - Convert XLSM to FODS files C++
+description: Aspose Excel. Free Online Convert XLSM to FODS saveformat. C++ XLSM to FODS format. Save XLSM as FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to FODS saveformat., Free Online XLSM to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

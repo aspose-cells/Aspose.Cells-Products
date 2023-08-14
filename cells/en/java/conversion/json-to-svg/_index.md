@@ -1,7 +1,7 @@
 ---
-title: JSON to SVG - Convert JSON to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JSON to SVG in Java. Java JSON to SVG format. Save JSON as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to SVG., Free Online Convert JSON to SVG in Java., Java Convert JSON to SVG., JSON to SVG Converter]
+title: JSON to SVG - Convert JSON to SVG files Java
+description: Aspose Excel. Free Online Convert JSON to SVG saveformat. Java JSON to SVG format. Save JSON as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JSON to SVG saveformat., Free Online JSON to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

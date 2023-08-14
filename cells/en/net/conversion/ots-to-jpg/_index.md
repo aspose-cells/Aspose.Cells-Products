@@ -1,7 +1,7 @@
 ---
-title: OTS to JPG - Convert OTS to JPG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to JPG in C#. C# OTS to JPG format. Save OTS as JPG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to JPG., Free Online Convert OTS to JPG in C#., C# Convert OTS to JPG., OTS to JPG Converter]
+title: OTS to JPG - Convert OTS to JPG files C#
+description: Aspose Excel. Free Online Convert OTS to JPG saveformat. C# OTS to JPG format. Save OTS as JPG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to JPG saveformat., Free Online OTS to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

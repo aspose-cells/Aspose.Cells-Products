@@ -1,6 +1,6 @@
 ---
 title: Create XML - Create XML file in Java
-description: Java Aspose Cells. Java Create XML File. Create XML Java. Java XML Creater. Create XML in Java. Generate XML file using Java.
+description: Aspose Excel. Java Create XML File. Create XML Java. Java XML Creater. Create XML in Java. Generate XML file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XML Java., Java XML Creater., Create XML file in Java., Generate XML file in Java]
 ---
 

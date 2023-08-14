@@ -1,6 +1,6 @@
 ---
 title: Create ET - Create ET file in Java
-description: Java Aspose Cells. Java Create ET File. Create ET Java. Java ET Creater. Create ET in Java. Generate ET file using Java.
+description: Aspose Excel. Java Create ET File. Create ET Java. Java ET Creater. Create ET in Java. Generate ET file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create ET Java., Java ET Creater., Create ET file in Java., Generate ET file in Java]
 ---
 

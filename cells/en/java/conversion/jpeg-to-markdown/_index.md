@@ -1,7 +1,7 @@
 ---
-title: JPEG to MARKDOWN - Convert JPEG to MARKDOWN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to MARKDOWN in Java. Java JPEG to MARKDOWN format. Save JPEG as MARKDOWN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to MARKDOWN., Free Online Convert JPEG to MARKDOWN in Java., Java Convert JPEG to MARKDOWN., JPEG to MARKDOWN Converter]
+title: JPEG to MARKDOWN - Convert JPEG to MARKDOWN files Java
+description: Aspose Excel. Free Online Convert JPEG to MARKDOWN saveformat. Java JPEG to MARKDOWN format. Save JPEG as MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to MARKDOWN saveformat., Free Online JPEG to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

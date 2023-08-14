@@ -1,7 +1,7 @@
 ---
-title: HTM to MD - Convert HTM to MD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTM to MD in C++. C++ HTM to MD format. Save HTM as MD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to MD., Free Online Convert HTM to MD in C++., C++ Convert HTM to MD., HTM to MD Converter]
+title: HTM to MD - Convert HTM to MD files C++
+description: Aspose Excel. Free Online Convert HTM to MD saveformat. C++ HTM to MD format. Save HTM as MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to MD saveformat., Free Online HTM to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

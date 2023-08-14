@@ -1,7 +1,7 @@
 ---
-title: HTML to GIF - Convert HTML to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTML to GIF in C#. C# HTML to GIF format. Save HTML as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to GIF., Free Online Convert HTML to GIF in C#., C# Convert HTML to GIF., HTML to GIF Converter]
+title: HTML to GIF - Convert HTML to GIF files C#
+description: Aspose Excel. Free Online Convert HTML to GIF saveformat. C# HTML to GIF format. Save HTML as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to GIF saveformat., Free Online HTML to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: HTML to CSV - Convert HTML to CSV in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to CSV in Python. Python HTML to CSV format. Save HTML as CSV in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to CSV., Free Online Convert HTML to CSV in Python., Python Convert HTML to CSV., HTML to CSV Converter]
+title: HTML to CSV - Convert HTML to CSV files Python
+description: Aspose Excel. Free Online Convert HTML to CSV saveformat. Python HTML to CSV format. Save HTML as CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to CSV saveformat., Free Online HTML to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

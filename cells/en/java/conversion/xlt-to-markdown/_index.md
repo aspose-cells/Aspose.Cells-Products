@@ -1,7 +1,7 @@
 ---
-title: XLT to MARKDOWN - Convert XLT to MARKDOWN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLT to MARKDOWN in Java. Java XLT to MARKDOWN format. Save XLT as MARKDOWN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to MARKDOWN., Free Online Convert XLT to MARKDOWN in Java., Java Convert XLT to MARKDOWN., XLT to MARKDOWN Converter]
+title: XLT to MARKDOWN - Convert XLT to MARKDOWN files Java
+description: Aspose Excel. Free Online Convert XLT to MARKDOWN saveformat. Java XLT to MARKDOWN format. Save XLT as MARKDOWN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLT to MARKDOWN saveformat., Free Online XLT to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

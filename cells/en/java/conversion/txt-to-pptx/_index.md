@@ -1,7 +1,7 @@
 ---
-title: TXT to PPTX - Convert TXT to PPTX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to PPTX in Java. Java TXT to PPTX format. Save TXT as PPTX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to PPTX., Free Online Convert TXT to PPTX in Java., Java Convert TXT to PPTX., TXT to PPTX Converter]
+title: TXT to PPTX - Convert TXT to PPTX files Java
+description: Aspose Excel. Free Online Convert TXT to PPTX saveformat. Java TXT to PPTX format. Save TXT as PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to PPTX saveformat., Free Online TXT to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

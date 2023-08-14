@@ -1,7 +1,7 @@
 ---
-title: TXT to GIF - Convert TXT to GIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to GIF in Java. Java TXT to GIF format. Save TXT as GIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to GIF., Free Online Convert TXT to GIF in Java., Java Convert TXT to GIF., TXT to GIF Converter]
+title: TXT to GIF - Convert TXT to GIF files Java
+description: Aspose Excel. Free Online Convert TXT to GIF saveformat. Java TXT to GIF format. Save TXT as GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to GIF saveformat., Free Online TXT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

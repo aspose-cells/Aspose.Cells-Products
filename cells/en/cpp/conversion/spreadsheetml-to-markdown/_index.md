@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to MARKDOWN - Convert SPREADSHEETML to MARKDOWN in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SPREADSHEETML to MARKDOWN in C++. C++ SPREADSHEETML to MARKDOWN format. Save SPREADSHEETML as MARKDOWN in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to MARKDOWN., Free Online Convert SPREADSHEETML to MARKDOWN in C++., C++ Convert SPREADSHEETML to MARKDOWN., SPREADSHEETML to MARKDOWN Converter]
+title: SPREADSHEETML to MARKDOWN - Convert SPREADSHEETML to MARKDOWN files C++
+description: Aspose Excel. Free Online Convert SPREADSHEETML to MARKDOWN saveformat. C++ SPREADSHEETML to MARKDOWN format. Save SPREADSHEETML as MARKDOWN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to MARKDOWN saveformat., Free Online SPREADSHEETML to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

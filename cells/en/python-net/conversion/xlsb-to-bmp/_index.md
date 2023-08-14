@@ -1,7 +1,7 @@
 ---
-title: XLSB to BMP - Convert XLSB to BMP in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to BMP in Python. Python XLSB to BMP format. Save XLSB as BMP in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to BMP., Free Online Convert XLSB to BMP in Python., Python Convert XLSB to BMP., XLSB to BMP Converter]
+title: XLSB to BMP - Convert XLSB to BMP files Python
+description: Aspose Excel. Free Online Convert XLSB to BMP saveformat. Python XLSB to BMP format. Save XLSB as BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to BMP saveformat., Free Online XLSB to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

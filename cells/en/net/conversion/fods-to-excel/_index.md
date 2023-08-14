@@ -1,7 +1,7 @@
 ---
-title: FODS to EXCEL - Convert FODS to EXCEL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to EXCEL in C#. C# FODS to EXCEL format. Save FODS as EXCEL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to EXCEL., Free Online Convert FODS to EXCEL in C#., C# Convert FODS to EXCEL., FODS to EXCEL Converter]
+title: FODS to EXCEL - Convert FODS to EXCEL files C#
+description: Aspose Excel. Free Online Convert FODS to EXCEL saveformat. C# FODS to EXCEL format. Save FODS as EXCEL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to EXCEL saveformat., Free Online FODS to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

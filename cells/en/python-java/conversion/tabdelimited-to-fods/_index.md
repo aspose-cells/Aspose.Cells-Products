@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to FODS - Convert TABDELIMITED to FODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to FODS in Python. Python TABDELIMITED to FODS format. Save TABDELIMITED as FODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to FODS., Free Online Convert TABDELIMITED to FODS in Python., Python Convert TABDELIMITED to FODS., TABDELIMITED to FODS Converter]
+title: TABDELIMITED to FODS - Convert TABDELIMITED to FODS files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to FODS saveformat. Python TABDELIMITED to FODS format. Save TABDELIMITED as FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to FODS saveformat., Free Online TABDELIMITED to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

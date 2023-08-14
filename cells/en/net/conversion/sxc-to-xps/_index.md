@@ -1,7 +1,7 @@
 ---
-title: SXC to XPS - Convert SXC to XPS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to XPS in C#. C# SXC to XPS format. Save SXC as XPS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to XPS., Free Online Convert SXC to XPS in C#., C# Convert SXC to XPS., SXC to XPS Converter]
+title: SXC to XPS - Convert SXC to XPS files C#
+description: Aspose Excel. Free Online Convert SXC to XPS saveformat. C# SXC to XPS format. Save SXC as XPS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to XPS saveformat., Free Online SXC to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

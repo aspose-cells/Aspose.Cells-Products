@@ -1,7 +1,7 @@
 ---
-title: OTS to SQL - Convert OTS to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to SQL in C#. C# OTS to SQL format. Save OTS as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to SQL., Free Online Convert OTS to SQL in C#., C# Convert OTS to SQL., OTS to SQL Converter]
+title: OTS to SQL - Convert OTS to SQL files C#
+description: Aspose Excel. Free Online Convert OTS to SQL saveformat. C# OTS to SQL format. Save OTS as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to SQL saveformat., Free Online OTS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

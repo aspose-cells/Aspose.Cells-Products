@@ -1,7 +1,7 @@
 ---
-title: HTML to GIF - Convert HTML to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to GIF in Python. Python HTML to GIF format. Save HTML as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to GIF., Free Online Convert HTML to GIF in Python., Python Convert HTML to GIF., HTML to GIF Converter]
+title: HTML to GIF - Convert HTML to GIF files Python
+description: Aspose Excel. Free Online Convert HTML to GIF saveformat. Python HTML to GIF format. Save HTML as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to GIF saveformat., Free Online HTML to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

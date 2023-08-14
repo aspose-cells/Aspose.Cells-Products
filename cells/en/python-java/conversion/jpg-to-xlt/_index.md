@@ -1,7 +1,7 @@
 ---
-title: JPG to XLT - Convert JPG to XLT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to XLT in Python. Python JPG to XLT format. Save JPG as XLT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to XLT., Free Online Convert JPG to XLT in Python., Python Convert JPG to XLT., JPG to XLT Converter]
+title: JPG to XLT - Convert JPG to XLT files Python
+description: Aspose Excel. Free Online Convert JPG to XLT saveformat. Python JPG to XLT format. Save JPG as XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to XLT saveformat., Free Online JPG to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

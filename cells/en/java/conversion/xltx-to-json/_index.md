@@ -1,7 +1,7 @@
 ---
-title: XLTX to JSON - Convert XLTX to JSON in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to JSON in Java. Java XLTX to JSON format. Save XLTX as JSON in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to JSON., Free Online Convert XLTX to JSON in Java., Java Convert XLTX to JSON., XLTX to JSON Converter]
+title: XLTX to JSON - Convert XLTX to JSON files Java
+description: Aspose Excel. Free Online Convert XLTX to JSON saveformat. Java XLTX to JSON format. Save XLTX as JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to JSON saveformat., Free Online XLTX to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

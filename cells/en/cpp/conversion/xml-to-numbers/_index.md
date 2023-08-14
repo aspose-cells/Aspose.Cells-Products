@@ -1,7 +1,7 @@
 ---
-title: XML to NUMBERS - Convert XML to NUMBERS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XML to NUMBERS in C++. C++ XML to NUMBERS format. Save XML as NUMBERS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to NUMBERS., Free Online Convert XML to NUMBERS in C++., C++ Convert XML to NUMBERS., XML to NUMBERS Converter]
+title: XML to NUMBERS - Convert XML to NUMBERS files C++
+description: Aspose Excel. Free Online Convert XML to NUMBERS saveformat. C++ XML to NUMBERS format. Save XML as NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to NUMBERS saveformat., Free Online XML to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

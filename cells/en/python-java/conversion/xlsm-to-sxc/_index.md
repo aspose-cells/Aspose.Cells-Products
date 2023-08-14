@@ -1,7 +1,7 @@
 ---
-title: XLSM to SXC - Convert XLSM to SXC in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSM to SXC in Python. Python XLSM to SXC format. Save XLSM as SXC in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to SXC., Free Online Convert XLSM to SXC in Python., Python Convert XLSM to SXC., XLSM to SXC Converter]
+title: XLSM to SXC - Convert XLSM to SXC files Python
+description: Aspose Excel. Free Online Convert XLSM to SXC saveformat. Python XLSM to SXC format. Save XLSM as SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to SXC saveformat., Free Online XLSM to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

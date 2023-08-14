@@ -1,7 +1,7 @@
 ---
-title: PNG to DIF - Convert PNG to DIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to DIF in C#. C# PNG to DIF format. Save PNG as DIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to DIF., Free Online Convert PNG to DIF in C#., C# Convert PNG to DIF., PNG to DIF Converter]
+title: PNG to DIF - Convert PNG to DIF files C#
+description: Aspose Excel. Free Online Convert PNG to DIF saveformat. C# PNG to DIF format. Save PNG as DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to DIF saveformat., Free Online PNG to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

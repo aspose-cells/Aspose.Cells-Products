@@ -1,7 +1,7 @@
 ---
-title: SXC to XLAM - Convert SXC to XLAM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to XLAM in Java. Java SXC to XLAM format. Save SXC as XLAM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to XLAM., Free Online Convert SXC to XLAM in Java., Java Convert SXC to XLAM., SXC to XLAM Converter]
+title: SXC to XLAM - Convert SXC to XLAM files Java
+description: Aspose Excel. Free Online Convert SXC to XLAM saveformat. Java SXC to XLAM format. Save SXC as XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to XLAM saveformat., Free Online SXC to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

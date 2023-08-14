@@ -1,7 +1,7 @@
 ---
-title: OTS to FODS - Convert OTS to FODS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to FODS in C#. C# OTS to FODS format. Save OTS as FODS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to FODS., Free Online Convert OTS to FODS in C#., C# Convert OTS to FODS., OTS to FODS Converter]
+title: OTS to FODS - Convert OTS to FODS files C#
+description: Aspose Excel. Free Online Convert OTS to FODS saveformat. C# OTS to FODS format. Save OTS as FODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to FODS saveformat., Free Online OTS to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

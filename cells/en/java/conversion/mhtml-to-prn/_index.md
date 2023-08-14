@@ -1,7 +1,7 @@
 ---
-title: MHTML to PRN - Convert MHTML to PRN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHTML to PRN in Java. Java MHTML to PRN format. Save MHTML as PRN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to PRN., Free Online Convert MHTML to PRN in Java., Java Convert MHTML to PRN., MHTML to PRN Converter]
+title: MHTML to PRN - Convert MHTML to PRN files Java
+description: Aspose Excel. Free Online Convert MHTML to PRN saveformat. Java MHTML to PRN format. Save MHTML as PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHTML to PRN saveformat., Free Online MHTML to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

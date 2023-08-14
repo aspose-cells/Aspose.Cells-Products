@@ -1,7 +1,7 @@
 ---
-title: FODS to ET - Convert FODS to ET in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to ET in C#. C# FODS to ET format. Save FODS as ET in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to ET., Free Online Convert FODS to ET in C#., C# Convert FODS to ET., FODS to ET Converter]
+title: FODS to ET - Convert FODS to ET files C#
+description: Aspose Excel. Free Online Convert FODS to ET saveformat. C# FODS to ET format. Save FODS as ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to ET saveformat., Free Online FODS to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

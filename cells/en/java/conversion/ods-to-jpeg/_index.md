@@ -1,7 +1,7 @@
 ---
-title: ODS to JPEG - Convert ODS to JPEG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to JPEG in Java. Java ODS to JPEG format. Save ODS as JPEG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to JPEG., Free Online Convert ODS to JPEG in Java., Java Convert ODS to JPEG., ODS to JPEG Converter]
+title: ODS to JPEG - Convert ODS to JPEG files Java
+description: Aspose Excel. Free Online Convert ODS to JPEG saveformat. Java ODS to JPEG format. Save ODS as JPEG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to JPEG saveformat., Free Online ODS to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

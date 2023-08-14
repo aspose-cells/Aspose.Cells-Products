@@ -1,7 +1,7 @@
 ---
-title: EXCEL to SQL - Convert EXCEL to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert EXCEL to SQL in C#. C# EXCEL to SQL format. Save EXCEL as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# EXCEL to SQL., Free Online Convert EXCEL to SQL in C#., C# Convert EXCEL to SQL., EXCEL to SQL Converter]
+title: EXCEL to SQL - Convert EXCEL to SQL files C#
+description: Aspose Excel. Free Online Convert EXCEL to SQL saveformat. C# EXCEL to SQL format. Save EXCEL as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# EXCEL to SQL saveformat., Free Online EXCEL to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create BMP - Create BMP file in Python
-description: Python Aspose Cells. Python Create BMP File. Create BMP Python. Python BMP Creater. Create BMP in Python. Generate BMP file using Python.
+description: Aspose Excel. Python Create BMP File. Create BMP Python. Python BMP Creater. Create BMP in Python. Generate BMP file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create BMP Python., Python BMP Creater., Create BMP file in Python., Generate BMP file in Python]
 ---
 

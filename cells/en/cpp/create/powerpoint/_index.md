@@ -1,6 +1,6 @@
 ---
 title: Create POWERPOINT - Create POWERPOINT file in C++
-description: C++ Aspose Cells. C++ Create POWERPOINT File. Create POWERPOINT C++. C++ POWERPOINT Creater. Create POWERPOINT in C++. Generate POWERPOINT file using C++.
+description: Aspose Excel. C++ Create POWERPOINT File. Create POWERPOINT C++. C++ POWERPOINT Creater. Create POWERPOINT in C++. Generate POWERPOINT file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create POWERPOINT C++., C++ POWERPOINT Creater., Create POWERPOINT file in C++., Generate POWERPOINT file in C++]
 ---
 

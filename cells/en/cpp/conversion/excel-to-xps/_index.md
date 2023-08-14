@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XPS - Convert EXCEL to XPS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to XPS in C++. C++ EXCEL to XPS format. Save EXCEL as XPS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to XPS., Free Online Convert EXCEL to XPS in C++., C++ Convert EXCEL to XPS., EXCEL to XPS Converter]
+title: EXCEL to XPS - Convert EXCEL to XPS files C++
+description: Aspose Excel. Free Online Convert EXCEL to XPS saveformat. C++ EXCEL to XPS format. Save EXCEL as XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to XPS saveformat., Free Online EXCEL to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

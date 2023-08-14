@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLTM - Convert JPEG to XLTM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to XLTM in C++. C++ JPEG to XLTM format. Save JPEG as XLTM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XLTM., Free Online Convert JPEG to XLTM in C++., C++ Convert JPEG to XLTM., JPEG to XLTM Converter]
+title: JPEG to XLTM - Convert JPEG to XLTM files C++
+description: Aspose Excel. Free Online Convert JPEG to XLTM saveformat. C++ JPEG to XLTM format. Save JPEG as XLTM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XLTM saveformat., Free Online JPEG to XLTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

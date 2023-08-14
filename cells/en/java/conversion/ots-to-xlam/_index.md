@@ -1,7 +1,7 @@
 ---
-title: OTS to XLAM - Convert OTS to XLAM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert OTS to XLAM in Java. Java OTS to XLAM format. Save OTS as XLAM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to XLAM., Free Online Convert OTS to XLAM in Java., Java Convert OTS to XLAM., OTS to XLAM Converter]
+title: OTS to XLAM - Convert OTS to XLAM files Java
+description: Aspose Excel. Free Online Convert OTS to XLAM saveformat. Java OTS to XLAM format. Save OTS as XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to XLAM saveformat., Free Online OTS to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

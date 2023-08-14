@@ -1,7 +1,7 @@
 ---
-title: HTM to TXT - Convert HTM to TXT in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to TXT in Java. Java HTM to TXT format. Save HTM as TXT in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to TXT., Free Online Convert HTM to TXT in Java., Java Convert HTM to TXT., HTM to TXT Converter]
+title: HTM to TXT - Convert HTM to TXT files Java
+description: Aspose Excel. Free Online Convert HTM to TXT saveformat. Java HTM to TXT format. Save HTM as TXT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to TXT saveformat., Free Online HTM to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

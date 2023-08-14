@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to PPTX - Convert SPREADSHEETML to PPTX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert SPREADSHEETML to PPTX in Python. Python SPREADSHEETML to PPTX format. Save SPREADSHEETML as PPTX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SPREADSHEETML to PPTX., Free Online Convert SPREADSHEETML to PPTX in Python., Python Convert SPREADSHEETML to PPTX., SPREADSHEETML to PPTX Converter]
+title: SPREADSHEETML to PPTX - Convert SPREADSHEETML to PPTX files Python
+description: Aspose Excel. Free Online Convert SPREADSHEETML to PPTX saveformat. Python SPREADSHEETML to PPTX format. Save SPREADSHEETML as PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SPREADSHEETML to PPTX saveformat., Free Online SPREADSHEETML to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create POWERPOINT - Create POWERPOINT file in Python
-description: Python Aspose Cells. Python Create POWERPOINT File. Create POWERPOINT Python. Python POWERPOINT Creater. Create POWERPOINT in Python. Generate POWERPOINT file using Python.
+description: Aspose Excel. Python Create POWERPOINT File. Create POWERPOINT Python. Python POWERPOINT Creater. Create POWERPOINT in Python. Generate POWERPOINT file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create POWERPOINT Python., Python POWERPOINT Creater., Create POWERPOINT file in Python., Generate POWERPOINT file in Python]
 ---
 

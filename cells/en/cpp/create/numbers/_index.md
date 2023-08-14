@@ -1,6 +1,6 @@
 ---
 title: Create NUMBERS - Create NUMBERS file in C++
-description: C++ Aspose Cells. C++ Create NUMBERS File. Create NUMBERS C++. C++ NUMBERS Creater. Create NUMBERS in C++. Generate NUMBERS file using C++.
+description: Aspose Excel. C++ Create NUMBERS File. Create NUMBERS C++. C++ NUMBERS Creater. Create NUMBERS in C++. Generate NUMBERS file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create NUMBERS C++., C++ NUMBERS Creater., Create NUMBERS file in C++., Generate NUMBERS file in C++]
 ---
 

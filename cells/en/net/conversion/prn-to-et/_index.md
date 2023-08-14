@@ -1,7 +1,7 @@
 ---
-title: PRN to ET - Convert PRN to ET in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PRN to ET in C#. C# PRN to ET format. Save PRN as ET in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to ET., Free Online Convert PRN to ET in C#., C# Convert PRN to ET., PRN to ET Converter]
+title: PRN to ET - Convert PRN to ET files C#
+description: Aspose Excel. Free Online Convert PRN to ET saveformat. C# PRN to ET format. Save PRN as ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to ET saveformat., Free Online PRN to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

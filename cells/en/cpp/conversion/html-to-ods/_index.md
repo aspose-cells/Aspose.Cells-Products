@@ -1,7 +1,7 @@
 ---
-title: HTML to ODS - Convert HTML to ODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTML to ODS in C++. C++ HTML to ODS format. Save HTML as ODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to ODS., Free Online Convert HTML to ODS in C++., C++ Convert HTML to ODS., HTML to ODS Converter]
+title: HTML to ODS - Convert HTML to ODS files C++
+description: Aspose Excel. Free Online Convert HTML to ODS saveformat. C++ HTML to ODS format. Save HTML as ODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to ODS saveformat., Free Online HTML to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

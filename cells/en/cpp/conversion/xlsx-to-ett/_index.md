@@ -1,7 +1,7 @@
 ---
-title: XLSX to ETT - Convert XLSX to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to ETT in C++. C++ XLSX to ETT format. Save XLSX as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to ETT., Free Online Convert XLSX to ETT in C++., C++ Convert XLSX to ETT., XLSX to ETT Converter]
+title: XLSX to ETT - Convert XLSX to ETT files C++
+description: Aspose Excel. Free Online Convert XLSX to ETT saveformat. C++ XLSX to ETT format. Save XLSX as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to ETT saveformat., Free Online XLSX to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

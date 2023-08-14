@@ -1,7 +1,7 @@
 ---
-title: XML to DIF - Convert XML to DIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XML to DIF in C++. C++ XML to DIF format. Save XML as DIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to DIF., Free Online Convert XML to DIF in C++., C++ Convert XML to DIF., XML to DIF Converter]
+title: XML to DIF - Convert XML to DIF files C++
+description: Aspose Excel. Free Online Convert XML to DIF saveformat. C++ XML to DIF format. Save XML as DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XML to DIF saveformat., Free Online XML to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

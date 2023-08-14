@@ -1,6 +1,6 @@
 ---
 title: Create XLS - Create XLS file in C#
-description: C# Aspose Cells. C# Create XLS File. Create XLS C#. C# XLS Creater. Create XLS in C#. Generate XLS file using C#.
+description: Aspose Excel. C# Create XLS File. Create XLS C#. C# XLS Creater. Create XLS in C#. Generate XLS file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create XLS C#., C# XLS Creater., Create XLS file in C#., Generate XLS file in C#]
 ---
 

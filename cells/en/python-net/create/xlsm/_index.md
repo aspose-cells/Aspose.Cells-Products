@@ -1,6 +1,6 @@
 ---
 title: Create XLSM - Create XLSM file in Python
-description: Python Aspose Cells. Python Create XLSM File. Create XLSM Python. Python XLSM Creater. Create XLSM in Python. Generate XLSM file using Python.
+description: Aspose Excel. Python Create XLSM File. Create XLSM Python. Python XLSM Creater. Create XLSM in Python. Generate XLSM file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create XLSM Python., Python XLSM Creater., Create XLSM file in Python., Generate XLSM file in Python]
 ---
 

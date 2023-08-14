@@ -1,7 +1,7 @@
 ---
-title: MHT to XLTX - Convert MHT to XLTX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to XLTX in C++. C++ MHT to XLTX format. Save MHT as XLTX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to XLTX., Free Online Convert MHT to XLTX in C++., C++ Convert MHT to XLTX., MHT to XLTX Converter]
+title: MHT to XLTX - Convert MHT to XLTX files C++
+description: Aspose Excel. Free Online Convert MHT to XLTX saveformat. C++ MHT to XLTX format. Save MHT as XLTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to XLTX saveformat., Free Online MHT to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

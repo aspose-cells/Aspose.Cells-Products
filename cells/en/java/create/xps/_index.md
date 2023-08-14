@@ -1,6 +1,6 @@
 ---
 title: Create XPS - Create XPS file in Java
-description: Java Aspose Cells. Java Create XPS File. Create XPS Java. Java XPS Creater. Create XPS in Java. Generate XPS file using Java.
+description: Aspose Excel. Java Create XPS File. Create XPS Java. Java XPS Creater. Create XPS in Java. Generate XPS file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XPS Java., Java XPS Creater., Create XPS file in Java., Generate XPS file in Java]
 ---
 

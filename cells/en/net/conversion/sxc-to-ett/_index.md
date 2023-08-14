@@ -1,7 +1,7 @@
 ---
-title: SXC to ETT - Convert SXC to ETT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to ETT in C#. C# SXC to ETT format. Save SXC as ETT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to ETT., Free Online Convert SXC to ETT in C#., C# Convert SXC to ETT., SXC to ETT Converter]
+title: SXC to ETT - Convert SXC to ETT files C#
+description: Aspose Excel. Free Online Convert SXC to ETT saveformat. C# SXC to ETT format. Save SXC as ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to ETT saveformat., Free Online SXC to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

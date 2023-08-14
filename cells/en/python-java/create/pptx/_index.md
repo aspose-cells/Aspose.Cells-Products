@@ -1,6 +1,6 @@
 ---
 title: Create PPTX - Create PPTX file in Python
-description: Python Aspose Cells. Python Create PPTX File. Create PPTX Python. Python PPTX Creater. Create PPTX in Python. Generate PPTX file using Python.
+description: Aspose Excel. Python Create PPTX File. Create PPTX Python. Python PPTX Creater. Create PPTX in Python. Generate PPTX file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create PPTX Python., Python PPTX Creater., Create PPTX file in Python., Generate PPTX file in Python]
 ---
 

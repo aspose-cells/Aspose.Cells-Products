@@ -1,7 +1,7 @@
 ---
-title: PNG to WORD - Convert PNG to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to WORD in Python. Python PNG to WORD format. Save PNG as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to WORD., Free Online Convert PNG to WORD in Python., Python Convert PNG to WORD., PNG to WORD Converter]
+title: PNG to WORD - Convert PNG to WORD files Python
+description: Aspose Excel. Free Online Convert PNG to WORD saveformat. Python PNG to WORD format. Save PNG as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to WORD saveformat., Free Online PNG to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

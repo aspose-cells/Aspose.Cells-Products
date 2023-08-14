@@ -1,7 +1,7 @@
 ---
-title: ODS to SXC - Convert ODS to SXC in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert ODS to SXC in C#. C# ODS to SXC format. Save ODS as SXC in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to SXC., Free Online Convert ODS to SXC in C#., C# Convert ODS to SXC., ODS to SXC Converter]
+title: ODS to SXC - Convert ODS to SXC files C#
+description: Aspose Excel. Free Online Convert ODS to SXC saveformat. C# ODS to SXC format. Save ODS as SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to SXC saveformat., Free Online ODS to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: MHT to FODS - Convert MHT to FODS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to FODS in C#. C# MHT to FODS format. Save MHT as FODS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to FODS., Free Online Convert MHT to FODS in C#., C# Convert MHT to FODS., MHT to FODS Converter]
+title: MHT to FODS - Convert MHT to FODS files C#
+description: Aspose Excel. Free Online Convert MHT to FODS saveformat. C# MHT to FODS format. Save MHT as FODS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to FODS saveformat., Free Online MHT to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

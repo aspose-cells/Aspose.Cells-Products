@@ -1,6 +1,6 @@
 ---
 title: Create CSV - Create CSV file in Java
-description: Java Aspose Cells. Java Create CSV File. Create CSV Java. Java CSV Creater. Create CSV in Java. Generate CSV file using Java.
+description: Aspose Excel. Java Create CSV File. Create CSV Java. Java CSV Creater. Create CSV in Java. Generate CSV file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create CSV Java., Java CSV Creater., Create CSV file in Java., Generate CSV file in Java]
 ---
 

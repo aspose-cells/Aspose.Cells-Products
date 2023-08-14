@@ -1,7 +1,7 @@
 ---
-title: JPG to PDF - Convert JPG to PDF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to PDF in C++. C++ JPG to PDF format. Save JPG as PDF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to PDF., Free Online Convert JPG to PDF in C++., C++ Convert JPG to PDF., JPG to PDF Converter]
+title: JPG to PDF - Convert JPG to PDF files C++
+description: Aspose Excel. Free Online Convert JPG to PDF saveformat. C++ JPG to PDF format. Save JPG as PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to PDF saveformat., Free Online JPG to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

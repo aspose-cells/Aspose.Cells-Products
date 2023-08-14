@@ -1,7 +1,7 @@
 ---
-title: ODS to XPS - Convert ODS to XPS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert ODS to XPS in Python. Python ODS to XPS format. Save ODS as XPS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to XPS., Free Online Convert ODS to XPS in Python., Python Convert ODS to XPS., ODS to XPS Converter]
+title: ODS to XPS - Convert ODS to XPS files Python
+description: Aspose Excel. Free Online Convert ODS to XPS saveformat. Python ODS to XPS format. Save ODS as XPS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to XPS saveformat., Free Online ODS to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

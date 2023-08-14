@@ -1,7 +1,7 @@
 ---
-title: PRN to ETT - Convert PRN to ETT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PRN to ETT in C++. C++ PRN to ETT format. Save PRN as ETT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to ETT., Free Online Convert PRN to ETT in C++., C++ Convert PRN to ETT., PRN to ETT Converter]
+title: PRN to ETT - Convert PRN to ETT files C++
+description: Aspose Excel. Free Online Convert PRN to ETT saveformat. C++ PRN to ETT format. Save PRN as ETT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to ETT saveformat., Free Online PRN to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

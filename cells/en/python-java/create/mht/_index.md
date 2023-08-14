@@ -1,6 +1,6 @@
 ---
 title: Create MHT - Create MHT file in Python
-description: Python Aspose Cells. Python Create MHT File. Create MHT Python. Python MHT Creater. Create MHT in Python. Generate MHT file using Python.
+description: Aspose Excel. Python Create MHT File. Create MHT Python. Python MHT Creater. Create MHT in Python. Generate MHT file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create MHT Python., Python MHT Creater., Create MHT file in Python., Generate MHT file in Python]
 ---
 

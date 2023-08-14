@@ -1,7 +1,7 @@
 ---
-title: TXT to XLSB - Convert TXT to XLSB in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to XLSB in C#. C# TXT to XLSB format. Save TXT as XLSB in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to XLSB., Free Online Convert TXT to XLSB in C#., C# Convert TXT to XLSB., TXT to XLSB Converter]
+title: TXT to XLSB - Convert TXT to XLSB files C#
+description: Aspose Excel. Free Online Convert TXT to XLSB saveformat. C# TXT to XLSB format. Save TXT as XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to XLSB saveformat., Free Online TXT to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

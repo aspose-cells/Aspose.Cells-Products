@@ -1,6 +1,6 @@
 ---
 title: Create TXT - Create TXT file in Java
-description: Java Aspose Cells. Java Create TXT File. Create TXT Java. Java TXT Creater. Create TXT in Java. Generate TXT file using Java.
+description: Aspose Excel. Java Create TXT File. Create TXT Java. Java TXT Creater. Create TXT in Java. Generate TXT file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create TXT Java., Java TXT Creater., Create TXT file in Java., Generate TXT file in Java]
 ---
 

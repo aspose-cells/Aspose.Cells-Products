@@ -1,7 +1,7 @@
 ---
-title: MHT to GIF - Convert MHT to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to GIF in Python. Python MHT to GIF format. Save MHT as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to GIF., Free Online Convert MHT to GIF in Python., Python Convert MHT to GIF., MHT to GIF Converter]
+title: MHT to GIF - Convert MHT to GIF files Python
+description: Aspose Excel. Free Online Convert MHT to GIF saveformat. Python MHT to GIF format. Save MHT as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to GIF saveformat., Free Online MHT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

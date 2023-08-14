@@ -1,7 +1,7 @@
 ---
-title: MHTML to XLAM - Convert MHTML to XLAM in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to XLAM in Python. Python MHTML to XLAM format. Save MHTML as XLAM in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to XLAM., Free Online Convert MHTML to XLAM in Python., Python Convert MHTML to XLAM., MHTML to XLAM Converter]
+title: MHTML to XLAM - Convert MHTML to XLAM files Python
+description: Aspose Excel. Free Online Convert MHTML to XLAM saveformat. Python MHTML to XLAM format. Save MHTML as XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to XLAM saveformat., Free Online MHTML to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

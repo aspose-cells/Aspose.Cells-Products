@@ -1,7 +1,7 @@
 ---
-title: XLTX to PNG - Convert XLTX to PNG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to PNG in C++. C++ XLTX to PNG format. Save XLTX as PNG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to PNG., Free Online Convert XLTX to PNG in C++., C++ Convert XLTX to PNG., XLTX to PNG Converter]
+title: XLTX to PNG - Convert XLTX to PNG files C++
+description: Aspose Excel. Free Online Convert XLTX to PNG saveformat. C++ XLTX to PNG format. Save XLTX as PNG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to PNG saveformat., Free Online XLTX to PNG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

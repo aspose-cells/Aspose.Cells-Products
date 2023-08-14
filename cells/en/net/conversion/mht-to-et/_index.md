@@ -1,7 +1,7 @@
 ---
-title: MHT to ET - Convert MHT to ET in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to ET in C#. C# MHT to ET format. Save MHT as ET in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to ET., Free Online Convert MHT to ET in C#., C# Convert MHT to ET., MHT to ET Converter]
+title: MHT to ET - Convert MHT to ET files C#
+description: Aspose Excel. Free Online Convert MHT to ET saveformat. C# MHT to ET format. Save MHT as ET in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to ET saveformat., Free Online MHT to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

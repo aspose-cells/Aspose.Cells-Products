@@ -1,7 +1,7 @@
 ---
-title: PRN to PPTX - Convert PRN to PPTX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PRN to PPTX in Java. Java PRN to PPTX format. Save PRN as PPTX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to PPTX., Free Online Convert PRN to PPTX in Java., Java Convert PRN to PPTX., PRN to PPTX Converter]
+title: PRN to PPTX - Convert PRN to PPTX files Java
+description: Aspose Excel. Free Online Convert PRN to PPTX saveformat. Java PRN to PPTX format. Save PRN as PPTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to PPTX saveformat., Free Online PRN to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

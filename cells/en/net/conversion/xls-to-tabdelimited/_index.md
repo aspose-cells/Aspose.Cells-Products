@@ -1,7 +1,7 @@
 ---
-title: XLS to TABDELIMITED - Convert XLS to TABDELIMITED in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLS to TABDELIMITED in C#. C# XLS to TABDELIMITED format. Save XLS as TABDELIMITED in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to TABDELIMITED., Free Online Convert XLS to TABDELIMITED in C#., C# Convert XLS to TABDELIMITED., XLS to TABDELIMITED Converter]
+title: XLS to TABDELIMITED - Convert XLS to TABDELIMITED files C#
+description: Aspose Excel. Free Online Convert XLS to TABDELIMITED saveformat. C# XLS to TABDELIMITED format. Save XLS as TABDELIMITED in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to TABDELIMITED saveformat., Free Online XLS to TABDELIMITED Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

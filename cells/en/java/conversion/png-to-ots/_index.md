@@ -1,7 +1,7 @@
 ---
-title: PNG to OTS - Convert PNG to OTS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to OTS in Java. Java PNG to OTS format. Save PNG as OTS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to OTS., Free Online Convert PNG to OTS in Java., Java Convert PNG to OTS., PNG to OTS Converter]
+title: PNG to OTS - Convert PNG to OTS files Java
+description: Aspose Excel. Free Online Convert PNG to OTS saveformat. Java PNG to OTS format. Save PNG as OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to OTS saveformat., Free Online PNG to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

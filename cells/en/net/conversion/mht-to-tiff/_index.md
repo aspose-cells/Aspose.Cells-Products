@@ -1,7 +1,7 @@
 ---
-title: MHT to TIFF - Convert MHT to TIFF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to TIFF in C#. C# MHT to TIFF format. Save MHT as TIFF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to TIFF., Free Online Convert MHT to TIFF in C#., C# Convert MHT to TIFF., MHT to TIFF Converter]
+title: MHT to TIFF - Convert MHT to TIFF files C#
+description: Aspose Excel. Free Online Convert MHT to TIFF saveformat. C# MHT to TIFF format. Save MHT as TIFF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to TIFF saveformat., Free Online MHT to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

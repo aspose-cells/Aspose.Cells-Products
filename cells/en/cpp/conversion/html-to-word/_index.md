@@ -1,7 +1,7 @@
 ---
-title: HTML to WORD - Convert HTML to WORD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTML to WORD in C++. C++ HTML to WORD format. Save HTML as WORD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to WORD., Free Online Convert HTML to WORD in C++., C++ Convert HTML to WORD., HTML to WORD Converter]
+title: HTML to WORD - Convert HTML to WORD files C++
+description: Aspose Excel. Free Online Convert HTML to WORD saveformat. C++ HTML to WORD format. Save HTML as WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to WORD saveformat., Free Online HTML to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

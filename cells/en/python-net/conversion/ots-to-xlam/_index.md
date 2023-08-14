@@ -1,7 +1,7 @@
 ---
-title: OTS to XLAM - Convert OTS to XLAM in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert OTS to XLAM in Python. Python OTS to XLAM format. Save OTS as XLAM in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to XLAM., Free Online Convert OTS to XLAM in Python., Python Convert OTS to XLAM., OTS to XLAM Converter]
+title: OTS to XLAM - Convert OTS to XLAM files Python
+description: Aspose Excel. Free Online Convert OTS to XLAM saveformat. Python OTS to XLAM format. Save OTS as XLAM in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to XLAM saveformat., Free Online OTS to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

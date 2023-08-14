@@ -1,6 +1,6 @@
 ---
 title: Create EMF - Create EMF file in Python
-description: Python Aspose Cells. Python Create EMF File. Create EMF Python. Python EMF Creater. Create EMF in Python. Generate EMF file using Python.
+description: Aspose Excel. Python Create EMF File. Create EMF Python. Python EMF Creater. Create EMF in Python. Generate EMF file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create EMF Python., Python EMF Creater., Create EMF file in Python., Generate EMF file in Python]
 ---
 

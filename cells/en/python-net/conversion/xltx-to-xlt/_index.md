@@ -1,7 +1,7 @@
 ---
-title: XLTX to XLT - Convert XLTX to XLT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTX to XLT in Python. Python XLTX to XLT format. Save XLTX as XLT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to XLT., Free Online Convert XLTX to XLT in Python., Python Convert XLTX to XLT., XLTX to XLT Converter]
+title: XLTX to XLT - Convert XLTX to XLT files Python
+description: Aspose Excel. Free Online Convert XLTX to XLT saveformat. Python XLTX to XLT format. Save XLTX as XLT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTX to XLT saveformat., Free Online XLTX to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

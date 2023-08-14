@@ -1,7 +1,7 @@
 ---
-title: FODS to MD - Convert FODS to MD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to MD in Python. Python FODS to MD format. Save FODS as MD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to MD., Free Online Convert FODS to MD in Python., Python Convert FODS to MD., FODS to MD Converter]
+title: FODS to MD - Convert FODS to MD files Python
+description: Aspose Excel. Free Online Convert FODS to MD saveformat. Python FODS to MD format. Save FODS as MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to MD saveformat., Free Online FODS to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

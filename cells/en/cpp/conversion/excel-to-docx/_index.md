@@ -1,7 +1,7 @@
 ---
-title: EXCEL to DOCX - Convert EXCEL to DOCX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to DOCX in C++. C++ EXCEL to DOCX format. Save EXCEL as DOCX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to DOCX., Free Online Convert EXCEL to DOCX in C++., C++ Convert EXCEL to DOCX., EXCEL to DOCX Converter]
+title: EXCEL to DOCX - Convert EXCEL to DOCX files C++
+description: Aspose Excel. Free Online Convert EXCEL to DOCX saveformat. C++ EXCEL to DOCX format. Save EXCEL as DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to DOCX saveformat., Free Online EXCEL to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create JPEG - Create JPEG file in C++
-description: C++ Aspose Cells. C++ Create JPEG File. Create JPEG C++. C++ JPEG Creater. Create JPEG in C++. Generate JPEG file using C++.
+description: Aspose Excel. C++ Create JPEG File. Create JPEG C++. C++ JPEG Creater. Create JPEG in C++. Generate JPEG file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create JPEG C++., C++ JPEG Creater., Create JPEG file in C++., Generate JPEG file in C++]
 ---
 

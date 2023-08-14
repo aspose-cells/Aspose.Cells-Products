@@ -1,7 +1,7 @@
 ---
-title: SXC to MARKDOWN - Convert SXC to MARKDOWN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert SXC to MARKDOWN in C#. C# SXC to MARKDOWN format. Save SXC as MARKDOWN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to MARKDOWN., Free Online Convert SXC to MARKDOWN in C#., C# Convert SXC to MARKDOWN., SXC to MARKDOWN Converter]
+title: SXC to MARKDOWN - Convert SXC to MARKDOWN files C#
+description: Aspose Excel. Free Online Convert SXC to MARKDOWN saveformat. C# SXC to MARKDOWN format. Save SXC as MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# SXC to MARKDOWN saveformat., Free Online SXC to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

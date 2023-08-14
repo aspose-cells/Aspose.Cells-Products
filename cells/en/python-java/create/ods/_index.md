@@ -1,6 +1,6 @@
 ---
 title: Create ODS - Create ODS file in Python
-description: Python Aspose Cells. Python Create ODS File. Create ODS Python. Python ODS Creater. Create ODS in Python. Generate ODS file using Python.
+description: Aspose Excel. Python Create ODS File. Create ODS Python. Python ODS Creater. Create ODS in Python. Generate ODS file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create ODS Python., Python ODS Creater., Create ODS file in Python., Generate ODS file in Python]
 ---
 

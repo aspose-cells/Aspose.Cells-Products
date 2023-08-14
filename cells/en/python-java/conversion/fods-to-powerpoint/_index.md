@@ -1,7 +1,7 @@
 ---
-title: FODS to POWERPOINT - Convert FODS to POWERPOINT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to POWERPOINT in Python. Python FODS to POWERPOINT format. Save FODS as POWERPOINT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to POWERPOINT., Free Online Convert FODS to POWERPOINT in Python., Python Convert FODS to POWERPOINT., FODS to POWERPOINT Converter]
+title: FODS to POWERPOINT - Convert FODS to POWERPOINT files Python
+description: Aspose Excel. Free Online Convert FODS to POWERPOINT saveformat. Python FODS to POWERPOINT format. Save FODS as POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to POWERPOINT saveformat., Free Online FODS to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

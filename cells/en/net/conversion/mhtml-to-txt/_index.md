@@ -1,7 +1,7 @@
 ---
-title: MHTML to TXT - Convert MHTML to TXT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHTML to TXT in C#. C# MHTML to TXT format. Save MHTML as TXT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to TXT., Free Online Convert MHTML to TXT in C#., C# Convert MHTML to TXT., MHTML to TXT Converter]
+title: MHTML to TXT - Convert MHTML to TXT files C#
+description: Aspose Excel. Free Online Convert MHTML to TXT saveformat. C# MHTML to TXT format. Save MHTML as TXT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to TXT saveformat., Free Online MHTML to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

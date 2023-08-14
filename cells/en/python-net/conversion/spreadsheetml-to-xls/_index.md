@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to XLS - Convert SPREADSHEETML to XLS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert SPREADSHEETML to XLS in Python. Python SPREADSHEETML to XLS format. Save SPREADSHEETML as XLS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SPREADSHEETML to XLS., Free Online Convert SPREADSHEETML to XLS in Python., Python Convert SPREADSHEETML to XLS., SPREADSHEETML to XLS Converter]
+title: SPREADSHEETML to XLS - Convert SPREADSHEETML to XLS files Python
+description: Aspose Excel. Free Online Convert SPREADSHEETML to XLS saveformat. Python SPREADSHEETML to XLS format. Save SPREADSHEETML as XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SPREADSHEETML to XLS saveformat., Free Online SPREADSHEETML to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

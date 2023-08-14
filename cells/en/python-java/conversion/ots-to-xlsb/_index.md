@@ -1,7 +1,7 @@
 ---
-title: OTS to XLSB - Convert OTS to XLSB in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert OTS to XLSB in Python. Python OTS to XLSB format. Save OTS as XLSB in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to XLSB., Free Online Convert OTS to XLSB in Python., Python Convert OTS to XLSB., OTS to XLSB Converter]
+title: OTS to XLSB - Convert OTS to XLSB files Python
+description: Aspose Excel. Free Online Convert OTS to XLSB saveformat. Python OTS to XLSB format. Save OTS as XLSB in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python OTS to XLSB saveformat., Free Online OTS to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

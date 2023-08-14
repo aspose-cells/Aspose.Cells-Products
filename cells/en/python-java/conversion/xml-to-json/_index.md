@@ -1,7 +1,7 @@
 ---
-title: XML to JSON - Convert XML to JSON in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XML to JSON in Python. Python XML to JSON format. Save XML as JSON in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XML to JSON., Free Online Convert XML to JSON in Python., Python Convert XML to JSON., XML to JSON Converter]
+title: XML to JSON - Convert XML to JSON files Python
+description: Aspose Excel. Free Online Convert XML to JSON saveformat. Python XML to JSON format. Save XML as JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XML to JSON saveformat., Free Online XML to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

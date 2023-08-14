@@ -1,7 +1,7 @@
 ---
-title: TXT to XLTX - Convert TXT to XLTX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert TXT to XLTX in Java. Java TXT to XLTX format. Save TXT as XLTX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to XLTX., Free Online Convert TXT to XLTX in Java., Java Convert TXT to XLTX., TXT to XLTX Converter]
+title: TXT to XLTX - Convert TXT to XLTX files Java
+description: Aspose Excel. Free Online Convert TXT to XLTX saveformat. Java TXT to XLTX format. Save TXT as XLTX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java TXT to XLTX saveformat., Free Online TXT to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

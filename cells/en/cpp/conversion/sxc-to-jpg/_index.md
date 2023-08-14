@@ -1,7 +1,7 @@
 ---
-title: SXC to JPG - Convert SXC to JPG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to JPG in C++. C++ SXC to JPG format. Save SXC as JPG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to JPG., Free Online Convert SXC to JPG in C++., C++ Convert SXC to JPG., SXC to JPG Converter]
+title: SXC to JPG - Convert SXC to JPG files C++
+description: Aspose Excel. Free Online Convert SXC to JPG saveformat. C++ SXC to JPG format. Save SXC as JPG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to JPG saveformat., Free Online SXC to JPG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

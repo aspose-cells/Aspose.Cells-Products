@@ -1,7 +1,7 @@
 ---
-title: EXCEL to ET - Convert EXCEL to ET in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to ET in C++. C++ EXCEL to ET format. Save EXCEL as ET in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to ET., Free Online Convert EXCEL to ET in C++., C++ Convert EXCEL to ET., EXCEL to ET Converter]
+title: EXCEL to ET - Convert EXCEL to ET files C++
+description: Aspose Excel. Free Online Convert EXCEL to ET saveformat. C++ EXCEL to ET format. Save EXCEL as ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to ET saveformat., Free Online EXCEL to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

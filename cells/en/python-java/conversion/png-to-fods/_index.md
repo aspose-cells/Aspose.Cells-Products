@@ -1,7 +1,7 @@
 ---
-title: PNG to FODS - Convert PNG to FODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to FODS in Python. Python PNG to FODS format. Save PNG as FODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to FODS., Free Online Convert PNG to FODS in Python., Python Convert PNG to FODS., PNG to FODS Converter]
+title: PNG to FODS - Convert PNG to FODS files Python
+description: Aspose Excel. Free Online Convert PNG to FODS saveformat. Python PNG to FODS format. Save PNG as FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to FODS saveformat., Free Online PNG to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

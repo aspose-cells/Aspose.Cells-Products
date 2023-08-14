@@ -1,6 +1,6 @@
 ---
 title: Create WORD - Create WORD file in Java
-description: Java Aspose Cells. Java Create WORD File. Create WORD Java. Java WORD Creater. Create WORD in Java. Generate WORD file using Java.
+description: Aspose Excel. Java Create WORD File. Create WORD Java. Java WORD Creater. Create WORD in Java. Generate WORD file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create WORD Java., Java WORD Creater., Create WORD file in Java., Generate WORD file in Java]
 ---
 

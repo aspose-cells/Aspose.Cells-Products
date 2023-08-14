@@ -1,7 +1,7 @@
 ---
-title: MHTML to DIF - Convert MHTML to DIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHTML to DIF in C#. C# MHTML to DIF format. Save MHTML as DIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to DIF., Free Online Convert MHTML to DIF in C#., C# Convert MHTML to DIF., MHTML to DIF Converter]
+title: MHTML to DIF - Convert MHTML to DIF files C#
+description: Aspose Excel. Free Online Convert MHTML to DIF saveformat. C# MHTML to DIF format. Save MHTML as DIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to DIF saveformat., Free Online MHTML to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

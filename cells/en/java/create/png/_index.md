@@ -1,6 +1,6 @@
 ---
 title: Create PNG - Create PNG file in Java
-description: Java Aspose Cells. Java Create PNG File. Create PNG Java. Java PNG Creater. Create PNG in Java. Generate PNG file using Java.
+description: Aspose Excel. Java Create PNG File. Create PNG Java. Java PNG Creater. Create PNG in Java. Generate PNG file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create PNG Java., Java PNG Creater., Create PNG file in Java., Generate PNG file in Java]
 ---
 

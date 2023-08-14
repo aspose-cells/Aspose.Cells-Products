@@ -1,7 +1,7 @@
 ---
-title: FODS to XLT - Convert FODS to XLT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to XLT in C#. C# FODS to XLT format. Save FODS as XLT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to XLT., Free Online Convert FODS to XLT in C#., C# Convert FODS to XLT., FODS to XLT Converter]
+title: FODS to XLT - Convert FODS to XLT files C#
+description: Aspose Excel. Free Online Convert FODS to XLT saveformat. C# FODS to XLT format. Save FODS as XLT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to XLT saveformat., Free Online FODS to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

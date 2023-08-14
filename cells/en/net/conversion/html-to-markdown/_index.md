@@ -1,7 +1,7 @@
 ---
-title: HTML to MARKDOWN - Convert HTML to MARKDOWN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTML to MARKDOWN in C#. C# HTML to MARKDOWN format. Save HTML as MARKDOWN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to MARKDOWN., Free Online Convert HTML to MARKDOWN in C#., C# Convert HTML to MARKDOWN., HTML to MARKDOWN Converter]
+title: HTML to MARKDOWN - Convert HTML to MARKDOWN files C#
+description: Aspose Excel. Free Online Convert HTML to MARKDOWN saveformat. C# HTML to MARKDOWN format. Save HTML as MARKDOWN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTML to MARKDOWN saveformat., Free Online HTML to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

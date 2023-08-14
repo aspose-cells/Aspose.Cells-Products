@@ -1,7 +1,7 @@
 ---
-title: MHT to XLAM - Convert MHT to XLAM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to XLAM in C++. C++ MHT to XLAM format. Save MHT as XLAM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to XLAM., Free Online Convert MHT to XLAM in C++., C++ Convert MHT to XLAM., MHT to XLAM Converter]
+title: MHT to XLAM - Convert MHT to XLAM files C++
+description: Aspose Excel. Free Online Convert MHT to XLAM saveformat. C++ MHT to XLAM format. Save MHT as XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to XLAM saveformat., Free Online MHT to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

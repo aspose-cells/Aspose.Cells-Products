@@ -1,6 +1,6 @@
 ---
 title: Create PPTX - Create PPTX file in Java
-description: Java Aspose Cells. Java Create PPTX File. Create PPTX Java. Java PPTX Creater. Create PPTX in Java. Generate PPTX file using Java.
+description: Aspose Excel. Java Create PPTX File. Create PPTX Java. Java PPTX Creater. Create PPTX in Java. Generate PPTX file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create PPTX Java., Java PPTX Creater., Create PPTX file in Java., Generate PPTX file in Java]
 ---
 

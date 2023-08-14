@@ -1,7 +1,7 @@
 ---
-title: TXT to GIF - Convert TXT to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to GIF in Python. Python TXT to GIF format. Save TXT as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to GIF., Free Online Convert TXT to GIF in Python., Python Convert TXT to GIF., TXT to GIF Converter]
+title: TXT to GIF - Convert TXT to GIF files Python
+description: Aspose Excel. Free Online Convert TXT to GIF saveformat. Python TXT to GIF format. Save TXT as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to GIF saveformat., Free Online TXT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

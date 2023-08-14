@@ -1,7 +1,7 @@
 ---
-title: MHTML to XLAM - Convert MHTML to XLAM in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHTML to XLAM in C#. C# MHTML to XLAM format. Save MHTML as XLAM in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to XLAM., Free Online Convert MHTML to XLAM in C#., C# Convert MHTML to XLAM., MHTML to XLAM Converter]
+title: MHTML to XLAM - Convert MHTML to XLAM files C#
+description: Aspose Excel. Free Online Convert MHTML to XLAM saveformat. C# MHTML to XLAM format. Save MHTML as XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHTML to XLAM saveformat., Free Online MHTML to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

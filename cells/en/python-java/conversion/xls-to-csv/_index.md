@@ -1,7 +1,7 @@
 ---
-title: XLS to CSV - Convert XLS to CSV in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLS to CSV in Python. Python XLS to CSV format. Save XLS as CSV in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to CSV., Free Online Convert XLS to CSV in Python., Python Convert XLS to CSV., XLS to CSV Converter]
+title: XLS to CSV - Convert XLS to CSV files Python
+description: Aspose Excel. Free Online Convert XLS to CSV saveformat. Python XLS to CSV format. Save XLS as CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to CSV saveformat., Free Online XLS to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

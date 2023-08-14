@@ -1,7 +1,7 @@
 ---
-title: XLTX to XLAM - Convert XLTX to XLAM in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLTX to XLAM in C#. C# XLTX to XLAM format. Save XLTX as XLAM in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to XLAM., Free Online Convert XLTX to XLAM in C#., C# Convert XLTX to XLAM., XLTX to XLAM Converter]
+title: XLTX to XLAM - Convert XLTX to XLAM files C#
+description: Aspose Excel. Free Online Convert XLTX to XLAM saveformat. C# XLTX to XLAM format. Save XLTX as XLAM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to XLAM saveformat., Free Online XLTX to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

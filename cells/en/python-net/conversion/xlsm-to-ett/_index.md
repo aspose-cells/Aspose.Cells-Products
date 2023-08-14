@@ -1,7 +1,7 @@
 ---
-title: XLSM to ETT - Convert XLSM to ETT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSM to ETT in Python. Python XLSM to ETT format. Save XLSM as ETT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to ETT., Free Online Convert XLSM to ETT in Python., Python Convert XLSM to ETT., XLSM to ETT Converter]
+title: XLSM to ETT - Convert XLSM to ETT files Python
+description: Aspose Excel. Free Online Convert XLSM to ETT saveformat. Python XLSM to ETT format. Save XLSM as ETT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to ETT saveformat., Free Online XLSM to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

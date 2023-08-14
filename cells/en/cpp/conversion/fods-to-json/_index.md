@@ -1,7 +1,7 @@
 ---
-title: FODS to JSON - Convert FODS to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to JSON in C++. C++ FODS to JSON format. Save FODS as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to JSON., Free Online Convert FODS to JSON in C++., C++ Convert FODS to JSON., FODS to JSON Converter]
+title: FODS to JSON - Convert FODS to JSON files C++
+description: Aspose Excel. Free Online Convert FODS to JSON saveformat. C++ FODS to JSON format. Save FODS as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to JSON saveformat., Free Online FODS to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

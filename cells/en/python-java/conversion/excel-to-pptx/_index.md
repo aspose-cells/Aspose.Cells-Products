@@ -1,7 +1,7 @@
 ---
-title: EXCEL to PPTX - Convert EXCEL to PPTX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to PPTX in Python. Python EXCEL to PPTX format. Save EXCEL as PPTX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to PPTX., Free Online Convert EXCEL to PPTX in Python., Python Convert EXCEL to PPTX., EXCEL to PPTX Converter]
+title: EXCEL to PPTX - Convert EXCEL to PPTX files Python
+description: Aspose Excel. Free Online Convert EXCEL to PPTX saveformat. Python EXCEL to PPTX format. Save EXCEL as PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to PPTX saveformat., Free Online EXCEL to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

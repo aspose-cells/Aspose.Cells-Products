@@ -1,7 +1,7 @@
 ---
-title: SXC to MD - Convert SXC to MD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to MD in C++. C++ SXC to MD format. Save SXC as MD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to MD., Free Online Convert SXC to MD in C++., C++ Convert SXC to MD., SXC to MD Converter]
+title: SXC to MD - Convert SXC to MD files C++
+description: Aspose Excel. Free Online Convert SXC to MD saveformat. C++ SXC to MD format. Save SXC as MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to MD saveformat., Free Online SXC to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

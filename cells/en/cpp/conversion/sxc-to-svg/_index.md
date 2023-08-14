@@ -1,7 +1,7 @@
 ---
-title: SXC to SVG - Convert SXC to SVG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to SVG in C++. C++ SXC to SVG format. Save SXC as SVG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to SVG., Free Online Convert SXC to SVG in C++., C++ Convert SXC to SVG., SXC to SVG Converter]
+title: SXC to SVG - Convert SXC to SVG files C++
+description: Aspose Excel. Free Online Convert SXC to SVG saveformat. C++ SXC to SVG format. Save SXC as SVG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to SVG saveformat., Free Online SXC to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSX to GIF - Convert XLSX to GIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to GIF in Java. Java XLSX to GIF format. Save XLSX as GIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to GIF., Free Online Convert XLSX to GIF in Java., Java Convert XLSX to GIF., XLSX to GIF Converter]
+title: XLSX to GIF - Convert XLSX to GIF files Java
+description: Aspose Excel. Free Online Convert XLSX to GIF saveformat. Java XLSX to GIF format. Save XLSX as GIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to GIF saveformat., Free Online XLSX to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

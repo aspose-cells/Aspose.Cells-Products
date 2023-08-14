@@ -1,7 +1,7 @@
 ---
-title: XLTX to ETT - Convert XLTX to ETT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLTX to ETT in C#. C# XLTX to ETT format. Save XLTX as ETT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to ETT., Free Online Convert XLTX to ETT in C#., C# Convert XLTX to ETT., XLTX to ETT Converter]
+title: XLTX to ETT - Convert XLTX to ETT files C#
+description: Aspose Excel. Free Online Convert XLTX to ETT saveformat. C# XLTX to ETT format. Save XLTX as ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLTX to ETT saveformat., Free Online XLTX to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

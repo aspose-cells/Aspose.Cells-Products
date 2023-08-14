@@ -1,7 +1,7 @@
 ---
-title: IMAGE to OTS - Convert IMAGE to OTS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert IMAGE to OTS in Java. Java IMAGE to OTS format. Save IMAGE as OTS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java IMAGE to OTS., Free Online Convert IMAGE to OTS in Java., Java Convert IMAGE to OTS., IMAGE to OTS Converter]
+title: IMAGE to OTS - Convert IMAGE to OTS files Java
+description: Aspose Excel. Free Online Convert IMAGE to OTS saveformat. Java IMAGE to OTS format. Save IMAGE as OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java IMAGE to OTS saveformat., Free Online IMAGE to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

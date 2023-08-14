@@ -1,7 +1,7 @@
 ---
-title: IMAGE to XLS - Convert IMAGE to XLS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert IMAGE to XLS in Java. Java IMAGE to XLS format. Save IMAGE as XLS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java IMAGE to XLS., Free Online Convert IMAGE to XLS in Java., Java Convert IMAGE to XLS., IMAGE to XLS Converter]
+title: IMAGE to XLS - Convert IMAGE to XLS files Java
+description: Aspose Excel. Free Online Convert IMAGE to XLS saveformat. Java IMAGE to XLS format. Save IMAGE as XLS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java IMAGE to XLS saveformat., Free Online IMAGE to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: MHTML to ET - Convert MHTML to ET in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHTML to ET in C++. C++ MHTML to ET format. Save MHTML as ET in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to ET., Free Online Convert MHTML to ET in C++., C++ Convert MHTML to ET., MHTML to ET Converter]
+title: MHTML to ET - Convert MHTML to ET files C++
+description: Aspose Excel. Free Online Convert MHTML to ET saveformat. C++ MHTML to ET format. Save MHTML as ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHTML to ET saveformat., Free Online MHTML to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

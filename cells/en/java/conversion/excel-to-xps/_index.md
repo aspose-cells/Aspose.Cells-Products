@@ -1,7 +1,7 @@
 ---
-title: EXCEL to XPS - Convert EXCEL to XPS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to XPS in Java. Java EXCEL to XPS format. Save EXCEL as XPS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to XPS., Free Online Convert EXCEL to XPS in Java., Java Convert EXCEL to XPS., EXCEL to XPS Converter]
+title: EXCEL to XPS - Convert EXCEL to XPS files Java
+description: Aspose Excel. Free Online Convert EXCEL to XPS saveformat. Java EXCEL to XPS format. Save EXCEL as XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to XPS saveformat., Free Online EXCEL to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

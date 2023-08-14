@@ -1,7 +1,7 @@
 ---
-title: XLTX to FODS - Convert XLTX to FODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to FODS in C++. C++ XLTX to FODS format. Save XLTX as FODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to FODS., Free Online Convert XLTX to FODS in C++., C++ Convert XLTX to FODS., XLTX to FODS Converter]
+title: XLTX to FODS - Convert XLTX to FODS files C++
+description: Aspose Excel. Free Online Convert XLTX to FODS saveformat. C++ XLTX to FODS format. Save XLTX as FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to FODS saveformat., Free Online XLTX to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

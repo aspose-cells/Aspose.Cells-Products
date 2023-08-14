@@ -1,6 +1,6 @@
 ---
 title: Create TABDELIMITED - Create TABDELIMITED file in Python
-description: Python Aspose Cells. Python Create TABDELIMITED File. Create TABDELIMITED Python. Python TABDELIMITED Creater. Create TABDELIMITED in Python. Generate TABDELIMITED file using Python.
+description: Aspose Excel. Python Create TABDELIMITED File. Create TABDELIMITED Python. Python TABDELIMITED Creater. Create TABDELIMITED in Python. Generate TABDELIMITED file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create TABDELIMITED Python., Python TABDELIMITED Creater., Create TABDELIMITED file in Python., Generate TABDELIMITED file in Python]
 ---
 

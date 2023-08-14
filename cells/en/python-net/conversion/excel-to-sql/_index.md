@@ -1,7 +1,7 @@
 ---
-title: EXCEL to SQL - Convert EXCEL to SQL in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert EXCEL to SQL in Python. Python EXCEL to SQL format. Save EXCEL as SQL in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to SQL., Free Online Convert EXCEL to SQL in Python., Python Convert EXCEL to SQL., EXCEL to SQL Converter]
+title: EXCEL to SQL - Convert EXCEL to SQL files Python
+description: Aspose Excel. Free Online Convert EXCEL to SQL saveformat. Python EXCEL to SQL format. Save EXCEL as SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python EXCEL to SQL saveformat., Free Online EXCEL to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLTM to XLTX - Convert XLTM to XLTX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to XLTX in C++. C++ XLTM to XLTX format. Save XLTM as XLTX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to XLTX., Free Online Convert XLTM to XLTX in C++., C++ Convert XLTM to XLTX., XLTM to XLTX Converter]
+title: XLTM to XLTX - Convert XLTM to XLTX files C++
+description: Aspose Excel. Free Online Convert XLTM to XLTX saveformat. C++ XLTM to XLTX format. Save XLTM as XLTX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to XLTX saveformat., Free Online XLTM to XLTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

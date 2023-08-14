@@ -1,7 +1,7 @@
 ---
-title: SXC to TIFF - Convert SXC to TIFF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to TIFF in Python. Python SXC to TIFF format. Save SXC as TIFF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to TIFF., Free Online Convert SXC to TIFF in Python., Python Convert SXC to TIFF., SXC to TIFF Converter]
+title: SXC to TIFF - Convert SXC to TIFF files Python
+description: Aspose Excel. Free Online Convert SXC to TIFF saveformat. Python SXC to TIFF format. Save SXC as TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to TIFF saveformat., Free Online SXC to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

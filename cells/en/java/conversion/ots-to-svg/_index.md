@@ -1,7 +1,7 @@
 ---
-title: OTS to SVG - Convert OTS to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert OTS to SVG in Java. Java OTS to SVG format. Save OTS as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to SVG., Free Online Convert OTS to SVG in Java., Java Convert OTS to SVG., OTS to SVG Converter]
+title: OTS to SVG - Convert OTS to SVG files Java
+description: Aspose Excel. Free Online Convert OTS to SVG saveformat. Java OTS to SVG format. Save OTS as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java OTS to SVG saveformat., Free Online OTS to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

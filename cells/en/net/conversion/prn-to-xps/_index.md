@@ -1,7 +1,7 @@
 ---
-title: PRN to XPS - Convert PRN to XPS in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PRN to XPS in C#. C# PRN to XPS format. Save PRN as XPS in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to XPS., Free Online Convert PRN to XPS in C#., C# Convert PRN to XPS., PRN to XPS Converter]
+title: PRN to XPS - Convert PRN to XPS files C#
+description: Aspose Excel. Free Online Convert PRN to XPS saveformat. C# PRN to XPS format. Save PRN as XPS in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to XPS saveformat., Free Online PRN to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

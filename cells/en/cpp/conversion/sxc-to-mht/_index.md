@@ -1,7 +1,7 @@
 ---
-title: SXC to MHT - Convert SXC to MHT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to MHT in C++. C++ SXC to MHT format. Save SXC as MHT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to MHT., Free Online Convert SXC to MHT in C++., C++ Convert SXC to MHT., SXC to MHT Converter]
+title: SXC to MHT - Convert SXC to MHT files C++
+description: Aspose Excel. Free Online Convert SXC to MHT saveformat. C++ SXC to MHT format. Save SXC as MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to MHT saveformat., Free Online SXC to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

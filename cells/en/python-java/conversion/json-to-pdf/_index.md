@@ -1,7 +1,7 @@
 ---
-title: JSON to PDF - Convert JSON to PDF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JSON to PDF in Python. Python JSON to PDF format. Save JSON as PDF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to PDF., Free Online Convert JSON to PDF in Python., Python Convert JSON to PDF., JSON to PDF Converter]
+title: JSON to PDF - Convert JSON to PDF files Python
+description: Aspose Excel. Free Online Convert JSON to PDF saveformat. Python JSON to PDF format. Save JSON as PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to PDF saveformat., Free Online JSON to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

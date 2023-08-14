@@ -1,7 +1,7 @@
 ---
-title: XLSM to WORD - Convert XLSM to WORD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSM to WORD in Java. Java XLSM to WORD format. Save XLSM as WORD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to WORD., Free Online Convert XLSM to WORD in Java., Java Convert XLSM to WORD., XLSM to WORD Converter]
+title: XLSM to WORD - Convert XLSM to WORD files Java
+description: Aspose Excel. Free Online Convert XLSM to WORD saveformat. Java XLSM to WORD format. Save XLSM as WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to WORD saveformat., Free Online XLSM to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

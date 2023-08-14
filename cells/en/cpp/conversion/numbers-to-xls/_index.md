@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to XLS - Convert NUMBERS to XLS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert NUMBERS to XLS in C++. C++ NUMBERS to XLS format. Save NUMBERS as XLS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLS., Free Online Convert NUMBERS to XLS in C++., C++ Convert NUMBERS to XLS., NUMBERS to XLS Converter]
+title: NUMBERS to XLS - Convert NUMBERS to XLS files C++
+description: Aspose Excel. Free Online Convert NUMBERS to XLS saveformat. C++ NUMBERS to XLS format. Save NUMBERS as XLS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to XLS saveformat., Free Online NUMBERS to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSX to MD - Convert XLSX to MD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSX to MD in C#. C# XLSX to MD format. Save XLSX as MD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to MD., Free Online Convert XLSX to MD in C#., C# Convert XLSX to MD., XLSX to MD Converter]
+title: XLSX to MD - Convert XLSX to MD files C#
+description: Aspose Excel. Free Online Convert XLSX to MD saveformat. C# XLSX to MD format. Save XLSX as MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSX to MD saveformat., Free Online XLSX to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

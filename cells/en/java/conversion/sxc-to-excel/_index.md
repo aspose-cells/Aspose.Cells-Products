@@ -1,7 +1,7 @@
 ---
-title: SXC to EXCEL - Convert SXC to EXCEL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to EXCEL in Java. Java SXC to EXCEL format. Save SXC as EXCEL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to EXCEL., Free Online Convert SXC to EXCEL in Java., Java Convert SXC to EXCEL., SXC to EXCEL Converter]
+title: SXC to EXCEL - Convert SXC to EXCEL files Java
+description: Aspose Excel. Free Online Convert SXC to EXCEL saveformat. Java SXC to EXCEL format. Save SXC as EXCEL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to EXCEL saveformat., Free Online SXC to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

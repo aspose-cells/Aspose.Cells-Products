@@ -1,7 +1,7 @@
 ---
-title: HTM to MHT - Convert HTM to MHT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert HTM to MHT in C#. C# HTM to MHT format. Save HTM as MHT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# HTM to MHT., Free Online Convert HTM to MHT in C#., C# Convert HTM to MHT., HTM to MHT Converter]
+title: HTM to MHT - Convert HTM to MHT files C#
+description: Aspose Excel. Free Online Convert HTM to MHT saveformat. C# HTM to MHT format. Save HTM as MHT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# HTM to MHT saveformat., Free Online HTM to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

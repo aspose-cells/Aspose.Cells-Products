@@ -1,7 +1,7 @@
 ---
-title: XLSB to MHT - Convert XLSB to MHT in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to MHT in Java. Java XLSB to MHT format. Save XLSB as MHT in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to MHT., Free Online Convert XLSB to MHT in Java., Java Convert XLSB to MHT., XLSB to MHT Converter]
+title: XLSB to MHT - Convert XLSB to MHT files Java
+description: Aspose Excel. Free Online Convert XLSB to MHT saveformat. Java XLSB to MHT format. Save XLSB as MHT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to MHT saveformat., Free Online XLSB to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSB to XLSM - Convert XLSB to XLSM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to XLSM in Java. Java XLSB to XLSM format. Save XLSB as XLSM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to XLSM., Free Online Convert XLSB to XLSM in Java., Java Convert XLSB to XLSM., XLSB to XLSM Converter]
+title: XLSB to XLSM - Convert XLSB to XLSM files Java
+description: Aspose Excel. Free Online Convert XLSB to XLSM saveformat. Java XLSB to XLSM format. Save XLSB as XLSM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to XLSM saveformat., Free Online XLSB to XLSM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

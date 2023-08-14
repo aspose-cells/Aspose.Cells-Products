@@ -1,7 +1,7 @@
 ---
-title: FODS to SQL - Convert FODS to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to SQL in C#. C# FODS to SQL format. Save FODS as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to SQL., Free Online Convert FODS to SQL in C#., C# Convert FODS to SQL., FODS to SQL Converter]
+title: FODS to SQL - Convert FODS to SQL files C#
+description: Aspose Excel. Free Online Convert FODS to SQL saveformat. C# FODS to SQL format. Save FODS as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to SQL saveformat., Free Online FODS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

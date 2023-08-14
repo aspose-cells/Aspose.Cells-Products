@@ -1,7 +1,7 @@
 ---
-title: EXCEL to GIF - Convert EXCEL to GIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to GIF in C++. C++ EXCEL to GIF format. Save EXCEL as GIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to GIF., Free Online Convert EXCEL to GIF in C++., C++ Convert EXCEL to GIF., EXCEL to GIF Converter]
+title: EXCEL to GIF - Convert EXCEL to GIF files C++
+description: Aspose Excel. Free Online Convert EXCEL to GIF saveformat. C++ EXCEL to GIF format. Save EXCEL as GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to GIF saveformat., Free Online EXCEL to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

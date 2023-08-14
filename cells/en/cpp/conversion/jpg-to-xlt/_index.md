@@ -1,7 +1,7 @@
 ---
-title: JPG to XLT - Convert JPG to XLT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to XLT in C++. C++ JPG to XLT format. Save JPG as XLT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XLT., Free Online Convert JPG to XLT in C++., C++ Convert JPG to XLT., JPG to XLT Converter]
+title: JPG to XLT - Convert JPG to XLT files C++
+description: Aspose Excel. Free Online Convert JPG to XLT saveformat. C++ JPG to XLT format. Save JPG as XLT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XLT saveformat., Free Online JPG to XLT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

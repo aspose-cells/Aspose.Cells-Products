@@ -1,7 +1,7 @@
 ---
-title: ODS to MARKDOWN - Convert ODS to MARKDOWN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert ODS to MARKDOWN in Python. Python ODS to MARKDOWN format. Save ODS as MARKDOWN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to MARKDOWN., Free Online Convert ODS to MARKDOWN in Python., Python Convert ODS to MARKDOWN., ODS to MARKDOWN Converter]
+title: ODS to MARKDOWN - Convert ODS to MARKDOWN files Python
+description: Aspose Excel. Free Online Convert ODS to MARKDOWN saveformat. Python ODS to MARKDOWN format. Save ODS as MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to MARKDOWN saveformat., Free Online ODS to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

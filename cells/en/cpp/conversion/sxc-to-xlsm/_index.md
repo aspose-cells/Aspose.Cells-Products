@@ -1,7 +1,7 @@
 ---
-title: SXC to XLSM - Convert SXC to XLSM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SXC to XLSM in C++. C++ SXC to XLSM format. Save SXC as XLSM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to XLSM., Free Online Convert SXC to XLSM in C++., C++ Convert SXC to XLSM., SXC to XLSM Converter]
+title: SXC to XLSM - Convert SXC to XLSM files C++
+description: Aspose Excel. Free Online Convert SXC to XLSM saveformat. C++ SXC to XLSM format. Save SXC as XLSM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SXC to XLSM saveformat., Free Online SXC to XLSM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

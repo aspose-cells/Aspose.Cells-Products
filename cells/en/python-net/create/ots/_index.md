@@ -1,6 +1,6 @@
 ---
 title: Create OTS - Create OTS file in Python
-description: Python Aspose Cells. Python Create OTS File. Create OTS Python. Python OTS Creater. Create OTS in Python. Generate OTS file using Python.
+description: Aspose Excel. Python Create OTS File. Create OTS Python. Python OTS Creater. Create OTS in Python. Generate OTS file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create OTS Python., Python OTS Creater., Create OTS file in Python., Generate OTS file in Python]
 ---
 

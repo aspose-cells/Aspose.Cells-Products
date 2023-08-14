@@ -1,6 +1,6 @@
 ---
 title: Create SQL - Create SQL file in C++
-description: C++ Aspose Cells. C++ Create SQL File. Create SQL C++. C++ SQL Creater. Create SQL in C++. Generate SQL file using C++.
+description: Aspose Excel. C++ Create SQL File. Create SQL C++. C++ SQL Creater. Create SQL in C++. Generate SQL file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create SQL C++., C++ SQL Creater., Create SQL file in C++., Generate SQL file in C++]
 ---
 

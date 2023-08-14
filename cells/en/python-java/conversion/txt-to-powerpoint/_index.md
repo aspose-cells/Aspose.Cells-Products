@@ -1,7 +1,7 @@
 ---
-title: TXT to POWERPOINT - Convert TXT to POWERPOINT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TXT to POWERPOINT in Python. Python TXT to POWERPOINT format. Save TXT as POWERPOINT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to POWERPOINT., Free Online Convert TXT to POWERPOINT in Python., Python Convert TXT to POWERPOINT., TXT to POWERPOINT Converter]
+title: TXT to POWERPOINT - Convert TXT to POWERPOINT files Python
+description: Aspose Excel. Free Online Convert TXT to POWERPOINT saveformat. Python TXT to POWERPOINT format. Save TXT as POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TXT to POWERPOINT saveformat., Free Online TXT to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

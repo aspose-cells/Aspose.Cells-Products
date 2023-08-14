@@ -1,7 +1,7 @@
 ---
-title: PNG to SVG - Convert PNG to SVG in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to SVG in Python. Python PNG to SVG format. Save PNG as SVG in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to SVG., Free Online Convert PNG to SVG in Python., Python Convert PNG to SVG., PNG to SVG Converter]
+title: PNG to SVG - Convert PNG to SVG files Python
+description: Aspose Excel. Free Online Convert PNG to SVG saveformat. Python PNG to SVG format. Save PNG as SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to SVG saveformat., Free Online PNG to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSB to HTML - Convert XLSB to HTML in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSB to HTML in Java. Java XLSB to HTML format. Save XLSB as HTML in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to HTML., Free Online Convert XLSB to HTML in Java., Java Convert XLSB to HTML., XLSB to HTML Converter]
+title: XLSB to HTML - Convert XLSB to HTML files Java
+description: Aspose Excel. Free Online Convert XLSB to HTML saveformat. Java XLSB to HTML format. Save XLSB as HTML in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSB to HTML saveformat., Free Online XLSB to HTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

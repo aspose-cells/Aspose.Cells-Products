@@ -1,7 +1,7 @@
 ---
-title: FODS to WORD - Convert FODS to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to WORD in Python. Python FODS to WORD format. Save FODS as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to WORD., Free Online Convert FODS to WORD in Python., Python Convert FODS to WORD., FODS to WORD Converter]
+title: FODS to WORD - Convert FODS to WORD files Python
+description: Aspose Excel. Free Online Convert FODS to WORD saveformat. Python FODS to WORD format. Save FODS as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to WORD saveformat., Free Online FODS to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

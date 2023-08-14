@@ -1,7 +1,7 @@
 ---
-title: XLTX to BMP - Convert XLTX to BMP in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to BMP in Java. Java XLTX to BMP format. Save XLTX as BMP in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to BMP., Free Online Convert XLTX to BMP in Java., Java Convert XLTX to BMP., XLTX to BMP Converter]
+title: XLTX to BMP - Convert XLTX to BMP files Java
+description: Aspose Excel. Free Online Convert XLTX to BMP saveformat. Java XLTX to BMP format. Save XLTX as BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to BMP saveformat., Free Online XLTX to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

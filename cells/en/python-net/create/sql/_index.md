@@ -1,6 +1,6 @@
 ---
 title: Create SQL - Create SQL file in Python
-description: Python Aspose Cells. Python Create SQL File. Create SQL Python. Python SQL Creater. Create SQL in Python. Generate SQL file using Python.
+description: Aspose Excel. Python Create SQL File. Create SQL Python. Python SQL Creater. Create SQL in Python. Generate SQL file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create SQL Python., Python SQL Creater., Create SQL file in Python., Generate SQL file in Python]
 ---
 

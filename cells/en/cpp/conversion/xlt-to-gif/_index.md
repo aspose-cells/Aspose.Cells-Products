@@ -1,7 +1,7 @@
 ---
-title: XLT to GIF - Convert XLT to GIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to GIF in C++. C++ XLT to GIF format. Save XLT as GIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to GIF., Free Online Convert XLT to GIF in C++., C++ Convert XLT to GIF., XLT to GIF Converter]
+title: XLT to GIF - Convert XLT to GIF files C++
+description: Aspose Excel. Free Online Convert XLT to GIF saveformat. C++ XLT to GIF format. Save XLT as GIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to GIF saveformat., Free Online XLT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

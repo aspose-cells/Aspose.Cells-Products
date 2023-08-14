@@ -1,7 +1,7 @@
 ---
-title: MHT to PPTX - Convert MHT to PPTX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to PPTX in Python. Python MHT to PPTX format. Save MHT as PPTX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to PPTX., Free Online Convert MHT to PPTX in Python., Python Convert MHT to PPTX., MHT to PPTX Converter]
+title: MHT to PPTX - Convert MHT to PPTX files Python
+description: Aspose Excel. Free Online Convert MHT to PPTX saveformat. Python MHT to PPTX format. Save MHT as PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to PPTX saveformat., Free Online MHT to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

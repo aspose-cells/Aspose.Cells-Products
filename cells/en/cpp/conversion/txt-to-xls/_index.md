@@ -1,7 +1,7 @@
 ---
-title: TXT to XLS - Convert TXT to XLS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to XLS in C++. C++ TXT to XLS format. Save TXT as XLS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to XLS., Free Online Convert TXT to XLS in C++., C++ Convert TXT to XLS., TXT to XLS Converter]
+title: TXT to XLS - Convert TXT to XLS files C++
+description: Aspose Excel. Free Online Convert TXT to XLS saveformat. C++ TXT to XLS format. Save TXT as XLS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to XLS saveformat., Free Online TXT to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: ODS to JPEG - Convert ODS to JPEG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert ODS to JPEG in C#. C# ODS to JPEG format. Save ODS as JPEG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to JPEG., Free Online Convert ODS to JPEG in C#., C# Convert ODS to JPEG., ODS to JPEG Converter]
+title: ODS to JPEG - Convert ODS to JPEG files C#
+description: Aspose Excel. Free Online Convert ODS to JPEG saveformat. C# ODS to JPEG format. Save ODS as JPEG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to JPEG saveformat., Free Online ODS to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

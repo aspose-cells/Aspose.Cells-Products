@@ -1,7 +1,7 @@
 ---
-title: EXCEL to DOCX - Convert EXCEL to DOCX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to DOCX in Java. Java EXCEL to DOCX format. Save EXCEL as DOCX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to DOCX., Free Online Convert EXCEL to DOCX in Java., Java Convert EXCEL to DOCX., EXCEL to DOCX Converter]
+title: EXCEL to DOCX - Convert EXCEL to DOCX files Java
+description: Aspose Excel. Free Online Convert EXCEL to DOCX saveformat. Java EXCEL to DOCX format. Save EXCEL as DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to DOCX saveformat., Free Online EXCEL to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

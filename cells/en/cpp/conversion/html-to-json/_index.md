@@ -1,7 +1,7 @@
 ---
-title: HTML to JSON - Convert HTML to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTML to JSON in C++. C++ HTML to JSON format. Save HTML as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to JSON., Free Online Convert HTML to JSON in C++., C++ Convert HTML to JSON., HTML to JSON Converter]
+title: HTML to JSON - Convert HTML to JSON files C++
+description: Aspose Excel. Free Online Convert HTML to JSON saveformat. C++ HTML to JSON format. Save HTML as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTML to JSON saveformat., Free Online HTML to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: FODS to WORD - Convert FODS to WORD in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert FODS to WORD in Java. Java FODS to WORD format. Save FODS as WORD in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to WORD., Free Online Convert FODS to WORD in Java., Java Convert FODS to WORD., FODS to WORD Converter]
+title: FODS to WORD - Convert FODS to WORD files Java
+description: Aspose Excel. Free Online Convert FODS to WORD saveformat. Java FODS to WORD format. Save FODS as WORD in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java FODS to WORD saveformat., Free Online FODS to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

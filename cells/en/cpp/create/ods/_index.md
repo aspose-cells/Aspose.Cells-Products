@@ -1,6 +1,6 @@
 ---
 title: Create ODS - Create ODS file in C++
-description: C++ Aspose Cells. C++ Create ODS File. Create ODS C++. C++ ODS Creater. Create ODS in C++. Generate ODS file using C++.
+description: Aspose Excel. C++ Create ODS File. Create ODS C++. C++ ODS Creater. Create ODS in C++. Generate ODS file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create ODS C++., C++ ODS Creater., Create ODS file in C++., Generate ODS file in C++]
 ---
 

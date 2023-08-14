@@ -1,7 +1,7 @@
 ---
-title: MHT to WORD - Convert MHT to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to WORD in C#. C# MHT to WORD format. Save MHT as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to WORD., Free Online Convert MHT to WORD in C#., C# Convert MHT to WORD., MHT to WORD Converter]
+title: MHT to WORD - Convert MHT to WORD files C#
+description: Aspose Excel. Free Online Convert MHT to WORD saveformat. C# MHT to WORD format. Save MHT as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to WORD saveformat., Free Online MHT to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

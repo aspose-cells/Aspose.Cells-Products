@@ -1,6 +1,6 @@
 ---
 title: Create XLSM - Create XLSM file in C++
-description: C++ Aspose Cells. C++ Create XLSM File. Create XLSM C++. C++ XLSM Creater. Create XLSM in C++. Generate XLSM file using C++.
+description: Aspose Excel. C++ Create XLSM File. Create XLSM C++. C++ XLSM Creater. Create XLSM in C++. Generate XLSM file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XLSM C++., C++ XLSM Creater., Create XLSM file in C++., Generate XLSM file in C++]
 ---
 

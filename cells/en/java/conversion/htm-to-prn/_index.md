@@ -1,7 +1,7 @@
 ---
-title: HTM to PRN - Convert HTM to PRN in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert HTM to PRN in Java. Java HTM to PRN format. Save HTM as PRN in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to PRN., Free Online Convert HTM to PRN in Java., Java Convert HTM to PRN., HTM to PRN Converter]
+title: HTM to PRN - Convert HTM to PRN files Java
+description: Aspose Excel. Free Online Convert HTM to PRN saveformat. Java HTM to PRN format. Save HTM as PRN in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java HTM to PRN saveformat., Free Online HTM to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

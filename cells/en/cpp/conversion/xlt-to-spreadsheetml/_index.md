@@ -1,7 +1,7 @@
 ---
-title: XLT to SPREADSHEETML - Convert XLT to SPREADSHEETML in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to SPREADSHEETML in C++. C++ XLT to SPREADSHEETML format. Save XLT as SPREADSHEETML in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to SPREADSHEETML., Free Online Convert XLT to SPREADSHEETML in C++., C++ Convert XLT to SPREADSHEETML., XLT to SPREADSHEETML Converter]
+title: XLT to SPREADSHEETML - Convert XLT to SPREADSHEETML files C++
+description: Aspose Excel. Free Online Convert XLT to SPREADSHEETML saveformat. C++ XLT to SPREADSHEETML format. Save XLT as SPREADSHEETML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to SPREADSHEETML saveformat., Free Online XLT to SPREADSHEETML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: TXT to GIF - Convert TXT to GIF in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert TXT to GIF in C#. C# TXT to GIF format. Save TXT as GIF in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to GIF., Free Online Convert TXT to GIF in C#., C# Convert TXT to GIF., TXT to GIF Converter]
+title: TXT to GIF - Convert TXT to GIF files C#
+description: Aspose Excel. Free Online Convert TXT to GIF saveformat. C# TXT to GIF format. Save TXT as GIF in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# TXT to GIF saveformat., Free Online TXT to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

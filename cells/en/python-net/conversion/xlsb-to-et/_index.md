@@ -1,7 +1,7 @@
 ---
-title: XLSB to ET - Convert XLSB to ET in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to ET in Python. Python XLSB to ET format. Save XLSB as ET in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to ET., Free Online Convert XLSB to ET in Python., Python Convert XLSB to ET., XLSB to ET Converter]
+title: XLSB to ET - Convert XLSB to ET files Python
+description: Aspose Excel. Free Online Convert XLSB to ET saveformat. Python XLSB to ET format. Save XLSB as ET in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to ET saveformat., Free Online XLSB to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

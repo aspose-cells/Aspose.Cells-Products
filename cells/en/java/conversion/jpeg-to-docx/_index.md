@@ -1,7 +1,7 @@
 ---
-title: JPEG to DOCX - Convert JPEG to DOCX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to DOCX in Java. Java JPEG to DOCX format. Save JPEG as DOCX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to DOCX., Free Online Convert JPEG to DOCX in Java., Java Convert JPEG to DOCX., JPEG to DOCX Converter]
+title: JPEG to DOCX - Convert JPEG to DOCX files Java
+description: Aspose Excel. Free Online Convert JPEG to DOCX saveformat. Java JPEG to DOCX format. Save JPEG as DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to DOCX saveformat., Free Online JPEG to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

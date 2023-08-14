@@ -1,7 +1,7 @@
 ---
-title: TXT to PDF - Convert TXT to PDF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TXT to PDF in C++. C++ TXT to PDF format. Save TXT as PDF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to PDF., Free Online Convert TXT to PDF in C++., C++ Convert TXT to PDF., TXT to PDF Converter]
+title: TXT to PDF - Convert TXT to PDF files C++
+description: Aspose Excel. Free Online Convert TXT to PDF saveformat. C++ TXT to PDF format. Save TXT as PDF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TXT to PDF saveformat., Free Online TXT to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

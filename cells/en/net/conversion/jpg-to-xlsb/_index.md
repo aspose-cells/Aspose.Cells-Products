@@ -1,7 +1,7 @@
 ---
-title: JPG to XLSB - Convert JPG to XLSB in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to XLSB in C#. C# JPG to XLSB format. Save JPG as XLSB in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to XLSB., Free Online Convert JPG to XLSB in C#., C# Convert JPG to XLSB., JPG to XLSB Converter]
+title: JPG to XLSB - Convert JPG to XLSB files C#
+description: Aspose Excel. Free Online Convert JPG to XLSB saveformat. C# JPG to XLSB format. Save JPG as XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to XLSB saveformat., Free Online JPG to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

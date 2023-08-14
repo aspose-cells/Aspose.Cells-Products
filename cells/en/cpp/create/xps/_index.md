@@ -1,6 +1,6 @@
 ---
 title: Create XPS - Create XPS file in C++
-description: C++ Aspose Cells. C++ Create XPS File. Create XPS C++. C++ XPS Creater. Create XPS in C++. Generate XPS file using C++.
+description: Aspose Excel. C++ Create XPS File. Create XPS C++. C++ XPS Creater. Create XPS in C++. Generate XPS file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XPS C++., C++ XPS Creater., Create XPS file in C++., Generate XPS file in C++]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: XLSB to WORD - Convert XLSB to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to WORD in Python. Python XLSB to WORD format. Save XLSB as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to WORD., Free Online Convert XLSB to WORD in Python., Python Convert XLSB to WORD., XLSB to WORD Converter]
+title: XLSB to WORD - Convert XLSB to WORD files Python
+description: Aspose Excel. Free Online Convert XLSB to WORD saveformat. Python XLSB to WORD format. Save XLSB as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to WORD saveformat., Free Online XLSB to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

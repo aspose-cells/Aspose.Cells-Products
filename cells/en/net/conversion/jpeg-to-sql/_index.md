@@ -1,7 +1,7 @@
 ---
-title: JPEG to SQL - Convert JPEG to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to SQL in C#. C# JPEG to SQL format. Save JPEG as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to SQL., Free Online Convert JPEG to SQL in C#., C# Convert JPEG to SQL., JPEG to SQL Converter]
+title: JPEG to SQL - Convert JPEG to SQL files C#
+description: Aspose Excel. Free Online Convert JPEG to SQL saveformat. C# JPEG to SQL format. Save JPEG as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to SQL saveformat., Free Online JPEG to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

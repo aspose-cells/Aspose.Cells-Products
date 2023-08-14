@@ -1,7 +1,7 @@
 ---
-title: OTS to MHT - Convert OTS to MHT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert OTS to MHT in C++. C++ OTS to MHT format. Save OTS as MHT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ OTS to MHT., Free Online Convert OTS to MHT in C++., C++ Convert OTS to MHT., OTS to MHT Converter]
+title: OTS to MHT - Convert OTS to MHT files C++
+description: Aspose Excel. Free Online Convert OTS to MHT saveformat. C++ OTS to MHT format. Save OTS as MHT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ OTS to MHT saveformat., Free Online OTS to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

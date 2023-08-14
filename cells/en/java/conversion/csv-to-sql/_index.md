@@ -1,7 +1,7 @@
 ---
-title: CSV to SQL - Convert CSV to SQL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert CSV to SQL in Java. Java CSV to SQL format. Save CSV as SQL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java CSV to SQL., Free Online Convert CSV to SQL in Java., Java Convert CSV to SQL., CSV to SQL Converter]
+title: CSV to SQL - Convert CSV to SQL files Java
+description: Aspose Excel. Free Online Convert CSV to SQL saveformat. Java CSV to SQL format. Save CSV as SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java CSV to SQL saveformat., Free Online CSV to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

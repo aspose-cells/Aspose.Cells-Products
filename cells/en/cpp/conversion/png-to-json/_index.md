@@ -1,7 +1,7 @@
 ---
-title: PNG to JSON - Convert PNG to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PNG to JSON in C++. C++ PNG to JSON format. Save PNG as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to JSON., Free Online Convert PNG to JSON in C++., C++ Convert PNG to JSON., PNG to JSON Converter]
+title: PNG to JSON - Convert PNG to JSON files C++
+description: Aspose Excel. Free Online Convert PNG to JSON saveformat. C++ PNG to JSON format. Save PNG as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PNG to JSON saveformat., Free Online PNG to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

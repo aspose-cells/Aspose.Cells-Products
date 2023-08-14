@@ -1,6 +1,6 @@
 ---
 title: Create PNG - Create PNG file in Python
-description: Python Aspose Cells. Python Create PNG File. Create PNG Python. Python PNG Creater. Create PNG in Python. Generate PNG file using Python.
+description: Aspose Excel. Python Create PNG File. Create PNG Python. Python PNG Creater. Create PNG in Python. Generate PNG file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create PNG Python., Python PNG Creater., Create PNG file in Python., Generate PNG file in Python]
 ---
 

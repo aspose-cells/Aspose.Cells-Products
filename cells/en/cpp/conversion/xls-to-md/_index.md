@@ -1,7 +1,7 @@
 ---
-title: XLS to MD - Convert XLS to MD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLS to MD in C++. C++ XLS to MD format. Save XLS as MD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to MD., Free Online Convert XLS to MD in C++., C++ Convert XLS to MD., XLS to MD Converter]
+title: XLS to MD - Convert XLS to MD files C++
+description: Aspose Excel. Free Online Convert XLS to MD saveformat. C++ XLS to MD format. Save XLS as MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLS to MD saveformat., Free Online XLS to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

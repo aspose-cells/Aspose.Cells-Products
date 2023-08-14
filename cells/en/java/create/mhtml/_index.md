@@ -1,6 +1,6 @@
 ---
 title: Create MHTML - Create MHTML file in Java
-description: Java Aspose Cells. Java Create MHTML File. Create MHTML Java. Java MHTML Creater. Create MHTML in Java. Generate MHTML file using Java.
+description: Aspose Excel. Java Create MHTML File. Create MHTML Java. Java MHTML Creater. Create MHTML in Java. Generate MHTML file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create MHTML Java., Java MHTML Creater., Create MHTML file in Java., Generate MHTML file in Java]
 ---
 

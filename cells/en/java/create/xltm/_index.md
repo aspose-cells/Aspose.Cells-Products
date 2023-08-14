@@ -1,6 +1,6 @@
 ---
 title: Create XLTM - Create XLTM file in Java
-description: Java Aspose Cells. Java Create XLTM File. Create XLTM Java. Java XLTM Creater. Create XLTM in Java. Generate XLTM file using Java.
+description: Aspose Excel. Java Create XLTM File. Create XLTM Java. Java XLTM Creater. Create XLTM in Java. Generate XLTM file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XLTM Java., Java XLTM Creater., Create XLTM file in Java., Generate XLTM file in Java]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Create FODS - Create FODS file in Python
-description: Python Aspose Cells. Python Create FODS File. Create FODS Python. Python FODS Creater. Create FODS in Python. Generate FODS file using Python.
+description: Aspose Excel. Python Create FODS File. Create FODS Python. Python FODS Creater. Create FODS in Python. Generate FODS file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create FODS Python., Python FODS Creater., Create FODS file in Python., Generate FODS file in Python]
 ---
 

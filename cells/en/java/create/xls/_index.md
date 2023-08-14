@@ -1,6 +1,6 @@
 ---
 title: Create XLS - Create XLS file in Java
-description: Java Aspose Cells. Java Create XLS File. Create XLS Java. Java XLS Creater. Create XLS in Java. Generate XLS file using Java.
+description: Aspose Excel. Java Create XLS File. Create XLS Java. Java XLS Creater. Create XLS in Java. Generate XLS file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XLS Java., Java XLS Creater., Create XLS file in Java., Generate XLS file in Java]
 ---
 

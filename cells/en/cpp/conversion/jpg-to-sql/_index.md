@@ -1,7 +1,7 @@
 ---
-title: JPG to SQL - Convert JPG to SQL in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to SQL in C++. C++ JPG to SQL format. Save JPG as SQL in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to SQL., Free Online Convert JPG to SQL in C++., C++ Convert JPG to SQL., JPG to SQL Converter]
+title: JPG to SQL - Convert JPG to SQL files C++
+description: Aspose Excel. Free Online Convert JPG to SQL saveformat. C++ JPG to SQL format. Save JPG as SQL in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to SQL saveformat., Free Online JPG to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

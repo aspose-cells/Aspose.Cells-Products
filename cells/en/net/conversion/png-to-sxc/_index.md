@@ -1,7 +1,7 @@
 ---
-title: PNG to SXC - Convert PNG to SXC in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to SXC in C#. C# PNG to SXC format. Save PNG as SXC in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to SXC., Free Online Convert PNG to SXC in C#., C# Convert PNG to SXC., PNG to SXC Converter]
+title: PNG to SXC - Convert PNG to SXC files C#
+description: Aspose Excel. Free Online Convert PNG to SXC saveformat. C# PNG to SXC format. Save PNG as SXC in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to SXC saveformat., Free Online PNG to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

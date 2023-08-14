@@ -1,6 +1,6 @@
 ---
 title: Create MHT - Create MHT file in C++
-description: C++ Aspose Cells. C++ Create MHT File. Create MHT C++. C++ MHT Creater. Create MHT in C++. Generate MHT file using C++.
+description: Aspose Excel. C++ Create MHT File. Create MHT C++. C++ MHT Creater. Create MHT in C++. Generate MHT file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create MHT C++., C++ MHT Creater., Create MHT file in C++., Generate MHT file in C++]
 ---
 

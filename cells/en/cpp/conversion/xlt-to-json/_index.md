@@ -1,7 +1,7 @@
 ---
-title: XLT to JSON - Convert XLT to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to JSON in C++. C++ XLT to JSON format. Save XLT as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to JSON., Free Online Convert XLT to JSON in C++., C++ Convert XLT to JSON., XLT to JSON Converter]
+title: XLT to JSON - Convert XLT to JSON files C++
+description: Aspose Excel. Free Online Convert XLT to JSON saveformat. C++ XLT to JSON format. Save XLT as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to JSON saveformat., Free Online XLT to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

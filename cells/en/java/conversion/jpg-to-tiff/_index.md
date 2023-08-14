@@ -1,7 +1,7 @@
 ---
-title: JPG to TIFF - Convert JPG to TIFF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to TIFF in Java. Java JPG to TIFF format. Save JPG as TIFF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to TIFF., Free Online Convert JPG to TIFF in Java., Java Convert JPG to TIFF., JPG to TIFF Converter]
+title: JPG to TIFF - Convert JPG to TIFF files Java
+description: Aspose Excel. Free Online Convert JPG to TIFF saveformat. Java JPG to TIFF format. Save JPG as TIFF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to TIFF saveformat., Free Online JPG to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

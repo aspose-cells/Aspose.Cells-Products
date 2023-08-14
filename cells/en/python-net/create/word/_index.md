@@ -1,6 +1,6 @@
 ---
 title: Create WORD - Create WORD file in Python
-description: Python Aspose Cells. Python Create WORD File. Create WORD Python. Python WORD Creater. Create WORD in Python. Generate WORD file using Python.
+description: Aspose Excel. Python Create WORD File. Create WORD Python. Python WORD Creater. Create WORD in Python. Generate WORD file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create WORD Python., Python WORD Creater., Create WORD file in Python., Generate WORD file in Python]
 ---
 

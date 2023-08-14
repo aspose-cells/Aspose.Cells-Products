@@ -1,6 +1,6 @@
 ---
 title: Create OTS - Create OTS file in C#
-description: C# Aspose Cells. C# Create OTS File. Create OTS C#. C# OTS Creater. Create OTS in C#. Generate OTS file using C#.
+description: Aspose Excel. C# Create OTS File. Create OTS C#. C# OTS Creater. Create OTS in C#. Generate OTS file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create OTS C#., C# OTS Creater., Create OTS file in C#., Generate OTS file in C#]
 ---
 

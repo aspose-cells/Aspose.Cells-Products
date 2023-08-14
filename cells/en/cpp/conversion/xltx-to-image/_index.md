@@ -1,7 +1,7 @@
 ---
-title: XLTX to IMAGE - Convert XLTX to IMAGE in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to IMAGE in C++. C++ XLTX to IMAGE format. Save XLTX as IMAGE in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to IMAGE., Free Online Convert XLTX to IMAGE in C++., C++ Convert XLTX to IMAGE., XLTX to IMAGE Converter]
+title: XLTX to IMAGE - Convert XLTX to IMAGE files C++
+description: Aspose Excel. Free Online Convert XLTX to IMAGE saveformat. C++ XLTX to IMAGE format. Save XLTX as IMAGE in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to IMAGE saveformat., Free Online XLTX to IMAGE Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

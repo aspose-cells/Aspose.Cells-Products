@@ -1,7 +1,7 @@
 ---
-title: JPEG to MD - Convert JPEG to MD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPEG to MD in Python. Python JPEG to MD format. Save JPEG as MD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to MD., Free Online Convert JPEG to MD in Python., Python Convert JPEG to MD., JPEG to MD Converter]
+title: JPEG to MD - Convert JPEG to MD files Python
+description: Aspose Excel. Free Online Convert JPEG to MD saveformat. Python JPEG to MD format. Save JPEG as MD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to MD saveformat., Free Online JPEG to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

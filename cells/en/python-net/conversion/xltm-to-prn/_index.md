@@ -1,7 +1,7 @@
 ---
-title: XLTM to PRN - Convert XLTM to PRN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLTM to PRN in Python. Python XLTM to PRN format. Save XLTM as PRN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLTM to PRN., Free Online Convert XLTM to PRN in Python., Python Convert XLTM to PRN., XLTM to PRN Converter]
+title: XLTM to PRN - Convert XLTM to PRN files Python
+description: Aspose Excel. Free Online Convert XLTM to PRN saveformat. Python XLTM to PRN format. Save XLTM as PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLTM to PRN saveformat., Free Online XLTM to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,6 +1,6 @@
 ---
 title: Create XLTM - Create XLTM file in C++
-description: C++ Aspose Cells. C++ Create XLTM File. Create XLTM C++. C++ XLTM Creater. Create XLTM in C++. Generate XLTM file using C++.
+description: Aspose Excel. C++ Create XLTM File. Create XLTM C++. C++ XLTM Creater. Create XLTM in C++. Generate XLTM file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XLTM C++., C++ XLTM Creater., Create XLTM file in C++., Generate XLTM file in C++]
 ---
 

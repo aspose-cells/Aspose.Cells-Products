@@ -1,7 +1,7 @@
 ---
-title: MHT to OTS - Convert MHT to OTS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to OTS in Java. Java MHT to OTS format. Save MHT as OTS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to OTS., Free Online Convert MHT to OTS in Java., Java Convert MHT to OTS., MHT to OTS Converter]
+title: MHT to OTS - Convert MHT to OTS files Java
+description: Aspose Excel. Free Online Convert MHT to OTS saveformat. Java MHT to OTS format. Save MHT as OTS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to OTS saveformat., Free Online MHT to OTS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

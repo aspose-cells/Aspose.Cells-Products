@@ -1,7 +1,7 @@
 ---
-title: MHTML to MARKDOWN - Convert MHTML to MARKDOWN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to MARKDOWN in Python. Python MHTML to MARKDOWN format. Save MHTML as MARKDOWN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to MARKDOWN., Free Online Convert MHTML to MARKDOWN in Python., Python Convert MHTML to MARKDOWN., MHTML to MARKDOWN Converter]
+title: MHTML to MARKDOWN - Convert MHTML to MARKDOWN files Python
+description: Aspose Excel. Free Online Convert MHTML to MARKDOWN saveformat. Python MHTML to MARKDOWN format. Save MHTML as MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to MARKDOWN saveformat., Free Online MHTML to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

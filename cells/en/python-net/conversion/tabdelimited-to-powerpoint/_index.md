@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to POWERPOINT - Convert TABDELIMITED to POWERPOINT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to POWERPOINT in Python. Python TABDELIMITED to POWERPOINT format. Save TABDELIMITED as POWERPOINT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to POWERPOINT., Free Online Convert TABDELIMITED to POWERPOINT in Python., Python Convert TABDELIMITED to POWERPOINT., TABDELIMITED to POWERPOINT Converter]
+title: TABDELIMITED to POWERPOINT - Convert TABDELIMITED to POWERPOINT files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to POWERPOINT saveformat. Python TABDELIMITED to POWERPOINT format. Save TABDELIMITED as POWERPOINT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to POWERPOINT saveformat., Free Online TABDELIMITED to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

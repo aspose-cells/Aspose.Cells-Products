@@ -1,7 +1,7 @@
 ---
-title: XLSB to WORD - Convert XLSB to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to WORD in C#. C# XLSB to WORD format. Save XLSB as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to WORD., Free Online Convert XLSB to WORD in C#., C# Convert XLSB to WORD., XLSB to WORD Converter]
+title: XLSB to WORD - Convert XLSB to WORD files C#
+description: Aspose Excel. Free Online Convert XLSB to WORD saveformat. C# XLSB to WORD format. Save XLSB as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to WORD saveformat., Free Online XLSB to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

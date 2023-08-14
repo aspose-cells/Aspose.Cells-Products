@@ -1,7 +1,7 @@
 ---
-title: XLT to HTM - Convert XLT to HTM in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLT to HTM in C#. C# XLT to HTM format. Save XLT as HTM in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to HTM., Free Online Convert XLT to HTM in C#., C# Convert XLT to HTM., XLT to HTM Converter]
+title: XLT to HTM - Convert XLT to HTM files C#
+description: Aspose Excel. Free Online Convert XLT to HTM saveformat. C# XLT to HTM format. Save XLT as HTM in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLT to HTM saveformat., Free Online XLT to HTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

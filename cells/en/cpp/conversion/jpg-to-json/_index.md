@@ -1,7 +1,7 @@
 ---
-title: JPG to JSON - Convert JPG to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to JSON in C++. C++ JPG to JSON format. Save JPG as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to JSON., Free Online Convert JPG to JSON in C++., C++ Convert JPG to JSON., JPG to JSON Converter]
+title: JPG to JSON - Convert JPG to JSON files C++
+description: Aspose Excel. Free Online Convert JPG to JSON saveformat. C++ JPG to JSON format. Save JPG as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to JSON saveformat., Free Online JPG to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

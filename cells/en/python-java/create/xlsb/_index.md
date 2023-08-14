@@ -1,6 +1,6 @@
 ---
 title: Create XLSB - Create XLSB file in Python
-description: Python Aspose Cells. Python Create XLSB File. Create XLSB Python. Python XLSB Creater. Create XLSB in Python. Generate XLSB file using Python.
+description: Aspose Excel. Python Create XLSB File. Create XLSB Python. Python XLSB Creater. Create XLSB in Python. Generate XLSB file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create XLSB Python., Python XLSB Creater., Create XLSB file in Python., Generate XLSB file in Python]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to PPTX - Convert TABDELIMITED to PPTX in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to PPTX in Python. Python TABDELIMITED to PPTX format. Save TABDELIMITED as PPTX in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to PPTX., Free Online Convert TABDELIMITED to PPTX in Python., Python Convert TABDELIMITED to PPTX., TABDELIMITED to PPTX Converter]
+title: TABDELIMITED to PPTX - Convert TABDELIMITED to PPTX files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to PPTX saveformat. Python TABDELIMITED to PPTX format. Save TABDELIMITED as PPTX in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to PPTX saveformat., Free Online TABDELIMITED to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

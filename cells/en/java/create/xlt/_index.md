@@ -1,6 +1,6 @@
 ---
 title: Create XLT - Create XLT file in Java
-description: Java Aspose Cells. Java Create XLT File. Create XLT Java. Java XLT Creater. Create XLT in Java. Generate XLT file using Java.
+description: Aspose Excel. Java Create XLT File. Create XLT Java. Java XLT Creater. Create XLT in Java. Generate XLT file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create XLT Java., Java XLT Creater., Create XLT file in Java., Generate XLT file in Java]
 ---
 

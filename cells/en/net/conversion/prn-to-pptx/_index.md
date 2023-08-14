@@ -1,7 +1,7 @@
 ---
-title: PRN to PPTX - Convert PRN to PPTX in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PRN to PPTX in C#. C# PRN to PPTX format. Save PRN as PPTX in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to PPTX., Free Online Convert PRN to PPTX in C#., C# Convert PRN to PPTX., PRN to PPTX Converter]
+title: PRN to PPTX - Convert PRN to PPTX files C#
+description: Aspose Excel. Free Online Convert PRN to PPTX saveformat. C# PRN to PPTX format. Save PRN as PPTX in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PRN to PPTX saveformat., Free Online PRN to PPTX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

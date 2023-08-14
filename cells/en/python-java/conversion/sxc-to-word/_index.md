@@ -1,7 +1,7 @@
 ---
-title: SXC to WORD - Convert SXC to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to WORD in Python. Python SXC to WORD format. Save SXC as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to WORD., Free Online Convert SXC to WORD in Python., Python Convert SXC to WORD., SXC to WORD Converter]
+title: SXC to WORD - Convert SXC to WORD files Python
+description: Aspose Excel. Free Online Convert SXC to WORD saveformat. Python SXC to WORD format. Save SXC as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to WORD saveformat., Free Online SXC to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

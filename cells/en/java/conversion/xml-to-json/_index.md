@@ -1,7 +1,7 @@
 ---
-title: XML to JSON - Convert XML to JSON in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to JSON in Java. Java XML to JSON format. Save XML as JSON in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to JSON., Free Online Convert XML to JSON in Java., Java Convert XML to JSON., XML to JSON Converter]
+title: XML to JSON - Convert XML to JSON files Java
+description: Aspose Excel. Free Online Convert XML to JSON saveformat. Java XML to JSON format. Save XML as JSON in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to JSON saveformat., Free Online XML to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

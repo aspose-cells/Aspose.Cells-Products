@@ -1,7 +1,7 @@
 ---
-title: EXCEL to FODS - Convert EXCEL to FODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert EXCEL to FODS in C++. C++ EXCEL to FODS format. Save EXCEL as FODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to FODS., Free Online Convert EXCEL to FODS in C++., C++ Convert EXCEL to FODS., EXCEL to FODS Converter]
+title: EXCEL to FODS - Convert EXCEL to FODS files C++
+description: Aspose Excel. Free Online Convert EXCEL to FODS saveformat. C++ EXCEL to FODS format. Save EXCEL as FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ EXCEL to FODS saveformat., Free Online EXCEL to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

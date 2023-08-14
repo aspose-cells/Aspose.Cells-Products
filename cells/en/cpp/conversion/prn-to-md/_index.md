@@ -1,7 +1,7 @@
 ---
-title: PRN to MD - Convert PRN to MD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert PRN to MD in C++. C++ PRN to MD format. Save PRN as MD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to MD., Free Online Convert PRN to MD in C++., C++ Convert PRN to MD., PRN to MD Converter]
+title: PRN to MD - Convert PRN to MD files C++
+description: Aspose Excel. Free Online Convert PRN to MD saveformat. C++ PRN to MD format. Save PRN as MD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ PRN to MD saveformat., Free Online PRN to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

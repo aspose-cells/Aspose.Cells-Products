@@ -1,7 +1,7 @@
 ---
-title: MHT to XLSB - Convert MHT to XLSB in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to XLSB in C#. C# MHT to XLSB format. Save MHT as XLSB in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to XLSB., Free Online Convert MHT to XLSB in C#., C# Convert MHT to XLSB., MHT to XLSB Converter]
+title: MHT to XLSB - Convert MHT to XLSB files C#
+description: Aspose Excel. Free Online Convert MHT to XLSB saveformat. C# MHT to XLSB format. Save MHT as XLSB in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to XLSB saveformat., Free Online MHT to XLSB Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

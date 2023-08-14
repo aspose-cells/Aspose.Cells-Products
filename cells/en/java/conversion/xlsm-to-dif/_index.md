@@ -1,7 +1,7 @@
 ---
-title: XLSM to DIF - Convert XLSM to DIF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSM to DIF in Java. Java XLSM to DIF format. Save XLSM as DIF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to DIF., Free Online Convert XLSM to DIF in Java., Java Convert XLSM to DIF., XLSM to DIF Converter]
+title: XLSM to DIF - Convert XLSM to DIF files Java
+description: Aspose Excel. Free Online Convert XLSM to DIF saveformat. Java XLSM to DIF format. Save XLSM as DIF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSM to DIF saveformat., Free Online XLSM to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

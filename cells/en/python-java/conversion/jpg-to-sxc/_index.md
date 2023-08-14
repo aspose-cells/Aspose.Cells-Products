@@ -1,7 +1,7 @@
 ---
-title: JPG to SXC - Convert JPG to SXC in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to SXC in Python. Python JPG to SXC format. Save JPG as SXC in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to SXC., Free Online Convert JPG to SXC in Python., Python Convert JPG to SXC., JPG to SXC Converter]
+title: JPG to SXC - Convert JPG to SXC files Python
+description: Aspose Excel. Free Online Convert JPG to SXC saveformat. Python JPG to SXC format. Save JPG as SXC in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to SXC saveformat., Free Online JPG to SXC Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

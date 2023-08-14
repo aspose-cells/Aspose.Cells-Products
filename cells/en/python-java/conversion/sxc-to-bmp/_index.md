@@ -1,7 +1,7 @@
 ---
-title: SXC to BMP - Convert SXC to BMP in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert SXC to BMP in Python. Python SXC to BMP format. Save SXC as BMP in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to BMP., Free Online Convert SXC to BMP in Python., Python Convert SXC to BMP., SXC to BMP Converter]
+title: SXC to BMP - Convert SXC to BMP files Python
+description: Aspose Excel. Free Online Convert SXC to BMP saveformat. Python SXC to BMP format. Save SXC as BMP in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python SXC to BMP saveformat., Free Online SXC to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

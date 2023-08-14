@@ -1,7 +1,7 @@
 ---
-title: XLTM to ET - Convert XLTM to ET in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTM to ET in C++. C++ XLTM to ET format. Save XLTM as ET in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to ET., Free Online Convert XLTM to ET in C++., C++ Convert XLTM to ET., XLTM to ET Converter]
+title: XLTM to ET - Convert XLTM to ET files C++
+description: Aspose Excel. Free Online Convert XLTM to ET saveformat. C++ XLTM to ET format. Save XLTM as ET in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTM to ET saveformat., Free Online XLTM to ET Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

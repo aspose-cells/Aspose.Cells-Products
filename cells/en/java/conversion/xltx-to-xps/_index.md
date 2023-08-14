@@ -1,7 +1,7 @@
 ---
-title: XLTX to XPS - Convert XLTX to XPS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLTX to XPS in Java. Java XLTX to XPS format. Save XLTX as XPS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to XPS., Free Online Convert XLTX to XPS in Java., Java Convert XLTX to XPS., XLTX to XPS Converter]
+title: XLTX to XPS - Convert XLTX to XPS files Java
+description: Aspose Excel. Free Online Convert XLTX to XPS saveformat. Java XLTX to XPS format. Save XLTX as XPS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLTX to XPS saveformat., Free Online XLTX to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

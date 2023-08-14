@@ -1,6 +1,6 @@
 ---
 title: Create DOCX - Create DOCX file in C#
-description: C# Aspose Cells. C# Create DOCX File. Create DOCX C#. C# DOCX Creater. Create DOCX in C#. Generate DOCX file using C#.
+description: Aspose Excel. C# Create DOCX File. Create DOCX C#. C# DOCX Creater. Create DOCX in C#. Generate DOCX file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create DOCX C#., C# DOCX Creater., Create DOCX file in C#., Generate DOCX file in C#]
 ---
 

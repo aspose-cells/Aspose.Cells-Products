@@ -1,6 +1,6 @@
 ---
 title: Create PDF - Create PDF file in Java
-description: Java Aspose Cells. Java Create PDF File. Create PDF Java. Java PDF Creater. Create PDF in Java. Generate PDF file using Java.
+description: Aspose Excel. Java Create PDF File. Create PDF Java. Java PDF Creater. Create PDF in Java. Generate PDF file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create PDF Java., Java PDF Creater., Create PDF file in Java., Generate PDF file in Java]
 ---
 

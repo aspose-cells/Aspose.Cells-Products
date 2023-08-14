@@ -1,7 +1,7 @@
 ---
-title: FODS to PRN - Convert FODS to PRN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to PRN in C#. C# FODS to PRN format. Save FODS as PRN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to PRN., Free Online Convert FODS to PRN in C#., C# Convert FODS to PRN., FODS to PRN Converter]
+title: FODS to PRN - Convert FODS to PRN files C#
+description: Aspose Excel. Free Online Convert FODS to PRN saveformat. C# FODS to PRN format. Save FODS as PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to PRN saveformat., Free Online FODS to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

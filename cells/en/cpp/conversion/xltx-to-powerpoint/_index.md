@@ -1,7 +1,7 @@
 ---
-title: XLTX to POWERPOINT - Convert XLTX to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to POWERPOINT in C++. C++ XLTX to POWERPOINT format. Save XLTX as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to POWERPOINT., Free Online Convert XLTX to POWERPOINT in C++., C++ Convert XLTX to POWERPOINT., XLTX to POWERPOINT Converter]
+title: XLTX to POWERPOINT - Convert XLTX to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert XLTX to POWERPOINT saveformat. C++ XLTX to POWERPOINT format. Save XLTX as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to POWERPOINT saveformat., Free Online XLTX to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

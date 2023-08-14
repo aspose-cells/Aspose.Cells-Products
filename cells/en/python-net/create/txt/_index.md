@@ -1,6 +1,6 @@
 ---
 title: Create TXT - Create TXT file in Python
-description: Python Aspose Cells. Python Create TXT File. Create TXT Python. Python TXT Creater. Create TXT in Python. Generate TXT file using Python.
+description: Aspose Excel. Python Create TXT File. Create TXT Python. Python TXT Creater. Create TXT in Python. Generate TXT file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create TXT Python., Python TXT Creater., Create TXT file in Python., Generate TXT file in Python]
 ---
 

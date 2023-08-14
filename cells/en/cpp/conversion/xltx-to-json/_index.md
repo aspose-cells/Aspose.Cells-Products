@@ -1,7 +1,7 @@
 ---
-title: XLTX to JSON - Convert XLTX to JSON in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to JSON in C++. C++ XLTX to JSON format. Save XLTX as JSON in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to JSON., Free Online Convert XLTX to JSON in C++., C++ Convert XLTX to JSON., XLTX to JSON Converter]
+title: XLTX to JSON - Convert XLTX to JSON files C++
+description: Aspose Excel. Free Online Convert XLTX to JSON saveformat. C++ XLTX to JSON format. Save XLTX as JSON in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to JSON saveformat., Free Online XLTX to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLS to POWERPOINT - Convert XLS to POWERPOINT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLS to POWERPOINT in C#. C# XLS to POWERPOINT format. Save XLS as POWERPOINT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to POWERPOINT., Free Online Convert XLS to POWERPOINT in C#., C# Convert XLS to POWERPOINT., XLS to POWERPOINT Converter]
+title: XLS to POWERPOINT - Convert XLS to POWERPOINT files C#
+description: Aspose Excel. Free Online Convert XLS to POWERPOINT saveformat. C# XLS to POWERPOINT format. Save XLS as POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to POWERPOINT saveformat., Free Online XLS to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

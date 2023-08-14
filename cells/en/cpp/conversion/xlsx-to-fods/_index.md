@@ -1,7 +1,7 @@
 ---
-title: XLSX to FODS - Convert XLSX to FODS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to FODS in C++. C++ XLSX to FODS format. Save XLSX as FODS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to FODS., Free Online Convert XLSX to FODS in C++., C++ Convert XLSX to FODS., XLSX to FODS Converter]
+title: XLSX to FODS - Convert XLSX to FODS files C++
+description: Aspose Excel. Free Online Convert XLSX to FODS saveformat. C++ XLSX to FODS format. Save XLSX as FODS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to FODS saveformat., Free Online XLSX to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

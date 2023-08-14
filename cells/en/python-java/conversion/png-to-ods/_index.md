@@ -1,7 +1,7 @@
 ---
-title: PNG to ODS - Convert PNG to ODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to ODS in Python. Python PNG to ODS format. Save PNG as ODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to ODS., Free Online Convert PNG to ODS in Python., Python Convert PNG to ODS., PNG to ODS Converter]
+title: PNG to ODS - Convert PNG to ODS files Python
+description: Aspose Excel. Free Online Convert PNG to ODS saveformat. Python PNG to ODS format. Save PNG as ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to ODS saveformat., Free Online PNG to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

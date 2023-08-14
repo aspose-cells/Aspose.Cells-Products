@@ -1,7 +1,7 @@
 ---
-title: IMAGE to JPEG - Convert IMAGE to JPEG in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert IMAGE to JPEG in Python. Python IMAGE to JPEG format. Save IMAGE as JPEG in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to JPEG., Free Online Convert IMAGE to JPEG in Python., Python Convert IMAGE to JPEG., IMAGE to JPEG Converter]
+title: IMAGE to JPEG - Convert IMAGE to JPEG files Python
+description: Aspose Excel. Free Online Convert IMAGE to JPEG saveformat. Python IMAGE to JPEG format. Save IMAGE as JPEG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to JPEG saveformat., Free Online IMAGE to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JSON to PRN - Convert JSON to PRN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JSON to PRN in Python. Python JSON to PRN format. Save JSON as PRN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to PRN., Free Online Convert JSON to PRN in Python., Python Convert JSON to PRN., JSON to PRN Converter]
+title: JSON to PRN - Convert JSON to PRN files Python
+description: Aspose Excel. Free Online Convert JSON to PRN saveformat. Python JSON to PRN format. Save JSON as PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JSON to PRN saveformat., Free Online JSON to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

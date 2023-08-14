@@ -1,7 +1,7 @@
 ---
-title: MHT to PDF - Convert MHT to PDF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to PDF in Python. Python MHT to PDF format. Save MHT as PDF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to PDF., Free Online Convert MHT to PDF in Python., Python Convert MHT to PDF., MHT to PDF Converter]
+title: MHT to PDF - Convert MHT to PDF files Python
+description: Aspose Excel. Free Online Convert MHT to PDF saveformat. Python MHT to PDF format. Save MHT as PDF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to PDF saveformat., Free Online MHT to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

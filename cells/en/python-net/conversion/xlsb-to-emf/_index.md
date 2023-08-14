@@ -1,7 +1,7 @@
 ---
-title: XLSB to EMF - Convert XLSB to EMF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSB to EMF in Python. Python XLSB to EMF format. Save XLSB as EMF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to EMF., Free Online Convert XLSB to EMF in Python., Python Convert XLSB to EMF., XLSB to EMF Converter]
+title: XLSB to EMF - Convert XLSB to EMF files Python
+description: Aspose Excel. Free Online Convert XLSB to EMF saveformat. Python XLSB to EMF format. Save XLSB as EMF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSB to EMF saveformat., Free Online XLSB to EMF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

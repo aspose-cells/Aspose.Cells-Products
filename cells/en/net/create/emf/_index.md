@@ -1,6 +1,6 @@
 ---
 title: Create EMF - Create EMF file in C#
-description: C# Aspose Cells. C# Create EMF File. Create EMF C#. C# EMF Creater. Create EMF in C#. Generate EMF file using C#.
+description: Aspose Excel. C# Create EMF File. Create EMF C#. C# EMF Creater. Create EMF in C#. Generate EMF file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create EMF C#., C# EMF Creater., Create EMF file in C#., Generate EMF file in C#]
 ---
 

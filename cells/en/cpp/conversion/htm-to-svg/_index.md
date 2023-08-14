@@ -1,7 +1,7 @@
 ---
-title: HTM to SVG - Convert HTM to SVG in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert HTM to SVG in C++. C++ HTM to SVG format. Save HTM as SVG in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to SVG., Free Online Convert HTM to SVG in C++., C++ Convert HTM to SVG., HTM to SVG Converter]
+title: HTM to SVG - Convert HTM to SVG files C++
+description: Aspose Excel. Free Online Convert HTM to SVG saveformat. C++ HTM to SVG format. Save HTM as SVG in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ HTM to SVG saveformat., Free Online HTM to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

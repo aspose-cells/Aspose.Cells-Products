@@ -1,7 +1,7 @@
 ---
-title: MHT to DOCX - Convert MHT to DOCX in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert MHT to DOCX in C++. C++ MHT to DOCX format. Save MHT as DOCX in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to DOCX., Free Online Convert MHT to DOCX in C++., C++ Convert MHT to DOCX., MHT to DOCX Converter]
+title: MHT to DOCX - Convert MHT to DOCX files C++
+description: Aspose Excel. Free Online Convert MHT to DOCX saveformat. C++ MHT to DOCX format. Save MHT as DOCX in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ MHT to DOCX saveformat., Free Online MHT to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

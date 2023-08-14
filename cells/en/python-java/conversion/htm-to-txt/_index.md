@@ -1,7 +1,7 @@
 ---
-title: HTM to TXT - Convert HTM to TXT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to TXT in Python. Python HTM to TXT format. Save HTM as TXT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to TXT., Free Online Convert HTM to TXT in Python., Python Convert HTM to TXT., HTM to TXT Converter]
+title: HTM to TXT - Convert HTM to TXT files Python
+description: Aspose Excel. Free Online Convert HTM to TXT saveformat. Python HTM to TXT format. Save HTM as TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to TXT saveformat., Free Online HTM to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

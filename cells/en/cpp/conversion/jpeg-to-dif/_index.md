@@ -1,7 +1,7 @@
 ---
-title: JPEG to DIF - Convert JPEG to DIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to DIF in C++. C++ JPEG to DIF format. Save JPEG as DIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to DIF., Free Online Convert JPEG to DIF in C++., C++ Convert JPEG to DIF., JPEG to DIF Converter]
+title: JPEG to DIF - Convert JPEG to DIF files C++
+description: Aspose Excel. Free Online Convert JPEG to DIF saveformat. C++ JPEG to DIF format. Save JPEG as DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to DIF saveformat., Free Online JPEG to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

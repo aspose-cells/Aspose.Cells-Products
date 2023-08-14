@@ -1,7 +1,7 @@
 ---
-title: JPG to XLAM - Convert JPG to XLAM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to XLAM in C++. C++ JPG to XLAM format. Save JPG as XLAM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XLAM., Free Online Convert JPG to XLAM in C++., C++ Convert JPG to XLAM., JPG to XLAM Converter]
+title: JPG to XLAM - Convert JPG to XLAM files C++
+description: Aspose Excel. Free Online Convert JPG to XLAM saveformat. C++ JPG to XLAM format. Save JPG as XLAM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XLAM saveformat., Free Online JPG to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

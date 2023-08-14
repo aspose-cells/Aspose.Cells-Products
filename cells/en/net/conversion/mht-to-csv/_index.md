@@ -1,7 +1,7 @@
 ---
-title: MHT to CSV - Convert MHT to CSV in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert MHT to CSV in C#. C# MHT to CSV format. Save MHT as CSV in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to CSV., Free Online Convert MHT to CSV in C#., C# Convert MHT to CSV., MHT to CSV Converter]
+title: MHT to CSV - Convert MHT to CSV files C#
+description: Aspose Excel. Free Online Convert MHT to CSV saveformat. C# MHT to CSV format. Save MHT as CSV in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# MHT to CSV saveformat., Free Online MHT to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

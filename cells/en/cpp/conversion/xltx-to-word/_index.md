@@ -1,7 +1,7 @@
 ---
-title: XLTX to WORD - Convert XLTX to WORD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLTX to WORD in C++. C++ XLTX to WORD format. Save XLTX as WORD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to WORD., Free Online Convert XLTX to WORD in C++., C++ Convert XLTX to WORD., XLTX to WORD Converter]
+title: XLTX to WORD - Convert XLTX to WORD files C++
+description: Aspose Excel. Free Online Convert XLTX to WORD saveformat. C++ XLTX to WORD format. Save XLTX as WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLTX to WORD saveformat., Free Online XLTX to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

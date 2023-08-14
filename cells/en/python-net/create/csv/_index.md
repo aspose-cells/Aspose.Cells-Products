@@ -1,6 +1,6 @@
 ---
 title: Create CSV - Create CSV file in Python
-description: Python Aspose Cells. Python Create CSV File. Create CSV Python. Python CSV Creater. Create CSV in Python. Generate CSV file using Python.
+description: Aspose Excel. Python Create CSV File. Create CSV Python. Python CSV Creater. Create CSV in Python. Generate CSV file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create CSV Python., Python CSV Creater., Create CSV file in Python., Generate CSV file in Python]
 ---
 

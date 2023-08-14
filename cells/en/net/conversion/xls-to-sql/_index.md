@@ -1,7 +1,7 @@
 ---
-title: XLS to SQL - Convert XLS to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLS to SQL in C#. C# XLS to SQL format. Save XLS as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to SQL., Free Online Convert XLS to SQL in C#., C# Convert XLS to SQL., XLS to SQL Converter]
+title: XLS to SQL - Convert XLS to SQL files C#
+description: Aspose Excel. Free Online Convert XLS to SQL saveformat. C# XLS to SQL format. Save XLS as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to SQL saveformat., Free Online XLS to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

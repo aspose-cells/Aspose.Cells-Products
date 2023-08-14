@@ -1,7 +1,7 @@
 ---
-title: XLSB to POWERPOINT - Convert XLSB to POWERPOINT in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to POWERPOINT in C++. C++ XLSB to POWERPOINT format. Save XLSB as POWERPOINT in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to POWERPOINT., Free Online Convert XLSB to POWERPOINT in C++., C++ Convert XLSB to POWERPOINT., XLSB to POWERPOINT Converter]
+title: XLSB to POWERPOINT - Convert XLSB to POWERPOINT files C++
+description: Aspose Excel. Free Online Convert XLSB to POWERPOINT saveformat. C++ XLSB to POWERPOINT format. Save XLSB as POWERPOINT in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to POWERPOINT saveformat., Free Online XLSB to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

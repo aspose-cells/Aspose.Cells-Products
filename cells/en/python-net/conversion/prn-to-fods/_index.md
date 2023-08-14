@@ -1,7 +1,7 @@
 ---
-title: PRN to FODS - Convert PRN to FODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PRN to FODS in Python. Python PRN to FODS format. Save PRN as FODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to FODS., Free Online Convert PRN to FODS in Python., Python Convert PRN to FODS., PRN to FODS Converter]
+title: PRN to FODS - Convert PRN to FODS files Python
+description: Aspose Excel. Free Online Convert PRN to FODS saveformat. Python PRN to FODS format. Save PRN as FODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to FODS saveformat., Free Online PRN to FODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

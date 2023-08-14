@@ -1,7 +1,7 @@
 ---
-title: HTM to GIF - Convert HTM to GIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to GIF in Python. Python HTM to GIF format. Save HTM as GIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to GIF., Free Online Convert HTM to GIF in Python., Python Convert HTM to GIF., HTM to GIF Converter]
+title: HTM to GIF - Convert HTM to GIF files Python
+description: Aspose Excel. Free Online Convert HTM to GIF saveformat. Python HTM to GIF format. Save HTM as GIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to GIF saveformat., Free Online HTM to GIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

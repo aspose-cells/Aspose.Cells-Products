@@ -1,7 +1,7 @@
 ---
-title: NUMBERS to WORD - Convert NUMBERS to WORD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert NUMBERS to WORD in C++. C++ NUMBERS to WORD format. Save NUMBERS as WORD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to WORD., Free Online Convert NUMBERS to WORD in C++., C++ Convert NUMBERS to WORD., NUMBERS to WORD Converter]
+title: NUMBERS to WORD - Convert NUMBERS to WORD files C++
+description: Aspose Excel. Free Online Convert NUMBERS to WORD saveformat. C++ NUMBERS to WORD format. Save NUMBERS as WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ NUMBERS to WORD saveformat., Free Online NUMBERS to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

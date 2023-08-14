@@ -1,7 +1,7 @@
 ---
-title: HTM to SVG - Convert HTM to SVG in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to SVG in Python. Python HTM to SVG format. Save HTM as SVG in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to SVG., Free Online Convert HTM to SVG in Python., Python Convert HTM to SVG., HTM to SVG Converter]
+title: HTM to SVG - Convert HTM to SVG files Python
+description: Aspose Excel. Free Online Convert HTM to SVG saveformat. Python HTM to SVG format. Save HTM as SVG in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to SVG saveformat., Free Online HTM to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

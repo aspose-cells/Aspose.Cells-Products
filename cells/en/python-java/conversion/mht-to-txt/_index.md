@@ -1,7 +1,7 @@
 ---
-title: MHT to TXT - Convert MHT to TXT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHT to TXT in Python. Python MHT to TXT format. Save MHT as TXT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to TXT., Free Online Convert MHT to TXT in Python., Python Convert MHT to TXT., MHT to TXT Converter]
+title: MHT to TXT - Convert MHT to TXT files Python
+description: Aspose Excel. Free Online Convert MHT to TXT saveformat. Python MHT to TXT format. Save MHT as TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHT to TXT saveformat., Free Online MHT to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

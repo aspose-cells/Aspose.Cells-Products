@@ -1,7 +1,7 @@
 ---
-title: XLSB to TABDELIMITED - Convert XLSB to TABDELIMITED in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to TABDELIMITED in C#. C# XLSB to TABDELIMITED format. Save XLSB as TABDELIMITED in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to TABDELIMITED., Free Online Convert XLSB to TABDELIMITED in C#., C# Convert XLSB to TABDELIMITED., XLSB to TABDELIMITED Converter]
+title: XLSB to TABDELIMITED - Convert XLSB to TABDELIMITED files C#
+description: Aspose Excel. Free Online Convert XLSB to TABDELIMITED saveformat. C# XLSB to TABDELIMITED format. Save XLSB as TABDELIMITED in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to TABDELIMITED saveformat., Free Online XLSB to TABDELIMITED Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

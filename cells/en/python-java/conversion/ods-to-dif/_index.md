@@ -1,7 +1,7 @@
 ---
-title: ODS to DIF - Convert ODS to DIF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert ODS to DIF in Python. Python ODS to DIF format. Save ODS as DIF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to DIF., Free Online Convert ODS to DIF in Python., Python Convert ODS to DIF., ODS to DIF Converter]
+title: ODS to DIF - Convert ODS to DIF files Python
+description: Aspose Excel. Free Online Convert ODS to DIF saveformat. Python ODS to DIF format. Save ODS as DIF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python ODS to DIF saveformat., Free Online ODS to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

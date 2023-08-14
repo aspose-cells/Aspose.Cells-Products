@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLSM - Convert JPEG to XLSM in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPEG to XLSM in C++. C++ JPEG to XLSM format. Save JPEG as XLSM in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XLSM., Free Online Convert JPEG to XLSM in C++., C++ Convert JPEG to XLSM., JPEG to XLSM Converter]
+title: JPEG to XLSM - Convert JPEG to XLSM files C++
+description: Aspose Excel. Free Online Convert JPEG to XLSM saveformat. C++ JPEG to XLSM format. Save JPEG as XLSM in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPEG to XLSM saveformat., Free Online JPEG to XLSM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

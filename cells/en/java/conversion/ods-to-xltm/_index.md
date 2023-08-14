@@ -1,7 +1,7 @@
 ---
-title: ODS to XLTM - Convert ODS to XLTM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to XLTM in Java. Java ODS to XLTM format. Save ODS as XLTM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to XLTM., Free Online Convert ODS to XLTM in Java., Java Convert ODS to XLTM., ODS to XLTM Converter]
+title: ODS to XLTM - Convert ODS to XLTM files Java
+description: Aspose Excel. Free Online Convert ODS to XLTM saveformat. Java ODS to XLTM format. Save ODS as XLTM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to XLTM saveformat., Free Online ODS to XLTM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML to WORD - Convert SPREADSHEETML to WORD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert SPREADSHEETML to WORD in C++. C++ SPREADSHEETML to WORD format. Save SPREADSHEETML as WORD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to WORD., Free Online Convert SPREADSHEETML to WORD in C++., C++ Convert SPREADSHEETML to WORD., SPREADSHEETML to WORD Converter]
+title: SPREADSHEETML to WORD - Convert SPREADSHEETML to WORD files C++
+description: Aspose Excel. Free Online Convert SPREADSHEETML to WORD saveformat. C++ SPREADSHEETML to WORD format. Save SPREADSHEETML as WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ SPREADSHEETML to WORD saveformat., Free Online SPREADSHEETML to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

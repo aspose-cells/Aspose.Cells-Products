@@ -1,6 +1,6 @@
 ---
 title: Create SPREADSHEETML - Create SPREADSHEETML file in C++
-description: C++ Aspose Cells. C++ Create SPREADSHEETML File. Create SPREADSHEETML C++. C++ SPREADSHEETML Creater. Create SPREADSHEETML in C++. Generate SPREADSHEETML file using C++.
+description: Aspose Excel. C++ Create SPREADSHEETML File. Create SPREADSHEETML C++. C++ SPREADSHEETML Creater. Create SPREADSHEETML in C++. Generate SPREADSHEETML file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create SPREADSHEETML C++., C++ SPREADSHEETML Creater., Create SPREADSHEETML file in C++., Generate SPREADSHEETML file in C++]
 ---
 

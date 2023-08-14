@@ -1,7 +1,7 @@
 ---
-title: MHTML to WORD - Convert MHTML to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert MHTML to WORD in Python. Python MHTML to WORD format. Save MHTML as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to WORD., Free Online Convert MHTML to WORD in Python., Python Convert MHTML to WORD., MHTML to WORD Converter]
+title: MHTML to WORD - Convert MHTML to WORD files Python
+description: Aspose Excel. Free Online Convert MHTML to WORD saveformat. Python MHTML to WORD format. Save MHTML as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python MHTML to WORD saveformat., Free Online MHTML to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

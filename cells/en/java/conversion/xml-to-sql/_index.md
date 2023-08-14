@@ -1,7 +1,7 @@
 ---
-title: XML to SQL - Convert XML to SQL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XML to SQL in Java. Java XML to SQL format. Save XML as SQL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XML to SQL., Free Online Convert XML to SQL in Java., Java Convert XML to SQL., XML to SQL Converter]
+title: XML to SQL - Convert XML to SQL files Java
+description: Aspose Excel. Free Online Convert XML to SQL saveformat. Java XML to SQL format. Save XML as SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XML to SQL saveformat., Free Online XML to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

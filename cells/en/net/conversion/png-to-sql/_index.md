@@ -1,7 +1,7 @@
 ---
-title: PNG to SQL - Convert PNG to SQL in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert PNG to SQL in C#. C# PNG to SQL format. Save PNG as SQL in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to SQL., Free Online Convert PNG to SQL in C#., C# Convert PNG to SQL., PNG to SQL Converter]
+title: PNG to SQL - Convert PNG to SQL files C#
+description: Aspose Excel. Free Online Convert PNG to SQL saveformat. C# PNG to SQL format. Save PNG as SQL in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# PNG to SQL saveformat., Free Online PNG to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

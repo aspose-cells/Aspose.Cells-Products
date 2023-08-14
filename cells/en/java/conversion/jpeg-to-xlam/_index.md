@@ -1,7 +1,7 @@
 ---
-title: JPEG to XLAM - Convert JPEG to XLAM in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to XLAM in Java. Java JPEG to XLAM format. Save JPEG as XLAM in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to XLAM., Free Online Convert JPEG to XLAM in Java., Java Convert JPEG to XLAM., JPEG to XLAM Converter]
+title: JPEG to XLAM - Convert JPEG to XLAM files Java
+description: Aspose Excel. Free Online Convert JPEG to XLAM saveformat. Java JPEG to XLAM format. Save JPEG as XLAM in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to XLAM saveformat., Free Online JPEG to XLAM Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

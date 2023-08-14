@@ -1,7 +1,7 @@
 ---
-title: FODS to WORD - Convert FODS to WORD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert FODS to WORD in C#. C# FODS to WORD format. Save FODS as WORD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to WORD., Free Online Convert FODS to WORD in C#., C# Convert FODS to WORD., FODS to WORD Converter]
+title: FODS to WORD - Convert FODS to WORD files C#
+description: Aspose Excel. Free Online Convert FODS to WORD saveformat. C# FODS to WORD format. Save FODS as WORD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# FODS to WORD saveformat., Free Online FODS to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

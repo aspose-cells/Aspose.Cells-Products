@@ -1,6 +1,6 @@
 ---
 title: Create MD - Create MD file in C#
-description: C# Aspose Cells. C# Create MD File. Create MD C#. C# MD Creater. Create MD in C#. Generate MD file using C#.
+description: Aspose Excel. C# Create MD File. Create MD C#. C# MD Creater. Create MD in C#. Generate MD file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create MD C#., C# MD Creater., Create MD file in C#., Generate MD file in C#]
 ---
 

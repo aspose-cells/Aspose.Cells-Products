@@ -1,6 +1,6 @@
 ---
 title: Create DOCX - Create DOCX file in Java
-description: Java Aspose Cells. Java Create DOCX File. Create DOCX Java. Java DOCX Creater. Create DOCX in Java. Generate DOCX file using Java.
+description: Aspose Excel. Java Create DOCX File. Create DOCX Java. Java DOCX Creater. Create DOCX in Java. Generate DOCX file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create DOCX Java., Java DOCX Creater., Create DOCX file in Java., Generate DOCX file in Java]
 ---
 

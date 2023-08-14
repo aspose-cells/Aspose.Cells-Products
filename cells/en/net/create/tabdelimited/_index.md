@@ -1,6 +1,6 @@
 ---
 title: Create TABDELIMITED - Create TABDELIMITED file in C#
-description: C# Aspose Cells. C# Create TABDELIMITED File. Create TABDELIMITED C#. C# TABDELIMITED Creater. Create TABDELIMITED in C#. Generate TABDELIMITED file using C#.
+description: Aspose Excel. C# Create TABDELIMITED File. Create TABDELIMITED C#. C# TABDELIMITED Creater. Create TABDELIMITED in C#. Generate TABDELIMITED file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create TABDELIMITED C#., C# TABDELIMITED Creater., Create TABDELIMITED file in C#., Generate TABDELIMITED file in C#]
 ---
 

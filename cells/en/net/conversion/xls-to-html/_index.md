@@ -1,7 +1,7 @@
 ---
-title: XLS to HTML - Convert XLS to HTML in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLS to HTML in C#. C# XLS to HTML format. Save XLS as HTML in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to HTML., Free Online Convert XLS to HTML in C#., C# Convert XLS to HTML., XLS to HTML Converter]
+title: XLS to HTML - Convert XLS to HTML files C#
+description: Aspose Excel. Free Online Convert XLS to HTML saveformat. C# XLS to HTML format. Save XLS as HTML in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLS to HTML saveformat., Free Online XLS to HTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

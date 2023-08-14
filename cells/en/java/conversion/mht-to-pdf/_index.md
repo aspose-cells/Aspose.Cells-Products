@@ -1,7 +1,7 @@
 ---
-title: MHT to PDF - Convert MHT to PDF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert MHT to PDF in Java. Java MHT to PDF format. Save MHT as PDF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to PDF., Free Online Convert MHT to PDF in Java., Java Convert MHT to PDF., MHT to PDF Converter]
+title: MHT to PDF - Convert MHT to PDF files Java
+description: Aspose Excel. Free Online Convert MHT to PDF saveformat. Java MHT to PDF format. Save MHT as PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java MHT to PDF saveformat., Free Online MHT to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

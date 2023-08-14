@@ -1,7 +1,7 @@
 ---
-title: OTS to PRN - Convert OTS to PRN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to PRN in C#. C# OTS to PRN format. Save OTS as PRN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to PRN., Free Online Convert OTS to PRN in C#., C# Convert OTS to PRN., OTS to PRN Converter]
+title: OTS to PRN - Convert OTS to PRN files C#
+description: Aspose Excel. Free Online Convert OTS to PRN saveformat. C# OTS to PRN format. Save OTS as PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to PRN saveformat., Free Online OTS to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

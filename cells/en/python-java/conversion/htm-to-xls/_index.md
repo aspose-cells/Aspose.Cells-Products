@@ -1,7 +1,7 @@
 ---
-title: HTM to XLS - Convert HTM to XLS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTM to XLS in Python. Python HTM to XLS format. Save HTM as XLS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to XLS., Free Online Convert HTM to XLS in Python., Python Convert HTM to XLS., HTM to XLS Converter]
+title: HTM to XLS - Convert HTM to XLS files Python
+description: Aspose Excel. Free Online Convert HTM to XLS saveformat. Python HTM to XLS format. Save HTM as XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTM to XLS saveformat., Free Online HTM to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

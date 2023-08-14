@@ -1,6 +1,6 @@
 ---
 title: Create MARKDOWN - Create MARKDOWN file in C#
-description: C# Aspose Cells. C# Create MARKDOWN File. Create MARKDOWN C#. C# MARKDOWN Creater. Create MARKDOWN in C#. Generate MARKDOWN file using C#.
+description: Aspose Excel. C# Create MARKDOWN File. Create MARKDOWN C#. C# MARKDOWN Creater. Create MARKDOWN in C#. Generate MARKDOWN file using C#.
 keywords: [Aspose Excel., C# Aspose.Cells., Create MARKDOWN C#., C# MARKDOWN Creater., Create MARKDOWN file in C#., Generate MARKDOWN file in C#]
 ---
 

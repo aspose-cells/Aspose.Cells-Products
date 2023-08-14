@@ -1,7 +1,7 @@
 ---
-title: JPEG to JSON - Convert JPEG to JSON in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to JSON in C#. C# JPEG to JSON format. Save JPEG as JSON in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to JSON., Free Online Convert JPEG to JSON in C#., C# Convert JPEG to JSON., JPEG to JSON Converter]
+title: JPEG to JSON - Convert JPEG to JSON files C#
+description: Aspose Excel. Free Online Convert JPEG to JSON saveformat. C# JPEG to JSON format. Save JPEG as JSON in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to JSON saveformat., Free Online JPEG to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

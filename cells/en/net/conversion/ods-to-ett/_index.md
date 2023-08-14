@@ -1,7 +1,7 @@
 ---
-title: ODS to ETT - Convert ODS to ETT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert ODS to ETT in C#. C# ODS to ETT format. Save ODS as ETT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to ETT., Free Online Convert ODS to ETT in C#., C# Convert ODS to ETT., ODS to ETT Converter]
+title: ODS to ETT - Convert ODS to ETT files C#
+description: Aspose Excel. Free Online Convert ODS to ETT saveformat. C# ODS to ETT format. Save ODS as ETT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# ODS to ETT saveformat., Free Online ODS to ETT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

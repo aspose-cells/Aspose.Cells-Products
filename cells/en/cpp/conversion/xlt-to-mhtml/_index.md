@@ -1,7 +1,7 @@
 ---
-title: XLT to MHTML - Convert XLT to MHTML in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLT to MHTML in C++. C++ XLT to MHTML format. Save XLT as MHTML in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to MHTML., Free Online Convert XLT to MHTML in C++., C++ Convert XLT to MHTML., XLT to MHTML Converter]
+title: XLT to MHTML - Convert XLT to MHTML files C++
+description: Aspose Excel. Free Online Convert XLT to MHTML saveformat. C++ XLT to MHTML format. Save XLT as MHTML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLT to MHTML saveformat., Free Online XLT to MHTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

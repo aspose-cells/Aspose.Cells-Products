@@ -1,6 +1,6 @@
 ---
 title: Create NUMBERS - Create NUMBERS file in Python
-description: Python Aspose Cells. Python Create NUMBERS File. Create NUMBERS Python. Python NUMBERS Creater. Create NUMBERS in Python. Generate NUMBERS file using Python.
+description: Aspose Excel. Python Create NUMBERS File. Create NUMBERS Python. Python NUMBERS Creater. Create NUMBERS in Python. Generate NUMBERS file using Python.
 keywords: [Aspose Excel., Python Aspose.Cells., Create NUMBERS Python., Python NUMBERS Creater., Create NUMBERS file in Python., Generate NUMBERS file in Python]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: SXC to SVG - Convert SXC to SVG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert SXC to SVG in Java. Java SXC to SVG format. Save SXC as SVG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to SVG., Free Online Convert SXC to SVG in Java., Java Convert SXC to SVG., SXC to SVG Converter]
+title: SXC to SVG - Convert SXC to SVG files Java
+description: Aspose Excel. Free Online Convert SXC to SVG saveformat. Java SXC to SVG format. Save SXC as SVG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java SXC to SVG saveformat., Free Online SXC to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

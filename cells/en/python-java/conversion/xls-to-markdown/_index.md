@@ -1,7 +1,7 @@
 ---
-title: XLS to MARKDOWN - Convert XLS to MARKDOWN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLS to MARKDOWN in Python. Python XLS to MARKDOWN format. Save XLS as MARKDOWN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to MARKDOWN., Free Online Convert XLS to MARKDOWN in Python., Python Convert XLS to MARKDOWN., XLS to MARKDOWN Converter]
+title: XLS to MARKDOWN - Convert XLS to MARKDOWN files Python
+description: Aspose Excel. Free Online Convert XLS to MARKDOWN saveformat. Python XLS to MARKDOWN format. Save XLS as MARKDOWN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLS to MARKDOWN saveformat., Free Online XLS to MARKDOWN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

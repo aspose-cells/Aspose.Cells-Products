@@ -1,7 +1,7 @@
 ---
-title: PRN to WORD - Convert PRN to WORD in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PRN to WORD in Python. Python PRN to WORD format. Save PRN as WORD in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to WORD., Free Online Convert PRN to WORD in Python., Python Convert PRN to WORD., PRN to WORD Converter]
+title: PRN to WORD - Convert PRN to WORD files Python
+description: Aspose Excel. Free Online Convert PRN to WORD saveformat. Python PRN to WORD format. Save PRN as WORD in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PRN to WORD saveformat., Free Online PRN to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

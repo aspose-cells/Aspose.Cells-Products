@@ -1,7 +1,7 @@
 ---
-title: XLSX to NUMBERS - Convert XLSX to NUMBERS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSX to NUMBERS in C++. C++ XLSX to NUMBERS format. Save XLSX as NUMBERS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to NUMBERS., Free Online Convert XLSX to NUMBERS in C++., C++ Convert XLSX to NUMBERS., XLSX to NUMBERS Converter]
+title: XLSX to NUMBERS - Convert XLSX to NUMBERS files C++
+description: Aspose Excel. Free Online Convert XLSX to NUMBERS saveformat. C++ XLSX to NUMBERS format. Save XLSX as NUMBERS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSX to NUMBERS saveformat., Free Online XLSX to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

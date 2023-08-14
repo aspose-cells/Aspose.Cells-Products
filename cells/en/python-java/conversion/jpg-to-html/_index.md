@@ -1,7 +1,7 @@
 ---
-title: JPG to HTML - Convert JPG to HTML in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPG to HTML in Python. Python JPG to HTML format. Save JPG as HTML in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to HTML., Free Online Convert JPG to HTML in Python., Python Convert JPG to HTML., JPG to HTML Converter]
+title: JPG to HTML - Convert JPG to HTML files Python
+description: Aspose Excel. Free Online Convert JPG to HTML saveformat. Python JPG to HTML format. Save JPG as HTML in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPG to HTML saveformat., Free Online JPG to HTML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

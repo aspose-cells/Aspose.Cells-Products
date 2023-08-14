@@ -1,7 +1,7 @@
 ---
-title: JPEG to ODS - Convert JPEG to ODS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert JPEG to ODS in Python. Python JPEG to ODS format. Save JPEG as ODS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to ODS., Free Online Convert JPEG to ODS in Python., Python Convert JPEG to ODS., JPEG to ODS Converter]
+title: JPEG to ODS - Convert JPEG to ODS files Python
+description: Aspose Excel. Free Online Convert JPEG to ODS saveformat. Python JPEG to ODS format. Save JPEG as ODS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python JPEG to ODS saveformat., Free Online JPEG to ODS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

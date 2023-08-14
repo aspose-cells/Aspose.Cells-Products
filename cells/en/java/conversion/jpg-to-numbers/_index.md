@@ -1,7 +1,7 @@
 ---
-title: JPG to NUMBERS - Convert JPG to NUMBERS in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to NUMBERS in Java. Java JPG to NUMBERS format. Save JPG as NUMBERS in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to NUMBERS., Free Online Convert JPG to NUMBERS in Java., Java Convert JPG to NUMBERS., JPG to NUMBERS Converter]
+title: JPG to NUMBERS - Convert JPG to NUMBERS files Java
+description: Aspose Excel. Free Online Convert JPG to NUMBERS saveformat. Java JPG to NUMBERS format. Save JPG as NUMBERS in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to NUMBERS saveformat., Free Online JPG to NUMBERS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

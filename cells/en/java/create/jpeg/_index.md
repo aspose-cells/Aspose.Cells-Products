@@ -1,6 +1,6 @@
 ---
 title: Create JPEG - Create JPEG file in Java
-description: Java Aspose Cells. Java Create JPEG File. Create JPEG Java. Java JPEG Creater. Create JPEG in Java. Generate JPEG file using Java.
+description: Aspose Excel. Java Create JPEG File. Create JPEG Java. Java JPEG Creater. Create JPEG in Java. Generate JPEG file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create JPEG Java., Java JPEG Creater., Create JPEG file in Java., Generate JPEG file in Java]
 ---
 

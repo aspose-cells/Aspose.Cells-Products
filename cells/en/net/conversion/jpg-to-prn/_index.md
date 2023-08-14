@@ -1,7 +1,7 @@
 ---
-title: JPG to PRN - Convert JPG to PRN in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPG to PRN in C#. C# JPG to PRN format. Save JPG as PRN in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to PRN., Free Online Convert JPG to PRN in C#., C# Convert JPG to PRN., JPG to PRN Converter]
+title: JPG to PRN - Convert JPG to PRN files C#
+description: Aspose Excel. Free Online Convert JPG to PRN saveformat. C# JPG to PRN format. Save JPG as PRN in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPG to PRN saveformat., Free Online JPG to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

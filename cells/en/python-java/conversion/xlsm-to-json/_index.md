@@ -1,7 +1,7 @@
 ---
-title: XLSM to JSON - Convert XLSM to JSON in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert XLSM to JSON in Python. Python XLSM to JSON format. Save XLSM as JSON in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to JSON., Free Online Convert XLSM to JSON in Python., Python Convert XLSM to JSON., XLSM to JSON Converter]
+title: XLSM to JSON - Convert XLSM to JSON files Python
+description: Aspose Excel. Free Online Convert XLSM to JSON saveformat. Python XLSM to JSON format. Save XLSM as JSON in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python XLSM to JSON saveformat., Free Online XLSM to JSON Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

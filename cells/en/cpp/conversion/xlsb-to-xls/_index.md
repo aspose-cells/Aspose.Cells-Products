@@ -1,7 +1,7 @@
 ---
-title: XLSB to XLS - Convert XLSB to XLS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to XLS in C++. C++ XLSB to XLS format. Save XLSB as XLS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XLS., Free Online Convert XLSB to XLS in C++., C++ Convert XLSB to XLS., XLSB to XLS Converter]
+title: XLSB to XLS - Convert XLSB to XLS files C++
+description: Aspose Excel. Free Online Convert XLSB to XLS saveformat. C++ XLSB to XLS format. Save XLSB as XLS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XLS saveformat., Free Online XLSB to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: JPG to XPS - Convert JPG to XPS in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert JPG to XPS in C++. C++ JPG to XPS format. Save JPG as XPS in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XPS., Free Online Convert JPG to XPS in C++., C++ Convert JPG to XPS., JPG to XPS Converter]
+title: JPG to XPS - Convert JPG to XPS files C++
+description: Aspose Excel. Free Online Convert JPG to XPS saveformat. C++ JPG to XPS format. Save JPG as XPS in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ JPG to XPS saveformat., Free Online JPG to XPS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

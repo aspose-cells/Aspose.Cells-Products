@@ -1,7 +1,7 @@
 ---
-title: FODS to CSV - Convert FODS to CSV in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to CSV in Python. Python FODS to CSV format. Save FODS as CSV in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to CSV., Free Online Convert FODS to CSV in Python., Python Convert FODS to CSV., FODS to CSV Converter]
+title: FODS to CSV - Convert FODS to CSV files Python
+description: Aspose Excel. Free Online Convert FODS to CSV saveformat. Python FODS to CSV format. Save FODS as CSV in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to CSV saveformat., Free Online FODS to CSV Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

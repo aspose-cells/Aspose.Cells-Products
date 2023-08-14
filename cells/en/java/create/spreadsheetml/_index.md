@@ -1,6 +1,6 @@
 ---
 title: Create SPREADSHEETML - Create SPREADSHEETML file in Java
-description: Java Aspose Cells. Java Create SPREADSHEETML File. Create SPREADSHEETML Java. Java SPREADSHEETML Creater. Create SPREADSHEETML in Java. Generate SPREADSHEETML file using Java.
+description: Aspose Excel. Java Create SPREADSHEETML File. Create SPREADSHEETML Java. Java SPREADSHEETML Creater. Create SPREADSHEETML in Java. Generate SPREADSHEETML file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create SPREADSHEETML Java., Java SPREADSHEETML Creater., Create SPREADSHEETML file in Java., Generate SPREADSHEETML file in Java]
 ---
 

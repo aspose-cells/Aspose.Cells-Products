@@ -1,7 +1,7 @@
 ---
-title: JPEG to SVG - Convert JPEG to SVG in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert JPEG to SVG in C#. C# JPEG to SVG format. Save JPEG as SVG in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to SVG., Free Online Convert JPEG to SVG in C#., C# Convert JPEG to SVG., JPEG to SVG Converter]
+title: JPEG to SVG - Convert JPEG to SVG files C#
+description: Aspose Excel. Free Online Convert JPEG to SVG saveformat. C# JPEG to SVG format. Save JPEG as SVG in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# JPEG to SVG saveformat., Free Online JPEG to SVG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: PRN to PDF - Convert PRN to PDF in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PRN to PDF in Java. Java PRN to PDF format. Save PRN as PDF in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to PDF., Free Online Convert PRN to PDF in Java., Java Convert PRN to PDF., PRN to PDF Converter]
+title: PRN to PDF - Convert PRN to PDF files Java
+description: Aspose Excel. Free Online Convert PRN to PDF saveformat. Java PRN to PDF format. Save PRN as PDF in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PRN to PDF saveformat., Free Online PRN to PDF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

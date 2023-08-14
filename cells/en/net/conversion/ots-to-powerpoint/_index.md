@@ -1,7 +1,7 @@
 ---
-title: OTS to POWERPOINT - Convert OTS to POWERPOINT in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert OTS to POWERPOINT in C#. C# OTS to POWERPOINT format. Save OTS as POWERPOINT in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to POWERPOINT., Free Online Convert OTS to POWERPOINT in C#., C# Convert OTS to POWERPOINT., OTS to POWERPOINT Converter]
+title: OTS to POWERPOINT - Convert OTS to POWERPOINT files C#
+description: Aspose Excel. Free Online Convert OTS to POWERPOINT saveformat. C# OTS to POWERPOINT format. Save OTS as POWERPOINT in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# OTS to POWERPOINT saveformat., Free Online OTS to POWERPOINT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: HTML to PRN - Convert HTML to PRN in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert HTML to PRN in Python. Python HTML to PRN format. Save HTML as PRN in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to PRN., Free Online Convert HTML to PRN in Python., Python Convert HTML to PRN., HTML to PRN Converter]
+title: HTML to PRN - Convert HTML to PRN files Python
+description: Aspose Excel. Free Online Convert HTML to PRN saveformat. Python HTML to PRN format. Save HTML as PRN in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python HTML to PRN saveformat., Free Online HTML to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

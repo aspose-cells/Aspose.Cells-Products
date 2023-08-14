@@ -1,7 +1,7 @@
 ---
-title: FODS to XLS - Convert FODS to XLS in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert FODS to XLS in Python. Python FODS to XLS format. Save FODS as XLS in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to XLS., Free Online Convert FODS to XLS in Python., Python Convert FODS to XLS., FODS to XLS Converter]
+title: FODS to XLS - Convert FODS to XLS files Python
+description: Aspose Excel. Free Online Convert FODS to XLS saveformat. Python FODS to XLS format. Save FODS as XLS in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python FODS to XLS saveformat., Free Online FODS to XLS Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

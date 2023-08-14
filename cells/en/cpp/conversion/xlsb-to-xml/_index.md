@@ -1,7 +1,7 @@
 ---
-title: XLSB to XML - Convert XLSB to XML in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSB to XML in C++. C++ XLSB to XML format. Save XLSB as XML in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XML., Free Online Convert XLSB to XML in C++., C++ Convert XLSB to XML., XLSB to XML Converter]
+title: XLSB to XML - Convert XLSB to XML files C++
+description: Aspose Excel. Free Online Convert XLSB to XML saveformat. C++ XLSB to XML format. Save XLSB as XML in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSB to XML saveformat., Free Online XLSB to XML Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

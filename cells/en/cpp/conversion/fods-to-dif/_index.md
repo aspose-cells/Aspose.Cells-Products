@@ -1,7 +1,7 @@
 ---
-title: FODS to DIF - Convert FODS to DIF in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert FODS to DIF in C++. C++ FODS to DIF format. Save FODS as DIF in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to DIF., Free Online Convert FODS to DIF in C++., C++ Convert FODS to DIF., FODS to DIF Converter]
+title: FODS to DIF - Convert FODS to DIF files C++
+description: Aspose Excel. Free Online Convert FODS to DIF saveformat. C++ FODS to DIF format. Save FODS as DIF in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ FODS to DIF saveformat., Free Online FODS to DIF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

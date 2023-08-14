@@ -1,7 +1,7 @@
 ---
-title: PNG to JPEG - Convert PNG to JPEG in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert PNG to JPEG in Java. Java PNG to JPEG format. Save PNG as JPEG in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to JPEG., Free Online Convert PNG to JPEG in Java., Java Convert PNG to JPEG., PNG to JPEG Converter]
+title: PNG to JPEG - Convert PNG to JPEG files Java
+description: Aspose Excel. Free Online Convert PNG to JPEG saveformat. Java PNG to JPEG format. Save PNG as JPEG in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java PNG to JPEG saveformat., Free Online PNG to JPEG Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

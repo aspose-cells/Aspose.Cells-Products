@@ -1,7 +1,7 @@
 ---
-title: XLSB to MD - Convert XLSB to MD in C#
-description: Aspose Excel. C# Aspose.Cells. Free Online Convert XLSB to MD in C#. C# XLSB to MD format. Save XLSB as MD in C#. C# Aspose Cells.
-keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to MD., Free Online Convert XLSB to MD in C#., C# Convert XLSB to MD., XLSB to MD Converter]
+title: XLSB to MD - Convert XLSB to MD files C#
+description: Aspose Excel. Free Online Convert XLSB to MD saveformat. C# XLSB to MD format. Save XLSB as MD in C#.
+keywords: [Aspose Excel., C# Aspose.Cells., C# XLSB to MD saveformat., Free Online XLSB to MD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

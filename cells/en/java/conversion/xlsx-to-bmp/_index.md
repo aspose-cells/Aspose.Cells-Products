@@ -1,7 +1,7 @@
 ---
-title: XLSX to BMP - Convert XLSX to BMP in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert XLSX to BMP in Java. Java XLSX to BMP format. Save XLSX as BMP in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to BMP., Free Online Convert XLSX to BMP in Java., Java Convert XLSX to BMP., XLSX to BMP Converter]
+title: XLSX to BMP - Convert XLSX to BMP files Java
+description: Aspose Excel. Free Online Convert XLSX to BMP saveformat. Java XLSX to BMP format. Save XLSX as BMP in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java XLSX to BMP saveformat., Free Online XLSX to BMP Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: IMAGE to TIFF - Convert IMAGE to TIFF in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert IMAGE to TIFF in Python. Python IMAGE to TIFF format. Save IMAGE as TIFF in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to TIFF., Free Online Convert IMAGE to TIFF in Python., Python Convert IMAGE to TIFF., IMAGE to TIFF Converter]
+title: IMAGE to TIFF - Convert IMAGE to TIFF files Python
+description: Aspose Excel. Free Online Convert IMAGE to TIFF saveformat. Python IMAGE to TIFF format. Save IMAGE as TIFF in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python IMAGE to TIFF saveformat., Free Online IMAGE to TIFF Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -1,7 +1,7 @@
 ---
-title: XLSM to PRN - Convert XLSM to PRN in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert XLSM to PRN in C++. C++ XLSM to PRN format. Save XLSM as PRN in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to PRN., Free Online Convert XLSM to PRN in C++., C++ Convert XLSM to PRN., XLSM to PRN Converter]
+title: XLSM to PRN - Convert XLSM to PRN files C++
+description: Aspose Excel. Free Online Convert XLSM to PRN saveformat. C++ XLSM to PRN format. Save XLSM as PRN in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ XLSM to PRN saveformat., Free Online XLSM to PRN Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

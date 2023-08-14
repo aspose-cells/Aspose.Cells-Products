@@ -1,7 +1,7 @@
 ---
-title: EXCEL to MHT - Convert EXCEL to MHT in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert EXCEL to MHT in Java. Java EXCEL to MHT format. Save EXCEL as MHT in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to MHT., Free Online Convert EXCEL to MHT in Java., Java Convert EXCEL to MHT., EXCEL to MHT Converter]
+title: EXCEL to MHT - Convert EXCEL to MHT files Java
+description: Aspose Excel. Free Online Convert EXCEL to MHT saveformat. Java EXCEL to MHT format. Save EXCEL as MHT in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java EXCEL to MHT saveformat., Free Online EXCEL to MHT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

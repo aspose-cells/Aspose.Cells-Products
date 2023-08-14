@@ -1,7 +1,7 @@
 ---
-title: JPG to EXCEL - Convert JPG to EXCEL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPG to EXCEL in Java. Java JPG to EXCEL format. Save JPG as EXCEL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to EXCEL., Free Online Convert JPG to EXCEL in Java., Java Convert JPG to EXCEL., JPG to EXCEL Converter]
+title: JPG to EXCEL - Convert JPG to EXCEL files Java
+description: Aspose Excel. Free Online Convert JPG to EXCEL saveformat. Java JPG to EXCEL format. Save JPG as EXCEL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPG to EXCEL saveformat., Free Online JPG to EXCEL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

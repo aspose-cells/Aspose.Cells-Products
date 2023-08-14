@@ -1,6 +1,6 @@
 ---
 title: Create OTS - Create OTS file in Java
-description: Java Aspose Cells. Java Create OTS File. Create OTS Java. Java OTS Creater. Create OTS in Java. Generate OTS file using Java.
+description: Aspose Excel. Java Create OTS File. Create OTS Java. Java OTS Creater. Create OTS in Java. Generate OTS file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create OTS Java., Java OTS Creater., Create OTS file in Java., Generate OTS file in Java]
 ---
 

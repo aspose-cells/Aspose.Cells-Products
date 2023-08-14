@@ -1,6 +1,6 @@
 ---
 title: Create XLT - Create XLT file in C++
-description: C++ Aspose Cells. C++ Create XLT File. Create XLT C++. C++ XLT Creater. Create XLT in C++. Generate XLT file using C++.
+description: Aspose Excel. C++ Create XLT File. Create XLT C++. C++ XLT Creater. Create XLT in C++. Generate XLT file using C++.
 keywords: [Aspose Excel., C++ Aspose.Cells., Create XLT C++., C++ XLT Creater., Create XLT file in C++., Generate XLT file in C++]
 ---
 

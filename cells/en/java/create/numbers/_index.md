@@ -1,6 +1,6 @@
 ---
 title: Create NUMBERS - Create NUMBERS file in Java
-description: Java Aspose Cells. Java Create NUMBERS File. Create NUMBERS Java. Java NUMBERS Creater. Create NUMBERS in Java. Generate NUMBERS file using Java.
+description: Aspose Excel. Java Create NUMBERS File. Create NUMBERS Java. Java NUMBERS Creater. Create NUMBERS in Java. Generate NUMBERS file using Java.
 keywords: [Aspose Excel., Java Aspose.Cells., Create NUMBERS Java., Java NUMBERS Creater., Create NUMBERS file in Java., Generate NUMBERS file in Java]
 ---
 

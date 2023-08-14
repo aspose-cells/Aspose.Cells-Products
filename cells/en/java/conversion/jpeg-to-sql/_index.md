@@ -1,7 +1,7 @@
 ---
-title: JPEG to SQL - Convert JPEG to SQL in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert JPEG to SQL in Java. Java JPEG to SQL format. Save JPEG as SQL in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to SQL., Free Online Convert JPEG to SQL in Java., Java Convert JPEG to SQL., JPEG to SQL Converter]
+title: JPEG to SQL - Convert JPEG to SQL files Java
+description: Aspose Excel. Free Online Convert JPEG to SQL saveformat. Java JPEG to SQL format. Save JPEG as SQL in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java JPEG to SQL saveformat., Free Online JPEG to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

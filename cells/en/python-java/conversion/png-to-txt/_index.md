@@ -1,7 +1,7 @@
 ---
-title: PNG to TXT - Convert PNG to TXT in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert PNG to TXT in Python. Python PNG to TXT format. Save PNG as TXT in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to TXT., Free Online Convert PNG to TXT in Python., Python Convert PNG to TXT., PNG to TXT Converter]
+title: PNG to TXT - Convert PNG to TXT files Python
+description: Aspose Excel. Free Online Convert PNG to TXT saveformat. Python PNG to TXT format. Save PNG as TXT in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python PNG to TXT saveformat., Free Online PNG to TXT Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

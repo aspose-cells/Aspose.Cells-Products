@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to WORD - Convert TABDELIMITED to WORD in C++
-description: Aspose Excel. C++ Aspose.Cells. Free Online Convert TABDELIMITED to WORD in C++. C++ TABDELIMITED to WORD format. Save TABDELIMITED as WORD in C++. C++ Aspose Cells.
-keywords: [Aspose Excel., C++ Aspose.Cells., C++ TABDELIMITED to WORD., Free Online Convert TABDELIMITED to WORD in C++., C++ Convert TABDELIMITED to WORD., TABDELIMITED to WORD Converter]
+title: TABDELIMITED to WORD - Convert TABDELIMITED to WORD files C++
+description: Aspose Excel. Free Online Convert TABDELIMITED to WORD saveformat. C++ TABDELIMITED to WORD format. Save TABDELIMITED as WORD in C++.
+keywords: [Aspose Excel., C++ Aspose.Cells., C++ TABDELIMITED to WORD saveformat., Free Online TABDELIMITED to WORD Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

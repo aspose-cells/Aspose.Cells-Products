@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED to SQL - Convert TABDELIMITED to SQL in Python
-description: Aspose Excel. Python Aspose.Cells. Free Online Convert TABDELIMITED to SQL in Python. Python TABDELIMITED to SQL format. Save TABDELIMITED as SQL in Python. Python Aspose Cells.
-keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to SQL., Free Online Convert TABDELIMITED to SQL in Python., Python Convert TABDELIMITED to SQL., TABDELIMITED to SQL Converter]
+title: TABDELIMITED to SQL - Convert TABDELIMITED to SQL files Python
+description: Aspose Excel. Free Online Convert TABDELIMITED to SQL saveformat. Python TABDELIMITED to SQL format. Save TABDELIMITED as SQL in Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python TABDELIMITED to SQL saveformat., Free Online TABDELIMITED to SQL Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

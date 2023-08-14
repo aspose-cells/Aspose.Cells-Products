@@ -1,7 +1,7 @@
 ---
-title: ODS to DOCX - Convert ODS to DOCX in Java
-description: Aspose Excel. Java Aspose.Cells. Free Online Convert ODS to DOCX in Java. Java ODS to DOCX format. Save ODS as DOCX in Java. Java Aspose Cells.
-keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to DOCX., Free Online Convert ODS to DOCX in Java., Java Convert ODS to DOCX., ODS to DOCX Converter]
+title: ODS to DOCX - Convert ODS to DOCX files Java
+description: Aspose Excel. Free Online Convert ODS to DOCX saveformat. Java ODS to DOCX format. Save ODS as DOCX in Java.
+keywords: [Aspose Excel., Java Aspose.Cells., Java ODS to DOCX saveformat., Free Online ODS to DOCX Converter]
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

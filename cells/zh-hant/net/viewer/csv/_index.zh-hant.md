@@ -1,7 +1,7 @@
 ---
 title: 查看 CSV 文件格式 via .NET
 weight: 7690
-description: C# 源代碼，用於在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上加載、呈現和顯示 CSV 文檔。
+description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加載、渲染和顯示 CSV 文檔。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 電子表格，例如 CSV，無需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="CSV" >}}
@@ -13,13 +13,13 @@ description: C# 源代碼，用於在 .NET 框架、.NET 核心、Mono 或 Xamar
 
 為了查看 CSV 文件，我們將使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API 是一個功能豐富、功能強大且易於使用的 API，適用於 C# 平台，可與任何查看器一起使用。打開
+API 這是一個功能豐富、功能強大且易於使用的 API 適用於 C# 平台，可與任何查看器一起使用。打開
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-並安裝。您也可以從包管理器控制台使用以下命令。
+並安裝。您還可以從包管理器控制台使用以下命令。
 
-{{% blocks/products/pf/agp/code-block title="程序包管理器控制台命令" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
 
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells讓開發者只需幾行代碼就可以輕鬆查看CSV文件。
+Aspose.Cells使得開發者只需幾行代碼就可以輕鬆查看CSV文件。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 在 Workbook 實例中加載 CSV 文件
 1. 創建 HtmlSaveOptions 的實例並將 ExportHeadings 屬性設置為 true
-1. 使用 Workbook.Save 方法將 CSV 文件保存為 HTML 格式
+1. 使用Workbook.Save方法將CSV文件保存為HTML格式
 1. 使用 Process.Start 在默認瀏覽器中加載結果 HTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,13 +52,13 @@ Aspose.Cells讓開發者只需幾行代碼就可以輕鬆查看CSV文件。
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系統都支持 Aspose.Cells for .NET。只需確保您具有以下先決條件。
+Aspose.Cells for .NET 在所有主要操作系統上均受支持。只需確保您滿足以下先決條件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系統
-- 開發環境類似Microsoft Visual Studio
-- 在您的項目中添加對 Aspose.Cells for .NET DLL 的引用
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系統
+- 開發環境如Microsoft Visual Studio
+- 在項目中添加對 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -92,7 +92,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和呈現 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要像 Microsoft 或 OpenOffice 這樣的任何軟件。
+ Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
 
 
 
@@ -100,14 +100,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免費應用程序查看 CSV" sectionDescription="查看我們的現場演示[查看 CSV](https://products.aspose.app/cells/viewer/csv)具有以下好處。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免費應用程序查看 CSV" sectionDescription="查看我們的現場演示[查看CSV](https://products.aspose.app/cells/viewer/csv)具有以下好處。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯代碼" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 CSV 文件並點擊“查看”按鈕" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，從鏈接下載 CSV 文件" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，請從鏈接下載 CSV 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-具有 CSV（逗號分隔值）擴展名的文件表示包含具有逗號分隔值的數據記錄的純文本文件。 CSV 文件中的每一行都是該文件中包含的記錄集中的一條新記錄。當數據從一個存儲系統傳輸到另一個存儲系統時，就會生成此類文件。由於所有應用程序都可以識別以逗號分隔的記錄，因此將此類數據文件導入數據庫非常方便。幾乎所有電子表格應用程序，例如 Microsoft Excel 或 OpenOffice Calc 都可以毫不費力地導入 CSV。從此類文件導入的數據排列在電子表格的單元格中，以向用戶展示。
+擴展名為 CSV（逗號分隔值）的文件表示純文本文件，其中包含具有逗號分隔值的數據記錄。 CSV 文件中的每一行都是該文件中包含的記錄集中的一條新記錄。當數據從一個存儲系統傳輸到另一存儲系統時，會生成此類文件。由於所有應用程序都可以識別以逗號分隔的記錄，因此將此類數據文件導入數據庫非常方便。幾乎所有電子表格應用程序（例如 Microsoft Excel 或 OpenOffice Calc）都可以輕鬆導入 CSV。從此類文件導入的數據排列在電子表格的單元格中以向用戶表示。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,18 +115,18 @@ System.Diagnostics.Process.Start(output);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用 C#，還可以查看許多其他文件格式，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用C#，您還可以查看許多其他文件格式，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/tsv/" name="TSV" description="製表符分隔值" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/txt/" name="TXT" description="文本文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/txt/" name="TXT" description="文本文檔" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Excel 二進制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsb/" name="XLSB" description="二進制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="啟用宏的 Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="辦公室 OpenXML Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Excel 宏啟用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Office OpenXML Excel 模板" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

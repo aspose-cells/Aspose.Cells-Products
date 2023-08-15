@@ -1,7 +1,7 @@
 ---
 title: 查看或編輯 XLSB 文件元數據 via .NET
 weight: 7890
-description: C# 源代碼，用於在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上編輯或查看 XLSB 格式元數據。
+description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上編輯或查看 XLSB 格式元數據。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 XLSB 元數據 via .NET" h2="構建您自己的 .NET 應用程序，以使用服務器端 API 添加、編輯、刪除或提取 XLSB 文件中的元數據。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,11 +13,11 @@ description: C# 源代碼，用於在 .NET 框架、.NET 核心、Mono 或 Xamar
 
 為了提取 XLSB 元數據，我們將使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API這是一個功能豐富、功能強大且易於使用的文檔元數據API，適用於C#平台。打開
+ API這是一個功能豐富、強大且易於使用的文檔元數據API，適用於C#平台。打開
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-並安裝。您也可以從包管理器控制台使用以下命令。
+並安裝。您還可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-訪問存儲在 XLSB 文件中的有用信息，包括 XLSB 文件的接收時間、處理時間、時間戳等。
+訪問 XLSB 文件中存儲的有用信息，包括 XLSB 文件的接收時間、處理時間、時間戳等。
 
 {{% /blocks/products/pf/agp/text %}}
 
 使用工作簿實例加載 XLSB
-+ 獲取 Workbook 對象的 BuiltInDocumentProperties 集合
-遍歷集合
++ 獲取Workbook對象的BuiltInDocumentProperties集合
+迭代集合
 顯示屬性名稱、類型和值
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,17 +52,17 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系統都支持 Aspose.Cells for .NET。只需確保您具有以下先決條件。
+Aspose.Cells for .NET 在所有主要操作系統上均受支持。只需確保您滿足以下先決條件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系統。
-- 開發環境如 Microsoft Visual Studio。
-- 在您的項目中添加對 Aspose.Cells for .NET DLL 的引用。
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系統。
+- 開發環境如Microsoft Visual Studio。
+- 在項目中添加對 Aspose.Cells for .NET DLL 的引用。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="提取 XLSB 的元數據 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="提取 XLSB - C# 的元數據" offSpacer="" %}}
 
 ```cs
 
@@ -98,7 +98,7 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
 
     {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和呈現 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要像 Microsoft 或 OpenOffice 這樣的任何軟件。
+ Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
 
 
 
@@ -110,10 +110,10 @@ foreach (Aspose.Cells.Properties.DocumentProperty property in book.Worksheets.Bu
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫任何代碼" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 XLSB 文件並編輯文檔屬性" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取結果文件的下載鏈接" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB 文件格式指定 Excel 二進製文件格式，它是指定 Excel 工作簿內容的記錄和結構的集合。內容可以包括非結構化或半結構化的數字表格、文本或數字和文本、公式、外部數據連接、圖表和圖像。與 XLSX（基於 Open XML 文件格式）不同，XLSB 表示二進制 Excel 工作簿文件。 XLSB 文件可以更快地讀取和寫入，這使得它們對於處理大文件很有用。 XLSB 很少用於存儲工作簿，因為 XLSX（以及以前的 XLS）是用戶最常選擇的用於保存工作簿的文件格式。 Microsoft Office 2007及以上版本可以打開。
+XLSB 文件格式指定 Excel 二進製文件格式，它是指定 Excel 工作簿內容的記錄和結構的集合。內容可以包括非結構化或半結構化的數字表、文本表、或數字和文本表、公式、外部數據連接、圖表和圖像。與 XLSX（基於 Open XML 文件格式）不同，XLSB 表示二進制 Excel 工作簿文件。 XLSB 文件的讀取和寫入速度更快，這使得它們對於處理大文件非常有用。 XLSB 很少用於存儲工作簿，因為 XLSX（以及之前的 XLS）是用戶選擇的最常見的用於保存工作簿的文件格式。可以用Microsoft Office 2007及以上版本打開。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -121,7 +121,7 @@ XLSB 文件格式指定 Excel 二進製文件格式，它是指定 Excel 工作�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的元數據格式" subTitle="使用 C#，還可以操作許多其他格式的元數據，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的元數據格式" subTitle="使用 C#，人們還可以操作許多其他格式的元數據，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/metadata/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/metadata/xls/" name="XLS" description="Excel 二進制格式" >}}

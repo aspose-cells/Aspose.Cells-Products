@@ -1,7 +1,7 @@
 ---
 title: 編輯或查看 XLS 文件元數據 via Java
 weight: 730
-description: Java 示例代碼，用於編輯或查看 Java JSP/JSF 應用程序和桌面應用程序運行時環境中的 XLS 格式元數據。
+description: Java 用於在 JSP/JSF 應用程序和桌面應用程序的 Java 運行時環境上編輯或查看 XLS 格式元數據的示例代碼。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="提取 XLS 元數據 via Java" h2="構建您自己的 Java 應用程序，以使用服務器端 API 添加、編輯、刪除或提取 XLS 文件中的元數據。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -11,13 +11,13 @@ description: Java 示例代碼，用於編輯或查看 Java JSP/JSF 應用程序
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 提取 XLS 元數據" %}}
 
-為了獲得 XLS 文件元數據，我們將使用
+為了獲取 XLS 文件元數據，我們將使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API 這是一個功能豐富、功能強大且易於使用的元數據 API for Java 平台。您可以直接從以下位置下載其最新版本
+API 這是一個功能豐富、功能強大且易於使用的元數據API for Java 平台。您可以直接從以下位置下載其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
-{{% blocks/products/pf/agp/code-block title="資料庫" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="存儲庫" offSpacer="true" %}}
 
 ```cs
 
@@ -53,14 +53,14 @@ API 這是一個功能豐富、功能強大且易於使用的元數據 API for J
 
 {{% blocks/products/pf/agp/text %}}
 
-訪問存儲在 XLS 文件中的有用信息，包括 XLS 文件的接收時間、處理時間、時間戳等。
+訪問 XLS 文件中存儲的有用信息，包括 XLS 文件的接收時間、處理時間、時間戳等。
 
 {{% /blocks/products/pf/agp/text %}}
 
 在 WorkbookMetadata 中加載 XLS 文件
-創建具有相關選項的 MetadataOptions 對象
+使用相關選項創建 MetadataOptions 對象
 設置相關屬性
-保存 XLS 元數據信息
+保存XLS元數據信息
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -78,7 +78,7 @@ Aspose.Cells for Java 支持所有主要平台和操作系統。請確保您具�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="提取 XLS 的元數據 - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="提取 XLS - Java 的元數據" offSpacer="" %}}
 
 ```cs
 
@@ -111,7 +111,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
     {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和呈現 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要像 Microsoft 或 OpenOffice 這樣的任何軟件。
+ Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
 
 
 
@@ -123,10 +123,10 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫任何代碼" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 XLS 文件並編輯文檔屬性" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取結果文件的下載鏈接" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-擴展名為 XLS 的文件代表 Excel 二進製文件格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程序（如 OpenOffice Calc 或 Apple Numbers）創建。Excel 保存的文件稱為工作簿，其中每個工作簿可以有一個或多個工作表。數據在工作表中以表格格式存儲和顯示給用戶，可以跨越數值、文本數據、公式、外部數據連接、圖像和圖表。 Microsoft Excel 等應用程序可讓您將工作簿數據導出為多種不同格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 取代。最新版本仍然支持創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。
+擴展名為 XLS 的文件代表 Excel 二進製文件格式。此類文件可以由 Microsoft Excel 以及其他類似的電子表格程序（例如 OpenOffice Calc 或 Apple Numbers）創建。Excel 保存的文件稱為工作簿，其中每個工作簿可以有一個或多個工作表。數據以工作表中的表格格式存儲並顯示給用戶，可以涵蓋數值、文本數據、公式、外部數據連接、圖像和圖表。 Microsoft Excel 等應用程序可讓您將工作簿數據導出為多種不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。隨著 Microsoft Excel 2007 的發布，XLS 文件格式被更開放和結構化的格式 XLSX 所取代。最新版本仍然支持創建和讀取 XLS 文件，儘管 XLSX 是現在使用的首選。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -134,7 +134,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的元數據格式" subTitle="使用 Java，還可以操作許多其他格式的元數據，包括" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的元數據格式" subTitle="使用Java，人們還可以操作許多其他格式的元數據，包括" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/xlsb/" name="XLSB" description="二進制 Excel 工作簿文件" >}}

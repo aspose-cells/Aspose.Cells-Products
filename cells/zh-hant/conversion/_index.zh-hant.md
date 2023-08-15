@@ -1,6 +1,6 @@
 ---
 title:  Excel文件格式轉換解決方案
 weight: 7730
-description: 將 Excel 文件轉換為 PDF、DOCX、PPTX、XLS、XLSX、XLSM、XLSB、ODS、CSV、TSV、0761103 481、JPG、BMP、PNG、SVG、TIFF、XPS、MHTML 和 Markdown。
+description: 將Excel文件轉換為PDF、DOCX、PPTX、XLS、XLSX、XLSM、XLSB、ODS、CSV、TSV、0761103 481、JPG、BMP、PNG、SVG、TIFF、XPS、MHTML 和 Markdown。
 ---
 {{< blocks/products/pf/agp/conversion-solution >}} 

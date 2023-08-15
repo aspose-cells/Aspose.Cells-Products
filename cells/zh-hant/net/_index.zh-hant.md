@@ -1,10 +1,10 @@
 ---
 title:  .NET Excel API |處理電子表格格式 via .NET 核心
 weight: 2030
-description: C# ASP.NET VB.NET 用於處理 Microsoft Excel 文檔的庫。創建讀寫保存和打印電子表格文件。轉換為 PDF 或更多格式
+description: C# ASP.NET VB.NET 庫，用於處理 Microsoft Excel 文檔。創建讀寫保存和打印電子表格文件。轉換為PDF或更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="操作 Excel 文件 via .NET API" h2="在 .NET、.NET Core 和 Xamarin 平台上讀寫電子表格文件。無需 Microsoft Excel 即可將電子表格導出為其他格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="操作 Excel 文件 via .NET API" h2="在 .NET、.NET Core 和 Xamarin 平台上讀取和寫入電子表格文件。將電子表格導出為其他格式，無需 Microsoft Excel。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-net.svg" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cells/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for .NET" >}}
 
@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET 用於處理 Microsoft Excel 文檔的庫。創�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET 是一個Excel 電子表格編程 API 以加速電子表格管理和處理任務。 API 支持構建具有生成、修改、轉換、呈現和打印電子表格能力的跨平台應用程序。此外，它不依賴於要安裝的 Microsoft Excel 或任何 Microsoft Office Interop 組件，而是一組處理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式的強大 API。
+Aspose.Cells for .NET是一個Excel電子表格編程API，以加快電子表格管理和處理任務。 API 支持構建能夠生成、修改、轉換、渲染和打印電子表格的跨平台應用程序。此外，它不依賴於 Microsoft Excel 或任何要安裝的 Microsoft Office Interop 組件，而是依賴於一組強大的 API，可處理所有 Excel 格式以及 CSV 和 SpreadsheetML 格式。
 </p>
 
 <p>
-通過集成 API，開發人員可以執行一些基本任務，例如管理多個工作表、從頭開始創建電子表格內容和样式、從不同數據源將數據導入工作表、添加常見和復雜的數學、財務和文本公式、圖表操作、圖片、評論、繪圖對像等等。
+通過集成API，開發人員可以執行一些基本任務，例如管理多個工作表、從頭開始創建電子表格內容和样式、從不同數據源將數據導入到工作表中、添加常見和復雜的數學、財務和文本公式、圖表操作、圖片、評論、繪圖對像等等。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: C# ASP.NET VB.NET 用於處理 Microsoft Excel 文檔的庫。創�
 工作表到圖像
     </li>
     <li>
-電子表格到 PDF
+電子表格至 PDF
     </li>
     <li>
 印刷
@@ -54,7 +54,7 @@ description: C# ASP.NET VB.NET 用於處理 Microsoft Excel 文檔的庫。創�
    </header>
    <ul>
     <li>
-應用格式
+應用格式設置
     </li>
     <li>
 創建圖表
@@ -82,10 +82,10 @@ description: C# ASP.NET VB.NET 用於處理 Microsoft Excel 文檔的庫。創�
 WinForms 桌面控件
     </li>
     <li>
-ASP.NET 網頁控制
+ASP.NET 的網頁控件
     </li>
     <li>
-應用格式
+應用格式設置
     </li>
     <li>
 應用公式
@@ -117,7 +117,7 @@ ASP.NET 網頁控制
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台獨立性" description="API 支持 .NET 框架，.NET Core & Xamarin 平台。此外，它可以通過 COM Interop 與 Mono 和其他幾個平台一起使用。" >}}
+{{< blocks/products/pf/carousel-item h3="平台獨立性" description="API支持.NET框架、.NET Core和Xamarin平台。此外，它可以通過 COM Interop 與 Mono 和其他幾個平台一起使用。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -143,7 +143,7 @@ ASP.NET 網頁控制
    </header>
    <ul>
     <li>
-PHP，VBScript，德爾福，C++
+PHP、VBScript、德爾福、C++
     </li>
    </ul>
   </div>
@@ -164,7 +164,7 @@ PHP，VBScript，德爾福，C++
    <header>
     <i class="fa fa-cubes">
     </i>
-Xamarin平台
+Xamarin 平台
    </header>
    <ul>
     <li>
@@ -226,7 +226,7 @@ Xamarin.Android
      <b>
 Microsoft Excel：
      </b>
-XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
@@ -250,7 +250,7 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
      <b>
       Numbers:
      </b>
-蘋果iWork辦公套件Numbers app文檔
+蘋果iWork辦公套件Numbers應用文檔
     </li>
    </ul>
   </div>
@@ -332,14 +332,14 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-exchange ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將數據導入/導出到 &amp;來自 DataTable、DataView 或 Array
+將數據導入/導出到 &amp;來自數據表、數據視圖或數組
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-添加 &amp;操縱圖表 &amp;通過產品數據透視表 API
+添加&amp;操縱圖表和數據透視表通過產品 API
     </p>
    </div>
    <div class="col-lg-4">
@@ -353,42 +353,42 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-scissors ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-截斷長工作表名稱 &amp;在運行時替換無效字符
+截斷長工作表名稱和在運行時替換無效字符
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-align-right ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-將文本對齊應用於 TextBox 內的部分文本
+將文本對齊應用於文本框內的部分文本
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-columns ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-粘貼行 &amp;具有高級粘貼選項的列
+粘貼行和行具有高級粘貼選項的列
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-支持 CSV（逗號分隔值）&amp; TSV（製表符分隔值）
+支持 CSV（逗號分隔值）和TSV（製表符分隔值）
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創造與操縱評論
+創建&amp;操縱評論
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-設置自動過濾器 &amp;分頁符
+設置自動過濾器和分頁符
     </p>
    </div>
    <div class="col-lg-4">
@@ -402,14 +402,14 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創造與操縱命名範圍
+創建&amp;操縱命名範圍
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-創造與渲染迷你圖
+創建&amp;渲染迷你圖
     </p>
    </div>
    <div class="col-lg-4">
@@ -423,14 +423,14 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-閱讀與以輕量級模式編寫大型電子表格
+閱讀&amp;在輕量級模式下編寫大型電子表格
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-在 Excel 到 PDF 轉換中對圖像重新採樣
+在 Excel 中重新採樣圖像至 PDF 轉換
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,10 +449,10 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-將電子表格轉換為 PDF、XPS &amp; HTML 格式
+將電子表格轉換為 PDF、XPS 和 XPS HTML 格式
     </h2>
     <p>
-Aspose.Cells for .NET 能夠將電子表格轉換為 PDF、XPS &amp; HTML 格式，同時保持最高的視覺保真度。轉換過程簡單而可靠，因此 API 成為需要以任何行業標準格式交換文檔的組織的完美選擇。
+Aspose.Cells for .NET 能夠將電子表格轉換為 PDF、XPS 和HTML 格式化，同時保持最高的視覺保真度。轉換過程簡單而可靠，因此使 API 成為需要以任何行業標準格式交換文檔的組織的完美選擇。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -475,29 +475,29 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-通過格式化、圖表和數據可視化數據圖形
+通過格式、圖表和圖表可視化數據圖形
     </h2>
     <p>
-Aspose.Cells for .NET 給你完全的自由和靈活性來為你的電子表格提供各種視覺效果。 API 允許您應用具有屬性、單元格樣式（對齊、縮進、旋轉、邊框、陰影和著色、保護、文本換行和收縮）和所有類型的數字格式的不同字體。
+Aspose.Cells for .NET 為您提供完全的自由和靈活性，為您的電子表格提供各種視覺效果。 API 允許您應用不同的字體和屬性、單元格樣式（對齊、縮進、旋轉、邊框、底紋和著色、保護、文本換行和收縮）以及所有類型的數字格式。
     </p>
     <p>
-同樣，圖表和圖形在視覺上很吸引人，可以使您的電子表格具有專業的外觀。 Aspose.Cells for .NET 提供了一套全面的 API，用於創建和操作所有標準和自定義圖表類型。此外，您可以在單元格中添加不同類型的繪圖對象，例如註釋、圖片、OLE 對象、形狀和控件
-    </p>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-高效、穩健&amp;可靠的公式計算引擎
-    </h2>
-    <p>
-Aspose.Cells for .NET 擁有強大的公式計算引擎，支持幾乎所有的標準和高級Microsoft Excel公式和函數。您可以讀取、設置和計算內置、加載項、數組和數據的結果。 R1C1 參考樣式公式。
+同樣，圖表和圖形在視覺上很有吸引力，可以讓您的電子表格看起來很專業。 Aspose.Cells for .NET 提供了一套全面的 API，用於創建和操作所有標準和自定義圖表類型。此外，您可以向單元格添加不同類型的繪圖對象，例如註釋、圖片、OLE 對象、形狀和控件
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-使用數據透視表、圖表和圖表匯總數據智能標記
+高效、穩健、穩定可靠的公式計算引擎
     </h2>
     <p>
-數據透視表可以幫助您快速匯總平面數據並根據需要獲取所需信息。 .NET Excel 庫允許您動態創建數據透視表和數據透視圖。您可以動態更改數據透視表的源數據並刷新它。此外，圖書館提供了智能標記，這是一個很好的功能，可以根據某些數據源填充工作表並創建視覺上有效的報告。
+Aspose.Cells for .NET擁有強大的公式計算引擎，支持幾乎所有標準和高級Microsoft Excel公式和函數。您可以讀取、設置和計算內置、插件、數組和數組的結果。 R1C1 參考樣式公式。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+使用數據透視表、圖表和數據匯總數據智能標記
+    </h2>
+    <p>
+數據透視表可以幫助您快速匯總平面數據並根據您的需要獲取所需的信息。 .NET Excel 庫允許您動態創建數據透視表和數據透視圖。您可以動態更改數據透視表的源數據並刷新它。此外，庫還提供智能標記，這是一個很棒的功能，可以根據某些數據源填充工作表並創建視覺上有效的報告。
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,7 +505,7 @@ Aspose.Cells for .NET 擁有強大的公式計算引擎，支持幾乎所有的�
 渲染 Excel 工作表和圖表作為圖像
     </h2>
     <p>
-Aspose.Cells for .NET 有自己的渲染引擎，專門為渲染&amp;以最高保真度打印到 Microsoft Excel。它提供了獨特的功能，例如呈現 Excel 工作表 &amp;圖表到圖像 &amp;將工作表打印到任何連接的物理打印機。該過程非常靈活，因此您可以選擇多個選項，例如在渲染工作表和渲染時控制生成的圖像尺寸。圖表到圖像。
+Aspose.Cells for .NET有自己的渲染引擎，專門用於渲染和渲染以最高保真度打印 Microsoft Excel。它提供了獨特的功能，例如渲染 Excel 工作表和數據。圖表到圖像和將工作表打印到任何連接的物理打印機。該過程很靈活，因此允許您選擇許多選項，例如在渲染工作表和圖像時控制生成的圖像尺寸。圖表到圖像。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -543,23 +543,23 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
 圖表創建與操縱
     </h2>
     <p>
-Aspose.Cells for .NET 完全支持圖表。您可以使用產品 API 輕鬆添加標准或自定義圖表，並動態設置數據以刷新圖表。 API 還允許您將圖表轉換為多種圖像格式。
+Aspose.Cells for .NET 完全支持圖表。您可以使用產品API輕鬆添加標准或自定義圖表，並動態設置數據以刷新圖表。 API 還允許您將圖表轉換為多種圖像格式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Web 和 Web 的圖形界面桌面應用程序
+ Web 和圖形界面桌面應用程序
     </h2>
     <p>
-Aspose.Cells for .NET 提供web &amp; 的GUI控件桌面應用程序。最終用戶可以使用這些控件來打開、保存和更新。編輯Excel文件，導入&amp;導出數據、管理格式和；公式並在多種受支持的電子表格格式之間進行轉換，直接從應用程序的前端進行。
+Aspose.Cells for .NET 提供用於 Web 和應用程序的 GUI 控件桌面應用程序。最終用戶可以使用這些控件來打開、保存和查看。編輯 Excel 文件、導入和編輯導出數據、管理格式和直接從應用程序的前端計算公式並在幾種受支持的電子表格格式之間進行轉換。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft 辦公自動化——不需要
+ Microsoft 辦公自動化 – 不需要
     </h2>
     <p>
-Aspose.Cells for .NET 使用託管代碼構建，無需在機器上安裝 Microsoft Office 或 Microsoft Excel 即可處理 Excel 文檔格式。就支持的功能、安全性、穩定性、可擴展性、速度和價格而言，它是完美的 Microsoft 辦公自動化替代方案。
+ Aspose.Cells for .NET 使用託管代碼構建，無需在計算機上安裝 Microsoft Office 或 Microsoft Excel 即可使用 Excel 文檔格式。就支持的功能、安全性、穩定性、可擴展性、速度和價格而言，它是完美的 Microsoft 辦公自動化替代方案。
     </p>
    </div>
   </div>
@@ -569,20 +569,20 @@ Aspose.Cells for .NET 使用託管代碼構建，無需在機器上安裝 Micros
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。看看用戶對此有何評論。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="人們在說什麼" subTitle="不要只相信我們的話。看看用戶對此有何評價。" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
-作為一家軟件服務公司，我們了解客戶服務在與客戶合作時的重要性。我很高興看到 Aspose 與我們分享這個值。 Aspose.Cells 是一個優秀的工具，比VBA 有明顯的速度優勢。
+作為一家軟件服務公司，我們了解客戶服務在與客戶合作時的重要性。我很高興看到 Aspose 與我們分享這個值。 Aspose.Cells是一個優秀的工具，比VBA有顯著的速度優勢。
  <em>
-保羅·卡茨 | Intersoft，美國
+保羅·卡茨 |美國英特軟件公司
  </em>
 </p>
 {{< /blocks/products/pf/testimonials-quote >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
-Aspose 產品套件和支持是首屈一指的。如果沒有這個解決方案，我們不可能完成我們所做的事情。
+Aspose 產品套件和支持是首屈一指的。如果沒有這個解決方案，我們就無法完成我們所做的事情。
  <em>
 丹·帕特森博士 |英國敏銳
  </em>
@@ -595,7 +595,7 @@ Aspose 產品套件和支持是首屈一指的。如果沒有這個解決方案�
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/cells/net/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-cells/Aspose.Cells-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 參考資料" href="https://reference.aspose.com/cells/net" >}}
+{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://reference.aspose.com/cells/net" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -606,7 +606,7 @@ Aspose 產品套件和支持是首屈一指的。如果沒有這個解決方案�
 {{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/cells/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼是 Aspose.Cells for .NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼是Aspose.Cells for .NET？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

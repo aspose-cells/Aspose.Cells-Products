@@ -1,6 +1,6 @@
 ---
 title: 通過 C# 創建折線圖
-description: C# 使用 .NET 庫將折線圖創建到 Excel 的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中為 MS Excel 創建折線圖。
+description: C# 使用 .NET 庫將折線圖創建到 Excel 的示例代碼。使用此代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中創建 MS Excel 折線圖。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 創建折線圖" h2="使用服務器端 .NET API 以編程方式創建本機和高性能 MS Excel 圖表。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -10,7 +10,7 @@ description: C# 使用 .NET 庫將折線圖創建到 Excel 的示例代碼。使
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-在運行的應用程序中動態創建折線圖很容易。為了在不需要 MS Office 的情況下從頭開始創建各種圖表到電子表格，我們將使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API，使用 .NET 平台為電子表格創建、操作和轉換提供不同的功能。 Aspose.Cells 提供了許多靈活的圖表對象。
+在運行的應用程序中動態創建折線圖很容易。為了從頭開始創建各種圖表到電子表格而不需要 MS Office，我們將使用[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API，使用 .NET 平台提供電子表格創建、操作和轉換的不同功能。 Aspose.Cells提供了許多靈活的圖表對象。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -19,16 +19,16 @@ description: C# 使用 .NET 庫將折線圖創建到 Excel 的示例代碼。使
 
 {{% blocks/products/pf/agp/text %}}
 
-開發人員只需幾行代碼就可以輕鬆地在運行不同的報告應用程序中創建折線圖以進行數據處理。
+開發人員只需幾行代碼即可輕鬆在運行不同的報告應用程序中創建折線圖以進行數據處理。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 包含 Aspose.Cells 命名空間
-1. 創造[**工作簿**](https://reference.aspose.com/cells/net/aspose.cells/workbook)類實例。
-1. 向工作表中添加一些數據。
+1. 創造[**練習冊**](https://reference.aspose.com/cells/net/aspose.cells/workbook)類實例。
+1. 將一些數據添加到工作表中。
 1. 添加一個[**線**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)圖表到工作表。
 1. 訪問新的[**圖表**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)目的。
-1. 使用指定圖表的數據源[**圖表.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange)方法。
+1. 指定圖表的數據源[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange)方法。
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -37,12 +37,12 @@ description: C# 使用 .NET 庫將折線圖創建到 Excel 的示例代碼。使
 
 {{% blocks/products/pf/agp/text %}}
 
-只需確保系統具有 Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系統以及 Microsoft Visual Studio 等開發環境。
+只需確保系統具有 Microsoft Windows 或與 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台兼容的操作系統以及 Microsoft Visual Studio 等開發環境。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- 從命令行安裝為<code>nuget install Aspose.Cells</code>或者通過 Visual Studio 的包管理器控制台<code>Install-Package Aspose.Cells</code>.
-- 或者，從以下位置獲取 ZIP 文件中的脫機 MSI 安裝程序或所有 DLL<a href="https://downloads.aspose.com/cells/net">下載</a>
+- 從命令行安裝為<code>nuget install Aspose.Cells</code>或通過 Visual Studio 的包管理器控制台<code>Install-Package Aspose.Cells</code>.
+- 或者，從以下位置獲取脫機 MSI 安裝程序或 ZIP 文件中的所有 DLL<a href="https://downloads.aspose.com/cells/net">下載</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

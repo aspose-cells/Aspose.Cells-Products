@@ -1,10 +1,10 @@
 ---
-title:  SharePoint Excel 電子表格轉換器應用程序 - Aspose
+title: SharePoint Excel 電子表格轉換器應用程序 - Aspose
 weight: 940
-description: Aspose.Cells for SharePoint App 是一個 SharePoint Excel 電子表格轉換器。導出 XLS XLSX XML CSV PDF ODS &amp; MOSS WSS 中的 HTML 格式
+description: Aspose.Cells for SharePoint 應用程序是一個 SharePoint Excel 電子表格轉換器。導出 XLS XLSX XML CSV PDF ODS MOSS WSS 中的 HTML 格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="用於轉換 Excel 電子表格的 SharePoint 應用程序" h2="直接從 SharePoint 文檔庫將 Excel 電子表格轉換為 8 種以上的文件格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="用於轉換 Excel 電子表格的 SharePoint 應用程序" h2="直接從 SharePoint 文檔庫將 Excel 電子表格轉換為超過 8 種文件格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-sharepoint.svg" pfName="Aspose.Cells" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/cells/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for SharePoint" >}}
 
@@ -12,7 +12,7 @@ description: Aspose.Cells for SharePoint App 是一個 SharePoint Excel 電子�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for SharePoint 是一款靈活的 Excel 電子表格轉換器應用程序。它可以在 SharePoint 文檔庫中的許多流行的 Microsoft Excel 格式之間轉換文檔，而無需 Microsoft Excel 依賴項。它支持 SharePoint 的本機文件格式支持中未包含的多種文檔格式。
+ Aspose.Cells for SharePoint 是一款靈活的 Excel 電子表格轉換器應用程序。它可以在 SharePoint 文檔庫中的許多流行 Microsoft Excel 格式之間轉換文檔，而無需 Microsoft Excel 依賴項。它支持 SharePoint 的本機文件格式支持中未包含的多種文檔格式。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: Aspose.Cells for SharePoint App 是一個 SharePoint Excel 電子�
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="概覽 Aspose.Cells for SharePoint。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="Aspose.Cells for SharePoint 概述。" >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -34,7 +34,7 @@ description: Aspose.Cells for SharePoint App 是一個 SharePoint Excel 電子�
 SharePoint WSP 文件
     </li>
     <li>
-跨場激活
+跨農場激活
     </li>
     <li>
 跨農場停用
@@ -89,7 +89,7 @@ SharePoint WSP 文件
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-共享服務器
+ SharePoint服務器
    </header>
    <ul>
     <li>
@@ -111,7 +111,7 @@ SharePoint WSP 文件
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-Windows 共享服務
+Windows SharePoint 服務
    </header>
    <ul>
     <li>
@@ -154,7 +154,7 @@ WSS 3.0
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for SharePoint支持多種流行的電子表格格式，PDF、HTML等[文件格式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for SharePoint支持許多流行的電子表格格式，PDF、HTML等[文件格式](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -255,15 +255,15 @@ CSV、TSV、製表符分隔、TXT
 將 Excel 電子表格轉換為多種格式
     </h2>
     <p>
-Aspose.Cells for SharePoint 允許將電子表格從 SharePoint 文檔庫中轉換為許多流行的文檔和圖像格式。 Aspose.Cells for SharePoint 目前支持大部分電子表格格式以及 CSV &amp; XML 作為輸入，並可以導出為電子表格格式以及 CSV、HTML、ODS、PDF、XML &amp;圖像格式。
+Aspose.Cells for SharePoint 允許將 SharePoint 文檔庫中的電子表格轉換為許多流行的文檔和圖像格式。 Aspose.Cells for SharePoint 目前支持大多數電子表格格式以及 CSV 和 CSV 。 XML作為輸入，並且可以導出為電子表格格式以及CSV、HTML、ODS、PDF、XML和圖像格式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-在轉換期間連接文件
+轉換期間連接文件
     </h2>
     <p>
-Aspose.Cells for SharePoint 提供將不同格式的文件組合成一個單一文檔的功能。此外，您還可以將列表中的文檔向上或向下移動，以設置文檔的合併順序。
+Aspose.Cells for SharePoint 提供將不同格式的文件組合成一個單一文檔的功能。此外，您還可以上下移動列表中的文檔以設置文檔的組合順序。
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ Aspose.Cells for SharePoint 提供將不同格式的文件組合成一個單一�
 轉換子文件夾中的文件
     </h2>
     <p>
-Aspose.Cells for SharePoint 通過遞歸轉換選定文件夾下的所有文檔和子文件夾，使轉換過程更加輕鬆。現有的子文件夾結構在目標文件夾中創建。
+Aspose.Cells for SharePoint 通過遞歸轉換選定文件夾下的所有文檔和子文件夾，使轉換過程更加容易。將在目標文件夾中創建現有的子文件夾結構。
     </p>
    </div>
    <div class="col-lg-12">
@@ -279,12 +279,12 @@ Aspose.Cells for SharePoint 通過遞歸轉換選定文件夾下的所有文檔�
 覆蓋現有文件
     </h2>
     <p>
-如果目標文件夾已包含與要轉換的文件同名的文件，則 Aspose.Cells for SharePoint 允許您覆蓋現有文件，或者您可以簡單地選擇一個選項，指示應用程序跳過處理目標文件夾中已存在的文件.
+如果目標文件夾已包含與您要轉換的文件同名的文件，則 Aspose.Cells for SharePoint 允許您覆蓋現有文件，或者您可以簡單地選擇一個選項來指示應用程序跳過處理目標文件夾中已存在的文件。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-與公眾互動 API
+公眾互動 API
     </h2>
     <p>
 對於擁有內部 SharePoint 解決方案的開發人員，他們可以通過其公共 API 使用 Aspose.Cells for SharePoint 的文檔轉換引擎。它提供對所有支持的格式和轉換選項的編程訪問。
@@ -292,10 +292,10 @@ Aspose.Cells for SharePoint 通過遞歸轉換選定文件夾下的所有文檔�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft Excel 自動化——不需要
+ Microsoft Excel 自動化 – 不需要
     </h2>
     <p>
-Aspose.Cells for SharePoint 使用託管代碼構建，無需在機器上安裝 Microsoft Excel 即可進行 Excel 格式轉換。就支持的功能、安全性、穩定性、可擴展性、速度和價格而言，它是完美的 Microsoft Excel 自動化替代方案。
+Aspose.Cells for SharePoint 使用託管代碼構建，無需在計算機上安裝 Microsoft Excel 即可進行 Excel 格式轉換。就支持的功能、安全性、穩定性、可擴展性、速度和價格而言，它是完美的 Microsoft Excel 自動化替代品。
     </p>
    </div>
   </div>
@@ -319,7 +319,7 @@ Aspose.Cells for SharePoint 使用託管代碼構建，無需在機器上安裝 
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="為什麼是 Aspose.Cells for SharePoint？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="為什麼是Aspose.Cells for SharePoint？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

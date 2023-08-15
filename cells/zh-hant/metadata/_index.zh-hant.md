@@ -1,6 +1,6 @@
 ---
-title: 在 Windows、Linux 和 macOS 上查看和編輯元數據到 Excel 文件
-description: 免費應用程序和 API 來操作 XLS 和 XLSX 文件的文檔屬性
+title: 在 Windows、Linux 和 macOS 上查看和編輯 Excel 文件的元數據
+description: 用於操作 XLS 和 XLSX 文件的文檔屬性的免費應用程序和 API
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

@@ -1,7 +1,7 @@
 ---
-title: 在 XLSX 文件中生成報告 via .NET
+title: 在 XLSX 文件 via .NET 中生成報告
 weight: 6740
-description: C# 在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上生成 XLSX 格式報告的源代碼。
+description: C# 源代碼，用於在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLSX 格式報告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通過 C# 生成 XLSX 格式的批量報告" h2="使用數據源和模板生成 XLSX 格式的報告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -13,11 +13,11 @@ description: C# 在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上生成
 
 為了創建 XLSX 報告，我們將使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API這是一款功能豐富、功能強大且易於使用的報告生成API，適用於C#平台。打開
+API這是一個功能豐富、強大且易於使用的報告生成API用於C#平台。打開
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-並安裝。您也可以從包管理器控制台使用以下命令。
+並安裝。您還可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -42,8 +42,8 @@ PM> Install-Package Aspose.Cells
 1. 實例化 WorkbookDesigner 類
 1. 在任何工作表的任何單元格中設置標記
 1. 為 WorkbookDesigner 對象設置數據源
-1. 調用 WorkbookDesigner.Process 方法以使用數據填充模板
-1. 通過 WorkbookDesigner.Worbook.Save 方法以 XLSX 格式保存結果
+1. 調用 WorkbookDesigner.Process 方法用數據填充模板
+1. 通過 WorkbookDesigner.Worbook.Save 方法將結果保存為 XLSX 格式
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -51,13 +51,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系統都支持 Aspose.Cells for .NET。只需確保您具有以下先決條件。
+Aspose.Cells for .NET 在所有主要操作系統上均受支持。只需確保您滿足以下先決條件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系統
-- 開發環境類似Microsoft Visual Studio
-- 在您的項目中添加對 Aspose.Cells for .NET DLL 的引用
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系統
+- 開發環境如Microsoft Visual Studio
+- 在項目中添加對 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="關於 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用於創建、編輯、轉換和呈現 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的綜合圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要像 Microsoft 或 OpenOffice 這樣的任何軟件。
+ Aspose.Cells API 可用於創建、編輯、轉換和渲染 Microsoft Excel 格式為不同的格式。此外，它還可用於軟件應用程序中的全面圖表、可擴展報告和可靠計算。 Aspose.Cells 是一個獨立的 API，它不需要任何像 Microsoft 或 OpenOffice 這樣的軟件。
 
 
 
@@ -84,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免費應用程序組裝 XLSX" sectionDescription="查看我們的現場演示[創建 XLSX 個文件](https://products.aspose.app/cells/assembly/xlsx)具有以下好處。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免費組裝應用程序 XLSX" sectionDescription="查看我們的現場演示[創建XLSX文件](https://products.aspose.app/cells/assembly/xlsx)具有以下好處。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="無需下載或設置任何東西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="無需編寫或編譯代碼" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳 XLSX 文件並點擊“組裝”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="從鏈接下載生成的 XLSX 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft 隨 Microsoft Office 2007 版本引入的 Microsoft Excel 文檔的眾所周知格式。根據 OOXML 標準 ECMA-376 第 2 部分概述的開放打包約定組織的結構，新格式是一個 zip 包，其中包含許多 XML 文件。只需解壓縮 .xlsx 文件即可檢查底層結構和文件。
+XLSX 是 Microsoft Excel 文檔的眾所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基於根據 OOXML 標準 ECMA-376 第 2 部分中概述的開放打包約定組織的結構，新格式為包含許多XML 文件的zip 包。只需解壓縮 .xlsx 文件即可檢查底層結構和文件。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -99,7 +99,7 @@ XLSX 是 Microsoft 隨 Microsoft Office 2007 版本引入的 Microsoft Excel 文
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的報告生成格式" subTitle="使用 C#，可以輕鬆生成多種格式的報告，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的報告生成格式" subTitle="使用C#，可以輕鬆生成多種格式的報告，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="OpenDocument 電子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Excel 二進制格式" >}}

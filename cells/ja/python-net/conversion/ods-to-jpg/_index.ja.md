@@ -1,7 +1,7 @@
 ---
-title: ODS を JPG に変換 Python via Python
-description: オンラインで無料でODSをJPGに変換します。無料のオンラインODSからJPGコンバーター。 Python ODS から JPG へ。 Python経由でJPGにODS。
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS から JPG - オンライン ODS から JPG コンバーター
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python ODS を JPG 保存形式に変換します。 Python ODS を JPG 形式に変換します。 ODS を JPG Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to JPG saveformat., Free Online ODS to JPG Python., Python Convert ODS to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODSをPythonのJPGに変換します" h2="ODSをJPGに変換するための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="ODSをPythonのJPGに変換します" %}}
 
-ODSをJPGに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に ODS を JPG に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ ODSをJPGに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に ODS を JPG に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ ODSをJPGに変換するにはどうすればよいですか? NET ライブラ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでODSをJPGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでODSをJPGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="ODSをJPGに変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで ODS を簡単にロードして JPG に変換できます。
+ODS ファイルをプログラムで JPG に変換する必要がありますか? Python 開発者は、わずか数行のコードで ODS を簡単にロードして JPG に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して ODS ファイルをロードします
-1. Workbook.save メソッドを呼び出して ODS を JPG に変換します
+1.  Workbook のインスタンスを使用して ODS ファイルを読み込みます。
+1. Workbook.save メソッドを呼び出して、ODS を JPG に変換します。
+1.  ODSをJPGに変換した結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}.ods 拡張子の付いたファイルは、ユーザーが編集可能な OpenDocument スプレッドシート ドキュメント形式を表します。データは ODF ファイル内の行と列に保存されます。これは XML ベースの形式であり、Open Document Formats (ODF) ファミリのいくつかのサブタイプの 1 つです。この形式は、OASIS によって公開および保守されている ODF 1.2 仕様の一部として指定されています。 Windows 上の多くのアプリケーションや他のオペレーティング システムでは、Microsoft Excel、NeoOffice、LibreOffice などの ODS ファイルを開いて編集および操作できます。 ODS ファイルは、別のアプリケーションで XLS、XLSX などの他のスプレッドシート形式に変換することもできます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG は、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力イメージは、ストレージ サイズと画質の間のトレードオフになります。ユーザーは圧縮レベルを調整して必要な品質レベルを達成しながら、同時にストレージ サイズを削減できます。 10:1 圧縮が画像に適用される場合、画像品質への影響はほとんどありません。圧縮値が高くなるほど、画質の劣化が大きくなります。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="ODS を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

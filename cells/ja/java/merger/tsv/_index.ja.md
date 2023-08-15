@@ -56,7 +56,7 @@ TSV ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の TSV ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の TSV ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた TSV ファイルを指定したパスに保存します
++ マージされた TSV ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

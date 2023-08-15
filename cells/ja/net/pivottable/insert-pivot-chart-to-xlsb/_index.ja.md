@@ -1,5 +1,5 @@
 ---
-title:  C# 経由で Micorsoft Excel XLSB ファイルにピボット チャートを挿入
+title: C# 経由で Micorsoft Excel XLSB ファイルにピボット チャートを挿入
 weight: 7690
 description: C# ピボット チャートを含む XLSB ドキュメントを生成するためのサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内でピボット チャートを含む Micorsoft Excel XLSB ファイルを作成するには、このコードを使用します。
 ---
@@ -32,7 +32,7 @@ description: C# ピボット チャートを含む XLSB ドキュメントを生
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
 1. ピボットテーブルを挿入してスタイルを設定する
 1. ピボットテーブルのデータを利用してピボットグラフを挿入する
-1.  Save メソッドを使用して、ワークブックを XLSB ファイルとして保存します。
+1. Save メソッドを使用して、ワークブックを XLSB ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

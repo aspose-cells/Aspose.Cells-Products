@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET Microsoft Excel ドキュメントを操作する
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET は、スプレッドシートの管理とタスクの処理を高速化するための Excel スプレッドシート プログラミング API です。 API は、スプレッドシートの生成、変更、変換、レンダリング、印刷機能を備えたクロスプラットフォーム アプリケーションの構築をサポートします。さらに、インストールされる Microsoft Excel や Microsoft Office Interop コンポーネントには依存せず、すべての Excel 形式、CSV および SpreadsheetML 形式を処理する堅牢な API セットに依存します。
+Aspose.Cells for .NET は、スプレッドシートの管理とタスクの処理を高速化するための Excel スプレッドシート プログラミング API です。 API は、スプレッドシートの生成、変更、変換、レンダリング、印刷機能を備えたクロスプラットフォーム アプリケーションの構築をサポートします。さらに、インストールされる Microsoft Excel や Microsoft Office Interop コンポーネントには依存せず、すべての Excel 形式、CSV および SpreadsheetML 形式を処理する堅牢な API セットに依存します。
 </p>
 
 <p>
-API を統合することで、開発者は複数のワークシートの管理、スプレッドシートのコンテンツとスタイルを最初から作成、さまざまなデータ ソースからワークシートにデータをインポート、共通かつ複雑な数学式、財務式、およびテキスト式の追加、グラフの操作などの基本的なタスクを実行できます。写真、コメント、描画オブジェクトなど。
+ API を統合することで、開発者は複数のワークシートの管理、スプレッドシートのコンテンツとスタイルを最初から作成、さまざまなデータ ソースからワークシートにデータをインポート、共通かつ複雑な数学式、財務式、およびテキスト式の追加、グラフの操作などの基本的なタスクを実行できます。写真、コメント、描画オブジェクトなど。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -106,7 +106,7 @@ ASP.NET の Web コントロール
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     .NET
    </small>
@@ -201,7 +201,7 @@ Xamarin.Android
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     .NET
    </small>
@@ -293,7 +293,7 @@ Apple の iWork オフィス スイート Numbers アプリのドキュメント
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     .NET
    </small>
@@ -559,7 +559,7 @@ Aspose.Cells for .NET は、Web および Web 用の GUI コントロールを�
  Microsoft オフィス オートメーション – 必要ありません
     </h2>
     <p>
-Aspose.Cells for .NET はマネージド コードを使用して構築されており、Excel ドキュメント形式を操作するためにマシンに Microsoft Office または Microsoft Excel をインストールする必要はありません。これは、サポートされる機能、セキュリティ、安定性、拡張性、速度、価格の点で、完璧な Microsoft オフィス オートメーションの代替品です。
+ Aspose.Cells for .NET はマネージド コードを使用して構築されており、Excel ドキュメント形式を操作するためにマシンに Microsoft Office または Microsoft Excel をインストールする必要はありません。これは、サポートされる機能、セキュリティ、安定性、拡張性、速度、価格の点で、完璧な Microsoft オフィス オートメーションの代替品です。
     </p>
    </div>
   </div>

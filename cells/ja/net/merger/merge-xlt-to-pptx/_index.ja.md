@@ -1,7 +1,8 @@
 ---
-title:  XLT を C# 経由で PPTX に結合
+title: XLT から PPTX を結合 - XLT から PPTX を C# に結合
 url: /ja/net/merger/merge-xlt-to-pptx/ 
-description: XLT を PPTX にオンラインで無料で結合します。無料オンラインXLTからPPTX合併。 XLT を Word、Excel、PPTX、PDF、JPG、HTML、ODS、SVG、XPS などに結合します。
+description: Aspose エクセル。 C# Aspose.Cells。XLT を PPTX の保存形式に無料でオンライン結合します。 C# XLT と PPTX の形式を結合します。 XLT から PPTX を C# に結合します。XLT を結合します。
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to PPTX in C#., Free Online C# Merge XLT to pptx., C# Combine XLT to PPTX Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT を C# 経由で PPTX に結合" h2="XLT を PPTX にマージするための高速 C# ライブラリ。Excel 変換 API を使用して、C# で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLT を PPTX にオンラインで無料で結合します。無料
 
 {{% blocks/products/pf/agp/content h2="C# を使用して XLT を PPTX に結合" %}}
 
-XLT を PPTX に統合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLT を PPTX に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
+XLT を PPTX に結合するにはどうすればよいですか? Aspose.Cells for .NET ライブラリを使用すると、数行のコードでプログラム的に XLT を PPTX に簡単にマージできます。[Aspose.Cells for .NET](https://products.aspose.com/cells/net)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 .NET Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。開ける[NuGet](https://www.nuget.org/packages/aspose.cells)パッケージ マネージャーで、Aspose.Cells を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="XLT を C# にオンラインで無料で結合します" %}}
 
-次の例は、XLT を C# の PPTX にマージする方法を示しています。
+次の例は、XLT を Aspose.Cells for .NET の PPTX にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
 
 簡単な手順に従って、XLT を PPTX にマージします。ファイルをアップロードし、Workbook.Combine メソッドを呼び出してファイルをマージし、それを PPTX ファイルに保存します。 C# のコードを開発する場合、これは思っているより簡単です。 XLT を PPTX にマージする C# の例を参照してください。
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインでXLTをPPTXにマージする無料アプリ" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="XLT を C# にオンラインで無料でマージ" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT を C# 経由で PPTX に結合する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-マージおよび連結する基本的なドキュメント[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。
+XLT をプログラムで PPTX にマージする必要がありますか?マージおよび連結する基本的なドキュメント[Aspose.Cells for .NET](https://products.aspose.com/cells/net)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
+「Aspose.Cells for .NET」をインストールします。
++ ライブラリ参照を C# プロジェクトに追加します (ライブラリをインポートします)。
 Workbook クラスで XLT ファイルをロードします。
 + ファイルを結合するには Workbook.Combine メソッドを呼び出します。
 + Workbook.Save メソッドを呼び出し、出力ファイル名をパラメーターとして渡します。
@@ -82,21 +85,41 @@ Workbook クラスで XLT ファイルをロードします。
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt 拡張子を持つファイルは、Microsoft Office スイートの一部として付属するスプレッドシート アプリケーションである Microsoft Excel で作成されたテンプレート ファイルです。 Microsoft Office 97-2003 では、新しい XLT ファイルの作成と、これらのファイルを開くことがサポートされていました。最新バージョンの Excel では、この古い形式のテンプレート ファイルを開くことができます。このようなテンプレート ファイルを使用すると、ページ書式設定、フォント サイズ、余白、グラフなどのデフォルト データと設定を含む新しい Excel ファイルをすばやく作成でき、新しい .xls ファイルとして保存できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX 拡張子を持つファイルは、一般的な Microsoft PowerPoint アプリケーションで作成されたプレゼンテーション ファイルです。バイナリであった以前のバージョンのプレゼンテーション ファイル形式 PPT とは異なり、PPTX 形式は Microsoft PowerPoint オープン XML プレゼンテーション ファイル形式に基づいています。プレゼンテーション ファイルはスライドのコレクションであり、各スライドはテキスト、画像、書式設定、アニメーション、その他のメディアで構成されます。これらのスライドは、カスタム プレゼンテーション設定を使用したスライドショーの形式で聴衆に提示されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている結合形式" subTitle="C# を使用すると、xlt を他の多くのファイル形式にマージすることもできます。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="HTML" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Web ページのアーカイブ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="TSV" description="タブ区切りの値" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="TXT" description="テキストドキュメント" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="XLS" description="Excel バイナリ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="XLTM" description="Excel マクロ有効テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="XLTX" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-docx/" name="XLT を DOCX に結合" description="Microsoft Word 文書" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-sql/" name="XLT を SQL にマージ" description="構造化クエリ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-bmp/" name="XLT を BMP に結合" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-emf/" name="XLT を EMF に結合" description="拡張されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-gif/" name="XLT を GIF に結合" description="グラフィカル交換フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="XLT を HTML に結合" description="ハイパーテキストマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-md/" name="XLT を MD にマージ" description="マークダウン言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="XLT を MHTML に結合" description="Web ページのアーカイブ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="XLT を ODS に結合" description="OpenDocument スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-pdf/" name="XLT を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-png/" name="XLT を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-svg/" name="XLT を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tiff/" name="XLT を TIFF に結合" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="XLT を TSV に結合" description="タブ区切りの値" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="XLT を TXT に結合" description="テキストドキュメント" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="XLT を XLS に結合" description="Excel バイナリ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="XLT を XLSB に結合" description="バイナリ Excel ワークブック ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="XLT を XLSM に結合" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="XLT を XLSX に結合" description="OOXML Excel ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="XLT を XLT に結合" description="Microsoft Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="XLT を XLTM に結合" description="Excel マクロ有効テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="XLT を XLTX に結合" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xml/" name="XLT を XML にマージ" description="拡張マークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xps/" name="XLT を XPS に結合" description="XML 用紙の仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-json/" name="XLT を JSON に結合" description="JavaScript オブジェクト表記法" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-jpeg/" name="XLT を JPEG に結合" description="JPEG 画像" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  SXC を XPS via Java に結合
+title: SXC から XPS を結合 - SXC から XPS を Java に結合
 url: /ja/java/merger/merge-sxc-to-xps/ 
-description: SXC を XPS にオンラインで無料で結合します。無料オンラインSXCからXPS合併。 SXC を Word、Excel、PPTX、PDF、JPG、HTML、ODS、SVG、XPS などに結合します。
+description: Aspose エクセル。 Java Aspose.Cells。SXC を XPS の保存形式に無料でオンライン結合します。 Java SXC と XPS の形式を結合します。 SXC から XPS を Java に結合します。SXC を結合します。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SXC to XPS in Java., Free Online Java Merge SXC to xps., Java Combine SXC to XPS Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC を XPS via Java に結合" h2="SXC を XPS にマージするための高速 Java ライブラリ。Excel 変換 API を使用して、Java で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: SXC を XPS にオンラインで無料で結合します。無料�
 
 {{% blocks/products/pf/agp/content h2="Java を使用して SXC を XPS に結合" %}}
 
-SXC を XPS に統合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に SXC を XPS に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+SXC を XPS に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に SXC を XPS に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ SXC を XPS に統合するにはどうすればよいですか? Aspose.Cells fo
 
 {{% blocks/products/pf/agp/content h2="SXC を Java にオンラインで無料で結合します" %}}
 
-次の例は、SXC を Java の XPS にマージする方法を示しています。
+次の例は、SXC を Aspose.Cells for Java の XPS にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
 
 簡単な手順に従って、SXC を XPS にマージします。ファイルをアップロードし、Workbook.Combine メソッドを呼び出してファイルをマージし、それを XPS ファイルに保存します。 Java のコードを開発する場合、これは思っているより簡単です。 SXC を XPS にマージする Java の例を参照してください。
@@ -55,16 +56,18 @@ SXC を XPS に統合するにはどうすればよいですか? Aspose.Cells fo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインでSXCをXPSにマージする無料アプリ" InputFormat="sxc" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="SXC を Java にオンラインで無料でマージ" InputFormat="sxc" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC を XPS via Java に結合する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-マージおよび連結する基本的なドキュメント[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。
+SXC をプログラムで XPS にマージする必要がありますか?マージおよび連結する基本的なドキュメント[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
+「Aspose.Cells for Java」をインストールします。
++ ライブラリ参照を Java プロジェクトに追加します (ライブラリをインポートします)。
 Workbook クラスで SXC ファイルをロードします。
 + ファイルを結合するには Workbook.Combine メソッドを呼び出します。
 + Workbook.Save メソッドを呼び出し、出力ファイル名をパラメーターとして渡します。
@@ -76,7 +79,7 @@ Workbook クラスで SXC ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
-Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+ Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Java パッケージをホストしています[Maven](https://repository.aspose
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}ファイル形式 SXC(Sun XML Calc) は、OpenOffice.org と呼ばれるオフィス スイートに属します。この形式は XML ベースのスプレッドシート ファイル形式であるため、一般にユーザーのスプレッドシートのニーズに対応します。 SXC 形式は、DataPilot とともに数式、関数、マクロ、チャートをサポートしています。DataPilot は、インポートされた生のデータを自動的に個別化して概要を提供するため、驚くべき機能です。このソフトウェアで作成されたファイルは、拡張子 .sxc で保存されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS ファイルは、Microsoft によって作成された XML 用紙仕様に基づくページ レイアウト ファイルを表します。このファイルは、EMF ファイル形式の代替として開発され、PDF ファイル形式に似ていますが、ドキュメントのレイアウト、外観、および印刷情報に XML を使用します。 。実際、XPS は PDF に対する試みであるが、さまざまな理由から PDF が所有するほど十分な人気を得ることができなかった、と言うほうが正当です。 Microsoft は、Windows 7 以降、XPS ファイルの作成用にデフォルトで XPS Document Writer を提供します。 XPS ファイルは、ドキュメントの印刷時にプリンターとして「Microsoft XPS Document Writer」を選択すると生成できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている結合形式" subTitle="Java を使用すると、sxc を他の多くのファイル形式にマージすることもできます。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-html/" name="HTML" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-mhtml/" name="MHTML" description="Web ページのアーカイブ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-tsv/" name="TSV" description="タブ区切りの値" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-txt/" name="TXT" description="テキストドキュメント" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xls/" name="XLS" description="Excel バイナリ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Excel テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xltm/" name="XLTM" description="Excel マクロ有効テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xltx/" name="XLTX" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-docx/" name="SXC を DOCX に結合" description="Microsoft Word 文書" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-sql/" name="SXC を SQL にマージ" description="構造化クエリ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-bmp/" name="SXC を BMP に結合" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-emf/" name="SXC を EMF に結合" description="拡張されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-gif/" name="SXC を GIF に結合" description="グラフィカル交換フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-html/" name="SXC を HTML に結合" description="ハイパーテキストマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-md/" name="SXC を MD にマージ" description="マークダウン言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-mhtml/" name="SXC を MHTML に結合" description="Web ページのアーカイブ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-ods/" name="SXC を ODS に結合" description="OpenDocument スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-pdf/" name="SXC を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-png/" name="SXC を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-svg/" name="SXC を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-tiff/" name="SXC を TIFF に結合" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-tsv/" name="SXC を TSV に結合" description="タブ区切りの値" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-txt/" name="SXC を TXT に結合" description="テキストドキュメント" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xls/" name="SXC を XLS に結合" description="Excel バイナリ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsb/" name="SXC を XLSB に結合" description="バイナリ Excel ワークブック ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsm/" name="SXC を XLSM に結合" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlsx/" name="SXC を XLSX に結合" description="OOXML Excel ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xlt/" name="SXC を XLT に結合" description="Microsoft Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xltm/" name="SXC を XLTM に結合" description="Excel マクロ有効テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xltx/" name="SXC を XLTX に結合" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xml/" name="SXC を XML にマージ" description="拡張マークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-xps/" name="SXC を XPS に結合" description="XML 用紙の仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-json/" name="SXC を JSON に結合" description="JavaScript オブジェクト表記法" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-sxc-to-jpeg/" name="SXC を JPEG に結合" description="JPEG 画像" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

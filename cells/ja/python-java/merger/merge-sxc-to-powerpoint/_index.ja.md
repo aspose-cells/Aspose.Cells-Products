@@ -1,7 +1,8 @@
 ---
-title: SXC を Python 経由で POWERPOINT にマージします
+title: SXC を POWERPOINT に結合 - SXC を Python の POWERPOINT に結合
 url: /ja/python-java/merger/merge-sxc-to-powerpoint/ 
-description: SXC を POWERPOINT Online に無料でマージします。 POWERPOINT Mergerへの無料オンラインSXC。 SXC を Word、Excel、PPTX、PDF、JPG、HTML、ODS、SVG、XPS などに結合します。
+description: Aspose エクセル。 Python Aspose.Cells。無料オンライン SXC を POWERPOINT 保存形式にマージします。 Python SXCをPOWERPOINT形式に結合します。 SXC を Python の POWERPOINT にマージします。 SXC マージします。
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to POWERPOINT in Python., Free Online Python Merge SXC to powerpoint., Python Combine SXC to POWERPOINT Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SXC を Python 経由で POWERPOINT にマージします" h2="SXC を POWERPOINT にマージするための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: SXC を POWERPOINT Online に無料でマージします。 POWERPO
 
 {{% blocks/products/pf/agp/content h2="Python を使用して SXC を POWERPOINT にマージする" %}}
 
-SXCをPOWERPOINTにマージするにはどうすればよいですか? Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に SXC を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。 Aspose.Cells for Python を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+ SXC を POWERPOINT にマージするにはどうすればよいですか? Aspose.Cells for Python via Java ライブラリを使用すると、数行のコードでプログラム的に SXC を POWERPOINT に簡単にマージできます。[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python via Java を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="SXC をオンラインで無料で Python の POWERPOINT にマージします" %}}
 
-次の例は、SXC を Python の POWERPOINT にマージする方法を示しています。
+次の例は、SXC を Aspose.Cells for Python via Java の POWERPOINT にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
 
 簡単な手順に従って、SXC を POWERPOINT にマージします。ファイルをアップロードし、Workbook.Combine メソッドを呼び出してファイルを結合し、PowerPoint ファイルに保存します。 Python でコードを開発する場合、これは思っているより簡単です。 SXC を POWERPOINT にマージする Python の例を参照してください。
@@ -27,16 +28,18 @@ SXCをPOWERPOINTにマージするにはどうすればよいですか? Aspose.C
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="SXCをオンラインでPOWERPOINTにマージする無料アプリ" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="SXC をオンラインで Python の POWERPOINT に無料でマージ" InputFormat="sxc" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="SXC を経由して POWERPOINT に SXC をマージする方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-マージおよび連結する基本的なドキュメント[Aspose.Cells for Python](https://products.aspose.com/cells/python-java)API はわずか数行のコードで実行できます。
+SXC をプログラムで POWERPOINT にマージする必要がありますか?マージおよび連結する基本的なドキュメント[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 「Aspose.Cells for Python via Java」をインストールします。
++ ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
 Workbook クラスで SXC ファイルをロードします。
 + ファイルを結合するには Workbook.Combine メソッドを呼び出します。
 + Workbook.Save メソッドを呼び出し、出力ファイル名をパラメーターとして渡します。
@@ -75,21 +78,41 @@ Workbook クラスで SXC ファイルをロードします。
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}ファイル形式 SXC(Sun XML Calc) は、OpenOffice.org と呼ばれるオフィス スイートに属します。この形式は XML ベースのスプレッドシート ファイル形式であるため、一般にユーザーのスプレッドシートのニーズに対応します。 SXC 形式は、DataPilot とともに数式、関数、マクロ、チャートをサポートしています。DataPilot は、インポートされた生のデータを自動的に個別化して概要を提供するため、驚くべき機能です。このソフトウェアで作成されたファイルは、拡張子 .sxc で保存されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX 拡張子を持つファイルは、一般的な Microsoft PowerPoint アプリケーションで作成されたプレゼンテーション ファイルです。バイナリであった以前のバージョンのプレゼンテーション ファイル形式 PPT とは異なり、PPTX 形式は Microsoft PowerPoint オープン XML プレゼンテーション ファイル形式に基づいています。プレゼンテーション ファイルはスライドのコレクションであり、各スライドはテキスト、画像、書式設定、アニメーション、その他のメディアで構成されます。これらのスライドは、カスタム プレゼンテーション設定を使用したスライドショーの形式で聴衆に提示されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている結合形式" subTitle="Python を使用すると、sxc を他の多くのファイル形式にマージすることもできます。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-html/" name="HTML" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-mhtml/" name="MHTML" description="Web ページのアーカイブ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-tsv/" name="TSV" description="タブ区切りの値" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-txt/" name="TXT" description="テキストドキュメント" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xls/" name="XLS" description="Excel バイナリ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Excel テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xltm/" name="XLTM" description="Excel マクロ有効テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xltx/" name="XLTX" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-docx/" name="SXC を DOCX に結合" description="Microsoft Word 文書" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-sql/" name="SXC を SQL にマージ" description="構造化クエリ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-bmp/" name="SXC を BMP に結合" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-emf/" name="SXC を EMF に結合" description="拡張されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-gif/" name="SXC を GIF に結合" description="グラフィカル交換フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-html/" name="SXC を HTML に結合" description="ハイパーテキストマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-md/" name="SXC を MD にマージ" description="マークダウン言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-mhtml/" name="SXC を MHTML に結合" description="Web ページのアーカイブ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-ods/" name="SXC を ODS に結合" description="OpenDocument スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-pdf/" name="SXC を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-png/" name="SXC を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-svg/" name="SXC を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-tiff/" name="SXC を TIFF に結合" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-tsv/" name="SXC を TSV に結合" description="タブ区切りの値" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-txt/" name="SXC を TXT に結合" description="テキストドキュメント" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xls/" name="SXC を XLS に結合" description="Excel バイナリ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsb/" name="SXC を XLSB に結合" description="バイナリ Excel ワークブック ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsm/" name="SXC を XLSM に結合" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlsx/" name="SXC を XLSX に結合" description="OOXML Excel ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xlt/" name="SXC を XLT に結合" description="Microsoft Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xltm/" name="SXC を XLTM に結合" description="Excel マクロ有効テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xltx/" name="SXC を XLTX に結合" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xml/" name="SXC を XML にマージ" description="拡張マークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-xps/" name="SXC を XPS に結合" description="XML 用紙の仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-json/" name="SXC を JSON に結合" description="JavaScript オブジェクト表記法" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-sxc-to-jpeg/" name="SXC を JPEG に結合" description="JPEG 画像" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

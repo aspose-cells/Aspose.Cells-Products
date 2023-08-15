@@ -106,7 +106,7 @@ Excelドキュメントの保存
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Java
    </small>
@@ -149,7 +149,7 @@ JSP/JSFアプリケーション
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Java
    </small>
@@ -247,7 +247,7 @@ Apple の iWork オフィス スイート Numbers アプリのドキュメント
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Java
    </small>

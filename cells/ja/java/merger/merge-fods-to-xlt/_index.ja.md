@@ -1,7 +1,8 @@
 ---
-title:  FODS を XLT via Java に結合
+title: FODS から XLT を結合 - FODS から XLT を Java に結合
 url: /ja/java/merger/merge-fods-to-xlt/ 
-description: FODS を XLT にオンラインで無料で結合します。無料オンラインFODSからXLT合併。 FODS を Word、Excel、PPTX、PDF、JPG、HTML、ODS、SVG、XPS などに結合します。
+description: Aspose エクセル。 Java Aspose.Cells。FODS を XLT の保存形式に無料でオンライン結合します。 Java FODS と XLT の形式を結合します。 FODS から XLT を Java に結合します。FODS を結合します。
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to XLT in Java., Free Online Java Merge FODS to xlt., Java Combine FODS to XLT Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="FODS を XLT via Java に結合" h2="FODS を XLT にマージするための高速 Java ライブラリ。Excel 変換 API を使用して、Java で高レベルのプラットフォームに依存しないソフトウェアを開発します。これは、Excel, CSV, OpenOffice, PDF, HTML, image および他の多くの Excel 形式をインポートおよびエクスポートするためのプロフェッショナル ソフトウェア ソリューションです。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: FODS を XLT にオンラインで無料で結合します。無料
 
 {{% blocks/products/pf/agp/content h2="Java を使用して FODS を XLT に結合" %}}
 
-FODS を XLT に統合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に FODS を XLT に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
+FODS を XLT に結合するにはどうすればよいですか? Aspose.Cells for Java ライブラリを使用すると、数行のコードでプログラム的に FODS を XLT に簡単にマージできます。[Aspose.Cells for Java](https://products.aspose.com/cells/java)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Java Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。最新バージョンはから直接ダウンロードできます。[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
 {{% blocks/products/pf/agp/code-block title="リポジトリ" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ FODS を XLT に統合するにはどうすればよいですか? Aspose.Cells f
 
 {{% blocks/products/pf/agp/content h2="FODS を Java にオンラインで無料で結合します" %}}
 
-次の例は、FODS を Java の XLT にマージする方法を示しています。
+次の例は、FODS を Aspose.Cells for Java の XLT にマージする方法を示しています。
 {{% blocks/products/pf/agp/text %}}
 
 簡単な手順に従って、FODS を XLT にマージします。ファイルをアップロードし、Workbook.Combine メソッドを呼び出してファイルをマージし、それを XLT ファイルに保存します。 Java のコードを開発する場合、これは思っているより簡単です。 FODS を XLT にマージする Java の例を参照してください。
@@ -55,16 +56,18 @@ FODS を XLT に統合するにはどうすればよいですか? Aspose.Cells f
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="オンラインでFODSをXLTにマージする無料アプリ" InputFormat="fods" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="FODS を Java にオンラインで無料でマージ" InputFormat="fods" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="FODS を XLT via Java に結合する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-マージおよび連結する基本的なドキュメント[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。
+FODS をプログラムで XLT にマージする必要がありますか?マージおよび連結する基本的なドキュメント[Aspose.Cells for Java](https://products.aspose.com/cells/java)API はわずか数行のコードで実行できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
+「Aspose.Cells for Java」をインストールします。
++ ライブラリ参照を Java プロジェクトに追加します (ライブラリをインポートします)。
 Workbook クラスで FODS ファイルをロードします。
 + ファイルを結合するには Workbook.Combine メソッドを呼び出します。
 + Workbook.Save メソッドを呼び出し、出力ファイル名をパラメーターとして渡します。
@@ -76,7 +79,7 @@ Workbook クラスで FODS ファイルをロードします。
 
 {{% blocks/products/pf/agp/text %}}
 
-Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
+ Java パッケージをホストしています[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells)リポジトリ。 「Aspose.Cells for Java」は、バイトコードを含む一般的な JAR ファイルです。フォローしてください[段階的な説明](https://docs.aspose.com/cells/java/installation/)Java 開発者環境にインストールする方法については、こちらをご覧ください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Java パッケージをホストしています[Maven](https://repository.aspose
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods 拡張子を持つファイルは、データを行と列に格納する OpenDocument スプレッドシート ドキュメント形式の一種です。この形式は、OASIS によって発行および保守されている ODF 1.2 仕様の一部として指定されています。 FODS ファイルは、Microsoft による別のスプレッドシート ソフトウェア アプリケーションである Excel では開くことができません。FODS ファイルは、LibreOffice を使用して ODS として保存でき、XLS や XLSX などの他の形式に変換できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt 拡張子を持つファイルは、Microsoft Office スイートの一部として付属するスプレッドシート アプリケーションである Microsoft Excel で作成されたテンプレート ファイルです。 Microsoft Office 97-2003 では、新しい XLT ファイルの作成と、これらのファイルを開くことがサポートされていました。最新バージョンの Excel では、この古い形式のテンプレート ファイルを開くことができます。このようなテンプレート ファイルを使用すると、ページ書式設定、フォント サイズ、余白、グラフなどのデフォルト データと設定を含む新しい Excel ファイルをすばやく作成でき、新しい .xls ファイルとして保存できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている結合形式" subTitle="Java を使用すると、fod を他の多くのファイル形式にマージすることもできます。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="HTML" description="ハイパーテキストマークアップ言語" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="MHTML" description="Web ページのアーカイブ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="ODS" description="OpenDocument スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="TSV" description="タブ区切りの値" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="TXT" description="テキストドキュメント" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="XLS" description="Excel バイナリ形式" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="XLSB" description="バイナリ Excel ワークブック ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="XLSM" description="スプレッドシート ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="XLSX" description="OOXML Excel ファイル" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Excel テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="XLTM" description="Excel マクロ有効テンプレート" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="XLTX" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-docx/" name="FODS を DOCX に結合" description="Microsoft Word 文書" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-sql/" name="FODS を SQL にマージ" description="構造化クエリ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-bmp/" name="FODS を BMP に結合" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-emf/" name="FODS を EMF に結合" description="拡張されたメタファイル形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-gif/" name="FODS を GIF に結合" description="グラフィカル交換フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="FODS を HTML に結合" description="ハイパーテキストマークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-md/" name="FODS を MD にマージ" description="マークダウン言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="FODS を MHTML に結合" description="Web ページのアーカイブ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="FODS を ODS に結合" description="OpenDocument スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-pdf/" name="FODS を PDF に結合" description="ポータブルドキュメントフォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-png/" name="FODS を PNG に結合" description="ポータブルネットワークグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-svg/" name="FODS を SVG に結合" description="スケーラブルなベクター グラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tiff/" name="FODS を TIFF に結合" description="タグ付き画像フォーマット" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="FODS を TSV に結合" description="タブ区切りの値" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="FODS を TXT に結合" description="テキストドキュメント" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="FODS を XLS に結合" description="Excel バイナリ形式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="FODS を XLSB に結合" description="バイナリ Excel ワークブック ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="FODS を XLSM に結合" description="スプレッドシート ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="FODS を XLSX に結合" description="OOXML Excel ファイル" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="FODS を XLT に結合" description="Microsoft Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="FODS を XLTM に結合" description="Excel マクロ有効テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="FODS を XLTX に結合" description="Office OpenXML Excel テンプレート" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xml/" name="FODS を XML にマージ" description="拡張マークアップ言語" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xps/" name="FODS を XPS に結合" description="XML 用紙の仕様" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-json/" name="FODS を JSON に結合" description="JavaScript オブジェクト表記法" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-jpeg/" name="FODS を JPEG に結合" description="JPEG 画像" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

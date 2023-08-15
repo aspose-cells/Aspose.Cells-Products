@@ -1,7 +1,7 @@
 ---
-title: XLSM を TABDELIMITED Python via Python に変換します
-description: オンラインで無料でXLSMをTABDELMITEDに変換します。無料のオンラインXLSMからTABDELIMITEDコンバーター。 Python XLSM から TABDELIMITED まで。 XLSM 経由で TABDELIMITED まで。
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM から TABDELIMITED - オンライン XLSM から TABDELIMITED コンバータ
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLSM を TABDELIMITED 保存形式に変換します。 Python XLSM を TABDELIMITED 形式に変換します。 XLSM を TABDELIMITED Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to TABDELIMITED saveformat., Free Online XLSM to TABDELIMITED Python., Python Convert XLSM to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM を Python の TABDELIMITED に変換します" h2="XLSM を TABDELIMITED に変換するための高速 Python ライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="XLSM を Python の TABDELIMITED に変換します" %}}
 
- XLSM を TABDELIMITED に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSM を TABDELIMITED に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ XLSM を TABDELIMITED に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLSM を TABDELIMITED に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLSMをTABDELIMITEDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでXLSMをTABDELIMITEDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSM を TABDELIMITED に変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで XLSM を簡単にロードして TABDELIMITED に変換できます。
+XLSM ファイルをプログラムで TABDELIMITED に変換する必要がありますか? Python 開発者は、わずか数行のコードで XLSM を簡単にロードして TABDELIMITED に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して XLSM ファイルをロードします
-1. Workbook.save メソッドを呼び出して、XLSM を TABDELIMITED に変換します
+1.  Workbook のインスタンスを使用して XLSM ファイルを読み込みます。
+1. Workbook.save メソッドを呼び出して、XLSM を TABDELIMITED に変換します。
+1.  XLSM から TABDELIMITED への変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}XLSM拡張子を持つファイルは、マクロをサポートするスプレッドシートファイルの一種です。アプリケーションの観点から見ると、マクロはプロセスを自動化するために使用される一連の命令です。マクロは、繰り返し実行される手順を記録するために使用され、マクロを再度実行することでアクションの実行が容易になります。マクロは、Visual Basic Editor を使用して Excel ワークブック内から Microsoft の Visual Basic for Applications (VBA) でプログラムされ、そこから直接実行/デバッグできます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}タブ区切り値 (TSV) ファイル形式は、プレーン テキスト形式でタブで区切られたデータを表します。 CSV に似たファイル形式は、異なるアプリケーション間でインポートおよびエクスポートするために、構造化された方法でデータを編成するために使用されます。この形式は主に、スプレッドシート アプリケーションやデータベースでのデータのインポート/エクスポートおよび交換に使用されます。 TSV ファイル内の各レコードは 1 行のテキスト ファイルに含まれており、各フィールド値はタブ文字で区切られています。 TSV ファイル形式のメディア タイプはテキスト/タブ区切り値です。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="XLSM を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

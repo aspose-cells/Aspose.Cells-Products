@@ -1,7 +1,8 @@
 ---
-title:  NUMBERS를 C++을 통해 TSV로 병합
+title: NUMBERS를 TSV로 병합 - NUMBERS를 C++의 TSV로 결합
 url: /ko/cpp/merger/merge-numbers-to-tsv/ 
-description: NUMBERS를 TSV 온라인으로 무료로 병합합니다. TSV 합병에 대한 무료 온라인 번호. 숫자를 Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS 등에 병합합니다.
+description: Aspose 엑셀. C++ Aspose.Cells. 무료 온라인 병합 숫자를 TSV 저장 형식으로. C++ NUMBERS를 TSV 형식으로 결합합니다. NUMBERS를 C++의 TSV로 병합합니다. NUMBERS 병합.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to TSV in C++., Free Online C++ Merge NUMBERS to tsv., C++ Combine NUMBERS to TSV Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS를 C++을 통해 TSV로 병합" h2="NUMBERS를 TSV로 병합하기 위한 고속 C++ 라이브러리. 당사의 Excel 변환 API을 사용하여 C++에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발합니다. 이것은 Excel, CSV, OpenOffice, PDF, HTML, image 및 기타 여러 Excel 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: NUMBERS를 TSV 온라인으로 무료로 병합합니다. TSV 합�
 
 {{% blocks/products/pf/agp/content h2="C++을 사용하여 NUMBERS를 TSV에 병합" %}}
 
- NUMBERS를 TSV에 병합하는 방법은 무엇입니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 NUMBERS를 TSV에 쉽게 병합할 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 최신 버전을 직접 다운로드할 수 있습니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ NUMBERS를 TSV에 어떻게 병합합니까? Aspose.Cells for C++ 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 NUMBERS를 TSV에 쉽게 병합할 수 있습니다.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. C++ Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 최신 버전을 직접 다운로드할 수 있습니다.[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) 패키지 관리자에서 Aspose.Cells.Cpp를 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="명령" offSpacer="true" %}}
 
@@ -27,25 +28,27 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="무료로 온라인에서 C++의 TSV에 NUMBERS 병합" %}}
 
-다음 예는 NUMBERS를 C++에서 TSV로 병합하는 방법을 보여줍니다.
+다음 예는 NUMBERS를 Aspose.Cells for C++에서 TSV로 병합하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
-간단한 단계에 따라 NUMBERS를 TSV에 병합합니다. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 TSV 파일에 저장합니다. C++에서 코드를 개발하면 생각보다 간단합니다. NUMBERS를 TSV에 병합하는 C++ 예제를 참조하십시오.
+간단한 단계에 따라 NUMBERS를 TSV에 병합합니다. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 TSV 파일에 저장합니다. C++에서 코드를 개발하면 생각보다 간단합니다. NUMBERS를 TSV에 병합하는 C++ 예제를 참조하세요.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="온라인에서 NUMBERS를 TSV로 병합하는 무료 앱" InputFormat="numbers" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++에서 TSV로 NUMBERS를 병합하는 무료 온라인" InputFormat="numbers" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++을 통해 NUMBERS를 TSV로 병합하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+ 프로그래밍 방식으로 NUMBERS를 TSV에 병합해야 합니까? 병합 및 연결하는 기본 문서[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++'을 설치합니다.
++ C++ 프로젝트에 라이브러리 참조(라이브러리 가져오기)를 추가합니다.
 + 통합 문서 클래스로 NUMBERS 파일을 로드합니다.
 + 파일 병합을 위해 Workbook.Combine 메서드를 호출합니다.
 + Workbook.Save 메서드를 호출하고 출력 파일 이름을 매개변수로 전달합니다.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  설치[NuGet 패키지](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Include 및 lib 폴더를 사용하여 라이브러리를 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Linux에 Aspose.Cells for C++을 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Linux에 Aspose.Cells for C++을 설치합니다. 보다[선적 서류 비치](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}확장자가 .numbers인 파일은 스프레드시트 파일 유형으로 분류되므로 .xlsx 파일과 유사합니다. 그러나 Numbers 파일은 Apple iWork Numbers 스프레드시트 소프트웨어를 사용하여 생성됩니다. Apple iWork Numbers은 iWork Productivity Suite의 단위 소프트웨어입니다. iWork Productivity Suite는 Windows PC에서 사용되는 Microsoft Office Suite와 동일합니다. 따라서 MacOS에서 사용할 수 있는 Numbers도 Excel Microsoft의 경쟁자라고 할 수 있습니다. 마찬가지로 Microsoft Excel의 NUMBERS 파일에도 표, 차트 및 공식이 포함될 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}탭으로 구분된 값(TSV) 파일 형식은 탭으로 구분된 데이터를 일반 텍스트 형식으로 나타냅니다. CSV과 유사한 파일 형식은 서로 다른 응용 프로그램 간에 가져오기 및 내보내기를 위해 구조화된 방식으로 데이터를 구성하는 데 사용됩니다. 이 형식은 스프레드시트 응용 프로그램 및 데이터베이스에서 데이터 가져오기/내보내기 및 교환에 주로 사용됩니다. TSV 파일의 각 레코드는 각 필드 값이 탭 문자로 구분되는 한 줄의 텍스트 파일에 포함됩니다. TSV 파일 형식의 미디어 유형은 text/tab-separated-values입니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="C++을 사용하여 숫자를 포함하여 다른 많은 파일 형식에 병합할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-docx/" name="NUMBERS를 DOCX로 병합" description="Microsoft 워드 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-sql/" name="NUMBERS를 SQL에 병합" description="구조화된 쿼리 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-bmp/" name="NUMBERS를 BMP로 병합" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-emf/" name="NUMBERS를 EMF로 병합" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-gif/" name="NUMBERS를 GIF로 병합" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="NUMBERS를 HTML로 병합" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-md/" name="NUMBERS를 MD로 병합" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="NUMBERS를 MHTML로 병합" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="NUMBERS를 ODS로 병합" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="NUMBERS를 PDF로 병합" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="NUMBERS를 PNG로 병합" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="NUMBERS를 SVG로 병합" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="NUMBERS를 TIFF로 병합" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="NUMBERS를 TSV로 병합" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="NUMBERS를 TXT로 병합" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="NUMBERS를 XLS로 병합" description="엑셀 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="NUMBERS를 XLSB로 병합" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="NUMBERS를 XLSM로 병합" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="NUMBERS를 XLSX로 병합" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="NUMBERS를 XLT로 병합" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="NUMBERS를 XLTM로 병합" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="NUMBERS를 XLTX로 병합" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="NUMBERS를 XML로 병합" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="NUMBERS를 XPS로 병합" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="NUMBERS를 JSON로 병합" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="NUMBERS를 JPEG로 병합" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

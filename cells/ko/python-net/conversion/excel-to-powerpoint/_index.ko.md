@@ -1,7 +1,7 @@
 ---
-title: 엑셀을 파워포인트로 변환 Python via Python
-description: 온라인에서 EXCEL을 POWERPOINT로 무료로 변환하세요. 무료 온라인 EXCEL to POWERPOINT 변환기. Python EXCEL to POWERPOINT. Python을 통해 POWERPOINT로 EXCEL.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL to POWERPOINT - 온라인 EXCEL to POWERPOINT 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python EXCEL을 POWERPOINT 저장 형식으로 변환합니다. Python EXCEL을 POWERPOINT 형식으로 변환합니다. EXCEL을 POWERPOINT Python에 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Python., Python Convert EXCEL to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python에서 EXCEL을 POWERPOINT로 변환" h2="EXCEL을 POWERPOINT로 변환하기 위한 고속 Python 라이브러리. 당사의 Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Python에서 EXCEL을 POWERPOINT로 변환" %}}
 
- EXCEL을 POWERPOINT로 변환하는 방법? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 EXCEL을 POWERPOINT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ EXCEL을 POWERPOINT로 어떻게 변환합니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 EXCEL을 POWERPOINT로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="온라인에서 EXCEL을 POWERPOINT로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="온라인에서 EXCEL을 POWERPOINT로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="엑셀을 파워포인트로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 EXCEL을 POWERPOINT로 쉽게 로드 및 변환할 수 있습니다.
+프로그래밍 방식으로 EXCEL 파일을 POWERPOINT로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 EXCEL을 POWERPOINT로 쉽게 로드하고 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  통합 문서 인스턴스로 EXCEL 파일 로드
-1.  Workbook.save 메서드를 호출하여 EXCEL을 POWERPOINT로 변환
+1.  Workbook 인스턴스가 포함된 EXCEL 파일을 로드합니다.
+1.  Workbook.save 메서드를 호출하여 EXCEL을 POWERPOINT로 변환합니다.
+1.  EXCEL을 POWERPOINT로 변환한 결과를 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}확장자가 PPTX인 파일은 인기 있는 Microsoft PowerPoint 응용 프로그램으로 만든 프레젠테이션 파일입니다. 이전 버전의 프레젠테이션 파일 형식인 PPT와 달리 PPTX 형식은 Microsoft PowerPoint 개방형 XML 프레젠테이션 파일 형식을 기반으로 합니다. 프리젠테이션 파일은 각 슬라이드가 텍스트, 이미지, 서식, 애니메이션 및 기타 미디어로 구성될 수 있는 슬라이드 모음입니다. 이러한 슬라이드는 사용자 지정 프레젠테이션 설정이 있는 슬라이드쇼 형식으로 청중에게 제공됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="아래 나열된 몇 가지를 포함하여 EXCEL을 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 

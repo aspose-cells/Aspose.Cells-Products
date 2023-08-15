@@ -1,7 +1,7 @@
 ---
-title: XLTM을 EXCEL Python via Python로 변환
-description: 무료로 XLTM을 EXCEL 온라인으로 변환하세요. 무료 온라인 XLTM을 EXCEL 변환기로 변환합니다. Python XLTM을 엑셀로. XLTM에서 Python을 통해 EXCEL로.
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM에서 EXCEL로 - 온라인 XLTM에서 EXCEL로 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python XLTM을 EXCEL 저장 형식으로 변환 Python XLTM을 EXCEL 형식으로 변환합니다. XLTM을 엑셀 Python에 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to EXCEL saveformat., Free Online XLTM to EXCEL Python., Python Convert XLTM to EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTM을 Python에서 EXCEL로 변환" h2="XLTM을 EXCEL로 변환하기 위한 고속 Python 라이브러리. 당사의 Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="XLTM을 Python에서 EXCEL로 변환" %}}
 
- XLTM를 EXCEL로 변환하는 방법? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XLTM을 EXCEL로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ XLTM을 EXCEL로 어떻게 변환합니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XLTM을 EXCEL로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM을 EXCEL Online으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTM을 EXCEL Online으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM을 EXCEL로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 XLTM을 쉽게 로드하고 EXCEL로 변환할 수 있습니다.
+프로그래밍 방식으로 XLTM 파일을 EXCEL로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 XLTM을 쉽게 로드하고 EXCEL로 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  통합 문서 인스턴스가 있는 XLTM 파일 로드
-1.  Workbook.save 메서드를 호출하여 XLTM을 EXCEL로 변환
+1.  Workbook 인스턴스가 있는 XLTM 파일을 로드합니다.
+1.  Workbook.save 메소드를 호출하여 XLTM을 EXCEL로 변환합니다.
+1.  XLTM의 변환 결과를 EXCEL로 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 XLTX과 구조가 비슷하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 서식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 XLTM을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수 있습니다." >}}
 

@@ -26,7 +26,7 @@ Python 開発者は、わずか数行のコードで XLSX ファイルを簡単�
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Workbook のインスタンスを使用して XLSX ファイルをロードします
-1.  Workbook.Save メソッドを呼び出す
+1. Workbook.Save メソッドを呼び出す
 1. 拡張子 PDF をパラメータとして出力パスを渡します
 1. 結果の PDF ファイルの指定されたパスを確認してください
 
@@ -36,7 +36,7 @@ Python 開発者は、わずか数行のコードで XLSX ファイルを簡単�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -53,7 +53,7 @@ Aspose.Cells for Python はプラットフォームに依存しない API で、
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できる Excel スプレッドシート プログラミング ライブラリ。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できる Excel スプレッドシート プログラミング ライブラリ。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
     {{% /blocks/products/pf/agp/content %}}
 

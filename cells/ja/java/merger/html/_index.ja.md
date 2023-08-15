@@ -56,7 +56,7 @@ HTML ファイルをマージするには、次を使用します。[Aspose.Cell
 + Workbook クラスのインスタンスを使用して最初の HTML ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の HTML ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた HTML ファイルを指定したパスに保存します
++ マージされた HTML ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

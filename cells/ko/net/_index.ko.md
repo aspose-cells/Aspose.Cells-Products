@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET 라이브러리는 Microsoft Excel 문서와 함�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET은 스프레드시트 관리 및 처리 작업을 가속화하기 위한 Excel 스프레드시트 프로그래밍 API입니다. API은 스프레드시트를 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능이 있는 크로스 플랫폼 애플리케이션 구축을 지원합니다. 또한 Microsoft Excel 또는 Microsoft Office Interop 구성 요소를 설치하지 않고 모든 Excel 형식과 CSV 및 SpreadsheetML 형식을 처리하는 강력한 API 집합을 사용합니다.
+Aspose.Cells for .NET은 스프레드시트 관리 및 처리 작업을 가속화하기 위한 Excel 스프레드시트 프로그래밍 API입니다. API은 스프레드시트를 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능이 있는 크로스 플랫폼 애플리케이션 구축을 지원합니다. 또한 Microsoft Excel 또는 Microsoft Office Interop 구성 요소를 설치하지 않고 모든 Excel 형식과 CSV 및 SpreadsheetML 형식을 처리하는 강력한 API 집합을 사용합니다.
 </p>
 
 <p>
-API을 통합하면 개발자가 여러 워크시트 관리, 처음부터 스프레드시트 콘텐츠 및 스타일 생성, 다양한 데이터 소스에서 워크시트로 데이터 가져오기, 일반적이고 복잡한 수학, 재무 및 텍스트 수식 추가, 차트 조작, 사진, 댓글, 그리기 개체 등.
+ API을 통합하면 개발자가 여러 워크시트 관리, 처음부터 스프레드시트 콘텐츠 및 스타일 생성, 다양한 데이터 소스에서 워크시트로 데이터 가져오기, 일반적이고 복잡한 수학, 재무 및 텍스트 수식 추가, 차트 조작, 사진, 댓글, 그리기 개체 등.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ API을 통합하면 개발자가 여러 워크시트 관리, 처음부터 스프
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-고급 Excel 스프레드시트 API 기능
+ 고급 Excel 스프레드시트 API 기능
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ API을 통합하면 개발자가 여러 워크시트 관리, 처음부터 스프
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV(쉼표로 구분된 값) &amp; TSV(탭으로 구분된 값)
+CSV(쉼표로 구분된 값) &amp; TSV(탭으로 구분된 값)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ API을 통합하면 개발자가 여러 워크시트 관리, 처음부터 스프
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-스프레드시트를 PDF, XPS &amp; HTML 형식
+ 스프레드시트를 PDF, XPS &amp; HTML 형식
     </h2>
     <p>
  Aspose.Cells for .NET은 스프레드시트를 PDF, XPS &amp; HTML은 최고의 시각적 충실도를 유지하면서 형식을 지정합니다. 변환 프로세스는 간단하면서도 신뢰할 수 있으므로 API은 산업 표준 형식으로 문서를 교환해야 하는 조직에 완벽한 선택입니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
- 다른 형식으로 스프레드시트 저장 - C#
+다른 형식으로 스프레드시트 저장 - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET은 스프레드시트에 모든 종류의 시각 효과를 제공할 수 있는 완전한 자유와 유연성을 제공합니다. API을 사용하면 속성, 셀 스타일(정렬, 들여쓰기, 회전, 테두리, 음영 및 색상 지정, 보호, 텍스트 줄 바꿈 및 축소) 및 모든 유형의 숫자 형식을 사용하여 다양한 글꼴을 적용할 수 있습니다.
     </p>
     <p>
-마찬가지로 차트와 그래픽은 시각적으로 매력적이며 스프레드시트에 전문적인 느낌을 줄 수 있습니다. Aspose.Cells for .NET은 모든 표준 및 사용자 정의 차트 유형을 만들고 조작하기 위한 포괄적인 API 세트를 제공합니다. 또한 주석, 그림, OLE 개체, 도형 및 컨트롤과 같은 다양한 유형의 그리기 개체를 셀에 추가할 수 있습니다.
+ 마찬가지로 차트와 그래픽은 시각적으로 매력적이며 스프레드시트에 전문적인 느낌을 줄 수 있습니다. Aspose.Cells for .NET은 모든 표준 및 사용자 정의 차트 유형을 만들고 조작하기 위한 포괄적인 API 세트를 제공합니다. 또한 주석, 그림, OLE 개체, 도형 및 컨트롤과 같은 다양한 유형의 그리기 개체를 셀에 추가할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  효율적이고 견고하며 &amp; 신뢰할 수 있는 수식 계산 엔진
     </h2>
     <p>
- Aspose.Cells for .NET에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 함수를 지원하는 강력한 수식 계산 엔진이 있습니다. 빌트인, 애드인, 배열 &amp; R1C1 참조 스타일 수식.
+Aspose.Cells for .NET에는 거의 모든 표준 및 고급 Microsoft Excel 수식 및 함수를 지원하는 강력한 수식 계산 엔진이 있습니다. 빌트인, 애드인, 배열 &amp; R1C1 참조 스타일 수식.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  피벗 테이블, 차트 &amp;로 데이터 요약 스마트 마커
     </h2>
     <p>
-피벗 테이블을 사용하면 플랫 데이터를 빠르게 요약하고 필요에 따라 원하는 정보를 얻을 수 있습니다. .NET Excel 라이브러리를 사용하면 피벗 테이블과 피벗 차트를 동적으로 생성할 수 있습니다. 피벗 테이블의 소스 데이터를 동적으로 변경하고 새로 고칠 수 있습니다. 또한 라이브러리는 일부 데이터 소스를 기반으로 워크시트를 채우고 시각적으로 효과적인 보고서를 생성하는 훌륭한 기능인 스마트 마커를 제공합니다.
+ 피벗 테이블을 사용하면 플랫 데이터를 빠르게 요약하고 필요에 따라 원하는 정보를 얻을 수 있습니다. .NET Excel 라이브러리를 사용하면 피벗 테이블과 피벗 차트를 동적으로 생성할 수 있습니다. 피벗 테이블의 소스 데이터를 동적으로 변경하고 새로 고칠 수 있습니다. 또한 라이브러리는 일부 데이터 소스를 기반으로 워크시트를 채우고 시각적으로 효과적인 보고서를 생성하는 훌륭한 기능인 스마트 마커를 제공합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Excel 워크시트 렌더링 &amp; 이미지로서의 차트
     </h2>
     <p>
- Aspose.Cells for .NET에는 렌더링 &amp; Microsoft Excel에 가장 충실하게 인쇄합니다. Excel 워크시트 &amp; 차트를 이미지 &amp; 연결된 물리적 프린터에 워크시트를 인쇄합니다. 이 프로세스는 유연하므로 워크시트 &amp; 차트를 이미지로.
+Aspose.Cells for .NET에는 렌더링 &amp; Microsoft Excel에 가장 충실하게 인쇄합니다. Excel 워크시트 &amp; 차트를 이미지 &amp; 연결된 물리적 프린터에 워크시트를 인쇄합니다. 이 프로세스는 유연하므로 워크시트 &amp; 차트를 이미지로.
     </p>
     <div class="codeblock" id="code">
      <h3>
-워크시트를 이미지로 변환 - C#
+ 워크시트를 이미지로 변환 - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Web &amp;을 위한 그래픽 인터페이스 데스크탑 애플리케이션
     </h2>
     <p>
- Aspose.Cells for .NET은 웹 &amp; 데스크톱 응용 프로그램. 최종 사용자는 이러한 컨트롤을 사용하여 파일을 열고 저장하고 Excel 파일 편집, 가져오기 &amp; 데이터 내보내기, 서식 관리 &amp; 응용 프로그램의 프런트 엔드에서 바로 공식을 사용하고 지원되는 여러 스프레드시트 형식 간에 변환할 수 있습니다.
+Aspose.Cells for .NET은 웹 &amp; 데스크톱 응용 프로그램. 최종 사용자는 이러한 컨트롤을 사용하여 파일을 열고 저장하고 Excel 파일 편집, 가져오기 &amp; 데이터 내보내기, 서식 관리 &amp; 응용 프로그램의 프런트 엔드에서 바로 공식을 사용하고 지원되는 여러 스프레드시트 형식 간에 변환할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft 사무 자동화 – 필요하지 않음
     </h2>
     <p>
-Aspose.Cells for .NET은 Excel 문서 형식으로 작업하기 위해 시스템에 Microsoft Office 또는 Microsoft Excel을 설치할 필요가 없는 관리 코드를 사용하여 빌드됩니다. 지원되는 기능, 보안, 안정성, 확장성, 속도 및 가격 측면에서 완벽한 Microsoft 사무 자동화 대안입니다.
+ Aspose.Cells for .NET은 Excel 문서 형식으로 작업하기 위해 시스템에 Microsoft Office 또는 Microsoft Excel을 설치할 필요가 없는 관리 코드를 사용하여 빌드됩니다. 지원되는 기능, 보안, 안정성, 확장성, 속도 및 가격 측면에서 완벽한 Microsoft 사무 자동화 대안입니다.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET은 Excel 문서 형식으로 작업하기 위해 시스템
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose 제품군 및 지원은 최고입니다. 이 솔루션이 없었다면 우리가 한 일을 할 수 없었을 것입니다.
+Aspose 제품군 및 지원은 최고입니다. 이 솔루션이 없었다면 우리가 한 일을 할 수 없었을 것입니다.
  <em>
  댄 패터슨 박사 | 영국 통찰력
  </em>

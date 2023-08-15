@@ -13,7 +13,7 @@ description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용
 
  ODS 파일을 분할하기 위해 다음을 사용합니다.
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API은 기능이 풍부하고 강력하며 사용하기 쉬운 스플리터 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 스플리터 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
 

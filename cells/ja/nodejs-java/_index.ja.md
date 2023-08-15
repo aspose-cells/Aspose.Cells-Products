@@ -16,7 +16,7 @@ description: Node.js ライブラリを介して Excel ファイル形式を処�
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java は、XLS、XLSX、ODS、SpreadsheetML、CSV、TSC、TSC などの最も一般的なスプレッドシート形式をサポートしています。 HTML。
+Aspose.Cells for Node.js via Java は、XLS、XLSX、ODS、SpreadsheetML、CSV、TSC、TSC などの最も一般的なスプレッドシート形式をサポートしています。 HTML。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -100,7 +100,7 @@ description: Node.js ライブラリを介して Excel ファイル形式を処�
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 Node.js via Java
    </small>
@@ -146,7 +146,7 @@ Node.js via Java
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 Node.js via Java
    </small>
@@ -226,7 +226,7 @@ Microsoft エクセル:
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 Node.js via Java
    </small>

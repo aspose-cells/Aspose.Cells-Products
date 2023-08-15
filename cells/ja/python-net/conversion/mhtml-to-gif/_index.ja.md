@@ -1,7 +1,7 @@
 ---
-title: MHTML を GIF Python via Python に変換します
-description: オンラインで無料でMHTMLをGIFに変換します。無料のオンラインMHTMLからGIFへのコンバーター。 Python MHTML から GIF まで。Python 経由で MHTML から GIF まで。
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML から GIF - オンライン MHTML から GIF コンバータ
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python MHTML を GIF 保存形式に変換します。 Python MHTML ～ GIF の形式。 MHTML から GIF Python を保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to GIF saveformat., Free Online MHTML to GIF Python., Python Convert MHTML to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML を Python の GIF に変換します" h2="MHTML を GIF に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="MHTML を Python の GIF に変換します" %}}
 
- MHTMLをGIFに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に MHTML を GIF に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ MHTML を GIF に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に MHTML を GIF に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでMHTMLをGIFに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでMHTMLをGIFに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTMLをGIFに変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで MHTML を簡単にロードして GIF に変換できます。
+MHTML ファイルをプログラムで GIF に変換する必要がありますか? Python 開発者は、わずか数行のコードで MHTML を簡単にロードして GIF に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して MHTML ファイルをロードします
-1. Workbook.save メソッドを呼び出して MHTML を GIF に変換します
+1.  Workbook のインスタンスを使用して MHTML ファイルを読み込みます。
+1.  Workbook.save メソッドを呼び出して、MHTML を GIF に変換します。
+1.  MHTMLからGIFへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}拡張子が MHTML のファイルは、さまざまなアプリケーションで作成できる Web ページのアーカイブ形式を表します。この形式は、Web HTML コードと関連リソースを 1 つのファイルに保存するため、アーカイブ形式として知られています。これらのリソースには、画像、アプレット、アニメーション、オーディオ ファイルなど、Web ページにリンクされているあらゆるものが含まれます。 MHTML ファイルは、Internet Explorer や Microsoft Word などのさまざまなアプリケーションで開くことができます。 Microsoft Windows は、Windows 上のアプリケーションの使用中に観察された、問題を引き起こす問題のシナリオを記録するために MHTML ファイル形式を使用します。 MHTML ファイル形式は、プレーン テキストの電子メール関連仕様である message/rfc822 で定義されている仕様と同様のページ コンテンツをエンコードします。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF または Graphical Interchange Format は、高圧縮イメージの一種です。 Unisys が所有する GIF は、画質を劣化させない LZW 圧縮アルゴリズムを使用しています。各画像 GIF では通常、ピクセルあたり最大 8 ビットが許可され、画像全体で最大 256 色が許可されます。 JPEG の画像とは対照的に、この画像は最大 1,600 万色を表示でき、人間の目の限界にかなり近づいています。インターネットが出現した当時、GIF は低帯域幅を必要とし、色のベタ領域を消費するグラフィックスと互換性があったため、依然として最良の選択肢でした。アニメーション GIF は、多数の画像またはフレームを 1 つのファイルに結合し、それらをシーケンスで表示してアニメーション クリップまたは短いビデオを生成します。色の制限は各フレームで最大 256 であり、カラー グラデーションのある他の画像や写真を再現するのには最も適していないと考えられます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="MHTML を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

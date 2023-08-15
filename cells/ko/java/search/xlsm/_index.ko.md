@@ -58,7 +58,7 @@ description: Java JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그�
 {{% /blocks/products/pf/agp/text %}}
 
 + 통합 문서 개체를 인스턴스화하여 XLSM 파일을 로드합니다.
-XLSM 파일의 첫 번째 워크시트에 액세스합니다.
++ XLSM 파일의 첫 번째 워크시트에 액세스합니다.
 + 지정된 수식이 포함된 셀을 찾습니다.
 + FindOptions를 인스턴스화합니다.
 + 문자열 값을 포함하는 셀 찾기
@@ -132,7 +132,7 @@ System.out.println("Name of the cell containing String: " + cell.getName());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

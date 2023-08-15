@@ -56,7 +56,7 @@ TXT ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の TXT ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の TXT ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた TXT ファイルを指定したパスに保存します
++ マージされた TXT ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

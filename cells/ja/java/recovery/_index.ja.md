@@ -10,7 +10,7 @@ description: Java を使用して破損した Excel ファイルを修復しま�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してEXCELファイルを修復する" %}}
 
- EXCELファイルを修復するには、次のコマンドを使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java) API は、機能が豊富で強力で使いやすいドキュメント操作プラットフォームです。 API for Java
+ EXCELファイルを修復するには、次のコマンドを使用します。[Aspose.Cells for Java](https://products.aspose.com/cells/java)API は、機能が豊富で強力で使いやすいドキュメント操作プラットフォームです。 API for Java
  
  Aspose.Cells API は、Excel 形式を作成、編集、変換し、さまざまな形式にレンダリングするために使用できます。さらに、ソフトウェア アプリケーション内で包括的なグラフ作成、スケーラブルなレポート作成、および信頼性の高い計算に使用できます。 Aspose.Cells はスタンドアロンの API であり、Microsoft や OpenOffice などのソフトウェアは必要ありません。
 
@@ -20,7 +20,7 @@ description: Java を使用して破損した Excel ファイルを修復しま�
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してExcelファイルを修復する方法" %}}
 
-Aspose.Cells.IWarningCallbackを継承するクラスを定義します。
++ Aspose.Cells.IWarningCallbackを継承するクラスを定義します。
 + 上記の継承クラスを使用して Workbook のインスタンスを作成して EXCEL ファイルを読み込みます。上記のコードを参照してください。
 + ワークブックを保存すると、破損した Excel ファイルが修復されます。
 
@@ -67,7 +67,7 @@ Aspose.Cells.IWarningCallbackを継承するクラスを定義します。
     
 {{% blocks/products/pf/agp/content h2="システム要求" %}}
 
- Aspose.Cells for Java は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for Java は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
  
 - Microsoft Windows、または JSP/JSF アプリケーションおよびデスクトップ アプリケーション用の Java ランタイム環境と互換性のある OS。
 - Aspose.Cells for Java の最新バージョンを Maven から直接入手します。

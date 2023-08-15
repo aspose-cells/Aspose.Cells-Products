@@ -1,7 +1,7 @@
 ---
-title: HTML을 GIF로 변환 Python via Python
-description: HTML을 GIF로 온라인에서 무료로 변환하십시오. 무료 온라인 HTML to GIF 변환기. Python HTML에서 GIF로. HTML에서 GIF로 Python을 통해.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML ~ GIF - 온라인 HTML ~ GIF 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python HTML을 GIF saveformat으로 변환합니다. Python HTML ~ GIF 형식. HTML을 GIF Python로 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to GIF saveformat., Free Online HTML to GIF Python., Python Convert HTML to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML을 Python에서 GIF로 변환" h2="HTML을 GIF로 변환하기 위한 고속 Python 라이브러리. 당사의 Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="HTML을 Python에서 GIF로 변환" %}}
 
- HTML을 GIF로 변환하는 방법은 무엇입니까? Aspose.Cells NET 라이브러리를 통해 for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTML을 GIF로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ HTML을 GIF로 어떻게 변환합니까? Aspose.Cells NET 라이브러리를 통해 for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTML을 GIF로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="온라인에서 HTML을 GIF로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="온라인에서 HTML을 GIF로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML을 GIF로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 HTML을 GIF로 쉽게 로드하고 변환할 수 있습니다.
+프로그래밍 방식으로 HTML 파일을 GIF로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 HTML을 GIF로 쉽게 로드 및 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  통합 문서 인스턴스가 있는 HTML 파일 로드
-1.  Workbook.save 메서드를 호출하여 HTML을 GIF로 변환
+1.  Workbook 인스턴스가 있는 HTML 파일을 로드합니다.
+1.  Workbook.save 메서드를 호출하여 HTML을 GIF로 변환합니다.
+1.  HTML의 변환 결과를 GIF로 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 만든 웹 페이지의 확장입니다. 웹 언어로 알려진 HTML은 웹 페이지의 일부로 표시되는 새로운 정보 요구 사항에 따라 발전했습니다. 최신 변형은 언어 작업에 많은 유연성을 제공하는 HTML 5로 알려져 있습니다. HTML 페이지는 호스팅되는 서버에서 받거나 로컬 시스템에서도 로드할 수 있습니다. 각 HTML 페이지는 양식, 텍스트, 이미지, 애니메이션, 링크 등과 같은 HTML 요소로 구성됩니다. 이러한 요소는 태그 및 각 태그에 시작과 끝이 있는 여러 기타 요소로 표시됩니다. 또한 전체 레이아웃 표현을 위해 JavaScript 및 스타일 시트(CSS)와 같은 스크립팅 언어로 작성된 응용 프로그램을 포함할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF 또는 그래픽 교환 형식은 고도로 압축된 이미지 유형입니다. Unisys가 소유한 GIF은 이미지 품질을 저하시키지 않는 LZW 압축 알고리즘을 사용합니다. 각 이미지에 대해 GIF은 일반적으로 픽셀당 최대 8비트를 허용하고 이미지 전체에서 최대 256색을 허용합니다. JPEG 이미지와 달리 최대 1,600만 가지 색상을 표시할 수 있고 인간의 눈의 한계에 상당히 근접합니다. 인터넷이 등장했을 때 GIF는 대역폭이 낮고 단색 영역을 사용하는 그래픽과 호환되기 때문에 최고의 선택이었습니다. 애니메이션 GIF은 수많은 이미지 또는 프레임을 단일 파일로 결합하고 시퀀스로 표시하여 애니메이션 클립 또는 짧은 비디오를 생성합니다. 색상 제한은 각 프레임에 대해 최대 256이며 색상 그라데이션으로 다른 이미지 및 사진을 재생하는 데 가장 적합하지 않을 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 HTML을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수 있습니다." >}}
 

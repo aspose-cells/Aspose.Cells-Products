@@ -3,7 +3,7 @@ title: C++을 통한 Excel 파일 주석
 description: C++ 라이브러리를 사용하여 Excel 및 OpenOffice 스프레드시트의 데이터 주석 주석을 추가하거나 제거합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++을 통해 Excel 파일 주석 관리" h2="C++ 기반 애플리케이션 내에서 주석이나 주석에 대한 간단한 메모를 추가하거나 제거합니다." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++을 통해 Excel 파일 주석 관리" h2="C++ 기반 애플리케이션 내에서 주석 또는 주석에 대한 간단한 메모를 추가하거나 제거합니다." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 [C++ 엑셀 API](/cells/ko/cpp/) 주석을 추가, 액세스 및 제거하여 셀 수준에서 주석을 관리하는 지원을 제공합니다. API 제공[IComment](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment) 그리고[ICommentCollection](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection) 게다가[GetIComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ae7cce5f85b7b25a1e5c58df1b613ca5a)모든 측면에서 댓글을 처리합니다. 지원되는 Excel 형식에는 ODS, XLS, XLSX, XLSB 및 XLSM이 포함됩니다.
 {{% /blocks/products/pf/feature-page-summary %}}

@@ -13,7 +13,7 @@ description: XLSX 形式から PDF A コンパイル済みファイルへの Jav
 
 XLSX から PDF/A をレンダリングするには、次を使用します。
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API は、機能が豊富で強力で使いやすい変換プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。
+ API は、機能が豊富で強力で使いやすい変換プラットフォームです API for Java。最新バージョンはから直接ダウンロードできます。
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 次の構成を pom.xml に追加して、Maven ベースのプロジェクト内にインストールします。
 
@@ -57,8 +57,8 @@ Java 開発者は、わずか数行のコードで XLSX ファイルを PDF/A �
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Workbook クラスのインスタンスを使用して XLSX ファイルをロードします
-1.  PdfSaveOptions クラス オブジェクトを作成する
+1.  Workbook クラスのインスタンスを使用して XLSX ファイルをロードします
+1. PdfSaveOptions クラス オブジェクトを作成する
 1. コンプライアンスのタイプを設定します PdfCompliance.PdfA1b
 1.  Workbook.save メソッドを呼び出す
 1. PDF 拡張子と PdfSaveOptions オブジェクトをパラメータとして出力パスを渡します

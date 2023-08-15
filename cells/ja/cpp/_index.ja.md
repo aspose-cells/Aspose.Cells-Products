@@ -110,7 +110,7 @@ description: C++ XLS、XLSX、XLSM、および XLSB 形式を含むファイル�
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     C++
    </small>
@@ -156,7 +156,7 @@ Linux 64 ビット
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     C++
    </small>
@@ -242,7 +242,7 @@ XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     C++
    </small>

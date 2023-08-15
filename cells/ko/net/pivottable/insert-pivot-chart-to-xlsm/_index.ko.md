@@ -1,5 +1,5 @@
 ---
-title:  C#을 통해 Micorsoft Excel XLSM 파일에 피벗 차트 삽입
+title: C#을 통해 Micorsoft Excel XLSM 파일에 피벗 차트 삽입
 weight: 7690
 description: C# 피벗 차트가 있는 XLSM 문서를 생성하기 위한 샘플 코드입니다. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 응용 프로그램 내에서 피벗 차트가 있는 Micorsoft Excel XLSM 파일을 생성합니다.
 ---
@@ -22,7 +22,7 @@ description: C# 피벗 차트가 있는 XLSM 문서를 생성하기 위한 샘�
 
 {{% blocks/products/pf/agp/text %}}
 
-개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSM 형식 스프레드시트에 피벗 차트를 쉽게 삽입할 수 있습니다.
+ 개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSM 형식 스프레드시트에 피벗 차트를 쉽게 삽입할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ description: C# 피벗 차트가 있는 XLSM 문서를 생성하기 위한 샘�
 1.  워크시트의 원하는 셀을 가져와 셀에 값을 입력합니다.
 1.  피벗 테이블 삽입 및 스타일 설정
 1.  PivotTable의 데이터를 이용하여 Pivot Chart 삽입
-1.  저장 방법을 사용하여 통합 문서를 XLSM 파일로 저장합니다.
+1. 저장 방법을 사용하여 통합 문서를 XLSM 파일로 저장합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,7 +70,7 @@ Excel 스프레드시트 프로그래밍 라이브러리는 Excel XLSM 파일을
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

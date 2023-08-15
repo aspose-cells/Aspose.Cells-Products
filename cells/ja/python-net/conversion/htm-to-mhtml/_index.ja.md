@@ -1,7 +1,7 @@
 ---
-title: HTM を MHTML Python via Python に変換します
-description: 無料でオンラインでHTMをMHTMLに変換します。無料のオンライン HTM から MHTML コンバーター。 Python HTM から MHTML へ。HTM から Python 経由で MHTML へ。
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM から MHTML - オンライン HTM から MHTML コンバーター
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python HTM を MHTML 保存形式に変換します。 Python HTM から MHTML 形式。 HTM を MHTML Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MHTML saveformat., Free Online HTM to MHTML Python., Python Convert HTM to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM を Python の MHTML に変換します" h2="HTM を MHTML に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="HTM を Python の MHTML に変換します" %}}
 
- HTM を MHTML に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に HTM を MHTML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ HTM を MHTML に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に HTM を MHTML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでHTMをMHTMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでHTMをMHTMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM を MHTML に変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで HTM を簡単にロードして MHTML に変換できます。
+HTM ファイルをプログラムで MHTML に変換する必要がありますか? Python 開発者は、わずか数行のコードで HTM を簡単にロードして MHTML に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して HTM ファイルをロードする
-1. Workbook.save メソッドを呼び出して HTM を MHTML に変換します
+1.  Workbook のインスタンスを使用して HTM ファイルを読み込みます。
+1.  Workbook.save メソッドを呼び出して、HTM を MHTML に変換します。
+1.  HTMからMHTMLへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 拡張子を持つファイルは、Google Chrome、Internet Explorer、Firefox などの Web ブラウザーで表示する Web ページを作成するためのハイパーテキスト マークアップ言語を表します。これは、他の人がアクセスできるように World Wide Web (WWW) 上に公開される静的ページを作成するためのマークアップを定義します。これらのマークアップは、Web ページのコンテンツを表示する方法をブラウザーに指示します。このようなページには、プレーン テキスト、画像、他のページへのハイパーリンク、ビデオ、その他のメディア情報を含めることができます。 Web ページが公開されると、そのページのソースを表示して、その背後にあるマークアップ コードを確認できます。最新のブラウザでは、HTM ソース内の各サブディビジョンまたはマークアップ要素が詳しく説明されている Web ページの各セクションを検査できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}拡張子が MHTML のファイルは、さまざまなアプリケーションで作成できる Web ページのアーカイブ形式を表します。この形式は、Web HTML コードと関連リソースを 1 つのファイルに保存するため、アーカイブ形式として知られています。これらのリソースには、画像、アプレット、アニメーション、オーディオ ファイルなど、Web ページにリンクされているあらゆるものが含まれます。 MHTML ファイルは、Internet Explorer や Microsoft Word などのさまざまなアプリケーションで開くことができます。 Microsoft Windows は、Windows 上のアプリケーションの使用中に観察された、問題を引き起こす問題のシナリオを記録するために MHTML ファイル形式を使用します。 MHTML ファイル形式は、プレーン テキストの電子メール関連仕様である message/rfc822 で定義されている仕様と同様のページ コンテンツをエンコードします。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="HTM を、以下にリストするいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

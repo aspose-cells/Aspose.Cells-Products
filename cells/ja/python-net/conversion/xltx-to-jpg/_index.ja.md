@@ -1,7 +1,7 @@
 ---
-title: XLTX を JPG に変換 Python via Python
-description: オンラインで無料でXLTXをJPGに変換します。無料のオンラインXLTXからJPGコンバーター。 Python XLTX から JPG へ。 Python経由でJPGにXLTX。
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+title: Python XLTX から JPG - オンライン XLTX から JPG コンバーター
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python XLTX を JPG 保存形式に変換します。 Python XLTX を JPG 形式に変換します。 XLTX を JPG Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to JPG saveformat., Free Online XLTX to JPG Python., Python Convert XLTX to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTXをPythonのJPGに変換します" h2="XLTXをJPGに変換するための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="XLTXをPythonのJPGに変換します" %}}
 
-XLTXをJPGに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLTX を JPG に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ XLTXをJPGに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に XLTX を JPG に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ XLTXをJPGに変換するにはどうすればよいですか? NET ライブラ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでXLTXをJPGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでXLTXをJPGに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTXをJPGに変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで XLTX を簡単にロードして JPG に変換できます。
+XLTX ファイルをプログラムで JPG に変換する必要がありますか? Python 開発者は、わずか数行のコードで XLTX を簡単にロードして JPG に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して XLTX ファイルをロードします
-1. Workbook.save メソッドを呼び出して XLTX を JPG に変換します
+1.  Workbook のインスタンスを使用して XLTX ファイルを読み込みます。
+1. Workbook.save メソッドを呼び出して、XLTX を JPG に変換します。
+1.  XLTXをJPGに変換した結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}.xltx 拡張子を持つファイルは、Office OpenXML ファイル形式仕様に基づいた Microsoft Excel テンプレート ファイルを表します。これは、XLTX ファイルで指定されているのと同じ設定を示す XLSX ファイルの生成に利用できる標準テンプレート ファイルを作成するために使用されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG は、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力イメージは、ストレージ サイズと画質の間のトレードオフになります。ユーザーは圧縮レベルを調整して必要な品質レベルを達成しながら、同時にストレージ サイズを削減できます。 10:1 圧縮が画像に適用される場合、画像品質への影響はほとんどありません。圧縮値が高くなるほど、画質の劣化が大きくなります。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="XLTX を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

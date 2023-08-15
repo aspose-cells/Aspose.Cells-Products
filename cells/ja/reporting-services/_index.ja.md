@@ -129,7 +129,7 @@ MSクエリ
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 レポートサービス
    </small>
@@ -182,7 +182,7 @@ MSクエリ
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 レポートサービス
    </small>
@@ -262,7 +262,7 @@ XLS、XLSX、XLSM、XLSB、XML
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
 レポートサービス
    </small>
@@ -356,7 +356,7 @@ Aspose.Cells' レポート デザイナー ツール
 レポートをスプレッドシート形式にエクスポート
     </h2>
     <p>
-Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel 形式 (XLS、XLSX、XLSM、SpreadsheetML、CSV、タブ デ) を含む、すべての一般的な Microsoft Excel (97 ～ 2016) ファイル形式をサポートします。 Aspose.Cells for Reporting Services は、ODS (OpenDocument スプレッドシート) ファイル形式もサポートしています。
+Aspose.Cells for Reporting Services は、「ネイティブ」Microsoft Excel 形式 (XLS、XLSX、XLSM、SpreadsheetML、CSV、タブ区切りおよび HTML。Aspose.Cells for Reporting Services は ODS (OpenDocument スプレッドシート) ファイル形式もサポートします。
     </p>
     <p>
 さらに、Aspose.Cells for Reporting Services Excel ドキュメントを完全に編集可能なスプレッドシートとしてエクスポートします。エンド ユーザーは、必要に応じて、Microsoft Excel アプリケーションで結果のスプレッドシートを手動で編集できます。

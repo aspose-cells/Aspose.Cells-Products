@@ -11,7 +11,7 @@ description: Python を使用して XLSM にメモを挿入します。API サ�
 
 {{% blocks/products/pf/agp/content h2="Python を使用して XLSM ファイルにメモを挿入" %}}
 
-Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSM ファイルにメモを簡単に挿入できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。 Aspose.Cells for Python を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
+Aspose.Cells for Python ライブラリを使用すると、数行のコードでプログラム的に XLSM ファイルにメモを簡単に挿入できます。[Aspose.Cells for Python](https://pypi.org/project/aspose-cells)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。 Aspose.Cells for Python を次からインストールできます。<a href="https://pypi.org/project/aspose-cells/">pypi</a>、次のようにコマンドを使用します。<code>$ pip install aspose-cells</code>.
 
  
 {{% /blocks/products/pf/agp/content %}}
@@ -20,7 +20,7 @@ Aspose.Cells for Python ライブラリを使用すると、数行のコード�
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for Python は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 

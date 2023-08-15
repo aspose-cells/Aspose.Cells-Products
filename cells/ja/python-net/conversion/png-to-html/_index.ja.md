@@ -1,7 +1,7 @@
 ---
-title: PNG を HTML Python via Python に変換します
-description: オンラインで無料でPNGをHTMLに変換します。無料のオンラインPNGからHTMLへのコンバーター。 Python PNG から HTML まで。Python 経由で PNG から HTML まで。
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG から HTML - オンライン PNG から HTML コンバータ
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python PNG を HTML 保存形式に変換します。 Python PNG ～ HTML の形式。 PNG から HTML Python を保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to HTML saveformat., Free Online PNG to HTML Python., Python Convert PNG to HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PNG を Python の HTML に変換します" h2="PNG を HTML に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="PNG を Python の HTML に変換します" %}}
 
- PNGをHTMLに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に PNG を HTML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ PNG を HTML に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に PNG を HTML に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="オンラインでPNGをHTMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="html" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="オンラインでPNGをHTMLに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="html" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PNGをHTMLに変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで PNG を簡単にロードして HTML に変換できます。
+PNG ファイルをプログラムで HTML に変換する必要がありますか? Python 開発者は、わずか数行のコードで PNG を簡単にロードして HTML に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して PNG ファイルをロードします
-1. Workbook.save メソッドを呼び出して PNG を HTML に変換します
+1.  Workbook のインスタンスを使用して PNG ファイルを読み込みます。
+1.  Workbook.save メソッドを呼び出して、PNG を HTML に変換します。
+1.  PNGからHTMLへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) ファイルは、可逆圧縮を使用するラスター イメージ ファイル形式です。このファイル形式は、Graphics Interchange Format (GIF) の代替として作成され、著作権制限はありません。ただし、PNG ファイル形式はアニメーションをサポートしていません。 PNG ファイル形式は可逆画像圧縮をサポートしているため、ユーザーの間で人気があります。時間の経過とともに、PNG は広く使用されている画像ファイル形式の 1 つとして進化しました。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) は、ブラウザーで表示するために作成された Web ページの拡張子です。 Web の言語として知られる HTML は、Web ページの一部として表示される新しい情報要件の要件とともに進化してきました。最新の亜種は HTML 5 として知られており、この言語を使用する際の柔軟性が大幅に高まります。 HTML ページは、ホストされているサーバーから受信されるか、ローカル システムから読み込まれることもあります。各 HTML ページは、フォーム、テキスト、画像、アニメーション、リンクなどの HTML 要素で構成されています。これらの要素は、タグと、各タグに開始点と終了点があるその他のいくつかの要素によって表されます。また、全体的なレイアウト表現のために、JavaScript やスタイル シート (CSS) などのスクリプト言語で記述されたアプリケーションを埋め込むこともできます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="PNG を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

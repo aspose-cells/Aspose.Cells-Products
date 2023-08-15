@@ -52,7 +52,7 @@ Aspose.Cells を使用すると、開発者はわずか数行のコードで TXT
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -55,7 +55,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="" %}}
 
 ```cs
 

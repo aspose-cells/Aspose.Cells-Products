@@ -60,7 +60,7 @@ Aspose.Cells for C++ は、すべての主要なプラットフォームとオ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="" %}}
 
 ```cs
 

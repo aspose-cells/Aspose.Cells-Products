@@ -23,7 +23,7 @@ description: C# .NET ライブラリを使用して Excel に 3D 折れ線グラ
 {{% /blocks/products/pf/agp/text %}}
 
 1. クラスファイルに名前空間を含めます
-1. 作成[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
+1. 作成する[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
 1. 次のコマンドを使用して、ワークシートのセルにデータを追加します。[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell)オブジェクトの[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)方法。
 1. 追加[**3Dライン**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)を呼び出してワークシートにグラフを作成します。[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection)コレクションの[**追加**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add)メソッドにカプセル化されている[**ワークシート**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)物体。
 1. 新しいものにアクセスする[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)インデックスを渡すことで、Charts コレクションからオブジェクトを取得します。

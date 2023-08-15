@@ -23,7 +23,7 @@ description: C# .NET ライブラリを使用して Excel にグラフに線を�
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 作成[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
+1. 作成する[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
 1. 次のコマンドを使用して、ワークシートのセルにデータを追加します。[**Cell**](https://reference.aspose.com/cells/net/aspose.cells/cell)オブジェクトの[**PutValue**](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index)方法。
 これはグラフのデータ ソースとして使用されます。
 1. を呼び出して、チャートをワークシートに追加します。[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection)コレクションの[**追加**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add)メソッドにカプセル化されている[**ワークシート**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)物体。

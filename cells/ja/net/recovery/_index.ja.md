@@ -10,7 +10,7 @@ description: C# を使用して破損した Excel ファイルを修復します
 
 {{% blocks/products/pf/agp/content h2=".NETを使用してEXCELファイルを修復する" %}}
 
- EXCELファイルを修復するには、次のコマンドを使用します。
+EXCELファイルを修復するには、次のコマンドを使用します。
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作 API です。
  
@@ -22,7 +22,7 @@ description: C# を使用して破損した Excel ファイルを修復します
 
 {{% blocks/products/pf/agp/content h2="C#を使用してExcelファイルを修復する方法" %}}
 
-Aspose.Cells.IWarningCallbackを継承するクラスを定義します。
++ Aspose.Cells.IWarningCallbackを継承するクラスを定義します。
 + 上記の継承クラスを使用して Workbook のインスタンスを作成して EXCEL ファイルを読み込みます。上記のコードを参照してください。
 + ワークブックを保存すると、破損した Excel ファイルが修復されます。
 
@@ -41,7 +41,7 @@ Aspose.Cells for .NET をシステムにインストールするには、3 つ�
     
 {{% blocks/products/pf/agp/content h2="システム要求" %}}
 
- Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
  
 Aspose.Cells は完全にクロスプラットフォームであり、.NET Standard 2.0 仕様に準拠したすべての主要な .NET 実装をサポートしています。
 -  .NET フレームワーク。最も初期の 2.0 バージョンから始まり、最新の .NET フレームワーク 4.8 まで。

@@ -19,7 +19,7 @@ API は、機能が豊富で強力で使いやすいドキュメント検索 API
  **Aspose.Cells.Cpp** 
 そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 

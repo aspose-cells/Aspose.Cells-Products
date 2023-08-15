@@ -16,7 +16,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java은 XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
  워크시트를 이미지로 변환
     </li>
     <li>
-스프레드시트를 PDF로 변환
+ 스프레드시트를 PDF로 변환
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 만들기 &amp; 댓글 조작 &amp; 하이퍼링크
+만들기 &amp; 댓글 조작 &amp; 하이퍼링크
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ description: Node.js 라이브러리를 통해 Excel 파일 형식을 처리합�
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-API을 통해 피벗 테이블 조작 및 새로 고침
+ API을 통해 피벗 테이블 조작 및 새로 고침
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ API을 통해 피벗 테이블 조작 및 새로 고침
  유연한 디스플레이 옵션
     </h2>
     <p>
- Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 제어할 수 있습니다. 페이지 방향, 나누기, 크기, 크기 조정, 머리글, 바닥글 및 확대/축소 수준과 같은 워크시트의 표시 옵션을 조작할 수 있습니다. 또한 개발자는 응용 프로그램 사양에 맞게 인쇄 영역 및 고정 창을 사용하여 데이터 가시성을 제어할 수 있습니다.
+Aspose.Cells for Node.js via Java 워크시트의 페이지 설정을 완전히 제어할 수 있습니다. 페이지 방향, 나누기, 크기, 크기 조정, 머리글, 바닥글 및 확대/축소 수준과 같은 워크시트의 표시 옵션을 조작할 수 있습니다. 또한 개발자는 응용 프로그램 사양에 맞게 인쇄 영역 및 고정 창을 사용하여 데이터 가시성을 제어할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ API을 통해 피벗 테이블 조작 및 새로 고침
  보안 옵션
     </h2>
     <p>
-Aspose.Cells for Node.js via Java은 스프레드시트 암호화/복호화, 콘텐츠, 객체 및 암호화를 포함한 광범위한 보안 기능을 제공합니다. 시나리오 보호뿐만 아니라 행, 열 &amp; 워크시트.
+ Aspose.Cells for Node.js via Java은 스프레드시트 암호화/복호화, 콘텐츠, 객체 및 암호화를 포함한 광범위한 보안 기능을 제공합니다. 시나리오 보호뿐만 아니라 행, 열 &amp; 워크시트.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java은 스프레드시트 암호화/복호화, 콘
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- 워크시트 서식에 대한 종합적인 지원
+워크시트 서식에 대한 종합적인 지원
     </h2>
     <p>
-Aspose.Cells for Node.js via Java은 데이터 표시를 제어할 수 있는 고급 서식 기능을 제공합니다. 워크시트, 열, 행 또는 셀에 서식을 적용하거나 서식 있는 텍스트를 단일 셀에 추가하고, 테두리를 적용하고, 배경 패턴 및 글꼴 스타일을 설정할 수 있습니다. API은 또한 추가, 조작 &amp; 즉석에서 조건부 서식 규칙을 계산합니다.
+ Aspose.Cells for Node.js via Java은 데이터 표시를 제어할 수 있는 고급 서식 기능을 제공합니다. 워크시트, 열, 행 또는 셀에 서식을 적용하거나 서식 있는 텍스트를 단일 셀에 추가하고, 테두리를 적용하고, 배경 패턴 및 글꼴 스타일을 설정할 수 있습니다. API은 또한 추가, 조작 &amp; 즉석에서 조건부 서식 규칙을 계산합니다.
     </p>
    </div>
    <div class="col-lg-12">

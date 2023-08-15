@@ -63,7 +63,7 @@ description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용
 + getWorksheets().get 메소드를 이용하여 원하는 시트를 선택합니다.
 + getCells()를 사용하여 선택한 시트의 모든 셀을 가져옵니다.
 + 각 셀을 반복하여 텍스트를 가져옵니다.
-+ 각 셀 값을 출력하거나 StringBuilder append() 메서드를 사용하여 전체를 봅니다.
+각 셀 값을 출력하거나 StringBuilder append() 메서드를 사용하여 전체를 봅니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

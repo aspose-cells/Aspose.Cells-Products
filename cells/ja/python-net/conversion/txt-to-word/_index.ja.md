@@ -1,7 +1,7 @@
 ---
-title: TXT を Word に変換 Python via Python
-description: TXT をオンラインで無料で WORD に変換します。無料のオンラインTXTをWORDコンバータに変換します。 Python TXT を Word に送信します。 Python経由でWORDにTXT。
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+title: Python TXT から WORD - オンライン TXT から WORD コンバータ
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python TXT を WORD 保存形式に変換します。 Python TXT を WORD 形式にします。 TXT を WORD Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to WORD saveformat., Free Online TXT to WORD Python., Python Convert TXT to WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TXTをPythonのWORDに変換します" h2="TXTをWORDに変換するための高速Pythonライブラリ。 Excel 変換 API を使用して、Python でプラットフォームに依存しない高レベルのソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="TXTをPythonのWORDに変換します" %}}
 
-TXTをWORDに変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TXT を WORD に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ TXT を WORD に変換するにはどうすればよいですか? NET ライブラリ経由で Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TXT を WORD に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ TXTをWORDに変換するにはどうすればよいですか? NET ライブラ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TXTをオンラインでWORDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TXTをオンラインでWORDに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TXTをWORDに変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 開発者は、わずか数行のコードで TXT を簡単にロードして WORD に変換できます。
+TXT ファイルをプログラムで WORD に変換する必要がありますか? Python 開発者は、わずか数行のコードで TXT を簡単にロードして WORD に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して TXT ファイルをロードします
-1. Workbook.save メソッドを呼び出して TXT を WORD に変換します
+1.  Workbook のインスタンスを使用して TXT ファイルを読み込みます。
+1. Workbook.save メソッドを呼び出して、TXT を WORD に変換します。
+1.  TXTをWORDに変換した結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}.TXT 拡張子を持つファイルは、行形式のプレーン テキストを含むテキスト ドキュメントを表します。テキスト文書内の段落は改行によって認識され、ファイルの内容をより適切に配置するために使用されます。標準のテキスト文書は、さまざまなオペレーティング システム上の任意のテキスト エディタまたはワード プロセッシング アプリケーションで開くことができます。このようなファイルに含まれるテキストはすべて人間が判読できる形式であり、一連の文字で表されます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX は、Microsoft Word 文書のよく知られた形式です。 Microsoft Office 2007 のリリースにより 2007 年から導入されたこの新しいドキュメント形式の構造は、プレーンなバイナリから XML ファイルとバイナリ ファイルの組み合わせに変更されました。 Docx ファイルは Word 2007 以降のバージョンでは開くことができますが、DOC ファイル拡張子をサポートする以前のバージョンの MS Word では開くことができません。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="TXT を、以下にリストされているいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="XLTM 파일을 업로드하기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합되고 연결됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 병합되고 연결됩니다." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 구조가 XLTX과 유사하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 형식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.
+XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 구조가 XLTX과 유사하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 서식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

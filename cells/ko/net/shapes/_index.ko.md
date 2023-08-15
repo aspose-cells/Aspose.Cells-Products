@@ -6,7 +6,7 @@ description:  .NET 라이브러리를 사용하여 Microsoft Excel 파일에 모
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 도형 삽입 via .NET" h2=".NET 기반 애플리케이션에서 서버 측 API를 사용하여 Excel 문서를 만들고 도형을 삽입합니다." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Excel에서는 상자, 원, 화살표와 같은 도형을 문서, 이메일, 슬라이드 및 스프레드시트에 추가할 수 있습니다.[.NET 엑셀 라이브러리](https://releases.aspose.com/cells/net/)API은 동일한 기능을 제공합니다. 이러한 API는 사용하기 매우 쉽습니다. 일반적으로 특정 도형을 삽입하는 데 단 한 줄의 코드만 필요하며 몇 줄의 코드로 일괄 도형 삽입을 완료할 수 있습니다.
+ Excel에서는 상자, 원, 화살표와 같은 도형을 문서, 이메일, 슬라이드 및 스프레드시트에 추가할 수 있습니다.[.NET 엑셀 라이브러리](https://releases.aspose.com/cells/net/) API은 동일한 기능을 제공합니다. 이러한 API는 사용하기 매우 쉽습니다. 일반적으로 특정 도형을 삽입하는 데 단 한 줄의 코드만 필요하며 몇 줄의 코드로 일괄 도형 삽입을 완료할 수 있습니다.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

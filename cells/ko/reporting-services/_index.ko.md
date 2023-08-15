@@ -40,7 +40,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
  텍스트 상자
     </li>
     <li>
- 이미지
+이미지
     </li>
     <li>
  하위 보고서
@@ -312,7 +312,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- 피벗 테이블 필드 축소 또는 확장
+피벗 테이블 필드 축소 또는 확장
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
  Aspose.Cells' 보고서 디자이너 도구
     </h2>
     <p>
-개발자는 Microsoft Excel을 보고서 템플릿으로 사용하는 간단한 디자인 도구인 Aspose.Cells.Report.Designer를 사용하면서 Microsoft Excel에서 직접 보고서를 디자인하고 전달할 수 있습니다. 이 기능을 사용하면 피벗 테이블, 대화형 차트, 수식 등을 포함하여 Microsoft Excel 응용 프로그램 내에서 사용할 수 있는 모든 강력한 기능을 활용할 수 있습니다.
+ 개발자는 Microsoft Excel을 보고서 템플릿으로 사용하는 간단한 디자인 도구인 Aspose.Cells.Report.Designer를 사용하면서 Microsoft Excel에서 직접 보고서를 디자인하고 전달할 수 있습니다. 이 기능을 사용하면 피벗 테이블, 대화형 차트, 수식 등을 포함하여 Microsoft Excel 응용 프로그램 내에서 사용할 수 있는 모든 강력한 기능을 활용할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
  보고서를 스프레드시트 형식으로 내보내기
     </h2>
     <p>
- Aspose.Cells for Reporting Services은 "네이티브"를 포함하여 널리 사용되는 모든 Microsoft Excel(97 - 2016) 파일 형식을 지원합니다. Aspose.Cells for Reporting Services은 ODS(OpenDocument 스프레드시트) 파일 형식도 지원합니다.
+Aspose.Cells for Reporting Services은 "네이티브"를 포함하여 널리 사용되는 모든 Microsoft Excel(97 - 2016) 파일 형식을 지원합니다. Aspose.Cells for Reporting Services은 ODS(OpenDocument 스프레드시트) 파일 형식도 지원합니다.
     </p>
     <p>
  또한 Aspose.Cells for Reporting Services Excel 문서를 완전히 편집 가능한 스프레드시트로 내보냅니다. 최종 사용자는 필요한 경우 Excel 응용 프로그램에서 결과 스프레드시트를 수동으로 편집할 수 있습니다.
@@ -367,7 +367,7 @@ description: SQL Server Reporting Services 렌더링 확장 - Excel XLS XLSX XLS
  고충실도 - 보고서 디자인과 동일
     </h2>
     <p>
-Aspose.Cells for Reporting Services 보고서를 Microsoft Excel 스프레드시트로 내보냅니다. 결과는 기본 제공 Reporting Services 보고서 디자이너에서 생성한 원본과 동일하게 나타납니다. 모든 보고서 기능은 Microsoft Excel 스프레드시트가 가능한 한 원본과 유사하게 보이도록 최고 수준의 정밀도로 변환됩니다.
+ Aspose.Cells for Reporting Services 보고서를 Microsoft Excel 스프레드시트로 내보냅니다. 결과는 기본 제공 Reporting Services 보고서 디자이너에서 생성한 원본과 동일하게 나타납니다. 모든 보고서 기능은 Microsoft Excel 스프레드시트가 가능한 한 원본과 유사하게 보이도록 최고 수준의 정밀도로 변환됩니다.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services 보고서를 Microsoft Excel 스프레드시
  다양한 데이터 처리 옵션
     </h2>
     <p>
- Aspose.Cells for Reporting Services은 그룹화된 행과 바닥글이 있는 테이블을 지원하지만 다른 보고서 항목과 마찬가지로 디자인 타임에 그룹화를 설정할 수 있습니다. Aspose.Cells for Reporting Services은 보고서 데이터 소스로 매개 변수 및 전역 변수도 지원합니다. 개발자는 데이터 소스 및 쿼리를 생성하기 위해 Microsoft 쿼리를 사용할 수도 있습니다. 이것은 널리 사용되는 도구이며 대부분의 사용자에게 친숙합니다.
+Aspose.Cells for Reporting Services은 그룹화된 행과 바닥글이 있는 테이블을 지원하지만 다른 보고서 항목과 마찬가지로 디자인 타임에 그룹화를 설정할 수 있습니다. Aspose.Cells for Reporting Services은 보고서 데이터 소스로 매개 변수 및 전역 변수도 지원합니다. 개발자는 데이터 소스 및 쿼리를 생성하기 위해 Microsoft 쿼리를 사용할 수도 있습니다. 이것은 널리 사용되는 도구이며 대부분의 사용자에게 친숙합니다.
     </p>
     <p>
-이 외에도 Aspose.Cells for Reporting Services은 보고서 전용 데이터 소스와 미리 Report Server에서 생성된 공유 데이터 소스를 모두 지원합니다. 개발자는 디자인 타임에 보고서 특정 데이터 원본을 사용하고 보고서를 게시하는 동안 공유 데이터 원본을 보고서 데이터 원본으로 지정할 수 있습니다.
+ 이 외에도 Aspose.Cells for Reporting Services은 보고서 전용 데이터 소스와 미리 Report Server에서 생성된 공유 데이터 소스를 모두 지원합니다. 개발자는 디자인 타임에 보고서 특정 데이터 원본을 사용하고 보고서를 게시하는 동안 공유 데이터 원본을 보고서 데이터 원본으로 지정할 수 있습니다.
     </p>
    </div>
    <!-- 

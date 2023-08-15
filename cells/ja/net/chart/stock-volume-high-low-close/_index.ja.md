@@ -23,7 +23,7 @@ description: C# .NET ライブラリを使用して、出来高、高値、安�
 {{% /blocks/products/pf/agp/text %}}
 
 1. クラスファイルに名前空間を含めます
-1. 作成[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンスによる[サンプル Excel ファイル](Volume-High-Low-Close.xlsx).
+1. 作成する[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンスによる[サンプル Excel ファイル](Volume-High-Low-Close.xlsx).
 1. 追加[**出来高、高値、安値、終値株価**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)を呼び出してワークシートにグラフを作成します。[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection)コレクションの[**追加**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add)メソッドにカプセル化されている[**ワークシート**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)物体。
 1. 新しいものにアクセスする[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)インデックスを渡すことで、Charts コレクションからオブジェクトを取得します。
 1. チャートのデータソースを設定します。[**Chart.SetChartDataRange**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange)方法。

@@ -12,7 +12,7 @@ description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 추출할 뿐만 아니라 조작할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최상의 솔루션입니다.
+Aspose.Cells for Python via Java은 스프레드시트 처리 작업을 위한 빠르고 안정적인 API입니다. 개발자는 간단하거나 복잡한 스프레드시트를 만들고 Excel 파일에서 정보를 추출할 뿐만 아니라 조작할 수 있습니다. API은 여러 Excel 형식을 읽고 워크시트를 XPS, PDF, MHTML, HTML, 일반 텍스트, 이미지 등으로 렌더링할 수 있습니다. Python을 사용하여 Excel 보고서를 자동화하는 최상의 솔루션입니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스�
     </p>
     <div class="codeblock" id="code">
      <h3>
- 다른 형식으로 스프레드시트 저장 - Java
+다른 형식으로 스프레드시트 저장 - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  유연한 디스플레이 옵션
     </h2>
     <p>
-Aspose.Cells for Python via Java 페이지 나누기 미리보기, 확대/축소 수준 설정, 페이지 방향 설정, 창 고정으로 데이터 가시성 제어, 용지 크기, 배율 조정, 머리글 &amp; 바닥글 및 인쇄 영역.
+ Aspose.Cells for Python via Java 페이지 나누기 미리보기, 확대/축소 수준 설정, 페이지 방향 설정, 창 고정으로 데이터 가시성 제어, 용지 크기, 배율 조정, 머리글 &amp; 바닥글 및 인쇄 영역.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java 페이지 나누기 미리보기, 확대/축소
  차트 사용자 정의
     </h2>
     <p>
- Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 사용하여 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
+Aspose.Cells for Python via Java은 차트 작성을 완벽하게 지원합니다. 이 Python 라이브러리를 사용하여 차트를 새로 고치기 위해 표준 및 사용자 정의 차트를 쉽게 추가하거나 차트 데이터를 동적으로 설정할 수 있습니다.
     </p>
    </div>
    <!--

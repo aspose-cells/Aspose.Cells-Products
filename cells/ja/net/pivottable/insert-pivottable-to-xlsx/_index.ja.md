@@ -1,5 +1,5 @@
 ---
-title: C# 経由で Micorsoft Excel XLSX ファイルにピボットテーブルを挿入します
+title:  C# 経由で Micorsoft Excel XLSX ファイルにピボットテーブルを挿入します
 weight: 7690
 description: C# ピボットテーブルを使用して XLSX ドキュメントを生成するサンプル コード。 VB.NET、Asp.NET、または .NET ベースのアプリケーション内でピボットテーブルを使用して Micorsoft Excel XLSX ファイルを作成するには、このコードを使用します。
 ---
@@ -31,7 +31,7 @@ description: C# ピボットテーブルを使用して XLSX ドキュメント�
 1. ワークブックの最初のワークシートにアクセスします。
 1. ワークシートの目的のセルを取得し、そのセルに値を入力します。
 1. ピボットテーブルを挿入してスタイルを設定する
-1.  Save メソッドを使用して、ワークブックを XLSX ファイルとして保存します。
+1. Save メソッドを使用して、ワークブックを XLSX ファイルとして保存します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+병합 및 연결하는 기본 문서[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 

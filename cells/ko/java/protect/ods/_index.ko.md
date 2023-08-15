@@ -1,5 +1,5 @@
 ---
-title:  보호 및 잠금 ODS 문서 via Java
+title: 보호 및 잠금 ODS 문서 via Java
 weight: 6360
 description: JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그램용 Java 런타임 환경에서 암호를 사용하여 ODS 파일을 잠그는 Java 샘플 코드.
 ---

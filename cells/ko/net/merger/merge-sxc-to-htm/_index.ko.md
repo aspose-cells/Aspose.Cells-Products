@@ -1,7 +1,8 @@
 ---
-title:  C#을 통해 SXC을 HTM에 병합
+title: SXC을 HTM에 병합 - SXC을 C#의 HTM에 결합
 url: /ko/net/merger/merge-sxc-to-htm/ 
-description: SXC을 무료로 HTM 온라인에 병합합니다. HTM 합병에 무료 온라인 SXC. SXC을 Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS 등에 병합합니다.
+description: Aspose 엑셀. C# Aspose.Cells. 무료 온라인 병합 SXC을 HTM 저장 형식으로. C# SXC을 HTM 형식으로 결합합니다. SXC을 C#의 HTM에 병합합니다. SXC 병합합니다.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to HTM in C#., Free Online C# Merge SXC to htm., C# Combine SXC to HTM Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 SXC을 HTM에 병합" h2="SXC을 HTM에 병합하기 위한 고속 C# 라이브러리. 당사의 Excel 변환 API을 사용하여 C#에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오. 이것은 Excel, CSV, OpenOffice, PDF, HTML, image 및 기타 여러 Excel 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: SXC을 무료로 HTM 온라인에 병합합니다. HTM 합병에 �
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 SXC을 HTM에 병합" %}}
 
- SXC을 HTM에 병합하는 방법은 무엇입니까? Aspose.Cells for .NET 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 SXC을 HTM에 쉽게 병합할 수 있습니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. .NET Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자에서 Aspose.Cells을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ SXC을 HTM에 어떻게 병합합니까? Aspose.Cells for .NET 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 SXC을 HTM에 쉽게 병합할 수 있습니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. .NET Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자에서 Aspose.Cells을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="SXC을 C# 온라인에서 무료로 HTM에 병합" %}}
 
-다음 예제는 SXC을 C#의 HTM에 병합하는 방법을 보여줍니다.
+다음 예제는 SXC을 Aspose.Cells for .NET에서 HTM으로 병합하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
 SXC을 HTM에 병합하는 쉬운 단계를 따르십시오. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 HTM 파일에 저장합니다. C#에서 코드를 개발하면 생각보다 간단합니다. SXC을 HTM에 병합하는 C# 예제를 참조하십시오.
@@ -36,16 +37,18 @@ SXC을 HTM에 병합하는 쉬운 단계를 따르십시오. 파일을 업로드
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="SXC을 온라인 HTM에 병합하는 무료 앱" InputFormat="sxc" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="무료 온라인에서 SXC을 C#에서 HTM으로 병합" InputFormat="sxc" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C#을 통해 SXC을 HTM에 병합하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+프로그래밍 방식으로 SXC을 HTM에 병합해야 합니까? 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET'을 설치합니다.
++ C# 프로젝트에 라이브러리 참조(라이브러리 가져오기)를 추가합니다.
 + Workbook 클래스로 SXC 파일을 로드합니다.
 + 파일 병합을 위해 Workbook.Combine 메서드를 호출합니다.
 + Workbook.Save 메서드를 호출하고 출력 파일 이름을 매개변수로 전달합니다.
@@ -62,7 +65,7 @@ SXC을 HTM에 병합하는 쉬운 단계를 따르십시오. 파일을 업로드
 {{% /blocks/products/pf/agp/text %}}
 
 1.  설치[NuGet 패키지](https://www.nuget.org/packages/Aspose.Cells/) . 보다[선적 서류 비치](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  다음을 사용하여 라이브러리를 설치합니다.[패키지 관리자 콘솔](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)Visual Studio IDE 내에서
+1.  다음을 사용하여 라이브러리를 설치합니다.[패키지 관리자 콘솔](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE 내에서
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ SXC을 HTM에 병합하는 쉬운 단계를 따르십시오. 파일을 업로드
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}파일 형식 SXC(Sun XML Calc)은 OpenOffice.org라는 오피스 제품군에 속합니다. 이 형식은 일반적으로 XML 기반 스프레드시트 파일 형식이므로 사용자의 스프레드시트 요구를 처리합니다. SXC 형식은 DataPilot과 함께 수식, 함수, 매크로 및 차트를 지원합니다. 이 기능은 가져온 원시 데이터의 요약을 자동으로 개별화하고 제공하기 때문에 놀라운 기능입니다. 이 소프트웨어로 생성된 파일은 .sxc 확장자로 저장됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 만들기 위한 Hypertext Markup Language를 나타냅니다. 다른 사람이 액세스할 수 있도록 WWW(World Wide Web)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 내용을 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹 페이지가 게시되면 해당 페이지 소스를 확인하여 그 뒤에 있는 마크업 코드를 볼 수 있습니다. 최신 브라우저를 사용하면 HTM 소스의 각 하위 구분 또는 마크업 요소가 정교한 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="C#을 사용하여 sxc를 포함하여 다른 많은 파일 형식에 병합할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-mhtml/" name="MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tsv/" name="TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-txt/" name="TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsm/" name="XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltx/" name="XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-docx/" name="SXC을 DOCX로 병합" description="Microsoft 워드 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-sql/" name="SXC을 SQL에 병합" description="구조화된 쿼리 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-bmp/" name="SXC을 BMP로 병합" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-emf/" name="SXC을 EMF로 병합" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-gif/" name="SXC을 GIF로 병합" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-html/" name="SXC을 HTML로 병합" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-md/" name="SXC을 MD로 병합" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-mhtml/" name="SXC을 MHTML로 병합" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-ods/" name="SXC을 ODS로 병합" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-pdf/" name="SXC을 PDF로 병합" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-png/" name="SXC을 PNG로 병합" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-svg/" name="SXC을 SVG로 병합" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tiff/" name="SXC을 TIFF로 병합" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tsv/" name="SXC을 TSV로 병합" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-txt/" name="SXC을 TXT로 병합" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xls/" name="SXC을 XLS로 병합" description="엑셀 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsb/" name="SXC을 XLSB로 병합" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsm/" name="SXC을 XLSM로 병합" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsx/" name="SXC을 XLSX로 병합" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlt/" name="SXC을 XLT로 병합" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltm/" name="SXC을 XLTM로 병합" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltx/" name="SXC을 XLTX로 병합" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xml/" name="SXC을 XML에 병합" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xps/" name="SXC을 XPS로 병합" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-json/" name="SXC을 JSON로 병합" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-jpeg/" name="SXC을 JPEG로 병합" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

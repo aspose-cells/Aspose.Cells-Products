@@ -13,7 +13,7 @@ description: .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에
 
  XLSB 파일을 분할하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 C# 플랫폼용 분할기 API입니다. 열려 있는
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 C# 플랫폼용 분할기 API입니다. 열려 있는
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  Aspose.Cells 

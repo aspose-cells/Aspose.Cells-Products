@@ -56,7 +56,7 @@ ODS ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の ODS ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の ODS ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた ODS ファイルを指定したパスに保存します
++ マージされた ODS ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -93,7 +93,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python
    </small>
@@ -133,7 +133,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python
    </small>
@@ -213,7 +213,7 @@ Microsoft エクセル:
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python
    </small>

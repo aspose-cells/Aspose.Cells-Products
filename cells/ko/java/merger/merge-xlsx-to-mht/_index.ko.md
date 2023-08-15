@@ -1,7 +1,8 @@
 ---
-title:  XLSX을 MHT via Java에 병합
+title: XLSX을 MHT에 병합 - XLSX을 Java의 MHT에 결합
 url: /ko/java/merger/merge-xlsx-to-mht/ 
-description: XLSX을 무료로 MHT 온라인에 병합합니다. MHT 합병에 무료 온라인 XLSX. XLSX을 Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS 등에 병합합니다.
+description: Aspose 엑셀. Java Aspose.Cells. 무료 온라인 XLSX을 MHT 저장 형식으로 병합합니다. Java XLSX을 MHT 형식으로 결합합니다. XLSX을 Java의 MHT에 병합합니다. XLSX 병합합니다.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to MHT in Java., Free Online Java Merge XLSX to mht., Java Combine XLSX to MHT Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX을 MHT via Java에 병합" h2="XLSX을 MHT에 병합하기 위한 고속 Java 라이브러리. 당사의 Excel 변환 API을 사용하여 Java에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오. 이것은 Excel, CSV, OpenOffice, PDF, HTML, image 및 기타 여러 Excel 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLSX을 무료로 MHT 온라인에 병합합니다. MHT 합병에 �
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 XLSX을 MHT에 병합" %}}
 
- XLSX을 MHT에 병합하는 방법은 무엇입니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XLSX을 MHT에 쉽게 병합할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ XLSX을 MHT에 어떻게 병합합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XLSX을 MHT에 쉽게 병합할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: XLSX을 무료로 MHT 온라인에 병합합니다. MHT 합병에 �
 
 {{% blocks/products/pf/agp/content h2="XLSX을 Java 온라인에서 무료로 MHT에 병합" %}}
 
-다음 예는 XLSX을 Java의 MHT에 병합하는 방법을 보여줍니다.
+다음 예는 XLSX을 Aspose.Cells for Java의 MHT에 병합하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
 XLSX을 MHT에 병합하는 쉬운 단계를 따르십시오. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 MHT 파일에 저장합니다. Java에서 코드를 개발하면 생각보다 간단합니다. XLSX을 MHT에 병합하는 Java 예제를 참조하십시오.
@@ -55,16 +56,18 @@ XLSX을 MHT에 병합하는 쉬운 단계를 따르십시오. 파일을 업로�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSX을 MHT 온라인으로 병합하는 무료 앱" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="무료 온라인에서 XLSX을 Java에서 MHT로 병합" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSX을 MHT via Java에 병합하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+프로그래밍 방식으로 XLSX을 MHT에 병합해야 합니까? 병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Java'을 설치합니다.
++ Java 프로젝트에 라이브러리 참조(라이브러리 가져오기)를 추가합니다.
 + Workbook 클래스로 XLSX 파일을 로드합니다.
 + 파일 병합을 위해 Workbook.Combine 메서드를 호출합니다.
 + Workbook.Save 메서드를 호출하고 출력 파일 이름을 매개변수로 전달합니다.
@@ -97,21 +100,41 @@ XLSX을 MHT에 병합하는 쉬운 단계를 따르십시오. 파일을 업로�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX은 Microsoft Office 2007 릴리스와 함께 Microsoft에 의해 도입된 Microsoft Excel 문서의 잘 알려진 형식입니다. OOXML 표준 ECMA-376의 파트 2에 설명된 개방형 패키징 규칙에 따라 구성된 구조를 기반으로 하는 새 형식은 다음과 같습니다. 여러 XML 파일이 포함된 zip 패키지입니다. .xlsx 파일의 압축을 풀기만 하면 기본 구조와 파일을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}확장자가 .mht인 파일은 다양한 유형의 데이터를 단일 파일에 포함하는 MIME 지원 아카이빙 파일 형식입니다. CSS 파일 형태의 텍스트, 이미지, 페이지 스타일, JavaScript 및 기타 리소스와 같은 데이터를 임베디드 리소스로 저장할 수 있습니다. MIME 유형이 message/rfc822인 MHT 파일은 HTML 파일의 모든 내용을 저장 장치에 보관할 때 저장하기 위한 단일 보관 파일로 캡슐화합니다. Microsoft Word와 같은 소프트웨어 응용 프로그램을 사용하면 MHT 파일로 내보내어 WORD 문서를 MHT로 변환할 수 있습니다. MHT 파일은 Microsoft Internet Explorer 및 Google Chrome과 같은 널리 사용되는 브라우저를 사용하여 열 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="Java을 사용하여 xlsx를 포함하여 다른 많은 파일 형식에 병합할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-docx/" name="XLSX을 DOCX로 병합" description="Microsoft 워드 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-sql/" name="XLSX을 SQL에 병합" description="구조화된 쿼리 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-bmp/" name="XLSX을 BMP로 병합" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-emf/" name="XLSX을 EMF로 병합" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-gif/" name="XLSX을 GIF로 병합" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="XLSX을 HTML로 병합" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-md/" name="XLSX을 MD로 병합" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="XLSX을 MHTML로 병합" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="XLSX을 ODS로 병합" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-pdf/" name="XLSX을 PDF로 병합" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-png/" name="XLSX을 PNG로 병합" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-svg/" name="XLSX을 SVG로 병합" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tiff/" name="XLSX을 TIFF로 병합" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="XLSX을 TSV로 병합" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="XLSX을 TXT로 병합" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="XLSX을 XLS로 병합" description="엑셀 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="XLSX을 XLSB로 병합" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="XLSX을 XLSM로 병합" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="XLSX을 XLSX로 병합" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="XLSX을 XLT로 병합" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="XLSX을 XLTM로 병합" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="XLSX을 XLTX로 병합" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xml/" name="XLSX을 XML에 병합" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xps/" name="XLSX을 XPS로 병합" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-json/" name="XLSX을 JSON로 병합" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-jpeg/" name="XLSX을 JPEG로 병합" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

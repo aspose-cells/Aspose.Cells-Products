@@ -58,7 +58,7 @@ description: Java JSP/JSF 응용 프로그램 및 데스크톱 응용 프로그�
 {{% /blocks/products/pf/agp/text %}}
 
 + 통합 문서 개체를 인스턴스화하여 XLSX 파일을 로드합니다.
-XLSX 파일의 첫 번째 워크시트에 액세스합니다.
++ XLSX 파일의 첫 번째 워크시트에 액세스합니다.
 + 지정된 수식이 포함된 셀을 찾습니다.
 + FindOptions를 인스턴스화합니다.
 + 문자열 값을 포함하는 셀 찾기

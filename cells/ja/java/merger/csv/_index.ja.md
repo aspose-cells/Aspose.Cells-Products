@@ -56,7 +56,7 @@ CSV ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の CSV ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の CSV ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた CSV ファイルを指定したパスに保存します
++ マージされた CSV ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

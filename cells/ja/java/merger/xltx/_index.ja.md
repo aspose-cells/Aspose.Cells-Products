@@ -56,7 +56,7 @@ XLTX ファイルをマージするには、次を使用します。[Aspose.Cell
 + Workbook クラスのインスタンスを使用して最初の XLTX ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の XLTX ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた XLTX ファイルを指定したパスに保存します
++ マージされた XLTX ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

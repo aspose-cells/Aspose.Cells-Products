@@ -1,5 +1,5 @@
 ---
-title: C#을 통해 Micorsoft Excel XLSX 파일에 피벗 테이블 삽입
+title:  C#을 통해 Micorsoft Excel XLSX 파일에 피벗 테이블 삽입
 weight: 7690
 description: C# 피벗 테이블을 사용하여 XLSX 문서를 생성하기 위한 샘플 코드입니다. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 응용 프로그램 내에서 PivotTable로 Micorsoft Excel XLSX 파일을 생성합니다.
 ---
@@ -22,7 +22,7 @@ description: C# 피벗 테이블을 사용하여 XLSX 문서를 생성하기 위
 
 {{% blocks/products/pf/agp/text %}}
 
- 개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSX 형식 스프레드시트에 피벗 테이블을 쉽게 삽입할 수 있습니다.
+개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSX 형식 스프레드시트에 피벗 테이블을 쉽게 삽입할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# 피벗 테이블을 사용하여 XLSX 문서를 생성하기 위
 1.  통합 문서의 첫 번째 워크시트에 액세스합니다.
 1.  워크시트의 원하는 셀을 가져와 셀에 값을 입력합니다.
 1.  피벗 테이블 삽입 및 스타일 설정
-1.  저장 방법을 사용하여 통합 문서를 XLSX 파일로 저장합니다.
+1. 저장 방법을 사용하여 통합 문서를 XLSX 파일로 저장합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

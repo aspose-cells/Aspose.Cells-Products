@@ -12,7 +12,7 @@ description: C++ サンプルコードは、Windows 32 ビット、Windows 64 �
 
  TXT ファイルをマージするには、次を使用します。<a href="https://products.aspose.com/cells/cpp">Aspose.Cells for C++</a> API は、機能が豊富で強力で使いやすいドキュメント結合プラットフォームです。 API for C++最新バージョンを直接ダウンロードできます。開くだけです。<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>パッケージマネージャー、検索<b>Aspose.Cells.Cpp</b>そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 

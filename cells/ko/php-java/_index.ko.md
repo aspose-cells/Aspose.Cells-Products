@@ -37,7 +37,7 @@ description: PHP Excel 스프레드시트 API 쓰기 및 변환 읽기 XLS XLSX 
  워크시트를 이미지로 변환
     </li>
     <li>
-스프레드시트를 PDF로 변환
+ 스프레드시트를 PDF로 변환
     </li>
    </ul>
   </div>

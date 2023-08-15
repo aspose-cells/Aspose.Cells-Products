@@ -33,7 +33,7 @@ description: Python Python 라이브러리를 사용하여 Excel에 세로 막�
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="시스템 요구 사항" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
 {{% /blocks/products/pf/agp/text %}}
 
 - 에서 Aspose.Cells for Python 설치<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , 명령을 다음과 같이 사용하십시오.<code>$ pip install aspose-cells-python</code>.

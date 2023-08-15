@@ -28,7 +28,7 @@ description:  Java 라이브러리를 사용하여 Microsoft Excel에서 차트 
 
 {{% blocks/products/pf/feature-page-section h2="Excel 파일 내에서 차트 만들기" %}}
 
- Excel API을 사용하여 차트를 만드는 것은 간단합니다. API은 다양한 종류의 차트에 대해 Axis, Chart, ChartArea, ChartDataTable, ChartFrame, ChartPoint, ChartPointCollection, ChartCollection 등과 같은 다양한 클래스 세트를 제공합니다. 프로세스는 Workbook 클래스 개체를 생성하고 해당 인덱스를 제공하여 첫 번째 워크시트 또는 해당 시트를 선택하는 것입니다. 차트의 데이터 소스의 경우 다음을 사용하여 워크시트 셀에 값을 삽입합니다.[설정값](https://reference.aspose.com/cells/java/com.aspose.cells/cell#Value)방법. ChartCollection 컬렉션 사용[메소드 추가](https://reference.aspose.com/cells/java/com.aspose.cells/chartcollection#add(int,%20int,%20int,%20int,%20int) ) 차트를 추가하려면 ChartType 열거형으로 차트 유형을 정의합니다. 해당 인덱스를 전달하여 ChartCollection 컬렉션에서 새 Chart 개체에 액세스합니다. 사용[시리즈컬렉션](https://reference.aspose.com/cells/java/com.aspose.cells/SeriesCollection) 차트의 데이터 소스를 지정하는 차트 개체입니다.
+ Excel API을 사용하여 차트를 만드는 것은 간단합니다. API은 다양한 종류의 차트에 대해 Axis, Chart, ChartArea, ChartDataTable, ChartFrame, ChartPoint, ChartPointCollection, ChartCollection 등과 같은 다양한 클래스 세트를 제공합니다. 프로세스는 Workbook 클래스 개체를 생성하고 해당 인덱스를 제공하여 첫 번째 워크시트 또는 해당 시트를 선택하는 것입니다. 차트의 데이터 소스의 경우 다음을 사용하여 워크시트 셀에 값을 삽입합니다.[설정 값](https://reference.aspose.com/cells/java/com.aspose.cells/cell#Value)방법. ChartCollection 컬렉션 사용[메소드 추가](https://reference.aspose.com/cells/java/com.aspose.cells/chartcollection#add(int,%20int,%20int,%20int,%20int) ) 차트를 추가하려면 ChartType 열거형으로 차트 유형을 정의합니다. 해당 인덱스를 전달하여 ChartCollection 컬렉션에서 새 Chart 개체에 액세스합니다. 사용[시리즈컬렉션](https://reference.aspose.com/cells/java/com.aspose.cells/SeriesCollection) 차트의 데이터 소스를 지정하는 차트 개체입니다.
 
 {{% blocks/products/pf/feature-page-code h3="Java Excel 차트를 만드는 코드" %}}
 

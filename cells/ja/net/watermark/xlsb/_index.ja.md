@@ -19,7 +19,7 @@ API は、機能が豊富で強力で使いやすい、C# プラットフォー�
  **Aspose.Cells** 
 そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 
@@ -54,7 +54,7 @@ Shape を作成し、その AddTextEffect 関数を使用します
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
+Aspose.Cells for .NET は、すべての主要なオペレーティング システムでサポートされています。次の前提条件を満たしていることを確認してください。
 
 {{% /blocks/products/pf/agp/text %}}
 

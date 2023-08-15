@@ -6,7 +6,7 @@ description: わずか数行の C++ コードで、Excel XLS、XLSX、ODS、CSV 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ 経由の Excel ドキュメント変換" h2="Microsoft<sup>&reg;</sup> Excel ファイルをスプレッドシート、Web、画像、固定レイアウト形式で保存します" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-スプレッドシート コンバータ アプリケーションまたはソリューションの場合、**C++ エクセルライブラリ**XLSX、XLS、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS などの複数のファイルを処理しながら、コーディング、自動化、変換プロセスを高速化します。また、Excel を * に変換することもできます。 PDF**、XPS、HTML、MHTML、プレーンテキストと JPG、TIFF、PNG、BMP、SVG などの人気のある画像。
+スプレッドシート コンバータ アプリケーションまたはソリューションの場合、**C++ エクセルライブラリ** XLSX、XLS、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS などの複数のファイルを処理しながら、コーディング、自動化、変換プロセスを高速化します。また、Excel を * に変換することもできます。 PDF**、XPS、HTML、MHTML、プレーンテキストと JPG、TIFF、PNG、BMP、SVG などの人気のある画像。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 形式の相互変換" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="コンプライアンスレベル設定を使用して Excel 形式を PDF に変換する" %}}
-C++ Excel オートメーション API は、ワークブックの PDF への変換をサポートし、準拠レベルと作成日の設定もサポートします。開発者が使用できるのは、[IPdfSaveオプション](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options)一緒に[Aspose::Cells::レンダリング](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF 準拠を設定します。変換の場合は、パラメータとして PdfSaveOptions を指定し、出力ファイルのパスを指定した API save メソッドを使用します。
+C++ Excel オートメーション API は、ワークブックの PDF への変換をサポートし、準拠レベルと作成日の設定もサポートします。開発者が使用できるのは、[IPdfSaveオプション](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options)とともに[Aspose::Cells::レンダリング](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF 準拠を設定します。変換の場合は、パラメータとして PdfSaveOptions を指定し、出力ファイルのパスを指定した API save メソッドを使用します。
 {{% blocks/products/pf/feature-page-code h3="C++ Excel から PDF への変換のサンプル コード" %}}
 
 ```cs

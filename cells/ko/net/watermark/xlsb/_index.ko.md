@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  당신은
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-자신의 환경에서 다음 워크플로우를 시도하십시오.
+ 자신의 환경에서 다음 워크플로우를 시도하십시오.
 
 {{% /blocks/products/pf/agp/text %}}
 

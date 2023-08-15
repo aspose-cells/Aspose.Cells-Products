@@ -49,14 +49,14 @@ description: JSP/JSF 응용 프로그램 및 데스크탑 응용 프로그램용
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Workbook 클래스의 인스턴스로 첫 번째 XLSM 파일을 로드합니다.
 + Workbook 클래스의 인스턴스로 두 번째 XLSM 문서를 로드합니다.
 + Combine() 메서드를 사용하여 파일을 병합합니다.
-병합된 XLSM 파일을 지정된 경로에 저장
++ 병합된 XLSM 파일을 지정된 경로에 저장
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsmFile1.save("combinedFileWithPath.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="XLSM 파일을 업로드하기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합되고 연결됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 병합되고 연결됩니다." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -116,7 +116,7 @@ xlsmFile1.save("combinedFileWithPath.xlsm");
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

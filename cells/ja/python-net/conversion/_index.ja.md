@@ -1,12 +1,12 @@
 ---
 title: Microsoft Python via NET を使用した Excel ファイル変換
-description: Excel XLS、XLSX、ODS、CSVからXPS、XPS、HTML、JPEG、HTML、およびHTML、およびPythonコードのほんの一部のラインを持つ他の人気のある形式のある形式を変えてください。
+description: わずか数行の Python コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG、HTML などの一般的な形式に変換します。 。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python 経由の Excel 形式変換" h2="Excel ファイルをスプレッドシート、Web、画像、固定レイアウト形式でインポートおよびエクスポート" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
+Python Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、076193 などの一般的な形式をサポートしながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 481. Excel ファイルを PDF、XPS、HTML、MHTML、Plain にエクスポートすることもできます。 TIFF、JPG、PNG、BMP、SVG などのテキストおよび一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel を XLSX、ODS、SXC、FODS に変換" %}}

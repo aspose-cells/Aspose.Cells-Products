@@ -1,7 +1,7 @@
 ---
-title: FODS을 ET Python via Python로 변환
-description: 무료로 FODS을 ET 온라인으로 변환합니다. ET 변환기에 무료 온라인 FODS. ET에 Python FODS. FODS에서 Python을 통해 ET로.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS에서 ET로 - 온라인 FODS에서 ET로 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python FODS을 ET saveformat으로 변환합니다. Python FODS을 ET 형식으로 변환합니다. FODS을 ET Python로 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to ET saveformat., Free Online FODS to ET Python., Python Convert FODS to ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="FODS을 Python에서 ET로 변환" h2="FODS을 ET로 변환하기 위한 고속 Python 라이브러리. 당사의 Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="FODS을 Python에서 ET로 변환" %}}
 
- FODS을 ET로 변환하는 방법? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 FODS을 ET로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ FODS을 ET로 어떻게 변환합니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 FODS을 ET로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="FODS을 ET Online으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="FODS을 ET Online으로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="FODS을 ET로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 FODS을 쉽게 로드하고 ET로 변환할 수 있습니다.
+프로그래밍 방식으로 FODS 파일을 ET로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 FODS을 쉽게 로드하고 ET로 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  통합 문서 인스턴스가 있는 FODS 파일 로드
-1.  Workbook.save 메서드를 호출하여 FODS을 ET로 변환
+1.  Workbook 인스턴스가 있는 FODS 파일을 로드합니다.
+1.  Workbook.save 메서드를 호출하여 FODS을 ET로 변환합니다.
+1.  FODS의 변환 결과를 ET로 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}확장자가 .fods인 파일은 행과 열에 데이터를 저장하는 일종의 OpenDocument 스프레드시트 문서 형식입니다. 형식은 OASIS에서 게시하고 유지 관리하는 ODF 1.2 사양의 일부로 지정됩니다. FODS 파일은 Microsoft의 다른 스프레드시트 소프트웨어 응용 프로그램인 Excel에서 열 수 없습니다. FODS 파일은 LibreOffice를 사용하여 ODS로 저장할 수 있으며 XLS 및 XLSX과 같은 다른 형식으로 변환할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}ET 파일은 교사가 교실 수업을 개발하고 대화형 인터페이스를 통해 전달할 수 있는 프로그램인 Easiteach에서 만든 교육 수업입니다. 레이아웃, 탐색, 이미지, 텍스트, 테마 및 애니메이션과 같은 수업 데이터가 포함되어 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="또한 FODS을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수 있습니다." >}}
 

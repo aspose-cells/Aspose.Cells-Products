@@ -11,7 +11,7 @@ description: C# XLSM을 바이트 배열로 변환하는 샘플 코드입니다.
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLSM 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLSM로**C# 언어를 사용하는 문서. XLSM을 바이트 배열로 변환하기 위해 다음을 사용합니다.
+ 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLSM 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLSM로** C# 언어를 사용하는 문서. XLSM을 바이트 배열로 변환하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET 플랫폼을 사용하여 문서 조작 및 변환을 위한 다양한 기능을 제공하는 API.
 {{% /blocks/products/pf/agp/content %}}
@@ -82,7 +82,7 @@ ms.Read(byte_array, 0, byte_array.Length);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

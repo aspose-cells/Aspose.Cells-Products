@@ -10,7 +10,7 @@ description: Java을 사용하여 손상된 Excel 파일을 복구합니다. 복
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 EXCEL 파일 복구" %}}
 
- EXCEL 파일을 복구하기 위해 우리는[Aspose.Cells for Java](https://products.aspose.com/cells/java) API 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 API for Java 플랫폼입니다.
+ EXCEL 파일을 복구하기 위해 우리는[Aspose.Cells for Java](https://products.aspose.com/cells/java)API 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 API for Java 플랫폼입니다.
  
  Aspose.Cells API은 Microsoft Excel 형식을 다른 형식으로 생성, 편집, 변환 및 렌더링하는 데 사용할 수 있습니다. 또한 소프트웨어 응용 프로그램 내에서 포괄적인 차트 작성, 확장 가능한 보고 및 신뢰할 수 있는 계산에 사용할 수 있습니다. Aspose.Cells은 독립 실행형 API이며 Microsoft 또는 OpenOffice와 같은 소프트웨어가 필요하지 않습니다.
 
@@ -20,7 +20,7 @@ description: Java을 사용하여 손상된 Excel 파일을 복구합니다. 복
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 Excel 파일을 복구하는 방법" %}}
 
-Aspose.Cells.IWarningCallback을 상속하는 클래스를 정의합니다.
++ Aspose.Cells.IWarningCallback을 상속하는 클래스를 정의합니다.
 + 위의 상속 클래스를 사용하여 Workbook의 인스턴스를 생성하여 EXCEL 파일을 로드합니다. 위 코드를 참조하십시오.
 + 통합 문서를 저장하면 손상된 Excel 파일이 복구됩니다.
 

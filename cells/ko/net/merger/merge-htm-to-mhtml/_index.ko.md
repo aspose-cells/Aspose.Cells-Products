@@ -1,7 +1,8 @@
 ---
-title:  C#을 통해 HTM을 MHTML로 병합
+title: HTM을 MHTML에 병합 - HTM을 C#의 MHTML에 결합
 url: /ko/net/merger/merge-htm-to-mhtml/ 
-description: HTM을 MHTML 온라인으로 무료로 병합합니다. 무료 온라인 HTM to MHTML 합병. HTM을 Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS 등에 병합합니다.
+description: Aspose 엑셀. C# Aspose.Cells. 무료 온라인 병합 HTM을 MHTML saveformat으로. C# HTM을 MHTML 형식으로 결합합니다. HTM을 C#에서 MHTML로 병합합니다. HTM 병합.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to MHTML in C#., Free Online C# Merge HTM to mhtml., C# Combine HTM to MHTML Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="C#을 통해 HTM을 MHTML로 병합" h2="HTM을 MHTML에 병합하기 위한 고속 C# 라이브러리. 당사의 Excel 변환 API을 사용하여 C#에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발합니다. 이것은 Excel, CSV, OpenOffice, PDF, HTML, image 및 기타 여러 Excel 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: HTM을 MHTML 온라인으로 무료로 병합합니다. 무료 온�
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 HTM을 MHTML에 병합" %}}
 
- HTM을 MHTML에 병합하는 방법은 무엇입니까? Aspose.Cells for .NET 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTM을 MHTML에 쉽게 병합할 수 있습니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. .NET Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자에서 Aspose.Cells을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+ HTM을 MHTML에 어떻게 병합합니까? Aspose.Cells for .NET 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 HTM을 MHTML에 쉽게 병합할 수 있습니다.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. .NET Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 열려 있는[NuGet](https://www.nuget.org/packages/aspose.cells) 패키지 관리자에서 Aspose.Cells을 검색하여 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="HTM을 C# 온라인에서 MHTML로 무료 병합" %}}
 
-다음 예제는 HTM을 C#에서 MHTML로 병합하는 방법을 보여줍니다.
+다음 예제는 HTM을 Aspose.Cells for .NET에서 MHTML로 병합하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
 간단한 단계에 따라 HTM을 MHTML에 병합합니다. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 MHTML 파일에 저장합니다. C#에서 코드를 개발하면 생각보다 간단합니다. HTM을 MHTML에 병합하는 C# 예제를 참조하십시오.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="온라인에서 HTM을 MHTML에 병합하는 무료 앱" InputFormat="htm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="HTM을 C#에서 MHTML로 병합하는 무료 온라인" InputFormat="htm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="C#을 통해 HTM을 MHTML에 병합하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+프로그래밍 방식으로 HTM을 MHTML에 병합해야 합니까? 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET'을 설치합니다.
++ C# 프로젝트에 라이브러리 참조(라이브러리 가져오기)를 추가합니다.
 + 통합 문서 클래스로 HTM 파일을 로드합니다.
 + 파일 병합을 위해 Workbook.Combine 메서드를 호출합니다.
 + Workbook.Save 메서드를 호출하고 출력 파일 이름을 매개변수로 전달합니다.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  설치[NuGet 패키지](https://www.nuget.org/packages/Aspose.Cells/) . 보다[선적 서류 비치](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  다음을 사용하여 라이브러리를 설치합니다.[패키지 관리자 콘솔](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)Visual Studio IDE 내에서
+1.  다음을 사용하여 라이브러리를 설치합니다.[패키지 관리자 콘솔](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE 내에서
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm 확장자를 가진 파일은 Google Chrome, Internet Explorer, Firefox 및 기타 여러 웹 브라우저에 표시할 웹 페이지를 만들기 위한 Hypertext Markup Language를 나타냅니다. 다른 사람이 액세스할 수 있도록 WWW(World Wide Web)에 게시할 정적 페이지를 만들기 위한 마크업을 정의합니다. 이러한 마크업은 브라우저에 웹 페이지의 내용을 표시하는 방법을 알려줍니다. 이러한 페이지에는 일반 텍스트, 이미지, 다른 페이지에 대한 하이퍼링크, 비디오 및 기타 미디어 정보가 포함될 수 있습니다. 웹 페이지가 게시되면 해당 페이지 소스를 확인하여 그 뒤에 있는 마크업 코드를 볼 수 있습니다. 최신 브라우저를 사용하면 HTM 소스의 각 하위 구분 또는 마크업 요소가 정교한 웹 페이지의 각 섹션을 검사할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}확장자가 MHTML인 파일은 다양한 응용 프로그램에서 만들 수 있는 웹 페이지 아카이브 형식을 나타냅니다. 이 형식은 웹 HTML 코드 및 관련 리소스를 단일 파일에 저장하기 때문에 아카이브 형식으로 알려져 있습니다. 이러한 리소스에는 이미지, 애플릿, 애니메이션, 오디오 파일 등과 같이 웹 페이지에 연결된 모든 항목이 포함됩니다. MHTML 파일은 Internet Explorer 및 Microsoft Word와 같은 다양한 응용 프로그램에서 열 수 있습니다. Microsoft Windows은 MHTML 파일 형식을 사용하여 문제를 일으키는 Windows의 응용 프로그램을 사용하는 동안 관찰되는 문제의 시나리오를 기록합니다. MHTML 파일 형식은 일반 텍스트 이메일 관련 사양인 message/rfc822에 정의된 사양과 유사한 페이지 콘텐츠를 인코딩합니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="C#을 사용하여 htm을 포함하여 다른 많은 파일 형식에 병합할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-docx/" name="HTM을 DOCX에 병합" description="Microsoft 워드 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-sql/" name="HTM을 SQL에 병합" description="구조화된 쿼리 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-bmp/" name="HTM을 BMP에 병합" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-emf/" name="HTM을 EMF에 병합" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-gif/" name="HTM을 GIF에 병합" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTM을 HTML에 병합" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-md/" name="HTM을 MD에 병합" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="HTM을 MHTML에 병합" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="HTM을 ODS에 병합" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-pdf/" name="HTM을 PDF에 병합" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-png/" name="HTM을 PNG에 병합" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-svg/" name="HTM을 SVG에 병합" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tiff/" name="HTM을 TIFF에 병합" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="HTM을 TSV에 병합" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="HTM을 TXT에 병합" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="HTM을 XLS에 병합" description="엑셀 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="HTM을 XLSB에 병합" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="HTM을 XLSM에 병합" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="HTM을 XLSX에 병합" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="HTM을 XLT에 병합" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="HTM을 XLTM에 병합" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="HTM을 XLTX에 병합" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xml/" name="HTM을 XML에 병합" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="HTM을 XPS에 병합" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-json/" name="HTM을 JSON에 병합" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-jpeg/" name="HTM을 JPEG에 병합" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

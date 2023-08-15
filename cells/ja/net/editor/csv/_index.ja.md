@@ -1,5 +1,5 @@
 ---
-title: CSV ファイルを編集 via .NET
+title:  CSV ファイルを編集 via .NET
 description: C# フレームワーク、.NET コア、Windows Azure、Mono または Xamarin プラットフォームで CSV ドキュメントを編集するための C# ソース コード。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -12,7 +12,7 @@ description: C# フレームワーク、.NET コア、Windows Azure、Mono ま�
 
 CSV ファイルを編集するには、次を使用します。<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API は、あらゆるエディター向けの C# プラットフォーム用の、機能が豊富で強力で使いやすい API です。開ける<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>パッケージマネージャー、検索<b>Aspose.Cells</b>そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 

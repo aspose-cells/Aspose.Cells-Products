@@ -1,7 +1,7 @@
 ---
-title: XML을 XLAM Python via Python로 변환
-description: 온라인에서 무료로 XML을 XLAM로 변환하세요. 무료 온라인 XML to XLAM 변환기. Python XML에서 XLAM로. XML에서 XLAM로 Python로.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML에서 XLAM로 - 온라인 XML에서 XLAM로 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python XML을 XLAM saveformat으로 변환합니다. Python XML을 XLAM 형식으로. XML을 XLAM Python로 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to XLAM saveformat., Free Online XML to XLAM Python., Python Convert XML to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python에서 XML을 XLAM로 변환" h2="XML을 XLAM로 변환하기 위한 고속 Python 라이브러리. Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Python에서 XML을 XLAM로 변환" %}}
 
- XML을 XLAM로 변환하는 방법은 무엇입니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XML을 XLAM로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ XML을 XLAM로 어떻게 변환합니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 XML을 XLAM로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="온라인에서 XML을 XLAM로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="온라인에서 XML을 XLAM로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XML을 XLAM로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 XML을 쉽게 로드하고 XLAM로 변환할 수 있습니다.
+프로그래밍 방식으로 XML 파일을 XLAM로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 XML을 쉽게 로드하고 XLAM로 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  Workbook 인스턴스가 있는 XML 파일 로드
-1.  Workbook.save 메서드를 호출하여 XML을 XLAM로 변환
+1.  Workbook 인스턴스가 있는 XML 파일을 로드합니다.
+1.  Workbook.save 메서드를 호출하여 XML을 XLAM로 변환합니다.
+1.  XML의 변환 결과를 XLAM로 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML은 Extensible Markup Language의 약자로 HTML과 유사하지만 객체를 정의하기 위해 태그를 사용한다는 점에서 다릅니다. XML 파일 형식 생성의 기본 아이디어는 소프트웨어나 하드웨어 도구에 의존하지 않고 데이터를 저장하고 전송하는 것이었습니다. 그 인기는 사람과 기계 모두 읽을 수 있기 때문입니다. 이를 통해 WWW(World Wide Web)와 같은 네트워크를 통해 저장 및 공유할 객체 형태의 공통 데이터 프로토콜을 생성할 수 있습니다. XML의 "X"는 사용자 요구 사항에 따라 언어를 원하는 수의 기호로 확장할 수 있음을 의미하는 확장 가능을 나타냅니다. Microsoft Open XML, LibreOffice OpenDocument, XHTML 및 SVG과 같은 많은 표준 파일 형식이 이러한 기능을 사용합니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM은 스프레드시트에 새 기능을 추가하는 데 사용되는 매크로 사용 추가 기능 파일입니다. 추가 기능은 추가 코드를 실행하고 스프레드시트에 대한 추가 기능을 제공하는 추가 프로그램입니다. XLAM 파일은 .xlam 확장자로 저장됩니다. XLAM 파일은 XLSM 및 XLSX 파일 형식과 유사한 XML 기반 파일이며 전체 파일 크기를 줄이기 위해 ZIP 압축으로 저장됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="XML을 아래에 나열된 몇 가지를 포함하여 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 

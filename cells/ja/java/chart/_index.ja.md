@@ -13,7 +13,7 @@ description:  Java ライブラリを使用して、Microsoft Excel でチャー
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Excel グラフを画像に変換" %}}
 
-チャートを JPG、PNG、TIFF、BMP などを含む画像に変換するプロセスは、[ワークブック](https://reference.aspose.com/java/cells/com.aspose.cells/workbook) Excel ファイルをロードするクラスを選択し、関連する[ワークシート](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet)グラフを含むか、各ワークシート内の各グラフを反復処理します。定義[画像または印刷オプション](https://reference.aspose.com/cells/java/com.aspose.cells/ImageOrPrintOptions)を使用してチャートの出力イメージをレンダリングします[チャートから画像へ](https://reference.aspose.com/cells/java/com.aspose.cells/chart#toImage(java.io.OutputStream,%20com.aspose.cells.ImageOrPrintOptions)).
+チャートを JPG、PNG、TIFF、BMP などを含む画像に変換するプロセスは、[ワークブック](https://reference.aspose.com/java/cells/com.aspose.cells/workbook) Excel ファイルをロードするクラスを選択し、関連する[ワークシート](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet)グラフを含むか、各ワークシート内の各グラフを反復処理します。定義する[画像または印刷オプション](https://reference.aspose.com/cells/java/com.aspose.cells/ImageOrPrintOptions)を使用してチャートの出力イメージをレンダリングします[チャートから画像へ](https://reference.aspose.com/cells/java/com.aspose.cells/chart#toImage(java.io.OutputStream,%20com.aspose.cells.ImageOrPrintOptions)).
 
 
 {{% blocks/products/pf/feature-page-code h3="Java Excel グラフを画像に変換するコード" %}}

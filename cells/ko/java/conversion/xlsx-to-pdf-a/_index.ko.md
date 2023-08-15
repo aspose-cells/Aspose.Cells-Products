@@ -1,5 +1,5 @@
 ---
-title:  XLSX을 PDF/A 준수 파일 via Java로 변환
+title: XLSX을 PDF/A 준수 파일 via Java로 변환
 weight: 3200
 description: XLSX 형식의 샘플 Java 변환 코드를 PDF A 호환 파일로 변환합니다. 프로그래머는 이 예제 코드를 사용하여 Excel 및 OpenOffice 스프레드시트를 모든 웹 또는 데스크탑 Java 기반 응용 프로그램 내에서 PDFA Complied 파일로 내보낼 수 있습니다.
 ---
@@ -13,7 +13,7 @@ description: XLSX 형식의 샘플 Java 변환 코드를 PDF A 호환 파일로 
 
  XLSX을 PDF/A로 렌더링하기 위해 다음을 사용합니다.
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API은 기능이 풍부하고 강력하며 사용하기 쉬운 변환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 변환 API for Java 플랫폼입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
 
@@ -58,7 +58,7 @@ API은 기능이 풍부하고 강력하며 사용하기 쉬운 변환 API for Ja
 {{% /blocks/products/pf/agp/text %}}
 
 1.  통합 문서 클래스의 인스턴스로 XLSX 파일 로드
-1.  PdfSaveOptions 클래스 개체 만들기
+1. PdfSaveOptions 클래스 개체 만들기
 1.  규정 준수 유형 PdfCompliance.PdfA1b 설정
 1.  Workbook.save 메서드 호출
 1.  PDF 확장자 및 PdfSaveOptions 개체를 매개 변수로 사용하여 출력 경로 전달

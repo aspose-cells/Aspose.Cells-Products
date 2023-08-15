@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED を FODS Python via Python に変換します
-description: 無料でオンラインでTABDELIMITEDをFODSに変換します。無料のオンライン TABDELIMITED から FODS コンバーター。 Python タブ区切りで FODS に。Python 経由で FODS にタブ区切り。
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED から FODS - オンライン TABDELIMITED から FODS コンバータ
+description: Aspose エクセル。 Python Aspose.Cells. Python Aspose Cells. 無料オンライン Python TABDELIMITED を FODS 保存形式に変換します。 Python TABDELIMITED を FODS 形式に変換します。 TABDELIMITED を FODS Python に保存します。
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to FODS saveformat., Free Online TABDELIMITED to FODS Python., Python Convert TABDELIMITED to FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED を Python の FODS に変換します" h2="TABDELIMITED を FODS に変換するための高速 Python ライブラリ。Excel 変換 API を使用して、Python で高レベルのプラットフォームに依存しないソフトウェアを開発します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED を Python の FODS に変換します" %}}
 
-TABDELIMITEDをFODSに変換するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TABDELIMITED を FODS に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、業界でドキュメントを交換するのに最適です。 -標準フォーマット。
+ TABDELIMITED を FODS に変換するにはどうすればよいですか? NET ライブラリを介して Aspose.Cells for Python を使用すると、数行のコードでプログラム的に TABDELIMITED を FODS に簡単に変換できます。[Aspose.Cells for Python 経由 NET](https://pypi.org/project/aspose-cells-python/)すべての Excel ファイルを生成、変更、変換、レンダリング、印刷できるクロスプラットフォーム アプリケーションを構築できます。 Python Excel API は、スプレッドシート形式間の変換だけでなく、Excel ファイルを画像、PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT などとしてレンダリングすることもできるため、ドキュメントの交換に最適です。業界標準でフォーマット。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ TABDELIMITED を FODS に変換するには、簡単な手順に従ってくだ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITEDをオンラインでFODSに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TABDELIMITEDをオンラインでFODSに変換する無料アプリとサンプルコード" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED を FODS に変換する方法" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Python 開発者は、わずか数行のコードで TABDELIMITED を簡単にロードして FODS に変換できます。
+TABDELIMITED ファイルをプログラムで FODS に変換する必要がありますか? Python 開発者は、わずか数行のコードで TABDELIMITED を簡単にロードして FODS に変換できます。
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. 「Aspose.Cells for Python via .NET」をインストールします。
+1.  「Aspose.Cells for Python via .NET」をインストールします。
 1. ライブラリ参照を Python プロジェクトに追加します (ライブラリをインポートします)。
-1.  Workbook のインスタンスを使用して TABDELIMITED ファイルをロードします
-1. Workbook.save メソッドを呼び出して TABDELIMITED を FODS に変換します
+1.  Workbook のインスタンスを使用して TABDELIMITED ファイルをロードします。
+1.  Workbook.save メソッドを呼び出して TABDELIMITED を FODS に変換します。
+1.  TABDELIMITEDからFODSへの変換結果を取得します。
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python をインストールします<a href="https://pypi.org/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/) 3.7以上。
+ Aspose.Cells for Python via NET はプラットフォームに依存しない API で、どのプラットフォーム (Windows、Linux) でも使用できます。システムが[Python](https://www.python.org/downloads/)3.7以上。
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}タブ区切り値 (TSV) ファイル形式は、プレーン テキスト形式でタブで区切られたデータを表します。 CSV に似たファイル形式は、異なるアプリケーション間でインポートおよびエクスポートするために、構造化された方法でデータを編成するために使用されます。この形式は主に、スプレッドシート アプリケーションやデータベースでのデータのインポート/エクスポートおよび交換に使用されます。 TSV ファイル内の各レコードは 1 行のテキスト ファイルに含まれており、各フィールド値はタブ文字で区切られています。 TSV ファイル形式のメディア タイプはテキスト/タブ区切り値です。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}.fods 拡張子を持つファイルは、データを行と列に格納する OpenDocument スプレッドシート ドキュメント形式の一種です。この形式は、OASIS によって発行および保守されている ODF 1.2 仕様の一部として指定されています。 FODS ファイルは、Microsoft による別のスプレッドシート ソフトウェア アプリケーションである Excel では開くことができません。FODS ファイルは、LibreOffice を使用して ODS として保存でき、XLS や XLSX などの他の形式に変換できます。{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされている変換" subTitle="TABDELIMITED を、以下にリストするいくつかのファイル形式を含む他の多くのファイル形式に変換することもできます。" >}}
 

@@ -56,7 +56,7 @@ MHTML ファイルをマージするには、次を使用します。[Aspose.Cel
 + Workbook クラスのインスタンスを使用して最初の MHTML ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の MHTML ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた MHTML ファイルを指定したパスに保存します
++ マージされた MHTML ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

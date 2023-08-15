@@ -22,7 +22,7 @@ description: C#을 사용하여 손상된 Excel 파일을 복구합니다. 복�
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 Excel 파일을 복구하는 방법" %}}
 
-Aspose.Cells.IWarningCallback을 상속하는 클래스를 정의합니다.
++ Aspose.Cells.IWarningCallback을 상속하는 클래스를 정의합니다.
 + 위의 상속 클래스를 사용하여 Workbook의 인스턴스를 생성하여 EXCEL 파일을 로드합니다. 위 코드를 참조하십시오.
 + 통합 문서를 저장하면 손상된 Excel 파일이 복구됩니다.
 

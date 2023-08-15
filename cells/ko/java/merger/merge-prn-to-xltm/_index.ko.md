@@ -1,7 +1,8 @@
 ---
-title:  PRN을 XLTM에 병합 via Java
+title: PRN을 XLTM에 병합 - PRN을 Java의 XLTM에 결합
 url: /ko/java/merger/merge-prn-to-xltm/ 
-description: 무료로 온라인에서 PRN을 XLTM에 병합합니다. XLTM 합병에 대한 무료 온라인 PRN. PRN을 Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS 등에 병합합니다.
+description: Aspose 엑셀. Java Aspose.Cells. 무료 온라인 PRN을 XLTM saveformat으로 병합합니다. Java PRN을 XLTM 형식으로 결합합니다. PRN을 Java의 XLTM에 병합합니다. PRN 병합.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to XLTM in Java., Free Online Java Merge PRN to xltm., Java Combine PRN to XLTM Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN을 XLTM에 병합 via Java" h2="PRN을 XLTM에 병합하기 위한 고속 Java 라이브러리. Excel 변환 API을 사용하여 Java에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발합니다. 이것은 Excel, CSV, OpenOffice, PDF, HTML, image 및 기타 여러 Excel 형식을 가져오고 내보내는 전문 소프트웨어 솔루션입니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: 무료로 온라인에서 PRN을 XLTM에 병합합니다. XLTM 합�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 PRN을 XLTM에 병합" %}}
 
- PRN을 XLTM에 병합하는 방법은 무엇입니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 PRN을 XLTM에 쉽게 병합할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
+ PRN을 XLTM에 어떻게 병합합니까? Aspose.Cells for Java 라이브러리를 사용하면 몇 줄의 코드로 프로그래밍 방식으로 PRN을 XLTM에 쉽게 병합할 수 있습니다.[Aspose.Cells for Java](https://products.aspose.com/cells/java) 모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Java Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식. 에서 직접 최신 버전을 다운로드할 수 있습니다.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) pom.xml에 다음 구성을 추가하여 Maven 기반 프로젝트에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="저장소" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: 무료로 온라인에서 PRN을 XLTM에 병합합니다. XLTM 합�
 
 {{% blocks/products/pf/agp/content h2="Java 온라인에서 무료로 PRN을 XLTM에 병합" %}}
 
-다음 예는 PRN을 Java의 XLTM에 병합하는 방법을 보여줍니다.
+다음 예는 PRN을 Aspose.Cells for Java에서 XLTM로 병합하는 방법을 보여줍니다.
 {{% blocks/products/pf/agp/text %}}
 
 간단한 단계에 따라 PRN을 XLTM에 병합합니다. 파일을 업로드하고 파일 병합을 위해 Workbook.Combine 메서드를 호출한 다음 XLTM 파일에 저장합니다. Java에서 코드를 개발하면 생각보다 간단합니다. PRN을 XLTM에 병합하는 Java 예제를 참조하십시오.
@@ -55,17 +56,19 @@ description: 무료로 온라인에서 PRN을 XLTM에 병합합니다. XLTM 합�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="온라인에서 PRN을 XLTM에 병합하는 무료 앱" InputFormat="prn" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Java의 XLTM에 PRN을 병합하는 무료 온라인" InputFormat="prn" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN을 XLTM에 병합하는 방법 via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+프로그래밍 방식으로 PRN을 XLTM에 병합해야 합니까? 병합 및 연결하는 기본 문서[Aspose.Cells for Java](https://products.aspose.com/cells/java) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
-통합 문서 클래스로 PRN 파일을 로드합니다.
++ 'Aspose.Cells for Java'을 설치합니다.
++ Java 프로젝트에 라이브러리 참조(라이브러리 가져오기)를 추가합니다.
++ 통합 문서 클래스로 PRN 파일을 로드합니다.
 + 파일 병합을 위해 Workbook.Combine 메서드를 호출합니다.
 + Workbook.Save 메서드를 호출하고 출력 파일 이름을 매개변수로 전달합니다.
 + 이제 Microsoft Office, Adobe PDF 또는 기타 호환 프로그램에서 출력 파일을 열어 사용할 수 있습니다.
@@ -97,21 +100,41 @@ description: 무료로 온라인에서 PRN을 XLTM에 병합합니다. XLTM 합�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN 파일은 Windows의 일부 인쇄 대화 상자에 나타나는 파일로 인쇄 확인란을 사용하여 만든 파일입니다. 여기에는 프린터, 팩스 또는 기타 장치가 문서를 인쇄하는 데 사용하는 장치별 지침 집합이 포함되어 있습니다. PRN 파일은 파일이 생성된 장치에 따라 텍스트 또는 이진 콘텐츠를 포함할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 XLTX과 구조가 비슷하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 서식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 병합 형식" subTitle="Java을 사용하여 prn을 포함하여 다른 많은 파일 형식에 병합할 수도 있습니다." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-html/" name="HTML" description="하이퍼 텍스트 마크업 언어" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-mhtml/" name="MHTML" description="웹 페이지 아카이브 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-ods/" name="ODS" description="OpenDocument 스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tsv/" name="TSV" description="탭으로 구분된 값" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-txt/" name="TXT" description="텍스트 문서" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xls/" name="XLS" description="엑셀 이진 형식" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsb/" name="XLSB" description="이진 Excel 통합 문서 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsm/" name="XLSM" description="스프레드시트 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsx/" name="XLSX" description="OOXML 엑셀 파일" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft 엑셀 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltm/" name="XLTM" description="Excel 매크로 사용 템플릿" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltx/" name="XLTX" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-docx/" name="PRN을 DOCX에 병합" description="Microsoft 워드 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-sql/" name="PRN을 SQL에 병합" description="구조화된 쿼리 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-bmp/" name="PRN을 BMP에 병합" description="비트맵 이미지" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-emf/" name="PRN을 EMF에 병합" description="향상된 메타파일 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-gif/" name="PRN을 GIF에 병합" description="그래픽 교환 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-html/" name="PRN을 HTML에 병합" description="하이퍼 텍스트 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-md/" name="PRN을 MD에 병합" description="마크다운 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-mhtml/" name="PRN을 MHTML에 병합" description="웹 페이지 아카이브 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-ods/" name="PRN을 ODS에 병합" description="OpenDocument 스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-pdf/" name="PRN을 PDF에 병합" description="휴대용 문서 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-png/" name="PRN을 PNG에 병합" description="휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-svg/" name="PRN을 SVG에 병합" description="확장 가능한 벡터 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tiff/" name="PRN을 TIFF에 병합" description="태그가 지정된 이미지 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tsv/" name="PRN을 TSV에 병합" description="탭으로 구분된 값" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-txt/" name="PRN을 TXT에 병합" description="텍스트 문서" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xls/" name="PRN을 XLS에 병합" description="엑셀 이진 형식" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsb/" name="PRN을 XLSB에 병합" description="이진 Excel 통합 문서 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsm/" name="PRN을 XLSM에 병합" description="스프레드시트 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsx/" name="PRN을 XLSX에 병합" description="OOXML 엑셀 파일" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlt/" name="PRN을 XLT에 병합" description="Microsoft 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltm/" name="PRN을 XLTM에 병합" description="Excel 매크로 사용 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltx/" name="PRN을 XLTX에 병합" description="Office OpenXML 엑셀 템플릿" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xml/" name="PRN을 XML에 병합" description="확장 가능한 마크업 언어" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xps/" name="PRN을 XPS에 병합" description="XML 문서 사양" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-json/" name="PRN을 JSON에 병합" description="자바스크립트 객체 표기법" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-jpeg/" name="PRN을 JPEG에 병합" description="JPEG 이미지" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

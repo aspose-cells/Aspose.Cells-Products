@@ -50,7 +50,7 @@ Java SDK를 사용하여 Aspose.Cells Excel 및 Calc 파일 생성, 변환 및 �
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="메타데이터" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-모든 브라우저에서 스프레드시트의 메타데이터를 보거나 편집하려면 Microsoft Excel 파일을 업로드하기만 하면 됩니다. 설치나 추가 도구가 필요하지 않습니다.
+ 모든 브라우저에서 스프레드시트의 메타데이터를 보거나 편집하려면 Microsoft Excel 파일을 업로드하기만 하면 됩니다. 설치나 추가 도구가 필요하지 않습니다.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="뷰어" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ XLS, XLSX, XLSM, XLSB, XLSB 및 XLSB을 포함한 스프레드시트 파일을 �
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose 제품군 및 지원은 최고입니다. 이 솔루션이 없었다면 우리가 한 일을 할 수 없었을 것입니다.
+Aspose 제품군 및 지원은 최고입니다. 이 솔루션이 없었다면 우리가 한 일을 할 수 없었을 것입니다.
  <em>
  댄 패터슨 박사 | 영국 통찰력
  </em>

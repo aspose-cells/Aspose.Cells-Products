@@ -13,7 +13,7 @@ description: .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에
 
  XLSM 파일을 분할하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 C# 플랫폼용 분할기 API입니다. 열려 있는
+ API은 기능이 풍부하고 강력하며 사용하기 쉬운 문서 조작 및 C# 플랫폼용 분할기 API입니다. 열려 있는
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  Aspose.Cells 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 다운로드 링크를 받게 됩니다." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 응용 프로그램 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
+확장자가 XLSM인 파일은 매크로를 지원하는 스프레드시트 파일 유형입니다. 애플리케이션 관점에서 매크로는 프로세스 자동화에 사용되는 명령 집합입니다. 매크로는 반복적으로 수행되는 단계를 기록하는 데 사용되며 매크로를 다시 실행하여 작업을 쉽게 수행할 수 있습니다. 매크로는 Visual Basic Editor를 사용하여 Excel 통합 문서 내에서 Microsoft의 VBA(Visual Basic for Applications)로 프로그래밍되며 여기에서 직접 실행/디버그할 수 있습니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

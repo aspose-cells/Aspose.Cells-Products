@@ -12,7 +12,7 @@ description: オンプレミス メッセージ結合 API を試して、.NET �
 
 MHT ファイルをマージするには、次を使用します。<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a> API は、機能が豊富で強力で使いやすい、C# プラットフォーム用の文書操作および結合 API です。開ける<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>パッケージマネージャー、検索<b>Aspose.Cells</b>そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 

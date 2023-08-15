@@ -12,7 +12,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
+Aspose.Cells for Python via Java は、スプレッドシート処理タスク用の高速で信頼性の高い API です。開発者は、単純または複雑なスプレッドシートを作成し、Excel ファイルから情報を操作したり抽出したりできます。 API は複数の Excel 形式を読み取り、ワークシートを XPS、PDF、MHTML、HTML、プレーン テキスト、画像などにレンダリングできます。 Python を使用して Excel レポートを自動化するための最良のソリューションです。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -93,7 +93,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python via Java
    </small>
@@ -133,7 +133,7 @@ description: Python Excel ファイルを作成し、読み書きし、解析す
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python via Java
    </small>
@@ -213,7 +213,7 @@ Microsoft エクセル:
   <footer>
    <small>
     <em>
-ために
+のために
     </em>
     Python via Java
    </small>
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
 柔軟な表示オプション
     </h2>
     <p>
-Aspose.Cells for Python via Java は、ページ設定の完全な制御を提供し、改ページのプレビュー、ズーム レベルの設定、ページの方向の設定、フリーズ ペインによるデータ表示の制御、用紙サイズ、拡大縮小、ヘッダーなどの複数の表示オプションを操作できるようにします。フッターと印刷領域。
+ Aspose.Cells for Python via Java は、ページ設定の完全な制御を提供し、改ページのプレビュー、ズーム レベルの設定、ページの方向の設定、フリーズ ペインによるデータ表示の制御、用紙サイズ、拡大縮小、ヘッダーなどの複数の表示オプションを操作できるようにします。フッターと印刷領域。
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java は、ページ設定の完全な制御を提�
 チャートのカスタマイズ
     </h2>
     <p>
- Aspose.Cells for Python via Java はグラフ作成を完全にサポートします。この Python ライブラリを使用すると、標準チャートやカスタマイズされたチャートを簡単に追加したり、チャート データを動的に設定してチャートを更新したりできます。
+Aspose.Cells for Python via Java はグラフ作成を完全にサポートします。この Python ライブラリを使用すると、標準チャートやカスタマイズされたチャートを簡単に追加したり、チャート データを動的に設定してチャートを更新したりできます。
     </p>
    </div>
    <!--

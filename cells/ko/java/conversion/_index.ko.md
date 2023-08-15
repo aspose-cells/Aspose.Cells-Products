@@ -1,12 +1,12 @@
 ---
-title:  Microsoft 엑셀 파일 변환 via Java
+title:  Microsoft 엑셀 파일변환 via Java
 description: Excel XLS, XLSX, ODS, 07613481 ~ PDF, XPS, HTML, JPEG, HTML 및 Java 코드의 몇 줄을 가진 다른 많은 형식을 가진 많은 다른 형식을 가진 다른 많은 형식을 갖는다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 파일 변환 via Java" h2="Microsoft Excel 문서를 스프레드시트, 웹, 이미지 및 고정 레이아웃 형식으로 저장" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- 어떠한 것도**엑셀 변환기** 응용 프로그램 또는 솔루션, Java Excel 라이브러리는 XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619를 포함한 여러 형식을 처리하면서 스프레드시트 프로그래밍 및 변환 프로세스의 속도를 높입니다. 3481. 또한 *Excel 파일을 PDF로 변환**할 수 있습니다. XPS, HTML, MHTML, 일반 텍스트 및 TIFF, JPG, PNG, BMP 및 SVG과 같은 널리 사용되는 이미지 형식.
+ 어떠한 것도**엑셀 변환기**응용 프로그램 또는 솔루션, Java Excel 라이브러리는 XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619를 포함한 여러 형식을 처리하면서 스프레드시트 프로그래밍 및 변환 프로세스의 속도를 높입니다. 3481. 또한 *Excel 파일을 PDF로 변환**할 수 있습니다. XPS, HTML, MHTML, 일반 텍스트 및 TIFF, JPG, PNG, BMP 및 SVG과 같은 널리 사용되는 이미지 형식.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 형식의 상호 변환" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel을 Word로 변환하고 PowerPoint을 변환합니다." %}}
- 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSave옵션](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) 아래에 설명된 클래스.
+ 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSave옵션](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)아래에 설명된 클래스.
 {{% blocks/products/pf/feature-page-code h3="Java Excel에서 Word로의 코드 및 PowerPoint 변환" %}}
 ```cs
 // load the template file

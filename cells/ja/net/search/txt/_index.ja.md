@@ -13,13 +13,13 @@ description: C# フレームワーク、.NET コア、Mono または Xamarin プ
 
 TXT ファイルを検索するには、次を使用します。
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API は、機能が豊富で強力で使いやすい、C# プラットフォーム用のドキュメント検索 API です。開ける
+API は、機能が豊富で強力で使いやすい、C# プラットフォーム用のドキュメント検索 API です。開ける
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 パッケージマネージャー、検索
  **Aspose.Cells** 
 そしてインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。
 
-{{% blocks/products/pf/agp/code-block title="指図" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="指示" offSpacer="true" %}}
 
 ```cs
 

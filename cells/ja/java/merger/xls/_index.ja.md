@@ -56,7 +56,7 @@ XLS ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の XLS ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の XLS ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた XLS ファイルを指定したパスに保存します
++ マージされた XLS ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

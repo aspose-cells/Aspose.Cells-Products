@@ -1,5 +1,5 @@
 ---
-title: MHTML 파일 via .NET 편집
+title:  MHTML 파일 via .NET 편집
 description: .NET 프레임워크, .NET 코어, Windows Azure, Mono 또는 Xamarin 플랫폼에서 MHTML 문서를 편집하기 위한 C# 소스 코드.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

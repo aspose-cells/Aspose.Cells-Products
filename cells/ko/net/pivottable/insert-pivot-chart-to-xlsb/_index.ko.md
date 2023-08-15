@@ -1,5 +1,5 @@
 ---
-title:  C#을 통해 Micorsoft Excel XLSB 파일에 피벗 차트 삽입
+title: C#을 통해 Micorsoft Excel XLSB 파일에 피벗 차트 삽입
 weight: 7690
 description: C# 피벗 차트가 있는 XLSB 문서를 생성하기 위한 샘플 코드입니다. 이 코드를 사용하여 VB.NET, Asp.NET 또는 .NET 기반 응용 프로그램 내에서 피벗 차트가 있는 Micorsoft Excel XLSB 파일을 생성합니다.
 ---
@@ -22,7 +22,7 @@ description: C# 피벗 차트가 있는 XLSB 문서를 생성하기 위한 샘�
 
 {{% blocks/products/pf/agp/text %}}
 
-개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSB 형식 스프레드시트에 피벗 차트를 쉽게 삽입할 수 있습니다.
+ 개발자는 단 몇 줄의 코드로 데이터 처리를 위한 다양한 보고 응용 프로그램을 실행하는 동안 XLSB 형식 스프레드시트에 피벗 차트를 쉽게 삽입할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ description: C# 피벗 차트가 있는 XLSB 문서를 생성하기 위한 샘�
 1.  워크시트의 원하는 셀을 가져와 셀에 값을 입력합니다.
 1.  피벗 테이블 삽입 및 스타일 설정
 1.  PivotTable의 데이터를 이용하여 Pivot Chart 삽입
-1.  저장 방법을 사용하여 통합 문서를 XLSB 파일로 저장합니다.
+1. 저장 방법을 사용하여 통합 문서를 XLSB 파일로 저장합니다.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -419,7 +419,7 @@ description: Python 읽기 쓰기 및 Excel 파일 구문 분석을 위한 스�
     </p>
     <div class="codeblock" id="code">
      <h3>
- 다른 형식으로 스프레드시트 저장 - Java
+다른 형식으로 스프레드시트 저장 - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

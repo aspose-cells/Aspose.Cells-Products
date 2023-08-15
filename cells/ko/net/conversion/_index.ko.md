@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="JSON을 Excel로, Excel을 JSON로 변환" %}}
- JSON 데이터를 인스턴스로 가져올 수 있습니다.[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) 의 도움으로 수업[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) 추가 처리 또는 지원되는 형식으로의 간단한 변환을 위해. 비슷하게,[워크시트](https://reference.aspose.com/cells/net/aspose.cells/worksheet) 데이터를 생성하여 JSON로 내보낼 수 있습니다.[범위](https://reference.aspose.com/cells/net/aspose.cells/range) 또는 셀을 호출하고[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) 방법.
+ JSON 데이터를 인스턴스로 가져올 수 있습니다.[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) 의 도움으로 수업[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)추가 처리 또는 지원되는 형식으로의 간단한 변환을 위해. 비슷하게,[워크시트](https://reference.aspose.com/cells/net/aspose.cells/worksheet) 데이터를 생성하여 JSON로 내보낼 수 있습니다.[범위](https://reference.aspose.com/cells/net/aspose.cells/range) 또는 셀을 호출하고[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) 방법.
 {{% blocks/products/pf/feature-page-code h3="C# JSON을 Excel로 변환하는 코드" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel을 Word로 변환 & PowerPoint" %}}
- 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSave옵션](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) 아래에 설명된 클래스.
+ 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSave옵션](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)아래에 설명된 클래스.
 {{% blocks/products/pf/feature-page-code h3="Excel에서 Word로의 C# 코드 및 PowerPoint 변환" %}}
 ```cs
 // load the template file

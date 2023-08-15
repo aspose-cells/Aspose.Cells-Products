@@ -11,7 +11,7 @@ description: C# XLT을 바이트 배열로 변환하는 샘플 코드입니다. 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLT 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLT로**C# 언어를 사용하는 문서. XLT을 바이트 배열로 변환하기 위해 다음을 사용합니다.
+ 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLT 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLT로** C# 언어를 사용하는 문서. XLT을 바이트 배열로 변환하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET 플랫폼을 사용하여 문서 조작 및 변환을 위한 다양한 기능을 제공하는 API.
 {{% /blocks/products/pf/agp/content %}}

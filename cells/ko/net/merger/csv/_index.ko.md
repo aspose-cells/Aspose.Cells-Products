@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- 병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
+병합 및 연결하는 기본 문서[Aspose.Cells for .NET](https://products.aspose.com/cells/net) 몇 줄의 코드만으로 API를 수행할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API을 다운로드할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 코드를 작성할 필요가 없습니다." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="CSV 파일을 업로드하기만 하면 됩니다." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" 즉시 병합되고 연결됩니다." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="즉시 병합되고 연결됩니다." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

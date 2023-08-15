@@ -11,7 +11,7 @@ description: C# XLTM을 바이트 배열로 변환하는 샘플 코드입니다.
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLTM 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLTM로**C# 언어를 사용하는 문서. XLTM을 바이트 배열로 변환하기 위해 다음을 사용합니다.
+ 바이트 배열은 데이터 처리 또는 저장에 유용합니다. XLTM 파일을 바이트 배열로 변환할 수 있습니다.**바이트 배열을 XLTM로** C# 언어를 사용하는 문서. XLTM을 바이트 배열로 변환하기 위해 다음을 사용합니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET 플랫폼을 사용하여 문서 조작 및 변환을 위한 다양한 기능을 제공하는 API.
 {{% /blocks/products/pf/agp/content %}}
@@ -82,7 +82,7 @@ ms.Read(byte_array, 0, byte_array.Length);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 XLTX과 구조가 비슷하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 형식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.
+XLTM 파일 확장자는 Microsoft Excel에서 생성된 파일을 매크로 사용 템플릿 파일로 나타냅니다. XLTM 파일은 XLTX과 구조가 비슷하지만 나중에 매크로를 사용하여 템플릿 파일 만들기를 지원하지 않습니다. 이러한 템플릿 파일은 유사한 XLSX 파일 생성을 용이하게 하기 위해 매크로와 함께 레이아웃, 서식 및 기타 설정을 생성하고 설정하는 데 사용됩니다.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

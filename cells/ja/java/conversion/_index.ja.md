@@ -1,12 +1,12 @@
 ---
-title: Microsoft Excel ファイル変換 via Java
-description: Excel XLS、XLSX、ODS、CSVからXPS、XPS、HTML、JPEG、HTML、およびHTML、およびJavaコードのほんの一部のラインを持つ他の人気のある形式のある形式を変えてください。
+title:  Microsoft Excel ファイル変換 via Java
+description: わずか数行の Java コードで、Excel XLS、XLSX、ODS、CSV を PDF、XPS、HTML、JPEG、HTML などの一般的な形式に変換します。 。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel ファイルの変換 via Java" h2="Microsoft Excel ドキュメントをスプレッドシート、Web、画像、固定レイアウト形式で保存" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-どれについても**Excelコンバーター**アプリケーションまたはソリューション、Java Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07619 などの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 3481. *Excel ファイルを PDF** に変換することもできます。 XPS、HTML、MHTML、プレーン テキスト、および TIFF、JPG、PNG、BMP、SVG などの一般的な画像形式。
+どれについても**Excelコンバーター**アプリケーションまたはソリューション、Java Excel ライブラリは、XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、07 などの複数の形式を処理しながら、スプレッドシートのプログラミングと変換プロセスを高速化します。 6193481。*Excel ファイルを PDF** に変換することもできます。 XPS、HTML、MHTML、プレーン テキスト、および TIFF、JPG、PNG、BMP、SVG などの一般的な画像形式。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel 形式の相互変換" %}}

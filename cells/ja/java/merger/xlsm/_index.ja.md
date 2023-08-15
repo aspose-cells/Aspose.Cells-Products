@@ -56,7 +56,7 @@ XLSM ファイルをマージするには、次を使用します。[Aspose.Cell
 + Workbook クラスのインスタンスを使用して最初の XLSM ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の XLSM ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた XLSM ファイルを指定したパスに保存します
++ マージされた XLSM ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -56,7 +56,7 @@ XLSB ファイルをマージするには、次を使用します。[Aspose.Cell
 + Workbook クラスのインスタンスを使用して最初の XLSB ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の XLSB ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた XLSB ファイルを指定したパスに保存します
++ マージされた XLSB ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

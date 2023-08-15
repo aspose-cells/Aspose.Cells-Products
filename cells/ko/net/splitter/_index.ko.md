@@ -28,7 +28,7 @@ description: Visual C#.NET 응용 프로그램에서 Microsoft Excel 파일을 �
 
 {{% blocks/products/pf/feature-page-section h2="Excel 워크시트를 창으로 분할" %}}
 
- 워크시트 창을 창으로 분할하기 위해 API은 다음을 제공합니다.[분할 방식](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) 워크시트의 분할 보기를 제공하는 워크시트 클래스의 분할 보기를 제거하려면 API에서 제공합니다.[RemoveSplit 메서드](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . 마지막으로 지정된 경로에 저장하십시오.
+ 워크시트 창을 창으로 분할하기 위해 API은 다음을 제공합니다.[분할 방식](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)워크시트의 분할 보기를 제공하는 워크시트 클래스의 분할 보기를 제거하려면 API에서 제공합니다.[RemoveSplit 메서드](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . 마지막으로 지정된 경로에 저장하십시오.
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel 워크시트 창을 분할하는 코드" %}}
 

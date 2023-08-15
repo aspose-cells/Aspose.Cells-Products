@@ -56,7 +56,7 @@ XLT ファイルをマージするには、次を使用します。[Aspose.Cells
 + Workbook クラスのインスタンスを使用して最初の XLT ファイルをロードします。
 + Workbook クラスのインスタンスを使用して 2 番目の XLT ドキュメントをロードします。
 + combin() メソッドを使用してファイルをマージします。
-マージされた XLT ファイルを指定したパスに保存します
++ マージされた XLT ファイルを指定したパスに保存します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

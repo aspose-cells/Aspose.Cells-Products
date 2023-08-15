@@ -1,7 +1,7 @@
 ---
-title: OTS를 TIFF Python via Python로 변환
-description: 온라인에서 무료로 OTS를 TIFF로 변환하세요. 무료 온라인 OTS to TIFF 변환기. Python OTS에서 TIFF로. OTS에서 TIFF로 Python을 통해.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+title: Python OTS에서 TIFF로 - 온라인 OTS에서 TIFF로 변환기
+description: Aspose 엑셀. Python Aspose.Cells. Python Aspose Cells. 무료 온라인 Python OTS를 TIFF saveformat으로 변환합니다. Python OTS에서 TIFF 형식으로. OTS를 TIFF Python로 저장합니다.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to TIFF saveformat., Free Online OTS to TIFF Python., Python Convert OTS to TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python에서 OTS를 TIFF로 변환" h2="OTS를 TIFF로 변환하기 위한 고속 Python 라이브러리. 당사의 Excel 변환 API을 사용하여 Python에서 높은 수준의 플랫폼 독립적인 소프트웨어를 개발하십시오." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS t
 
 {{% blocks/products/pf/agp/content h2="Python에서 OTS를 TIFF로 변환" %}}
 
- OTS를 TIFF로 변환하는 방법? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 OTS를 TIFF로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
+ OTS를 TIFF로 어떻게 변환합니까? NET 라이브러리를 통해 Aspose.Cells for Python을 사용하면 몇 줄의 코드로 프로그래밍 방식으로 OTS를 TIFF로 쉽게 변환할 수 있습니다.[Aspose.Cells for Python 경유 NET](https://pypi.org/project/aspose-cells-python/)모든 Excel 파일을 생성, 수정, 변환, 렌더링 및 인쇄할 수 있는 기능을 갖춘 크로스 플랫폼 애플리케이션을 구축할 수 있습니다. Python Excel API은 스프레드시트 형식 간의 변환뿐만 아니라 Excel 파일을 이미지, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT 등으로 렌더링할 수 있으므로 업계에서 문서를 교환하는 데 완벽한 선택입니다. 표준 형식.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ OTS를 TIFF로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="온라인에서 OTS를 TIFF로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="온라인에서 OTS를 TIFF로 변환하는 무료 앱 및 샘플 코드" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="OTS를 TIFF로 변환하는 방법" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python 개발자는 단 몇 줄의 코드로 OTS를 쉽게 로드하고 TIFF로 변환할 수 있습니다.
+프로그래밍 방식으로 OTS 파일을 TIFF로 변환해야 합니까? Python 개발자는 단 몇 줄의 코드로 OTS를 TIFF로 쉽게 로드하고 변환할 수 있습니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET'을 설치합니다.
 1.  Python 프로젝트에 라이브러리 참조를 추가합니다(라이브러리 가져오기).
-1.  통합 문서 인스턴스로 OTS 파일 로드
-1.  Workbook.save 메서드를 호출하여 OTS를 TIFF로 변환
+1.  통합 문서 인스턴스로 OTS 파일을 로드합니다.
+1.  Workbook.save 메서드를 호출하여 OTS를 TIFF로 변환합니다.
+1.  OTS의 변환 결과를 TIFF로 가져옵니다.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ OTS를 TIFF로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업�
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/)개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
+ 그리고 당신은 또한 다음을 따를 수 있습니다[단계별 지침](https://docs.aspose.com/cells/python-net/getting-started/) 개발자 환경에 "Aspose.Cells for Python via .NET"을 설치하는 방법에 대해 설명합니다.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ OTS를 TIFF로 변환하는 쉬운 단계를 따르십시오. OTS 파일을 업�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
+ Aspose.Cells NET을 통한 for Python은 플랫폼 독립적인 API이며 모든 플랫폼(Windows, Linux)에서 사용할 수 있습니다.[Python](https://www.python.org/downloads/) 3.7 이상.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}확장자가 .ots인 파일은 Apache OpenOffice에 포함된 Calc 응용 프로그램 소프트웨어로 생성되는 OpenDocument 스프레드시트 템플릿 파일입니다. Calc 응용 프로그램 소프트웨어는 Microsoft Office에서 사용할 수 있는 Excel과 유사합니다. OTS 파일 형식은 스타일, 글꼴, 데이터, 스프레드시트 레이아웃 및 서식과 관련된 미리 정의된 설정이 포함된 템플릿을 만드는 데 사용됩니다. OTF 파일에는 mime 유형 application/vnd.oasis.opendocument.spreadsheet-template이 있습니다. 이러한 템플릿 파일은 ODS 파일 형식으로 저장되는 실제 데이터 파일을 생성하고 저장하기 위한 시작점으로 사용할 수 있습니다. OTS 파일은 OpenOffice 및 LibreOffice와 같은 응용 프로그램에서 사용할 수 있습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF 또는 TIF(Tagged Image File Format)는 이 파일 형식 표준을 준수하는 다양한 장치에서 사용하기 위한 래스터 이미지를 나타냅니다. 여러 색 공간에서 이중 수준, 회색조, 팔레트 색상 및 풀 컬러 이미지 데이터를 설명할 수 있습니다. 형식을 사용하는 응용 프로그램의 공간과 시간 중에서 선택할 수 있도록 손실 및 무손실 압축 체계를 지원합니다. 형식은 기계에 의존하지 않으며 프로세서, 운영 체제 또는 파일 시스템과 같은 범위에서 자유롭습니다.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변환" subTitle="아래 나열된 몇 가지를 포함하여 OTS를 다른 많은 파일 형식으로 변환할 수도 있습니다." >}}
 

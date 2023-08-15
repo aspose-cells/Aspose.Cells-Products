@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel을 Word로 변환 & PowerPoint" %}}
- 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSave옵션](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) 아래에 설명된 클래스.
+ 사용하는 동안 모든 스프레드시트를 로드하고 Word DOCX 및 PowerPoint PPTX 파일로 변환할 수 있습니다.[DocxSave옵션](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSave옵션](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)아래에 설명된 클래스.
 {{% blocks/products/pf/feature-page-code h3="Excel에서 Word로의 Python 코드 및 PowerPoint 변환" %}}
 ```cs
 // load the template file

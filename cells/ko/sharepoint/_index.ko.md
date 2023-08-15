@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint 앱은 SharePoint Excel 스프레드시
    </header>
    <ul>
     <li>
- 하위 폴더에 저장
+하위 폴더에 저장
     </li>
     <li>
  파일 연결
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint 앱은 SharePoint Excel 스프레드시
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description="Aspose.Cells for SharePoint은 널리 사용되는 많은 스프레드시트 형식, PDF, HTML 및 기타를 지원합니다.[파일 형식](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="지원되는 파일 형식" description=" Aspose.Cells for SharePoint은 널리 사용되는 많은 스프레드시트 형식, PDF, HTML 및 기타를 지원합니다.[파일 형식](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint 앱은 SharePoint Excel 스프레드시
  변환 중 파일 연결
     </h2>
     <p>
- Aspose.Cells for SharePoint은 서로 다른 형식의 파일을 하나의 단일 문서로 결합하는 기능을 제공합니다. 또한 목록의 문서를 위 또는 아래로 이동하여 문서를 결합할 순서를 설정할 수도 있습니다.
+Aspose.Cells for SharePoint은 서로 다른 형식의 파일을 하나의 단일 문서로 결합하는 기능을 제공합니다. 또한 목록의 문서를 위 또는 아래로 이동하여 문서를 결합할 순서를 설정할 수도 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint 앱은 SharePoint Excel 스프레드시
  하위 폴더의 파일 변환
     </h2>
     <p>
-Aspose.Cells for SharePoint은 선택한 폴더 아래의 모든 문서와 하위 폴더를 재귀적으로 변환하여 변환 프로세스를 보다 쉽게 만듭니다. 기존 하위 폴더 구조가 대상 폴더에 생성됩니다.
+ Aspose.Cells for SharePoint은 선택한 폴더 아래의 모든 문서와 하위 폴더를 재귀적으로 변환하여 변환 프로세스를 보다 쉽게 만듭니다. 기존 하위 폴더 구조가 대상 폴더에 생성됩니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint은 선택한 폴더 아래의 모든 문서와 하�
  대중과 소통하다 API
     </h2>
     <p>
- 내부 SharePoint 솔루션이 있는 개발자의 경우 공용 API을 통해 Aspose.Cells for SharePoint의 문서 변환 엔진을 사용할 수 있습니다. 이 엔진은 지원되는 모든 형식 및 변환 옵션에 대한 프로그래밍 방식 액세스를 제공합니다.
+내부 SharePoint 솔루션이 있는 개발자의 경우 공용 API을 통해 Aspose.Cells for SharePoint의 문서 변환 엔진을 사용할 수 있습니다. 이 엔진은 지원되는 모든 형식 및 변환 옵션에 대한 프로그래밍 방식 액세스를 제공합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint은 선택한 폴더 아래의 모든 문서와 하�
  Microsoft Excel 자동화 – 필요하지 않음
     </h2>
     <p>
-Aspose.Cells for SharePoint은 Excel 형식 변환 작업을 위해 컴퓨터에 Microsoft Excel을 설치할 필요가 전혀 없는 관리 코드를 사용하여 빌드됩니다. 지원되는 기능, 보안, 안정성, 확장성, 속도 및 가격 측면에서 완벽한 Microsoft Excel 자동화 대안입니다.
+ Aspose.Cells for SharePoint은 Excel 형식 변환 작업을 위해 컴퓨터에 Microsoft Excel을 설치할 필요가 전혀 없는 관리 코드를 사용하여 빌드됩니다. 지원되는 기능, 보안, 안정성, 확장성, 속도 및 가격 측면에서 완벽한 Microsoft Excel 자동화 대안입니다.
     </p>
    </div>
   </div>

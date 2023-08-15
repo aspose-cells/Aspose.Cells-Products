@@ -18,7 +18,7 @@ description: 몇 줄의 C# 코드로 Excel 및 OpenOffice 스프레드시트 파
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="여러 Excel 파일 병합" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) 방법은 Excel 파일의 데이터, 스타일 및 수식을 동일한 형식의 새 스프레드시트로 병합하는 것을 지원합니다. 캐싱을 사용하면서 여러 파일을 병합하는 효율적인 방법입니다.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)방법은 Excel 파일의 데이터, 스타일 및 수식을 동일한 형식의 새 스프레드시트로 병합하는 것을 지원합니다. 캐싱을 사용하면서 여러 파일을 병합하는 효율적인 방법입니다.
 {{% blocks/products/pf/feature-page-code h3="C# 여러 Excel 파일을 병합하는 코드" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

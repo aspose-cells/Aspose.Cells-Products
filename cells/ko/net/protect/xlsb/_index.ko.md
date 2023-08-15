@@ -1,5 +1,5 @@
 ---
-title:  보호 및 잠금 XLSB 문서 via .NET
+title: 보호 및 잠금 XLSB 문서 via .NET
 weight: 5920
 description: .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼에서 암호를 사용하여 XLSB 파일을 잠그는 C# 소스 코드.
 ---

@@ -63,7 +63,7 @@ API はわずか数行のコードで実行できます。 Microsoft Excel XLS�
 + getWorksheets().get メソッドを使用して必要なシートを選択します。
 + getCells() を使用して、選択したシートのすべてのセルを取得します。
 + 各セルを反復処理し、そのテキストを取得します。
-+ 各セルの値を出力するか、StringBuilder の append() メソッドを使用して全体を表示します
+各セルの値を出力するか、StringBuilder の append() メソッドを使用して全体を表示します
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

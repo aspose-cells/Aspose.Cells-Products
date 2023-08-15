@@ -24,7 +24,7 @@ description: C# .NET ライブラリを使用して Excel に折れ線グラフ�
 {{% /blocks/products/pf/agp/text %}}
 
 1. Aspose.Cells 名前空間を含める
-1. 作成[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
+1. 作成する[**ワークブック**](https://reference.aspose.com/cells/net/aspose.cells/workbook)クラスインスタンス。
 1. ワークシートにデータを追加します。
 1. 追加[**ライン**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype)ワークシートにグラフを貼り付けます。
 1. 新しいものにアクセスする[**チャート**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)物体。

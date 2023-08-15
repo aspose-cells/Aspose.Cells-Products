@@ -13,7 +13,7 @@ description: .NET 프레임워크, .NET 코어, Mono 또는 Xamarin 플랫폼의
 
  XLSX 파일을 검색하기 위해 다음을 사용하겠습니다.
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API은 C# 플랫폼을 위한 기능이 풍부하고 강력하며 사용하기 쉬운 문서 검색 API입니다. 열려 있는
+API은 C# 플랫폼을 위한 기능이 풍부하고 강력하며 사용하기 쉬운 문서 검색 API입니다. 열려 있는
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  패키지 관리자, 검색
  **Aspose.Cells** 

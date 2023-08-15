@@ -1,7 +1,8 @@
 ---
-title:  Объединить SXC с HTML через C++
+title: Объединить SXC в HTML - Объединить SXC в HTML в C++
 url: /ru/cpp/merger/merge-sxc-to-html/ 
-description: Объедините SXC с HTML онлайн бесплатно. Бесплатный онлайн SXC до HTML Слияние. Объединить SXC в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C++ Aspose.Cells. Бесплатное онлайн объединение SXC в формат сохранения HTML. C++ Объединить формат SXC в формат HTML. Объединить SXC с HTML в C++. SXC Объединить.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to HTML in C++., Free Online C++ Merge SXC to html., C++ Combine SXC to HTML Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить SXC с HTML через C++" h2="Высокоскоростная библиотека C++ для слияния SXC с HTML. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C++. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините SXC с HTML онлайн бесплатно. �
 
 {{% blocks/products/pf/agp/content h2="Объединить SXC с HTML, используя C++" %}}
 
- Как объединить SXC с HTML? С библиотекой Aspose.Cells for C++ вы можете легко объединить SXC с HTML программно с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить SXC с HTML? С помощью библиотеки Aspose.Cells for C++ вы можете легко программно объединить SXC с HTML с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Объединить SXC с HTML в C++ онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить SXC с HTML в C++.
+В следующем примере показано, как объединить SXC с HTML в Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить SXC с HTML. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл HTML. Если вы разрабатываете код в C++, это будет проще, чем кажется. См. пример C++, в котором SXC объединяется с HTML.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения SXC с HTML онлайн" InputFormat="sxc" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Бесплатно онлайн объединить SXC с HTML в C++" InputFormat="sxc" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить SXC с HTML через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить SXC с HTML? Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for C++».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C++.
 + Загрузите файл SXC с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Установите библиотеку, используя папки Include и lib. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Формат файла SXC (Sun XML Calc) принадлежит офисному пакету OpenOffice.org. Этот формат обычно отвечает потребностям пользователей в электронных таблицах, поскольку он представляет собой формат файла электронной таблицы на основе XML. SXC поддерживает формулы, функции, макросы и диаграммы, а также DataPilot, что является невероятной функцией, поскольку она автоматически индивидуализирует и предоставляет сводки необработанных импортированных данных. Файлы, созданные с помощью этого программного обеспечения, сохраняются с расширением .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) — это расширение для веб-страниц, созданных для отображения в браузерах. Известный как веб-язык, HTML развился с учетом новых требований к информации, которая должна отображаться как часть веб-страниц. Последний вариант известен как HTML 5, что дает большую гибкость для работы с языком. Страницы HTML либо принимаются с сервера, на котором они размещены, либо также могут быть загружены из локальной системы. Каждая страница HTML состоит из HTML элементов, таких как формы, текст, изображения, анимация, ссылки и т. д. Эти элементы представлены тегами и несколькими другими, где каждый тег имеет начало и конец. Он также может встраивать приложения, написанные на языках сценариев, таких как JavaScript и таблицы стилей (CSS), для общего представления макета.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C++, можно также объединить sxc со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-docx/" name="Объединить SXC с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-sql/" name="Объединить SXC с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-bmp/" name="Объединить SXC с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-emf/" name="Объединить SXC с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-gif/" name="Объединить SXC с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-html/" name="Объединить SXC с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-md/" name="Объединить SXC с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-mhtml/" name="Объединить SXC с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-ods/" name="Объединить SXC с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-pdf/" name="Объединить SXC с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-png/" name="Объединить SXC с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-svg/" name="Объединить SXC с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tiff/" name="Объединить SXC с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tsv/" name="Объединить SXC с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-txt/" name="Объединить SXC с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xls/" name="Объединить SXC с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsb/" name="Объединить SXC с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsm/" name="Объединить SXC с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsx/" name="Объединить SXC с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlt/" name="Объединить SXC с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltm/" name="Объединить SXC с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltx/" name="Объединить SXC с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xml/" name="Объединить SXC в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xps/" name="Объединить SXC с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-json/" name="Объединить SXC с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-jpeg/" name="Объединить SXC с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

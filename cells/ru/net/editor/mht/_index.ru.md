@@ -54,7 +54,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Редактировать файлы MHT - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Редактировать файлы MHT — C#" offSpacer="" %}}
 
 ```cs
 code here

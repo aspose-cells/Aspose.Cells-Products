@@ -1,7 +1,7 @@
 ---
-title: Преобразование JSON в XLSB Python via Python
-description: Конвертируйте JSON в XLSB онлайн бесплатно. Бесплатный онлайн конвертер JSON в XLSB. Python JSON до XLSB. JSON до XLSB через Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON в XLSB - Онлайн конвертер JSON в XLSB
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать JSON в XLSB сохранить формат. Python JSON в формате XLSB. Сохраните JSON в XLSB Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to XLSB saveformat., Free Online JSON to XLSB Python., Python Convert JSON to XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование JSON в XLSB в Python" h2="Высокоскоростная библиотека Python для преобразования JSON в XLSB. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,25 +28,26 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JSON в XLSB онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JSON в XLSB онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать JSON в XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать JSON в XLSB всего за несколько строк кода.
+Нужно программно конвертировать файлы JSON в XLSB? Разработчики Python могут легко загружать и преобразовывать JSON в XLSB всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл JSON с экземпляром Workbook
-1.  Преобразуйте JSON в XLSB, вызвав метод Workbook.save
+1.  Загрузите файл JSON с экземпляром Workbook.
+1.  Преобразуйте JSON в XLSB, вызвав метод Workbook.save.
+1.  Получите результат преобразования JSON в XLSB.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования JSON в XLSB" %}}
+{{% blocks/products/pf/agp/content h2="Python библиотека для преобразования JSON в XLSB" %}}
 
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
@@ -55,7 +56,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (обозначение объектов JavaScript) — это открытый стандартный формат файла для обмена данными, который использует удобочитаемый текст для хранения и передачи данных. JSON файлов хранятся с расширением .json. JSON требует меньше форматирования и является хорошей альтернативой XML. JSON является производным от JavaScript, но является независимым от языка форматом данных. Генерация и анализ JSON поддерживается многими современными языками программирования. application/json — тип носителя, используемый для JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Формат файла XLSB указывает формат двоичного файла Excel, который представляет собой набор записей и структур, определяющих содержимое книги Excel. Содержимое может включать неструктурированные или частично структурированные таблицы чисел, текста или и чисел, и текста, формул, подключений к внешним данным, диаграмм и изображений. В отличие от XLSX (который основан на формате файла Open XML), XLSB представляет собой двоичный файл книги Excel. XLSB файлы можно читать и записывать быстрее, что делает их полезными для работы с большими файлами. XLSB редко используется для хранения книг, поскольку XLSX (а ранее XLS) являются наиболее распространенными форматами файлов, выбранными пользователем для сохранения книг. Его можно открыть с помощью Microsoft Office 2007 и выше.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать JSON во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

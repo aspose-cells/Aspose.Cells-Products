@@ -1,7 +1,7 @@
 ---
-title: Преобразование TABDELIMITED в XLS Python via Python
-description: Конвертируйте TABDELIMITED в XLS онлайн бесплатно. Бесплатный онлайн конвертер TABDELIMITED в XLS. Python TABDELIMITED до XLS. TABDELIMITED до XLS через Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED в XLS - Онлайн конвертер TABDELIMITED в XLS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать TABDELIMITED в XLS saveformat. Python TABDELIMITED в формате XLS. Сохраните TABDELIMITED на номер XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to XLS saveformat., Free Online TABDELIMITED to XLS Python., Python Convert TABDELIMITED to XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование TABDELIMITED в XLS в Python" h2="Высокоскоростная библиотека Python для преобразования TABDELIMITED в XLS. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="Преобразование TABDELIMITED в XLS в Python" %}}
 
-Как преобразовать TABDELIMITED в XLS? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать TABDELIMITED в XLS программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как преобразовать TABDELIMITED в XLS? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать TABDELIMITED в XLS программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TABDELIMITED в XLS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TABDELIMITED в XLS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать TABDELIMITED в XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Разработчики Python могут легко загружать и конвертировать TABDELIMITED в XLS всего за несколько строк кода.
+Нужно программно преобразовать файлы TABDELIMITED в XLS? Разработчики Python могут легко загружать и конвертировать TABDELIMITED в XLS всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл TABDELIMITED с экземпляром книги
-1.  Преобразуйте TABDELIMITED в XLS, вызвав метод Workbook.save
+1.  Загрузите файл TABDELIMITED с экземпляром Workbook.
+1.  Преобразуйте TABDELIMITED в XLS, вызвав метод Workbook.save.
+1.  Получите результат преобразования TABDELIMITED в XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Файлы с расширением XLS представляют собой формат двоичных файлов Excel. Такие файлы могут быть созданы с помощью Microsoft Excel, а также других подобных программ для работы с электронными таблицами, таких как OpenOffice Calc или Apple Numbers. Файл, сохраненный в Excel, называется рабочей книгой, где каждая рабочая книга может иметь один или несколько рабочих листов. Данные хранятся и отображаются для пользователей в формате таблицы на листе и могут включать числовые значения, текстовые данные, формулы, подключения к внешним данным, изображения и диаграммы. Такие приложения, как Microsoft Excel, позволяют экспортировать данные рабочей книги в несколько различных форматов, включая PDF, CSV, XLSX, TXT, HTML, XPS и некоторые другие. Формат файла XLS был заменен более открытым и структурированным форматом XLSX с выпуском Microsoft Excel 2007. В последних версиях по-прежнему поддерживается создание и чтение файлов XLS, хотя XLSX сейчас является первым вариантом использования.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать TABDELIMITED во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

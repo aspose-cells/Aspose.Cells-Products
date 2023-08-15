@@ -1,7 +1,7 @@
 ---
-title: Преобразование TSV в MHTML Python via Python
-description: Конвертируйте TSV в MHTML онлайн бесплатно. Бесплатный онлайн конвертер TSV в MHTML. Python TSV до MHTML. TSV до MHTML через Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV в MHTML - Онлайн конвертер TSV в MHTML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать TSV в MHTML сохранить формат. Python TSV в формате MHTML. Сохраните TSV в MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to MHTML saveformat., Free Online TSV to MHTML Python., Python Convert TSV to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование TSV в MHTML в Python" h2="Высокоскоростная библиотека Python для преобразования TSV в MHTML. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,25 +28,26 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TSV в MHTML онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TSV в MHTML онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать TSV в MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать TSV в MHTML всего за несколько строк кода.
+Нужно программно конвертировать файлы TSV в MHTML? Разработчики Python могут легко загружать и преобразовывать TSV в MHTML всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл TSV с экземпляром Workbook
-1.  Преобразуйте TSV в MHTML, вызвав метод Workbook.save
+1.  Загрузите файл TSV с экземпляром Workbook.
+1.  Преобразуйте TSV в MHTML, вызвав метод Workbook.save.
+1.  Получите результат преобразования TSV в MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования TSV в MHTML" %}}
+{{% blocks/products/pf/agp/content h2="Python библиотека для преобразования TSV в MHTML" %}}
 
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
@@ -55,7 +56,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Файлы с расширением MHTML представляют собой формат архива веб-страницы, который может быть создан рядом различных приложений. Этот формат известен как формат архива, поскольку он сохраняет веб-код HTML и связанные с ним ресурсы в одном файле. Эти ресурсы включают все, что связано с веб-страницей, например изображения, апплеты, анимацию, аудиофайлы и так далее. MHTML файлы можно открывать в различных приложениях, таких как Internet Explorer и Microsoft Word. Microsoft Windows использует формат файла MHTML для записи сценариев проблем, наблюдаемых при использовании любого приложения на Windows, которое вызывает проблемы. Формат файла MHTML кодирует содержимое страницы аналогично спецификациям, определенным в message/rfc822, который представляет собой спецификации, связанные с электронной почтой в виде обычного текста.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать TSV во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

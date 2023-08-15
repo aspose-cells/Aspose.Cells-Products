@@ -1,7 +1,7 @@
 ---
-title: Преобразование TSV в ODS Python via Python
-description: Конвертируйте TSV в ODS онлайн бесплатно. Бесплатный онлайн конвертер TSV в ODS. Python TSV до ODS. TSV до ODS через Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV в ODS - Онлайн конвертер TSV в ODS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать TSV в ODS сохранить формат. Python TSV в формате ODS. Сохраните TSV в ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to ODS saveformat., Free Online TSV to ODS Python., Python Convert TSV to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование TSV в ODS в Python" h2="Высокоскоростная библиотека Python для преобразования TSV в ODS. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,25 +28,26 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TSV в ODS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования TSV в ODS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать TSV в ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать TSV в ODS всего за несколько строк кода.
+Нужно программно конвертировать файлы TSV в ODS? Разработчики Python могут легко загружать и преобразовывать TSV в ODS всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл TSV с экземпляром Workbook
-1.  Преобразуйте TSV в ODS, вызвав метод Workbook.save
+1.  Загрузите файл TSV с экземпляром Workbook.
+1.  Преобразуйте TSV в ODS, вызвав метод Workbook.save.
+1.  Получите результат преобразования TSV в ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования TSV в ODS" %}}
+{{% blocks/products/pf/agp/content h2="Python библиотека для преобразования TSV в ODS" %}}
 
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
@@ -55,7 +56,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Файлы с расширением .ods обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Этот формат основан на XML и является одним из нескольких подтипов в семействе форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений на Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и обработки, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также могут быть преобразованы в другие форматы электронных таблиц, такие как XLS, XLSX и другие, с помощью различных приложений.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать TSV во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

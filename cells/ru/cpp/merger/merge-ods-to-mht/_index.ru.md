@@ -1,7 +1,8 @@
 ---
-title:  Объединить ODS с MHT через C++
+title: Объединить ODS с MHT - Объединить ODS с MHT в C++
 url: /ru/cpp/merger/merge-ods-to-mht/ 
-description: Объедините ODS с MHT Online бесплатно. Бесплатный онлайн ODS для слияния MHT. Объединить ODS в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C++ Aspose.Cells. Бесплатное онлайн-слияние ODS в формат сохранения MHT. C++ Объединить ODS в формат MHT. Объединить ODS с MHT в C++. ODS Объединить.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to MHT in C++., Free Online C++ Merge ODS to mht., C++ Combine ODS to MHT Online for Free., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить ODS с MHT через C++" h2="Высокоскоростная библиотека C++ для слияния ODS с MHT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C++. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Объедините ODS с MHT в C++ Онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить ODS с MHT в C++.
+В следующем примере показано, как объединить ODS с MHT в Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить ODS с MHT. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле MHT. Если вы разрабатываете код в C++, это будет проще, чем кажется. См. пример C++, в котором ODS объединяется с MHT.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения ODS с MHT онлайн" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Бесплатно онлайн объединить ODS в MHT в C++" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить ODS с MHT через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
+Нужно программно объединить ODS с MHT? Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for C++».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C++.
 + Загрузите файл ODS с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Установите библиотеку, используя папки Include и lib. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Файлы с расширением .ods обозначают формат документа электронной таблицы OpenDocument, который может редактировать пользователь. Данные хранятся внутри файла ODF в строках и столбцах. Этот формат основан на XML и является одним из нескольких подтипов в семействе форматов открытых документов (ODF). Формат указан как часть спецификаций ODF 1.2, опубликованных и поддерживаемых OASIS. Ряд приложений на Windows, а также в других операционных системах могут открывать файлы ODS для редактирования и обработки, включая Microsoft Excel, NeoOffice и LibreOffice. Файлы ODS также могут быть преобразованы в другие форматы электронных таблиц, такие как XLS, XLSX и другие, с помощью различных приложений.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht представляет собой формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы в виде встроенных в него ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в виде одного архивного файла для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют преобразовывать ваши документы WORD в MHT путем экспорта в виде файла MHT. Файлы MHT можно открывать с помощью популярных браузеров, таких как Microsoft Internet Explorer и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C++, можно также объединять ods со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-docx/" name="Объединить ODS с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-sql/" name="Объединить ODS с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-bmp/" name="Объединить ODS с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-emf/" name="Объединить ODS с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-gif/" name="Объединить ODS с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-html/" name="Объединить ODS с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-md/" name="Объединить ODS с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-mhtml/" name="Объединить ODS с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-ods/" name="Объединить ODS с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-pdf/" name="Объединить ODS с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-png/" name="Объединить ODS с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-svg/" name="Объединить ODS с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tiff/" name="Объединить ODS с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tsv/" name="Объединить ODS с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-txt/" name="Объединить ODS с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xls/" name="Объединить ODS с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsb/" name="Объединить ODS с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsm/" name="Объединить ODS с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsx/" name="Объединить ODS с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlt/" name="Объединить ODS с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltm/" name="Объединить ODS с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltx/" name="Объединить ODS с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xml/" name="Объединить ODS в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xps/" name="Объединить ODS с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-json/" name="Объединить ODS с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-jpeg/" name="Объединить ODS с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

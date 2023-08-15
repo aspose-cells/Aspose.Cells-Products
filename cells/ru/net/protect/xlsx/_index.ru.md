@@ -1,5 +1,5 @@
 ---
-title:  Защита и замок XLSX документ via .NET
+title: Защита и замок XLSX документ via .NET
 weight: 90
 description: C# исходный код для блокировки файла XLSX с использованием пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---

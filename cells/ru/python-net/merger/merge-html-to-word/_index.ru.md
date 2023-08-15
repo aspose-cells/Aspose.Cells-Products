@@ -1,7 +1,8 @@
 ---
-title:  Объединить HTML в WORD через Python
+title: Объединить HTML в WORD - Объединить HTML в WORD в Python
 url: /ru/python-net/merger/merge-html-to-word/ 
-description: Объедините HTML в WORD Online бесплатно. Бесплатный онлайн HTML для слияния WORD. Объединить HTML в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. Python Aspose.Cells. Бесплатное онлайн-объединение HTML в формат сохранения WORD. Python Объединить HTML в формат WORD. Объединить HTML в WORD в Python. HTML Объединить.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to WORD in Python., Free Online Python Merge HTML to word., Python Combine HTML to WORD Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить HTML в WORD через Python" h2="Высокоскоростная библиотека Python для объединения HTML в WORD. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Объедините HTML в WORD Online бесплатно. Бес
 
 {{% blocks/products/pf/agp/content h2="Объединить HTML в WORD, используя Python" %}}
 
- Как слить HTML в WORD? С библиотекой Aspose.Cells for Python вы можете легко программно объединить HTML в WORD с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+Как объединить HTML в WORD? С библиотекой Aspose.Cells for Python via .NET вы можете легко объединить HTML в WORD программно с помощью нескольких строк кода.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете установить Aspose.Cells for Python via .NET из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Объединить HTML в WORD в Python онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить HTML в WORD в Python.
+В следующем примере показано, как объединить HTML в WORD в Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить HTML в WORD. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле WORD. Если вы разрабатываете код в Python, это будет проще, чем кажется. См. пример Python, в котором HTML объединяется с WORD.
@@ -27,16 +28,18 @@ description: Объедините HTML в WORD Online бесплатно. Бес
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения HTML в WORD онлайн" InputFormat="html" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Бесплатно онлайн объединить HTML в WORD в Python" InputFormat="html" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить HTML в WORD через Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить HTML в WORD? Базовый документ сливается и объединяется с[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for Python via .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
 + Загрузите файл HTML с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -53,7 +56,7 @@ description: Объедините HTML в WORD Online бесплатно. Бес
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ description: Объедините HTML в WORD Online бесплатно. Бес
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) — это расширение для веб-страниц, созданных для отображения в браузерах. Известный как веб-язык, HTML развился с учетом новых требований к информации, которая должна отображаться как часть веб-страниц. Последний вариант известен как HTML 5, что дает большую гибкость для работы с языком. Страницы HTML либо принимаются с сервера, на котором они размещены, либо также могут быть загружены из локальной системы. Каждая страница HTML состоит из HTML элементов, таких как формы, текст, изображения, анимация, ссылки и т. д. Эти элементы представлены тегами и несколькими другими, где каждый тег имеет начало и конец. Он также может встраивать приложения, написанные на языках сценариев, таких как JavaScript и таблицы стилей (CSS), для общего представления макета.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX — широко известный формат документов Word Microsoft. Представленный в 2007 году с выпуском Microsoft Office 2007, структура этого нового формата документа была изменена с простого двоичного файла на комбинацию XML и двоичных файлов. Файлы Docx можно открывать в Word 2007 и его более поздних версиях, но не в более ранних версиях MS Word, которые поддерживают расширения файлов DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Python, можно также объединять html со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-docx/" name="Объединить HTML с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-sql/" name="Объединить HTML с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-bmp/" name="Объединить HTML с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-emf/" name="Объединить HTML с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-gif/" name="Объединить HTML с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-html/" name="Объединить HTML с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-md/" name="Объединить HTML с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-mhtml/" name="Объединить HTML с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-ods/" name="Объединить HTML с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-pdf/" name="Объединить HTML с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-png/" name="Объединить HTML с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-svg/" name="Объединить HTML с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-tiff/" name="Объединить HTML с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-tsv/" name="Объединить HTML с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-txt/" name="Объединить HTML с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xls/" name="Объединить HTML с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsb/" name="Объединить HTML с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsm/" name="Объединить HTML с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlsx/" name="Объединить HTML с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xlt/" name="Объединить HTML с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xltm/" name="Объединить HTML с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xltx/" name="Объединить HTML с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xml/" name="Объединить HTML в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-xps/" name="Объединить HTML с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-json/" name="Объединить HTML с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-html-to-jpeg/" name="Объединить HTML с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

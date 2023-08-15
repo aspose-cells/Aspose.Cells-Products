@@ -1,7 +1,8 @@
 ---
-title:  Объединить XLSM с HTM через C#
+title: Объединить XLSM с HTM - Объединить XLSM с HTM в C#
 url: /ru/net/merger/merge-xlsm-to-htm/ 
-description: Объедините XLSM с HTM Online бесплатно. Бесплатный онлайн XLSM для слияния HTM. Объединить XLSM в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C# Aspose.Cells. Бесплатное онлайн-слияние XLSM в формат сохранения HTM. C# Объединить XLSM в формат HTM. Слияние XLSM с HTM в C#. XLSM Слияние.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSM to HTM in C#., Free Online C# Merge XLSM to htm., C# Combine XLSM to HTM Online for Free., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить XLSM с HTM через C#" h2="Высокоскоростная библиотека C# для слияния XLSM с HTM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C#. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините XLSM с HTM Online бесплатно. Бес�
 
 {{% blocks/products/pf/agp/content h2="Объединить XLSM с HTM, используя C#" %}}
 
- Как слить XLSM с HTM? С библиотекой Aspose.Cells for .NET вы можете легко программно объединить XLSM с HTM с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить XLSM с HTM? С библиотекой Aspose.Cells for .NET вы можете легко программно объединить XLSM с HTM с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Объединить XLSM с HTM в C# Онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить XLSM с HTM в C#.
+В следующем примере показано, как объединить XLSM с HTM в Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить XLSM с HTM. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле HTM. Если вы разрабатываете код в C#, это будет проще, чем кажется. См. пример C#, в котором XLSM объединяется с HTM.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения XLSM с HTM онлайн" InputFormat="xlsm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Бесплатно онлайн объединить XLSM в HTM в C#" InputFormat="xlsm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить XLSM с HTM через C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
+Нужно программно объединить XLSM с HTM? Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
 + Загрузите файл XLSM с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells/) . Видеть[Документация](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)в интегрированной среде разработки Visual Studio
+1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) в интегрированной среде разработки Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Файлы с расширением XLSM — это тип файлов электронных таблиц, поддерживающих макросы. С точки зрения приложения макрос — это набор инструкций, которые используются для автоматизации процессов. Макрос используется для записи повторяющихся шагов и облегчает выполнение действий путем повторного запуска макроса. Макросы программируются с помощью Visual Basic для приложений (VBA) Microsoft из рабочей книги Excel с помощью редактора Visual Basic, и их можно запускать/отлаживать непосредственно из него.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C#, можно также объединить xlsm со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-docx/" name="Объединить XLSM с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-sql/" name="Объединить XLSM с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-bmp/" name="Объединить XLSM с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-emf/" name="Объединить XLSM с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-gif/" name="Объединить XLSM с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-html/" name="Объединить XLSM с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-md/" name="Объединить XLSM с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-mhtml/" name="Объединить XLSM с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-ods/" name="Объединить XLSM с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-pdf/" name="Объединить XLSM с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-png/" name="Объединить XLSM с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-svg/" name="Объединить XLSM с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-tiff/" name="Объединить XLSM с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-tsv/" name="Объединить XLSM с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-txt/" name="Объединить XLSM с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xls/" name="Объединить XLSM с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsb/" name="Объединить XLSM с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsm/" name="Объединить XLSM с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlsx/" name="Объединить XLSM с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xlt/" name="Объединить XLSM с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xltm/" name="Объединить XLSM с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xltx/" name="Объединить XLSM с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xml/" name="Объединить XLSM в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-xps/" name="Объединить XLSM с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-json/" name="Объединить XLSM с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsm-to-jpeg/" name="Объединить XLSM с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Редактировать файлы TXT via .NET
+title:  Редактировать файлы TXT via .NET
 description: C# исходный код для редактирования TXT документа на платформах .NET Framework, .NET Core, Windows Azure, Mono или платформах Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

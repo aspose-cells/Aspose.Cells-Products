@@ -1,7 +1,7 @@
 ---
-title: Преобразование PRN в TSV Python via Python
-description: Конвертируйте PRN в TSV онлайн бесплатно. Бесплатный онлайн конвертер PRN в TSV. Python PRN до TSV. PRN до TSV через Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN в TSV - Онлайн конвертер PRN в TSV
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать PRN в формат сохранения TSV. Python PRN в формате TSV. Сохраните PRN на номер TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to TSV saveformat., Free Online PRN to TSV Python., Python Convert PRN to TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование PRN в TSV в Python" h2="Высокоскоростная библиотека Python для преобразования PRN в TSV. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования PRN в TSV онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования PRN в TSV онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать PRN в TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загрузить и преобразовать PRN в TSV всего за несколько строк кода.
+Нужно программно преобразовать файлы PRN в TSV? Разработчики Python могут легко загрузить и преобразовать PRN в TSV всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл PRN с экземпляром Workbook
-1.  Преобразуйте PRN в TSV, вызвав метод Workbook.save
+1.  Загрузите файл PRN с экземпляром Workbook.
+1.  Преобразуйте PRN в TSV, вызвав метод Workbook.save.
+1.  Получите результат преобразования PRN в TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Файл PRN — это файл, созданный с помощью флажка «Печать в файл», который появляется в некоторых диалоговых окнах «Печать» по номеру Windows. Он содержит набор инструкций для конкретного устройства, которые принтер, факсимильный аппарат или другое устройство использует для печати документа. Файлы PRN могут содержать текстовое или двоичное содержимое, в зависимости от устройства, для которого файл был создан.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Формат файла Tab-Separated Values (TSV) представляет данные, разделенные табуляцией, в текстовом формате. Формат файла, аналогичный CSV, используется для организации данных в структурированном виде для импорта и экспорта между различными приложениями. Формат в основном используется для импорта/экспорта данных и обмена ими в приложениях для работы с электронными таблицами и базах данных. Каждая запись в файле TSV содержится в одной строке текстового файла, где каждое значение поля отделено символом табуляции. Тип носителя для формата файла TSV — текст/значения, разделенные табуляцией.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать PRN во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Объединить SPREADSHETML в HTM по номеру Python
+title: Объединить SPREADSHEETML в HTM — Объединить SPREADSHEETML в HTM в Python
 url: /ru/python-net/merger/merge-spreadsheetml-to-htm/ 
-description: Объедините SPREADSHETML в HTM Online бесплатно. Бесплатное онлайн-слияние SPREADSHETML в HTM. Объединяйте SPREADSHEETML в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и т. д.
+description: Aspose Excel. Python Aspose.Cells. Бесплатное онлайн-слияние SPREADSHEETML в формат сохранения HTM. Python Объединение SPREADSHEETML в формат HTM. Объединить SPREADSHEETML с HTM в Python. Объединить SPREADSHETML.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTM in Python., Free Online Python Merge SPREADSHEETML to htm., Python Combine SPREADSHEETML to HTM Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить SPREADSHETML в HTM по номеру Python" h2="Высокоскоростная библиотека Python для слияния SPREADSHEETML с HTM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Объедините SPREADSHETML в HTM Online бесплатно.
 
 {{% blocks/products/pf/agp/content h2="Объединить SPREADSHETML в HTM, используя Python" %}}
 
-Как слить SPREADSHETML в HTM? С библиотекой Aspose.Cells for Python вы можете легко объединить SPREADSHEETML с HTM программным путем с помощью нескольких строк кода.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
+ Как объединить SPREADSHEETML с HTM? С библиотекой Aspose.Cells for Python via .NET вы можете легко программно объединить SPREADSHEETML с HTM с помощью нескольких строк кода.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете установить Aspose.Cells for Python via .NET из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Объедините SPREADSHEETML в HTM в Python онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить SPREADSHEETML с HTM в Python.
+В следующем примере показано, как объединить SPREADSHEETML с HTM в Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить SPREADSHEETML с HTM. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле HTM. Если вы разрабатываете код в Python, это будет проще, чем кажется. См. пример Python, в котором SPREADSHEETML объединяется с HTM.
@@ -27,16 +28,18 @@ description: Объедините SPREADSHETML в HTM Online бесплатно.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения SPREADSHEETML в HTM онлайн" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Бесплатно онлайн объединить SPREADSHETML в HTM в Python" InputFormat="xml" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить SPREADSHETML с HTM через Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить SPREADSHETML в HTM? Базовый документ сливается и объединяется с[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for Python via .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
 + Загрузите файл SPREADSHEETML с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -53,7 +56,7 @@ description: Объедините SPREADSHETML в HTM Online бесплатно.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ description: Объедините SPREADSHETML в HTM Online бесплатно.
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает Extensible Markup Language, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файла XML заключалась в том, чтобы хранить и передавать данные, не завися от программных или аппаратных инструментов. Его популярность связана с тем, что он читается как человеком, так и машиной. Это позволяет ему создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться по сети, такой как World Wide Web (WWW). «X» в XML означает расширяемость, что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Python, можно также объединить электронную таблицуml со многими другими форматами файлов, включая." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-docx/" name="Объединить SPREADSHETML в DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-sql/" name="Объединить SPREADSHETML в SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-bmp/" name="Объединить SPREADSHETML в BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-emf/" name="Объединить SPREADSHETML в EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-gif/" name="Объединить SPREADSHETML в GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-html/" name="Объединить SPREADSHETML в HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-md/" name="Объединить SPREADSHETML в MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-mhtml/" name="Объединить SPREADSHETML в MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-ods/" name="Объединить SPREADSHETML в ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-pdf/" name="Объединить SPREADSHETML в PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-png/" name="Объединить SPREADSHETML в PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-svg/" name="Объединить SPREADSHETML в SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tiff/" name="Объединить SPREADSHETML в TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tsv/" name="Объединить SPREADSHETML в TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-txt/" name="Объединить SPREADSHETML в TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xls/" name="Объединить SPREADSHETML в XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsb/" name="Объединить SPREADSHETML в XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsm/" name="Объединить SPREADSHETML в XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsx/" name="Объединить SPREADSHETML в XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlt/" name="Объединить SPREADSHETML в XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltm/" name="Объединить SPREADSHETML в XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltx/" name="Объединить SPREADSHETML в XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xml/" name="Объединить SPREADSHETML в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xps/" name="Объединить SPREADSHETML в XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-json/" name="Объединить SPREADSHETML в JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-jpeg/" name="Объединить SPREADSHETML в JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

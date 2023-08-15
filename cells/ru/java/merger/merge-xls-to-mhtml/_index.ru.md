@@ -1,7 +1,8 @@
 ---
-title:  Объединить XLS с MHTML via Java
+title: Объединить XLS в MHTML - Объединить XLS в MHTML в Java
 url: /ru/java/merger/merge-xls-to-mhtml/ 
-description: Объедините XLS с MHTML онлайн бесплатно. Бесплатный онлайн XLS до MHTML Слияние. Объединить XLS в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. Java Aspose.Cells. Бесплатное онлайн объединение XLS в формат сохранения MHTML. Java Объединить формат XLS в формат MHTML. Объединить XLS с MHTML в Java. XLS Объединить.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to MHTML in Java., Free Online Java Merge XLS to mhtml., Java Combine XLS to MHTML Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить XLS с MHTML via Java" h2="Высокоскоростная библиотека Java для слияния XLS с MHTML. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините XLS с MHTML онлайн бесплатно. 
 
 {{% blocks/products/pf/agp/content h2="Объединить XLS с MHTML, используя Java" %}}
 
- Как объединить XLS с MHTML? С библиотекой Aspose.Cells for Java вы можете легко объединить XLS с MHTML программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как объединить XLS с MHTML? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить XLS с MHTML с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Объедините XLS с MHTML онлайн бесплатно. 
 
 {{% blocks/products/pf/agp/content h2="Объединить XLS с MHTML в Java онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить XLS с MHTML в Java.
+В следующем примере показано, как объединить XLS с MHTML в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить XLS с MHTML. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл MHTML. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, в котором XLS объединяется с MHTML.
@@ -55,16 +56,18 @@ description: Объедините XLS с MHTML онлайн бесплатно. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения XLS с MHTML онлайн" InputFormat="xls" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Бесплатно онлайн объединить XLS с MHTML в Java" InputFormat="xls" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить XLS с MHTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить XLS с MHTML? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for Java».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл XLS с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -97,21 +100,41 @@ description: Объедините XLS с MHTML онлайн бесплатно. 
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Файлы с расширением XLS представляют собой формат двоичных файлов Excel. Такие файлы могут быть созданы с помощью Microsoft Excel, а также других подобных программ для работы с электронными таблицами, таких как OpenOffice Calc или Apple Numbers. Файл, сохраненный в Excel, называется рабочей книгой, где каждая рабочая книга может иметь один или несколько рабочих листов. Данные хранятся и отображаются для пользователей в формате таблицы на листе и могут включать числовые значения, текстовые данные, формулы, подключения к внешним данным, изображения и диаграммы. Такие приложения, как Microsoft Excel, позволяют экспортировать данные рабочей книги в несколько различных форматов, включая PDF, CSV, XLSX, TXT, HTML, XPS и некоторые другие. Формат файла XLS был заменен более открытым и структурированным форматом XLSX с выпуском Microsoft Excel 2007. В последних версиях по-прежнему поддерживается создание и чтение файлов XLS, хотя XLSX сейчас является первым вариантом использования.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Файлы с расширением MHTML представляют собой формат архива веб-страницы, который может быть создан рядом различных приложений. Этот формат известен как формат архива, поскольку он сохраняет веб-код HTML и связанные с ним ресурсы в одном файле. Эти ресурсы включают все, что связано с веб-страницей, например изображения, апплеты, анимацию, аудиофайлы и так далее. MHTML файлы можно открывать в различных приложениях, таких как Internet Explorer и Microsoft Word. Microsoft Windows использует формат файла MHTML для записи сценариев проблем, наблюдаемых при использовании любого приложения на Windows, которое вызывает проблемы. Формат файла MHTML кодирует содержимое страницы аналогично спецификациям, определенным в message/rfc822, который представляет собой спецификации, связанные с электронной почтой в виде обычного текста.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединять xls со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-docx/" name="Объединить XLS с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-sql/" name="Объединить XLS с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-bmp/" name="Объединить XLS с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-emf/" name="Объединить XLS с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-gif/" name="Объединить XLS с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-html/" name="Объединить XLS с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-md/" name="Объединить XLS с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-mhtml/" name="Объединить XLS с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-ods/" name="Объединить XLS с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-pdf/" name="Объединить XLS с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-png/" name="Объединить XLS с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-svg/" name="Объединить XLS с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tiff/" name="Объединить XLS с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tsv/" name="Объединить XLS с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-txt/" name="Объединить XLS с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xls/" name="Объединить XLS с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsb/" name="Объединить XLS с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsm/" name="Объединить XLS с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsx/" name="Объединить XLS с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlt/" name="Объединить XLS с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltm/" name="Объединить XLS с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltx/" name="Объединить XLS с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xml/" name="Объединить XLS в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xps/" name="Объединить XLS с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-json/" name="Объединить XLS с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-jpeg/" name="Объединить XLS с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

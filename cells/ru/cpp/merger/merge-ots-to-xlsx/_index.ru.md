@@ -1,7 +1,8 @@
 ---
-title:  Объединить OTS с XLSX через C++
+title: Объединить OTS с XLSX - Объединить OTS с XLSX в C++
 url: /ru/cpp/merger/merge-ots-to-xlsx/ 
-description: Объедините OTS с номером XLSX онлайн бесплатно. Бесплатная онлайн OTS на XLSX Слияние. Объединяйте OTS в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C++ Aspose.Cells. Бесплатное онлайн-слияние OTS в формат сохранения XLSX. C++ Объединить OTS в формат XLSX. Слияние OTS с XLSX в C++. Слияние OTS.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to XLSX in C++., Free Online C++ Merge OTS to xlsx., C++ Combine OTS to XLSX Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить OTS с XLSX через C++" h2="Высокоскоростная библиотека C++ для слияния OTS с XLSX. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в C++. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините OTS с номером XLSX онлайн бес
 
 {{% blocks/products/pf/agp/content h2="Объединить OTS с XLSX, используя C++" %}}
 
- Как слить ОТС на XLSX? С библиотекой Aspose.Cells for C++ вы можете легко программно объединить OTS с XLSX с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить OTS с номером XLSX? С библиотекой Aspose.Cells for C++ вы можете легко программно объединить OTS с XLSX с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -25,9 +26,9 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% blocks/products/pf/agp/content h2="Объедините OTS с XLSX в C++ онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Объедините OTS с XLSX в C++ Онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить OTS с XLSX в C++.
+В следующем примере показано, как объединить OTS с XLSX в Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить OTS с XLSX. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл XLSX. Если вы разрабатываете код в C++, это будет проще, чем кажется. См. пример C++, в котором OTS объединяется с XLSX.
@@ -36,17 +37,19 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения OTS с номером XLSX онлайн" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Бесплатно онлайн объединить OTS с XLSX в C++" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить OTS с XLSX через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
+Нужно слить OTS на XLSX программно? Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Загрузите файл OTS с классом Workbook.
++ Установить «Aspose.Cells for C++».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C++.
++ Загрузите файл OTS с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
 + Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Установите библиотеку, используя папки Include и lib. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Файл с расширением .ots представляет собой файл шаблона электронной таблицы OpenDocument, созданный с помощью прикладного программного обеспечения Calc, входящего в состав Apache OpenOffice. Программное обеспечение Calc аналогично Excel, доступному в Microsoft Office. Формат файла OTS используется для создания шаблонов, содержащих предопределенные параметры, связанные со стилями, шрифтом, данными, макетом электронной таблицы и форматированием. Файлы OTF имеют MIME-тип application/vnd.oasis.opendocument.spreadsheet-template. Эти файлы шаблонов можно использовать в качестве отправной точки для создания и сохранения файлов фактических данных, которые сохраняются в формате файла ODS. Файлы OTS можно использовать с такими приложениями, как OpenOffice и LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX — общеизвестный формат для документов Excel Microsoft, представленный Microsoft в выпуске Microsoft Office 2007. Основанный на структуре, организованной в соответствии с соглашениями об открытой упаковке, как указано в части 2 стандарта OOXML ECMA-376, новый формат ZIP-пакет, содержащий несколько XML-файлов. Базовую структуру и файлы можно изучить, просто разархивировав файл .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C++, можно также объединять ots со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-docx/" name="Объединить OTS с номером DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-sql/" name="Слияние OTS с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-bmp/" name="Объединить OTS с номером BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-emf/" name="Объединить OTS с номером EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-gif/" name="Объединить OTS с номером GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="Объединить OTS с номером HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-md/" name="Слияние OTS с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="Объединить OTS с номером MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="Объединить OTS с номером ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-pdf/" name="Объединить OTS с номером PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-png/" name="Объединить OTS с номером PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-svg/" name="Объединить OTS с номером SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tiff/" name="Объединить OTS с номером TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="Объединить OTS с номером TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="Объединить OTS с номером TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="Объединить OTS с номером XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="Объединить OTS с номером XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="Объединить OTS с номером XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="Объединить OTS с номером XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="Объединить OTS с номером XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="Объединить OTS с номером XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="Объединить OTS с номером XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xml/" name="Объединить OTS в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xps/" name="Объединить OTS с номером XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-json/" name="Объединить OTS с номером JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-jpeg/" name="Объединить OTS с номером JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

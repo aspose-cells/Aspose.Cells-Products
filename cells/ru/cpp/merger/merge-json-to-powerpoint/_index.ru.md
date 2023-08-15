@@ -1,7 +1,8 @@
 ---
-title:  Объединить JSON с POWERPOINT через C++
+title: Объединить JSON в POWERPOINT - Объединить JSON в POWERPOINT в C++
 url: /ru/cpp/merger/merge-json-to-powerpoint/ 
-description: Объедините JSON с POWERPOINT Online бесплатно. Бесплатный онлайн JSON для слияния POWERPOINT. Объединить JSON в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C++ Aspose.Cells. Бесплатное онлайн-слияние JSON в формат сохранения POWERPOINT. C++ Объединить JSON в формат POWERPOINT. Объединить JSON с POWERPOINT в C++. JSON Объединить.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to POWERPOINT in C++., Free Online C++ Merge JSON to powerpoint., C++ Combine JSON to POWERPOINT Online for Free., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить JSON с POWERPOINT через C++" h2="Высокоскоростная библиотека C++ для слияния JSON с POWERPOINT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C++. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините JSON с POWERPOINT Online бесплатно. 
 
 {{% blocks/products/pf/agp/content h2="Объединить JSON с POWERPOINT, используя C++" %}}
 
- Как слить JSON в POWERPOINT? С библиотекой Aspose.Cells for C++ вы можете легко объединить JSON с POWERPOINT программным путем с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить JSON с POWERPOINT? С библиотекой Aspose.Cells for C++ вы можете легко объединить JSON с POWERPOINT программным путем с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Объедините JSON с POWERPOINT в C++ Онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить JSON с POWERPOINT в C++.
+В следующем примере показано, как объединить JSON с POWERPOINT в Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить JSON с POWERPOINT. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле POWERPOINT. Если вы разрабатываете код в C++, это будет проще, чем кажется. См. пример C++, в котором JSON объединяется с POWERPOINT.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения JSON с POWERPOINT онлайн" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Бесплатно онлайн объединить JSON в POWERPOINT в C++" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить JSON с POWERPOINT через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить JSON с POWERPOINT? Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for C++».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C++.
 + Загрузите файл JSON с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Установите библиотеку, используя папки Include и lib. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (обозначение объектов JavaScript) — это открытый стандартный формат файла для обмена данными, который использует удобочитаемый текст для хранения и передачи данных. JSON файлов хранятся с расширением .json. JSON требует меньше форматирования и является хорошей альтернативой XML. JSON является производным от JavaScript, но является независимым от языка форматом данных. Генерация и анализ JSON поддерживается многими современными языками программирования. application/json — тип носителя, используемый для JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с пользовательскими настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C++, можно также объединить json со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-docx/" name="Объединить JSON с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-sql/" name="Объединить JSON с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-bmp/" name="Объединить JSON с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-emf/" name="Объединить JSON с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-gif/" name="Объединить JSON с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-html/" name="Объединить JSON с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-md/" name="Объединить JSON с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-mhtml/" name="Объединить JSON с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-ods/" name="Объединить JSON с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-pdf/" name="Объединить JSON с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-png/" name="Объединить JSON с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-svg/" name="Объединить JSON с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tiff/" name="Объединить JSON с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tsv/" name="Объединить JSON с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-txt/" name="Объединить JSON с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xls/" name="Объединить JSON с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsb/" name="Объединить JSON с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsm/" name="Объединить JSON с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsx/" name="Объединить JSON с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlt/" name="Объединить JSON с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltm/" name="Объединить JSON с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltx/" name="Объединить JSON с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xml/" name="Объединить JSON в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xps/" name="Объединить JSON с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-json/" name="Объединить JSON с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-jpeg/" name="Объединить JSON с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

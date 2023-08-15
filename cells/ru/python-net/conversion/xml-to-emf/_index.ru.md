@@ -1,7 +1,7 @@
 ---
-title: Преобразование XML в EMF Python via Python
-description: Конвертируйте XML в EMF онлайн бесплатно. Бесплатный онлайн конвертер XML в EMF. Python XML на EMF. XML на EMF через Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML в EMF - Онлайн конвертер XML в EMF
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Преобразование XML в формат сохранения EMF. Python XML в формате EMF. Сохраните XML в EMF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to EMF saveformat., Free Online XML to EMF Python., Python Convert XML to EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XML в EMF в Python" h2="Высокоскоростная библиотека Python для преобразования XML в EMF. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Преобразование XML в EMF в Python" %}}
 
- Как преобразовать XML в EMF? С помощью библиотеки Aspose.Cells for Python через библиотеку NET вы можете легко программно преобразовать XML в EMF с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как преобразовать XML в EMF? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать XML в EMF программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XML в EMF онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XML в EMF онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XML в EMF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать XML в EMF всего за несколько строк кода.
+Нужно программно преобразовать файлы XML в EMF? Разработчики Python могут легко загружать и преобразовывать XML в EMF всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузить XML-файл с экземпляром Workbook
-1.  Преобразуйте XML в EMF, вызвав метод Workbook.save
+1.  Загрузите XML-файл с экземпляром Workbook.
+1.  Преобразуйте XML в EMF, вызвав метод Workbook.save.
+1.  Получите результат преобразования XML в EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает Extensible Markup Language, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файла XML заключалась в том, чтобы хранить и передавать данные, не завися от программных или аппаратных инструментов. Его популярность связана с тем, что он читается как человеком, так и машиной. Это позволяет ему создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться по сети, такой как World Wide Web (WWW). «X» в XML означает расширяемость, что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Расширенный формат метафайла (EMF) позволяет хранить графические изображения независимо от устройства. Метафайлы EMF состоят из записей переменной длины в хронологическом порядке, которые могут отображать сохраненное изображение после анализа на любом устройстве вывода. Эти записи переменной длины могут быть определениями вложенных объектов, команд для рисования и графических свойств, важных для точного отображения изображения. Когда устройство открывает метафайл EMF, используя собственную графическую среду, пропорции, размеры, цвета и другие графические свойства исходного изображения остаются неизменными независимо от платформы открывающего устройства.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать XML во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

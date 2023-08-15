@@ -1,7 +1,8 @@
 ---
-title:  Объединить XLSB с PPTX via Java
+title: Объединить XLSB в PPTX - Объединить XLSB в PPTX в Java
 url: /ru/java/merger/merge-xlsb-to-pptx/ 
-description: Объедините XLSB с PPTX онлайн бесплатно. Бесплатный онлайн XLSB до PPTX Слияние. Объединить XLSB в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. Java Aspose.Cells. Бесплатное онлайн объединение XLSB в формат сохранения PPTX. Java Объединить формат XLSB в формат PPTX. Объединить XLSB с PPTX в Java. XLSB Объединить.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to PPTX in Java., Free Online Java Merge XLSB to pptx., Java Combine XLSB to PPTX Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить XLSB с PPTX via Java" h2="Высокоскоростная библиотека Java для слияния XLSB с PPTX. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините XLSB с PPTX онлайн бесплатно. 
 
 {{% blocks/products/pf/agp/content h2="Объединить XLSB с PPTX, используя Java" %}}
 
- Как объединить XLSB с PPTX? С библиотекой Aspose.Cells for Java вы можете легко объединить XLSB с PPTX программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как объединить XLSB с PPTX? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить XLSB с PPTX с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Объедините XLSB с PPTX онлайн бесплатно. 
 
 {{% blocks/products/pf/agp/content h2="Объединить XLSB с PPTX в Java онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить XLSB с PPTX в Java.
+В следующем примере показано, как объединить XLSB с PPTX в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить XLSB с PPTX. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл PPTX. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, в котором XLSB объединяется с PPTX.
@@ -55,16 +56,18 @@ description: Объедините XLSB с PPTX онлайн бесплатно. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения XLSB с PPTX онлайн" InputFormat="xlsb" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Бесплатно онлайн объединить XLSB с PPTX в Java" InputFormat="xlsb" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить XLSB с PPTX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить XLSB с PPTX? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for Java».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл XLSB с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -97,21 +100,41 @@ description: Объедините XLSB с PPTX онлайн бесплатно. 
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Формат файла XLSB указывает формат двоичного файла Excel, который представляет собой набор записей и структур, определяющих содержимое книги Excel. Содержимое может включать неструктурированные или частично структурированные таблицы чисел, текста или и чисел, и текста, формул, подключений к внешним данным, диаграмм и изображений. В отличие от XLSX (который основан на формате файла Open XML), XLSB представляет собой двоичный файл книги Excel. XLSB файлы можно читать и записывать быстрее, что делает их полезными для работы с большими файлами. XLSB редко используется для хранения книг, поскольку XLSX (а ранее XLS) являются наиболее распространенными форматами файлов, выбранными пользователем для сохранения книг. Его можно открыть с помощью Microsoft Office 2007 и выше.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с пользовательскими настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить xlsb со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-docx/" name="Объединить XLSB с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-sql/" name="Объединить XLSB с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-bmp/" name="Объединить XLSB с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-emf/" name="Объединить XLSB с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-gif/" name="Объединить XLSB с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-html/" name="Объединить XLSB с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-md/" name="Объединить XLSB с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-mhtml/" name="Объединить XLSB с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-ods/" name="Объединить XLSB с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-pdf/" name="Объединить XLSB с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-png/" name="Объединить XLSB с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-svg/" name="Объединить XLSB с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tiff/" name="Объединить XLSB с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tsv/" name="Объединить XLSB с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-txt/" name="Объединить XLSB с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xls/" name="Объединить XLSB с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsb/" name="Объединить XLSB с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsm/" name="Объединить XLSB с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsx/" name="Объединить XLSB с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlt/" name="Объединить XLSB с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltm/" name="Объединить XLSB с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltx/" name="Объединить XLSB с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xml/" name="Объединить XLSB в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xps/" name="Объединить XLSB с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-json/" name="Объединить XLSB с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-jpeg/" name="Объединить XLSB с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

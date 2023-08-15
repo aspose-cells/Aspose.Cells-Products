@@ -1,7 +1,8 @@
 ---
-title:  Слияние XML с MHT через C#
+title: Объединить XML в MHT — Объединить XML в MHT в C#
 url: /ru/net/merger/merge-xml-to-mht/ 
-description: Слияние XML с MHT онлайн бесплатно. Бесплатное онлайн-слияние XML в MHT. Слияние XML с Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и т. д.
+description: Aspose Excel. C# Aspose.Cells. Бесплатное онлайн-слияние XML в формат сохранения MHT. C# Объединение XML в формат MHT. Слияние XML с MHT по номеру C#. Слияние XML.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XML to MHT in C#., Free Online C# Merge XML to mht., C# Combine XML to MHT Online for Free., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Слияние XML с MHT через C#" h2="Высокоскоростная библиотека C# для слияния XML с MHT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C#. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Слияние XML с MHT онлайн бесплатно. Бесп
 
 {{% blocks/products/pf/agp/content h2="Слияние XML с MHT с помощью C#" %}}
 
-Как слить XML в MHT? С библиотекой Aspose.Cells for .NET вы можете легко объединить XML в MHT программным путем с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить XML с MHT? С библиотекой Aspose.Cells for .NET вы можете легко объединить XML в MHT программным путем с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Слияние XML с MHT в C# онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить XML с MHT в C#.
+В следующем примере показано, как объединить XML с MHT в Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить XML в MHT. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле MHT. Если вы разрабатываете код в C#, это будет проще, чем кажется. См. пример C#, в котором XML объединяется с MHT.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения XML в MHT онлайн" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Бесплатно онлайн объединить XML в MHT в C#" InputFormat="xml" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить XML в MHT через C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить XML в MHT? Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
 + Загрузите файл XML с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells/) . Видеть[Документация](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)в интегрированной среде разработки Visual Studio
+1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) в интегрированной среде разработки Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML означает Extensible Markup Language, который похож на HTML, но отличается использованием тегов для определения объектов. Вся идея создания формата файла XML заключалась в том, чтобы хранить и передавать данные, не завися от программных или аппаратных инструментов. Его популярность связана с тем, что он читается как человеком, так и машиной. Это позволяет ему создавать общие протоколы данных в виде объектов, которые будут храниться и совместно использоваться по сети, такой как World Wide Web (WWW). «X» в XML означает расширяемость, что означает, что язык может быть расширен до любого количества символов в соответствии с требованиями пользователя. Именно для этих функций его используют многие стандартные форматы файлов, такие как Microsoft Open XML, LibreOffice OpenDocument, XHTML и SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht представляет собой формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы в виде встроенных в него ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в виде одного архивного файла для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют преобразовывать ваши документы WORD в MHT путем экспорта в виде файла MHT. Файлы MHT можно открывать с помощью популярных браузеров, таких как Microsoft Internet Explorer и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C#, можно также объединять xml со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-docx/" name="Объединить XML в DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-sql/" name="Объединить XML в SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-bmp/" name="Объединить XML в BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-emf/" name="Объединить XML в EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-gif/" name="Объединить XML в GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-html/" name="Объединить XML в HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-md/" name="Объединить XML в MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-mhtml/" name="Объединить XML в MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-ods/" name="Объединить XML в ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-pdf/" name="Объединить XML в PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-png/" name="Объединить XML в PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-svg/" name="Объединить XML в SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-tiff/" name="Объединить XML в TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-tsv/" name="Объединить XML в TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-txt/" name="Объединить XML в TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xls/" name="Объединить XML в XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsb/" name="Объединить XML в XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsm/" name="Объединить XML в XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlsx/" name="Объединить XML в XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xlt/" name="Объединить XML в XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltm/" name="Объединить XML в XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xltx/" name="Объединить XML в XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xml/" name="Объединить XML в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-xps/" name="Объединить XML в XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-json/" name="Объединить XML в JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xml-to-jpeg/" name="Объединить XML в JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Преобразование JSON в JPEG Python via Python
-description: Конвертируйте JSON в JPEG онлайн бесплатно. Бесплатный онлайн конвертер JSON в JPEG. Python JSON до JPEG. JSON до JPEG через Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON в JPEG - Онлайн конвертер JSON в JPEG
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать JSON в JPEG сохранить формат. Python JSON в формате JPEG. Сохраните JSON в JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to JPEG saveformat., Free Online JSON to JPEG Python., Python Convert JSON to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование JSON в JPEG в Python" h2="Высокоскоростная библиотека Python для преобразования JSON в JPEG. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,25 +28,26 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JSON в JPEG онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования JSON в JPEG онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать JSON в JPEG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать JSON в JPEG всего за несколько строк кода.
+Нужно программно конвертировать файлы JSON в JPEG? Разработчики Python могут легко загружать и преобразовывать JSON в JPEG всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл JSON с экземпляром Workbook
-1.  Преобразуйте JSON в JPEG, вызвав метод Workbook.save
+1.  Загрузите файл JSON с экземпляром Workbook.
+1.  Преобразуйте JSON в JPEG, вызвав метод Workbook.save.
+1.  Получите результат преобразования JSON в JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования JSON в JPEG" %}}
+{{% blocks/products/pf/agp/content h2="Python библиотека для преобразования JSON в JPEG" %}}
 
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
@@ -55,7 +56,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (обозначение объектов JavaScript) — это открытый стандартный формат файла для обмена данными, который использует удобочитаемый текст для хранения и передачи данных. JSON файлов хранятся с расширением .json. JSON требует меньше форматирования и является хорошей альтернативой XML. JSON является производным от JavaScript, но является независимым от языка форматом данных. Генерация и анализ JSON поддерживается многими современными языками программирования. application/json — тип носителя, используемый для JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать JSON во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

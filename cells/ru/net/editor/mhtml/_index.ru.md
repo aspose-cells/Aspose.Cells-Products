@@ -1,5 +1,5 @@
 ---
-title: Редактировать файлы MHTML via .NET
+title:  Редактировать файлы MHTML via .NET
 description: C# исходный код для редактирования MHTML документа на платформах .NET Framework, .NET Core, Windows Azure, Mono или платформах Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

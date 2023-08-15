@@ -1,7 +1,7 @@
 ---
-title: Преобразование HTM в PDF Python via Python
-description: Конвертируйте HTM в PDF онлайн бесплатно. Бесплатный онлайн конвертер HTM в PDF. Python HTM до PDF. HTM до PDF через Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM в PDF - Онлайн конвертер HTM в PDF
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать HTM в формат сохранения PDF. Python HTM в формате PDF. Сохраните HTM на номер PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to PDF saveformat., Free Online HTM to PDF Python., Python Convert HTM to PDF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование HTM в PDF в Python" h2="Высокоскоростная библиотека Python для преобразования HTM в PDF. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTM в PDF онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTM в PDF онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать HTM в PDF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и конвертировать HTM в PDF всего за несколько строк кода.
+Нужно программно преобразовать файлы HTM в PDF? Разработчики Python могут легко загружать и конвертировать HTM в PDF всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл HTM с экземпляром Workbook
-1.  Преобразуйте HTM в PDF, вызвав метод Workbook.save
+1.  Загрузите файл HTM с экземпляром Workbook.
+1.  Преобразуйте HTM в PDF, вызвав метод Workbook.save.
+1.  Получите результат преобразования HTM в PDF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) — это тип документа, созданный Adobe еще в 1990-х годах. Цель этого формата файла состояла в том, чтобы ввести стандарт для представления документов и других справочных материалов в формате, который не зависит от прикладного программного обеспечения, оборудования, а также операционной системы. Формат файла PDF имеет полную возможность содержать такую информацию, как текст, изображения, гиперссылки, поля форм, мультимедийные материалы, цифровые подписи, вложения, метаданные, геопространственные функции и трехмерные объекты, которые могут стать частью исходного документа.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать HTM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

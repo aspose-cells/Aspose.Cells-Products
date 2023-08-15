@@ -18,7 +18,7 @@ description: Объединяйте файлы электронных табли
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Объединить несколько файлов Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования.
 {{% blocks/products/pf/feature-page-code h3="C# Код для объединения нескольких файлов Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

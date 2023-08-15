@@ -1,7 +1,8 @@
 ---
-title:  Объединить XLT с XLSM via Java
+title: Объединить XLT в XLSM - Объединить XLT в XLSM в Java
 url: /ru/java/merger/merge-xlt-to-xlsm/ 
-description: Объедините XLT с XLSM онлайн бесплатно. Бесплатный онлайн XLT до XLSM Слияние. Объединить XLT в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. Java Aspose.Cells. Бесплатное онлайн объединение XLT в формат сохранения XLSM. Java Объединить формат XLT в формат XLSM. Объединить XLT с XLSM в Java. XLT Объединить.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to XLSM in Java., Free Online Java Merge XLT to xlsm., Java Combine XLT to XLSM Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить XLT с XLSM via Java" h2="Высокоскоростная библиотека Java для слияния XLT с XLSM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Java. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините XLT с XLSM онлайн бесплатно. �
 
 {{% blocks/products/pf/agp/content h2="Объединить XLT с XLSM, используя Java" %}}
 
- Как объединить XLT с XLSM? С библиотекой Aspose.Cells for Java вы можете легко объединить XLT с XLSM программно с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+ Как объединить XLT с XLSM? С помощью библиотеки Aspose.Cells for Java вы можете легко программно объединить XLT с XLSM с помощью нескольких строк кода.[Aspose.Cells for Java](https://products.aspose.com/cells/java) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Java Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете скачать его последнюю версию прямо с[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Объедините XLT с XLSM онлайн бесплатно. �
 
 {{% blocks/products/pf/agp/content h2="Объединить XLT с XLSM в Java онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить XLT с XLSM в Java.
+В следующем примере показано, как объединить XLT с XLSM в Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить XLT с XLSM. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл XLSM. Если вы разрабатываете код в Java, это будет проще, чем кажется. См. пример Java, в котором XLT объединяется с XLSM.
@@ -55,16 +56,18 @@ description: Объедините XLT с XLSM онлайн бесплатно. �
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения XLT с XLSM онлайн" InputFormat="xlt" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Бесплатно онлайн объединить XLT с XLSM в Java" InputFormat="xlt" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить XLT с XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить XLT с XLSM? Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for Java».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Java.
 + Загрузите файл XLT с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -97,21 +100,41 @@ description: Объедините XLT с XLSM онлайн бесплатно. �
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Файлы с расширением .xlt представляют собой файлы шаблонов, созданные с помощью Microsoft Excel, приложения для работы с электронными таблицами, входящего в состав пакета Office Microsoft. Microsoft Office 97-2003 поддерживает создание новых файлов XLT, а также их открытие. Последняя версия Excel по-прежнему способна открывать файлы шаблонов этого старого формата. Такой файл шаблона используется для быстрого создания новых файлов Excel с данными и настройками по умолчанию, такими как форматирование страницы, размер шрифта, поля, диаграммы и т. д., которые в дальнейшем можно сохранить как новые файлы .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Файлы с расширением XLSM — это тип файлов электронных таблиц, поддерживающих макросы. С точки зрения приложения макрос — это набор инструкций, которые используются для автоматизации процессов. Макрос используется для записи повторяющихся шагов и облегчает выполнение действий путем повторного запуска макроса. Макросы программируются с помощью Visual Basic для приложений (VBA) Microsoft из рабочей книги Excel с помощью редактора Visual Basic, и их можно запускать/отлаживать непосредственно из него.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя Java, можно также объединить xlt со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-docx/" name="Объединить XLT с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-sql/" name="Объединить XLT с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-bmp/" name="Объединить XLT с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-emf/" name="Объединить XLT с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-gif/" name="Объединить XLT с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="Объединить XLT с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-md/" name="Объединить XLT с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="Объединить XLT с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="Объединить XLT с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-pdf/" name="Объединить XLT с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-png/" name="Объединить XLT с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-svg/" name="Объединить XLT с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tiff/" name="Объединить XLT с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="Объединить XLT с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="Объединить XLT с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="Объединить XLT с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="Объединить XLT с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="Объединить XLT с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="Объединить XLT с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="Объединить XLT с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="Объединить XLT с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="Объединить XLT с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xml/" name="Объединить XLT в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xps/" name="Объединить XLT с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-json/" name="Объединить XLT с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-jpeg/" name="Объединить XLT с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

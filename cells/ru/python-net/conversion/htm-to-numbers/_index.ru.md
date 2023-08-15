@@ -1,7 +1,7 @@
 ---
-title: Конвертировать HTM в ЧИСЛА Python via Python
-description: Конвертируйте HTM в NUMBERS онлайн бесплатно. Бесплатный онлайн-конвертер HTM в NUMBERS. Python HTM в НОМЕРА. HTM на NUMBERS через Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM в NUMBERS - Онлайн конвертер HTM в NUMBERS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Преобразование HTM в формат сохранения NUMBERS. Python HTM в формат NUMBERS. Сохраните HTM в НОМЕРА Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to NUMBERS saveformat., Free Online HTM to NUMBERS Python., Python Convert HTM to NUMBERS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертировать HTM в NUMBERS в Python" h2="Высокоскоростная библиотека Python для преобразования HTM в NUMBERS. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="NUMBERS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Конвертировать HTM в NUMBERS в Python" %}}
 
- Как конвертировать HTM в ЦИФРЫ? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать HTM в NUMBERS программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как конвертировать HTM в NUMBERS? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать HTM в NUMBERS программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для конвертации HTM в NUMBERS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="numbers" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для конвертации HTM в NUMBERS онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="numbers" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать HTM в ЦИФРЫ" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python разработчиков могут легко загружать и конвертировать HTM в NUMBERS всего за несколько строк кода.
+Нужно программно преобразовать файлы HTM в NUMBERS? Python разработчиков могут легко загружать и конвертировать HTM в NUMBERS всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл HTM с экземпляром Workbook
-1.  Преобразуйте HTM в NUMBERS, вызвав метод Workbook.save
+1.  Загрузите файл HTM с экземпляром Workbook.
+1.  Преобразуйте HTM в NUMBERS, вызвав метод Workbook.save.
+1.  Получите результат преобразования HTM в NUMBERS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Файлы с расширением .numbers относятся к типу файлов электронных таблиц, поэтому они аналогичны файлам .xlsx; но файлы Numbers создаются с помощью программного обеспечения для работы с электронными таблицами Apple iWork Numbers. Apple iWork Numbers — это модуль программного обеспечения iWork Productivity Suite. Пакет iWork Productivity Suite эквивалентен пакету Office Microsoft, который используется на ПК Windows. Следовательно, мы можем сказать, что Numbers, доступный для MacOS, также является конкурентом Microsoft Excel. Аналогично, Microsoft Excel, файл NUMBERS также может содержать таблицы, диаграммы и формулы.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать HTM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

@@ -1,7 +1,7 @@
 ---
 title:  Вставьте блок-схему в Excel по номеру C++.
 weight: 790
-description: C++ пример кода для вставки блок-схемы в файл Excel в среде выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows и 64-разрядной версии Linux.
+description: Пример кода C++ для вставки блок-схемы в файл Excel в среде выполнения C++ для 32-разрядной версии Windows, 64-разрядной версии Windows и 64-разрядной версии Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Вставьте блок-схему в Excel по номеру C++." h2="Вставляйте объекты, используя встроенную и высокопроизводительную серверную часть Aspose.Cells for C++ API без использования какого-либо программного обеспечения, такого как Microsoft или Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

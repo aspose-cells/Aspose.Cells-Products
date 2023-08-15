@@ -1,7 +1,8 @@
 ---
-title:  Объединить MHT с PPTX через C++
+title: Объединить MHT с PPTX - Объединить MHT с PPTX в C++
 url: /ru/cpp/merger/merge-mht-to-pptx/ 
-description: Объедините MHT с номером PPTX онлайн бесплатно. Бесплатный онлайн MHT на PPTX Слияние. Слияние MHT с Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и т. д.
+description: Aspose Excel. C++ Aspose.Cells. Бесплатное онлайн объединение MHT в формат сохранения PPTX. C++ Объединить MHT в формат PPTX. Объединить MHT с PPTX в C++. Объединить MHT.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHT to PPTX in C++., Free Online C++ Merge MHT to pptx., C++ Combine MHT to PPTX Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить MHT с PPTX через C++" h2="Высокоскоростная библиотека C++ для слияния MHT с PPTX. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в C++. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините MHT с номером PPTX онлайн бес
 
 {{% blocks/products/pf/agp/content h2="Объединить MHT с PPTX, используя C++" %}}
 
- Как слить MHT с PPTX? С библиотекой Aspose.Cells for C++ вы можете легко программно объединить MHT с PPTX с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить MHT с номером PPTX? С библиотекой Aspose.Cells for C++ вы можете легко программно объединить MHT с PPTX с помощью нескольких строк кода.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. C++ Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Вы можете загрузить его последнюю версию напрямую, просто открыв[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) диспетчер пакетов, найдите Aspose.Cells.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Объедините MHT с PPTX в C++ онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить MHT с PPTX в C++.
+В следующем примере показано, как объединить MHT с PPTX в Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить MHT с PPTX. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл PPTX. Если вы разрабатываете код в C++, это будет проще, чем кажется. См. пример C++, в котором MHT объединяется с PPTX.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения MHT с номером PPTX онлайн" InputFormat="mht" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Бесплатно онлайн объединить MHT с PPTX в C++" InputFormat="mht" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить MHT с PPTX через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
+Нужно программно объединить MHT с PPTX? Базовый документ сливается и объединяется с[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for C++».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C++.
 + Загрузите файл MHT с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Установите библиотеку, используя папки Include и lib. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Установите Aspose.Cells for C++ в Linux. Видеть[Документация](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht представляет собой формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы в виде встроенных в него ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в виде одного архивного файла для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют преобразовывать ваши документы WORD в MHT путем экспорта в виде файла MHT. Файлы MHT можно открывать с помощью популярных браузеров, таких как Microsoft Internet Explorer и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Файлы с расширением PPTX представляют собой файлы презентаций, созданные с помощью популярного приложения Microsoft PowerPoint. В отличие от предыдущей версии формата файла презентации PPT, которая была двоичной, формат PPTX основан на формате файла презентации Microsoft PowerPoint open XML. Файл презентации — это набор слайдов, каждый из которых может содержать текст, изображения, форматирование, анимацию и другие медиафайлы. Эти слайды представляются аудитории в виде слайд-шоу с пользовательскими настройками презентации.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C++, можно также объединить mht со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-docx/" name="Объединить MHT с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-sql/" name="Слияние MHT с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-bmp/" name="Объединить MHT с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-emf/" name="Объединить MHT с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-gif/" name="Объединить MHT с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-html/" name="Объединить MHT с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-md/" name="Объединить MHT в MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-mhtml/" name="Объединить MHT с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-ods/" name="Объединить MHT с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-pdf/" name="Объединить MHT с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-png/" name="Объединить MHT с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-svg/" name="Объединить MHT с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tiff/" name="Объединить MHT с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-tsv/" name="Объединить MHT с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-txt/" name="Объединить MHT с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xls/" name="Объединить MHT с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsb/" name="Объединить MHT с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsm/" name="Объединить MHT с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlsx/" name="Объединить MHT с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xlt/" name="Объединить MHT с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xltm/" name="Объединить MHT с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xltx/" name="Объединить MHT с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xml/" name="Объединить MHT в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-xps/" name="Объединить MHT с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-json/" name="Объединить MHT с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mht-to-jpeg/" name="Объединить MHT с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

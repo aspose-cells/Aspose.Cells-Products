@@ -1,7 +1,8 @@
 ---
-title:  Объединить SXC с XLSX через C#
+title: Объединить SXC в XLSX - Объединить SXC в XLSX в C#
 url: /ru/net/merger/merge-sxc-to-xlsx/ 
-description: Объедините SXC с XLSX онлайн бесплатно. Бесплатный онлайн SXC до XLSX Слияние. Объединить SXC в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C# Aspose.Cells. Бесплатное онлайн объединение SXC в формат сохранения XLSX. C# Объединить формат SXC в формат XLSX. Объединить SXC с XLSX в C#. SXC Объединить.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SXC to XLSX in C#., Free Online C# Merge SXC to xlsx., C# Combine SXC to XLSX Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить SXC с XLSX через C#" h2="Высокоскоростная библиотека C# для слияния SXC с XLSX. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C#. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Объедините SXC с XLSX онлайн бесплатно. �
 
 {{% blocks/products/pf/agp/content h2="Объединить SXC с XLSX, используя C#" %}}
 
- Как объединить SXC с XLSX? С библиотекой Aspose.Cells for .NET вы можете легко объединить SXC с XLSX программно с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+ Как объединить SXC с XLSX? С помощью библиотеки Aspose.Cells for .NET вы можете легко программно объединить SXC с XLSX с помощью нескольких строк кода.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. .NET Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы. Открыть[NuGet](https://www.nuget.org/packages/aspose.cells) диспетчер пакетов, найдите Aspose.Cells и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Объединить SXC с XLSX в C# онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить SXC с XLSX в C#.
+В следующем примере показано, как объединить SXC с XLSX в Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Выполните простые шаги, чтобы объединить SXC с XLSX. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файл XLSX. Если вы разрабатываете код в C#, это будет проще, чем кажется. См. пример C#, в котором SXC объединяется с XLSX.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения SXC с XLSX онлайн" InputFormat="sxc" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Бесплатно онлайн объединить SXC с XLSX в C#" InputFormat="sxc" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить SXC с XLSX через C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
+ Нужно программно объединить SXC с XLSX? Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Установить «Aspose.Cells for .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
 + Загрузите файл SXC с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells/) . Видеть[Документация](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)в интегрированной среде разработки Visual Studio
+1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) в интегрированной среде разработки Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Формат файла SXC (Sun XML Calc) принадлежит офисному пакету OpenOffice.org. Этот формат обычно отвечает потребностям пользователей в электронных таблицах, поскольку он представляет собой формат файла электронной таблицы на основе XML. SXC поддерживает формулы, функции, макросы и диаграммы, а также DataPilot, что является невероятной функцией, поскольку она автоматически индивидуализирует и предоставляет сводки необработанных импортированных данных. Файлы, созданные с помощью этого программного обеспечения, сохраняются с расширением .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX — общеизвестный формат для документов Excel Microsoft, представленный Microsoft в выпуске Microsoft Office 2007. Основанный на структуре, организованной в соответствии с соглашениями об открытой упаковке, как указано в части 2 стандарта OOXML ECMA-376, новый формат ZIP-пакет, содержащий несколько XML-файлов. Базовую структуру и файлы можно изучить, просто разархивировав файл .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C#, можно также объединить sxc со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-docx/" name="Объединить SXC с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-sql/" name="Объединить SXC с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-bmp/" name="Объединить SXC с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-emf/" name="Объединить SXC с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-gif/" name="Объединить SXC с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-html/" name="Объединить SXC с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-md/" name="Объединить SXC с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-mhtml/" name="Объединить SXC с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-ods/" name="Объединить SXC с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-pdf/" name="Объединить SXC с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-png/" name="Объединить SXC с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-svg/" name="Объединить SXC с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tiff/" name="Объединить SXC с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-tsv/" name="Объединить SXC с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-txt/" name="Объединить SXC с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xls/" name="Объединить SXC с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsb/" name="Объединить SXC с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsm/" name="Объединить SXC с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlsx/" name="Объединить SXC с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xlt/" name="Объединить SXC с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltm/" name="Объединить SXC с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xltx/" name="Объединить SXC с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xml/" name="Объединить SXC в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-xps/" name="Объединить SXC с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-json/" name="Объединить SXC с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-sxc-to-jpeg/" name="Объединить SXC с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

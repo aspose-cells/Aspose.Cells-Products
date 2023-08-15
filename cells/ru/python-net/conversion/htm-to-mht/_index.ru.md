@@ -1,7 +1,7 @@
 ---
-title: Конвертировать HTM в MHT Python via Python
-description: Конвертируйте HTM в MHT онлайн бесплатно. Бесплатный онлайн-конвертер HTM в MHT. Python HTM в MHT. HTM на MHT через Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM в MHT - Онлайн-конвертер HTM в MHT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Преобразование HTM в формат сохранения MHT. Python Формат HTM в MHT. Сохраните HTM в MHT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MHT saveformat., Free Online HTM to MHT Python., Python Convert HTM to MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование HTM в MHT в Python" h2="Высокоскоростная библиотека Python для преобразования HTM в MHT. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTM в MHT онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTM в MHT онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать HTM в MHT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python разработчики могут легко загружать и конвертировать HTM в MHT, написав всего несколько строк кода.
+Нужно программно преобразовать файлы HTM в MHT? Python разработчики могут легко загружать и конвертировать HTM в MHT, написав всего несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл HTM с экземпляром Workbook
-1. Преобразуйте HTM в MHT, вызвав метод Workbook.save
+1.  Загрузите файл HTM с экземпляром Workbook.
+1.  Преобразуйте HTM в MHT, вызвав метод Workbook.save.
+1.  Получите результат преобразования HTM в MHT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Файл с расширением .mht представляет собой формат архивного файла с поддержкой MIME, который содержит различные типы данных в одном файле. Он может хранить такие данные, как текст, изображения, стили страниц в виде файлов CSS, JavaScript и другие ресурсы в виде встроенных в него ресурсов. Файлы MHT, имеющие тип MIME message/rfc822, инкапсулируют все содержимое файла HTML в виде одного архивного файла для хранения при архивировании на устройствах хранения. Программные приложения, такие как Microsoft Word, позволяют преобразовывать ваши документы WORD в MHT путем экспорта в виде файла MHT. Файлы MHT можно открывать с помощью популярных браузеров, таких как Microsoft Internet Explorer и Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать HTM во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

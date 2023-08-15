@@ -1,7 +1,8 @@
 ---
-title:  Объединить PRN с HTM через C#
+title: Объединить PRN с HTM — Объединить PRN с HTM в C#
 url: /ru/net/merger/merge-prn-to-htm/ 
-description: Слияние PRN с HTM Online бесплатно. Бесплатное онлайн-слияние PRN с HTM. Объединяйте PRN в Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS и другие.
+description: Aspose Excel. C# Aspose.Cells. Бесплатное онлайн-слияние PRN в формат сохранения HTM. C# Объединение PRN в формат HTM. Слияние PRN с HTM в C#. Слияние PRN.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to HTM in C#., Free Online C# Merge PRN to htm., C# Combine PRN to HTM Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Объединить PRN с HTM через C#" h2="Высокоскоростная библиотека C# для слияния PRN с HTM. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в C#. Это профессиональное программное решение для импорта и экспорта Excel, CSV, OpenOffice, PDF, HTML, image и многих других форматов Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Слияние PRN с HTM в C# онлайн бесплатно" %}}
 
-В следующем примере показано, как объединить PRN с HTM в C#.
+В следующем примере показано, как объединить PRN с HTM в Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Следуйте простым шагам, чтобы объединить PRN с HTM. Загрузите свои файлы, вызовите метод Workbook.Combine для объединения файлов, а затем сохраните его в файле HTM. Если вы разрабатываете код в C#, это будет проще, чем кажется. См. пример C#, объединяющий PRN и HTM.
@@ -36,17 +37,19 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Бесплатное приложение для объединения PRN в HTM онлайн" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Бесплатный онлайн для слияния PRN с HTM в C#" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Как объединить PRN с HTM через C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
+Нужно программно объединить PRN с HTM? Базовый документ сливается и объединяется с[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Загрузите файл PRN с классом Workbook.
++ Установить «Aspose.Cells for .NET».
++ Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект C#.
++ Загрузите файл PRN с классом Workbook.
 + Вызвать метод Workbook.Combine для объединения файлов.
 + Вызовите метод Workbook.Save и передайте имя выходного файла в качестве параметра.
 + Теперь вы можете открыть и использовать полученный файл в Microsoft Office, Adobe PDF или любой другой совместимой программе.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите[NuGet Пакет](https://www.nuget.org/packages/Aspose.Cells/) . Видеть[Документация](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)в интегрированной среде разработки Visual Studio
+1.  Установите библиотеку с помощью[Консоль диспетчера пакетов](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) в интегрированной среде разработки Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Файл PRN — это файл, созданный с помощью флажка «Печать в файл», который появляется в некоторых диалоговых окнах «Печать» по номеру Windows. Он содержит набор инструкций для конкретного устройства, которые принтер, факсимильный аппарат или другое устройство использует для печати документа. Файлы PRN могут содержать текстовое или двоичное содержимое, в зависимости от устройства, для которого файл был создан.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Файлы с расширением .htm представляют собой язык гипертекстовой разметки для создания веб-страниц для отображения в веб-браузерах, таких как Google Chrome, Internet Explorer, Firefox и ряде других. Он определяет разметку для создания статических страниц, которые будут опубликованы во всемирной паутине (WWW) для доступа других лиц. Эти разметки сообщают браузерам, как отображать содержимое веб-страницы. Такие страницы могут содержать обычный текст, изображения, гиперссылки на другие страницы, видео и другую медиаинформацию. Когда веб-страница публикуется, вы можете взглянуть на код разметки, стоящий за ней, просмотрев исходный код страницы. Современные браузеры позволяют просматривать каждый раздел веб-страницы, где прорабатывается каждый подраздел или элемент разметки в исходном коде HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы слияния" subTitle="Используя C#, можно также объединить prn со многими другими форматами файлов, включая ." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-html/" name="HTML" description="Язык гипертекстовой разметки" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-mhtml/" name="MHTML" description="Формат архива веб-страницы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-ods/" name="ODS" description="Файл электронной таблицы OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tsv/" name="TSV" description="Значения, разделенные табуляцией" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-txt/" name="TXT" description="Текстовый документ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xls/" name="XLS" description="Двоичный формат Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsb/" name="XLSB" description="Двоичный файл книги Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsm/" name="XLSM" description="Файл электронной таблицы" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsx/" name="XLSX" description="Файл Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft Шаблон Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltm/" name="XLTM" description="Шаблон Excel с поддержкой макросов" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltx/" name="XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-docx/" name="Объединить PRN с DOCX" description="Microsoft Документ Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-sql/" name="Слияние PRN с SQL" description="Язык структурированных запросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-bmp/" name="Объединить PRN с BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-emf/" name="Объединить PRN с EMF" description="Расширенный формат метафайла" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-gif/" name="Объединить PRN с GIF" description="Графический формат обмена" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-html/" name="Объединить PRN с HTML" description="Язык гипертекстовой разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-md/" name="Объединить PRN с MD" description="Язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-mhtml/" name="Объединить PRN с MHTML" description="Формат архива веб-страницы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-ods/" name="Объединить PRN с ODS" description="Файл электронной таблицы OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-pdf/" name="Объединить PRN с PDF" description="Портативный формат документа" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-png/" name="Объединить PRN с PNG" description="Портативная сетевая графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-svg/" name="Объединить PRN с SVG" description="Масштабируемая векторная графика" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tiff/" name="Объединить PRN с TIFF" description="Формат изображения с тегами" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tsv/" name="Объединить PRN с TSV" description="Значения, разделенные табуляцией" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-txt/" name="Объединить PRN с TXT" description="Текстовый документ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xls/" name="Объединить PRN с XLS" description="Двоичный формат Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsb/" name="Объединить PRN с XLSB" description="Двоичный файл книги Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsm/" name="Объединить PRN с XLSM" description="Файл электронной таблицы" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsx/" name="Объединить PRN с XLSX" description="Файл Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlt/" name="Объединить PRN с XLT" description="Microsoft Шаблон Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltm/" name="Объединить PRN с XLTM" description="Шаблон Excel с поддержкой макросов" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltx/" name="Объединить PRN с XLTX" description="Шаблон Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xml/" name="Объединить PRN в XML" description="расширяемый язык разметки" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xps/" name="Объединить PRN с XPS" description="Спецификации XML-бумаги" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-json/" name="Объединить PRN с JSON" description="Обозначение объектов JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-jpeg/" name="Объединить PRN с JPEG" description="JPEG Изображение" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

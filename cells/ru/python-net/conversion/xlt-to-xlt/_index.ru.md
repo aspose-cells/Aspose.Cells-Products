@@ -1,7 +1,7 @@
 ---
-title: Преобразование XLT в XLT Python via Python
-description: Конвертируйте XLT в XLT онлайн бесплатно. Бесплатный онлайн конвертер XLT в XLT. Python XLT до XLT. XLT до XLT через Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT в XLT - Онлайн конвертер XLT в XLT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать XLT в XLT сохранить формат. Python XLT в формате XLT. Сохраните XLT в XLT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to XLT saveformat., Free Online XLT to XLT Python., Python Convert XLT to XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование XLT в XLT в Python" h2="Высокоскоростная библиотека Python для преобразования XLT в XLT. Используйте наше преобразование Excel API для разработки высокоуровневого независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,25 +28,26 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLT в XLT онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования XLT в XLT онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать XLT в XLT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и преобразовывать XLT в XLT всего за несколько строк кода.
+Нужно программно конвертировать файлы XLT в XLT? Разработчики Python могут легко загружать и преобразовывать XLT в XLT всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл XLT с экземпляром Workbook
-1.  Преобразуйте XLT в XLT, вызвав метод Workbook.save
+1.  Загрузите файл XLT с экземпляром Workbook.
+1.  Преобразуйте XLT в XLT, вызвав метод Workbook.save.
+1.  Получите результат преобразования XLT в XLT.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="библиотека Python для преобразования XLT в XLT" %}}
+{{% blocks/products/pf/agp/content h2="Python библиотека для преобразования XLT в XLT" %}}
 
 Мы размещаем наши пакеты Python в репозиториях PyPi.
 
@@ -55,7 +56,7 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Файлы с расширением .xlt представляют собой файлы шаблонов, созданные с помощью Microsoft Excel, приложения для работы с электронными таблицами, входящего в состав пакета Office Microsoft. Microsoft Office 97-2003 поддерживает создание новых файлов XLT, а также их открытие. Последняя версия Excel по-прежнему способна открывать файлы шаблонов этого старого формата. Такой файл шаблона используется для быстрого создания новых файлов Excel с данными и настройками по умолчанию, такими как форматирование страницы, размер шрифта, поля, диаграммы и т. д., которые в дальнейшем можно сохранить как новые файлы .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Файлы с расширением .xlt представляют собой файлы шаблонов, созданные с помощью Microsoft Excel, приложения для работы с электронными таблицами, входящего в состав пакета Office Microsoft. Microsoft Office 97-2003 поддерживает создание новых файлов XLT, а также их открытие. Последняя версия Excel по-прежнему способна открывать файлы шаблонов этого старого формата. Такой файл шаблона используется для быстрого создания новых файлов Excel с данными и настройками по умолчанию, такими как форматирование страницы, размер шрифта, поля, диаграммы и т. д., которые в дальнейшем можно сохранить как новые файлы .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать XLT во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

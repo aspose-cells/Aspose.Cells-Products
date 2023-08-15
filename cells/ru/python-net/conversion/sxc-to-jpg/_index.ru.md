@@ -1,7 +1,7 @@
 ---
-title: Конвертировать SXC в JPG Python via Python
-description: Конвертируйте SXC в JPG онлайн бесплатно. Бесплатный онлайн конвертер SXC в JPG. Python SXC в JPG. SXC в JPG через Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC в JPG - онлайн SXC в JPG Конвертер
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать SXC в формат сохранения JPG. Python SXC в формат JPG. Сохраните SXC в JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to JPG saveformat., Free Online SXC to JPG Python., Python Convert SXC to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Конвертировать SXC в JPG в Python" h2="Высокоскоростная библиотека Python для преобразования SXC в JPG. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Конвертировать SXC в JPG в Python" %}}
 
-Как преобразовать SXC в JPG? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать SXC в JPG программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
+ Как преобразовать SXC в JPG? С Aspose.Cells for Python через библиотеку NET вы можете легко преобразовать SXC в JPG программно с помощью нескольких строк кода.[Aspose.Cells for Python через NET](https://pypi.org/project/aspose-cells-python/)способен создавать кроссплатформенные приложения с возможностью создания, изменения, преобразования, рендеринга и печати всех файлов Excel. Python Excel API не только конвертирует форматы электронных таблиц, но также может отображать файлы Excel в виде изображений, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT и т. д., что делает его идеальным выбором для обмена документы в отраслевом стандарте форматы.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования SXC в JPG онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования SXC в JPG онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как конвертировать SXC в JPG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загружать и конвертировать SXC в JPG всего за несколько строк кода.
+Нужно программно преобразовать файлы SXC в JPG? Разработчики Python могут легко загружать и конвертировать SXC в JPG всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл SXC с экземпляром Workbook
-1.  Преобразуйте SXC в JPG, вызвав метод Workbook.save
+1.  Загрузите файл SXC с экземпляром Workbook.
+1.  Преобразуйте SXC в JPG, вызвав метод Workbook.save.
+1.  Получите результат преобразования SXC в JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Формат файла SXC (Sun XML Calc) принадлежит офисному пакету OpenOffice.org. Этот формат обычно отвечает потребностям пользователей в электронных таблицах, поскольку он представляет собой формат файла электронной таблицы на основе XML. SXC поддерживает формулы, функции, макросы и диаграммы, а также DataPilot, что является невероятной функцией, поскольку она автоматически индивидуализирует и предоставляет сводки необработанных импортированных данных. Файлы, созданные с помощью этого программного обеспечения, сохраняются с расширением .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать SXC во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

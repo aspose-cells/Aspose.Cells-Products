@@ -49,14 +49,14 @@ description: Пример кода Java для объединения докум
 
 {{% blocks/products/pf/agp/text %}}
 
- Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
+Базовый документ сливается и объединяется с[Aspose.Cells for Java](https://products.aspose.com/cells/java) API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Загрузите первый файл XLT с экземпляром класса Workbook.
 + Загрузите второй документ XLT с экземпляром класса Workbook.
 + Объединить файлы с помощью метода Combine().
-сохранить объединенный файл XLT по указанному пути
++ сохранить объединенный файл XLT по указанному пути
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltFile1.save("combinedFileWithPath.xlt");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Нет необходимости скачивать Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы XLT." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Он будет объединен и объединен мгновенно." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Он будет объединен и объединен мгновенно." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

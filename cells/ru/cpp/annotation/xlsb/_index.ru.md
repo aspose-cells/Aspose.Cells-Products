@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Шаги по добавлению комментариев в файл XLSB через C++" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Действия по добавлению комментариев в файл XLSB через C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

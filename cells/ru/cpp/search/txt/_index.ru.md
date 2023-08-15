@@ -44,7 +44,7 @@ PM> Install-Package Aspose.Cells.Cpp
 Загрузить файл TXT, создав экземпляр класса IWorkbook.
 + Создать экземпляр класса IReplaceOptions.
 + Установите требуемый шаблон, например SetCaseSensitive (логическое значение), SetMatchEntireCellContents (логическое значение) .
-+ Используйте метод IWorkbook->Replace(..) с соответствующими параметрами.
++ Используйте метод IWorkbook->Replace(..) с соответствующими опциями.
 + Сохранить файл TXT методом IWorkbook->Save(.).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

@@ -1,7 +1,7 @@
 ---
-title: Преобразование HTML в ET Python via Python
-description: Конвертируйте HTML в ET онлайн бесплатно. Бесплатный онлайн конвертер HTML в ET. Python HTML по восточному времени. HTML до ET через Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML в ET - онлайн HTML в ET Конвертер
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Бесплатно онлайн Python Конвертировать HTML в формат сохранения ET. Python HTML в формате ET. Сохраните HTML в ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to ET saveformat., Free Online HTML to ET Python., Python Convert HTML to ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Преобразование HTML в ET в Python" h2="Высокоскоростная библиотека Python для преобразования HTML в ET. Используйте наше преобразование Excel API для разработки высокоуровневого, независимого от платформы программного обеспечения в Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -17,7 +17,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Сохраните HTML в ET в Python онлайн бесплатно" %}}
+{{% blocks/products/pf/agp/content h2="Сохраните HTML в ET в Python Онлайн бесплатно" %}}
 
 В следующем примере показано, как преобразовать HTML в ET в Python via NET.
 {{% blocks/products/pf/agp/text %}}
@@ -28,20 +28,21 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTML в ET онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Бесплатное приложение и пример кода для преобразования HTML в ET онлайн" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать HTML в ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Разработчики Python могут легко загрузить и преобразовать HTML в ET всего за несколько строк кода.
+Нужно программно преобразовать файлы HTML в ET? Разработчики Python могут легко загрузить и преобразовать HTML в ET всего за несколько строк кода.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Установите «Aspose.Cells for Python via .NET».
 1.  Добавьте ссылку на библиотеку (импортируйте библиотеку) в свой проект Python.
-1.  Загрузите файл HTML с экземпляром Workbook
-1.  Преобразуйте HTML в ET, вызвав метод Workbook.save
+1.  Загрузите файл HTML с экземпляром Workbook.
+1.  Преобразуйте HTML в ET, вызвав метод Workbook.save.
+1.  Получите результат преобразования HTML в ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/)о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
+ А еще вы можете следить за[пошаговые инструкции](https://docs.aspose.com/cells/python-net/getting-started/) о том, как установить "Aspose.Cells for Python via .NET" в среду разработки.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python через NET не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) — это расширение для веб-страниц, созданных для отображения в браузерах. Известный как веб-язык, HTML развился с учетом новых требований к информации, которая должна отображаться как часть веб-страниц. Последний вариант известен как HTML 5, что дает большую гибкость для работы с языком. Страницы HTML либо принимаются с сервера, на котором они размещены, либо также могут быть загружены из локальной системы. Каждая страница HTML состоит из HTML элементов, таких как формы, текст, изображения, анимация, ссылки и т. д. Эти элементы представлены тегами и несколькими другими, где каждый тег имеет начало и конец. Он также может встраивать приложения, написанные на языках сценариев, таких как JavaScript и таблицы стилей (CSS), для общего представления макета.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Файл ET представляет собой учебный урок, созданный Easiteach, программой, которая позволяет учителям разрабатывать уроки в классе и проводить их через интерактивный интерфейс. Он содержит данные урока, такие как макеты, навигация, изображения, текст, темы и анимация.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Вы также можете конвертировать HTML во многие другие форматы файлов, включая некоторые из перечисленных ниже." >}}
 

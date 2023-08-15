@@ -39,7 +39,7 @@ description: C# Пример кода для создания графиков �
 -  В качестве альтернативы можно получить автономный установщик MSI или все библиотеки DLL в ZIP-файле из<a href="https://downloads.aspose.com/cells/net">загрузки</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/code-block title="В следующем исходном коде показано, как создать диаграмму акций Volume-Open-High-Low-Close в файл MS Excel XLSX, используя C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="В следующем исходном коде показано, как создать диаграмму акций Volume-Open-High-Low-Close в файл MS Excel XLSX с использованием C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "create-volume-open-high-low-close-stock-chart.cs" >}}
 

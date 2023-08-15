@@ -33,7 +33,7 @@ description: Python Пример кода для создания радарны
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Системные Требования" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
+ Aspose.Cells for Python не зависит от платформы API и может использоваться на любой платформе (Windows, Linux), просто убедитесь, что в системе[Python](https://www.python.org/downloads/) 3,7 или выше.
 {{% /blocks/products/pf/agp/text %}}
 
 - Установить Aspose.Cells for Python из<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , используйте команду как:<code>$ pip install aspose-cells-python</code>.

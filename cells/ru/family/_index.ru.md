@@ -33,7 +33,7 @@ description: Библиотеки для чтения, записи и упра�
 Экспорт отчетов RDL и RDLC в форматы файлов Excel из служб отчетов SQL Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="ДжасперРепортс" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
 Экспорт отчетов в форматы файлов Excel и PDF из JasperReports или JasperServer.
 {{< /blocks/products/pf/product >}}
 

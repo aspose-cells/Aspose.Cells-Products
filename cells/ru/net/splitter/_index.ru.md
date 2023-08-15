@@ -28,7 +28,7 @@ description: C# исходные коды, которые объясняют, к
 
 {{% blocks/products/pf/feature-page-section h2="Разделить рабочий лист Excel на панели" %}}
 
- Для разделения окна рабочего листа на панели API предоставляет[Метод разделения](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) класса рабочего листа, который обеспечивает разделенный вид рабочего листа. Чтобы удалить разделенный вид, API предоставляет[Метод RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Наконец, сохраните его по указанному пути.
+ Для разделения окна рабочего листа на панели API предоставляет[Метод разделения](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)класса рабочего листа, который обеспечивает разделенный вид рабочего листа. Чтобы удалить разделенный вид, API предоставляет[Метод RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Наконец, сохраните его по указанному пути.
 
 {{% blocks/products/pf/feature-page-code h3="C# Код для разделения окна рабочего листа Excel" %}}
 

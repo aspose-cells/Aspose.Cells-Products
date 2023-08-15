@@ -174,7 +174,7 @@ AutoShapeType::AutoShapeType_CurvedDownRibbon
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-stars-and-banners-to-excel/scroll_vertical.png" align="left" width="28" height="28">
     <p class="col-lg-10" style="font-size:0.8rem !important;">
- AutoShapeType::AutoShapeType_VerticalScroll
+ AutoShapeType:: AutoShapeType_VerticalScroll
     </p>
    </div>
    <div class="col-lg-4">

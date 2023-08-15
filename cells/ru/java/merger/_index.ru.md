@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Объединить несколько файлов Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)метод поддерживает объединение данных, стилей и формул файла Excel в новую электронную таблицу того же формата. Это эффективный способ объединить несколько файлов при использовании кэширования.
 {{% blocks/products/pf/feature-page-code h3="Java Код для объединения нескольких файлов Excel" %}}
 
 ```cs

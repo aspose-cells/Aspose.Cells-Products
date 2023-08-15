@@ -1,5 +1,5 @@
 ---
-title:  Защита и замок ODS документ via .NET
+title: Защита и замок ODS документ via .NET
 weight: 5580
 description: C# исходный код для блокировки файла ODS с использованием пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---

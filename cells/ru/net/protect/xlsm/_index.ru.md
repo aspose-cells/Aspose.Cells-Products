@@ -1,5 +1,5 @@
 ---
-title:  Защита и замок XLSM документ via .NET
+title: Защита и замок XLSM документ via .NET
 weight: 7530
 description: C# исходный код для блокировки файла XLSM с использованием пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---

@@ -1,7 +1,7 @@
 ---
 title: Электронная таблица Excel для Android API - Aspose
 weight: 6510
-description: Библиотека электронных таблиц Android для создания файлов Excel для чтения, записи и анализа. Таблица API для разработки мобильных приложений
+description: Библиотека электронных таблиц Android для создания файлов Excel для чтения, записи и анализа. Электронная таблица API для разработки мобильных приложений
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Android API для работы с электронными таблицами Excel" h2="Создавайте, читайте, записывайте или управляйте файлами Excel в приложениях Android без каких-либо зависимостей." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-android-java.svg" pfName="Aspose.Cells" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/cells/androidjava" >}}
@@ -270,14 +270,14 @@ description: Библиотека электронных таблиц Android д
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать и усилить манипулировать диаграммами
+ Создать &amp; манипулировать диаграммами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-comment ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать и усилить управлять комментариями
+ Создать &amp; управлять комментариями
     </p>
    </div>
    <div class="col-lg-4">
@@ -419,14 +419,14 @@ description: Библиотека электронных таблиц Android д
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать и усилить управлять сводными таблицами
+ Создать &amp; управлять сводными таблицами
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать и усилить управлять пользовательскими диаграммами
+ Создать &amp; управлять пользовательскими диаграммами
     </p>
    </div>
    <div class="col-lg-4">
@@ -440,7 +440,7 @@ description: Библиотека электронных таблиц Android д
     <em class="fa fa-edit ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Создать и усилить манипулировать сценариями
+ Создать &amp; манипулировать сценариями
     </p>
    </div>
    <div class="col-lg-4">
@@ -501,7 +501,7 @@ wkb.save(SD_PATH + "output.html", SaveFormat.HTML);</code></pre>
 Электронная таблица API Механизм расчета формулы
     </h2>
     <p>
- Android Sheets API предоставляет мощный механизм расчета формул, поддерживающий расширенные и стандартные функции и формулы Excel Microsoft. Механизм вычисления формул упрощает чтение, настройку и вычисление результатов встроенных или надстроек, формул массива и формул в стиле ссылок R1C1.
+ Android Sheets API предоставляет мощный механизм расчета формул, поддерживающий расширенные и стандартные функции и формулы Excel Microsoft. Механизм вычисления формул упрощает чтение, настройку и вычисление результатов встроенных или надстроек, формул массива и формул в стиле ссылки R1C1.
     </p>
    </div>
    <!--

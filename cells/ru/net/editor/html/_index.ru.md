@@ -1,5 +1,5 @@
 ---
-title: Редактировать файлы HTML via .NET
+title:  Редактировать файлы HTML via .NET
 description: C# исходный код для редактирования HTML документа на платформах .NET Framework, .NET Core, Windows Azure, Mono или платформах Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

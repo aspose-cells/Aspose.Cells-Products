@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование JSON в Excel и Excel в JSON" %}}
- JSON данные могут быть импортированы в экземпляр[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) класс с помощью[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) для дальнейшей обработки или простого преобразования в любой из поддерживаемых форматов. Сходным образом,[Рабочий лист](https://reference.aspose.com/cells/net/aspose.cells/worksheet) данные можно экспортировать как JSON, создав[Диапазон](https://reference.aspose.com/cells/net/aspose.cells/range) или ячейки и вызов[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) метод.
+ JSON данные могут быть импортированы в экземпляр[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) класс с помощью[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)для дальнейшей обработки или простого преобразования в любой из поддерживаемых форматов. Сходным образом,[Рабочий лист](https://reference.aspose.com/cells/net/aspose.cells/worksheet) данные можно экспортировать как JSON, создав[Диапазон](https://reference.aspose.com/cells/net/aspose.cells/range) или ячейки и вызов[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) метод.
 {{% blocks/products/pf/feature-page-code h3="C# Код для преобразования JSON в Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Конвертировать Excel в Word и PowerPoint" %}}
- Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) классы, как показано ниже.
+ Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)классы, как показано ниже.
 {{% blocks/products/pf/feature-page-code h3="C# код для преобразования Excel в Word и PowerPoint преобразования" %}}
 ```cs
 // load the template file

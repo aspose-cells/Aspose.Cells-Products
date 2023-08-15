@@ -6,7 +6,7 @@ description: Преобразование Excel XLS, XLSX, ODS, CSV в PDF, XPS,
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Преобразование файлов Excel via Java" h2="Сохранение Microsoft документов Excel в форматах электронных таблиц, веб-сайтов, изображений и с фиксированным макетом" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Для любого**Преобразователь Excel** приложение или решение, Java Библиотека Excel ускоряет программирование электронных таблиц и процессы преобразования при обработке нескольких форматов, включая XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 6193481. Также позволяет *конвертировать файлы Excel в PDF**, XPS, HTML, MHTML, обычный текст и популярные форматы изображений, такие как TIFF, JPG, PNG, BMP и SVG.
+ Для любого**Преобразователь Excel**приложение или решение, Java Библиотека Excel ускоряет программирование электронных таблиц и процессы преобразования при обработке нескольких форматов, включая XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 6193481. Также позволяет *конвертировать файлы Excel в PDF**, XPS, HTML, MHTML, обычный текст и популярные форматы изображений, такие как TIFF, JPG, PNG, BMP и SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Взаимное преобразование Microsoft форматов Excel" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Преобразование Microsoft Excel в Word и PowerPoint" %}}
- Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) классы, как показано ниже.
+ Можно загрузить любую электронную таблицу и преобразовать ее в файлы Word DOCX и PowerPoint PPTX при использовании[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)классы, как показано ниже.
 {{% blocks/products/pf/feature-page-code h3="Java Код для преобразования Excel в Word и PowerPoint Преобразование" %}}
 ```cs
 // load the template file

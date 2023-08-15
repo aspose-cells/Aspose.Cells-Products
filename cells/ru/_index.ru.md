@@ -1,7 +1,7 @@
 ---
 title: Решение для формата файлов Excel
 weight: 7730
-description: Создавайте приложения для работы с файлами Excel, используя High Code или Low Code API или приложения без кода, чтобы просматривать, сравнивать, проверять или преобразовывать файлы Excel.
+description: Создавайте приложения для работы с файлами Excel, используя High Code или Low Code API, или приложения без кода, чтобы просматривать, сравнивать, проверять или преобразовывать файлы Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Microsoft Решение для формата файлов Excel" h2="Воспользуйтесь преимуществами масштабируемых отчетов, комплексных графиков и надежных расчетов — независимо от Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Семейство продуктов" >}}
@@ -46,11 +46,11 @@ SDK с открытым исходным кодом, специально раз
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Приложения без кода не включены" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Преобразование" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
-Легко конвертируйте файлы Excel Microsoft в PDF, HTML, изображения и многие другие популярные форматы файлов, не выходя из вашего любимого браузера.
+Легко конвертируйте Microsoft файлы Excel в PDF, HTML, изображения и многие другие популярные форматы файлов, не выходя из вашего любимого браузера.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Метаданные" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Просто загрузите файл Excel Microsoft, чтобы просмотреть или отредактировать метаданные электронной таблицы в любом браузере. Не требует установки или дополнительных инструментов.
+ Просто загрузите файл Excel Microsoft, чтобы просматривать или редактировать метаданные электронной таблицы из любого браузера. Не требует установки или дополнительных инструментов.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Зритель" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ SDK с открытым исходным кодом, специально раз
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Набор продуктов Aspose и поддержка не имеют себе равных. Без этого решения мы не смогли бы сделать то, что сделали.
+Набор продуктов Aspose и поддержка не имеют себе равных. Без этого решения мы не смогли бы сделать то, что сделали.
  <em>
  Доктор Дэн Паттерсон | Акьюмен, Великобритания
  </em>

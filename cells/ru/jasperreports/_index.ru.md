@@ -63,7 +63,7 @@ description: Экспорт отчетов из Jasper Reports и JasperServer �
     <em>
  для
     </em>
- ДжасперРепортс
+ JasperReports
    </small>
   </footer>
  </div>
@@ -104,7 +104,7 @@ description: Экспорт отчетов из Jasper Reports и JasperServer �
     <em>
  для
     </em>
- ДжасперРепортс
+ JasperReports
    </small>
   </footer>
  </div>
@@ -171,7 +171,7 @@ description: Экспорт отчетов из Jasper Reports и JasperServer �
     <em>
  для
     </em>
- ДжасперРепортс
+ JasperReports
    </small>
   </footer>
  </div>

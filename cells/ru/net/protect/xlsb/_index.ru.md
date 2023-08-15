@@ -1,5 +1,5 @@
 ---
-title:  Защита и замок XLSB документ via .NET
+title: Защита и замок XLSB документ via .NET
 weight: 5920
 description: C# исходный код для блокировки файла XLSB с использованием пароля на платформах .NET Framework, .NET Core, Mono или Xamarin.
 ---

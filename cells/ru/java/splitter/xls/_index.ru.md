@@ -13,7 +13,7 @@ description: Пример кода Java для разделения XLS доку
 
  Чтобы разделить файл XLS, мы будем использовать
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API многофункциональная, мощная и простая в использовании платформа сплиттера. Вы можете скачать его последнюю версию прямо с
+ API многофункциональная, мощная и простая в использовании платформа сплиттера. Вы можете скачать его последнюю версию прямо с
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 

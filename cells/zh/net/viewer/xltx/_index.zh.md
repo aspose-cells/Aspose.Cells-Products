@@ -1,7 +1,7 @@
 ---
 title: 查看 XLTX 文件格式 via .NET
 weight: 7870
-description: C# 源代码，用于在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上加载、呈现和显示 XLTX 文档。
+description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加载、渲染和显示 XLTX 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格，例如 XLTX，无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLTX" >}}
@@ -13,13 +13,13 @@ description: C# 源代码，用于在 .NET 框架、.NET 核心、Mono 或 Xamar
 
 为了查看 XLTX 文件，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API 是一个功能丰富、功能强大且易于使用的 API，适用于 C# 平台，可与任何查看器一起使用。打开
+API 这是一个功能丰富、功能强大且易于使用的 API 适用于 C# 平台，可与任何查看器一起使用。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-并安装。您也可以从包管理器控制台使用以下命令。
+并安装。您还可以从包管理器控制台使用以下命令。
 
-{{% blocks/products/pf/agp/code-block title="程序包管理器控制台命令" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
 
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells让开发者只需几行代码就可以轻松查看XLTX文件。
+Aspose.Cells使得开发者只需几行代码就可以轻松查看XLTX文件。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 在 Workbook 实例中加载 XLTX 文件
 1. 创建 HtmlSaveOptions 的实例并将 ExportHeadings 属性设置为 true
-1. 使用 Workbook.Save 方法将 XLTX 文件保存为 HTML 格式
+1. 使用Workbook.Save方法将XLTX文件保存为HTML格式
 1. 使用 Process.Start 在默认浏览器中加载结果 HTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,13 +52,13 @@ Aspose.Cells让开发者只需几行代码就可以轻松查看XLTX文件。
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系统都支持 Aspose.Cells for .NET。只需确保您具有以下先决条件。
+Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保您满足以下先决条件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系统
-- 开发环境类似Microsoft Visual Studio
-- 在您的项目中添加对 Aspose.Cells for .NET DLL 的引用
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统
+- 开发环境如Microsoft Visual Studio
+- 在项目中添加对 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -92,7 +92,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -100,14 +100,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 XLTX" sectionDescription="查看我们的现场演示[查看 XLTX](https://products.aspose.app/cells/viewer/xltx)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 XLTX" sectionDescription="查看我们的现场演示[查看XLTX](https://products.aspose.app/cells/viewer/xltx)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 XLTX 文件并点击“查看”按钮" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，从链接下载 XLTX 文件" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，请从链接下载 XLTX 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-扩展名为 XLTX 的文件表示基于 Office OpenXML 文件格式规范的 Microsoft Excel 模板文件。它用于创建一个标准模板文件，该文件可用于生成 XLSX 文件，这些文件显示与 XLTX 文件中指定的设置相同的设置。
+扩展名为 XLTX 的文件表示基于 Office OpenXML 文件格式规范的 Microsoft Excel 模板文件。它用于创建标准模板文件，该文件可用于生成 XLSX 文件，这些文件显示与 XLTX 文件中指定的相同设置。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,7 +115,7 @@ System.Diagnostics.Process.Start(output);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用 C#，还可以查看许多其他文件格式，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用C#，您还可以查看许多其他文件格式，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/csv/" name="CSV" description="逗号分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
@@ -125,8 +125,8 @@ System.Diagnostics.Process.Start(output);
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="启用宏的 Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Excel 宏启用模板" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

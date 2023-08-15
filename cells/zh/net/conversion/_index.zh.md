@@ -3,14 +3,14 @@ title: Microsoft Excel 文件转换通过 C#
 description: 转换Excel XLS，XLSX，ODS，CSV至PDF，XPS，HTML，HTML，JPEG，JPEG，HTML和许多其他形式的码数为076193131313131313。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel格式转换via .NET" h2="将 Excel 文件导入和导出为电子表格、Web、图像和固定布局格式" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel 格式转换 via .NET" h2="将 Excel 文件导入和导出为电子表格、Web、图像和固定布局格式" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET Excel 库加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS .它也允许导出Excel文件到PDF, XPS, HTML, MHTML, Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
+.NET Excel 库可加快电子表格编程和转换过程，同时支持流行格式，包括 XLS、XLSX、XLSM、XLSB、XLTX、XLTM、CSV、SpreadsheetML、ODS . 它还允许将Excel文件导出到PDF、XPS、HTML、MHTML、Plain文本和流行的图像格式，例如 TIFF、JPG、PNG、BMP 和 SVG。
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 转换为 XLSX、ODS、SXC 和 FODS" %}}
-电子表格格式的相互转换只需要加载一个带有实例的电子表格[工作簿](https://reference.aspose.com/cells/net/aspose.cells/workbook)并以所需的格式保存回，同时从中选择适当的值[保存格式](https://reference.aspose.com/cells/net/aspose.cells/saveformat)枚举。
+电子表格格式的相互转换只需要加载带有实例的电子表格[练习册](https://reference.aspose.com/cells/net/aspose.cells/workbook)并以所需的格式保存，同时从中选择适当的值[保存格式](https://reference.aspose.com/cells/net/aspose.cells/saveformat)枚举。
 {{% blocks/products/pf/feature-page-code h3="C# Excel文件格式转换代码" %}}
 
 ```cs
@@ -28,8 +28,8 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 转换为 PDF、XPS、HTML 和 MD" %}}
-专门的类可用于控制特定输出格式的转换过程，例如[Pdf保存选项](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions)将 Excel 文件导出为 PDF，[XpsSave选项](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions)对于 Excel 到 XPS 的转换，[HtmlSave选项](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions)将 Excel 呈现为 HTML 和[Markdown 保存选项](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions)用于 Excel 到 Markdown 的转换。
-{{% blocks/products/pf/feature-page-code h3="C# Excel 到 PDF 和 Web 格式的代码" %}}
+专门的类可用于控制特定输出格式的转换过程，例如[Pdf保存选项](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions)将 Excel 文件导出为 PDF，[Xps保存选项](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions)对于 Excel 到 XPS 的转换，[Html保存选项](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions)将 Excel 呈现为 HTML 和[Markdown保存选项](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions)用于 Excel 到 Markdown 的转换。
+{{% blocks/products/pf/feature-page-code h3="C# Excel 代码到 PDF 和 Web 格式" %}}
 
 ```cs
 // load template Excel file from disc
@@ -48,8 +48,8 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="将 JSON 转换为 Excel 并将 Excel 转换为 JSON" %}}
- JSON 数据可以导入到一个实例中[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells)类的帮助下[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)用于进一步处理或简单转换为任何支持的格式。相似地，[工作表](https://reference.aspose.com/cells/net/aspose.cells/worksheet)数据可以通过创建一个导出为 JSON[范围](https://reference.aspose.com/cells/net/aspose.cells/range)或单元格并调用[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson)方法。
+{{% blocks/products/pf/feature-page-section h2="将 JSON 转换为 Excel & Excel 为 JSON" %}}
+ JSON 数据可以导入到实例中[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells)类的帮助下[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)用于进一步处理或简单转换为任何支持的格式。相似地，[工作表](https://reference.aspose.com/cells/net/aspose.cells/worksheet)数据可以通过创建一个导出为JSON[范围](https://reference.aspose.com/cells/net/aspose.cells/range)或细胞并调用[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson)方法。
 {{% blocks/products/pf/feature-page-code h3="C# JSON 到 Excel 转换的代码" %}}
 ```cs
 // create a Workbook object
@@ -67,7 +67,7 @@ workbook.Save("output.xlsx", Cells.SaveFormat.Auto);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# Excel 到 JSON 转换的代码" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Excel 代码到 JSON 转换" %}}
 ```cs
 // load XLSX file with an instance of Workbook
 var workbook = new Workbook("template.xlsx", new LoadOptions(Cells.LoadFormat.Auto));
@@ -87,8 +87,8 @@ System.IO.File.WriteAllText("output.json", jsonData);
 
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
-{{% blocks/products/pf/feature-page-section h2="将 Excel 工作表转换为 JPG，BMP、PNG 和 GIF" %}}
- Excel文件的每个工作表都可以转换为由设置的不同图像格式[ImageOrPrintOptions.图像类型](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype)财产。默认值为 `ImageFormat.Bmp`。
+{{% blocks/products/pf/feature-page-section h2="将 Excel 工作表转换为 JPG、BMP、PNG 和 GIF" %}}
+ Excel文件的每个工作表都可以转换为由设置的不同图像格式[ImageOrPrintOptions.ImageType](https://reference.aspose.com/cells/net/aspose.cells.rendering/imageorprintoptions/properties/imagetype)财产。默认值为 `ImageFormat.Bmp`。
 {{% blocks/products/pf/feature-page-code h3="C# Excel 到图像转换的代码" %}}
 ```cs
 // load template spreadsheet
@@ -109,8 +109,8 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="将 Excel 转换为 Word & PowerPoint" %}}
-使用时可以加载任何电子表格并将其转换为 Word DOCX & PowerPoint PPTX 文件[DocxSave选项](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSave选项](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)类如下所示。
-{{% blocks/products/pf/feature-page-code h3="Excel 到 Word 的 C# 代码 & PowerPoint 转换" %}}
+使用时可以加载任何电子表格并将其转换为 Word DOCX 和 PowerPoint PPTX 文件[Docx保存选项](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [Pptx保存选项](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)类如下所示。
+{{% blocks/products/pf/feature-page-code h3="C# Excel 到 Word 代码 & PowerPoint 转换" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

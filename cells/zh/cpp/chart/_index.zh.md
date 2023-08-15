@@ -7,13 +7,13 @@ description: C++ 使用 C++ 库在 Microsoft Excel 中绘制和转换图表或�
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-使用 Excel 图表，人们可以获得更大的画面并轻松分析数据以做出正确的决策。[C++ Excel 库](/cells/zh/cpp/)支持创建不同的图表列出[枚举 Aspose::Cells::Charts::ChartType
-](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70)包括面积图、条形图、饼图、金字塔图、折线图和气泡图。此外，对于图表到图像的转换，API 提供了一个[ToImage方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb)成所需的图像格式。
+使用 Excel 图表，人们可以了解更大的情况并轻松分析数据以做出正确的决策。[C++ Excel 库](/cells/zh/cpp/)支持创建列出的不同图表[枚举Aspose::Cells::图表::图表类型
+](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70)包括面积图、条形图、饼图、金字塔图、折线图和气泡图。此外，为了将图表转换为图像，API 提供了[图像转换方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb)转换为所需的图像格式。
 
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="创建 Excel 图表" %}}
 
-创建 Excel 图表的过程是，创建一个实例[IWorkbook类](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)并选择所需的[工作表](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43).使用添加图表[添加方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)具有相关参数，包括图表类型。通过索引和访问图表[添加](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f)图表的数据源。
+创建Excel图表的过程是，创建一个实例[I作业簿类](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook)并选择所需的[工作表](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43)。使用添加图表[添加方法](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)以及相关参数，包括图表类型。通过索引访问图表[添加](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f)图表的数据源。
 
 {{% blocks/products/pf/feature-page-code h3="C++ 创建 Excel 图表的代码" %}}
 
@@ -25,10 +25,10 @@ description: C++ 使用 C++ 库在 Microsoft Excel 中绘制和转换图表或�
 {{% blocks/products/pf/feature-page-section h2="将图表转换为图像" %}}
 
 
-对于转换图表过程，首先使用上述代码创建相关类型的图表或从相关工作表访问它。定义图片的输出保存路径，使用ToImage方法进行转换。
+对于转换图表的过程是，首先使用上面的代码创建相关类型的图表或从相关工作表访问它。定义图像的输出保存路径，并使用ToImage方法进行转换。
 
  
-{{% blocks/products/pf/feature-page-code h3="C++ 转换 Excel 图表的代码" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ 转换Excel图表的代码" %}}
 
 {{< gist "aspose-com-gists" "da2fd423617bf9013a7673870c81d708" "convert-excel-chart-to-image.cpp" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: 查看 XLSB 文件格式 via .NET
 weight: 6260
-description: C# 源代码，用于在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上加载、呈现和显示 XLSB 文档。
+description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上加载、渲染和显示 XLSB 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格，例如 XLSB，无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}
@@ -13,13 +13,13 @@ description: C# 源代码，用于在 .NET 框架、.NET 核心、Mono 或 Xamar
 
 为了查看 XLSB 文件，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API 是一个功能丰富、功能强大且易于使用的 API，适用于 C# 平台，可与任何查看器一起使用。打开
+API 这是一个功能丰富、功能强大且易于使用的 API 适用于 C# 平台，可与任何查看器一起使用。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-并安装。您也可以从包管理器控制台使用以下命令。
+并安装。您还可以从包管理器控制台使用以下命令。
 
-{{% blocks/products/pf/agp/code-block title="程序包管理器控制台命令" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
 
@@ -37,13 +37,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells让开发者只需几行代码就可以轻松查看XLSB文件。
+Aspose.Cells使得开发者只需几行代码就可以轻松查看XLSB文件。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 在 Workbook 实例中加载 XLSB 文件
 1. 创建 HtmlSaveOptions 的实例并将 ExportHeadings 属性设置为 true
-1. 使用 Workbook.Save 方法将 XLSB 文件保存为 HTML 格式
+1. 使用Workbook.Save方法将XLSB文件保存为HTML格式
 1. 使用 Process.Start 在默认浏览器中加载结果 HTML
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -52,13 +52,13 @@ Aspose.Cells让开发者只需几行代码就可以轻松查看XLSB文件。
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系统都支持 Aspose.Cells for .NET。只需确保您具有以下先决条件。
+Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保您满足以下先决条件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系统
-- 开发环境类似Microsoft Visual Studio
-- 在您的项目中添加对 Aspose.Cells for .NET DLL 的引用
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统
+- 开发环境如Microsoft Visual Studio
+- 在项目中添加对 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -92,7 +92,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -100,14 +100,14 @@ System.Diagnostics.Process.Start(output);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 XLSB" sectionDescription="查看我们的现场演示[查看 XLSB](https://products.aspose.app/cells/viewer/xlsb)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 XLSB" sectionDescription="查看我们的现场演示[查看XLSB](https://products.aspose.app/cells/viewer/xlsb)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 XLSB 文件并点击“查看”按钮" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，从链接下载 XLSB 文件" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，请从链接下载 XLSB 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作簿内容的记录和结构的集合。内容可以包括非结构化或半结构化的数字表格、文本或数字和文本、公式、外部数据连接、图表和图像。与 XLSX（基于 Open XML 文件格式）不同，XLSB 表示二进制 Excel 工作簿文件。 XLSB 文件可以更快地读取和写入，这使得它们对于处理大文件很有用。 XLSB 很少用于存储工作簿，因为 XLSX（以及以前的 XLS）是用户最常选择的用于保存工作簿的文件格式。 Microsoft Office 2007及以上版本可以打开。
+XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作簿内容的记录和结构的集合。内容可以包括非结构化或半结构化的数字表、文本表、或数字和文本表、公式、外部数据连接、图表和图像。与 XLSX（基于 Open XML 文件格式）不同，XLSB 表示二进制 Excel 工作簿文件。 XLSB 文件的读取和写入速度更快，这使得它们对于处理大文件非常有用。 XLSB 很少用于存储工作簿，因为 XLSX（以及之前的 XLS）是用户选择的最常见的用于保存工作簿的文件格式。可以用Microsoft Office 2007及以上版本打开。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -115,7 +115,7 @@ XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用 C#，还可以查看许多其他文件格式，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的查看器格式" subTitle="使用C#，您还可以查看许多其他文件格式，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/csv/" name="CSV" description="逗号分隔值" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
@@ -124,9 +124,9 @@ XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作�
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsm/" name="XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlsx/" name="XLSX" description="OOXML Excel 文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="启用宏的 Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="办公室 OpenXML Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xlt/" name="XLT" description="Microsoft Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltm/" name="XLTM" description="Excel 宏启用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/viewer/xltx/" name="XLTX" description="Office OpenXML Excel 模板" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

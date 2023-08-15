@@ -1,6 +1,6 @@
 ---
 title: 查看 HTML 文件格式 via .NET
-description: C# 源代码，用于在 .NET 框架、.NET 核心、Windows Azure、Mono 或 Xamarin 平台上加载、呈现和显示 HTML 文档。
+description: C# 源代码，用于在 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台上加载、渲染和显示 HTML 文档。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML 文件查看器 for .NET" h2="查看 Excel 和 OpenOffice 电子表格，例如 HTML，无需 Microsoft Excel 或 Office Automation。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DOC" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="DOC" >}}
@@ -10,9 +10,9 @@ description: C# 源代码，用于在 .NET 框架、.NET 核心、Windows Azure�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 HTML 文件" %}}
 
-为了查看 HTML 文件，我们将使用<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API 是一个功能丰富、功能强大且易于使用的 API，适用于 C# 平台，可与任何查看器一起使用。打开<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>包管理器，搜索<b>Aspose.Cells</b>并安装。您也可以从包管理器控制台使用以下命令。
+为了查看 HTML 文件，我们将使用<a href="https://products.aspose.com/cells/net">Aspose.Cells for .NET</a>API 这是一个功能丰富、功能强大且易于使用的 API 适用于 C# 平台，可与任何查看器一起使用。打开<a href="https://www.nuget.org/packages/aspose.cells">NuGet</a>包管理器，搜索<b>Aspose.Cells</b>并安装。您还可以从包管理器控制台使用以下命令。
 
-{{% blocks/products/pf/agp/code-block title="程序包管理器控制台命令" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
 ```cs
 
@@ -30,13 +30,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells让开发者只需几行代码就可以轻松查看HTML文件。
+Aspose.Cells使得开发者只需几行代码就可以轻松查看HTML文件。
 
 {{% /blocks/products/pf/agp/text %}}
 
 1. 在 Workbook 实例中加载 HTML 文件
 1. 创建 HtmlSaveOptions 的实例并将 ExportHeadings 属性设置为 true
-1. 使用 Workbook.Save 方法将 HTML 文件保存为 HTML 格式
+1. 使用Workbook.Save方法将HTML文件保存为HTML格式
 1. 使用 Process.Start 在默认浏览器中加载结果 HTML
 
 
@@ -46,13 +46,13 @@ Aspose.Cells让开发者只需几行代码就可以轻松查看HTML文件。
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系统都支持 Aspose.Cells for .NET。只需确保您具有以下先决条件。
+Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保您满足以下先决条件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows 或具有 .NET Framework、.NET Core、Windows Azure、Mono 或 Xamarin 平台的兼容操作系统
-- 开发环境类似Microsoft Visual Studio
-- 在您的项目中添加对 Aspose.Cells for .NET DLL 的引用
+- 开发环境如Microsoft Visual Studio
+- 在项目中添加对 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -87,7 +87,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -95,14 +95,14 @@ Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格�
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 HTML" sectionDescription="查看我们的现场演示[查看 HTML](https://products.aspose.app/cells/viewer/html)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序查看 HTML" sectionDescription="查看我们的现场演示[查看HTML](https://products.aspose.app/cells/viewer/html)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 HTML 文件并点击“查看”按钮" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，从链接下载 HTML 文件" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="如果需要，请从链接下载 HTML 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML（超文本标记语言）是为在浏览器中显示而创建的网页的扩展。 HTML 被称为网络语言，它随着新信息要求的发展而发展，以作为网页的一部分显示。最新的变体称为 HTML 5，它为使用该语言提供了很大的灵活性。 HTML 页面要么从托管这些页面的服务器接收，要么也可以从本地系统加载。每个 HTML 页面由 HTML 元素组成，例如表单、文本、图像、动画、链接等。这些元素由 img、a、p 等标签表示，每个标签都有开始和结束。它还可以嵌入使用脚本语言（如 JavaScript 和样式表 (CSS)）编写的应用程序，用于整体布局表示。
+HTML（超文本标记语言）是为在浏览器中显示而创建的网页的扩展。 HTML 被称为网络语言，随着新信息要求作为网页的一部分显示的要求而发展。最新的变体被称为 HTML 5，它为使用该语言提供了很大的灵活性。 HTML 页面要么从托管这些页面的服务器接收，要么也可以从本地系统加载。每个 HTML 页面由 HTML 个元素组成，例如表单、文本、图像、动画、链接等。这些元素由 img、a、p 等标签表示，每个标签都有开始和结束。它还可以嵌入用 JavaScript 和样式表 (CSS) 等脚本语言编写的应用程序，以实现整体布局表示。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

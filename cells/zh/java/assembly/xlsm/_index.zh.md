@@ -1,7 +1,7 @@
 ---
-title: 在 XLSM 文件中生成报告 via Java
+title: 在 XLSM 文件 via Java 中生成报告
 weight: 270
-description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上创建 XLSM 格式报告。
+description: Java 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上创建 XLSM 格式报告的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="以 XLSM 格式生成批量报告 via Java" h2="使用数据源和模板生成 XLSM 格式的报告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}
@@ -13,11 +13,11 @@ description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用�
 
 为了创建 XLSM 文件报告，我们将使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API 这是一个功能丰富、功能强大且易于使用的组件 API for Java 平台。您可以直接从以下位置下载其最新版本
+API 这是一个功能丰富、功能强大且易于使用的组件API for Java 平台。您可以直接从以下位置下载其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
-{{% blocks/products/pf/agp/code-block title="资料库" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
 ```cs
 
@@ -57,8 +57,8 @@ API 这是一个功能丰富、功能强大且易于使用的组件 API for Java
 
 1. 实例化 WorkbookDesigner 类
 1. 在 ArrayList 中添加 Datasouce 对象
-1. 为 WorkbookDesigner 对象设置数据源和进程
-1. 通过 Worbook.save 方法以 XLSM 格式保存结果
+1. 设置WorkbookDesigner对象的数据源和Process
+1. 通过 Worbook.save 方法将结果保存为 XLSM 格式
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,11 +71,11 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows 或具有 Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。
-- 直接从 Maven 获取 Aspose.Cells for Java 的最新版本。
+- 直接从 Maven 获取最新版本的 Aspose.Cells for Java。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="以 XLSM 格式生成 Excel 报告 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="生成 XLSM 格式的 Excel 报告 - C#" offSpacer="" %}}
 
 ```cs
 //Create a workbook designer
@@ -109,7 +109,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -117,14 +117,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序组装 XLSM" sectionDescription="查看我们的现场演示[创建 XLSM 个文件](https://products.aspose.app/cells/assembly/xlsm)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费组装应用程序 XLSM" sectionDescription="查看我们的现场演示[创建XLSM文件](https://products.aspose.app/cells/assembly/xlsm)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 XLSM 文件并点击“组装”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="从链接下载生成的 XLSM 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-扩展名为 XLSM 的文件是一种支持宏的电子表格文件。从应用程序的角度来看，宏是一组用于自动化流程的指令。宏用于记录重复执行的步骤，并便于通过再次运行宏来执行操作。使用 Visual Basic 编辑器从 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 对宏进行编程，并且可以直接从那里运行/调试。
+扩展名为 XLSM 的文件是一种支持宏的电子表格文件。从应用程序的角度来看，宏是用于自动化流程的指令集。宏用于记录重复执行的步骤，并通过再次运行宏来方便执行操作。宏是使用 Visual Basic 编辑器在 Excel 工作簿中使用 Microsoft 的 Visual Basic for Applications (VBA) 进行编程的，并且可以直接从那里运行/调试。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,7 +132,7 @@ System.out.println("File saved");
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用 Java，可以轻松生成多种格式的报告，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用Java，可以轻松生成多种格式的报告，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="Excel 二进制格式" >}}

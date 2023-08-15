@@ -1,7 +1,7 @@
 ---
-title: 在 ODS 文件中生成报告 via Java
+title: 在 ODS 文件 via Java 中生成报告
 weight: 2440
-description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上创建 ODS 格式报告。
+description: Java 用于在 JSP/JSF 应用程序和桌面应用程序的 Java 运行时环境上创建 ODS 格式报告的示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="以 ODS 格式生成批量报告 via Java" h2="使用数据源和模板生成 ODS 格式的报告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="ODS" >}}
@@ -13,11 +13,11 @@ description: Java 示例代码，用于在 JSP/JSF 应用程序和桌面应用�
 
 为了创建 ODS 文件报告，我们将使用
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API 这是一个功能丰富、功能强大且易于使用的组件 API for Java 平台。您可以直接从以下位置下载其最新版本
+API 这是一个功能丰富、功能强大且易于使用的组件API for Java 平台。您可以直接从以下位置下载其最新版本
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
-{{% blocks/products/pf/agp/code-block title="资料库" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="存储库" offSpacer="true" %}}
 
 ```cs
 
@@ -57,8 +57,8 @@ API 这是一个功能丰富、功能强大且易于使用的组件 API for Java
 
 1. 实例化 WorkbookDesigner 类
 1. 在 ArrayList 中添加 Datasouce 对象
-1. 为 WorkbookDesigner 对象设置数据源和进程
-1. 通过 Worbook.save 方法以 ODS 格式保存结果
+1. 设置WorkbookDesigner对象的数据源和Process
+1. 通过 Worbook.save 方法将结果保存为 ODS 格式
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,11 +71,11 @@ Aspose.Cells for Java 支持所有主要平台和操作系统。请确保您具�
 {{% /blocks/products/pf/agp/text %}}
 
 - Microsoft Windows 或具有 Java JSP/JSF 应用程序和桌面应用程序运行时环境的兼容操作系统。
-- 直接从 Maven 获取 Aspose.Cells for Java 的最新版本。
+- 直接从 Maven 获取最新版本的 Aspose.Cells for Java。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="以 ODS 格式生成 Excel 报告 - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="生成 ODS 格式的 Excel 报告 - C#" offSpacer="" %}}
 
 ```cs
 //Create a workbook designer
@@ -109,7 +109,7 @@ System.out.println("File saved");
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for Java API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -117,14 +117,14 @@ System.out.println("File saved");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序组装 ODS" sectionDescription="查看我们的现场演示[创建 ODS 个文件](https://products.aspose.app/cells/assembly/ods)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费组装应用程序 ODS" sectionDescription="查看我们的现场演示[创建ODS文件](https://products.aspose.app/cells/assembly/ods)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 ODS 文件并点击“组装”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="从链接下载生成的 ODS 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-扩展名为 ODS 的文件代表用户可编辑的 OpenDocument 电子表格文档格式。数据以行和列的形式存储在 ODF 文件中。它是基于 XML 的格式，是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 和其他操作系统上的许多应用程序可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件也可以通过不同的应用程序转换为其他电子表格格式，如 XLS、XLSX 等。
+扩展名为 ODS 的文件代表可由用户编辑的 OpenDocument 电子表格文档格式。数据按行和列存储在 ODF 文件内。它是基于 XML 的格式，并且是开放文档格式 (ODF) 系列中的几个子类型之一。该格式被指定为 OASIS 发布和维护的 ODF 1.2 规范的一部分。 Windows 以及其他操作系统上的许多应用程序都可以打开 ODS 文件进行编辑和操作，包括 Microsoft Excel、NeoOffice 和 LibreOffice。 ODS 文件还可以通过不同的应用程序转换为其他电子表格格式，例如 XLS、XLSX 等。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,7 +132,7 @@ System.out.println("File saved");
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用 Java，可以轻松生成多种格式的报告，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用Java，可以轻松生成多种格式的报告，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xls/" name="XLS" description="Excel 二进制格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/assembly/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}

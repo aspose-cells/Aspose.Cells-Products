@@ -1,10 +1,10 @@
 ---
-title: 在 Excel 中导出报告 XLS XLSX PDF ODS 在 JasperReports 和 JasperServer 中
+title: 在 JasperReports 和 JasperServer 中导出 Excel 中的报表 XLS XLSX PDF ODS
 weight: 9460
-description: 从 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式导出报告。还可以将报告打印为 Excel 电子表格
+description: 以 Excel XLS XLSX PDF ODS TXT 和 SpreadsheetML 格式从 Jasper Reports 和 JasperServer 导出报表。还可以将报告打印为 Excel 电子表格
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="将报告导出为 Excel 格式的 JasperReports 扩展" h2="将报告导出为 Microsoft Excel 电子表格多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="将报表导出为 Excel 格式的 JasperReports 扩展" h2="将报告导出为 Microsoft Excel 电子表格多种格式。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-jasperreports.svg" pfName="Aspose.Cells" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cells/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for JasperReports" >}}
 
@@ -12,7 +12,7 @@ description: 从 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for JasperReports 是可靠的 JasperReports 和 JasperServer 扩展，提供 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的导出报告，无需使用 0 76193481 Excel。它可以替代 JasperReports 的原始 Microsoft Excel 导出器，并消除对 POI 库的依赖。
+ Aspose.Cells for JasperReports 是一个可靠的 JasperReports 和 JasperServer 扩展，提供 Microsoft Excel XLS、XLSX、PDF、ODS、TXT 和 SpreadsheetML 格式的报表导出，无需使用 0 76193481 Excel。它可以作为 JasperReports 原始 Microsoft Excel 导出器的替代品，并消除对 POI 库的依赖。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -33,7 +33,7 @@ description: 从 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 
    <header>
     <i class="fa fa-table">
     </i>
-报告设计的高保真度
+高保真的报告设计
    </header>
   </div>
   <!--/left-->
@@ -63,7 +63,7 @@ description: 从 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 
     <em>
 为了
     </em>
-碧玉报告
+贾斯珀报告
    </small>
   </footer>
  </div>
@@ -72,7 +72,7 @@ description: 从 Jasper Reports 和 JasperServer 以 Excel XLS XLSX PDF ODS TXT 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for JasperReports 支持J2SE、JasperReports 和JasperServer。" >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="Aspose.Cells for JasperReports 支持 J2SE、JasperReports 和 JasperServer。" >}}
 <div class="diagram1 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -104,7 +104,7 @@ JasperReports 6.3.0 或更高版本
     <em>
 为了
     </em>
-碧玉报告
+贾斯珀报告
    </small>
   </footer>
  </div>
@@ -113,7 +113,7 @@ JasperReports 6.3.0 或更高版本
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for JasperReports 允许您直接将报告导出到[以下格式](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="支持的文件格式" description="Aspose.Cells for JasperReports 允许您将报告直接导出到[以下格式](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -154,7 +154,7 @@ Microsoft Excel：
      <b>
 文本：
      </b>
-CSV、TSV，制表符分隔
+CSV、TSV、制表符分隔
     </li>
    </ul>
   </div>
@@ -171,7 +171,7 @@ CSV、TSV，制表符分隔
     <em>
 为了
     </em>
-碧玉报告
+贾斯珀报告
    </small>
   </footer>
  </div>
@@ -190,7 +190,7 @@ CSV、TSV，制表符分隔
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-高级 JasperReports 到 Excel 的导出功能
+高级 JasperReports 到 Excel 导出功能
    </h2>
    <p>
    </p>
@@ -198,7 +198,7 @@ CSV、TSV，制表符分隔
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将报告生成为 Microsoft Excel 文件
+生成报告为 Microsoft Excel 文件
     </p>
    </div>
    <div class="col-lg-4">
@@ -212,7 +212,7 @@ CSV、TSV，制表符分隔
     <em class="fa fa-pie-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-将 Excel 文件导出为可编辑的电子表格
+将 Excel 文件导出为可编辑电子表格
     </p>
    </div>
    <div class="col-lg-12">
@@ -220,15 +220,15 @@ CSV、TSV，制表符分隔
 将报告导出为 Microsoft Excel 格式
     </h2>
     <p>
-Aspose.Cells for JasperReports 提供直接导出报表为Microsoft Excel格式如XLS &amp; XLSX。此外，您还可以导出 SpreadsheetML、ODS、CSV &amp; 中的报告。制表符分隔格式以满足您的业务需求。
+Aspose.Cells for JasperReports 提供将报告直接导出为 Microsoft Excel 格式的功能，例如 XLS 和 XLS此外，您还可以导出 SpreadsheetML、ODS、CSV 和 CSV 中的报告。制表符分隔格式以满足您的业务需求。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-报告设计的高保真度
+高保真的报告设计
     </h2>
     <p>
-Aspose.Cells for JasperReports 以最高精度将报告导出为支持的格式，即； JasperReports 的本地导出功能导出的报告似乎相同。
+Aspose.Cells for JasperReports 将报告导出为支持的最高精度格式，即：看起来与 JasperReports 的本机导出功能导出的报告相同。
     </p>
    </div>
    <div class="col-lg-12">
@@ -236,15 +236,15 @@ Aspose.Cells for JasperReports 以最高精度将报告导出为支持的格式�
 可编辑的 Excel 电子表格
     </h2>
     <p>
-Aspose.Cells for JasperReports 将 Excel 文档导出为完全可编辑的电子表格。它支持 Microsoft Excel 图表，并且通过 Aspose 渲染引擎导出的任何图表都将作为可编辑图表而不是静态图片提供，从而允许最终用户在 Microsoft Excel 中手动更改图表。
+Aspose.Cells for JasperReports 将 Excel 文档导出为完全可编辑的电子表格。它支持Microsoft Excel图表，并且通过Aspose渲染引擎导出的任何图表都将作为可编辑图表而不是静态图片提供，从而允许最终用户在Microsoft Excel中手动更改图表。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Microsoft 办公自动化——不需要
+ Microsoft 办公自动化 – 不需要
     </h2>
     <p>
-Aspose.Cells for JasperReports 导出器使用托管代码开发，无需在机器上安装 Microsoft Excel 或 Microsoft Office 即可处理 Excel 文档格式。就稳定性、可扩展性、支持的功能、安全性、价格和速度而言，它是完美的 Microsoft Excel 自动化替代方案。
+Aspose.Cells for JasperReports 导出程序使用托管代码开发，无需在计算机上安装 Microsoft Excel 或 Microsoft Office 即可处理 Excel 文档格式。就稳定性、可扩展性、支持的功能、安全性、价格和速度而言，它是完美的 Microsoft Excel 自动化替代品。
     </p>
    </div>
   </div>
@@ -259,7 +259,7 @@ Aspose.Cells for JasperReports 导出器使用托管代码开发，无需在机�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/cells/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="API 参考资料" href="https://reference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://reference.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -269,7 +269,7 @@ Aspose.Cells for JasperReports 导出器使用托管代码开发，无需在机�
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/cells/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for JasperReports？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是Aspose.Cells for JasperReports？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

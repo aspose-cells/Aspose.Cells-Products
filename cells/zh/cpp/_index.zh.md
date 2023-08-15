@@ -1,10 +1,10 @@
 ---
 title:  C++ Excel 电子表格编程 API - Aspose
 weight: 7140
-description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、XLSM 和 XLSB 格式。将电子表格转换为 PDF、CSV 和更多格式
+description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、XLSM 和 XLSB 格式。将电子表格转换为 PDF、CSV 及更多格式
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel 电子表格 API" h2="在全功能 C++ 应用程序中创建、读取、写入和解析电子表格，没有任何 Microsoft Excel 依赖项。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ Excel 电子表格 API" h2="在全功能 C++ 应用程序中创建、读取、写入和解析电子表格，无需任何 Microsoft Excel 依赖项。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-for-cpp.svg" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/cells/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Cells" subTitlepfName="for C++" >}}
 
@@ -12,7 +12,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for C++ 是用于电子表格操作的本机 C++ API。应用程序可以执行诸如创建、转换和编辑电子表格的内置和自定义属性、主题、样式和格式、数据验证、条件格式、读取、编写和计算公式、分组行和列等功能，而无需依赖办公自动化或 Microsoft Excel。 API 支持最常用的电子表格格式，例如 XLS、XLSX、XLSM 和 XLSB。
+ Aspose.Cells for C++ 是用于电子表格操作的本机 C++ API。应用程序可以执行诸如创建、转换和编辑电子表格的内置和自定义属性、主题、样式和格式、数据验证、条件格式、读取、编写和计算公式、对行和列进行分组等功能，而无需依赖办公自动化或 Microsoft Excel。 API 支持最常用的电子表格格式，例如 XLS、XLSX、XLSM 和 XLSB。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -20,7 +20,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="乍看上去" description="API 的概述。" >}}
+{{< blocks/products/pf/carousel-item h3="乍看上去" description="API 概述。" >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -40,7 +40,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 数据透视表
     </li>
     <li>
-表
+表格
     </li>
     <li>
 图表
@@ -68,7 +68,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 加载/保存电子表格
     </li>
     <li>
-数据操作
+数据处理
     </li>
     <li>
 内置属性
@@ -80,10 +80,10 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 主题
     </li>
     <li>
-风格与格式化
+风格&amp;格式化
     </li>
     <li>
-超级链接
+超链接
     </li>
     <li>
 自动过滤器
@@ -95,7 +95,7 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 读、写公式
     </li>
     <li>
-行分组 &amp;列
+行分组和行分组列
     </li>
    </ul>
   </div>
@@ -121,20 +121,20 @@ description: C++ Excel 库，用于读写和解析文件，包括 XLS、XLSX、X
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="平台独立性" description="API完全支持C++在以下平台上的应用[系统要求](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="平台独立性" description="API 完全支持以下平台上的 C++ 应用程序[系统要求](https://docs.aspose.com/cells/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cubes">
     </i>
-Windows 32 位
+Windows 32位
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-Windows 64 位
+Windows 64位
    </header>
   </div>
   <!--/left-->
@@ -181,7 +181,7 @@ Linux 64 位
      <b>
 Microsoft Excel：
      </b>
-XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
+XLS、XLSX、XLSB、XLT、XLTX、XLTM、XLSM、XML
     </li>
     <li>
      <b>
@@ -274,49 +274,49 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-负荷&amp;使用流保存 Excel 文件
+负载&amp;使用流保存 Excel 文件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-创造与操纵图表
+创建&amp;操纵图表
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-设置数据校验限制输入
+设置数据验证以限制输入
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-通过对行 &amp; 分组来组织数据列
+通过对行和行进行分组来组织数据列
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-操纵内置 &amp;自定义属性
+操纵内置和自定义属性
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-添加 &amp;操纵超链接
+添加&amp;操纵超链接
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-创造与操纵数据透视表
+创建&amp;操纵数据透视表
     </p>
    </div>
    <div class="col-lg-4">
@@ -330,7 +330,7 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-创建表 &amp;列出对象
+创建表&amp;列出对象
     </p>
    </div>
    <div class="col-lg-4">
@@ -351,14 +351,14 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-追溯先例家属
+追踪先例和家属
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-superscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-读、写&amp;计算复杂的公式
+读、写和计算复杂的公式
     </p>
    </div>
    <div class="col-lg-4">
@@ -379,7 +379,7 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-创建和实现用户定义的函数
+创建并实现用户定义的函数
     </p>
    </div>
    <div class="col-lg-4">
@@ -398,18 +398,18 @@ XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-对 Microsoft Excel 的零依赖
+对Microsoft Excel的零依赖
     </h2>
     <p>
-Aspose API 是完全独立的，不隶属于 Microsoft Corporation，也不受其授权、赞助或批准。 Aspose.Cells for C++ 永远不需要在机器上安装 Microsoft Office 或 Microsoft Excel 来处理 Excel 文档格式。
+Aspose API 完全独立，不隶属于 Microsoft Corporation，也不受 Microsoft Corporation 授权、赞助或以其他方式批准。 Aspose.Cells for C++ 无需在计算机上安装 Microsoft Office 或 Microsoft Excel 即可处理 Excel 文档格式。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-简单 &amp; Excel 格式的可靠转换
+简单&amp; Excel 格式的可靠转换
     </h2>
     <p>
-Aspose.Cells for C++ 是一组功能强大的 API，可提供加载、编辑、写入和相互转换 Excel 文件格式的能力，而无需担心格式特定的细节。 API 允许您将电子表格从任何支持的格式转换为任何其他支持的格式，只需两行代码。就这么简单！
+Aspose.Cells for C++ 是一组功能强大的 API，提供加载、编辑、写入和相互转换 Excel 文件格式的功能，而无需担心格式特定的详细信息。 API 允许您只需两行代码即可将电子表格从任何支持的格式转换为任何其他支持的格式。就是这么简单！
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -433,7 +433,7 @@ book-&gt;Save(dir-&gt;StringAppend(new String("output.csv")), SaveFormat_CSV);</
 全面的电子表格格式
     </h2>
     <p>
-Aspose.Cells for C++ 通过提供高级格式化功能，您可以完全控制希望如何在工作表上显示数据。您可以将格式应用于单个行、列、单元格，或者您可以创建一系列单元格并对其应用格式。您还可以向单元格添加富文本、应用边框、设置背景图案或调整与字体相关的样式方面。
+Aspose.Cells for C++ 通过提供高级格式设置功能，让您可以完全控制如何在工作表上呈现数据。您可以将格式应用于单个行、列、单元格，也可以创建单元格区域并向其应用格式。您还可以向单元格添加富文本、应用边框、设置背景图案或调整与字体相关的样式方面。
     </p>
    </div>
    <div class="col-lg-12">
@@ -441,23 +441,23 @@ Aspose.Cells for C++ 通过提供高级格式化功能，您可以完全控制�
 用图表可视化数据
     </h2>
     <p>
-Aspose.Cells for C++ 提供了一套全面的 API 来动态创建 Excel 应用程序支持的所有标准和自定义图表类型。 API 还提供了更新现有图表的数据源并刷新它的功能。
+Aspose.Cells for C++ 提供了一套全面的 API，可动态创建 Excel 应用程序支持的所有标准和自定义图表类型。 API 还提供了更新现有图表的数据源并刷新它的功能。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-将工作表呈现为图像
+将工作表渲染为图像
     </h2>
     <p>
-该库使用自己的渲染引擎以最高保真度呈现 Microsoft Excel。它提供独特的功能，例如将工作表渲染为流行格式的图像，包括 BMP、TIFF、PNG、JPEG 和EMF. Sheet2Image 过程非常灵活，因此允许选择选项，例如控制生成图像的分辨率。
+该库使用自己的渲染引擎以最高保真度渲染 Microsoft Excel。它提供了独特的功能，例如将工作表渲染为流行格式的图像，包括 BMP、TIFF、PNG、JPEG 和 JPEG。 EMF。Sheet2Image 过程非常灵活，因此允许选择选项，例如控制结果图像的分辨率。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-操纵列和行
+操作列和行
     </h2>
     <p>
-Aspose.Cells for C++ 提供多种方式的行和列操作。根据其中的内容调整行高和列宽或自动调整单元格尺寸，太容易了。 API 还提供删除和插入、隐藏或显示以及行和列分组或取消分组的方法。
+Aspose.Cells for C++ 提供多种方式的行和列操作。调整行高和列宽或根据其中的内容自动调整单元格尺寸，太容易了。 API 还提供删除和插入、隐藏或显示以及行和列分组或取消分组的方法。
     </p>
    </div>
    <div class="col-lg-12">
@@ -465,7 +465,7 @@ Aspose.Cells for C++ 提供多种方式的行和列操作。根据其中的内�
 准确地将电子表格转换为 PDF
     </h2>
     <p>
-Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保持与原始文档相同的质量。这一事实使 Aspose.Cells for C++ 成为需要以行业标准格式交换文档的组织的完美选择，如 PDF。
+Excel C++ 库能够将电子表格转换为 PDF 格式，同时保留与原始文档相同的质量。这一事实使得 Aspose.Cells for C++ 成为需要以行业标准格式（如 PDF）交换文档的组织的完美选择。
     </p>
    </div>
    <!-- 
@@ -501,7 +501,7 @@ Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保�
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/cells/cpp/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-cells/Aspose.Cells-for-C" >}}
-{{< blocks/products/pf/slr-element name="API 参考资料" href="https://reference.aspose.com/cpp/cells" >}}
+{{< blocks/products/pf/slr-element name="API 参考文献" href="https://reference.aspose.com/cpp/cells" >}}
 {{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -512,7 +512,7 @@ Excel C++ 库提供了将电子表格转换为 PDF 格式的能力，同时保�
 {{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/cells/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="为什么是 Aspose.Cells for C++？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="为什么是Aspose.Cells for C++？" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/aspose-cells" >}}
 {{< /blocks/products/pf/slr-tab >}}

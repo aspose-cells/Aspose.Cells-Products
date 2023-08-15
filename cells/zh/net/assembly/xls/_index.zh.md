@@ -1,7 +1,7 @@
 ---
-title: 在 XLS 文件中生成报告 via .NET
+title: 在 XLS 文件 via .NET 中生成报告
 weight: 1700
-description: C# 在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上生成 XLS 格式报告的源代码。
+description: C# 源代码，用于在 .NET Framework、.NET Core、Mono 或 Xamarin 平台上生成 XLS 格式报告。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C# 生成 XLS 格式的批量报告" h2="使用数据源和模板生成 XLS 格式的报告。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLS" >}}
@@ -13,11 +13,11 @@ description: C# 在 .NET 框架、.NET 核心、Mono 或 Xamarin 平台上生成
 
 为了创建 XLS 报告，我们将使用
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API这是一款功能丰富、功能强大且易于使用的报告生成API，适用于C#平台。打开
+API这是一个功能丰富、强大且易于使用的报告生成API用于C#平台。打开
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells** 
-并安装。您也可以从包管理器控制台使用以下命令。
+并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="Aspose.Cells" offSpacer="true" %}}
 
@@ -42,8 +42,8 @@ PM> Install-Package Aspose.Cells
 1. 实例化 WorkbookDesigner 类
 1. 在任何工作表的任何单元格中设置标记
 1. 为 WorkbookDesigner 对象设置数据源
-1. 调用 WorkbookDesigner.Process 方法以使用数据填充模板
-1. 通过 WorkbookDesigner.Worbook.Save 方法以 XLS 格式保存结果
+1. 调用 WorkbookDesigner.Process 方法用数据填充模板
+1. 通过 WorkbookDesigner.Worbook.Save 方法将结果保存为 XLS 格式
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -51,13 +51,13 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
-所有主要操作系统都支持 Aspose.Cells for .NET。只需确保您具有以下先决条件。
+Aspose.Cells for .NET 在所有主要操作系统上均受支持。只需确保您满足以下先决条件即可。
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows 或具有 .NET 框架、.NET 核心、Mono 或 Xamarin 平台的兼容操作系统
-- 开发环境类似Microsoft Visual Studio
-- 在您的项目中添加对 Aspose.Cells for .NET DLL 的引用
+- Microsoft Windows 或具有 .NET Framework、.NET Core、Mono 或 Xamarin 平台的兼容操作系统
+- 开发环境如Microsoft Visual Studio
+- 在项目中添加对 Aspose.Cells for .NET DLL 的引用
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Cells
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for .NET API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -84,14 +84,14 @@ PM> Install-Package Aspose.Cells
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="免费应用程序组装 XLS" sectionDescription="查看我们的现场演示[创建 XLS 个文件](https://products.aspose.app/cells/assembly/xls)具有以下好处。" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="免费组装应用程序 XLS" sectionDescription="查看我们的现场演示[创建XLS文件](https://products.aspose.app/cells/assembly/xls)具有以下好处。" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写或编译代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传 XLS 文件并点击“组装”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="从链接下载生成的 XLS 文件" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-扩展名为 XLS 的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（如 OpenOffice Calc 或 Apple Numbers）创建。Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据在工作表中以表格格式存储和显示给用户，可以跨越数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在使用的首选。
+扩展名为 XLS 的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（例如 OpenOffice Calc 或 Apple Numbers）创建。Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据以工作表中的表格格式存储并显示给用户，可以涵盖数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同的格式，包括 PDF、CSV、XLSX、TXT、HTML、XPS 等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在使用的首选。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -99,7 +99,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用 C#，可以轻松生成多种格式的报告，包括。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的报告生成格式" subTitle="使用C#，可以轻松生成多种格式的报告，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsb/" name="XLSB" description="二进制 Excel 工作簿文件" >}}

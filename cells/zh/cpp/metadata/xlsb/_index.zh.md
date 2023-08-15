@@ -1,7 +1,7 @@
 ---
 title: 通过 C++ 编辑或查看 XLSB 文档元数据
 weight: 4820
-description: C++ 示例代码，用于编辑或查看 C++ 运行时环境中的 XLSB 文件元数据，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
+description: 用于在 C++ 运行时环境（适用于 Windows 32 位、Windows 64 位和 Linux 64 位）上编辑或查看 XLSB 文件元数据的 C++ 示例代码。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 C++ 提取 XLSB 元数据" h2="构建您自己的 C++ 应用程序，以使用服务器端 API 添加、编辑、删除或提取 XLSB 文件中的元数据。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,11 +13,11 @@ description: C++ 示例代码，用于编辑或查看 C++ 运行时环境中的 
 
 为了提取 XLSB 元数据，我们将使用
  [Aspose.Cells for C++](https://products.aspose.com/cells/cpp) 
-API 这是一个功能丰富、功能强大且易于使用的文档元数据提取 API for C++ 平台。可以直接下载其最新版本，打开即可
+API 这是一个功能丰富、功能强大且易于使用的文档元数据提取API for C++平台。您可以直接下载最新版本，打开即可
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
 包管理器，搜索
  **Aspose.Cells.Cpp** 
-并安装。您也可以从包管理器控制台使用以下命令。
+并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="命令" offSpacer="true" %}}
 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
-访问存储在 XLSB 文件中的有用信息，包括 XLSB 文件的接收时间、处理时间、时间戳等。
+访问 XLSB 文件中存储的有用信息，包括 XLSB 文件的接收时间、处理时间、时间戳等。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -57,11 +57,11 @@ Aspose.Cells for C++ 支持所有主要平台和操作系统。请确保您具�
 {{% /blocks/products/pf/agp/text %}}
 
 -  Microsoft Windows 或具有 C++ 运行时环境的兼容操作系统，适用于 Windows 32 位、Windows 64 位和 Linux 64 位。
-- 在您的项目中添加对 Aspose.Cells for C++ DLL 的引用。
+- 在项目中添加对 Aspose.Cells for C++ DLL 的引用。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="提取 XLSB 的元数据 - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="提取 XLSB - C++ 的元数据" offSpacer="" %}}
 
 ```cs
 
@@ -83,7 +83,7 @@ meta->Save(new String("c:\\book2.xlsb"));
 
     {{% blocks/products/pf/agp/content h2="关于 Aspose.Cells for C++ API" %}}
 
- Aspose.Cells API 可用于创建、编辑、转换和呈现 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的综合图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要像 Microsoft 或 OpenOffice 这样的任何软件。
+ Aspose.Cells API 可用于创建、编辑、转换和渲染 Microsoft Excel 格式为不同的格式。此外，它还可用于软件应用程序中的全面图表、可扩展报告和可靠计算。 Aspose.Cells 是一个独立的 API，它不需要任何像 Microsoft 或 OpenOffice 这样的软件。
 
 
 
@@ -95,10 +95,10 @@ meta->Save(new String("c:\\book2.xlsb"));
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="无需下载或设置任何东西" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="无需编写任何代码" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 XLSB 文件并编辑文档属性" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成文件的下载链接" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取结果文件的下载链接" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}
-XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作簿内容的记录和结构的集合。内容可以包括非结构化或半结构化的数字表格、文本或数字和文本、公式、外部数据连接、图表和图像。与 XLSX（基于 Open XML 文件格式）不同，XLSB 表示二进制 Excel 工作簿文件。 XLSB 文件可以更快地读取和写入，这使得它们对于处理大文件很有用。 XLSB 很少用于存储工作簿，因为 XLSX（以及以前的 XLS）是用户最常选择的用于保存工作簿的文件格式。 Microsoft Office 2007及以上版本可以打开。
+XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作簿内容的记录和结构的集合。内容可以包括非结构化或半结构化的数字表、文本表、或数字和文本表、公式、外部数据连接、图表和图像。与 XLSX（基于 Open XML 文件格式）不同，XLSB 表示二进制 Excel 工作簿文件。 XLSB 文件的读取和写入速度更快，这使得它们对于处理大文件非常有用。 XLSB 很少用于存储工作簿，因为 XLSX（以及之前的 XLS）是用户选择的最常见的用于保存工作簿的文件格式。可以用Microsoft Office 2007及以上版本打开。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -106,7 +106,7 @@ XLSB 文件格式指定 Excel 二进制文件格式，它是指定 Excel 工作�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的元数据格式" subTitle="使用 C++，还可以操作许多其他格式的元数据，包括" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的元数据格式" subTitle="使用C++，人们还可以操作许多其他格式的元数据，包括" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/ods/" name="ODS" description="OpenDocument 电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/metadata/xls/" name="XLS" description="Excel 二进制格式" >}}

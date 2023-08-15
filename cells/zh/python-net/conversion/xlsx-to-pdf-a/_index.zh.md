@@ -1,6 +1,6 @@
 ---
 title: 通过 Python 将 XLSX 转换为 PDF
-description: xlsx 到 pdf Python 转换的示例代码。在 Python 应用程序中使用 API 示例代码将 xlsx 文件批量转换为 pdf。
+description: xlsx 到 pdf Python 转换的示例代码。使用 API 示例代码在 Python 应用程序中将 xlsx 文件批量转换为 pdf。
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="通过 Python 将 XLSX 转换为 PDF" h2="使用 Python API 将 Excel 电子表格导出为 PDF 格式。" logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ description: xlsx 到 pdf Python 转换的示例代码。在 Python 应用程序
 
 为了将 XLSX 转换为 PDF，我们将使用
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) 
- API 这是一个功能丰富、功能强大且易于使用的文档操作和转换平台 API for Python。
+API 这是一个功能丰富、功能强大且易于使用的文档操作和转换API for Python 平台。
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -28,7 +28,7 @@ Python 开发人员只需几行代码即可轻松加载 XLSX 文件并将其转�
 1. 使用工作簿实例加载 XLSX 文件
 1. 调用 Workbook.Save 方法
 1. 以 PDF 扩展名作为参数传递输出路径
-1. 检查结果 PDF 文件的指定路径
+1. 检查生成的 PDF 文件的指定路径
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -36,12 +36,12 @@ Python 开发人员只需几行代码即可轻松加载 XLSX 文件并将其转�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（Windows，Linux），只要确保系统有[Python](https://www.python.org/downloads/) 3.7 或更高。
+ Aspose.Cells for Python 与平台无关 API 可以在任何平台上使用（Windows，Linux），只需确保系统有[Python](https://www.python.org/downloads/)3.7或更高。
  
 {{% /blocks/products/pf/agp/text %}}
 
 
-- 从安装 Aspose.Cells for Python<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ，使用命令为：<code>$ pip install aspose-cells-python</code>.
+- 安装 Aspose.Cells for Python 从<a href="https://pypi.org/project/aspose-cells-python/">pypi</a>，使用命令为：<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -53,28 +53,28 @@ Aspose.Cells for Python 是平台无关的 API 可以在任何平台上使用（
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-一个 Excel 电子表格编程库，能够构建跨平台应用程序，能够生成、修改、转换、呈现和打印所有 Excel 文件。 Python Excel API 不仅可以在电子表格格式之间相互转换，还可以将Excel文件渲染为图片，PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT等，是行业文档交换的完美选择-标准格式。
+Excel 电子表格编程库能够构建跨平台应用程序，能够生成、修改、转换、渲染和打印所有 Excel 文件。 Python Excel API不仅可以在电子表格格式之间进行转换，还可以将Excel文件渲染为图像，PDF、HTML、ODS、CSV、SVG、JSON、WORD、PPT等，从而使其成为行业交换文档的完美选择-标准格式。
 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
-XLSX 是 Microsoft 随 Microsoft Office 2007 版本引入的 Microsoft Excel 文档的众所周知格式。根据 OOXML 标准 ECMA-376 第 2 部分概述的开放打包约定组织的结构，新格式是一个 zip 包，其中包含许多 XML 文件。只需解压缩 .xlsx 文件即可检查底层结构和文件。
+XLSX 是 Microsoft Excel 文档的众所周知的格式，由 Microsoft 在 Microsoft Office 2007 版本中引入。基于根据 OOXML 标准 ECMA-376 第 2 部分中概述的开放打包约定组织的结构，新格式为包含许多 XML 文件的 zip 包。只需解压缩 .xlsx 文件即可检查底层结构和文件。
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}
-便携式文档格式 (PDF) 是 Adobe 在 1990 年代创建的一种文档。这种文件格式的目的是引入一种标准，以一种独立于应用程序软件、硬件和操作系统的格式来表示文档和其他参考资料。 PDF 文件格式具有包含文本、图像、超链接、表单字段、富媒体、数字签名、附件、元数据、地理空间特征和 3D 对象等信息的完整功能，这些信息可以成为源文档的一部分。
+便携式文档格式 (PDF) 是 Adobe 在 20 世纪 90 年代创建的一种文档类型。该文件格式的目的是引入一种以独立于应用程序软件、硬件以及操作系统的格式表示文档和其他参考材料的标准。 PDF 文件格式完全能够包含文本、图像、超链接、表单字段、富媒体、数字签名、附件、元数据、地理空间特征和 3D 对象等信息，这些信息可以成为源文档的一部分。
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 XLSX 转换为许多其他文件格式，包括下面列出的几种格式。" >}}
+{{< blocks/products/pf/agp/other-supported-section title="其他支持的转换" subTitle="您还可以将 XLSX 转换为许多其他文件格式，包括下面列出的几种。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-bmp/" name="XLSX 至 BMP" description="位图图像" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX 至 EMF" description="增强型图元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-emf/" name="XLSX 至 EMF" description="增强的图元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-gif/" name="XLSX 至 GIF" description="图形交换格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-html/" name="XLSX 至 HTML" description="超文本标记语言" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-md/" name="XLSX 至 MD" description="降价语言" >}}
@@ -90,11 +90,11 @@ XLSX 是 Microsoft 随 Microsoft Office 2007 版本引入的 Microsoft Excel 文
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX 至 XLSB" description="二进制 Excel 工作簿文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX 至 XLSM" description="电子表格文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsx/" name="XLSX 至 XLSX" description="OOXML Excel 文件" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX 至 XLT" description="Microsoft Excel模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX 至 XLTM" description="启用宏的 Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX 至 XLTX" description="办公室 OpenXML Excel 模板" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX 到 XML" description="可扩展标记语言" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX 至 XPS" description="XML 纸张规范" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX 至 XLT" description="Microsoft Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX 至 XLTM" description="Excel 宏启用模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltx/" name="XLSX 至 XLTX" description="Office OpenXML Excel 模板" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xml/" name="XLSX 转 XML" description="可扩展标记语言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xps/" name="XLSX 至 XPS" description="XML 论文规范" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-json/" name="XLSX 至 JSON" description="JavaScript 对象表示法" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

@@ -1,5 +1,5 @@
 ---
-title:  Proteger y bloquear XLS documento via Java
+title: Proteger y bloquear XLS documento via Java
 weight: 5070
 description: Java código de muestra para bloquear el archivo XLS usando la contraseña en Java Entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---

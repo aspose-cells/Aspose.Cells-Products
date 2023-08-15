@@ -6,7 +6,7 @@ description: Convierta Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, JPEG y otros 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversión de documentos de Excel a través de C++" h2="Guarde Microsoft<sup>&reg;</sup> archivos de Excel como hojas de cálculo, web, imágenes y formatos de diseño fijo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Para cualquier aplicación o solución de conversión de hojas de cálculo,**C++ Biblioteca Excel**acelera los procesos de codificación, automatización y conversión mientras maneja múltiples archivos, incluidos XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. También permite *convertir Excel al PDF**, XPS, HTML, MHTML, Normal Texto e imágenes populares como JPG, TIFF, PNG, BMP y SVG.
+ Para cualquier aplicación o solución de conversión de hojas de cálculo,**C++ Biblioteca Excel** acelera los procesos de codificación, automatización y conversión mientras maneja múltiples archivos, incluidos XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. También permite *convertir Excel al PDF**, XPS, HTML, MHTML, Normal Texto e imágenes populares como JPG, TIFF, PNG, BMP y SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversión de Microsoft Formatos de Excel" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Convierta formatos de Excel a PDF con la configuración del nivel de cumplimiento" %}}
- C++ Excel Automation API admite la conversión de libros de trabajo a PDF, así como la configuración de soporte del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con[Aspose::Cells::Representación](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)para establecer el cumplimiento PDF. Para la conversión, el método de guardado API tiene PdfSaveOptions como parámetro y la ruta del archivo de salida especificada.
+ C++ Excel Automation API admite la conversión de libros de trabajo a PDF, así como la configuración de soporte del nivel de cumplimiento y la fecha de creación. Los desarrolladores pueden usar[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) junto con[Aspose::Cells::Representación](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) para establecer el cumplimiento PDF. Para la conversión, el método de guardado API tiene PdfSaveOptions como parámetro y la ruta del archivo de salida especificada.
 {{% blocks/products/pf/feature-page-code h3="C++ Código de muestra para conversión de Excel a PDF" %}}
 
 ```cs

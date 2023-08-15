@@ -6,7 +6,7 @@ description: Convertir Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, JPEG, HTML y 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversión de formato de Excel via .NET" h2="Importe y exporte archivos de Excel como hojas de cálculo, web, imágenes y formatos de diseño fijo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET La biblioteca de Excel acelera la programación de hojas de cálculo y los procesos de conversión al tiempo que admite formatos populares, incluidos XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761934 81. También permite exportar archivos de Excel a PDF, XPS, HTML, MHTML, Plain Formatos de texto e imagen populares como TIFF, JPG, PNG, BMP y SVG.
+.NET La biblioteca de Excel acelera la programación de hojas de cálculo y los procesos de conversión al tiempo que admite formatos populares, incluidos XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761934 81. También permite exportar archivos de Excel a PDF, XPS, HTML, MHTML, Plain Texto y formatos de imagen populares como TIFF, JPG, PNG, BMP y SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Convierta Excel a XLSX, ODS, SXC y FODS" %}}
@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Convierta JSON a Excel y Excel a JSON" %}}
- JSON los datos se pueden importar a una instancia de[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) clase con la ayuda de[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) para su posterior procesamiento o simple conversión a cualquiera de los formatos admitidos. Similarmente,[Hoja de cálculo](https://reference.aspose.com/cells/net/aspose.cells/worksheet) los datos se pueden exportar como JSON creando un[Rango](https://reference.aspose.com/cells/net/aspose.cells/range) o celdas y llamando al[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) método.
+ JSON los datos se pueden importar a una instancia de[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) clase con la ayuda de[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)para su posterior procesamiento o simple conversión a cualquiera de los formatos admitidos. Similarmente,[Hoja de cálculo](https://reference.aspose.com/cells/net/aspose.cells/worksheet) los datos se pueden exportar como JSON creando un[Rango](https://reference.aspose.com/cells/net/aspose.cells/range) o celdas y llamando al[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) método.
 {{% blocks/products/pf/feature-page-code h3="C# Código para la conversión JSON a Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Convertir Excel a Word & PowerPoint" %}}
- Es posible cargar cualquier hoja de cálculo y convertirla a archivos de Word DOCX y PowerPoint PPTX mientras se usa[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxGuardarOpciones](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) clases como se muestra a continuación.
+ Es posible cargar cualquier hoja de cálculo y convertirla a archivos de Word DOCX y PowerPoint PPTX mientras se usa[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxGuardarOpciones](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)clases como se muestra a continuación.
 {{% blocks/products/pf/feature-page-code h3="C# código para Excel a Word y PowerPoint Conversión" %}}
 ```cs
 // load the template file

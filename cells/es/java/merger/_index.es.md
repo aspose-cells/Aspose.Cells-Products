@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combinar varios archivos de Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) El método admite la combinación de datos, estilo y fórmulas de un archivo de Excel en una nueva hoja de cálculo del mismo formato. Es una forma eficiente de fusionar varios archivos mientras usa el almacenamiento en caché.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)El método admite la combinación de datos, estilo y fórmulas de un archivo de Excel en una nueva hoja de cálculo del mismo formato. Es una forma eficiente de fusionar varios archivos mientras usa el almacenamiento en caché.
 {{% blocks/products/pf/feature-page-code h3="Java Código para fusionar varios archivos de Excel" %}}
 
 ```cs

@@ -33,7 +33,7 @@ Es fácil para los desarrolladores crear un gráfico de líneas 3D dentro de la 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
 {{% /blocks/products/pf/agp/text %}}
 
 - Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.

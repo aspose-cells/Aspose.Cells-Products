@@ -1,7 +1,7 @@
 ---
-title: Convertir XML a XLT Python via Python
-description: Convierta XML a XLT en línea de forma gratuita. Convertidor gratuito en línea de XML a XLT. Python XML al XLT. XML al XLT vía Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML a XLT - Convertidor de XML a XLT en línea
+description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir XML a XLT guardar formato. Python XML a formato XLT. Guardar XML en XLT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to XLT saveformat., Free Online XML to XLT Python., Python Convert XML to XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XML a XLT en Python" h2="Biblioteca Python de alta velocidad para convertir XML a XLT. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Convertir XML a XLT en Python" %}}
 
- ¿Cómo convertir XML a XLT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XML a XLT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto XML a XLT? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente XML a XLT mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga los sencillos pasos para convertir XML a XLT. Cargue su archivo XML, luego 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XML a XLT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicación gratuita y código de muestra para convertir XML a XLT en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir XML a XLT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Los desarrolladores de Python pueden cargar y convertir fácilmente XML a XLT con solo unas pocas líneas de código.
+¿Necesita convertir archivos XML a XLT mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente XML a XLT con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue un archivo XML con una instancia de Workbook
-1.  Convierta XML a XLT llamando al método Workbook.save
+1.  Cargue el archivo XML con una instancia de Workbook.
+1.  Convierta XML a XLT llamando al método Workbook.save.
+1.  Obtenga el resultado de la conversión de XML a XLT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/)sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
+ Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/) sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python a través de NET es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa Lenguaje de marcado extensible que es similar a HTML pero diferente en el uso de etiquetas para definir objetos. La idea detrás de la creación del formato de archivo XML era almacenar y transportar datos sin depender de herramientas de software o hardware. Su popularidad se debe a que es legible tanto por humanos como por máquinas. Esto le permite crear protocolos de datos comunes en forma de objetos para ser almacenados y compartidos a través de una red como la World Wide Web (WWW). La "X" en XML es extensible, lo que implica que el lenguaje se puede extender a cualquier número de símbolos según los requisitos del usuario. Es por estas características que muchos formatos de archivo estándar lo utilizan, como Microsoft Open XML, LibreOffice OpenDocument, XHTML y SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Los archivos con la extensión .xlt son archivos de plantilla creados con Microsoft Excel, que es una aplicación de hoja de cálculo que forma parte del paquete de Office Microsoft. Microsoft Office 97-2003 admitía la creación de nuevos archivos XLT y su apertura. La última versión de Excel todavía es capaz de abrir estos archivos de plantilla de formato antiguo. Dicho archivo de plantilla se usa para crear rápidamente nuevos archivos de Excel con datos y configuraciones predeterminados, como formato de página, tamaño de fuente, márgenes, gráficos, etc., que se pueden guardar como nuevos archivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir XML a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 

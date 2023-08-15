@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento básico que se fusiona y concatena con[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Las API se pueden hacer con solo unas pocas líneas de código.
+Un documento básico que se fusiona y concatena con[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Las API se pueden hacer con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -69,7 +69,7 @@ PM> Install-Package Aspose.Cells.Cpp
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con requisitos de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 que brinda mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML se compone de HTML elementos como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas como img, a, p y varias otras donde cada etiqueta tiene un inicio y un fin. También puede incrustar aplicaciones escritas en lenguajes de secuencias de comandos como JavaScript y hojas de estilo (CSS) para la representación general del diseño.
+HTML (Hyper Text Markup Language) es la extensión para páginas web creada para mostrarse en los navegadores. Conocido como lenguaje de la web, HTML ha evolucionado con requisitos de nuevos requisitos de información para mostrarse como parte de las páginas web. La última variante se conoce como HTML 5 que brinda mucha flexibilidad para trabajar con el idioma. Las páginas HTML se reciben del servidor, donde están alojadas, o también se pueden cargar desde el sistema local. Cada página HTML se compone de HTML elementos como formularios, texto, imágenes, animaciones, enlaces, etc. Estos elementos están representados por etiquetas como img, a, p y varias otras donde cada etiqueta tiene un inicio y un final. También puede incrustar aplicaciones escritas en lenguajes de secuencias de comandos como JavaScript y hojas de estilo (CSS) para la representación general del diseño.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

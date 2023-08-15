@@ -12,7 +12,7 @@ description: Python biblioteca de hojas de cálculo para crear archivos de Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python a través de .Net es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando python.
+ Aspose.Cells for Python a través de .Net es un API rápido y confiable para tareas de procesamiento de hojas de cálculo. Los desarrolladores pueden crear hojas de cálculo simples o complejas, manipular y extraer información de archivos de Excel. API lee múltiples formatos de Excel y puede representar hojas de trabajo en XPS, PDF, MHTML, HTML, texto sin formato, imágenes y más. Es la mejor solución para automatizar informes de Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -156,7 +156,7 @@ Colecciones
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Opciones de visualización flexibles
     </h2>
     <p>
-Aspose.Cells for Python for Python via .NET brinda control total sobre la configuración de la página, lo que permite manipular múltiples opciones de visualización, como previsualizar saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, tamaño del papel, escala, encabezados y amp; pies de página y área de impresión.
+ Aspose.Cells for Python for Python via .NET brinda control total sobre la configuración de la página, lo que permite manipular múltiples opciones de visualización, como previsualizar saltos de página, establecer el nivel de zoom, establecer la orientación de la página, controlar la visibilidad de los datos con paneles congelados, tamaño del papel, escala, encabezados y amp; pies de página y área de impresión.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python for Python via .NET brinda control total sobre la config
  Personalización de gráficos
     </h2>
     <p>
- Aspose.Cells for Python via .NET proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o establecer dinámicamente datos de gráficos para actualizar el gráfico en esta biblioteca de Python.
+Aspose.Cells for Python via .NET proporciona soporte completo para gráficos. Se pueden agregar fácilmente gráficos estándar y personalizados o establecer dinámicamente datos de gráficos para actualizar el gráfico en esta biblioteca de Python.
     </p>
    </div>
    <!--

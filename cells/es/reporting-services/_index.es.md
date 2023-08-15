@@ -40,7 +40,7 @@ description: Extensión de representación de SQL Server Reporting Services - Ex
  Cajas de texto
     </li>
     <li>
- Imágenes
+Imágenes
     </li>
     <li>
  Subinformes
@@ -221,7 +221,7 @@ description: Extensión de representación de SQL Server Reporting Services - Ex
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSM, XLSB, XML
     </li>
@@ -312,7 +312,7 @@ description: Extensión de representación de SQL Server Reporting Services - Ex
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Contraer o expandir los campos de la tabla dinámica
+Contraer o expandir los campos de la tabla dinámica
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: Extensión de representación de SQL Server Reporting Services - Ex
  Aspose.Cells' Herramienta de diseño de informes
     </h2>
     <p>
-Los desarrolladores pueden diseñar y entregar informes directamente desde Microsoft Excel mientras usan Aspose.Cells.Report.Designer, una herramienta de diseño simple que usa Microsoft Excel como plantilla de informe. Esta función permite aprovechar todas las potentes funciones y funciones disponibles en la aplicación de Excel Microsoft, incluidas tablas dinámicas, gráficos interactivos, fórmulas, etc.
+ Los desarrolladores pueden diseñar y entregar informes directamente desde Microsoft Excel mientras usan Aspose.Cells.Report.Designer, una herramienta de diseño simple que usa Microsoft Excel como plantilla de informe. Esta función permite aprovechar todas las potentes funciones y funciones disponibles en la aplicación de Excel Microsoft, incluidas tablas dinámicas, gráficos interactivos, fórmulas, etc.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Los desarrolladores pueden diseñar y entregar informes directamente desde Micro
  Exportar informes a formatos de hoja de cálculo
     </h2>
     <p>
- Aspose.Cells for Reporting Services es compatible con todos los formatos de archivo populares Microsoft Excel (97 - 2016), incluidos los formatos Microsoft "nativos" de Excel como XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited y HTML. Aspose.Cells for Reporting Services también admiten el formato de archivo ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services es compatible con todos los formatos de archivo populares Microsoft Excel (97 - 2016), incluidos los formatos Microsoft "nativos" de Excel como XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited y HTML. Aspose.Cells for Reporting Services también admiten el formato de archivo ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Además, Aspose.Cells for Reporting Services exporta documentos de Excel como hojas de cálculo totalmente editables, es decir; el usuario final puede editar las hojas de cálculo resultantes manualmente en la aplicación Excel Microsoft si es necesario.
@@ -367,7 +367,7 @@ Los desarrolladores pueden diseñar y entregar informes directamente desde Micro
  Alta fidelidad - Idéntico al diseño de informes
     </h2>
     <p>
-Aspose.Cells for Reporting Services exportar los informes a Microsoft hojas de cálculo de Excel de forma que el resultado parezca idéntico al original generado por el diseñador de informes integrado de Reporting Services. Todas las características del informe se convierten al más alto grado de precisión para hacer que las hojas de cálculo de Excel Microsoft se parezcan lo más posible a la original.
+ Aspose.Cells for Reporting Services exportar los informes a Microsoft hojas de cálculo de Excel de forma que el resultado parezca idéntico al original generado por el diseñador de informes integrado de Reporting Services. Todas las características del informe se convierten al más alto grado de precisión para hacer que las hojas de cálculo de Excel Microsoft se parezcan lo más posible a la original.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services exportar los informes a Microsoft hojas de c
  Varias opciones de manejo de datos
     </h2>
     <p>
- Aspose.Cells for Reporting Services admite tablas con filas y pies de página agrupados, mientras que la agrupación se puede configurar en tiempo de diseño como otros elementos del informe. Aspose.Cells for Reporting Services también admite parámetros y variables globales como fuentes de datos de informes. Los desarrolladores también pueden utilizar Microsoft Query para crear fuentes de datos y consultas; esta es una herramienta ampliamente utilizada y familiar para la mayoría de los usuarios.
+Aspose.Cells for Reporting Services admite tablas con filas y pies de página agrupados, mientras que la agrupación se puede configurar en tiempo de diseño como otros elementos del informe. Aspose.Cells for Reporting Services también admite parámetros y variables globales como fuentes de datos de informes. Los desarrolladores también pueden utilizar Microsoft Query para crear fuentes de datos y consultas; esta es una herramienta ampliamente utilizada y familiar para la mayoría de los usuarios.
     </p>
     <p>
-Además de esto, Aspose.Cells for Reporting Services admite fuentes de datos específicas de informes y fuentes de datos compartidas creadas en Report Server por adelantado. Los desarrolladores pueden usar fuentes de datos específicas de informes en el momento del diseño y especificar fuentes de datos compartidas como fuentes de datos de informes mientras publican informes.
+ Además de esto, Aspose.Cells for Reporting Services admite fuentes de datos específicas de informes y fuentes de datos compartidas creadas en Report Server por adelantado. Los desarrolladores pueden usar fuentes de datos específicas de informes en el momento del diseño y especificar fuentes de datos compartidas como fuentes de datos de informes mientras publican informes.
     </p>
    </div>
    <!-- 

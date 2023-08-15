@@ -11,7 +11,7 @@ description: C# Código de muestra para la conversión de TSV a Byte Array. Use 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array es útil para el procesamiento o almacenamiento de datos. Puede convertir el archivo TSV a Byte Array, así como un**Matriz de bytes a TSV**documento utilizando el idioma C#. Para convertir TSV en una matriz de bytes, usaremos
+ Byte Array es útil para el procesamiento o almacenamiento de datos. Puede convertir el archivo TSV a Byte Array, así como un**Matriz de bytes a TSV** documento utilizando el idioma C#. Para convertir TSV en una matriz de bytes, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API que ofrece diferentes funciones para la manipulación y conversión de documentos utilizando la plataforma .NET.
 {{% /blocks/products/pf/agp/content %}}

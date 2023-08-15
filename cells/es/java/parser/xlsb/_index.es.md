@@ -63,7 +63,7 @@ description: Java código de muestra para extraer texto e imágenes del archivo 
 + Seleccione la hoja requerida usando el método getWorksheets().get.
 + Obtenga todas las celdas de la hoja seleccionada usando getCells().
 + Iterar sobre cada celda, obtener su texto.
-+ Imprima cada valor de celda o use el método StringBuilder append () para verlo como un todo
+Imprima cada valor de celda o use el método StringBuilder append () para verlo como un todo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

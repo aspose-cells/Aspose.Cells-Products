@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 Creación de una instancia de un objeto Workbook. (o-> Cargue el archivo XLSX con la ruta completa).
 + Seleccione Hoja de trabajo a través de su índice.
- + Usa el[añadir método](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#af316525bc065d011552514e73f3d5682) para insertar formas de ecuación en la hoja de cálculo seleccionada
+ + Usa el[añadir método](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#af316525bc065d011552514e73f3d5682) para insertar formas de ecuación en la hoja de trabajo seleccionada
 + Guardar libro de trabajo en formato XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

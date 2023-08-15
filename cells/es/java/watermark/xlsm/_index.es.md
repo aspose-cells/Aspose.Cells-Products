@@ -13,7 +13,7 @@ description: Java código de muestra para agregar o quitar marca de agua al arch
 
  Para poner una marca de agua en el archivo XLSM, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API que es una plataforma de marca de agua API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
+ API que es una plataforma de marca de agua API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
 

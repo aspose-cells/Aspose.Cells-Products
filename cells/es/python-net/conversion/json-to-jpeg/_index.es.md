@@ -1,7 +1,7 @@
 ---
-title: Convertir JSON a JPEG Python via Python
-description: Convierta JSON a JPEG en línea gratis. Convertidor gratuito en línea JSON a JPEG. Python JSON al JPEG. JSON al JPEG vía Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON a JPEG - En línea JSON a JPEG Convertidor
+description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir JSON a JPEG guardar formato. Formato Python JSON al JPEG. Aparta del JSON al JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to JPEG saveformat., Free Online JSON to JPEG Python., Python Convert JSON to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir JSON a JPEG en Python" h2="Biblioteca Python de alta velocidad para convertir JSON a JPEG. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Convertir JSON a JPEG en Python" %}}
 
- ¿Cómo convertir JSON a JPEG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JSON a JPEG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto JSON a JPEG? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente JSON a JPEG mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga los sencillos pasos para convertir JSON a JPEG. Cargue su archivo JSON, lue
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir JSON a JPEG en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicación gratuita y código de muestra para convertir JSON a JPEG en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir JSON a JPEG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Los desarrolladores de Python pueden cargar y convertir fácilmente JSON a JPEG en solo unas pocas líneas de código.
+¿Necesita convertir archivos JSON a JPEG mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente JSON a JPEG en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue el archivo JSON con una instancia de Workbook
-1.  Convierta JSON a JPEG llamando al método Workbook.save
+1.  Cargue el archivo JSON con una instancia de Workbook.
+1.  Convierta JSON a JPEG llamando al método Workbook.save.
+1.  Obtenga el resultado de la conversión de JSON a JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/)sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
+ Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/) sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python a través de NET es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Notación de objetos de JavaScript) es un formato de archivo estándar abierto para compartir datos que utiliza texto legible por humanos para almacenar y transmitir datos. Los archivos JSON se almacenan con la extensión .json. JSON requiere menos formato y es una buena alternativa para XML. JSON se deriva de JavaScript pero es un formato de datos independiente del idioma. Muchos lenguajes de programación modernos admiten la generación y el análisis de JSON. application/json es el tipo de medio utilizado para JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JSON a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
 

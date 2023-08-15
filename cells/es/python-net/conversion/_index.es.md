@@ -6,7 +6,7 @@ description: Convertir Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, JPEG, HTML y 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversión de formato de Excel a través de Python" h2="Importe y exporte archivos de Excel como hojas de cálculo, web, imágenes y formatos de diseño fijo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python La biblioteca de Excel acelera la programación de hojas de cálculo y los procesos de conversión al tiempo que admite formatos populares, incluidos XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761934 81. También permite exportar archivos de Excel a PDF, XPS, HTML, MHTML, Plain Formatos de texto e imagen populares como TIFF, JPG, PNG, BMP y SVG.
+Python La biblioteca de Excel acelera la programación de hojas de cálculo y los procesos de conversión al tiempo que admite formatos populares, incluidos XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761934 81. También permite exportar archivos de Excel a PDF, XPS, HTML, MHTML, Plain Texto y formatos de imagen populares como TIFF, JPG, PNG, BMP y SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Convierta Excel a XLSX, ODS, SXC y FODS" %}}
@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Convertir Excel a Word & PowerPoint" %}}
- Es posible cargar cualquier hoja de cálculo y convertirla a archivos de Word DOCX y PowerPoint PPTX mientras se usa[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxGuardarOpciones](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) clases como se muestra a continuación.
+ Es posible cargar cualquier hoja de cálculo y convertirla a archivos de Word DOCX y PowerPoint PPTX mientras se usa[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxGuardarOpciones](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)clases como se muestra a continuación.
 {{% blocks/products/pf/feature-page-code h3="Python código para Excel a Word y PowerPoint Conversión" %}}
 ```cs
 // load the template file

@@ -1,7 +1,7 @@
 ---
-title: Convertir ODS a MD Python via Python
-description: Convierta ODS a MD en línea de forma gratuita. Convertidor gratuito en línea ODS a MD. Python ODS a MD. ODS a MD vía Python.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS a MD - Convertidor en línea ODS a MD
+description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convierta ODS a formato de guardado MD. Python ODS a formato MD. Guardar ODS a MD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to MD saveformat., Free Online ODS to MD Python., Python Convert ODS to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir ODS a MD en Python" h2="Biblioteca Python de alta velocidad para convertir ODS a MD. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="Convertir ODS a MD en Python" %}}
 
- ¿Cómo convertir ODS a MD? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a MD mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto ODS a MD? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente ODS a MD mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga los sencillos pasos para convertir ODS a MD. Cargue su archivo ODS, luego s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir ODS a MD en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicación gratuita y código de muestra para convertir ODS a MD en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir ODS a MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Los desarrolladores de Python pueden cargar y convertir fácilmente ODS a MD con solo unas pocas líneas de código.
+¿Necesita convertir archivos ODS a MD mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente ODS a MD con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue el archivo ODS con una instancia de Workbook
-1. Convierta ODS a MD llamando al método Workbook.save
+1.  Cargue el archivo ODS con una instancia de Workbook.
+1.  Convierta ODS a MD llamando al método Workbook.save.
+1.  Obtenga el resultado de la conversión de ODS a MD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/)sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
+ Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/) sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python a través de NET es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Los archivos con extensión .ods representan el formato de documento de hoja de cálculo OpenDocument que el usuario puede editar. Los datos se almacenan dentro del archivo ODF en filas y columnas. Es un formato basado en XML y es uno de los varios subtipos de la familia Open Document Formats (ODF). El formato se especifica como parte de las especificaciones ODF 1.2 publicadas y mantenidas por OASIS. Varias aplicaciones en Windows, así como otros sistemas operativos, pueden abrir archivos ODS para editarlos y manipularlos, incluidos Microsoft Excel, NeoOffice y LibreOffice. Los archivos ODS también se pueden convertir a otros formatos de hoja de cálculo, como XLS, XLSX y otros mediante diferentes aplicaciones.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Los archivos de texto creados con los dialectos del idioma Markdown se guardan con la extensión de archivo .md o .MARKDOWN. Los archivos MD se guardan en formato de texto sin formato que utiliza el lenguaje Markdown, que también incluye símbolos de texto en línea, que definen cómo se puede formatear un texto, como sangrías, formato de tablas, fuentes y encabezados. Los archivos MD se pueden convertir a HTML con un programa llamado Markdown. El lenguaje Markdown es lanzado por John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir ODS a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
 

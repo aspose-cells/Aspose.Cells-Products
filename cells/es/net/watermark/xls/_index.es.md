@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  necesitas el
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-para probar el siguiente flujo de trabajo en su propio entorno.
+ para probar el siguiente flujo de trabajo en su propio entorno.
 
 {{% /blocks/products/pf/agp/text %}}
 

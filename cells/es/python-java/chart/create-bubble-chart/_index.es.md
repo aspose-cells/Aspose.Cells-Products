@@ -1,6 +1,6 @@
 ---
 title: Crear gráficos de burbujas a través de Python
-description: Python Código de ejemplo para crear gráficos de burbujas en Excel usando la biblioteca Python. Use este código para crear un gráfico de burbujas para MS Excel dentro de la aplicación basada en Python.
+description: Python Código de muestra para crear gráficos de burbujas en Excel usando la biblioteca Python. Use este código para crear un gráfico de burbujas para MS Excel dentro de la aplicación basada en Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

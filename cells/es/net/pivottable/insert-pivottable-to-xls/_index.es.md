@@ -1,5 +1,5 @@
 ---
-title: Insertar tabla dinámica en archivos de Microsoft Excel XLS a través de C#
+title:  Insertar tabla dinámica en archivos de Microsoft Excel XLS a través de C#
 weight: 7690
 description: C# Código de ejemplo para generar documentos XLS con tabla dinámica. Use este código para crear archivos Micorsoft Excel XLS con tabla dinámica dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Código de ejemplo para generar documentos XLS con tabla dinámi
 
 {{% blocks/products/pf/agp/text %}}
 
- Es fácil para los desarrolladores insertar una tabla dinámica en una hoja de cálculo con formato XLS dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+Es fácil para los desarrolladores insertar una tabla dinámica en una hoja de cálculo con formato XLS dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Código de ejemplo para generar documentos XLS con tabla dinámi
 1.  Acceda a la primera hoja de trabajo del libro.
 1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo y coloque el valor en la(s) celda(s).
 1.  Insertar tabla dinámica y establecer el estilo
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo XLS.
+1. Utilice el método Guardar para guardar el libro de trabajo como archivo XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

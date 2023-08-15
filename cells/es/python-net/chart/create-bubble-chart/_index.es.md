@@ -1,6 +1,6 @@
 ---
 title: Crear gráficos de burbujas a través de Python
-description: Python Código de ejemplo para crear gráficos de burbujas en Excel usando la biblioteca Python. Use este código para crear un gráfico de burbujas para MS Excel dentro de la aplicación basada en Python.
+description: Python Código de muestra para crear gráficos de burbujas en Excel usando la biblioteca Python. Use este código para crear un gráfico de burbujas para MS Excel dentro de la aplicación basada en Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -33,7 +33,7 @@ Es fácil para los desarrolladores crear un gráfico de burbujas dentro de la ej
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos del sistema" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
 {{% /blocks/products/pf/agp/text %}}
 - Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use el comando como:<code>$ pip install aspose-cells-python</code>.
 

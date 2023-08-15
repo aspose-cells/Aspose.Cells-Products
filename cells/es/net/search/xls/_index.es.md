@@ -13,7 +13,7 @@ description: C# código fuente para buscar palabras con patrón en el archivo XL
 
  Para buscar el archivo XLS, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que es un documento rico en funciones, potente y fácil de usar que busca API para la plataforma C#. Abierto
+API, que es un documento rico en funciones, potente y fácil de usar que busca API para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  **Aspose.Cells** 

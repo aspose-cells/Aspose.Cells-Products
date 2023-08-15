@@ -156,7 +156,7 @@ Colecciones
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>

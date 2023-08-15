@@ -61,7 +61,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Añadir Comentarios en XLSM - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Agregar Comentarios en XLSM - C++" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "e144512d2c395c3336f12ce960424686" "add-comment-in-xlsm-file.cpp" >}}
 

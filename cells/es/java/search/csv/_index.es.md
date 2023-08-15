@@ -58,7 +58,7 @@ description: Java código de muestra para buscar palabras con patrón en el arch
 {{% /blocks/products/pf/agp/text %}}
 
 + Cargue el archivo CSV instanciando un objeto Workbook.
-Acceda a la primera hoja de trabajo en el archivo CSV.
++ Acceda a la primera hoja de trabajo en el archivo CSV.
 + Encuentra la celda que contiene la fórmula especificada.
 + Crear una instancia de FindOptions.
 + Encuentra la celda que contiene un valor de cadena

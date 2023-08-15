@@ -1,5 +1,5 @@
 ---
-title:  Insertar gráfico dinámico en archivos de Microsoft Excel XLSM a través de C#
+title: Insertar gráfico dinámico en archivos de Microsoft Excel XLSM a través de C#
 weight: 7690
 description: C# Código de muestra para generar documentos XLSM con gráfico dinámico. Use este código para crear archivos Micorsoft Excel XLSM con gráfico dinámico dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Código de muestra para generar documentos XLSM con gráfico din
 
 {{% blocks/products/pf/agp/text %}}
 
-Es fácil para los desarrolladores insertar un gráfico dinámico en una hoja de cálculo con formato XLSM dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+ Es fácil para los desarrolladores insertar un gráfico dinámico en una hoja de cálculo con formato XLSM dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Es fácil para los desarrolladores insertar un gráfico dinámico en una hoja de
 1.  Obtenga la(s) celda(s) deseada(s) de la hoja de trabajo y coloque el valor en la(s) celda(s).
 1.  Insertar tabla dinámica y establecer el estilo
 1.  Insertar gráfico dinámico usando los datos de la tabla dinámica
-1.  Utilice el método Guardar para guardar el libro de trabajo como archivo XLSM.
+1. Utilice el método Guardar para guardar el libro de trabajo como archivo XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

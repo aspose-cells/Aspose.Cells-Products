@@ -1,6 +1,6 @@
 ---
 title: Convierta XLSX a PDF a través de Python
-description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el código de ejemplo API para la conversión por lotes de archivos xlsx a pdf dentro de la aplicación Python.
+description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el código de ejemplo API para la conversión de archivos xlsx por lotes a pdf dentro de la aplicación Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convierta XLSX a PDF a través de Python" h2="Exporte hojas de cálculo de Excel al formato PDF utilizando las API Python." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -36,7 +36,7 @@ description: Ejemplo de código para la conversión de xlsx a pdf Python. Use el
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 

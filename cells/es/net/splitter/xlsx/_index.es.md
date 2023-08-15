@@ -13,7 +13,7 @@ description: C# código fuente para dividir documentos XLSX en .NET Framework, .
 
  Para dividir el archivo XLSX, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, que es una manipulación y división de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
+ API, que es una manipulación y división de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  Aspose.Cells 

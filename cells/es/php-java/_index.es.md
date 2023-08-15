@@ -12,7 +12,7 @@ description: Hoja de cálculo de PHP Excel API para leer, escribir y convertir X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java es una gestión y procesamiento de hojas de cálculo de Excel escalables y ricas en funciones API. Las aplicaciones pueden realizar conversión de formato de hoja de cálculo, gestión y representación de gráficos, implementación de fórmulas, diseño de hojas de cálculo al nivel más granular y mucho más. API admite XLS, XLSX, ODS, SpreadsheetML, CSV, delimitado por tabuladores, HTML/MHTML, PDF, XPS y otros formatos. Los desarrolladores pueden agregar fácilmente la capacidad de crear, editar, convertir y representar archivos de Excel en sus aplicaciones PHP mientras usan JavaBridge.
+ Aspose.Cells for PHP via Java es una gestión y procesamiento de hojas de cálculo de Excel escalables y ricas en funciones API. Las aplicaciones pueden realizar conversión de formato de hoja de cálculo, gestión y representación de gráficos, implementación de fórmulas, diseño de hojas de trabajo al nivel más granular y mucho más. API admite XLS, XLSX, ODS, SpreadsheetML, CSV, delimitado por tabuladores, HTML/MHTML, PDF, XPS y otros formatos. Los desarrolladores pueden agregar fácilmente la capacidad de crear, editar, convertir y representar archivos de Excel en sus aplicaciones PHP mientras usan JavaBridge.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Hoja de cálculo de PHP Excel API para leer, escribir y convertir X
  Convertir hoja de trabajo en imagen
     </li>
     <li>
-Convertir hoja de cálculo a PDF
+ Convertir hoja de cálculo a PDF
     </li>
    </ul>
   </div>
@@ -177,7 +177,7 @@ Convertir hoja de cálculo a PDF
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>

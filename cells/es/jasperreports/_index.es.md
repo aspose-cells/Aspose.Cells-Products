@@ -128,7 +128,7 @@ description: Exporte informes de Jasper Reports y JasperServer en formato Excel 
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
      XLS, XLSX
     </li>

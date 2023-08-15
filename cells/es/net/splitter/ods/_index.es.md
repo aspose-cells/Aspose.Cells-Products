@@ -13,7 +13,7 @@ description: C# código fuente para dividir documentos ODS en .NET Framework, .N
 
  Para dividir el archivo ODS, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, que es una manipulación y división de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
+ API, que es una manipulación y división de documentos rica en funciones, potente y fácil de usar API para la plataforma C#. Abierto
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  administrador de paquetes, busque
  Aspose.Cells 

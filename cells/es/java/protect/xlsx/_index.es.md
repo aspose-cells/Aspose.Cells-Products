@@ -1,5 +1,5 @@
 ---
-title:  Proteger y bloquear XLSX documento via Java
+title: Proteger y bloquear XLSX documento via Java
 weight: 1870
 description: Java código de muestra para bloquear el archivo XLSX usando la contraseña en Java Entorno de tiempo de ejecución para aplicaciones JSP/JSF y aplicaciones de escritorio.
 ---

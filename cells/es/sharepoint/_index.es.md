@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
    </header>
    <ul>
     <li>
- Guardar en subcarpetas
+Guardar en subcarpetas
     </li>
     <li>
  Concatenación de archivos
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description="Aspose.Cells for SharePoint admite muchos formatos populares de hojas de cálculo, PDF, HTML y otros[formatos de archivo](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de archivo admitidos" description=" Aspose.Cells for SharePoint admite muchos formatos populares de hojas de cálculo, PDF, HTML y otros[formatos de archivo](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -166,7 +166,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
      XLS, XLSX, XLSB, XLTX, XLTM, XLSM
     </li>
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
  Concatenar archivos durante la conversión
     </h2>
     <p>
- Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen diferentes formatos en un solo documento. Además, también puede mover documentos en la lista hacia arriba o hacia abajo para establecer el orden en el que desea que se combinen los documentos.
+Aspose.Cells for SharePoint brinda la capacidad de combinar archivos que tienen diferentes formatos en un solo documento. Además, también puede mover documentos en la lista hacia arriba o hacia abajo para establecer el orden en el que desea que se combinen los documentos.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint La aplicación es un convertidor de hoj
  Convertir archivos en subcarpetas
     </h2>
     <p>
-Aspose.Cells for SharePoint facilita el proceso de conversión al convertir recursivamente todos los documentos y subcarpetas en una carpeta seleccionada. La estructura de subcarpetas existente se crea en la carpeta de destino.
+ Aspose.Cells for SharePoint facilita el proceso de conversión al convertir recursivamente todos los documentos y subcarpetas en una carpeta seleccionada. La estructura de subcarpetas existente se crea en la carpeta de destino.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint facilita el proceso de conversión al convertir recu
  Interactuar con el público API
     </h2>
     <p>
- Para los desarrolladores que tienen soluciones internas de SharePoint, pueden usar el motor de conversión de documentos de Aspose.Cells for SharePoint a través de su API público. Brinda acceso programático a todos los formatos admitidos y opciones de conversión.
+Para los desarrolladores que tienen soluciones internas de SharePoint, pueden usar el motor de conversión de documentos de Aspose.Cells for SharePoint a través de su API público. Brinda acceso programático a todos los formatos admitidos y opciones de conversión.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint facilita el proceso de conversión al convertir recu
  Microsoft Automatización de Excel: no necesaria
     </h2>
     <p>
-Aspose.Cells for SharePoint se crea con código administrado que nunca necesita Microsoft Excel para instalarse en la máquina para trabajar con la conversión de formato de Excel. Es una alternativa perfecta de automatización de Microsoft Excel en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
+ Aspose.Cells for SharePoint se crea utilizando código administrado que nunca necesita Microsoft Excel para instalarse en la máquina para trabajar con la conversión de formato de Excel. Es una alternativa perfecta de automatización de Microsoft Excel en términos de funciones admitidas, seguridad, estabilidad, escalabilidad, velocidad y precio.
     </p>
    </div>
   </div>

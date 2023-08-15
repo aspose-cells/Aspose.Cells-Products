@@ -13,7 +13,7 @@ description: Java código de muestra para editar o ver metadatos de formato XLSX
 
  Para obtener los metadatos del archivo XLSX, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API que es una plataforma de metadatos API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
+API que es una plataforma de metadatos API for Java rica en funciones, potente y fácil de usar. Puedes descargar su última versión directamente desde
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
 
@@ -58,7 +58,7 @@ description: Java código de muestra para editar o ver metadatos de formato XLSX
 {{% /blocks/products/pf/agp/text %}}
 
 + Cargue el archivo XLSX dentro de WorkbookMetadata
-Crear objeto MetadataOptions con opciones relevantes
++ Crear objeto MetadataOptions con opciones relevantes
 + Establecer las propiedades relevantes
 + Guardar la información de metadatos XLSX
 

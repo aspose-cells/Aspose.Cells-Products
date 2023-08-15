@@ -156,7 +156,7 @@ Colecciones
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -419,7 +419,7 @@ Funciones avanzadas Python Excel API
     </p>
     <div class="codeblock" id="code">
      <h3>
- Guardar hoja de cálculo en diferentes formatos - Java
+Guardar hoja de cálculo en diferentes formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

@@ -172,7 +172,7 @@ Aspose.Cells for Java es una biblioteca madura y rica en características, que o
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLT, XLSX, XLSB, XLTX, XLTM, XLSM, XML
     </li>
@@ -450,7 +450,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Manipular filas de Excel &amp; columnas
     </h2>
     <p>
- Aspose.Cells for Java le permite modificar filas y columnas de varias maneras. Uno puede ajustar fácilmente el ancho de la columna y el alto de la fila, ajustar automáticamente el tamaño del ancho/alto de las celdas a partir del contenido, insertar &amp; eliminar, ocultar &amp; un-hide así como group &amp; desagrupar filas y columnas.
+ Aspose.Cells for Java le permite modificar filas y columnas de varias formas. Uno puede ajustar fácilmente el ancho de la columna y el alto de la fila, ajustar automáticamente el tamaño del ancho/alto de las celdas a partir del contenido, insertar &amp; eliminar, ocultar &amp; un-hide así como group &amp; desagrupar filas y columnas.
     </p>
    </div>
    <div class="col-lg-12">

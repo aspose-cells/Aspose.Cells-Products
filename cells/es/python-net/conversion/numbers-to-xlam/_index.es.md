@@ -1,7 +1,7 @@
 ---
-title: Convertir NÚMEROS a XLAM Python via Python
-description: Convierta NÚMEROS a XLAM en línea de forma gratuita. Convertidor de NÚMEROS a XLAM en línea gratis. Python NÚMEROS al XLAM. NÚMEROS al XLAM vía Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NÚMEROS a XLAM - Números en línea a XLAM Convertidor
+description: AsposeExcel. Python Aspose.Cells. Python Aspose Cells. Gratis en línea Python Convertir NÚMEROS a XLAM guardar formato. Python NÚMEROS al formato XLAM. Guardar NÚMEROS al XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to XLAM saveformat., Free Online NUMBERS to XLAM Python., Python Convert NUMBERS to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir NÚMEROS a XLAM en Python" h2="Biblioteca Python de alta velocidad para convertir NÚMEROS a XLAM. Utilice nuestra conversión de Excel API para desarrollar software independiente de plataforma de alto nivel en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Convertir NÚMEROS a XLAM en Python" %}}
 
- ¿Cómo convertir NÚMEROS a XLAM? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente NÚMEROS a XLAM mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
+ ¿Cómo convierto NÚMEROS a XLAM? Con Aspose.Cells for Python a través de la biblioteca NET, puede convertir fácilmente NÚMEROS a XLAM mediante programación con unas pocas líneas de código.[Aspose.Cells for Python vía NET](https://pypi.org/project/aspose-cells-python/)es capaz de crear aplicaciones multiplataforma con la capacidad de generar, modificar, convertir, renderizar e imprimir todos los archivos de Excel. Python Excel API no solo convierte entre formatos de hoja de cálculo, también puede representar archivos de Excel como imágenes, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT y más, por lo que es una opción perfecta para intercambiar documentos en estándar de la industria formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga los sencillos pasos para convertir NUMBERS a XLAM. Cargue su archivo NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicación gratuita y código de muestra para convertir NÚMEROS a XLAM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicación gratuita y código de muestra para convertir NÚMEROS a XLAM en línea" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir NÚMEROS a XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Los desarrolladores de Python pueden cargar y convertir fácilmente NÚMEROS a XLAM con solo unas pocas líneas de código.
+¿Necesita convertir archivos NUMBERS a XLAM mediante programación? Los desarrolladores de Python pueden cargar y convertir fácilmente NÚMEROS a XLAM con solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Agregue una referencia de biblioteca (importe la biblioteca) a su proyecto Python.
-1.  Cargue el archivo NUMBERS con una instancia de Workbook
-1.  Convierta NÚMEROS a XLAM llamando al método Workbook.save
+1.  Cargue el archivo NUMBERS con una instancia de Workbook.
+1.  Convierta NÚMEROS a XLAM llamando al método Workbook.save.
+1.  Obtenga el resultado de la conversión de NÚMEROS a XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/)sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
+ Y también puedes seguir el[instrucciones paso a paso](https://docs.aspose.com/cells/python-net/getting-started/) sobre cómo instalar "Aspose.Cells for Python via .NET" en su entorno de desarrollador.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instalar Aspose.Cells for Python desde<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
+ Aspose.Cells for Python a través de NET es independiente de la plataforma API y se puede usar en cualquier plataforma (Windows, Linux), solo asegúrese de que el sistema tenga[Python](https://www.python.org/downloads/) 3.7 o superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Los archivos con extensión .numbers se clasifican como archivos de tipo hoja de cálculo, por eso son similares a los archivos .xlsx; pero los archivos Numbers se crean utilizando el software de hoja de cálculo Apple iWork Numbers. Apple iWork Numbers es una unidad de software de iWork Productivity Suite. iWork Productivity Suite es equivalente a Microsoft Office Suite que se usa en Windows PC. Por lo tanto, podemos decir que el Numbers que está disponible para MacOS también es un competidor de Microsoft Excel. Asimismo, Microsoft Excel, el archivo NUMBERS también puede contener tablas, gráficos y fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM es un archivo de complemento habilitado para macros que se utiliza para agregar nuevas funciones a las hojas de cálculo. Un complemento es un programa complementario que ejecuta código adicional y proporciona funcionalidad adicional para hojas de cálculo. Los archivos XLAM se almacenan con la extensión .xlam. Los archivos XLAM son archivos basados en XML similares a los formatos de archivo XLSM y XLSX y se guardan con compresión ZIP para reducir el tamaño total del archivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir NÚMEROS a muchos otros formatos de archivo, incluidos algunos que se enumeran a continuación." >}}
 

@@ -22,7 +22,7 @@ description: Repare un archivo de Excel dañado usando C#. Herramienta de recupe
 
 {{% blocks/products/pf/agp/content h2="Cómo reparar un archivo de Excel usando C#" %}}
 
-Definir una clase que herede Aspose.Cells.IWarningCallback.
++ Definir una clase que herede Aspose.Cells.IWarningCallback.
 + Cargue el archivo EXCEL creando una instancia de Workbook, usando la clase de herencia anterior, consulte el código anterior.
 + Guarde el libro de trabajo, el archivo de Excel dañado será reparado.
 

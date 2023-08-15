@@ -179,7 +179,7 @@ Cálculo de fórmulas
    <ul>
     <li>
      <b>
- Microsoft Excel:
+ Microsoft excel:
      </b>
  XLS, XLSX, XLSB, XLT, XLTX, XLTM, XLSM, XML
     </li>
@@ -191,7 +191,7 @@ Cálculo de fórmulas
     </li>
     <li>
      <strong>
- Abrir Documento:
+ Abrir documento:
      </strong>
      ODS
     </li>

@@ -18,7 +18,7 @@ El cuarto gráfico bursátil que veremos es el gráfico Volumen abierto, alto, b
 
 {{% blocks/products/pf/agp/text %}}
 
-Es fácil para los desarrolladores crear un gráfico de acciones de Volumen-Abierto-Alto-Bajo-Cierre dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
+Es fácil para los desarrolladores crear un gráfico de acciones de Volumen-Abrir-Alto-Bajo-Cerrar dentro de la ejecución de diferentes aplicaciones de informes para el procesamiento de datos en solo unas pocas líneas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 

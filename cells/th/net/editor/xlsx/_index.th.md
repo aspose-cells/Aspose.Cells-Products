@@ -1,5 +1,5 @@
 ---
-title: แก้ไขไฟล์ XLSX via .NET
+title:  แก้ไขไฟล์ XLSX via .NET
 description: ซอร์สโค้ด C# เพื่อแก้ไขเอกสาร XLSX บน .NET Framework, .NET Core, Windows Azure, Mono หรือแพลตฟอร์ม Xamarin
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" จากนั้นบันทึกและดาวน์โหลด" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
- XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ซึ่งเปิดตัวโดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ตามที่ระบุไว้ในส่วนที่ 2 ของ OOXML มาตรฐาน ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างพื้นฐานและไฟล์ได้โดยการแตกไฟล์ .xlsx
+ XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ซึ่งเปิดตัวโดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ตามที่ระบุไว้ในส่วนที่ 2 ของ OOXML มาตรฐาน ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างพื้นฐานและไฟล์ได้โดยการคลายซิปไฟล์ .xlsx
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

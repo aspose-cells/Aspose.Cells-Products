@@ -1,7 +1,7 @@
 ---
-title: Converter SXC para JPEG Python via Python
-description: Converta SXC em JPEG online gratuitamente. Conversor Online Grátis SXC para JPEG. Python SXC a JPEG. SXC a JPEG via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC para JPEG - Online SXC para JPEG Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter SXC para JPEG saveformat. Python SXC a JPEG formato. Salve SXC a JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to JPEG saveformat., Free Online SXC to JPEG Python., Python Convert SXC to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter SXC para JPEG em Python" h2="Biblioteca Python de alta velocidade para converter SXC em JPEG. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Salve SXC a JPEG em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter SXC em JPEG em Python via NET.
+exemplo a seguir demonstra como converter SXC em JPEG em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter SXC em JPEG. Carregue seu arquivo SXC e salve-o como arquivo JPEG. Tanto para a leitura SXC quanto para a escrita JPEG, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída JPEG serão idênticos ao documento SXC original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter SXC em JPEG. Carregue seu arquivo SXC e sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter SXC em JPEG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter SXC em JPEG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter SXC para JPEG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter SXC em JPEG em apenas algumas linhas de código.
+Precisa converter arquivos SXC para JPEG programaticamente? Os desenvolvedores Python podem facilmente carregar e converter SXC em JPEG em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo SXC com uma instância da pasta de trabalho
-1.  Converta SXC em JPEG chamando o método Workbook.save
+1.  Carregue o arquivo SXC com uma instância de Workbook.
+1.  Converta SXC em JPEG chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de SXC para JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}formato de arquivo SXC (Sun XML Calc) pertence a uma suíte de escritório chamada OpenOffice.org. Este formato geralmente lida com as necessidades de planilhas dos usuários, pois é um formato de arquivo de planilha baseado em XML. SXC oferece suporte a fórmulas, funções, macros e gráficos junto com o DataPilot, que é um recurso incrível porque individualiza e fornece automaticamente resumos de dados brutos importados. Os arquivos criados com este software são salvos com extensão .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compactação 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter SXC para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

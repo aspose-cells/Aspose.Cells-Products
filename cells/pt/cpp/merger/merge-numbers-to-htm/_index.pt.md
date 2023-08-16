@@ -1,7 +1,8 @@
 ---
-title:  Mesclar NUMBERS para HTM via C++
+title: Mesclar NUMBERS para HTM - Combine NUMBERS para HTM em C++
 url: /pt/cpp/merger/merge-numbers-to-htm/ 
-description: Mescle NUMBERS para HTM Online gratuitamente. NÚMEROS on-line gratuitos para fusão HTM. Mescle NÚMEROS para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e muito mais.
+description: Aspose Excel. C++ Aspose.Cells. Online Grátis Mesclar NÚMEROS para o formato de salvamento HTM. C++ Combine NÚMEROS para o formato HTM. Mesclar NUMBERS para HTM em C++. NUMBERS Mesclar.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to HTM in C++., Free Online C++ Merge NUMBERS to htm., C++ Combine NUMBERS to HTM Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar NUMBERS para HTM via C++" h2="Biblioteca C++ de alta velocidade para mesclar NUMBERS com HTM. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em C++. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos de Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Mescle NUMBERS para HTM Online gratuitamente. NÚMEROS on-line grat
 
 {{% blocks/products/pf/agp/content h2="Mesclar NUMBERS para HTM usando C++" %}}
 
- Como mesclar NUMBERS para HTM? Com a biblioteca Aspose.Cells for C++, você pode facilmente mesclar NUMBERS para HTM programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. C++ Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ Como faço para mesclar NUMBERS com HTM? Com a biblioteca Aspose.Cells for C++, você pode facilmente mesclar NUMBERS para HTM programaticamente com algumas linhas de código.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. C++ Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode baixar sua versão mais recente diretamente, basta abrir[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) gerenciador de pacotes, procure Aspose.Cells.Cpp e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Mesclar NUMBERS para HTM em C++ online gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar NUMBERS com HTM em C++.
+exemplo a seguir demonstra como mesclar NUMBERS com HTM em Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar NUMBERS para HTM. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo HTM. Se você desenvolver código em C++, isso será mais simples do que parece. Veja o exemplo C++ que mescla NUMBERS com HTM.
@@ -36,16 +37,18 @@ Siga as etapas fáceis para mesclar NUMBERS para HTM. Carregue seus arquivos, ch
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar NUMBERS para HTM online" InputFormat="numbers" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Online grátis para mesclar NUMBERS para HTM em C++" InputFormat="numbers" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar NUMBERS para HTM via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) As APIs podem ser feitas com apenas algumas linhas de código.
+ Precisa mesclar NUMBERS para HTM programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for C++'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto C++.
 + Carregue o arquivo NUMBERS com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -63,7 +66,7 @@ Existem três opções para instalar "Aspose.Cells for C++" em seu sistema. Esco
 
 1.  Instale um[NuGet Pacote](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ver[Documentação](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Instale a biblioteca usando Pastas Include e lib. Ver[Documentação](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Instale Aspose.Cells for C++ no Linux. Ver[Documentação](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Instale Aspose.Cells for C++ no Linux. Ver[Documentação](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Os arquivos com extensão .numbers são classificados como arquivos do tipo planilha, por isso são semelhantes aos arquivos .xlsx; mas os arquivos Numbers são criados usando o software de planilha Apple iWork Numbers. O Apple iWork Numbers é um software de unidade do iWork Productivity Suite. O iWork Productivity Suite é equivalente ao Microsoft Office Suite usado em PCs Windows. Assim, podemos dizer que o Numbers que está disponível para MacOS também é um concorrente do Microsoft Excel. Da mesma forma, Microsoft Excel, o arquivo NUMBERS também pode conter as tabelas, gráficos e fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Arquivos com extensão .htm representam Hypertext Markup Language para criar páginas da web para exibição em navegadores da web como Google Chrome, Internet Explorer, Firefox e vários outros. Ele define as marcações para a criação de páginas estáticas a serem publicadas na World Wide Web (WWW) para acesso de outras pessoas. Essas marcações informam aos navegadores como exibir o conteúdo de uma página da web. Essas páginas podem conter texto simples, imagens, hiperlinks para outras páginas, vídeos e outras informações de mídia. Quando uma página da web é publicada, você pode dar uma olhada no código de marcação por trás dela, visualizando a origem da página. Os navegadores modernos permitem inspecionar cada seção de uma página da Web onde cada subdivisão ou elemento de marcação na fonte HTM é elaborado.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando C++, também é possível mesclar números com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-docx/" name="Mesclar NÚMEROS para DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-sql/" name="Mesclar NUMBERS para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-bmp/" name="Mesclar NÚMEROS para BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-emf/" name="Mesclar NÚMEROS para EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-gif/" name="Mesclar NÚMEROS para GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="Mesclar NÚMEROS para HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-md/" name="Mesclar NUMBERS para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="Mesclar NÚMEROS para MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="Mesclar NÚMEROS para ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="Mesclar NÚMEROS para PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="Mesclar NÚMEROS para PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="Mesclar NÚMEROS para SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="Mesclar NÚMEROS para TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="Mesclar NÚMEROS para TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="Mesclar NÚMEROS para TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="Mesclar NÚMEROS para XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="Mesclar NÚMEROS para XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="Mesclar NÚMEROS para XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="Mesclar NÚMEROS para XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="Mesclar NÚMEROS para XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="Mesclar NÚMEROS para XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="Mesclar NÚMEROS para XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="Mesclar NUMBERS para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="Mesclar NÚMEROS para XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="Mesclar NÚMEROS para JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="Mesclar NÚMEROS para JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

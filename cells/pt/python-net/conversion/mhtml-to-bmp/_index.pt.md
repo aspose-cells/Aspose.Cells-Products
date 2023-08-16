@@ -1,7 +1,7 @@
 ---
-title: Converter MHTML para BMP Python via Python
-description: Converta MHTML em BMP online gratuitamente. Conversor Online Grátis MHTML para BMP. Python MHTML a BMP. MHTML a BMP via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML para BMP - Online MHTML para BMP Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter MHTML para BMP saveformat. Python MHTML a BMP formato. Salve MHTML a BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to BMP saveformat., Free Online MHTML to BMP Python., Python Convert MHTML to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter MHTML para BMP em Python" h2="Biblioteca Python de alta velocidade para converter MHTML em BMP. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Salve MHTML a BMP em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter MHTML em BMP em Python via NET.
+exemplo a seguir demonstra como converter MHTML em BMP em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter MHTML em BMP. Carregue seu arquivo MHTML e salve-o como arquivo BMP. Tanto para a leitura MHTML quanto para a escrita BMP, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída BMP serão idênticos ao documento MHTML original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter MHTML em BMP. Carregue seu arquivo MHTML e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter MHTML em BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter MHTML em BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter MHTML para BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter MHTML em BMP em apenas algumas linhas de código.
+Precisa converter arquivos MHTML para BMP programaticamente? Os desenvolvedores Python podem facilmente carregar e converter MHTML em BMP em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo MHTML com uma instância da pasta de trabalho
-1.  Converta MHTML em BMP chamando o método Workbook.save
+1.  Carregue o arquivo MHTML com uma instância de Workbook.
+1.  Converta MHTML em BMP chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de MHTML para BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Arquivos com extensão MHTML representam um formato de arquivo de página da web que pode ser criado por vários aplicativos diferentes. O formato é conhecido como formato de arquivo porque salva o código da web HTML e os recursos associados em um único arquivo. Esses recursos incluem qualquer coisa vinculada à página da Web, como imagens, applets, animações, arquivos de áudio e assim por diante. Os arquivos MHTML podem ser abertos em vários aplicativos, como Internet Explorer e Microsoft Word. Microsoft Windows usa o formato de arquivo MHTML para gravar cenários de problemas observados durante o uso de qualquer aplicativo em Windows que levanta problemas. O formato de arquivo MHTML codifica o conteúdo da página semelhante às especificações definidas em message/rfc822, que são especificações relacionadas a e-mail de texto simples.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Arquivos com extensão 0,BMP representam arquivos de imagem bitmap usados para armazenar imagens digitais bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter MHTML para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

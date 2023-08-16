@@ -1,7 +1,8 @@
 ---
-title:  Mesclar EXCEL para XLSB via C#
+title: Mesclar EXCEL para XLSB - Combinar EXCEL para XLSB em C#
 url: /pt/net/merger/merge-excel-to-xlsb/ 
-description: Mesclar EXCEL para XLSB Online gratuitamente. Free Online EXCEL para XLSB Fusão. Mescle EXCEL para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e muito mais.
+description: Aspose Excel. C# Aspose.Cells. Free Online Mesclar EXCEL para XLSB saveformat. C# Combine EXCEL para o formato XLSB. Mesclar EXCEL para XLSB em C#. EXCEL Mesclar.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to XLSB in C#., Free Online C# Merge EXCEL to xlsb., C# Combine EXCEL to XLSB Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar EXCEL para XLSB via C#" h2="Biblioteca C# de alta velocidade para mesclar EXCEL a XLSB. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em C#. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Mesclar EXCEL para XLSB Online gratuitamente. Free Online EXCEL par
 
 {{% blocks/products/pf/agp/content h2="Mesclar EXCEL para XLSB usando C#" %}}
 
- Como mesclar EXCEL para XLSB? Com a biblioteca Aspose.Cells for .NET, você pode facilmente mesclar o EXCEL para XLSB programaticamente com algumas linhas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. .NET Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure Aspose.Cells e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ Como faço para mesclar EXCEL para XLSB? Com a biblioteca Aspose.Cells for .NET, você pode facilmente mesclar o EXCEL para XLSB programaticamente com algumas linhas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. .NET Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure Aspose.Cells e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Mesclar EXCEL para XLSB em C# Online Gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar EXCEL para XLSB em C#.
+O exemplo a seguir demonstra como mesclar EXCEL para XLSB em Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar o EXCEL para XLSB. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo XLSB. Se você desenvolver o código em C#, isso será mais simples do que parece. Veja o exemplo C# que mescla EXCEL para XLSB.
@@ -36,16 +37,18 @@ Siga as etapas fáceis para mesclar o EXCEL para XLSB. Carregue seus arquivos, c
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar EXCEL para XLSB online" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online Grátis para Mesclar EXCEL para XLSB em C#" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar EXCEL para XLSB via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) As APIs podem ser feitas com apenas algumas linhas de código.
+ Precisa mesclar o EXCEL para XLSB programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for .NET'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto C#.
 + Carregue o arquivo EXCEL com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -62,7 +65,7 @@ Existem duas opções alternativas para instalar "Aspose.Cells for .NET" em seu 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale um[NuGet Pacote](https://www.nuget.org/packages/Aspose.Cells/) . Ver[Documentação](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Instale a biblioteca usando[Console do gerenciador de pacotes](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dentro do Visual Studio IDE
+1.  Instale a biblioteca usando[Console do gerenciador de pacotes](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dentro do Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento de Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagens Abertas, conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura subjacente e os arquivos podem ser examinados simplesmente descompactando o arquivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando C#, também é possível mesclar o Excel com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-docx/" name="Mesclar EXCEL para DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-sql/" name="Mesclar EXCEL para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-bmp/" name="Mesclar EXCEL para BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-emf/" name="Mesclar EXCEL para EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-gif/" name="Mesclar EXCEL para GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-html/" name="Mesclar EXCEL para HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-md/" name="Mesclar EXCEL para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-mhtml/" name="Mesclar EXCEL para MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-ods/" name="Mesclar EXCEL para ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-pdf/" name="Mesclar EXCEL para PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-png/" name="Mesclar EXCEL para PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-svg/" name="Mesclar EXCEL para SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tiff/" name="Mesclar EXCEL para TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tsv/" name="Mesclar EXCEL para TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-txt/" name="Mesclar EXCEL para TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xls/" name="Mesclar EXCEL para XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsb/" name="Mesclar EXCEL para XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsm/" name="Mesclar EXCEL para XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsx/" name="Mesclar EXCEL para XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlt/" name="Mesclar EXCEL para XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltm/" name="Mesclar EXCEL para XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltx/" name="Mesclar EXCEL para XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xml/" name="Mesclar EXCEL para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xps/" name="Mesclar EXCEL para XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-json/" name="Mesclar EXCEL para JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-jpeg/" name="Mesclar EXCEL para JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

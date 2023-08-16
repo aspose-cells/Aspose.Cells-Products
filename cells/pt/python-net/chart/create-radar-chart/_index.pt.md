@@ -33,7 +33,7 @@ description: Python Código de amostra para criar gráficos de radar para Excel 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de sistema" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
 {{% /blocks/products/pf/agp/text %}}
 
 - Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.

@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="รวมไฟล์ Excel หลายไฟล์" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) เมธอดรองรับการรวมข้อมูล สไตล์ และสูตรของไฟล์ Excel เข้ากับสเปรดชีตใหม่ที่มีรูปแบบเดียวกัน เป็นวิธีที่มีประสิทธิภาพในการรวมไฟล์หลายไฟล์ในขณะที่ใช้การแคช
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)เมธอดรองรับการรวมข้อมูล สไตล์ และสูตรของไฟล์ Excel เข้ากับสเปรดชีตใหม่ที่มีรูปแบบเดียวกัน เป็นวิธีที่มีประสิทธิภาพในการรวมไฟล์หลายไฟล์ในขณะที่ใช้การแคช
 {{% blocks/products/pf/feature-page-code h3="Java รหัสเพื่อรวมไฟล์ Excel หลายไฟล์" %}}
 
 ```cs

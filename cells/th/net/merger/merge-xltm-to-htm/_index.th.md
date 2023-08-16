@@ -1,7 +1,8 @@
 ---
-title:  รวม XLTM เป็น HTM ผ่าน C#
+title: รวม XLTM เป็น HTM - รวม XLTM เป็น HTM ใน C#
 url: /th/net/merger/merge-xltm-to-htm/ 
-description: รวม XLTM เป็น HTM Online ฟรี ออนไลน์ฟรี XLTM ถึง HTM Merger รวม XLTM เป็น Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. C# Aspose.Cells รวมออนไลน์ฟรี XLTM เป็น HTM saveformat C# รวม XLTM เป็นรูปแบบ HTM รวม XLTM กับ HTM ใน C# XLTM รวม
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTM to HTM in C#., Free Online C# Merge XLTM to htm., C# Combine XLTM to HTM Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม XLTM เป็น HTM ผ่าน C#" h2="ไลบรารี C# ความเร็วสูงสำหรับการรวม XLTM กับ HTM ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน C# ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: รวม XLTM เป็น HTM Online ฟรี ออนไลน
 
 {{% blocks/products/pf/agp/content h2="รวม XLTM กับ HTM โดยใช้ C#" %}}
 
- จะรวม XLTM กับ HTM ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถผสาน XLTM กับ HTM ได้อย่างง่ายดายโดยใช้โปรแกรมด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะผสาน XLTM กับ HTM ได้อย่างไร ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถผสาน XLTM กับ HTM ได้อย่างง่ายดายโดยใช้โปรแกรมด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="คำสั่งคอนโซลตัวจัดการแพ็คเกจ" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="รวม XLTM เป็น HTM ใน C# ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน XLTM กับ HTM ใน C#
+ตัวอย่างต่อไปนี้สาธิตวิธีผสาน XLTM กับ HTM ใน Aspose.Cells for .NET
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อรวม XLTM เป็น HTM อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine เพื่อรวมไฟล์ จากนั้นบันทึกเป็นไฟล์ HTM หากคุณพัฒนาโค้ดใน C# สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง C# ที่ผสาน XLTM กับ HTM
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีที่จะรวม XLTM เข้ากับ HTM ทางออนไลน์" InputFormat="xltm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม XLTM เป็น HTM ใน C#" InputFormat="xltm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีผสาน XLTM เป็น HTM ผ่าน C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการผสาน XLTM กับ HTM โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for .NET'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C# ของคุณ
 + โหลดไฟล์ XLTM พร้อมคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells/) . ดู[เอกสาร](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  ติดตั้งไลบรารีโดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)ภายใน Visual Studio IDE
+1.  ติดตั้งไลบรารีโดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) ภายใน Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}นามสกุลไฟล์ XLTM แสดงถึงไฟล์ที่สร้างขึ้นโดย Microsoft Excel เป็นไฟล์เทมเพลตที่เปิดใช้งานมาโคร ไฟล์ XLTM คล้ายกับ XLTX ในโครงสร้าง นอกเหนือไปจากที่ภายหลังไม่รองรับการสร้างไฟล์เทมเพลตด้วยมาโคร ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างและตั้งค่าเค้าโครง การจัดรูปแบบ และการตั้งค่าอื่นๆ พร้อมกับมาโครเพื่ออำนวยความสะดวกในการสร้างไฟล์ XLSX ที่คล้ายกัน{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}ไฟล์ที่มีนามสกุล .htm เป็นตัวแทนของ Hypertext Markup Language สำหรับสร้างเว็บเพจสำหรับแสดงผลในเว็บเบราว์เซอร์ เช่น Google Chrome, Internet Explorer, Firefox และอื่นๆ อีกมากมาย กำหนดมาร์กอัปสำหรับสร้างเพจแบบสแตติกเพื่อเผยแพร่บนเวิลด์ไวด์เว็บ (WWW) เพื่อให้ผู้อื่นเข้าถึงได้ มาร์กอัปเหล่านี้บอกเบราว์เซอร์ถึงวิธีแสดงเนื้อหาของหน้าเว็บ หน้าดังกล่าวสามารถมีข้อความธรรมดา รูปภาพ ไฮเปอร์ลิงก์ไปยังหน้าอื่น วิดีโอ และข้อมูลสื่ออื่นๆ เมื่อมีการเผยแพร่หน้าเว็บ คุณสามารถดูรหัสมาร์กอัปที่อยู่เบื้องหลังได้โดยดูแหล่งที่มาของหน้าเว็บ เบราว์เซอร์สมัยใหม่อนุญาตให้ตรวจสอบแต่ละส่วนของหน้าเว็บที่มีรายละเอียดย่อยหรือองค์ประกอบมาร์กอัปแต่ละรายการในซอร์ส HTM{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C# เราสามารถรวม xltm เข้ากับรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-docx/" name="รวม XLTM ถึง DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-sql/" name="รวม XLTM กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-bmp/" name="รวม XLTM ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-emf/" name="รวม XLTM ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-gif/" name="รวม XLTM ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-html/" name="รวม XLTM ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-md/" name="รวม XLTM ถึง นพ" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-mhtml/" name="รวม XLTM ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-ods/" name="รวม XLTM ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-pdf/" name="รวม XLTM ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-png/" name="รวม XLTM ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-svg/" name="รวม XLTM ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-tiff/" name="รวม XLTM ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-tsv/" name="รวม XLTM ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-txt/" name="รวม XLTM ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xls/" name="รวม XLTM ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsb/" name="รวม XLTM ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsm/" name="รวม XLTM ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlsx/" name="รวม XLTM ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xlt/" name="รวม XLTM ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xltm/" name="รวม XLTM ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xltx/" name="รวม XLTM ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xml/" name="รวม XLTM เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-xps/" name="รวม XLTM ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-json/" name="รวม XLTM ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltm-to-jpeg/" name="รวม XLTM ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

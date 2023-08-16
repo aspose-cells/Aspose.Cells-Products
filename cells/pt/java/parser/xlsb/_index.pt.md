@@ -63,7 +63,7 @@ description: Java código de amostra para extrair texto e imagens do arquivo XLS
 + Selecione a planilha necessária usando o método getWorksheets().get.
 + Obtenha todas as células da planilha selecionada usando getCells().
 + Iterar sobre cada célula, obter seu texto.
-+ Imprima cada valor de célula ou use o método StringBuilder append() para visualizar como um todo
+Imprima cada valor de célula ou use o método StringBuilder append() para visualizar como um todo
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

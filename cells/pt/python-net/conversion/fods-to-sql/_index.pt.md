@@ -1,7 +1,7 @@
 ---
-title: Converter FODS para SQL Python via Python
-description: Converta FODS para SQL Online gratuitamente. Conversor Online Gratuito FODS para SQL. Python FODS para SQL. FODS para SQL via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS para SQL - Online FODS para SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converta FODS para SQL saveformat. Python FODS para o formato SQL. Salve FODS no SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to SQL saveformat., Free Online FODS to SQL Python., Python Convert FODS to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter FODS para SQL em Python" h2="Biblioteca Python de alta velocidade para converter FODS em SQL. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converter FODS para SQL em Python" %}}
 
- Como converter FODS para SQL? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter FODS para SQL programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter FODS para SQL? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter FODS para SQL programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Salve FODS no SQL em Python online gratuitamente" %}}
 
-exemplo a seguir demonstra como converter FODS em SQL em Python via NET.
+O exemplo a seguir demonstra como converter FODS em SQL em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter FODS em SQL. Carregue seu arquivo FODS e simplesmente salve-o como arquivo SQL. Tanto para a leitura FODS quanto para a escrita SQL, você pode usar nomes de arquivos totalmente qualificados. O conteúdo SQL de saída e a formatação serão idênticos ao documento FODS original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter FODS em SQL. Carregue seu arquivo FODS e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter FODS em SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter FODS em SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter FODS para SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter FODS para SQL em apenas algumas linhas de código.
+Precisa converter arquivos FODS para SQL programaticamente? Os desenvolvedores Python podem facilmente carregar e converter FODS para SQL em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo FODS com uma instância da pasta de trabalho
-1.  Converta FODS em SQL chamando o método Workbook.save
+1.  Carregue o arquivo FODS com uma instância de Workbook.
+1.  Converta FODS em SQL chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de FODS para SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Um arquivo com extensão .fods é um tipo de formato de documento de planilha OpenDocument que armazena dados em linhas e colunas. O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pela OASIS. Os arquivos FODS não podem ser abertos com o Excel, outro aplicativo de software de planilha por Microsoft. Os arquivos FODS podem ser salvos como ODS usando o LibreOffice e podem ser convertidos em outros formatos, como XLS e XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Um arquivo com extensão .sql é um arquivo de linguagem de consulta estruturada (SQL) que contém código para trabalhar com bancos de dados relacionais. Ele é usado para escrever instruções SQL para operações CRUD (Criar, Ler, Atualizar e Excluir) em bancos de dados. Arquivos SQL são comuns ao trabalhar com desktop, bem como bancos de dados baseados na web. Existem várias alternativas ao SQL, como Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e vários outros. Os arquivos SQL podem ser abertos por editores de consulta do Microsoft SQL Server, MySQL e outros editores de texto simples, como o Bloco de notas no sistema operacional Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter FODS para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

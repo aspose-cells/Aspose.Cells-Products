@@ -1,7 +1,8 @@
 ---
-title:  รวม OTS เป็น ODS ผ่าน C++
+title: รวม OTS เป็น ODS - รวม OTS เป็น ODS เป็น C++
 url: /th/cpp/merger/merge-ots-to-ods/ 
-description: รวม OTS เป็น ODS ออนไลน์ฟรี OTS ออนไลน์ฟรีไปที่ ODS การควบรวมกิจการ รวม OTS เข้ากับ Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. C++ Aspose.Cells. รวม OTS ออนไลน์ฟรีเป็น ODS saveformat. C++ รวมรูปแบบ OTS เป็น ODS รวม OTS เป็น ODS ใน C++ OTS รวม
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to ODS in C++., Free Online C++ Merge OTS to ods., C++ Combine OTS to ODS Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม OTS เป็น ODS ผ่าน C++" h2="ไลบรารี C++ ความเร็วสูงสำหรับการรวม OTS เข้ากับ ODS ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน C++ ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: รวม OTS เป็น ODS ออนไลน์ฟรี OTS �
 
 {{% blocks/products/pf/agp/content h2="รวม OTS เป็น ODS โดยใช้ C++" %}}
 
- จะรวม OTS เป็น ODS ได้อย่างไร? ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม OTS เข้ากับ ODS ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะรวม OTS เป็น ODS ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม OTS เข้ากับ ODS ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="รวม OTS เป็น ODS ใน C++ ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน OTS กับ ODS ใน C++
+ตัวอย่างต่อไปนี้สาธิตวิธีผสาน OTS กับ ODS ใน Aspose.Cells for C++
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อรวม OTS เข้ากับ ODS อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์ จากนั้นบันทึกลงในไฟล์ ODS หากคุณพัฒนาโค้ดใน C++ สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง C++ ที่รวม OTS เป็น ODS
@@ -36,17 +37,19 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีเพื่อรวม OTS เข้ากับ ODS ทางออนไลน์" InputFormat="ots" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม OTS เข้ากับ ODS ใน C++" InputFormat="ots" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีรวม OTS เป็น ODS ผ่าน C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการรวม OTS เป็น ODS โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
-โหลดไฟล์ OTS ด้วยคลาสสมุดงาน
++ ติดตั้ง 'Aspose.Cells for C++'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
++ โหลดไฟล์ OTS ด้วยคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
 + ตอนนี้คุณสามารถเปิดและใช้ไฟล์เอาต์พุตใน Microsoft Office, Adobe PDF หรือโปรแกรมอื่นๆ ที่เข้ากันได้
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}ไฟล์ที่มีนามสกุล .ots คือไฟล์เทมเพลตสเปรดชีต OpenDocument ที่สร้างขึ้นด้วยซอฟต์แวร์แอปพลิเคชัน Calc ที่รวมอยู่ใน Apache OpenOffice ซอฟต์แวร์แอปพลิเคชัน Calc คล้ายกับ Excel ที่มีใน Microsoft Office รูปแบบไฟล์ OTS ใช้เพื่อสร้างเทมเพลตที่มีการตั้งค่าที่กำหนดไว้ล่วงหน้าเกี่ยวกับสไตล์ แบบอักษร ข้อมูล เค้าโครงสเปรดชีต และการจัดรูปแบบ ไฟล์ OTF มีแอปพลิเคชันประเภท mime/vnd.oasis.opendocument.spreadsheet- template ไฟล์เทมเพลตเหล่านี้สามารถใช้เป็นจุดเริ่มต้นในการสร้างและบันทึกไฟล์ข้อมูลจริงที่บันทึกในรูปแบบไฟล์ ODS ไฟล์ OTS สามารถใช้กับแอปพลิเคชันเช่น OpenOffice และ LibreOffice{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}ไฟล์ที่มีนามสกุล .ods หมายถึงรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS สามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C++ เราสามารถรวม ots เป็นรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-docx/" name="รวม OTS ไปที่ DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-sql/" name="รวม OTS กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-bmp/" name="รวม OTS ไปที่ BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-emf/" name="รวม OTS ไปที่ EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-gif/" name="รวม OTS ไปที่ GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="รวม OTS ไปที่ HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-md/" name="รวม OTS เป็น MD" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="รวม OTS ไปที่ MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="รวม OTS ไปที่ ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-pdf/" name="รวม OTS ไปที่ PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-png/" name="รวม OTS ไปที่ PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-svg/" name="รวม OTS ไปที่ SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tiff/" name="รวม OTS ไปที่ TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="รวม OTS ไปที่ TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="รวม OTS ไปที่ TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="รวม OTS ไปที่ XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="รวม OTS ไปที่ XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="รวม OTS ไปที่ XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="รวม OTS ไปที่ XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="รวม OTS ไปที่ XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="รวม OTS ไปที่ XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="รวม OTS ไปที่ XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xml/" name="รวม OTS เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xps/" name="รวม OTS ไปที่ XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-json/" name="รวม OTS ไปที่ JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-jpeg/" name="รวม OTS ไปที่ JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

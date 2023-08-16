@@ -1,7 +1,8 @@
 ---
-title:  Mesclar MHT para HTM via Python
+title: Mesclar MHT para HTM - Combine MHT para HTM em Python
 url: /pt/python-net/merger/merge-mht-to-htm/ 
-description: Mesclar MHT para HTM Online gratuitamente. Fusão online gratuita de MHT para HTM. Mesclar MHT para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e muito mais.
+description: Aspose Excel. Python Aspose.Cells. Free Online Mesclar MHT para HTM saveformat. Python Combine o formato MHT para HTM. Mesclar MHT para HTM em Python. Mesclar MHT.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to HTM in Python., Free Online Python Merge MHT to htm., Python Combine MHT to HTM Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar MHT para HTM via Python" h2="Biblioteca Python de alta velocidade para mesclar MHT com HTM. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos de Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Mesclar MHT para HTM Online gratuitamente. Fusão online gratuita d
 
 {{% blocks/products/pf/agp/content h2="Mesclar MHT para HTM usando Python" %}}
 
- Como mesclar MHT para HTM? Com a biblioteca Aspose.Cells for Python, você pode facilmente mesclar MHT para HTM programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
+ Como faço para mesclar MHT para HTM? Com a biblioteca Aspose.Cells for Python via .NET, você pode facilmente mesclar MHT para HTM programaticamente com algumas linhas de código.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python via .NET de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Mesclar MHT para HTM em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar MHT para HTM em Python.
+O exemplo a seguir demonstra como mesclar MHT para HTM em Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar MHT para HTM. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo HTM. Se você desenvolver código em Python, isso será mais simples do que parece. Consulte o exemplo Python que mescla MHT com HTM.
@@ -27,16 +28,18 @@ Siga as etapas fáceis para mesclar MHT para HTM. Carregue seus arquivos, chame 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar MHT para HTM online" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Online grátis para mesclar MHT para HTM em Python" InputFormat="mht" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar MHT para HTM via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) As APIs podem ser feitas com apenas algumas linhas de código.
+Precisa mesclar MHT para HTM programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for Python via .NET'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
 + Carregue o arquivo MHT com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -53,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Um arquivo com extensão .mht é um formato de arquivo de arquivamento habilitado para MIME que contém diferentes tipos de dados em um único arquivo. Ele pode armazenar dados como texto, imagens, estilo de página na forma de arquivos CSS, JavaScript e outros recursos como recursos incorporados a ele. Os arquivos MHT, com mensagem do tipo MIME/rfc822, encapsulam todo o conteúdo de um arquivo HTML como um único arquivo para armazenamento em dispositivos de armazenamento. Aplicativos de software como Microsoft Word permitem que você converta seus documentos WORD em MHT exportando como arquivo MHT. Os arquivos MHT podem ser abertos usando navegadores populares, como Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Arquivos com extensão .htm representam Hypertext Markup Language para criar páginas da web para exibição em navegadores da web como Google Chrome, Internet Explorer, Firefox e vários outros. Ele define as marcações para a criação de páginas estáticas a serem publicadas na World Wide Web (WWW) para acesso de outras pessoas. Essas marcações informam aos navegadores como exibir o conteúdo de uma página da web. Essas páginas podem conter texto simples, imagens, hiperlinks para outras páginas, vídeos e outras informações de mídia. Quando uma página da web é publicada, você pode dar uma olhada no código de marcação por trás dela, visualizando a origem da página. Os navegadores modernos permitem inspecionar cada seção de uma página da Web onde cada subdivisão ou elemento de marcação na fonte HTM é elaborado.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando Python, também é possível mesclar mht com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-docx/" name="Mesclar MHT para DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-sql/" name="Mesclar MHT para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-bmp/" name="Mesclar MHT para BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-emf/" name="Mesclar MHT para EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-gif/" name="Mesclar MHT para GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-html/" name="Mesclar MHT para HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-md/" name="Mesclar MHT para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-mhtml/" name="Mesclar MHT para MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-ods/" name="Mesclar MHT para ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-pdf/" name="Mesclar MHT para PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-png/" name="Mesclar MHT para PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-svg/" name="Mesclar MHT para SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-tiff/" name="Mesclar MHT para TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-tsv/" name="Mesclar MHT para TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-txt/" name="Mesclar MHT para TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xls/" name="Mesclar MHT para XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsb/" name="Mesclar MHT para XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsm/" name="Mesclar MHT para XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlsx/" name="Mesclar MHT para XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xlt/" name="Mesclar MHT para XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xltm/" name="Mesclar MHT para XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xltx/" name="Mesclar MHT para XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xml/" name="Mesclar MHT para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-xps/" name="Mesclar MHT para XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-json/" name="Mesclar MHT para JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mht-to-jpeg/" name="Mesclar MHT para JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

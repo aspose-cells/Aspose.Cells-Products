@@ -10,7 +10,7 @@ description: ซ่อมแซมไฟล์ excel ที่เสียหา
 
 {{% blocks/products/pf/agp/content h2="ซ่อมแซมไฟล์ EXCEL โดยใช้ Java" %}}
 
- ในการซ่อมแซมไฟล์ EXCEL เราจะใช้[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ซึ่งเป็นแพลตฟอร์มการจัดการเอกสารที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย API for Java
+ ในการซ่อมแซมไฟล์ EXCEL เราจะใช้[Aspose.Cells for Java](https://products.aspose.com/cells/java)API ซึ่งเป็นแพลตฟอร์มการจัดการเอกสารที่มีคุณลักษณะหลากหลาย ทรงพลัง และใช้งานง่าย API for Java
  
  Aspose.Cells API สามารถใช้เพื่อสร้าง แก้ไข แปลง และแสดงรูปแบบ Microsoft Excel เป็นรูปแบบต่างๆ นอกจากนี้ยังสามารถใช้สำหรับการสร้างแผนภูมิที่ครอบคลุม การรายงานที่ปรับขนาดได้ และการคำนวณที่เชื่อถือได้ภายในแอปพลิเคชันซอฟต์แวร์ Aspose.Cells เป็น API แบบสแตนด์อโลนและไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ OpenOffice
 
@@ -20,7 +20,7 @@ description: ซ่อมแซมไฟล์ excel ที่เสียหา
 
 {{% blocks/products/pf/agp/content h2="วิธีซ่อมแซมไฟล์ excel โดยใช้ Java" %}}
 
-กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
++ กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
 + โหลดไฟล์ EXCEL โดยสร้างตัวอย่างสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างถึงรหัสด้านบน
 + บันทึกสมุดงาน ไฟล์ excel ที่เสียหายจะได้รับการซ่อมแซม
 

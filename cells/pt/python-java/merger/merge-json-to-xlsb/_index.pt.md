@@ -1,7 +1,8 @@
 ---
-title:  Mesclar JSON para XLSB via Python
+title: Mesclar JSON a XLSB - Combinar JSON a XLSB em Python
 url: /pt/python-java/merger/merge-json-to-xlsb/ 
-description: Mesclar JSON para XLSB Online gratuitamente. Online Grátis JSON a XLSB Fusão. Mesclar JSON para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e mais.
+description: Aspose Excel. Python Aspose.Cells. Mesclagem online gratuita JSON para XLSB saveformat. Python Combine o formato JSON a XLSB. Mesclar JSON a XLSB em Python. JSON Mesclar.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge JSON to XLSB in Python., Free Online Python Merge JSON to xlsb., Python Combine JSON to XLSB Online for Free., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar JSON para XLSB via Python" h2="Biblioteca Python de alta velocidade para mesclar JSON a XLSB. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Mesclar JSON para XLSB Online gratuitamente. Online Grátis JSON a 
 
 {{% blocks/products/pf/agp/content h2="Mesclar JSON a XLSB usando Python" %}}
 
- Como mesclar JSON a XLSB? Com a biblioteca Aspose.Cells for Python, você pode facilmente mesclar JSON a XLSB programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
+ Como faço para mesclar JSON a XLSB? Com a biblioteca Aspose.Cells for Python via Java, você pode facilmente mesclar JSON a XLSB programaticamente com algumas linhas de código.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python via Java de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Mesclar JSON a XLSB em Python Online Gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar JSON a XLSB em Python.
+O exemplo a seguir demonstra como mesclar JSON a XLSB em Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar JSON a XLSB. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo XLSB. Se você desenvolver o código em Python, isso será mais simples do que parece. Consulte o exemplo Python que mescla JSON a XLSB.
@@ -27,16 +28,18 @@ Siga as etapas fáceis para mesclar JSON a XLSB. Carregue seus arquivos, chame o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar JSON a XLSB on-line" InputFormat="json" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online grátis para mesclar JSON a XLSB em Python" InputFormat="json" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar JSON a XLSB via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) As APIs podem ser feitas com apenas algumas linhas de código.
+ Precisa mesclar JSON a XLSB programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for Python via Java'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
 + Carregue o arquivo JSON com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -75,21 +78,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) é um formato de arquivo padrão aberto para compartilhamento de dados que usa texto legível por humanos para armazenar e transmitir dados. JSON arquivos são armazenados com a extensão .json. JSON requer menos formatação e é uma boa alternativa para XML. JSON é derivado de JavaScript, mas é um formato de dados independente de linguagem. A geração e análise de JSON é suportada por muitas linguagens de programação modernas. application/json é o tipo de mídia usado para JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB especifica o formato de arquivo binário do Excel, que é uma coleção de registros e estruturas que especificam o conteúdo da pasta de trabalho do Excel. O conteúdo pode incluir tabelas de números não estruturadas ou semiestruturadas, texto ou números e texto, fórmulas, conexões de dados externos, gráficos e imagens. Ao contrário de XLSX (que é baseado no formato de arquivo Open XML), o XLSB representa o arquivo binário da pasta de trabalho do Excel. XLSB podem ser lidos e gravados mais rapidamente, o que os torna úteis para trabalhar com arquivos grandes. XLSB raramente é usado para armazenar pastas de trabalho, pois XLSX (e anteriormente XLS) são os formatos de arquivo selecionados pelo usuário mais comuns para salvar pastas de trabalho. Pode ser aberto por Microsoft Office 2007 e superior.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando Python, também é possível mesclar json com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-docx/" name="Juntar JSON a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-sql/" name="Mesclar JSON para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-bmp/" name="Juntar JSON a BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-emf/" name="Juntar JSON a EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-gif/" name="Juntar JSON a GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-html/" name="Juntar JSON a HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-md/" name="Mesclar JSON para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-mhtml/" name="Juntar JSON a MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-ods/" name="Juntar JSON a ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-pdf/" name="Juntar JSON a PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-png/" name="Juntar JSON a PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-svg/" name="Juntar JSON a SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-tiff/" name="Juntar JSON a TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-tsv/" name="Juntar JSON a TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-txt/" name="Juntar JSON a TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xls/" name="Juntar JSON a XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsb/" name="Juntar JSON a XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsm/" name="Juntar JSON a XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlsx/" name="Juntar JSON a XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xlt/" name="Juntar JSON a XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xltm/" name="Juntar JSON a XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xltx/" name="Juntar JSON a XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xml/" name="Mesclar JSON para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-xps/" name="Juntar JSON a XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-json/" name="Juntar JSON a JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-json-to-jpeg/" name="Juntar JSON a JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

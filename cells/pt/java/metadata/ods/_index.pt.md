@@ -13,7 +13,7 @@ description: Java código de amostra para editar ou exibir ODS metadados de form
 
  Para obter os metadados do arquivo ODS, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, que é uma plataforma de metadados rica em recursos, poderosa e fácil de usar API for Java. Você pode baixar sua versão mais recente diretamente de
+API, que é uma plataforma de metadados rica em recursos, poderosa e fácil de usar API for Java. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
@@ -58,7 +58,7 @@ description: Java código de amostra para editar ou exibir ODS metadados de form
 {{% /blocks/products/pf/agp/text %}}
 
 + Carregue o arquivo ODS dentro do WorkbookMetadata
-Criar objeto MetadataOptions com opções relevantes
++ Criar objeto MetadataOptions com opções relevantes
 + Defina as propriedades relevantes
 + Salve as informações de metadados ODS
 

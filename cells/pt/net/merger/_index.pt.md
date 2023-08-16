@@ -18,7 +18,7 @@ description: Concatene arquivos de planilha Excel e OpenOffice com apenas alguma
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mesclar vários arquivos do Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) O método suporta a fusão de dados, estilo e fórmulas de um arquivo do Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) método suporta a fusão de dados, estilo e fórmulas de um arquivo do Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache.
 {{% blocks/products/pf/feature-page-code h3="C# Código para Mesclar Vários Arquivos Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

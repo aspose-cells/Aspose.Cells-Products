@@ -1,6 +1,6 @@
 ---
 title: Microsoft Conversão de arquivo Excel usando Python via Java
-description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Python code.
+description: Converte Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, 0761781, 0761181818163481, mais formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formatos com outros formatos com outros formats com outros formatos com outros formats com outros formats com outros formatos com outros formats com outros formats com outros formatos.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversão de formato Excel via Python" h2="Importe e exporte arquivos do Excel como formatos de planilha, web, imagem e layout fixo" >}}
@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter Excel para Word e PowerPoint" %}}
- É possível carregar qualquer planilha e convertê-la em arquivos do Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) classes como demonstrado abaixo.
+ É possível carregar qualquer planilha e convertê-la em arquivos do Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)classes como demonstrado abaixo.
 {{% blocks/products/pf/feature-page-code h3="Python código para Excel para Word e PowerPoint Conversão" %}}
 ```cs
 // load the template file

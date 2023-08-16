@@ -1,7 +1,8 @@
 ---
-title:  Juntar HTML a XLSX via Java
+title: Mesclar HTML a XLSX - Combinar HTML a XLSX em Java
 url: /pt/java/merger/merge-html-to-xlsx/ 
-description: Mesclar HTML para XLSX Online gratuitamente. Online Grátis HTML a XLSX Fusão. Mesclar HTML para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e mais.
+description: Aspose Excel. Java Aspose.Cells. Mesclagem online gratuita HTML para XLSX saveformat. Java Combine o formato HTML a XLSX. Mesclar HTML a XLSX em Java. HTML Mesclar.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to XLSX in Java., Free Online Java Merge HTML to xlsx., Java Combine HTML to XLSX Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Juntar HTML a XLSX via Java" h2="Biblioteca Java de alta velocidade para mesclar HTML a XLSX. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Java. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Mesclar HTML para XLSX Online gratuitamente. Online Grátis HTML a 
 
 {{% blocks/products/pf/agp/content h2="Mesclar HTML a XLSX usando Java" %}}
 
- Como mesclar HTML a XLSX? Com a biblioteca Aspose.Cells for Java, você pode facilmente mesclar HTML a XLSX programaticamente com algumas linhas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Java Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+ Como faço para mesclar HTML a XLSX? Com a biblioteca Aspose.Cells for Java, você pode facilmente mesclar HTML a XLSX programaticamente com algumas linhas de código.[Aspose.Cells for Java](https://products.aspose.com/cells/java) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Java Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode baixar sua versão mais recente diretamente de[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositório" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Mesclar HTML para XLSX Online gratuitamente. Online Grátis HTML a 
 
 {{% blocks/products/pf/agp/content h2="Mesclar HTML a XLSX em Java Online Gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar HTML a XLSX em Java.
+O exemplo a seguir demonstra como mesclar HTML a XLSX em Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar HTML a XLSX. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo XLSX. Se você desenvolver o código em Java, isso será mais simples do que parece. Consulte o exemplo Java que mescla HTML a XLSX.
@@ -55,16 +56,18 @@ Siga as etapas fáceis para mesclar HTML a XLSX. Carregue seus arquivos, chame o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar HTML a XLSX on-line" InputFormat="html" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online grátis para mesclar HTML a XLSX em Java" InputFormat="html" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar HTML com XLSX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
+ Precisa mesclar HTML a XLSX programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for Java'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Java.
 + Carregue o arquivo HTML com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -97,21 +100,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas para exibição em navegadores. Conhecido como linguagem da web, o HTML evoluiu com os requisitos de novos requisitos de informação a serem exibidos como parte das páginas da web. A variante mais recente é conhecida como HTML 5, que oferece muita flexibilidade para trabalhar com o idioma. HTML as páginas são recebidas do servidor, onde estão hospedadas, ou também podem ser carregadas do sistema local. Cada página HTML é composta por HTML elementos como formulários, textos, imagens, animações, links, etc. Esses elementos são representados por tags e vários outros onde cada tag tem início e fim. Ele também pode incorporar aplicativos escritos em linguagens de script, como JavaScript e folhas de estilo (CSS) para representação de layout geral.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX é um formato bem conhecido para documentos Excel Microsoft que foi introduzido por Microsoft com o lançamento de Microsoft Office 2007. Com base na estrutura organizada de acordo com as Convenções de Embalagens Abertas, conforme descrito na Parte 2 do padrão OOXML ECMA-376, o novo formato é um pacote zip que contém vários arquivos XML. A estrutura subjacente e os arquivos podem ser examinados simplesmente descompactando o arquivo .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando Java, também é possível mesclar html com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-docx/" name="Juntar HTML a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-sql/" name="Mesclar HTML para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-bmp/" name="Juntar HTML a BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-emf/" name="Juntar HTML a EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-gif/" name="Juntar HTML a GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-html/" name="Juntar HTML a HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-md/" name="Mesclar HTML para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-mhtml/" name="Juntar HTML a MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-ods/" name="Juntar HTML a ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-pdf/" name="Juntar HTML a PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-png/" name="Juntar HTML a PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-svg/" name="Juntar HTML a SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tiff/" name="Juntar HTML a TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tsv/" name="Juntar HTML a TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-txt/" name="Juntar HTML a TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xls/" name="Juntar HTML a XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsb/" name="Juntar HTML a XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsm/" name="Juntar HTML a XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsx/" name="Juntar HTML a XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlt/" name="Juntar HTML a XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltm/" name="Juntar HTML a XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltx/" name="Juntar HTML a XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xml/" name="Mesclar HTML para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xps/" name="Juntar HTML a XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-json/" name="Juntar HTML a JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-jpeg/" name="Juntar HTML a JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

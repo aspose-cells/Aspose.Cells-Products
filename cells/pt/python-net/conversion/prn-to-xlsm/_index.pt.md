@@ -1,7 +1,7 @@
 ---
-title: Converter PRN para XLSM Python via Python
-description: Converta PRN para XLSM online gratuitamente. Conversor online gratuito de PRN para XLSM. Python PRN para XLSM. PRN para XLSM via Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN para XLSM - Conversor online de PRN para XLSM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter PRN para XLSM saveformat. Python PRN para o formato XLSM. Salve o PRN em XLSM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to XLSM saveformat., Free Online PRN to XLSM Python., Python Convert PRN to XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter PRN para XLSM em Python" h2="Biblioteca Python de alta velocidade para converter PRN em XLSM. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 
 {{% blocks/products/pf/agp/content h2="Converter PRN para XLSM em Python" %}}
 
- Como converter PRN para XLSM? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter PRN em XLSM programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter PRN para XLSM? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter PRN em XLSM programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter PRN em XLSM. Carregue seu arquivo PRN e si
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter PRN para XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter PRN para XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter PRN para XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter PRN para XLSM em apenas algumas linhas de código.
+Precisa converter arquivos PRN para XLSM programaticamente? Os desenvolvedores Python podem facilmente carregar e converter PRN para XLSM em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregar arquivo PRN com uma instância da pasta de trabalho
-1.  Converter PRN para XLSM chamando o método Workbook.save
+1.  Carregue o arquivo PRN com uma instância do Workbook.
+1.  Converta PRN em XLSM chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de PRN para XLSM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Um arquivo PRN é um arquivo criado usando a caixa de seleção Imprimir para arquivo que aparece em algumas caixas de diálogo Imprimir em Windows. Ele contém um conjunto de instruções específicas do dispositivo que uma impressora, máquina de fax ou outro dispositivo usa para imprimir um documento. Os arquivos PRN podem conter texto ou conteúdo binário, dependendo do dispositivo para o qual o arquivo foi criado.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Arquivos com extensão XLSM são um tipo de arquivo de planilha que suporta macros. Do ponto de vista da aplicação, uma Macro é um conjunto de instruções que são utilizadas para automatizar processos. Uma macro é usada para registrar as etapas que são executadas repetidamente e facilita a execução das ações executando a macro novamente. As macros são programadas com o Visual Basic for Applications (VBA) de Microsoft a partir da pasta de trabalho do Excel usando o Editor do Visual Basic e podem ser executadas/depuradas diretamente a partir daí.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter PRN em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Converter XML para BMP Python via Python
-description: Converta XML para BMP online gratuitamente. Conversor de XML on-line gratuito para BMP. Python XML para BMP. XML para BMP via Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML para BMP - Conversor Online de XML para BMP
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter XML para BMP saveformat. Python XML para o formato BMP. Salve o XML em BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to BMP saveformat., Free Online XML to BMP Python., Python Convert XML to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter XML para BMP em Python" h2="Biblioteca Python de alta velocidade para converter XML em BMP. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Converter XML para BMP em Python" %}}
 
- Como converter XML para BMP? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter XML para BMP programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter XML para BMP? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter XML para BMP programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter XML para BMP. Carregue seu arquivo XML e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XML para BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XML para BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XML para BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter XML para BMP em apenas algumas linhas de código.
+Precisa converter arquivos XML para BMP programaticamente? Os desenvolvedores Python podem facilmente carregar e converter XML para BMP em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregar arquivo XML com uma instância da pasta de trabalho
-1.  Converter XML para BMP chamando o método Workbook.save
+1.  Carregue o arquivo XML com uma instância do Workbook.
+1.  Converta XML para BMP chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de XML para BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa Extensible Markup Language, semelhante a HTML, mas diferente no uso de tags para definir objetos. A ideia por trás da criação do formato de arquivo XML era armazenar e transportar dados sem depender de ferramentas de software ou hardware. Sua popularidade se deve ao fato de ser tanto humano quanto legível por máquina. Isso permite que ele crie protocolos de dados comuns na forma de objetos a serem armazenados e compartilhados na rede, como a World Wide Web (WWW). O "X" em XML é para extensível, o que implica que a linguagem pode ser estendida para qualquer número de símbolos de acordo com os requisitos do usuário. É por esses recursos que muitos formatos de arquivo padrão fazem uso dele, como Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Arquivos com extensão 0,BMP representam arquivos de imagem bitmap usados para armazenar imagens digitais bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter XML em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

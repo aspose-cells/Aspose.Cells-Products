@@ -196,7 +196,7 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
     </li>
     <li>
      <b>
- ภาพ:
+ รูปภาพ:
      </b>
      JPEG, PNG, BMP, SVG, EMF
     </li>
@@ -419,7 +419,7 @@ description: Python ไลบรารีสเปรดชีตเพื่อ
     </p>
     <div class="codeblock" id="code">
      <h3>
- บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
+บันทึกสเปรดชีตในรูปแบบต่างๆ - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

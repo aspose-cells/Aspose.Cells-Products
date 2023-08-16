@@ -1,7 +1,8 @@
 ---
-title:  Mesclar XLT para MHT via Python
+title: Mesclar XLT para MHT - Combine XLT para MHT em Python
 url: /pt/python-net/merger/merge-xlt-to-mht/ 
-description: Mesclar XLT para MHT Online gratuitamente. Online grátis XLT para fusão MHT. Mesclar XLT para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e muito mais.
+description: Aspose Excel. Python Aspose.Cells. Mesclagem on-line gratuita XLT para MHT saveformat. Python Combine XLT para o formato MHT. Mesclar XLT para MHT em Python. XLT Mesclar.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to MHT in Python., Free Online Python Merge XLT to mht., Python Combine XLT to MHT Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar XLT para MHT via Python" h2="Biblioteca Python de alta velocidade para mesclar XLT com MHT. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos de Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Mesclar XLT para MHT Online gratuitamente. Online grátis XLT para 
 
 {{% blocks/products/pf/agp/content h2="Mesclar XLT para MHT usando Python" %}}
 
- Como mesclar XLT para MHT? Com a biblioteca Aspose.Cells for Python, você pode facilmente mesclar XLT para MHT programaticamente com algumas linhas de código.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
+ Como faço para mesclar XLT para MHT? Com a biblioteca Aspose.Cells for Python via .NET, você pode facilmente mesclar XLT para MHT programaticamente com algumas linhas de código.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Você pode instalar Aspose.Cells for Python via .NET de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , use o comando como:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Mesclar XLT para MHT em Python Online Gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar XLT com MHT em Python.
+O exemplo a seguir demonstra como mesclar XLT com MHT em Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar XLT com MHT. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo MHT. Se você desenvolver código em Python, isso será mais simples do que parece. Consulte o exemplo Python que mescla XLT com MHT.
@@ -27,16 +28,18 @@ Siga as etapas fáceis para mesclar XLT com MHT. Carregue seus arquivos, chame o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar XLT para MHT on-line" InputFormat="xlt" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Online grátis para mesclar XLT para MHT em Python" InputFormat="xlt" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar XLT para MHT via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) As APIs podem ser feitas com apenas algumas linhas de código.
+Precisa mesclar XLT para MHT programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for Python via .NET'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
 + Carregue o arquivo XLT com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -53,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Arquivos com extensão .xlt são arquivos de modelo criados com Microsoft Excel, que é um aplicativo de planilha que vem como parte do pacote Office Microsoft. Microsoft O Office 97-2003 suportava a criação de novos arquivos XLT, bem como sua abertura. A versão mais recente do Excel ainda é capaz de abrir esses arquivos de modelo de formato antigo. Esse arquivo de modelo é usado para criar rapidamente novos arquivos do Excel com dados e configurações padrão, como formatação de página, tamanho da fonte, margens, gráficos, etc., que podem ser salvos como novos arquivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Um arquivo com extensão .mht é um formato de arquivo de arquivamento habilitado para MIME que contém diferentes tipos de dados em um único arquivo. Ele pode armazenar dados como texto, imagens, estilo de página na forma de arquivos CSS, JavaScript e outros recursos como recursos incorporados a ele. Os arquivos MHT, com mensagem do tipo MIME/rfc822, encapsulam todo o conteúdo de um arquivo HTML como um único arquivo para armazenamento em dispositivos de armazenamento. Aplicativos de software como Microsoft Word permitem que você converta seus documentos WORD em MHT exportando como arquivo MHT. Os arquivos MHT podem ser abertos usando navegadores populares, como Microsoft Internet Explorer e Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando Python, também é possível mesclar xlt com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-docx/" name="Juntar XLT a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-sql/" name="Mesclar XLT para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-bmp/" name="Juntar XLT a BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-emf/" name="Juntar XLT a EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-gif/" name="Juntar XLT a GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="Juntar XLT a HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-md/" name="Mesclar XLT para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="Juntar XLT a MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="Juntar XLT a ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-pdf/" name="Juntar XLT a PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-png/" name="Juntar XLT a PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-svg/" name="Juntar XLT a SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tiff/" name="Juntar XLT a TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="Juntar XLT a TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="Juntar XLT a TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="Juntar XLT a XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="Juntar XLT a XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="Juntar XLT a XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="Juntar XLT a XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="Juntar XLT a XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="Juntar XLT a XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="Juntar XLT a XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xml/" name="Mesclar XLT para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xps/" name="Juntar XLT a XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-json/" name="Juntar XLT a JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-jpeg/" name="Juntar XLT a JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

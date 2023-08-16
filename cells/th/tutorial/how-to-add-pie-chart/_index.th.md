@@ -1,0 +1,92 @@
+---
+title: วิธีเพิ่มแผนภูมิวงกลม โดย Aspose.Cells
+weight: 7700
+limit:
+description: เรียนรู้วิธีเพิ่มแผนภูมิวงกลม
+keywords: [Add pie chart., how to add pie chart in Aspose.Cells., how to add pie chart using Aspose.Cells]
+url: /th/tutorial/add-pie-chart-in-excel
+---
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/feature-page-section h2="เรียนรู้วิธีเพิ่มแผนภูมิวงกลมด้วย Aspose.Cells" >}}
+
+<p>
+ในบทช่วยสอนนี้ เราจะเพิ่มแผนภูมิวงกลมในไฟล์ excel
+</p>
+
+<p>
+ เราจะเริ่มต้นด้วยการสร้างสมุดงานใหม่โดยใช้<a href="https://www.nuget.org/packages/Aspose.Cells">Aspose.Cells ห้องสมุด</a> และเพิ่มแผนภูมิวงกลม
+</p>
+
+<br />
+{{< app/cells/tutorial >}}
+//ExSummary: โปรดตรวจสอบโค้ดต่อไปนี้เพื่อดูวิธีเพิ่มแผนภูมิวงกลม
+//ExStepSummary:0: โค้ดต่อไปนี้แสดงวิธีเพิ่มแผนภูมิวงกลม ตั้งค่าช่วงข้อมูลชุดข้อมูล และตั้งค่าช่วงข้อมูลหมวดหมู่
+//ExStepImage:0:step-1.png
+//ExStepSummary:1: รหัสต่อไปนี้แสดงวิธีปิดคำอธิบายแผนภูมิ
+//ExStepImage:1:step-2.png
+//ExStepSummary:2: โค้ดต่อไปนี้แสดงวิธีเข้าถึงป้ายข้อมูล เปิดชื่อหมวดหมู่ เปิดรูปแบบเปอร์เซ็นต์ และกำหนดตำแหน่ง
+//ExStepImage:2:step-3.png
+// เอ็กซ์สตาร์ท
+//ExStep:0-
+โดยใช้ Aspose.Cells;
+โดยใช้ Aspose.Cells.Drawing;
+
+สมุดงานสมุดงาน = สมุดงานใหม่ ();
+แผ่นงาน = workbook.Worksheets[0];
+sheet.Name = "แผ่นงานแผนภูมิ";
+Cells เซลล์ = sheet.Cells;
+เซลล์["A1"].Value = "ผลไม้";
+เซลล์ ["A2"].Value = "แอปเปิ้ล";
+เซลล์ ["A3"].Value = "ส้ม";
+เซลล์ ["A4"].Value = "บลูเบอร์รี่";
+เซลล์ ["A5"].Value = "กีวี";
+
+เซลล์["B1"].Value = "ราคา";
+เซลล์["B2"].Value = 10;
+เซลล์["B3"].Value = 5;
+เซลล์["B4"].Value = 20;
+เซลล์["B5"].Value = 8;
+
+sheet.PageSetup.PrintGridlines = จริง;
+sheet.PageSetup.PrintArea = "A1:F20";
+
+แผนภูมิ ChartCollection = sheet.Charts;
+
+//เพิ่มแผนภูมิวงกลม กำหนดช่วงข้อมูลชุดข้อมูล และกำหนดช่วงข้อมูลหมวดหมู่
+ดัชนี int = sheet.Charts.Add (ChartType.Pie, 6, 0, 19, 5);
+แผนภูมิ แผนภูมิ = sheet.Charts[ดัชนี];
+chart.NSeries.Add("B2:B5", จริง);
+chart.NSeries.CategoryData = "A2:A5";
+
+//ExStep:1-
+// ปิดตำนาน
+chart.ShowLegend = เท็จ;
+
+//ExStep:2-
+//เข้าถึงป้ายกำกับข้อมูล เปิดชื่อหมวดหมู่ เปิดรูปแบบเปอร์เซ็นต์ และกำหนดตำแหน่ง
+DataLabels dataLabels = chart.NSeries[0].DataLabels;
+dataLabels.ShowCategoryName = จริง;
+dataLabels.ShowPercentage = จริง;
+dataLabels.Position = LabelPositionType.OutsideEnd;
+
+//ExStep:0-
+
+//ExEnd
+{{< /app/cells/tutorial >}}
+<br />
+
+<br />
+<br />
+<div class="code-sample">
+    <ul class="link-list">
+        <li class="link-item"><a href="https://docs.aspose.com/cells/net/installation/">งานติดตั้งAspose.Cells</a></li>
+        <li class="link-item"><a href="https://products.aspose.app/cells/editor/">Aspose.Cells บรรณาธิการ</a></li>
+    </ul>
+</div>
+
+{{< /blocks/products/pf/feature-page-section >}}
+{{< /blocks/products/pf/main-container >}}
+{{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/products-backtop-button >}}

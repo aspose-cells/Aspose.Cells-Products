@@ -1,7 +1,8 @@
 ---
-title:  Mesclar TXT para PDF via C#
+title: Mesclar TXT a PDF - Combinar TXT a PDF em C#
 url: /pt/net/merger/merge-txt-to-pdf/ 
-description: Mesclar TXT para PDF Online gratuitamente. Online Grátis TXT a PDF Fusão. Mesclar TXT para Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e mais.
+description: Aspose Excel. C# Aspose.Cells. Mesclagem online gratuita TXT para PDF saveformat. C# Combine o formato TXT a PDF. Mesclar TXT a PDF em C#. TXT Mesclar.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to PDF in C#., Free Online C# Merge TXT to pdf., C# Combine TXT to PDF Online for Free., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Mesclar TXT para PDF via C#" h2="Biblioteca C# de alta velocidade para mesclar TXT a PDF. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em C#. Esta é uma solução de software profissional para importar e exportar Excel, CSV, OpenOffice, PDF, HTML, image e muitos outros formatos Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Mesclar TXT para PDF Online gratuitamente. Online Grátis TXT a PDF
 
 {{% blocks/products/pf/agp/content h2="Mesclar TXT a PDF usando C#" %}}
 
- Como mesclar TXT a PDF? Com a biblioteca Aspose.Cells for .NET, você pode facilmente mesclar TXT a PDF programaticamente com algumas linhas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. .NET Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure Aspose.Cells e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+ Como faço para mesclar TXT a PDF? Com a biblioteca Aspose.Cells for .NET, você pode facilmente mesclar TXT a PDF programaticamente com algumas linhas de código.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. .NET Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos. Abrir[NuGet](https://www.nuget.org/packages/aspose.cells) gerenciador de pacotes, procure Aspose.Cells e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Mesclar TXT a PDF em C# Online Gratuitamente" %}}
 
-O exemplo a seguir demonstra como mesclar TXT a PDF em C#.
+O exemplo a seguir demonstra como mesclar TXT a PDF em Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para mesclar TXT a PDF. Carregue seus arquivos, chame o método Workbook.Combine para mesclar arquivos e salve-o no arquivo PDF. Se você desenvolver o código em C#, isso será mais simples do que parece. Consulte o exemplo C# que mescla TXT a PDF.
@@ -36,16 +37,18 @@ Siga as etapas fáceis para mesclar TXT a PDF. Carregue seus arquivos, chame o m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplicativo gratuito para mesclar TXT a PDF on-line" InputFormat="txt" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online grátis para mesclar TXT a PDF em C#" InputFormat="txt" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Como mesclar TXT a PDF via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) As APIs podem ser feitas com apenas algumas linhas de código.
+ Precisa mesclar TXT a PDF programaticamente? Um documento básico mesclando e concatenando com[Aspose.Cells for .NET](https://products.aspose.com/cells/net) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instale 'Aspose.Cells for .NET'.
++ Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto C#.
 + Carregue o arquivo TXT com a classe Workbook.
 + Chame o método Workbook.Combine para mesclar arquivos.
 + Chame o método Workbook.Save e passe o nome do arquivo de saída como parâmetro.
@@ -62,7 +65,7 @@ Existem duas opções alternativas para instalar "Aspose.Cells for .NET" em seu 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale um[NuGet Pacote](https://www.nuget.org/packages/Aspose.Cells/) . Ver[Documentação](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Instale a biblioteca usando[Console do gerenciador de pacotes](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dentro do Visual Studio IDE
+1.  Instale a biblioteca usando[Console do gerenciador de pacotes](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dentro do Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nossas APIs são suportadas em todas as principais plataformas e sistemas operac
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Um arquivo com extensão 0,TXT representa um documento de texto que contém texto simples na forma de linhas. Os parágrafos em um documento de texto são reconhecidos por retornos de carro e são usados para melhor organização do conteúdo do arquivo. Um documento de texto padrão pode ser aberto em qualquer editor de texto ou aplicativo de processamento de texto em diferentes sistemas operacionais. Todo o texto contido em tal arquivo está em formato legível por humanos e representado por uma sequência de caracteres.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) é um tipo de documento criado pela Adobe na década de 1990. O objetivo desse formato de arquivo era introduzir um padrão para representação de documentos e outros materiais de referência em um formato independente do software aplicativo, hardware e sistema operacional. O formato de arquivo PDF tem capacidade total para conter informações como texto, imagens, hiperlinks, campos de formulário, mídia avançada, assinaturas digitais, anexos, metadados, recursos geoespaciais e objetos 3D que podem se tornar parte do documento de origem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de mesclagem suportados" subTitle="Usando C#, também é possível mesclar txt com muitos outros formatos de arquivo, incluindo." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-html/" name="HTML" description="Linguagem de marcação de hipertexto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-mhtml/" name="MHTML" description="Formato de arquivo da página da Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-ods/" name="ODS" description="Ficheiro de Planilha OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tsv/" name="TSV" description="Valores separados por tabulações" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-txt/" name="TXT" description="Documento de texto" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xls/" name="XLS" description="Formato binário do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsb/" name="XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsm/" name="XLSM" description="Arquivo de planilha" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsx/" name="XLSX" description="Ficheiro Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlt/" name="XLT" description="Microsoft Modelo Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltm/" name="XLTM" description="Modelo habilitado para macro do Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltx/" name="XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-docx/" name="Juntar TXT a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-sql/" name="Mesclar TXT para SQL" description="Linguagem de consulta estruturada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-bmp/" name="Juntar TXT a BMP" description="Imagem em formato bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-emf/" name="Juntar TXT a EMF" description="Formato de metarquivo aprimorado" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-gif/" name="Juntar TXT a GIF" description="Formato de Intercâmbio Gráfico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-html/" name="Juntar TXT a HTML" description="Linguagem de marcação de hipertexto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-md/" name="Mesclar TXT para MD" description="Linguagem de Remarcação" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-mhtml/" name="Juntar TXT a MHTML" description="Formato de arquivo da página da Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-ods/" name="Juntar TXT a ODS" description="Ficheiro de Planilha OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-pdf/" name="Juntar TXT a PDF" description="Formato de Documento Portátil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-png/" name="Juntar TXT a PNG" description="Gráficos Portáteis de Rede" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-svg/" name="Juntar TXT a SVG" description="Gráficos vetoriais escalonáveis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tiff/" name="Juntar TXT a TIFF" description="Formato de imagem marcada" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tsv/" name="Juntar TXT a TSV" description="Valores separados por tabulações" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-txt/" name="Juntar TXT a TXT" description="Documento de texto" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xls/" name="Juntar TXT a XLS" description="Formato binário do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsb/" name="Juntar TXT a XLSB" description="Arquivo Binário da Pasta de Trabalho do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsm/" name="Juntar TXT a XLSM" description="Arquivo de planilha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsx/" name="Juntar TXT a XLSX" description="Ficheiro Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlt/" name="Juntar TXT a XLT" description="Microsoft Modelo Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltm/" name="Juntar TXT a XLTM" description="Modelo habilitado para macro do Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltx/" name="Juntar TXT a XLTX" description="Modelo Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xml/" name="Mesclar TXT para XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xps/" name="Juntar TXT a XPS" description="Especificações do Papel XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-json/" name="Juntar TXT a JSON" description="Notação de objeto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-jpeg/" name="Juntar TXT a JPEG" description="JPEG Imagem" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

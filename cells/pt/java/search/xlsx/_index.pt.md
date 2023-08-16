@@ -58,7 +58,7 @@ description: Java código de amostra para pesquisar palavras com padrão no arqu
 {{% /blocks/products/pf/agp/text %}}
 
 + Carregue o arquivo XLSX instanciando um objeto Workbook.
-Acesse a primeira planilha no arquivo XLSX.
++ Acesse a primeira planilha no arquivo XLSX.
 + Encontre a célula que contém a fórmula especificada.
 + Instanciar FindOptions.
 + Encontre a célula que contém um valor de string

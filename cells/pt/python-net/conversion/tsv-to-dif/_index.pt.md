@@ -1,7 +1,7 @@
 ---
-title: Converter TSV para DIF Python via Python
-description: Converta TSV em DIF online gratuitamente. Conversor Online Grátis TSV para DIF. Python TSV a DIF. TSV a DIF via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV para DIF - Online TSV para DIF Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter TSV para DIF saveformat. Python TSV a DIF formato. Salve TSV a DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to DIF saveformat., Free Online TSV to DIF Python., Python Convert TSV to DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter TSV para DIF em Python" h2="Biblioteca Python de alta velocidade para converter TSV em DIF. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="Salve TSV a DIF em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter TSV em DIF em Python via NET.
+exemplo a seguir demonstra como converter TSV em DIF em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter TSV em DIF. Carregue seu arquivo TSV e salve-o como arquivo DIF. Tanto para a leitura TSV quanto para a escrita DIF, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída DIF serão idênticos ao documento TSV original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter TSV em DIF. Carregue seu arquivo TSV e sal
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter TSV em DIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter TSV em DIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter TSV para DIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter TSV em DIF em apenas algumas linhas de código.
+Precisa converter arquivos TSV para DIF programaticamente? Os desenvolvedores Python podem facilmente carregar e converter TSV em DIF em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo TSV com uma instância da pasta de trabalho
-1.  Converta TSV em DIF chamando o método Workbook.save
+1.  Carregue o arquivo TSV com uma instância de Workbook.
+1.  Converta TSV em DIF chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de TSV para DIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Um formato de arquivo de valores separados por tabulações (TSV) representa dados separados por tabulações em formato de texto simples. O formato de arquivo, semelhante ao CSV, é utilizado para organização dos dados de forma estruturada para importação e exportação entre diferentes aplicações. O formato é usado principalmente para importação/exportação de dados e troca em aplicativos de planilhas e bancos de dados. Cada registro em um arquivo TSV está contido em uma única linha de arquivo de texto onde cada valor de campo é separado por um caractere de tabulação. O tipo de mídia para o formato de arquivo TSV é valores separados por tabulação/texto.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF significa Data Interchange Format que é usado para importar/exportar dados de planilhas entre diferentes aplicativos. Estes incluem Microsoft Excel, OpenOffice Calc, StarCalc e muitos outros. Ele armazena os dados contidos em uma única planilha, que é a única limitação desse formato de arquivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter TSV para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

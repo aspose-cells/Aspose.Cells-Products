@@ -1,7 +1,7 @@
 ---
-title: Converter HTM para TABDELIMITED Python via Python
-description: Converta HTM para TABDELIMITED online gratuitamente. Conversor online gratuito de HTM para TABDELIMITED. Python HTM para TABDELIMITED. HTM para TABDELIMITED via Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM para TABDELIMITED - Conversor online de HTM para TABDELIMITED
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Gratuito Python Convert HTM to TABDELIMITED saveformat. Python HTM para o formato TABDELIMITED. Salvar HTM em TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to TABDELIMITED saveformat., Free Online HTM to TABDELIMITED Python., Python Convert HTM to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter HTM para TABDELIMITED em Python" h2="Biblioteca Python de alta velocidade para converter HTM em TABDELIMITED. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Converter HTM para TABDELIMITED em Python" %}}
 
- Como converter HTM para TABDELIMITED? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter HTM para TABDELIMITED programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter HTM para TABDELIMITED? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter HTM para TABDELIMITED programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter HTM para TABDELIMITED. Carregue seu arquiv
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter HTM para TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter HTM para TABDELIMITED online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter HTM para TABDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python desenvolvedores podem facilmente carregar e converter HTM para TABDELIMITED em apenas algumas linhas de código.
+Precisa converter arquivos HTM para TABDELIMITED programaticamente? Python desenvolvedores podem facilmente carregar e converter HTM para TABDELIMITED em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregar arquivo HTM com uma instância da pasta de trabalho
-1. Converter HTM para TABDELIMITED chamando o método Workbook.save
+1.  Carregue o arquivo HTM com uma instância do Workbook.
+1.  Converta HTM em TABDELIMITED chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de HTM para TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Arquivos com extensão .htm representam Hypertext Markup Language para criar páginas da web para exibição em navegadores da web como Google Chrome, Internet Explorer, Firefox e vários outros. Ele define as marcações para a criação de páginas estáticas a serem publicadas na World Wide Web (WWW) para acesso de outras pessoas. Essas marcações informam aos navegadores como exibir o conteúdo de uma página da web. Essas páginas podem conter texto simples, imagens, hiperlinks para outras páginas, vídeos e outras informações de mídia. Quando uma página da web é publicada, você pode dar uma olhada no código de marcação por trás dela, visualizando a origem da página. Os navegadores modernos permitem inspecionar cada seção de uma página da Web onde cada subdivisão ou elemento de marcação na fonte HTM é elaborado.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Um formato de arquivo de valores separados por tabulações (TSV) representa dados separados por tabulações em formato de texto simples. O formato de arquivo, semelhante ao CSV, é utilizado para organização dos dados de forma estruturada para importação e exportação entre diferentes aplicações. O formato é usado principalmente para importação/exportação de dados e troca em aplicativos de planilhas e bancos de dados. Cada registro em um arquivo TSV está contido em uma única linha de arquivo de texto onde cada valor de campo é separado por um caractere de tabulação. O tipo de mídia para o formato de arquivo TSV é valores separados por tabulação/texto.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter HTM para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

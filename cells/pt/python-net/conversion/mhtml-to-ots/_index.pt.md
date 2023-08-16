@@ -1,7 +1,7 @@
 ---
-title: Converter MHTML para OTS Python via Python
-description: Converta MHTML para OTS Online gratuitamente. Conversor MHTML on-line gratuito para OTS. Python MHTML para OTS. MHTML para OTS via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML para OTS - Conversor Online MHTML para OTS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter MHTML para OTS saveformat. Python MHTML para o formato OTS. Salvar MHTML para OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to OTS saveformat., Free Online MHTML to OTS Python., Python Convert MHTML to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter MHTML para OTS em Python" h2="Biblioteca Python de alta velocidade para converter MHTML em OTS. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Converter MHTML para OTS em Python" %}}
 
- Como converter MHTML para OTS? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter MHTML em OTS programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter MHTML para OTS? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter MHTML em OTS programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter MHTML em OTS. Carregue seu arquivo MHTML e
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter MHTML em OTS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter MHTML para OTS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter MHTML para OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter MHTML para OTS em apenas algumas linhas de código.
+Precisa converter arquivos MHTML para OTS programaticamente? Os desenvolvedores Python podem facilmente carregar e converter MHTML para OTS em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo MHTML com uma instância da pasta de trabalho
-1.  Converta MHTML em OTS chamando o método Workbook.save
+1.  Carregue o arquivo MHTML com uma instância de Workbook.
+1.  Converta MHTML em OTS chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de MHTML para OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Arquivos com extensão MHTML representam um formato de arquivo de página da web que pode ser criado por vários aplicativos diferentes. O formato é conhecido como formato de arquivo porque salva o código da web HTML e os recursos associados em um único arquivo. Esses recursos incluem qualquer coisa vinculada à página da Web, como imagens, applets, animações, arquivos de áudio e assim por diante. Os arquivos MHTML podem ser abertos em vários aplicativos, como Internet Explorer e Microsoft Word. Microsoft Windows usa o formato de arquivo MHTML para gravar cenários de problemas observados durante o uso de qualquer aplicativo em Windows que levanta problemas. O formato de arquivo MHTML codifica o conteúdo da página semelhante às especificações definidas em message/rfc822, que são especificações relacionadas a e-mail de texto simples.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Um arquivo com extensão .ots é um arquivo de modelo de planilha OpenDocument criado com o software aplicativo Calc incluído no Apache OpenOffice. O software aplicativo Calc é semelhante ao Excel disponível em Microsoft Office. O formato de arquivo OTS é usado para criar modelos que contêm configurações predefinidas relacionadas a estilos, fonte, dados, layout de planilha e formatação. Os arquivos OTF têm o tipo mime application/vnd.oasis.opendocument.spreadsheet-template. Esses arquivos de modelo podem ser usados como ponto de partida para gerar e salvar arquivos de dados reais que são salvos no formato de arquivo ODS. Os arquivos OTS podem ser usados com aplicativos como OpenOffice e LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter MHTML para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

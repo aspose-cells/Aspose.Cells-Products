@@ -1,7 +1,7 @@
 ---
-title: Converter CSV para TXT Python via Python
-description: Converta CSV em TXT online gratuitamente. Conversor Online Grátis CSV para TXT. Python CSV a TXT. CSV a TXT via Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV para TXT - Online CSV para TXT Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter CSV para TXT saveformat. Python CSV a TXT formato. Salve CSV a TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to TXT saveformat., Free Online CSV to TXT Python., Python Convert CSV to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter CSV para TXT em Python" h2="Biblioteca Python de alta velocidade para converter CSV em TXT. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="Salve CSV a TXT em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter CSV em TXT em Python via NET.
+exemplo a seguir demonstra como converter CSV em TXT em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter CSV em TXT. Carregue seu arquivo CSV e salve-o como arquivo TXT. Tanto para a leitura CSV quanto para a escrita TXT, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída TXT serão idênticos ao documento CSV original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter CSV em TXT. Carregue seu arquivo CSV e sal
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter CSV em TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter CSV em TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter CSV para TXT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter CSV em TXT em apenas algumas linhas de código.
+Precisa converter arquivos CSV para TXT programaticamente? Os desenvolvedores Python podem facilmente carregar e converter CSV em TXT em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo CSV com uma instância da pasta de trabalho
-1.  Converta CSV em TXT chamando o método Workbook.save
+1.  Carregue o arquivo CSV com uma instância de Workbook.
+1.  Converta CSV em TXT chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de CSV para TXT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Arquivos com extensão .csv (valores separados por vírgula) representam arquivos de texto simples que contêm registros de dados com valores separados por vírgula. Cada linha em um arquivo CSV é um novo registro do conjunto de registros contidos no arquivo. Esses arquivos são gerados quando a transferência de dados é pretendida de um sistema de armazenamento para outro. Como todos os aplicativos podem reconhecer registros separados por vírgula, a importação desses arquivos de dados para o banco de dados é feita de maneira muito conveniente. Quase todos os aplicativos de planilha, como Microsoft Excel ou OpenOffice Calc, podem importar CSV sem muito esforço. Os dados importados desses arquivos são organizados em células de uma planilha para representação ao usuário.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Um arquivo com extensão 0,TXT representa um documento de texto que contém texto simples na forma de linhas. Os parágrafos em um documento de texto são reconhecidos por retornos de carro e são usados para melhor organização do conteúdo do arquivo. Um documento de texto padrão pode ser aberto em qualquer editor de texto ou aplicativo de processamento de texto em diferentes sistemas operacionais. Todo o texto contido em tal arquivo está em formato legível por humanos e representado por uma sequência de caracteres.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter CSV para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

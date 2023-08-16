@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องโหลดครับ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ CSV ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

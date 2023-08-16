@@ -1,7 +1,8 @@
 ---
-title:  รวม HTM เป็น XLTX ผ่าน Python
+title: รวม HTM เป็น XLTX - รวม HTM เป็น XLTX ใน Python
 url: /th/python-net/merger/merge-htm-to-xltx/ 
-description: รวม HTM เป็น XLTX ออนไลน์ฟรี HTM ออนไลน์ฟรีไปที่ XLTX Merger รวม HTM เข้ากับ Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. Python Aspose.Cells ออนไลน์ฟรี รวม HTM เป็น XLTX saveformat Python รวมรูปแบบ HTM เป็น XLTX ผสาน HTM กับ XLTX ใน Python ผสาน HTM
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLTX in Python., Free Online Python Merge HTM to xltx., Python Combine HTM to XLTX Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม HTM เป็น XLTX ผ่าน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการรวม HTM เข้ากับ XLTX ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: รวม HTM เป็น XLTX ออนไลน์ฟรี HTM 
 
 {{% blocks/products/pf/agp/content h2="รวม HTM เป็น XLTX โดยใช้ Python" %}}
 
- จะรวม HTM เป็น XLTX ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถรวม HTM เข้ากับ XLTX ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells-python</code>.
+ ฉันจะรวม HTM เข้ากับ XLTX ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python via .NET คุณสามารถรวม HTM เข้ากับ XLTX ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python via .NET จาก<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="รวม HTM เป็น XLTX ใน Python ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีผสาน HTM กับ XLTX ใน Python
+ตัวอย่างต่อไปนี้สาธิตวิธีผสาน HTM กับ XLTX ใน Aspose.Cells for Python via .NET
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อรวม HTM เข้ากับ XLTX อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์ จากนั้นบันทึกลงในไฟล์ XLTX หากคุณพัฒนาโค้ดใน Python สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง Python ที่รวม HTM เข้ากับ XLTX
@@ -27,16 +28,18 @@ description: รวม HTM เป็น XLTX ออนไลน์ฟรี HTM 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีเพื่อรวม HTM เข้ากับ XLTX ทางออนไลน์" InputFormat="htm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม HTM เข้ากับ XLTX ใน Python" InputFormat="htm" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีรวม HTM เป็น XLTX ผ่าน Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการรวม HTM เป็น XLTX โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for Python via .NET'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 + โหลดไฟล์ HTM ด้วยคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -53,7 +56,7 @@ description: รวม HTM เป็น XLTX ออนไลน์ฟรี HTM 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}ไฟล์ที่มีนามสกุล .htm เป็นตัวแทนของ Hypertext Markup Language สำหรับสร้างเว็บเพจสำหรับแสดงผลในเว็บเบราว์เซอร์ เช่น Google Chrome, Internet Explorer, Firefox และอื่นๆ อีกมากมาย กำหนดมาร์กอัปสำหรับสร้างเพจแบบสแตติกเพื่อเผยแพร่บนเวิลด์ไวด์เว็บ (WWW) เพื่อให้ผู้อื่นเข้าถึงได้ มาร์กอัปเหล่านี้บอกเบราว์เซอร์ถึงวิธีแสดงเนื้อหาของหน้าเว็บ หน้าดังกล่าวสามารถมีข้อความธรรมดา รูปภาพ ไฮเปอร์ลิงก์ไปยังหน้าอื่น วิดีโอ และข้อมูลสื่ออื่นๆ เมื่อมีการเผยแพร่หน้าเว็บ คุณสามารถดูรหัสมาร์กอัปที่อยู่เบื้องหลังได้โดยดูแหล่งที่มาของหน้าเว็บ เบราว์เซอร์สมัยใหม่อนุญาตให้ตรวจสอบแต่ละส่วนของหน้าเว็บที่มีรายละเอียดย่อยหรือองค์ประกอบมาร์กอัปแต่ละรายการในซอร์ส HTM{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}ไฟล์ที่มีนามสกุล .xltx แสดงถึง Microsoft ไฟล์เทมเพลต Excel ที่ยึดตามข้อกำหนดรูปแบบไฟล์ Office OpenXML ใช้เพื่อสร้างไฟล์เทมเพลตมาตรฐานที่สามารถใช้สร้างไฟล์ XLSX ที่แสดงการตั้งค่าเดียวกันกับที่ระบุในไฟล์ XLTX{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ Python เราสามารถรวม htm เป็นรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-docx/" name="รวม HTM เป็น DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-sql/" name="รวม HTM เข้ากับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-bmp/" name="รวม HTM เป็น BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-emf/" name="รวม HTM เป็น EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-gif/" name="รวม HTM เป็น GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-html/" name="รวม HTM เป็น HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-md/" name="รวม HTM เป็น MD" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-mhtml/" name="รวม HTM เป็น MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-ods/" name="รวม HTM เป็น ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-pdf/" name="รวม HTM เป็น PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-png/" name="รวม HTM เป็น PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-svg/" name="รวม HTM เป็น SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-tiff/" name="รวม HTM เป็น TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-tsv/" name="รวม HTM เป็น TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-txt/" name="รวม HTM เป็น TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xls/" name="รวม HTM เป็น XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsb/" name="รวม HTM เป็น XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsm/" name="รวม HTM เป็น XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlsx/" name="รวม HTM เป็น XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xlt/" name="รวม HTM เป็น XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xltm/" name="รวม HTM เป็น XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xltx/" name="รวม HTM เป็น XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xml/" name="รวม HTM เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-xps/" name="รวม HTM เป็น XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-json/" name="รวม HTM เป็น JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-htm-to-jpeg/" name="รวม HTM เป็น JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

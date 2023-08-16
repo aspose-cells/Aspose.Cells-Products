@@ -1,7 +1,7 @@
 ---
-title: แปลง XLS เป็น EMF Python via Python
-description: แปลง XLS เป็น EMF ออนไลน์ฟรี ตัวแปลง XLS ออนไลน์ฟรีเป็น EMF Python XLS ถึง EMF XLS ถึง EMF ถึง Python
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+title: Python XLS ถึง EMF - ออนไลน์ XLS ถึง EMF Converter
+description: Aspose เก่ง. Python Aspose.Cells Python Aspose Cells ออนไลน์ฟรี Python แปลง XLS เป็น EMF บันทึกรูปแบบ รูปแบบ Python XLS ถึง EMF บันทึก XLS ถึง EMF Python
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to EMF saveformat., Free Online XLS to EMF Python., Python Convert XLS to EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง XLS เป็น EMF ใน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการแปลง XLS เป็น EMF ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% blocks/products/pf/agp/content h2="แปลง XLS เป็น EMF ใน Python" %}}
 
- วิธีแปลง XLS เป็น EMF ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง XLS เป็น EMF ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
+ ฉันจะแปลง XLS เป็น EMF ได้อย่างไร ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง XLS เป็น EMF ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,13 +28,13 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง XLS เป็น EMF ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง XLS เป็น EMF ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง XLS เป็น EMF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- นักพัฒนา Python สามารถโหลดและแปลง XLS เป็น EMF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการแปลงไฟล์ XLS เป็น EMF โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและแปลง XLS เป็น EMF ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,6 +42,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 1.  โหลดไฟล์ XLS ด้วยตัวอย่างสมุดงาน
 1.  แปลง XLS เป็น EMF โดยเรียกวิธี Workbook.save
+1.  รับผลการแปลงของ XLS เป็น EMF
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python ผ่าน NET เป็นแพลตฟอร์มที่ไม่ขึ้นกับ API และสามารถใช้ได้บนทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งแต่ละสมุดงานสามารถมีแผ่นงานหนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}รูปแบบ metafile ที่ปรับปรุงแล้ว (EMF) จัดเก็บภาพกราฟิกโดยแยกจากอุปกรณ์ Metafiles ของ EMF ประกอบด้วยเร็กคอร์ดที่มีความยาวผันแปรได้ตามลำดับเวลาที่สามารถแสดงภาพที่เก็บไว้หลังจากแยกวิเคราะห์บนอุปกรณ์เอาต์พุตใดๆ เร็กคอร์ดที่มีความยาวผันแปรเหล่านี้สามารถเป็นคำจำกัดความของวัตถุปิดล้อม คำสั่งสำหรับการวาดภาพ และคุณสมบัติกราฟิกที่สำคัญอย่างยิ่งในการแสดงภาพอย่างแม่นยำ เมื่ออุปกรณ์เปิดเมตาไฟล์ EMF โดยใช้สภาพแวดล้อมกราฟิกของตัวเอง สัดส่วน ขนาด สี และคุณสมบัติกราฟิกอื่นๆ ของภาพต้นฉบับจะยังคงเหมือนเดิมโดยไม่คำนึงถึงแพลตฟอร์มอุปกรณ์ที่เปิด{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง XLS เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
 

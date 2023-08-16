@@ -49,14 +49,14 @@ description: Java código de amostra para combinar MHTML documentos em Java Ambi
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
+Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carregue o primeiro arquivo MHTML com uma instância da classe Workbook.
 + Carregue o segundo documento MHTML com uma instância da classe Workbook.
 + Mesclar arquivos usando o método combine().
-salve o arquivo MHTML mesclado no caminho especificado
++ salve o arquivo MHTML mesclado no caminho especificado
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos MHTML." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será mesclado e concatenado instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será mesclado e concatenado instantaneamente." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

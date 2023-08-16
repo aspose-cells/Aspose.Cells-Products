@@ -1,7 +1,7 @@
 ---
-title: แปลง ODS เป็น CSV Python via Python
-description: แปลง ODS เป็น CSV ออนไลน์ฟรี ตัวแปลง ODS ออนไลน์ฟรีเป็น CSV Python ODS ถึง CSV ODS ถึง CSV ถึง Python
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS ถึง CSV - ออนไลน์ ODS ถึง CSV Converter
+description: Aspose เก่ง. Python Aspose.Cells Python Aspose Cells ออนไลน์ฟรี Python แปลง ODS เป็น CSV บันทึกรูปแบบ รูปแบบ Python ODS ถึง CSV บันทึก ODS ถึง CSV Python
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to CSV saveformat., Free Online ODS to CSV Python., Python Convert ODS to CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง ODS เป็น CSV ใน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการแปลง ODS เป็น CSV ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="แปลง ODS เป็น CSV ใน Python" %}}
 
- วิธีแปลง ODS เป็น CSV ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง ODS เป็น CSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
+ ฉันจะแปลง ODS เป็น CSV ได้อย่างไร ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง ODS เป็น CSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,13 +28,13 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง ODS เป็น CSV ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง ODS เป็น CSV ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง ODS เป็น CSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- นักพัฒนา Python สามารถโหลดและแปลง ODS เป็น CSV ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการแปลงไฟล์ ODS เป็น CSV โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและแปลง ODS เป็น CSV ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,6 +42,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 1.  โหลดไฟล์ ODS ด้วยตัวอย่างสมุดงาน
 1.  แปลง ODS เป็น CSV โดยเรียกวิธี Workbook.save
+1.  รับผลการแปลงของ ODS เป็น CSV
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python ผ่าน NET เป็นแพลตฟอร์มที่ไม่ขึ้นกับ API และสามารถใช้ได้บนทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}ไฟล์ที่มีนามสกุล .ods หมายถึงรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS สามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}ไฟล์ที่มีนามสกุล .csv (ค่าที่คั่นด้วยเครื่องหมายจุลภาค) แสดงถึงไฟล์ข้อความธรรมดาที่มีบันทึกข้อมูลที่มีค่าที่คั่นด้วยเครื่องหมายจุลภาค แต่ละบรรทัดในไฟล์ CSV คือเรกคอร์ดใหม่จากชุดเรกคอร์ดที่มีอยู่ในไฟล์ ไฟล์ดังกล่าวถูกสร้างขึ้นเมื่อมีจุดประสงค์ในการถ่ายโอนข้อมูลจากระบบจัดเก็บข้อมูลหนึ่งไปยังอีกระบบหนึ่ง เนื่องจากแอปพลิเคชันทั้งหมดสามารถรับรู้ระเบียนที่คั่นด้วยเครื่องหมายจุลภาค การนำเข้าไฟล์ข้อมูลดังกล่าวไปยังฐานข้อมูลจึงทำได้สะดวกมาก แอปพลิเคชันสเปรดชีตเกือบทั้งหมด เช่น Microsoft Excel หรือ OpenOffice Calc สามารถนำเข้า CSV ได้โดยไม่ต้องใช้ความพยายามมากนัก ข้อมูลที่นำเข้าจากไฟล์ดังกล่าวจะถูกจัดเรียงในเซลล์ของสเปรดชีตเพื่อนำเสนอต่อผู้ใช้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง ODS เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
 

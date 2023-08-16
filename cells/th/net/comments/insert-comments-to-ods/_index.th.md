@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Cells
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ไฟล์ที่มีนามสกุล .ods หมายถึงรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่น ๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS สามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ
+ไฟล์ที่มีนามสกุล .ods หมายถึงรูปแบบเอกสารสเปรดชีต OpenDocument ที่ผู้ใช้สามารถแก้ไขได้ ข้อมูลจะถูกเก็บไว้ในไฟล์ ODF เป็นแถวและคอลัมน์ เป็นรูปแบบที่ใช้ XML และเป็นหนึ่งในประเภทย่อยหลายประเภทในตระกูล Open Document Formats (ODF) รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS แอปพลิเคชั่นจำนวนหนึ่งบน Windows รวมถึงระบบปฏิบัติการอื่นๆ สามารถเปิดไฟล์ ODS เพื่อแก้ไขและจัดการ รวมถึง Microsoft Excel, NeoOffice และ LibreOffice ไฟล์ ODS สามารถแปลงเป็นรูปแบบสเปรดชีตอื่น ๆ เช่น XLS, XLSX และอื่น ๆ โดยแอปพลิเคชันต่างๆ
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -28,7 +28,7 @@ description: ซอร์สโค้ด C# ที่อธิบายวิธ
 
 {{% blocks/products/pf/feature-page-section h2="แยกแผ่นงาน Excel ออกเป็นบานหน้าต่าง" %}}
 
- สำหรับการแบ่งหน้าต่างแผ่นงานออกเป็นบานหน้าต่าง API จัดเตรียมไว้ให้[วิธีการแยก](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) ของคลาสแผ่นงาน ที่ให้มุมมองแยกของแผ่นงาน หากต้องการลบมุมมองแยก API จัดให้[วิธี RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . สุดท้ายบันทึกลงในเส้นทางที่ระบุ
+ สำหรับการแบ่งหน้าต่างแผ่นงานออกเป็นบานหน้าต่าง API จัดเตรียมไว้ให้[วิธีการแยก](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)ของคลาสแผ่นงาน ที่ให้มุมมองแยกของแผ่นงาน หากต้องการลบมุมมองแยก API จัดให้[วิธี RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . สุดท้ายบันทึกลงในเส้นทางที่ระบุ
 
 {{% blocks/products/pf/feature-page-code h3="C# รหัสเพื่อแยกหน้าต่างแผ่นงาน Excel" %}}
 

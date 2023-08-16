@@ -73,7 +73,7 @@ O código de exemplo abaixo demonstra como inserir uma "seta para a direita". Pa
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
- Visão geral dos tipos de seta de bloqueio
+ Visão geral dos tipos de seta de bloco
    </h2>
    <div class="col-lg-4">
     <img src="/cells/net/shapes/insert-block-arrows-to-excel/arrow_right.png" align="left" width="28" height="28">

@@ -107,7 +107,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Baixe o arquivo XLTM do link, se necessário" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-extensão de arquivo XLTM representa arquivos gerados pelo Excel Microsoft como arquivos de modelo habilitados para macro. Os arquivos XLTM são semelhantes a XLTX na estrutura, exceto que o último não suporta a criação de arquivos de modelo com macros. Esses arquivos de modelo são usados para gerar e definir o layout, a formatação e outras configurações junto com as macros para facilitar a criação de arquivos XLSX semelhantes.
+A extensão de arquivo XLTM representa arquivos gerados pelo Excel Microsoft como arquivos de modelo habilitados para macro. Os arquivos XLTM são semelhantes a XLTX na estrutura, exceto que o último não suporta a criação de arquivos de modelo com macros. Esses arquivos de modelo são usados para gerar e definir o layout, a formatação e outras configurações junto com as macros para facilitar a criação de arquivos XLSX semelhantes.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

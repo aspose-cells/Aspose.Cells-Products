@@ -1,7 +1,7 @@
 ---
-title: Converter TXT para XLTX Python via Python
-description: Converta TXT em XLTX online gratuitamente. Conversor Online Grátis TXT para XLTX. Python TXT a XLTX. TXT a XLTX via Python.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+title: Python TXT para XLTX - Online TXT para XLTX Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter TXT para XLTX saveformat. Python TXT a XLTX formato. Salve TXT a XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XLTX saveformat., Free Online TXT to XLTX Python., Python Convert TXT to XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter TXT para XLTX em Python" h2="Biblioteca Python de alta velocidade para converter TXT em XLTX. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="Salve TXT a XLTX em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter TXT em XLTX em Python via NET.
+exemplo a seguir demonstra como converter TXT em XLTX em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter TXT em XLTX. Carregue seu arquivo TXT e salve-o como arquivo XLTX. Tanto para a leitura TXT quanto para a escrita XLTX, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída XLTX serão idênticos ao documento TXT original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter TXT em XLTX. Carregue seu arquivo TXT e sa
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter TXT em XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter TXT em XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter TXT para XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter TXT em XLTX em apenas algumas linhas de código.
+Precisa converter arquivos TXT para XLTX programaticamente? Os desenvolvedores Python podem facilmente carregar e converter TXT em XLTX em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo TXT com uma instância da pasta de trabalho
-1.  Converta TXT em XLTX chamando o método Workbook.save
+1.  Carregue o arquivo TXT com uma instância de Workbook.
+1.  Converta TXT em XLTX chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de TXT para XLTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Um arquivo com extensão 0,TXT representa um documento de texto que contém texto simples na forma de linhas. Os parágrafos em um documento de texto são reconhecidos por retornos de carro e são usados para melhor organização do conteúdo do arquivo. Um documento de texto padrão pode ser aberto em qualquer editor de texto ou aplicativo de processamento de texto em diferentes sistemas operacionais. Todo o texto contido em tal arquivo está em formato legível por humanos e representado por uma sequência de caracteres.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Arquivos com extensão .xltx representam arquivos de modelo Excel Microsoft baseados nas especificações de formato de arquivo OpenXML do Office. Ele é usado para criar um arquivo de modelo padrão que pode ser utilizado para gerar arquivos XLSX que exibem as mesmas configurações especificadas no arquivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter TXT para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

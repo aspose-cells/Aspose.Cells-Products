@@ -1,5 +1,5 @@
 ---
-title:  Exibir ou editar ODS Metadados de arquivos via .NET
+title:  Visualizar ou editar ODS Metadados de arquivos via .NET
 weight: 320
 description: C# código-fonte para editar ou visualizar metadados de formato ODS em .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
@@ -56,7 +56,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
 -  Ambiente de desenvolvimento como Microsoft Visual Studio.
 -  Adicione referência à DLL Aspose.Cells for .NET em seu projeto.
 

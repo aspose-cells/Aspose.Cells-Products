@@ -1,5 +1,5 @@
 ---
-title:  ป้องกันและล็อค XLSX เอกสาร via .NET
+title: ป้องกันและล็อค XLSX เอกสาร via .NET
 weight: 90
 description: ซอร์สโค้ด C# เพื่อล็อคไฟล์ XLSX โดยใช้รหัสผ่านบน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
 ---

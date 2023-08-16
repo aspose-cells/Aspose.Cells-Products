@@ -1,6 +1,6 @@
 ---
 title: Crie gráficos de pizza via Python
-description: Python Código de amostra para criar gráficos de pizza para Excel usando a Biblioteca Python. Use este código para criar um gráfico de pizza para o MS Excel no aplicativo baseado em Python.
+description: Python Exemplo de código para criar gráficos de pizza para Excel usando a Biblioteca Python. Use este código para criar um gráfico de pizza para o MS Excel no aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

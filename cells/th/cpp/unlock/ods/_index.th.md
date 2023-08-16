@@ -121,7 +121,7 @@ workbook->Save(outDir->StringAppend(new String("sampleExcelFileUnprotected_out.o
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการปลดล็อคอื่น ๆ ที่รองรับ" subTitle="การใช้ C++ สามารถลบการป้องกัน / ปลดล็อครูปแบบต่าง ๆ ได้อย่างง่ายดายรวมถึง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการปลดล็อกอื่น ๆ ที่รองรับ" subTitle="การใช้ C++ สามารถลบการป้องกัน / ปลดล็อครูปแบบต่าง ๆ ได้อย่างง่ายดายรวมถึง" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}

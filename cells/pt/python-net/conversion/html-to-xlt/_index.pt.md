@@ -1,7 +1,7 @@
 ---
-title: Converter HTML para XLT Python via Python
-description: Converta HTML em XLT online gratuitamente. Conversor Online Grátis HTML para XLT. Python HTML a XLT. HTML a XLT via Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML para XLT - Online HTML para XLT Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter HTML para XLT saveformat. Python HTML a XLT formato. Salve HTML a XLT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to XLT saveformat., Free Online HTML to XLT Python., Python Convert HTML to XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter HTML para XLT em Python" h2="Biblioteca Python de alta velocidade para converter HTML em XLT. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Salve HTML a XLT em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter HTML em XLT em Python via NET.
+exemplo a seguir demonstra como converter HTML em XLT em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter HTML em XLT. Carregue seu arquivo HTML e salve-o como arquivo XLT. Tanto para a leitura HTML quanto para a escrita XLT, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída XLT serão idênticos ao documento HTML original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter HTML em XLT. Carregue seu arquivo HTML e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter HTML em XLT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter HTML em XLT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter HTML para XLT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter HTML em XLT em apenas algumas linhas de código.
+Precisa converter arquivos HTML para XLT programaticamente? Os desenvolvedores Python podem facilmente carregar e converter HTML em XLT em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo HTML com uma instância da pasta de trabalho
-1.  Converta HTML em XLT chamando o método Workbook.save
+1.  Carregue o arquivo HTML com uma instância de Workbook.
+1.  Converta HTML em XLT chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de HTML para XLT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas para exibição em navegadores. Conhecido como linguagem da web, o HTML evoluiu com os requisitos de novos requisitos de informação a serem exibidos como parte das páginas da web. A variante mais recente é conhecida como HTML 5, que oferece muita flexibilidade para trabalhar com o idioma. HTML as páginas são recebidas do servidor, onde estão hospedadas, ou também podem ser carregadas do sistema local. Cada página HTML é composta por HTML elementos como formulários, textos, imagens, animações, links, etc. Esses elementos são representados por tags e vários outros onde cada tag tem início e fim. Ele também pode incorporar aplicativos escritos em linguagens de script, como JavaScript e folhas de estilo (CSS) para representação de layout geral.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Arquivos com extensão .xlt são arquivos de modelo criados com Microsoft Excel, que é um aplicativo de planilha que vem como parte do pacote Office Microsoft. Microsoft O Office 97-2003 suportava a criação de novos arquivos XLT, bem como sua abertura. A versão mais recente do Excel ainda é capaz de abrir esses arquivos de modelo de formato antigo. Esse arquivo de modelo é usado para criar rapidamente novos arquivos do Excel com dados e configurações padrão, como formatação de página, tamanho da fonte, margens, gráficos, etc., que podem ser salvos como novos arquivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter HTML para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

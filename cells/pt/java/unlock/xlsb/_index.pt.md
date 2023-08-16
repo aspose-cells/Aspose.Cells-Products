@@ -13,7 +13,7 @@ description: Java código de amostra para desbloquear arquivo protegido por senh
 
  Para desbloquear o arquivo XLSB, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que é uma plataforma de proteção API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
+ API, que é uma plataforma de proteção API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 

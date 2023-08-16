@@ -185,7 +185,7 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>

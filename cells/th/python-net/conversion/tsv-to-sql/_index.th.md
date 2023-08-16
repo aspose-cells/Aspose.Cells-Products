@@ -1,7 +1,7 @@
 ---
-title: แปลง TSV เป็น SQL Python via Python
-description: แปลง TSV เป็น SQL ออนไลน์ฟรี ฟรีออนไลน์ TSV เพื่อ SQL Converter Python TSV ถึง SQL TSV ถึง SQL ผ่าน Python
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV เป็น SQL - ออนไลน์ TSV เป็น SQL Converter
+description: Aspose เก่ง. Python Aspose.Cells Python Aspose Cells ออนไลน์ฟรี Python แปลง TSV เป็น SQL saveformat Python TSV เป็นรูปแบบ SQL บันทึก TSV ไปยัง SQL Python
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to SQL saveformat., Free Online TSV to SQL Python., Python Convert TSV to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง TSV เป็น SQL ใน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการแปลง TSV เป็น SQL ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงและเป็นอิสระจากแพลตฟอร์มใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="แปลง TSV เป็น SQL ใน Python" %}}
 
- วิธีแปลง TSV เป็น SQL ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง TSV เป็น SQL ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
+ ฉันจะแปลง TSV เป็น SQL ได้อย่างไร ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง TSV เป็น SQL ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,13 +28,13 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง TSV เป็น SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง TSV เป็น SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง TSV เป็น SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- นักพัฒนา Python สามารถโหลดและแปลง TSV เป็น SQL ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการแปลงไฟล์ TSV เป็น SQL โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและแปลง TSV เป็น SQL ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,6 +42,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 1.  โหลดไฟล์ TSV ด้วยตัวอย่างสมุดงาน
 1.  แปลง TSV เป็น SQL โดยเรียกวิธี Workbook.save
+1.  รับผลการแปลง TSV เป็น SQL
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python ผ่าน NET เป็นแพลตฟอร์มที่ไม่ขึ้นกับ API และสามารถใช้ได้บนทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}รูปแบบไฟล์ค่าที่คั่นด้วยแท็บ (TSV) แสดงข้อมูลที่คั่นด้วยแท็บในรูปแบบข้อความธรรมดา รูปแบบไฟล์คล้ายกับ CSV ใช้สำหรับการจัดระเบียบข้อมูลในลักษณะที่มีโครงสร้างเพื่อนำเข้าและส่งออกระหว่างแอปพลิเคชันต่างๆ รูปแบบนี้ใช้สำหรับนำเข้า/ส่งออกและแลกเปลี่ยนข้อมูลในแอปพลิเคชันสเปรดชีตและฐานข้อมูลเป็นหลัก แต่ละเร็กคอร์ดในไฟล์ TSV มีอยู่ในไฟล์ข้อความบรรทัดเดียว โดยแต่ละค่าของฟิลด์จะถูกคั่นด้วยอักขระแท็บ ชนิดสื่อสำหรับรูปแบบไฟล์ TSV คือค่าคั่นด้วยข้อความ/แท็บ{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}ไฟล์ที่มีนามสกุล .sql คือไฟล์ Structured Query Language (SQL) ที่มีโค้ดสำหรับทำงานกับฐานข้อมูลเชิงสัมพันธ์ ใช้เพื่อเขียนคำสั่ง SQL สำหรับการดำเนินการ CRUD (สร้าง อ่าน อัปเดต และลบ) บนฐานข้อมูล ไฟล์ SQL เป็นเรื่องปกติในขณะที่ทำงานกับเดสก์ท็อปและฐานข้อมูลบนเว็บ มีทางเลือกมากมายสำหรับ SQL เช่น Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL และอื่นๆ อีกมากมาย ไฟล์ SQL สามารถเปิดได้โดยตัวแก้ไขแบบสอบถามของ Microsoft SQL Server, MySQL และตัวแก้ไขข้อความธรรมดาอื่นๆ เช่น Notepad บนระบบปฏิบัติการ Windows{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง TSV เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
 

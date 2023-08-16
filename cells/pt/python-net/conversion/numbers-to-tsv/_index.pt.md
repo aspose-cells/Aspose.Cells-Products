@@ -1,7 +1,7 @@
 ---
-title: Converter NÚMEROS para TSV Python via Python
-description: Converta NÚMEROS para TSV Online gratuitamente. Conversor de NÚMEROS online grátis para TSV. Python NÚMEROS para TSV. NÚMEROS para TSV via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NÚMEROS para TSV - Conversor de NÚMEROS Online para TSV
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Grátis Online Python Converter NÚMEROS para TSV saveformat. Python NÚMEROS para o formato TSV. Salve NÚMEROS para TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to TSV saveformat., Free Online NUMBERS to TSV Python., Python Convert NUMBERS to TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter NÚMEROS para TSV em Python" h2="Biblioteca Python de alta velocidade para converter NÚMEROS em TSV. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Converter NÚMEROS para TSV em Python" %}}
 
- Como converter NÚMEROS para TSV? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter NUMBERS para TSV programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter NÚMEROS para TSV? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter NUMBERS para TSV programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter NUMBERS para TSV. Carregue seu arquivo NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter NUMBERS para TSV online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter NUMBERS para TSV online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter NÚMEROS para TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Os desenvolvedores Python podem facilmente carregar e converter NUMBERS para TSV em apenas algumas linhas de código.
+Precisa converter arquivos NUMBERS para TSV programaticamente? Python desenvolvedores podem facilmente carregar e converter NUMBERS para TSV em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregar o arquivo NUMBERS com uma instância da pasta de trabalho
-1.  Converta NUMBERS para TSV chamando o método Workbook.save
+1.  Carregue o arquivo NUMBERS com uma instância do Workbook.
+1.  Converta NUMBERS para TSV chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de NUMBERS para TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Os arquivos com extensão .numbers são classificados como arquivos do tipo planilha, por isso são semelhantes aos arquivos .xlsx; mas os arquivos Numbers são criados usando o software de planilha Apple iWork Numbers. O Apple iWork Numbers é um software de unidade do iWork Productivity Suite. O iWork Productivity Suite é equivalente ao Microsoft Office Suite usado em PCs Windows. Assim, podemos dizer que o Numbers que está disponível para MacOS também é um concorrente do Microsoft Excel. Da mesma forma, Microsoft Excel, o arquivo NUMBERS também pode conter as tabelas, gráficos e fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Um formato de arquivo de valores separados por tabulações (TSV) representa dados separados por tabulações em formato de texto simples. O formato de arquivo, semelhante ao CSV, é utilizado para organização dos dados de forma estruturada para importação e exportação entre diferentes aplicações. O formato é usado principalmente para importação/exportação de dados e troca em aplicativos de planilhas e bancos de dados. Cada registro em um arquivo TSV está contido em uma única linha de arquivo de texto onde cada valor de campo é separado por um caractere de tabulação. O tipo de mídia para o formato de arquivo TSV é valores separados por tabulação/texto.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter NUMBERS em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

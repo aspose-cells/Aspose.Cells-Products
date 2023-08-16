@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง JSON เป็น Excel และ Excel เป็น JSON" %}}
- ข้อมูล JSON สามารถนำเข้าอินสแตนซ์ของ[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) ชั้นด้วยความช่วยเหลือของ[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน[ใบงาน](https://reference.aspose.com/cells/net/aspose.cells/worksheet) ข้อมูลสามารถส่งออกเป็น JSON โดยสร้างไฟล์[พิสัย](https://reference.aspose.com/cells/net/aspose.cells/range) หรือเซลล์และโทร[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) วิธี.
+ ข้อมูล JSON สามารถนำเข้าอินสแตนซ์ของ[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) ชั้นด้วยความช่วยเหลือของ[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)สำหรับการประมวลผลเพิ่มเติมหรือการแปลงอย่างง่ายเป็นรูปแบบที่รองรับ ในทำนองเดียวกัน[ใบงาน](https://reference.aspose.com/cells/net/aspose.cells/worksheet) ข้อมูลสามารถส่งออกเป็น JSON โดยสร้างไฟล์[พิสัย](https://reference.aspose.com/cells/net/aspose.cells/range) หรือเซลล์และโทร[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) วิธี.
 {{% blocks/products/pf/feature-page-code h3="รหัส C# สำหรับการแปลง JSON เป็น Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น Word & PowerPoint" %}}
- เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) ชั้นเรียนที่แสดงด้านล่าง
+ เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)ชั้นเรียนที่แสดงด้านล่าง
 {{% blocks/products/pf/feature-page-code h3="รหัส C# สำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
 // load the template file

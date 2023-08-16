@@ -4,7 +4,7 @@ weight: 7730
 description: Crie aplicativos de manipulação de arquivos do Excel usando APIs de código alto ou baixo ou aplicativos sem código para visualizar, comparar, inspecionar ou converter arquivos do Excel.
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Solução de Formato de Arquivo Excel" h2="Aproveite os relatórios escalonáveis, gráficos abrangentes e cálculos confiáveis - sem depender do Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Família de produtos" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Microsoft Solução de Formato de Arquivo Excel" h2="Aproveite os relatórios escaláveis, gráficos abrangentes e cálculos confiáveis - sem depender do Microsoft Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/headers/aspose_cells-brand.svg" imageAlt="Aspose.Cells Família de produtos" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Cells APIs de código alto incluem" >}}
@@ -50,7 +50,7 @@ Converta facilmente arquivos Microsoft Excel para PDF, HTML, imagens e muitos ou
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadados" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Basta carregar seu arquivo Excel Microsoft para visualizar ou editar os metadados da planilha em qualquer navegador. Nenhuma instalação ou ferramentas adicionais necessárias.
+ Basta carregar seu arquivo Excel Microsoft para visualizar ou editar os metadados da planilha em qualquer navegador. Nenhuma instalação ou ferramentas adicionais necessárias.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Visualizador" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Visualize arquivos de planilhas, incluindo XLS, XLSX, XLSM, XLSB e ODS em seu na
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- O conjunto de produtos e o suporte Aspose são incomparáveis. Não poderíamos ter feito o que fizemos sem esta solução.
+ conjunto de produtos e o suporte Aspose são incomparáveis. Não poderíamos ter feito o que fizemos sem esta solução.
  <em>
  Dr. Dan Patterson | Perspicácia, Reino Unido
  </em>

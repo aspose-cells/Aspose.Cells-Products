@@ -12,7 +12,7 @@ description: Python biblioteca de planilhas para criar leitura, gravação e an�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios do Excel usando python.
+Aspose.Cells for Python via Java é um API rápido e confiável para tarefas de processamento de planilhas. Os desenvolvedores podem criar planilhas simples ou complexas, manipular e extrair informações de arquivos Excel. API lê vários formatos Excel e pode renderizar planilhas para XPS, PDF, MHTML, HTML, texto simples, imagens e muito mais. É a melhor solução para automatizar relatórios do Excel usando python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -185,7 +185,7 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>
@@ -419,7 +419,7 @@ Avançado Python Excel API Recursos
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salvar planilha em diversos formatos - Java
+Salvar planilha em diversos formatos - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opções de exibição flexíveis
     </h2>
     <p>
-Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como quebras de página de visualização, definir o nível de zoom, definir a orientação da página, controlar a visibilidade dos dados com painéis congelados, tamanho do papel, dimensionamento, cabeçalhos e gráficos. rodapés e área de impressão.
+ Aspose.Cells for Python via Java fornece controle total sobre a configuração da página, permitindo manipular várias opções de exibição, como quebras de página de visualização, definir o nível de zoom, definir a orientação da página, controlar a visibilidade dos dados com painéis congelados, tamanho do papel, dimensionamento, cabeçalhos e gráficos. rodapés e área de impressão.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java fornece controle total sobre a configuração d
  Personalização de Gráficos
     </h2>
     <p>
- Aspose.Cells for Python via Java fornece suporte completo para gráficos. Pode-se facilmente adicionar gráficos padrão e personalizados ou definir dinamicamente os dados do gráfico para atualizar o gráfico nesta biblioteca python.
+Aspose.Cells for Python via Java fornece suporte completo para gráficos. Pode-se facilmente adicionar gráficos padrão e personalizados ou definir dinamicamente os dados do gráfico para atualizar o gráfico nesta biblioteca python.
     </p>
    </div>
    <!--

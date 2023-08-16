@@ -13,7 +13,7 @@ description: ซอร์สโค้ด C# เพื่อแยกเอกส
 
  ในการแยกไฟล์ XLSB เราจะใช้
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API ซึ่งเป็นการจัดการและแยกเอกสารที่มีฟีเจอร์หลากหลาย ทรงพลังและใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
+ API ซึ่งเป็นการจัดการและแยกเอกสารที่มีฟีเจอร์หลากหลาย ทรงพลังและใช้งานง่าย API สำหรับแพลตฟอร์ม C# เปิด
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  ผู้จัดการแพ็คเกจ ค้นหา
  Aspose.Cells 

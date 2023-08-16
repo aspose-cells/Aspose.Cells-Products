@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องโหลดครับ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLSX ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}
- XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ซึ่งเปิดตัวโดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ตามที่ระบุไว้ในส่วนที่ 2 ของ OOXML มาตรฐาน ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างพื้นฐานและไฟล์ได้โดยการแตกไฟล์ .xlsx
+ XLSX เป็นรูปแบบที่รู้จักกันดีสำหรับเอกสาร Excel Microsoft ซึ่งเปิดตัวโดย Microsoft พร้อมกับการเปิดตัว Microsoft Office 2007 ตามโครงสร้างที่จัดตาม Open Packaging Conventions ตามที่ระบุไว้ในส่วนที่ 2 ของ OOXML มาตรฐาน ECMA-376 รูปแบบใหม่คือ แพ็คเกจ zip ที่มีไฟล์ XML จำนวนหนึ่ง สามารถตรวจสอบโครงสร้างพื้นฐานและไฟล์ได้โดยการคลายซิปไฟล์ .xlsx
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

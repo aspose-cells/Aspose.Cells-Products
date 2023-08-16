@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องโหลดครับ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ MHTML ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-ไฟล์ที่มีนามสกุล MHTML แสดงถึงรูปแบบไฟล์เก็บถาวรของเว็บเพจที่แอปพลิเคชันต่างๆ สามารถสร้างได้ รูปแบบนี้เรียกว่ารูปแบบไฟล์เก็บถาวร เนื่องจากบันทึกรหัสเว็บ HTML และทรัพยากรที่เกี่ยวข้องไว้ในไฟล์เดียว ทรัพยากรเหล่านี้รวมถึงสิ่งใดก็ตามที่เชื่อมโยงกับเว็บเพจ เช่น รูปภาพ แอปเพล็ต ภาพเคลื่อนไหว ไฟล์เสียง และอื่นๆ ไฟล์ MHTML สามารถเปิดได้ในแอพพลิเคชั่นที่หลากหลาย เช่น Internet Explorer และ Microsoft Word Microsoft Windows ใช้รูปแบบไฟล์ MHTML สำหรับการบันทึกสถานการณ์จำลองของปัญหาที่เกิดขึ้นระหว่างการใช้งานแอปพลิเคชันใดๆ บน Windows ที่ทำให้เกิดปัญหา รูปแบบไฟล์ MHTML เข้ารหัสเนื้อหาของหน้าคล้ายกับข้อกำหนดที่กำหนดไว้ใน message/rfc822 ซึ่งเป็นข้อกำหนดเกี่ยวกับอีเมลข้อความธรรมดา ข้อกำหนดจริงของรูปแบบมีรายละเอียดตาม RFC 2557
+ไฟล์ที่มีนามสกุล MHTML แสดงถึงรูปแบบไฟล์เก็บถาวรของเว็บเพจที่แอปพลิเคชันต่างๆ สามารถสร้างได้ รูปแบบนี้เรียกว่ารูปแบบไฟล์เก็บถาวร เนื่องจากบันทึกรหัสเว็บ HTML และทรัพยากรที่เกี่ยวข้องไว้ในไฟล์เดียว ทรัพยากรเหล่านี้รวมถึงสิ่งใดก็ตามที่เชื่อมโยงกับเว็บเพจ เช่น รูปภาพ แอปเพล็ต ภาพเคลื่อนไหว ไฟล์เสียง และอื่นๆ ไฟล์ MHTML สามารถเปิดได้ในแอพพลิเคชั่นที่หลากหลาย เช่น Internet Explorer และ Microsoft Word Microsoft Windows ใช้รูปแบบไฟล์ MHTML สำหรับบันทึกสถานการณ์จำลองของปัญหาที่เกิดขึ้นระหว่างการใช้งานแอปพลิเคชันใดๆ บน Windows ที่ทำให้เกิดปัญหา รูปแบบไฟล์ MHTML เข้ารหัสเนื้อหาของหน้าคล้ายกับข้อกำหนดที่กำหนดไว้ใน message/rfc822 ซึ่งเป็นข้อกำหนดเกี่ยวกับอีเมลข้อความธรรมดา ข้อกำหนดจริงของรูปแบบมีรายละเอียดตาม RFC 2557
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

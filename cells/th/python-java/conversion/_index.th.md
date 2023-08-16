@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Excel เป็น Word & PowerPoint" %}}
- เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) ชั้นเรียนที่แสดงด้านล่าง
+ เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)ชั้นเรียนที่แสดงด้านล่าง
 {{% blocks/products/pf/feature-page-code h3="รหัส Python สำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
 // load the template file

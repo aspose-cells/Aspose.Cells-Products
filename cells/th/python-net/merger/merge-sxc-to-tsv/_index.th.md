@@ -1,7 +1,8 @@
 ---
-title:  รวม SXC ถึง TSV ผ่าน Python
+title: รวม SXC ถึง TSV - รวม SXC ถึง TSV เป็น Python
 url: /th/python-net/merger/merge-sxc-to-tsv/ 
-description: รวม SXC ถึง TSV ออนไลน์ฟรี ออนไลน์ฟรี SXC ถึง TSV การควบรวมกิจการ รวม SXC เป็น Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. Python Aspose.Cells. รวมออนไลน์ฟรี SXC ถึง TSV saveformat. Python รวมรูปแบบ SXC ถึง TSV รวม SXC ถึง TSV ใน Python SXC รวม
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to TSV in Python., Free Online Python Merge SXC to tsv., Python Combine SXC to TSV Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม SXC ถึง TSV ผ่าน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการรวม SXC ถึง TSV ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: รวม SXC ถึง TSV ออนไลน์ฟรี ออ�
 
 {{% blocks/products/pf/agp/content h2="รวม SXC ถึง TSV โดยใช้ Python" %}}
 
- จะรวม SXC เป็น TSV ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python คุณสามารถรวม SXC ถึง TSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells-python</code>.
+ ฉันจะรวม SXC เป็น TSV ได้อย่างไร ด้วยไลบรารี Aspose.Cells for Python via .NET คุณสามารถรวม SXC ถึง TSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถติดตั้ง Aspose.Cells for Python via .NET จาก<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="รวม SXC ถึง TSV ใน Python ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการรวม SXC ถึง TSV ใน Python
+ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน SXC ถึง TSV ใน Aspose.Cells for Python via .NET
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อผสาน SXC ถึง TSV อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine สำหรับการผสานไฟล์ จากนั้นบันทึกลงในไฟล์ TSV หากคุณพัฒนาโค้ดใน Python สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง Python ที่รวม SXC ถึง TSV
@@ -27,16 +28,18 @@ description: รวม SXC ถึง TSV ออนไลน์ฟรี ออ�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีที่จะรวม SXC ถึง TSV ออนไลน์" InputFormat="sxc" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม SXC ถึง TSV ใน Python" InputFormat="sxc" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีผสาน SXC ถึง TSV ผ่าน Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ ต้องการรวม SXC ถึง TSV โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for Python via .NET'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 + โหลดไฟล์ SXC พร้อมคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -53,7 +56,7 @@ description: รวม SXC ถึง TSV ออนไลน์ฟรี ออ�
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}รูปแบบไฟล์ SXC(Sun XML Calc) เป็นของชุดสำนักงานที่ชื่อว่า OpenOffice.org โดยทั่วไปรูปแบบนี้เกี่ยวข้องกับความต้องการสเปรดชีตของผู้ใช้เนื่องจากเป็นรูปแบบไฟล์สเปรดชีตที่ใช้ XML รูปแบบ SXC รองรับสูตร ฟังก์ชัน มาโคร และแผนภูมิพร้อมกับ DataPilot ซึ่งเป็นคุณสมบัติที่น่าทึ่งเพราะจะปรับให้เป็นรายบุคคลโดยอัตโนมัติและให้ข้อมูลสรุปที่นำเข้าดิบ ไฟล์ที่สร้างด้วยซอฟต์แวร์นี้จะถูกบันทึกด้วยนามสกุล .sxc{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}รูปแบบไฟล์ค่าที่คั่นด้วยแท็บ (TSV) แสดงข้อมูลที่คั่นด้วยแท็บในรูปแบบข้อความธรรมดา รูปแบบไฟล์คล้ายกับ CSV ใช้สำหรับการจัดระเบียบข้อมูลในลักษณะที่มีโครงสร้างเพื่อนำเข้าและส่งออกระหว่างแอปพลิเคชันต่างๆ รูปแบบนี้ใช้สำหรับนำเข้า/ส่งออกและแลกเปลี่ยนข้อมูลในแอปพลิเคชันสเปรดชีตและฐานข้อมูลเป็นหลัก แต่ละเร็กคอร์ดในไฟล์ TSV มีอยู่ในไฟล์ข้อความบรรทัดเดียว โดยแต่ละค่าของฟิลด์จะถูกคั่นด้วยอักขระแท็บ ชนิดสื่อสำหรับรูปแบบไฟล์ TSV คือค่าคั่นด้วยข้อความ/แท็บ{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ Python เราสามารถรวม sxc เป็นรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-docx/" name="รวม SXC ถึง DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-sql/" name="รวม SXC กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-bmp/" name="รวม SXC ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-emf/" name="รวม SXC ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-gif/" name="รวม SXC ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="รวม SXC ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-md/" name="รวม SXC ถึง นพ" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="รวม SXC ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="รวม SXC ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-pdf/" name="รวม SXC ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-png/" name="รวม SXC ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-svg/" name="รวม SXC ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tiff/" name="รวม SXC ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="รวม SXC ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="รวม SXC ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="รวม SXC ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="รวม SXC ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="รวม SXC ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="รวม SXC ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="รวม SXC ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="รวม SXC ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="รวม SXC ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xml/" name="รวม SXC เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xps/" name="รวม SXC ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-json/" name="รวม SXC ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-jpeg/" name="รวม SXC ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  รวม XLT เป็น POWERPOINT ผ่าน C++
+title: รวม XLT เป็น POWERPOINT - รวม XLT เป็น POWERPOINT ใน C++
 url: /th/cpp/merger/merge-xlt-to-powerpoint/ 
-description: รวม XLT เข้ากับ POWERPOINT ออนไลน์ฟรี ออนไลน์ฟรี XLT ถึง POWERPOINT Merger รวม XLT เป็น Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. C++ Aspose.Cells รวมออนไลน์ฟรี XLT เป็นรูปแบบบันทึก POWERPOINT C++ รวม XLT เป็นรูปแบบ POWERPOINT รวม XLT เข้ากับ POWERPOINT ใน C++ XLT ผสาน
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLT to POWERPOINT in C++., Free Online C++ Merge XLT to powerpoint., C++ Combine XLT to POWERPOINT Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม XLT เป็น POWERPOINT ผ่าน C++" h2="ไลบรารี C++ ความเร็วสูงสำหรับการรวม XLT เข้ากับ POWERPOINT ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน C++ ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: รวม XLT เข้ากับ POWERPOINT ออนไลน�
 
 {{% blocks/products/pf/agp/content h2="รวม XLT เข้ากับ POWERPOINT โดยใช้ C++" %}}
 
- จะรวม XLT เข้ากับ POWERPOINT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม XLT เข้ากับ POWERPOINT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดสองสามบรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะรวม XLT เข้ากับ POWERPOINT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม XLT เข้ากับ POWERPOINT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดสองสามบรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="รวม XLT เป็น POWERPOINT ใน C++ ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน XLT กับ POWERPOINT ใน C++
+ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน XLT กับ POWERPOINT ใน Aspose.Cells for C++
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อรวม XLT เข้ากับ POWERPOINT อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine เพื่อผสานไฟล์ จากนั้นบันทึกเป็นไฟล์ POWERPOINT หากคุณพัฒนาโค้ดใน C++ สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง C++ ที่ผสาน XLT เข้ากับ POWERPOINT
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีที่จะรวม XLT เข้ากับ POWERPOINT ในบรรทัด" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม XLT เป็น POWERPOINT ใน C++" InputFormat="xlt" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีรวม XLT เป็น POWERPOINT ผ่าน C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ ต้องการรวม XLT เข้ากับ POWERPOINT โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for C++'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
 + โหลดไฟล์ XLT พร้อมคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}ไฟล์ที่มีนามสกุล .xlt เป็นไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลและการตั้งค่าเริ่มต้น เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ .xls ใหม่ได้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}ไฟล์ที่มีนามสกุล PPTX คือไฟล์งานนำเสนอที่สร้างด้วยแอพพลิเคชั่นยอดนิยม Microsoft PowerPoint ซึ่งแตกต่างจากรูปแบบไฟล์งานนำเสนอ PPT เวอร์ชันก่อนหน้าซึ่งเป็นรูปแบบไบนารี รูปแบบ PPTX ยึดตามรูปแบบไฟล์การนำเสนอ XML แบบเปิด Microsoft PowerPoint ไฟล์งานนำเสนอคือชุดของสไลด์ ซึ่งแต่ละสไลด์สามารถประกอบด้วยข้อความ รูปภาพ การจัดรูปแบบ ภาพเคลื่อนไหว และสื่ออื่นๆ สไลด์เหล่านี้นำเสนอต่อผู้ชมในรูปแบบของสไลด์โชว์พร้อมการตั้งค่าการนำเสนอแบบกำหนดเอง{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C++ เราสามารถรวม xlt เป็นรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-docx/" name="รวม XLT ถึง DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-sql/" name="รวม XLT กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-bmp/" name="รวม XLT ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-emf/" name="รวม XLT ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-gif/" name="รวม XLT ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-html/" name="รวม XLT ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-md/" name="รวม XLT ถึง นพ" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-mhtml/" name="รวม XLT ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-ods/" name="รวม XLT ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-pdf/" name="รวม XLT ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-png/" name="รวม XLT ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-svg/" name="รวม XLT ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-tiff/" name="รวม XLT ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-tsv/" name="รวม XLT ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-txt/" name="รวม XLT ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xls/" name="รวม XLT ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsb/" name="รวม XLT ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsm/" name="รวม XLT ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlsx/" name="รวม XLT ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xlt/" name="รวม XLT ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xltm/" name="รวม XLT ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xltx/" name="รวม XLT ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xml/" name="รวม XLT เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-xps/" name="รวม XLT ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-json/" name="รวม XLT ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlt-to-jpeg/" name="รวม XLT ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

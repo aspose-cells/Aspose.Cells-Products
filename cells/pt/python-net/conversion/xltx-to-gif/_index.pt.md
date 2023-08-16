@@ -1,7 +1,7 @@
 ---
-title: Converter XLTX para GIF Python via Python
-description: Converta XLTX em GIF online gratuitamente. Conversor Online Grátis XLTX para GIF. Python XLTX a GIF. XLTX a GIF via Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+title: Python XLTX para GIF - Online XLTX para GIF Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter XLTX para GIF saveformat. Python XLTX a GIF formato. Salve XLTX a GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to GIF saveformat., Free Online XLTX to GIF Python., Python Convert XLTX to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter XLTX para GIF em Python" h2="Biblioteca Python de alta velocidade para converter XLTX em GIF. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Salve XLTX a GIF em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter XLTX em GIF em Python via NET.
+exemplo a seguir demonstra como converter XLTX em GIF em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter XLTX em GIF. Carregue seu arquivo XLTX e salve-o como arquivo GIF. Tanto para a leitura XLTX quanto para a escrita GIF, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída GIF serão idênticos ao documento XLTX original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter XLTX em GIF. Carregue seu arquivo XLTX e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XLTX em GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XLTX em GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLTX para GIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter XLTX em GIF em apenas algumas linhas de código.
+Precisa converter arquivos XLTX para GIF programaticamente? Os desenvolvedores Python podem facilmente carregar e converter XLTX em GIF em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo XLTX com uma instância da pasta de trabalho
-1.  Converta XLTX em GIF chamando o método Workbook.save
+1.  Carregue o arquivo XLTX com uma instância de Workbook.
+1.  Converta XLTX em GIF chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de XLTX para GIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Arquivos com extensão .xltx representam arquivos de modelo Excel Microsoft baseados nas especificações de formato de arquivo OpenXML do Office. Ele é usado para criar um arquivo de modelo padrão que pode ser utilizado para gerar arquivos XLSX que exibem as mesmas configurações especificadas no arquivo XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}Um GIF ou Graphical Interchange Format é um tipo de imagem altamente compactada. De propriedade da Unisys, GIF usa o algoritmo de compactação LZW que não degrada a qualidade da imagem. Para cada imagem, GIF normalmente permite até 8 bits por pixel e até 256 cores são permitidas na imagem. Em contraste com uma imagem JPEG, que pode exibir até 16 milhões de cores e toca razoavelmente os limites do olho humano. Quando a internet surgiu, os GIFs continuavam sendo a melhor escolha porque exigiam baixa largura de banda e eram compatíveis com os gráficos que consumiam áreas sólidas de cor. Um GIF animado combina várias imagens ou quadros em um único arquivo e os exibe em uma sequência para gerar um clipe animado ou um pequeno vídeo. As limitações de cores são de até 256 para cada quadro e provavelmente são as menos adequadas para reproduzir outras imagens e fotografias com gradiente de cores.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter XLTX para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

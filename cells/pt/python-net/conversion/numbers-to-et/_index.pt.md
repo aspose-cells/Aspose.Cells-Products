@@ -1,7 +1,7 @@
 ---
-title: Converter NÚMEROS para ET Python via Python
-description: Converta NÚMEROS para ET Online gratuitamente. Conversor de NÚMEROS Online Grátis para ET. Python NÚMEROS para ET. NÚMEROS para ET via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS to ET - Online NUMBERS to ET Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converta NÚMEROS para o formato ET save. Python NÚMEROS para o formato ET. Salve NÚMEROS para ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to ET saveformat., Free Online NUMBERS to ET Python., Python Convert NUMBERS to ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter NÚMEROS para ET em Python" h2="Biblioteca Python de alta velocidade para converter NÚMEROS em ET. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Converter NÚMEROS para ET em Python" %}}
 
- Como converter NÚMEROS para ET? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter NUMBERS para ET programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter NUMBERS para ET? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter NUMBERS para ET programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter NÚMEROS para ET. Carregue seu arquivo NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter NUMBERS para ET online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter NUMBERS para ET online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter NÚMEROS para ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python desenvolvedores podem facilmente carregar e converter NUMBERS para ET em apenas algumas linhas de código.
+Precisa converter arquivos NUMBERS para ET programaticamente? Python desenvolvedores podem facilmente carregar e converter NUMBERS para ET em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregar o arquivo NUMBERS com uma instância da pasta de trabalho
-1.  Converta NUMBERS para ET chamando o método Workbook.save
+1.  Carregue o arquivo NUMBERS com uma instância do Workbook.
+1.  Converta NUMBERS para ET chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de NUMBERS para ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Os arquivos com extensão .numbers são classificados como arquivos do tipo planilha, por isso são semelhantes aos arquivos .xlsx; mas os arquivos Numbers são criados usando o software de planilha Apple iWork Numbers. O Apple iWork Numbers é um software de unidade do iWork Productivity Suite. O iWork Productivity Suite é equivalente ao Microsoft Office Suite usado em PCs Windows. Assim, podemos dizer que o Numbers que está disponível para MacOS também é um concorrente do Microsoft Excel. Da mesma forma, Microsoft Excel, o arquivo NUMBERS também pode conter as tabelas, gráficos e fórmulas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Um arquivo ET é uma aula de ensino criada pelo Easiteach, um programa que permite aos professores desenvolver aulas em sala de aula e entregá-las por meio de uma interface interativa. Ele contém dados da lição, como layouts, navegação, imagens, texto, temas e animações.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter NUMBERS em muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

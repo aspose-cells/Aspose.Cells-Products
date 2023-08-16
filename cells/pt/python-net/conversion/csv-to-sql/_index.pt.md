@@ -1,7 +1,7 @@
 ---
-title: Converter CSV para SQL Python via Python
-description: Converta CSV para SQL Online gratuitamente. Conversor Online Gratuito CSV para SQL. Python CSV para SQL. CSV para SQL via Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV para SQL - Online CSV para SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converta CSV para SQL saveformat. Python CSV para o formato SQL. Salve CSV no SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to SQL saveformat., Free Online CSV to SQL Python., Python Convert CSV to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter CSV para SQL em Python" h2="Biblioteca Python de alta velocidade para converter CSV em SQL. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="Converter CSV para SQL em Python" %}}
 
- Como converter CSV para SQL? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter CSV para SQL programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter CSV para SQL? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter CSV para SQL programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Salve CSV no SQL em Python online gratuitamente" %}}
 
-exemplo a seguir demonstra como converter CSV em SQL em Python via NET.
+O exemplo a seguir demonstra como converter CSV em SQL em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter CSV em SQL. Carregue seu arquivo CSV e simplesmente salve-o como arquivo SQL. Tanto para a leitura CSV quanto para a escrita SQL, você pode usar nomes de arquivos totalmente qualificados. O conteúdo SQL de saída e a formatação serão idênticos ao documento CSV original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter CSV em SQL. Carregue seu arquivo CSV e sim
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter CSV em SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de exemplo para converter CSV em SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter CSV para SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter CSV para SQL em apenas algumas linhas de código.
+Precisa converter arquivos CSV para SQL programaticamente? Os desenvolvedores Python podem facilmente carregar e converter CSV para SQL em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo CSV com uma instância da pasta de trabalho
-1.  Converta CSV em SQL chamando o método Workbook.save
+1.  Carregue o arquivo CSV com uma instância de Workbook.
+1.  Converta CSV em SQL chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de CSV para SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Arquivos com extensão .csv (valores separados por vírgula) representam arquivos de texto simples que contêm registros de dados com valores separados por vírgula. Cada linha em um arquivo CSV é um novo registro do conjunto de registros contidos no arquivo. Esses arquivos são gerados quando a transferência de dados é pretendida de um sistema de armazenamento para outro. Como todos os aplicativos podem reconhecer registros separados por vírgula, a importação desses arquivos de dados para o banco de dados é feita de maneira muito conveniente. Quase todos os aplicativos de planilha, como Microsoft Excel ou OpenOffice Calc, podem importar CSV sem muito esforço. Os dados importados desses arquivos são organizados em células de uma planilha para representação ao usuário.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Um arquivo com extensão .sql é um arquivo de linguagem de consulta estruturada (SQL) que contém código para trabalhar com bancos de dados relacionais. Ele é usado para escrever instruções SQL para operações CRUD (Criar, Ler, Atualizar e Excluir) em bancos de dados. Arquivos SQL são comuns ao trabalhar com desktop, bem como bancos de dados baseados na web. Existem várias alternativas ao SQL, como Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL e vários outros. Os arquivos SQL podem ser abertos por editores de consulta do Microsoft SQL Server, MySQL e outros editores de texto simples, como o Bloco de notas no sistema operacional Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter CSV para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

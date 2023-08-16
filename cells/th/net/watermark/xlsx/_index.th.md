@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  คุณต้องการ
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
+ เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -92,7 +92,7 @@ PM> Install-Package Aspose.Cells
         {{< blocks/products/pf/agp/demobox sectionTitle="ลายน้ำ XLSX ผ่านแอพออนไลน์" sectionDescription=" เพิ่มลายน้ำให้กับเอกสาร XLSX โดยไปที่ของเรา[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/watermark). การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLSX ตั้งค่าลายน้ำและกดปุ่ม \"เพิ่ม\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLSX ตั้งค่าลายน้ำแล้วกดปุ่ม \"เพิ่ม\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" รับลิงก์ดาวน์โหลดไฟล์ผลลัพธ์ทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}

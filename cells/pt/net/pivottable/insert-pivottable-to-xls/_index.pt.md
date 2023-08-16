@@ -1,5 +1,5 @@
 ---
-title: Inserir tabela dinâmica em arquivos do Micorsoft Excel XLS via C#
+title:  Inserir tabela dinâmica em arquivos do Micorsoft Excel XLS via C#
 weight: 7690
 description: C# Código de amostra para gerar documentos XLS com tabela dinâmica. Use este código para criar arquivos Micorsoft Excel XLS com tabela dinâmica em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Código de amostra para gerar documentos XLS com tabela dinâmic
 
 {{% blocks/products/pf/agp/text %}}
 
- É fácil para os desenvolvedores inserir a tabela dinâmica na planilha de formato XLS na execução de diferentes aplicativos de relatórios para processamento de dados em apenas algumas linhas de código.
+É fácil para os desenvolvedores inserir a tabela dinâmica na planilha de formato XLS na execução de diferentes aplicativos de relatórios para processamento de dados em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Código de amostra para gerar documentos XLS com tabela dinâmic
 1.  Acesse a primeira planilha da pasta de trabalho.
 1.  Pegue a(s) célula(s) desejada(s) da planilha e coloque o valor na(s) célula(s).
 1.  Inserir tabela dinâmica e definir o estilo
-1.  Use o método Save para salvar a pasta de trabalho como arquivo XLS.
+1. Use o método Save para salvar a pasta de trabalho como arquivo XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,7 +67,7 @@ Uma biblioteca de programação de planilhas do Excel capaz de criar aplicativos
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criar e ler arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -210,7 +210,7 @@ Aspose.Cells for Java é uma biblioteca madura e rica em recursos, oferecendo mu
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>
@@ -221,7 +221,7 @@ Aspose.Cells for Java é uma biblioteca madura e rica em recursos, oferecendo mu
     </li>
     <li>
      <b>
- Intercâmbio de Dados:
+ Intercâmbio de dados:
      </b>
      DIF
     </li>
@@ -383,7 +383,7 @@ Reamostrar imagens no Excel para conversão PDF
  Salvar arquivos do Excel em diferentes formatos
     </h2>
     <p>
- Excel API oferece conversão de planilhas para PDF, XPS, HTML e mais formatos, mantendo a mais alta fidelidade visual. O processo de conversão confiável e flexível torna o Aspose.Cells uma escolha perfeita para organizações que trocam principalmente arquivos em formatos padrão do setor.
+ Excel API oferece conversão de planilhas para PDF, XPS, HTML e mais formatos, mantendo a mais alta fidelidade visual. O processo de conversão confiável e flexível torna o Aspose.Cells a escolha perfeita para organizações que trocam principalmente arquivos em formatos padrão do setor.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -422,7 +422,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
  Converter gráficos e gráficos Folhas de imagem e amp; PDF Formatos
     </h2>
     <p>
- Aspose.Cells for Java oferece recursos especiais de conversão, como gráficos para imagens e PDF, planilhas para imagens, impressão de planilhas e conversão de planilhas para o formato de arquivo PDF. O processo de conversão é bastante flexível e fácil, permitindo selecionar várias formas de conversão, como a reamostragem de imagens durante a transformação de planilhas para PDF ou o ajuste das dimensões da imagem resultante ao renderizar planilhas e gráficos em imagens.
+ Aspose.Cells for Java oferece recursos especiais de conversão, como gráficos para imagens e PDF, planilhas para imagens, impressão de planilhas e conversão de planilhas para o formato de arquivo PDF. O processo de conversão é bastante flexível e fácil, permitindo selecionar várias maneiras para a conversão, como reamostragem de imagens durante a transformação de planilhas para PDF ou ajuste das dimensões da imagem resultante ao renderizar planilhas e gráficos em imagens.
     </p>
     <div class="codeblock" id="code">
      <h3>

@@ -1,7 +1,7 @@
 ---
-title: Converter XLT para MARKDOWN Python via Python
-description: Converta XLT em MARKDOWN online gratuitamente. Conversor Online Grátis XLT para MARKDOWN. Python XLT a MARKDOWN. XLT a MARKDOWN via Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT para MARKDOWN - Online XLT para MARKDOWN Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter XLT para MARKDOWN saveformat. Python XLT a MARKDOWN formato. Salve XLT a MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to MARKDOWN saveformat., Free Online XLT to MARKDOWN Python., Python Convert XLT to MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter XLT para MARKDOWN em Python" h2="Biblioteca Python de alta velocidade para converter XLT em MARKDOWN. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="Salve XLT a MARKDOWN em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter XLT em MARKDOWN em Python via NET.
+exemplo a seguir demonstra como converter XLT em MARKDOWN em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter XLT em MARKDOWN. Carregue seu arquivo XLT e salve-o como arquivo MARKDOWN. Tanto para a leitura XLT quanto para a escrita MARKDOWN, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída MARKDOWN serão idênticos ao documento XLT original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter XLT em MARKDOWN. Carregue seu arquivo XLT 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XLT em MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter XLT em MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter XLT para MARKDOWN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter XLT em MARKDOWN em apenas algumas linhas de código.
+Precisa converter arquivos XLT para MARKDOWN programaticamente? Os desenvolvedores Python podem facilmente carregar e converter XLT em MARKDOWN em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo XLT com uma instância da pasta de trabalho
-1.  Converta XLT em MARKDOWN chamando o método Workbook.save
+1.  Carregue o arquivo XLT com uma instância de Workbook.
+1.  Converta XLT em MARKDOWN chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de XLT para MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Arquivos com extensão .xlt são arquivos de modelo criados com Microsoft Excel, que é um aplicativo de planilha que vem como parte do pacote Office Microsoft. Microsoft O Office 97-2003 suportava a criação de novos arquivos XLT, bem como sua abertura. A versão mais recente do Excel ainda é capaz de abrir esses arquivos de modelo de formato antigo. Esse arquivo de modelo é usado para criar rapidamente novos arquivos do Excel com dados e configurações padrão, como formatação de página, tamanho da fonte, margens, gráficos, etc., que podem ser salvos como novos arquivos .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Arquivos de texto criados com dialetos de linguagem Markdown são salvos com extensão de arquivo .md ou .MARKDOWN. Os arquivos MD são salvos em formato de texto simples que usa a linguagem Markdown, que também inclui símbolos de texto embutidos, definindo como um texto pode ser formatado, como recuos, formatação de tabelas, fontes e cabeçalhos. Os arquivos MD podem ser convertidos para HTML com um programa chamado Markdown. A linguagem Markdown é lançada por John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter XLT para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

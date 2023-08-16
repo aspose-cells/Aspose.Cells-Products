@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mesclar vários arquivos do Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) O método suporta a fusão de dados, estilo e fórmulas de um arquivo do Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) método suporta a fusão de dados, estilo e fórmulas de um arquivo do Excel em uma nova planilha do mesmo formato. É uma maneira eficiente de mesclar vários arquivos ao usar o cache.
 {{% blocks/products/pf/feature-page-code h3="Java Código para Mesclar Vários Arquivos Excel" %}}
 
 ```cs

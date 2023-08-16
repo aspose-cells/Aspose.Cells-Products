@@ -1,7 +1,7 @@
 ---
-title: แปลง HTML เป็น CSV Python via Python
-description: แปลง HTML เป็น CSV ออนไลน์ฟรี ตัวแปลง HTML ออนไลน์ฟรีเป็น CSV Python HTML ถึง CSV HTML ถึง CSV ถึง Python
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML ถึง CSV - ออนไลน์ HTML ถึง CSV Converter
+description: Aspose เก่ง. Python Aspose.Cells Python Aspose Cells ออนไลน์ฟรี Python แปลง HTML เป็น CSV บันทึกรูปแบบ รูปแบบ Python HTML ถึง CSV บันทึก HTML ถึง CSV Python
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to CSV saveformat., Free Online HTML to CSV Python., Python Convert HTML to CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง HTML เป็น CSV ใน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการแปลง HTML เป็น CSV ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="แปลง HTML เป็น CSV ใน Python" %}}
 
- วิธีแปลง HTML เป็น CSV ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง HTML เป็น CSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
+ ฉันจะแปลง HTML เป็น CSV ได้อย่างไร ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง HTML เป็น CSV ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,13 +28,13 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง HTML เป็น CSV ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง HTML เป็น CSV ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง HTML เป็น CSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- นักพัฒนา Python สามารถโหลดและแปลง HTML เป็น CSV ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการแปลงไฟล์ HTML เป็น CSV โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและแปลง HTML เป็น CSV ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,6 +42,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 1.  โหลดไฟล์ HTML ด้วยตัวอย่างสมุดงาน
 1.  แปลง HTML เป็น CSV โดยเรียกวิธี Workbook.save
+1.  รับผลการแปลงของ HTML เป็น CSV
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python ผ่าน NET เป็นแพลตฟอร์มที่ไม่ขึ้นกับ API และสามารถใช้ได้บนทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) เป็นส่วนขยายสำหรับเว็บเพจที่สร้างขึ้นสำหรับแสดงผลในเบราว์เซอร์ รู้จักกันในชื่อภาษาของเว็บ HTML ได้รับการพัฒนาพร้อมกับข้อกำหนดของข้อกำหนดข้อมูลใหม่ที่จะแสดงเป็นส่วนหนึ่งของหน้าเว็บ ตัวแปรล่าสุดเรียกว่า HTML 5 ซึ่งให้ความยืดหยุ่นอย่างมากในการทำงานกับภาษา เพจ HTML ได้รับจากเซิร์ฟเวอร์ซึ่งโฮสต์ไว้ หรือสามารถโหลดจากระบบโลคัลได้เช่นกัน แต่ละหน้า HTML ประกอบด้วยองค์ประกอบ HTML เช่น แบบฟอร์ม ข้อความ รูปภาพ ภาพเคลื่อนไหว ลิงก์ ฯลฯ องค์ประกอบเหล่านี้แสดงด้วยแท็กและองค์ประกอบอื่นๆ อีกหลายอย่าง โดยที่แต่ละแท็กมีจุดเริ่มต้นและจุดสิ้นสุด นอกจากนี้ยังสามารถฝังแอปพลิเคชันที่เขียนด้วยภาษาสคริปต์ เช่น JavaScript และ Style Sheets (CSS) เพื่อแสดงโครงร่างโดยรวม{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}ไฟล์ที่มีนามสกุล .csv (ค่าที่คั่นด้วยเครื่องหมายจุลภาค) แสดงถึงไฟล์ข้อความธรรมดาที่มีบันทึกข้อมูลที่มีค่าที่คั่นด้วยเครื่องหมายจุลภาค แต่ละบรรทัดในไฟล์ CSV คือเรกคอร์ดใหม่จากชุดเรกคอร์ดที่มีอยู่ในไฟล์ ไฟล์ดังกล่าวถูกสร้างขึ้นเมื่อมีจุดประสงค์ในการถ่ายโอนข้อมูลจากระบบจัดเก็บข้อมูลหนึ่งไปยังอีกระบบหนึ่ง เนื่องจากแอปพลิเคชันทั้งหมดสามารถรับรู้ระเบียนที่คั่นด้วยเครื่องหมายจุลภาค การนำเข้าไฟล์ข้อมูลดังกล่าวไปยังฐานข้อมูลจึงทำได้สะดวกมาก แอปพลิเคชันสเปรดชีตเกือบทั้งหมด เช่น Microsoft Excel หรือ OpenOffice Calc สามารถนำเข้า CSV ได้โดยไม่ต้องใช้ความพยายามมากนัก ข้อมูลที่นำเข้าจากไฟล์ดังกล่าวจะถูกจัดเรียงในเซลล์ของสเปรดชีตเพื่อนำเสนอต่อผู้ใช้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง HTML เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
 

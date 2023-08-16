@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่ต้องโหลดครับ Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLT ของคุณ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="มันจะถูกรวมและต่อเข้าด้วยกันทันที" >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
- ไฟล์ที่มีนามสกุล .XLT คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลและการตั้งค่าเริ่มต้น เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ใหม่ .XLS
+ ไฟล์ที่มีนามสกุล .XLT คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลเริ่มต้นและการตั้งค่า เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ใหม่ .XLS
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

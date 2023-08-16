@@ -1,5 +1,5 @@
 ---
-title:  ป้องกันและล็อค XLSX เอกสาร via Java
+title: ป้องกันและล็อค XLSX เอกสาร via Java
 weight: 1870
 description: รหัสตัวอย่าง Java เพื่อล็อกไฟล์ XLSX โดยใช้รหัสผ่านบน Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
 ---

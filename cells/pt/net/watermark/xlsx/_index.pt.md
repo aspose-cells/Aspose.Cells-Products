@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  você precisa do
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-para tentar o seguinte fluxo de trabalho em seu próprio ambiente.
+ para tentar o seguinte fluxo de trabalho em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -60,7 +60,7 @@ para tentar o seguinte fluxo de trabalho em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
+- Microsoft Windows ou um SO compatível com .NET Framework, .NET Core, Mono ou plataformas Xamarin.
 -  Ambiente de desenvolvimento como Microsoft Visual Studio.
 -  Adicione referência à DLL Aspose.Cells for .NET em seu projeto.
 

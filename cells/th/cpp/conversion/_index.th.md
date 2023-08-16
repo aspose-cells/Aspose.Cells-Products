@@ -6,7 +6,7 @@ description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML,
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> การแปลงเอกสาร Excel ผ่าน C++" h2="บันทึก Microsoft<sup>&reg;</sup> ไฟล์ Excel เป็นรูปแบบสเปรดชีต เว็บ รูปภาพ และเค้าโครงคงที่" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- สำหรับแอปพลิเคชันหรือโซลูชันตัวแปลงสเปรดชีตใดๆ**C++ คลังเอ็กเซล**เร่งความเร็วการเข้ารหัส ระบบอัตโนมัติ และกระบวนการแปลงในขณะที่จัดการไฟล์หลายไฟล์รวมถึง XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS นอกจากนี้ยังช่วยให้ *con เปลี่ยน Excel เป็น PDF**, XPS, HTML, MHTML, ธรรมดา ข้อความและรูปภาพยอดนิยม เช่น JPG, TIFF, PNG, BMP และ SVG
+ สำหรับแอปพลิเคชันหรือโซลูชันตัวแปลงสเปรดชีตใดๆ**C++ คลังเอ็กเซล** เร่งความเร็วการเข้ารหัส ระบบอัตโนมัติ และกระบวนการแปลงในขณะที่จัดการไฟล์หลายไฟล์รวมถึง XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS นอกจากนี้ยังช่วยให้ *con เปลี่ยน Excel เป็น PDF**, XPS, HTML, MHTML, ธรรมดา ข้อความและรูปภาพยอดนิยม เช่น JPG, TIFF, PNG, BMP และ SVG
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="การแปลงระหว่างรูปแบบ Excel Microsoft" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="แปลงรูปแบบ Excel เป็น PDF ด้วยการตั้งค่าระดับการปฏิบัติตามข้อกำหนด" %}}
- C++ Excel Automation API รองรับการแปลงสมุดงานเป็น PDF รวมทั้งรองรับการตั้งค่าระดับความสอดคล้องและวันที่สร้าง นักพัฒนาสามารถใช้[ตัวเลือก IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) พร้อมด้วย[Aspose::Cells::เรนเดอร์](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)เพื่อตั้งค่าการปฏิบัติตาม PDF สำหรับการแปลง API วิธีการบันทึกที่มี PdfSaveOptions เป็นพารามิเตอร์และเส้นทางไฟล์เอาต์พุตที่ระบุ
+ C++ Excel Automation API รองรับการแปลงสมุดงานเป็น PDF รวมทั้งรองรับการตั้งค่าระดับความสอดคล้องและวันที่สร้าง นักพัฒนาสามารถใช้[ตัวเลือก IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) พร้อมด้วย[Aspose::Cells::เรนเดอร์](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) เพื่อตั้งค่าการปฏิบัติตาม PDF สำหรับการแปลง API วิธีการบันทึกที่มี PdfSaveOptions เป็นพารามิเตอร์และเส้นทางไฟล์เอาต์พุตที่ระบุ
 {{% blocks/products/pf/feature-page-code h3="C++ โค้ดตัวอย่างสำหรับการแปลง Excel เป็น PDF" %}}
 
 ```cs

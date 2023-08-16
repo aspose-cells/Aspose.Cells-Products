@@ -1,6 +1,6 @@
 ---
 title: Crie gráficos de linhas via Python
-description: Python Exemplo de código para criar gráficos de linha para Excel usando a Biblioteca Python. Use este código para criar um gráfico de linhas para o MS Excel no aplicativo baseado em Python.
+description: Python Código de amostra para criar gráficos de linha para o Excel usando a Biblioteca Python. Use este código para criar um gráfico de linhas para o MS Excel no aplicativo baseado em Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -39,7 +39,7 @@ description: Python Exemplo de código para criar gráficos de linha para Excel 
 - Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , use o comando como:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/code-block title="O código-fonte a seguir mostra como criar um gráfico de linha para o arquivo MS Excel XLSX usando Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="O código-fonte a seguir mostra como criar um gráfico de linhas para o arquivo MS Excel XLSX usando Python." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateLineChart.py" >}}
 

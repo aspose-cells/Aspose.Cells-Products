@@ -1,5 +1,5 @@
 ---
-title: Editar XLTX arquivos via .NET
+title:  Editar XLTX arquivos via .NET
 description: C# código-fonte para editar o documento XLTX em .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

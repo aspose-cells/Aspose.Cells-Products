@@ -49,14 +49,14 @@ description: Java código de amostra para combinar XLTM documentos em Java Ambie
 
 {{% blocks/products/pf/agp/text %}}
 
- Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
+Um documento básico mesclando e concatenando com[Aspose.Cells for Java](https://products.aspose.com/cells/java) As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carregue o primeiro arquivo XLTM com uma instância da classe Workbook.
 + Carregue o segundo documento XLTM com uma instância da classe Workbook.
 + Mesclar arquivos usando o método combine().
-salve o arquivo XLTM mesclado no caminho especificado
++ salve o arquivo XLTM mesclado no caminho especificado
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltmFile1.save("combinedFileWithPath.xltm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Não há necessidade de baixar Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Não há necessidade de escrever nenhum código." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos XLTM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ele será mesclado e concatenado instantaneamente." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Ele será mesclado e concatenado instantaneamente." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

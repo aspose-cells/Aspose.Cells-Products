@@ -6,7 +6,7 @@ description: Converta Excel XLS, XLSX, ODS, CSV para PDF, XPS, HTML, JPEG e outr
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversão de documento Excel via C++" h2="Salve Microsoft<sup>&reg;</sup> arquivos Excel como planilha, web, imagem e formatos de layout fixo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Para qualquer aplicativo ou solução de conversão de planilhas,**C++ Biblioteca Excel**acelera os processos de codificação, automação e conversão enquanto lida com vários arquivos, incluindo XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Também permite *converter Excel para PDF**, XPS, HTML, MHTML, Simples Texto e imagens populares como JPG, TIFF, PNG, BMP e SVG.
+ Para qualquer aplicativo ou solução de conversão de planilhas,**C++ Biblioteca Excel** acelera os processos de codificação, automação e conversão enquanto lida com vários arquivos, incluindo XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Também permite *converter Excel para PDF**, XPS, HTML, MHTML, Simples Texto e imagens populares como JPG, TIFF, PNG, BMP e SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversão de Microsoft Formatos Excel" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converter formatos do Excel para PDF com configurações de nível de conformidade" %}}
- C++ Excel Automation API oferece suporte à conversão de pastas de trabalho para PDF, bem como à configuração de nível de conformidade e data de criação. Os desenvolvedores podem usar[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) juntamente com[Aspose::Cells::Renderização](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)para definir a conformidade PDF. Para conversão, API salve o método tendo PdfSaveOptions como parâmetro e caminho de arquivo de saída especificado.
+ C++ Excel Automation API oferece suporte à conversão de pastas de trabalho para PDF, bem como à configuração de nível de conformidade e data de criação. Os desenvolvedores podem usar[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) juntamente com[Aspose::Cells::Renderização](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) para definir a conformidade PDF. Para conversão, API salve o método tendo PdfSaveOptions como parâmetro e caminho de arquivo de saída especificado.
 {{% blocks/products/pf/feature-page-code h3="C++ Exemplo de código para conversão de Excel para PDF" %}}
 
 ```cs

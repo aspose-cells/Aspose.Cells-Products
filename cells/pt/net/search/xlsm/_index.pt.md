@@ -13,7 +13,7 @@ description: C# código-fonte para pesquisar palavras com padrão no arquivo XLS
 
  Para pesquisar o arquivo XLSM, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que é um documento rico em recursos, poderoso e fácil de usar, pesquisando API para a plataforma C#. Abrir
+API, que é um documento rico em recursos, poderoso e fácil de usar, pesquisando API para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gerenciador de pacotes, procure por
  **Aspose.Cells** 

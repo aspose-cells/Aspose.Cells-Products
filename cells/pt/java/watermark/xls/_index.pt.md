@@ -1,7 +1,7 @@
 ---
 title:  Marca d'água XLS documento via Java
 weight: 2210
-description: Java código de amostra para adicionar ou remover marca d'água ao arquivo XLS em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Java código de exemplo para adicionar ou remover marca d'água ao arquivo XLS em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adicionar marca d\'água de texto a XLS via Java" h2="Crie seus próprios aplicativos Java para marcar arquivos XLS usando APIs do lado do servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +13,7 @@ description: Java código de amostra para adicionar ou remover marca d'água ao 
 
  Para marcar o arquivo XLS com marca d'água, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
+ API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
@@ -134,7 +134,7 @@ workbook.save(dataDir + "AWArtWToWorksheet_out.xls");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Obtenha instantaneamente o link de download do arquivo resultante" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criar e ler arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

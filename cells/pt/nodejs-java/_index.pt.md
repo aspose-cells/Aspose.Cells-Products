@@ -16,7 +16,7 @@ description: Processe formatos de arquivo do Excel por meio da biblioteca Node.j
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares, incluindo XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java suporta os formatos de planilha mais populares, incluindo XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Processe formatos de arquivo do Excel por meio da biblioteca Node.j
  Converter Planilha em Imagem
     </li>
     <li>
-Converter planilha para PDF
+ Converter planilha para PDF
     </li>
    </ul>
   </div>
@@ -198,7 +198,7 @@ Converter planilha para PDF
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>
@@ -269,7 +269,7 @@ Converter planilha para PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Criar &amp; manipular comentários &amp; hiperlinks
+Criar &amp; manipular comentários &amp; hiperlinks
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Converter planilha para PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipular e atualizar tabelas dinâmicas via API
+ Manipular e atualizar tabelas dinâmicas via API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipular e atualizar tabelas dinâmicas via API
  Opções de exibição flexíveis
     </h2>
     <p>
- Aspose.Cells for Node.js via Java fornece controle total da configuração da página da planilha, pode-se manipular as opções de exibição da planilha, como orientação da página, quebras, tamanho, escala, cabeçalhos, rodapés e nível de zoom. Além disso, os desenvolvedores podem controlar a visibilidade dos dados com a ajuda da área de impressão e congelar painéis para atender às especificações do aplicativo.
+Aspose.Cells for Node.js via Java fornece controle total da configuração da página da planilha, pode-se manipular as opções de exibição da planilha, como orientação da página, quebras, tamanho, escala, cabeçalhos, rodapés e nível de zoom. Além disso, os desenvolvedores podem controlar a visibilidade dos dados com a ajuda da área de impressão e congelar painéis para atender às especificações do aplicativo.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipular e atualizar tabelas dinâmicas via API
  Opções de segurança
     </h2>
     <p>
-Aspose.Cells for Node.js via Java oferece uma ampla variedade de recursos de segurança, incluindo criptografia/descriptografia de planilhas, conteúdo, objetos e amp; proteção de cenário, bem como a capacidade de ocultar e exibir linhas, colunas e amp; fichas de trabalho.
+ Aspose.Cells for Node.js via Java oferece uma ampla variedade de recursos de segurança, incluindo criptografia/descriptografia de planilhas, conteúdo, objetos e amp; proteção de cenário, bem como a capacidade de ocultar e exibir linhas, colunas e amp; fichas de trabalho.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java oferece uma ampla variedade de recursos de seg
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Suporte abrangente para formatação de planilhas
+Suporte abrangente para formatação de planilhas
     </h2>
     <p>
-Aspose.Cells for Node.js via Java fornece recursos avançados de formatação que permitem controlar a apresentação de seus dados. Você pode aplicar formatação a uma planilha, coluna, linha ou célula ou adicionar Rich Text a uma única célula, aplicar bordas, definir padrões de fundo e estilo de fonte. O API também permite adicionar, manipular &amp; calcule as regras de formatação condicional em tempo real.
+ Aspose.Cells for Node.js via Java fornece recursos avançados de formatação que permitem controlar a apresentação de seus dados. Você pode aplicar formatação a uma planilha, coluna, linha ou célula ou adicionar Rich Text a uma única célula, aplicar bordas, definir padrões de fundo e estilo de fonte. O API também permite adicionar, manipular &amp; calcule as regras de formatação condicional em tempo real.
     </p>
    </div>
    <div class="col-lg-12">

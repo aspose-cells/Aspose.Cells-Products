@@ -1,7 +1,8 @@
 ---
-title:  รวม FODS ถึง XLTX ผ่าน C++
+title: รวม FODS ถึง XLTX - รวม FODS ถึง XLTX เป็น C++
 url: /th/cpp/merger/merge-fods-to-xltx/ 
-description: รวม FODS ถึง XLTX ออนไลน์ฟรี ออนไลน์ฟรี FODS ถึง XLTX การควบรวมกิจการ รวม FODS เป็น Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. C++ Aspose.Cells. รวมออนไลน์ฟรี FODS ถึง XLTX saveformat. C++ รวมรูปแบบ FODS ถึง XLTX รวม FODS ถึง XLTX ใน C++ FODS รวม
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to XLTX in C++., Free Online C++ Merge FODS to xltx., C++ Combine FODS to XLTX Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม FODS ถึง XLTX ผ่าน C++" h2="ไลบรารี C++ ความเร็วสูงสำหรับการรวม FODS ถึง XLTX ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน C++ ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: รวม FODS ถึง XLTX ออนไลน์ฟรี ออ
 
 {{% blocks/products/pf/agp/content h2="รวม FODS ถึง XLTX โดยใช้ C++" %}}
 
- จะรวม FODS เป็น XLTX ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม FODS ถึง XLTX ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะรวม FODS เป็น XLTX ได้อย่างไร ด้วยไลบรารี Aspose.Cells for C++ คุณสามารถรวม FODS ถึง XLTX ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด C++ Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ คุณสามารถดาวน์โหลดเวอร์ชันล่าสุดได้โดยตรง เพียงแค่เปิด[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells.Cpp และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="สั่งการ" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="รวม FODS ถึง XLTX ใน C++ ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการรวม FODS ถึง XLTX ใน C++
+ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน FODS ถึง XLTX ใน Aspose.Cells for C++
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อผสาน FODS ถึง XLTX อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine สำหรับการผสานไฟล์ จากนั้นบันทึกลงในไฟล์ XLTX หากคุณพัฒนาโค้ดใน C++ สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง C++ ที่รวม FODS ถึง XLTX
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีที่จะรวม FODS ถึง XLTX ออนไลน์" InputFormat="fods" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม FODS ถึง XLTX ใน C++" InputFormat="fods" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีผสาน FODS ถึง XLTX ผ่าน C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ ต้องการรวม FODS ถึง XLTX โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for C++'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C++ ของคุณ
 + โหลดไฟล์ FODS พร้อมคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  ติดตั้งไลบรารีโดยใช้โฟลเดอร์รวมและ lib ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  ติดตั้ง Aspose.Cells for C++ ใน Linux ดู[เอกสาร](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}ไฟล์ที่มีนามสกุล .fods คือรูปแบบเอกสารสเปรดชีต OpenDocument ประเภทหนึ่งที่เก็บข้อมูลในแถวและคอลัมน์ รูปแบบถูกระบุเป็นส่วนหนึ่งของข้อกำหนด ODF 1.2 ที่เผยแพร่และดูแลโดย OASIS ไม่สามารถเปิดไฟล์ FODS ด้วย Excel ซึ่งเป็นแอปพลิเคชันซอฟต์แวร์สเปรดชีตอื่นโดย Microsoft ไฟล์ FODS สามารถบันทึกเป็น ODS โดยใช้ LibreOffice และสามารถแปลงเป็นรูปแบบอื่น เช่น XLS และ XLSX{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}ไฟล์ที่มีนามสกุล .xltx แสดงถึง Microsoft ไฟล์เทมเพลต Excel ที่ยึดตามข้อกำหนดรูปแบบไฟล์ Office OpenXML ใช้เพื่อสร้างไฟล์เทมเพลตมาตรฐานที่สามารถใช้สร้างไฟล์ XLSX ที่แสดงการตั้งค่าเดียวกันกับที่ระบุในไฟล์ XLTX{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C++ One ยังสามารถผสาน fods เป็นรูปแบบไฟล์อื่น ๆ อีกมากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-docx/" name="รวม FODS ถึง DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-sql/" name="รวม FODS กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-bmp/" name="รวม FODS ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-emf/" name="รวม FODS ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-gif/" name="รวม FODS ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-html/" name="รวม FODS ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-md/" name="รวม FODS ถึง นพ" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-mhtml/" name="รวม FODS ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-ods/" name="รวม FODS ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-pdf/" name="รวม FODS ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-png/" name="รวม FODS ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-svg/" name="รวม FODS ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tiff/" name="รวม FODS ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tsv/" name="รวม FODS ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-txt/" name="รวม FODS ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xls/" name="รวม FODS ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsb/" name="รวม FODS ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsm/" name="รวม FODS ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsx/" name="รวม FODS ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlt/" name="รวม FODS ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltm/" name="รวม FODS ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltx/" name="รวม FODS ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xml/" name="รวม FODS เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xps/" name="รวม FODS ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-json/" name="รวม FODS ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-jpeg/" name="รวม FODS ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

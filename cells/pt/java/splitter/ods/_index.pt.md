@@ -13,7 +13,7 @@ description: Java código de amostra para dividir ODS documentos em Java Ambient
 
  Para dividir o arquivo ODS, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API que é um divisor rico em recursos, poderoso e fácil de usar API for Java plataforma. Você pode baixar sua versão mais recente diretamente de
+ API que é um divisor rico em recursos, poderoso e fácil de usar API for Java plataforma. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 

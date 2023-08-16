@@ -1,7 +1,7 @@
 ---
-title: Converter ODS para XPS Python via Python
-description: Converta ODS em XPS online gratuitamente. Conversor Online Grátis ODS para XPS. Python ODS a XPS. ODS a XPS via Python.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS para XPS - Online ODS para XPS Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter ODS para XPS saveformat. Python ODS a XPS formato. Salve ODS a XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to XPS saveformat., Free Online ODS to XPS Python., Python Convert ODS to XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter ODS para XPS em Python" h2="Biblioteca Python de alta velocidade para converter ODS em XPS. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="Salve ODS a XPS em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter ODS em XPS em Python via NET.
+exemplo a seguir demonstra como converter ODS em XPS em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter ODS em XPS. Carregue seu arquivo ODS e salve-o como arquivo XPS. Tanto para a leitura ODS quanto para a escrita XPS, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída XPS serão idênticos ao documento ODS original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter ODS em XPS. Carregue seu arquivo ODS e sal
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter ODS em XPS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter ODS em XPS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter ODS para XPS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter ODS em XPS em apenas algumas linhas de código.
+Precisa converter arquivos ODS para XPS programaticamente? Os desenvolvedores Python podem facilmente carregar e converter ODS em XPS em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo ODS com uma instância da pasta de trabalho
-1.  Converta ODS em XPS chamando o método Workbook.save
+1.  Carregue o arquivo ODS com uma instância de Workbook.
+1.  Converta ODS em XPS chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de ODS para XPS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Arquivos com extensão .ods representam o formato de documento de planilha OpenDocument editável pelo usuário. Os dados são armazenados dentro do arquivo ODF em linhas e colunas. É um formato baseado em XML e é um dos vários subtipos da família Open Document Formats (ODF). O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pela OASIS. Vários aplicativos em Windows, bem como outros sistemas operacionais, podem abrir arquivos ODS para edição e manipulação, incluindo Microsoft Excel, NeoOffice e LibreOffice. Os arquivos ODS também podem ser convertidos em outros formatos de planilha, como XLS, XLSX e outros por diferentes aplicativos.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Um arquivo XPS representa arquivos de layout de página baseados em XML Paper Specifications criados por Microsoft. Ele foi desenvolvido como uma substituição do formato de arquivo EMF e é semelhante ao formato de arquivo PDF, mas usa XML no layout, aparência e informações de impressão de um documento . É, de fato, mais justificado dizer que XPS é uma tentativa de PDF, mas não conseguiu popularidade suficiente como propriedade de PDF por vários motivos. Microsoft fornece XPS Document Writer por padrão de Windows 7 em diante para a criação de arquivos XPS. XPS arquivos podem ser gerados selecionando o "Microsoft XPS Document Writer" como impressora durante a impressão do documento.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter ODS para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

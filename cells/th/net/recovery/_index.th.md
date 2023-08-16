@@ -22,7 +22,7 @@ description: ซ่อมแซมไฟล์ excel ที่เสียหา
 
 {{% blocks/products/pf/agp/content h2="วิธีซ่อมแซมไฟล์ excel โดยใช้ C#" %}}
 
-กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
++ กำหนดคลาสที่สืบทอด Aspose.Cells.IWarningCallback
 + โหลดไฟล์ EXCEL โดยสร้างตัวอย่างสมุดงานโดยใช้คลาสการสืบทอดด้านบน อ้างถึงรหัสด้านบน
 + บันทึกสมุดงาน ไฟล์ excel ที่เสียหายจะได้รับการซ่อมแซม
 

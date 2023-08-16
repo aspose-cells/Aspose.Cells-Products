@@ -1,7 +1,7 @@
 ---
-title: Converter FODS para XML Python via Python
-description: Converta FODS para XML online gratuitamente. Conversor Online Gratuito FODS para XML. Python FODS para XML. FODS para XML via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS para XML - Online FODS para conversor de XML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converta FODS para XML saveformat. Python FODS para o formato XML. Salve FODS em XML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to XML saveformat., Free Online FODS to XML Python., Python Convert FODS to XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter FODS para XML em Python" h2="Biblioteca Python de alta velocidade para converter FODS em XML. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converter FODS para XML em Python" %}}
 
- Como converter FODS para XML? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter FODS em XML programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
+ Como faço para converter FODS para XML? Com Aspose.Cells for Python por meio da biblioteca NET, você pode facilmente converter FODS em XML programaticamente com algumas linhas de código.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)é capaz de criar aplicativos de plataforma cruzada com a capacidade de gerar, modificar, converter, renderizar e imprimir todos os arquivos do Excel. Python Excel API não apenas converte entre formatos de planilha, mas também pode renderizar arquivos Excel como imagens, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e mais, tornando-o uma escolha perfeita para trocar documentos na indústria -padrão formatos.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter FODS em XML. Carregue seu arquivo FODS e s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter FODS em XML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter FODS em XML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter FODS para XML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Os desenvolvedores Python podem facilmente carregar e converter FODS para XML em apenas algumas linhas de código.
+Precisa converter arquivos FODS para XML programaticamente? Os desenvolvedores Python podem facilmente carregar e converter FODS para XML em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo FODS com uma instância da pasta de trabalho
-1.  Converta FODS em XML chamando o método Workbook.save
+1.  Carregue o arquivo FODS com uma instância de Workbook.
+1.  Converta FODS em XML chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de FODS para XML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Um arquivo com extensão .fods é um tipo de formato de documento de planilha OpenDocument que armazena dados em linhas e colunas. O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pela OASIS. Os arquivos FODS não podem ser abertos com o Excel, outro aplicativo de software de planilha por Microsoft. Os arquivos FODS podem ser salvos como ODS usando o LibreOffice e podem ser convertidos em outros formatos, como XLS e XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML significa Extensible Markup Language, semelhante a HTML, mas diferente no uso de tags para definir objetos. A ideia por trás da criação do formato de arquivo XML era armazenar e transportar dados sem depender de ferramentas de software ou hardware. Sua popularidade se deve ao fato de ser tanto humano quanto legível por máquina. Isso permite que ele crie protocolos de dados comuns na forma de objetos a serem armazenados e compartilhados na rede, como a World Wide Web (WWW). O "X" em XML é para extensível, o que implica que a linguagem pode ser estendida para qualquer número de símbolos de acordo com os requisitos do usuário. É por esses recursos que muitos formatos de arquivo padrão fazem uso dele, como Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter FODS para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

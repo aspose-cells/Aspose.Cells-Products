@@ -1,5 +1,5 @@
 ---
-title:  ป้องกันและล็อค XLSM เอกสาร via Java
+title: ป้องกันและล็อค XLSM เอกสาร via Java
 weight: 9620
 description: รหัสตัวอย่าง Java เพื่อล็อกไฟล์ XLSM โดยใช้รหัสผ่านบน Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
 ---

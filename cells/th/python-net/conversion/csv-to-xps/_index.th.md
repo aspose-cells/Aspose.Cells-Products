@@ -1,7 +1,7 @@
 ---
-title: แปลง CSV เป็น XPS Python via Python
-description: แปลง CSV เป็น XPS ออนไลน์ฟรี ตัวแปลง CSV ออนไลน์ฟรีเป็น XPS Python CSV ถึง XPS CSV ถึง XPS ถึง Python
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV ถึง XPS - ออนไลน์ CSV ถึง XPS Converter
+description: Aspose เก่ง. Python Aspose.Cells Python Aspose Cells ออนไลน์ฟรี Python แปลง CSV เป็น XPS บันทึกรูปแบบ รูปแบบ Python CSV ถึง XPS บันทึก CSV ถึง XPS Python
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to XPS saveformat., Free Online CSV to XPS Python., Python Convert CSV to XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="แปลง CSV เป็น XPS ใน Python" h2="ไลบรารี Python ความเร็วสูงสำหรับการแปลง CSV เป็น XPS ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน Python" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="แปลง CSV เป็น XPS ใน Python" %}}
 
- วิธีแปลง CSV เป็น XPS ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง CSV เป็น XPS ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
+ ฉันจะแปลง CSV เป็น XPS ได้อย่างไร ด้วย Aspose.Cells for Python ผ่านไลบรารี NET คุณสามารถแปลง CSV เป็น XPS ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for Python ผ่านทาง NET](https://pypi.org/project/aspose-cells-python/)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด Python Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,13 +28,13 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง CSV เป็น XPS ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="แอพฟรีและโค้ดตัวอย่างเพื่อแปลง CSV เป็น XPS ออนไลน์" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีแปลง CSV เป็น XPS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- นักพัฒนา Python สามารถโหลดและแปลง CSV เป็น XPS ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
+ต้องการแปลงไฟล์ CSV เป็น XPS โดยทางโปรแกรมหรือไม่ นักพัฒนา Python สามารถโหลดและแปลง CSV เป็น XPS ได้อย่างง่ายดายด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -42,6 +42,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 1.  เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ Python ของคุณ
 1.  โหลดไฟล์ CSV ด้วยตัวอย่างสมุดงาน
 1.  แปลง CSV เป็น XPS โดยเรียกวิธี Workbook.save
+1.  รับผลการแปลงของ CSV เป็น XPS
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/)เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
+ และยังสามารถติดตาม[คำแนะนำทีละขั้นตอน](https://docs.aspose.com/cells/python-net/getting-started/) เกี่ยวกับวิธีการติดตั้ง "Aspose.Cells for Python via .NET" ในสภาพแวดล้อมของนักพัฒนาของคุณ
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python ผ่าน NET เป็นแพลตฟอร์มที่ไม่ขึ้นกับ API และสามารถใช้ได้บนทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}ไฟล์ที่มีนามสกุล .csv (ค่าที่คั่นด้วยเครื่องหมายจุลภาค) แสดงถึงไฟล์ข้อความธรรมดาที่มีบันทึกข้อมูลที่มีค่าที่คั่นด้วยเครื่องหมายจุลภาค แต่ละบรรทัดในไฟล์ CSV คือเรกคอร์ดใหม่จากชุดเรกคอร์ดที่มีอยู่ในไฟล์ ไฟล์ดังกล่าวถูกสร้างขึ้นเมื่อมีจุดประสงค์ในการถ่ายโอนข้อมูลจากระบบจัดเก็บข้อมูลหนึ่งไปยังอีกระบบหนึ่ง เนื่องจากแอปพลิเคชันทั้งหมดสามารถรับรู้ระเบียนที่คั่นด้วยเครื่องหมายจุลภาค การนำเข้าไฟล์ข้อมูลดังกล่าวไปยังฐานข้อมูลจึงทำได้สะดวกมาก แอปพลิเคชันสเปรดชีตเกือบทั้งหมด เช่น Microsoft Excel หรือ OpenOffice Calc สามารถนำเข้า CSV ได้โดยไม่ต้องใช้ความพยายามมากนัก ข้อมูลที่นำเข้าจากไฟล์ดังกล่าวจะถูกจัดเรียงในเซลล์ของสเปรดชีตเพื่อนำเสนอต่อผู้ใช้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}ไฟล์ XPS แสดงถึงไฟล์เลย์เอาต์หน้าที่อิงตามข้อมูลจำเพาะกระดาษ XML ที่สร้างโดย Microsoft ไฟล์นี้ได้รับการพัฒนาเพื่อแทนที่รูปแบบไฟล์ EMF และคล้ายกับรูปแบบไฟล์ PDF แต่ใช้ XML ในเค้าโครง ลักษณะที่ปรากฏ และข้อมูลการพิมพ์ของเอกสาร . อันที่จริง มีเหตุผลมากกว่าที่จะบอกว่า XPS เป็นความพยายามใน PDF แต่ไม่สามารถได้รับความนิยมเพียงพอเนื่องจาก PDF เป็นเจ้าของด้วยเหตุผลหลายประการ Microsoft มี XPS Document Writer ตามค่าเริ่มต้นตั้งแต่ Windows 7 เป็นต้นไปสำหรับการสร้างไฟล์ XPS สามารถสร้างไฟล์ XPS ได้โดยเลือก "Microsoft XPS Document Writer" เป็นเครื่องพิมพ์ขณะพิมพ์เอกสาร{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="การแปลงอื่น ๆ ที่รองรับ" subTitle="คุณยังสามารถแปลง CSV เป็นรูปแบบไฟล์อื่นๆ ได้อีกมากมาย รวมถึงไม่กี่รายการด้านล่าง" >}}
 

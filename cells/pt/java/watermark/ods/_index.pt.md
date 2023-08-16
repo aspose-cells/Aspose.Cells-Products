@@ -1,7 +1,7 @@
 ---
 title:  Marca d'água ODS documento via Java
 weight: 1040
-description: Java código de amostra para adicionar ou remover marca d'água ao arquivo ODS em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
+description: Java código de exemplo para adicionar ou remover marca d'água ao arquivo ODS em Java Ambiente de tempo de execução para aplicativos JSP/JSF e aplicativos de desktop.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Adicionar marca d\'água de texto a ODS via Java" h2="Crie seus próprios aplicativos Java para marcar arquivos ODS usando APIs do lado do servidor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +13,7 @@ description: Java código de amostra para adicionar ou remover marca d'água ao 
 
  Para marcar o arquivo ODS com marca d'água, usaremos
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
+ API, que é uma plataforma de marca d'água API for Java rica em recursos, poderosa e fácil de usar. Você pode baixar sua versão mais recente diretamente de
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 

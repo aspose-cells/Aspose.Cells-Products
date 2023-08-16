@@ -33,7 +33,7 @@ description: Python โค้ดตัวอย่างสำหรับกา
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="ความต้องการของระบบ" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
+ Aspose.Cells for Python เป็น API ที่ไม่ขึ้นอยู่กับแพลตฟอร์มและสามารถใช้กับทุกแพลตฟอร์ม (Windows, Linux) เพียงตรวจสอบให้แน่ใจว่าระบบมี[Python](https://www.python.org/downloads/) 3.7 หรือสูงกว่า
 {{% /blocks/products/pf/agp/text %}}
 - ติดตั้ง Aspose.Cells for Python จาก<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ให้ใช้คำสั่งเป็น:<code>$ pip install aspose-cells-python</code>.
 

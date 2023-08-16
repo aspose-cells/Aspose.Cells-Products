@@ -46,7 +46,7 @@ description: C++ Biblioteca do Excel para ler, gravar e analisar arquivos, inclu
  Gráficos
     </li>
     <li>
-Cálculo de Fórmulas
+Cálculo de fórmulas
     </li>
     <li>
  Data de validade
@@ -208,7 +208,7 @@ Cálculo de Fórmulas
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>
@@ -351,7 +351,7 @@ Defina a validação de dados para restringir a entrada
     <em class="fa fa-list-ol ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Rastreie Precedentes &amp; Dependentes
+ Rastreie Precedentes &amp; dependentes
     </p>
    </div>
    <div class="col-lg-4">

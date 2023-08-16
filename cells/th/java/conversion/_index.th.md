@@ -6,7 +6,7 @@ description: แปลง Excel XLS, XLSX, ODS, CSV เป็น PDF, XPS, HTML,
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> การแปลงไฟล์ Excel via Java" h2="บันทึก Microsoft เอกสาร Excel เป็นสเปรดชีต เว็บ รูปภาพ และรูปแบบเค้าโครงคงที่" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- สำหรับใดๆ**โปรแกรมแปลงไฟล์ Excel** แอปพลิเคชันหรือโซลูชัน Java Excel Library เร่งความเร็วการเขียนโปรแกรมสเปรดชีตและกระบวนการแปลงในขณะที่จัดการหลายรูปแบบ รวมถึง XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 6193481 นอกจากนี้ยังอนุญาตให้ *แปลงไฟล์ Excel เป็น PDF**, XPS, HTML, MHTML, ข้อความธรรมดาและรูปแบบรูปภาพยอดนิยม เช่น TIFF, JPG, PNG, BMP และ SVG
+ สำหรับใดๆ**โปรแกรมแปลงไฟล์ Excel**แอปพลิเคชันหรือโซลูชัน Java Excel Library เร่งความเร็วการเขียนโปรแกรมสเปรดชีตและกระบวนการแปลงในขณะที่จัดการหลายรูปแบบรวมถึง XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 6193481 นอกจากนี้ยังอนุญาตให้ *แปลงไฟล์ Excel เป็น PDF**, XPS, HTML, MHTML, ข้อความธรรมดาและรูปแบบรูปภาพยอดนิยม เช่น TIFF, JPG, PNG, BMP และ SVG
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="การแปลงระหว่างรูปแบบ Excel Microsoft" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="แปลง Microsoft Excel เป็น Word และ PowerPoint" %}}
- เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) ชั้นเรียนที่แสดงด้านล่าง
+ เป็นไปได้ที่จะโหลดสเปรดชีตและแปลงเป็นไฟล์ Word DOCX & PowerPoint PPTX ขณะใช้งาน[ตัวเลือก DocxSave](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [ตัวเลือก PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)ชั้นเรียนที่แสดงด้านล่าง
 {{% blocks/products/pf/feature-page-code h3="Java รหัสสำหรับการแปลง Excel เป็น Word & PowerPoint" %}}
 ```cs
 // load the template file

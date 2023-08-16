@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 

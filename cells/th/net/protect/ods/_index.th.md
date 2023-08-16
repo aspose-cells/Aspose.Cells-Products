@@ -1,5 +1,5 @@
 ---
-title:  ป้องกันและล็อค ODS เอกสาร via .NET
+title: ป้องกันและล็อค ODS เอกสาร via .NET
 weight: 5580
 description: ซอร์สโค้ด C# เพื่อล็อคไฟล์ ODS โดยใช้รหัสผ่านบน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
 ---

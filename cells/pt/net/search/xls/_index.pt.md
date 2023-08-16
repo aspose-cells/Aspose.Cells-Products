@@ -13,7 +13,7 @@ description: C# código-fonte para pesquisar palavras com padrão no arquivo XLS
 
  Para pesquisar o arquivo XLS, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, que é um documento rico em recursos, poderoso e fácil de usar, pesquisando API para a plataforma C#. Abrir
+API, que é um documento rico em recursos, poderoso e fácil de usar, pesquisando API para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gerenciador de pacotes, procure por
  **Aspose.Cells** 
@@ -132,7 +132,7 @@ if (cell3 != null){
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" O resultado da pesquisa aparece instantaneamente." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS " readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criar e ler arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

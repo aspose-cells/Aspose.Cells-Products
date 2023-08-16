@@ -37,7 +37,7 @@ description: Planilha PHP Excel API para ler, escrever e converter XLS XLSX CSV 
  Converter Planilha em Imagem
     </li>
     <li>
-Converter planilha para PDF
+ Converter planilha para PDF
     </li>
    </ul>
   </div>
@@ -206,7 +206,7 @@ Converter planilha para PDF
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>

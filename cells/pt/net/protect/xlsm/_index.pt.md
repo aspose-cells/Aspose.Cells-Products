@@ -1,5 +1,5 @@
 ---
-title:  Proteger e bloquear XLSM documento via .NET
+title: Proteger e bloquear XLSM documento via .NET
 weight: 7530
 description: C# código-fonte para bloquear XLSM arquivo usando senha em .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---

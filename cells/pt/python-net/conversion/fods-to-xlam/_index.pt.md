@@ -1,7 +1,7 @@
 ---
-title: Converter FODS para XLAM Python via Python
-description: Converta FODS em XLAM online gratuitamente. Conversor Online Grátis FODS para XLAM. Python FODS a XLAM. FODS a XLAM via Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS para XLAM - Online FODS para XLAM Conversor
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online Grátis Python Converter FODS para XLAM saveformat. Python FODS a XLAM formato. Salve FODS a XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to XLAM saveformat., Free Online FODS to XLAM Python., Python Convert FODS to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converter FODS para XLAM em Python" h2="Biblioteca Python de alta velocidade para converter FODS em XLAM. Use nossa conversão de Excel API para desenvolver software independente de plataforma de alto nível em Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -19,7 +19,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Salve FODS a XLAM em Python online gratuitamente" %}}
 
-O exemplo a seguir demonstra como converter FODS em XLAM em Python via NET.
+exemplo a seguir demonstra como converter FODS em XLAM em Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
 Siga as etapas fáceis para converter FODS em XLAM. Carregue seu arquivo FODS e salve-o como arquivo XLAM. Tanto para a leitura FODS quanto para a escrita XLAM, você pode usar nomes de arquivos totalmente qualificados. O conteúdo e a formatação de saída XLAM serão idênticos ao documento FODS original.
@@ -28,20 +28,21 @@ Siga as etapas fáceis para converter FODS em XLAM. Carregue seu arquivo FODS e 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplicativo gratuito e código de amostra para converter FODS em XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplicativo gratuito e código de amostra para converter FODS em XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Como converter FODS para XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Os desenvolvedores Python podem facilmente carregar e converter FODS em XLAM em apenas algumas linhas de código.
+Precisa converter arquivos FODS para XLAM programaticamente? Os desenvolvedores Python podem facilmente carregar e converter FODS em XLAM em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instale 'Aspose.Cells for Python via .NET'.
 1.  Adicione uma referência de biblioteca (importe a biblioteca) ao seu projeto Python.
-1.  Carregue o arquivo FODS com uma instância da pasta de trabalho
-1.  Converta FODS em XLAM chamando o método Workbook.save
+1.  Carregue o arquivo FODS com uma instância de Workbook.
+1.  Converta FODS em XLAM chamando o método Workbook.save.
+1.  Obtenha o resultado da conversão de FODS para XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/)sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
+ E você também pode seguir o[instruções passo a passo](https://docs.aspose.com/cells/python-net/getting-started/) sobre como instalar "Aspose.Cells for Python via .NET" em seu ambiente de desenvolvedor.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instale Aspose.Cells for Python de<a href="https://pypi.org/project/aspose-cells
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
+ Aspose.Cells for Python via NET é independente de plataforma API e pode ser usado em qualquer plataforma (Windows, Linux), apenas certifique-se de que o sistema tenha[Python](https://www.python.org/downloads/) 3.7 ou superior.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Um arquivo com extensão .fods é um tipo de formato de documento de planilha OpenDocument que armazena dados em linhas e colunas. O formato é especificado como parte das especificações ODF 1.2 publicadas e mantidas pela OASIS. Os arquivos FODS não podem ser abertos com o Excel, outro aplicativo de software de planilha por Microsoft. Os arquivos FODS podem ser salvos como ODS usando o LibreOffice e podem ser convertidos em outros formatos, como XLS e XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM é um arquivo de suplemento habilitado para macro usado para adicionar novas funções às planilhas. Um suplemento é um programa complementar que executa código adicional e fornece funcionalidade adicional para planilhas. XLAM os arquivos são armazenados com a extensão .xlam. Os arquivos XLAM são arquivos baseados em XML semelhantes aos formatos de arquivo XLSM e XLSX e são salvos com compactação ZIP para reduzir o tamanho geral do arquivo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras conversões suportadas" subTitle="Você também pode converter FODS para muitos outros formatos de arquivo, incluindo alguns listados abaixo." >}}
 

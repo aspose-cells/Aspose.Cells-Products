@@ -1,7 +1,8 @@
 ---
-title:  รวม XLSB ถึง XLT ผ่าน C#
+title: รวม XLSB ถึง XLT - รวม XLSB ถึง XLT เป็น C#
 url: /th/net/merger/merge-xlsb-to-xlt/ 
-description: รวม XLSB ถึง XLT ออนไลน์ฟรี ออนไลน์ฟรี XLSB ถึง XLT การควบรวมกิจการ รวม XLSB เป็น Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS และอื่นๆ
+description: Aspose เก่ง. C# Aspose.Cells. รวมออนไลน์ฟรี XLSB ถึง XLT saveformat. C# รวมรูปแบบ XLSB ถึง XLT รวม XLSB ถึง XLT ใน C# XLSB รวม
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XLT in C#., Free Online C# Merge XLSB to xlt., C# Combine XLSB to XLT Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="รวม XLSB ถึง XLT ผ่าน C#" h2="ไลบรารี C# ความเร็วสูงสำหรับการรวม XLSB ถึง XLT ใช้การแปลง excel API เพื่อพัฒนาซอฟต์แวร์ระดับสูงที่ไม่ขึ้นกับแพลตฟอร์มใน C# ซึ่งเป็นโซลูชันซอฟต์แวร์ระดับมืออาชีพสำหรับนำเข้าและส่งออก Excel, CSV, OpenOffice, PDF, HTML, image และรูปแบบ excel อื่นๆ อีกมากมาย" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: รวม XLSB ถึง XLT ออนไลน์ฟรี ออ�
 
 {{% blocks/products/pf/agp/content h2="รวม XLSB ถึง XLT โดยใช้ C#" %}}
 
- จะรวม XLSB เป็น XLT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถรวม XLSB ถึง XLT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
+ ฉันจะรวม XLSB เป็น XLT ได้อย่างไร ด้วยไลบรารี Aspose.Cells for .NET คุณสามารถรวม XLSB ถึง XLT ทางโปรแกรมได้อย่างง่ายดายด้วยโค้ดไม่กี่บรรทัด[Aspose.Cells for .NET](https://products.aspose.com/cells/net)สามารถสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วยความสามารถในการสร้าง แก้ไข แปลง เรนเดอร์ และพิมพ์ไฟล์ Excel ทั้งหมด .NET Excel API ไม่เพียงแต่แปลงระหว่างรูปแบบสเปรดชีตเท่านั้น แต่ยังสามารถแสดงไฟล์ Excel เป็นรูปภาพได้อีกด้วย PDF HTML ODS CSV SVG JSON WORD PPT และอื่น ๆ จึงทำให้เป็นตัวเลือกที่สมบูรณ์แบบในการแลกเปลี่ยนเอกสารใน มาตรฐานอุตสาหกรรม รูปแบบ เปิด[NuGet](https://www.nuget.org/packages/aspose.cells) ตัวจัดการแพ็คเกจ ค้นหา Aspose.Cells และติดตั้ง คุณสามารถใช้คำสั่งต่อไปนี้จาก Package Manager Console
 
 {{% blocks/products/pf/agp/code-block title="คำสั่งคอนโซลตัวจัดการแพ็คเกจ" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="รวม XLSB ถึง XLT ใน C# ออนไลน์ฟรี" %}}
 
-ตัวอย่างต่อไปนี้สาธิตวิธีการรวม XLSB ถึง XLT ใน C#
+ตัวอย่างต่อไปนี้สาธิตวิธีการผสาน XLSB ถึง XLT ใน Aspose.Cells for .NET
 {{% blocks/products/pf/agp/text %}}
 
 ทำตามขั้นตอนง่าย ๆ เพื่อผสาน XLSB ถึง XLT อัปโหลดไฟล์ของคุณ เรียกใช้เมธอด Workbook.Combine สำหรับการผสานไฟล์ จากนั้นบันทึกลงในไฟล์ XLT หากคุณพัฒนาโค้ดใน C# สิ่งนี้จะง่ายกว่าที่คิด ดูตัวอย่าง C# ที่รวม XLSB ถึง XLT
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="แอพฟรีที่จะรวม XLSB ถึง XLT ออนไลน์" InputFormat="xlsb" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="ออนไลน์ฟรีเพื่อรวม XLSB ถึง XLT ใน C#" InputFormat="xlsb" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="วิธีผสาน XLSB ถึง XLT ผ่าน C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
+ ต้องการรวม XLSB ถึง XLT โดยทางโปรแกรมหรือไม่ การรวมและเชื่อมเอกสารพื้นฐานเข้าด้วยกัน[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API สามารถทำได้ด้วยโค้ดเพียงไม่กี่บรรทัด
 
 {{% /blocks/products/pf/agp/text %}}
 
++ ติดตั้ง 'Aspose.Cells for .NET'
++ เพิ่มการอ้างอิงไลบรารี (นำเข้าไลบรารี) ในโครงการ C# ของคุณ
 + โหลดไฟล์ XLSB พร้อมคลาสสมุดงาน
 + เรียกใช้เมธอด Workbook.Combine สำหรับการรวมไฟล์
 + เรียกใช้เมธอด Workbook.Save และส่งชื่อไฟล์เอาต์พุตเป็นพารามิเตอร์
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  ติดตั้ง[NuGet แพ๊คเกจ](https://www.nuget.org/packages/Aspose.Cells/) . ดู[เอกสาร](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  ติดตั้งไลบรารีโดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)ภายใน Visual Studio IDE
+1.  ติดตั้งไลบรารีโดยใช้[คอนโซลตัวจัดการแพ็คเกจ](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) ภายใน Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API ของเรารองรับบนแพลตฟอร์มแล�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}รูปแบบไฟล์ XLSB ระบุรูปแบบไฟล์ไบนารีของ Excel ซึ่งเป็นชุดของระเบียนและโครงสร้างที่ระบุเนื้อหาสมุดงาน Excel เนื้อหาอาจรวมถึงตารางตัวเลข ข้อความ หรือทั้งตัวเลขและข้อความแบบไม่มีโครงสร้างหรือกึ่งโครงสร้าง สูตร การเชื่อมต่อข้อมูลภายนอก แผนภูมิ และรูปภาพ ไม่เหมือนกับ XLSX (ซึ่งใช้รูปแบบไฟล์ Open XML) XLSB แทนไฟล์สมุดงาน Excel แบบไบนารี ไฟล์ XLSB สามารถอ่านและเขียนได้เร็วกว่าซึ่งทำให้มีประโยชน์สำหรับการทำงานกับไฟล์ขนาดใหญ่ XLSB ไม่ค่อยได้ใช้เพื่อจัดเก็บสมุดงาน เนื่องจาก XLSX (และก่อนหน้านี้คือ XLS) เป็นรูปแบบไฟล์ที่ผู้ใช้ทั่วไปเลือกสำหรับการบันทึกสมุดงาน สามารถเปิดได้โดย Microsoft Office 2007 ขึ้นไป{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}ไฟล์ที่มีนามสกุล .xlt เป็นไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลและการตั้งค่าเริ่มต้น เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ .xls ใหม่ได้{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="รูปแบบการผสานอื่นๆ ที่รองรับ" subTitle="เมื่อใช้ C# เราสามารถรวม xlsb เป็นรูปแบบไฟล์อื่น ๆ ได้มากมายรวมถึง" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="TXT" description="เอกสารข้อความ" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="XLS" description="รูปแบบไบนารีของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="XLSM" description="ไฟล์สเปรดชีต" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="XLSX" description="ไฟล์ OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft เทมเพลต Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-docx/" name="รวม XLSB ถึง DOCX" description="Microsoft เอกสารเวิร์ด" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-sql/" name="รวม XLSB กับ SQL" description="ภาษาแบบสอบถามที่มีโครงสร้าง" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-bmp/" name="รวม XLSB ถึง BMP" description="ภาพบิตแมป" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-emf/" name="รวม XLSB ถึง EMF" description="รูปแบบ Metafile ที่ปรับปรุงแล้ว" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-gif/" name="รวม XLSB ถึง GIF" description="รูปแบบการแลกเปลี่ยนกราฟิก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="รวม XLSB ถึง HTML" description="ภาษามาร์กอัปข้อความไฮเปอร์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-md/" name="รวม XLSB ถึง นพ" description="ภาษามาร์กดาวน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="รวม XLSB ถึง MHTML" description="รูปแบบการเก็บถาวรของหน้าเว็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="รวม XLSB ถึง ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-pdf/" name="รวม XLSB ถึง PDF" description="รูปแบบเอกสารพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-png/" name="รวม XLSB ถึง PNG" description="กราฟิกเครือข่ายแบบพกพา" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-svg/" name="รวม XLSB ถึง SVG" description="กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tiff/" name="รวม XLSB ถึง TIFF" description="รูปแบบรูปภาพที่ติดแท็ก" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="รวม XLSB ถึง TSV" description="ค่าที่คั่นด้วยแท็บ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="รวม XLSB ถึง TXT" description="เอกสารข้อความ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="รวม XLSB ถึง XLS" description="รูปแบบไบนารีของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="รวม XLSB ถึง XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="รวม XLSB ถึง XLSM" description="ไฟล์สเปรดชีต" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="รวม XLSB ถึง XLSX" description="ไฟล์ OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="รวม XLSB ถึง XLT" description="Microsoft เทมเพลต Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="รวม XLSB ถึง XLTM" description="เทมเพลตที่เปิดใช้งานแมโครของ Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="รวม XLSB ถึง XLTX" description="เทมเพลต Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xml/" name="รวม XLSB เป็น XML" description="ภาษามาร์กอัปที่ขยายได้" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xps/" name="รวม XLSB ถึง XPS" description="ข้อมูลจำเพาะของกระดาษ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-json/" name="รวม XLSB ถึง JSON" description="สัญกรณ์วัตถุ JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-jpeg/" name="รวม XLSB ถึง JPEG" description="JPEG อิมเมจ" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

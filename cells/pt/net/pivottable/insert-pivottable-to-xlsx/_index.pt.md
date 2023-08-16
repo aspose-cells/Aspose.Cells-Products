@@ -1,5 +1,5 @@
 ---
-title: Inserir tabela dinâmica em arquivos do Micorsoft Excel XLSX via C#
+title:  Inserir tabela dinâmica em arquivos do Micorsoft Excel XLSX via C#
 weight: 7690
 description: C# Código de amostra para gerar documentos XLSX com tabela dinâmica. Use este código para criar arquivos Micorsoft Excel XLSX com tabela dinâmica em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Código de amostra para gerar documentos XLSX com tabela dinâmi
 
 {{% blocks/products/pf/agp/text %}}
 
- É fácil para os desenvolvedores inserir a tabela dinâmica na planilha de formato XLSX na execução de diferentes aplicativos de relatórios para processamento de dados em apenas algumas linhas de código.
+É fácil para os desenvolvedores inserir a tabela dinâmica na planilha de formato XLSX na execução de diferentes aplicativos de relatórios para processamento de dados em apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Código de amostra para gerar documentos XLSX com tabela dinâmi
 1.  Acesse a primeira planilha da pasta de trabalho.
 1.  Pegue a(s) célula(s) desejada(s) da planilha e coloque o valor na(s) célula(s).
 1.  Inserir tabela dinâmica e definir o estilo
-1.  Use o método Save para salvar a pasta de trabalho como arquivo XLSX.
+1. Use o método Save para salvar a pasta de trabalho como arquivo XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

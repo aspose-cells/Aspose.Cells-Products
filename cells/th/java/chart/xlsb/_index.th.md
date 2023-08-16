@@ -1,7 +1,7 @@
 ---
 title:  XLSB ผังเอกสาร via Java
 weight: 670
-description: รหัสตัวอย่าง Java เพื่อวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSB บน Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
+description: โค้ดตัวอย่าง Java เพื่อวาดและแปลงแผนภูมิหรือไดอะแกรมในไฟล์ XLSB บน Java Runtime Environment สำหรับ JSP/JSF Application และ Desktop Applications
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB จัดรูปแบบแผนภูมิใน Java" h2="แผนภูมิเอกสารดั้งเดิมและประสิทธิภาพสูง XLSB โดยใช้ API ฝั่งเซิร์ฟเวอร์ Aspose.Cells for Java โดยไม่ต้องใช้ซอฟต์แวร์ใดๆ เช่น Microsoft หรือ Adobe PDF" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}

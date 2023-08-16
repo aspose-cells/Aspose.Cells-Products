@@ -11,7 +11,7 @@ description: C# Código de amostra para conversão de XLT para matriz de bytes. 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array é útil para processamento ou armazenamento de dados. Você pode converter o arquivo XLT para Byte Array, bem como um**Matriz de bytes para XLT**documento usando o idioma C#. Para converter XLT em array de bytes, usaremos
+ Byte Array é útil para processamento ou armazenamento de dados. Você pode converter o arquivo XLT para Byte Array, bem como um**Matriz de bytes para XLT** documento usando o idioma C#. Para converter XLT em array de bytes, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API que oferece diferentes recursos para manipulação e conversão de documentos usando a plataforma .NET.
 {{% /blocks/products/pf/agp/content %}}

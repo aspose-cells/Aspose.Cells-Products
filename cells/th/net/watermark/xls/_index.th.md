@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  คุณต้องการ
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
+ เพื่อลองใช้เวิร์กโฟลว์ต่อไปนี้ในสภาพแวดล้อมของคุณเอง
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -90,11 +90,11 @@ PM> Install-Package Aspose.Cells
         {{< blocks/products/pf/agp/demobox sectionTitle="ลายน้ำ XLS ผ่านแอพออนไลน์" sectionDescription=" เพิ่มลายน้ำให้กับเอกสาร XLS โดยไปที่ของเรา[เว็บไซต์สาธิตสด](https://products.aspose.app/cells/watermark). การสาธิตสดมีประโยชน์ดังต่อไปนี้" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" ไม่จำเป็นต้องดาวน์โหลดหรือตั้งค่าอะไร" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" ไม่ต้องเขียนโค้ดใดๆ" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLS ตั้งค่าลายน้ำและกดปุ่ม \"เพิ่ม\"" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="เพียงอัปโหลดไฟล์ XLS ตั้งค่าลายน้ำแล้วกดปุ่ม \"เพิ่ม\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" รับลิงก์ดาวน์โหลดไฟล์ผลลัพธ์ทันที" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งสมุดงานแต่ละเล่มสามารถมีแผ่นงานตั้งแต่หนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้
+ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งแต่ละสมุดงานสามารถมีแผ่นงานหนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

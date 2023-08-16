@@ -28,7 +28,7 @@ description: C# códigos-fonte que explicam como dividir Microsoft arquivos Exce
 
 {{% blocks/products/pf/feature-page-section h2="Dividir planilha do Excel em painéis" %}}
 
- Para dividir a janela da planilha em painéis, API fornece[método de divisão](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) da classe de planilha, que fornece a visão dividida da planilha. Para remover a exibição dividida API fornece[Método RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Por fim, salve-o em um caminho especificado.
+ Para dividir a janela da planilha em painéis, API fornece[método de divisão](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)da classe de planilha, que fornece a visão dividida da planilha. Para remover a exibição dividida API fornece[Método RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Por fim, salve-o em um caminho especificado.
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para dividir a janela da planilha do Excel" %}}
 

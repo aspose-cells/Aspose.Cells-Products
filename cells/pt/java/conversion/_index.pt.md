@@ -1,12 +1,12 @@
 ---
 title:  Microsoft Conversão de arquivo Excel via Java
-description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Java code.
+description: Converte Excel XLS, XLSX, ODS, CSV a PDF, XPS, HTML, 0761781, 0761181818163481, mais formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formats com outros formatos com outros formatos com outros formats com outros formatos com outros formats com outros formats com outros formatos com outros formats com outros formats com outros formatos.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversão de Arquivos Excel via Java" h2="Salve documentos do Excel Microsoft como planilha, web, imagem e formatos de layout fixo" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Para qualquer**Conversor Excel** aplicativo ou solução, Java Excel Library acelera a programação de planilhas e os processos de conversão ao lidar com vários formatos, incluindo XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 93481. Também permite *converter arquivos Excel para PDF**, XPS, HTML, MHTML, texto simples e formatos de imagem populares como TIFF, JPG, PNG, BMP e SVG.
+ Para qualquer**Conversor Excel**aplicativo ou solução, Java Excel Library acelera a programação de planilhas e os processos de conversão ao lidar com vários formatos, incluindo XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 93481. Também permite *converter arquivos Excel para PDF**, XPS, HTML, MHTML, texto simples e formatos de imagem populares como TIFF, JPG, PNG, BMP e SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversão de Microsoft Formatos Excel" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converter Microsoft Excel para Word e PowerPoint" %}}
- É possível carregar qualquer planilha e convertê-la em arquivos do Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) classes como demonstrado abaixo.
+ É possível carregar qualquer planilha e convertê-la em arquivos do Word DOCX e PowerPoint PPTX enquanto estiver usando[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)classes como demonstrado abaixo.
 {{% blocks/products/pf/feature-page-code h3="Java Código para Excel para Word e PowerPoint Conversão" %}}
 ```cs
 // load the template file

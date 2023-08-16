@@ -11,7 +11,7 @@ description: C# Código de amostra para conversão de XLS para matriz de bytes. 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array é útil para processamento ou armazenamento de dados. Você pode converter o arquivo XLS para Byte Array, bem como um**Matriz de bytes para XLS**documento usando o idioma C#. Para converter XLS em array de bytes, usaremos
+ Byte Array é útil para processamento ou armazenamento de dados. Você pode converter o arquivo XLS para Byte Array, bem como um**Matriz de bytes para XLS** documento usando o idioma C#. Para converter XLS em array de bytes, usaremos
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API que oferece diferentes recursos para manipulação e conversão de documentos usando a plataforma .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -82,7 +82,7 @@ Uma biblioteca de programação de planilhas do Excel capaz de criar aplicativos
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criar e ler arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
+Arquivos com extensão XLS representam o formato de arquivo binário do Excel. Esses arquivos podem ser criados por Microsoft Excel, bem como outros programas de planilhas semelhantes, como OpenOffice Calc ou Apple Numbers. O arquivo salvo pelo Excel é conhecido como pasta de trabalho, onde cada pasta de trabalho pode ter uma ou mais planilhas. Os dados são armazenados e exibidos aos usuários em formato de tabela na planilha e podem abranger valores numéricos, dados de texto, fórmulas, conexões de dados externos, imagens e gráficos. Aplicativos como Microsoft Excel permitem exportar dados da pasta de trabalho para vários formatos diferentes, incluindo PDF, CSV, XLSX, TXT, HTML, XPS e vários outros. O formato de arquivo XLS foi substituído por um formato mais aberto e estruturado, XLSX, com o lançamento de Microsoft Excel 2007. As versões mais recentes ainda fornecem suporte para criação e leitura de arquivos XLS, embora XLSX seja a primeira escolha de uso agora.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

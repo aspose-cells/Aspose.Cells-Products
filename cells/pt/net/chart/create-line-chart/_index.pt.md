@@ -46,7 +46,7 @@ description: C# Código de amostra para criar gráficos de linha para o Excel us
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="O código-fonte a seguir mostra como criar um gráfico de linha para o arquivo MS Excel XLSX usando C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="O código-fonte a seguir mostra como criar um gráfico de linhas para o arquivo MS Excel XLSX usando C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateLineChart.cs" >}}
 

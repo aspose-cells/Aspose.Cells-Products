@@ -1,5 +1,5 @@
 ---
-title:  ป้องกันและล็อค XLSB เอกสาร via .NET
+title: ป้องกันและล็อค XLSB เอกสาร via .NET
 weight: 5920
 description: ซอร์สโค้ด C# เพื่อล็อคไฟล์ XLSB โดยใช้รหัสผ่านบน .NET Framework, .NET Core, Mono หรือแพลตฟอร์ม Xamarin
 ---

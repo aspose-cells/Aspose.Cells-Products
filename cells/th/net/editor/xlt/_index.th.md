@@ -1,5 +1,5 @@
 ---
-title: แก้ไขไฟล์ XLT via .NET
+title:  แก้ไขไฟล์ XLT via .NET
 description: ซอร์สโค้ด C# เพื่อแก้ไขเอกสาร XLT บน .NET Framework, .NET Core, Windows Azure, Mono หรือแพลตฟอร์ม Xamarin
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" จากนั้นบันทึกและดาวน์โหลด" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
- ไฟล์ที่มีนามสกุล .XLT คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลและการตั้งค่าเริ่มต้น เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ใหม่ .XLS
+ ไฟล์ที่มีนามสกุล .XLT คือไฟล์เทมเพลตที่สร้างด้วย Microsoft Excel ซึ่งเป็นแอปพลิเคชันสเปรดชีตซึ่งเป็นส่วนหนึ่งของชุดโปรแกรม Office Microsoft Microsoft Office 97-2003 รองรับการสร้างไฟล์ XLT ใหม่ รวมทั้งการเปิดไฟล์เหล่านี้ Excel เวอร์ชันล่าสุดยังคงสามารถเปิดไฟล์เทมเพลตรูปแบบเก่านี้ได้ ไฟล์เทมเพลตดังกล่าวใช้เพื่อสร้างไฟล์ Excel ใหม่อย่างรวดเร็วด้วยข้อมูลเริ่มต้นและการตั้งค่า เช่น การจัดรูปแบบหน้า ขนาดตัวอักษร ระยะขอบ แผนภูมิ ฯลฯ ซึ่งสามารถบันทึกเพิ่มเติมเป็นไฟล์ใหม่ .XLS
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -185,7 +185,7 @@ Coleções
    <header>
     <i class="fa fa-mail-forward">
     </i>
- Somente saída
+ Somente Saída
    </header>
    <ul>
     <li>
@@ -419,7 +419,7 @@ Avançado Python Excel API Recursos
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salvar planilha em diversos formatos - Java
+Salvar planilha em diversos formatos - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

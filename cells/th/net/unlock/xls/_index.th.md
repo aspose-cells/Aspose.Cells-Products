@@ -112,7 +112,7 @@ workbook.Save("unprotected.xls", Aspose.Cells.SaveFormat.Auto);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" ดาวน์โหลดไฟล์ผลลัพธ์ XLS จากลิงค์" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งสมุดงานแต่ละเล่มสามารถมีแผ่นงานตั้งแต่หนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้
+ไฟล์ที่มีนามสกุล XLS แสดงถึงรูปแบบไฟล์ไบนารีของ Excel ไฟล์ดังกล่าวสามารถสร้างโดย Microsoft Excel รวมถึงโปรแกรมสเปรดชีตอื่นๆ ที่คล้ายกัน เช่น OpenOffice Calc หรือ Apple Numbers ไฟล์ที่บันทึกโดย Excel เรียกว่าสมุดงาน ซึ่งแต่ละสมุดงานสามารถมีแผ่นงานหนึ่งแผ่นขึ้นไป ข้อมูลถูกจัดเก็บและแสดงต่อผู้ใช้ในรูปแบบตารางในเวิร์กชีต และสามารถขยายค่าตัวเลข ข้อมูลข้อความ สูตร การเชื่อมต่อข้อมูลภายนอก รูปภาพ และแผนภูมิ แอปพลิเคชัน เช่น Microsoft Excel ช่วยให้คุณสามารถส่งออกข้อมูลสมุดงานไปยังรูปแบบต่างๆ ได้มากมาย รวมถึง PDF, CSV, XLSX, TXT, HTML, XPS และอื่นๆ อีกมากมาย รูปแบบไฟล์ XLS ถูกแทนที่ด้วยรูปแบบที่เปิดกว้างและมีโครงสร้างมากขึ้น XLSX ด้วยการเปิดตัว Microsoft Excel 2007 เวอร์ชันล่าสุดยังคงรองรับการสร้างและอ่านไฟล์ XLS แม้ว่า XLSX จะเป็นตัวเลือกแรกในการใช้งานในขณะนี้
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -120,7 +120,7 @@ workbook.Save("unprotected.xls", Aspose.Cells.SaveFormat.Auto);
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการปลดล็อคอื่น ๆ ที่รองรับ" subTitle="การใช้ C# สามารถลบการป้องกัน / ปลดล็อครูปแบบต่าง ๆ ได้อย่างง่ายดายรวมถึง" >}}
+{{< blocks/products/pf/agp/other-supported-section title="รูปแบบการปลดล็อกอื่น ๆ ที่รองรับ" subTitle="การใช้ C# สามารถลบการป้องกัน / ปลดล็อครูปแบบต่าง ๆ ได้อย่างง่ายดายรวมถึง" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="ไฟล์สเปรดชีต OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xlsb/" name="XLSB" description="ไฟล์สมุดงานไบนารี Excel" >}}

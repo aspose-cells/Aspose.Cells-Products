@@ -1,5 +1,5 @@
 ---
-title: แก้ไขไฟล์ TXT via .NET
+title:  แก้ไขไฟล์ TXT via .NET
 description: ซอร์สโค้ด C# เพื่อแก้ไขเอกสาร TXT บน .NET Framework, .NET Core, Windows Azure, Mono หรือแพลตฟอร์ม Xamarin
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

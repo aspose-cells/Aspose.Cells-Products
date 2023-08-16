@@ -160,7 +160,7 @@ Aspose.Cells for Java, piyasada bulunan diğer bileşenlerin basit veri dışa a
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for Java popüler elektronik tablo biçimlerini, yaygın olarak kullanılan görüntüleri, sabit düzeni ve[daha fazla biçim](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for Java popüler elektronik tablo biçimlerini, yaygın olarak kullanılan görüntüleri, sabit düzeni ve[daha fazla format](https://docs.aspose.com/cells/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

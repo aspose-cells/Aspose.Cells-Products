@@ -13,7 +13,7 @@ description: C# kaynak kodu, ODS belgesini .NET Framework, .NET Core, Mono veya 
 
  ODS dosyasını bölmek için kullanacağız
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme ve ayırıcı API'dir. Açık
+ API, C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme ve ayırıcı API'dir. Açık
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  paket yöneticisi, ara
  Aspose.Cells 
@@ -104,7 +104,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Bölme Formatları" subTitle="C#\'i kullanarak, büyük bir dosyayı da dahil olmak üzere diğer birçok dosya biçiminin parçalarına bölebilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Bölme Biçimleri" subTitle="C#\'i kullanarak, büyük bir dosyayı da dahil olmak üzere diğer birçok dosya biçiminin parçalarına bölebilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xls/" name="XLS" description="Excel İkili Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

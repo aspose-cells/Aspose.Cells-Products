@@ -1,7 +1,7 @@
 ---
-title: HTM'yi POWERPOINT'e dönüştür Python via Python
-description: HTM'yi POWERPOINT Online'a Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi HTM'den POWERPOINT'e Dönüştürücü. Python HTM'den POWERPOINT'e. Python aracılığıyla HTM'den POWERPOINT'e.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM'den POWERPOINT'e - Çevrimiçi HTM'den POWERPOINT'e Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python HTM'yi POWERPOINT saveformatına dönüştürün. Python HTM'den POWERPOINT formatına. HTM'yi POWERPOINT Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to POWERPOINT saveformat., Free Online HTM to POWERPOINT Python., Python Convert HTM to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de HTM\'yi POWERPOINT\'e dönüştürün" h2="HTM\'yi POWERPOINT\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Python\'de HTM\'yi POWERPOINT\'e dönüştürün" %}}
 
- HTM'yi POWERPOINT'ye nasıl dönüştürebilirim? Aspose.Cells for Python üzerinden NET kütüphanesi ile birkaç satır kod ile HTM'yi programlı olarak POWERPOINT'e çevirebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ HTM'yi POWERPOINT'e nasıl dönüştürebilirim? Aspose.Cells for Python üzerinden NET kütüphanesi ile birkaç satır kod ile HTM'yi programlı olarak POWERPOINT'e çevirebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ HTM'yi POWERPOINT'e dönüştürmek için kolay adımları izleyin. HTM dosyanı
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTM\'yi POWERPOINT Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTM\'yi POWERPOINT Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM\'yi POWERPOINT\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiriciler, HTM'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve POWERPOINT'e dönüştürebilir.
+HTM dosyalarını programlı olarak POWERPOINT'e dönüştürmeniz mi gerekiyor? Python geliştiriciler, HTM'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve POWERPOINT'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  HTM dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak HTM'yi POWERPOINT'e dönüştürün
+1.  HTM dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak HTM'yi POWERPOINT'e dönüştürün.
+1.  HTM'nin POWERPOINT'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm uzantılı dosyalar, Google Chrome, Internet Explorer, Firefox ve diğerleri gibi web tarayıcılarında görüntülenecek web sayfaları oluşturmak için Köprü Metni İşaretleme Dilini temsil eder. Başkalarının erişimi için World Wide Web'de (WWW) yayınlanacak statik sayfalar oluşturmak için işaretlemeleri tanımlar. Bu işaretlemeler, tarayıcılara bir web sayfasının içeriğini nasıl görüntüleyeceğini söyler. Bu tür sayfalar düz metin, resimler, diğer sayfalara köprüler, videolar ve diğer medya bilgilerini içerebilir. Bir web sayfası yayınlandığında, sayfa kaynağına bakarak arkasındaki biçimlendirme koduna göz atabilirsiniz. Modern tarayıcılar, bir web sayfasının HTM kaynağındaki her bir alt bölümün veya biçimlendirme öğesinin ayrıntılandırıldığı her bölümünün incelenmesine izin verir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX uzantılı dosyalar popüler Microsoft PowerPoint uygulaması ile oluşturulan sunum dosyalarıdır. İkili olan sunum dosyası biçimi PPT'nin önceki sürümünün aksine, PPTX biçimi, Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bir sunum dosyası, her slaydın metin, resimler, biçimlendirme, animasyonlar ve diğer ortamlardan oluşabileceği bir slayt koleksiyonudur. Bu slaytlar, özel sunum ayarları ile slayt gösterileri şeklinde izleyicilere sunulur.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="HTM\'yi aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine de dönüştürebilirsiniz." >}}
 

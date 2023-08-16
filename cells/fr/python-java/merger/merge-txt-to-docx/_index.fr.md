@@ -1,7 +1,8 @@
 ---
-title:  Fusionner TXT à DOCX via Python
+title: Fusionner TXT à DOCX - Combiner TXT à DOCX dans Python
 url: /fr/python-java/merger/merge-txt-to-docx/ 
-description: Fusionnez TXT à DOCX en ligne gratuitement. Gratuit en ligne TXT à DOCX Fusion. Fusionnez TXT vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. Python Aspose.Cells. Fusion en ligne gratuite TXT au format de sauvegarde DOCX. Python Combinez le format TXT au format DOCX. Fusionner TXT à DOCX dans Python. TXT Fusionner.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to DOCX in Python., Free Online Python Merge TXT to docx., Python Combine TXT to DOCX Online for Free., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner TXT à DOCX via Python" h2="Bibliothèque Python haute vitesse pour fusionner TXT à DOCX. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Fusionnez TXT à DOCX en ligne gratuitement. Gratuit en ligne TXT �
 
 {{% blocks/products/pf/agp/content h2="Fusionner TXT à DOCX en utilisant Python" %}}
 
- Comment fusionner TXT à DOCX ? Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement fusionner TXT à DOCX par programmation avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
+ Comment fusionner TXT à DOCX ? Avec la bibliothèque Aspose.Cells for Python via Java, vous pouvez facilement fusionner TXT à DOCX par programmation avec quelques lignes de code.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python via Java à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Fusionner TXT à DOCX en Python en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner TXT à DOCX dans Python.
+L'exemple suivant montre comment fusionner TXT à DOCX dans Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner TXT à DOCX. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier DOCX. Si vous développez du code en Python, ce sera plus simple qu'il n'y paraît. Voir l'exemple Python qui fusionne TXT à DOCX.
@@ -27,16 +28,18 @@ Suivez les étapes simples pour fusionner TXT à DOCX. Téléchargez vos fichier
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner TXT à DOCX en ligne" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner TXT à DOCX en Python" InputFormat="txt" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner TXT à DOCX via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Besoin de fusionner TXT à DOCX par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for Python via Java'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet Python.
 + Chargez le fichier TXT avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -75,21 +78,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un fichier avec l'extension .TXT représente un document texte contenant du texte brut sous forme de lignes. Les paragraphes d'un document texte sont reconnus par des retours chariot et sont utilisés pour une meilleure organisation du contenu du fichier. Un document texte standard peut être ouvert dans n'importe quel éditeur de texte ou application de traitement de texte sur différents systèmes d'exploitation. Tout le texte contenu dans un tel fichier est dans un format lisible par l'homme et représenté par une séquence de caractères.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX est un format bien connu pour les documents Word Microsoft. Introduit à partir de 2007 avec la sortie de Microsoft Office 2007, la structure de ce nouveau format de document est passée de binaire brut à une combinaison de fichiers XML et binaires. Les fichiers Docx peuvent être ouverts avec Word 2007 et les versions latérales, mais pas avec les versions antérieures de MS Word qui prennent en charge les extensions de fichier DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Python, on peut également fusionner txt vers de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-docx/" name="Fusionner TXT à DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-sql/" name="Fusionner TXT en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-bmp/" name="Fusionner TXT à BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-emf/" name="Fusionner TXT à EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-gif/" name="Fusionner TXT à GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-html/" name="Fusionner TXT à HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-md/" name="Fusionner TXT à MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-mhtml/" name="Fusionner TXT à MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-ods/" name="Fusionner TXT à ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-pdf/" name="Fusionner TXT à PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-png/" name="Fusionner TXT à PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-svg/" name="Fusionner TXT à SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tiff/" name="Fusionner TXT à TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tsv/" name="Fusionner TXT à TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-txt/" name="Fusionner TXT à TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xls/" name="Fusionner TXT à XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsb/" name="Fusionner TXT à XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsm/" name="Fusionner TXT à XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsx/" name="Fusionner TXT à XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlt/" name="Fusionner TXT à XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltm/" name="Fusionner TXT à XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltx/" name="Fusionner TXT à XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xml/" name="Fusionner TXT en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xps/" name="Fusionner TXT à XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-json/" name="Fusionner TXT à JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-jpeg/" name="Fusionner TXT à JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

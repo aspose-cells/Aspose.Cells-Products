@@ -1,5 +1,5 @@
 ---
-title:  Convertir XLSX en PDF/A Fichiers conformes via Java
+title: Convertir XLSX en PDF/A Fichiers conformes via Java
 weight: 3200
 description: Exemple de code de conversion Java pour le format XLSX en fichiers conformes PDF A. Les programmeurs peuvent utiliser cet exemple de code pour exporter des feuilles de calcul Excel et OpenOffice vers des fichiers conformes PDFA dans n'importe quelle application Web ou de bureau Java.
 ---
@@ -13,7 +13,7 @@ description: Exemple de code de conversion Java pour le format XLSX en fichiers 
 
  Afin de rendre XLSX à PDF/A, nous utiliserons
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API qui est une plate-forme de conversion API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
+ API qui est une plate-forme de conversion API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
@@ -58,7 +58,7 @@ API qui est une plate-forme de conversion API for Java riche en fonctionnalités
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Charger le fichier XLSX avec une instance de la classe Workbook
-1.  Créer un objet de classe PdfSaveOptions
+1. Créer un objet de classe PdfSaveOptions
 1.  Définir le type de conformité PdfCompliance.PdfA1b
 1.  Appelez la méthode Workbook.save
 1.  Passer le chemin de sortie avec l'extension PDF et l'objet PdfSaveOptions en tant que paramètres
@@ -147,7 +147,7 @@ Portable Document Format (PDF) est un type de document créé par Adobe dans les
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-txt/" name="XLSX À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xls/" name="XLSX À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlsb/" name="XLSX À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlsm/" name="XLSX À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlsm/" name="XLSX À XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xlt/" name="XLSX À XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltm/" name="XLSX À XLTM" description="Modèle Excel compatible avec les macros" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/conversion/xlsx-to-xltx/" name="XLSX À XLTX" description="Modèle Office OpenXML Excel" >}}

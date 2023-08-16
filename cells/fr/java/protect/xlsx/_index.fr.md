@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller XLSX document via Java
+title: Protéger et verrouiller XLSX document via Java
 weight: 1870
 description: Exemple de code Java pour verrouiller le fichier XLSX à l'aide du mot de passe sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
@@ -132,7 +132,7 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

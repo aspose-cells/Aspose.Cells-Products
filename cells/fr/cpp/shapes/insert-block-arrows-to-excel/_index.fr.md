@@ -36,7 +36,7 @@ PM> Install-Package Aspose.Cells.Cpp
 {{% blocks/products/pf/agp/feature-section-col title="Étapes pour insérer des flèches de bloc dans un fichier Excel via C++" %}}
 
 Instanciation d'un objet Workbook. (ou-> Charger le fichier XLSX avec le chemin complet.)
-+ Sélectionnez Feuille de travail via son index.
++ Sélectionnez Feuille de calcul via son index.
  + Utilisez le[ajouter une méthode](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) pour insérer la vue d'ensemble des types de flèches pleines dans la feuille de calcul sélectionnée
 + Enregistrer le classeur au format XLSX.
 

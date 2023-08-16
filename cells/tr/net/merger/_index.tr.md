@@ -18,7 +18,7 @@ description: Excel ve OpenOffice elektronik tablo dosyalarını yalnızca birka�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Birden Çok Excel Dosyasını Birleştirme" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) yöntem, bir Excel dosyasının verilerinin, stilinin ve formüllerinin aynı biçimdeki yeni bir elektronik tabloya birleştirilmesini destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)yöntem, bir Excel dosyasının verilerinin, stilinin ve formüllerinin aynı biçimdeki yeni bir elektronik tabloya birleştirilmesini destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur.
 {{% blocks/products/pf/feature-page-code h3="C# Birkaç Excel Dosyasını Birleştirmek İçin Kod" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

@@ -1,5 +1,5 @@
 ---
-title: TXT dosyalarını düzenle via .NET
+title:  TXT dosyalarını düzenle via .NET
 description: C# kaynak kodu TXT belgesini .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında düzenlemek için.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

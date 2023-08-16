@@ -1,7 +1,7 @@
 ---
-title: PRN'yi MHTML Python via Python'e dönüştür
-description: PRN'yi MHTML'e Çevrimiçi olarak Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi PRN'den MHTML'e Dönüştürücü. Python PRN - MHTML. PRN - MHTML - Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN'den MHTML'e - Çevrimiçi PRN'den MHTML'e Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python PRN'yi MHTML kaydetme biçimine dönüştürün. Python PRN'den MHTML formatına. PRN'yi MHTML Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to MHTML saveformat., Free Online PRN to MHTML Python., Python Convert PRN to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN\'yi Python\'de MHTML\'e dönüştür" h2="PRN\'yi MHTML\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ PRN'yi MHTML'e dönüştürmek için kolay adımları izleyin. PRN dosyanızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="PRN\'yi Çevrimiçi MHTML\'e Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="PRN\'yi Çevrimiçi MHTML\'e Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'i MHTML\'ye dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, PRN'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve MHTML'e dönüştürebilir.
+PRN dosyalarını programlı olarak MHTML'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, PRN'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve MHTML'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  PRN dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak PRN'yi MHTML'e dönüştürün
+1.  PRN dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak PRN'yi MHTML'e dönüştürün.
+1.  PRN'nin MHTML'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN dosyası, Windows'deki bazı Yazdır iletişim kutularında görünen Dosyaya Yazdır onay kutusu kullanılarak oluşturulan bir dosyadır. Bir yazıcının, faks makinesinin veya başka bir aygıtın bir belgeyi yazdırmak için kullandığı aygıta özgü bir dizi talimat içerir. PRN dosyaları, dosyanın oluşturulduğu cihaza bağlı olarak metin veya ikili içerik içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML uzantılı dosyalar, bir dizi farklı uygulama tarafından oluşturulabilen bir web sayfası arşiv biçimini temsil eder. Biçim, web HTML kodunu ve ilişkili kaynakları tek bir dosyaya kaydettiği için arşiv biçimi olarak bilinir. Bu kaynaklar, resimler, uygulamalar, animasyonlar, ses dosyaları vb. gibi web sayfasına bağlı her şeyi içerir. MHTML dosyaları, Internet Explorer ve Microsoft Word gibi çeşitli uygulamalarda açılabilir. Microsoft Windows, Windows'de sorun yaratan herhangi bir uygulamanın kullanımı sırasında gözlemlenen sorunların senaryolarını kaydetmek için MHTML dosya formatını kullanır. MHTML dosya formatı, sayfa içeriğini düz metin e-posta ile ilgili özellikler olan mesaj/rfc822'de tanımlanan özelliklere benzer şekilde kodlar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="PRN\'yi aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine de dönüştürebilirsiniz." >}}
 

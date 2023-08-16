@@ -18,7 +18,7 @@ description: Python Python Library kullanarak Excel'de Bubble3D grafikleri oluş
 
 {{% blocks/products/pf/agp/text %}}
 
-Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırarak bir Bubble3D grafiği oluşturması kolaydır.
+Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamalarını çalıştırarak bir Bubble3D grafiği oluşturması kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 

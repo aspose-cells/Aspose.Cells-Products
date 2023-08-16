@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers XLSM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera fusionné et concaténé instantanément." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera fusionné et concaténé instantanément." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

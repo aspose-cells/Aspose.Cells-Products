@@ -1,7 +1,7 @@
 ---
-title: TSV'i XLSB Python via Python'e dönüştür
-description: TSV'i XLSB'e Çevrimiçi olarak Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi TSV'den XLSB'e Dönüştürücü. Python TSV - XLSB. TSV - XLSB - Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV - XLSB - Çevrimiçi TSV - XLSB Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python TSV'i XLSB'e kaydet biçimine dönüştürün. Python TSV - XLSB biçimi. TSV'i XLSB Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to XLSB saveformat., Free Online TSV to XLSB Python., Python Convert TSV to XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TSV\'i Python\'de XLSB\'e dönüştür" h2="TSV\'i XLSB\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="TSV\'i Python\'de XLSB\'e dönüştür" %}}
 
- TSV'i XLSB'ye nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kitaplığı üzerinden birkaç satır kod ile TSV'i programlı olarak kolayca XLSB'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ TSV'i XLSB'e nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kitaplığı üzerinden birkaç satır kod ile TSV'i programlı olarak kolayca XLSB'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ TSV'i XLSB'e dönüştürmek için kolay adımları izleyin. TSV dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TSV\'i Çevrimiçi Olarak XLSB\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TSV\'i Çevrimiçi Olarak XLSB\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TSV\'i XLSB\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, yalnızca birkaç satır kodla kolayca yükleyebilir ve TSV'i XLSB'e dönüştürebilir.
+TSV dosyalarını programlı olarak XLSB'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla TSV'i kolayca yükleyebilir ve XLSB'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  TSV dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak TSV'i XLSB'e dönüştürün
+1.  TSV dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak TSV'i XLSB'e dönüştürün.
+1.  TSV'in XLSB'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Sekmeyle Ayrılmış Değerler (TSV) dosya biçimi, düz metin biçiminde sekmelerle ayrılmış verileri temsil eder. CSV'e benzer dosya biçimi, farklı uygulamalar arasında içe ve dışa aktarma amacıyla verilerin yapılandırılmış bir şekilde düzenlenmesi için kullanılır. Biçim, öncelikle Elektronik Tablo uygulamaları ve veritabanlarında veri içe/dışa aktarma ve değiş tokuş için kullanılır. TSV dosyasındaki her kayıt, her alan değerinin bir sekme karakteriyle ayrıldığı tek bir metin dosyası satırında bulunur. TSV dosya biçimi için ortam türü metin/sekmeyle ayrılmış değerlerdir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Biçimini belirtir. İçerik, yapılandırılmamış veya yarı yapılandırılmış sayı tabloları, metin veya hem sayılar hem de metin, formüller, harici veri bağlantıları, çizelgeler ve resimler içerebilir. XLSX'den farklı olarak (Açık XML dosya biçimini temel alır), XLSB, ikili Excel çalışma kitabı dosyasını temsil eder. XLSB dosyaları daha hızlı okunabilir ve yazılabilir, bu da onları büyük dosyalarla çalışmak için kullanışlı kılar. XLSB, çalışma kitaplarını depolamak için nadiren kullanılır, çünkü XLSX (ve daha önce XLS), çalışma kitaplarını kaydetmek için en yaygın kullanıcı tarafından seçilen dosya formatlarıdır. Microsoft Office 2007 ve üzeri ile açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca TSV\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

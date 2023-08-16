@@ -1,7 +1,7 @@
 ---
-title: XLT'i SQL Python via Python'e dönüştür
-description: XLT'i SQL Online'a Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi XLT'den SQL'e Dönüştürücü. Python XLT'den SQL'e. XLT üzerinden SQL'e Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT'den SQL'e - Çevrimiçi XLT'den SQL'e Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python XLT'i SQL saveformat'a dönüştürün. Python XLT SQL formatına. XLT'i SQL Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to SQL saveformat., Free Online XLT to SQL Python., Python Convert XLT to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT\'i Python\'de SQL\'e dönüştür" h2="XLT\'i SQL\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ XLT'i SQL'e dönüştürmek için kolay adımları izleyin. XLT dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT\'i Çevrimiçi SQL\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLT\'i Çevrimiçi SQL\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT\'i SQL\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, yalnızca birkaç satır kodla XLT'i kolayca yükleyebilir ve SQL'e dönüştürebilir.
+XLT dosyalarını programlı olarak SQL'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla XLT'i kolayca yükleyebilir ve SQL'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  XLT dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak XLT'i SQL'e dönüştürün
+1.  XLT dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak XLT'i SQL'e dönüştürün.
+1.  XLT'in SQL'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt uzantılı dosyalar, Microsoft Office paketinin bir parçası olarak gelen bir elektronik tablo uygulaması olan Microsoft Excel ile oluşturulan şablon dosyalarıdır. Microsoft Office 97-2003, yeni XLT dosyalarının oluşturulmasını ve bunların açılmasını destekledi. Excel'in en son sürümü hala bu eski biçim şablon dosyalarını açabilmektedir. Böyle bir şablon dosyası, yeni .xls dosyaları olarak kaydedilebilecek sayfa biçimlendirmesi, yazı tipi boyutu, kenar boşlukları, grafikler vb. gibi varsayılan veriler ve ayarlarla hızlı bir şekilde yeni Excel dosyaları oluşturmak için kullanılır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}.sql uzantılı bir dosya, ilişkisel veritabanlarıyla çalışmak için kod içeren bir Yapılandırılmış Sorgu Dili (SQL) dosyasıdır. Veritabanları üzerinde CRUD (Create, Read, Update, and Delete) işlemleri için SQL deyimleri yazmak için kullanılır. SQL dosyaları, masaüstü ve web tabanlı veritabanlarıyla çalışırken yaygındır. Java Kalıcı Sorgu Dili (JPQL), LINQ, HTSQL, 4D QL ve diğerleri gibi SQL'in birkaç alternatifi vardır. SQL dosyaları, Microsoft SQL Server, MySQL sorgu düzenleyicileri ve Windows OS üzerinde Notepad gibi diğer düz metin düzenleyicileri tarafından açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca XLT\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

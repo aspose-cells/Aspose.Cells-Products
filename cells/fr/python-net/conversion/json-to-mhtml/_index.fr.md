@@ -1,7 +1,7 @@
 ---
-title: Convertir JSON en MHTML Python via Python
-description: Convertissez JSON en MHTML en ligne gratuitement. Convertisseur en ligne gratuit JSON à MHTML. Python JSON à MHTML. JSON à MHTML via Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON à MHTML - Convertisseur en ligne JSON à MHTML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertir JSON en format de sauvegarde MHTML. Format Python JSON à MHTML. Enregistrez JSON à MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to MHTML saveformat., Free Online JSON to MHTML Python., Python Convert JSON to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir JSON en MHTML en Python" h2="Bibliothèque Python haute vitesse pour convertir JSON en MHTML. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Convertir JSON en MHTML en Python" %}}
 
- Comment convertir JSON en MHTML ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir JSON en MHTML par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
+ Comment convertir JSON en MHTML ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir JSON en MHTML par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir JSON en MHTML. Téléchargez votre fic
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir JSON en MHTML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir JSON en MHTML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir JSON en MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Python peuvent facilement charger et convertir JSON en MHTML en quelques lignes de code.
+Besoin de convertir les fichiers JSON en MHTML par programmation ? Les développeurs Python peuvent facilement charger et convertir JSON en MHTML en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier JSON avec une instance de Workbook
-1.  Convertir JSON en MHTML en appelant la méthode Workbook.save
+1.  Chargez le fichier JSON avec une instance de Workbook.
+1.  Convertissez JSON en MHTML en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de JSON en MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) est un format de fichier standard ouvert pour le partage de données qui utilise du texte lisible par l'homme pour stocker et transmettre des données. Les fichiers JSON sont stockés avec l'extension .json. JSON nécessite moins de formatage et constitue une bonne alternative au XML. JSON est dérivé de JavaScript mais est un format de données indépendant de la langue. La génération et l'analyse de JSON sont prises en charge par de nombreux langages de programmation modernes. application/json est le type de média utilisé pour JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Les fichiers avec l'extension MHTML représentent un format d'archive de page Web qui peut être créé par un certain nombre d'applications différentes. Le format est connu sous le nom de format d'archive car il enregistre le code Web HTML et les ressources associées dans un seul fichier. Ces ressources incluent tout ce qui est lié à la page Web, comme les images, les applets, les animations, les fichiers audio, etc. Les fichiers MHTML peuvent être ouverts dans diverses applications telles qu'Internet Explorer et Microsoft Word. Microsoft Windows utilise le format de fichier MHTML pour enregistrer les scénarios de problèmes observés lors de l'utilisation de toute application sur Windows qui soulève des problèmes. Le format de fichier MHTML encode le contenu de la page de manière similaire aux spécifications définies dans message/rfc822, qui sont des spécifications relatives aux e-mails en texte brut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir JSON en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-txt/" name="JSON À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xls/" name="JSON À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsb/" name="JSON À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsm/" name="JSON À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsm/" name="JSON À XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlsx/" name="JSON À XLSX" description="Fichier Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xlt/" name="JSON À XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/json-to-xltm/" name="JSON À XLTM" description="Modèle Excel compatible avec les macros" >}}

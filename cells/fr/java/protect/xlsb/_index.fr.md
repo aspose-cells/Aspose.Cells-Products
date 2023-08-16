@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller XLSB document via Java
+title: Protéger et verrouiller XLSB document via Java
 weight: 6590
 description: Exemple de code Java pour verrouiller le fichier XLSB à l'aide du mot de passe sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
@@ -131,7 +131,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

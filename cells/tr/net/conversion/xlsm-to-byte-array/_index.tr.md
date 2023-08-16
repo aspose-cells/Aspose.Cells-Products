@@ -11,7 +11,7 @@ description: C# XLSM'den Byte Array'e dönüştürme için örnek kod. VB.NET, A
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Bayt Dizisi, veri işleme veya depolama için yararlıdır. XLSM dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - XLSM**C# dilini kullanan belge. XLSM'i bayt dizisine dönüştürmek için kullanacağız
+ Bayt Dizisi, veri işleme veya depolama için yararlıdır. XLSM dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - XLSM** C# dilini kullanan belge. XLSM'i bayt dizisine dönüştürmek için kullanacağız
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET platformunu kullanarak belge işleme ve dönüştürme için farklı özellikler sunan API.
 {{% /blocks/products/pf/agp/content %}}

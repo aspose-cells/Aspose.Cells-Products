@@ -1,7 +1,8 @@
 ---
-title:  HTML'i MHT via Java ile birleştir
+title: HTML'i MHT ile birleştir - HTML'i Java'de MHT ile birleştir
 url: /tr/java/merger/merge-html-to-mht/ 
-description: HTML'i MHT Online ile Ücretsiz Olarak Birleştirin. Ücretsiz Online HTML MHT Birleşmesi. HTML'i Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. Java Aspose.Cells. HTML'i MHT saveformat'a Ücretsiz Çevrimiçi Birleştirme. Java HTML'i MHT biçiminde birleştirin. HTML'i Java'de MHT ile birleştir. HTML Birleştir.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTML to MHT in Java., Free Online Java Merge HTML to mht., Java Combine HTML to MHT Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML\'i MHT via Java ile birleştir" h2="HTML\'i MHT ile birleştirmek için yüksek hızlı Java kitaplığı. Java\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image\'i ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: HTML'i MHT Online ile Ücretsiz Olarak Birleştirin. Ücretsiz Onli
 
 {{% blocks/products/pf/agp/content h2="HTML\'i Java Kullanarak MHT ile birleştirin" %}}
 
- HTML ile MHT nasıl birleştirilir? Aspose.Cells for Java kütüphanesi ile birkaç satır kod ile HTML'i programlı olarak MHT ile kolayca birleştirebilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ HTML'i MHT ile nasıl birleştiririm? Aspose.Cells for Java kütüphanesi ile birkaç satır kod ile HTML'i programlı olarak MHT ile kolayca birleştirebilirsiniz.[Aspose.Cells for Java](https://products.aspose.com/cells/java) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Java Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="havuz" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: HTML'i MHT Online ile Ücretsiz Olarak Birleştirin. Ücretsiz Onli
 
 {{% blocks/products/pf/agp/content h2="HTML\'i MHT ile Java Online\'da Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, HTML'in Java'de MHT ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, HTML'in Aspose.Cells for Java'de MHT ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 HTML'i MHT ile birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından MHT dosyasına kaydedin. Java'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. HTML'i MHT ile birleştiren Java örneğine bakın.
@@ -55,16 +56,18 @@ HTML'i MHT ile birleştirmek için kolay adımları izleyin. Dosyalarınızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="HTML\'i hatta MHT ile birleştirmek için Ücretsiz Uygulama" InputFormat="html" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="HTML\'i Java\'de MHT ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="html" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML MHT via Java ile Nasıl Birleştirilir" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Java](https://products.aspose.com/cells/java) API'ler yalnızca birkaç satır kodla yapılabilir.
+HTML'i programlı olarak MHT ile birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Java](https://products.aspose.com/cells/java) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Java'i yükleyin.
++ Java projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + HTML dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -97,21 +100,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language), tarayıcılarda görüntülenmek üzere oluşturulan web sayfalarının uzantısıdır. Web'in dili olarak bilinen HTML, web sayfalarının bir parçası olarak görüntülenecek yeni bilgi gereklilikleri ile gelişmiştir. HTML 5 olarak bilinen en son değişken, dille çalışmak için çok fazla esneklik sağlar. HTML sayfaları, barındırıldığı sunucudan alınır veya yerel sistemden de yüklenebilir. Her HTML sayfası, formlar, metin, resimler, animasyonlar, bağlantılar vb. gibi HTML öğeden oluşur. Bu öğeler, etiketlerle ve her etiketin başlangıç ve bitişinin olduğu birkaç diğer öğeyle temsil edilir. Ayrıca, genel mizanpaj gösterimi için JavaScript ve Stil Sayfaları (CSS) gibi komut dosyası dillerinde yazılmış uygulamaları da gömebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}.mht uzantılı bir dosya, farklı veri türlerini tek bir dosyada içeren, MIME özellikli bir arşivleme dosyası biçimidir. Metin, resimler, sayfa stili gibi verileri CSS dosyaları, JavaScript ve diğer kaynaklar biçimindeki gömülü kaynaklar olarak depolayabilir. MIME tipi mesaj/rfc822'ye sahip olan MHT dosyaları, bir HTML dosyasının tüm içeriğini, depolama aygıtlarında arşivlemede depolamak için tek bir arşiv dosyası olarak kapsüller. Microsoft Word gibi yazılım uygulamaları, WORD belgelerinizi MHT dosyası olarak dışa aktararak MHT'ye dönüştürmenizi sağlar. MHT dosyaları, Microsoft Internet Explorer ve Google Chrome gibi popüler tarayıcılar kullanılarak açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="Java\'i kullanarak, html\'yi diğer birçok dosya biçimiyle de birleştirebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-docx/" name="HTML\'i DOCX ile birleştir" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-sql/" name="HTML\'i SQL ile birleştir" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-bmp/" name="HTML\'i BMP ile birleştir" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-emf/" name="HTML\'i EMF ile birleştir" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-gif/" name="HTML\'i GIF ile birleştir" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-html/" name="HTML\'i HTML ile birleştir" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-md/" name="HTML\'i MD ile birleştir" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-mhtml/" name="HTML\'i MHTML ile birleştir" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-ods/" name="HTML\'i ODS ile birleştir" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-pdf/" name="HTML\'i PDF ile birleştir" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-png/" name="HTML\'i PNG ile birleştir" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-svg/" name="HTML\'i SVG ile birleştir" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tiff/" name="HTML\'i TIFF ile birleştir" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-tsv/" name="HTML\'i TSV ile birleştir" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-txt/" name="HTML\'i TXT ile birleştir" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xls/" name="HTML\'i XLS ile birleştir" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsb/" name="HTML\'i XLSB ile birleştir" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsm/" name="HTML\'i XLSM ile birleştir" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlsx/" name="HTML\'i XLSX ile birleştir" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xlt/" name="HTML\'i XLT ile birleştir" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltm/" name="HTML\'i XLTM ile birleştir" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xltx/" name="HTML\'i XLTX ile birleştir" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xml/" name="HTML\'i XML\'e birleştir" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-xps/" name="HTML\'i XPS ile birleştir" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-json/" name="HTML\'i JSON ile birleştir" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-html-to-jpeg/" name="HTML\'i JPEG ile birleştir" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

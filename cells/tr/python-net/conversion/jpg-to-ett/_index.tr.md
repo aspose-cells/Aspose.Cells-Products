@@ -1,7 +1,7 @@
 ---
-title: JPG'yi ETT'ye dönüştür Python via Python
-description: JPG'yi ETT'ye Online Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi JPG'den ETT'ye Dönüştürücü. Python JPG'den ETT'ye. Python aracılığıyla JPG'den ETT'ye.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+title: Python JPG'den ETT'ye - Çevrimiçi JPG'den ETT'ye dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python JPG'yi ETT kaydetme biçimine dönüştürün. Python JPG'den ETT biçimine. JPG'yi ETT Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to ETT saveformat., Free Online JPG to ETT Python., Python Convert JPG to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de JPG\'yi ETT\'ye dönüştürün" h2="JPG\'yi ETT\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -22,26 +22,27 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 Aşağıdaki örnek, Python via NET'de JPG'nin ETT'ye nasıl dönüştürüleceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
-JPG'yi ETT'ye dönüştürmek için kolay adımları izleyin. JPG dosyanızı yükleyin, ardından ETT dosyası olarak kaydedin. Hem JPG okuma hem de ETT yazma için tam nitelikli dosya adlarını kullanabilirsiniz. Çıktı ETT içeriği ve biçimlendirmesi, orijinal JPG belgesiyle aynı olacaktır.
+JPG'yi ETT'ye dönüştürmek için kolay adımları izleyin. JPG dosyanızı yükleyin, ardından ETT dosyası olarak kaydedin. Hem JPG okuma hem de ETT yazma için tam nitelikli dosya adları kullanabilirsiniz. Çıktı ETT içeriği ve biçimlendirmesi, orijinal JPG belgesiyle aynı olacaktır.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="JPG\'yi Çevrimiçi ETT\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="JPG\'yi Çevrimiçi ETT\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="JPG\'yi ETT\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiriciler, JPG'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve ETT'ye dönüştürebilir.
+JPG dosyalarını programlı olarak ETT'ye dönüştürmeniz mi gerekiyor? Python geliştiriciler, JPG'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve ETT'ye dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  JPG dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1. Workbook.save yöntemini çağırarak JPG'yi ETT'ye dönüştürün
+1.  JPG dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak JPG'yi ETT'ye dönüştürün.
+1.  JPG'den ETT'ye dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü biçimi türüdür. Çıktı görüntüsü, sıkıştırmanın bir sonucu olarak, depolama boyutu ile görüntü kalitesi arasında bir değiş tokuştur. Kullanıcılar, depolama boyutunu küçültürken aynı zamanda istenen kalite düzeyine ulaşmak için sıkıştırma düzeyini ayarlayabilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma da o kadar yüksek olur.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Bir ETT dosyası, WPS Office paketine dahil olan bir elektronik tablo programı olan Kingsoft Spreadsheets tarafından oluşturulan bir elektronik tablo şablonudur. Yeni Kingsoft elektronik tabloları (.ET dosyaları) oluşturmak için başlangıç noktası olarak kullanılabilecek bir şablonu saklar. ETT dosyaları genellikle finansal bütçeler oluşturmak ve verileri düzenlemek için kullanılır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="JPG\'yi aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine de dönüştürebilirsiniz." >}}
 

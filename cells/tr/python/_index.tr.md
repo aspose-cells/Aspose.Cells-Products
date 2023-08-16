@@ -419,7 +419,7 @@ Gelişmiş Python Excel API Özellikler
     </p>
     <div class="codeblock" id="code">
      <h3>
- Elektronik tabloyu farklı biçimlerde kaydetme - Java
+Elektronik tabloyu farklı biçimlerde kaydetme - Java
      </h3>
      <pre><code class="java">// load file to be converted
 
@@ -461,7 +461,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Esnek Ekran Seçenekleri
     </h2>
     <p>
-Aspose.Cells for Python, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve üstbilgiler gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
+Aspose.Cells for Python, ön izleme sayfası sonları, yakınlaştırma düzeyini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve üstbilgiler gibi çoklu görüntüleme seçeneklerini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
     </p>
    </div>
    <!--<div class="col-lg-12">

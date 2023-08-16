@@ -1,7 +1,7 @@
 ---
-title: CSV'i XPS Python via Python'e dönüştür
-description: CSV'i XPS'e Çevrimiçi olarak Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi CSV'den XPS'e Dönüştürücü. Python CSV - XPS. CSV - XPS - Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV - XPS - Çevrimiçi CSV - XPS Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python CSV'i XPS'e kaydet biçimine dönüştürün. Python CSV - XPS biçimi. CSV'i XPS Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to XPS saveformat., Free Online CSV to XPS Python., Python Convert CSV to XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="CSV\'i Python\'de XPS\'e dönüştür" h2="CSV\'i XPS\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="CSV\'i Python\'de XPS\'e dönüştür" %}}
 
- CSV'i XPS'ye nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kitaplığı üzerinden birkaç satır kod ile CSV'i programlı olarak kolayca XPS'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ CSV'i XPS'e nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kitaplığı üzerinden birkaç satır kod ile CSV'i programlı olarak kolayca XPS'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ CSV'i XPS'e dönüştürmek için kolay adımları izleyin. CSV dosyanızı yük
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="CSV\'i Çevrimiçi Olarak XPS\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="CSV\'i Çevrimiçi Olarak XPS\'e Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="CSV\'i XPS\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, yalnızca birkaç satır kodla kolayca yükleyebilir ve CSV'i XPS'e dönüştürebilir.
+CSV dosyalarını programlı olarak XPS'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla CSV'i kolayca yükleyebilir ve XPS'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  CSV dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak CSV'i XPS'e dönüştürün
+1.  CSV dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak CSV'i XPS'e dönüştürün.
+1.  CSV'in XPS'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}.csv (Virgülle Ayrılmış Değerler) uzantılı dosyalar, virgülle ayrılmış değerler içeren veri kayıtlarını içeren düz metin dosyalarını temsil eder. CSV dosyasındaki her satır, dosyada bulunan kayıt kümesinden yeni bir kayıttır. Bu tür dosyalar, bir depolama sisteminden diğerine veri aktarımı amaçlandığında oluşturulur. Tüm uygulamalar virgülle ayrılmış kayıtları tanıyabildiğinden, bu tür veri dosyalarının veri tabanına aktarımı çok rahat bir şekilde yapılır. Microsoft Excel veya OpenOffice Calc gibi hemen hemen tüm elektronik tablo uygulamaları, CSV'i fazla çaba harcamadan içe aktarabilir. Bu tür dosyalardan içe aktarılan veriler, kullanıcıya gösterilmek üzere bir elektronik tablonun hücrelerinde düzenlenir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Bir XPS dosyası, Microsoft tarafından oluşturulan XML Kağıt Spesifikasyonlarına dayalı sayfa düzeni dosyalarını temsil eder. EMF dosya biçiminin yerine geliştirilmiştir ve PDF dosya biçimine benzer, ancak bir belgenin düzeninde, görünümünde ve yazdırma bilgilerinde XML kullanır. . Aslında XPS'in PDF'e yönelik bir girişim olduğunu ancak birçok nedenden dolayı PDF'in sahibi olduğu kadar popülerlik kazanamadığını söylemek daha doğru olur. Microsoft, XPS dosyalarının oluşturulması için varsayılan olarak Windows 7'den itibaren XPS Document Writer sağlar. Doküman yazdırılırken yazıcı olarak "Microsoft XPS Document Writer" seçilerek XPS dosyaları oluşturulabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca CSV\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

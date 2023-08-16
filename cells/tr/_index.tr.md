@@ -50,7 +50,7 @@ Microsoft Excel dosyalarını favori tarayıcınızdan ayrılmadan kolayca PDF, 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Meta veriler" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Hesap tablosunun meta verilerini herhangi bir tarayıcıdan görüntülemek veya düzenlemek için Microsoft Excel dosyanızı yüklemeniz yeterlidir. Kurulum veya ek araç gerekmez.
+ Hesap tablosunun meta verilerini herhangi bir tarayıcıdan görüntülemek veya düzenlemek için Microsoft Excel dosyanızı yüklemeniz yeterlidir. Kurulum veya ek araç gerekmez.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="görüntüleyici" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ XLS, XLSX, XLSM, XLSB ve ODS dahil elektronik tablo dosyalarını istediğiniz y
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmadan yaptığımız şeyi yapamazdık.
+Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmadan yaptığımız şeyi yapamazdık.
  <em>
  Dan Patterson | Acumen, Birleşik Krallık
  </em>

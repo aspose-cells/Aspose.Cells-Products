@@ -1,7 +1,8 @@
 ---
-title:  XLSX'i C# aracılığıyla HTM ile birleştirin
+title: XLSX'i HTM ile birleştir - XLSX'i C#'de HTM ile birleştir
 url: /tr/net/merger/merge-xlsx-to-htm/ 
-description: XLSX'i HTM Online ile Ücretsiz Olarak Birleştirin. Ücretsiz Online XLSX HTM Birleşmesi. XLSX'i Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. C# Aspose.Cells. XLSX'i HTM saveformat'a Ücretsiz Çevrimiçi Birleştirme. C# XLSX'i HTM biçiminde birleştirin. XLSX'i C#'de HTM ile birleştirin. XLSX Birleştirin.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSX to HTM in C#., Free Online C# Merge XLSX to htm., C# Combine XLSX to HTM Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX\'i C# aracılığıyla HTM ile birleştirin" h2="XLSX\'i HTM ile birleştirmek için yüksek hızlı C# kitaplığı. C#\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image\'i ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLSX'i HTM Online ile Ücretsiz Olarak Birleştirin. Ücretsiz Onli
 
 {{% blocks/products/pf/agp/content h2="XLSX\'i C# Kullanarak HTM ile birleştirin" %}}
 
- XLSX HTM ile nasıl birleştirilir? Aspose.Cells for .NET kütüphanesi ile XLSX'i birkaç satır kod ile programlı olarak kolayca HTM ile birleştirebilirsiniz.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. .NET Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, Aspose.Cells'i arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+ XLSX'i HTM ile nasıl birleştiririm? Aspose.Cells for .NET kütüphanesi ile XLSX'i birkaç satır kod ile programlı olarak kolayca HTM ile birleştirebilirsiniz.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. .NET Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, Aspose.Cells'i arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="XLSX\'i C# Çevrimiçi HTM ile Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, XLSX'in C#'de HTM ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, XLSX'in Aspose.Cells for .NET'de HTM ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 XLSX'i HTM ile birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından HTM dosyasına kaydedin. C#'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. XLSX'i HTM ile birleştiren C# örneğine bakın.
@@ -36,16 +37,18 @@ XLSX'i HTM ile birleştirmek için kolay adımları izleyin. Dosyalarınızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSX\'i hat üzerinde HTM ile birleştirmek için Ücretsiz Uygulama" InputFormat="xlsx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="XLSX\'i C#\'de HTM ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="xlsx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSX\'i C# aracılığıyla HTM ile Birleştirme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
+XLSX'i programlı olarak HTM ile birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET'i yükleyin.
++ C# projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + XLSX dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -62,7 +65,7 @@ Sisteminize "Aspose.Cells for .NET" yüklemek için iki alternatif seçenek vard
 {{% /blocks/products/pf/agp/text %}}
 
 1.  yüklemek[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Görmek[Belgeler](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  kullanarak kitaplığı kurun[Paket Yöneticisi Konsolu](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)Visual Studio IDE içinde
+1.  kullanarak kitaplığı kurun[Paket Yöneticisi Konsolu](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE içinde
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunulan Microsoft Excel belgeleri için iyi bilinen bir biçimdir. OOXML standardı ECMA-376'nın 2. Bölümünde özetlenen Açık Paketleme Kurallarına göre düzenlenen yapıya dayalı olarak, yeni biçim şu şekildedir: bir dizi XML dosyası içeren bir zip paketi. Altta yatan yapı ve dosyalar, yalnızca .xlsx dosyasını açarak incelenebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm uzantılı dosyalar, Google Chrome, Internet Explorer, Firefox ve diğerleri gibi web tarayıcılarında görüntülenecek web sayfaları oluşturmak için Köprü Metni İşaretleme Dilini temsil eder. Başkalarının erişimi için World Wide Web'de (WWW) yayınlanacak statik sayfalar oluşturmak için işaretlemeleri tanımlar. Bu işaretlemeler, tarayıcılara bir web sayfasının içeriğini nasıl görüntüleyeceğini söyler. Bu tür sayfalar düz metin, resimler, diğer sayfalara köprüler, videolar ve diğer medya bilgilerini içerebilir. Bir web sayfası yayınlandığında, sayfa kaynağına bakarak arkasındaki biçimlendirme koduna göz atabilirsiniz. Modern tarayıcılar, bir web sayfasının HTM kaynağındaki her bir alt bölümün veya biçimlendirme öğesinin ayrıntılandırıldığı her bölümünün incelenmesine izin verir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="C#\'i kullanarak, xlsx\'i de dahil olmak üzere diğer birçok dosya formatıyla birleştirebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-docx/" name="XLSX\'i DOCX ile birleştir" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-sql/" name="XLSX\'i SQL ile birleştir" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-bmp/" name="XLSX\'i BMP ile birleştir" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-emf/" name="XLSX\'i EMF ile birleştir" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-gif/" name="XLSX\'i GIF ile birleştir" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-html/" name="XLSX\'i HTML ile birleştir" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-md/" name="XLSX\'i MD ile birleştir" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-mhtml/" name="XLSX\'i MHTML ile birleştir" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-ods/" name="XLSX\'i ODS ile birleştir" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-pdf/" name="XLSX\'i PDF ile birleştir" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-png/" name="XLSX\'i PNG ile birleştir" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-svg/" name="XLSX\'i SVG ile birleştir" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-tiff/" name="XLSX\'i TIFF ile birleştir" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-tsv/" name="XLSX\'i TSV ile birleştir" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-txt/" name="XLSX\'i TXT ile birleştir" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xls/" name="XLSX\'i XLS ile birleştir" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsb/" name="XLSX\'i XLSB ile birleştir" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsm/" name="XLSX\'i XLSM ile birleştir" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlsx/" name="XLSX\'i XLSX ile birleştir" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xlt/" name="XLSX\'i XLT ile birleştir" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xltm/" name="XLSX\'i XLTM ile birleştir" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xltx/" name="XLSX\'i XLTX ile birleştir" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xml/" name="XLSX\'i XML\'e birleştir" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-xps/" name="XLSX\'i XPS ile birleştir" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-json/" name="XLSX\'i JSON ile birleştir" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsx-to-jpeg/" name="XLSX\'i JPEG ile birleştir" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

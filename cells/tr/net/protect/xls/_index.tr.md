@@ -1,5 +1,5 @@
 ---
-title:  Koruyun ve kilitleyin XLS belge via .NET
+title: Koruyun ve kilitleyin XLS belge via .NET
 weight: 7010
 description: C# kaynak kodu, .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS dosyasını parola kullanarak kilitlemek için.
 ---

@@ -1,7 +1,8 @@
 ---
-title:  MHTML'i C# aracılığıyla ODS ile birleştirin
+title: MHTML'i ODS'e birleştir - MHTML'i C#'de ODS'e birleştir
 url: /tr/net/merger/merge-mhtml-to-ods/ 
-description: MHTML'i ODS ile Çevrimiçi Ücretsiz Olarak Birleştirin. Ücretsiz Çevrimiçi MHTML - ODS Birleşme. MHTML'i Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. C# Aspose.Cells. Ücretsiz Çevrimiçi Birleştirme MHTML ile ODS kaydetme biçimi. C# MHTML ile ODS formatını birleştirin. C# içinde MHTML'i ODS ile birleştir. MHTML Birleştir.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHTML to ODS in C#., Free Online C# Merge MHTML to ods., C# Combine MHTML to ODS Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML\'i C# aracılığıyla ODS ile birleştirin" h2="MHTML ile ODS\'i birleştirmek için yüksek hızlı C# kitaplığı. C#\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: MHTML'i ODS ile Çevrimiçi Ücretsiz Olarak Birleştirin. Ücretsi
 
 {{% blocks/products/pf/agp/content h2="MHTML\'i C# Kullanarak ODS ile birleştirin" %}}
 
- MHTML ile ODS nasıl birleştirilir? Aspose.Cells for .NET kütüphanesi ile MHTML ile ODS'i programlı olarak birkaç satır kod ile kolayca birleştirebilirsiniz.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. .NET Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, Aspose.Cells'i arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+ MHTML ile ODS'i nasıl birleştiririm? Aspose.Cells for .NET kütüphanesi ile MHTML ile ODS'i programlı olarak birkaç satır kod ile kolayca birleştirebilirsiniz.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. .NET Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Açık[NuGet](https://www.nuget.org/packages/aspose.cells) paket yöneticisi, Aspose.Cells'i arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="MHTML ile ODS\'i C# Çevrimiçinde Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, MHTML'in C#'de ODS ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, MHTML'in Aspose.Cells for .NET'de ODS ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 MHTML ile ODS'i birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından ODS dosyasına kaydedin. C#'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. MHTML'i ODS ile birleştiren C# örneğine bakın.
@@ -36,16 +37,18 @@ MHTML ile ODS'i birleştirmek için kolay adımları izleyin. Dosyalarınızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="MHTML\'i hatta ODS ile birleştirmek için Ücretsiz Uygulama" InputFormat="mhtml" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="MHTML\'i C#\'de ODS ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="mhtml" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="MHTML\'i C# üzerinden ODS ile Birleştirme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
+ MHTML ile ODS'i programlı olarak birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET'i yükleyin.
++ C# projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + MHTML dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -62,7 +65,7 @@ Sisteminize "Aspose.Cells for .NET" yüklemek için iki alternatif seçenek vard
 {{% /blocks/products/pf/agp/text %}}
 
 1.  yüklemek[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Görmek[Belgeler](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  kullanarak kitaplığı kurun[Paket Yöneticisi Konsolu](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)Visual Studio IDE içinde
+1.  kullanarak kitaplığı kurun[Paket Yöneticisi Konsolu](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE içinde
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML uzantılı dosyalar, bir dizi farklı uygulama tarafından oluşturulabilen bir web sayfası arşiv biçimini temsil eder. Biçim, web HTML kodunu ve ilişkili kaynakları tek bir dosyaya kaydettiği için arşiv biçimi olarak bilinir. Bu kaynaklar, resimler, uygulamalar, animasyonlar, ses dosyaları vb. gibi web sayfasına bağlı her şeyi içerir. MHTML dosyaları, Internet Explorer ve Microsoft Word gibi çeşitli uygulamalarda açılabilir. Microsoft Windows, Windows'de sorun yaratan herhangi bir uygulamanın kullanımı sırasında gözlemlenen sorunların senaryolarını kaydetmek için MHTML dosya formatını kullanır. MHTML dosya formatı, sayfa içeriğini düz metin e-posta ile ilgili özellikler olan mesaj/rfc822'de tanımlanan özelliklere benzer şekilde kodlar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}.ods uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt tiplerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="C#\'i kullanarak, mhtml\'yi diğer birçok dosya biçimiyle de birleştirebilir." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="C#\'i kullanarak, mhtml\'yi diğer birçok dosya biçimiyle de birleştirebilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-docx/" name="MHTML\'i DOCX ile birleştir" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-sql/" name="MHTML\'i SQL ile birleştir" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-bmp/" name="MHTML\'i BMP ile birleştir" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-emf/" name="MHTML\'i EMF ile birleştir" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-gif/" name="MHTML\'i GIF ile birleştir" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-html/" name="MHTML\'i HTML ile birleştir" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-md/" name="MHTML\'i MD ile birleştir" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-mhtml/" name="MHTML\'i MHTML ile birleştir" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-ods/" name="MHTML\'i ODS ile birleştir" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-pdf/" name="MHTML\'i PDF ile birleştir" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-png/" name="MHTML\'i PNG ile birleştir" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-svg/" name="MHTML\'i SVG ile birleştir" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-tiff/" name="MHTML\'i TIFF ile birleştir" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-tsv/" name="MHTML\'i TSV ile birleştir" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-txt/" name="MHTML\'i TXT ile birleştir" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xls/" name="MHTML\'i XLS ile birleştir" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsb/" name="MHTML\'i XLSB ile birleştir" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsm/" name="MHTML\'i XLSM ile birleştir" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlsx/" name="MHTML\'i XLSX ile birleştir" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xlt/" name="MHTML\'i XLT ile birleştir" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltm/" name="MHTML\'i XLTM ile birleştir" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xltx/" name="MHTML\'i XLTX ile birleştir" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xml/" name="MHTML\'i XML\'e birleştir" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-xps/" name="MHTML\'i XPS ile birleştir" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-json/" name="MHTML\'i JSON ile birleştir" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mhtml-to-jpeg/" name="MHTML\'i JPEG ile birleştir" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

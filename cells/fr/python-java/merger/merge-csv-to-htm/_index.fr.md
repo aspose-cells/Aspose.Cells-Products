@@ -1,7 +1,8 @@
 ---
-title:  Fusionner CSV à HTM via Python
+title: Fusionner CSV à HTM - Combiner CSV à HTM dans Python
 url: /fr/python-java/merger/merge-csv-to-htm/ 
-description: Fusionnez CSV avec HTM Online gratuitement. Gratuit en ligne CSV à la fusion HTM. Fusionnez CSV vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. Python Aspose.Cells. Fusion en ligne gratuite CSV au format de sauvegarde HTM. Python Combinez CSV au format HTM. Fusionner CSV à HTM dans Python. CSV Fusionner.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge CSV to HTM in Python., Free Online Python Merge CSV to htm., Python Combine CSV to HTM Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner CSV à HTM via Python" h2="Bibliothèque Python haute vitesse pour fusionner CSV avec HTM. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Fusionnez CSV avec HTM Online gratuitement. Gratuit en ligne CSV à
 
 {{% blocks/products/pf/agp/content h2="Fusionner CSV à HTM en utilisant Python" %}}
 
- Comment fusionner CSV en HTM ? Avec la bibliothèque Aspose.Cells for Python, vous pouvez facilement fusionner CSV en HTM par programmation avec quelques lignes de code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
+ Comment fusionner CSV en HTM ? Avec la bibliothèque Aspose.Cells for Python via Java, vous pouvez facilement fusionner CSV en HTM par programmation avec quelques lignes de code.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez installer Aspose.Cells for Python via Java à partir de<a href="https://pypi.org/project/aspose-cells/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Fusionner CSV à HTM dans Python en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner CSV en HTM dans Python.
+L'exemple suivant montre comment fusionner CSV en HTM dans Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner CSV en HTM. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans un fichier HTM. Si vous développez du code en Python, ce sera plus simple qu'il n'y paraît. Voir l'exemple Python qui fusionne CSV en HTM.
@@ -27,16 +28,18 @@ Suivez les étapes simples pour fusionner CSV en HTM. Téléchargez vos fichiers
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner CSV à HTM en ligne" InputFormat="csv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner CSV en HTM en Python" InputFormat="csv" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner CSV en HTM via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Besoin de fusionner CSV avec HTM par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for Python via Java'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet Python.
 + Chargez le fichier CSV avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -75,21 +78,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Les fichiers avec l'extension .csv (Comma Separated Values) représentent des fichiers en texte brut qui contiennent des enregistrements de données avec des valeurs séparées par des virgules. Chaque ligne d'un fichier CSV est un nouvel enregistrement de l'ensemble des enregistrements contenus dans le fichier. De tels fichiers sont générés lorsque le transfert de données est prévu d'un système de stockage à un autre. Étant donné que toutes les applications peuvent reconnaître les enregistrements séparés par des virgules, l'importation de ces fichiers de données dans la base de données se fait de manière très pratique. Presque toutes les applications de tableur telles que Microsoft Excel ou OpenOffice Calc peuvent importer CSV sans trop d'effort. Les données importées à partir de ces fichiers sont disposées dans des cellules d'une feuille de calcul pour être présentées à l'utilisateur.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Les fichiers avec l'extension .htm représentent le langage de balisage hypertexte pour créer des pages Web à afficher dans des navigateurs Web tels que Google Chrome, Internet Explorer, Firefox et un certain nombre d'autres. Il définit les balises pour la création de pages statiques à publier sur le World Wide Web (WWW) pour l'accès par d'autres. Ces balises indiquent aux navigateurs comment afficher le contenu d'une page Web. Ces pages peuvent contenir du texte brut, des images, des hyperliens vers d'autres pages, des vidéos et d'autres informations multimédias. Lorsqu'une page Web est publiée, vous pouvez consulter le code de balisage qui la sous-tend en affichant la source de sa page. Les navigateurs modernes permettent d'inspecter chaque section d'une page Web où chaque sous-division ou élément de balisage dans la source HTM est élaboré.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Python, on peut également fusionner csv avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-docx/" name="Fusionner CSV à DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-sql/" name="Fusionner CSV en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-bmp/" name="Fusionner CSV à BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-emf/" name="Fusionner CSV à EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-gif/" name="Fusionner CSV à GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-html/" name="Fusionner CSV à HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-md/" name="Fusionner CSV à MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-mhtml/" name="Fusionner CSV à MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-ods/" name="Fusionner CSV à ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-pdf/" name="Fusionner CSV à PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-png/" name="Fusionner CSV à PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-svg/" name="Fusionner CSV à SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-tiff/" name="Fusionner CSV à TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-tsv/" name="Fusionner CSV à TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-txt/" name="Fusionner CSV à TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xls/" name="Fusionner CSV à XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsb/" name="Fusionner CSV à XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsm/" name="Fusionner CSV à XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlsx/" name="Fusionner CSV à XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xlt/" name="Fusionner CSV à XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xltm/" name="Fusionner CSV à XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xltx/" name="Fusionner CSV à XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xml/" name="Fusionner CSV en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-xps/" name="Fusionner CSV à XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-json/" name="Fusionner CSV à JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-csv-to-jpeg/" name="Fusionner CSV à JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

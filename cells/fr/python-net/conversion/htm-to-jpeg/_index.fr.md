@@ -1,7 +1,7 @@
 ---
-title: Convertir HTM en JPEG Python via Python
-description: Convertissez HTM en JPEG en ligne gratuitement. Convertisseur HTM en ligne gratuit en JPEG. Python HTM à JPEG. HTM à JPEG via Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM à JPEG - Convertisseur en ligne HTM à JPEG
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertir HTM en format de sauvegarde JPEG. Python HTM au format JPEG. Enregistrez HTM au JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to JPEG saveformat., Free Online HTM to JPEG Python., Python Convert HTM to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir HTM en JPEG en Python" h2="Bibliothèque Python haute vitesse pour convertir HTM en JPEG. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir HTM en JPEG. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir HTM en JPEG en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir HTM en JPEG en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir HTM en JPEG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Python peuvent facilement charger et convertir HTM en JPEG en quelques lignes de code.
+Besoin de convertir des fichiers HTM en JPEG par programmation ? Les développeurs Python peuvent facilement charger et convertir HTM en JPEG en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier HTM avec une instance de Workbook
-1.  Convertir HTM en JPEG en appelant la méthode Workbook.save
+1.  Chargez le fichier HTM avec une instance de Workbook.
+1.  Convertissez HTM en JPEG en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de HTM en JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,39 +64,44 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Les fichiers avec l'extension .htm représentent le langage de balisage hypertexte pour créer des pages Web à afficher dans des navigateurs Web tels que Google Chrome, Internet Explorer, Firefox et un certain nombre d'autres. Il définit les balises pour la création de pages statiques à publier sur le World Wide Web (WWW) pour l'accès par d'autres. Ces balises indiquent aux navigateurs comment afficher le contenu d'une page Web. Ces pages peuvent contenir du texte brut, des images, des hyperliens vers d'autres pages, des vidéos et d'autres informations multimédias. Lorsqu'une page Web est publiée, vous pouvez consulter le code de balisage qui la sous-tend en affichant la source de sa page. Les navigateurs modernes permettent d'inspecter chaque section d'une page Web où chaque sous-division ou élément de balisage dans la source HTM est élaboré.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Un JPEG est un type de format d'image enregistré à l'aide de la méthode de compression avec perte. L'image de sortie, résultant de la compression, est un compromis entre la taille de stockage et la qualité de l'image. Les utilisateurs peuvent ajuster le niveau de compression pour atteindre le niveau de qualité souhaité tout en réduisant la taille de stockage. La qualité de l'image est négligeable si une compression 10:1 est appliquée à l'image. Plus la valeur de compression est élevée, plus la dégradation de la qualité de l'image est importante.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir HTM en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-bmp/" name="HTM À BMP" description="Image bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-emf/" name="HTM À EMF" description="Format de métafichier amélioré" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-gif/" name="HTM À GIF" description="Format d\'échange graphique" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM À HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-bmp/" name="HTM TO BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-emf/" name="HTM TO EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-gif/" name="HTM TO GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-html/" name="HTM TO HTML" description="Langage Signalétique Hyper Text" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-md/" name="HTM À MD" description="Langage Markdown" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-mhtml/" name="HTM À MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-ods/" name="HTM À ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-pdf/" name="HTM À PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-png/" name="HTM À PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-svg/" name="HTM À SVG" description="Image Vectorielle" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tiff/" name="HTM À TIFF" description="Format d\'image balisé" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tsv/" name="HTM À TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-txt/" name="HTM À TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xls/" name="HTM À XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsb/" name="HTM À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsm/" name="HTM À XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsx/" name="HTM À XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlt/" name="HTM À XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltm/" name="HTM À XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltx/" name="HTM À XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-mhtml/" name="HTM TO MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-ods/" name="HTM TO ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-pdf/" name="HTM TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-png/" name="HTM TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-svg/" name="HTM TO SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tiff/" name="HTM TO TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-tsv/" name="HTM TO TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-txt/" name="HTM TO TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xls/" name="HTM TO XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsb/" name="HTM TO XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsm/" name="HTM TO XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlsx/" name="HTM TO XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlt/" name="HTM TO XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltm/" name="HTM TO XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltx/" name="HTM TO XLTX" description="Modèle Office OpenXML Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xml/" name="HTM VERS XML" description="Langage de balisage extensible" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xps/" name="HTM À XPS" description="Spécifications papier XML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-json/" name="HTM À JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xps/" name="HTM TO XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-json/" name="HTM TO JSON" description="Notation d\'objet JavaScript" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -63,7 +63,7 @@ description: Exemple de code Java pour extraire le texte et les images du fichie
 + Sélectionnez la feuille requise à l'aide de la méthode getWorksheets().get.
 + Récupère toutes les cellules de la feuille sélectionnée à l'aide de getCells().
 + Itérer sur chaque cellule, obtenir son texte.
-+ Imprimer chaque valeur de cellule ou utiliser la méthode StringBuilder append() pour afficher dans son ensemble
+Imprimer chaque valeur de cellule ou utiliser la méthode StringBuilder append() pour afficher dans son ensemble
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -140,7 +140,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/parser/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
+Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmeye gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece XLT dosyalarınızı yükleyin." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında birleştirilecek ve birleştirilecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında birleştirilecek ve birleştirilecektir." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

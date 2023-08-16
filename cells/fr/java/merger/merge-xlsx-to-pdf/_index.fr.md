@@ -1,7 +1,8 @@
 ---
-title:  Fusionner XLSX à PDF via Java
+title: Fusionner XLSX à PDF - Combiner XLSX à PDF dans Java
 url: /fr/java/merger/merge-xlsx-to-pdf/ 
-description: Fusionnez XLSX à PDF en ligne gratuitement. Gratuit en ligne XLSX à PDF Fusion. Fusionnez XLSX vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. Java Aspose.Cells. Fusion en ligne gratuite XLSX au format de sauvegarde PDF. Java Combinez le format XLSX au format PDF. Fusionner XLSX à PDF dans Java. XLSX Fusionner.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to PDF in Java., Free Online Java Merge XLSX to pdf., Java Combine XLSX to PDF Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner XLSX à PDF via Java" h2="Bibliothèque Java haute vitesse pour fusionner XLSX à PDF. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Java. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Fusionnez XLSX à PDF en ligne gratuitement. Gratuit en ligne XLSX 
 
 {{% blocks/products/pf/agp/content h2="Fusionner XLSX à PDF en utilisant Java" %}}
 
- Comment fusionner XLSX à PDF ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner XLSX à PDF par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment fusionner XLSX à PDF ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner XLSX à PDF par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Fusionnez XLSX à PDF en ligne gratuitement. Gratuit en ligne XLSX 
 
 {{% blocks/products/pf/agp/content h2="Fusionner XLSX à PDF en Java en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner XLSX à PDF dans Java.
+L'exemple suivant montre comment fusionner XLSX à PDF dans Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner XLSX à PDF. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier PDF. Si vous développez du code en Java, ce sera plus simple qu'il n'y paraît. Voir l'exemple Java qui fusionne XLSX à PDF.
@@ -55,16 +56,18 @@ Suivez les étapes simples pour fusionner XLSX à PDF. Téléchargez vos fichier
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner XLSX à PDF en ligne" InputFormat="xlsx" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner XLSX à PDF en Java" InputFormat="xlsx" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner XLSX à PDF via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Besoin de fusionner XLSX à PDF par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for Java'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet Java.
 + Chargez le fichier XLSX avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -97,21 +100,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) est un type de document créé par Adobe dans les années 1990. Le but de ce format de fichier était d'introduire une norme pour la représentation des documents et autres documents de référence dans un format indépendant du logiciel d'application, du matériel ainsi que du système d'exploitation. Le format de fichier PDF a la pleine capacité de contenir des informations telles que du texte, des images, des hyperliens, des champs de formulaire, des médias enrichis, des signatures numériques, des pièces jointes, des métadonnées, des fonctionnalités géospatiales et des objets 3D qui peuvent faire partie du document source.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Java, on peut également fusionner xlsx avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-docx/" name="Fusionner XLSX à DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-sql/" name="Fusionner XLSX en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-bmp/" name="Fusionner XLSX à BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-emf/" name="Fusionner XLSX à EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-gif/" name="Fusionner XLSX à GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="Fusionner XLSX à HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-md/" name="Fusionner XLSX à MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="Fusionner XLSX à MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="Fusionner XLSX à ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-pdf/" name="Fusionner XLSX à PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-png/" name="Fusionner XLSX à PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-svg/" name="Fusionner XLSX à SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tiff/" name="Fusionner XLSX à TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="Fusionner XLSX à TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="Fusionner XLSX à TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="Fusionner XLSX à XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="Fusionner XLSX à XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="Fusionner XLSX à XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="Fusionner XLSX à XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="Fusionner XLSX à XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="Fusionner XLSX à XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="Fusionner XLSX à XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xml/" name="Fusionner XLSX en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xps/" name="Fusionner XLSX à XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-json/" name="Fusionner XLSX à JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-jpeg/" name="Fusionner XLSX à JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

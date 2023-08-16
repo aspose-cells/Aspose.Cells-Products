@@ -70,7 +70,7 @@ Office 365'te yorumlar konuşmalar içindir, ODS dosyasına yorum eklemek ve kal
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-.ods uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt türlerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
+.ods uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt tiplerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED'i SQL'e dönüştür Python via Python
-description: TABDELIMITED'i SQL Online'a Ücretsiz Dönüştürün. Ücretsiz Online TABDELIMITED to SQL Converter. Python SQL'e TABDELIMITED. Python üzerinden SQL'e TABDELIMITED.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED'den SQL'e - Çevrimiçi TABDELIMITED'den SQL'e Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python TABDELIMITED'i SQL saveformat'a dönüştürün. Python TABDELIMITED SQL formatına. TABDELIMITED'i SQL Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to SQL saveformat., Free Online TABDELIMITED to SQL Python., Python Convert TABDELIMITED to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python içinde TABDELIMITED\'i SQL\'ye dönüştür" h2="TABDELIMITED\'i SQL\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="Python içinde TABDELIMITED\'i SQL\'ye dönüştür" %}}
 
-TABDELIMITED'i SQL'ye nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kütüphanesi üzerinden birkaç satır kod ile TABDELIMITED'i programlı olarak kolayca SQL'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ TABDELIMITED'i SQL'e nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kütüphanesi üzerinden birkaç satır kod ile TABDELIMITED'i programlı olarak kolayca SQL'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ TABDELIMITED'i SQL'e dönüştürmek için kolay adımları izleyin. TABDELIMITE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITED\'i SQL Online\'a Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TABDELIMITED\'i SQL Online\'a Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i SQL\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, TABDELIMITED'i yalnızca birkaç satır kodla kolayca yükleyebilir ve SQL'e dönüştürebilir.
+TABDELIMITED dosyalarını programlı olarak SQL'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, TABDELIMITED'i yalnızca birkaç satır kodla kolayca yükleyebilir ve SQL'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  TABDELIMITED dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak TABDELIMITED'i SQL'e dönüştürün
+1.  TABDELIMITED dosyasını bir Workbook örneği ile yükleyin.
+1.  Workbook.save yöntemini çağırarak TABDELIMITED'i SQL'e dönüştürün.
+1.  TABDELIMITED'in SQL'e dönüşüm sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Sekmeyle Ayrılmış Değerler (TSV) dosya biçimi, düz metin biçiminde sekmelerle ayrılmış verileri temsil eder. CSV'e benzer dosya biçimi, farklı uygulamalar arasında içe ve dışa aktarma amacıyla verilerin yapılandırılmış bir şekilde düzenlenmesi için kullanılır. Biçim, öncelikle Elektronik Tablo uygulamaları ve veritabanlarında veri içe/dışa aktarma ve değiş tokuş için kullanılır. TSV dosyasındaki her kayıt, her alan değerinin bir sekme karakteriyle ayrıldığı tek bir metin dosyası satırında bulunur. TSV dosya biçimi için ortam türü metin/sekmeyle ayrılmış değerlerdir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}.sql uzantılı bir dosya, ilişkisel veritabanlarıyla çalışmak için kod içeren bir Yapılandırılmış Sorgu Dili (SQL) dosyasıdır. Veritabanları üzerinde CRUD (Create, Read, Update, and Delete) işlemleri için SQL deyimleri yazmak için kullanılır. SQL dosyaları, masaüstü ve web tabanlı veritabanlarıyla çalışırken yaygındır. Java Kalıcı Sorgu Dili (JPQL), LINQ, HTSQL, 4D QL ve diğerleri gibi SQL'in birkaç alternatifi vardır. SQL dosyaları, Microsoft SQL Server, MySQL sorgu düzenleyicileri ve Windows OS üzerinde Notepad gibi diğer düz metin düzenleyicileri tarafından açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca, TABDELIMITED\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

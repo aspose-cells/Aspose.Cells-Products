@@ -1,7 +1,7 @@
 ---
-title: HTM'yi OTS'ye dönüştür Python via Python
-description: HTM'yi OTS Online'a Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi HTM'den OTS'ye Dönüştürücü. Python HTM'den OTS'ye. Python üzerinden HTM'den OTS'ye.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM'den OTS'ye - Çevrimiçi HTM'den OTS'ye Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python HTM'yi OTS kaydetme biçimine dönüştürün. Python HTM'den OTS formatına. HTM'yi OTS Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to OTS saveformat., Free Online HTM to OTS Python., Python Convert HTM to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de HTM\'yi OTS\'ye dönüştürün" h2="HTM\'yi OTS\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ HTM'yi OTS'ye dönüştürmek için kolay adımları izleyin. HTM dosyanızı y�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTM\'yi OTS Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTM\'yi OTS Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM\'yi OTS\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiriciler, yalnızca birkaç satır kodla kolayca HTM'yi OTS'ye yükleyebilir ve dönüştürebilir.
+HTM dosyalarını programlı olarak OTS'ye dönüştürmeniz mi gerekiyor? Python geliştiriciler, yalnızca birkaç satır kodla kolayca HTM'yi OTS'ye yükleyebilir ve dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  HTM dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak HTM'yi OTS'ye dönüştürün
+1.  HTM dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak HTM'yi OTS'ye dönüştürün.
+1.  HTM'nin OTS'ye dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm uzantılı dosyalar, Google Chrome, Internet Explorer, Firefox ve diğerleri gibi web tarayıcılarında görüntülenecek web sayfaları oluşturmak için Köprü Metni İşaretleme Dilini temsil eder. Başkalarının erişimi için World Wide Web'de (WWW) yayınlanacak statik sayfalar oluşturmak için işaretlemeleri tanımlar. Bu işaretlemeler, tarayıcılara bir web sayfasının içeriğini nasıl görüntüleyeceğini söyler. Bu tür sayfalar düz metin, resimler, diğer sayfalara köprüler, videolar ve diğer medya bilgilerini içerebilir. Bir web sayfası yayınlandığında, sayfa kaynağına bakarak arkasındaki biçimlendirme koduna göz atabilirsiniz. Modern tarayıcılar, bir web sayfasının HTM kaynağındaki her bir alt bölümün veya biçimlendirme öğesinin ayrıntılandırıldığı her bölümünün incelenmesine izin verir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}.ots uzantılı bir dosya, Apache OpenOffice'te bulunan Calc uygulama yazılımıyla oluşturulan bir OpenDocument Elektronik Tablo Şablonu dosyasıdır. Calc uygulama yazılımı, Microsoft Office'te bulunan Excel'e benzer. OTS dosya biçimi, stiller, yazı tipi, veriler, elektronik tablo düzeni ve biçimlendirme ile ilgili önceden tanımlanmış ayarları içeren şablonlar oluşturmak için kullanılır. OTF dosyalarında mime tipinde application/vnd.oasis.opendocument.spreadsheet-template bulunur. Bu şablon dosyaları, ODS dosya biçiminde kaydedilen gerçek veri dosyalarını oluşturmak ve kaydetmek için bir başlangıç noktası olarak kullanılabilir. OTS dosyaları, OpenOffice ve LibreOffice gibi uygulamalarla kullanılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="HTM\'yi aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine de dönüştürebilirsiniz." >}}
 

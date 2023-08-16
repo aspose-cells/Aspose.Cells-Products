@@ -16,7 +16,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java, XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Node.js kitaplığı aracılığıyla Excel dosya biçimlerini işl
  Çalışma Sayfasını Resme Dönüştür
     </li>
     <li>
-Elektronik Tabloyu PDF'e Dönüştür
+ Elektronik Tabloyu PDF'e Dönüştür
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Elektronik Tabloyu PDF'e Dönüştür
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- &amp; &amp; köprüler
+&amp; &amp; köprüler
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Elektronik Tabloyu PDF'e Dönüştür
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
+ Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
  Esnek Ekran Seçenekleri
     </h2>
     <p>
- Aspose.Cells for Node.js via Java, çalışma sayfasının sayfa ayarı üzerinde tam kontrol sağlar; çalışma sayfasının sayfa yönlendirmesi, kesmeler, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi görüntüleme seçenekleri değiştirilebilir. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve donma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
+Aspose.Cells for Node.js via Java, çalışma sayfasının sayfa ayarı üzerinde tam kontrol sağlar; çalışma sayfasının sayfa yönlendirmesi, kesmeler, boyut, ölçekleme, üstbilgiler, altbilgiler ve yakınlaştırma düzeyi gibi görüntüleme seçenekleri değiştirilebilir. Ayrıca geliştiriciler, uygulama özelliklerine uyacak şekilde yazdırma alanı ve donma bölmeleri yardımıyla veri görünürlüğünü kontrol edebilir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Pivot Tabloları API aracılığıyla değiştirin ve yenileyin
  Güvenlik seçenekleri
     </h2>
     <p>
-Aspose.Cells for Node.js via Java elektronik tablo şifreleme/şifre çözme, içerik, nesne &amp; senaryo korumasının yanı sıra satırları, sütunları &amp; çalışma sayfaları.
+ Aspose.Cells for Node.js via Java elektronik tablo şifreleme/şifre çözme, içerik, nesne &amp; senaryo korumasının yanı sıra satırları, sütunları &amp; çalışma sayfaları.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java elektronik tablo şifreleme/şifre çözme, i�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Çalışma Sayfası Biçimlendirme için Kapsamlı Destek
+Çalışma Sayfası Biçimlendirme için Kapsamlı Destek
     </h2>
     <p>
-Aspose.Cells for Node.js via Java, verilerinizin sunumunu kontrol etmenizi sağlayan gelişmiş biçimlendirme özellikleri sunar. Bir çalışma sayfasına, sütuna, satıra veya hücreye biçimlendirme uygulayabilir veya tek bir hücreye Zengin Metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ve yazı tipi stili ayarlayabilirsiniz. API ayrıca ekleme, değiştirme ve düzenlemeye izin verir. anında koşullu biçimlendirme kurallarını hesaplayın.
+ Aspose.Cells for Node.js via Java, verilerinizin sunumunu kontrol etmenizi sağlayan gelişmiş biçimlendirme özellikleri sunar. Bir çalışma sayfasına, sütuna, satıra veya hücreye biçimlendirme uygulayabilir veya tek bir hücreye Zengin Metin ekleyebilir, kenarlıklar uygulayabilir, arka plan desenleri ve yazı tipi stili ayarlayabilirsiniz. API ayrıca ekleme, değiştirme ve düzenlemeye izin verir. anında koşullu biçimlendirme kurallarını hesaplayın.
     </p>
    </div>
    <div class="col-lg-12">

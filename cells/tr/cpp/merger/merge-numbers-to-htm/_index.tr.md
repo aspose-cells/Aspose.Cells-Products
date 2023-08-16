@@ -1,7 +1,8 @@
 ---
-title:  NUMARALARI C++ üzerinden HTM ile birleştirin
+title: NUMARALARI HTM ile Birleştir - C++'de NUMARALARI HTM ile birleştir
 url: /tr/cpp/merger/merge-numbers-to-htm/ 
-description: NUMBERS'ı HTM Online'da Ücretsiz Olarak Birleştirin. HTM Birleşmesi için Ücretsiz Çevrimiçi NUMARALAR. SAYILARI Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. C++ Aspose.Cells. Ücretsiz Çevrimiçi NUMARALARI HTM kaydetme biçimine birleştirme. C++ SAYILARI HTM biçiminde birleştirin. NUMARALARI C++'de HTM ile birleştirin. NUMBERS Birleştirin.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to HTM in C++., Free Online C++ Merge NUMBERS to htm., C++ Combine NUMBERS to HTM Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMARALARI C++ üzerinden HTM ile birleştirin" h2="SAYILARI HTM ile birleştirmek için yüksek hızlı C++ kitaplığı. C++\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image\'i ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: NUMBERS'ı HTM Online'da Ücretsiz Olarak Birleştirin. HTM Birleş
 
 {{% blocks/products/pf/agp/content h2="C++\'i Kullanarak NUMARALARI HTM\'de Birleştirin" %}}
 
- NUMBERS ile HTM nasıl birleştirilir? Aspose.Cells for C++ kütüphanesi ile NUMBERS'i birkaç satır kod ile programlı olarak kolayca HTM ile birleştirebilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+ SAYILARI HTM ile nasıl birleştiririm? Aspose.Cells for C++ kütüphanesi ile NUMBERS'i birkaç satır kod ile programlı olarak kolayca HTM ile birleştirebilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="C++ Online\'da NUMARALARI HTM ile Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, NUMARALARIN C++'de HTM ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, Aspose.Cells for C++'de SAYILARIN HTM ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 NUMBERS'ı HTM ile birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından HTM dosyasına kaydedin. C++'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. NUMARALARI HTM ile birleştiren C++ örneğine bakın.
@@ -36,16 +37,18 @@ NUMBERS'ı HTM ile birleştirmek için kolay adımları izleyin. Dosyalarınız�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="NUMBERS\'i hatta HTM ile birleştirmek için Ücretsiz Uygulama" InputFormat="numbers" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="C++\'de NUMARALARI HTM ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="numbers" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="C++ aracılığıyla SAYILARI HTM ile Birleştirme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API'ler yalnızca birkaç satır kodla yapılabilir.
+ SAYILARI programlı olarak HTM ile birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++'i yükleyin.
++ C++ projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + NUMBERS dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -63,7 +66,7 @@ Sisteminize "Aspose.Cells for C++" yüklemek için üç seçenek vardır. Lütfe
 
 1.  yüklemek[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Include ve lib Folders'ı kullanarak kitaplığı kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Linux'ta Aspose.Cells for C++'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Linux'ta Aspose.Cells for C++'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers uzantılı dosyalar elektronik tablo dosya türü olarak sınıflandırılır, bu nedenle .xlsx dosyalarına benzerler; ancak Numbers dosyaları, Apple iWork Numbers elektronik tablo yazılımı kullanılarak oluşturulur. Apple iWork Numbers, iWork Productivity Suite'in bir birim yazılımıdır. iWork Productivity Suite, Windows PC'lerde kullanılan Microsoft Office Suite'e eşdeğerdir. Bu nedenle MacOS için mevcut olan Numbers'in aynı zamanda Microsoft Excel'in rakibi olduğunu söyleyebiliriz. Aynı şekilde Microsoft Excel, SAYILAR dosyası da tablolar, çizelgeler ve formüller içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm uzantılı dosyalar, Google Chrome, Internet Explorer, Firefox ve diğerleri gibi web tarayıcılarında görüntülenecek web sayfaları oluşturmak için Köprü Metni İşaretleme Dilini temsil eder. Başkalarının erişimi için World Wide Web'de (WWW) yayınlanacak statik sayfalar oluşturmak için işaretlemeleri tanımlar. Bu işaretlemeler, tarayıcılara bir web sayfasının içeriğini nasıl görüntüleyeceğini söyler. Bu tür sayfalar düz metin, resimler, diğer sayfalara köprüler, videolar ve diğer medya bilgilerini içerebilir. Bir web sayfası yayınlandığında, sayfa kaynağına bakarak arkasındaki biçimlendirme koduna göz atabilirsiniz. Modern tarayıcılar, bir web sayfasının HTM kaynağındaki her bir alt bölümün veya biçimlendirme öğesinin ayrıntılandırıldığı her bölümünün incelenmesine izin verir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="C++\'i kullanarak, sayıları diğer birçok dosya biçimiyle de birleştirebilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-docx/" name="NUMARALARI DOCX olarak birleştir" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-sql/" name="NUMBERS\'ı SQL\'e birleştir" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-bmp/" name="NUMARALARI BMP olarak birleştir" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-emf/" name="NUMARALARI EMF olarak birleştir" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-gif/" name="NUMARALARI GIF olarak birleştir" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="NUMARALARI HTML olarak birleştir" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-md/" name="NUMBERS\'ı MD\'ye birleştir" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="NUMARALARI MHTML olarak birleştir" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="NUMARALARI ODS olarak birleştir" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="NUMARALARI PDF olarak birleştir" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="NUMARALARI PNG olarak birleştir" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="NUMARALARI SVG olarak birleştir" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="NUMARALARI TIFF olarak birleştir" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="NUMARALARI TSV olarak birleştir" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="NUMARALARI TXT olarak birleştir" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="NUMARALARI XLS olarak birleştir" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="NUMARALARI XLSB olarak birleştir" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="NUMARALARI XLSM olarak birleştir" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="NUMARALARI XLSX olarak birleştir" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="NUMARALARI XLT olarak birleştir" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="NUMARALARI XLTM olarak birleştir" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="NUMARALARI XLTX olarak birleştir" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="NUMBERS\'ı XML\'e birleştir" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="NUMARALARI XPS olarak birleştir" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="NUMARALARI JSON olarak birleştir" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="NUMARALARI JPEG olarak birleştir" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

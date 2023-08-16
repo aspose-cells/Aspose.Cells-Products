@@ -1,7 +1,7 @@
 ---
-title: XLSB'i SPREADSHEETML'ye dönüştür Python via Python
-description: XLSB'i SPREADSHEETML Online'a Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi XLSB'den SPREADSHEETML'ye Dönüştürücü. Python XLSB'den SPREADSHEETML'ye. XLSB'den SPREADSHEETML'e Python aracılığıyla.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB - SPREADSHEETML - Çevrimiçi XLSB - SPREADSHEETML Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python XLSB'i SPREADSHEETML saveformat'a dönüştürün. Python XLSB'den SPREADSHEETML biçimine. XLSB'i SPREADSHEETML Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to SPREADSHEETML saveformat., Free Online XLSB to SPREADSHEETML Python., Python Convert XLSB to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB\'i Python\'de SPREADSHEETML\'ye dönüştür" h2="XLSB\'i SPREADSHEETML\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ XLSB'i SPREADSHEETML'ye dönüştürmek için kolay adımları izleyin. XLSB dos
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSB\'i SPREADSHEETML Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSB\'i SPREADSHEETML Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB\'i SPREADSHEETML\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, yalnızca birkaç satır kodla XLSB'i kolayca SPREADSHEETML'e yükleyebilir ve dönüştürebilir.
+XLSB dosyalarını programlı olarak SPREADSHEETML'ye dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla XLSB'i kolayca SPREADSHEETML'e yükleyebilir ve dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  XLSB dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak XLSB'i SPREADSHEETML'ye dönüştürün
+1.  XLSB dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak XLSB'i SPREADSHEETML'ye dönüştürün.
+1.  XLSB'in SPREADSHEETML'e dönüşüm sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Biçimini belirtir. İçerik, yapılandırılmamış veya yarı yapılandırılmış sayı tabloları, metin veya hem sayılar hem de metin, formüller, harici veri bağlantıları, çizelgeler ve resimler içerebilir. XLSX'den farklı olarak (Açık XML dosya biçimini temel alır), XLSB, ikili Excel çalışma kitabı dosyasını temsil eder. XLSB dosyaları daha hızlı okunabilir ve yazılabilir, bu da onları büyük dosyalarla çalışmak için kullanışlı kılar. XLSB, çalışma kitaplarını depolamak için nadiren kullanılır, çünkü XLSX (ve daha önce XLS), çalışma kitaplarını kaydetmek için en yaygın kullanıcı tarafından seçilen dosya formatlarıdır. Microsoft Office 2007 ve üzeri ile açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML, HTML'e benzeyen, ancak nesneleri tanımlamak için etiketleri kullanmada farklı olan Genişletilebilir İşaretleme Dili anlamına gelir. XML dosya formatının oluşturulmasının ardındaki tüm fikir, yazılım veya donanım araçlarına bağımlı olmadan verileri depolamak ve taşımaktı. Popülaritesi, hem insan hem de makine tarafından okunabilir olmasından kaynaklanmaktadır. Bu, World Wide Web (WWW) gibi ağ üzerinden depolanacak ve paylaşılacak nesneler şeklinde ortak veri protokolleri oluşturmasını sağlar. XML'deki "X", dilin kullanıcı gereksinimlerine göre herhangi bir sayıda sembole genişletilebileceğini ima eden genişletilebilir içindir. Microsoft Open XML, LibreOffice OpenDocument, XHTML ve SVG gibi birçok standart dosya formatı bu özelliklerden yararlanır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca XLSB\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED'i XLT Python via Python'e çevir
-description: TABDELIMITED'i XLT'e Çevrimiçi Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi TABDELIMITED'den XLT'e Dönüştürücü. Python TABDELIMITED - XLT. TABDELIMITED - XLT - Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED - XLT - Çevrimiçi TABDELIMITED - XLT Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python TABDELIMITED'i XLT saveformat'a dönüştürün. Python TABDELIMITED'den XLT formatına. TABDELIMITED'i XLT Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to XLT saveformat., Free Online TABDELIMITED to XLT Python., Python Convert TABDELIMITED to XLT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TABDELIMITED\'i Python içinde XLT\'e dönüştür" h2="TABDELIMITED\'i XLT\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i Python içinde XLT\'e dönüştür" %}}
 
-TABDELIMITED'i XLT'ye nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kütüphanesi üzerinden birkaç satır kod ile TABDELIMITED'i programlı olarak kolayca XLT'e dönüştürebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
+ TABDELIMITED'i XLT'ye nasıl dönüştürebilirim? Aspose.Cells for Python ile NET kütüphanesi üzerinden birkaç satır kod ile TABDELIMITED'i programlı olarak kolayca XLT'e çevirebilirsiniz.[Aspose.Cells for Python aracılığıyla NET](https://pypi.org/project/aspose-cells-python/)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ TABDELIMITED'i XLT'e dönüştürmek için kolay adımları izleyin. TABDELIMITE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="TABDELIMITED\'i XLT Online\'a Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="TABDELIMITED\'i XLT Online\'a Dönüştürmek İçin Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xlt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="TABDELIMITED\'i XLT\'e Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Python geliştiricileri, TABDELIMITED'i yalnızca birkaç satır kodla kolayca yükleyebilir ve XLT'e dönüştürebilir.
+TABDELIMITED dosyalarını programlı olarak XLT'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, TABDELIMITED'i yalnızca birkaç satır kodla kolayca yükleyebilir ve XLT'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  TABDELIMITED dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak TABDELIMITED'i XLT'e dönüştürün
+1.  TABDELIMITED dosyasını bir Workbook örneği ile yükleyin.
+1.  Workbook.save yöntemini çağırarak TABDELIMITED'i XLT'e dönüştürün.
+1.  TABDELIMITED dönüşüm sonucunu XLT olarak alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Sekmeyle Ayrılmış Değerler (TSV) dosya biçimi, düz metin biçiminde sekmelerle ayrılmış verileri temsil eder. CSV'e benzer dosya biçimi, farklı uygulamalar arasında içe ve dışa aktarma amacıyla verilerin yapılandırılmış bir şekilde düzenlenmesi için kullanılır. Biçim, öncelikle Elektronik Tablo uygulamaları ve veritabanlarında veri içe/dışa aktarma ve değiş tokuş için kullanılır. TSV dosyasındaki her kayıt, her alan değerinin bir sekme karakteriyle ayrıldığı tek bir metin dosyası satırında bulunur. TSV dosya biçimi için ortam türü metin/sekmeyle ayrılmış değerlerdir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt uzantılı dosyalar, Microsoft Office paketinin bir parçası olarak gelen bir elektronik tablo uygulaması olan Microsoft Excel ile oluşturulan şablon dosyalarıdır. Microsoft Office 97-2003, yeni XLT dosyalarının oluşturulmasını ve bunların açılmasını destekledi. Excel'in en son sürümü hala bu eski biçim şablon dosyalarını açabilmektedir. Böyle bir şablon dosyası, yeni .xls dosyaları olarak kaydedilebilecek sayfa biçimlendirmesi, yazı tipi boyutu, kenar boşlukları, grafikler vb. gibi varsayılan veriler ve ayarlarla hızlı bir şekilde yeni Excel dosyaları oluşturmak için kullanılır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca, TABDELIMITED\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

@@ -36,7 +36,7 @@ description: xlsx'ten pdf'e Python dönüştürme için örnek kod. Python uygul
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
@@ -64,7 +64,7 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}
-Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya formatının amacı, uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir formatta belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. PDF dosya biçimi, metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Coğrafi özellikler ve kaynak belgenin bir parçası haline gelebilecek 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.
+Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya formatının amacı, uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir formatta belgelerin ve diğer referans materyallerinin temsili için bir standart getirmekti. PDF dosya biçimi, metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzamsal özellikler ve kaynak belgenin bir parçası haline gelebilecek 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}

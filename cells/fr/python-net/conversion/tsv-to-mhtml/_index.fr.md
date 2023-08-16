@@ -1,7 +1,7 @@
 ---
-title: Convertir TSV en MHTML Python via Python
-description: Convertissez TSV en MHTML en ligne gratuitement. Convertisseur en ligne gratuit TSV à MHTML. Python TSV à MHTML. TSV à MHTML via Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV à MHTML - Convertisseur en ligne TSV à MHTML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertir TSV en format de sauvegarde MHTML. Format Python TSV à MHTML. Enregistrez TSV à MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to MHTML saveformat., Free Online TSV to MHTML Python., Python Convert TSV to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir TSV en MHTML en Python" h2="Bibliothèque Python haute vitesse pour convertir TSV en MHTML. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="Convertir TSV en MHTML en Python" %}}
 
- Comment convertir TSV en MHTML ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir TSV en MHTML par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
+ Comment convertir TSV en MHTML ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir TSV en MHTML par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir TSV en MHTML. Téléchargez votre fich
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir TSV en MHTML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir TSV en MHTML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir TSV en MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Python peuvent facilement charger et convertir TSV en MHTML en quelques lignes de code.
+Besoin de convertir les fichiers TSV en MHTML par programmation ? Les développeurs Python peuvent facilement charger et convertir TSV en MHTML en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier TSV avec une instance de Workbook
-1.  Convertir TSV en MHTML en appelant la méthode Workbook.save
+1.  Chargez le fichier TSV avec une instance de Workbook.
+1.  Convertissez TSV en MHTML en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de TSV en MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un format de fichier Valeurs séparées par des tabulations (TSV) représente les données séparées par des tabulations au format texte brut. Le format de fichier, similaire à CSV, est utilisé pour l'organisation des données de manière structurée afin d'importer et d'exporter entre différentes applications. Le format est principalement utilisé pour l'importation/exportation et l'échange de données dans les applications et les bases de données de feuille de calcul. Chaque enregistrement d'un fichier TSV est contenu dans une seule ligne de fichier texte où chaque valeur de champ est séparée par un caractère de tabulation. Le type de support pour le format de fichier TSV est texte/valeurs séparées par des tabulations.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Les fichiers avec l'extension MHTML représentent un format d'archive de page Web qui peut être créé par un certain nombre d'applications différentes. Le format est connu sous le nom de format d'archive car il enregistre le code Web HTML et les ressources associées dans un seul fichier. Ces ressources incluent tout ce qui est lié à la page Web, comme les images, les applets, les animations, les fichiers audio, etc. Les fichiers MHTML peuvent être ouverts dans diverses applications telles qu'Internet Explorer et Microsoft Word. Microsoft Windows utilise le format de fichier MHTML pour enregistrer les scénarios de problèmes observés lors de l'utilisation de toute application sur Windows qui soulève des problèmes. Le format de fichier MHTML encode le contenu de la page de manière similaire aux spécifications définies dans message/rfc822, qui sont des spécifications relatives aux e-mails en texte brut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir TSV en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-txt/" name="TSV À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xls/" name="TSV À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsb/" name="TSV À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsm/" name="TSV À XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlsx/" name="TSV À XLSX" description="Fichier Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xlt/" name="TSV À XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tsv-to-xltm/" name="TSV À XLTM" description="Modèle Excel compatible avec les macros" >}}

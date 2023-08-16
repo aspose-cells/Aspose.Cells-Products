@@ -1,7 +1,7 @@
 ---
 title:  Fusionner XLSB Fichiers via Java
 weight: 4840
-description: Exemple de code Java pour combiner les documents XLSB sur l'environnement d'exécution Java pour l'application JSP/JSF et les applications de bureau.
+description: Exemple de code Java pour combiner les documents XLSB sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner les formats XLSB dans Java" h2="Fusion de documents natifs XLSB à l\'aide d\'API Java côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSB" >}}
@@ -49,14 +49,14 @@ description: Exemple de code Java pour combiner les documents XLSB sur l'environ
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Chargez le premier fichier XLSB avec une instance de la classe Workbook.
 + Chargez le deuxième document XLSB avec une instance de la classe Workbook.
 + Fusionner des fichiers en utilisant la méthode combine().
-enregistrer le fichier fusionné XLSB au chemin spécifié
++ enregistrer le fichier fusionné XLSB au chemin spécifié
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsbFile1.save("combinedFileWithPath.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers XLSB." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera fusionné et concaténé instantanément." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera fusionné et concaténé instantanément." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -133,7 +133,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/txt/" name="TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}

@@ -33,7 +33,7 @@ Il est facile pour les développeurs de créer un graphique en aires dans l'exé
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Configuration requise" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
 {{% /blocks/products/pf/agp/text %}}
 - Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , utilisez la commande comme :<code>$ pip install aspose-cells-python</code>.
 

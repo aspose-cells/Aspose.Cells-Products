@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="JSON\'i Excel\'e ve Excel\'i JSON\'e dönüştürün" %}}
- JSON verileri bir örneğine alınabilir[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) yardımıyla sınıf[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) daha fazla işleme veya desteklenen biçimlerden herhangi birine basit dönüştürme için. Benzer şekilde,[Çalışma kağıdı](https://reference.aspose.com/cells/net/aspose.cells/worksheet) oluşturularak veriler JSON olarak dışa aktarılabilir.[Menzil](https://reference.aspose.com/cells/net/aspose.cells/range) veya hücreler ve arama[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) yöntem.
+ JSON verileri bir örneğine alınabilir[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) yardımıyla sınıf[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)daha fazla işleme veya desteklenen biçimlerden herhangi birine basit dönüştürme için. Benzer şekilde,[Çalışma kağıdı](https://reference.aspose.com/cells/net/aspose.cells/worksheet) oluşturularak veriler JSON olarak dışa aktarılabilir.[Menzil](https://reference.aspose.com/cells/net/aspose.cells/range) veya hücreler ve arama[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) yöntem.
 {{% blocks/products/pf/feature-page-code h3="C# JSON\'den Excel\'e Dönüştürme Kodu" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel\'i Word\'e Dönüştür & PowerPoint" %}}
- Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) aşağıda gösterildiği gibi sınıflar.
+ Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)aşağıda gösterildiği gibi sınıflar.
 {{% blocks/products/pf/feature-page-code h3="Excel\'den Word\'e ve PowerPoint\'e Dönüştürme için C# kodu" %}}
 ```cs
 // load the template file

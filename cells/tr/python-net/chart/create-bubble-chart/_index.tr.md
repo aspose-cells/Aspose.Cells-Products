@@ -33,7 +33,7 @@ Geliştiricilerin, yalnızca birkaç kod satırında veri işleme için farklı 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
 {{% /blocks/products/pf/agp/text %}}
 - Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
 

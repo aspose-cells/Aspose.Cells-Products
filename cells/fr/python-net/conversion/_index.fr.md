@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Convertir Excel en Word & PowerPoint" %}}
- Il est possible de charger n'importe quelle feuille de calcul et de la convertir en fichiers Word DOCX & PowerPoint PPTX tout en utilisant[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/) classes comme démontré ci-dessous.
+ Il est possible de charger n'importe quelle feuille de calcul et de la convertir en fichiers Word DOCX & PowerPoint PPTX tout en utilisant[DocxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/docxsaveoptions/) & [PptxSaveOptions](https://reference.aspose.com/cells/python-net/aspose.cells/pptxsaveoptions/)classes comme démontré ci-dessous.
 {{% blocks/products/pf/feature-page-code h3="Code Python pour Excel vers Word et conversion PowerPoint" %}}
 ```cs
 // load the template file

@@ -1,7 +1,8 @@
 ---
-title:  Fusionner EXCEL vers MHT via Java
+title: Fusionner EXCEL à MHT - Combiner EXCEL à MHT en Java
 url: /fr/java/merger/merge-excel-to-mht/ 
-description: Fusionnez EXCEL avec MHT Online gratuitement. Fusion en ligne gratuite d'EXCEL à MHT. Fusionnez EXCEL vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. Java Aspose.Cells. Fusion gratuite en ligne EXCEL au format de sauvegarde MHT. Java Combinez le format EXCEL au format MHT. Fusionnez EXCEL avec MHT en Java. EXCEL Fusionnez.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge EXCEL to MHT in Java., Free Online Java Merge EXCEL to mht., Java Combine EXCEL to MHT Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner EXCEL vers MHT via Java" h2="Bibliothèque Java haute vitesse pour fusionner EXCEL avec MHT. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Java. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Fusionnez EXCEL avec MHT Online gratuitement. Fusion en ligne gratu
 
 {{% blocks/products/pf/agp/content h2="Fusionner EXCEL vers MHT en utilisant Java" %}}
 
- Comment fusionner EXCEL avec MHT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner EXCEL vers MHT par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment fusionner EXCEL avec MHT ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner EXCEL vers MHT par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Fusionnez EXCEL avec MHT Online gratuitement. Fusion en ligne gratu
 
 {{% blocks/products/pf/agp/content h2="Fusionner EXCEL à MHT en Java en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner EXCEL avec MHT dans Java.
+L'exemple suivant montre comment fusionner EXCEL avec MHT dans Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner EXCEL à MHT. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier MHT. Si vous développez du code en Java, ce sera plus simple qu'il n'y paraît. Voir l'exemple Java qui fusionne EXCEL en MHT.
@@ -55,16 +56,18 @@ Suivez les étapes simples pour fusionner EXCEL à MHT. Téléchargez vos fichie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner EXCEL à MHT en ligne" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner EXCEL à MHT en Java" InputFormat="xlsx" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner EXCEL vers MHT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Besoin de fusionner EXCEL vers MHT par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for Java'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet Java.
 + Chargez le fichier EXCEL avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -97,21 +100,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, des styles de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML en un seul fichier d'archive pour le stockage lors de l'archivage sur des périphériques de stockage. Des applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explorer et Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Java, on peut également fusionner Excel avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-docx/" name="Fusionner EXCEL avec DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-sql/" name="Fusionner EXCEL vers SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-bmp/" name="Fusionner EXCEL avec BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-emf/" name="Fusionner EXCEL avec EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-gif/" name="Fusionner EXCEL avec GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-html/" name="Fusionner EXCEL avec HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-md/" name="Fusionner EXCEL vers MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-mhtml/" name="Fusionner EXCEL avec MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-ods/" name="Fusionner EXCEL avec ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-pdf/" name="Fusionner EXCEL avec PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-png/" name="Fusionner EXCEL avec PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-svg/" name="Fusionner EXCEL avec SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-tiff/" name="Fusionner EXCEL avec TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-tsv/" name="Fusionner EXCEL avec TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-txt/" name="Fusionner EXCEL avec TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xls/" name="Fusionner EXCEL avec XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsb/" name="Fusionner EXCEL avec XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsm/" name="Fusionner EXCEL avec XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlsx/" name="Fusionner EXCEL avec XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xlt/" name="Fusionner EXCEL avec XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xltm/" name="Fusionner EXCEL avec XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xltx/" name="Fusionner EXCEL avec XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xml/" name="Fusionner EXCEL en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-xps/" name="Fusionner EXCEL avec XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-json/" name="Fusionner EXCEL avec JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-excel-to-jpeg/" name="Fusionner EXCEL avec JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

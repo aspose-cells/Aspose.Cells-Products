@@ -1,7 +1,8 @@
 ---
-title:  XLSB'i Python aracılığıyla XLSB ile birleştirin
+title: XLSB'i XLSB'e birleştir - XLSB'i Python'de XLSB'e birleştir
 url: /tr/python-net/merger/merge-xlsb-to-xlsb/ 
-description: XLSB'i XLSB ile Çevrimiçi Ücretsiz Olarak Birleştirin. Ücretsiz Çevrimiçi XLSB - XLSB Birleşme. XLSB'i Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. Python Aspose.Cells. Ücretsiz Çevrimiçi Birleştirme XLSB ile XLSB kaydetme biçimi. Python XLSB ile XLSB formatını birleştirin. Python içinde XLSB'i XLSB ile birleştir. XLSB Birleştir.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSB to XLSB in Python., Free Online Python Merge XLSB to xlsb., Python Combine XLSB to XLSB Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB\'i Python aracılığıyla XLSB ile birleştirin" h2="XLSB ile XLSB\'i birleştirmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: XLSB'i XLSB ile Çevrimiçi Ücretsiz Olarak Birleştirin. Ücretsi
 
 {{% blocks/products/pf/agp/content h2="XLSB\'i Python Kullanarak XLSB ile birleştirin" %}}
 
- XLSB ile XLSB nasıl birleştirilir? Aspose.Cells for Python kütüphanesi ile XLSB ile XLSB'i programlı olarak birkaç satır kod ile kolayca birleştirebilirsiniz.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Aspose.Cells for Python adresinden yükleyebilirsiniz.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
+ XLSB ile XLSB'i nasıl birleştiririm? Aspose.Cells for Python via .NET kütüphanesi ile birkaç satır kod ile XLSB ile XLSB'i programlı olarak kolayca birleştirebilirsiniz.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. Python Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. Aspose.Cells for Python via .NET adresinden yükleyebilirsiniz.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB ile XLSB\'i Python Çevrimiçinde Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, XLSB'in Python'de XLSB ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, XLSB'in Aspose.Cells for Python via .NET'de XLSB ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 XLSB ile XLSB'i birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından XLSB dosyasına kaydedin. Python'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. XLSB'i XLSB ile birleştiren Python örneğine bakın.
@@ -27,16 +28,18 @@ XLSB ile XLSB'i birleştirmek için kolay adımları izleyin. Dosyalarınızı y
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="XLSB\'i hatta XLSB ile birleştirmek için Ücretsiz Uygulama" InputFormat="xlsb" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="XLSB\'i Python\'de XLSB ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="xlsb" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB\'i Python üzerinden XLSB ile Birleştirme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API'ler yalnızca birkaç satır kodla yapılabilir.
+ XLSB ile XLSB'i programlı olarak birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Python via .NET'i yükleyin.
++ Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + XLSB dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -53,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Biçimini belirtir. İçerik, yapılandırılmamış veya yarı yapılandırılmış sayı tabloları, metin veya hem sayılar hem de metin, formüller, harici veri bağlantıları, çizelgeler ve resimler içerebilir. XLSX'den farklı olarak (Açık XML dosya biçimini temel alır), XLSB, ikili Excel çalışma kitabı dosyasını temsil eder. XLSB dosyaları daha hızlı okunabilir ve yazılabilir, bu da onları büyük dosyalarla çalışmak için kullanışlı kılar. XLSB, çalışma kitaplarını depolamak için nadiren kullanılır, çünkü XLSX (ve daha önce XLS), çalışma kitaplarını kaydetmek için en yaygın kullanıcı tarafından seçilen dosya formatlarıdır. Microsoft Office 2007 ve üzeri ile açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB dosya biçimi, Excel çalışma kitabı içeriğini belirten bir kayıt ve yapı koleksiyonu olan Excel İkili Dosya Biçimini belirtir. İçerik, yapılandırılmamış veya yarı yapılandırılmış sayı tabloları, metin veya hem sayılar hem de metin, formüller, harici veri bağlantıları, çizelgeler ve resimler içerebilir. XLSX'den farklı olarak (Açık XML dosya biçimini temel alır), XLSB, ikili Excel çalışma kitabı dosyasını temsil eder. XLSB dosyaları daha hızlı okunabilir ve yazılabilir, bu da onları büyük dosyalarla çalışmak için kullanışlı kılar. XLSB, çalışma kitaplarını depolamak için nadiren kullanılır, çünkü XLSX (ve daha önce XLS), çalışma kitaplarını kaydetmek için en yaygın kullanıcı tarafından seçilen dosya formatlarıdır. Microsoft Office 2007 ve üzeri ile açılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="Python\'i kullanarak, xlsb\'yi de dahil olmak üzere diğer birçok dosya formatıyla birleştirebilir." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-docx/" name="XLSB\'i DOCX ile birleştir" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-sql/" name="XLSB\'i SQL ile birleştir" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-bmp/" name="XLSB\'i BMP ile birleştir" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-emf/" name="XLSB\'i EMF ile birleştir" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-gif/" name="XLSB\'i GIF ile birleştir" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-html/" name="XLSB\'i HTML ile birleştir" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-md/" name="XLSB\'i MD ile birleştir" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-mhtml/" name="XLSB\'i MHTML ile birleştir" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-ods/" name="XLSB\'i ODS ile birleştir" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-pdf/" name="XLSB\'i PDF ile birleştir" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-png/" name="XLSB\'i PNG ile birleştir" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-svg/" name="XLSB\'i SVG ile birleştir" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-tiff/" name="XLSB\'i TIFF ile birleştir" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-tsv/" name="XLSB\'i TSV ile birleştir" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-txt/" name="XLSB\'i TXT ile birleştir" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xls/" name="XLSB\'i XLS ile birleştir" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsb/" name="XLSB\'i XLSB ile birleştir" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsm/" name="XLSB\'i XLSM ile birleştir" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlsx/" name="XLSB\'i XLSX ile birleştir" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xlt/" name="XLSB\'i XLT ile birleştir" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltm/" name="XLSB\'i XLTM ile birleştir" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xltx/" name="XLSB\'i XLTX ile birleştir" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xml/" name="XLSB\'i XML\'e birleştir" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-xps/" name="XLSB\'i XPS ile birleştir" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-json/" name="XLSB\'i JSON ile birleştir" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlsb-to-jpeg/" name="XLSB\'i JPEG ile birleştir" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

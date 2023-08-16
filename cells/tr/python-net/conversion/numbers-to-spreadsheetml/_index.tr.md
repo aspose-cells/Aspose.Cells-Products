@@ -1,7 +1,7 @@
 ---
-title: SAYILARI SPREADSHEETML'ye dönüştür Python via Python
-description: NUMBERS'i SPREADSHEETML'e Online Ücretsiz Dönüştürün. Ücretsiz Online NUMBERS - SPREADSHEETML Dönüştürücü. Python NUMBERS'den SPREADSHEETML'ye. Python aracılığıyla SPREADSHEETML'ye NUMBERS.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS - SPREADSHEETML - Online NUMBERS - SPREADSHEETML dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python NUMBERS'ı SPREADSHEETML kaydetme biçimine dönüştürün. Python NUMBERS'tan SPREADSHEETML formatına. NUMARALARI SPREADSHEETML Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SPREADSHEETML saveformat., Free Online NUMBERS to SPREADSHEETML Python., Python Convert NUMBERS to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de NUMBERS\'i SPREADSHEETML birimine dönüştürün" h2="SAYILARI SPREADSHEETML\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ NUMBERS'i SPREADSHEETML'ye dönüştürmek için kolay adımları izleyin. NUMBE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="NUMBERS\'i SPREADSHEETML Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="NUMBERS\'i SPREADSHEETML Online\'a Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS\'i SPREADSHEETML\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, NUMBERS'i yalnızca birkaç satır kodla kolayca yükleyebilir ve SPREADSHEETML'ye dönüştürebilir.
+NUMBERS dosyalarını programlı olarak SPREADSHEETML'ye dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla NUMBERS'ı kolayca yükleyebilir ve SPREADSHEETML'ye dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak NUMBERS'i SPREADSHEETML'ye dönüştürün
+1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak SAYILARI SPREADSHEETML'ye dönüştürün.
+1. NUMBERS için SPREADSHEETML dönüşüm sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers uzantılı dosyalar elektronik tablo dosya türü olarak sınıflandırılır, bu nedenle .xlsx dosyalarına benzerler; ancak Numbers dosyaları, Apple iWork Numbers elektronik tablo yazılımı kullanılarak oluşturulur. Apple iWork Numbers, iWork Productivity Suite'in bir birim yazılımıdır. iWork Productivity Suite, Windows PC'lerde kullanılan Microsoft Office Suite'e eşdeğerdir. Bu nedenle MacOS için mevcut olan Numbers'in aynı zamanda Microsoft Excel'in rakibi olduğunu söyleyebiliriz. Aynı şekilde Microsoft Excel, SAYILAR dosyası da tablolar, çizelgeler ve formüller içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML, HTML'e benzeyen, ancak nesneleri tanımlamak için etiketleri kullanmada farklı olan Genişletilebilir İşaretleme Dili anlamına gelir. XML dosya formatının oluşturulmasının ardındaki tüm fikir, yazılım veya donanım araçlarına bağımlı olmadan verileri depolamak ve taşımaktı. Popülaritesi, hem insan hem de makine tarafından okunabilir olmasından kaynaklanmaktadır. Bu, World Wide Web (WWW) gibi ağ üzerinden depolanacak ve paylaşılacak nesneler şeklinde ortak veri protokolleri oluşturmasını sağlar. XML'deki "X", dilin kullanıcı gereksinimlerine göre herhangi bir sayıda sembole genişletilebileceğini ima eden genişletilebilir içindir. Microsoft Open XML, LibreOffice OpenDocument, XHTML ve SVG gibi birçok standart dosya formatı bu özelliklerden yararlanır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca NUMBERS\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Fusionner SPREADSHEETML avec TSV via Java
+title: Fusionner SPREADSHEETML avec TSV - Combiner SPREADSHEETML avec TSV dans Java
 url: /fr/java/merger/merge-spreadsheetml-to-tsv/ 
-description: Fusionnez SPREADSHEETML avec TSV en ligne gratuitement. SPREADSHEETML en ligne gratuit à TSV Fusion. Fusionnez SPREADSHEETML vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. Java Aspose.Cells. Fusion en ligne gratuite SPREADSHEETML au format de sauvegarde TSV. Java Combinez SPREADSHEETML au format TSV. Fusionner SPREADSHEETML avec TSV dans Java. SPREADSHEETML Fusionner.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge SPREADSHEETML to TSV in Java., Free Online Java Merge SPREADSHEETML to tsv., Java Combine SPREADSHEETML to TSV Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner SPREADSHEETML avec TSV via Java" h2="Bibliothèque Java haute vitesse pour fusionner SPREADSHEETML en TSV. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Java. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Fusionnez SPREADSHEETML avec TSV en ligne gratuitement. SPREADSHEET
 
 {{% blocks/products/pf/agp/content h2="Fusionner SPREADSHEETML avec TSV en utilisant Java" %}}
 
- Comment fusionner SPREADSHEETML avec TSV ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner SPREADSHEETML avec TSV par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+ Comment fusionner SPREADSHEETML avec TSV ? Avec la bibliothèque Aspose.Cells for Java, vous pouvez facilement fusionner SPREADSHEETML avec TSV par programmation avec quelques lignes de code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Java Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Vous pouvez télécharger sa dernière version directement depuis[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Dépôt" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Fusionnez SPREADSHEETML avec TSV en ligne gratuitement. SPREADSHEET
 
 {{% blocks/products/pf/agp/content h2="Fusionnez SPREADSHEETML avec TSV dans Java en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner SPREADSHEETML avec TSV dans Java.
+L'exemple suivant montre comment fusionner SPREADSHEETML avec TSV dans Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner SPREADSHEETML avec TSV. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier TSV. Si vous développez du code en Java, ce sera plus simple qu'il n'y paraît. Voir l'exemple Java qui fusionne SPREADSHEETML en TSV.
@@ -55,16 +56,18 @@ Suivez les étapes simples pour fusionner SPREADSHEETML avec TSV. Téléchargez 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner SPREADSHEETML au TSV en ligne" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner SPREADSHEETML en TSV en Java" InputFormat="xml" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner SPREADSHEETML avec TSV via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Besoin de fusionner SPREADSHEETML avec TSV par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for Java'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet Java.
 + Chargez le fichier SPREADSHEETML avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -97,21 +100,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML signifie Extensible Markup Language qui est similaire à HTML mais différent dans l'utilisation de balises pour définir des objets. L'idée derrière la création du format de fichier XML était de stocker et de transporter des données sans dépendre d'outils logiciels ou matériels. Sa popularité est due au fait qu'il est à la fois lisible par l'homme et par la machine. Cela lui permet de créer des protocoles de données communs sous la forme d'objets à stocker et à partager sur un réseau tel que le World Wide Web (WWW). Le "X" dans XML est pour extensible, ce qui implique que le langage peut être étendu à n'importe quel nombre de symboles selon les besoins de l'utilisateur. C'est pour ces fonctionnalités que de nombreux formats de fichiers standard l'utilisent tels que Microsoft Open XML, LibreOffice OpenDocument, XHTML et SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un format de fichier Valeurs séparées par des tabulations (TSV) représente les données séparées par des tabulations au format texte brut. Le format de fichier, similaire à CSV, est utilisé pour l'organisation des données de manière structurée afin d'importer et d'exporter entre différentes applications. Le format est principalement utilisé pour l'importation/exportation et l'échange de données dans les applications et les bases de données de feuille de calcul. Chaque enregistrement d'un fichier TSV est contenu dans une seule ligne de fichier texte où chaque valeur de champ est séparée par un caractère de tabulation. Le type de support pour le format de fichier TSV est texte/valeurs séparées par des tabulations.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant Java, on peut également fusionner spreadsheetml avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-docx/" name="Fusionner SPREADSHEETML avec DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-sql/" name="Fusionner SPREADSHEETML en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-bmp/" name="Fusionner SPREADSHEETML avec BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-emf/" name="Fusionner SPREADSHEETML avec EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-gif/" name="Fusionner SPREADSHEETML avec GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-html/" name="Fusionner SPREADSHEETML avec HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-md/" name="Fusionner SPREADSHEETML vers MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-mhtml/" name="Fusionner SPREADSHEETML avec MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-ods/" name="Fusionner SPREADSHEETML avec ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-pdf/" name="Fusionner SPREADSHEETML avec PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-png/" name="Fusionner SPREADSHEETML avec PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-svg/" name="Fusionner SPREADSHEETML avec SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-tiff/" name="Fusionner SPREADSHEETML avec TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-tsv/" name="Fusionner SPREADSHEETML avec TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-txt/" name="Fusionner SPREADSHEETML avec TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xls/" name="Fusionner SPREADSHEETML avec XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsb/" name="Fusionner SPREADSHEETML avec XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsm/" name="Fusionner SPREADSHEETML avec XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlsx/" name="Fusionner SPREADSHEETML avec XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xlt/" name="Fusionner SPREADSHEETML avec XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltm/" name="Fusionner SPREADSHEETML avec XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xltx/" name="Fusionner SPREADSHEETML avec XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xml/" name="Fusionner SPREADSHEETML en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-xps/" name="Fusionner SPREADSHEETML avec XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-json/" name="Fusionner SPREADSHEETML avec JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-spreadsheetml-to-jpeg/" name="Fusionner SPREADSHEETML avec JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

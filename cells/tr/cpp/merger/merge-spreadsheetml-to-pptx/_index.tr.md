@@ -1,7 +1,8 @@
 ---
-title:  SPREADSHEETML'yi C++ aracılığıyla PPTX ile birleştirin
+title: SPREADSHEETML'yi PPTX ile birleştir - SPREADSHEETML'yi C++'de PPTX ile birleştir
 url: /tr/cpp/merger/merge-spreadsheetml-to-pptx/ 
-description: SPREADSHEETML'yi PPTX Online ile Ücretsiz Olarak Birleştirin. PPTX Birleşmesi için Ücretsiz Çevrimiçi SPREADSHEETML. SPREADSHEETML'yi Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS ve daha fazlasıyla birleştirin.
+description: Aspose excel. C++ Aspose.Cells. SPREADSHEETML'yi PPTX kaydetme biçimine Ücretsiz Çevrimiçi Birleştirme. C++ SPREADSHEETML'yi PPTX biçimiyle birleştirin. SPREADSHEETML'yi C++'de PPTX ile birleştirin. SPREADSHEETML Birleştirin.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to PPTX in C++., Free Online C++ Merge SPREADSHEETML to pptx., C++ Combine SPREADSHEETML to PPTX Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="SPREADSHEETML\'yi C++ aracılığıyla PPTX ile birleştirin" h2="SPREADSHEETML\'i PPTX ile birleştirmek için yüksek hızlı C++ kitaplığı. C++\'de üst düzey, platformdan bağımsız yazılım geliştirmek için API excel dönüştürmemizi kullanın. Bu, Excel, CSV, OpenOffice, PDF, HTML, image ve diğer birçok excel biçimini içe ve dışa aktarmak için profesyonel bir yazılım çözümüdür." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: SPREADSHEETML'yi PPTX Online ile Ücretsiz Olarak Birleştirin. PPT
 
 {{% blocks/products/pf/agp/content h2="C++\'i Kullanarak SPREADSHEETML\'yi PPTX ile birleştirin" %}}
 
- SPREADSHEETML ile PPTX nasıl birleştirilir? Aspose.Cells for C++ kütüphanesi ile SPREADSHEETML ile PPTX'i programlı olarak birkaç satır kod ile kolayca birleştirebilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+ SPREADSHEETML'yi PPTX ile nasıl birleştiririm? Aspose.Cells for C++ kütüphanesi ile SPREADSHEETML ile PPTX'i programlı olarak birkaç satır kod ile kolayca birleştirebilirsiniz.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve yazdırma becerisiyle platformlar arası uygulamalar oluşturma yeteneğine sahiptir. C++ Excel API yalnızca elektronik tablo formatları arasında dönüştürmekle kalmaz, aynı zamanda Excel dosyalarını resim, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT ve daha fazlası olarak işleyebilir, böylece belge alışverişi için mükemmel bir seçimdir endüstri standardında biçimleri. En son sürümünü doğrudan indirebilirsiniz, sadece açın[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) paket yöneticisi, Aspose.Cells.Cpp'yi arayın ve kurun. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{% blocks/products/pf/agp/code-block title="Emretmek" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML\'yi C++\'de PPTX ile Çevrimiçi Ücretsiz Olarak Birleştirin" %}}
 
-Aşağıdaki örnek, SPREADSHEETML'nin C++'de PPTX ile nasıl birleştirileceğini gösterir.
+Aşağıdaki örnek, SPREADSHEETML'nin Aspose.Cells for C++'de PPTX ile nasıl birleştirileceğini gösterir.
 {{% blocks/products/pf/agp/text %}}
 
 SPREADSHEETML'yi PPTX'de birleştirmek için kolay adımları izleyin. Dosyalarınızı yükleyin, dosyaları birleştirmek için Workbook.Combine yöntemini çağırın ve ardından PPTX dosyasına kaydedin. C++'de kod geliştirirseniz, bu göründüğünden daha basit olacaktır. SPREADSHEETML'yi PPTX ile birleştiren C++ örneğine bakın.
@@ -36,16 +37,18 @@ SPREADSHEETML'yi PPTX'de birleştirmek için kolay adımları izleyin. Dosyalar�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="SPREADSHEETML\'yi hatta PPTX ile birleştirmek için Ücretsiz Uygulama" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="SPREADSHEETML\'yi C++\'de PPTX ile Birleştirmek için Ücretsiz Çevrimiçi" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="SPREADSHEETML\'yi C++ aracılığıyla PPTX ile Birleştirme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API'ler yalnızca birkaç satır kodla yapılabilir.
+ SPREADSHEETML'yi programlı olarak PPTX ile birleştirmeniz mi gerekiyor? Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++'i yükleyin.
++ C++ projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
 + SPREADSHEETML dosyasını Workbook sınıfıyla yükleyin.
 + Dosyaları birleştirmek için Workbook.Combine yöntemini çağırın.
 + Workbook.Save yöntemini çağırın ve çıktı dosyası adını parametre olarak iletin.
@@ -63,7 +66,7 @@ Sisteminize "Aspose.Cells for C++" yüklemek için üç seçenek vardır. Lütfe
 
 1.  yüklemek[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Include ve lib Folders'ı kullanarak kitaplığı kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Linux'ta Aspose.Cells for C++'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Linux'ta Aspose.Cells for C++'i kurun. Görmek[Belgeler](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API'lerimiz tüm büyük platformlarda ve İşletim Sistemlerinde desteklenir. A
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML, HTML'e benzeyen, ancak nesneleri tanımlamak için etiketleri kullanmada farklı olan Genişletilebilir İşaretleme Dili anlamına gelir. XML dosya formatının oluşturulmasının ardındaki tüm fikir, yazılım veya donanım araçlarına bağımlı olmadan verileri depolamak ve taşımaktı. Popülaritesi, hem insan hem de makine tarafından okunabilir olmasından kaynaklanmaktadır. Bu, World Wide Web (WWW) gibi ağ üzerinden depolanacak ve paylaşılacak nesneler şeklinde ortak veri protokolleri oluşturmasını sağlar. XML'deki "X", dilin kullanıcı gereksinimlerine göre herhangi bir sayıda sembole genişletilebileceğini ima eden genişletilebilir içindir. Microsoft Open XML, LibreOffice OpenDocument, XHTML ve SVG gibi birçok standart dosya formatı bu özelliklerden yararlanır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}PPTX uzantılı dosyalar popüler Microsoft PowerPoint uygulaması ile oluşturulan sunum dosyalarıdır. İkili olan sunum dosyası biçimi PPT'nin önceki sürümünün aksine, PPTX biçimi, Microsoft PowerPoint açık XML sunum dosyası biçimini temel alır. Bir sunum dosyası, her slaydın metin, resimler, biçimlendirme, animasyonlar ve diğer ortamlardan oluşabileceği bir slayt koleksiyonudur. Bu slaytlar, özel sunum ayarları ile slayt gösterileri şeklinde izleyicilere sunulur.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Birleştirme Biçimleri" subTitle="C++\'i kullanarak, elektronik tablo ml\'yi de dahil olmak üzere diğer birçok dosya biçimiyle birleştirebilirsiniz." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-html/" name="HTML" description="Hiper Metin İşaretleme Dili" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="Web Sayfası Arşiv Formatı" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="Sekmeyle Ayrılmış Değerler" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="TXT" description="Metin belgesi" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="XLS" description="Excel İkili Biçim" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="Elektronik Tablo Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="OOXML Excel Dosyası" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft Excel Şablonu" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="Excel Makro Özellikli Şablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-docx/" name="SPREADSHEETML\'yi DOCX ile birleştirin" description="Microsoft Word belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-sql/" name="SPREADSHEETML\'yi SQL ile birleştirin" description="Yapılandırılmış sorgu dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-bmp/" name="SPREADSHEETML\'yi BMP ile birleştirin" description="Bit Eşlem Görüntüsü" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-emf/" name="SPREADSHEETML\'yi EMF ile birleştirin" description="Gelişmiş Meta Dosya Biçimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-gif/" name="SPREADSHEETML\'yi GIF ile birleştirin" description="Grafik Değişim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-html/" name="SPREADSHEETML\'yi HTML ile birleştirin" description="Hiper Metin İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-md/" name="SPREADSHEETML\'yi MD ile birleştirin" description="İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-mhtml/" name="SPREADSHEETML\'yi MHTML ile birleştirin" description="Web Sayfası Arşiv Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-ods/" name="SPREADSHEETML\'yi ODS ile birleştirin" description="OpenDocument Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-pdf/" name="SPREADSHEETML\'yi PDF ile birleştirin" description="Taşınabilir Döküman Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-png/" name="SPREADSHEETML\'yi PNG ile birleştirin" description="taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-svg/" name="SPREADSHEETML\'yi SVG ile birleştirin" description="ölçeklendirilebilir Vektör Grafiği" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tiff/" name="SPREADSHEETML\'yi TIFF ile birleştirin" description="Etiketli Resim Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="SPREADSHEETML\'yi TSV ile birleştirin" description="Sekmeyle Ayrılmış Değerler" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="SPREADSHEETML\'yi TXT ile birleştirin" description="Metin belgesi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="SPREADSHEETML\'yi XLS ile birleştirin" description="Excel İkili Biçim" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsb/" name="SPREADSHEETML\'yi XLSB ile birleştirin" description="İkili Excel Çalışma Kitabı Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsm/" name="SPREADSHEETML\'yi XLSM ile birleştirin" description="Elektronik Tablo Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsx/" name="SPREADSHEETML\'yi XLSX ile birleştirin" description="OOXML Excel Dosyası" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlt/" name="SPREADSHEETML\'yi XLT ile birleştirin" description="Microsoft Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltm/" name="SPREADSHEETML\'yi XLTM ile birleştirin" description="Excel Makro Özellikli Şablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltx/" name="SPREADSHEETML\'yi XLTX ile birleştirin" description="Office OpenXML Excel Şablonu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xml/" name="SPREADSHEETML\'yi XML ile birleştirin" description="Genişletilebilir İşaretleme Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xps/" name="SPREADSHEETML\'yi XPS ile birleştirin" description="XML Kağıt Özellikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-json/" name="SPREADSHEETML\'yi JSON ile birleştirin" description="JavaScript Nesnesi Gösterimi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-jpeg/" name="SPREADSHEETML\'yi JPEG ile birleştirin" description="JPEG Resim" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

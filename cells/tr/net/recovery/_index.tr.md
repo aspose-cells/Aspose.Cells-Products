@@ -22,7 +22,7 @@ description: C#'i kullanarak bozuk bir excel dosyasını onarın. .NET uygulamas
 
 {{% blocks/products/pf/agp/content h2="C# kullanarak excel dosyası nasıl onarılır" %}}
 
-Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
++ Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
 + Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 

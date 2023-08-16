@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller XLSB document via .NET
+title: Protéger et verrouiller XLSB document via .NET
 weight: 5920
 description: C# code source pour verrouiller le fichier XLSB à l'aide du mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
@@ -124,7 +124,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

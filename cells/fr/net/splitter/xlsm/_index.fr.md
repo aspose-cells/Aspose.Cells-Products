@@ -13,7 +13,7 @@ description: C# code source pour diviser les documents XLSM sur .NET Framework, 
 
  Afin de diviser le fichier XLSM, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
+ API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  Aspose.Cells 

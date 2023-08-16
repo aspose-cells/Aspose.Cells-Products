@@ -1,7 +1,7 @@
 ---
-title: Convertir XLSX en OTS Python via Python
-description: Convertissez XLSX en OTS en ligne gratuitement. Convertisseur en ligne gratuit XLSX en OTS. Python XLSX à OTS. XLSX à OTS via Python.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+title: Python XLSX à OTS - Convertisseur en ligne XLSX à OTS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertir XLSX en format de sauvegarde OTS. Python XLSX au format OTS. Enregistrez XLSX à OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to OTS saveformat., Free Online XLSX to OTS Python., Python Convert XLSX to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLSX en OTS en Python" h2="Bibliothèque Python haute vitesse pour convertir XLSX en OTS. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir XLSX en OTS. Téléchargez votre fichi
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir XLSX en OTS en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir XLSX en OTS en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir XLSX en OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs de Python peuvent facilement charger et convertir XLSX en OTS en quelques lignes de code.
+Besoin de convertir les fichiers XLSX en OTS par programmation ? Les développeurs de Python peuvent facilement charger et convertir XLSX en OTS en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier XLSX avec une instance de Workbook
-1.  Convertir XLSX en OTS en appelant la méthode Workbook.save
+1.  Chargez le fichier XLSX avec une instance de Workbook.
+1.  Convertissez XLSX en OTS en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de XLSX en OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX est un format bien connu pour les documents Excel Microsoft qui a été introduit par Microsoft avec la sortie de Microsoft Office 2007. Basé sur une structure organisée selon les conventions d'emballage ouvertes comme indiqué dans la partie 2 de la norme OOXML ECMA-376, le nouveau format est un package zip contenant un certain nombre de fichiers XML. La structure et les fichiers sous-jacents peuvent être examinés en décompressant simplement le fichier .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un fichier avec l'extension .ots est un fichier de modèle de feuille de calcul OpenDocument créé avec le logiciel d'application Calc inclus dans Apache OpenOffice. Le logiciel d'application Calc est similaire à Excel disponible dans Microsoft Office. Le format de fichier OTS est utilisé pour créer des modèles contenant des paramètres prédéfinis liés aux styles, à la police, aux données, à la mise en page de la feuille de calcul et au formatage. Les fichiers OTF ont le type mime application/vnd.oasis.opendocument.spreadsheet-template. Ces fichiers modèles peuvent être utilisés comme point de départ pour générer et enregistrer des fichiers de données réels qui sont enregistrés au format de fichier ODS. Les fichiers OTS peuvent être utilisés avec des applications telles que OpenOffice et LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir XLSX en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-txt/" name="XLSX À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xls/" name="XLSX À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsb/" name="XLSX À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlsm/" name="XLSX À XLSM" description="Fichier tableur" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xlt/" name="XLSX À XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsx-to-xltm/" name="XLSX À XLTM" description="Modèle Excel compatible avec les macros" >}}

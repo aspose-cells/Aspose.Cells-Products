@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Uygulama, bir SharePoint Excel Elektron
    </header>
    <ul>
     <li>
- Alt klasörlere kaydet
+Alt klasörlere kaydet
     </li>
     <li>
  Dosya Birleştirme
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint Uygulama, bir SharePoint Excel Elektron
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Cells for SharePoint birçok popüler elektronik tablo biçimini destekler, PDF, HTML ve diğerleri[dosya formatları](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description=" Aspose.Cells for SharePoint birçok popüler elektronik tablo biçimini destekler, PDF, HTML ve diğerleri[dosya formatları](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint Uygulama, bir SharePoint Excel Elektron
  Dosyaları Dönüştürme Sırasında Birleştir
     </h2>
     <p>
- Aspose.Cells for SharePoint, farklı biçimlerdeki dosyaları tek bir belgede birleştirme yeteneği sağlar. Ayrıca, belgelerin birleştirilmesini istediğiniz sırayı ayarlamak için listedeki belgeleri yukarı veya aşağı taşıyabilirsiniz.
+Aspose.Cells for SharePoint, farklı biçimlerdeki dosyaları tek bir belgede birleştirme yeteneği sağlar. Ayrıca, belgelerin birleştirilmesini istediğiniz sırayı ayarlamak için listedeki belgeleri yukarı veya aşağı taşıyabilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint Uygulama, bir SharePoint Excel Elektron
  Alt Klasörlerdeki Dosyaları Dönüştür
     </h2>
     <p>
-Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve alt klasörleri tekrar tekrar dönüştürerek dönüştürme işlemini kolaylaştırır. Mevcut alt klasör yapısı, hedef klasörde oluşturulur.
+ Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve alt klasörleri yinelemeli olarak dönüştürerek dönüştürme sürecini daha kolay hale getirir. Mevcut alt klasör yapısı, hedef klasörde oluşturulur.
     </p>
    </div>
    <div class="col-lg-12">
@@ -279,7 +279,7 @@ Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve a
  Mevcut dosyaların üzerine yaz
     </h2>
     <p>
- Hedef klasör, dönüştürmek istediklerinizle aynı ada sahip dosyaları zaten içeriyorsa, Aspose.Cells for SharePoint, mevcut dosyaların üzerine yazmanıza izin verir veya uygulamaya hedef klasörde zaten var olan dosyaları işlemeyi atlaması talimatını verecek bir seçeneği belirleyebilirsiniz. .
+ Hedef klasör, dönüştürmek istediklerinizle aynı ada sahip dosyaları zaten içeriyorsa, Aspose.Cells for SharePoint, mevcut dosyaların üzerine yazmanıza izin verir veya uygulamaya, hedef klasörde zaten var olan dosyaları işlemeyi atlaması talimatını verecek bir seçeneği belirleyebilirsiniz. .
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve a
  Halkla Etkileşim API
     </h2>
     <p>
- Dahili SharePoint çözümlerine sahip geliştiriciler, genel API aracılığıyla Aspose.Cells for SharePoint'in belge dönüştürme motorunu kullanabilirler. Desteklenen tüm biçimlere ve dönüştürme seçeneklerine programlı erişim sağlar.
+Dahili SharePoint çözümlerine sahip geliştiriciler, genel API aracılığıyla Aspose.Cells for SharePoint'in belge dönüştürme motorunu kullanabilirler. Desteklenen tüm biçimlere ve dönüştürme seçeneklerine programlı erişim sağlar.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint, seçilen bir klasör altındaki tüm belgeleri ve a
  Microsoft Excel Otomasyonu – Gerekli değil
     </h2>
     <p>
-Aspose.Cells for SharePoint, Excel biçim dönüştürmesiyle çalışmak için makinede Microsoft Excel'in yüklenmesine asla ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
+ Aspose.Cells for SharePoint, Excel biçim dönüştürmesiyle çalışmak için makinede Microsoft Excel'in yüklenmesine asla ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
     </p>
    </div>
   </div>

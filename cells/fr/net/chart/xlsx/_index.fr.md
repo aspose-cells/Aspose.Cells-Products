@@ -107,7 +107,7 @@ Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre M
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

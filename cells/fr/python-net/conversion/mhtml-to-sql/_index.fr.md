@@ -1,7 +1,7 @@
 ---
-title: Convertir MHTML en SQL Python via Python
-description: Convertissez MHTML en SQL Online gratuitement. Convertisseur en ligne gratuit MHTML en SQL. Python MHTML à SQL. MHTML à SQL via Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML en SQL - Convertisseur en ligne MHTML en SQL
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertissez MHTML au format de sauvegarde SQL. Python MHTML au format SQL. Enregistrez MHTML dans SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to SQL saveformat., Free Online MHTML to SQL Python., Python Convert MHTML to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir MHTML en SQL en Python" h2="Bibliothèque Python haute vitesse pour convertir MHTML en SQL. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Convertir MHTML en SQL en Python" %}}
 
- Comment convertir MHTML en SQL ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir MHTML en SQL par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
+ Comment convertir MHTML en SQL ? Avec Aspose.Cells for Python via la bibliothèque NET, vous pouvez facilement convertir MHTML en SQL par programmation avec quelques lignes de code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. Python Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir MHTML en SQL. Téléchargez votre fich
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir MHTML en SQL en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir MHTML en SQL en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir MHTML en SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs Python peuvent facilement charger et convertir MHTML en SQL en quelques lignes de code.
+Besoin de convertir les fichiers MHTML en SQL par programmation ? Les développeurs Python peuvent facilement charger et convertir MHTML en SQL en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier MHTML avec une instance de Workbook
-1.  Convertir MHTML en SQL en appelant la méthode Workbook.save
+1.  Chargez le fichier MHTML avec une instance de Workbook.
+1.  Convertissez MHTML en SQL en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de MHTML en SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Les fichiers avec l'extension MHTML représentent un format d'archive de page Web qui peut être créé par un certain nombre d'applications différentes. Le format est connu sous le nom de format d'archive car il enregistre le code Web HTML et les ressources associées dans un seul fichier. Ces ressources incluent tout ce qui est lié à la page Web, comme les images, les applets, les animations, les fichiers audio, etc. Les fichiers MHTML peuvent être ouverts dans diverses applications telles qu'Internet Explorer et Microsoft Word. Microsoft Windows utilise le format de fichier MHTML pour enregistrer les scénarios de problèmes observés lors de l'utilisation de toute application sur Windows qui soulève des problèmes. Le format de fichier MHTML encode le contenu de la page de manière similaire aux spécifications définies dans message/rfc822, qui sont des spécifications relatives aux e-mails en texte brut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Un fichier avec l'extension .sql est un fichier SQL (Structured Query Language) qui contient du code pour fonctionner avec des bases de données relationnelles. Il est utilisé pour écrire des instructions SQL pour les opérations CRUD (créer, lire, mettre à jour et supprimer) sur les bases de données. Les fichiers SQL sont courants lorsque vous travaillez avec des bases de données de bureau et Web. Il existe plusieurs alternatives à SQL telles que Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL et plusieurs autres. Les fichiers SQL peuvent être ouverts par les éditeurs de requêtes de Microsoft SQL Server, MySQL et d'autres éditeurs de texte brut tels que le Bloc-notes sur le système d'exploitation Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir MHTML en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-txt/" name="MHTML À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xls/" name="MHTML À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsb/" name="MHTML À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsm/" name="MHTML À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsm/" name="MHTML À XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlsx/" name="MHTML À XLSX" description="Fichier Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xlt/" name="MHTML À XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/mhtml-to-xltm/" name="MHTML À XLTM" description="Modèle Excel compatible avec les macros" >}}

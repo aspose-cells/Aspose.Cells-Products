@@ -30,7 +30,7 @@ Convertissez et combinez des feuilles de calcul Excel dans SharePoint Services o
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Services de rapports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-reporting-services.svg" productLink="/cells/reporting-services/" >}}
-Exportez les rapports RDL et RDLC vers des formats de fichier Excel à partir de SQL Server Reporting Services.
+Exportez des rapports RDL et RDLC vers des formats de fichier Excel à partir de SQL Server Reporting Services.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-jasperreports.svg" productLink="/cells/jasperreports/" >}}
@@ -46,11 +46,11 @@ Créez, manipulez, convertissez et affichez des feuilles de calcul Excel dans de
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" productLink="/cells/python-java/" >}}
-Charger, créer, manipuler et afficher des documents Excel en utilisant Python.
+Charger, créer, manipuler et rendre des documents Excel en utilisant Python.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" productLink="/cells/python-net/" >}}
-Charger, créer, manipuler et afficher des documents Excel en utilisant Python.
+Charger, créer, manipuler et rendre des documents Excel en utilisant Python.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

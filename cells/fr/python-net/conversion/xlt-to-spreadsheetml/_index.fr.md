@@ -1,7 +1,7 @@
 ---
-title: Convertir XLT en SPREADSHEETML Python via Python
-description: Convertissez XLT en SPREADSHEETML en ligne gratuitement. Convertisseur en ligne gratuit XLT en SPREADSHEETML. Python XLT à SPREADSHEETML. XLT à SPREADSHEETML via Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT en SPREADSHEETML - Convertisseur en ligne XLT en SPREADSHEETML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertir XLT en format de sauvegarde SPREADSHEETML. Python XLT au format SPREADSHEETML. Enregistrez XLT dans SPREADSHEETML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to SPREADSHEETML saveformat., Free Online XLT to SPREADSHEETML Python., Python Convert XLT to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir XLT en SPREADSHEETML en Python" h2="Bibliothèque Python haute vitesse pour convertir XLT en SPREADSHEETML. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir XLT en SPREADSHEETML. Téléchargez vo
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir XLT en SPREADSHEETML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir XLT en SPREADSHEETML en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir XLT en SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Les développeurs de Python peuvent facilement charger et convertir XLT en SPREADSHEETML en quelques lignes de code.
+Besoin de convertir les fichiers XLT en SPREADSHEETML par programmation ? Les développeurs Python peuvent facilement charger et convertir XLT en SPREADSHEETML en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier XLT avec une instance de Workbook
-1.  Convertir XLT en SPREADSHEETML en appelant la méthode Workbook.save
+1.  Chargez le fichier XLT avec une instance de Workbook.
+1.  Convertissez XLT en SPREADSHEETML en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de XLT en SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Les fichiers avec l'extension .xlt sont des fichiers modèles créés avec Microsoft Excel qui est une application de feuille de calcul qui fait partie de la suite Office Microsoft. Microsoft Office 97-2003 prenait en charge la création de nouveaux fichiers XLT ainsi que leur ouverture. La dernière version d'Excel est toujours capable d'ouvrir les fichiers de modèle de cet ancien format. Un tel fichier de modèle est utilisé pour créer rapidement de nouveaux fichiers Excel avec des données et des paramètres par défaut tels que le formatage de la page, la taille de la police, les marges, les graphiques, etc., qui peuvent ensuite être enregistrés en tant que nouveaux fichiers .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML signifie Extensible Markup Language qui est similaire à HTML mais différent dans l'utilisation de balises pour définir des objets. L'idée derrière la création du format de fichier XML était de stocker et de transporter des données sans dépendre d'outils logiciels ou matériels. Sa popularité est due au fait qu'il est à la fois lisible par l'homme et par la machine. Cela lui permet de créer des protocoles de données communs sous la forme d'objets à stocker et à partager sur un réseau tel que le World Wide Web (WWW). Le "X" dans XML est pour extensible, ce qui implique que le langage peut être étendu à n'importe quel nombre de symboles selon les besoins de l'utilisateur. C'est pour ces fonctionnalités que de nombreux formats de fichiers standard l'utilisent tels que Microsoft Open XML, LibreOffice OpenDocument, XHTML et SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir XLT en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-txt/" name="XLT À TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xls/" name="XLT À XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsb/" name="XLT À XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT À XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT À XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT À XLSX" description="Fichier Excel OOXML" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT À XLTM" description="Modèle Excel compatible avec les macros" >}}

@@ -1,7 +1,7 @@
 ---
-title: SAYILARI PRN'ye dönüştür Python via Python
-description: NUMBERS'ı Çevrimiçi PRN'ye Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi SAYILAR'dan PRN'ye Dönüştürücü. Python NUMARALAR'dan PRN'ye. NUMBERS'ı Python yoluyla PRN'ye gönderin.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS to PRN - Online NUMBERS to PRN Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python NUMBERS'ı PRN saveformat'a dönüştürün. Python NUMBERS'tan PRN biçimine. NUMARALARI PRN Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to PRN saveformat., Free Online NUMBERS to PRN Python., Python Convert NUMBERS to PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMBERS\'yi Python\'de PRN\'ye dönüştür" h2="SAYILARI PRN\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ NUMBERS'i PRN'ye dönüştürmek için kolay adımları izleyin. NUMBERS dosyan�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="NUMARALARI Çevrimiçi PRN\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="NUMARALARI Çevrimiçi PRN\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS\'i PRN\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiriciler, yalnızca birkaç satır kodla NUMBERS'ı kolayca yükleyebilir ve PRN'ye dönüştürebilir.
+NUMBERS dosyalarını programlı olarak PRN'ye dönüştürmeniz mi gerekiyor? Python geliştiricileri, yalnızca birkaç satır kodla NUMBERS'ı kolayca yükleyebilir ve PRN'ye dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak SAYILARI PRN'ye dönüştürün
+1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak SAYILARI PRN'ye dönüştürün.
+1.  NUMBERS'in PRN'ye dönüşüm sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers uzantılı dosyalar elektronik tablo dosya türü olarak sınıflandırılır, bu nedenle .xlsx dosyalarına benzerler; ancak Numbers dosyaları, Apple iWork Numbers elektronik tablo yazılımı kullanılarak oluşturulur. Apple iWork Numbers, iWork Productivity Suite'in bir birim yazılımıdır. iWork Productivity Suite, Windows PC'lerde kullanılan Microsoft Office Suite'e eşdeğerdir. Bu nedenle MacOS için mevcut olan Numbers'in aynı zamanda Microsoft Excel'in rakibi olduğunu söyleyebiliriz. Aynı şekilde Microsoft Excel, SAYILAR dosyası da tablolar, çizelgeler ve formüller içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN dosyası, Windows'deki bazı Yazdır iletişim kutularında görünen Dosyaya Yazdır onay kutusu kullanılarak oluşturulan bir dosyadır. Bir yazıcının, faks makinesinin veya başka bir aygıtın bir belgeyi yazdırmak için kullandığı aygıta özgü bir dizi talimat içerir. PRN dosyaları, dosyanın oluşturulduğu cihaza bağlı olarak metin veya ikili içerik içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca NUMBERS\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

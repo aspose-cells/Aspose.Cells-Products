@@ -1,7 +1,7 @@
 ---
-title: PRN'yi GIF Python via Python'e dönüştür
-description: PRN'yi GIF'e Çevrimiçi olarak Ücretsiz Dönüştürün. Ücretsiz Çevrimiçi PRN'den GIF'e Dönüştürücü. Python PRN - GIF. PRN - GIF - Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN'den GIF'e - Çevrimiçi PRN'den GIF'e Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python PRN'yi GIF kaydetme biçimine dönüştürün. Python PRN'den GIF formatına. PRN'yi GIF Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to GIF saveformat., Free Online PRN to GIF Python., Python Convert PRN to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN\'yi Python\'de GIF\'e dönüştür" h2="PRN\'yi GIF\'e dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ PRN'yi GIF'e dönüştürmek için kolay adımları izleyin. PRN dosyanızı yü
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="PRN\'yi Çevrimiçi GIF\'e Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="PRN\'yi Çevrimiçi GIF\'e Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN\'i GIF\'ye dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiricileri, PRN'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve GIF'e dönüştürebilir.
+PRN dosyalarını programlı olarak GIF'e dönüştürmeniz mi gerekiyor? Python geliştiricileri, PRN'yi yalnızca birkaç satır kodla kolayca yükleyebilir ve GIF'e dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  PRN dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak PRN'yi GIF'e dönüştürün
+1.  PRN dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak PRN'yi GIF'e dönüştürün.
+1.  PRN'nin GIF'e dönüştürme sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN dosyası, Windows'deki bazı Yazdır iletişim kutularında görünen Dosyaya Yazdır onay kutusu kullanılarak oluşturulan bir dosyadır. Bir yazıcının, faks makinesinin veya başka bir aygıtın bir belgeyi yazdırmak için kullandığı aygıta özgü bir dizi talimat içerir. PRN dosyaları, dosyanın oluşturulduğu cihaza bağlı olarak metin veya ikili içerik içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bit'e kadar izin verir ve görüntü boyunca 256'ya kadar renge izin verilir. 16 milyon renge kadar görüntüleyebilen ve insan gözünün sınırlarına oldukça dokunan JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler en iyi seçenek olmaya devam etti çünkü düşük bant genişliği gerektiriyorlar ve katı renk alanlarını tüketen grafikler için uyumlulardı. Animasyonlu bir GIF, çok sayıda görüntüyü veya kareyi tek bir dosyada birleştirir ve animasyonlu bir klip veya kısa bir video oluşturmak için bunları sırayla görüntüler. Renk sınırlamaları, her kare için 256'ya kadardır ve renk gradyanlı diğer resimlerin ve fotoğrafların çoğaltılması için muhtemelen en az uygun olanlardır.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="PRN\'yi aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine de dönüştürebilirsiniz." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: SAYILARI OTS'ye dönüştür Python via Python
-description: NUMBERS'ı OTS Online'a Ücretsiz Dönüştürün. Ücretsiz Online NUMBERS'tan OTS'ye Dönüştürücü. Python NUMARALAR'dan OTS'ye. Python yoluyla OTS'ye NUMBERS.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS - OTS - Online NUMBERS - OTS Dönüştürücü
+description: Aspose excel. Python Aspose.Cells. Python Aspose Cells. Ücretsiz Çevrimiçi Python NUMBERS'ı OTS saveformat'a dönüştürün. Python NUMBERS'tan OTS formatına. SAYILARI OTS Python'e kaydedin.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to OTS saveformat., Free Online NUMBERS to OTS Python., Python Convert NUMBERS to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python\'de SAYILARI OTS\'ye dönüştür" h2="SAYILARI OTS\'ye dönüştürmek için yüksek hızlı Python kitaplığı. Python\'de üst düzey, platformdan bağımsız yazılım geliştirmek için excel dönüştürme API\'i kullanın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ NUMBERS'ı OTS'ye dönüştürmek için kolay adımları izleyin. NUMBERS dosyan
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="NUMARALARI Çevrimiçi OTS\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="NUMARALARI Çevrimiçi OTS\'ye Dönüştürmek için Ücretsiz Uygulama ve Örnek Kod" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMBERS\'i OTS\'ye Dönüştürme" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python geliştiriciler, yalnızca birkaç satır kodla NUMBERS'i kolayca yükleyebilir ve OTS'ye dönüştürebilir.
+NUMBERS dosyalarını programlı olarak OTS'ye dönüştürmeniz mi gerekiyor? Python geliştiriciler, yalnızca birkaç satır kodla NUMBERS'i kolayca yükleyebilir ve OTS'ye dönüştürebilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' yükleyin.
 1.  Python projenize bir kitaplık referansı ekleyin (kitaplığı içe aktarın).
-1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin
-1.  Workbook.save yöntemini çağırarak SAYILARI OTS'ye dönüştürün
+1.  NUMBERS dosyasını bir Çalışma Kitabı örneğiyle yükleyin.
+1.  Workbook.save yöntemini çağırarak SAYILARI OTS'ye dönüştürün.
+1.  NUMBERS'in OTS'ye dönüşüm sonucunu alın.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/)geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
+ Ayrıca aşağıdakileri de takip edebilirsiniz:[adım adım talimatlar](https://docs.aspose.com/cells/python-net/getting-started/) geliştirici ortamınıza "Aspose.Cells for Python via .NET" nasıl kurulacağı hakkında.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/asp
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python üzerinden NET, platformdan bağımsızdır API ve herhangi bir platformda kullanılabilir (Windows, Linux), sadece sistemin sahip olduğundan emin olun[Python](https://www.python.org/downloads/) 3.7 veya üstü.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}.numbers uzantılı dosyalar elektronik tablo dosya türü olarak sınıflandırılır, bu nedenle .xlsx dosyalarına benzerler; ancak Numbers dosyaları, Apple iWork Numbers elektronik tablo yazılımı kullanılarak oluşturulur. Apple iWork Numbers, iWork Productivity Suite'in bir birim yazılımıdır. iWork Productivity Suite, Windows PC'lerde kullanılan Microsoft Office Suite'e eşdeğerdir. Bu nedenle MacOS için mevcut olan Numbers'in aynı zamanda Microsoft Excel'in rakibi olduğunu söyleyebiliriz. Aynı şekilde Microsoft Excel, SAYILAR dosyası da tablolar, çizelgeler ve formüller içerebilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}.ots uzantılı bir dosya, Apache OpenOffice'te bulunan Calc uygulama yazılımıyla oluşturulan bir OpenDocument Elektronik Tablo Şablonu dosyasıdır. Calc uygulama yazılımı, Microsoft Office'te bulunan Excel'e benzer. OTS dosya biçimi, stiller, yazı tipi, veriler, elektronik tablo düzeni ve biçimlendirme ile ilgili önceden tanımlanmış ayarları içeren şablonlar oluşturmak için kullanılır. OTF dosyalarında mime tipinde application/vnd.oasis.opendocument.spreadsheet-template bulunur. Bu şablon dosyaları, ODS dosya biçiminde kaydedilen gerçek veri dosyalarını oluşturmak ve kaydetmek için bir başlangıç noktası olarak kullanılabilir. OTS dosyaları, OpenOffice ve LibreOffice gibi uygulamalarla kullanılabilir.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Dönüşümler" subTitle="Ayrıca NUMBERS\'i aşağıda listelenen birkaç dosya da dahil olmak üzere diğer birçok dosya biçimine dönüştürebilirsiniz." >}}
 

@@ -11,7 +11,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 
 {{% blocks/products/pf/agp/content h2="ODS Dosyalarını Java Kullanarak Birleştirme" %}}
 
- ODS dosyasını birleştirmek için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir birleştirme API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
+ ODS dosyasını birleştirmek için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir birleşme API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="havuz" offSpacer="true" %}}
 
@@ -49,14 +49,14 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 
 {{% blocks/products/pf/agp/text %}}
 
- Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Java](https://products.aspose.com/cells/java) API'ler yalnızca birkaç satır kodla yapılabilir.
+Birleştirme ve birleştirme ile temel bir belge[Aspose.Cells for Java](https://products.aspose.com/cells/java) API'ler yalnızca birkaç satır kodla yapılabilir.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + İlk ODS dosyasını bir Workbook sınıfı örneği ile yükleyin.
 + İkinci ODS belgesini bir Workbook sınıfı örneği ile yükleyin.
 + Combine() yöntemini kullanarak dosyaları birleştirin.
-birleştirilmiş ODS dosyasını belirtilen yola kaydet
++ birleştirilmiş ODS dosyasını belirtilen yola kaydet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ odsFile1.save("combinedFileWithPath.ods");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API indirmeye gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece ODS dosyalarınızı yükleyin." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anında birleştirilecek ve birleştirilecektir." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Anında birleştirilecek ve birleştirilecektir." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

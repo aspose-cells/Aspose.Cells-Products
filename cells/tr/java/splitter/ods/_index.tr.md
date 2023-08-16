@@ -13,7 +13,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 
  ODS dosyasını bölmek için kullanacağız
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir splitter API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.
+ API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir splitter API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
@@ -119,7 +119,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Bölme Formatları" subTitle="Java\'i kullanarak, büyük bir dosyayı da dahil olmak üzere diğer birçok dosya biçiminin parçalarına bölebilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Bölme Biçimleri" subTitle="Java\'i kullanarak, büyük bir dosyayı da dahil olmak üzere diğer birçok dosya biçiminin parçalarına bölebilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xls/" name="XLS" description="Excel İkili Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

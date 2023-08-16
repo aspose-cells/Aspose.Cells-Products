@@ -18,7 +18,7 @@ description: Python Python Library kullanarak Excel'de Bubble3D grafikleri oluş
 
 {{% blocks/products/pf/agp/text %}}
 
-Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırarak bir Bubble3D grafiği oluşturması kolaydır.
+Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamalarını çalıştırarak bir Bubble3D grafiği oluşturması kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -33,7 +33,7 @@ Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı rap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
 {{% /blocks/products/pf/agp/text %}}
 
 - Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.

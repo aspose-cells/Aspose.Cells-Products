@@ -6,7 +6,7 @@ description: Yalnızca birkaç satırlık Java koduyla Excel XLS, XLSX, ODS, CSV
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel Dosyaları Dönüştürme via Java" h2="Microsoft Excel belgelerini elektronik tablo, web, resim ve sabit mizanpaj biçimleri olarak kaydedin" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Herhangi**Excel dönüştürücü** uygulama veya çözüm, Java Excel Kitaplığı, XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 dahil olmak üzere birden çok biçimi işlerken elektronik tablo programlama ve dönüştürme işlemlerini hızlandırır 193481. Ayrıca *Excel dosyalarını PDF'e dönüştürmeye** olanak tanır, XPS, HTML, MHTML, Düz Metin ve TIFF, JPG, PNG, BMP ve SVG gibi popüler resim biçimleri.
+ Herhangi**Excel dönüştürücü**uygulama veya çözüm, Java Excel Kitaplığı, XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 dahil olmak üzere birden çok biçimi işlerken elektronik tablo programlama ve dönüştürme işlemlerini hızlandırır 193481. Ayrıca *Excel dosyalarını PDF'e dönüştürmeye** olanak tanır, XPS, HTML, MHTML, Düz Metin ve TIFF, JPG, PNG, BMP ve SVG gibi popüler resim biçimleri.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının Ara Dönüşümü" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel\'i Word\'e ve PowerPoint\'e dönüştürün" %}}
- Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) aşağıda gösterildiği gibi sınıflar.
+ Kullanırken herhangi bir elektronik tabloyu yüklemek ve Word DOCX & PowerPoint PPTX dosyalarına dönüştürmek mümkündür.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)aşağıda gösterildiği gibi sınıflar.
 {{% blocks/products/pf/feature-page-code h3="Java Excel\'den Word\'e Dönüştürme Kodu ve PowerPoint" %}}
 ```cs
 // load the template file

@@ -1,7 +1,8 @@
 ---
-title:  Fusionner MHT avec XLT via C#
+title: Fusionner MHT avec XLT - Combiner MHT avec XLT dans C#
 url: /fr/net/merger/merge-mht-to-xlt/ 
-description: Fusionnez MHT avec XLT en ligne gratuitement. MHT en ligne gratuit à XLT Fusion. Fusionnez MHT avec Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. C# Aspose.Cells. Fusion en ligne gratuite MHT au format de sauvegarde XLT. C# Combinez MHT au format XLT. Fusionner MHT avec XLT dans C#. Fusion MHT.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge MHT to XLT in C#., Free Online C# Merge MHT to xlt., C# Combine MHT to XLT Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner MHT avec XLT via C#" h2="Bibliothèque C# haute vitesse pour fusionner MHT en XLT. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en C#. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,25 +28,27 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Fusionner MHT avec XLT en C# en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner MHT avec XLT dans C#.
+L'exemple suivant montre comment fusionner MHT avec XLT dans Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
-Suivez les étapes simples pour fusionner MHT avec XLT. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier XLT. Si vous développez du code en C#, ce sera plus simple qu'il n'y paraît. Voir l'exemple C# qui fusionne MHT en XLT.
+Suivez les étapes simples pour fusionner MHT en XLT. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier XLT. Si vous développez du code en C#, ce sera plus simple qu'il n'y paraît. Voir l'exemple C# qui fusionne MHT en XLT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner MHT avec XLT en ligne" InputFormat="mht" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner MHT avec XLT en C#" InputFormat="mht" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner MHT avec XLT via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Besoin de fusionner MHT avec XLT par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for .NET'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet C#.
 + Chargez le fichier MHT avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -62,7 +65,7 @@ Il existe deux options alternatives pour installer "Aspose.Cells for .NET" sur v
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez un[NuGet Colis](https://www.nuget.org/packages/Aspose.Cells/) . Voir[Documentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installez la bibliothèque à l'aide de[Console du gestionnaire de packages](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dans l'IDE de Visual Studio
+1.  Installez la bibliothèque à l'aide de[Console du gestionnaire de packages](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dans l'IDE de Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Un fichier avec l'extension .mht est un format de fichier d'archivage compatible MIME qui contient différents types de données dans un seul fichier. Il peut stocker des données telles que du texte, des images, des styles de page sous forme de fichiers CSS, JavaScript et d'autres ressources en tant que ressources intégrées. Les fichiers MHT, de type MIME message/rfc822, encapsulent tout le contenu d'un fichier HTML en un seul fichier d'archive pour le stockage lors de l'archivage sur des périphériques de stockage. Des applications logicielles telles que Microsoft Word vous permettent de convertir vos documents WORD en MHT en les exportant sous forme de fichier MHT. Les fichiers MHT peuvent être ouverts à l'aide de navigateurs populaires tels que Microsoft Internet Explorer et Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Les fichiers avec l'extension .xlt sont des fichiers modèles créés avec Microsoft Excel qui est une application de feuille de calcul qui fait partie de la suite Office Microsoft. Microsoft Office 97-2003 prenait en charge la création de nouveaux fichiers XLT ainsi que leur ouverture. La dernière version d'Excel est toujours capable d'ouvrir les fichiers de modèle de cet ancien format. Un tel fichier de modèle est utilisé pour créer rapidement de nouveaux fichiers Excel avec des données et des paramètres par défaut tels que le formatage de la page, la taille de la police, les marges, les graphiques, etc., qui peuvent ensuite être enregistrés en tant que nouveaux fichiers .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant C#, on peut également fusionner mht avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-docx/" name="Fusionner MHT avec DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-sql/" name="Fusionner MHT en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-bmp/" name="Fusionner MHT avec BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-emf/" name="Fusionner MHT avec EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-gif/" name="Fusionner MHT avec GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-html/" name="Fusionner MHT avec HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-md/" name="Fusionner MHT à MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-mhtml/" name="Fusionner MHT avec MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-ods/" name="Fusionner MHT avec ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-pdf/" name="Fusionner MHT avec PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-png/" name="Fusionner MHT avec PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-svg/" name="Fusionner MHT avec SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-tiff/" name="Fusionner MHT avec TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-tsv/" name="Fusionner MHT avec TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-txt/" name="Fusionner MHT avec TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xls/" name="Fusionner MHT avec XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsb/" name="Fusionner MHT avec XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsm/" name="Fusionner MHT avec XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlsx/" name="Fusionner MHT avec XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xlt/" name="Fusionner MHT avec XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xltm/" name="Fusionner MHT avec XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xltx/" name="Fusionner MHT avec XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xml/" name="Fusionner MHT en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-xps/" name="Fusionner MHT avec XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-json/" name="Fusionner MHT avec JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-mht-to-jpeg/" name="Fusionner MHT avec JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

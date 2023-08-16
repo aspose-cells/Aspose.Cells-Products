@@ -104,7 +104,7 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/assembly/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

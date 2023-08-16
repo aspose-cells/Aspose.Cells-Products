@@ -28,7 +28,7 @@ description: C# kaynak kodları, Microsoft Excel dosyalarının Visual C#.NET uy
 
 {{% blocks/products/pf/feature-page-section h2="Excel Çalışma Sayfasını Bölmelere Böl" %}}
 
- Çalışma sayfası penceresini bölmelere bölmek için API şunları sağlar:[Bölünmüş yöntem](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) çalışma sayfasının bölünmüş görünümünü sağlayan çalışma sayfası sınıfının. Bölünmüş görünümü kaldırmak için API sağlar[RemoveSplit yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Sonunda belirtilen bir yola kaydedin.
+ Çalışma sayfası penceresini bölmelere bölmek için API şunları sağlar:[Bölünmüş yöntem](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)çalışma sayfasının bölünmüş görünümünü sağlayan çalışma sayfası sınıfının. Bölünmüş görünümü kaldırmak için API sağlar[RemoveSplit yöntemi](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Sonunda belirtilen bir yola kaydedin.
 
 {{% blocks/products/pf/feature-page-code h3="C# Excel Çalışma Sayfası Penceresini Bölmek İçin Kod" %}}
 

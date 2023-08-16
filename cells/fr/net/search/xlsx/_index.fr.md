@@ -13,7 +13,7 @@ description: C# code source pour rechercher des mots avec le modèle dans le fic
 
  Pour rechercher le fichier XLSX, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C#. Ouvrir
+API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells** 

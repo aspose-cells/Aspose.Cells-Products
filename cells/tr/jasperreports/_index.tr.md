@@ -236,7 +236,7 @@ Aspose.Cells for JasperReports raporları desteklenen formatlara en yüksek hass
  Düzenlenebilir Excel Tabloları
     </h2>
     <p>
- Aspose.Cells for JasperReports Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın. Microsoft Excel grafiklerini destekler ve Aspose oluşturma motoru aracılığıyla dışa aktarılan herhangi bir grafik, statik bir resim yerine düzenlenebilir bir grafik olarak kullanılabilir olacak ve böylece son kullanıcıların Microsoft Excel'de grafikleri manuel olarak değiştirmesine olanak sağlayacaktır.
+ Aspose.Cells for JasperReports Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın. Microsoft Excel grafiklerini destekler ve Aspose oluşturma motoru aracılığıyla dışa aktarılan herhangi bir grafik, statik bir resim yerine düzenlenebilir bir grafik olarak kullanılabilir olacak ve böylece son kullanıcıların Microsoft Excel'de grafikleri manuel olarak değiştirmesine izin verecektir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -244,7 +244,7 @@ Aspose.Cells for JasperReports raporları desteklenen formatlara en yüksek hass
  Microsoft Ofis Otomasyonu – Gerekli değil
     </h2>
     <p>
- Aspose.Cells for JasperReports ihracatçı, Excel belge biçimleriyle çalışmak için hiçbir zaman Microsoft Excel veya Microsoft Office'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanarak geliştirildi. Kararlılık, ölçeklenebilirlik, desteklenen özellikler, güvenlik, fiyat ve hız açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
+ Aspose.Cells for JasperReports ihracatçı, Excel belge biçimleriyle çalışmak için asla Microsoft Excel veya Microsoft Office'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanarak geliştirildi. Kararlılık, ölçeklenebilirlik, desteklenen özellikler, güvenlik, fiyat ve hız açısından mükemmel bir Microsoft Excel otomasyon alternatifidir.
     </p>
    </div>
   </div>

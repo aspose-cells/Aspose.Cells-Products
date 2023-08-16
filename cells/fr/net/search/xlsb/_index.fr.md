@@ -13,7 +13,7 @@ description: C# code source pour rechercher des mots avec le modèle dans le fic
 
  Pour rechercher le fichier XLSB, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C#. Ouvrir
+API qui est une plate-forme de recherche de documents riche en fonctionnalités, puissante et facile à utiliser API pour C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  **Aspose.Cells** 
@@ -147,7 +147,7 @@ Le format de fichier XLSB spécifie le format de fichier binaire Excel, qui est 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/txt/" name="TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/search/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

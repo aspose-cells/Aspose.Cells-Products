@@ -1,5 +1,5 @@
 ---
-title: XLSB dosyalarını düzenle via .NET
+title:  XLSB dosyalarını düzenle via .NET
 description: C# kaynak kodu XLSB belgesini .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında düzenlemek için.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

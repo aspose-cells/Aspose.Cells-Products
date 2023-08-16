@@ -12,7 +12,7 @@ description: Python bibliothèque de feuilles de calcul pour créer des fichiers
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java est un API rapide et fiable pour les tâches de traitement des feuilles de calcul. Les développeurs peuvent créer des feuilles de calcul simples ou complexes, manipuler et extraire des informations à partir de fichiers Excel. API lit plusieurs formats Excel et peut afficher des feuilles de calcul en XPS, PDF, MHTML, HTML, texte brut, images et plus encore. C'est la meilleure solution pour automatiser les rapports Excel en utilisant python.
+Aspose.Cells for Python via Java est un API rapide et fiable pour les tâches de traitement des feuilles de calcul. Les développeurs peuvent créer des feuilles de calcul simples ou complexes, manipuler et extraire des informations à partir de fichiers Excel. API lit plusieurs formats Excel et peut afficher des feuilles de calcul en XPS, PDF, MHTML, HTML, texte brut, images et plus encore. C'est la meilleure solution pour automatiser les rapports Excel en utilisant python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Fonctionnalités avancées Python Excel API
     </p>
     <div class="codeblock" id="code">
      <h3>
- Enregistrer la feuille de calcul dans différents formats - Java
+Enregistrer la feuille de calcul dans différents formats - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Options d'affichage flexibles
     </h2>
     <p>
-Aspose.Cells for Python via Java offre un contrôle total sur la mise en page permettant de manipuler plusieurs options d'affichage telles que l'aperçu des sauts de page, le niveau de zoom, l'orientation de la page, le contrôle de la visibilité des données avec les volets de gel, la taille du papier, la mise à l'échelle, les en-têtes et amp; pieds de page et zone d'impression.
+ Aspose.Cells for Python via Java offre un contrôle total sur la mise en page permettant de manipuler plusieurs options d'affichage telles que l'aperçu des sauts de page, le niveau de zoom, l'orientation de la page, le contrôle de la visibilité des données avec les volets de gel, la taille du papier, la mise à l'échelle, les en-têtes et amp; pieds de page et zone d'impression.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java offre un contrôle total sur la mise en page pe
  Personnalisation des graphiques
     </h2>
     <p>
- Aspose.Cells for Python via Java fournit un support complet pour la création de graphiques. On peut facilement ajouter des graphiques standard et personnalisés ou définir dynamiquement des données de graphique afin de rafraîchir le graphique via cette bibliothèque python.
+Aspose.Cells for Python via Java fournit un support complet pour la création de graphiques. On peut facilement ajouter des graphiques standard et personnalisés ou définir dynamiquement des données de graphique afin de rafraîchir le graphique via cette bibliothèque python.
     </p>
    </div>
    <!--

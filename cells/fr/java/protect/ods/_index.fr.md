@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller ODS document via Java
+title: Protéger et verrouiller ODS document via Java
 weight: 6360
 description: Exemple de code Java pour verrouiller le fichier ODS à l'aide du mot de passe sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
@@ -131,7 +131,7 @@ Les fichiers avec l'extension ODS représentent le format de document de feuille
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/protect/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

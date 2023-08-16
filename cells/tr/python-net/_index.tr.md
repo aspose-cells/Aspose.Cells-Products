@@ -12,7 +12,7 @@ description: Python okuma yazma oluşturmak ve Excel dosyalarını ayrıştırma
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-.Net üzerinden Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler, basit veya karmaşık elektronik tablolar oluşturabilir, excel dosyalarından bilgi çıkarmanın yanı sıra manipüle edebilir. API, birden çok excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına işleyebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
+ .Net üzerinden Aspose.Cells for Python, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler, basit veya karmaşık elektronik tablolar oluşturabilir, excel dosyalarından bilgi çıkarmanın yanı sıra manipüle edebilir. API, birden çok excel formatını okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına işleyebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Esnek Ekran Seçenekleri
     </h2>
     <p>
-Aspose.Cells for Python via .NET, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
+ Aspose.Cells for Python via .NET, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python via .NET, ön izleme sayfası sonları, yakınlaştırma
  Grafik Özelleştirme
     </h2>
     <p>
- Aspose.Cells for Python via .NET grafik için tam destek sağlar. Bu python kitaplığı aracılığıyla grafiği yenilemek için standart ve özelleştirilmiş grafikler veya dinamik olarak ayarlanmış grafik verileri kolayca eklenebilir.
+Aspose.Cells for Python via .NET grafik için tam destek sağlar. Bu python kitaplığı aracılığıyla grafiği yenilemek için standart ve özelleştirilmiş grafikler veya dinamik olarak ayarlanmış grafik verileri kolayca eklenebilir.
     </p>
    </div>
    <!--

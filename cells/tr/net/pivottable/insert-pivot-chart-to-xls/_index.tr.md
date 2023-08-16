@@ -1,5 +1,5 @@
 ---
-title:  C# yoluyla Microsoft Excel XLS dosyalarına Pivot Grafiği ekleyin
+title: C# yoluyla Microsoft Excel XLS dosyalarına Pivot Grafiği ekleyin
 weight: 7690
 description: C# Pivot grafikli XLS belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulama içinde pivot grafik içeren Microsoft Excel XLS dosyaları oluşturmak için bu kodu kullanın.
 ---
@@ -22,7 +22,7 @@ description: C# Pivot grafikli XLS belgeleri oluşturmak için örnek kod. VB.NE
 
 {{% blocks/products/pf/agp/text %}}
 
-Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırırken XLS formatındaki elektronik tabloya Pivot Grafiği eklemesi kolaydır.
+ Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırırken XLS formatındaki elektronik tabloya Pivot Grafiği eklemesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı rap
 1.  Çalışma sayfasının istenen hücre(ler)ini alın ve hücre(ler)e değer koyun.
 1.  PivotTable'ı ekleyin ve stili ayarlayın
 1.  PivotTable verilerini kullanarak Pivot Grafiği ekleyin
-1.  Çalışma kitabını XLS dosyası olarak kaydetmek için Kaydet yöntemini kullanın.
+1. Çalışma kitabını XLS dosyası olarak kaydetmek için Kaydet yöntemini kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

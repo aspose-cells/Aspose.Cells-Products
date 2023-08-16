@@ -6,7 +6,7 @@ description:  C# codes source indiquant comment insérer une forme dans des fich
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Insertion de formes Excel via .NET" h2="Créez des documents Excel et insérez des formes à l\'aide d\'API côté serveur dans des applications basées sur .NET." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Dans Excel, vous pouvez ajouter des formes telles que des cases, des cercles et des flèches à des documents, des e-mails, des diapositives et des feuilles de calcul. Pour vous libérer de nombreuses insertions manuelles, le[.NET Bibliothèque Excel](https://releases.aspose.com/cells/net/)API fournit la même fonctionnalité. Ces API sont très faciles à utiliser, généralement une seule ligne de code est nécessaire pour insérer une forme spécifique, et quelques lignes de code peuvent compléter l'insertion de lots de formes.
+ Dans Excel, vous pouvez ajouter des formes telles que des cases, des cercles et des flèches à des documents, des e-mails, des diapositives et des feuilles de calcul. Pour vous libérer de nombreuses insertions manuelles, le[.NET Bibliothèque Excel](https://releases.aspose.com/cells/net/) API fournit la même fonctionnalité. Ces API sont très faciles à utiliser, généralement une seule ligne de code est nécessaire pour insérer une forme spécifique, et quelques lignes de code peuvent compléter l'insertion de lots de formes.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

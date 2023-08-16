@@ -1,5 +1,5 @@
 ---
-title:  Koruyun ve kilitleyin XLSM belge via Java
+title: Koruyun ve kilitleyin XLSM belge via Java
 weight: 9620
 description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamında parola kullanarak XLSM dosyasını kilitlemek için örnek kod.
 ---

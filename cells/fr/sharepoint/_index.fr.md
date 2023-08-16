@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint App est un convertisseur de feuille de 
    </header>
    <ul>
     <li>
- Enregistrer dans des sous-dossiers
+Enregistrer dans des sous-dossiers
     </li>
     <li>
  Concaténation de fichiers
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint App est un convertisseur de feuille de 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description="Aspose.Cells for SharePoint prend en charge de nombreux formats de feuilles de calcul populaires, PDF, HTML et autres[format de fichier](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formats de fichiers pris en charge" description=" Aspose.Cells for SharePoint prend en charge de nombreux formats de feuilles de calcul populaires, PDF, HTML et autres[format de fichier](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint App est un convertisseur de feuille de 
  Concaténer des fichiers lors de la conversion
     </h2>
     <p>
- Aspose.Cells for SharePoint offre la possibilité de combiner des fichiers de différents formats en un seul document. De plus, vous pouvez également déplacer des documents dans la liste vers le haut ou vers le bas pour définir l'ordre dans lequel vous souhaitez que les documents soient combinés.
+Aspose.Cells for SharePoint offre la possibilité de combiner des fichiers de différents formats en un seul document. De plus, vous pouvez également déplacer des documents dans la liste vers le haut ou vers le bas pour définir l'ordre dans lequel vous souhaitez que les documents soient combinés.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint App est un convertisseur de feuille de 
  Convertir des fichiers dans des sous-dossiers
     </h2>
     <p>
-Aspose.Cells for SharePoint facilite le processus de conversion en convertissant de manière récursive tous les documents et sous-dossiers d'un dossier sélectionné. La structure de sous-dossiers existante est créée dans le dossier de destination.
+ Aspose.Cells for SharePoint facilite le processus de conversion en convertissant de manière récursive tous les documents et sous-dossiers d'un dossier sélectionné. La structure de sous-dossiers existante est créée dans le dossier de destination.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint facilite le processus de conversion en convertissant
  Interagir avec le public API
     </h2>
     <p>
- Pour les développeurs disposant de solutions SharePoint internes, ils peuvent utiliser le moteur de conversion de documents de Aspose.Cells for SharePoint via son API public. Il fournit un accès par programmation à tous les formats et options de conversion pris en charge.
+Pour les développeurs disposant de solutions SharePoint internes, ils peuvent utiliser le moteur de conversion de documents de Aspose.Cells for SharePoint via son API public. Il fournit un accès par programmation à tous les formats et options de conversion pris en charge.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint facilite le processus de conversion en convertissant
  Microsoft Automatisation Excel - Non nécessaire
     </h2>
     <p>
-Aspose.Cells for SharePoint est construit à l'aide d'un code géré qui n'a jamais besoin d'installer Microsoft Excel sur la machine pour fonctionner avec la conversion de format Excel. C'est une alternative parfaite à l'automatisation d'Excel en termes de fonctionnalités prises en charge, de sécurité, de stabilité, d'évolutivité, de vitesse et de prix.
+ Aspose.Cells for SharePoint est construit à l'aide d'un code géré qui n'a jamais besoin d'installer Microsoft Excel sur la machine pour fonctionner avec la conversion de format Excel. C'est une alternative parfaite à l'automatisation d'Excel en termes de fonctionnalités prises en charge, de sécurité, de stabilité, d'évolutivité, de vitesse et de prix.
     </p>
    </div>
   </div>

@@ -13,7 +13,7 @@ description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Ça
 
  ODS dosyasının kilidini açmak için kullanacağız
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-Zengin özelliklere sahip, güçlü ve kullanımı kolay bir koruma olan API API for Java platformu. En son sürümünü doğrudan adresinden indirebilirsiniz.
+ Zengin özelliklere sahip, güçlü ve kullanımı kolay bir koruma olan API API for Java platformu. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
@@ -116,7 +116,7 @@ wkb.save("Worksheet_out.ods", FileFormatType.EXCEL_97_TO_2003);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ortaya çıkan ODS dosyasını bağlantıdan indirin" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt türlerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
+ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt tiplerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -124,7 +124,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Biçimleri" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Formatları" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Excel İkili Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

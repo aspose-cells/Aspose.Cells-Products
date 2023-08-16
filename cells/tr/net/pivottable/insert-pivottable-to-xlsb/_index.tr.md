@@ -1,5 +1,5 @@
 ---
-title: C# yoluyla Microsoft Excel XLSB dosyalarına PivotTable ekleyin
+title:  C# yoluyla Microsoft Excel XLSB dosyalarına PivotTable ekleyin
 weight: 7690
 description: C# PivotTable ile XLSB belgeleri oluşturmak için örnek kod. VB.NET, Asp.NET veya herhangi bir .NET tabanlı uygulamada PivotTable ile Microsoft Excel XLSB dosyaları oluşturmak için bu kodu kullanın.
 ---
@@ -22,7 +22,7 @@ description: C# PivotTable ile XLSB belgeleri oluşturmak için örnek kod. VB.N
 
 {{% blocks/products/pf/agp/text %}}
 
- Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırırken XLSB biçimindeki elektronik tablodaki PivotTable'ı eklemesi kolaydır.
+Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı raporlama uygulamaları çalıştırırken XLSB biçimindeki elektronik tablodaki PivotTable'ı eklemesi kolaydır.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# PivotTable ile XLSB belgeleri oluşturmak için örnek kod. VB.N
 1.  Çalışma kitabının ilk çalışma sayfasına erişin.
 1.  Çalışma sayfasının istenen hücre(ler)ini alın ve hücre(ler)e değer koyun.
 1.  PivotTable'ı ekleyin ve stili ayarlayın
-1.  Çalışma kitabını XLSB dosyası olarak kaydetmek için Kaydet yöntemini kullanın.
+1. Çalışma kitabını XLSB dosyası olarak kaydetmek için Kaydet yöntemini kullanın.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,5 +1,5 @@
 ---
-title: Modifier XLT fichiers via .NET
+title:  Modifier XLT fichiers via .NET
 description: C# code source pour modifier le document XLT sur .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

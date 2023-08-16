@@ -1,5 +1,5 @@
 ---
-title: Modifier TSV fichiers via .NET
+title:  Modifier TSV fichiers via .NET
 description: C# code source pour modifier le document TSV sur .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

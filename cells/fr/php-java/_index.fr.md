@@ -37,7 +37,7 @@ description: Feuille de calcul PHP Excel API pour lire écrire et convertir XLS 
  Convertir une feuille de calcul en image
     </li>
     <li>
-Convertir la feuille de calcul en PDF
+ Convertir la feuille de calcul en PDF
     </li>
    </ul>
   </div>

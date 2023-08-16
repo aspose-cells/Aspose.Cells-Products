@@ -13,7 +13,7 @@ description: Exemple de code Java pour diviser les documents XLSM sur l'environn
 
  Afin de diviser le fichier XLSM, nous utiliserons
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API qui est une plate-forme de répartiteur API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
+ API qui est une plate-forme de répartiteur API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 

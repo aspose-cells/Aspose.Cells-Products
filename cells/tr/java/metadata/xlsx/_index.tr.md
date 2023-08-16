@@ -13,7 +13,7 @@ description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Run
 
  XLSX dosya meta verilerini almak için kullanacağız
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir meta veri platformudur API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.
+API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir meta veri platformudur API for Java. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
@@ -58,7 +58,7 @@ description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Run
 {{% /blocks/products/pf/agp/text %}}
 
 + WorkbookMetadata içinde XLSX dosyasını yükleyin
-İlgili seçeneklerle MetadataOptions Nesnesi oluşturun
++ İlgili seçeneklerle MetadataOptions Nesnesi oluşturun
 + İlgili özellikleri ayarlayın
 + XLSX meta veri bilgisini kaydedin
 

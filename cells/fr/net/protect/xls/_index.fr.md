@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller XLS document via .NET
+title: Protéger et verrouiller XLS document via .NET
 weight: 7010
 description: C# code source pour verrouiller le fichier XLS à l'aide du mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
@@ -124,7 +124,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

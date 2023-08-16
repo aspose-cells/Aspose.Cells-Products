@@ -58,7 +58,7 @@ description: Exemple de code Java pour rechercher des mots avec un modèle dans 
 {{% /blocks/products/pf/agp/text %}}
 
 + Charger le fichier ODS en instanciant un objet Workbook.
-Accédez à la première feuille de calcul du fichier ODS.
++ Accédez à la première feuille de calcul du fichier ODS.
 + Trouvez la cellule contenant la formule spécifiée.
 + Instancier FindOptions.
 + Trouver la cellule contenant une valeur de chaîne
@@ -147,7 +147,7 @@ Les fichiers avec l'extension ODS représentent le format de document de feuille
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/txt/" name="TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

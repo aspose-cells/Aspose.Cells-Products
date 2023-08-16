@@ -6,7 +6,7 @@ description: Yalnızca birkaç satırlık C++ koduyla Excel XLS, XLSX, ODS, CSV'
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ aracılığıyla Excel Belge Dönüştürme" h2="Microsoft<sup>&reg;</sup> Excel dosyalarını elektronik tablo, web, resim ve sabit mizanpaj biçimleri olarak kaydedin" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Herhangi bir elektronik tablo dönüştürücü uygulaması veya çözümü için,**C++ Excel Kitaplığı**XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS dahil birden çok dosyayı işlerken kodlama, otomasyon ve dönüştürme işlemlerini hızlandırır. PDF**, XPS, HTML, MHTML, Düz JPG, TIFF, PNG, BMP ve SVG gibi metin ve popüler görseller.
+ Herhangi bir elektronik tablo dönüştürücü uygulaması veya çözümü için,**C++ Excel Kitaplığı** XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS dahil birden çok dosyayı işlerken kodlama, otomasyon ve dönüştürme işlemlerini hızlandırır. PDF**, XPS, HTML, MHTML, Düz JPG, TIFF, PNG, BMP ve SVG gibi metin ve popüler görseller.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel Formatlarının Ara Dönüşümü" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Uyumluluk Seviyesi Ayarları ile Excel Formatlarını PDF\'e Dönüştürün" %}}
- C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'e dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihi ayarını destekler. Geliştiriciler kullanabilir[IPdfSaveSeçenekleri](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte[Aspose::Cells::Oluşturma](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF uyumluluğunu ayarlamak için. Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu.
+ C++ Excel Otomasyonu API, Çalışma Kitaplarının PDF'e dönüştürülmesini ve ayrıca uyumluluk düzeyi ve oluşturma tarihi ayarını destekler. Geliştiriciler kullanabilir[IPdfSaveSeçenekleri](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) ile birlikte[Aspose::Cells::Oluşturma](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF uyumluluğunu ayarlamak için. Dönüştürme için, parametre olarak PdfSaveOptions'a sahip API kaydetme yöntemi ve belirtilen çıktı dosyası yolu.
 {{% blocks/products/pf/feature-page-code h3="C++ Excel\'den PDF\'e Dönüşüm için Örnek Kod" %}}
 
 ```cs

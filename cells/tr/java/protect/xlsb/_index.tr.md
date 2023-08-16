@@ -1,5 +1,5 @@
 ---
-title:  Koruyun ve kilitleyin XLSB belge via Java
+title: Koruyun ve kilitleyin XLSB belge via Java
 weight: 6590
 description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalışma Zamanı Ortamında parola kullanarak XLSB dosyasını kilitlemek için örnek kod.
 ---

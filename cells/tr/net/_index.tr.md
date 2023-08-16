@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET kitaplığı, Microsoft Excel belgeleriyle çalı
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hızlandırmak için bir Excel Elektronik Tablo Programlama API'dir. API, elektronik tablolar oluşturma, değiştirme, dönüştürme, işleme ve yazdırma yeteneğine sahip platformlar arası uygulamalar oluşturmayı destekler. Ayrıca, Microsoft Excel'in veya herhangi bir Microsoft Office Interop bileşeninin yüklenmesine değil, tüm Excel biçimlerinin yanı sıra CSV ve SpreadsheetML biçimleriyle ilgilenen güçlü bir API kümesine güvenir.
+Aspose.Cells for .NET, elektronik tablo yönetimini ve işleme görevlerini hızlandırmak için bir Excel Elektronik Tablo Programlama API'dir. API, elektronik tablolar oluşturma, değiştirme, dönüştürme, işleme ve yazdırma yeteneğine sahip platformlar arası uygulamalar oluşturmayı destekler. Ayrıca, Microsoft Excel'in veya herhangi bir Microsoft Office Interop bileşeninin yüklenmesine değil, tüm Excel biçimlerinin yanı sıra CSV ve SpreadsheetML biçimleriyle ilgilenen güçlü bir API kümesine güvenir.
 </p>
 
 <p>
-API'i entegre ederek, geliştiricilerin birden çok çalışma sayfasını yönetme, sıfırdan elektronik tablo içerikleri ve stilleri oluşturma, farklı veri kaynaklarından çalışma sayfalarına veri aktarma, ortak ve karmaşık Matematiksel, Mali ve Metin formülleri ekleme, grafikleri değiştirme gibi bazı temel görevleri gerçekleştirebilir. resimler, yorumlar, çizim nesneleri ve çok daha fazlası.
+ API'i entegre ederek, geliştiricilerin birden çok çalışma sayfasını yönetme, sıfırdan elektronik tablo içerikleri ve stilleri oluşturma, çalışma sayfalarına farklı veri kaynaklarından veri aktarma, ortak ve karmaşık Matematiksel, Mali ve Metin formülleri ekleme, grafikleri değiştirme gibi temel görevlerden bazılarını gerçekleştirebilir. resimler, yorumlar, çizim nesneleri ve çok daha fazlası.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ API'i entegre ederek, geliştiricilerin birden çok çalışma sayfasını yöne
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Gelişmiş Excel Elektronik Tablosu API Özellikleri
+ Gelişmiş Excel Elektronik Tablosu API Özellikleri
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Gelişmiş Excel Elektronik Tablosu API Özellikleri
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- CSV (virgülle ayrılmış değerler) &amp; TSV (sekmeyle ayrılmış değerler)
+CSV (virgülle ayrılmış değerler) &amp; TSV (sekmeyle ayrılmış değerler)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Gelişmiş Excel Elektronik Tablosu API Özellikleri
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Elektronik Tabloları PDF, XPS &amp; HTML Biçimler
+ Elektronik Tabloları PDF, XPS &amp; HTML Biçimler
     </h2>
     <p>
  Aspose.Cells for .NET, elektronik tabloları PDF, XPS &amp; HTML en yüksek görsel doğruluğu korurken formatlar. Dönüştürme işlemi basit ama güvenilirdir, bu nedenle API, endüstri standardı formatlardan herhangi birinde belge alışverişi yapmak isteyen kuruluşlar için mükemmel bir seçimdir.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Elektronik tabloyu farklı biçimlerde kaydetme - C#
+Elektronik tabloyu farklı biçimlerde kaydetme - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET, elektronik tablolarınızı her türlü görsel efektle donatmak için size tam özgürlük ve esneklik sağlar. API, nitelikler, hücre stilleri (hizalama, girinti, döndürme, kenarlıklar, gölgeleme ve renklendirme, koruma, metin kaydırma ve küçültme) ve her tür sayı biçimiyle farklı yazı tipleri uygulamanıza olanak tanır.
     </p>
     <p>
-Benzer şekilde, çizelgeler ve grafikler görsel olarak çekicidir ve elektronik tablonuza profesyonel bir görünüm verebilir. Aspose.Cells for .NET, tüm standart ve özel grafik türlerini oluşturmak ve değiştirmek için kapsamlı bir API seti sağlar. Ayrıca hücrelere yorumlar, resimler, OLE nesneleri, şekiller ve kontroller gibi farklı çizim nesneleri ekleyebilirsiniz.
+ Benzer şekilde, çizelgeler ve grafikler görsel olarak çekicidir ve elektronik tablonuza profesyonel bir görünüm verebilir. Aspose.Cells for .NET, tüm standart ve özel grafik türlerini oluşturmak ve değiştirmek için kapsamlı bir API seti sağlar. Ayrıca hücrelere yorumlar, resimler, OLE nesneleri, şekiller ve kontroller gibi farklı çizim nesneleri ekleyebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ Benzer şekilde, çizelgeler ve grafikler görsel olarak çekicidir ve elektroni
  Verimli, Sağlam &amp; Güvenilir Formül Hesaplama Motoru
     </h2>
     <p>
- Aspose.Cells for .NET, neredeyse tüm standart ve gelişmiş Microsoft Excel formüllerini ve işlevlerini destekleyen güçlü bir Formül Hesaplama Motoruna sahiptir. Yerleşik, eklenti, dizi &amp; sonuçlarını okuyabilir, ayarlayabilir ve hesaplayabilirsiniz. R1C1 referans stil formülleri.
+Aspose.Cells for .NET, neredeyse tüm standart ve gelişmiş Microsoft Excel formüllerini ve işlevlerini destekleyen güçlü bir Formül Hesaplama Motoruna sahiptir. Yerleşik, eklenti, dizi &amp; sonuçlarını okuyabilir, ayarlayabilir ve hesaplayabilirsiniz. R1C1 referans stil formülleri.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ Benzer şekilde, çizelgeler ve grafikler görsel olarak çekicidir ve elektroni
  Pivot Tablolar, Grafikler ve Verilerle Verileri Özetleyin Akıllı İşaretleyiciler
     </h2>
     <p>
-Bir Pivot Tablo, düz verileri hızlı bir şekilde özetlemenize ve ihtiyaçlarınıza göre istenen bilgileri almanıza yardımcı olabilir. .NET Excel kitaplığı, dinamik olarak Pivot Tablolar ve Pivot Grafikler oluşturmanıza olanak tanır. Pivot Tablonun kaynak verilerini dinamik olarak değiştirebilir ve yenileyebilirsiniz. Ayrıca kütüphane, bazı veri kaynaklarına dayalı olarak çalışma sayfalarını doldurmak ve görsel olarak etkili raporlar oluşturmak için harika bir özellik olan Akıllı İşaretleyiciler sunar.
+ Bir Pivot Tablo, düz verileri hızlı bir şekilde özetlemenize ve ihtiyaçlarınıza göre istenen bilgileri almanıza yardımcı olabilir. .NET Excel kitaplığı, dinamik olarak Pivot Tablolar ve Pivot Grafikler oluşturmanıza olanak tanır. Pivot Tablonun kaynak verilerini dinamik olarak değiştirebilir ve yenileyebilirsiniz. Ayrıca kütüphane, bazı veri kaynaklarına dayalı olarak çalışma sayfalarını doldurmak ve görsel olarak etkili raporlar oluşturmak için harika bir özellik olan Akıllı İşaretleyiciler sunar.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Bir Pivot Tablo, düz verileri hızlı bir şekilde özetlemenize ve ihtiyaçlar
  Excel Çalışma Sayfalarını İşle &amp; Görüntü Olarak Grafikler
     </h2>
     <p>
- Aspose.Cells for .NET, render &amp; için özel olarak tasarlanmış kendi render motoruna sahiptir. Microsoft Excel'e en yüksek doğrulukla yazdırma. Excel çalışma sayfalarını işlemek gibi ayırt edici özellikler sunar &amp; grafiklerden resimlere &amp; çalışma sayfalarını herhangi bir bağlı fiziksel yazıcıya yazdırma. İşlem esnektir, bu nedenle, örneğin çalışma sayfalarını işlerken ortaya çıkan görüntü boyutlarını kontrol etmek gibi bir dizi seçeneği belirlemenize izin verir &amp; grafiklerden resimlere.
+Aspose.Cells for .NET, render &amp; için özel olarak tasarlanmış kendi render motoruna sahiptir. Microsoft Excel'e en yüksek doğrulukla yazdırma. Excel çalışma sayfalarını işlemek gibi ayırt edici özellikler sunar &amp; grafiklerden resimlere &amp; çalışma sayfalarını herhangi bir bağlı fiziksel yazıcıya yazdırma. İşlem esnektir, bu nedenle, örneğin çalışma sayfalarını işlerken ortaya çıkan görüntü boyutlarını kontrol etmek gibi bir dizi seçeneği belirlemenize izin verir &amp; grafiklerden resimlere.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Çalışma sayfasını resme dönüştür - C#
+ Çalışma sayfasını resme dönüştür - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Web &amp; için Grafik Arayüzler Masaüstü Uygulamaları
     </h2>
     <p>
- Aspose.Cells for .NET, web &amp; masaüstü uygulamaları. Son kullanıcı bu kontrolleri açmak, kaydetmek ve kaydetmek için kullanabilir. Excel dosyalarını düzenleyin, &amp; verileri dışa aktarın, biçimlendirmeyi yönetin &amp; doğrudan uygulamanızın ön ucundan formüller ve desteklenen çeşitli elektronik tablo biçimleri arasında dönüştürme yapın.
+Aspose.Cells for .NET, web &amp; masaüstü uygulamaları. Son kullanıcı bu kontrolleri açmak, kaydetmek ve kaydetmek için kullanabilir. Excel dosyalarını düzenleyin, &amp; verileri dışa aktarın, biçimlendirmeyi yönetin &amp; doğrudan uygulamanızın ön ucundan formüller ve desteklenen çeşitli elektronik tablo biçimleri arasında dönüştürme yapın.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Ofis Otomasyonu – Gerekli değil
     </h2>
     <p>
-Aspose.Cells for .NET, Excel belge biçimleriyle çalışmak için asla Microsoft Office veya Microsoft Excel'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Ofis otomasyonu alternatifidir.
+ Aspose.Cells for .NET, Excel belge biçimleriyle çalışmak için asla Microsoft Office veya Microsoft Excel'in makineye yüklenmesine ihtiyaç duymayan yönetilen kod kullanılarak oluşturulmuştur. Desteklenen özellikler, güvenlik, kararlılık, ölçeklenebilirlik, hız ve fiyat açısından mükemmel bir Microsoft Ofis otomasyonu alternatifidir.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET, Excel belge biçimleriyle çalışmak için asla Microsof
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmadan yaptığımız şeyi yapamazdık.
+Aspose ürün paketi ve desteği rakipsizdir. Bu çözüm olmadan yaptığımız şeyi yapamazdık.
  <em>
  Dan Patterson | Acumen, Birleşik Krallık
  </em>

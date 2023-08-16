@@ -6,7 +6,7 @@ description:  C# kaynak kodları, .NET Kitaplığı kullanılarak Microsoft Exce
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel, eklemeyi şekillendirir via .NET" h2=".NET tabanlı uygulamalarda sunucu tarafı API\'lerini kullanarak Excel belgeleri oluşturun ve şekiller ekleyin." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Excel'de belgelere, e-postalara, slaytlara ve elektronik tablolara kutular, daireler ve oklar gibi şekiller ekleyebilirsiniz.[.NET Excel Kitaplığı](https://releases.aspose.com/cells/net/)API aynı işlevselliği sağlar. Bu API'lerin kullanımı çok kolaydır, belirli bir şekli eklemek için genellikle yalnızca bir satır kod gerekir ve birkaç satır kod, şekil gruplarının eklenmesini tamamlayabilir.
+ Excel'de belgelere, e-postalara, slaytlara ve elektronik tablolara kutular, daireler ve oklar gibi şekiller ekleyebilirsiniz.[.NET Excel Kitaplığı](https://releases.aspose.com/cells/net/) API aynı işlevselliği sağlar. Bu API'lerin kullanımı çok kolaydır, belirli bir şekli eklemek için genellikle yalnızca bir satır kod gerekir ve birkaç satır kod, şekil gruplarının eklenmesini tamamlayabilir.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

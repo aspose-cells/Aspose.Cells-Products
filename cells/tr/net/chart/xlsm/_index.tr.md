@@ -102,7 +102,7 @@ XLSM uzantılı dosyalar, Makroları destekleyen bir Elektronik Tablo dosyası t
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Formatları" subTitle="C#\'i kullanarak, aşağıdakiler de dahil olmak üzere farklı biçimlerde grafik oluşturmayı kolayca yapabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Biçimleri" subTitle="C#\'i kullanarak, aşağıdakiler de dahil olmak üzere farklı biçimlerde grafik oluşturmayı kolayca yapabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xls/" name="XLS" description="Excel İkili Biçim" >}}

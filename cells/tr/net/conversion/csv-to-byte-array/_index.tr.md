@@ -11,7 +11,7 @@ description: C# CSV'den Byte Array'e dönüştürme için örnek kod. VB.NET, As
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Bayt Dizisi, veri işleme veya depolama için yararlıdır. CSV dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - CSV**C# dilini kullanan belge. CSV'i bayt dizisine dönüştürmek için kullanacağız
+ Bayt Dizisi, veri işleme veya depolama için yararlıdır. CSV dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - CSV** C# dilini kullanan belge. CSV'i bayt dizisine dönüştürmek için kullanacağız
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET platformunu kullanarak belge işleme ve dönüştürme için farklı özellikler sunan API.
 {{% /blocks/products/pf/agp/content %}}

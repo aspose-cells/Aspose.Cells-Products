@@ -63,7 +63,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalış
 + getWorksheets().get yöntemini kullanarak gerekli sayfayı seçin.
 + Seçilen sayfanın tüm hücrelerini getCells() kullanarak alın.
 + Her hücreyi yineleyin, metnini alın.
-+ Her hücre değerini yazdırın veya bir bütün olarak görüntülemek için StringBuilder append() yöntemini kullanın
+Her hücre değerini yazdırın veya bir bütün olarak görüntülemek için StringBuilder append() yöntemini kullanın
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

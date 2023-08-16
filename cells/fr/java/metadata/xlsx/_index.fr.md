@@ -13,7 +13,7 @@ description: Exemple de code Java pour modifier ou afficher les métadonnées au
 
  Afin d'obtenir les métadonnées du fichier XLSX, nous utiliserons
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API qui est une plate-forme de métadonnées API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
+API qui est une plate-forme de métadonnées API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
@@ -58,7 +58,7 @@ description: Exemple de code Java pour modifier ou afficher les métadonnées au
 {{% /blocks/products/pf/agp/text %}}
 
 + Charger le fichier XLSX dans WorkbookMetadata
-Créer un objet MetadataOptions avec les options pertinentes
++ Créer un objet MetadataOptions avec les options pertinentes
 + Définir les propriétés pertinentes
 + Enregistrer les informations de métadonnées XLSX
 
@@ -139,7 +139,7 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/metadata/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -10,7 +10,7 @@ description: Réparez un fichier Excel corrompu à l'aide de Java. Outil de réc
 
 {{% blocks/products/pf/agp/content h2="Réparer le fichier EXCEL à l\'aide de Java" %}}
 
- Afin de réparer le fichier EXCEL, nous utiliserons[Aspose.Cells for Java](https://products.aspose.com/cells/java) API qui est une plate-forme de manipulation de documents API for Java riche en fonctionnalités, puissante et facile à utiliser.
+ Afin de réparer le fichier EXCEL, nous utiliserons[Aspose.Cells for Java](https://products.aspose.com/cells/java)API qui est une plate-forme de manipulation de documents API for Java riche en fonctionnalités, puissante et facile à utiliser.
  
  Aspose.Cells API peut être utilisé pour créer, éditer, convertir et rendre Microsoft des formats Excel dans différents formats. De plus, il peut être utilisé pour des graphiques complets, des rapports évolutifs et des calculs fiables dans les applications logicielles. Aspose.Cells est un API autonome et ne nécessite aucun logiciel comme Microsoft ou OpenOffice.
 
@@ -20,7 +20,7 @@ description: Réparez un fichier Excel corrompu à l'aide de Java. Outil de réc
 
 {{% blocks/products/pf/agp/content h2="Comment réparer un fichier Excel en utilisant Java" %}}
 
-Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
++ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
 + Chargez le fichier EXCEL en créant une instance de Workbook, en utilisant la classe d'héritage ci-dessus, reportez-vous au code ci-dessus.
 + Enregistrez le classeur, le fichier excel corrompu sera réparé.
 
@@ -94,7 +94,7 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-ods/" name="Réparation ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xls/" name="Réparation XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsb/" name="Réparation XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/recovery/repair-xlsx/" name="Réparation XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

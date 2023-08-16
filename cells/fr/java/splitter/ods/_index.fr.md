@@ -13,7 +13,7 @@ description: Exemple de code Java pour diviser les documents ODS sur l'environne
 
  Afin de diviser le fichier ODS, nous utiliserons
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API qui est une plate-forme de répartiteur API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
+ API qui est une plate-forme de répartiteur API for Java riche en fonctionnalités, puissante et facile à utiliser. Vous pouvez télécharger sa dernière version directement depuis
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
@@ -123,7 +123,7 @@ Les fichiers avec l'extension ODS représentent le format de document de feuille
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

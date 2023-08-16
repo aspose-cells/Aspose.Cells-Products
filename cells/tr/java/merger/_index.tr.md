@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Birden Çok Excel Dosyasını Birleştirme" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) yöntem, bir Excel dosyasının verilerinin, stilinin ve formüllerinin aynı biçimdeki yeni bir elektronik tabloya birleştirilmesini destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)yöntem, bir Excel dosyasının verilerinin, stilinin ve formüllerinin aynı biçimdeki yeni bir elektronik tabloya birleştirilmesini destekler. Önbelleğe almayı kullanırken birkaç dosyayı birleştirmenin etkili bir yoludur.
 {{% blocks/products/pf/feature-page-code h3="Java Birkaç Excel Dosyasını Birleştirmek İçin Kod" %}}
 
 ```cs
@@ -44,7 +44,7 @@ CellsHelper.mergeFiles(files, "cache", "merged.xls");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Çalışma Sayfalarını Kopyalayarak Excel Dosyalarını Birleştirme" %}}
-[çalışma sayfası.kopya](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)) bir kaynak çalışma sayfasındaki verileri ve biçimlendirmeyi çalışma kitapları içinde veya arasında başka bir çalışma sayfasına kopyalamak için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
+[çalışma sayfası.kopya](https://reference.aspose.com/cells/java/com.aspose.cells/worksheet#copy(com.aspose.cells.Worksheet)), çalışma kitapları içinde veya arasında bir kaynak çalışma sayfasından başka bir çalışma sayfasına verileri ve biçimlendirmeyi kopyalamak için kullanılabilir. Yöntem, kaynak çalışma sayfası nesnesini parametre olarak alır.
 {{% blocks/products/pf/feature-page-code h3="Java Çalışma Sayfalarını Çalışma Kitapları Arasında Kopyalama Kodu" %}}
 
 ```cs

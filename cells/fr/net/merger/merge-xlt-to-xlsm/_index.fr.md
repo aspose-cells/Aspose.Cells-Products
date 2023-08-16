@@ -1,7 +1,8 @@
 ---
-title:  Fusionner XLT à XLSM via C#
+title: Fusionner XLT à XLSM - Combiner XLT à XLSM dans C#
 url: /fr/net/merger/merge-xlt-to-xlsm/ 
-description: Fusionnez XLT à XLSM en ligne gratuitement. Gratuit en ligne XLT à XLSM Fusion. Fusionnez XLT vers Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS et plus.
+description: Aspose Excel. C# Aspose.Cells. Fusion en ligne gratuite XLT au format de sauvegarde XLSM. C# Combinez le format XLT au format XLSM. Fusionner XLT à XLSM dans C#. XLT Fusionner.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to XLSM in C#., Free Online C# Merge XLT to xlsm., C# Combine XLT to XLSM Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner XLT à XLSM via C#" h2="Bibliothèque C# haute vitesse pour fusionner XLT à XLSM. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en C#. Il s\'agit d\'une solution logicielle professionnelle pour importer et exporter Excel, CSV, OpenOffice, PDF, HTML, image et de nombreux autres formats Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Fusionnez XLT à XLSM en ligne gratuitement. Gratuit en ligne XLT �
 
 {{% blocks/products/pf/agp/content h2="Fusionner XLT à XLSM en utilisant C#" %}}
 
- Comment fusionner XLT à XLSM ? Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement fusionner XLT à XLSM par programmation avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. .NET Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+ Comment fusionner XLT à XLSM ? Avec la bibliothèque Aspose.Cells for .NET, vous pouvez facilement fusionner XLT à XLSM par programmation avec quelques lignes de code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)est capable de créer des applications multiplateformes avec la capacité de générer, modifier, convertir, rendre et imprimer tous les fichiers Excel. .NET Excel API non seulement convertir entre les formats de feuille de calcul, il peut également rendre les fichiers Excel sous forme d'images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT et plus, ce qui en fait un choix parfait pour échanger des documents dans standard de l'industrie formats. Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de packages, recherchez Aspose.Cells et installez. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Fusionner XLT à XLSM en C# en ligne gratuitement" %}}
 
-L'exemple suivant montre comment fusionner XLT à XLSM dans C#.
+L'exemple suivant montre comment fusionner XLT à XLSM dans Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Suivez les étapes simples pour fusionner XLT à XLSM. Téléchargez vos fichiers, appelez la méthode Workbook.Combine pour fusionner des fichiers, puis enregistrez-la dans le fichier XLSM. Si vous développez du code en C#, ce sera plus simple qu'il n'y paraît. Voir l'exemple C# qui fusionne XLT à XLSM.
@@ -36,16 +37,18 @@ Suivez les étapes simples pour fusionner XLT à XLSM. Téléchargez vos fichier
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Application gratuite pour fusionner XLT à XLSM en ligne" InputFormat="xlt" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratuit en ligne pour fusionner XLT à XLSM en C#" InputFormat="xlt" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner XLT à XLSM via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
+ Besoin de fusionner XLT à XLSM par programmation ? Un document de base fusionnant et concaténant avec[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installez 'Aspose.Cells for .NET'.
++ Ajouter une référence de bibliothèque (importer la bibliothèque) à votre projet C#.
 + Chargez le fichier XLT avec la classe Workbook.
 + Appelez la méthode Workbook.Combine pour fusionner des fichiers.
 + Appelez la méthode Workbook.Save et transmettez le nom du fichier de sortie en tant que paramètre.
@@ -62,7 +65,7 @@ Il existe deux options alternatives pour installer "Aspose.Cells for .NET" sur v
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez un[NuGet Colis](https://www.nuget.org/packages/Aspose.Cells/) . Voir[Documentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installez la bibliothèque à l'aide de[Console du gestionnaire de packages](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dans l'IDE de Visual Studio
+1.  Installez la bibliothèque à l'aide de[Console du gestionnaire de packages](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dans l'IDE de Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nos API sont prises en charge sur toutes les principales plates-formes et systè
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Les fichiers avec l'extension .xlt sont des fichiers modèles créés avec Microsoft Excel qui est une application de feuille de calcul qui fait partie de la suite Office Microsoft. Microsoft Office 97-2003 prenait en charge la création de nouveaux fichiers XLT ainsi que leur ouverture. La dernière version d'Excel est toujours capable d'ouvrir les fichiers de modèle de cet ancien format. Un tel fichier de modèle est utilisé pour créer rapidement de nouveaux fichiers Excel avec des données et des paramètres par défaut tels que le formatage de la page, la taille de la police, les marges, les graphiques, etc., qui peuvent ensuite être enregistrés en tant que nouveaux fichiers .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Les fichiers avec l'extension XLSM sont un type de fichiers de feuille de calcul prenant en charge les macros. Du point de vue de l'application, une macro est un ensemble d'instructions utilisées pour automatiser les processus. Une macro est utilisée pour enregistrer les étapes qui sont exécutées à plusieurs reprises et facilite l'exécution des actions en exécutant à nouveau la macro. Les macros sont programmées avec Visual Basic pour Applications (VBA) de Microsoft à partir du classeur Excel à l'aide de Visual Basic Editor et peuvent être exécutées/déboguées directement à partir de là.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de fusion pris en charge" subTitle="En utilisant C#, on peut également fusionner xlt avec de nombreux autres formats de fichiers, y compris." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="HTML" description="Langage Signalétique Hyper Text" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Format d\'archivage des pages Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="TXT" description="Document texte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="XLS" description="Format binaire Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Modèle Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="XLTM" description="Modèle Excel compatible avec les macros" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-docx/" name="Fusionner XLT à DOCX" description="MicrosoftDocument Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-sql/" name="Fusionner XLT en SQL" description="Langage de requêtes structurées" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-bmp/" name="Fusionner XLT à BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-emf/" name="Fusionner XLT à EMF" description="Format de métafichier amélioré" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-gif/" name="Fusionner XLT à GIF" description="Format d\'échange graphique" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="Fusionner XLT à HTML" description="Langage Signalétique Hyper Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-md/" name="Fusionner XLT à MD" description="Langage Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="Fusionner XLT à MHTML" description="Format d\'archivage des pages Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="Fusionner XLT à ODS" description="Fichier de feuille de calcul OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-pdf/" name="Fusionner XLT à PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-png/" name="Fusionner XLT à PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-svg/" name="Fusionner XLT à SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tiff/" name="Fusionner XLT à TIFF" description="Format d\'image balisé" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="Fusionner XLT à TSV" description="Valeurs séparées par des tabulations" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="Fusionner XLT à TXT" description="Document texte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="Fusionner XLT à XLS" description="Format binaire Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="Fusionner XLT à XLSB" description="Fichier de classeur Excel binaire" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="Fusionner XLT à XLSM" description="Fichier tableur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="Fusionner XLT à XLSX" description="Fichier Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="Fusionner XLT à XLT" description="Microsoft Modèle Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="Fusionner XLT à XLTM" description="Modèle Excel compatible avec les macros" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="Fusionner XLT à XLTX" description="Modèle Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xml/" name="Fusionner XLT en XML" description="Langage de balisage extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xps/" name="Fusionner XLT à XPS" description="Spécifications papier XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-json/" name="Fusionner XLT à JSON" description="Notation d\'objet JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-jpeg/" name="Fusionner XLT à JPEG" description="JPEG Photo" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

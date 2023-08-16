@@ -1,7 +1,7 @@
 ---
 title:  Filigrane XLSM document via .NET
 weight: 8270
-description: C# code source pour ajouter ou supprimer un filigrane au fichier XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: C# code source pour ajouter ou supprimer le filigrane au fichier XLSM sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ajouter un filigrane texte au XLSM via C#" h2="Créez vos propres applications .NET pour filigraner les fichiers XLSM à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  Vous avez besoin du
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-pour essayer le workflow suivant dans votre propre environnement.
+ pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 

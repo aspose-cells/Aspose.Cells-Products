@@ -10,7 +10,7 @@ description: Java'i kullanarak bozuk bir excel dosyasını onarın. Java uygulam
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak EXCEL Dosyasını Onarın" %}}
 
- EXCEL dosyasını onarmak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java) Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme platformu olan API API for Java.
+ EXCEL dosyasını onarmak için kullanacağız[Aspose.Cells for Java](https://products.aspose.com/cells/java)Zengin özelliklere sahip, güçlü ve kullanımı kolay bir belge işleme platformu olan API API for Java.
  
  Aspose.Cells API, Microsoft Excel formatlarını oluşturmak, düzenlemek, dönüştürmek ve farklı formatlara dönüştürmek için kullanılabilir. Ayrıca, yazılım uygulamalarında kapsamlı çizelgeleme, ölçeklenebilir raporlama ve güvenilir hesaplamalar için kullanılabilir. Aspose.Cells bağımsız bir API'dir ve Microsoft veya OpenOffice gibi herhangi bir yazılım gerektirmez.
 
@@ -20,7 +20,7 @@ description: Java'i kullanarak bozuk bir excel dosyasını onarın. Java uygulam
 
 {{% blocks/products/pf/agp/content h2="Java kullanarak excel dosyası nasıl onarılır" %}}
 
-Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
++ Aspose.Cells.IWarningCallback'i devralan bir sınıf tanımlayın.
 + Yukarıdaki kalıtım sınıfını kullanarak bir Çalışma Kitabı örneği oluşturarak EXCEL dosyasını yükleyin, yukarıdaki koda bakın.
 + Çalışma kitabını kaydedin, bozuk excel dosyası onarılacaktır.
 

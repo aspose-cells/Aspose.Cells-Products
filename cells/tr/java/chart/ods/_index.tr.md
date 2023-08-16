@@ -121,7 +121,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Formatları" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatlarla kolayca başa çıkabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Biçimleri" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatlarla kolayca başa çıkabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xls/" name="XLS" description="Excel İkili Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/chart/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

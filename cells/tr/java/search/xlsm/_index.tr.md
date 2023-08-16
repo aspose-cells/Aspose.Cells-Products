@@ -58,7 +58,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalış
 {{% /blocks/products/pf/agp/text %}}
 
 + Bir Çalışma Kitabı nesnesi oluşturarak XLSM dosyasını yükleyin.
-XLSM dosyasındaki ilk çalışma sayfasına erişin.
++ XLSM dosyasındaki ilk çalışma sayfasına erişin.
 + Belirtilen formülü içeren hücreyi bulun.
 + FindOptions'ı Başlatın.
 + Bir dize değeri içeren hücreyi bulun

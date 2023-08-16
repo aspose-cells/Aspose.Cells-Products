@@ -1,5 +1,5 @@
 ---
-title:  Protéger et verrouiller XLSM document via .NET
+title: Protéger et verrouiller XLSM document via .NET
 weight: 7530
 description: C# code source pour verrouiller le fichier XLSM à l'aide du mot de passe sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---

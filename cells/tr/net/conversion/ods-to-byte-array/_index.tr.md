@@ -11,7 +11,7 @@ description: C# ODS'den Byte Array'e dönüştürme için örnek kod. VB.NET, As
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Bayt Dizisi, veri işleme veya depolama için yararlıdır. ODS dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - ODS**C# dilini kullanan belge. ODS'i bayt dizisine dönüştürmek için kullanacağız
+ Bayt Dizisi, veri işleme veya depolama için yararlıdır. ODS dosyasını Byte Array'e dönüştürebileceğiniz gibi,**Bayt Dizisi - ODS** C# dilini kullanan belge. ODS'i bayt dizisine dönüştürmek için kullanacağız
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  .NET platformunu kullanarak belge işleme ve dönüştürme için farklı özellikler sunan API.
 {{% /blocks/products/pf/agp/content %}}
@@ -83,7 +83,7 @@ Tüm Excel dosyalarını oluşturma, değiştirme, dönüştürme, oluşturma ve
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-.ods uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt türlerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
+.ods uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument Elektronik Tablo Belge biçimini ifade eder. Veriler, ODF dosyasında satırlar ve sütunlar halinde saklanır. XML tabanlı bir formattır ve Açık Belge Formatları (ODF) ailesindeki çeşitli alt tiplerden biridir. Biçim, OASIS tarafından yayınlanan ve sürdürülen ODF 1.2 belirtimlerinin bir parçası olarak belirtilir. Windows'deki ve diğer işletim sistemlerindeki bir dizi uygulama, Microsoft Excel, NeoOffice ve LibreOffice dahil olmak üzere ODS dosyalarını düzenleme ve işleme için açabilir. ODS dosyaları, farklı uygulamalar tarafından XLS, XLSX ve diğerleri gibi diğer elektronik tablo biçimlerine de dönüştürülebilir.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

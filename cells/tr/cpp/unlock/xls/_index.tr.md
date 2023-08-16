@@ -121,7 +121,7 @@ XLS uzantılı dosyalar, Excel İkili Dosya Biçimini temsil eder. Bu tür dosya
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Biçimleri" subTitle="C++\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Formatları" subTitle="C++\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/unlock/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

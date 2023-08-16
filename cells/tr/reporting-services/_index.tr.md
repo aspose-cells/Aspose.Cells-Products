@@ -12,7 +12,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Reporting Services, Microsoft SQL Server Raporlama Hizmetleri ve Microsoft Rapor Görüntüleyici içinden Excel raporları göndermenizi sağlar. Excel tabanlı raporlar için yerel ihracatçının aksine - Aspose.Cells for Reporting Services, RDL &amp; RDLC, bir dizi Excel elektronik tablo dosyası biçimine rapor verir.
+ Aspose.Cells for Reporting Services, Microsoft SQL Server Raporlama Hizmetleri ve Microsoft Rapor Görüntüleyici içinden Excel raporları göndermenizi sağlar. Excel tabanlı raporlar için yerel ihracatçının aksine - Aspose.Cells for Reporting Services, RDL &amp; RDLC, bir dizi Excel elektronik tablo dosya biçimine rapor verir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,7 +40,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
  Metin kutuları
     </li>
     <li>
- Görüntüler
+Görüntüler
     </li>
     <li>
  Alt raporlar
@@ -312,7 +312,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Pivot Tablo alanlarını daraltın veya genişletin
+Pivot Tablo alanlarını daraltın veya genişletin
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: SQL Server Raporlama Hizmetleri oluşturma uzantısı - Excel XLS X
  Aspose.Cells' Rapor Tasarımcısı Aracı
     </h2>
     <p>
-Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasarım aracı olan Aspose.Cells.Report.Designer'ı kullanırken doğrudan Microsoft Excel'den raporlar tasarlayabilir ve teslim edebilir. Bu özellik, Pivot Tablolar, etkileşimli Grafikler, formüller vb. dahil olmak üzere Microsoft Excel uygulamasında bulunan tüm güçlü işlevlerden ve özelliklerden yararlanmanıza olanak tanır.
+ Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasarım aracı olan Aspose.Cells.Report.Designer'ı kullanırken doğrudan Microsoft Excel'den raporlar tasarlayabilir ve teslim edebilir. Bu özellik, Pivot Tablolar, etkileşimli Grafikler, formüller vb. dahil olmak üzere Microsoft Excel uygulamasında bulunan tüm güçlü işlevlerden ve özelliklerden yararlanmanıza olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasa
  Raporları Elektronik Tablo Formatlarına Aktarın
     </h2>
     <p>
- Aspose.Cells for Reporting Services, XLS, XLSX, XLSM, SpreadsheetML, CSV gibi "yerel" Microsoft Excel biçimleri dahil olmak üzere tüm popüler Microsoft Excel (97 - 2016) dosya biçimlerini destekler, Sekmeyle Ayrılmış ve HTML. Aspose.Cells for Reporting Services ayrıca ODS (OpenDocument Elektronik Tablosu) dosya biçimini destekler.
+Aspose.Cells for Reporting Services, XLS, XLSX, XLSM, SpreadsheetML, CSV gibi "yerel" Microsoft Excel biçimleri dahil olmak üzere tüm popüler Microsoft Excel (97 - 2016) dosya biçimlerini destekler, Sekmeyle Ayrılmış ve HTML. Aspose.Cells for Reporting Services ayrıca ODS (OpenDocument Elektronik Tablosu) dosya biçimini destekler.
     </p>
     <p>
  Üstelik Aspose.Cells for Reporting Services Excel belgelerini tamamen düzenlenebilir elektronik tablolar olarak dışa aktarın, yani; Son kullanıcı, ortaya çıkan elektronik tabloları gerekirse Microsoft Excel uygulamasında manuel olarak düzenleyebilir.
@@ -367,7 +367,7 @@ Geliştiriciler, rapor şablonu olarak Microsoft Excel'i kullanan basit bir tasa
  Yüksek Doğruluk - Rapor Tasarımıyla Aynı
     </h2>
     <p>
-Aspose.Cells for Reporting Services raporları Microsoft Excel elektronik tablolarına, sonucun yerleşik Raporlama Hizmetleri rapor tasarımcısı tarafından oluşturulan orijinalle aynı görünecek şekilde dışa aktarın. Tüm rapor özellikleri, Microsoft Excel elektronik tablolarının orijinaline mümkün olduğunca benzer görünmesini sağlamak için en yüksek hassasiyet derecesine dönüştürülür.
+ Aspose.Cells for Reporting Services raporları Microsoft Excel elektronik tablolarına, sonucun yerleşik Raporlama Hizmetleri rapor tasarımcısı tarafından oluşturulan orijinalle aynı görünecek şekilde dışa aktarın. Tüm rapor özellikleri, Microsoft Excel elektronik tablolarının orijinaline mümkün olduğunca benzer görünmesini sağlamak için en yüksek hassasiyet derecesine dönüştürülür.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services raporları Microsoft Excel elektronik tablol
  Çeşitli Veri İşleme Seçenekleri
     </h2>
     <p>
- Aspose.Cells for Reporting Services gruplandırılmış satırlar ve altbilgiler içeren tabloları desteklerken, gruplama diğer rapor öğeleri gibi tasarım sırasında ayarlanabilir. Aspose.Cells for Reporting Services ayrıca rapor veri kaynakları olarak parametreleri ve global değişkenleri destekler. Geliştiriciler ayrıca veri kaynakları ve sorgular oluşturmak için Microsoft Sorgu'dan yararlanabilir; bu yaygın olarak kullanılan bir araçtır ve çoğu kullanıcı için tanıdıktır.
+Aspose.Cells for Reporting Services gruplandırılmış satırlar ve altbilgiler içeren tabloları desteklerken, gruplama diğer rapor öğeleri gibi tasarım sırasında ayarlanabilir. Aspose.Cells for Reporting Services ayrıca rapor veri kaynakları olarak parametreleri ve global değişkenleri destekler. Geliştiriciler ayrıca veri kaynakları ve sorgular oluşturmak için Microsoft Sorgu'dan yararlanabilir; bu yaygın olarak kullanılan bir araçtır ve çoğu kullanıcı için tanıdıktır.
     </p>
     <p>
-Buna ek olarak, Aspose.Cells for Reporting Services, hem raporlara özel veri kaynaklarını hem de önceden Rapor Sunucusunda oluşturulan paylaşılan veri kaynaklarını destekler. Geliştiriciler, tasarım zamanında rapora özgü veri kaynaklarını kullanabilir ve raporları yayınlarken paylaşılan veri kaynaklarını rapor veri kaynakları olarak belirtebilir.
+ Buna ek olarak, Aspose.Cells for Reporting Services, hem raporlara özel veri kaynaklarını hem de önceden Rapor Sunucusunda oluşturulan paylaşılan veri kaynaklarını destekler. Geliştiriciler, tasarım zamanında rapora özgü veri kaynaklarını kullanabilir ve raporları yayınlarken paylaşılan veri kaynaklarını rapor veri kaynakları olarak belirtebilir.
     </p>
    </div>
    <!-- 

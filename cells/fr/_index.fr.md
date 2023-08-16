@@ -50,7 +50,7 @@ Convertissez facilement des fichiers Excel Microsoft en PDF, HTML, des images et
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Métadonnées" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Téléchargez simplement votre fichier Excel Microsoft pour afficher ou modifier les métadonnées de la feuille de calcul à partir de n'importe quel navigateur. Aucune installation ou outils supplémentaires requis.
+ Téléchargez simplement votre fichier Excel Microsoft pour afficher ou modifier les métadonnées de la feuille de calcul à partir de n'importe quel navigateur. Aucune installation ou outils supplémentaires requis.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Téléspectateur" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Affichez les fichiers de feuille de calcul, y compris XLS, XLSX, XLSM, XLSB et O
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- La suite de produits et le support Aspose sont inégalés. Nous n'aurions pas pu faire ce que nous avons fait sans cette solution.
+La suite de produits et le support Aspose sont inégalés. Nous n'aurions pas pu faire ce que nous avons fait sans cette solution.
  <em>
  Dr Dan Patterson | Acuité, Royaume-Uni
  </em>

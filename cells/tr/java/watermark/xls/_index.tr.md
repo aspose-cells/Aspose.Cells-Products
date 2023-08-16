@@ -13,7 +13,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Runtime 
 
  XLS dosyasına filigran eklemek için kullanacağız
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigran API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.
+ API, zengin özelliklere sahip, güçlü ve kullanımı kolay bir filigran API for Java platformudur. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 

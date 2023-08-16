@@ -1,7 +1,7 @@
 ---
 title:  Filigrane XLS document via .NET
 weight: 3050
-description: C# code source pour ajouter ou supprimer un filigrane au fichier XLS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
+description: C# code source pour ajouter ou supprimer le filigrane au fichier XLS sur .NET Framework, .NET Core, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ajouter un filigrane texte au XLS via C#" h2="Créez vos propres applications .NET pour filigraner les fichiers XLS à l\'aide d\'API côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  Vous avez besoin du
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-pour essayer le workflow suivant dans votre propre environnement.
+ pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -106,7 +106,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/watermark/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

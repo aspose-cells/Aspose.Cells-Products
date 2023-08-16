@@ -12,7 +12,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java, ölçeklenebilir ve zengin özelliklere sahip bir Excel elektronik tablo yönetimi ve işleme API'dir. Uygulamalar, elektronik tablo biçimi dönüştürme, grafik yönetimi ve oluşturma, formüller uygulama, çalışma sayfalarının en ayrıntılı düzeyde biçimlendirilmesi ve çok daha fazlasını gerçekleştirebilir. API Destekler XLS, XLSX, ODS, SpreadsheetML, CSV, sekme sınırlı, HTML/MHTML, PDF, for PHP ve diğer formatlar. Geliştiriciler, JavaBridge'i kullanırken PHP uygulamalarına kolayca Excel dosyaları oluşturma, düzenleme, dönüştürme ve işleme yeteneği ekleyebilirler.
+ Aspose.Cells for PHP via Java, ölçeklenebilir ve zengin özelliklere sahip bir Excel elektronik tablo yönetimi ve işleme API'dir. Uygulamalar, elektronik tablo biçimi dönüştürme, grafik yönetimi ve oluşturma, formül uygulama, çalışma sayfalarının en ayrıntılı düzeyde biçimlendirilmesi ve çok daha fazlasını gerçekleştirebilir. API Destekler XLS, XLSX, ODS, SpreadsheetML, CSV, sekme sınırlı, HTML/MHTML, PDF, for PHP ve diğer formatlar. Geliştiriciler, JavaBridge'i kullanırken PHP uygulamalarına kolayca Excel dosyaları oluşturma, düzenleme, dönüştürme ve işleme yeteneği ekleyebilirler.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: PHP Excel elektronik tablosu API, XLS XLSX CSV TSV HTML ODS ODS ve 
  Çalışma Sayfasını Resme Dönüştür
     </li>
     <li>
-Elektronik Tabloyu PDF'e Dönüştür
+ Elektronik Tabloyu PDF'e Dönüştür
     </li>
    </ul>
   </div>
@@ -404,7 +404,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
  Esnek Çalışma Sayfası Görüntüleme Seçenekleri
     </h2>
     <p>
- Aspose.Cells for PHP via Java size çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar, böylece sayfa sonları, sayfa yönlendirmesi, ölçekleme, kağıt boyutu, üstbilgiler/altbilgiler & amp; Yakınlaştırma seviyesi. Veri görünürlüğünü, bölmeleri dondur &amp; uygulama gereksinimlerinize uygun yazdırma alanı.
+ Aspose.Cells for PHP via Java size çalışma sayfasının sayfa düzeni üzerinde tam kontrol sağlar, böylece sayfa sonları, sayfa yönü, ölçekleme, kağıt boyutu, üstbilgiler/altbilgiler ve sayfa sonları gibi Excel çalışma sayfasının görüntüleme seçeneklerini değiştirmenize olanak tanır. Yakınlaştırma seviyesi. Veri görünürlüğünü, bölmeleri dondur &amp; uygulama gereksinimlerinize uygun yazdırma alanı.
     </p>
    </div>
    <div class="col-lg-12">

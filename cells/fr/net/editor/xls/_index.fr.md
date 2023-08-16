@@ -1,5 +1,5 @@
 ---
-title: Modifier XLS fichiers via .NET
+title:  Modifier XLS fichiers via .NET
 description: C# code source pour modifier le document XLS sur .NET Framework, .NET Core, Windows Azure, Mono ou Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

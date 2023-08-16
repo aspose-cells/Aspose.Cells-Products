@@ -12,11 +12,11 @@ description: C# ASP.NET Bibliothèque VB.NET pour travailler avec des documents 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET est une feuille de calcul Excel de programmation API pour accélérer les tâches de gestion et de traitement des feuilles de calcul. API prend en charge la création d'applications multiplateformes capables de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. De plus, il ne repose pas sur Microsoft Excel ou sur des composants Office Interop Microsoft à installer, mais sur un ensemble robuste d'API qui traitent tous les formats Excel ainsi que les formats CSV et SpreadsheetML.
+Aspose.Cells for .NET est une feuille de calcul Excel de programmation API pour accélérer les tâches de gestion et de traitement des feuilles de calcul. API prend en charge la création d'applications multiplateformes capables de générer, modifier, convertir, restituer et imprimer des feuilles de calcul. De plus, il ne repose pas sur Microsoft Excel ou sur des composants Office Interop Microsoft à installer, mais sur un ensemble robuste d'API qui traitent tous les formats Excel ainsi que les formats CSV et SpreadsheetML.
 </p>
 
 <p>
-En intégrant API, certaines des tâches de base que les développeurs peuvent effectuer, telles que la gestion de plusieurs feuilles de calcul, la création de contenus et de styles de feuilles de calcul à partir de zéro, l'importation de données sur les feuilles de calcul à partir de différentes sources de données, l'ajout de formules mathématiques, financières et textuelles courantes et complexes, la manipulation de graphiques, des images, des commentaires, des objets de dessin et bien plus encore.
+ En intégrant API, certaines des tâches de base que les développeurs peuvent effectuer, telles que la gestion de plusieurs feuilles de calcul, la création de contenus et de styles de feuilles de calcul à partir de zéro, l'importation de données sur les feuilles de calcul à partir de différentes sources de données, l'ajout de formules mathématiques, financières et textuelles courantes et complexes, la manipulation de graphiques, des images, des commentaires, des objets de dessin et bien plus encore.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ En intégrant API, certaines des tâches de base que les développeurs peuvent e
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Feuille de calcul Excel avancée API Fonctionnalités
+ Feuille de calcul Excel avancée API Fonctionnalités
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Feuille de calcul Excel avancée API Fonctionnalités
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Prise en charge de CSV (valeurs séparées par des virgules) &amp; TSV (valeurs séparées par des tabulations)
+Prise en charge de CSV (valeurs séparées par des virgules) &amp; TSV (valeurs séparées par des tabulations)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Feuille de calcul Excel avancée API Fonctionnalités
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Convertir les feuilles de calcul en PDF, XPS &amp; Formats HTML
+ Convertir les feuilles de calcul en PDF, XPS &amp; Formats HTML
     </h2>
     <p>
  Aspose.Cells for .NET est capable de convertir des feuilles de calcul en PDF, XPS &amp; HTML formats tout en conservant la plus haute fidélité visuelle. Le processus de conversion est simple mais fiable, faisant ainsi du API un choix parfait pour les organisations qui ont besoin d'échanger des documents dans l'un des formats standard de l'industrie.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Enregistrer la feuille de calcul dans différents formats - C#
+Enregistrer la feuille de calcul dans différents formats - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -478,10 +478,10 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Visualisez les données avec le formatage, les graphiques et amp ; Graphique
     </h2>
     <p>
- Aspose.Cells for .NET vous offre une liberté et une flexibilité totales pour fournir à vos feuilles de calcul toutes sortes d'effets visuels. Le API vous permet d'appliquer différentes polices avec des attributs, des styles de cellules (alignement, indentation, rotation, bordures, ombrage et coloration, protection, habillage et rétrécissement du texte) et tous les types de formats numériques.
+ Aspose.Cells for .NET vous offre une liberté et une flexibilité totales pour meubler vos feuilles de calcul avec toutes sortes d'effets visuels. Le API vous permet d'appliquer différentes polices avec des attributs, des styles de cellules (alignement, indentation, rotation, bordures, ombrage et coloration, protection, habillage et rétrécissement du texte) et tous les types de formats numériques.
     </p>
     <p>
-De même, les graphiques et les graphiques sont visuellement attrayants et peuvent donner à votre feuille de calcul un aspect professionnel. Aspose.Cells for .NET fournit un ensemble complet d'API pour créer et manipuler tous les types de graphiques standard et personnalisés. De plus, vous pouvez ajouter différents types d'objets de dessin, tels que des commentaires, des images, des objets OLE, des formes et des contrôles aux cellules
+ De même, les graphiques et les graphiques sont visuellement attrayants et peuvent donner à votre feuille de calcul un aspect professionnel. Aspose.Cells for .NET fournit un ensemble complet d'API pour créer et manipuler tous les types de graphiques standard et personnalisés. De plus, vous pouvez ajouter différents types d'objets de dessin, tels que des commentaires, des images, des objets OLE, des formes et des contrôles aux cellules
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ De même, les graphiques et les graphiques sont visuellement attrayants et peuve
  Efficace, Robuste &amp; Moteur de calcul de formule fiable
     </h2>
     <p>
- Aspose.Cells for .NET dispose d'un puissant moteur de calcul de formule qui prend en charge presque toutes les formules et fonctions Excel standard et avancées Microsoft. Vous pouvez lire, définir et calculer les résultats des modules intégrés, complémentaires, de tableau et amp ; Formules de style de référence R1C1.
+Aspose.Cells for .NET dispose d'un puissant moteur de calcul de formule qui prend en charge presque toutes les formules et fonctions Excel standard et avancées Microsoft. Vous pouvez lire, définir et calculer les résultats des modules intégrés, complémentaires, de tableau et amp ; Formules de style de référence R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ De même, les graphiques et les graphiques sont visuellement attrayants et peuve
  Résumez les données avec des tableaux croisés dynamiques, des graphiques et amp ; Marqueurs intelligents
     </h2>
     <p>
-Un tableau croisé dynamique peut vous aider à résumer rapidement les données plates et à obtenir les informations souhaitées en fonction de vos besoins. .NET La bibliothèque Excel vous permet de créer dynamiquement des tableaux croisés dynamiques et des graphiques croisés dynamiques. Vous pouvez modifier dynamiquement les données source d'un tableau croisé dynamique et l'actualiser. De plus, la bibliothèque propose des marqueurs intelligents, une fonctionnalité intéressante pour remplir des feuilles de calcul basées sur certaines sources de données et pour créer des rapports visuellement efficaces.
+ Un tableau croisé dynamique peut vous aider à résumer rapidement les données plates et à obtenir les informations souhaitées en fonction de vos besoins. .NET La bibliothèque Excel vous permet de créer dynamiquement des tableaux croisés dynamiques et des graphiques croisés dynamiques. Vous pouvez modifier dynamiquement les données source d'un tableau croisé dynamique et l'actualiser. De plus, la bibliothèque propose des marqueurs intelligents, une fonctionnalité intéressante pour remplir des feuilles de calcul basées sur certaines sources de données et pour créer des rapports visuellement efficaces.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Un tableau croisé dynamique peut vous aider à résumer rapidement les données
  Rendu des feuilles de calcul Excel &amp; Graphiques sous forme d'images
     </h2>
     <p>
- Aspose.Cells for .NET possède son propre moteur de rendu spécialement conçu pour le rendu &amp; impression avec la plus grande fidélité au Microsoft Excel. Il offre des fonctionnalités distinctives telles que le rendu des feuilles de calcul Excel &amp; graphiques aux images &amp; imprimer des feuilles de calcul sur n'importe quelle imprimante physique connectée. Le processus est flexible, vous permettant ainsi de choisir un certain nombre d'options, telles que le contrôle des dimensions de l'image résultante lors du rendu des feuilles de calcul &amp; graphiques aux images.
+Aspose.Cells for .NET possède son propre moteur de rendu spécialement conçu pour le rendu &amp; impression avec la plus grande fidélité au Microsoft Excel. Il offre des fonctionnalités distinctives telles que le rendu des feuilles de calcul Excel &amp; graphiques aux images &amp; imprimer des feuilles de calcul sur n'importe quelle imprimante physique connectée. Le processus est flexible, vous permettant ainsi de choisir un certain nombre d'options, telles que le contrôle des dimensions de l'image résultante lors du rendu des feuilles de calcul &amp; graphiques aux images.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Convertir une feuille de calcul en image - C#
+ Convertir une feuille de calcul en image - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Interfaces graphiques pour le Web &amp; Applications de bureau
     </h2>
     <p>
- Aspose.Cells for .NET fournit des contrôles d'interface graphique pour le Web &amp; applications de bureau. L'utilisateur final peut utiliser ces contrôles pour ouvrir, enregistrer et amp; éditer des fichiers Excel, importer &amp; exporter des données, gérer le formatage &amp; formules et convertissez entre plusieurs formats de feuille de calcul pris en charge, directement depuis le front-end de votre application.
+Aspose.Cells for .NET fournit des contrôles d'interface graphique pour le Web &amp; applications de bureau. L'utilisateur final peut utiliser ces contrôles pour ouvrir, enregistrer et amp; éditer des fichiers Excel, importer &amp; exporter des données, gérer le formatage &amp; formules et convertissez entre plusieurs formats de feuille de calcul pris en charge, directement depuis le front-end de votre application.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Bureautique – Non nécessaire
     </h2>
     <p>
-Aspose.Cells for .NET est construit à l'aide d'un code géré qui n'a jamais besoin d'installer Microsoft Office ou Microsoft Excel sur la machine pour fonctionner avec les formats de document Excel. C'est une alternative parfaite à la bureautique Microsoft en termes de fonctionnalités prises en charge, de sécurité, de stabilité, d'évolutivité, de vitesse et de prix.
+ Aspose.Cells for .NET est construit à l'aide d'un code géré qui n'a jamais besoin d'installer Microsoft Office ou Microsoft Excel sur la machine pour fonctionner avec les formats de document Excel. C'est une alternative parfaite à la bureautique Microsoft en termes de fonctionnalités prises en charge, de sécurité, de stabilité, d'évolutivité, de vitesse et de prix.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET est construit à l'aide d'un code géré qui n'a jamais be
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- La suite de produits et le support Aspose sont inégalés. Nous n'aurions pas pu faire ce que nous avons fait sans cette solution.
+La suite de produits et le support Aspose sont inégalés. Nous n'aurions pas pu faire ce que nous avons fait sans cette solution.
  <em>
  Dr Dan Patterson | Acuité, Royaume-Uni
  </em>

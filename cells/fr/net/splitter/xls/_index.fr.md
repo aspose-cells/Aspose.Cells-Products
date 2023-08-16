@@ -13,7 +13,7 @@ description: C# code source pour diviser les documents XLS sur .NET Framework, .
 
  Afin de diviser le fichier XLS, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
+ API qui est une manipulation et un séparateur de documents riches en fonctionnalités, puissants et faciles à utiliser API pour la plate-forme C#. Ouvrir
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestionnaire de paquets, recherchez
  Aspose.Cells 
@@ -107,7 +107,7 @@ Les fichiers avec l'extension XLS représentent le format de fichier binaire Exc
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsm/" name="XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsx/" name="XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

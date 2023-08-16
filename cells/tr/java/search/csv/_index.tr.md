@@ -58,7 +58,7 @@ description: JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Çalış
 {{% /blocks/products/pf/agp/text %}}
 
 + Bir Çalışma Kitabı nesnesi oluşturarak CSV dosyasını yükleyin.
-CSV dosyasındaki ilk çalışma sayfasına erişin.
++ CSV dosyasındaki ilk çalışma sayfasına erişin.
 + Belirtilen formülü içeren hücreyi bulun.
 + FindOptions'ı Başlatın.
 + Bir dize değeri içeren hücreyi bulun

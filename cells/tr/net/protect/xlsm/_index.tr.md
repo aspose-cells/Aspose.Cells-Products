@@ -1,5 +1,5 @@
 ---
-title:  Koruyun ve kilitleyin XLSM belge via .NET
+title: Koruyun ve kilitleyin XLSM belge via .NET
 weight: 7530
 description: C# kaynak kodu, .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLSM dosyasını parola kullanarak kilitlemek için.
 ---

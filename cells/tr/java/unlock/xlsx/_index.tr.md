@@ -13,7 +13,7 @@ description: Java JSP/JSF Uygulaması ve Masaüstü Uygulamaları için Java Ça
 
  XLSX dosyasının kilidini açmak için kullanacağız
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-Zengin özelliklere sahip, güçlü ve kullanımı kolay bir koruma olan API API for Java platformu. En son sürümünü doğrudan adresinden indirebilirsiniz.
+ Zengin özelliklere sahip, güçlü ve kullanımı kolay bir koruma olan API API for Java platformu. En son sürümünü doğrudan adresinden indirebilirsiniz.
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  ve aşağıdaki yapılandırmaları pom.xml dosyasına ekleyerek Maven tabanlı projenize kurun.
 
@@ -124,7 +124,7 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Biçimleri" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Formatları" subTitle="Java\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/unlock/xls/" name="XLS" description="Excel İkili Biçim" >}}

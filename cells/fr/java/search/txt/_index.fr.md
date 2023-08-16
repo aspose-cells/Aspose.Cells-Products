@@ -58,7 +58,7 @@ description: Exemple de code Java pour rechercher des mots avec un modèle dans 
 {{% /blocks/products/pf/agp/text %}}
 
 + Charger le fichier TXT en instanciant un objet Workbook.
-Accédez à la première feuille de calcul du fichier TXT.
++ Accédez à la première feuille de calcul du fichier TXT.
 + Trouvez la cellule contenant la formule spécifiée.
 + Instancier FindOptions.
 + Trouver la cellule contenant une valeur de chaîne
@@ -147,7 +147,7 @@ Un fichier avec l'extension .TXT représente un document texte contenant du text
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/tsv/" name="TSV" description="Valeurs séparées par des tabulations" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xls/" name="XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsb/" name="XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/search/xlsm/" name="XLSM" description="Fichier tableur" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

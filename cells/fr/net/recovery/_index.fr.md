@@ -22,7 +22,7 @@ description: Réparez un fichier Excel corrompu à l'aide de C#. Outil de récup
 
 {{% blocks/products/pf/agp/content h2="Comment réparer un fichier Excel en utilisant C#" %}}
 
-Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
++ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
 + Chargez le fichier EXCEL en créant une instance de Workbook, en utilisant la classe d'héritage ci-dessus, reportez-vous au code ci-dessus.
 + Enregistrez le classeur, le fichier excel corrompu sera réparé.
 
@@ -31,7 +31,7 @@ Définissez une classe qui hérite de Aspose.Cells.IWarningCallback.
 
 {{% blocks/products/pf/agp/content h2="Installez Aspose.Cells pour réparer le fichier Excel" %}}
 
-Il existe trois options alternatives pour installer Aspose.Cells for .NET sur votre système.
+Il existe trois options alternatives pour installer Aspose.Cells for .NET dans votre système.
 -  Ouvrir[NuGet](https://www.nuget.org/packages/aspose.cells) gestionnaire de paquets, recherchez**Aspose.Cells** et installer.
 -  Installez Aspose.Cells avec le gestionnaire de packages NuGet dans Visual Studio. Voir[Documentation](https://docs.aspose.com/cells/net/getting-started/#install-asposecells-through-nuget). 
 -  Télécharger[Aspose.Cells.msi](https://releases.aspose.com/cells/net/) et installez-le sur Windows.
@@ -72,7 +72,7 @@ XLSX est un format bien connu pour les documents Excel Microsoft qui a été int
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-ods/" name="Réparation ODS" description="Fichier de feuille de calcul OpenDocument" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xls/" name="Réparation XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsb/" name="Réparation XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsm/" name="Réparation XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/recovery/repair-xlsx/" name="Réparation XLSX" description="Fichier Excel OOXML" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

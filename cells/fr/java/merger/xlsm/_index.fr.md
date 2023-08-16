@@ -1,7 +1,7 @@
 ---
 title:  Fusionner XLSM Fichiers via Java
 weight: 1270
-description: Exemple de code Java pour combiner les documents XLSM sur l'environnement d'exécution Java pour l'application JSP/JSF et les applications de bureau.
+description: Exemple de code Java pour combiner les documents XLSM sur l'environnement d'exécution Java pour les applications JSP/JSF et les applications de bureau.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Fusionner les formats XLSM dans Java" h2="Fusion de documents natifs XLSM à l\'aide d\'API Java côté serveur." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}
@@ -49,14 +49,14 @@ description: Exemple de code Java pour combiner les documents XLSM sur l'environ
 
 {{% blocks/products/pf/agp/text %}}
 
- Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
+Un document de base fusionnant et concaténant avec[Aspose.Cells for Java](https://products.aspose.com/cells/java) Les API peuvent être réalisées avec seulement quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Chargez le premier fichier XLSM avec une instance de la classe Workbook.
 + Chargez le deuxième document XLSM avec une instance de la classe Workbook.
 + Fusionner des fichiers en utilisant la méthode combine().
-enregistrer le fichier fusionné XLSM au chemin spécifié
++ enregistrer le fichier fusionné XLSM au chemin spécifié
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsmFile1.save("combinedFileWithPath.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Pas besoin de télécharger Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Pas besoin d\'écrire de code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers XLSM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Il sera fusionné et concaténé instantanément." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Il sera fusionné et concaténé instantanément." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

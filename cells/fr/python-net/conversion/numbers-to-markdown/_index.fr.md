@@ -1,7 +1,7 @@
 ---
-title: Convertir les CHIFFRES en MARKDOWN Python via Python
-description: Convertissez des NUMÉROS en MARKDOWN en ligne gratuitement. Convertisseur gratuit de NUMÉROS en ligne vers MARKDOWN. Python NUMÉROS à MARKDOWN. NUMÉROS à MARKDOWN via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS to MARKDOWN - Online NUMBERS to MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuit en ligne Python Convertissez les NUMÉROS en format de sauvegarde MARKDOWN. Python NUMÉROS au format MARKDOWN. Enregistrez les NUMÉROS au MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to MARKDOWN saveformat., Free Online NUMBERS to MARKDOWN Python., Python Convert NUMBERS to MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Convertir les NUMÉROS en MARKDOWN en Python" h2="Bibliothèque Python à grande vitesse pour convertir des NUMÉROS en MARKDOWN. Utilisez notre conversion Excel API pour développer un logiciel de haut niveau indépendant de la plate-forme en Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Suivez les étapes simples pour convertir les NUMBERS en MARKDOWN. Téléchargez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Application gratuite et exemple de code pour convertir des NUMBERS en MARKDOWN en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Application gratuite et exemple de code pour convertir des NUMBERS en MARKDOWN en ligne" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Comment convertir des NUMÉROS en MARKDOWN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Les développeurs de Python peuvent facilement charger et convertir des NUMBERS en MARKDOWN en quelques lignes de code.
+Besoin de convertir les fichiers NUMBERS en MARKDOWN par programmation ? Les développeurs de Python peuvent facilement charger et convertir des NUMBERS en MARKDOWN en quelques lignes de code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installez 'Aspose.Cells for Python via .NET'.
 1.  Ajoutez une référence de bibliothèque (importez la bibliothèque) à votre projet Python.
-1.  Charger le fichier NUMBERS avec une instance de Workbook
-1.  Convertir NUMBERS en MARKDOWN en appelant la méthode Workbook.save
+1.  Chargez le fichier NUMBERS avec une instance de Workbook.
+1.  Convertissez NUMBERS en MARKDOWN en appelant la méthode Workbook.save.
+1.  Obtenez le résultat de la conversion de NUMBERS en MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/)sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
+ Et vous pouvez également suivre le[instructions étape par étape](https://docs.aspose.com/cells/python-net/getting-started/) sur la façon d'installer "Aspose.Cells for Python via .NET" dans votre environnement de développement.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installez Aspose.Cells for Python à partir de<a href="https://pypi.org/project/
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
+ Aspose.Cells for Python via NET est indépendant de la plate-forme API et peut être utilisé sur n'importe quelle plate-forme (Windows, Linux), assurez-vous simplement que le système a[Python](https://www.python.org/downloads/) 3.7 ou supérieur.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Les fichiers avec l'extension .numbers sont classés comme type de fichier tableur, c'est pourquoi ils sont similaires aux fichiers .xlsx ; mais les fichiers Numbers sont créés à l'aide du tableur Apple iWork Numbers. L'Apple iWork Numbers est un logiciel unitaire de l'iWork Productivity Suite. La suite de productivité iWork est équivalente à la suite bureautique Microsoft utilisée sur les PC Windows. Par conséquent, nous pouvons dire que le Numbers qui est disponible pour MacOS est également un concurrent du Microsoft Excel. De même, Microsoft Excel, le fichier NUMBERS peut également contenir des tableaux, des graphiques et des formules.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Les fichiers texte créés avec les dialectes du langage Markdown sont enregistrés avec l'extension de fichier .md ou .MARKDOWN. Les fichiers MD sont enregistrés au format texte brut qui utilise le langage Markdown qui comprend également des symboles de texte en ligne, définissant la manière dont un texte peut être formaté, comme les indentations, le formatage des tableaux, les polices et les en-têtes. Les fichiers MD peuvent être convertis en HTML avec un programme appelé Markdown. Le langage Markdown est publié par John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres conversions prises en charge" subTitle="Vous pouvez également convertir NUMBERS en de nombreux autres formats de fichiers, dont quelques-uns sont répertoriés ci-dessous." >}}
 
@@ -88,7 +94,7 @@ Aspose.Cells for Python est indépendant de la plate-forme API et peut être uti
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-txt/" name="NUMÉROS AU TXT" description="Document texte" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xls/" name="NUMÉROS AU XLS" description="Format binaire Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsb/" name="NUMÉROS AU XLSB" description="Fichier de classeur Excel binaire" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsm/" name="NUMÉROS AU XLSM" description="Fichier de feuille de calcul" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsm/" name="NUMÉROS AU XLSM" description="Fichier tableur" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlsx/" name="NUMÉROS AU XLSX" description="Fichier Excel OOXML" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xlt/" name="NUMÉROS AU XLT" description="Microsoft Modèle Excel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-xltm/" name="NUMÉROS AU XLTM" description="Modèle Excel compatible avec les macros" >}}

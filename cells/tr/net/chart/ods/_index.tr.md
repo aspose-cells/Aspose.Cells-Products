@@ -102,7 +102,7 @@ ODS uzantılı dosyalar, kullanıcı tarafından düzenlenebilen OpenDocument El
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Formatları" subTitle="C#\'i kullanarak, aşağıdakiler de dahil olmak üzere farklı biçimlerde grafik oluşturmayı kolayca yapabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Grafik Biçimleri" subTitle="C#\'i kullanarak, aşağıdakiler de dahil olmak üzere farklı biçimlerde grafik oluşturmayı kolayca yapabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xls/" name="XLS" description="Excel İkili Biçim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/chart/xlsb/" name="XLSB" description="İkili Excel Çalışma Kitabı Dosyası" >}}

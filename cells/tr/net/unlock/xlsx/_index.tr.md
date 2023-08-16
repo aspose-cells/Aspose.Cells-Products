@@ -120,7 +120,7 @@ XLSX, Microsoft Office 2007 sürümüyle Microsoft tarafından kullanıma sunula
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Biçimleri" subTitle="C#\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Diğer Desteklenen Kilit Açma Formatları" subTitle="C#\'i kullanarak, dahil olmak üzere farklı formatların korumasını / kilidini açmayı kolayca kaldırabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/ods/" name="ODS" description="OpenDocument Elektronik Tablo Dosyası" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/unlock/xls/" name="XLS" description="Excel İkili Biçim" >}}

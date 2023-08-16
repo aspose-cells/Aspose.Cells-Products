@@ -1,5 +1,5 @@
 ---
-title: Insérer un tableau croisé dynamique dans les fichiers Micorsoft Excel XLSX via C#
+title:  Insérer un tableau croisé dynamique dans les fichiers Micorsoft Excel XLSX via C#
 weight: 7690
 description: C# Exemple de code pour générer des documents XLSX avec tableau croisé dynamique. Utilisez ce code pour créer des fichiers Micorsoft Excel XLSX avec tableau croisé dynamique dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Exemple de code pour générer des documents XLSX avec tableau c
 
 {{% blocks/products/pf/agp/text %}}
 
- Il est facile pour les développeurs d'insérer un tableau croisé dynamique dans une feuille de calcul au format XLSX dans l'exécution de différentes applications de création de rapports pour le traitement des données en quelques lignes de code seulement.
+Il est facile pour les développeurs d'insérer un tableau croisé dynamique dans une feuille de calcul au format XLSX dans l'exécution de différentes applications de création de rapports pour le traitement des données en quelques lignes de code seulement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Exemple de code pour générer des documents XLSX avec tableau c
 1.  Accédez à la première feuille de calcul du classeur.
 1.  Obtenez la ou les cellules souhaitées de la feuille de calcul et mettez la valeur dans la ou les cellules.
 1.  Insérer un tableau croisé dynamique et définir le style
-1.  Utilisez la méthode Save pour enregistrer le classeur en tant que fichier XLSX.
+1. Utilisez la méthode Save pour enregistrer le classeur en tant que fichier XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

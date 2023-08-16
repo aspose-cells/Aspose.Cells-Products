@@ -11,7 +11,7 @@ description: C# Exemple de code pour la conversion de XLSM en tableau d'octets. 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array est utile pour le traitement ou le stockage des données. Vous pouvez convertir le fichier XLSM en Byte Array ainsi qu'un**Tableau d'octets vers XLSM**document utilisant la langue C#. Afin de convertir XLSM en tableau d'octets, nous utiliserons
+ Byte Array est utile pour le traitement ou le stockage des données. Vous pouvez convertir le fichier XLSM en Byte Array ainsi qu'un**Tableau d'octets vers XLSM** document utilisant la langue C#. Afin de convertir XLSM en tableau d'octets, nous utiliserons
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API qui offre différentes fonctionnalités pour la manipulation et la conversion de documents à l'aide de la plate-forme .NET.
 {{% /blocks/products/pf/agp/content %}}

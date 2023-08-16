@@ -12,7 +12,7 @@ description: Python okuma yazma oluşturmak ve Excel dosyalarını ayrıştırma
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler, basit veya karmaşık elektronik tablolar oluşturabilir, excel dosyalarından bilgi çıkarmanın yanı sıra manipüle edebilir. API, birden çok excel biçimini okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına işleyebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
+Aspose.Cells for Python via Java, elektronik tablo işleme görevleri için hızlı ve güvenilir bir API'dir. Geliştiriciler, basit veya karmaşık elektronik tablolar oluşturabilir, excel dosyalarından bilgi çıkarmanın yanı sıra manipüle edebilir. API, birden çok excel biçimini okur ve çalışma sayfalarını XPS, PDF, MHTML, HTML, Düz Metin, resimler ve daha fazlasına işleyebilir. Python kullanarak excel raporlarını otomatikleştirmek için en iyi çözümdür.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Gelişmiş Python Excel API Özellikler
     </p>
     <div class="codeblock" id="code">
      <h3>
- Elektronik tabloyu farklı biçimlerde kaydetme - Java
+Elektronik tabloyu farklı biçimlerde kaydetme - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Esnek Ekran Seçenekleri
     </h2>
     <p>
-Aspose.Cells for Python via Java, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
+ Aspose.Cells for Python via Java, ön izleme sayfası sonları, yakınlaştırma seviyesini ayarlama, sayfa yönlendirmeyi ayarlama, bölmeleri dondurarak veri görünürlüğünü kontrol etme, kağıt boyutu, ölçekleme, başlıklar ve başlıklar gibi birden fazla ekran seçeneğini manipüle etmeye olanak tanıyan sayfa kurulumu üzerinde tam kontrol sağlar. altbilgiler ve yazdırma alanı.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java, ön izleme sayfası sonları, yakınlaştırma
  Grafik Özelleştirme
     </h2>
     <p>
- Aspose.Cells for Python via Java grafik için tam destek sağlar. Bu python kitaplığı aracılığıyla grafiği yenilemek için standart ve özelleştirilmiş grafikler veya dinamik olarak ayarlanmış grafik verileri kolayca eklenebilir.
+Aspose.Cells for Python via Java grafik için tam destek sağlar. Bu python kitaplığı aracılığıyla grafiği yenilemek için standart ve özelleştirilmiş grafikler veya dinamik olarak ayarlanmış grafik verileri kolayca eklenebilir.
     </p>
    </div>
    <!--

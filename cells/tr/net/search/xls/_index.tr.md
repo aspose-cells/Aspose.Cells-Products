@@ -13,7 +13,7 @@ description: .NET Framework, .NET Core, Mono veya Xamarin Platformlarında XLS d
 
  XLS dosyasını aramak için kullanacağız
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, C# platformu için API'de arama yapan, zengin özelliklere sahip, güçlü ve kullanımı kolay bir belgedir. Açık
+API, C# platformu için API'de arama yapan, zengin özelliklere sahip, güçlü ve kullanımı kolay bir belgedir. Açık
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  paket yöneticisi, ara
  **Aspose.Cells** 

@@ -1,5 +1,5 @@
 ---
-title: XLTM dosyalarını düzenle via .NET
+title:  XLTM dosyalarını düzenle via .NET
 description: C# kaynak kodu XLTM belgesini .NET Framework, .NET Core, Windows Azure, Mono veya Xamarin Platformlarında düzenlemek için.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

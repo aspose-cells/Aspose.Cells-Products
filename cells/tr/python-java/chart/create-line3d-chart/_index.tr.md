@@ -1,6 +1,6 @@
 ---
 title: Python aracılığıyla 3D Çizgi Grafikler oluşturun
-description: Python Python Kitaplığını kullanarak Excel'de 3B Çizgi grafikleri oluşturmak için örnek kod. Python tabanlı uygulamada MS Excel'e bir 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
+description: Python Python Kitaplığı'nı kullanarak Excel'de 3B Çizgi grafikleri oluşturmak için örnek kod. Python tabanlı uygulamada MS Excel'e bir 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

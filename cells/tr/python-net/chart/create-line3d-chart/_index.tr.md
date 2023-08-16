@@ -1,6 +1,6 @@
 ---
 title: Python aracılığıyla 3D Çizgi Grafikler oluşturun
-description: Python Python Kitaplığını kullanarak Excel'de 3B Çizgi grafikleri oluşturmak için örnek kod. Python tabanlı uygulamada MS Excel'e bir 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
+description: Python Python Kitaplığı'nı kullanarak Excel'de 3B Çizgi grafikleri oluşturmak için örnek kod. Python tabanlı uygulamada MS Excel'e bir 3B Çizgi grafiği oluşturmak için bu kodu kullanın.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
@@ -33,7 +33,7 @@ Geliştiricilerin, yalnızca birkaç satır kodla veri işleme için farklı rap
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="sistem gereksinimleri" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
+ Aspose.Cells for Python, platformdan bağımsızdır API ve herhangi bir platformda (Windows, Linux) kullanılabilir, yalnızca sistemin sahip olduğundan emin olun.[Python](https://www.python.org/downloads/) 3.7 veya üstü.
 {{% /blocks/products/pf/agp/text %}}
 
 - Aspose.Cells for Python'i buradan yükleyin<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , komutu şu şekilde kullanın:<code>$ pip install aspose-cells-python</code>.

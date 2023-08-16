@@ -40,7 +40,7 @@ description: Extension de rendu SQL Server Reporting Services - Export Excel XLS
  Zones de texte
     </li>
     <li>
- Images
+Images
     </li>
     <li>
  Sous-rapports
@@ -312,7 +312,7 @@ description: Extension de rendu SQL Server Reporting Services - Export Excel XLS
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Réduire ou développer les champs du tableau croisé dynamique
+Réduire ou développer les champs du tableau croisé dynamique
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: Extension de rendu SQL Server Reporting Services - Export Excel XLS
  Aspose.Cells' Outil de conception de rapports
     </h2>
     <p>
-Les développeurs peuvent concevoir et fournir des rapports directement à partir de Microsoft Excel tout en utilisant Aspose.Cells.Report.Designer - un outil de conception simple qui utilise Microsoft Excel comme modèle de rapport. Cette fonctionnalité permet de tirer parti de toutes les fonctionnalités et fonctionnalités puissantes disponibles dans l'application Excel Microsoft, notamment les tableaux croisés dynamiques, les graphiques interactifs, les formules, etc.
+ Les développeurs peuvent concevoir et fournir des rapports directement à partir de Microsoft Excel tout en utilisant Aspose.Cells.Report.Designer - un outil de conception simple qui utilise Microsoft Excel comme modèle de rapport. Cette fonctionnalité permet de tirer parti de toutes les fonctionnalités et fonctionnalités puissantes disponibles dans l'application Excel Microsoft, notamment les tableaux croisés dynamiques, les graphiques interactifs, les formules, etc.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Les développeurs peuvent concevoir et fournir des rapports directement à parti
  Exporter des rapports vers des formats de feuille de calcul
     </h2>
     <p>
- Aspose.Cells for Reporting Services prend en charge tous les formats de fichiers Excel Microsoft populaires (97 - 2016), y compris les formats Excel «natifs» Microsoft tels que XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited et HTML. Aspose.Cells for Reporting Services prennent également en charge le format de fichier ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services prend en charge tous les formats de fichiers Excel Microsoft populaires (97 - 2016), y compris les formats Excel «natifs» Microsoft tels que XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited et HTML. Aspose.Cells for Reporting Services prennent également en charge le format de fichier ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  En plus de cela, Aspose.Cells for Reporting Services exporte des documents Excel sous forme de feuilles de calcul entièrement modifiables, c'est-à-dire ; l'utilisateur final peut modifier manuellement les feuilles de calcul résultantes dans l'application Excel Microsoft si nécessaire.
@@ -367,7 +367,7 @@ Les développeurs peuvent concevoir et fournir des rapports directement à parti
  Haute fidélité - Identique à la conception du rapport
     </h2>
     <p>
-Aspose.Cells for Reporting Services exportent les rapports vers des feuilles de calcul Excel Microsoft de manière à ce que le résultat apparaisse identique à celui d'origine généré par le concepteur de rapports Reporting Services intégré. Toutes les fonctionnalités du rapport sont converties au plus haut degré de précision pour que les feuilles de calcul Excel Microsoft ressemblent le plus possible à l'original.
+ Aspose.Cells for Reporting Services exportent les rapports vers des feuilles de calcul Excel Microsoft de manière à ce que le résultat apparaisse identique à celui d'origine généré par le concepteur de rapports Reporting Services intégré. Toutes les fonctionnalités du rapport sont converties au plus haut degré de précision pour que les feuilles de calcul Excel Microsoft ressemblent le plus possible à l'original.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services exportent les rapports vers des feuilles de 
  Diverses options de traitement des données
     </h2>
     <p>
- Aspose.Cells for Reporting Services prennent en charge les tableaux avec des lignes et des pieds de page groupés, tandis que le regroupement peut être configuré au moment de la conception comme les autres éléments de rapport. Aspose.Cells for Reporting Services prend également en charge les paramètres et les variables globales comme sources de données de rapport. Les développeurs peuvent également utiliser Microsoft Query pour créer des sources de données et des requêtes ; il s'agit d'un outil largement utilisé et familier à la plupart des utilisateurs.
+Aspose.Cells for Reporting Services prennent en charge les tableaux avec des lignes et des pieds de page groupés, tandis que le regroupement peut être configuré au moment de la conception comme les autres éléments de rapport. Aspose.Cells for Reporting Services prend également en charge les paramètres et les variables globales comme sources de données de rapport. Les développeurs peuvent également utiliser Microsoft Query pour créer des sources de données et des requêtes ; il s'agit d'un outil largement utilisé et familier à la plupart des utilisateurs.
     </p>
     <p>
-De plus, Aspose.Cells for Reporting Services prend en charge à la fois les sources de données spécifiques aux rapports et les sources de données partagées créées à l'avance sur Report Server. Les développeurs peuvent utiliser des sources de données spécifiques aux rapports au moment de la conception et spécifier des sources de données partagées comme sources de données de rapport lors de la publication des rapports.
+ De plus, Aspose.Cells for Reporting Services prend en charge à la fois les sources de données spécifiques aux rapports et les sources de données partagées créées à l'avance sur Report Server. Les développeurs peuvent utiliser des sources de données spécifiques aux rapports au moment de la conception et spécifier des sources de données partagées comme sources de données de rapport lors de la publication des rapports.
     </p>
    </div>
    <!-- 

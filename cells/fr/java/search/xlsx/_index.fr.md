@@ -58,7 +58,7 @@ description: Exemple de code Java pour rechercher des mots avec un modèle dans 
 {{% /blocks/products/pf/agp/text %}}
 
 + Charger le fichier XLSX en instanciant un objet Workbook.
-Accédez à la première feuille de calcul du fichier XLSX.
++ Accédez à la première feuille de calcul du fichier XLSX.
 + Trouvez la cellule contenant la formule spécifiée.
 + Instancier FindOptions.
 + Trouver la cellule contenant une valeur de chaîne

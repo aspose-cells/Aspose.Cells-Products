@@ -1,12 +1,12 @@
 ---
 title:  Microsoft Excel-Dateikonvertierung via Java
-description: Convert Excel XLS, XLSX, ODS, CSV to PDF, XPS, HTML, JPEG, HTML and many other popular formats with just few lines of Java code.
+description: Konvertieren Sie Excel XLS, XLSX, ODS, CSV in PDF, XPS, HTML, JPEG, HTML und viele andere beliebte Formate mit nur wenigen Zeilen Java-Code .
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konvertierung von Excel-Dateien via Java" h2="Speichern Sie Microsoft Excel-Dokumente als Tabellenkalkulation, Web, Bild und Format mit festem Layout" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Für jeden**Excel-Konverter** Anwendung oder Lösung, Java Excel-Bibliothek beschleunigt Tabellenkalkulations-Programmier- und Konvertierungsprozesse und verarbeitet gleichzeitig mehrere Formate, einschließlich XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 193481. Es ermöglicht auch die *Konvertierung von Excel-Dateien in PDF**, XPS, HTML, MHTML, Nur-Text und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
+ Für jeden**Excel-Konverter**Anwendung oder Lösung, Java Excel-Bibliothek beschleunigt Tabellenkalkulations-Programmier- und Konvertierungsprozesse und verarbeitet gleichzeitig mehrere Formate, einschließlich XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07 6193481. Es ermöglicht auch die *Konvertierung von Excel-Dateien in PDF**, XPS, HTML, MHTML, Nur-Text und gängige Bildformate wie TIFF, JPG, PNG, BMP und SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertierung von Microsoft Excel-Formaten" %}}
@@ -56,7 +56,7 @@ bk.save("output.md", new MarkdownSaveOptions());
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie JSON in Excel und Excel in JSON" %}}
- JSON-Daten können mit Hilfe von in eine Instanz der Workbook-Klasse importiert werden[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) zur weiteren Verarbeitung oder einfachen Konvertierung in eines der unterstützten Formate. Ebenso können Arbeitsblattdaten als JSON exportiert werden, indem eine erstellt wird[Bereich](https://reference.aspose.com/cells/java/com.aspose.cells/range) oder Zellen und das Aufrufen der[exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) Methode.
+ JSON-Daten können mit Hilfe von in eine Instanz der Workbook-Klasse importiert werden[JSONUtility.importData](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility#importData) zur weiteren Verarbeitung oder einfachen Konvertierung in eines der unterstützten Formate. Ebenso können Arbeitsblattdaten als JSON exportiert werden, indem eine erstellt wird[Reichweite](https://reference.aspose.com/cells/java/com.aspose.cells/range) oder Zellen und das Aufrufen der[exportRangeToJson](https://reference.aspose.com/cells/java/com.aspose.cells/jsonutility) Methode.
 {{% blocks/products/pf/feature-page-code h3="Java Code für die Konvertierung von JSON in Excel" %}}
 ```cs
 Workbook workbook = new Workbook(path + "source-file.xlsx");
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertieren Sie Microsoft Excel in Word und PowerPoint" %}}
- Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) Klassen wie unten gezeigt.
+ Es ist möglich, jede Tabellenkalkulation zu laden und sie während der Verwendung in Word-Dateien DOCX und PowerPoint PPTX zu konvertieren[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)Klassen wie unten gezeigt.
 {{% blocks/products/pf/feature-page-code h3="Java Code für Excel in Word und PowerPoint Konvertierung" %}}
 ```cs
 // load the template file

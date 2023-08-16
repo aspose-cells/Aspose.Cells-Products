@@ -419,7 +419,7 @@ Erweiterte Python Excel API Funktionen
     </p>
     <div class="codeblock" id="code">
      <h3>
- Tabellenkalkulation in verschiedenen Formaten speichern – Java
+Tabellenkalkulation in verschiedenen Formaten speichern – Java
      </h3>
      <pre><code class="java">// load file to be converted
 

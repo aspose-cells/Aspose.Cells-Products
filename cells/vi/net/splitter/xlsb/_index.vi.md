@@ -13,7 +13,7 @@ description: Mã nguồn C# để tách các tài liệu XLSB trên .NET Framewo
 
  Để tách tệp XLSB, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API là một trình chia và thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở
+ API là một trình chia và thao tác tài liệu API giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  Aspose.Cells 

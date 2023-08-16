@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie FODS in SXC Python via Python
-description: Konvertieren Sie FODS kostenlos online in SXC. Kostenloser Online-Konverter von FODS zu SXC. Python FODS bis SXC. FODS bis SXC über Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS zu SXC - Online-Konverter von FODS zu SXC
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie FODS in das Speicherformat SXC. Python FODS bis SXC Format. Speichern Sie FODS bis SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to SXC saveformat., Free Online FODS to SXC Python., Python Convert FODS to SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie FODS in SXC in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von FODS in SXC. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige High-Level-Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie FODS in SXC in Python" %}}
 
- Wie konvertiere ich FODS in SXC? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie FODS mit wenigen Codezeilen problemlos programmgesteuert in SXC konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate.
+ Wie konvertiere ich FODS in SXC? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie FODS mit wenigen Codezeilen problemlos programmgesteuert in SXC konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Befolgen Sie die einfachen Schritte, um FODS in SXC zu konvertieren. Laden Sie I
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von FODS in SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von FODS in SXC" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie FODS in SXC" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-Entwickler können FODS in nur wenigen Codezeilen problemlos laden und in SXC konvertieren.
+Müssen Sie FODS-Dateien programmgesteuert in SXC konvertieren? Python-Entwickler können FODS problemlos in nur wenigen Codezeilen laden und in SXC konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei FODS mit einer Instanz von Workbook
-1.  Konvertieren Sie FODS in SXC, indem Sie die Methode Workbook.save aufrufen
+1.  Laden Sie die Datei FODS mit einer Instanz von Workbook.
+1.  Konvertieren Sie FODS in SXC, indem Sie die Methode Workbook.save aufrufen.
+1.  Erhalten Sie das Konvertierungsergebnis von FODS in SXC.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
+ Aspose.Cells for Python über NET ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System vorhanden ist[Python](https://www.python.org/downloads/) 3,7 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Eine Datei mit der Erweiterung .fods ist eine Art OpenDocument Spreadsheet-Dokumentformat, das Daten in Zeilen und Spalten speichert. Das Format ist Teil der von OASIS veröffentlichten und verwalteten ODF 1.2-Spezifikationen. FODS-Dateien können nicht mit Excel, einer anderen Tabellenkalkulationssoftwareanwendung von Microsoft, geöffnet werden. FODS-Dateien können mit LibreOffice als ODS gespeichert und in andere Formate wie XLS und XLSX konvertiert werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Das Dateiformat SXC (Sun XML Calc) gehört zu einer Office-Suite namens OpenOffice.org. Dieses Format erfüllt im Allgemeinen die Tabellenkalkulationsanforderungen der Benutzer, da es sich um ein XML-basiertes Tabellenkalkulationsdateiformat handelt. Das Format SXC unterstützt Formeln, Funktionen, Makros und Diagramme sowie DataPilot. Dies ist eine unglaubliche Funktion, da es die importierten Rohdaten automatisch individualisiert und Zusammenfassungen bereitstellt. Die mit dieser Software erstellten Dateien werden mit der Erweiterung .sxc gespeichert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können FODS auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 

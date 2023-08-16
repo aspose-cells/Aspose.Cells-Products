@@ -13,7 +13,7 @@ description: Java Beispielcode zum Aufteilen von XLSX Dokumenten in Java Laufzei
 
  Um die Datei XLSX zu teilen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Splitter-Plattform. Sie können die neueste Version direkt von herunterladen
+ API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Splitter-Plattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 

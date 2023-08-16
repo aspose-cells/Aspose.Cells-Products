@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mehrere Excel-Dateien zusammenführen" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Die Methode unterstützt das Zusammenführen von Daten, Stilen und Formeln einer Excel-Datei in einer neuen Tabelle mit demselben Format. Dies ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen und gleichzeitig Caching zu verwenden.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)Die Methode unterstützt das Zusammenführen von Daten, Stilen und Formeln einer Excel-Datei in einer neuen Tabelle mit demselben Format. Dies ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen und gleichzeitig Caching zu verwenden.
 {{% blocks/products/pf/feature-page-code h3="Java Code zum Zusammenführen mehrerer Excel-Dateien" %}}
 
 ```cs

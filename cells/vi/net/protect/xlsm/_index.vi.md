@@ -1,5 +1,5 @@
 ---
-title:  Bảo vệ và khóa tài liệu XLSM via .NET
+title: Bảo vệ và khóa tài liệu XLSM via .NET
 weight: 7530
 description: C# để khóa tệp XLSM bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 ---

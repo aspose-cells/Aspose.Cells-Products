@@ -1,7 +1,7 @@
 ---
-title: Chuyển OTS sang XLTX Python via Python
-description: Chuyển đổi OTS thành XLTX Trực tuyến Miễn phí. Bộ chuyển đổi OTS sang XLTX trực tuyến miễn phí. Python OTS đến XLTX. OTS đến XLTX qua Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+title: Python OTS sang XLTX - Bộ chuyển đổi OTS sang XLTX trực tuyến
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi OTS thành XLTX định dạng lưu. Định dạng Python OTS đến XLTX. Lưu OTS vào XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to XLTX saveformat., Free Online OTS to XLTX Python., Python Convert OTS to XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi OTS thành XLTX trong Python" h2="Thư viện Python tốc độ cao để chuyển đổi OTS thành XLTX. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm nền tảng, cấp độ cao độc lập trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Làm theo các bước đơn giản để chuyển đổi OTS thành XLTX. Tải
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi OTS thành XLTX trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi OTS thành XLTX trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi OTS sang XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python các nhà phát triển có thể dễ dàng tải và chuyển đổi OTS thành XLTX chỉ bằng một vài dòng mã.
+Cần chuyển đổi các tệp OTS thành XLTX theo chương trình? Python các nhà phát triển có thể dễ dàng tải và chuyển đổi OTS thành XLTX chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp OTS với phiên bản Sổ làm việc
-1.  Chuyển đổi OTS thành XLTX bằng cách gọi phương thức Workbook.save
+1.  Tải tệp OTS với phiên bản Sổ làm việc.
+1.  Chuyển đổi OTS thành XLTX bằng cách gọi phương thức Workbook.save.
+1.  Lấy kết quả chuyển đổi của OTS thành XLTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Tệp có phần mở rộng .ots là tệp Mẫu Bảng tính Tài liệu Mở được tạo bằng phần mềm ứng dụng Calc có trong Apache OpenOffice. Phần mềm ứng dụng Calc tương tự như Excel có sẵn trong Microsoft Office. Định dạng tệp OTS được sử dụng để tạo các mẫu có chứa các cài đặt xác định trước liên quan đến kiểu, phông chữ, dữ liệu, bố cục bảng tính và định dạng. Các tệp OTF có ứng dụng kiểu mime/vnd.oasis.opendocument.spreadsheet-template. Các tệp mẫu này có thể được sử dụng làm điểm bắt đầu để tạo và lưu các tệp dữ liệu thực được lưu ở định dạng tệp ODS. Các tệp OTS có thể được sử dụng với các ứng dụng như OpenOffice và LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Các tệp có phần mở rộng .xltx đại diện cho các tệp Mẫu Excel Microsoft dựa trên các đặc tả định dạng tệp Office OpenXML. Nó được sử dụng để tạo một tệp mẫu tiêu chuẩn có thể được sử dụng để tạo các tệp XLSX thể hiện các cài đặt giống như được chỉ định trong tệp XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi OTS sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 

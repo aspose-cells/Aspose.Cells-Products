@@ -1,7 +1,8 @@
 ---
-title:  XLSB über C# mit HTML zusammenführen
+title: XLSB mit HTML zusammenführen - XLSB mit HTML in C# kombinieren
 url: /de/net/merger/merge-xlsb-to-html/ 
-description: Führen Sie XLSB mit HTML kostenlos online zusammen. Kostenlos online XLSB bis HTML Fusion. XLSB mit Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS und mehr zusammenführen.
+description: Aspose Excel. C# Aspose.Cells. Kostenlose Online-Zusammenführung von XLSB zu HTML im Speicherformat. C# Kombinieren Sie das Format XLSB mit dem Format HTML. XLSB zu HTML in C# zusammenführen. XLSB Zusammenführen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to HTML in C#., Free Online C# Merge XLSB to html., C# Combine XLSB to HTML Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB über C# mit HTML zusammenführen" h2="Hochgeschwindigkeitsbibliothek C# zum Zusammenführen von XLSB mit HTML. Verwenden Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C# zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Führen Sie XLSB mit HTML kostenlos online zusammen. Kostenlos onli
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLSB mit HTML unter Verwendung von C# zusammen" %}}
 
- Wie füge ich XLSB mit HTML zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSB mit HTML ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+ Wie füge ich XLSB mit HTML zusammen? Mit der Bibliothek Aspose.Cells for .NET können Sie XLSB mit HTML ganz einfach programmgesteuert und mit wenigen Codezeilen zusammenführen.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. .NET Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Offen[NuGet](https://www.nuget.org/packages/aspose.cells) Paketmanager, suchen Sie nach Aspose.Cells und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Führen Sie XLSB mit HTML in C# kostenlos online zusammen" %}}
 
-Das folgende Beispiel zeigt, wie XLSB mit HTML in C# zusammengeführt wird.
+Das folgende Beispiel zeigt, wie XLSB mit HTML in Aspose.Cells for .NET zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
 
 Befolgen Sie die einfachen Schritte, um XLSB mit HTML zusammenzuführen. Laden Sie Ihre Dateien hoch, rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf und speichern Sie sie dann in der Datei HTML. Wenn Sie Code in C# entwickeln, ist dies einfacher, als es sich anhört. Siehe Beispiel C#, das XLSB mit HTML zusammenführt.
@@ -36,16 +37,18 @@ Befolgen Sie die einfachen Schritte, um XLSB mit HTML zusammenzuführen. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von XLSB mit HTML" InputFormat="xlsb" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Kostenlos online, um XLSB mit HTML in C# zusammenzuführen" InputFormat="xlsb" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie XLSB über C# mit HTML zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie XLSB programmgesteuert mit HTML zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installieren Sie „Aspose.Cells for .NET“.
++ Fügen Sie Ihrem C#-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 + Laden Sie die Datei XLSB mit der Workbook-Klasse.
 + Rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf.
 + Rufen Sie die Workbook.Save-Methode auf und übergeben Sie den Namen der Ausgabedatei als Parameter.
@@ -62,7 +65,7 @@ Es gibt zwei alternative Möglichkeiten, „Aspose.Cells for .NET“ auf Ihrem S
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Sehen[Dokumentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installieren Sie die Bibliothek mit[Paket-Manager-Konsole](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)innerhalb der Visual Studio-IDE
+1.  Installieren Sie die Bibliothek mit[Paket-Manager-Konsole](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) innerhalb der Visual Studio-IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Das Dateiformat XLSB gibt das Excel-Binärdateiformat an, eine Sammlung von Datensätzen und Strukturen, die den Inhalt einer Excel-Arbeitsmappe angeben. Der Inhalt kann unstrukturierte oder halbstrukturierte Zahlentabellen, Text oder sowohl Zahlen als auch Text, Formeln, externe Datenverbindungen, Diagramme und Bilder umfassen. Im Gegensatz zu XLSX (das auf dem Open XML-Dateiformat basiert) stellt XLSB eine binäre Excel-Arbeitsmappendatei dar. XLSB-Dateien können schneller gelesen und geschrieben werden, was sie für die Arbeit mit großen Dateien nützlich macht. XLSB wird selten zum Speichern von Arbeitsmappen verwendet, da XLSX (und früher XLS) die am häufigsten vom Benutzer ausgewählten Dateiformate zum Speichern von Arbeitsmappen sind. Es kann mit Microsoft Office 2007 und höher geöffnet werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) ist die Erweiterung für Webseiten, die für die Anzeige in Browsern erstellt werden. HTML, bekannt als Sprache des Webs, hat sich mit den Anforderungen neuer Informationsanforderungen weiterentwickelt, die als Teil von Webseiten angezeigt werden sollen. Die neueste Variante heißt HTML 5 und bietet viel Flexibilität bei der Arbeit mit der Sprache. HTML-Seiten werden entweder vom Server empfangen, auf dem sie gehostet werden, oder können auch vom lokalen System geladen werden. Jede HTML-Seite besteht aus HTML-Elementen wie Formularen, Text, Bildern, Animationen, Links usw. Diese Elemente werden durch Tags und mehrere andere dargestellt, wobei jedes Tag einen Anfang und ein Ende hat. Es kann auch Anwendungen einbetten, die in Skriptsprachen wie JavaScript und Style Sheets (CSS) geschrieben wurden, um das Gesamtlayout darzustellen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit C# kann man XLSB auch mit vielen anderen Dateiformaten zusammenführen, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Webseitenarchivformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="TSV" description="Durch Tabulatoren getrennte Werte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="TXT" description="Text dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="XLS" description="Excel-Binärformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Excel-Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="XLTM" description="Excel-Makro-fähige Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="XLTX" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-docx/" name="XLSB zu DOCX zusammenführen" description="Microsoft Word-Dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-sql/" name="XLSB mit SQL zusammenführen" description="Strukturierte Abfragesprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-bmp/" name="XLSB zu BMP zusammenführen" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-emf/" name="XLSB zu EMF zusammenführen" description="Erweitertes Metadateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-gif/" name="XLSB zu GIF zusammenführen" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="XLSB zu HTML zusammenführen" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-md/" name="XLSB mit MD zusammenführen" description="Markdown-Sprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="XLSB zu MHTML zusammenführen" description="Webseitenarchivformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="XLSB zu ODS zusammenführen" description="OpenDocument-Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-pdf/" name="XLSB zu PDF zusammenführen" description="Tragbares Dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-png/" name="XLSB zu PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-svg/" name="XLSB zu SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tiff/" name="XLSB zu TIFF zusammenführen" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="XLSB zu TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="XLSB zu TXT zusammenführen" description="Text dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="XLSB zu XLS zusammenführen" description="Excel-Binärformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="XLSB zu XLSB zusammenführen" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="XLSB zu XLSM zusammenführen" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="XLSB zu XLSX zusammenführen" description="OOXML-Excel-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="XLSB zu XLT zusammenführen" description="Microsoft Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="XLSB zu XLTM zusammenführen" description="Excel-Makro-fähige Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="XLSB zu XLTX zusammenführen" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xml/" name="XLSB in XML zusammenführen" description="Erweiterbare Auszeichnungssprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xps/" name="XLSB zu XPS zusammenführen" description="XML-Papierspezifikationen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-json/" name="XLSB zu JSON zusammenführen" description="JavaScript-Objekt-Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-jpeg/" name="XLSB zu JPEG zusammenführen" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

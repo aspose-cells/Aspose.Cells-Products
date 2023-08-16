@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie NUMBERS in JSON Python via Python
-description: Konvertieren Sie NUMBERS kostenlos online in JSON. Kostenloser Online-Konverter von NUMBERS zu JSON. Python NUMMERN an JSON. NUMMERN an JSON über Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python ZAHLEN zu JSON - Online-ZAHLEN zu JSON Konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie NUMBERS in das Speicherformat JSON. Python ZAHLEN im Format JSON. Speichern Sie die Nummern unter JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to JSON saveformat., Free Online NUMBERS to JSON Python., Python Convert NUMBERS to JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie NUMBERS in JSON in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von NUMBERS in JSON. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie NUMBERS in JSON in Python" %}}
 
- Wie konvertiere ich ZAHLEN in JSON? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in JSON konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate.
+ Wie konvertiere ich NUMBERS in JSON? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie NUMBERS ganz einfach programmgesteuert mit ein paar Codezeilen in JSON konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Befolgen Sie die einfachen Schritte, um NUMBERS in JSON zu konvertieren. Laden S
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von NUMBERS in JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von NUMBERS in JSON" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie ZAHLEN in JSON" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Python-Entwickler können NUMBERS in nur wenigen Codezeilen problemlos laden und in JSON konvertieren.
+Müssen Sie NUMBERS-Dateien programmgesteuert in JSON konvertieren? Python-Entwickler können NUMBERS in nur wenigen Codezeilen problemlos laden und in JSON konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die NUMBERS-Datei mit einer Instanz von Workbook
-1.  Konvertieren Sie NUMBERS in JSON, indem Sie die Methode Workbook.save aufrufen
+1.  Laden Sie die NUMBERS-Datei mit einer Instanz von Workbook.
+1.  Konvertieren Sie NUMBERS in JSON, indem Sie die Methode Workbook.save aufrufen.
+1.  Erhalten Sie das Konvertierungsergebnis von NUMBERS in JSON.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
+ Aspose.Cells for Python über NET ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System vorhanden ist[Python](https://www.python.org/downloads/) 3,7 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) ist ein offenes Standarddateiformat für die gemeinsame Nutzung von Daten, das menschenlesbaren Text zum Speichern und Übertragen von Daten verwendet. JSON-Dateien werden mit der Erweiterung .json gespeichert. JSON erfordert weniger Formatierung und ist eine gute Alternative für XML. JSON ist von JavaScript abgeleitet, aber ein sprachunabhängiges Datenformat. Die Generierung und Analyse von JSON wird von vielen modernen Programmiersprachen unterstützt. application/json ist der Medientyp, der für JSON verwendet wird.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können NUMBERS auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 

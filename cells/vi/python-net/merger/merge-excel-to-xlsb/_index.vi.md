@@ -1,7 +1,8 @@
 ---
-title:  Hợp nhất EXCEL thành XLSB qua Python
+title: Gộp EXCEL thành XLSB - Gộp EXCEL thành XLSB trong Python
 url: /vi/python-net/merger/merge-excel-to-xlsb/ 
-description: Hợp nhất EXCEL thành XLSB trực tuyến miễn phí. Sáp nhập EXCEL trực tuyến miễn phí tới XLSB. Hợp nhất EXCEL sang Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS và hơn thế nữa.
+description: Aspose Excel. Python Aspose.Cells. Hợp nhất trực tuyến miễn phí EXCEL thành XLSB saveformat. Python Kết hợp định dạng EXCEL thành XLSB. Hợp nhất EXCEL thành XLSB trong Python. Hợp nhất EXCEL.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSB in Python., Free Online Python Merge EXCEL to xlsb., Python Combine EXCEL to XLSB Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hợp nhất EXCEL thành XLSB qua Python" h2="Thư viện Python tốc độ cao để hợp nhất EXCEL thành XLSB. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập với nền tảng, cấp cao trong Python. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất Excel, CSV, OpenOffice, PDF, HTML, image và nhiều định dạng excel khác." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Hợp nhất EXCEL thành XLSB trực tuyến miễn phí. Sáp nh�
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất EXCEL thành XLSB Sử dụng Python" %}}
 
- Làm cách nào để hợp nhất EXCEL thành XLSB? Với thư viện Aspose.Cells for Python, bạn có thể dễ dàng hợp nhất EXCEL thành XLSB theo chương trình với một vài dòng mã.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
+ Làm cách nào để hợp nhất EXCEL thành XLSB? Với thư viện Aspose.Cells for Python via .NET, bạn có thể dễ dàng hợp nhất EXCEL thành XLSB theo chương trình với một vài dòng mã.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Python Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể cài đặt Aspose.Cells for Python via .NET từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất EXCEL thành XLSB trong Python Trực tuyến Miễn phí" %}}
 
-Ví dụ sau minh họa cách hợp nhất EXCEL thành XLSB trong Python.
+Ví dụ sau minh họa cách hợp nhất EXCEL thành XLSB trong Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Làm theo các bước đơn giản để hợp nhất EXCEL thành XLSB. Tải tệp của bạn lên, gọi phương thức Workbook.Combine để hợp nhất tệp, sau đó lưu vào tệp XLSB. Nếu bạn phát triển mã trong Python, điều này sẽ đơn giản hơn âm thanh. Xem ví dụ Python hợp nhất EXCEL thành XLSB.
@@ -27,16 +28,18 @@ Làm theo các bước đơn giản để hợp nhất EXCEL thành XLSB. Tải 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất EXCEL thành XLSB trực tuyến" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Trực tuyến miễn phí để hợp nhất EXCEL thành XLSB trong Python" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất EXCEL thành XLSB qua Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API có thể được thực hiện chỉ với vài dòng mã.
+ Cần hợp nhất EXCEL thành XLSB theo chương trình? Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Cài đặt 'Aspose.Cells for Python via .NET'.
++ Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
 + Nạp file EXCEL với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
 + Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
@@ -53,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API của chúng tôi được hỗ trợ trên tất cả các nền tảng và
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX là định dạng nổi tiếng cho các tài liệu Excel Microsoft được giới thiệu bởi Microsoft cùng với việc phát hành Microsoft Office 2007. Dựa trên cấu trúc được tổ chức theo Quy ước đóng gói mở như được nêu trong Phần 2 của tiêu chuẩn OOXML ECMA-376, định dạng mới là một gói zip chứa một số tệp XML. Cấu trúc cơ bản và các tệp có thể được kiểm tra bằng cách giải nén tệp .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản hoặc cả số và văn bản, công thức, kết nối dữ liệu bên ngoài, biểu đồ và hình ảnh không có cấu trúc hoặc bán cấu trúc. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là định dạng tệp phổ biến nhất do người dùng chọn để lưu sổ làm việc. Nó có thể được mở bởi Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng Python, Người ta cũng có thể hợp nhất excel sang nhiều định dạng tệp khác bao gồm." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-docx/" name="Hợp nhất EXCEL thành DOCX" description="Microsoft Văn bản Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-sql/" name="Hợp nhất EXCEL sang SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-bmp/" name="Hợp nhất EXCEL thành BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-emf/" name="Hợp nhất EXCEL thành EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-gif/" name="Hợp nhất EXCEL thành GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="Hợp nhất EXCEL thành HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-md/" name="Hợp nhất EXCEL với MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="Hợp nhất EXCEL thành MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="Hợp nhất EXCEL thành ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-pdf/" name="Hợp nhất EXCEL thành PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-png/" name="Hợp nhất EXCEL thành PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-svg/" name="Hợp nhất EXCEL thành SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tiff/" name="Hợp nhất EXCEL thành TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="Hợp nhất EXCEL thành TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="Hợp nhất EXCEL thành TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="Hợp nhất EXCEL thành XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="Hợp nhất EXCEL thành XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="Hợp nhất EXCEL thành XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="Hợp nhất EXCEL thành XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="Hợp nhất EXCEL thành XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Hợp nhất EXCEL thành XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Hợp nhất EXCEL thành XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Hợp nhất EXCEL sang XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Hợp nhất EXCEL thành XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Hợp nhất EXCEL thành JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Hợp nhất EXCEL thành JPEG" description="JPEG Hình ảnh" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

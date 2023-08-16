@@ -1,5 +1,5 @@
 ---
-title:  XLS Dokument via .NET schützen und verriegeln
+title: XLS Dokument via .NET schützen und verriegeln
 weight: 7010
 description: C#-Quellcode zum Sperren der XLS-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
 ---

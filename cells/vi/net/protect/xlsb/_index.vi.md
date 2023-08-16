@@ -1,5 +1,5 @@
 ---
-title:  Bảo vệ và khóa tài liệu XLSB via .NET
+title: Bảo vệ và khóa tài liệu XLSB via .NET
 weight: 5920
 description: C# để khóa tệp XLSB bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 ---

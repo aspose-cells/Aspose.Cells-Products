@@ -1,7 +1,8 @@
 ---
-title:  Hợp nhất XML thành WORD via Java
+title: Gộp XML sang WORD - Gộp XML sang WORD trong Java
 url: /vi/java/merger/merge-xml-to-word/ 
-description: Hợp nhất XML sang WORD trực tuyến miễn phí. Sáp nhập XML sang WORD trực tuyến miễn phí. Hợp nhất XML thành Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS và hơn thế nữa.
+description: Aspose Excel. Java Aspose.Cells. Hợp nhất trực tuyến miễn phí định dạng lưu XML sang WORD. Java Kết hợp định dạng XML sang WORD. Hợp nhất XML thành WORD trong Java. Hợp nhất XML.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to WORD in Java., Free Online Java Merge XML to word., Java Combine XML to WORD Online for Free., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Hợp nhất XML thành WORD via Java" h2="Thư viện Java tốc độ cao để hợp nhất XML với WORD. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm cấp cao, nền tảng độc lập trong Java. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất Excel, CSV, OpenOffice, PDF, HTML, image và nhiều định dạng excel khác." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Hợp nhất XML sang WORD trực tuyến miễn phí. Sáp nhập 
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất XML thành WORD bằng Java" %}}
 
-Làm cách nào để hợp nhất XML với WORD? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng hợp nhất XML với WORD theo cách lập trình với một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java)có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
+ Làm cách nào để hợp nhất XML với WORD? Với thư viện Aspose.Cells for Java, bạn có thể dễ dàng hợp nhất XML với WORD theo cách lập trình với một vài dòng mã.[Aspose.Cells for Java](https://products.aspose.com/cells/java) có khả năng xây dựng các ứng dụng đa nền tảng với khả năng tạo, sửa đổi, chuyển đổi, kết xuất và in tất cả các tệp Excel. Java Excel API không chỉ chuyển đổi giữa các định dạng bảng tính, nó còn có thể hiển thị các tệp Excel dưới dạng hình ảnh, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT, v.v., do đó làm cho nó trở thành một lựa chọn hoàn hảo để trao đổi tài liệu trong tiêu chuẩn công nghiệp định dạng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ Làm cách nào để hợp nhất XML với WORD? Với thư viện Aspose.Cell
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất XML sang WORD trong Java Trực tuyến Miễn phí" %}}
 
-Ví dụ sau minh họa cách hợp nhất XML với WORD trong Java.
+Ví dụ sau minh họa cách hợp nhất XML với WORD trong Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Làm theo các bước đơn giản để hợp nhất XML với WORD. Tải lên các tệp của bạn, gọi phương thức Workbook.Combine để hợp nhất các tệp, sau đó lưu tệp đó vào tệp WORD. Nếu bạn phát triển mã trong Java, điều này sẽ đơn giản hơn âm thanh. Xem ví dụ Java hợp nhất XML với WORD.
@@ -55,16 +56,18 @@ Làm theo các bước đơn giản để hợp nhất XML với WORD. Tải lê
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất XML với WORD trực tuyến" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Trực tuyến miễn phí để hợp nhất XML với WORD trong Java" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất XML thành WORD via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Java](https://products.aspose.com/cells/java) API có thể được thực hiện chỉ với vài dòng mã.
+Cần hợp nhất XML với WORD theo chương trình? Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Java](https://products.aspose.com/cells/java) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Cài đặt 'Aspose.Cells for Java'.
++ Thêm tham chiếu thư viện (nhập thư viện) vào dự án Java của bạn.
 + Nạp file XML với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
 + Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
@@ -97,21 +100,41 @@ API của chúng tôi được hỗ trợ trên tất cả các nền tảng và
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML là viết tắt của Extensible Markup Language tương tự như HTML nhưng khác ở chỗ sử dụng các thẻ để định nghĩa các đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là để lưu trữ và vận chuyển dữ liệu mà không phụ thuộc vào phần mềm hoặc công cụ phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả ở người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng, chẳng hạn như World Wide Web (WWW). Chữ "X" trong XML có nghĩa là có thể mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, XHTML và SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX là một định dạng nổi tiếng cho các tài liệu Word Microsoft. Được giới thiệu từ năm 2007 với việc phát hành Microsoft Office 2007, cấu trúc của định dạng Tài liệu mới này đã được thay đổi từ tệp nhị phân đơn giản thành sự kết hợp của tệp XML và tệp nhị phân. Các tệp Docx có thể được mở bằng Word 2007 và các phiên bản mới hơn nhưng không thể mở bằng các phiên bản MS Word cũ hơn hỗ trợ phần mở rộng tệp DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng Java, Người ta cũng có thể hợp nhất xml với nhiều định dạng tệp khác bao gồm." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-html/" name="HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-mhtml/" name="MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tsv/" name="TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-txt/" name="TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsm/" name="XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltm/" name="XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltx/" name="XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-docx/" name="Hợp nhất XML thành DOCX" description="Microsoft Văn bản Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-sql/" name="Hợp nhất XML thành SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-bmp/" name="Hợp nhất XML thành BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-emf/" name="Hợp nhất XML thành EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-gif/" name="Hợp nhất XML thành GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-html/" name="Hợp nhất XML thành HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-md/" name="Hợp nhất XML với MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-mhtml/" name="Hợp nhất XML thành MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-ods/" name="Hợp nhất XML thành ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-pdf/" name="Hợp nhất XML thành PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-png/" name="Hợp nhất XML thành PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-svg/" name="Hợp nhất XML thành SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tiff/" name="Hợp nhất XML thành TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tsv/" name="Hợp nhất XML thành TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-txt/" name="Hợp nhất XML thành TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xls/" name="Hợp nhất XML thành XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsb/" name="Hợp nhất XML thành XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsm/" name="Hợp nhất XML thành XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsx/" name="Hợp nhất XML thành XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlt/" name="Hợp nhất XML thành XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltm/" name="Hợp nhất XML thành XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltx/" name="Hợp nhất XML thành XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xml/" name="Hợp nhất XML thành XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xps/" name="Hợp nhất XML thành XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-json/" name="Hợp nhất XML thành JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-jpeg/" name="Hợp nhất XML thành JPEG" description="JPEG Hình ảnh" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

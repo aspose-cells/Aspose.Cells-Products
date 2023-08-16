@@ -1,7 +1,8 @@
 ---
-title:  Führen Sie TABDELIMITED über C++ mit XPS zusammen
+title: TABDELIMITED mit XPS zusammenführen - TABDELIMITED mit XPS in C++ kombinieren
 url: /de/cpp/merger/merge-tabdelimited-to-xps/ 
-description: Führen Sie TABDELIMITED kostenlos online mit XPS zusammen. Kostenlose Online-TABDELIMITED zu XPS Fusion. Führen Sie TABDELIMITED mit Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS und mehr zusammen.
+description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung mit TABDELIMITED zum XPS-Speicherformat. C++ Kombinieren Sie TABDELIMITED mit dem Format XPS. TABDELIMITED mit XPS in C++ zusammenführen. TABDELIMITED zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to XPS in C++., Free Online C++ Merge TABDELIMITED to xps., C++ Combine TABDELIMITED to XPS Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie TABDELIMITED über C++ mit XPS zusammen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von TABDELIMITED mit XPS. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Führen Sie TABDELIMITED kostenlos online mit XPS zusammen. Kostenl
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit C++ zu XPS zusammen" %}}
 
- Wie füge ich TABDELIMITED mit XPS zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TABDELIMITED ganz einfach programmgesteuert mit ein paar Codezeilen in XPS zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+Wie füge ich TABDELIMITED mit XPS zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TABDELIMITED ganz einfach programmgesteuert mit ein paar Codezeilen in XPS zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TABDELIMITED mit XPS in C++ online kostenlos zusammen" %}}
 
-Das folgende Beispiel zeigt, wie TABDELIMITED in C++ mit XPS zusammengeführt wird.
+Das folgende Beispiel zeigt, wie TABDELIMITED mit XPS in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
 
 Befolgen Sie die einfachen Schritte, um TABDELIMITED mit XPS zusammenzuführen. Laden Sie Ihre Dateien hoch, rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf und speichern Sie sie dann in der Datei XPS. Wenn Sie Code in C++ entwickeln, ist dies einfacher, als es sich anhört. Siehe Beispiel C++, das TABDELIMITED mit XPS zusammenführt.
@@ -36,16 +37,18 @@ Befolgen Sie die einfachen Schritte, um TABDELIMITED mit XPS zusammenzuführen. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von TABDELIMITED mit XPS" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Kostenlos online, um TABDELIMITED mit XPS in C++ zusammenzuführen" InputFormat="tsv" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TABDELIMITED über C++ mit XPS zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie TABDELIMITED programmgesteuert mit XPS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installieren Sie „Aspose.Cells for C++“.
++ Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 + Laden Sie die TABDELIMITED-Datei mit der Workbook-Klasse.
 + Rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf.
 + Rufen Sie die Workbook.Save-Methode auf und übergeben Sie den Namen der Ausgabedatei als Parameter.
@@ -63,7 +66,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 1.  Installieren Sie a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installieren Sie die Bibliothek mithilfe der Ordner „Include“ und „lib“. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installieren Sie Aspose.Cells for C++ unter Linux. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installieren Sie Aspose.Cells for C++ unter Linux. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Das Dateiformat „Tabulatorgetrennte Werte“ (TSV) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Das Dateiformat, ähnlich CSV, wird zur strukturierten Organisation von Daten für den Import und Export zwischen verschiedenen Anwendungen verwendet. Das Format wird hauptsächlich für den Datenimport/-export und -austausch in Tabellenkalkulationsanwendungen und Datenbanken verwendet. Jeder Datensatz in einer TSV-Datei ist in einer einzelnen Zeile einer Textdatei enthalten, in der jeder Feldwert durch ein Tabulatorzeichen getrennt ist. Der Medientyp für das Dateiformat TSV ist Text/durch Tabulatoren getrennte Werte.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf den von Microsoft erstellten XML-Papierspezifikationen basieren. Sie wurde als Ersatz für das Dateiformat EMF entwickelt und ähnelt dem Dateiformat PDF, verwendet jedoch XML für Layout, Erscheinungsbild und Druckinformationen eines Dokuments . Tatsächlich ist es gerechtfertigter zu sagen, dass XPS ein Versuch von PDF ist, aber aus vielen Gründen nicht genügend Popularität als Eigentum von PDF erlangen konnte. Microsoft stellt ab Windows 7 standardmäßig den XPS Document Writer für die Erstellung von XPS-Dateien bereit. XPS-Dateien können generiert werden, indem beim Drucken des Dokuments der Drucker „Microsoft XPS Document Writer“ ausgewählt wird.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit C++ kann man auch tabulatorgetrennte Dateiformate mit vielen anderen Dateiformaten zusammenführen, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Webseitenarchivformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Durch Tabulatoren getrennte Werte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="TXT" description="Text dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="XLS" description="Excel-Binärformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Excel-Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Excel-Makro-fähige Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-docx/" name="Führen Sie TABDELIMITED mit DOCX zusammen" description="Microsoft Word-Dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED mit SQL zusammenführen" description="Strukturierte Abfragesprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-bmp/" name="Führen Sie TABDELIMITED mit BMP zusammen" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-emf/" name="Führen Sie TABDELIMITED mit EMF zusammen" description="Erweitertes Metadateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-gif/" name="Führen Sie TABDELIMITED mit GIF zusammen" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-html/" name="Führen Sie TABDELIMITED mit HTML zusammen" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-md/" name="TABDELIMITED mit MD zusammenführen" description="Markdown-Sprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-mhtml/" name="Führen Sie TABDELIMITED mit MHTML zusammen" description="Webseitenarchivformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-ods/" name="Führen Sie TABDELIMITED mit ODS zusammen" description="OpenDocument-Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-pdf/" name="Führen Sie TABDELIMITED mit PDF zusammen" description="Tragbares Dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-png/" name="Führen Sie TABDELIMITED mit PNG zusammen" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-svg/" name="Führen Sie TABDELIMITED mit SVG zusammen" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tiff/" name="Führen Sie TABDELIMITED mit TIFF zusammen" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="Führen Sie TABDELIMITED mit TSV zusammen" description="Durch Tabulatoren getrennte Werte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="Führen Sie TABDELIMITED mit TXT zusammen" description="Text dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="Führen Sie TABDELIMITED mit XLS zusammen" description="Excel-Binärformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsb/" name="Führen Sie TABDELIMITED mit XLSB zusammen" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsm/" name="Führen Sie TABDELIMITED mit XLSM zusammen" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsx/" name="Führen Sie TABDELIMITED mit XLSX zusammen" description="OOXML-Excel-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlt/" name="Führen Sie TABDELIMITED mit XLT zusammen" description="Microsoft Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltm/" name="Führen Sie TABDELIMITED mit XLTM zusammen" description="Excel-Makro-fähige Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltx/" name="Führen Sie TABDELIMITED mit XLTX zusammen" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED mit XML zusammenführen" description="Erweiterbare Auszeichnungssprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xps/" name="Führen Sie TABDELIMITED mit XPS zusammen" description="XML-Papierspezifikationen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-json/" name="Führen Sie TABDELIMITED mit JSON zusammen" description="JavaScript-Objekt-Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-jpeg/" name="Führen Sie TABDELIMITED mit JPEG zusammen" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

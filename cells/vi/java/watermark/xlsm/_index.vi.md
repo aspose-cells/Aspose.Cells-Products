@@ -13,7 +13,7 @@ description: Java mã mẫu để thêm hoặc xóa hình mờ vào tệp XLSM t
 
  Để tạo hình mờ cho tệp XLSM, chúng tôi sẽ sử dụng
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API là một nền tảng đánh dấu chìm nhiều tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
+ API là nền tảng đánh dấu chìm nhiều tính năng, mạnh mẽ và dễ sử dụng API for Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
 

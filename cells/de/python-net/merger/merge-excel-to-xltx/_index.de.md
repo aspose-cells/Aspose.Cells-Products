@@ -1,7 +1,8 @@
 ---
-title:  Führen Sie Excel über Python mit XLTX zusammen
+title: Excel mit XLTX zusammenführen – Excel mit XLTX in Python kombinieren
 url: /de/python-net/merger/merge-excel-to-xltx/ 
-description: Führen Sie Excel kostenlos online mit XLTX zusammen. Kostenlose Online-Fusion von Excel zu XLTX. Führen Sie Excel mit Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS und mehr zusammen.
+description: Aspose Excel. Python Aspose.Cells. Kostenlose Online-Zusammenführung von Excel in das XLTX-Speicherformat. Python Kombinieren Sie Excel mit dem Format XLTX. Excel mit XLTX in Python zusammenführen. EXCEL zusammenführen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLTX in Python., Free Online Python Merge EXCEL to xltx., Python Combine EXCEL to XLTX Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie Excel über Python mit XLTX zusammen" h2="Hochgeschwindigkeitsbibliothek Python zum Zusammenführen von EXCEL in XLTX. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige Software auf hohem Niveau in Python zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Führen Sie Excel kostenlos online mit XLTX zusammen. Kostenlose On
 
 {{% blocks/products/pf/agp/content h2="Excel mit XLTX unter Verwendung von Python zusammenführen" %}}
 
- Wie füge ich Excel mit XLTX zusammen? Mit der Bibliothek Aspose.Cells for Python können Sie EXCEL ganz einfach programmgesteuert und mit wenigen Codezeilen in XLTX zusammenführen.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate. Sie können Aspose.Cells for Python von installieren<a href="https://pypi.org/project/aspose-cells/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
+ Wie füge ich Excel mit XLTX zusammen? Mit der Bibliothek Aspose.Cells for Python via .NET können Sie Excel ganz einfach programmgesteuert mit ein paar Codezeilen in XLTX zusammenführen.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können Aspose.Cells for Python via .NET von installieren<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , verwenden Sie den Befehl als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Führen Sie Excel kostenlos mit XLTX in Python online zusammen" %}}
 
-Das folgende Beispiel zeigt, wie man Excel mit XLTX in Python zusammenführt.
+Das folgende Beispiel zeigt, wie man Excel mit XLTX in Aspose.Cells for Python via .NET zusammenführt.
 {{% blocks/products/pf/agp/text %}}
 
 Befolgen Sie die einfachen Schritte, um EXCEL mit XLTX zusammenzuführen. Laden Sie Ihre Dateien hoch, rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf und speichern Sie sie dann in der Datei XLTX. Wenn Sie Code in Python entwickeln, ist dies einfacher, als es sich anhört. Siehe Beispiel Python, das Excel mit XLTX zusammenführt.
@@ -27,16 +28,18 @@ Befolgen Sie die einfachen Schritte, um EXCEL mit XLTX zusammenzuführen. Laden 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von Excel mit XLTX" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Kostenlos online, um Excel mit XLTX in Python zusammenzuführen" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie Excel über Python mit XLTX zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie Excel programmgesteuert mit XLTX zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installieren Sie „Aspose.Cells for Python via .NET“.
++ Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 + Laden Sie die Excel-Datei mit der Workbook-Klasse.
 + Rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf.
 + Rufen Sie die Workbook.Save-Methode auf und übergeben Sie den Namen der Ausgabedatei als Parameter.
@@ -53,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX ist ein bekanntes Format für Microsoft Excel-Dokumente, das von Microsoft mit der Veröffentlichung von Microsoft Office 2007 eingeführt wurde. Das neue Format basiert auf einer Struktur, die gemäß den Open Packaging Conventions organisiert ist, wie in Teil 2 des OOXML-Standards ECMA-376 beschrieben ein Zip-Paket, das eine Reihe von XML-Dateien enthält. Die zugrunde liegende Struktur und die Dateien können durch einfaches Entpacken der .xlsx-Datei untersucht werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Dateien mit der Erweiterung .xltx stellen Microsoft Excel-Vorlagendateien dar, die auf den Office OpenXML-Dateiformatspezifikationen basieren. Es wird verwendet, um eine Standardvorlagendatei zu erstellen, die zum Generieren von XLSX-Dateien verwendet werden kann, die dieselben Einstellungen aufweisen wie in der Datei XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit Python kann man Excel auch mit vielen anderen Dateiformaten zusammenführen, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="MHTML" description="Webseitenarchivformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="TSV" description="Durch Tabulatoren getrennte Werte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="TXT" description="Text dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="XLS" description="Excel-Binärformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Excel-Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="XLTM" description="Excel-Makro-fähige Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="XLTX" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-docx/" name="Excel mit DOCX zusammenführen" description="Microsoft Word-Dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-sql/" name="Excel mit SQL zusammenführen" description="Strukturierte Abfragesprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-bmp/" name="Excel mit BMP zusammenführen" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-emf/" name="Excel mit EMF zusammenführen" description="Erweitertes Metadateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-gif/" name="Excel mit GIF zusammenführen" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="Excel mit HTML zusammenführen" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-md/" name="Excel mit MD zusammenführen" description="Markdown-Sprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="Excel mit MHTML zusammenführen" description="Webseitenarchivformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="Excel mit ODS zusammenführen" description="OpenDocument-Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-pdf/" name="Excel mit PDF zusammenführen" description="Tragbares Dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-png/" name="Excel mit PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-svg/" name="Excel mit SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tiff/" name="Excel mit TIFF zusammenführen" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="Excel mit TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="Excel mit TXT zusammenführen" description="Text dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="Excel mit XLS zusammenführen" description="Excel-Binärformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="Excel mit XLSB zusammenführen" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="Excel mit XLSM zusammenführen" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="Excel mit XLSX zusammenführen" description="OOXML-Excel-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="Excel mit XLT zusammenführen" description="Microsoft Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Excel mit XLTM zusammenführen" description="Excel-Makro-fähige Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Excel mit XLTX zusammenführen" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Excel mit XML zusammenführen" description="Erweiterbare Auszeichnungssprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Excel mit XPS zusammenführen" description="XML-Papierspezifikationen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Excel mit JSON zusammenführen" description="JavaScript-Objekt-Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Excel mit JPEG zusammenführen" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

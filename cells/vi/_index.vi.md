@@ -50,7 +50,7 @@ Dễ dàng chuyển đổi các tệp Excel Microsoft thành PDF, HTML, hình �
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="metadata" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Chỉ cần tải lên tệp Excel Microsoft của bạn để xem hoặc chỉnh sửa siêu dữ liệu của bảng tính từ bất kỳ trình duyệt nào. Không cần cài đặt hoặc công cụ bổ sung.
+ Chỉ cần tải lên tệp Excel Microsoft của bạn để xem hoặc chỉnh sửa siêu dữ liệu của bảng tính từ bất kỳ trình duyệt nào. Không cần cài đặt hoặc công cụ bổ sung.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Người xem" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Xem các tệp bảng tính bao gồm XLS, XLSX, XLSM, XLSB & ODS trong trình d
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Bộ sản phẩm và hỗ trợ Aspose là không ai sánh kịp. Chúng tôi không thể làm những gì chúng tôi đã làm nếu không có giải pháp này.
+Bộ sản phẩm và hỗ trợ Aspose là không ai sánh kịp. Chúng tôi không thể làm những gì chúng tôi đã làm nếu không có giải pháp này.
  <em>
  Tiến sĩ Dan Patterson | Sự nhạy bén, Vương quốc Anh
  </em>

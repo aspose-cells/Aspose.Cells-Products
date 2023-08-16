@@ -1,7 +1,7 @@
 ---
-title: Chuyển HTM sang MD Python via Python
-description: Chuyển đổi HTM sang MD trực tuyến miễn phí. Trình chuyển đổi HTM sang MD trực tuyến miễn phí. Python HTM đến MD. HTM đến MD qua Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM sang MD - Bộ chuyển đổi HTM sang MD trực tuyến
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển định dạng lưu HTM sang MD. Python Định dạng HTM sang MD. Lưu HTM đến MĐ Python nhé.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MD saveformat., Free Online HTM to MD Python., Python Convert HTM to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi HTM sang MD trong Python" h2="Thư viện chuyển HTM sang MD tốc độ cao Python. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm nền tảng độc lập cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Làm theo các bước đơn giản để chuyển đổi HTM sang MD. Tải lê
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi HTM sang MD trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi HTM sang MD trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi HTM sang MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python các nhà phát triển có thể dễ dàng tải và chuyển đổi HTM sang MD chỉ bằng một vài dòng mã.
+Cần chuyển đổi các tệp HTM sang MD theo chương trình? Python các nhà phát triển có thể dễ dàng tải và chuyển đổi HTM sang MD chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp HTM với phiên bản Sổ làm việc
-1.  Chuyển đổi HTM sang MD bằng cách gọi phương thức Workbook.save
+1.  Tải tệp HTM với phiên bản Sổ làm việc.
+1.  Chuyển HTM sang MD bằng cách gọi phương thức Workbook.save.
+1. Nhận kết quả chuyển đổi từ HTM sang MD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Các tệp có phần mở rộng .htm đại diện cho Ngôn ngữ đánh dấu siêu văn bản để tạo các trang web để hiển thị trong các trình duyệt web như Google Chrome, Internet Explorer, Firefox và một số trình duyệt khác. Nó xác định các đánh dấu để tạo các trang tĩnh được xuất bản trên World Wide Web (WWW) để người khác truy cập. Các đánh dấu này cho trình duyệt biết cách hiển thị nội dung của trang web. Các trang như vậy có thể chứa văn bản thuần túy, hình ảnh, siêu liên kết đến các trang khác, video và thông tin phương tiện khác. Khi một trang web được xuất bản, bạn có thể xem mã đánh dấu đằng sau nó bằng cách xem nguồn trang của nó. Các trình duyệt hiện đại cho phép kiểm tra từng phần của trang web nơi từng phần tử phân chia hoặc đánh dấu trong nguồn HTM được xây dựng.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Các tệp văn bản được tạo bằng phương ngữ ngôn ngữ Markdown được lưu với phần mở rộng tệp .md hoặc .MARKDOWN. Các tệp MD được lưu ở định dạng văn bản thuần sử dụng ngôn ngữ Markdown cũng bao gồm các ký hiệu văn bản nội tuyến, xác định cách định dạng văn bản, chẳng hạn như thụt lề, định dạng bảng, phông chữ và tiêu đề. Các tệp MD có thể được chuyển đổi thành HTML bằng chương trình có tên Markdown. Ngôn ngữ Markdown được phát hành bởi John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi HTM sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 

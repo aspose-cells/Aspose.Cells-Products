@@ -1,7 +1,7 @@
 ---
-title: Chuyển đổi XLSB thành JSON Python via Python
-description: Chuyển đổi XLSB thành JSON Trực tuyến Miễn phí. Bộ chuyển đổi XLSB sang JSON trực tuyến miễn phí. Python XLSB đến JSON. XLSB đến JSON qua Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB thành JSON - Bộ chuyển đổi XLSB thành JSON trực tuyến
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi XLSB thành JSON định dạng lưu. Python XLSB đến JSON định dạng. Lưu XLSB thành JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to JSON saveformat., Free Online XLSB to JSON Python., Python Convert XLSB to JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi XLSB thành JSON thành Python" h2="Thư viện Python tốc độ cao để chuyển đổi XLSB thành JSON. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Làm theo các bước đơn giản để chuyển đổi XLSB thành JSON. Tả
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLSB thành JSON trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XLSB thành JSON trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XLSB thành JSON" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python nhà phát triển có thể dễ dàng tải và chuyển đổi XLSB thành JSON chỉ trong một vài dòng mã.
+Cần chuyển đổi các tệp XLSB thành JSON theo chương trình? Python nhà phát triển có thể dễ dàng tải và chuyển đổi XLSB thành JSON chỉ trong một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp XLSB với phiên bản Sổ làm việc
-1.  Chuyển đổi XLSB thành JSON bằng cách gọi phương thức Workbook.save
+1.  Tải tệp XLSB với phiên bản Sổ làm việc.
+1.  Chuyển đổi XLSB thành JSON bằng cách gọi phương thức Workbook.save.
+1.  Lấy kết quả chuyển đổi từ XLSB thành JSON.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản hoặc cả số và văn bản, công thức, kết nối dữ liệu bên ngoài, biểu đồ và hình ảnh không có cấu trúc hoặc bán cấu trúc. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là định dạng tệp phổ biến nhất do người dùng chọn để lưu sổ làm việc. Nó có thể được mở bởi Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Ký hiệu đối tượng JavaScript) là một định dạng tệp tiêu chuẩn mở để chia sẻ dữ liệu sử dụng văn bản mà con người có thể đọc được để lưu trữ và truyền dữ liệu. Các tệp JSON được lưu trữ với phần mở rộng .json. JSON yêu cầu ít định dạng hơn và là một giải pháp thay thế tốt cho XML. JSON có nguồn gốc từ JavaScript nhưng là định dạng dữ liệu độc lập với ngôn ngữ. Việc tạo và phân tích cú pháp JSON được hỗ trợ bởi nhiều ngôn ngữ lập trình hiện đại. ứng dụng/json là loại phương tiện được sử dụng cho JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi XLSB sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 

@@ -18,7 +18,7 @@ description: Nối các tệp bảng tính Excel & OpenOffice chỉ bằng vài 
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Hợp nhất nhiều tệp Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) phương pháp hỗ trợ hợp nhất dữ liệu, kiểu dáng và công thức của tệp Excel sang một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)phương pháp hỗ trợ hợp nhất dữ liệu, kiểu dáng và công thức của tệp Excel sang một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm.
 {{% blocks/products/pf/feature-page-code h3="C# Mã để hợp nhất một số tệp Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

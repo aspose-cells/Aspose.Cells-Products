@@ -1,7 +1,8 @@
 ---
-title:  TSV über C++ mit WORD zusammenführen
+title: TSV mit WORD zusammenführen – Kombinieren Sie TSV mit WORD in C++
 url: /de/cpp/merger/merge-tsv-to-word/ 
-description: Führen Sie TSV kostenlos mit WORD Online zusammen. Kostenlos online TSV zur WORD-Fusion. TSV mit Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS und mehr zusammenführen.
+description: Aspose Excel. C++ Aspose.Cells. Kostenlose Online-Zusammenführung von TSV in das WORD-Speicherformat. C++ Kombinieren Sie TSV in das WORD-Format. TSV mit WORD in C++ zusammenführen. TSV Zusammenführen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TSV to WORD in C++., Free Online C++ Merge TSV to word., C++ Combine TSV to WORD Online for Free., TSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TSV über C++ mit WORD zusammenführen" h2="Hochgeschwindigkeitsbibliothek C++ zum Zusammenführen von TSV mit WORD. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in C++ zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="TSV" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Führen Sie TSV kostenlos mit WORD Online zusammen. Kostenlos onlin
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TSV mit C++ in WORD zusammen" %}}
 
- Wie füge ich TSV mit WORD zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TSV mit wenigen Codezeilen ganz einfach programmgesteuert in WORD zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
+Wie füge ich TSV mit WORD zusammen? Mit der Bibliothek Aspose.Cells for C++ können Sie TSV mit wenigen Codezeilen ganz einfach programmgesteuert in WORD zusammenführen.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. C++ Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt herunterladen, indem Sie sie einfach öffnen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Paketmanager, suchen Sie nach Aspose.Cells.Cpp und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Befehl" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Führen Sie TSV kostenlos online in C++ mit WORD zusammen" %}}
 
-Das folgende Beispiel zeigt, wie TSV in C++ mit WORD zusammengeführt wird.
+Das folgende Beispiel zeigt, wie TSV mit WORD in Aspose.Cells for C++ zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
 
 Befolgen Sie die einfachen Schritte, um TSV in WORD zusammenzuführen. Laden Sie Ihre Dateien hoch, rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf und speichern Sie sie dann in einer WORD-Datei. Wenn Sie Code in C++ entwickeln, ist dies einfacher, als es sich anhört. Siehe Beispiel C++, das TSV mit WORD zusammenführt.
@@ -36,16 +37,18 @@ Befolgen Sie die einfachen Schritte, um TSV in WORD zusammenzuführen. Laden Sie
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose App zum Online-Zusammenführen von TSV mit WORD" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Kostenlos online zum Zusammenführen von TSV mit WORD in C++" InputFormat="tsv" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie TSV über C++ mit WORD zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie TSV programmgesteuert mit WORD zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installieren Sie „Aspose.Cells for C++“.
++ Fügen Sie Ihrem C++-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 + Laden Sie die Datei TSV mit der Workbook-Klasse.
 + Rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf.
 + Rufen Sie die Workbook.Save-Methode auf und übergeben Sie den Namen der Ausgabedatei als Parameter.
@@ -63,7 +66,7 @@ Es gibt drei Möglichkeiten, „Aspose.Cells for C++“ auf Ihrem System zu inst
 
 1.  Installieren Sie a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installieren Sie die Bibliothek mithilfe der Ordner „Include“ und „lib“. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installieren Sie Aspose.Cells for C++ unter Linux. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installieren Sie Aspose.Cells for C++ unter Linux. Sehen[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Das Dateiformat „Tabulatorgetrennte Werte“ (TSV) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Das Dateiformat, ähnlich CSV, wird zur strukturierten Organisation von Daten für den Import und Export zwischen verschiedenen Anwendungen verwendet. Das Format wird hauptsächlich für den Datenimport/-export und -austausch in Tabellenkalkulationsanwendungen und Datenbanken verwendet. Jeder Datensatz in einer TSV-Datei ist in einer einzelnen Zeile einer Textdatei enthalten, in der jeder Feldwert durch ein Tabulatorzeichen getrennt ist. Der Medientyp für das Dateiformat TSV ist Text/durch Tabulatoren getrennte Werte.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX ist ein bekanntes Format für Microsoft Word-Dokumente. Ab 2007 mit der Veröffentlichung von Microsoft Office 2007 eingeführt, wurde die Struktur dieses neuen Dokumentformats von einem reinen Binärformat in eine Kombination aus XML- und Binärdateien geändert. Docx-Dateien können mit Word 2007 und späteren Versionen geöffnet werden, jedoch nicht mit früheren Versionen von MS Word, die DOC-Dateierweiterungen unterstützen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit C++ kann man TSV auch in viele andere Dateiformate zusammenführen, darunter." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-mhtml/" name="MHTML" description="Webseitenarchivformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-tsv/" name="TSV" description="Durch Tabulatoren getrennte Werte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-txt/" name="TXT" description="Text dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xls/" name="XLS" description="Excel-Binärformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlt/" name="XLT" description="Microsoft Excel-Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xltm/" name="XLTM" description="Excel-Makro-fähige Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xltx/" name="XLTX" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-docx/" name="TSV zu DOCX zusammenführen" description="Microsoft Word-Dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-sql/" name="TSV mit SQL zusammenführen" description="Strukturierte Abfragesprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-bmp/" name="TSV zu BMP zusammenführen" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-emf/" name="TSV zu EMF zusammenführen" description="Erweitertes Metadateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-gif/" name="TSV zu GIF zusammenführen" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-html/" name="TSV zu HTML zusammenführen" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-md/" name="TSV mit MD zusammenführen" description="Markdown-Sprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-mhtml/" name="TSV zu MHTML zusammenführen" description="Webseitenarchivformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-ods/" name="TSV zu ODS zusammenführen" description="OpenDocument-Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-pdf/" name="TSV zu PDF zusammenführen" description="Tragbares Dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-png/" name="TSV zu PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-svg/" name="TSV zu SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-tiff/" name="TSV zu TIFF zusammenführen" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-tsv/" name="TSV zu TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-txt/" name="TSV zu TXT zusammenführen" description="Text dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xls/" name="TSV zu XLS zusammenführen" description="Excel-Binärformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsb/" name="TSV zu XLSB zusammenführen" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsm/" name="TSV zu XLSM zusammenführen" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlsx/" name="TSV zu XLSX zusammenführen" description="OOXML-Excel-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xlt/" name="TSV zu XLT zusammenführen" description="Microsoft Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xltm/" name="TSV zu XLTM zusammenführen" description="Excel-Makro-fähige Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xltx/" name="TSV zu XLTX zusammenführen" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xml/" name="TSV in XML zusammenführen" description="Erweiterbare Auszeichnungssprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-xps/" name="TSV zu XPS zusammenführen" description="XML-Papierspezifikationen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-json/" name="TSV zu JSON zusammenführen" description="JavaScript-Objekt-Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tsv-to-jpeg/" name="TSV zu JPEG zusammenführen" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

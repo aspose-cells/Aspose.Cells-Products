@@ -1,7 +1,8 @@
 ---
-title:  Ghép CSV thành XLSB qua C#
+title: Hợp nhất CSV thành XLSB - Hợp nhất CSV thành XLSB thành C#
 url: /vi/net/merger/merge-csv-to-xlsb/ 
-description: Hợp nhất CSV thành XLSB Trực tuyến miễn phí. Trực tuyến miễn phí CSV đến XLSB Sáp nhập. Hợp nhất CSV thành Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS và hơn thế nữa.
+description: Aspose Excel. C# Aspose.Cells. Hợp nhất trực tuyến miễn phí CSV thành XLSB saveformat. C# Kết hợp định dạng CSV thành XLSB. Hợp nhất CSV thành XLSB thành C#. CSV Hợp nhất.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XLSB in C#., Free Online C# Merge CSV to xlsb., C# Combine CSV to XLSB Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ghép CSV thành XLSB qua C#" h2="Thư viện C# tốc độ cao để hợp nhất CSV thành XLSB. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong C#. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất Excel, CSV, OpenOffice, PDF, HTML, image và nhiều định dạng excel khác." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,25 +28,27 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất CSV thành XLSB trong C# Trực tuyến Miễn phí" %}}
 
-Ví dụ sau minh họa cách hợp nhất CSV thành XLSB trong C#.
+Ví dụ sau minh họa cách hợp nhất CSV thành XLSB trong Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để hợp nhất CSV thành XLSB. Tải tệp của bạn lên, gọi phương thức Workbook.Combine để hợp nhất tệp rồi lưu vào tệp XLSB. Nếu bạn phát triển mã trong C#, điều này sẽ đơn giản hơn bạn tưởng. Xem ví dụ C# hợp nhất CSV thành XLSB.
+Làm theo các bước đơn giản để hợp nhất CSV thành XLSB. Tải các tệp của bạn lên, gọi phương thức Workbook.Combine để hợp nhất các tệp rồi lưu vào tệp XLSB. Nếu bạn phát triển mã trong C#, điều này sẽ đơn giản hơn bạn tưởng. Xem ví dụ C# hợp nhất CSV thành XLSB.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất CSV thành XLSB trực tuyến" InputFormat="csv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Hợp nhất trực tuyến miễn phí CSV thành XLSB trong C#" InputFormat="csv" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất CSV thành XLSB qua C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
+ Cần hợp nhất CSV thành XLSB theo chương trình? Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Cài đặt 'Aspose.Cells for .NET'.
++ Thêm tham chiếu thư viện (nhập thư viện) vào dự án C# của bạn.
 + Nạp tệp CSV với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
 + Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
@@ -62,7 +65,7 @@ Có hai tùy chọn thay thế để cài đặt "Aspose.Cells for .NET" vào h�
 {{% /blocks/products/pf/agp/text %}}
 
 1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Cài đặt thư viện bằng cách sử dụng[Bảng điều khiển quản lý gói](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)trong Visual Studio IDE
+1.  Cài đặt thư viện bằng cách sử dụng[Bảng điều khiển quản lý gói](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) trong Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API của chúng tôi được hỗ trợ trên tất cả các nền tảng và
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Các tệp có phần mở rộng .csv (Các giá trị được phân tách bằng dấu phẩy) đại diện cho các tệp văn bản thuần túy chứa các bản ghi dữ liệu có các giá trị được phân tách bằng dấu phẩy. Mỗi dòng trong tệp CSV là một bản ghi mới từ tập hợp các bản ghi có trong tệp. Các tệp như vậy được tạo khi dự định truyền dữ liệu từ hệ thống lưu trữ này sang hệ thống lưu trữ khác. Vì tất cả các ứng dụng có thể nhận dạng các bản ghi được phân tách bằng dấu phẩy nên việc nhập các tệp dữ liệu đó vào cơ sở dữ liệu được thực hiện rất thuận tiện. Hầu như tất cả các ứng dụng bảng tính như Microsoft Excel hoặc OpenOffice Calc đều có thể nhập CSV mà không cần nỗ lực nhiều. Dữ liệu được nhập từ các tệp đó được sắp xếp trong các ô của bảng tính để trình bày cho người dùng.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Định dạng tệp XLSB chỉ định Định dạng tệp nhị phân Excel, là tập hợp các bản ghi và cấu trúc chỉ định nội dung sổ làm việc Excel. Nội dung có thể bao gồm các bảng số, văn bản hoặc cả số và văn bản, công thức, kết nối dữ liệu bên ngoài, biểu đồ và hình ảnh không có cấu trúc hoặc bán cấu trúc. Không giống như XLSX (dựa trên định dạng tệp Open XML), XLSB đại diện cho tệp sổ làm việc Excel nhị phân. Các tệp XLSB có thể được đọc và ghi nhanh hơn, giúp chúng hữu ích khi làm việc với các tệp lớn. XLSB hiếm khi được sử dụng để lưu trữ sổ làm việc vì XLSX (và trước đây là XLS) là định dạng tệp phổ biến nhất do người dùng chọn để lưu sổ làm việc. Nó có thể được mở bởi Microsoft Office 2007 trở lên.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng C#, Người ta cũng có thể hợp nhất csv thành nhiều định dạng tệp khác bao gồm." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-html/" name="HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-mhtml/" name="MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tsv/" name="TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-txt/" name="TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsm/" name="XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltm/" name="XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltx/" name="XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-docx/" name="Hợp nhất CSV đến DOCX" description="Microsoft Văn bản Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-sql/" name="Hợp nhất CSV với SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-bmp/" name="Hợp nhất CSV đến BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-emf/" name="Hợp nhất CSV đến EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-gif/" name="Hợp nhất CSV đến GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-html/" name="Hợp nhất CSV đến HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-md/" name="Hợp nhất CSV để MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-mhtml/" name="Hợp nhất CSV đến MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-ods/" name="Hợp nhất CSV đến ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-pdf/" name="Hợp nhất CSV đến PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-png/" name="Hợp nhất CSV đến PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-svg/" name="Hợp nhất CSV đến SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tiff/" name="Hợp nhất CSV đến TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tsv/" name="Hợp nhất CSV đến TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-txt/" name="Hợp nhất CSV đến TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xls/" name="Hợp nhất CSV đến XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsb/" name="Hợp nhất CSV đến XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsm/" name="Hợp nhất CSV đến XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsx/" name="Hợp nhất CSV đến XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlt/" name="Hợp nhất CSV đến XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltm/" name="Hợp nhất CSV đến XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltx/" name="Hợp nhất CSV đến XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xml/" name="Hợp nhất CSV thành XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xps/" name="Hợp nhất CSV đến XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-json/" name="Hợp nhất CSV đến JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-jpeg/" name="Hợp nhất CSV đến JPEG" description="JPEG Hình ảnh" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

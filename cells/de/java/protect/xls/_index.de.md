@@ -1,5 +1,5 @@
 ---
-title:  XLS Dokument via Java schützen und verriegeln
+title: XLS Dokument via Java schützen und verriegeln
 weight: 5070
 description: Java Beispielcode zum Sperren der Datei XLS mit Passwort in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 ---

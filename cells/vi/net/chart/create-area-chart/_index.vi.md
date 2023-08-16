@@ -39,7 +39,7 @@ Chỉ cần đảm bảo rằng hệ thống có Microsoft Windows hoặc HĐH t
 -  Ngoài ra, hãy tải trình cài đặt MSI ngoại tuyến hoặc tất cả các tệp DLL trong tệp ZIP từ<a href="https://downloads.aspose.com/cells/net">lượt tải xuống</a>
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng cách sử dụng C#." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng C#." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "88c9872508ec3150c552eb5155edf06e" "Examples-CSharp-Charts-CreateAreaChart.cs" >}}
 

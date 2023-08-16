@@ -13,7 +13,7 @@ description: Java Beispielcode zum Hinzufügen oder Entfernen von Wasserzeichen 
 
  Um die Datei XLSM mit einem Wasserzeichen zu versehen, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, eine funktionsreiche, leistungsstarke und einfach zu verwendende Wasserzeichen-Plattform. Sie können die neueste Version direkt von herunterladen
+ API, eine funktionsreiche, leistungsstarke und einfach zu verwendende Wasserzeichen-Plattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 

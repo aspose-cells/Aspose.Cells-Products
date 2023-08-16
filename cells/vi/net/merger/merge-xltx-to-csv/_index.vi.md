@@ -1,7 +1,8 @@
 ---
-title:  Ghép XLTX thành CSV qua C#
+title: Hợp nhất XLTX thành CSV - Hợp nhất XLTX thành CSV thành C#
 url: /vi/net/merger/merge-xltx-to-csv/ 
-description: Hợp nhất XLTX thành CSV Trực tuyến miễn phí. Trực tuyến miễn phí XLTX đến CSV Sáp nhập. Hợp nhất XLTX thành Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS và hơn thế nữa.
+description: Aspose Excel. C# Aspose.Cells. Hợp nhất trực tuyến miễn phí XLTX thành CSV saveformat. C# Kết hợp định dạng XLTX thành CSV. Hợp nhất XLTX thành CSV thành C#. XLTX Hợp nhất.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to CSV in C#., Free Online C# Merge XLTX to csv., C# Combine XLTX to CSV Online for Free., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ghép XLTX thành CSV qua C#" h2="Thư viện C# tốc độ cao để hợp nhất XLTX thành CSV. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm độc lập nền tảng, cấp cao trong C#. Đây là giải pháp phần mềm chuyên nghiệp để nhập và xuất Excel, CSV, OpenOffice, PDF, HTML, image và nhiều định dạng excel khác." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,25 +28,27 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Hợp nhất XLTX thành CSV trong C# Trực tuyến Miễn phí" %}}
 
-Ví dụ sau minh họa cách hợp nhất XLTX thành CSV trong C#.
+Ví dụ sau minh họa cách hợp nhất XLTX thành CSV trong Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để hợp nhất XLTX thành CSV. Tải tệp của bạn lên, gọi phương thức Workbook.Combine để hợp nhất tệp rồi lưu vào tệp CSV. Nếu bạn phát triển mã trong C#, điều này sẽ đơn giản hơn bạn tưởng. Xem ví dụ C# hợp nhất XLTX thành CSV.
+Làm theo các bước đơn giản để hợp nhất XLTX thành CSV. Tải các tệp của bạn lên, gọi phương thức Workbook.Combine để hợp nhất các tệp rồi lưu vào tệp CSV. Nếu bạn phát triển mã trong C#, điều này sẽ đơn giản hơn bạn tưởng. Xem ví dụ C# hợp nhất XLTX thành CSV.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ứng dụng miễn phí để hợp nhất XLTX thành CSV trực tuyến" InputFormat="xltx" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Hợp nhất trực tuyến miễn phí XLTX thành CSV trong C#" InputFormat="xltx" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất XLTX thành CSV qua C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
+ Cần hợp nhất XLTX thành CSV theo chương trình? Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Cài đặt 'Aspose.Cells for .NET'.
++ Thêm tham chiếu thư viện (nhập thư viện) vào dự án C# của bạn.
 + Nạp tệp XLTX với lớp Workbook.
 + Gọi phương thức Workbook.Combine để ghép file.
 + Gọi phương thức Workbook.Save và truyền tên tệp đầu ra dưới dạng tham số.
@@ -62,7 +65,7 @@ Có hai tùy chọn thay thế để cài đặt "Aspose.Cells for .NET" vào h�
 {{% /blocks/products/pf/agp/text %}}
 
 1.  cài đặt một[NuGet Gói](https://www.nuget.org/packages/Aspose.Cells/) . Nhìn thấy[Tài liệu](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Cài đặt thư viện bằng cách sử dụng[Bảng điều khiển quản lý gói](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)trong Visual Studio IDE
+1.  Cài đặt thư viện bằng cách sử dụng[Bảng điều khiển quản lý gói](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) trong Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API của chúng tôi được hỗ trợ trên tất cả các nền tảng và
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Các tệp có phần mở rộng .xltx đại diện cho các tệp Mẫu Excel Microsoft dựa trên các đặc tả định dạng tệp Office OpenXML. Nó được sử dụng để tạo một tệp mẫu tiêu chuẩn có thể được sử dụng để tạo các tệp XLSX thể hiện các cài đặt giống như được chỉ định trong tệp XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Các tệp có phần mở rộng .csv (Các giá trị được phân tách bằng dấu phẩy) đại diện cho các tệp văn bản thuần túy chứa các bản ghi dữ liệu có các giá trị được phân tách bằng dấu phẩy. Mỗi dòng trong tệp CSV là một bản ghi mới từ tập hợp các bản ghi có trong tệp. Các tệp như vậy được tạo khi dự định truyền dữ liệu từ hệ thống lưu trữ này sang hệ thống lưu trữ khác. Vì tất cả các ứng dụng có thể nhận dạng các bản ghi được phân tách bằng dấu phẩy nên việc nhập các tệp dữ liệu đó vào cơ sở dữ liệu được thực hiện rất thuận tiện. Hầu như tất cả các ứng dụng bảng tính như Microsoft Excel hoặc OpenOffice Calc đều có thể nhập CSV mà không cần nỗ lực nhiều. Dữ liệu được nhập từ các tệp đó được sắp xếp trong các ô của bảng tính để trình bày cho người dùng.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng hợp nhất được hỗ trợ khác" subTitle="Sử dụng C#, Người ta cũng có thể hợp nhất xltx với nhiều định dạng tệp khác bao gồm." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-html/" name="HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-mhtml/" name="MHTML" description="Định dạng lưu trữ trang web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-ods/" name="ODS" description="Tệp bảng tính OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tsv/" name="TSV" description="Các giá trị được phân tách bằng tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-txt/" name="TXT" description="Dữ liệu văn bản" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xls/" name="XLS" description="Định dạng nhị phân Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsb/" name="XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsm/" name="XLSM" description="Tệp bảng tính" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsx/" name="XLSX" description="Tệp Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlt/" name="XLT" description="Microsoft Mẫu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltm/" name="XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltx/" name="XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-docx/" name="Hợp nhất XLTX đến DOCX" description="Microsoft Văn bản Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-sql/" name="Hợp nhất XLTX với SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-bmp/" name="Hợp nhất XLTX đến BMP" description="Hình ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-emf/" name="Hợp nhất XLTX đến EMF" description="Định dạng siêu tệp nâng cao" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-gif/" name="Hợp nhất XLTX đến GIF" description="Định dạng trao đổi đồ họa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-html/" name="Hợp nhất XLTX đến HTML" description="Ngôn ngữ đánh dấu siêu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-md/" name="Hợp nhất XLTX để MD" description="ngôn ngữ đánh dấu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-mhtml/" name="Hợp nhất XLTX đến MHTML" description="Định dạng lưu trữ trang web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-ods/" name="Hợp nhất XLTX đến ODS" description="Tệp bảng tính OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-pdf/" name="Hợp nhất XLTX đến PDF" description="Định dạng tài liệu di động" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-png/" name="Hợp nhất XLTX đến PNG" description="Biểu đồ minh họa mạng lưới không dây" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-svg/" name="Hợp nhất XLTX đến SVG" description="Đồ họa Vector có thể mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tiff/" name="Hợp nhất XLTX đến TIFF" description="Định dạng hình ảnh được gắn thẻ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tsv/" name="Hợp nhất XLTX đến TSV" description="Các giá trị được phân tách bằng tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-txt/" name="Hợp nhất XLTX đến TXT" description="Dữ liệu văn bản" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xls/" name="Hợp nhất XLTX đến XLS" description="Định dạng nhị phân Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsb/" name="Hợp nhất XLTX đến XLSB" description="Tệp sổ làm việc Excel nhị phân" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsm/" name="Hợp nhất XLTX đến XLSM" description="Tệp bảng tính" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsx/" name="Hợp nhất XLTX đến XLSX" description="Tệp Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlt/" name="Hợp nhất XLTX đến XLT" description="Microsoft Mẫu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltm/" name="Hợp nhất XLTX đến XLTM" description="Mẫu hỗ trợ Macro Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltx/" name="Hợp nhất XLTX đến XLTX" description="Mẫu Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xml/" name="Hợp nhất XLTX thành XML" description="Ngôn ngữ đánh dấu mở rộng" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xps/" name="Hợp nhất XLTX đến XPS" description="Thông số kỹ thuật giấy XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-json/" name="Hợp nhất XLTX đến JSON" description="Ký hiệu đối tượng JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-jpeg/" name="Hợp nhất XLTX đến JPEG" description="JPEG Hình ảnh" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

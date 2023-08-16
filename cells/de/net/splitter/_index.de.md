@@ -28,7 +28,7 @@ description: C# Quellcodes, die erklären, wie Microsoft Excel-Dateien in mehrer
 
 {{% blocks/products/pf/feature-page-section h2="Teilen Sie das Excel-Arbeitsblatt in Bereiche auf" %}}
 
- Für die Aufteilung des Arbeitsblattfensters in Bereiche bietet API[Split-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) der Arbeitsblattklasse, die die geteilte Ansicht des Arbeitsblatts bereitstellt. Um die geteilte Ansicht zu entfernen, bietet API an[RemoveSplit-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Speichern Sie es abschließend in einem angegebenen Pfad.
+ Für die Aufteilung des Arbeitsblattfensters in Bereiche ist API vorgesehen[Split-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)der Arbeitsblattklasse, die die geteilte Ansicht des Arbeitsblatts bereitstellt. Um die geteilte Ansicht zu entfernen, bietet API an[RemoveSplit-Methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Speichern Sie es abschließend in einem angegebenen Pfad.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Teilen des Excel-Arbeitsblattfensters" %}}
 

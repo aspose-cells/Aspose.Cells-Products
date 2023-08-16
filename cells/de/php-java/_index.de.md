@@ -12,7 +12,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for PHP via Java ist eine skalierbare und funktionsreiche Excel-Tabellenverwaltung und -verarbeitung API. Anwendungen können die Konvertierung von Tabellenformaten, die Verwaltung und Darstellung von Diagrammen, die Implementierung von Formeln, die Formatierung von Arbeitsblättern bis zur detailliertesten Ebene und vieles mehr durchführen. API unterstützt XLS, XLSX, ODS, SpreadsheetML, CSV, Tabulatorgetrennt, HTML/MHTML, PDF, XPS und andere Formate. Entwickler können ganz einfach die Möglichkeit hinzufügen, Excel-Dateien in ihren PHP-Anwendungen zu erstellen, zu bearbeiten, zu konvertieren und zu rendern, während sie die JavaBridge verwenden.
+ Aspose.Cells for PHP via Java ist eine skalierbare und funktionsreiche Excel-Tabellenverwaltung und -verarbeitung API. Anwendungen können die Konvertierung von Tabellenformaten, die Verwaltung und Darstellung von Diagrammen, die Implementierung von Formeln, die Formatierung von Arbeitsblättern bis zur detailliertesten Ebene und vieles mehr durchführen. API Unterstützung XLS, XLSX, ODS, SpreadsheetML, CSV, Tab Grenit, HTML/MHTML, PDF, 0761133333333333333333333333333333333333333. Entwickler können ganz einfach die Möglichkeit hinzufügen, Excel-Dateien in ihren PHP-Anwendungen zu erstellen, zu bearbeiten, zu konvertieren und zu rendern, während sie die JavaBridge verwenden.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: PHP Excel-Tabelle API zum Lesen, Schreiben und Konvertieren von XLS
  Arbeitsblatt in Bild konvertieren
     </li>
     <li>
-Konvertieren Sie die Tabellenkalkulation in PDF
+ Konvertieren Sie die Tabellenkalkulation in PDF
     </li>
    </ul>
   </div>

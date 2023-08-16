@@ -1,5 +1,5 @@
 ---
-title: Sửa file XLSX via .NET
+title:  Sửa file XLSX via .NET
 description: C# mã nguồn để chỉnh sửa tài liệu XLSX trên .NET Framework, .NET Core, Windows Azure, Mono hoặc Nền tảng Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ---
-title: Fügen Sie PivotTable in Microsoft Excel XLS-Dateien über C# ein
+title:  Fügen Sie PivotTable in Microsoft Excel XLS-Dateien über C# ein
 weight: 7690
 description: C# Beispielcode zum Generieren von XLS-Dokumenten mit PivotTable. Verwenden Sie diesen Code zum Erstellen von Micorsoft Excel XLS-Dateien mit PivotTable in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
 ---
@@ -22,7 +22,7 @@ description: C# Beispielcode zum Generieren von XLS-Dokumenten mit PivotTable. V
 
 {{% blocks/products/pf/agp/text %}}
 
- Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tabellenformat XLS in unterschiedliche Berichtsanwendungen zur Datenverarbeitung einzufügen.
+Für die Entwickler ist es einfach, in nur wenigen Codezeilen PivotTables im Tabellenformat XLS in unterschiedliche Berichtsanwendungen zur Datenverarbeitung einzufügen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Beispielcode zum Generieren von XLS-Dokumenten mit PivotTable. V
 1.  Greifen Sie auf das erste Arbeitsblatt der Arbeitsmappe zu.
 1.  Holen Sie sich die gewünschte(n) Zelle(n) des Arbeitsblatts und geben Sie den Wert in die Zelle(n) ein.
 1.  Fügen Sie eine PivotTable ein und legen Sie den Stil fest
-1.  Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLS-Datei zu speichern.
+1. Verwenden Sie die Save-Methode, um die Arbeitsmappe als XLS-Datei zu speichern.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

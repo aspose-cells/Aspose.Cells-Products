@@ -1,7 +1,8 @@
 ---
-title:  Führen Sie FODS mit den Nummern via Java zusammen
+title: FODS mit NUMBERS zusammenführen – FODS mit NUMBERS in Java kombinieren
 url: /de/java/merger/merge-fods-to-numbers/ 
-description: Führen Sie FODS kostenlos mit NUMBERS Online zusammen. Kostenlos online FODS zur NUMBERS-Fusion. FODS mit Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS und mehr zusammenführen.
+description: Aspose Excel. Java Aspose.Cells. Kostenlose Online-Zusammenführung von FODS in das NUMBERS-Speicherformat. Java Kombinieren Sie FODS mit dem Zahlenformat. FODS zu NUMBERS in Java zusammenführen. FODS Zusammenführen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to NUMBERS in Java., Free Online Java Merge FODS to numbers., Java Combine FODS to NUMBERS Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Führen Sie FODS mit den Nummern via Java zusammen" h2="Hochgeschwindigkeitsbibliothek Java zum Zusammenführen von FODS mit NUMBERS. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Java zu entwickeln. Dies ist eine professionelle Softwarelösung zum Importieren und Exportieren von Excel, CSV, OpenOffice, PDF, HTML, image und vielen anderen Excel-Formaten." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Führen Sie FODS kostenlos mit NUMBERS Online zusammen. Kostenlos o
 
 {{% blocks/products/pf/agp/content h2="Führen Sie FODS mit Java zu NUMBERS zusammen" %}}
 
- Wie füge ich FODS mit NUMBERS zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie FODS mit wenigen Codezeilen ganz einfach programmgesteuert in NUMBERS zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+ Wie füge ich FODS mit NUMBERS zusammen? Mit der Bibliothek Aspose.Cells for Java können Sie FODS mit wenigen Codezeilen ganz einfach programmgesteuert in NUMBERS zusammenführen.[Aspose.Cells for Java](https://products.aspose.com/cells/java) ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Java Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate. Sie können die neueste Version direkt von herunterladen[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Führen Sie FODS kostenlos mit NUMBERS Online zusammen. Kostenlos o
 
 {{% blocks/products/pf/agp/content h2="Führen Sie FODS kostenlos mit NUMBERS in Java online zusammen" %}}
 
-Das folgende Beispiel zeigt, wie FODS mit NUMBERS in Java zusammengeführt wird.
+Das folgende Beispiel zeigt, wie FODS mit NUMBERS in Aspose.Cells for Java zusammengeführt wird.
 {{% blocks/products/pf/agp/text %}}
 
 Befolgen Sie die einfachen Schritte, um FODS mit NUMBERS zusammenzuführen. Laden Sie Ihre Dateien hoch, rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf und speichern Sie sie dann in der NUMBERS-Datei. Wenn Sie Code in Java entwickeln, ist dies einfacher, als es sich anhört. Siehe Beispiel Java, das FODS mit NUMBERS zusammenführt.
@@ -55,16 +56,18 @@ Befolgen Sie die einfachen Schritte, um FODS mit NUMBERS zusammenzuführen. Lade
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Kostenlose App zum Zusammenführen von FODS mit NUMMERN online" InputFormat="fods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Kostenlos online, um FODS mit NUMMERN in Java zusammenzuführen" InputFormat="fods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="So führen Sie FODS mit den Nummern via Java zusammen" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+ Müssen Sie FODS programmgesteuert mit NUMBERS zusammenführen? Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installieren Sie „Aspose.Cells for Java“.
++ Fügen Sie Ihrem Java-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
 + Laden Sie die Datei FODS mit der Workbook-Klasse.
 + Rufen Sie die Workbook.Combine-Methode zum Zusammenführen von Dateien auf.
 + Rufen Sie die Workbook.Save-Methode auf und übergeben Sie den Namen der Ausgabedatei als Parameter.
@@ -97,21 +100,41 @@ Unsere APIs werden auf allen wichtigen Plattformen und Betriebssystemen unterst�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Eine Datei mit der Erweiterung .fods ist eine Art OpenDocument Spreadsheet-Dokumentformat, das Daten in Zeilen und Spalten speichert. Das Format ist Teil der von OASIS veröffentlichten und verwalteten ODF 1.2-Spezifikationen. FODS-Dateien können nicht mit Excel, einer anderen Tabellenkalkulationssoftwareanwendung von Microsoft, geöffnet werden. FODS-Dateien können mit LibreOffice als ODS gespeichert und in andere Formate wie XLS und XLSX konvertiert werden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Die Dateien mit der Erweiterung .numbers werden als Tabellenkalkulationsdateityp klassifiziert und ähneln daher den .xlsx-Dateien. aber die Numbers-Dateien werden mit der Tabellenkalkulationssoftware Apple iWork Numbers erstellt. Das Apple iWork Numbers ist eine Unit-Software der iWork Productivity Suite. Die iWork Productivity Suite entspricht der Microsoft Office Suite, die auf Windows PCs verwendet wird. Daher können wir sagen, dass die für MacOS verfügbare Numbers auch ein Konkurrent von Microsoft Excel ist. Ebenso kann die NUMBERS-Datei, Microsoft Excel, auch Tabellen, Diagramme und Formeln enthalten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Zusammenführungsformate" subTitle="Mit Java kann man Dateien auch in viele andere Dateiformate zusammenführen, einschließlich." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="MHTML" description="Webseitenarchivformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="ODS" description="OpenDocument-Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="TSV" description="Durch Tabulatoren getrennte Werte" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="TXT" description="Text dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="XLS" description="Excel-Binärformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="XLSB" description="Binäre Excel-Arbeitsmappendatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="XLSM" description="Tabellenkalkulationsdatei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="XLSX" description="OOXML-Excel-Datei" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Excel-Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="XLTM" description="Excel-Makro-fähige Vorlage" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="XLTX" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-docx/" name="FODS zu DOCX zusammenführen" description="Microsoft Word-Dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-sql/" name="FODS mit SQL zusammenführen" description="Strukturierte Abfragesprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-bmp/" name="FODS zu BMP zusammenführen" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-emf/" name="FODS zu EMF zusammenführen" description="Erweitertes Metadateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-gif/" name="FODS zu GIF zusammenführen" description="Grafisches Austauschformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="FODS zu HTML zusammenführen" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-md/" name="FODS mit MD zusammenführen" description="Markdown-Sprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="FODS zu MHTML zusammenführen" description="Webseitenarchivformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="FODS zu ODS zusammenführen" description="OpenDocument-Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-pdf/" name="FODS zu PDF zusammenführen" description="Tragbares Dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-png/" name="FODS zu PNG zusammenführen" description="Tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-svg/" name="FODS zu SVG zusammenführen" description="Skalierbare Vektorgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tiff/" name="FODS zu TIFF zusammenführen" description="Markiertes Bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="FODS zu TSV zusammenführen" description="Durch Tabulatoren getrennte Werte" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="FODS zu TXT zusammenführen" description="Text dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="FODS zu XLS zusammenführen" description="Excel-Binärformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="FODS zu XLSB zusammenführen" description="Binäre Excel-Arbeitsmappendatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="FODS zu XLSM zusammenführen" description="Tabellenkalkulationsdatei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="FODS zu XLSX zusammenführen" description="OOXML-Excel-Datei" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="FODS zu XLT zusammenführen" description="Microsoft Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="FODS zu XLTM zusammenführen" description="Excel-Makro-fähige Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="FODS zu XLTX zusammenführen" description="Office OpenXML Excel-Vorlage" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xml/" name="FODS in XML zusammenführen" description="Erweiterbare Auszeichnungssprache" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xps/" name="FODS zu XPS zusammenführen" description="XML-Papierspezifikationen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-json/" name="FODS zu JSON zusammenführen" description="JavaScript-Objekt-Notation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-jpeg/" name="FODS zu JPEG zusammenführen" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

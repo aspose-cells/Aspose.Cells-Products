@@ -1,7 +1,7 @@
 ---
-title: Chuyển PRN sang PDF Python via Python
-description: Chuyển đổi PRN sang PDF Trực tuyến Miễn phí. Bộ chuyển đổi trực tuyến miễn phí PRN sang PDF. Python PRN đến PDF. PRN đến PDF qua Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN sang PDF - Bộ chuyển đổi PRN sang PDF trực tuyến
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi định dạng PRN thành PDF. Python định dạng PRN đến PDF. Lưu PRN vào PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to PDF saveformat., Free Online PRN to PDF Python., Python Convert PRN to PDF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển đổi PRN thành PDF trong Python" h2="Thư viện Python tốc độ cao để chuyển đổi PRN thành PDF. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm nền tảng, cấp độ cao độc lập trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Làm theo các bước đơn giản để chuyển đổi PRN thành PDF. Tải 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi PRN thành PDF trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi PRN thành PDF trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi PRN sang PDF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python các nhà phát triển có thể dễ dàng tải và chuyển đổi PRN thành PDF chỉ bằng một vài dòng mã.
+Cần chuyển đổi các tệp PRN thành PDF theo chương trình? Python các nhà phát triển có thể dễ dàng tải và chuyển đổi PRN thành PDF chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp PRN với phiên bản Sổ làm việc
-1.  Chuyển đổi PRN thành PDF bằng cách gọi phương thức Workbook.save
+1.  Tải tệp PRN với phiên bản Sổ làm việc.
+1.  Chuyển đổi PRN thành PDF bằng cách gọi phương thức Workbook.save.
+1.  Lấy kết quả chuyển đổi từ PRN sang PDF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Tệp PRN là tệp được tạo bằng cách sử dụng hộp kiểm In thành tệp xuất hiện trong một số hộp thoại In trên Windows. Tệp này chứa một bộ hướng dẫn dành riêng cho thiết bị mà máy in, máy fax hoặc thiết bị khác sử dụng để in tài liệu. Các tệp PRN có thể chứa văn bản hoặc nội dung nhị phân, tùy thuộc vào thiết bị mà tệp được tạo.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Định dạng Tài liệu Di động (PDF) là một loại tài liệu được Adobe tạo ra vào những năm 1990. Mục đích của định dạng tệp này là giới thiệu một tiêu chuẩn để trình bày tài liệu và tài liệu tham khảo khác ở định dạng độc lập với phần mềm ứng dụng, phần cứng cũng như Hệ điều hành. Định dạng tệp PDF có đầy đủ khả năng chứa thông tin như văn bản, hình ảnh, siêu liên kết, trường biểu mẫu, đa phương tiện, chữ ký số, tệp đính kèm, siêu dữ liệu, tính năng Không gian địa lý và đối tượng 3D trong đó có thể trở thành một phần của tài liệu nguồn.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi PRN sang nhiều định dạng tệp khác, bao gồm một số định dạng được liệt kê bên dưới." >}}
 

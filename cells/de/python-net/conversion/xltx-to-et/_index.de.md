@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie XLTX in ET Python via Python
-description: Konvertieren Sie XLTX kostenlos online in ET. Kostenloser Online-Konverter von XLTX zu ET. Python XLTX bis ET. XLTX an ET über Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+title: Python XLTX zu ET - Online XLTX zu ET Konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie XLTX in das ET-Speicherformat. Python XLTX in das ET-Format. Speichern Sie XLTX in ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to ET saveformat., Free Online XLTX to ET Python., Python Convert XLTX to ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie XLTX in ET in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von XLTX in ET. Nutzen Sie unsere Excel-Konvertierung API, um in Python hochwertige, plattformunabhängige Software zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie XLTX in ET in Python" %}}
 
- Wie konvertiere ich XLTX in ET? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie XLTX mit wenigen Codezeilen problemlos programmgesteuert in ET konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate.
+ Wie konvertiere ich XLTX in ET? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie XLTX mit wenigen Codezeilen problemlos programmgesteuert in ET konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Befolgen Sie die einfachen Schritte, um XLTX in ET umzuwandeln. Laden Sie Ihre X
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLTX in ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von XLTX in ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie XLTX in ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-Entwickler können XLTX in nur wenigen Codezeilen problemlos laden und in ET konvertieren.
+Müssen Sie XLTX-Dateien programmgesteuert in ET konvertieren? Python-Entwickler können XLTX in nur wenigen Codezeilen problemlos laden und in ET konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei XLTX mit einer Instanz von Workbook
-1.  Konvertieren Sie XLTX in ET, indem Sie die Methode Workbook.save aufrufen
+1.  Laden Sie die Datei XLTX mit einer Instanz von Workbook.
+1.  Konvertieren Sie XLTX in ET, indem Sie die Methode Workbook.save aufrufen.
+1.  Erhalten Sie das Konvertierungsergebnis von XLTX in ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
+ Aspose.Cells for Python über NET ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System vorhanden ist[Python](https://www.python.org/downloads/) 3,7 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Dateien mit der Erweiterung .xltx stellen Microsoft Excel-Vorlagendateien dar, die auf den Office OpenXML-Dateiformatspezifikationen basieren. Es wird verwendet, um eine Standardvorlagendatei zu erstellen, die zum Generieren von XLSX-Dateien verwendet werden kann, die dieselben Einstellungen aufweisen wie in der Datei XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Eine ET-Datei ist eine von Easiteach erstellte Unterrichtsstunde, ein Programm, das es Lehrern ermöglicht, Unterrichtsstunden zu entwickeln und diese über eine interaktive Schnittstelle bereitzustellen. Es enthält Unterrichtsdaten wie Layouts, Navigation, Bilder, Text, Themen und Animationen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können XLTX auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie SXC in MHTML Python via Python
-description: Konvertieren Sie SXC kostenlos online in MHTML. Kostenloser Online-Konverter von SXC zu MHTML. Python SXC bis MHTML. SXC bis MHTML über Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC zu MHTML - Online-Konverter von SXC zu MHTML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie SXC in das Speicherformat MHTML. Python SXC bis MHTML Format. Speichern Sie SXC bis MHTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MHTML saveformat., Free Online SXC to MHTML Python., Python Convert SXC to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie SXC in MHTML in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von SXC in MHTML. Verwenden Sie unsere Excel-Konvertierung API, um plattformunabhängige High-Level-Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie SXC in MHTML in Python" %}}
 
- Wie konvertiere ich SXC in MHTML? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie SXC mit wenigen Codezeilen problemlos programmgesteuert in MHTML konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate.
+ Wie konvertiere ich SXC in MHTML? Mit Aspose.Cells for Python über die NET-Bibliothek können Sie SXC mit wenigen Codezeilen problemlos programmgesteuert in MHTML konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Befolgen Sie die einfachen Schritte, um SXC in MHTML zu konvertieren. Laden Sie 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von SXC in MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Kostenlose App und Beispielcode zum Online-Konvertieren von SXC in MHTML" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie SXC in MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-Entwickler können SXC in nur wenigen Codezeilen problemlos laden und in MHTML konvertieren.
+Müssen Sie SXC-Dateien programmgesteuert in MHTML konvertieren? Python-Entwickler können SXC problemlos in nur wenigen Codezeilen laden und in MHTML konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die Datei SXC mit einer Instanz von Workbook
-1.  Konvertieren Sie SXC in MHTML, indem Sie die Methode Workbook.save aufrufen
+1.  Laden Sie die Datei SXC mit einer Instanz von Workbook.
+1.  Konvertieren Sie SXC in MHTML, indem Sie die Methode Workbook.save aufrufen.
+1.  Erhalten Sie das Konvertierungsergebnis von SXC in MHTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
+ Aspose.Cells for Python über NET ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System vorhanden ist[Python](https://www.python.org/downloads/) 3,7 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Das Dateiformat SXC (Sun XML Calc) gehört zu einer Office-Suite namens OpenOffice.org. Dieses Format erfüllt im Allgemeinen die Tabellenkalkulationsanforderungen der Benutzer, da es sich um ein XML-basiertes Tabellenkalkulationsdateiformat handelt. Das Format SXC unterstützt Formeln, Funktionen, Makros und Diagramme sowie DataPilot. Dies ist eine unglaubliche Funktion, da es die importierten Rohdaten automatisch individualisiert und Zusammenfassungen bereitstellt. Die mit dieser Software erstellten Dateien werden mit der Erweiterung .sxc gespeichert.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Dateien mit der Erweiterung MHTML stellen ein Webseitenarchivformat dar, das von verschiedenen Anwendungen erstellt werden kann. Das Format wird als Archivformat bezeichnet, da es den Webcode und die zugehörigen Ressourcen in einer einzigen Datei speichert. Zu diesen Ressourcen gehört alles, was mit der Webseite verknüpft ist, beispielsweise Bilder, Applets, Animationen, Audiodateien usw. MHTML-Dateien können in einer Vielzahl von Anwendungen wie Internet Explorer und Microsoft Word geöffnet werden. Microsoft Windows verwendet das Dateiformat MHTML zum Aufzeichnen von Problemszenarien, die bei der Verwendung einer Anwendung unter Windows beobachtet wurden und Probleme aufwerfen. Das Dateiformat MHTML kodiert den Seiteninhalt ähnlich den in message/rfc822 definierten Spezifikationen, bei denen es sich um Klartext-E-Mail-bezogene Spezifikationen handelt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können SXC auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 

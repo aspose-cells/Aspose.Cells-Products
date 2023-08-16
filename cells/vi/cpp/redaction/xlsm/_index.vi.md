@@ -1,7 +1,7 @@
 ---
 title:  Tìm kiếm và thay thế văn bản trong tài liệu XLSM qua C++
 weight: 9570
-description: C++ mã ví dụ để sắp xếp lại thông tin nhạy cảm trong tệp XLSM trên Môi trường thời gian chạy C++ cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
+description: C++ để biên tập lại thông tin nhạy cảm trong tệp XLSM trên Môi trường thời gian chạy C++ cho Windows 32 bit, Windows 64 bit và Linux 64 bit.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Viết lại XLSM Định dạng trong C++" h2="Bản gốc và hiệu suất cao XLSM ghi lại thông tin biên tập nhạy cảm bằng cách sử dụng API Aspose.Cells for C++ phía máy chủ mà không cần sử dụng bất kỳ phần mềm nào như Microsoft hoặc Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

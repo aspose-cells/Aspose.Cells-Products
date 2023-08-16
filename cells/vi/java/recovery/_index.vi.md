@@ -10,7 +10,7 @@ description: Sửa tệp excel bị hỏng bằng Java. Công cụ khôi phục 
 
 {{% blocks/products/pf/agp/content h2="Sửa tệp EXCEL bằng Java" %}}
 
- Để sửa chữa tệp EXCEL, chúng tôi sẽ sử dụng[Aspose.Cells for Java](https://products.aspose.com/cells/java) API là một nền tảng thao tác tài liệu API for Java giàu tính năng, mạnh mẽ và dễ sử dụng.
+ Để sửa chữa tệp EXCEL, chúng tôi sẽ sử dụng[Aspose.Cells for Java](https://products.aspose.com/cells/java)API là một nền tảng thao tác tài liệu API for Java giàu tính năng, mạnh mẽ và dễ sử dụng.
  
  Aspose.Cells API có thể được sử dụng để tạo, chỉnh sửa, chuyển đổi và hiển thị Microsoft định dạng Excel sang các định dạng khác nhau. Hơn nữa, nó có thể được sử dụng để lập biểu đồ toàn diện, báo cáo có thể mở rộng và tính toán đáng tin cậy trong các ứng dụng phần mềm. Aspose.Cells là một API độc lập và nó không yêu cầu bất kỳ phần mềm nào như Microsoft hoặc OpenOffice.
 
@@ -20,7 +20,7 @@ description: Sửa tệp excel bị hỏng bằng Java. Công cụ khôi phục 
 
 {{% blocks/products/pf/agp/content h2="Cách sửa file excel bằng Java" %}}
 
-Định nghĩa lớp kế thừa Aspose.Cells.IWarningCallback.
++ Định nghĩa lớp kế thừa Aspose.Cells.IWarningCallback.
 + Nạp file EXCEL bằng cách tạo một thể hiện của Workbook, sử dụng lớp kế thừa ở trên, tham khảo đoạn mã trên.
 + Cứu sổ làm việc, file excel bị lỗi sẽ được sửa chữa.
 

@@ -1,5 +1,5 @@
 ---
-title:  XLSX Dokument via .NET schützen und verriegeln
+title: XLSX Dokument via .NET schützen und verriegeln
 weight: 90
 description: C#-Quellcode zum Sperren der XLSX-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
 ---

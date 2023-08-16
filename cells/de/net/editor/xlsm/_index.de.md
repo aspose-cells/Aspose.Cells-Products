@@ -1,5 +1,5 @@
 ---
-title: Bearbeiten Sie die Dateien XLSM via .NET
+title:  Bearbeiten Sie die Dateien XLSM via .NET
 description: C# Quellcode zum Bearbeiten von XLSM Dokumenten auf .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

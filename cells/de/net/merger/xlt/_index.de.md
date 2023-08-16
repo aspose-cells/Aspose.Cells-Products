@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
+Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for .NET](https://products.aspose.com/cells/net) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre XLT-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort zusammengeführt und verkettet." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
- Dateien mit der Erweiterung .XLT sind Vorlagendateien, die mit Microsoft Excel erstellt wurden, einer Tabellenkalkulationsanwendung, die Teil der Office-Suite Microsoft ist. Microsoft Office 97-2003 unterstützte das Erstellen neuer XLT Dateien sowie das Öffnen dieser Dateien. Die neueste Version von Excel ist immer noch in der Lage, diese Vorlagendateien im alten Format zu öffnen. Eine solche Vorlagendatei wird verwendet, um schnell neue Excel-Dateien mit Standarddaten und -einstellungen wie Seitenformatierung, Schriftgröße, Rändern, Diagrammen usw. zu erstellen, die dann als neue .XLS-Dateien gespeichert werden können.
+ Dateien mit der Erweiterung .XLT sind Vorlagendateien, die mit Microsoft Excel erstellt wurden, einer Tabellenkalkulationsanwendung, die Teil der Office-Suite Microsoft ist. Microsoft Office 97-2003 unterstützte das Erstellen neuer XLT Dateien sowie das Öffnen dieser Dateien. Die neueste Version von Excel ist immer noch in der Lage, diese Vorlagendateien im alten Format zu öffnen. Eine solche Vorlagendatei wird verwendet, um schnell neue Excel-Dateien mit Standarddaten und -einstellungen wie Seitenformatierung, Schriftgröße, Rändern, Diagrammen usw. zu erstellen, die weiter als neue .XLS-Dateien gespeichert werden können.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

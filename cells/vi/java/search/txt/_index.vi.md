@@ -58,7 +58,7 @@ description: Java mã mẫu để tìm kiếm các từ có mẫu trong tệp TX
 {{% /blocks/products/pf/agp/text %}}
 
 + Tải tệp TXT bằng cách khởi tạo đối tượng Workbook.
-Truy cập trang tính đầu tiên trong tệp TXT.
++ Truy cập trang tính đầu tiên trong tệp TXT.
 + Tìm ô chứa công thức xác định.
 + Khởi tạo FindOptions.
 + Tìm ô chứa giá trị chuỗi

@@ -198,7 +198,7 @@ Aspose.Cells for Java ist eine ausgereifte und funktionsreiche Bibliothek, die v
      <b>
       Numbers:
      </b>
- Apples iWork Office Suite Numbers App-Dokumente
+ App-Dokumente der iWork-Office-Suite Numbers von Apple
     </li>
     <li>
      SXC, FODS

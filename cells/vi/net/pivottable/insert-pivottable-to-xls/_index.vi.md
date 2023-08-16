@@ -1,5 +1,5 @@
 ---
-title: Chèn PivotTable vào tệp Micorsoft Excel XLS qua C#
+title:  Chèn PivotTable vào tệp Micorsoft Excel XLS qua C#
 weight: 7690
 description: C# Mã mẫu để tạo tài liệu XLS với PivotTable. Sử dụng mã này để tạo tệp Micorsoft Excel XLS với PivotTable trong VB.NET, Asp.NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
@@ -22,7 +22,7 @@ description: C# Mã mẫu để tạo tài liệu XLS với PivotTable. Sử d�
 
 {{% blocks/products/pf/agp/text %}}
 
- Các nhà phát triển có thể dễ dàng chèn bảng tính PivotTable ở định dạng XLS trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ bằng một vài dòng mã.
+Các nhà phát triển có thể dễ dàng chèn bảng tính PivotTable ở định dạng XLS trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Mã mẫu để tạo tài liệu XLS với PivotTable. Sử d�
 1.  Truy cập trang tính đầu tiên của sổ làm việc.
 1.  Lấy (các) ô mong muốn của trang tính và đặt giá trị vào (các) ô đó.
 1.  Chèn PivotTable và đặt kiểu
-1.  Sử dụng phương pháp Lưu để lưu sổ làm việc dưới dạng tệp XLS.
+1. Sử dụng phương pháp Lưu để lưu sổ làm việc dưới dạng tệp XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

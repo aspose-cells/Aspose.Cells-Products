@@ -16,7 +16,7 @@ description: Verarbeiten Sie Excel-Dateiformate über die Node.js-Bibliothek. Le
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java unterstützt die gängigsten Tabellenkalkulationsformate, einschließlich XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java unterstützt die gängigsten Tabellenkalkulationsformate, einschließlich XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Verarbeiten Sie Excel-Dateiformate über die Node.js-Bibliothek. Le
  Arbeitsblatt in Bild konvertieren
     </li>
     <li>
-Konvertieren Sie die Tabellenkalkulation in PDF
+ Konvertieren Sie die Tabellenkalkulation in PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Konvertieren Sie die Tabellenkalkulation in PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Erstellen &amp; Kommentare und Kommentare manipulieren Hyperlinks
+Erstellen &amp; Kommentare und Kommentare manipulieren Hyperlinks
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Konvertieren Sie die Tabellenkalkulation in PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Bearbeiten und aktualisieren Sie Pivot-Tabellen über API
+ Bearbeiten und aktualisieren Sie Pivot-Tabellen über API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Bearbeiten und aktualisieren Sie Pivot-Tabellen über API
  Flexible Anzeigeoptionen
     </h2>
     <p>
- Aspose.Cells for Node.js via Java bietet vollständige Kontrolle über die Seiteneinrichtung des Arbeitsblatts. Sie können die Anzeigeoptionen des Arbeitsblatts wie Seitenausrichtung, Umbrüche, Größe, Skalierung, Kopfzeilen, Fußzeilen und Zoomstufe manipulieren. Darüber hinaus können Entwickler die Datensichtbarkeit mithilfe des Druckbereichs steuern und Fenster einfrieren, um sie an die Anwendungsspezifikationen anzupassen.
+Aspose.Cells for Node.js via Java bietet vollständige Kontrolle über die Seiteneinrichtung des Arbeitsblatts. Sie können die Anzeigeoptionen des Arbeitsblatts wie Seitenausrichtung, Umbrüche, Größe, Skalierung, Kopfzeilen, Fußzeilen und Zoomstufe manipulieren. Darüber hinaus können Entwickler die Datensichtbarkeit mithilfe des Druckbereichs steuern und Fenster einfrieren, um sie an die Anwendungsspezifikationen anzupassen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Bearbeiten und aktualisieren Sie Pivot-Tabellen über API
  Sicherheitsoptionen
     </h2>
     <p>
-Aspose.Cells for Node.js via Java bietet eine breite Palette an Sicherheitsfunktionen, einschließlich Tabellenkalkulationsverschlüsselung/-entschlüsselung, Inhalts-, Objekt- und Sicherheitsfunktionen. Szenarioschutz sowie die Möglichkeit, Zeilen, Spalten und Spalten ein- und auszublenden. Arbeitsblätter.
+ Aspose.Cells for Node.js via Java bietet eine breite Palette an Sicherheitsfunktionen, einschließlich Tabellenkalkulationsverschlüsselung/-entschlüsselung, Inhalts-, Objekt- und Sicherheitsfunktionen. Szenarioschutz sowie die Möglichkeit, Zeilen, Spalten und Spalten ein- und auszublenden. Arbeitsblätter.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java bietet eine breite Palette an Sicherheitsfunkt
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Umfassende Unterstützung für die Formatierung von Arbeitsblättern
+Umfassende Unterstützung für die Formatierung von Arbeitsblättern
     </h2>
     <p>
-Aspose.Cells for Node.js via Java bietet erweiterte Formatierungsfunktionen, mit denen Sie die Darstellung Ihrer Daten steuern können. Sie können Formatierungen auf ein Arbeitsblatt, eine Spalte, eine Zeile oder eine Zelle anwenden oder Rich Text zu einer einzelnen Zelle hinzufügen, Rahmen anwenden, Hintergrundmuster und Schriftarten festlegen. Die API ermöglicht auch das Hinzufügen, Bearbeiten &amp; Berechnen Sie bedingte Formatierungsregeln im Handumdrehen.
+ Aspose.Cells for Node.js via Java bietet erweiterte Formatierungsfunktionen, mit denen Sie die Darstellung Ihrer Daten steuern können. Sie können Formatierungen auf ein Arbeitsblatt, eine Spalte, eine Zeile oder eine Zelle anwenden oder Rich Text zu einer einzelnen Zelle hinzufügen, Rahmen anwenden, Hintergrundmuster und Schriftarten festlegen. Die API ermöglicht auch das Hinzufügen, Bearbeiten &amp; Berechnen Sie bedingte Formatierungsregeln im Handumdrehen.
     </p>
    </div>
    <div class="col-lg-12">

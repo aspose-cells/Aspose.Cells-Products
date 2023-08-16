@@ -13,7 +13,7 @@ description: C# để tìm kiếm các từ có mẫu trong tệp XLS trên .NET
 
  Để tìm kiếm tệp XLS, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API là một tính năng phong phú, mạnh mẽ và dễ sử dụng để tìm kiếm tài liệu API cho nền tảng C#. Mở
+API là một tính năng phong phú, mạnh mẽ và dễ sử dụng để tìm kiếm tài liệu API cho nền tảng C#. Mở
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  quản lý gói, tìm kiếm
  **Aspose.Cells** 

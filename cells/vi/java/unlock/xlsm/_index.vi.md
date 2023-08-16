@@ -13,7 +13,7 @@ description: Java mã mẫu để mở khóa tệp XLSM được bảo vệ bằ
 
  Để mở khóa tệp XLSM, chúng tôi sẽ sử dụng
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API là một nền tảng bảo vệ API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
+ API là một nền tảng bảo vệ API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
 
@@ -57,7 +57,7 @@ API là một nền tảng bảo vệ API for Java giàu tính năng, mạnh m�
 
 1.  Khởi tạo lớp Workbook với đường dẫn đến tệp XLSM được bảo vệ
 1.  Lấy giá trị mặc định hoặc bất kỳ Bảng tính nào để xóa bảo vệ
-1.  Loại bỏ bảo vệ Worksheet bằng phương pháp Worksheet.Unprotect
+1.  Loại bỏ bảo vệ Worksheet bằng phương thức Worksheet.Unprotect
 1.  Xóa bảo vệ Workbook bằng phương thức Workbook.Unprotect
 1.  Lưu kết quả ở định dạng XLSM
 

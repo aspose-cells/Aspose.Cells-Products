@@ -1,5 +1,5 @@
 ---
-title: Bearbeiten Sie die Dateien XLT via .NET
+title:  Bearbeiten Sie die Dateien XLT via .NET
 description: C# Quellcode zum Bearbeiten von XLT Dokumenten auf .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anschließend speichern und herunterladen." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
- Dateien mit der Erweiterung .XLT sind Vorlagendateien, die mit Microsoft Excel erstellt wurden, einer Tabellenkalkulationsanwendung, die Teil der Office-Suite Microsoft ist. Microsoft Office 97-2003 unterstützte das Erstellen neuer XLT Dateien sowie das Öffnen dieser Dateien. Die neueste Version von Excel ist immer noch in der Lage, diese Vorlagendateien im alten Format zu öffnen. Eine solche Vorlagendatei wird verwendet, um schnell neue Excel-Dateien mit Standarddaten und -einstellungen wie Seitenformatierung, Schriftgröße, Rändern, Diagrammen usw. zu erstellen, die dann als neue .XLS-Dateien gespeichert werden können.
+ Dateien mit der Erweiterung .XLT sind Vorlagendateien, die mit Microsoft Excel erstellt wurden, einer Tabellenkalkulationsanwendung, die Teil der Office-Suite Microsoft ist. Microsoft Office 97-2003 unterstützte das Erstellen neuer XLT Dateien sowie das Öffnen dieser Dateien. Die neueste Version von Excel ist immer noch in der Lage, diese Vorlagendateien im alten Format zu öffnen. Eine solche Vorlagendatei wird verwendet, um schnell neue Excel-Dateien mit Standarddaten und -einstellungen wie Seitenformatierung, Schriftgröße, Rändern, Diagrammen usw. zu erstellen, die weiter als neue .XLS-Dateien gespeichert werden können.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

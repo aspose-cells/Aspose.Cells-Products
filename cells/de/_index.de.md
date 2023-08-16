@@ -45,12 +45,12 @@ Einfach zu verwendendes Java SDK zur Kommunikation mit Aspose.Cells Cloud-APIs f
 
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Keine Code-Apps enthalten" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells " title="Wandlung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells " title="Konvertierung" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/cells/conversion" >}}
 Konvertieren Sie ganz einfach Microsoft Excel-Dateien in PDF, HTML, Bilder und viele andere gängige Dateiformate, ohne Ihren Lieblingsbrowser zu verlassen.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadaten" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Laden Sie einfach Ihre Excel-Datei Microsoft hoch, um die Metadaten der Tabelle in jedem Browser anzuzeigen oder zu bearbeiten. Keine Installation oder zusätzliche Werkzeuge erforderlich.
+ Laden Sie einfach Ihre Excel-Datei Microsoft hoch, um die Metadaten der Tabelle in jedem Browser anzuzeigen oder zu bearbeiten. Keine Installation oder zusätzliche Werkzeuge erforderlich.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Zuschauer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Zeigen Sie Tabellenkalkulationsdateien einschließlich XLS, XLSX, XLSM, XLSB und
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Die Produktsuite und der Support von Aspose sind unübertroffen. Ohne diese Lösung hätten wir das, was wir getan haben, nicht geschafft.
+Die Produktsuite und der Support von Aspose sind unübertroffen. Ohne diese Lösung hätten wir das, was wir getan haben, nicht geschafft.
  <em>
  Dr. Dan Patterson | Acumen, Großbritannien
  </em>

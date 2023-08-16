@@ -18,7 +18,7 @@ description: Python Mã mẫu để tạo Biểu đồ cột sang Excel bằng T
 
 {{% blocks/products/pf/agp/text %}}
 
-Các nhà phát triển có thể dễ dàng tạo biểu đồ Cột trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ trong một vài dòng mã.
+Các nhà phát triển có thể dễ dàng tạo biểu đồ Cột trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 

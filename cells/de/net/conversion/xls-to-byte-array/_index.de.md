@@ -11,7 +11,7 @@ description: C# Beispielcode für die Konvertierung von XLS in Byte-Array. Verwe
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array ist hilfreich für die Datenverarbeitung oder -speicherung. Sie können die Datei XLS sowohl in ein Byte-Array als auch in eine konvertieren**Byte-Array bis XLS**Dokument mit der Sprache C#. Um XLS in ein Byte-Array umzuwandeln, verwenden wir
+ Byte Array ist hilfreich für die Datenverarbeitung oder -speicherung. Sie können die Datei XLS sowohl in ein Byte-Array als auch in eine konvertieren**Byte-Array bis XLS** Dokument mit der Sprache C#. Um XLS in ein Byte-Array umzuwandeln, verwenden wir
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, das verschiedene Funktionen für die Dokumentenbearbeitung und -konvertierung mithilfe der Plattform .NET bietet.
 {{% /blocks/products/pf/agp/content %}}

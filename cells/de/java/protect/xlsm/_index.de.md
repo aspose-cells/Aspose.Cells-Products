@@ -1,5 +1,5 @@
 ---
-title:  XLSM Dokument via Java schützen und verriegeln
+title: XLSM Dokument via Java schützen und verriegeln
 weight: 9620
 description: Java Beispielcode zum Sperren der Datei XLSM mit Passwort in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 ---

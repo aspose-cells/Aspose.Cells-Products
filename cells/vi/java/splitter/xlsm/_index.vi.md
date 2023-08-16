@@ -13,7 +13,7 @@ description: Java mã mẫu để tách các tài liệu XLSM trên Java Môi tr
 
  Để tách tệp XLSM, chúng tôi sẽ sử dụng
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API là nền tảng bộ chia API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
+ API là nền tảng bộ chia API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
 

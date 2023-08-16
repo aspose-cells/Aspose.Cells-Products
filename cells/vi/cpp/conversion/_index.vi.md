@@ -6,7 +6,7 @@ description: Chuyển đổi Excel XLS, XLSX, ODS, CSV thành PDF, XPS, HTML, JP
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Chuyển đổi tài liệu Excel qua C++" h2="Lưu Microsoft<sup>&reg;</sup> tệp Excel dưới dạng bảng tính, web, hình ảnh và định dạng bố cục cố định" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Đối với bất kỳ ứng dụng hoặc giải pháp chuyển đổi bảng tính nào,**C++ Thư Viện Excel**tăng tốc quá trình mã hóa, tự động hóa và chuyển đổi trong khi xử lý nhiều tệp bao gồm XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Nó cũng cho phép * chuyển đổi Excel sang PDF**, XPS, HTML, MHTML, Đồng bằng Văn bản và hình ảnh phổ biến như JPG, TIFF, PNG, BMP và SVG.
+ Đối với bất kỳ ứng dụng hoặc giải pháp chuyển đổi bảng tính nào,**C++ Thư Viện Excel** tăng tốc quá trình mã hóa, tự động hóa và chuyển đổi trong khi xử lý nhiều tệp bao gồm XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Nó cũng cho phép * chuyển đổi Excel sang PDF**, XPS, HTML, MHTML, Đồng Bằng Văn bản và hình ảnh phổ biến như JPG, TIFF, PNG, BMP và SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi giữa các định dạng Excel Microsoft" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi định dạng Excel thành PDF với Cài đặt mức tuân thủ" %}}
- C++ Tự động hóa Excel API hỗ trợ chuyển đổi Sổ làm việc thành PDF cũng như hỗ trợ cài đặt mức độ tuân thủ và ngày tạo. Các nhà phát triển có thể sử dụng[IPdfSaveTùy chọn](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) cùng với[Aspose::Cells::Kết xuất](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)để đặt tuân thủ PDF. Để chuyển đổi, phương thức lưu API có PdfSaveOptions làm tham số và đường dẫn tệp đầu ra được chỉ định.
+ C++ Excel Automation API hỗ trợ chuyển đổi Workbook thành PDF cũng như hỗ trợ cài đặt mức độ tuân thủ và ngày tạo. Các nhà phát triển có thể sử dụng[IPdfSaveTùy chọn](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) cùng với[Aspose::Cells::Kết xuất](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) để đặt tuân thủ PDF. Để chuyển đổi, phương thức lưu API có PdfSaveOptions làm tham số và đường dẫn tệp đầu ra được chỉ định.
 {{% blocks/products/pf/feature-page-code h3="C++ Mã mẫu cho Chuyển đổi Excel thành PDF" %}}
 
 ```cs

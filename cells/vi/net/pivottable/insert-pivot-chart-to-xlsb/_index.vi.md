@@ -1,5 +1,5 @@
 ---
-title:  Chèn Biểu đồ Pivot trong các tệp Micorsoft Excel XLSB qua C#
+title: Chèn Biểu đồ Pivot trong các tệp Micorsoft Excel XLSB qua C#
 weight: 7690
 description: C# Mã mẫu để tạo tài liệu XLSB với biểu đồ trục. Sử dụng mã này để tạo các tệp Micorsoft Excel XLSB với biểu đồ trục trong VB.NET, Asp.NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
@@ -22,7 +22,7 @@ description: C# Mã mẫu để tạo tài liệu XLSB với biểu đồ trục
 
 {{% blocks/products/pf/agp/text %}}
 
-Các nhà phát triển có thể dễ dàng chèn Biểu đồ Pivot trong bảng tính định dạng XLSB trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ trong một vài dòng mã.
+ Các nhà phát triển có thể dễ dàng chèn Biểu đồ Pivot trong bảng tính định dạng XLSB trong khi chạy các ứng dụng báo cáo khác nhau để xử lý dữ liệu chỉ trong một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Các nhà phát triển có thể dễ dàng chèn Biểu đồ Pivot trong bả
 1.  Lấy (các) ô mong muốn của trang tính và đặt giá trị vào (các) ô đó.
 1.  Chèn PivotTable và đặt kiểu
 1.  Chèn Biểu đồ Pivot bằng cách sử dụng dữ liệu của PivotTable
-1.  Sử dụng phương pháp Lưu để lưu sổ làm việc dưới dạng tệp XLSB.
+1. Sử dụng phương pháp Lưu để lưu sổ làm việc dưới dạng tệp XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

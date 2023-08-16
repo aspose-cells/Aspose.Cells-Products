@@ -53,7 +53,7 @@ PM> Install-Package Aspose.Cells
 
 Trong Office 365, ghi chú dành cho chú thích, bạn có thể sử dụng mã C# sau để chèn và xóa ghi chú trong tệp XLS.
 
-{{% blocks/products/pf/agp/code-block title="Mã mẫu C# để Chèn và xóa ghi chú trong tệp XLS" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# mã mẫu để Chèn và xóa ghi chú trong tệp XLS" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "59a1901d62ea9ceb08456a818431a898" "insert-and-remove-notes-xls.cs" >}}
 

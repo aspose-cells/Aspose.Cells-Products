@@ -45,7 +45,7 @@ PM> Install-Package Aspose.Cells
 
 1.  Khởi tạo lớp Workbook với đường dẫn đến tệp ODS được bảo vệ
 1.  Lấy giá trị mặc định hoặc bất kỳ Bảng tính nào để xóa bảo vệ
-1.  Loại bỏ bảo vệ Worksheet bằng phương pháp Worksheet.Unprotect
+1.  Loại bỏ bảo vệ Worksheet bằng phương thức Worksheet.Unprotect
 1.  Xóa bảo vệ Workbook bằng phương thức Workbook.Unprotect
 1.  Lưu kết quả ở định dạng ODS
 

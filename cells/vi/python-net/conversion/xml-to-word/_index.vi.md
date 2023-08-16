@@ -1,7 +1,7 @@
 ---
-title: Chuyển XML sang WORD Python via Python
-description: Chuyển đổi XML sang WORD trực tuyến miễn phí. Trình chuyển đổi XML sang WORD trực tuyến miễn phí. Python XML sang WORD. XML sang WORD qua Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML sang WORD - Trình chuyển đổi XML sang WORD trực tuyến
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Trực tuyến miễn phí Python Chuyển đổi định dạng lưu trữ XML sang WORD. Python Định dạng XML sang WORD. Lưu XML vào WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to WORD saveformat., Free Online XML to WORD Python., Python Convert XML to WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Chuyển XML sang WORD bằng Python" h2="Thư viện Python tốc độ cao chuyển XML sang WORD. Sử dụng chuyển đổi excel API của chúng tôi để phát triển phần mềm nền tảng độc lập cấp cao trong Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -22,26 +22,27 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 Ví dụ sau minh họa cách chuyển đổi XML sang WORD trong Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Làm theo các bước đơn giản để chuyển đổi XML sang WORD. Tải lên tệp XML của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp WORD. Để đọc cả XML và viết WORD, bạn có thể sử dụng các tên tệp đủ điều kiện. Nội dung và định dạng WORD đầu ra sẽ giống với tài liệu XML gốc.
+Làm theo các bước đơn giản để chuyển đổi XML sang WORD. Tải lên tệp XML của bạn, sau đó chỉ cần lưu tệp dưới dạng tệp WORD. Để đọc cả XML và viết WORD, bạn có thể sử dụng các tên tệp đủ tiêu chuẩn. Nội dung và định dạng WORD đầu ra sẽ giống với tài liệu XML gốc.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XML sang WORD trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ứng dụng miễn phí và mã mẫu để chuyển đổi XML sang WORD trực tuyến" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi XML sang WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python các nhà phát triển có thể dễ dàng tải và chuyển đổi XML sang WORD chỉ bằng một vài dòng mã.
+Cần chuyển đổi các tệp XML sang WORD theo chương trình? Python các nhà phát triển có thể dễ dàng tải và chuyển đổi XML sang WORD chỉ bằng một vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Cài đặt 'Aspose.Cells for Python via .NET'.
 1.  Thêm tham chiếu thư viện (nhập thư viện) vào dự án Python của bạn.
-1.  Tải tệp XML với một phiên bản Sổ làm việc
-1.  Chuyển đổi XML sang WORD bằng cách gọi phương thức Workbook.save
+1.  Tải tệp XML bằng một phiên bản Sổ làm việc.
+1.  Chuyển đổi XML sang WORD bằng cách gọi phương thức Workbook.save.
+1.  Nhận kết quả chuyển đổi từ XML sang WORD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/)về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
+ Và bạn cũng có thể làm theo[hướng dẫn từng bước một](https://docs.aspose.com/cells/python-net/getting-started/) về cách cài đặt "Aspose.Cells for Python via .NET" vào môi trường nhà phát triển của bạn.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python qua NET là API độc lập với nền tảng và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo hệ thống đó có[Python](https://www.python.org/downloads/) 3.7 trở lên.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML là viết tắt của Extensible Markup Language tương tự như HTML nhưng khác ở chỗ sử dụng các thẻ để định nghĩa các đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là để lưu trữ và vận chuyển dữ liệu mà không phụ thuộc vào phần mềm hoặc công cụ phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả ở người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng, chẳng hạn như World Wide Web (WWW). Chữ "X" trong XML có nghĩa là có thể mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, XHTML và SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX là một định dạng nổi tiếng cho các tài liệu Word Microsoft. Được giới thiệu từ năm 2007 với việc phát hành Microsoft Office 2007, cấu trúc của định dạng Tài liệu mới này đã được thay đổi từ tệp nhị phân đơn giản thành sự kết hợp của tệp XML và tệp nhị phân. Các tệp Docx có thể được mở bằng Word 2007 và các phiên bản mới hơn nhưng không thể mở bằng các phiên bản MS Word cũ hơn hỗ trợ phần mở rộng tệp DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Chuyển đổi được hỗ trợ khác" subTitle="Bạn cũng có thể chuyển đổi XML sang nhiều định dạng tệp khác bao gồm một số định dạng được liệt kê bên dưới." >}}
 

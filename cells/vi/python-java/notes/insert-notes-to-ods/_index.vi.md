@@ -45,7 +45,7 @@ description: Chèn ghi chú tới ODS bằng cách sử dụng Python. Sử dụ
 
 Trong Office 365, ghi chú dành cho chú thích, bạn có thể sử dụng mã Python sau để chèn và xóa ghi chú trong tệp ODS.
 
-{{% blocks/products/pf/agp/code-block title="Mã mẫu Python để Chèn và xóa ghi chú trong tệp ODS" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Python mã mẫu để Chèn và xóa ghi chú trong tệp ODS" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "insert-and-remove-notes-ods.py" >}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
+Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" khng c lh Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp CSV của bạn." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được hợp nhất và nối ngay lập tức." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được hợp nhất và nối ngay lập tức." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

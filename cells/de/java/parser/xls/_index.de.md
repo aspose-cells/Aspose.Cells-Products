@@ -63,7 +63,7 @@ description: Java Beispielcode zum Extrahieren von Text und Bildern aus der Date
 + Wählen Sie das erforderliche Blatt mit der Methode getWorksheets().get aus.
 + Holen Sie sich alle Zellen des ausgewählten Blattes mit getCells().
 + Iteriere über jede Zelle und erhalte ihren Text.
-+ Drucken Sie jeden Zellenwert aus oder verwenden Sie die StringBuilder-Methode append(), um ihn als Ganzes anzuzeigen
+Drucken Sie jeden Zellenwert aus oder verwenden Sie die StringBuilder-Methode append(), um ihn als Ganzes anzuzeigen
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

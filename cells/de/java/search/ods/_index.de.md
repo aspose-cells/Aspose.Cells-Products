@@ -58,7 +58,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei O
 {{% /blocks/products/pf/agp/text %}}
 
 + Laden Sie die Datei ODS, indem Sie ein Arbeitsmappenobjekt instanziieren.
-Greifen Sie auf das erste Arbeitsblatt in der Datei ODS zu.
++ Greifen Sie auf das erste Arbeitsblatt in der Datei ODS zu.
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält
@@ -132,7 +132,7 @@ System.out.println("Name of the cell containing String: " + cell.getName());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS " readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist Teil der von OASIS veröffentlichten und gepflegten ODF 1.2-Spezifikationen. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.
+Dateien mit der Erweiterung ODS stehen für das OpenDocument Spreadsheet Document-Format, das vom Benutzer bearbeitet werden kann. Daten werden in der ODF-Datei in Zeilen und Spalten gespeichert. Es ist ein XML-basiertes Format und einer von mehreren Untertypen in der Familie der Open Document Formats (ODF). Das Format ist als Teil der von OASIS veröffentlichten und verwalteten ODF 1.2-Spezifikationen spezifiziert. Eine Reihe von Anwendungen auf Windows sowie anderen Betriebssystemen können ODS-Dateien zum Bearbeiten und Bearbeiten öffnen, darunter Microsoft Excel, NeoOffice und LibreOffice. ODS-Dateien können von verschiedenen Anwendungen auch in andere Tabellenformate wie XLS, XLSX und andere konvertiert werden.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -26,9 +26,9 @@ description: C# mã nguồn giải thích cách chia Microsoft tệp Excel thàn
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Splitter" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Chia trang tính Excel thành các ngăn" %}}
+{{% blocks/products/pf/feature-page-section h2="Chia trang tính Excel thành các ô" %}}
 
- Để chia cửa sổ trang tính thành các ngăn, API cung cấp[phương pháp chia](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) của lớp trang tính, cung cấp chế độ xem được chia nhỏ của trang tính. Để xóa chế độ xem bị chia API cung cấp[phương thức RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Cuối cùng lưu nó vào một đường dẫn xác định.
+ Để chia cửa sổ trang tính thành các ngăn, API cung cấp[phương pháp chia](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)của lớp trang tính, cung cấp chế độ xem được chia nhỏ của trang tính. Để xóa chế độ xem bị chia API cung cấp[phương thức RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Cuối cùng lưu nó vào một đường dẫn xác định.
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã để chia cửa sổ bảng tính Excel" %}}
 

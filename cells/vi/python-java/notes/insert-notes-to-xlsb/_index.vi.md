@@ -45,7 +45,7 @@ description: Chèn ghi chú tới XLSB bằng cách sử dụng Python. Sử d�
 
 Trong Office 365, ghi chú dành cho chú thích, bạn có thể sử dụng mã Python sau để chèn và xóa ghi chú trong tệp XLSB.
 
-{{% blocks/products/pf/agp/code-block title="Mã mẫu Python để Chèn và xóa ghi chú trong tệp XLSB" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Python mã mẫu để Chèn và xóa ghi chú trong tệp XLSB" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "insert-and-remove-notes-xlsb.py" >}}
 

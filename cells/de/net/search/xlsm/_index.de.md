@@ -13,7 +13,7 @@ description: C#-Quellcode zum Suchen von Wörtern mit Muster in der XLSM-Datei a
 
  Um die Datei XLSM zu durchsuchen, verwenden wir
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
+API ist eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform für die Dokumentensuche API nach C#. Offen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  Paketmanager, suchen Sie nach
  **Aspose.Cells** 

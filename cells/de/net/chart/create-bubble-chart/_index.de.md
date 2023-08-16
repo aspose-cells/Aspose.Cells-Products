@@ -1,6 +1,6 @@
 ---
 title: Erstellen Sie Blasendiagramme über C#
-description: C# Beispielcode zum Erstellen von Blasendiagrammen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Erstellen eines {Chart}-Diagramms für MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
+description: C# Beispielcode zum Erstellen von Blasendiagrammen in Excel mithilfe der Bibliothek .NET. Verwenden Sie diesen Code zum Erstellen eines {Chart}-Diagramms in MS Excel in VB.NET, Asp.NET oder einer anderen .NET-basierten Anwendung.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

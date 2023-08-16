@@ -14,7 +14,7 @@ description: Thêm hoặc xóa chú thích dữ liệu của bảng tính Excel 
 + Nạp file Excel sử dụng đối tượng lớp Workbook
 + Truy cập Bảng tính có liên quan và chỉ mục Cell có liên quan của nó
 + Gọi RemoveAt với Id Cell để gỡ bỏ nó
- + Sử dụng[lưu ý tài sản](https://reference.aspose.com/cells/net/aspose.cells/comment/properties/note) để thêm nội dung bình luận
+ + Sử dụng[lưu ý thuộc tính](https://reference.aspose.com/cells/net/aspose.cells/comment/properties/note) để thêm nội dung bình luận
 + Lưu workbook trước & sau khi gọi phương thức RemoveAt để so sánh
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã Truy cập, Chèn và Xóa Tệp Excel Cell Bình luận" %}}

@@ -1,5 +1,5 @@
 ---
-title:  Chuyển đổi XLSX thành PDF/A Tệp tuân thủ via Java
+title: Chuyển đổi XLSX thành PDF/A Tệp tuân thủ via Java
 weight: 3200
 description: Mã chuyển đổi mẫu Java cho định dạng XLSX thành PDF A Complied Files. Các lập trình viên có thể sử dụng mã ví dụ này để xuất bảng tính Excel & OpenOffice sang Tệp Tuân thủ PDFA trong bất kỳ Ứng dụng dựa trên Web hoặc Máy tính để bàn Java nào.
 ---
@@ -13,7 +13,7 @@ description: Mã chuyển đổi mẫu Java cho định dạng XLSX thành PDF A
 
  Để hiển thị XLSX thành PDF/A, chúng tôi sẽ sử dụng
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API là một nền tảng chuyển đổi API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
+ API là một nền tảng chuyển đổi API for Java giàu tính năng, mạnh mẽ và dễ sử dụng. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào tệp pom.xml.
 
@@ -58,7 +58,7 @@ API là một nền tảng chuyển đổi API for Java giàu tính năng, mạn
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Tải tệp XLSX với một thể hiện của lớp Workbook
-1.  Tạo đối tượng lớp PdfSaveOptions
+1. Tạo đối tượng lớp PdfSaveOptions
 1.  Đặt loại tuân thủ PdfCompliance.PdfA1b
 1.  Gọi phương thức Workbook.save
 1.  Truyền đường dẫn đầu ra với phần mở rộng PDF & đối tượng PdfSaveOptions làm tham số

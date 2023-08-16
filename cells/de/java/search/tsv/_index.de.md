@@ -58,7 +58,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei T
 {{% /blocks/products/pf/agp/text %}}
 
 + Laden Sie die Datei TSV, indem Sie ein Arbeitsmappenobjekt instanziieren.
-Greifen Sie auf das erste Arbeitsblatt in der Datei TSV zu.
++ Greifen Sie auf das erste Arbeitsblatt in der Datei TSV zu.
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält

@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Ứng dụng là một công cụ chuy�
    </header>
    <ul>
     <li>
- Lưu trong thư mục con
+Lưu trong thư mục con
     </li>
     <li>
  nối tệp
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint Ứng dụng là một công cụ chuy�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description="Aspose.Cells for SharePoint hỗ trợ nhiều định dạng bảng tính phổ biến, PDF, HTML và các định dạng khác[định dạng tập tin](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Định dạng tệp được hỗ trợ" description=" Aspose.Cells for SharePoint hỗ trợ nhiều định dạng bảng tính phổ biến, PDF, HTML và các định dạng khác[định dạng tập tin](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint Ứng dụng là một công cụ chuy�
  Nối các tệp trong quá trình chuyển đổi
     </h2>
     <p>
- Aspose.Cells for SharePoint cung cấp khả năng kết hợp các tệp có định dạng khác nhau thành một tài liệu duy nhất. Ngoài ra, bạn cũng có thể di chuyển các tài liệu trong danh sách lên hoặc xuống để đặt thứ tự mà bạn muốn các tài liệu được kết hợp.
+Aspose.Cells for SharePoint cung cấp khả năng kết hợp các tệp có định dạng khác nhau thành một tài liệu duy nhất. Ngoài ra, bạn cũng có thể di chuyển các tài liệu trong danh sách lên hoặc xuống để đặt thứ tự mà bạn muốn các tài liệu được kết hợp.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint Ứng dụng là một công cụ chuy�
  Chuyển đổi tệp trong thư mục con
     </h2>
     <p>
-Aspose.Cells for SharePoint làm cho quá trình chuyển đổi dễ dàng hơn bằng cách chuyển đổi đệ quy tất cả các tài liệu và thư mục con trong một thư mục đã chọn. Cấu trúc thư mục con hiện có được tạo trong thư mục đích.
+ Aspose.Cells for SharePoint làm cho quá trình chuyển đổi dễ dàng hơn bằng cách chuyển đổi đệ quy tất cả các tài liệu và thư mục con trong một thư mục đã chọn. Cấu trúc thư mục con hiện có được tạo trong thư mục đích.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint làm cho quá trình chuyển đổi dễ dàng hơn
  Tương tác với Công API
     </h2>
     <p>
- Đối với các nhà phát triển có giải pháp SharePoint nội bộ, họ có thể sử dụng công cụ chuyển đổi tài liệu của Aspose.Cells for SharePoint thông qua API công khai. Công cụ này cung cấp quyền truy cập có lập trình vào tất cả các định dạng được hỗ trợ và tùy chọn chuyển đổi.
+Đối với các nhà phát triển có giải pháp SharePoint nội bộ, họ có thể sử dụng công cụ chuyển đổi tài liệu của Aspose.Cells for SharePoint thông qua API công khai. Công cụ này cung cấp quyền truy cập có lập trình vào tất cả các định dạng được hỗ trợ và tùy chọn chuyển đổi.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint làm cho quá trình chuyển đổi dễ dàng hơn
  Microsoft Tự động hóa Excel – Không cần thiết
     </h2>
     <p>
-Aspose.Cells for SharePoint được tạo bằng mã được quản lý không bao giờ cần cài đặt Microsoft Excel trên máy để hoạt động với chuyển đổi định dạng Excel. Nó là một giải pháp thay thế tự động hóa Microsoft Excel hoàn hảo về các tính năng được hỗ trợ, bảo mật, ổn định, khả năng mở rộng, tốc độ và giá cả.
+ Aspose.Cells for SharePoint được tạo bằng mã được quản lý không bao giờ cần cài đặt Microsoft Excel trên máy để hoạt động với chuyển đổi định dạng Excel. Nó là một giải pháp thay thế tự động hóa Microsoft Excel hoàn hảo về các tính năng được hỗ trợ, bảo mật, ổn định, khả năng mở rộng, tốc độ và giá cả.
     </p>
    </div>
   </div>

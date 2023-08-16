@@ -18,7 +18,7 @@ description: Verketten Sie Excel- und OpenOffice-Tabellendateien mit nur wenigen
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Mehrere Excel-Dateien zusammenführen" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Die Methode unterstützt das Zusammenführen von Daten, Stilen und Formeln einer Excel-Datei in einer neuen Tabelle mit demselben Format. Dies ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen und gleichzeitig Caching zu verwenden.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)Die Methode unterstützt das Zusammenführen von Daten, Stilen und Formeln einer Excel-Datei in einer neuen Tabelle mit demselben Format. Dies ist eine effiziente Möglichkeit, mehrere Dateien zusammenzuführen und gleichzeitig Caching zu verwenden.
 {{% blocks/products/pf/feature-page-code h3="C# Code zum Zusammenführen mehrerer Excel-Dateien" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

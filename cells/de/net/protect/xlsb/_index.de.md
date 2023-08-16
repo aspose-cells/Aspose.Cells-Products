@@ -1,5 +1,5 @@
 ---
-title:  XLSB Dokument via .NET schützen und verriegeln
+title: XLSB Dokument via .NET schützen und verriegeln
 weight: 5920
 description: C#-Quellcode zum Sperren der XLSB-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
 ---

@@ -1,5 +1,5 @@
 ---
-title:  XLSX Dokument via Java schützen und verriegeln
+title: XLSX Dokument via Java schützen und verriegeln
 weight: 1870
 description: Java Beispielcode zum Sperren der Datei XLSX mit Passwort in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 ---

@@ -22,7 +22,7 @@ description: Sửa tệp excel bị hỏng bằng C#. Công cụ khôi phục đ
 
 {{% blocks/products/pf/agp/content h2="Cách sửa file excel bằng C#" %}}
 
-Định nghĩa lớp kế thừa Aspose.Cells.IWarningCallback.
++ Định nghĩa lớp kế thừa Aspose.Cells.IWarningCallback.
 + Nạp file EXCEL bằng cách tạo một thể hiện của Workbook, sử dụng lớp kế thừa ở trên, tham khảo đoạn mã trên.
 + Cứu sổ làm việc, file excel bị lỗi sẽ được sửa chữa.
 

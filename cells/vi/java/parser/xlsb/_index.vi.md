@@ -63,7 +63,7 @@ description: Java mã mẫu để trích xuất văn bản và hình ảnh từ 
 + Chọn sheet cần thiết bằng phương thức getWorksheets().get.
 + Lấy tất cả các ô của sheet đã chọn bằng getCells().
 + Lặp qua từng ô, lấy văn bản của nó.
-+ In từng giá trị ô hoặc Sử dụng phương thức StringBuilder append() để xem toàn bộ
+In từng giá trị ô hoặc Sử dụng phương thức StringBuilder append() để xem toàn bộ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

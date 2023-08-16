@@ -6,7 +6,7 @@ description:  C# mã nguồn hướng dẫn cách chèn hình vào Microsoft t�
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Chèn hình dạng Excel qua JAVA" h2="Tạo tài liệu Excel và chèn hình bằng cách sử dụng API phía máy chủ trong các ứng dụng dựa trên JAVA." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Trong excel, bạn có thể thêm các hình dạng như hộp, hình tròn và mũi tên vào tài liệu, email, trang trình bày và bảng tính. Để giúp bạn không phải thực hiện nhiều thao tác chèn thủ công,[Thư viện Java Excel](https://releases.aspose.com/cells/java/)API cung cấp chức năng tương tự. Các API này rất dễ sử dụng, thường chỉ cần một dòng mã để chèn một hình dạng cụ thể và một vài dòng mã có thể hoàn thành việc chèn hàng loạt hình dạng.
+ Trong excel, bạn có thể thêm các hình dạng như hộp, hình tròn và mũi tên vào tài liệu, email, trang trình bày và bảng tính. Để giúp bạn không phải thực hiện nhiều thao tác chèn thủ công,[Thư viện Java Excel](https://releases.aspose.com/cells/java/) API cung cấp chức năng tương tự. Các API này rất dễ sử dụng, thường chỉ cần một dòng mã để chèn một hình dạng cụ thể và một vài dòng mã có thể hoàn thành việc chèn hàng loạt hình dạng.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

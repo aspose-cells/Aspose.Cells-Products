@@ -12,7 +12,7 @@ description: Mã mẫu để chuyển đổi từ xlsx sang pdf Python. Sử d�
 
  Để chuyển đổi XLSX thành PDF, chúng tôi sẽ sử dụng
  [Aspose.Cells for Python](https://pypi.org/project/aspose-cells) 
- API là một nền tảng thao tác và chuyển đổi tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for Python.
+ API là nền tảng chuyển đổi và thao tác tài liệu giàu tính năng, mạnh mẽ và dễ sử dụng API for Python.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}

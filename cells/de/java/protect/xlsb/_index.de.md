@@ -1,5 +1,5 @@
 ---
-title:  XLSB Dokument via Java schützen und verriegeln
+title: XLSB Dokument via Java schützen und verriegeln
 weight: 6590
 description: Java Beispielcode zum Sperren der Datei XLSB mit Passwort in der Laufzeitumgebung Java für JSP/JSF-Anwendungen und Desktop-Anwendungen.
 ---

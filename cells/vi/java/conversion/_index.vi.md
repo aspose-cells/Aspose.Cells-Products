@@ -6,7 +6,7 @@ description: Chuyển đổi Excel XLS, XLSX, ODS, CSV sang PDF, XPS, HTML, JPEG
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Chuyển đổi tệp Excel via Java" h2="Lưu Microsoft tài liệu Excel dưới dạng bảng tính, web, hình ảnh và định dạng bố cục cố định" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Bất cứ gì**trình chuyển đổi excel** ứng dụng hoặc giải pháp, Java Thư viện Excel tăng tốc quá trình lập trình và chuyển đổi bảng tính trong khi xử lý nhiều định dạng bao gồm XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619 3481. Nó cũng cho phép *chuyển đổi tệp Excel thành PDF**, XPS, HTML, MHTML, Văn bản thuần túy và các định dạng hình ảnh phổ biến như TIFF, JPG, PNG, BMP và SVG.
+ Bất cứ gì**trình chuyển đổi excel**ứng dụng hoặc giải pháp, Java Thư viện Excel tăng tốc quá trình lập trình và chuyển đổi bảng tính trong khi xử lý nhiều định dạng bao gồm XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 07619 3481. Nó cũng cho phép *chuyển đổi tệp Excel thành PDF**, XPS, HTML, MHTML, Văn bản thuần túy và các định dạng hình ảnh phổ biến như TIFF, JPG, PNG, BMP và SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển đổi giữa các định dạng Excel Microsoft" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Chuyển Microsoft Excel sang Word và PowerPoint" %}}
- Có thể tải bất kỳ bảng tính nào và chuyển đổi nó thành tệp Word DOCX & PowerPoint PPTX trong khi sử dụng[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Tùy chọn PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) các lớp như minh họa dưới đây.
+ Có thể tải bất kỳ bảng tính nào và chuyển đổi nó thành tệp Word DOCX & PowerPoint PPTX trong khi sử dụng[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Tùy chọn PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)các lớp như minh họa dưới đây.
 {{% blocks/products/pf/feature-page-code h3="Java Mã cho Excel sang Word & PowerPoint Chuyển đổi" %}}
 ```cs
 // load the template file

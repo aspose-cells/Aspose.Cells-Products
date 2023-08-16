@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Hợp nhất nhiều tệp Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) phương pháp hỗ trợ hợp nhất dữ liệu, kiểu dáng và công thức của tệp Excel sang một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)phương pháp hỗ trợ hợp nhất dữ liệu, kiểu dáng và công thức của tệp Excel sang một bảng tính mới có cùng định dạng. Đó là một cách hiệu quả để hợp nhất một số tệp trong khi sử dụng bộ nhớ đệm.
 {{% blocks/products/pf/feature-page-code h3="Java Mã để hợp nhất một số tệp Excel" %}}
 
 ```cs

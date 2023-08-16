@@ -39,7 +39,7 @@ Các nhà phát triển có thể dễ dàng tạo biểu đồ Vùng trong khi 
 - Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng cách sử dụng Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng Python." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "32e50c6aabc547111966569f3fd39694" "Examples-Charts-CreateAreaChart.py" >}}
 

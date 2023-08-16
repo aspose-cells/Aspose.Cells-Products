@@ -1,5 +1,5 @@
 ---
-title:  Tìm kiếm trong Bảng tính Excel trên Windows, Linux & macOS
+title: Tìm kiếm trong Bảng tính Excel trên Windows, Linux & macOS
 weight: 7730
 description: Ứng dụng và API miễn phí để tìm kiếm văn bản trong các tệp XLS, XLSX và ODS
 ---

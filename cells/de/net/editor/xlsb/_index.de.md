@@ -1,5 +1,5 @@
 ---
-title: Bearbeiten Sie die Dateien XLSB via .NET
+title:  Bearbeiten Sie die Dateien XLSB via .NET
 description: C# Quellcode zum Bearbeiten von XLSB Dokumenten auf .NET Framework, .NET Core, Windows Azure, Mono oder Xamarin-Plattformen.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

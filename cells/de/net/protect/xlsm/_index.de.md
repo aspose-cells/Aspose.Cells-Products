@@ -1,5 +1,5 @@
 ---
-title:  XLSM Dokument via .NET schützen und verriegeln
+title: XLSM Dokument via .NET schützen und verriegeln
 weight: 7530
 description: C#-Quellcode zum Sperren der XLSM-Datei mit Passwort auf .NET Framework, .NET Core, Mono oder Xamarin-Plattformen.
 ---

@@ -31,7 +31,7 @@ description: SQL Server Reporting Services-Rendering-Erweiterung – Excel-Forma
    </header>
    <ul>
     <li>
- Buchseite
+ Seite
     </li>
     <li>
  Kopfzeile Fußzeile
@@ -40,7 +40,7 @@ description: SQL Server Reporting Services-Rendering-Erweiterung – Excel-Forma
  Textfelder
     </li>
     <li>
- Bilder
+Bilder
     </li>
     <li>
  Unterberichte
@@ -312,7 +312,7 @@ description: SQL Server Reporting Services-Rendering-Erweiterung – Excel-Forma
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Reduzieren oder erweitern Sie Pivot-Table-Felder
+Reduzieren oder erweitern Sie Pivot-Table-Felder
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: SQL Server Reporting Services-Rendering-Erweiterung – Excel-Forma
  Aspose.Cells' Berichts-Designer-Tool
     </h2>
     <p>
-Entwickler können Berichte direkt aus Microsoft Excel entwerfen und bereitstellen, indem sie Aspose.Cells.Report.Designer verwenden – ein einfaches Designtool, das Microsoft Excel als Berichtsvorlage verwendet. Mit dieser Funktion können Sie alle leistungsstarken Funktionen und Features nutzen, die in der Excel-Anwendung Microsoft verfügbar sind, einschließlich Pivot-Tabellen, interaktiven Diagrammen, Formeln usw.
+ Entwickler können Berichte direkt aus Microsoft Excel entwerfen und bereitstellen, indem sie Aspose.Cells.Report.Designer verwenden – ein einfaches Designtool, das Microsoft Excel als Berichtsvorlage verwendet. Mit dieser Funktion können Sie alle leistungsstarken Funktionen und Features nutzen, die in der Excel-Anwendung Microsoft verfügbar sind, einschließlich Pivot-Tabellen, interaktiven Diagrammen, Formeln usw.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Entwickler können Berichte direkt aus Microsoft Excel entwerfen und bereitstell
  Exportieren Sie Berichte in Tabellenformate
     </h2>
     <p>
- Aspose.Cells for Reporting Services unterstützt alle gängigen Microsoft Excel-Dateiformate (97 - 2016), einschließlich „nativer“ Microsoft Excel-Formate wie XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De begrenzt und HTML. Aspose.Cells for Reporting Services unterstützt auch das Dateiformat ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services unterstützt alle gängigen Microsoft Excel-Dateiformate (97 - 2016), einschließlich „nativer“ Microsoft Excel-Formate wie XLS, XLSX, XLSM, SpreadsheetML, CSV, Tabulatorgetrennt und HTML. Aspose.Cells for Reporting Services unterstützt auch das Dateiformat ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Darüber hinaus exportiert Aspose.Cells for Reporting Services Excel-Dokumente als vollständig bearbeitbare Tabellenkalkulationen, d. h.; Der Endbenutzer kann die resultierenden Tabellenkalkulationen bei Bedarf manuell in der Excel-Anwendung Microsoft bearbeiten.
@@ -367,7 +367,7 @@ Entwickler können Berichte direkt aus Microsoft Excel entwerfen und bereitstell
  Hohe Wiedergabetreue – identisch mit dem Berichtsdesign
     </h2>
     <p>
-Aspose.Cells for Reporting Services Exportieren Sie die Berichte in Microsoft Excel-Tabellen, sodass das Ergebnis mit dem Original identisch aussieht, das vom integrierten Reporting Services-Berichtsdesigner generiert wurde. Alle Berichtsfunktionen werden mit höchster Präzision konvertiert, damit Microsoft Excel-Tabellen dem Original so ähnlich wie möglich aussehen.
+ Aspose.Cells for Reporting Services Exportieren Sie die Berichte in Microsoft Excel-Tabellen, sodass das Ergebnis mit dem Original identisch aussieht, das vom integrierten Reporting Services-Berichtsdesigner generiert wurde. Alle Berichtsfunktionen werden mit höchster Präzision konvertiert, damit Microsoft Excel-Tabellen dem Original so ähnlich wie möglich aussehen.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services Exportieren Sie die Berichte in Microsoft Ex
  Verschiedene Datenverarbeitungsoptionen
     </h2>
     <p>
- Aspose.Cells for Reporting Services unterstützen Tabellen mit gruppierten Zeilen und Fußzeilen, wobei die Gruppierung wie bei anderen Berichtselementen zur Entwurfszeit eingerichtet werden kann. Aspose.Cells for Reporting Services unterstützt auch Parameter und globale Variablen als Berichtsdatenquellen. Entwickler können Microsoft Query auch zum Erstellen von Datenquellen und Abfragen nutzen; Dies ist ein weit verbreitetes Tool und den meisten Benutzern vertraut.
+Aspose.Cells for Reporting Services unterstützen Tabellen mit gruppierten Zeilen und Fußzeilen, wobei die Gruppierung wie bei anderen Berichtselementen zur Entwurfszeit eingerichtet werden kann. Aspose.Cells for Reporting Services unterstützt auch Parameter und globale Variablen als Berichtsdatenquellen. Entwickler können Microsoft Query auch zum Erstellen von Datenquellen und Abfragen nutzen; Dies ist ein weit verbreitetes Tool und den meisten Benutzern vertraut.
     </p>
     <p>
-Darüber hinaus unterstützt Aspose.Cells for Reporting Services sowohl berichtsspezifische Datenquellen als auch freigegebene Datenquellen, die im Voraus auf dem Berichtsserver erstellt wurden. Entwickler können zur Entwurfszeit berichtsspezifische Datenquellen verwenden und beim Veröffentlichen von Berichten gemeinsam genutzte Datenquellen als Berichtsdatenquellen angeben.
+ Darüber hinaus unterstützt Aspose.Cells for Reporting Services sowohl berichtsspezifische Datenquellen als auch freigegebene Datenquellen, die im Voraus auf dem Berichtsserver erstellt wurden. Entwickler können zur Entwurfszeit berichtsspezifische Datenquellen verwenden und beim Veröffentlichen von Berichten gemeinsam genutzte Datenquellen als Berichtsdatenquellen angeben.
     </p>
    </div>
    <!-- 

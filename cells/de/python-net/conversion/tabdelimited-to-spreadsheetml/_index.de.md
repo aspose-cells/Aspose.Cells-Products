@@ -1,7 +1,7 @@
 ---
-title: Konvertieren Sie TABDELIMITED in SPREADSHEETML Python via Python
-description: Konvertieren Sie TABDELIMITED kostenlos online in SPREADSHEETML. Kostenloser Online-Konverter von TABDELIMITED zu SPREADSHEETML. Python TABDELIMITED zu SPREADSHEETML. TABDELIMITED an SPREADSHEETML über Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED zu SPREADSHEETML – Online-Konverter von TABDELIMITED zu SPREADSHEETML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Kostenlos online Python Konvertieren Sie TABDELIMITED in das SPREADSHEETML-Speicherformat. Python TABDELIMITED in das SPREADSHEETML-Format. Speichern Sie TABDELIMITED in SPREADSHEETML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to SPREADSHEETML saveformat., Free Online TABDELIMITED to SPREADSHEETML Python., Python Convert TABDELIMITED to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertieren Sie TABDELIMITED in SPREADSHEETML in Python" h2="Hochgeschwindigkeitsbibliothek Python zum Konvertieren von TABDELIMITED in SPREADSHEETML. Nutzen Sie unsere Excel-Konvertierung API, um hochwertige, plattformunabhängige Software in Python zu entwickeln." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="Konvertieren Sie TABDELIMITED in SPREADSHEETML in Python" %}}
 
- Wie konvertiert man TABDELIMITED in SPREADSHEETML? Mit der Bibliothek Aspose.Cells for Python via NET können Sie TABDELIMITED mit wenigen Codezeilen ganz einfach programmgesteuert in SPREADSHEETML konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht Industriestandard Formate.
+ Wie konvertiere ich TABDELIMITED in SPREADSHEETML? Mit der Bibliothek Aspose.Cells for Python via NET können Sie TABDELIMITED mit wenigen Codezeilen ganz einfach programmgesteuert in SPREADSHEETML konvertieren.[Aspose.Cells for Python über NET](https://pypi.org/project/aspose-cells-python/)ist in der Lage, plattformübergreifende Anwendungen zu erstellen und alle Excel-Dateien zu generieren, zu ändern, zu konvertieren, zu rendern und zu drucken. Python Excel API konvertiert nicht nur zwischen Tabellenkalkulationsformaten, sondern kann auch Excel-Dateien als Bilder rendern, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT und mehr, was es zu einer perfekten Wahl für den Austausch von Dokumenten macht im Industriestandard Formate.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,26 +22,27 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 Das folgende Beispiel zeigt, wie TABDELIMITED in SPREADSHEETML in Python via NET konvertiert wird.
 {{% blocks/products/pf/agp/text %}}
 
-Befolgen Sie die einfachen Schritte, um TABDELIMITED in SPREADSHEETML zu konvertieren. Laden Sie Ihre TABDELIMITED-Datei hoch und speichern Sie sie dann einfach als SPREADSHEETML-Datei. Sowohl für das TABDELIMITED-Lesen als auch für das SPREADSHEETML-Schreiben können Sie vollständig qualifizierte Dateinamen verwenden. Der Inhalt und die Formatierung des ausgegebenen SPREADSHEETML sind identisch mit dem ursprünglichen TABDELIMITED-Dokument.
+Befolgen Sie die einfachen Schritte, um TABDELIMITED in SPREADSHEETML zu konvertieren. Laden Sie Ihre TABDELIMITED-Datei hoch und speichern Sie sie dann einfach als SPREADSHEETML-Datei. Sowohl für das Lesen mit TABDELIMITED als auch für das Schreiben mit SPREADSHEETML können Sie vollständig qualifizierte Dateinamen verwenden. Der Inhalt und die Formatierung des ausgegebenen SPREADSHEETML sind identisch mit dem ursprünglichen TABDELIMITED-Dokument.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von TABDELIMITED in SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Kostenlose App und Beispielcode zum Konvertieren von TABDELIMITED in SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TABDELIMITED in SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-Entwickler können TABDELIMITED in nur wenigen Codezeilen problemlos laden und in SPREADSHEETML konvertieren.
+Müssen Sie TABDELIMITED-Dateien programmgesteuert in SPREADSHEETML konvertieren? Python-Entwickler können TABDELIMITED in nur wenigen Codezeilen problemlos laden und in SPREADSHEETML konvertieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installieren Sie „Aspose.Cells for Python via .NET“.
 1.  Fügen Sie Ihrem Python-Projekt eine Bibliotheksreferenz hinzu (importieren Sie die Bibliothek).
-1.  Laden Sie die TABDELIMITED-Datei mit einer Instanz von Workbook
-1.  Konvertieren Sie TABDELIMITED in SPREADSHEETML, indem Sie die Methode Workbook.save aufrufen
+1.  Laden Sie die TABDELIMITED-Datei mit einer Instanz von Workbook.
+1.  Konvertieren Sie TABDELIMITED in SPREADSHEETML, indem Sie die Methode Workbook.save aufrufen.
+1.  Rufen Sie das Konvertierungsergebnis von TABDELIMITED in SPREADSHEETML ab.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/)Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
+ Und Sie können dem auch folgen[Schritt für Schritt Anweisungen](https://docs.aspose.com/cells/python-net/getting-started/) Informationen zur Installation von „Aspose.Cells for Python via .NET“ in Ihrer Entwicklerumgebung.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installieren Sie Aspose.Cells for Python von<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System über diese verfügt[Python](https://www.python.org/downloads/) 3,7 oder höher.
+ Aspose.Cells for Python über NET ist plattformunabhängig API und kann auf jeder Plattform (Windows, Linux) verwendet werden, stellen Sie einfach sicher, dass das System vorhanden ist[Python](https://www.python.org/downloads/) 3,7 oder höher.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Das Dateiformat „Tabulatorgetrennte Werte“ (TSV) stellt durch Tabulatoren getrennte Daten im Nur-Text-Format dar. Das Dateiformat, ähnlich CSV, wird zur strukturierten Organisation von Daten für den Import und Export zwischen verschiedenen Anwendungen verwendet. Das Format wird hauptsächlich für den Datenimport/-export und -austausch in Tabellenkalkulationsanwendungen und Datenbanken verwendet. Jeder Datensatz in einer TSV-Datei ist in einer einzelnen Zeile einer Textdatei enthalten, in der jeder Feldwert durch ein Tabulatorzeichen getrennt ist. Der Medientyp für das Dateiformat TSV ist Text/durch Tabulatoren getrennte Werte.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML steht für Extensible Markup Language, die HTML ähnelt, sich jedoch durch die Verwendung von Tags zum Definieren von Objekten unterscheidet. Die gesamte Idee hinter der Erstellung des XML-Dateiformats bestand darin, Daten zu speichern und zu transportieren, ohne auf Software- oder Hardware-Tools angewiesen zu sein. Seine Beliebtheit ist darauf zurückzuführen, dass es sowohl für Menschen als auch für Maschinen lesbar ist. Dadurch ist es möglich, gemeinsame Datenprotokolle in Form von Objekten zu erstellen, die über Netzwerke wie das World Wide Web (WWW) gespeichert und geteilt werden. Das „X“ in XML steht für erweiterbar, was bedeutet, dass die Sprache je nach Benutzeranforderungen auf eine beliebige Anzahl von Symbolen erweitert werden kann. Für diese Funktionen nutzen es viele Standarddateiformate wie Microsoft Open XML, LibreOffice OpenDocument, XHTML und SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können TABDELIMITED auch in viele andere Dateiformate konvertieren, darunter einige der unten aufgeführten." >}}
 

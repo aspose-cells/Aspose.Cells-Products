@@ -49,14 +49,14 @@ description: Java mã mẫu để kết hợp các tài liệu XLTX trên Java M
 
 {{% blocks/products/pf/agp/text %}}
 
- Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Java](https://products.aspose.com/cells/java) API có thể được thực hiện chỉ với vài dòng mã.
+Một tài liệu cơ bản hợp nhất và nối với[Aspose.Cells for Java](https://products.aspose.com/cells/java) API có thể được thực hiện chỉ với vài dòng mã.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Nạp tệp XLTX đầu tiên với một thể hiện của lớp Workbook.
 + Nạp tài liệu XLTX thứ hai với một thể hiện của lớp Workbook.
 + Hợp nhất các tệp bằng phương thức kết hợp ().
-lưu tệp XLTX đã hợp nhất tại đường dẫn đã chỉ định
++ lưu tệp XLTX đã hợp nhất tại đường dẫn đã chỉ định
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltxFile1.save("combinedFileWithPath.xltx");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" khng c lh Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Không cần phải viết bất kỳ mã." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp XLTX của bạn." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Nó sẽ được hợp nhất và nối ngay lập tức." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Nó sẽ được hợp nhất và nối ngay lập tức." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

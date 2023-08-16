@@ -1,7 +1,7 @@
 ---
 title:  Thủy văn XLS via .NET
 weight: 3050
-description: C# để thêm hoặc xóa hình mờ đối với tệp XLS trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
+description: C# để thêm hoặc xóa hình mờ vào tệp XLS trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Thêm hình mờ văn bản vào XLS qua C#" h2="Xây dựng các ứng dụng .NET của riêng bạn để tạo hình mờ cho các tệp XLS bằng API phía máy chủ." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  bạn cần
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-để thử quy trình công việc sau trong môi trường của riêng bạn.
+ để thử quy trình công việc sau trong môi trường của riêng bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 

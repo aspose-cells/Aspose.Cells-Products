@@ -22,7 +22,7 @@ description: Reparieren Sie eine beschädigte Excel-Datei mit C#. Wiederherstell
 
 {{% blocks/products/pf/agp/content h2="So reparieren Sie eine Excel-Datei mit C#" %}}
 
-Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
++ Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
 + Laden Sie die Excel-Datei, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte Excel-Datei wird repariert.
 

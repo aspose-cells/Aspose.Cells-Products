@@ -12,7 +12,7 @@ description: Python Tabellenkalkulationsbibliothek zum Erstellen von Lese-, Schr
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
+Aspose.Cells for Python via Java ist eine schnelle und zuverlässige API für Tabellenkalkulationsaufgaben. Entwickler können einfache oder komplexe Tabellenkalkulationen erstellen, Informationen aus Excel-Dateien bearbeiten und extrahieren. API liest mehrere Excel-Formate und kann Arbeitsblätter in XPS, PDF, MHTML, HTML, einfachen Text, Bilder und mehr rendern. Es ist die beste Lösung, um Excel-Berichte mithilfe von Python zu automatisieren.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Erweiterte Python Excel API Funktionen
     </p>
     <div class="codeblock" id="code">
      <h3>
- Tabellenkalkulation in verschiedenen Formaten speichern – Java
+Tabellenkalkulation in verschiedenen Formaten speichern – Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Flexible Anzeigeoptionen
     </h2>
     <p>
-Aspose.Cells for Python via Java bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
+ Aspose.Cells for Python via Java bietet vollständige Kontrolle über die Seiteneinrichtung und ermöglicht die Manipulation mehrerer Anzeigeoptionen wie Seitenumbrüche in der Vorschau, Festlegen der Zoomstufe, Festlegen der Seitenausrichtung, Steuern der Datensichtbarkeit mit Standbildern, Papiergröße, Skalierung, Kopfzeilen und Seitenausrichtung. Fußzeilen und Druckbereich.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java bietet vollständige Kontrolle über die Seiten
  Diagrammanpassung
     </h2>
     <p>
- Aspose.Cells for Python via Java bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.
+Aspose.Cells for Python via Java bietet volle Unterstützung für Diagramme. Mit dieser Python-Bibliothek können Sie problemlos Standard- und benutzerdefinierte Diagramme hinzufügen oder Diagrammdaten dynamisch festlegen, um das Diagramm zu aktualisieren.
     </p>
    </div>
    <!--

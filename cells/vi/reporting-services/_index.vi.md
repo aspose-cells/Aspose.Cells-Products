@@ -12,7 +12,7 @@ description: Tiện ích mở rộng kết xuất Dịch vụ báo cáo SQL Serv
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Reporting Services cho phép bạn gửi các báo cáo Excel từ bên trong Microsoft Dịch vụ báo cáo SQL Server và Microsoft Trình xem báo cáo. Không giống như trình xuất bản gốc cho các báo cáo dựa trên Excel - Aspose.Cells for Reporting Services cho phép chuyển đổi RDL &amp; RDLC báo cáo cho một số định dạng tệp bảng tính Excel.
+ Aspose.Cells for Reporting Services cho phép bạn gửi báo cáo Excel từ bên trong Microsoft Dịch vụ báo cáo máy chủ SQL và Trình xem báo cáo Microsoft. Không giống như trình xuất bản gốc cho các báo cáo dựa trên Excel - Aspose.Cells for Reporting Services cho phép chuyển đổi RDL &amp; RDLC báo cáo cho một số định dạng tệp bảng tính Excel.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -40,7 +40,7 @@ description: Tiện ích mở rộng kết xuất Dịch vụ báo cáo SQL Serv
  Hộp văn bản
     </li>
     <li>
- Hình ảnh
+Hình ảnh
     </li>
     <li>
  báo cáo phụ
@@ -312,7 +312,7 @@ description: Tiện ích mở rộng kết xuất Dịch vụ báo cáo SQL Serv
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Thu gọn hoặc mở rộng các trường Pivot Table
+Thu gọn hoặc mở rộng các trường Pivot Table
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: Tiện ích mở rộng kết xuất Dịch vụ báo cáo SQL Serv
  Aspose.Cells' Công cụ thiết kế báo cáo
     </h2>
     <p>
-Các nhà phát triển có thể thiết kế và gửi báo cáo trực tiếp từ Microsoft Excel trong khi sử dụng Aspose.Cells.Report.Designer - một công cụ thiết kế đơn giản sử dụng Microsoft Excel làm mẫu báo cáo. Tính năng này cho phép tận dụng tất cả các chức năng và tính năng mạnh mẽ có sẵn trong ứng dụng Excel Microsoft bao gồm Bảng Pivot, Biểu đồ tương tác, công thức, v.v.
+ Các nhà phát triển có thể thiết kế và gửi báo cáo trực tiếp từ Microsoft Excel trong khi sử dụng Aspose.Cells.Report.Designer - một công cụ thiết kế đơn giản sử dụng Microsoft Excel làm mẫu báo cáo. Tính năng này cho phép tận dụng tất cả các chức năng và tính năng mạnh mẽ có sẵn trong ứng dụng Excel Microsoft bao gồm Bảng Pivot, Biểu đồ tương tác, công thức, v.v.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Các nhà phát triển có thể thiết kế và gửi báo cáo trực tiếp
  Xuất báo cáo sang định dạng bảng tính
     </h2>
     <p>
- Aspose.Cells for Reporting Services hỗ trợ tất cả các định dạng tệp phổ biến Microsoft Excel (97 - 2016), bao gồm các định dạng Excel “gốc” Microsoft như XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De giới hạn và HTML. Aspose.Cells for Reporting Services cũng hỗ trợ định dạng tệp ODS (Bảng tính Tài liệu Mở).
+Aspose.Cells for Reporting Services hỗ trợ tất cả các định dạng tệp phổ biến Microsoft Excel (97 - 2016), bao gồm các định dạng Excel “gốc” Microsoft như XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De giới hạn và HTML. Aspose.Cells for Reporting Services cũng hỗ trợ định dạng tệp ODS (Bảng tính Tài liệu Mở).
     </p>
     <p>
  Trên hết, Aspose.Cells for Reporting Services xuất tài liệu Excel dưới dạng bảng tính có thể chỉnh sửa hoàn toàn, tức là; người dùng cuối có thể chỉnh sửa bảng tính kết quả theo cách thủ công trong ứng dụng Microsoft Excel nếu được yêu cầu.
@@ -367,7 +367,7 @@ Các nhà phát triển có thể thiết kế và gửi báo cáo trực tiếp
  Độ trung thực cao - Đồng nhất với thiết kế báo cáo
     </h2>
     <p>
-Aspose.Cells for Reporting Services xuất báo cáo sang Microsoft bảng tính Excel theo cách mà kết quả xuất hiện giống với kết quả ban đầu do trình thiết kế báo cáo Dịch vụ báo cáo tích hợp tạo ra. Tất cả các tính năng báo cáo được chuyển đổi với độ chính xác cao nhất để làm cho Microsoft bảng tính Excel trông giống với bảng gốc nhất có thể.
+ Aspose.Cells for Reporting Services xuất báo cáo sang Microsoft bảng tính Excel theo cách mà kết quả xuất hiện giống với kết quả ban đầu như được tạo bởi trình thiết kế báo cáo Dịch vụ báo cáo tích hợp. Tất cả các tính năng báo cáo được chuyển đổi với độ chính xác cao nhất để làm cho Microsoft bảng tính Excel trông giống với bảng gốc nhất có thể.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services xuất báo cáo sang Microsoft bảng tính
  Tùy chọn xử lý dữ liệu khác nhau
     </h2>
     <p>
- Aspose.Cells for Reporting Services hỗ trợ các bảng với các hàng và chân trang được nhóm trong khi việc nhóm có thể được thiết lập tại thời điểm thiết kế giống như các mục báo cáo khác. Aspose.Cells for Reporting Services cũng hỗ trợ các tham số và biến toàn cục làm nguồn dữ liệu báo cáo. Các nhà phát triển cũng có thể sử dụng Truy vấn Microsoft để tạo nguồn dữ liệu và truy vấn; đây là một công cụ được sử dụng rộng rãi và quen thuộc với hầu hết người dùng.
+Aspose.Cells for Reporting Services hỗ trợ các bảng với các hàng và chân trang được nhóm trong khi việc nhóm có thể được thiết lập tại thời điểm thiết kế giống như các mục báo cáo khác. Aspose.Cells for Reporting Services cũng hỗ trợ các tham số và biến toàn cục làm nguồn dữ liệu báo cáo. Các nhà phát triển cũng có thể sử dụng Truy vấn Microsoft để tạo nguồn dữ liệu và truy vấn; đây là một công cụ được sử dụng rộng rãi và quen thuộc với hầu hết người dùng.
     </p>
     <p>
-Ngoài ra, Aspose.Cells for Reporting Services hỗ trợ cả nguồn dữ liệu cụ thể của báo cáo và nguồn dữ liệu được chia sẻ được tạo trước trên Máy chủ Báo cáo. Các nhà phát triển có thể sử dụng các nguồn dữ liệu cụ thể của báo cáo tại thời điểm thiết kế và chỉ định các nguồn dữ liệu được chia sẻ làm nguồn dữ liệu báo cáo trong khi xuất bản báo cáo.
+ Ngoài ra, Aspose.Cells for Reporting Services hỗ trợ cả nguồn dữ liệu cụ thể của báo cáo và nguồn dữ liệu được chia sẻ được tạo trước trên Máy chủ Báo cáo. Các nhà phát triển có thể sử dụng các nguồn dữ liệu cụ thể của báo cáo tại thời điểm thiết kế và chỉ định các nguồn dữ liệu được chia sẻ làm nguồn dữ liệu báo cáo trong khi xuất bản báo cáo.
     </p>
    </div>
    <!-- 

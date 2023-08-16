@@ -58,7 +58,7 @@ description: Java Beispielcode zum Suchen von Wörtern mit Muster in der Datei C
 {{% /blocks/products/pf/agp/text %}}
 
 + Laden Sie die Datei CSV, indem Sie ein Arbeitsmappenobjekt instanziieren.
-Greifen Sie auf das erste Arbeitsblatt in der Datei CSV zu.
++ Greifen Sie auf das erste Arbeitsblatt in der Datei CSV zu.
 + Suchen Sie die Zelle, die die angegebene Formel enthält.
 + FindOptions instanziieren.
 + Suchen Sie die Zelle, die einen Zeichenfolgenwert enthält

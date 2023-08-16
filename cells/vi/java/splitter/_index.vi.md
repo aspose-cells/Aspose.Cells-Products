@@ -10,7 +10,7 @@ description: Java mã nguồn giải thích cách chia Microsoft tệp Excel th�
 
 {{% blocks/products/pf/feature-page-section h2="Tách tài liệu Excel thành nhiều tệp" %}}
 
- Cách đơn giản nhất để chia tệp Excel thành trang tính là Truy cập tất cả các trang tính, lặp qua từng trang tính và lưu từng trang một ở định dạng mong muốn. Để tải trang tính, API cung cấp[Sách bài tập](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp học.[getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) phương pháp lấy tổng số tờ. Lặp lại qua từng trang tính và sử dụng[getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get)để truy cập trang tính cụ thể. Di chuyển dữ liệu trang tính đã chọn vào đối tượng lớp Workbook mới được tạo bằng cách sử dụng[phương pháp sao chép](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Cuối cùng lưu nó vào định dạng cần thiết.
+Cách đơn giản nhất để chia tệp Excel thành trang tính là Truy cập tất cả các trang tính, lặp qua từng trang tính và lưu từng trang một ở định dạng mong muốn. Để tải trang tính, API cung cấp[Sách bài tập](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook) lớp học.[getWorksheets().getCount()](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#Count) phương pháp lấy tổng số tờ. Lặp lại qua từng trang tính và sử dụng[getWorksheets().get(sheetindex)](https://reference.aspose.com/cells/java/com.aspose.cells/worksheetcollection#get) để truy cập trang tính cụ thể. Di chuyển dữ liệu trang tính đã chọn vào đối tượng lớp Workbook mới được tạo bằng cách sử dụng[phương pháp sao chép](https://reference.aspose.com/cells/java/com.aspose.cells/workbook#copy(com.aspose.cells.Workbook)). Cuối cùng lưu nó vào định dạng cần thiết.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code Tách File Excel" %}}
 
@@ -21,7 +21,7 @@ description: Java mã nguồn giải thích cách chia Microsoft tệp Excel th�
 
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Splitter" >}}
 
-{{% blocks/products/pf/feature-page-section h2="Chia trang tính Excel thành các ngăn" %}}
+{{% blocks/products/pf/feature-page-section h2="Chia trang tính Excel thành các ô" %}}
 
 API cũng cung cấp chức năng chia trang tính Excel thành các bảng khác nhau. Quy trình là, Tải tệp bằng lớp Workbook. Chọn trang tính đầu tiên hoặc bất kỳ trang tính nào được yêu cầu bằng cách cung cấp chỉ mục của nó. Gọi setActiveCell có chỉ số ô liên quan làm tham số. Và cuối cùng chia cửa sổ trang tính thành các ô khác nhau bằng cách gọi phương thức split().
 

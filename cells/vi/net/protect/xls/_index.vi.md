@@ -1,5 +1,5 @@
 ---
-title:  Bảo vệ và khóa tài liệu XLS via .NET
+title: Bảo vệ và khóa tài liệu XLS via .NET
 weight: 7010
 description: C# để khóa tệp XLS bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 ---

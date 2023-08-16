@@ -1,5 +1,5 @@
 ---
-title:  Bảo vệ và khóa tài liệu XLSX via Java
+title: Bảo vệ và khóa tài liệu XLSX via Java
 weight: 1870
 description: Java mã mẫu để khóa tệp XLSX bằng mật khẩu trên Java Môi trường thời gian chạy cho Ứng dụng JSP/JSF và Ứng dụng máy tính để bàn.
 ---

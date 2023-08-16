@@ -10,7 +10,7 @@ description: Reparieren Sie eine beschädigte Excel-Datei mit Java. Wiederherste
 
 {{% blocks/products/pf/agp/content h2="Reparieren Sie die Excel-Datei mit Java" %}}
 
- Um eine Excel-Datei zu reparieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung.
+ Um eine Excel-Datei zu reparieren, verwenden wir[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Plattform zur Dokumentenbearbeitung.
  
  Aspose.Cells API kann zum Erstellen, Bearbeiten, Konvertieren und Rendern von Microsoft Excel-Formaten in verschiedene Formate verwendet werden. Darüber hinaus kann es für umfassende Diagramme, skalierbare Berichte und zuverlässige Berechnungen innerhalb von Softwareanwendungen verwendet werden. Aspose.Cells ist ein eigenständiges API und erfordert keine Software wie Microsoft oder OpenOffice.
 
@@ -20,7 +20,7 @@ description: Reparieren Sie eine beschädigte Excel-Datei mit Java. Wiederherste
 
 {{% blocks/products/pf/agp/content h2="So reparieren Sie eine Excel-Datei mit Java" %}}
 
-Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
++ Definieren Sie eine Klasse, die Aspose.Cells.IWarningCallback erbt.
 + Laden Sie die Excel-Datei, indem Sie mithilfe der oben genannten Vererbungsklasse eine Instanz von Workbook erstellen. Weitere Informationen finden Sie im obigen Code.
 + Speichern Sie die Arbeitsmappe. Die beschädigte Excel-Datei wird repariert.
 

@@ -49,14 +49,14 @@ description: Java Beispielcode zum Kombinieren von XLSX-Dokumenten in der Java-L
 
 {{% blocks/products/pf/agp/text %}}
 
- Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
+Ein einfaches Dokument zum Zusammenführen und Verketten mit[Aspose.Cells for Java](https://products.aspose.com/cells/java) APIs können mit nur wenigen Codezeilen erstellt werden.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laden Sie die erste XLSX-Datei mit einer Instanz der Workbook-Klasse.
 + Laden Sie das zweite Dokument XLSX mit einer Instanz der Workbook-Klasse.
 + Dateien mit der Methode combin() zusammenführen.
-Speichern Sie die zusammengeführte Datei XLSX im angegebenen Pfad
++ Speichern Sie die zusammengeführte Datei XLSX im angegebenen Pfad
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsxFile1.save("combinedFileWithPath.xlsx");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Aspose API muss nicht heruntergeladen werden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es ist nicht nötig, Code zu schreiben." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre XLSX-Dateien hoch." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Es wird sofort zusammengeführt und verkettet." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Es wird sofort zusammengeführt und verkettet." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -33,12 +33,12 @@ Các nhà phát triển có thể dễ dàng tạo biểu đồ Vùng trong khi 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="yêu cầu hệ thống" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
+ Aspose.Cells for Python độc lập với nền tảng API và có thể được sử dụng trên mọi nền tảng (Windows, Linux), chỉ cần đảm bảo rằng hệ thống có[Python](https://www.python.org/downloads/) 3.7 trở lên.
 {{% /blocks/products/pf/agp/text %}}
 - Cài đặt Aspose.Cells for Python từ<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , sử dụng lệnh như:<code>$ pip install aspose-cells-python</code>.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng cách sử dụng Python." offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Mã nguồn sau đây cho biết cách tạo Biểu đồ vùng thành tệp MS Excel XLSX bằng Python." offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "7bb30376b4d40cdfd596286870fb9752" "Examples-Charts-CreateAreaChart.py" >}}
 

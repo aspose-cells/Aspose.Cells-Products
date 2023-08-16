@@ -12,7 +12,7 @@ description: Python thư viện bảng tính để tạo các tệp Excel đọc
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java là số API nhanh và đáng tin cậy cho các tác vụ xử lý bảng tính. Các nhà phát triển có thể tạo các bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ các tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đó là giải pháp tốt nhất để tự động hóa các báo cáo excel bằng python.
+Aspose.Cells for Python via Java là số API nhanh và đáng tin cậy cho các tác vụ xử lý bảng tính. Các nhà phát triển có thể tạo các bảng tính đơn giản hoặc phức tạp, thao tác cũng như trích xuất thông tin từ các tệp excel. API đọc nhiều định dạng excel và có thể hiển thị trang tính thành XPS, PDF, MHTML, HTML, Văn bản thuần túy, hình ảnh, v.v. Đó là giải pháp tốt nhất để tự động hóa các báo cáo excel bằng python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Nâng cao Python Tính năng Excel API
     </p>
     <div class="codeblock" id="code">
      <h3>
- Lưu bảng tính với các định dạng khác nhau - Java
+Lưu bảng tính với các định dạng khác nhau - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Tùy chọn hiển thị linh hoạt
     </h2>
     <p>
-Aspose.Cells for Python via Java cung cấp toàn quyền kiểm soát thiết lập trang cho phép thao tác nhiều tùy chọn hiển thị như ngắt trang xem trước, đặt mức thu phóng, đặt hướng trang, kiểm soát khả năng hiển thị dữ liệu với ngăn cố định, kích thước giấy, chia tỷ lệ, tiêu đề & amp; chân trang và khu vực in.
+ Aspose.Cells for Python via Java cung cấp toàn quyền kiểm soát thiết lập trang cho phép thao tác nhiều tùy chọn hiển thị như ngắt trang xem trước, đặt mức thu phóng, đặt hướng trang, kiểm soát khả năng hiển thị dữ liệu với ngăn cố định, kích thước giấy, chia tỷ lệ, tiêu đề &amp; chân trang và khu vực in.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java cung cấp toàn quyền kiểm soát thiết l
  Tùy chỉnh biểu đồ
     </h2>
     <p>
- Aspose.Cells for Python via Java cung cấp hỗ trợ đầy đủ cho biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn và tùy chỉnh hoặc tự động đặt dữ liệu biểu đồ để làm mới biểu đồ trong thư viện python này.
+Aspose.Cells for Python via Java cung cấp hỗ trợ đầy đủ cho biểu đồ. Người ta có thể dễ dàng thêm các biểu đồ tiêu chuẩn và tùy chỉnh hoặc tự động đặt dữ liệu biểu đồ để làm mới biểu đồ trong thư viện python này.
     </p>
    </div>
    <!--

@@ -1,5 +1,5 @@
 ---
-title:  Bảo vệ và khóa tài liệu XLSX via .NET
+title: Bảo vệ và khóa tài liệu XLSX via .NET
 weight: 90
 description: C# để khóa tệp XLSX bằng mật khẩu trên .NET Framework, .NET Core, Mono hoặc Nền tảng Xamarin.
 ---

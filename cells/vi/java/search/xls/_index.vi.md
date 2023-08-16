@@ -58,7 +58,7 @@ description: Java mã mẫu để tìm kiếm các từ có mẫu trong tệp XL
 {{% /blocks/products/pf/agp/text %}}
 
 + Tải tệp XLS bằng cách khởi tạo đối tượng Workbook.
-Truy cập trang tính đầu tiên trong tệp XLS.
++ Truy cập trang tính đầu tiên trong tệp XLS.
 + Tìm ô chứa công thức xác định.
 + Khởi tạo FindOptions.
 + Tìm ô chứa giá trị chuỗi

@@ -11,7 +11,7 @@ description: C# Mã mẫu để chuyển đổi XLT thành Byte Array. Sử dụ
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array hữu ích cho việc xử lý hoặc lưu trữ dữ liệu. Bạn có thể chuyển đổi tệp XLT thành Byte Array cũng như**Mảng byte đến XLT**tài liệu sử dụng ngôn ngữ C#. Để chuyển đổi XLT thành mảng byte, chúng tôi sẽ sử dụng
+ Byte Array hữu ích cho việc xử lý hoặc lưu trữ dữ liệu. Bạn có thể chuyển đổi tệp XLT thành Byte Array cũng như**Mảng byte đến XLT** tài liệu sử dụng ngôn ngữ C#. Để chuyển đổi XLT thành mảng byte, chúng tôi sẽ sử dụng
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API cung cấp các tính năng khác nhau để thao tác và chuyển đổi tài liệu bằng nền tảng .NET.
 {{% /blocks/products/pf/agp/content %}}

@@ -16,7 +16,7 @@ description: Xử lý các định dạng file Excel qua thư viện Node.js. Đ
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java hỗ trợ hầu hết các định dạng bảng tính phổ biến bao gồm XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Xử lý các định dạng file Excel qua thư viện Node.js. Đ
  Chuyển đổi trang tính thành hình ảnh
     </li>
     <li>
-Chuyển đổi Bảng tính thành PDF
+ Chuyển đổi Bảng tính thành PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Chuyển đổi Bảng tính thành PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Tạo &amp; thao tác nhận xét &amp; siêu liên kết
+Tạo &amp; thao tác nhận xét &amp; siêu liên kết
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Chuyển đổi Bảng tính thành PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Thao tác và làm mới Bảng Pivot qua API
+ Thao tác và làm mới Bảng Pivot qua API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Thao tác và làm mới Bảng Pivot qua API
  Tùy chọn hiển thị linh hoạt
     </h2>
     <p>
- Aspose.Cells for Node.js via Java cung cấp toàn quyền kiểm soát thiết lập trang của trang tính, người ta có thể thao tác các tùy chọn hiển thị của trang tính như hướng trang, dấu ngắt, kích thước, tỷ lệ, đầu trang, chân trang và mức thu phóng. Hơn nữa, các nhà phát triển có thể kiểm soát khả năng hiển thị dữ liệu với sự trợ giúp của khu vực in và ngăn cố định để phù hợp với thông số kỹ thuật của ứng dụng.
+Aspose.Cells for Node.js via Java cung cấp toàn quyền kiểm soát thiết lập trang của trang tính, người ta có thể thao tác các tùy chọn hiển thị của trang tính như hướng trang, dấu ngắt, kích thước, tỷ lệ, đầu trang, chân trang và mức thu phóng. Hơn nữa, các nhà phát triển có thể kiểm soát khả năng hiển thị dữ liệu với sự trợ giúp của khu vực in và ngăn cố định để phù hợp với thông số kỹ thuật của ứng dụng.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Thao tác và làm mới Bảng Pivot qua API
  Tùy chọn bảo mật
     </h2>
     <p>
-Aspose.Cells for Node.js via Java cung cấp nhiều tính năng bảo mật bao gồm mã hóa/giải mã bảng tính, nội dung, đối tượng &amp; bảo vệ kịch bản cũng như khả năng ẩn và hiện hàng, cột &amp; bảng tính.
+ Aspose.Cells for Node.js via Java cung cấp nhiều tính năng bảo mật bao gồm mã hóa/giải mã bảng tính, nội dung, đối tượng &amp; bảo vệ kịch bản cũng như khả năng ẩn và hiện hàng, cột &amp; bảng tính.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java cung cấp nhiều tính năng bảo mật bao
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Hỗ trợ toàn diện cho định dạng trang tính
+Hỗ trợ toàn diện cho định dạng trang tính
     </h2>
     <p>
-Aspose.Cells for Node.js via Java cung cấp các tính năng định dạng nâng cao cho phép bạn kiểm soát việc trình bày dữ liệu của mình. Bạn có thể áp dụng định dạng cho một trang tính, cột, hàng hoặc ô hoặc thêm Văn bản có định dạng vào một ô, áp dụng đường viền, đặt mẫu nền và kiểu phông chữ. API cũng cho phép thêm, thao tác &amp; tính toán các quy tắc định dạng có điều kiện một cách nhanh chóng.
+ Aspose.Cells for Node.js via Java cung cấp các tính năng định dạng nâng cao cho phép bạn kiểm soát việc trình bày dữ liệu của mình. Bạn có thể áp dụng định dạng cho một trang tính, cột, hàng hoặc ô hoặc thêm Văn bản có định dạng vào một ô, áp dụng đường viền, đặt mẫu nền và kiểu phông chữ. API cũng cho phép thêm, thao tác &amp; tính toán các quy tắc định dạng có điều kiện một cách nhanh chóng.
     </p>
    </div>
    <div class="col-lg-12">

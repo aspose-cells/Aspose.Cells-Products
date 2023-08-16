@@ -13,7 +13,7 @@ description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLS
 
  Um XLSX-Dateimetadaten zu erhalten, verwenden wir
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
+API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Metadatenplattform. Sie können die neueste Version direkt von herunterladen
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
@@ -58,7 +58,7 @@ description: Java Beispielcode zum Bearbeiten oder Anzeigen von Metadaten im XLS
 {{% /blocks/products/pf/agp/text %}}
 
 + Laden Sie die Datei XLSX in WorkbookMetadata
-Erstellen Sie ein MetadataOptions-Objekt mit relevanten Optionen
++ Erstellen Sie ein MetadataOptions-Objekt mit relevanten Optionen
 + Legen Sie die relevanten Eigenschaften fest
 + Speichern Sie die Metadateninformationen XLSX
 

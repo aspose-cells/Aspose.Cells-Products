@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق ODS وثيقة via Java
+title: حماية وإغلاق ODS وثيقة via Java
 weight: 6360
 description: رمز عينة Java لقفل ملف ODS باستخدام كلمة مرور على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---

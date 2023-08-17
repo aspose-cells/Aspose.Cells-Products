@@ -1,5 +1,5 @@
 ---
-title:  تحويل XLSX إلى PDF / A الملفات المتوافقة via Java
+title: تحويل XLSX إلى PDF / A الملفات المتوافقة via Java
 weight: 3200
 description: نموذج Java كود التحويل لتنسيق XLSX إلى PDF A الملفات المتوافقة. يمكن للمبرمجين استخدام رمز المثال هذا لتصدير جداول بيانات Excel و OpenOffice إلى ملفات PDFA المتوافقة داخل أي تطبيق يستند إلى الويب أو سطح المكتب Java.
 ---
@@ -13,7 +13,7 @@ description: نموذج Java كود التحويل لتنسيق XLSX إلى PDF 
 
  من أجل تقديم XLSX إلى PDF / A ، سنستخدم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API وهي منصة تحويل غنية بالمميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
+ API وهي منصة تحويل غنية بالمميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
@@ -58,7 +58,7 @@ API وهي منصة تحويل غنية بالمميزات وقوية وسهلة
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتحميل ملف XLSX بنسخة من فئة المصنف
-1.  إنشاء كائن فئة PdfSaveOptions
+1. إنشاء كائن فئة PdfSaveOptions
 1.  قم بتعيين نوع الامتثال PdfCompliance.PdfA1b
 1.  استدعاء طريقة Workbook.save
 1.  قم بتمرير مسار الإخراج مع امتداد PDF وكائن PdfSaveOptions كمعلمات

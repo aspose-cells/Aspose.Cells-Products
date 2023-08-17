@@ -1,7 +1,8 @@
 ---
-title:  Voeg ODS samen met MHT via C#
+title: Voeg ODS samen met MHT - Combineer ODS met MHT in C#
 url: /nl/net/merger/merge-ods-to-mht/ 
-description: Voeg gratis ODS samen met MHT Online. Gratis online ODS voor MHT-fusie. Voeg ODS samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C# Aspose.Cells. Gratis online samenvoegen ODS naar MHT-opslagformaat. C# Combineer ODS naar MHT-formaat. Samenvoegen ODS naar MHT in C#. ODS Samenvoegen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge ODS to MHT in C#., Free Online C# Merge ODS to mht., C# Combine ODS to MHT Online for Free., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg ODS samen met MHT via C#" h2="Snelle C#-bibliotheek voor het samenvoegen van ODS met MHT. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C#. Dit is een professionele softwareoplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Voeg gratis ODS samen met MHT Online. Gratis online ODS voor MHT-fu
 
 {{% blocks/products/pf/agp/content h2="Voeg ODS samen met MHT met behulp van C#" %}}
 
- Hoe ODS samen te voegen met MHT? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig ODS programmatisch samenvoegen met MHT met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik ODS samen met MHT? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig ODS programmatisch samenvoegen met MHT met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Voeg gratis ODS samen met MHT in C# Online" %}}
 
-Het volgende voorbeeld laat zien hoe u ODS kunt samenvoegen met MHT in C#.
+Het volgende voorbeeld laat zien hoe u ODS kunt samenvoegen met MHT in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om ODS samen te voegen met MHT. Upload uw bestanden, bel de methode Workbook.Combine voor het samenvoegen van bestanden en sla deze vervolgens op in het MHT-bestand. Als u code ontwikkelt in C#, is dit eenvoudiger dan het klinkt. Zie voorbeeld C# dat ODS samenvoegt met MHT.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om ODS samen te voegen met MHT. Upload uw bestanden, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om ODS online samen te voegen met MHT" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratis online om ODS samen te voegen met MHT in C#" InputFormat="ods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe ODS samen te voegen met MHT via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
+Wilt u ODS programmatisch samenvoegen met MHT? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C#-project.
 + Laad het bestand ODS met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -62,7 +65,7 @@ Er zijn twee alternatieve opties om "Aspose.Cells for .NET" op uw systeem te ins
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells/) . Zien[Documentatie](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)binnen Visual Studio-IDE
+1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) binnen Visual Studio-IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Bestanden met de extensie .ods staan voor OpenDocument Spreadsheet Document-indeling die door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypes in de familie Open Document Formats (ODF). Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal applicaties op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook worden geconverteerd naar andere spreadsheetindelingen, zoals XLS, XLSX en andere door verschillende toepassingen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Een bestand met de extensie .mht is een door MIME ingeschakelde bestandsindeling voor archivering die verschillende soorten gegevens in één bestand bevat. Het kan gegevens opslaan zoals tekst, afbeeldingen, pagina-opmaak in de vorm van CSS-bestanden, JavaScript en andere bronnen als ingebedde bronnen. MHT-bestanden, met MIME-type message/rfc822, kapselen alle inhoud van een HTML-bestand in als een enkel archiefbestand voor opslag bij archivering op opslagapparaten. Met softwaretoepassingen zoals Microsoft Word kunt u uw WORD-documenten naar MHT converteren door ze als MHT-bestand te exporteren. MHT-bestanden kunnen worden geopend met populaire browsers zoals Microsoft Internet Explore en Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C# kan men ook ods samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-docx/" name="Voeg ODS samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-sql/" name="Voeg ODS samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-bmp/" name="Voeg ODS samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-emf/" name="Voeg ODS samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-gif/" name="Voeg ODS samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-html/" name="Voeg ODS samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-md/" name="Voeg ODS samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-mhtml/" name="Voeg ODS samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-ods/" name="Voeg ODS samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-pdf/" name="Voeg ODS samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-png/" name="Voeg ODS samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-svg/" name="Voeg ODS samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-tiff/" name="Voeg ODS samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-tsv/" name="Voeg ODS samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-txt/" name="Voeg ODS samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xls/" name="Voeg ODS samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsb/" name="Voeg ODS samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsm/" name="Voeg ODS samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlsx/" name="Voeg ODS samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xlt/" name="Voeg ODS samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xltm/" name="Voeg ODS samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xltx/" name="Voeg ODS samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xml/" name="Voeg ODS samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-xps/" name="Voeg ODS samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-json/" name="Voeg ODS samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ods-to-jpeg/" name="Voeg ODS samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

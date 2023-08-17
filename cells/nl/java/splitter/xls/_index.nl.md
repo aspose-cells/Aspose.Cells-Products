@@ -13,7 +13,7 @@ description: Java voorbeeldcode om XLS documenten te splitsen op Java Runtime En
 
  Om het XLS-bestand te splitsen, gebruiken we
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, een feature-rijke, krachtige en gebruiksvriendelijke splitter API for Java platform. U kunt de nieuwste versie rechtstreeks downloaden van
+ API, een feature-rijke, krachtige en gebruiksvriendelijke splitter API for Java platform. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 

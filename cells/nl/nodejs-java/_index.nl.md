@@ -16,7 +16,7 @@ description: Verwerk Excel-bestandsindelingen via de Node.js-bibliotheek. Lezen,
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java ondersteunt de meest populaire spreadsheetformaten, waaronder XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java ondersteunt de meest populaire spreadsheetformaten, waaronder XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Verwerk Excel-bestandsindelingen via de Node.js-bibliotheek. Lezen,
  Converteer werkblad naar afbeelding
     </li>
     <li>
-Spreadsheet converteren naar PDF
+ Spreadsheet converteren naar PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Spreadsheet converteren naar PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Maak &amp; opmerkingen manipuleren &amp; hyperlinks
+Maak &amp; opmerkingen manipuleren &amp; hyperlinks
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Spreadsheet converteren naar PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Draaitabellen manipuleren en vernieuwen via API
+ Draaitabellen manipuleren en vernieuwen via API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Draaitabellen manipuleren en vernieuwen via API
  Flexibele weergave-opties
     </h2>
     <p>
- Aspose.Cells for Node.js via Java biedt volledige controle over de pagina-instelling van het werkblad, men kan de weergaveopties van het werkblad manipuleren, zoals pagina-oriëntatie, pauzes, grootte, schaal, kopteksten, voetteksten en zoomniveau. Bovendien kunnen ontwikkelaars de zichtbaarheid van gegevens regelen met behulp van printgebied en stilstaande vensters om aan de toepassingsspecificaties te voldoen.
+Aspose.Cells for Node.js via Java biedt volledige controle over de pagina-instelling van het werkblad, men kan de weergaveopties van het werkblad manipuleren, zoals pagina-oriëntatie, pauzes, grootte, schaal, kopteksten, voetteksten en zoomniveau. Bovendien kunnen ontwikkelaars de zichtbaarheid van gegevens regelen met behulp van printgebied en stilstaande vensters om aan de toepassingsspecificaties te voldoen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Draaitabellen manipuleren en vernieuwen via API
  Beveiligings opties
     </h2>
     <p>
-Aspose.Cells for Node.js via Java biedt een breed scala aan beveiligingsfuncties, waaronder versleuteling/ontsleuteling van spreadsheets, inhoud, object &amp; scenariobescherming en de mogelijkheid om rijen, kolommen &amp; werkbladen.
+ Aspose.Cells for Node.js via Java biedt een breed scala aan beveiligingsfuncties, waaronder versleuteling/ontsleuteling van spreadsheets, inhoud, object &amp; scenariobescherming en de mogelijkheid om rijen, kolommen &amp; werkbladen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java biedt een breed scala aan beveiligingsfuncties
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Uitgebreide ondersteuning voor opmaak van werkbladen
+Uitgebreide ondersteuning voor opmaak van werkbladen
     </h2>
     <p>
-Aspose.Cells for Node.js via Java biedt geavanceerde opmaakfuncties waarmee u de presentatie van uw gegevens kunt bepalen. U kunt opmaak toepassen op een werkblad, kolom, rij of cel of Rich Text toevoegen aan een enkele cel, randen toepassen, achtergrondpatronen en lettertypestijlen instellen. De API maakt het ook mogelijk om &amp; direct voorwaardelijke opmaakregels berekenen.
+ Aspose.Cells for Node.js via Java biedt geavanceerde opmaakfuncties waarmee u de presentatie van uw gegevens kunt bepalen. U kunt opmaak toepassen op een werkblad, kolom, rij of cel of Rich Text toevoegen aan een enkele cel, randen toepassen, achtergrondpatronen en lettertypestijlen instellen. De API maakt het ook mogelijk om &amp; direct voorwaardelijke opmaakregels berekenen.
     </p>
    </div>
    <div class="col-lg-12">

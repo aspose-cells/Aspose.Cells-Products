@@ -1,7 +1,7 @@
 ---
-title: Converteer SXC naar TABDELIMITED Python via Python
-description: Converteer SXC naar TABDELIMITED online gratis. Gratis online SXC naar TABDELIMITED Converter. Python SXC naar TABDELIMITED. SXC naar TABDELIMITED via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC naar TABDELIMITED - Online SXC naar TABDELIMITED Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer SXC naar TABDELIMITED opslagformaat. Python SXC naar TABDELIMITED-indeling. Sla SXC op in TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to TABDELIMITED saveformat., Free Online SXC to TABDELIMITED Python., Python Convert SXC to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer SXC naar TABDELIMITED in Python" h2="Snelle Python-bibliotheek voor het converteren van SXC naar TABDELIMITED. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Converteer SXC naar TABDELIMITED in Python" %}}
 
- Hoe SXC naar TABDELIMITED converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u SXC eenvoudig programmatisch converteren naar TABDELIMITED met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik SXC naar TABDELIMITED? Met Aspose.Cells for Python via NET bibliotheek, kunt u SXC eenvoudig programmatisch converteren naar TABDELIMITED met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om SXC om te zetten in TABDELIMITED. Upload uw SXC-be
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om SXC online naar TABDELIMITED te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om SXC online naar TABDELIMITED te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe SXC naar TABDELIMITED te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen eenvoudig SXC laden en converteren naar TABDELIMITED in slechts een paar regels code.
+Wilt u SXC-bestanden programmatisch converteren naar TABDELIMITED? Python-ontwikkelaars kunnen eenvoudig SXC laden en converteren naar TABDELIMITED in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand SXC met een instantie van Workbook
-1.  Converteer SXC naar TABDELIMITED door de methode Workbook.save aan te roepen
+1.  Laad het bestand SXC met een instantie van Workbook.
+1.  Converteer SXC naar TABDELIMITED door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van SXC naar TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Het bestandsformaat SXC (Sun XML Calc) behoort tot een kantoorsuite genaamd OpenOffice.org. Dit formaat houdt over het algemeen rekening met de spreadsheetbehoeften van gebruikers, aangezien het een op XML gebaseerd spreadsheetbestandsformaat is. SXC-formaat ondersteunt formules, functies, macro's en grafieken samen met DataPilot, wat een ongelooflijke functie is omdat het automatisch individualiseert en samenvattingen geeft van onbewerkte geïmporteerde gegevens. De bestanden die met deze software zijn gemaakt, worden opgeslagen met de extensie .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Een door tabs gescheiden waarden (TSV) bestandsindeling vertegenwoordigt gegevens gescheiden door tabs in platte tekst. Het bestandsformaat, vergelijkbaar met CSV, wordt gebruikt voor het gestructureerd organiseren van gegevens om te importeren en exporteren tussen verschillende applicaties. Het formaat wordt voornamelijk gebruikt voor het importeren/exporteren en uitwisselen van gegevens in Spreadsheet-toepassingen en databases. Elke record in een TSV-bestand bevindt zich in een enkele regel tekstbestand waarin elke veldwaarde wordt gescheiden door een tabteken. Het mediatype voor de bestandsindeling TSV is tekst/door tabs gescheiden waarden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt SXC ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

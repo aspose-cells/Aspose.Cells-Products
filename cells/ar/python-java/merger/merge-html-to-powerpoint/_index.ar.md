@@ -1,7 +1,8 @@
 ---
-title:  ادمج HTML في POWERPOINT عبر Python
+title: دمج HTML إلى POWERPOINT - اجمع HTML إلى POWERPOINT في Python
 url: /ar/python-java/merger/merge-html-to-powerpoint/ 
-description: دمج HTML في POWERPOINT Online مجانًا. على الإنترنت مجانًا من HTML إلى POWERPOINT Merger. دمج HTML في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Python Aspose.Cells. الدمج المجاني عبر الإنترنت HTML إلى تنسيق حفظ POWERPOINT. Python اجمع HTML إلى تنسيق POWERPOINT. دمج HTML إلى POWERPOINT في Python. دمج HTML.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to POWERPOINT in Python., Free Online Python Merge HTML to powerpoint., Python Combine HTML to POWERPOINT Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج HTML في POWERPOINT عبر Python" h2="مكتبة Python عالية السرعة لدمج HTML إلى POWERPOINT. استخدم تحويل Excel API الخاص بنا لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في Python. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: دمج HTML في POWERPOINT Online مجانًا. على الإنت�
 
 {{% blocks/products/pf/agp/content h2="دمج HTML إلى POWERPOINT باستخدام Python" %}}
 
- كيفية دمج HTML في POWERPOINT؟ مع مكتبة Aspose.Cells for Python ، يمكنك بسهولة دمج HTML إلى POWERPOINT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
+ كيف أقوم بدمج HTML في POWERPOINT؟ مع مكتبة Aspose.Cells for Python via Java ، يمكنك بسهولة دمج HTML إلى POWERPOINT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python via Java من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="دمج HTML في POWERPOINT في Python عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج HTML مع POWERPOINT في Python.
+يوضح المثال التالي كيفية دمج HTML مع POWERPOINT في Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج HTML في POWERPOINT. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف POWERPOINT. إذا قمت بتطوير رمز في Python ، فسيكون هذا أبسط مما يبدو. راجع Python المثال الذي يدمج HTML إلى POWERPOINT.
@@ -27,16 +28,18 @@ description: دمج HTML في POWERPOINT Online مجانًا. على الإنت�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج HTML إلى POWERPOINT عبر الإنترنت" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="عبر الإنترنت مجانًا لدمج HTML في POWERPOINT في Python" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج HTML مع POWERPOINT عبر Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج HTML في POWERPOINT برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Python via Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Python.
 + قم بتحميل ملف HTML مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -75,21 +78,41 @@ description: دمج HTML في POWERPOINT Online مجانًا. على الإنت�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) هو امتداد لصفحات الويب التي تم تكوينها للعرض في المستعرضات. تُعرف باسم لغة الويب ، وقد تطورت HTML مع متطلبات متطلبات المعلومات الجديدة ليتم عرضها كجزء من صفحات الويب. يُعرف المتغير الأخير باسم HTML 5 والذي يوفر قدرًا كبيرًا من المرونة للعمل مع اللغة. يتم استلام HTML صفحات إما من الخادم ، حيث يتم استضافتها ، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من HTML عناصر مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. يتم تمثيل هذه العناصر بواسطة العلامات والعديد من العناصر الأخرى حيث يكون لكل علامة بداية ونهاية. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript و Style Sheets (CSS) لتمثيل التخطيط العام.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}الملفات ذات امتداد PPTX هي ملفات عرض تم إنشاؤها باستخدام تطبيق Microsoft PowerPoint الشهير. بخلاف الإصدار السابق من تنسيق ملف العرض التقديمي PPT الذي كان ثنائيًا ، يعتمد تنسيق PPTX على تنسيق ملف العرض التقديمي XML المفتوح Microsoft PowerPoint. ملف العرض التقديمي عبارة عن مجموعة من الشرائح حيث يمكن أن تتكون كل شريحة من نصوص وصور وتنسيقات ورسوم متحركة ووسائط أخرى. يتم تقديم هذه الشرائح للجمهور في شكل عروض شرائح مع إعدادات عرض مخصصة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Python ، يمكن أيضًا دمج html مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-docx/" name="ادمج HTML إلى DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-sql/" name="دمج HTML في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-bmp/" name="ادمج HTML إلى BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-emf/" name="ادمج HTML إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-gif/" name="ادمج HTML إلى GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-html/" name="ادمج HTML إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-md/" name="دمج HTML في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-mhtml/" name="ادمج HTML إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-ods/" name="ادمج HTML إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-pdf/" name="ادمج HTML إلى PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-png/" name="ادمج HTML إلى PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-svg/" name="ادمج HTML إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tiff/" name="ادمج HTML إلى TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tsv/" name="ادمج HTML إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-txt/" name="ادمج HTML إلى TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xls/" name="ادمج HTML إلى XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsb/" name="ادمج HTML إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsm/" name="ادمج HTML إلى XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsx/" name="ادمج HTML إلى XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlt/" name="ادمج HTML إلى XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltm/" name="ادمج HTML إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltx/" name="ادمج HTML إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xml/" name="دمج HTML في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xps/" name="ادمج HTML إلى XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-json/" name="ادمج HTML إلى JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-jpeg/" name="ادمج HTML إلى JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

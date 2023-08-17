@@ -1,7 +1,7 @@
 ---
-title: Converteer EXCEL naar TXT Python via Python
-description: Converteer EXCEL gratis naar TXT online. Gratis online EXCEL naar TXT Converter. Python EXCEL naar TXT. EXCEL naar TXT via Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL naar TXT - Online EXCEL naar TXT Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer EXCEL naar TXT saveformat. Python EXCEL naar TXT formaat. Sla EXCEL op naar TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to TXT saveformat., Free Online EXCEL to TXT Python., Python Convert EXCEL to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer EXCEL naar TXT in Python" h2="Supersnelle Python-bibliotheek voor het converteren van EXCEL naar TXT. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Converteer EXCEL naar TXT in Python" %}}
 
- Hoe EXCEL naar TXT te converteren? Met Aspose.Cells for Python via NET-bibliotheek, kunt u EXCEL eenvoudig programmatisch converteren naar TXT met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik EXCEL naar TXT? Met Aspose.Cells for Python via NET-bibliotheek, kunt u EXCEL eenvoudig programmatisch converteren naar TXT met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om EXCEL naar TXT te converteren. Upload uw EXCEL-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om EXCEL online naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om EXCEL online naar TXT te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe EXCEL naar TXT te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen EXCEL eenvoudig laden en converteren naar TXT in slechts een paar regels code.
+Wilt u EXCEL-bestanden programmatisch converteren naar TXT? Python-ontwikkelaars kunnen EXCEL eenvoudig laden en converteren naar TXT in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad een EXCEL-bestand met een instantie van Workbook
-1.  Converteer EXCEL naar TXT door de methode Workbook.save aan te roepen
+1.  Laad een EXCEL-bestand met een instantie van Workbook.
+1.  Converteer EXCEL naar TXT door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van EXCEL naar TXT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX is een bekend formaat voor Microsoft Excel-documenten dat werd geïntroduceerd door Microsoft met de release van Microsoft Office 2007. Gebaseerd op structuur georganiseerd volgens de Open Packaging-conventies zoals uiteengezet in deel 2 van de OOXML-standaard ECMA-376, is het nieuwe formaat een zip-pakket dat een aantal XML-bestanden bevat. De onderliggende structuur en bestanden kunnen worden onderzocht door simpelweg het .xlsx-bestand uit te pakken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Een bestand met de extensie .TXT vertegenwoordigt een tekstdocument dat platte tekst in de vorm van regels bevat. Alinea's in een tekstdocument worden herkend door regelteruglooptekens en worden gebruikt om de bestandsinhoud beter te ordenen. Een standaardtekstdocument kan worden geopend in elke teksteditor of tekstverwerker op verschillende besturingssystemen. Alle tekst in zo'n bestand is in een voor mensen leesbaar formaat en wordt weergegeven door een reeks tekens.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt EXCEL ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

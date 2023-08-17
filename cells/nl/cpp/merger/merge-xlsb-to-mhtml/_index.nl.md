@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen XLSB naar MHTML via C++
+title: Voeg XLSB samen met MHTML - Combineer XLSB met MHTML in C++
 url: /nl/cpp/merger/merge-xlsb-to-mhtml/ 
-description: Samenvoegen XLSB naar MHTML Online gratis. Gratis online XLSB tot MHTML Fusie. Voeg XLSB samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C++ Aspose.Cells. Gratis online Samenvoegen XLSB naar MHTML saveformat. C++ Combineer het formaat XLSB tot MHTML. Samenvoegen XLSB tot MHTML in C++. XLSB Samenvoegen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSB to MHTML in C++., Free Online C++ Merge XLSB to mhtml., C++ Combine XLSB to MHTML Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen XLSB naar MHTML via C++" h2="Supersnelle C++-bibliotheek voor het samenvoegen van XLSB tot MHTML. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C++. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen XLSB naar MHTML Online gratis. Gratis online XLSB tot M
 
 {{% blocks/products/pf/agp/content h2="Voeg XLSB samen met MHTML met C++" %}}
 
- Hoe XLSB samen te voegen met MHTML? Met de bibliotheek Aspose.Cells for C++ kunt u eenvoudig XLSB naar MHTML programmatisch samenvoegen met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik XLSB samen met MHTML? Met de Aspose.Cells for C++-bibliotheek kunt u eenvoudig XLSB tot MHTML programmatisch samenvoegen met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Voeg XLSB samen met MHTML in C++ Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB samenvoegt met MHTML in C++.
+Het volgende voorbeeld laat zien hoe u XLSB samenvoegt met MHTML in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB samen te voegen met MHTML. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand MHTML. Als u code ontwikkelt in C++, is dit eenvoudiger dan het klinkt. Zie voorbeeld C++ dat XLSB samenvoegt met MHTML.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om XLSB samen te voegen met MHTML. Upload uw bestande
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XLSB online samen te voegen tot MHTML" InputFormat="xlsb" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Gratis online om XLSB samen te voegen tot MHTML in C++" InputFormat="xlsb" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLSB samen te voegen met MHTML via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XLSB programmatisch samenvoegen tot MHTML? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for C++'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C++-project.
 + Laad het bestand XLSB met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -63,7 +66,7 @@ Er zijn drie opties om "Aspose.Cells for C++" op uw systeem te installeren. Kies
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installeer de bibliotheek met behulp van Include en lib Folders. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}De bestandsindeling XLSB specificeert de binaire bestandsindeling van Excel, een verzameling records en structuren die de inhoud van de Excel-werkmap specificeren. De inhoud kan ongestructureerde of semi-gestructureerde tabellen met getallen, tekst of zowel getallen als tekst, formules, externe gegevensverbindingen, grafieken en afbeeldingen bevatten. In tegenstelling tot XLSX (dat is gebaseerd op de Open XML-bestandsindeling), vertegenwoordigt de XLSB het binaire Excel-werkmapbestand. XLSB-bestanden kunnen sneller worden gelezen en geschreven, waardoor ze handig zijn voor het werken met grote bestanden. XLSB wordt zelden gebruikt om werkmappen op te slaan, aangezien XLSX (en voorheen XLS) de meest gebruikelijke door de gebruiker geselecteerde bestandsindelingen zijn voor het opslaan van werkmappen. Het kan worden geopend door Microsoft Office 2007 en hoger.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Bestanden met de extensie MHTML vertegenwoordigen een archiefindeling voor webpagina's die door een aantal verschillende toepassingen kan worden gemaakt. Het formaat staat bekend als archiefformaat omdat het de webcode HTML en bijbehorende bronnen in één bestand opslaat. Deze bronnen omvatten alles wat aan de webpagina is gekoppeld, zoals afbeeldingen, applets, animaties, audiobestanden, enzovoort. MHTML-bestanden kunnen worden geopend in verschillende toepassingen, zoals Internet Explorer en Microsoft Word. Microsoft Windows gebruikt de bestandsindeling MHTML voor het opnemen van scenario's van problemen die zijn waargenomen tijdens het gebruik van een toepassing op Windows die problemen veroorzaakt. Het bestandsformaat MHTML codeert de pagina-inhoud vergelijkbaar met de specificaties die zijn gedefinieerd in message/rfc822, wat e-mailgerelateerde specificaties in platte tekst zijn.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C++ kan men xlsb ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-docx/" name="Voeg XLSB samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-sql/" name="Voeg XLSB samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-bmp/" name="Voeg XLSB samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-emf/" name="Voeg XLSB samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-gif/" name="Voeg XLSB samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-html/" name="Voeg XLSB samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-md/" name="Voeg XLSB samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-mhtml/" name="Voeg XLSB samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-ods/" name="Voeg XLSB samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-pdf/" name="Voeg XLSB samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-png/" name="Voeg XLSB samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-svg/" name="Voeg XLSB samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-tiff/" name="Voeg XLSB samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-tsv/" name="Voeg XLSB samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-txt/" name="Voeg XLSB samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xls/" name="Voeg XLSB samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsb/" name="Voeg XLSB samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsm/" name="Voeg XLSB samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlsx/" name="Voeg XLSB samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xlt/" name="Voeg XLSB samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xltm/" name="Voeg XLSB samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xltx/" name="Voeg XLSB samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xml/" name="Voeg XLSB samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-xps/" name="Voeg XLSB samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-json/" name="Voeg XLSB samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsb-to-jpeg/" name="Voeg XLSB samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

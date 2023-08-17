@@ -1,7 +1,8 @@
 ---
-title:  دمج MHT في PDF via Java
+title: دمج MHT في PDF - ادمج MHT مع PDF في Java
 url: /ar/java/merger/merge-mht-to-pdf/ 
-description: قم بدمج MHT في PDF عبر الإنترنت مجانًا. MHT على الإنترنت مجانًا حتى اندماج PDF. دمج MHT في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Java Aspose.Cells. دمج MHT عبر الإنترنت مجانًا إلى تنسيق حفظ PDF. Java ادمج MHT مع تنسيق PDF. دمج MHT في PDF في Java. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to PDF in Java., Free Online Java Merge MHT to pdf., Java Combine MHT to PDF Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دمج MHT في PDF via Java" h2="مكتبة Java عالية السرعة لدمج MHT إلى PDF. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن المنصة في Java. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: قم بدمج MHT في PDF عبر الإنترنت مجانًا. MH
 
 {{% blocks/products/pf/agp/content h2="ادمج MHT مع PDF باستخدام Java" %}}
 
- كيفية دمج MHT في PDF؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج MHT في PDF برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ كيف أقوم بدمج MHT في PDF؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج MHT في PDF برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: قم بدمج MHT في PDF عبر الإنترنت مجانًا. MH
 
 {{% blocks/products/pf/agp/content h2="قم بدمج MHT في PDF في Java عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج MHT مع PDF في Java.
+يوضح المثال التالي كيفية دمج MHT مع PDF في Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج MHT في PDF. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف PDF. إذا قمت بتطوير رمز في Java ، فسيكون هذا أبسط مما يبدو. راجع Java المثال الذي يدمج MHT مع PDF.
@@ -55,16 +56,18 @@ description: قم بدمج MHT في PDF عبر الإنترنت مجانًا. MH
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج MHT إلى PDF على الإنترنت" InputFormat="mht" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج MHT في PDF في Java" InputFormat="mht" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج MHT في PDF via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج MHT في PDF برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Java.
 + قم بتحميل ملف MHT مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -97,21 +100,41 @@ description: قم بدمج MHT في PDF عبر الإنترنت مجانًا. MH
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}الملف ذو الامتداد .mht هو تنسيق ملف أرشفة ممكّن بواسطة MIME يحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحة في شكل ملفات CSS وجافا سكريبت وموارد أخرى كموارد مضمنة فيها. تقوم ملفات MHT ، التي تحتوي على رسالة من نوع MIME / rfc822 ، بتغليف جميع محتويات ملف HTML كملف أرشيف واحد للتخزين على الأرشفة على أجهزة التخزين. تتيح لك التطبيقات البرمجية مثل Microsoft Word تحويل مستندات WORD الخاصة بك إلى MHT عن طريق التصدير كملف MHT. يمكن فتح ملفات MHT باستخدام المتصفحات الشائعة مثل Microsoft Internet Explore و Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}تنسيق المستندات المحمولة (PDF) هو نوع من المستندات التي أنشأتها Adobe في التسعينيات. كان الغرض من تنسيق الملف هذا هو تقديم معيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن برامج التطبيقات والأجهزة وكذلك نظام التشغيل. تنسيق الملف PDF لديه القدرة الكاملة على احتواء معلومات مثل النص والصور والارتباطات التشعبية وحقول النموذج والوسائط الغنية والتوقيعات الرقمية والمرفقات والبيانات الوصفية والميزات الجغرافية المكانية والكائنات ثلاثية الأبعاد التي يمكن أن تصبح جزءًا من المستند المصدر.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Java ، يمكن أيضًا دمج mht مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-docx/" name="ادمج MHT في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-sql/" name="دمج MHT في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-bmp/" name="ادمج MHT في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-emf/" name="ادمج MHT في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-gif/" name="ادمج MHT في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="ادمج MHT في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-md/" name="دمج MHT إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="ادمج MHT في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="ادمج MHT في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-pdf/" name="ادمج MHT في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-png/" name="ادمج MHT في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-svg/" name="ادمج MHT في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tiff/" name="ادمج MHT في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="ادمج MHT في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="ادمج MHT في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="ادمج MHT في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="ادمج MHT في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="ادمج MHT في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="ادمج MHT في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="ادمج MHT في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="ادمج MHT في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="ادمج MHT في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xml/" name="دمج MHT في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xps/" name="ادمج MHT في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-json/" name="ادمج MHT في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-jpeg/" name="ادمج MHT في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

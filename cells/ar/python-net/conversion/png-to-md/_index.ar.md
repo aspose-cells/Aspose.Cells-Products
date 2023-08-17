@@ -1,7 +1,7 @@
 ---
-title: تحويل PNG إلى MD Python via Python
-description: قم بتحويل PNG إلى MD عبر الإنترنت مجانًا. على الانترنت مجانا PNG لتحويل MD. Python PNG إلى MD. PNG إلى MD عبر Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG إلى MD - عبر الإنترنت من PNG لتحويل MD
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل PNG إلى MD saveformat. Python PNG إلى تنسيق MD. وفر PNG إلى MD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MD saveformat., Free Online PNG to MD Python., Python Convert PNG to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حول PNG إلى MD في Python" h2="مكتبة Python عالية السرعة لتحويل PNG إلى MD. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="حول PNG إلى MD في Python" %}}
 
- كيفية تحويل PNG إلى MD؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل PNG إلى MD برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل PNG إلى MD؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل PNG إلى MD برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل PNG إلى MD عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل PNG إلى MD عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل PNG إلى MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل PNG إلى MD بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل PNG ملفات إلى MD برمجيا؟ يمكن للمطورين Python تحميل وتحويل PNG إلى MD بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف PNG بنسخة المصنف
-1. قم بتحويل PNG إلى MD عن طريق استدعاء طريقة Workbook.save
+1.  قم بتحميل ملف PNG بنسخة المصنف.
+1.  قم بتحويل PNG إلى MD عن طريق استدعاء طريقة Workbook.save.
+1.  احصل على نتيجة تحويل PNG إلى MD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}ملف PNG (Portable Network Graphics) هو تنسيق ملف صورة نقطية يستخدم ضغطًا بدون فقدان البيانات. تم إنشاء تنسيق الملف هذا كبديل لتنسيق تبادل الرسومات (GIF) وليس له قيود على حقوق النشر. ومع ذلك ، لا يدعم تنسيق الملف PNG الرسوم المتحركة. يدعم تنسيق الملف PNG ضغط الصور بدون فقدان البيانات مما يجعله شائعًا بين مستخدميه. مع مرور الوقت ، تطور PNG كأحد تنسيقات ملفات الصور المستخدمة على نطاق واسع.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}يتم حفظ الملفات النصية التي تم إنشاؤها باستخدام لهجات لغة Markdown بامتداد الملف .md أو .MARKDOWN. يتم حفظ ملفات MD بتنسيق نص عادي يستخدم لغة Markdown التي تتضمن أيضًا رموز نص مضمنة ، وتحديد كيفية تنسيق النص مثل المسافات البادئة وتنسيق الجدول والخطوط والعناوين. يمكن تحويل ملفات MD إلى HTML باستخدام برنامج يسمى Markdown. تم إصدار لغة Markdown بواسطة John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل PNG إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -1,5 +1,5 @@
 ---
-title: تحرير XLSB ملفات via .NET
+title:  تحرير XLSB ملفات via .NET
 description: C# كود المصدر لتعديل مستند XLSB على .NET Framework أو .NET Core أو Windows Azure أو Mono أو منصات Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

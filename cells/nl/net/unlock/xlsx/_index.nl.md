@@ -1,7 +1,7 @@
 ---
 title:  Ontgrendel XLSX document via .NET
 weight: 2040
-description: C# broncode om met een wachtwoord beveiligd bestand XLSX te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
+description: C# broncode om met een wachtwoord beveiligd XLSX-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ontgrendel XLSX Spreadsheet via C#" h2="Verwijder de beveiliging van XLSX met behulp van de .NET-bibliotheek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

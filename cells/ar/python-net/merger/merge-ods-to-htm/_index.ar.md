@@ -1,7 +1,8 @@
 ---
-title:  ادمج ODS مع HTM عبر Python
+title: دمج ODS إلى HTM - اجمع ODS إلى HTM في Python
 url: /ar/python-net/merger/merge-ods-to-htm/ 
-description: ادمج ODS في HTM عبر الإنترنت مجانًا. مجاني على الإنترنت ODS إلى HTM الاندماج. دمج ODS في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Python Aspose.Cells. الدمج المجاني عبر الإنترنت ODS إلى HTM saveformat. Python ادمج ODS بتنسيق HTM. دمج ODS إلى HTM في Python. ODS دمج.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge ODS to HTM in Python., Free Online Python Merge ODS to htm., Python Combine ODS to HTM Online for Free., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج ODS مع HTM عبر Python" h2="مكتبة Python عالية السرعة لدمج ODS إلى HTM. استخدم تحويل Excel API الخاص بنا لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في Python. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: ادمج ODS في HTM عبر الإنترنت مجانًا. مجا�
 
 {{% blocks/products/pf/agp/content h2="دمج ODS مع HTM باستخدام Python" %}}
 
- كيفية دمج ODS في HTM؟ مع مكتبة Aspose.Cells for Python ، يمكنك بسهولة دمج ODS إلى HTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells-python</code>.
+ كيف أقوم بدمج ODS في HTM؟ مع مكتبة Aspose.Cells for Python via .NET ، يمكنك بسهولة دمج ODS إلى HTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python via .NET من<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="قم بدمج ODS إلى HTM في Python عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج ODS إلى HTM في Python.
+يوضح المثال التالي كيفية دمج ODS إلى HTM في Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج ODS في HTM. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف HTM. إذا قمت بتطوير رمز في Python ، فسيكون هذا أبسط مما يبدو. راجع Python المثال الذي يدمج ODS إلى HTM.
@@ -27,16 +28,18 @@ description: ادمج ODS في HTM عبر الإنترنت مجانًا. مجا�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج ODS إلى HTM عبر الإنترنت" InputFormat="ods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="مجاني عبر الإنترنت لدمج ODS مع HTM في Python" InputFormat="ods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج ODS مع HTM عبر Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج ODS مع HTM برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Python via .NET".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Python.
 + قم بتحميل ملف ODS مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -53,7 +56,7 @@ description: ادمج ODS في HTM عبر الإنترنت مجانًا. مجا�
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ description: ادمج ODS في HTM عبر الإنترنت مجانًا. مجا�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}الملفات ذات ملحق ods. لتنسيق OpenDocument Spreadsheet Document التي يمكن تحريرها من قبل المستخدم. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. إنه تنسيق مستند إلى XML وهو أحد الأنواع الفرعية العديدة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد الشكل كجزء من مواصفات ODF 1.2 التي تنشرها وتحتفظ بها OASIS. يمكن لعدد من التطبيقات على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ODS ملفات للتحرير والمعالجة بما في ذلك Microsoft Excel و NeoOffice و LibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS و XLSX وغيرها من خلال تطبيقات مختلفة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}تمثل الملفات ذات الامتداد .htm لغة ترميز النص التشعبي لإنشاء صفحات ويب للعرض في متصفحات الويب مثل Google Chrome و Internet Explorer و Firefox وعدد آخر. تحدد العلامات لإنشاء صفحات ثابتة ليتم نشرها على شبكة الويب العالمية (WWW) ليتمكن الآخرون من الوصول إليها. تخبر هذه العلامات المتصفحات بكيفية عرض محتويات صفحة الويب. يمكن أن تحتوي هذه الصفحات على نص عادي وصور وارتباطات تشعبية لصفحات ومقاطع فيديو ومعلومات وسائط أخرى. عندما يتم نشر صفحة ويب ، يمكنك إلقاء نظرة على رمز الترميز الموجود خلفها من خلال عرض مصدر الصفحة الخاص بها. تسمح المتصفحات الحديثة بفحص كل قسم من صفحة الويب حيث يتم وضع كل قسم فرعي أو عنصر ترميز في مصدر HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Python ، يمكن للمرء أيضًا دمج ods في العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-docx/" name="ادمج ODS إلى DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-sql/" name="دمج ODS في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-bmp/" name="ادمج ODS إلى BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-emf/" name="ادمج ODS إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-gif/" name="ادمج ODS إلى GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-html/" name="ادمج ODS إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-md/" name="دمج ODS في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-mhtml/" name="ادمج ODS إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-ods/" name="ادمج ODS إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-pdf/" name="ادمج ODS إلى PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-png/" name="ادمج ODS إلى PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-svg/" name="ادمج ODS إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-tiff/" name="ادمج ODS إلى TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-tsv/" name="ادمج ODS إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-txt/" name="ادمج ODS إلى TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xls/" name="ادمج ODS إلى XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsb/" name="ادمج ODS إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsm/" name="ادمج ODS إلى XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlsx/" name="ادمج ODS إلى XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xlt/" name="ادمج ODS إلى XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xltm/" name="ادمج ODS إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xltx/" name="ادمج ODS إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xml/" name="دمج ODS في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-xps/" name="ادمج ODS إلى XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-json/" name="ادمج ODS إلى JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-ods-to-jpeg/" name="ادمج ODS إلى JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
+Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Het is niet nodig om Aspose API te downloaden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw XLSM-bestanden." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk samengevoegd en samengevoegd." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Het wordt onmiddellijk samengevoegd en samengevoegd." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

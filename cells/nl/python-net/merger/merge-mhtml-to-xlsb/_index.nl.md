@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen MHTML naar XLSB via Python
+title: Voeg MHTML samen met XLSB - Combineer MHTML met XLSB in Python
 url: /nl/python-net/merger/merge-mhtml-to-xlsb/ 
-description: Samenvoegen MHTML naar XLSB Online gratis. Gratis online MHTML tot XLSB Fusie. Voeg MHTML samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Python Aspose.Cells. Gratis online Samenvoegen MHTML naar XLSB saveformat. Python Combineer het formaat MHTML tot XLSB. Samenvoegen MHTML tot XLSB in Python. MHTML Samenvoegen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XLSB in Python., Free Online Python Merge MHTML to xlsb., Python Combine MHTML to XLSB Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen MHTML naar XLSB via Python" h2="Supersnelle Python-bibliotheek voor het samenvoegen van MHTML tot XLSB. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Samenvoegen MHTML naar XLSB Online gratis. Gratis online MHTML tot 
 
 {{% blocks/products/pf/agp/content h2="Voeg MHTML samen met XLSB met Python" %}}
 
- Hoe MHTML samen te voegen met XLSB? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig MHTML naar XLSB programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells-python</code>.
+ Hoe voeg ik MHTML samen met XLSB? Met de bibliotheek Aspose.Cells for Python via .NET kunt u eenvoudig MHTML tot XLSB programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python via .NET installeren vanaf<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Voeg MHTML samen met XLSB in Python Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u MHTML samenvoegt met XLSB in Python.
+Het volgende voorbeeld laat zien hoe u MHTML kunt samenvoegen met XLSB in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om MHTML samen te voegen met XLSB. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XLSB. Als u code ontwikkelt in Python, is dit eenvoudiger dan het klinkt. Zie voorbeeld Python dat MHTML samenvoegt met XLSB.
@@ -27,16 +28,18 @@ Volg de eenvoudige stappen om MHTML samen te voegen met XLSB. Upload uw bestande
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om MHTML online samen te voegen tot XLSB" InputFormat="mhtml" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Gratis online om MHTML samen te voegen tot XLSB in Python" InputFormat="mhtml" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe MHTML samen te voegen met XLSB via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u MHTML programmatisch samenvoegen tot XLSB? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Python via .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
 + Laad het bestand MHTML met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -53,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Bestanden met de extensie MHTML vertegenwoordigen een archiefindeling voor webpagina's die door een aantal verschillende toepassingen kan worden gemaakt. Het formaat staat bekend als archiefformaat omdat het de webcode HTML en bijbehorende bronnen in één bestand opslaat. Deze bronnen omvatten alles wat aan de webpagina is gekoppeld, zoals afbeeldingen, applets, animaties, audiobestanden, enzovoort. MHTML-bestanden kunnen worden geopend in verschillende toepassingen, zoals Internet Explorer en Microsoft Word. Microsoft Windows gebruikt de bestandsindeling MHTML voor het opnemen van scenario's van problemen die zijn waargenomen tijdens het gebruik van een toepassing op Windows die problemen veroorzaakt. Het bestandsformaat MHTML codeert de pagina-inhoud vergelijkbaar met de specificaties die zijn gedefinieerd in message/rfc822, wat e-mailgerelateerde specificaties in platte tekst zijn.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}De bestandsindeling XLSB specificeert de binaire bestandsindeling van Excel, een verzameling records en structuren die de inhoud van de Excel-werkmap specificeren. De inhoud kan ongestructureerde of semi-gestructureerde tabellen met getallen, tekst of zowel getallen als tekst, formules, externe gegevensverbindingen, grafieken en afbeeldingen bevatten. In tegenstelling tot XLSX (dat is gebaseerd op de Open XML-bestandsindeling), vertegenwoordigt de XLSB het binaire Excel-werkmapbestand. XLSB-bestanden kunnen sneller worden gelezen en geschreven, waardoor ze handig zijn voor het werken met grote bestanden. XLSB wordt zelden gebruikt om werkmappen op te slaan, aangezien XLSX (en voorheen XLS) de meest gebruikelijke door de gebruiker geselecteerde bestandsindelingen zijn voor het opslaan van werkmappen. Het kan worden geopend door Microsoft Office 2007 en hoger.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Python kan men ook mhtml samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-docx/" name="Voeg MHTML samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-sql/" name="Voeg MHTML samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-bmp/" name="Voeg MHTML samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-emf/" name="Voeg MHTML samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-gif/" name="Voeg MHTML samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-html/" name="Voeg MHTML samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-md/" name="Voeg MHTML samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-mhtml/" name="Voeg MHTML samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-ods/" name="Voeg MHTML samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-pdf/" name="Voeg MHTML samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-png/" name="Voeg MHTML samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-svg/" name="Voeg MHTML samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tiff/" name="Voeg MHTML samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tsv/" name="Voeg MHTML samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-txt/" name="Voeg MHTML samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xls/" name="Voeg MHTML samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsb/" name="Voeg MHTML samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsm/" name="Voeg MHTML samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsx/" name="Voeg MHTML samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlt/" name="Voeg MHTML samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltm/" name="Voeg MHTML samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltx/" name="Voeg MHTML samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xml/" name="Voeg MHTML samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xps/" name="Voeg MHTML samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-json/" name="Voeg MHTML samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-jpeg/" name="Voeg MHTML samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

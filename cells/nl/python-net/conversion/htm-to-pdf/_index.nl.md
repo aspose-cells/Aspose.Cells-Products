@@ -1,7 +1,7 @@
 ---
-title: Converteer HTM naar PDF Python via Python
-description: Converteer HTM gratis naar PDF online. Gratis online HTM naar PDF Converter. Python HTM naar PDF. HTM naar PDF via Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM naar PDF - Online HTM naar PDF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer HTM naar PDF opslagformaat. Python HTM naar PDF formaat. Sla HTM op naar PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to PDF saveformat., Free Online HTM to PDF Python., Python Convert HTM to PDF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTM naar PDF in Python" h2="Snelle Python-bibliotheek voor het converteren van HTM naar PDF. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Converteer HTM naar PDF in Python" %}}
 
- Hoe HTM naar PDF te converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig HTM converteren naar PDF programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik HTM naar PDF? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig HTM converteren naar PDF programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,26 +22,27 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 Het volgende voorbeeld laat zien hoe u HTM converteert naar PDF in Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Volg de eenvoudige stappen om HTM naar PDF te converteren. Upload uw HTM-bestand en sla het vervolgens eenvoudig op als PDF-bestand. Voor zowel HTM-lezen als PDF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer PDF inhoud en opmaak zal identiek zijn aan het originele HTM-document.
+Volg de eenvoudige stappen om HTM naar PDF te converteren. Upload uw HTM-bestand en sla het op als PDF-bestand. Voor zowel HTM-lezen als PDF-schrijven kunt u volledig gekwalificeerde bestandsnamen gebruiken. De uitvoer PDF inhoud en opmaak zal identiek zijn aan het originele HTM-document.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om HTM online naar PDF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om HTM online naar PDF te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe HTM naar PDF te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen eenvoudig HTM laden en converteren naar PDF in slechts een paar regels code.
+Wilt u HTM-bestanden programmatisch converteren naar PDF? Python-ontwikkelaars kunnen eenvoudig HTM laden en converteren naar PDF in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad HTM-bestand met een instantie van Workbook
-1.  Converteer HTM naar PDF door de methode Workbook.save aan te roepen
+1.  Laad HTM-bestand met een instantie van Workbook.
+1.  Converteer HTM naar PDF door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van HTM naar PDF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Bestanden met de extensie .htm vertegenwoordigen Hypertext Markup Language voor het maken van webpagina's voor weergave in webbrowsers zoals Google Chrome, Internet Explorer, Firefox en een aantal andere. Het definieert de markeringen voor het maken van statische pagina's die op het World Wide Web (WWW) worden gepubliceerd voor toegang door anderen. Deze markeringen vertellen de browsers hoe de inhoud van een webpagina moet worden weergegeven. Dergelijke pagina's kunnen platte tekst, afbeeldingen, hyperlinks naar andere pagina's, video's en andere media-informatie bevatten. Wanneer een webpagina wordt gepubliceerd, kunt u de opmaakcode erachter bekijken door de paginabron te bekijken. Moderne browsers maken het mogelijk om elke sectie van een webpagina te inspecteren waar elke onderverdeling of opmaakelement in de HTM-bron is uitgewerkt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) is een type document dat in de jaren negentig door Adobe is gemaakt. Het doel van dit bestandsformaat was om een standaard te introduceren voor de weergave van documenten en ander referentiemateriaal in een formaat dat onafhankelijk is van applicatiesoftware, hardware en besturingssysteem. Het bestandsformaat PDF heeft de volledige mogelijkheid om informatie zoals tekst, afbeeldingen, hyperlinks, formuliervelden, rich media, digitale handtekeningen, bijlagen, metadata, georuimtelijke kenmerken en 3D-objecten erin te bevatten die als onderdeel van het brondocument kunnen worden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt HTM ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

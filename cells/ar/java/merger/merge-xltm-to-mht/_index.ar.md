@@ -1,7 +1,8 @@
 ---
-title:  ادمج XLTM مع MHT via Java
+title: ادمج XLTM مع MHT - اجمع XLTM إلى MHT في Java
 url: /ar/java/merger/merge-xltm-to-mht/ 
-description: ادمج XLTM في MHT عبر الإنترنت مجانًا. على الإنترنت مجانًا من XLTM إلى MHT Merger. دمج XLTM في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Java Aspose.Cells. الدمج المجاني عبر الإنترنت XLTM إلى تنسيق حفظ MHT. Java اجمع XLTM إلى تنسيق MHT. دمج XLTM إلى MHT في Java. XLTM دمج.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to MHT in Java., Free Online Java Merge XLTM to mht., Java Combine XLTM to MHT Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج XLTM مع MHT via Java" h2="مكتبة Java عالية السرعة لدمج XLTM إلى MHT. استخدم تحويل Excel API الخاص بنا لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في Java. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: ادمج XLTM في MHT عبر الإنترنت مجانًا. على
 
 {{% blocks/products/pf/agp/content h2="دمج XLTM في MHT باستخدام Java" %}}
 
- كيفية دمج XLTM في MHT؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج XLTM إلى MHT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ كيف أقوم بدمج XLTM في MHT؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج XLTM إلى MHT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: ادمج XLTM في MHT عبر الإنترنت مجانًا. على
 
 {{% blocks/products/pf/agp/content h2="ادمج XLTM مع MHT في Java عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج XLTM مع MHT في Java.
+يوضح المثال التالي كيفية دمج XLTM مع MHT في Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج XLTM في MHT. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف MHT. إذا قمت بتطوير رمز في Java ، فسيكون هذا أبسط مما يبدو. راجع Java المثال الذي يدمج XLTM إلى MHT.
@@ -55,16 +56,18 @@ description: ادمج XLTM في MHT عبر الإنترنت مجانًا. على
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج XLTM إلى MHT عبر الإنترنت" InputFormat="xltm" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج XLTM مع MHT في Java" InputFormat="xltm" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج XLTM مع MHT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج XLTM مع MHT برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Java.
 + قم بتحميل ملف XLTM مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -97,21 +100,41 @@ description: ادمج XLTM في MHT عبر الإنترنت مجانًا. على
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}يمثل امتداد الملف XLTM الملفات التي تم تكوينها بواسطة Microsoft Excel كملفات قوالب ممكنة بماكرو. تتشابه ملفات XLTM مع XLTX في البنية بخلاف أن الملفات الأحدث لا تدعم تكوين ملفات القوالب باستخدام الأوامر المركبة. تُستخدم ملفات القوالب هذه لإنشاء التخطيط والتنسيق والإعدادات الأخرى وتعيينها جنبًا إلى جنب مع وحدات الماكرو لتسهيل إنشاء ملفات XLSX مماثلة بعد ذلك.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}الملف ذو الامتداد .mht هو تنسيق ملف أرشفة ممكّن بواسطة MIME يحتوي على أنواع مختلفة من البيانات في ملف واحد. يمكنه تخزين البيانات مثل النصوص والصور وتصميم الصفحة في شكل ملفات CSS وجافا سكريبت وموارد أخرى كموارد مضمنة فيها. تقوم ملفات MHT ، التي تحتوي على رسالة من نوع MIME / rfc822 ، بتغليف جميع محتويات ملف HTML كملف أرشيف واحد للتخزين على الأرشفة على أجهزة التخزين. تتيح لك التطبيقات البرمجية مثل Microsoft Word تحويل مستندات WORD الخاصة بك إلى MHT عن طريق التصدير كملف MHT. يمكن فتح ملفات MHT باستخدام المتصفحات الشائعة مثل Microsoft Internet Explore و Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Java ، يمكن أيضًا دمج xltm في العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-docx/" name="ادمج XLTM إلى DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-sql/" name="دمج XLTM في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-bmp/" name="ادمج XLTM إلى BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-emf/" name="ادمج XLTM إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-gif/" name="ادمج XLTM إلى GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="ادمج XLTM إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-md/" name="دمج XLTM في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="ادمج XLTM إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="ادمج XLTM إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-pdf/" name="ادمج XLTM إلى PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-png/" name="ادمج XLTM إلى PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-svg/" name="ادمج XLTM إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tiff/" name="ادمج XLTM إلى TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="ادمج XLTM إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="ادمج XLTM إلى TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="ادمج XLTM إلى XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="ادمج XLTM إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="ادمج XLTM إلى XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="ادمج XLTM إلى XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="ادمج XLTM إلى XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="ادمج XLTM إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="ادمج XLTM إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xml/" name="دمج XLTM في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xps/" name="ادمج XLTM إلى XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-json/" name="ادمج XLTM إلى JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-jpeg/" name="ادمج XLTM إلى JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

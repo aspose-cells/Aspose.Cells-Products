@@ -1,7 +1,7 @@
 ---
-title: قم بالتحويل من TABDELIMITED إلى XLTM Python via Python
-description: قم بتحويل TABDELIMITED إلى XLTM عبر الإنترنت مجانًا. TABDELIMITED على الإنترنت مجانا لتحويل XLTM. Python TABDELlimited to XLTM. TABDELIMITED to XLTM عبر Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED to XLTM - Online TABDELIMITED to XLTM Converter
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل TABDELIMITED إلى XLTM saveformat. Python TABDELIMITED إلى تنسيق XLTM. احفظ TABDELIMITED إلى XLTM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to XLTM saveformat., Free Online TABDELIMITED to XLTM Python., Python Convert TABDELIMITED to XLTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل TABDELIMITED إلى XLTM في Python" h2="مكتبة Python عالية السرعة لتحويل TABDELIMITED إلى XLTM. استخدم تحويل excel API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="تحويل TABDELIMITED إلى XLTM في Python" %}}
 
-كيفية تحويل TABDELIMITED إلى XLTM؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل TABDELIMITED إلى XLTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف يمكنني تحويل TABDELIMITED إلى XLTM؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل TABDELIMITED إلى XLTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل TABDELIMITED إلى XLTM عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل TABDELIMITED إلى XLTM عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TABDELIMITED إلى XLTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-يمكن للمطورين Python تحميل وتحويل TABDELIMITED بسهولة إلى XLTM في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات TABDELIMITED إلى XLTM برمجيًا؟ يمكن للمطورين Python تحميل وتحويل TABDELIMITED بسهولة إلى XLTM في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  تحميل ملف TABDELIMITED مع مثيل المصنف
-1.  قم بتحويل TABDELIMITED إلى XLTM عن طريق استدعاء طريقة Workbook.save
+1.  تحميل ملف TABDELIMITED مع مثيل المصنف.
+1.  قم بتحويل TABDELIMITED إلى XLTM عن طريق استدعاء طريقة Workbook.save.
+1.  احصل على نتيجة تحويل TABDELIMITED إلى XLTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}يمثل تنسيق ملف قيم مفصولة بعلامات جدولة (TSV) بيانات مفصولة بعلامات جدولة بتنسيق نص عادي. يتم استخدام تنسيق الملف ، المماثل لـ CSV ، لتنظيم البيانات بطريقة منظمة من أجل الاستيراد والتصدير بين التطبيقات المختلفة. يستخدم التنسيق بشكل أساسي لاستيراد / تصدير البيانات وتبادلها في تطبيقات جداول البيانات وقواعد البيانات. يتم تضمين كل سجل في ملف TSV في سطر واحد من الملف النصي حيث يتم فصل كل قيمة مجال بواسطة حرف جدولة. نوع الوسائط لتنسيق الملف TSV هو نص / قيم مفصولة بعلامات جدولة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}يمثل امتداد الملف XLTM الملفات التي تم تكوينها بواسطة Microsoft Excel كملفات قوالب ممكنة بماكرو. تتشابه ملفات XLTM مع XLTX في البنية بخلاف أن الملفات الأحدث لا تدعم تكوين ملفات القوالب باستخدام الأوامر المركبة. تُستخدم ملفات القوالب هذه لإنشاء التخطيط والتنسيق والإعدادات الأخرى وتعيينها جنبًا إلى جنب مع وحدات الماكرو لتسهيل إنشاء ملفات XLSX مماثلة بعد ذلك.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل TABDELIMITED إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -58,7 +58,7 @@ description: Java voorbeeldcode om woorden met patroon te zoeken in bestand TSV 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad het bestand TSV door een werkmapobject te instantiëren.
-Toegang tot het eerste werkblad in het bestand TSV.
++ Toegang tot het eerste werkblad in het bestand TSV.
 + Zoek de cel met de opgegeven formule.
 + Direct FindOptions.
 + Zoek de cel met een tekenreekswaarde

@@ -1,7 +1,8 @@
 ---
-title:  ادمج XLTX في WORD عبر Python
+title: دمج XLTX في WORD - اجمع XLTX إلى WORD في Python
 url: /ar/python-net/merger/merge-xltx-to-word/ 
-description: دمج XLTX في WORD Online مجانًا. مجاني على الإنترنت XLTX إلى WORD الاندماج. دمج XLTX في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Python Aspose.Cells. الدمج المجاني عبر الإنترنت XLTX إلى WORD saveformat. Python ادمج XLTX بتنسيق WORD. دمج XLTX للكلمة في Python. XLTX دمج.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to WORD in Python., Free Online Python Merge XLTX to word., Python Combine XLTX to WORD Online for Free., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج XLTX في WORD عبر Python" h2="مكتبة Python عالية السرعة لدمج XLTX إلى WORD. استخدم تحويل Excel API الخاص بنا لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في Python. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: دمج XLTX في WORD Online مجانًا. مجاني على الإ
 
 {{% blocks/products/pf/agp/content h2="دمج XLTX للكلمة باستخدام Python" %}}
 
- كيفية دمج XLTX في WORD؟ مع مكتبة Aspose.Cells for Python ، يمكنك بسهولة دمج XLTX إلى WORD برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells-python</code>.
+كيف أقوم بدمج XLTX في WORD؟ مع مكتبة Aspose.Cells for Python via .NET ، يمكنك بسهولة دمج XLTX إلى WORD برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python via .NET من<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="دمج XLTX في WORD في Python عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج XLTX في WORD في Python.
+يوضح المثال التالي كيفية دمج XLTX إلى WORD في Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج XLTX في WORD. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف WORD. إذا قمت بتطوير رمز في Python ، فسيكون هذا أبسط مما يبدو. راجع Python المثال الذي يدمج XLTX إلى WORD.
@@ -27,16 +28,18 @@ description: دمج XLTX في WORD Online مجانًا. مجاني على الإ
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج XLTX إلى WORD عبر الإنترنت" InputFormat="xltx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="مجاني عبر الإنترنت لدمج XLTX في WORD في Python" InputFormat="xltx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج XLTX في WORD عبر Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج XLTX في WORD برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Python via .NET".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Python.
 + قم بتحميل ملف XLTX مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -53,7 +56,7 @@ description: دمج XLTX في WORD Online مجانًا. مجاني على الإ
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ description: دمج XLTX في WORD Online مجانًا. مجاني على الإ
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}تمثل الملفات ذات الامتداد xltx Microsoft ملفات قالب Excel التي تستند إلى مواصفات تنسيق ملف Office OpenXML. يتم استخدامه لإنشاء ملف قالب قياسي يمكن استخدامه لإنشاء ملفات XLSX التي تعرض نفس الإعدادات المحددة في ملف XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX هو تنسيق معروف لوثائق Word Microsoft. تم تقديمه من عام 2007 بإصدار Microsoft Office 2007 ، تم تغيير هيكل تنسيق المستند الجديد هذا من ثنائي عادي إلى مجموعة من ملفات XML والملفات الثنائية. يمكن فتح ملفات Docx باستخدام Word 2007 والإصدارات الجانبية ولكن ليس بالإصدارات السابقة من MS Word التي تدعم امتدادات ملفات DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Python ، يمكن أيضًا دمج xltx في العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-docx/" name="ادمج XLTX إلى DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-sql/" name="دمج XLTX في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-bmp/" name="ادمج XLTX إلى BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-emf/" name="ادمج XLTX إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-gif/" name="ادمج XLTX إلى GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-html/" name="ادمج XLTX إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-md/" name="دمج XLTX في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-mhtml/" name="ادمج XLTX إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-ods/" name="ادمج XLTX إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-pdf/" name="ادمج XLTX إلى PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-png/" name="ادمج XLTX إلى PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-svg/" name="ادمج XLTX إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tiff/" name="ادمج XLTX إلى TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tsv/" name="ادمج XLTX إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-txt/" name="ادمج XLTX إلى TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xls/" name="ادمج XLTX إلى XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsb/" name="ادمج XLTX إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsm/" name="ادمج XLTX إلى XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsx/" name="ادمج XLTX إلى XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlt/" name="ادمج XLTX إلى XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltm/" name="ادمج XLTX إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltx/" name="ادمج XLTX إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xml/" name="دمج XLTX في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xps/" name="ادمج XLTX إلى XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-json/" name="ادمج XLTX إلى JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-jpeg/" name="ادمج XLTX إلى JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

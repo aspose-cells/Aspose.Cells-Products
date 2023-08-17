@@ -58,7 +58,7 @@ description: Java voorbeeldcode om woorden met patroon te zoeken in bestand TXT 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad het bestand TXT door een werkmapobject te instantiëren.
-Toegang tot het eerste werkblad in het bestand TXT.
++ Toegang tot het eerste werkblad in het bestand TXT.
 + Zoek de cel met de opgegeven formule.
 + Direct FindOptions.
 + Zoek de cel met een tekenreekswaarde

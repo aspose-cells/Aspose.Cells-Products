@@ -1,7 +1,8 @@
 ---
-title:  PRN samenvoegen naar ODS via Python
+title: Voeg PRN samen met ODS - Combineer PRN met ODS in Python
 url: /nl/python-java/merger/merge-prn-to-ods/ 
-description: Voeg PRN gratis samen naar ODS online. Gratis online PRN naar ODS Fusie. Voeg PRN samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Python Aspose.Cells. Gratis online PRN samenvoegen naar ODS saveformat. Python Combineer PRN naar formaat ODS. PRN samenvoegen naar ODS in Python. PRN samenvoegen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to ODS in Python., Free Online Python Merge PRN to ods., Python Combine PRN to ODS Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="PRN samenvoegen naar ODS via Python" h2="Supersnelle Python-bibliotheek voor het samenvoegen van PRN tot ODS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python. Dit is een professionele softwareoplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Voeg PRN gratis samen naar ODS online. Gratis online PRN naar ODS F
 
 {{% blocks/products/pf/agp/content h2="Voeg PRN samen met ODS met behulp van Python" %}}
 
- Hoe PRN samenvoegen met ODS? Met de bibliotheek Aspose.Cells for Python kunt u PRN eenvoudig programmatisch samenvoegen tot ODS met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+ Hoe voeg ik PRN samen met ODS? Met de bibliotheek Aspose.Cells for Python via Java kunt u PRN eenvoudig programmatisch samenvoegen tot ODS met een paar regels code.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python via Java installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="PRN samenvoegen naar ODS in Python Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u PRN kunt samenvoegen tot ODS in Python.
+Het volgende voorbeeld laat zien hoe u PRN kunt samenvoegen tot ODS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om PRN samen te voegen tot ODS. Upload uw bestanden, bel de methode Workbook.Combine voor het samenvoegen van bestanden en sla deze vervolgens op in het bestand ODS. Als u code ontwikkelt in Python, is dit eenvoudiger dan het klinkt. Zie voorbeeld Python dat PRN samenvoegt tot ODS.
@@ -27,17 +28,19 @@ Volg de eenvoudige stappen om PRN samen te voegen tot ODS. Upload uw bestanden, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om PRN online samen te voegen met ODS" InputFormat="prn" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratis online om PRN samen te voegen tot ODS in Python" InputFormat="prn" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="PRN samenvoegen naar ODS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
+Wilt u PRN programmatisch samenvoegen met ODS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Laad het PRN-bestand met de klasse Workbook.
++ Installeer 'Aspose.Cells for Python via Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
++ Laad het PRN-bestand met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
 + Nu kunt u het uitvoerbestand openen en gebruiken in Microsoft Office, Adobe PDF of een ander compatibel programma.
@@ -75,21 +78,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Een PRN-bestand is een bestand dat is gemaakt met behulp van het selectievakje Afdrukken naar bestand dat wordt weergegeven in sommige afdrukdialoogvensters op Windows. Het bevat een reeks apparaatspecifieke instructies die een printer, faxapparaat of ander apparaat gebruikt om een document af te drukken. PRN-bestanden kunnen tekst of binaire inhoud bevatten, afhankelijk van het apparaat waarvoor het bestand is gemaakt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Bestanden met de extensie .ods staan voor OpenDocument Spreadsheet Document-indeling die door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypes in de familie Open Document Formats (ODF). Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal applicaties op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook worden geconverteerd naar andere spreadsheetindelingen, zoals XLS, XLSX en andere door verschillende toepassingen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Python kan men prn ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-docx/" name="PRN samenvoegen naar DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-sql/" name="Voeg PRN samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-bmp/" name="PRN samenvoegen naar BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-emf/" name="PRN samenvoegen naar EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-gif/" name="PRN samenvoegen naar GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-html/" name="PRN samenvoegen naar HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-md/" name="Voeg PRN samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-mhtml/" name="PRN samenvoegen naar MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-ods/" name="PRN samenvoegen naar ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-pdf/" name="PRN samenvoegen naar PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-png/" name="PRN samenvoegen naar PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-svg/" name="PRN samenvoegen naar SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tiff/" name="PRN samenvoegen naar TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tsv/" name="PRN samenvoegen naar TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-txt/" name="PRN samenvoegen naar TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xls/" name="PRN samenvoegen naar XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsb/" name="PRN samenvoegen naar XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsm/" name="PRN samenvoegen naar XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsx/" name="PRN samenvoegen naar XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlt/" name="PRN samenvoegen naar XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="PRN samenvoegen naar XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="PRN samenvoegen naar XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xml/" name="Voeg PRN samen met XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="PRN samenvoegen naar XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-json/" name="PRN samenvoegen naar JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-jpeg/" name="PRN samenvoegen naar JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

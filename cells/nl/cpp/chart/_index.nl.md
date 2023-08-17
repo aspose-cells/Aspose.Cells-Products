@@ -3,7 +3,7 @@ title: Maak Excel-grafieken en converteer naar afbeeldingen via C++
 description: C++ broncode om grafiek of diagram in Microsoft Excel te tekenen en om te zetten met behulp van C++ Library
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Maak Microsoft<sup>&reg;</sup> Excel-grafieken en converteer naar afbeeldingen via C++" h2="Converteer Excel-documentgrafieken naar afbeeldingen en maak grafieken, waaronder cirkel-, piramide-, lijn- en bellendiagrammen binnen op C++ gebaseerde applicaties." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Maak Microsoft<sup>&reg;</sup> Excel-diagrammen en converteer naar afbeeldingen via C++" h2="Converteer Excel-documentgrafieken naar afbeeldingen en maak grafieken, waaronder taart-, piramide-, lijn- en bellendiagrammen binnen op C++ gebaseerde applicaties." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,7 +1,8 @@
 ---
-title:  دمج XML في XLTM عبر Python
+title: دمج XML في XLTM - دمج XML في XLTM في Python
 url: /ar/python-java/merger/merge-xml-to-xltm/ 
-description: دمج XML في XLTM عبر الإنترنت مجانًا. XML مجاني على الإنترنت لدمج XLTM. دمج XML في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Python Aspose.Cells. دمج XML عبر الإنترنت مجانًا إلى تنسيق حفظ XLTM. Python دمج XML بتنسيق XLTM. دمج XML مع XLTM في Python. دمج XML.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XML to XLTM in Python., Free Online Python Merge XML to xltm., Python Combine XML to XLTM Online for Free., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دمج XML في XLTM عبر Python" h2="مكتبة Python عالية السرعة لدمج XML في XLTM. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن المنصة في Python. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: دمج XML في XLTM عبر الإنترنت مجانًا. XML مج
 
 {{% blocks/products/pf/agp/content h2="دمج XML في XLTM باستخدام Python" %}}
 
-كيفية دمج XML في XLTM؟ باستخدام مكتبة Aspose.Cells for Python ، يمكنك بسهولة دمج XML في XLTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
+ كيف أقوم بدمج XML في XLTM؟ باستخدام مكتبة Aspose.Cells for Python via Java ، يمكنك بسهولة دمج XML في XLTM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python via Java من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="قم بدمج XML مع XLTM في Python عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج XML مع XLTM في Python.
+يوضح المثال التالي كيفية دمج XML مع XLTM في Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج XML في XLTM. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف XLTM. إذا قمت بتطوير رمز في Python ، فسيكون هذا أبسط مما يبدو. راجع Python المثال الذي يدمج XML مع XLTM.
@@ -27,16 +28,18 @@ description: دمج XML في XLTM عبر الإنترنت مجانًا. XML مج
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج XML إلى XLTM على الإنترنت" InputFormat="xml" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="مجاني على الإنترنت لدمج XML مع XLTM في Python" InputFormat="xml" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج XML مع XLTM عبر Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج XML مع XLTM برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Python via Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Python.
 + تحميل ملف XML مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -75,21 +78,41 @@ description: دمج XML في XLTM عبر الإنترنت مجانًا. XML مج
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف الموسعة التي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. تعود شعبيته إلى كونه مقروءًا بواسطة الإنسان والآلة. يتيح ذلك إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). علامة "X" في XML قابلة للتوسعة مما يعني أن اللغة يمكن أن تمتد إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. من أجل هذه الميزات ، تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML و LibreOffice OpenDocument و XHTML و SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}يمثل امتداد الملف XLTM الملفات التي تم تكوينها بواسطة Microsoft Excel كملفات قوالب ممكنة بماكرو. تتشابه ملفات XLTM مع XLTX في البنية بخلاف أن الملفات الأحدث لا تدعم تكوين ملفات القوالب باستخدام الأوامر المركبة. تُستخدم ملفات القوالب هذه لإنشاء التخطيط والتنسيق والإعدادات الأخرى وتعيينها جنبًا إلى جنب مع وحدات الماكرو لتسهيل إنشاء ملفات XLSX مماثلة بعد ذلك.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Python ، يمكن أيضًا دمج xml مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-docx/" name="دمج XML في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-sql/" name="دمج XML في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-bmp/" name="دمج XML في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-emf/" name="دمج XML في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-gif/" name="دمج XML في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-html/" name="دمج XML في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-md/" name="دمج XML في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-mhtml/" name="دمج XML في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-ods/" name="دمج XML في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-pdf/" name="دمج XML في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-png/" name="دمج XML في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-svg/" name="دمج XML في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-tiff/" name="دمج XML في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-tsv/" name="دمج XML في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-txt/" name="دمج XML في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xls/" name="دمج XML في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsb/" name="دمج XML في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsm/" name="دمج XML في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlsx/" name="دمج XML في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xlt/" name="دمج XML في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xltm/" name="دمج XML في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xltx/" name="دمج XML في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xml/" name="دمج XML في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-xps/" name="دمج XML في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-json/" name="دمج XML في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xml-to-jpeg/" name="دمج XML في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

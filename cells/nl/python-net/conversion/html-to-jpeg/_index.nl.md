@@ -1,7 +1,7 @@
 ---
-title: Converteer HTML naar JPEG Python via Python
-description: Converteer HTML naar JPEG online gratis. Gratis online HTML naar JPEG Converter. Python HTML naar JPEG. HTML naar JPEG via Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML naar JPEG - Online HTML naar JPEG Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer HTML naar JPEG saveformat. Python HTML tot JPEG formaat. Bewaar HTML tot JPEG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to JPEG saveformat., Free Online HTML to JPEG Python., Python Convert HTML to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer HTML naar JPEG in Python" h2="Supersnelle Python-bibliotheek voor het converteren van HTML naar JPEG. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converteer HTML naar JPEG in Python" %}}
 
- Hoe HTML naar JPEG te converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig HTML converteren naar JPEG programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik HTML naar JPEG? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig HTML converteren naar JPEG programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om HTML naar JPEG te converteren. Upload uw HTML-best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om HTML online naar JPEG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om HTML online naar JPEG te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe HTML naar JPEG te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen eenvoudig HTML laden en converteren naar JPEG in slechts een paar regels code.
+Wilt u HTML-bestanden programmatisch converteren naar JPEG? Python-ontwikkelaars kunnen eenvoudig HTML laden en converteren naar JPEG in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand HTML met een instantie van Workbook
-1.  Converteer HTML naar JPEG door de methode Workbook.save aan te roepen
+1.  Laad het bestand HTML met een instantie van Workbook.
+1.  Converteer HTML naar JPEG door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van HTML naar JPEG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaakt voor weergave in browsers. Bekend als de taal van het web, is HTML geëvolueerd met vereisten voor nieuwe informatievereisten die moeten worden weergegeven als onderdeel van webpagina's. De nieuwste variant staat bekend als HTML 5 die veel flexibiliteit geeft voor het werken met de taal. HTML-pagina's worden ofwel ontvangen van de server, waar deze worden gehost, of kunnen ook vanaf het lokale systeem worden geladen. Elke HTML-pagina bestaat uit HTML-elementen zoals formulieren, tekst, afbeeldingen, animaties, links, enz. Deze elementen worden weergegeven door tags en verschillende andere waarbij elke tag een begin en een einde heeft. Het kan ook applicaties insluiten die zijn geschreven in scripttalen zoals JavaScript en Style Sheets (CSS) voor een algemene weergave van de lay-out.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}Een JPEG is een type afbeeldingsindeling die wordt opgeslagen met behulp van de methode van compressie met verlies. Het uitvoerbeeld, als resultaat van compressie, is een wisselwerking tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslagcapaciteit verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als 10:1 compressie op het beeld wordt toegepast. Hoe hoger de compressiewaarde, hoe hoger de verslechtering van de beeldkwaliteit.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt HTML ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

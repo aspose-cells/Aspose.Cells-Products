@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen TSV naar PDF via C#
+title: Voeg TSV samen met PDF - Combineer TSV met PDF in C#
 url: /nl/net/merger/merge-tsv-to-pdf/ 
-description: Samenvoegen TSV naar PDF Online gratis. Gratis online TSV tot PDF Fusie. Voeg TSV samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C# Aspose.Cells. Gratis online Samenvoegen TSV naar PDF saveformat. C# Combineer het formaat TSV tot PDF. Samenvoegen TSV tot PDF in C#. TSV Samenvoegen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TSV to PDF in C#., Free Online C# Merge TSV to pdf., C# Combine TSV to PDF Online for Free., TSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen TSV naar PDF via C#" h2="Supersnelle C#-bibliotheek voor het samenvoegen van TSV tot PDF. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C#. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TSV" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen TSV naar PDF Online gratis. Gratis online TSV tot PDF F
 
 {{% blocks/products/pf/agp/content h2="Voeg TSV samen met PDF met C#" %}}
 
- Hoe TSV samen te voegen met PDF? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig TSV naar PDF programmatisch samenvoegen met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik TSV samen met PDF? Met de Aspose.Cells for .NET-bibliotheek kunt u eenvoudig TSV tot PDF programmatisch samenvoegen met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Voeg TSV samen met PDF in C# Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u TSV samenvoegt met PDF in C#.
+Het volgende voorbeeld laat zien hoe u TSV samenvoegt met PDF in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TSV samen te voegen met PDF. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand PDF. Als u code ontwikkelt in C#, is dit eenvoudiger dan het klinkt. Zie voorbeeld C# dat TSV samenvoegt met PDF.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om TSV samen te voegen met PDF. Upload uw bestanden, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om TSV online samen te voegen tot PDF" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratis online om TSV samen te voegen tot PDF in C#" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe TSV samen te voegen met PDF via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u TSV programmatisch samenvoegen tot PDF? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C#-project.
 + Laad het bestand TSV met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -62,7 +65,7 @@ Er zijn twee alternatieve opties om "Aspose.Cells for .NET" op uw systeem te ins
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells/) . Zien[Documentatie](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)binnen Visual Studio-IDE
+1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) binnen Visual Studio-IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Een door tabs gescheiden waarden (TSV) bestandsindeling vertegenwoordigt gegevens gescheiden door tabs in platte tekst. Het bestandsformaat, vergelijkbaar met CSV, wordt gebruikt voor het gestructureerd organiseren van gegevens om te importeren en exporteren tussen verschillende applicaties. Het formaat wordt voornamelijk gebruikt voor het importeren/exporteren en uitwisselen van gegevens in Spreadsheet-toepassingen en databases. Elke record in een TSV-bestand bevindt zich in een enkele regel tekstbestand waarin elke veldwaarde wordt gescheiden door een tabteken. Het mediatype voor de bestandsindeling TSV is tekst/door tabs gescheiden waarden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) is een type document dat in de jaren negentig door Adobe is gemaakt. Het doel van dit bestandsformaat was om een standaard te introduceren voor de weergave van documenten en ander referentiemateriaal in een formaat dat onafhankelijk is van applicatiesoftware, hardware en besturingssysteem. Het bestandsformaat PDF heeft de volledige mogelijkheid om informatie zoals tekst, afbeeldingen, hyperlinks, formuliervelden, rich media, digitale handtekeningen, bijlagen, metadata, georuimtelijke kenmerken en 3D-objecten erin te bevatten die als onderdeel van het brondocument kunnen worden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C# kan men tsv ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-docx/" name="Voeg TSV samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-sql/" name="Voeg TSV samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-bmp/" name="Voeg TSV samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-emf/" name="Voeg TSV samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-gif/" name="Voeg TSV samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-html/" name="Voeg TSV samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-md/" name="Voeg TSV samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-mhtml/" name="Voeg TSV samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-ods/" name="Voeg TSV samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-pdf/" name="Voeg TSV samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-png/" name="Voeg TSV samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-svg/" name="Voeg TSV samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-tiff/" name="Voeg TSV samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-tsv/" name="Voeg TSV samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-txt/" name="Voeg TSV samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xls/" name="Voeg TSV samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsb/" name="Voeg TSV samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsm/" name="Voeg TSV samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlsx/" name="Voeg TSV samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xlt/" name="Voeg TSV samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xltm/" name="Voeg TSV samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xltx/" name="Voeg TSV samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xml/" name="Voeg TSV samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-xps/" name="Voeg TSV samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-json/" name="Voeg TSV samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tsv-to-jpeg/" name="Voeg TSV samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

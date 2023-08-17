@@ -50,7 +50,7 @@ Converteer eenvoudig Microsoft Excel-bestanden naar PDF, HTML, afbeeldingen en v
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metagegevens" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Upload gewoon uw Microsoft Excel-bestand om de metadata van de spreadsheet vanuit elke browser te bekijken of te bewerken. Geen installatie of extra gereedschap nodig.
+ Upload gewoon uw Microsoft Excel-bestand om de metadata van de spreadsheet vanuit elke browser te bekijken of te bewerken. Geen installatie of extra gereedschap nodig.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="kijker" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Bekijk overal spreadsheetbestanden, waaronder XLS, XLSX, XLSM, XLSB en ODS in uw
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- De Aspose productsuite en ondersteuning is ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
+De Aspose productsuite en ondersteuning is ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
  <em>
  Dr Dan Patterson | Acumen, VK
  </em>

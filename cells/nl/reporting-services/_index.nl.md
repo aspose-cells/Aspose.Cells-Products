@@ -40,7 +40,7 @@ description: SQL Server Reporting Services rendering-extensie - Excel exporteren
  Tekstvakken
     </li>
     <li>
- Afbeeldingen
+Afbeeldingen
     </li>
     <li>
  Deelrapporten
@@ -312,7 +312,7 @@ description: SQL Server Reporting Services rendering-extensie - Excel exporteren
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Draaitabelvelden samenvouwen of uitvouwen
+Draaitabelvelden samenvouwen of uitvouwen
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: SQL Server Reporting Services rendering-extensie - Excel exporteren
  Aspose.Cells' Rapporten Designer Tool
     </h2>
     <p>
-Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en leveren terwijl ze Aspose.Cells.Report.Designer gebruiken - een eenvoudige ontwerptool die Microsoft Excel als rapportsjabloon gebruikt. Met deze functie kunt u profiteren van alle krachtige functionaliteit en functies die beschikbaar zijn in de Excel-toepassing Microsoft, waaronder draaitabellen, interactieve grafieken, formules enzovoort.
+ Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en leveren terwijl ze Aspose.Cells.Report.Designer gebruiken - een eenvoudige ontwerptool die Microsoft Excel als rapportsjabloon gebruikt. Met deze functie kunt u profiteren van alle krachtige functionaliteit en functies die beschikbaar zijn in de Excel-toepassing Microsoft, waaronder draaitabellen, interactieve grafieken, formules enzovoort.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en 
  Rapporten exporteren naar spreadsheetindelingen
     </h2>
     <p>
- Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (97 - 2016) bestandsindelingen, inclusief "native" Microsoft Excel-indelingen zoals XLS, XLSX, XLSM, SpreadsheetML, CSV, Door tabs gescheiden en HTML. Aspose.Cells for Reporting Services ondersteunen ook de bestandsindeling ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services ondersteunt alle populaire Microsoft Excel (97 - 2016) bestandsindelingen, inclusief "native" Microsoft Excel-indelingen zoals XLS, XLSX, XLSM, SpreadsheetML, CSV, Door tabs gescheiden en HTML. Aspose.Cells for Reporting Services ondersteunen ook de bestandsindeling ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Bovendien exporteert Aspose.Cells for Reporting Services Excel-documenten als volledig bewerkbare spreadsheets, dat wil zeggen; de eindgebruiker kan de resulterende spreadsheets indien nodig handmatig bewerken in de Excel-toepassing Microsoft.
@@ -367,7 +367,7 @@ Ontwikkelaars kunnen rapporten rechtstreeks vanuit Microsoft Excel ontwerpen en 
  High Fidelity - Identiek aan rapportontwerp
     </h2>
     <p>
-Aspose.Cells for Reporting Services exporteer de rapporten naar Microsoft Excel-spreadsheets op een manier dat het resultaat identiek lijkt aan het origineel zoals gegenereerd door de ingebouwde Reporting Services-rapportontwerper. Alle rapportfuncties worden geconverteerd naar de hoogste graad van precisie om Microsoft Excel-spreadsheets er zo veel mogelijk uit te laten zien als de originele.
+ Aspose.Cells for Reporting Services exporteer de rapporten naar Microsoft Excel-spreadsheets op een manier dat het resultaat identiek lijkt aan het origineel zoals gegenereerd door de ingebouwde Reporting Services-rapportontwerper. Alle rapportfuncties worden geconverteerd naar de hoogste graad van precisie om Microsoft Excel-spreadsheets er zo veel mogelijk uit te laten zien als de originele.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services exporteer de rapporten naar Microsoft Excel-
  Verschillende opties voor gegevensverwerking
     </h2>
     <p>
- Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen en voetteksten, terwijl de groepering tijdens het ontwerp kan worden ingesteld, net als andere rapportitems. Aspose.Cells for Reporting Services ondersteunt ook parameters en globale variabelen als rapportgegevensbronnen. Ontwikkelaars kunnen ook gebruikmaken van Microsoft Query voor het maken van gegevensbronnen en query's; dit is een veelgebruikte tool en bekend bij de meeste gebruikers.
+Aspose.Cells for Reporting Services ondersteunt tabellen met gegroepeerde rijen en voetteksten, terwijl de groepering tijdens het ontwerp kan worden ingesteld, net als andere rapportitems. Aspose.Cells for Reporting Services ondersteunt ook parameters en globale variabelen als rapportgegevensbronnen. Ontwikkelaars kunnen ook gebruikmaken van Microsoft Query voor het maken van gegevensbronnen en query's; dit is een veelgebruikte tool en bekend bij de meeste gebruikers.
     </p>
     <p>
-Daarnaast ondersteunt Aspose.Cells for Reporting Services zowel rapportspecifieke gegevensbronnen als gedeelde gegevensbronnen die vooraf op Report Server zijn gemaakt. Ontwikkelaars kunnen rapportspecifieke gegevensbronnen tijdens het ontwerpen gebruiken en gedeelde gegevensbronnen specificeren als rapportgegevensbronnen tijdens het publiceren van rapporten.
+ Daarnaast ondersteunt Aspose.Cells for Reporting Services zowel rapportspecifieke gegevensbronnen als gedeelde gegevensbronnen die vooraf op Report Server zijn gemaakt. Ontwikkelaars kunnen rapportspecifieke gegevensbronnen tijdens het ontwerpen gebruiken en gedeelde gegevensbronnen specificeren als rapportgegevensbronnen tijdens het publiceren van rapporten.
     </p>
    </div>
    <!-- 

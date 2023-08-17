@@ -1,7 +1,8 @@
 ---
-title:  Voeg XLSB samen met XLTM via Java
+title: Voeg XLSB samen met XLTM - Combineer XLSB met XLTM in Java
 url: /nl/java/merger/merge-xlsb-to-xltm/ 
-description: Samenvoegen XLSB naar XLTM Online gratis. Gratis online XLSB tot XLTM Fusie. Voeg XLSB samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Java Aspose.Cells. Gratis online Samenvoegen XLSB naar XLTM saveformat. Java Combineer het formaat XLSB tot XLTM. Samenvoegen XLSB tot XLTM in Java. XLSB Samenvoegen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSB to XLTM in Java., Free Online Java Merge XLSB to xltm., Java Combine XLSB to XLTM Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg XLSB samen met XLTM via Java" h2="Supersnelle Java-bibliotheek voor het samenvoegen van XLSB tot XLTM. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Java. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen XLSB naar XLTM Online gratis. Gratis online XLSB tot XL
 
 {{% blocks/products/pf/agp/content h2="Voeg XLSB samen met XLTM met Java" %}}
 
- Hoe XLSB samen te voegen met XLTM? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig XLSB naar XLTM programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe voeg ik XLSB samen met XLTM? Met de Aspose.Cells for Java-bibliotheek kunt u eenvoudig XLSB tot XLTM programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Samenvoegen XLSB naar XLTM Online gratis. Gratis online XLSB tot XL
 
 {{% blocks/products/pf/agp/content h2="Voeg XLSB samen met XLTM in Java Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u XLSB samenvoegt met XLTM in Java.
+Het volgende voorbeeld laat zien hoe u XLSB samenvoegt met XLTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLSB samen te voegen met XLTM. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XLTM. Als u code ontwikkelt in Java, is dit eenvoudiger dan het klinkt. Zie voorbeeld Java dat XLSB samenvoegt met XLTM.
@@ -55,16 +56,18 @@ Volg de eenvoudige stappen om XLSB samen te voegen met XLTM. Upload uw bestanden
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XLSB online samen te voegen tot XLTM" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratis online om XLSB samen te voegen tot XLTM in Java" InputFormat="xlsb" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLSB samen te voegen tot XLTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XLSB programmatisch samenvoegen tot XLTM? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
 + Laad het bestand XLSB met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -76,7 +79,7 @@ Volg de eenvoudige stappen om XLSB samen te voegen met XLTM. Upload uw bestanden
 
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand dat bytecode bevat. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}De bestandsindeling XLSB specificeert de binaire bestandsindeling van Excel, een verzameling records en structuren die de inhoud van de Excel-werkmap specificeren. De inhoud kan ongestructureerde of semi-gestructureerde tabellen met getallen, tekst of zowel getallen als tekst, formules, externe gegevensverbindingen, grafieken en afbeeldingen bevatten. In tegenstelling tot XLSX (dat is gebaseerd op de Open XML-bestandsindeling), vertegenwoordigt de XLSB het binaire Excel-werkmapbestand. XLSB-bestanden kunnen sneller worden gelezen en geschreven, waardoor ze handig zijn voor het werken met grote bestanden. XLSB wordt zelden gebruikt om werkmappen op te slaan, aangezien XLSX (en voorheen XLS) de meest gebruikelijke door de gebruiker geselecteerde bestandsindelingen zijn voor het opslaan van werkmappen. Het kan worden geopend door Microsoft Office 2007 en hoger.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}De bestandsextensie XLTM vertegenwoordigt bestanden die zijn gegenereerd door Microsoft Excel als sjabloonbestanden met macro's. XLTM-bestanden zijn qua structuur vergelijkbaar met XLTX, behalve dat de laatste geen ondersteuning biedt voor het maken van sjabloonbestanden met macro's. Dergelijke sjabloonbestanden worden gebruikt om de lay-out, opmaak en andere instellingen samen met de macro's te genereren en in te stellen om het maken van vergelijkbare XLSX-bestanden te vergemakkelijken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Java kan men xlsb ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-docx/" name="Voeg XLSB samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-sql/" name="Voeg XLSB samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-bmp/" name="Voeg XLSB samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-emf/" name="Voeg XLSB samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-gif/" name="Voeg XLSB samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-html/" name="Voeg XLSB samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-md/" name="Voeg XLSB samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-mhtml/" name="Voeg XLSB samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-ods/" name="Voeg XLSB samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-pdf/" name="Voeg XLSB samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-png/" name="Voeg XLSB samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-svg/" name="Voeg XLSB samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tiff/" name="Voeg XLSB samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-tsv/" name="Voeg XLSB samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-txt/" name="Voeg XLSB samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xls/" name="Voeg XLSB samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsb/" name="Voeg XLSB samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsm/" name="Voeg XLSB samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlsx/" name="Voeg XLSB samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xlt/" name="Voeg XLSB samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltm/" name="Voeg XLSB samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xltx/" name="Voeg XLSB samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xml/" name="Voeg XLSB samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-xps/" name="Voeg XLSB samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-json/" name="Voeg XLSB samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsb-to-jpeg/" name="Voeg XLSB samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

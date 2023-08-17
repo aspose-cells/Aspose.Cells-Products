@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen SXC naar XPS via Python
+title: Voeg SXC samen met XPS - Combineer SXC met XPS in Python
 url: /nl/python-net/merger/merge-sxc-to-xps/ 
-description: Samenvoegen SXC naar XPS Online gratis. Gratis online SXC tot XPS Fusie. Voeg SXC samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Python Aspose.Cells. Gratis online Samenvoegen SXC naar XPS saveformat. Python Combineer het formaat SXC tot XPS. Samenvoegen SXC tot XPS in Python. SXC Samenvoegen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to XPS in Python., Free Online Python Merge SXC to xps., Python Combine SXC to XPS Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen SXC naar XPS via Python" h2="Supersnelle Python-bibliotheek voor het samenvoegen van SXC tot XPS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Samenvoegen SXC naar XPS Online gratis. Gratis online SXC tot XPS F
 
 {{% blocks/products/pf/agp/content h2="Voeg SXC samen met XPS met Python" %}}
 
- Hoe SXC samen te voegen met XPS? Met de bibliotheek Aspose.Cells for Python kunt u eenvoudig SXC naar XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells-python</code>.
+ Hoe voeg ik SXC samen met XPS? Met de bibliotheek Aspose.Cells for Python via .NET kunt u eenvoudig SXC tot XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python via .NET installeren vanaf<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Voeg SXC samen met XPS in Python Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u SXC samenvoegt met XPS in Python.
+Het volgende voorbeeld laat zien hoe u SXC kunt samenvoegen met XPS in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om SXC samen te voegen met XPS. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XPS. Als u code ontwikkelt in Python, is dit eenvoudiger dan het klinkt. Zie voorbeeld Python dat SXC samenvoegt met XPS.
@@ -27,16 +28,18 @@ Volg de eenvoudige stappen om SXC samen te voegen met XPS. Upload uw bestanden, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om SXC online samen te voegen tot XPS" InputFormat="sxc" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Gratis online om SXC samen te voegen tot XPS in Python" InputFormat="sxc" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe SXC samen te voegen met XPS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u SXC programmatisch samenvoegen tot XPS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Python via .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
 + Laad het bestand SXC met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -53,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Het bestandsformaat SXC (Sun XML Calc) behoort tot een kantoorsuite genaamd OpenOffice.org. Dit formaat houdt over het algemeen rekening met de spreadsheetbehoeften van gebruikers, aangezien het een op XML gebaseerd spreadsheetbestandsformaat is. SXC-formaat ondersteunt formules, functies, macro's en grafieken samen met DataPilot, wat een ongelooflijke functie is omdat het automatisch individualiseert en samenvattingen geeft van onbewerkte geïmporteerde gegevens. De bestanden die met deze software zijn gemaakt, worden opgeslagen met de extensie .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XML-papierspecificaties gemaakt door Microsoft. Het is ontwikkeld als vervanging van de bestandsindeling EMF en is vergelijkbaar met de bestandsindeling PDF, maar gebruikt XML in lay-out, uiterlijk en afdrukinformatie van een document . Het is in feite meer gerechtvaardigd om te zeggen dat XPS een poging is tot PDF, maar om vele redenen niet genoeg populariteit kon krijgen als eigendom van PDF. Microsoft biedt standaard XPS Document Writer vanaf Windows 7 voor het maken van XPS-bestanden. XPS-bestanden kunnen worden gegenereerd door de "Microsoft XPS Document Writer" als printer te selecteren tijdens het afdrukken van het document.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Python kan men sxc ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-docx/" name="Voeg SXC samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-sql/" name="Voeg SXC samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-bmp/" name="Voeg SXC samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-emf/" name="Voeg SXC samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-gif/" name="Voeg SXC samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="Voeg SXC samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-md/" name="Voeg SXC samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="Voeg SXC samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="Voeg SXC samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-pdf/" name="Voeg SXC samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-png/" name="Voeg SXC samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-svg/" name="Voeg SXC samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tiff/" name="Voeg SXC samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="Voeg SXC samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="Voeg SXC samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="Voeg SXC samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="Voeg SXC samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="Voeg SXC samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="Voeg SXC samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="Voeg SXC samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="Voeg SXC samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="Voeg SXC samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xml/" name="Voeg SXC samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xps/" name="Voeg SXC samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-json/" name="Voeg SXC samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-jpeg/" name="Voeg SXC samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

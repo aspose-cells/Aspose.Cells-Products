@@ -10,7 +10,7 @@ description: Herstel een beschadigd Excel-bestand met behulp van Java. Herstelto
 
 {{% blocks/products/pf/agp/content h2="Herstel EXCEL-bestand met Java" %}}
 
- Om het EXCEL-bestand te repareren, zullen we gebruiken[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, een functierijk, krachtig en gebruiksvriendelijk platform voor documentmanipulatie API for Java.
+ Om het EXCEL-bestand te repareren, zullen we gebruiken[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, een functierijk, krachtig en gebruiksvriendelijk platform voor documentmanipulatie API for Java.
  
  Aspose.Cells API kan worden gebruikt om Microsoft Excel-indelingen naar verschillende indelingen te maken, te bewerken, te converteren en weer te geven. Bovendien kan het worden gebruikt voor uitgebreide grafieken, schaalbare rapportage en betrouwbare berekeningen binnen softwaretoepassingen. Aspose.Cells is een stand-alone API en vereist geen software zoals Microsoft of OpenOffice.
 
@@ -20,7 +20,7 @@ description: Herstel een beschadigd Excel-bestand met behulp van Java. Herstelto
 
 {{% blocks/products/pf/agp/content h2="Excel-bestand repareren met Java" %}}
 
-Definieer een klasse die Aspose.Cells erft. IWarningCallback.
++ Definieer een klasse die Aspose.Cells erft. IWarningCallback.
 + Laad het EXCEL-bestand door een instantie van Workbook te maken, met behulp van de bovenstaande overervingsklasse, raadpleeg de bovenstaande code.
 + Sla de werkmap op, het beschadigde Excel-bestand wordt gerepareerd.
 

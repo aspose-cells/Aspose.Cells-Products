@@ -13,7 +13,7 @@ description: Java رمز عينة لإضافة أو إزالة العلامة ا
 
  من أجل العلامة المائية لملف XLSB ، سنستخدم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامات المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
+ API وهي منصة غنية بالميزات وقوية وسهلة الاستخدام للعلامات المائية API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 

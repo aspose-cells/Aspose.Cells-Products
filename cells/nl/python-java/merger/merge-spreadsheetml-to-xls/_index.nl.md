@@ -1,7 +1,8 @@
 ---
-title:  Voeg SPREADSHEETML samen met XLS via Python
+title: Voeg SPREADSHEETML samen met XLS - Combineer SPREADSHEETML met XLS in Python
 url: /nl/python-java/merger/merge-spreadsheetml-to-xls/ 
-description: Samenvoegen SPREADSHEETML naar XLS Online gratis. Gratis online SPREADSHEETML naar XLS Fusie. Voeg SPREADSHEETML samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Python Aspose.Cells. Gratis online Samenvoegen SPREADSHEETML naar XLS saveformat. Python Combineer SPREADSHEETML tot formaat XLS. Samenvoegen SPREADSHEETML naar XLS in Python. SPREADSHEETML Samenvoegen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to XLS in Python., Free Online Python Merge SPREADSHEETML to xls., Python Combine SPREADSHEETML to XLS Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg SPREADSHEETML samen met XLS via Python" h2="Snelle Python-bibliotheek voor het samenvoegen van SPREADSHEETML tot XLS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Samenvoegen SPREADSHEETML naar XLS Online gratis. Gratis online SPR
 
 {{% blocks/products/pf/agp/content h2="Voeg SPREADSHEETML samen met XLS met behulp van Python" %}}
 
- Hoe SPREADSHEETML samen te voegen met XLS? Met de bibliotheek Aspose.Cells for Python kunt u SPREADSHEETML eenvoudig programmatisch samenvoegen tot XLS met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+Hoe voeg ik SPREADSHEETML samen met XLS? Met de bibliotheek Aspose.Cells for Python via Java kunt u SPREADSHEETML eenvoudig programmatisch samenvoegen met XLS met een paar regels code.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python via Java installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Voeg SPREADSHEETML samen met XLS in Python Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe SPREADSHEETML kan worden samengevoegd tot XLS in Python.
+Het volgende voorbeeld laat zien hoe SPREADSHEETML kan worden samengevoegd tot XLS in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om SPREADSHEETML samen te voegen tot XLS. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XLS. Als u code ontwikkelt in Python, is dit eenvoudiger dan het klinkt. Zie voorbeeld Python dat SPREADSHEETML samenvoegt tot XLS.
@@ -27,16 +28,18 @@ Volg de eenvoudige stappen om SPREADSHEETML samen te voegen tot XLS. Upload uw b
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om SPREADSHEETML samen te voegen met XLS online" InputFormat="xml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratis online om SPREADSHEETML samen te voegen tot XLS in Python" InputFormat="xml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe SPREADSHEETML samen te voegen tot XLS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u SPREADSHEETML programmatisch samenvoegen met XLS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Python via Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
 + Laad het SPREADSHEETML-bestand met de Workbook-klasse.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -75,21 +78,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language en is vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het maken van het XML-bestandsformaat was om gegevens op te slaan en te transporteren zonder afhankelijk te zijn van software- of hardwaretools. Zijn populariteit is te danken aan het feit dat het zowel door mensen als door machines leesbaar is. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals World Wide Web (WWW). De "X" in XML staat voor uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen volgens de vereisten van de gebruiker. Het is voor deze functies dat veel standaard bestandsindelingen er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen de binaire bestandsindeling van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel, evenals andere vergelijkbare spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat is opgeslagen door Excel staat bekend als werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling in werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens exporteren naar verschillende indelingen, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Python kan men spreadsheetml ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-docx/" name="Voeg SPREADSHEETML samen tot DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-sql/" name="Voeg SPREADSHEETML samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-bmp/" name="Voeg SPREADSHEETML samen tot BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-emf/" name="Voeg SPREADSHEETML samen tot EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-gif/" name="Voeg SPREADSHEETML samen tot GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-html/" name="Voeg SPREADSHEETML samen tot HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-md/" name="Voeg SPREADSHEETML samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-mhtml/" name="Voeg SPREADSHEETML samen tot MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-ods/" name="Voeg SPREADSHEETML samen tot ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-pdf/" name="Voeg SPREADSHEETML samen tot PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-png/" name="Voeg SPREADSHEETML samen tot PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-svg/" name="Voeg SPREADSHEETML samen tot SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tiff/" name="Voeg SPREADSHEETML samen tot TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tsv/" name="Voeg SPREADSHEETML samen tot TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-txt/" name="Voeg SPREADSHEETML samen tot TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xls/" name="Voeg SPREADSHEETML samen tot XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsb/" name="Voeg SPREADSHEETML samen tot XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsm/" name="Voeg SPREADSHEETML samen tot XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsx/" name="Voeg SPREADSHEETML samen tot XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlt/" name="Voeg SPREADSHEETML samen tot XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltm/" name="Voeg SPREADSHEETML samen tot XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltx/" name="Voeg SPREADSHEETML samen tot XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xml/" name="Voeg SPREADSHEETML samen met XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xps/" name="Voeg SPREADSHEETML samen tot XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-json/" name="Voeg SPREADSHEETML samen tot JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-jpeg/" name="Voeg SPREADSHEETML samen tot JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

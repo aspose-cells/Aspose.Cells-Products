@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
+Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 

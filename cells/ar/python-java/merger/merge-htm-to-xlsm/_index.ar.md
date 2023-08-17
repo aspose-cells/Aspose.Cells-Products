@@ -1,7 +1,8 @@
 ---
-title:  دمج HTM في XLSM عبر Python
+title: دمج HTM في XLSM - ادمج HTM مع XLSM في Python
 url: /ar/python-java/merger/merge-htm-to-xlsm/ 
-description: دمج HTM في XLSM عبر الإنترنت مجانًا. HTM على الإنترنت مجاني لدمج XLSM. دمج HTM في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Python Aspose.Cells. Free Online Merge HTM إلى XLSM saveformat. Python ادمج تنسيق HTM مع تنسيق XLSM. دمج HTM إلى XLSM في Python. HTM دمج.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSM in Python., Free Online Python Merge HTM to xlsm., Python Combine HTM to XLSM Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دمج HTM في XLSM عبر Python" h2="مكتبة Python عالية السرعة لدمج HTM إلى XLSM. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن المنصة في Python. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: دمج HTM في XLSM عبر الإنترنت مجانًا. HTM عل
 
 {{% blocks/products/pf/agp/content h2="دمج HTM في XLSM باستخدام Python" %}}
 
- كيفية دمج HTM في XLSM؟ مع مكتبة Aspose.Cells for Python ، يمكنك بسهولة دمج HTM في XLSM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
+ كيف أقوم بدمج HTM في XLSM؟ مع مكتبة Aspose.Cells for Python via Java ، يمكنك بسهولة دمج HTM في XLSM برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تثبيت Aspose.Cells for Python via Java من<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، استخدم الأمر على النحو التالي:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="قم بدمج HTM في XLSM في Python عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج HTM إلى XLSM في Python.
+يوضح المثال التالي كيفية دمج HTM مع XLSM في Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج HTM في XLSM. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف XLSM. إذا قمت بتطوير رمز في Python ، فسيكون هذا أبسط مما يبدو. راجع Python المثال الذي يدمج HTM إلى XLSM.
@@ -27,16 +28,18 @@ description: دمج HTM في XLSM عبر الإنترنت مجانًا. HTM عل
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج HTM إلى XLSM على الإنترنت" InputFormat="htm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج HTM في XLSM في Python" InputFormat="htm" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج HTM في XLSM عبر Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج HTM في XLSM برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Python via Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Python.
 + تحميل ملف HTM مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -75,21 +78,41 @@ description: دمج HTM في XLSM عبر الإنترنت مجانًا. HTM عل
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}تمثل الملفات ذات الامتداد .htm لغة ترميز النص التشعبي لإنشاء صفحات ويب للعرض في متصفحات الويب مثل Google Chrome و Internet Explorer و Firefox وعدد آخر. تحدد العلامات لإنشاء صفحات ثابتة ليتم نشرها على شبكة الويب العالمية (WWW) ليتمكن الآخرون من الوصول إليها. تخبر هذه العلامات المتصفحات بكيفية عرض محتويات صفحة الويب. يمكن أن تحتوي هذه الصفحات على نص عادي وصور وارتباطات تشعبية لصفحات ومقاطع فيديو ومعلومات وسائط أخرى. عندما يتم نشر صفحة ويب ، يمكنك إلقاء نظرة على رمز الترميز الموجود خلفها من خلال عرض مصدر الصفحة الخاص بها. تسمح المتصفحات الحديثة بفحص كل قسم من صفحة الويب حيث يتم وضع كل قسم فرعي أو عنصر ترميز في مصدر HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}الملفات ذات الامتداد XLSM هي نوع من ملفات جداول البيانات التي تدعم وحدات الماكرو. من وجهة نظر التطبيق ، الماكرو عبارة عن مجموعة من الإرشادات التي يتم استخدامها لأتمتة العمليات. يتم استخدام الماكرو لتسجيل الخطوات التي يتم تنفيذها بشكل متكرر وتسهيل تنفيذ الإجراءات عن طريق تشغيل الماكرو مرة أخرى. تمت برمجة وحدات الماكرو باستخدام Visual Basic for Applications (VBA) الخاص بـ Microsoft من داخل Excel Workbook باستخدام محرر Visual Basic ويمكن تشغيل / تصحيح الأخطاء مباشرةً من هناك.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Python ، يمكن أيضًا دمج htm مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-docx/" name="دمج HTM في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-sql/" name="دمج HTM في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-bmp/" name="دمج HTM في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-emf/" name="دمج HTM في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-gif/" name="دمج HTM في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-html/" name="دمج HTM في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-md/" name="دمج HTM إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-mhtml/" name="دمج HTM في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-ods/" name="دمج HTM في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-pdf/" name="دمج HTM في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-png/" name="دمج HTM في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-svg/" name="دمج HTM في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tiff/" name="دمج HTM في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tsv/" name="دمج HTM في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-txt/" name="دمج HTM في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xls/" name="دمج HTM في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsb/" name="دمج HTM في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsm/" name="دمج HTM في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsx/" name="دمج HTM في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlt/" name="دمج HTM في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltm/" name="دمج HTM في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltx/" name="دمج HTM في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xml/" name="دمج HTM إلى XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xps/" name="دمج HTM في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-json/" name="دمج HTM في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-jpeg/" name="دمج HTM في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

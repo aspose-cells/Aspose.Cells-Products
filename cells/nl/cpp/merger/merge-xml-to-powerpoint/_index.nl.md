@@ -1,7 +1,8 @@
 ---
-title: Voeg XML samen met POWERPOINT via C++
+title: Voeg XML samen met POWERPOINT - Combineer XML met POWERPOINT in C++
 url: /nl/cpp/merger/merge-xml-to-powerpoint/ 
-description: Voeg gratis XML samen met POWERPOINT Online. Gratis online XML naar POWERPOINT-fusie. Voeg XML samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C++ Aspose.Cells. Gratis online XML samenvoegen naar POWERPOINT-opslagindeling. C++ Combineer XML naar POWERPOINT-formaat. XML samenvoegen naar POWERPOINT in C++. XML samenvoegen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XML to POWERPOINT in C++., Free Online C++ Merge XML to powerpoint., C++ Combine XML to POWERPOINT Online for Free., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg XML samen met POWERPOINT via C++" h2="High-speed C++ bibliotheek voor het samenvoegen van XML naar POWERPOINT. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C++. Dit is een professionele softwareoplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Voeg gratis XML samen met POWERPOINT in C++ Online" %}}
 
-Het volgende voorbeeld laat zien hoe u XML kunt samenvoegen met POWERPOINT in C++.
+Het volgende voorbeeld laat zien hoe u XML kunt samenvoegen met POWERPOINT in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XML samen te voegen met POWERPOINT. Upload uw bestanden, roep de methode Workbook.Combine aan voor het samenvoegen van bestanden en sla deze vervolgens op in het POWERPOINT-bestand. Als u code ontwikkelt in C++, is dit eenvoudiger dan het klinkt. Zie voorbeeld C++ dat XML samenvoegt met POWERPOINT.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om XML samen te voegen met POWERPOINT. Upload uw best
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XML online samen te voegen met POWERPOINT" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Gratis online om XML samen te voegen met POWERPOINT in C++" InputFormat="xml" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="XML samenvoegen met POWERPOINT via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XML programmatisch samenvoegen met POWERPOINT? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for C++'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C++-project.
 + Laad het XML-bestand met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -63,7 +66,7 @@ Er zijn drie opties om "Aspose.Cells for C++" op uw systeem te installeren. Kies
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installeer de bibliotheek met behulp van Include en lib Folders. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML staat voor Extensible Markup Language en is vergelijkbaar met HTML, maar verschilt in het gebruik van tags voor het definiëren van objecten. Het hele idee achter het maken van het XML-bestandsformaat was om gegevens op te slaan en te transporteren zonder afhankelijk te zijn van software- of hardwaretools. Zijn populariteit is te danken aan het feit dat het zowel door mensen als door machines leesbaar is. Hierdoor kan het gemeenschappelijke dataprotocollen creëren in de vorm van objecten die kunnen worden opgeslagen en gedeeld via netwerken zoals World Wide Web (WWW). De "X" in XML staat voor uitbreidbaar, wat inhoudt dat de taal kan worden uitgebreid tot een willekeurig aantal symbolen volgens de vereisten van de gebruiker. Het is voor deze functies dat veel standaard bestandsindelingen er gebruik van maken, zoals Microsoft Open XML, LibreOffice OpenDocument, XHTML en SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Bestanden met de extensie PPTX zijn presentatiebestanden die zijn gemaakt met de populaire toepassing Microsoft PowerPoint. In tegenstelling tot de vorige versie van het presentatiebestandsformaat PPT, dat binair was, is het PPTX-formaat gebaseerd op het Microsoft PowerPoint open XML-presentatiebestandsformaat. Een presentatiebestand is een verzameling dia's waarbij elke dia kan bestaan uit tekst, afbeeldingen, opmaak, animaties en andere media. Deze dia's worden aan het publiek gepresenteerd in de vorm van diavoorstellingen met aangepaste presentatie-instellingen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C++ kan men ook xml samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-docx/" name="XML samenvoegen tot DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-sql/" name="Voeg XML samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-bmp/" name="XML samenvoegen tot BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-emf/" name="XML samenvoegen tot EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-gif/" name="XML samenvoegen tot GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-html/" name="XML samenvoegen tot HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-md/" name="Voeg XML samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-mhtml/" name="XML samenvoegen tot MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-ods/" name="XML samenvoegen tot ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-pdf/" name="XML samenvoegen tot PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-png/" name="XML samenvoegen tot PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-svg/" name="XML samenvoegen tot SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tiff/" name="XML samenvoegen tot TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-tsv/" name="XML samenvoegen tot TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-txt/" name="XML samenvoegen tot TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xls/" name="XML samenvoegen tot XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsb/" name="XML samenvoegen tot XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsm/" name="XML samenvoegen tot XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlsx/" name="XML samenvoegen tot XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xlt/" name="XML samenvoegen tot XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xltm/" name="XML samenvoegen tot XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xltx/" name="XML samenvoegen tot XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xml/" name="XML samenvoegen tot XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-xps/" name="XML samenvoegen tot XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-json/" name="XML samenvoegen tot JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xml-to-jpeg/" name="XML samenvoegen tot JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

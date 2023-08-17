@@ -1,7 +1,8 @@
 ---
-title:  ادمج CSV مع أرقام via Java
+title: دمج CSV في أرقام - اجمع CSV إلى أرقام في Java
 url: /ar/java/merger/merge-csv-to-numbers/ 
-description: ادمج CSV في أرقام عبر الإنترنت مجانًا. مجاني على الإنترنت CSV لدمج الأرقام. دمج CSV في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Java Aspose.Cells. الدمج المجاني عبر الإنترنت CSV إلى تنسيق حفظ الأرقام. Java اجمع CSV إلى تنسيق NUMBERS. دمج CSV إلى أرقام في Java. دمج CSV.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge CSV to NUMBERS in Java., Free Online Java Merge CSV to numbers., Java Combine CSV to NUMBERS Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج CSV مع أرقام via Java" h2="مكتبة Java عالية السرعة لدمج CSV إلى أرقام. استخدم تحويل Excel API الخاص بنا لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في Java. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: ادمج CSV في أرقام عبر الإنترنت مجانًا. 
 
 {{% blocks/products/pf/agp/content h2="دمج CSV مع أرقام باستخدام Java" %}}
 
- كيف يتم دمج CSV في أرقام؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج CSV إلى أرقام برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ كيف أقوم بدمج CSV في أرقام؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج CSV إلى أرقام برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: ادمج CSV في أرقام عبر الإنترنت مجانًا. 
 
 {{% blocks/products/pf/agp/content h2="قم بدمج CSV إلى أرقام في Java عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج CSV مع أرقام في Java.
+يوضح المثال التالي كيفية دمج CSV مع أرقام في Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج CSV في أرقام. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف NUMBERS. إذا قمت بتطوير رمز في Java ، فسيكون هذا أبسط مما يبدو. راجع Java المثال الذي يدمج CSV مع أرقام.
@@ -55,16 +56,18 @@ description: ادمج CSV في أرقام عبر الإنترنت مجانًا. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج CSV إلى أرقام على الخط" InputFormat="csv" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="عبر الإنترنت مجانًا لدمج CSV مع أرقام في Java" InputFormat="csv" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج CSV مع أرقام via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج CSV مع أرقام برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Java.
 + قم بتحميل ملف CSV مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -97,21 +100,41 @@ description: ادمج CSV في أرقام عبر الإنترنت مجانًا. 
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}تمثل الملفات ذات الامتداد .csv (قيم مفصولة بفواصل) ملفات نصية عادية تحتوي على سجلات بيانات بقيم مفصولة بفواصل. كل سطر في ملف CSV هو سجل جديد من مجموعة السجلات الموجودة في الملف. يتم إنشاء هذه الملفات عندما يكون نقل البيانات مقصودًا من نظام تخزين إلى آخر. نظرًا لأن جميع التطبيقات يمكنها التعرف على السجلات المفصولة بفاصلة ، فإن استيراد ملفات البيانات هذه إلى قاعدة البيانات يتم بشكل ملائم للغاية. يمكن لجميع تطبيقات جداول البيانات تقريبًا مثل Microsoft Excel أو OpenOffice Calc استيراد CSV دون بذل الكثير من الجهد. يتم ترتيب البيانات المستوردة من هذه الملفات في خلايا جدول بيانات لتمثيلها للمستخدم.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}يتم تصنيف الملفات ذات الامتداد .numbers كنوع ملف جدول بيانات ، وهذا هو سبب تشابهها مع ملفات xlsx. ولكن يتم إنشاء ملفات Numbers باستخدام برنامج جداول بيانات Apple iWork Numbers. Apple iWork Numbers هو برنامج وحدة من iWork Productivity Suite. تعادل iWork Productivity Suite Microsoft Office Suite المستخدم في أجهزة كمبيوتر Windows. وبالتالي ، يمكننا القول أن Numbers المتوفر لنظام التشغيل MacOS هو أيضًا منافس لـ Microsoft Excel. وبالمثل ، Microsoft Excel ، قد يحتوي ملف الأرقام أيضًا على الجداول والمخططات والصيغ.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Java ، يمكن أيضًا دمج csv في العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-docx/" name="ادمج CSV إلى DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-sql/" name="دمج CSV في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-bmp/" name="ادمج CSV إلى BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-emf/" name="ادمج CSV إلى EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-gif/" name="ادمج CSV إلى GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-html/" name="ادمج CSV إلى HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-md/" name="دمج CSV في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-mhtml/" name="ادمج CSV إلى MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-ods/" name="ادمج CSV إلى ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-pdf/" name="ادمج CSV إلى PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-png/" name="ادمج CSV إلى PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-svg/" name="ادمج CSV إلى SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-tiff/" name="ادمج CSV إلى TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-tsv/" name="ادمج CSV إلى TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-txt/" name="ادمج CSV إلى TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xls/" name="ادمج CSV إلى XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsb/" name="ادمج CSV إلى XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsm/" name="ادمج CSV إلى XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlsx/" name="ادمج CSV إلى XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xlt/" name="ادمج CSV إلى XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xltm/" name="ادمج CSV إلى XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xltx/" name="ادمج CSV إلى XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xml/" name="دمج CSV في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-xps/" name="ادمج CSV إلى XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-json/" name="ادمج CSV إلى JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-csv-to-jpeg/" name="ادمج CSV إلى JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

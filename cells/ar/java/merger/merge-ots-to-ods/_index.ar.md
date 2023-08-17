@@ -1,7 +1,8 @@
 ---
-title: ادمج OTS في ODS via Java
+title: دمج OTS في ODS - ادمج OTS إلى ODS في Java
 url: /ar/java/merger/merge-ots-to-ods/ 
-description: قم بدمج OTS في ODS عبر الإنترنت مجانًا. OTS عبر الإنترنت مجانًا حتى اندماج ODS. دمج OTS في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. Java Aspose.Cells. دمج OTS مجانًا عبر الإنترنت إلى تنسيق حفظ ODS. Java ادمج OTS بتنسيق ODS. دمج OTS في ODS في Java. OTS Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to ODS in Java., Free Online Java Merge OTS to ods., Java Combine OTS to ODS Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج OTS في ODS via Java" h2="مكتبة Java عالية السرعة لدمج OTS في ODS. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن المنصة في Java. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: قم بدمج OTS في ODS عبر الإنترنت مجانًا. OT
 
 {{% blocks/products/pf/agp/content h2="ادمج OTS في ODS باستخدام Java" %}}
 
- كيفية دمج OTS في ODS؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج OTS في ODS برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
+ كيف أقوم بدمج OTS في ODS؟ مع مكتبة Aspose.Cells for Java ، يمكنك بسهولة دمج OTS في ODS برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Java Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة من[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: قم بدمج OTS في ODS عبر الإنترنت مجانًا. OT
 
 {{% blocks/products/pf/agp/content h2="قم بدمج OTS في ODS في Java عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج OTS مع ODS في Java.
+يوضح المثال التالي كيفية دمج OTS مع ODS في Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج OTS في ODS. قم بتحميل ملفاتك ، واتصل بطريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف ODS. إذا قمت بتطوير رمز في Java ، فسيكون هذا أبسط مما يبدو. راجع Java المثال الذي يدمج OTS مع ODS.
@@ -55,17 +56,19 @@ description: قم بدمج OTS في ODS عبر الإنترنت مجانًا. OT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج OTS في ODS على الإنترنت" InputFormat="ots" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج OTS في ODS في Java" InputFormat="ots" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج OTS في ODS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج OTS في ODS برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-قم بتحميل ملف OTS مع فئة المصنف.
++ قم بتثبيت "Aspose.Cells for Java".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك Java.
++ قم بتحميل ملف OTS مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
 + الآن يمكنك فتح واستخدام ملف الإخراج في Microsoft Office أو Adobe PDF أو أي برنامج آخر متوافق.
@@ -97,21 +100,41 @@ description: قم بدمج OTS في ODS عبر الإنترنت مجانًا. OT
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}الملف ذو الامتداد .ots هو ملف OpenDocument Spreadsheet Template الذي تم إنشاؤه باستخدام برنامج تطبيق Calc المضمن في Apache OpenOffice. برنامج تطبيق Calc مشابه لبرنامج Excel المتوفر في Microsoft Office. يتم استخدام تنسيق ملف OTS لإنشاء قوالب تحتوي على إعدادات محددة مسبقًا تتعلق بالأنماط والخط والبيانات وتخطيط جدول البيانات والتنسيق. تحتوي ملفات OTF على application / vnd.oasis.opendocument.spreadsheet-type mime. يمكن استخدام ملفات القوالب هذه كنقطة بداية لإنشاء وحفظ ملفات البيانات الفعلية المحفوظة بتنسيق ملف ODS. يمكن استخدام ملفات OTS مع تطبيقات مثل OpenOffice و LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}الملفات ذات ملحق ods. لتنسيق OpenDocument Spreadsheet Document التي يمكن تحريرها من قبل المستخدم. يتم تخزين البيانات داخل ملف ODF في صفوف وأعمدة. إنه تنسيق مستند إلى XML وهو أحد الأنواع الفرعية العديدة في عائلة تنسيقات المستندات المفتوحة (ODF). تم تحديد الشكل كجزء من مواصفات ODF 1.2 التي تنشرها وتحتفظ بها OASIS. يمكن لعدد من التطبيقات على Windows بالإضافة إلى أنظمة التشغيل الأخرى فتح ODS ملفات للتحرير والمعالجة بما في ذلك Microsoft Excel و NeoOffice و LibreOffice. يمكن أيضًا تحويل ملفات ODS إلى تنسيقات جداول بيانات أخرى مثل XLS و XLSX وغيرها من خلال تطبيقات مختلفة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام Java ، يمكن للمرء أيضًا دمج ots مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-docx/" name="ادمج OTS في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-sql/" name="دمج OTS في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-bmp/" name="ادمج OTS في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-emf/" name="ادمج OTS في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-gif/" name="ادمج OTS في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-html/" name="ادمج OTS في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-md/" name="دمج OTS إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-mhtml/" name="ادمج OTS في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-ods/" name="ادمج OTS في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-pdf/" name="ادمج OTS في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-png/" name="ادمج OTS في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-svg/" name="ادمج OTS في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tiff/" name="ادمج OTS في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tsv/" name="ادمج OTS في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-txt/" name="ادمج OTS في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xls/" name="ادمج OTS في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsb/" name="ادمج OTS في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsm/" name="ادمج OTS في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsx/" name="ادمج OTS في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlt/" name="ادمج OTS في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltm/" name="ادمج OTS في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltx/" name="ادمج OTS في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xml/" name="دمج OTS في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xps/" name="ادمج OTS في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-json/" name="ادمج OTS في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-jpeg/" name="ادمج OTS في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

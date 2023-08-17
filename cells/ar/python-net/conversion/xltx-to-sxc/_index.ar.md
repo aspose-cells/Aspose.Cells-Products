@@ -1,7 +1,7 @@
 ---
-title: تحويل XLTX إلى SXC Python via Python
-description: قم بالتحويل من XLTX إلى SXC عبر الإنترنت مجانًا. محول مجاني على الإنترنت من XLTX إلى SXC. Python XLTX إلى SXC. XLTX إلى SXC عبر Python.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+title: Python XLTX إلى SXC - عبر الإنترنت من XLTX إلى SXC
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل XLTX إلى SXC saveformat. Python XLTX إلى تنسيق SXC. وفر XLTX إلى SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to SXC saveformat., Free Online XLTX to SXC Python., Python Convert XLTX to SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل XLTX إلى SXC في Python" h2="مكتبة Python عالية السرعة لتحويل XLTX إلى SXC. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="حوّل XLTX إلى SXC في Python" %}}
 
- كيفية تحويل XLTX إلى SXC؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLTX إلى SXC برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل XLTX إلى SXC؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLTX إلى SXC برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLTX إلى SXC عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLTX إلى SXC عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLTX إلى SXC" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل XLTX إلى SXC بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل XLTX ملفات إلى SXC برمجيا؟ يمكن للمطورين Python تحميل وتحويل XLTX إلى SXC بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف XLTX بنسخة المصنف
-1.  حول XLTX إلى SXC باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف XLTX بنسخة المصنف.
+1.  حول XLTX إلى SXC باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من XLTX إلى SXC.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}تمثل الملفات ذات الامتداد xltx Microsoft ملفات قالب Excel التي تستند إلى مواصفات تنسيق ملف Office OpenXML. يتم استخدامه لإنشاء ملف قالب قياسي يمكن استخدامه لإنشاء ملفات XLSX التي تعرض نفس الإعدادات المحددة في ملف XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}ينتمي تنسيق الملف SXC (Sun XML Calc) إلى مجموعة Office تسمى OpenOffice.org. يتعامل هذا التنسيق بشكل عام مع احتياجات جداول البيانات للمستخدمين لأنه تنسيق ملف جدول بيانات يعتمد على XML. يدعم تنسيق SXC الصيغ والوظائف ووحدات الماكرو والمخططات جنبًا إلى جنب مع DataPilot ، وهي ميزة لا تصدق لأنها تقوم تلقائيًا بتخصيص وتقديم ملخصات للبيانات الخام المستوردة. يتم حفظ الملفات التي تم إنشاؤها باستخدام هذا البرنامج بامتداد .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل XLTX إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: تحويل TXT إلى EMF Python via Python
-description: قم بالتحويل من TXT إلى EMF عبر الإنترنت مجانًا. محول مجاني على الإنترنت من TXT إلى EMF. Python TXT إلى EMF. TXT إلى EMF عبر Python.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+title: Python TXT إلى EMF - عبر الإنترنت من TXT إلى EMF
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل TXT إلى EMF saveformat. Python TXT إلى تنسيق EMF. وفر TXT إلى EMF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to EMF saveformat., Free Online TXT to EMF Python., Python Convert TXT to EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل TXT إلى EMF في Python" h2="مكتبة Python عالية السرعة لتحويل TXT إلى EMF. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="حوّل TXT إلى EMF في Python" %}}
 
- كيفية تحويل TXT إلى EMF؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل TXT إلى EMF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل TXT إلى EMF؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل TXT إلى EMF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل TXT إلى EMF عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل TXT إلى EMF عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل TXT إلى EMF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل TXT إلى EMF بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل TXT ملفات إلى EMF برمجيا؟ يمكن للمطورين Python تحميل وتحويل TXT إلى EMF بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف TXT بنسخة المصنف
-1.  حول TXT إلى EMF باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف TXT بنسخة المصنف.
+1.  حول TXT إلى EMF باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من TXT إلى EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}يمثل الملف بامتداد .TXT وثيقة نصية تحتوي على نص عادي في شكل أسطر. يتم التعرف على الفقرات الموجودة في مستند نصي من خلال أحرف الإرجاع وتستخدم لتحسين ترتيب محتويات الملف. يمكن فتح مستند نصي قياسي في أي محرر نصوص أو تطبيق معالجة كلمات على أنظمة تشغيل مختلفة. كل النص الموجود في مثل هذا الملف هو في شكل يمكن قراءته من قبل الإنسان ويتم تمثيله بتسلسل من الأحرف.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}يخزن تنسيق ملف التعريف المحسن (EMF) الصور الرسومية بشكل مستقل عن الجهاز. تتألف ملفات التعريف EMF من سجلات متغيرة الطول بترتيب زمني يمكن أن تعرض الصورة المخزنة بعد التحليل على أي جهاز إخراج. يمكن أن تكون هذه السجلات ذات الطول المتغير تعريفات للكائنات المغلقة وأوامر للرسم وخصائص للرسومات ضرورية لتقديم الصورة بدقة. عندما يفتح الجهاز ملف تعريف EMF باستخدام بيئة الرسومات الخاصة به ، تظل النسب والأبعاد والألوان وخصائص الرسوم الأخرى للصورة الأصلية كما هي بغض النظر عن النظام الأساسي للجهاز المفتوح.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل TXT إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

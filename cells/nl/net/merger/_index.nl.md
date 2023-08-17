@@ -18,7 +18,7 @@ description: Voeg Excel- en OpenOffice-spreadsheetbestanden samen met slechts en
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Meerdere Excel-bestanden samenvoegen" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand tot een nieuwe spreadsheet van hetzelfde formaat. Het is een efficiënte manier om meerdere bestanden samen te voegen tijdens het gebruik van caching.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand tot een nieuwe spreadsheet van hetzelfde formaat. Het is een efficiënte manier om meerdere bestanden samen te voegen tijdens het gebruik van caching.
 {{% blocks/products/pf/feature-page-code h3="C# Code om meerdere Excel-bestanden samen te voegen" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

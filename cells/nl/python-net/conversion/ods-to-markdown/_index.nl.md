@@ -1,7 +1,7 @@
 ---
-title: Converteer ODS naar MARKDOWN Python via Python
-description: Converteer ODS naar MARKDOWN online gratis. Gratis online ODS naar MARKDOWN Converter. Python ODS naar MARKDOWN. ODS naar MARKDOWN via Python.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS naar MARKDOWN - Online ODS naar MARKDOWN Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer ODS naar MARKDOWN saveformat. Python ODS tot MARKDOWN formaat. Bewaar ODS tot MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to MARKDOWN saveformat., Free Online ODS to MARKDOWN Python., Python Convert ODS to MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer ODS naar MARKDOWN in Python" h2="Supersnelle Python-bibliotheek voor het converteren van ODS naar MARKDOWN. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="Converteer ODS naar MARKDOWN in Python" %}}
 
- Hoe ODS naar MARKDOWN te converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig ODS converteren naar MARKDOWN programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik ODS naar MARKDOWN? Met Aspose.Cells for Python via NET bibliotheek, kunt u eenvoudig ODS converteren naar MARKDOWN programmatisch met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om ODS naar MARKDOWN te converteren. Upload uw ODS-be
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om ODS online naar MARKDOWN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om ODS online naar MARKDOWN te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe ODS naar MARKDOWN te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen eenvoudig ODS laden en converteren naar MARKDOWN in slechts een paar regels code.
+Wilt u ODS-bestanden programmatisch converteren naar MARKDOWN? Python-ontwikkelaars kunnen eenvoudig ODS laden en converteren naar MARKDOWN in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand ODS met een instantie van Workbook
-1.  Converteer ODS naar MARKDOWN door de methode Workbook.save aan te roepen
+1.  Laad het bestand ODS met een instantie van Workbook.
+1.  Converteer ODS naar MARKDOWN door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van ODS naar MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Bestanden met de extensie .ods staan voor OpenDocument Spreadsheet Document-indeling die door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypes in de familie Open Document Formats (ODF). Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal applicaties op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook worden geconverteerd naar andere spreadsheetindelingen, zoals XLS, XLSX en andere door verschillende toepassingen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Tekstbestanden gemaakt met Markdown-taaldialecten worden opgeslagen met de bestandsextensie .md of .MARKDOWN. MD-bestanden worden opgeslagen in platte tekstindeling die Markdown-taal gebruikt, die ook inline tekstsymbolen bevat, die bepalen hoe een tekst kan worden opgemaakt, zoals inspringingen, tabelopmaak, lettertypen en kopteksten. MD-bestanden kunnen worden geconverteerd naar HTML met een programma genaamd Markdown. Markdown-taal is vrijgegeven door John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt ODS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

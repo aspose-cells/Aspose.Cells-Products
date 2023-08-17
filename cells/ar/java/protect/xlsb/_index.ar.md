@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLSB وثيقة via Java
+title: حماية وإغلاق XLSB وثيقة via Java
 weight: 6590
 description: رمز عينة Java لقفل ملف XLSB باستخدام كلمة مرور على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---

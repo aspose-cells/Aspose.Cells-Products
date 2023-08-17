@@ -49,14 +49,14 @@ description: Java رمز عينة لدمج وثائق XLT على Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + قم بتحميل أول ملف XLT بنسخة من فئة المصنف.
 + قم بتحميل المستند XLT الثاني بنسخة من فئة المصنف.
 + دمج الملفات باستخدام طريقة الدمج ().
-احفظ ملف XLT المدمج في المسار المحدد
++ احفظ ملف XLT المدمج في المسار المحدد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltFile1.save("combinedFileWithPath.xlt");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط قم بتحميل XLT ملفاتك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم دمجها وتسلسلها على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم دمجها وتسلسلها على الفور." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Excel إلى Word & PowerPoint" %}}
- من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) الفئات كما هو موضح أدناه.
+ من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)الفئات كما هو موضح أدناه.
 {{% blocks/products/pf/feature-page-code h3="Python كود لبرنامج Excel إلى Word و PowerPoint للتحويل" %}}
 ```cs
 // load the template file

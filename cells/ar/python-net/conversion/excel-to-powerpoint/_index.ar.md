@@ -1,7 +1,7 @@
 ---
-title: تحويل EXCEL إلى POWERPOINT Python via Python
-description: قم بتحويل EXCEL إلى POWERPOINT عبر الإنترنت مجانًا. برنامج EXCEL على الإنترنت مجاني لتحويل POWERPOINT. Python EXCEL to POWERPOINT. EXCEL إلى POWERPOINT عبر Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL to POWERPOINT - على الإنترنت EXCEL to POWERPOINT Converter
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python قم بتحويل EXCEL إلى POWERPOINT saveformat. Python EXCEL إلى تنسيق POWERPOINT. حفظ EXCEL في POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Python., Python Convert EXCEL to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل EXCEL إلى POWERPOINT في Python" h2="مكتبة Python عالية السرعة لتحويل EXCEL إلى POWERPOINT. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="تحويل EXCEL إلى POWERPOINT في Python" %}}
 
- كيفية تحويل EXCEL إلى POWERPOINT؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل EXCEL إلى POWERPOINT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف يمكنني تحويل EXCEL إلى POWERPOINT؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل EXCEL إلى POWERPOINT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ونموذج رمز لتحويل EXCEL إلى POWERPOINT عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ونموذج رمز لتحويل EXCEL إلى POWERPOINT عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل EXCEL إلى POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل EXCEL إلى POWERPOINT بسهولة في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات EXCEL إلى POWERPOINT برمجيًا؟ يمكن للمطورين Python تحميل وتحويل EXCEL إلى POWERPOINT بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  تحميل ملف EXCEL مع مثيل المصنف
-1.  قم بتحويل EXCEL إلى POWERPOINT عن طريق استدعاء طريقة Workbook.save
+1.  تحميل ملف EXCEL مع مثيل المصنف.
+1.  قم بتحويل EXCEL إلى POWERPOINT عن طريق استدعاء طريقة Workbook.save.
+1.  احصل على نتيجة تحويل EXCEL إلى POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم تقديمها بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في الجزء 2 من معيار OOXML ECMA-376 ، يكون التنسيق الجديد هو حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}الملفات ذات امتداد PPTX هي ملفات عرض تم إنشاؤها باستخدام تطبيق Microsoft PowerPoint الشهير. بخلاف الإصدار السابق من تنسيق ملف العرض التقديمي PPT الذي كان ثنائيًا ، يعتمد تنسيق PPTX على تنسيق ملف العرض التقديمي XML المفتوح Microsoft PowerPoint. ملف العرض التقديمي عبارة عن مجموعة من الشرائح حيث يمكن أن تتكون كل شريحة من نصوص وصور وتنسيقات ورسوم متحركة ووسائط أخرى. يتم تقديم هذه الشرائح للجمهور في شكل عروض شرائح مع إعدادات عرض مخصصة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل EXCEL إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض الصيغ المدرجة أدناه." >}}
 

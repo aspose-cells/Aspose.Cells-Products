@@ -1,7 +1,8 @@
 ---
-title:  HTM samenvoegen tot HTML via Java
+title: HTM samenvoegen naar HTML - HTM combineren naar HTML in Java
 url: /nl/java/merger/merge-htm-to-html/ 
-description: Voeg HTM gratis samen naar HTML Online. Gratis Online HTM naar HTML Fusie. Voeg HTM samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Java Aspose.Cells. Gratis online HTM samenvoegen naar HTML opslagformaat. Java Combineer HTM naar formaat HTML. HTM samenvoegen naar HTML in Java. HTM samenvoegen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge HTM to HTML in Java., Free Online Java Merge HTM to html., Java Combine HTM to HTML Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM samenvoegen tot HTML via Java" h2="Snelle Java-bibliotheek voor het samenvoegen van HTM naar HTML. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Java. Dit is een professionele softwareoplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Voeg HTM gratis samen naar HTML Online. Gratis Online HTM naar HTML
 
 {{% blocks/products/pf/agp/content h2="Voeg HTM samen met HTML met behulp van Java" %}}
 
- Hoe HTM samenvoegen met HTML? Met de bibliotheek Aspose.Cells for Java kunt u HTM eenvoudig programmatisch samenvoegen tot HTML met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe voeg ik HTM samen met HTML? Met de bibliotheek Aspose.Cells for Java kunt u HTM eenvoudig programmatisch samenvoegen tot HTML met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Voeg HTM gratis samen naar HTML Online. Gratis Online HTM naar HTML
 
 {{% blocks/products/pf/agp/content h2="HTM samenvoegen naar HTML in Java Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u HTM samenvoegt met HTML in Java.
+Het volgende voorbeeld laat zien hoe u HTM samenvoegt met HTML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om HTM samen te voegen tot HTML. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand HTML. Als u code ontwikkelt in Java, is dit eenvoudiger dan het klinkt. Zie voorbeeld Java dat HTM samenvoegt tot HTML.
@@ -55,16 +56,18 @@ Volg de eenvoudige stappen om HTM samen te voegen tot HTML. Upload uw bestanden,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om HTM online samen te voegen met HTML" InputFormat="htm" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratis online om HTM samen te voegen met HTML in Java" InputFormat="htm" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="HTM samenvoegen tot HTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+Wilt u HTM programmatisch samenvoegen met HTML? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
 + Laad het HTM-bestand met de Workbook-klasse.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -76,7 +79,7 @@ Volg de eenvoudige stappen om HTM samen te voegen tot HTML. Upload uw bestanden,
 
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand dat bytecode bevat. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Bestanden met de extensie .htm vertegenwoordigen Hypertext Markup Language voor het maken van webpagina's voor weergave in webbrowsers zoals Google Chrome, Internet Explorer, Firefox en een aantal andere. Het definieert de markeringen voor het maken van statische pagina's die op het World Wide Web (WWW) worden gepubliceerd voor toegang door anderen. Deze markeringen vertellen de browsers hoe de inhoud van een webpagina moet worden weergegeven. Dergelijke pagina's kunnen platte tekst, afbeeldingen, hyperlinks naar andere pagina's, video's en andere media-informatie bevatten. Wanneer een webpagina wordt gepubliceerd, kunt u de opmaakcode erachter bekijken door de paginabron te bekijken. Moderne browsers maken het mogelijk om elke sectie van een webpagina te inspecteren waar elke onderverdeling of opmaakelement in de HTM-bron is uitgewerkt.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaakt voor weergave in browsers. Bekend als de taal van het web, is HTML geëvolueerd met vereisten voor nieuwe informatievereisten die moeten worden weergegeven als onderdeel van webpagina's. De nieuwste variant staat bekend als HTML 5 die veel flexibiliteit geeft voor het werken met de taal. HTML-pagina's worden ofwel ontvangen van de server, waar deze worden gehost, of kunnen ook vanaf het lokale systeem worden geladen. Elke HTML-pagina bestaat uit HTML-elementen zoals formulieren, tekst, afbeeldingen, animaties, links, enz. Deze elementen worden weergegeven door tags en verschillende andere waarbij elke tag een begin en een einde heeft. Het kan ook applicaties insluiten die zijn geschreven in scripttalen zoals JavaScript en Style Sheets (CSS) voor een algemene weergave van de lay-out.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Java kan men htm ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-docx/" name="HTM samenvoegen naar DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-sql/" name="Voeg HTM samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-bmp/" name="HTM samenvoegen naar BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-emf/" name="HTM samenvoegen naar EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-gif/" name="HTM samenvoegen naar GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-html/" name="HTM samenvoegen naar HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-md/" name="Voeg HTM samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-mhtml/" name="HTM samenvoegen naar MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-ods/" name="HTM samenvoegen naar ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-pdf/" name="HTM samenvoegen naar PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-png/" name="HTM samenvoegen naar PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-svg/" name="HTM samenvoegen naar SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-tiff/" name="HTM samenvoegen naar TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-tsv/" name="HTM samenvoegen naar TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-txt/" name="HTM samenvoegen naar TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xls/" name="HTM samenvoegen naar XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsb/" name="HTM samenvoegen naar XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsm/" name="HTM samenvoegen naar XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlsx/" name="HTM samenvoegen naar XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xlt/" name="HTM samenvoegen naar XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltm/" name="HTM samenvoegen naar XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xltx/" name="HTM samenvoegen naar XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xml/" name="Voeg HTM samen met XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-xps/" name="HTM samenvoegen naar XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-json/" name="HTM samenvoegen naar JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-htm-to-jpeg/" name="HTM samenvoegen naar JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

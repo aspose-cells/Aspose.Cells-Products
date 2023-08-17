@@ -1,7 +1,7 @@
 ---
-title: تحويل XLSB إلى TSV Python via Python
-description: قم بالتحويل من XLSB إلى TSV عبر الإنترنت مجانًا. محول مجاني على الإنترنت من XLSB إلى TSV. Python XLSB إلى TSV. XLSB إلى TSV عبر Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB إلى TSV - عبر الإنترنت من XLSB إلى TSV
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل XLSB إلى TSV saveformat. Python XLSB إلى تنسيق TSV. وفر XLSB إلى TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to TSV saveformat., Free Online XLSB to TSV Python., Python Convert XLSB to TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل XLSB إلى TSV في Python" h2="مكتبة Python عالية السرعة لتحويل XLSB إلى TSV. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="حوّل XLSB إلى TSV في Python" %}}
 
- كيفية تحويل XLSB إلى TSV؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLSB إلى TSV برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل XLSB إلى TSV؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLSB إلى TSV برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLSB إلى TSV عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLSB إلى TSV عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLSB إلى TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل XLSB إلى TSV بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل XLSB ملفات إلى TSV برمجيا؟ يمكن للمطورين Python تحميل وتحويل XLSB إلى TSV بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف XLSB بنسخة المصنف
-1.  حول XLSB إلى TSV باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف XLSB بنسخة المصنف.
+1.  حول XLSB إلى TSV باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من XLSB إلى TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي ، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كلاهما من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. بخلاف XLSX (الذي يعتمد على تنسيق ملف Open XML) ، يمثل XLSB ملف مصنف Excel ثنائي. يمكن قراءة ملفات XLSB وكتابتها بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات لأن XLSX (و XLS سابقًا) هما أكثر تنسيقات الملفات شيوعًا التي حددها المستخدم لحفظ المصنفات. يمكن فتحه عن طريق Microsoft Office 2007 وما فوق.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}يمثل تنسيق ملف قيم مفصولة بعلامات جدولة (TSV) بيانات مفصولة بعلامات جدولة بتنسيق نص عادي. يتم استخدام تنسيق الملف ، المماثل لـ CSV ، لتنظيم البيانات بطريقة منظمة من أجل الاستيراد والتصدير بين التطبيقات المختلفة. يستخدم التنسيق بشكل أساسي لاستيراد / تصدير البيانات وتبادلها في تطبيقات جداول البيانات وقواعد البيانات. يتم تضمين كل سجل في ملف TSV في سطر واحد من الملف النصي حيث يتم فصل كل قيمة مجال بواسطة حرف جدولة. نوع الوسائط لتنسيق الملف TSV هو نص / قيم مفصولة بعلامات جدولة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل XLSB إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

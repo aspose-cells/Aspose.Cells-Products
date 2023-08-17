@@ -11,7 +11,7 @@ description: C# Voorbeeldcode voor conversie van XLSB naar Byte Array. Gebruik d
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array is handig voor het verwerken of opslaan van gegevens. U kunt het XLSB-bestand naar Byte Array converteren, evenals een**Bytearray naar XLSB**document met de taal C#. Om XLSB naar byte-array te converteren, gebruiken we
+ Byte Array is handig voor het verwerken of opslaan van gegevens. U kunt het XLSB-bestand naar Byte Array converteren, evenals een**Bytearray naar XLSB** document met de taal C#. Om XLSB naar byte-array te converteren, gebruiken we
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API dat verschillende functies biedt voor documentmanipulatie en conversie met behulp van het .NET-platform.
 {{% /blocks/products/pf/agp/content %}}
@@ -38,7 +38,7 @@ description: C# Voorbeeldcode voor conversie van XLSB naar Byte Array. Gebruik d
 
 {{% blocks/products/pf/agp/text %}}
 
- Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+ Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 

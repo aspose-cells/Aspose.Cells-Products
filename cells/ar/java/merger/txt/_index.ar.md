@@ -49,14 +49,14 @@ description: Java رمز عينة لدمج وثائق TXT على Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + قم بتحميل أول ملف TXT بنسخة من فئة المصنف.
 + قم بتحميل المستند TXT الثاني بنسخة من فئة المصنف.
 + دمج الملفات باستخدام طريقة الدمج ().
-احفظ ملف TXT المدمج في المسار المحدد
++ احفظ ملف TXT المدمج في المسار المحدد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ txtFile1.save("combinedFileWithPath.txt");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط قم بتحميل TXT ملفاتك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم دمجها وتسلسلها على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم دمجها وتسلسلها على الفور." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Draaigrafiek invoegen in Microsoft Excel XLSM-bestanden via C#
+title: Draaigrafiek invoegen in Microsoft Excel XLSM-bestanden via C#
 weight: 7690
 description: C# Voorbeeldcode voor het genereren van XLSM-documenten met draaigrafiek. Gebruik deze code voor het maken van Micorsoft Excel XLSM-bestanden met draaigrafiek binnen VB.NET, Asp.NET of een op .NET gebaseerde applicatie.
 ---
@@ -22,7 +22,7 @@ description: C# Voorbeeldcode voor het genereren van XLSM-documenten met draaigr
 
 {{% blocks/products/pf/agp/text %}}
 
-Het is gemakkelijk voor de ontwikkelaars om een draaigrafiek in een spreadsheet met de indeling XLSM in te voegen in verschillende rapportagetoepassingen voor gegevensverwerking in slechts een paar regels code.
+ Het is gemakkelijk voor de ontwikkelaars om een draaigrafiek in een spreadsheet met de indeling XLSM in te voegen in verschillende rapportagetoepassingen voor gegevensverwerking in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Het is gemakkelijk voor de ontwikkelaars om een draaigrafiek in een spreadsheet 
 1.  Haal de gewenste cel(len) van het werkblad op en plaats de waarde in de cel(len).
 1.  Voeg draaitabel in en stel de stijl in
 1.  Draaigrafiek invoegen met behulp van de gegevens van de draaitabel
-1.  Gebruik de methode Save om de werkmap op te slaan als XLSM-bestand.
+1. Gebruik de methode Save om de werkmap op te slaan als XLSM-bestand.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -40,7 +40,7 @@ Het is gemakkelijk voor de ontwikkelaars om een draaigrafiek in een spreadsheet 
 
 {{% blocks/products/pf/agp/text %}}
 
- Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+ Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -77,7 +77,7 @@ Bestanden met de extensie XLSM zijn een soort spreadsheetbestanden die macro's o
 {{< /blocks/products/pf/agp/about-file-section >}}
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde indelingen voor draaigrafieken" subTitle="U kunt ook andere Microsoft Excel-indelingen maken met een draaigrafiek, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde indelingen voor draaigrafieken" subTitle="kunt ook andere Microsoft Excel-indelingen maken met een draaigrafiek, waaronder enkele die hieronder worden vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xls/" name="XLS" description="Microsoft Excel-spreadsheet (verouderd)" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/insert-pivot-chart-to-xlsx/" name="XLSX" description="XML-werkmap openen" >}}

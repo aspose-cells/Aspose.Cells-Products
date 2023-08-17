@@ -1,7 +1,7 @@
 ---
 title:  XLSM مخطط الوثيقة للصور via .NET
 weight: 5100
-description: كود المصدر C# لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSM على .NET Framework أو .NET Core أو Mono أو منصات Xamarin.
+description: C# كود المصدر لرسم وتحويل مخطط أو رسم تخطيطي في ملف XLSM على .NET Framework ، .NET Core ، Mono أو منصات Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSM مخططات الملفات للصور في C#" h2="مخططات المستندات الأصلية والعالية الأداء XLSM لتحويل الصور باستخدام واجهات برمجة التطبيقات من جانب الخادم ، دون استخدام أي برنامج مثل Microsoft أو Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSM" >}}

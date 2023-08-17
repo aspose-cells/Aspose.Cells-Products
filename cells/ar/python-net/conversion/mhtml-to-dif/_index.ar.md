@@ -1,7 +1,7 @@
 ---
-title: تحويل MHTML إلى DIF Python via Python
-description: قم بالتحويل من MHTML إلى DIF عبر الإنترنت مجانًا. محول مجاني على الإنترنت من MHTML إلى DIF. Python MHTML إلى DIF. MHTML إلى DIF عبر Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML إلى DIF - عبر الإنترنت من MHTML إلى DIF
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل MHTML إلى DIF saveformat. Python MHTML إلى تنسيق DIF. وفر MHTML إلى DIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to DIF saveformat., Free Online MHTML to DIF Python., Python Convert MHTML to DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل MHTML إلى DIF في Python" h2="مكتبة Python عالية السرعة لتحويل MHTML إلى DIF. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="حوّل MHTML إلى DIF في Python" %}}
 
- كيفية تحويل MHTML إلى DIF؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل MHTML إلى DIF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل MHTML إلى DIF؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل MHTML إلى DIF برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل MHTML إلى DIF عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل MHTML إلى DIF عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل MHTML إلى DIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل MHTML إلى DIF بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل MHTML ملفات إلى DIF برمجيا؟ يمكن للمطورين Python تحميل وتحويل MHTML إلى DIF بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف MHTML بنسخة المصنف
-1.  حول MHTML إلى DIF باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف MHTML بنسخة المصنف.
+1.  حول MHTML إلى DIF باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من MHTML إلى DIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}تمثل الملفات ذات امتداد MHTML تنسيق أرشيف لصفحة الويب يمكن إنشاؤه بواسطة عدد من التطبيقات المختلفة. يُعرف التنسيق باسم تنسيق الأرشيف لأنه يحفظ رمز الويب HTML والموارد المرتبطة به في ملف واحد. تتضمن هذه الموارد أي شيء مرتبط بصفحة الويب مثل الصور والتطبيقات الصغيرة والرسوم المتحركة وملفات الصوت وما إلى ذلك. يمكن فتح ملفات MHTML في مجموعة متنوعة من التطبيقات مثل Internet Explorer و Microsoft Word. Microsoft Windows يستخدم تنسيق ملف MHTML لتسجيل سيناريوهات المشكلات التي تمت ملاحظتها أثناء استخدام أي تطبيق على Windows يثير مشكلات. يقوم تنسيق الملف MHTML بترميز محتويات الصفحة بشكل مشابه للمواصفات المحددة في الرسالة / rfc822 وهي مواصفات متعلقة بالبريد الإلكتروني بالنص العادي.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}يرمز DIF إلى تنسيق تبادل البيانات المستخدم لاستيراد / تصدير بيانات جداول البيانات بين التطبيقات المختلفة. وتشمل هذه Microsoft Excel و OpenOffice Calc و StarCalc وغيرها الكثير. يقوم بتخزين البيانات الموجودة في جدول بيانات واحد وهو القيد الوحيد لتنسيق الملف هذا.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل MHTML إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

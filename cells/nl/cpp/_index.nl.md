@@ -449,7 +449,7 @@ Aspose.Cells for C++ geeft u volledige controle over hoe u uw gegevens op het we
  Geef werkbladen weer als afbeeldingen
     </h2>
     <p>
-De bibliotheek rendert met de hoogste betrouwbaarheid naar Microsoft Excel met behulp van zijn eigen rendering-engine. Het biedt onderscheidende functies zoals het renderen van werkbladen naar afbeeldingen in populaire formaten, waaronder BMP, TIFF, PNG, JPEG &amp; EMF. Het Sheet2Image-proces is flexibel, waardoor opties kunnen worden geselecteerd, zoals het regelen van de resolutie van de resulterende afbeelding.
+De bibliotheek wordt weergegeven met de hoogste getrouwheid aan Microsoft Excel met behulp van zijn eigen rendering-engine. Het biedt onderscheidende functies zoals het renderen van werkbladen naar afbeeldingen in populaire formaten, waaronder BMP, TIFF, PNG, JPEG &amp; EMF. Het Sheet2Image-proces is flexibel, waardoor opties kunnen worden geselecteerd, zoals het regelen van de resolutie van de resulterende afbeelding.
     </p>
    </div>
    <div class="col-lg-12">

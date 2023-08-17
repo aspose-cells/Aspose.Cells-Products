@@ -41,7 +41,7 @@ Exporteer rapporten naar Excel-bestandsindelingen en PDF vanuit JasperReports of
 Maak, manipuleer, converteer en render Excel-spreadsheets via Node.js.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHPvia Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells for" title="PHP-via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-php-java.svg" productLink="/cells/php-java/" >}}
 Maak, manipuleer, converteer en render Excel-spreadsheets in PHP-applicaties via JavaBridge.
 {{< /blocks/products/pf/product >}}
 

@@ -33,7 +33,7 @@ Het is gemakkelijk voor de ontwikkelaars om een cirkeldiagram te maken binnen ve
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
 {{% /blocks/products/pf/agp/text %}}
 
 - Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells-python</code>.

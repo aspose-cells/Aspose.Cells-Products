@@ -11,7 +11,7 @@ description: C# Voorbeeldcode voor conversie van XLTX naar Byte Array. Gebruik d
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array is handig voor het verwerken of opslaan van gegevens. U kunt het XLTX-bestand naar Byte Array converteren, evenals een**Bytearray naar XLTX**document met de taal C#. Om XLTX naar byte-array te converteren, gebruiken we
+ Byte Array is handig voor het verwerken of opslaan van gegevens. U kunt het XLTX-bestand naar Byte Array converteren, evenals een**Bytearray naar XLTX** document met de taal C#. Om XLTX naar byte-array te converteren, gebruiken we
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API dat verschillende functies biedt voor documentmanipulatie en conversie met behulp van het .NET-platform.
 {{% /blocks/products/pf/agp/content %}}
@@ -38,7 +38,7 @@ description: C# Voorbeeldcode voor conversie van XLTX naar Byte Array. Gebruik d
 
 {{% blocks/products/pf/agp/text %}}
 
- Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+ Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -82,7 +82,7 @@ Een Excel-spreadsheet-programmeerbibliotheek die platformonafhankelijke applicat
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-Bestanden met de extensie .xltx vertegenwoordigen Microsoft Excel-sjabloonbestanden die zijn gebaseerd op de Office OpenXML-bestandsformaatspecificaties. Het wordt gebruikt om een standaard sjabloonbestand te maken dat kan worden gebruikt om XLSX-bestanden te genereren die dezelfde instellingen vertonen als gespecificeerd in het XLTX-bestand.
+Bestanden met de extensie .xltx vertegenwoordigen Microsoft Excel-sjabloonbestanden die zijn gebaseerd op de Office OpenXML-bestandsformaatspecificaties. Het wordt gebruikt om een standaard sjabloonbestand te maken dat kan worden gebruikt om XLSX-bestanden te genereren met dezelfde instellingen als gespecificeerd in het XLTX-bestand.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

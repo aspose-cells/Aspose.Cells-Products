@@ -6,7 +6,7 @@ description: Converteer Excel XLS, XLSX, ODS, CSV naar PDF, XPS, HTML, JPEG, HTM
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Conversie van Excel-bestanden via Java" h2="Sla Microsoft Excel-documenten op als spreadsheet-, web-, afbeeldings- en vaste lay-outindelingen" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Voor enige**Excel-converter** toepassing of oplossing, Java Excel Library versnelt spreadsheetprogrammering en conversieprocessen terwijl meerdere formaten worden verwerkt, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 93481. Hiermee kunt u ook *Excel-bestanden converteren naar PDF**, XPS, HTML, MHTML, platte tekst en populaire beeldformaten zoals TIFF, JPG, PNG, BMP en SVG.
+ Voor enige**Excel-converter**toepassing of oplossing, Java Excel Library versnelt spreadsheetprogrammering en conversieprocessen terwijl meerdere formaten worden verwerkt, waaronder XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 0761 93481. Hiermee kunt u ook *Excel-bestanden converteren naar PDF**, XPS, HTML, MHTML, platte tekst en populaire beeldformaten zoals TIFF, JPG, PNG, BMP en SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversie van Microsoft Excel-indelingen" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Microsoft Excel naar Word en PowerPoint" %}}
- Het is mogelijk om elke spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klassen zoals hieronder aangetoond.
+ Het is mogelijk om elke spreadsheet te laden en te converteren naar Word DOCX & PowerPoint PPTX bestanden tijdens het gebruik[DocxSaveOpties](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)klassen zoals hieronder aangetoond.
 {{% blocks/products/pf/feature-page-code h3="Java Code voor Excel naar Word & PowerPoint Conversie" %}}
 ```cs
 // load the template file

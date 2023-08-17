@@ -1,7 +1,7 @@
 ---
-title: Converteer NUMBERS naar TABDELIMITED Python via Python
-description: Converteer NUMBERS gratis online naar TABDELIMITED. Gratis online NUMBERS naar TABDELIMITED Converter. Python NUMMERS tot TABDELIMITED. NUMMERS naar TABDELIMITED via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS naar TABDELIMITED - Online NUMBERS naar TABDELIMITED Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer NUMBERS naar TABDELIMITED opslagformaat. Python NUMBERS naar TABDELIMITED formaat. Sla NUMBERS op in TABDELIMITED Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to TABDELIMITED saveformat., Free Online NUMBERS to TABDELIMITED Python., Python Convert NUMBERS to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer NUMBERS naar TABDELIMITED in Python" h2="High-speed Python-bibliotheek voor het converteren van NUMBERS naar TABDELIMITED. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Converteer NUMBERS naar TABDELIMITED in Python" %}}
 
- Hoe NUMBERS naar TABDELIMITED te converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u NUMBERS eenvoudig programmatisch converteren naar TABDELIMITED met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik NUMBERS naar TABDELIMITED? Met Aspose.Cells for Python via NET bibliotheek, kunt u NUMBERS eenvoudig programmatisch converteren naar TABDELIMITED met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om NUMBERS om te zetten in TABDELIMITED. Upload uw NU
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om NUMBERS online naar TABDELIMITED te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om NUMBERS online naar TABDELIMITED te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe NUMBERS naar TABDELIMITED te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen NUMBERS eenvoudig laden en converteren naar TABDELIMITED in slechts een paar regels code.
+Wilt u NUMBERS-bestanden programmatisch converteren naar TABDELIMITED? Python-ontwikkelaars kunnen NUMBERS eenvoudig laden en converteren naar TABDELIMITED in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het NUMBERS-bestand met een instantie van Workbook
-1.  Converteer NUMBERS naar TABDELIMITED door de methode Workbook.save aan te roepen
+1.  Laad het NUMBERS-bestand met een instantie van Workbook.
+1.  Converteer NUMBERS naar TABDELIMITED door de methode Workbook.save aan te roepen.
+1.  Krijg het conversieresultaat van NUMBERS naar TABDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,15 +64,20 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}De bestanden met de extensie .numbers zijn geclassificeerd als spreadsheetbestandstype, daarom lijken ze op de .xlsx-bestanden; maar de Numbers-bestanden worden gemaakt met behulp van Apple iWork Numbers-spreadsheetsoftware. De Apple iWork Numbers is een eenheidssoftware van de iWork Productivity Suite. De iWork Productivity Suite is gelijk aan de Microsoft Office Suite die wordt gebruikt op Windows pc's. Daarom kunnen we zeggen dat de Numbers die beschikbaar is voor MacOS ook een concurrent is van Microsoft Excel. Evenzo, Microsoft Excel, kan het NUMBERS-bestand ook de tabellen, grafieken en formules bevatten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Een door tabs gescheiden waarden (TSV) bestandsindeling vertegenwoordigt gegevens gescheiden door tabs in platte tekst. Het bestandsformaat, vergelijkbaar met CSV, wordt gebruikt voor het gestructureerd organiseren van gegevens om te importeren en exporteren tussen verschillende applicaties. Het formaat wordt voornamelijk gebruikt voor het importeren/exporteren en uitwisselen van gegevens in Spreadsheet-toepassingen en databases. Elke record in een TSV-bestand bevindt zich in een enkele regel tekstbestand waarin elke veldwaarde wordt gescheiden door een tabteken. Het mediatype voor de bestandsindeling TSV is tekst/door tabs gescheiden waarden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
-
-{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="kunt NUMBERS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt NUMBERS ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-bmp/" name="NUMMERS NAAR BMP" description="Bitmap afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-emf/" name="NUMMERS NAAR EMF" description="Verbeterd metabestandsformaat" >}}

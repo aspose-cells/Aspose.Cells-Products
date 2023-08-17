@@ -6,7 +6,7 @@ description:  C# broncodes voor het invoegen van een vorm in Microsoft Excel-bes
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-vormen invoegen via .NET" h2="Maak Excel-documenten en voeg vormen in met behulp van server-side API\'s in .NET-gebaseerde applicaties." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- In Excel kunt u vormen zoals kaders, cirkels en pijlen toevoegen aan documenten, e-mails, dia's en spreadsheets. Om u te bevrijden van veel handmatig invoegen, de[.NET Excel-bibliotheek](https://releases.aspose.com/cells/net/)API biedt dezelfde functionaliteit. Deze API's zijn heel gemakkelijk te gebruiken, meestal is er maar één regel code nodig om een specifieke vorm in te voegen, en een paar regels code kunnen het invoegen van batches vormen voltooien.
+ In Excel kunt u vormen zoals kaders, cirkels en pijlen toevoegen aan documenten, e-mails, dia's en spreadsheets. Om u te bevrijden van veel handmatig invoegen, de[.NET Excel-bibliotheek](https://releases.aspose.com/cells/net/) API biedt dezelfde functionaliteit. Deze API's zijn heel gemakkelijk te gebruiken, meestal is er maar één regel code nodig om een specifieke vorm in te voegen, en een paar regels code kunnen het invoegen van batches vormen voltooien.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -1,7 +1,8 @@
 ---
-title:  دمج EXCEL في TXT عبر C#
+title: دمج EXCEL في TXT - ادمج EXCEL في TXT في C#
 url: /ar/net/merger/merge-excel-to-txt/ 
-description: قم بدمج EXCEL في TXT عبر الإنترنت مجانًا. EXCEL على الإنترنت مجانًا إلى الاندماج TXT. دمج EXCEL في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. C# Aspose.Cells. دمج مجاني عبر الإنترنت EXCEL إلى تنسيق حفظ TXT. C# ادمج EXCEL بتنسيق TXT. دمج EXCEL في TXT في C#. EXCEL Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge EXCEL to TXT in C#., Free Online C# Merge EXCEL to txt., C# Combine EXCEL to TXT Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دمج EXCEL في TXT عبر C#" h2="مكتبة C# عالية السرعة لدمج EXCEL مع TXT. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن المنصة في C#. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: قم بدمج EXCEL في TXT عبر الإنترنت مجانًا. 
 
 {{% blocks/products/pf/agp/content h2="قم بدمج EXCEL مع TXT باستخدام C#" %}}
 
- كيفية دمج EXCEL في TXT؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج EXCEL في TXT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بدمج EXCEL في TXT؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج EXCEL في TXT برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم مدير الحزم" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="قم بدمج EXCEL في TXT في C# عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج EXCEL مع TXT في C#.
+يوضح المثال التالي كيفية دمج EXCEL مع TXT في Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج EXCEL في TXT. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف TXT. إذا قمت بتطوير رمز في C# ، فسيكون هذا أبسط مما يبدو. راجع C# المثال الذي يدمج EXCEL مع TXT.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج EXCEL إلى TXT على الإنترنت" InputFormat="xlsx" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج EXCEL في TXT في C#" InputFormat="xlsx" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج EXCEL في TXT عبر C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج EXCEL مع TXT برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for .NET".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك C#.
 + قم بتحميل ملف EXCEL مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells/) . يرى[توثيق](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)داخل Visual Studio IDE
+1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) داخل Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم تقديمها بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في الجزء 2 من معيار OOXML ECMA-376 ، يكون التنسيق الجديد هو حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}يمثل الملف بامتداد .TXT وثيقة نصية تحتوي على نص عادي في شكل أسطر. يتم التعرف على الفقرات الموجودة في مستند نصي من خلال أحرف الإرجاع وتستخدم لتحسين ترتيب محتويات الملف. يمكن فتح مستند نصي قياسي في أي محرر نصوص أو تطبيق معالجة كلمات على أنظمة تشغيل مختلفة. كل النص الموجود في مثل هذا الملف هو في شكل يمكن قراءته من قبل الإنسان ويتم تمثيله بتسلسل من الأحرف.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام C# ، يمكن أيضًا دمج Excel مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-docx/" name="دمج EXCEL في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-sql/" name="دمج EXCEL في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-bmp/" name="دمج EXCEL في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-emf/" name="دمج EXCEL في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-gif/" name="دمج EXCEL في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-html/" name="دمج EXCEL في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-md/" name="دمج EXCEL إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-mhtml/" name="دمج EXCEL في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-ods/" name="دمج EXCEL في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-pdf/" name="دمج EXCEL في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-png/" name="دمج EXCEL في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-svg/" name="دمج EXCEL في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tiff/" name="دمج EXCEL في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-tsv/" name="دمج EXCEL في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-txt/" name="دمج EXCEL في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xls/" name="دمج EXCEL في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsb/" name="دمج EXCEL في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsm/" name="دمج EXCEL في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlsx/" name="دمج EXCEL في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xlt/" name="دمج EXCEL في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltm/" name="دمج EXCEL في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xltx/" name="دمج EXCEL في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xml/" name="دمج EXCEL في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-xps/" name="دمج EXCEL في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-json/" name="دمج EXCEL في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-excel-to-jpeg/" name="دمج EXCEL في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

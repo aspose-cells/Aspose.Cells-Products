@@ -13,7 +13,7 @@ description: Java نموذج كود لتقسيم وثائق XLS على Java بي
 
  لتقسيم ملف XLS ، سنستخدم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API وهو نظام غني بالمميزات وقوي وسهل الاستخدام مقسم API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
+ API وهو نظام غني بالمميزات وقوي وسهل الاستخدام مقسم API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
@@ -53,7 +53,7 @@ API وهو نظام غني بالمميزات وقوي وسهل الاستخدا
 
 {{% blocks/products/pf/agp/text %}}
 
- مقسم أساسي مع
+ مقسم أساسي بـ
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
  يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 

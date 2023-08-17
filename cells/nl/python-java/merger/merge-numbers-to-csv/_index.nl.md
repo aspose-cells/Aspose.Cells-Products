@@ -1,7 +1,8 @@
 ---
-title:  NUMMERS samenvoegen naar CSV via Python
+title: Voeg NUMBERS samen tot CSV - Combineer NUMBERS tot CSV in Python
 url: /nl/python-java/merger/merge-numbers-to-csv/ 
-description: NUMMERS samenvoegen naar CSV Online gratis. Gratis online NUMMERS naar CSV Fusie. Voeg NUMMERS samen in Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Python Aspose.Cells. Gratis online NUMMERS samenvoegen tot CSV saveformat. Python Combineer NUMMERS tot formaat CSV. NUMBERS samenvoegen tot CSV in Python. NUMMERS Samenvoegen.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge NUMBERS to CSV in Python., Free Online Python Merge NUMBERS to csv., Python Combine NUMBERS to CSV Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="NUMMERS samenvoegen naar CSV via Python" h2="Supersnelle Python-bibliotheek voor het samenvoegen van NUMMERS tot CSV. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: NUMMERS samenvoegen naar CSV Online gratis. Gratis online NUMMERS n
 
 {{% blocks/products/pf/agp/content h2="NUMMERS samenvoegen tot CSV met Python" %}}
 
- Hoe NUMMERS samenvoegen tot CSV? Met de bibliotheek Aspose.Cells for Python kunt u NUMBERS eenvoudig programmatisch samenvoegen tot CSV met een paar regels code.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
+ Hoe voeg ik NUMBERS samen met CSV? Met de bibliotheek Aspose.Cells for Python via Java kunt u NUMBERS eenvoudig programmatisch samenvoegen tot CSV met een paar regels code.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt Aspose.Cells for Python via Java installeren vanaf<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gebruik commando als:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="NUMMERS samenvoegen tot CSV in Python Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe NUMBERS kan worden samengevoegd tot CSV in Python.
+Het volgende voorbeeld laat zien hoe u NUMBERS kunt samenvoegen tot CSV in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om NUMBERS samen te voegen tot CSV. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand CSV. Als u code ontwikkelt in Python, is dit eenvoudiger dan het klinkt. Zie voorbeeld Python dat NUMBERS samenvoegt tot CSV.
@@ -27,16 +28,18 @@ Volg de eenvoudige stappen om NUMBERS samen te voegen tot CSV. Upload uw bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om NUMBERS online samen te voegen tot CSV" InputFormat="numbers" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratis online om NUMMERS samen te voegen tot CSV in Python" InputFormat="numbers" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="NUMMERS samenvoegen tot CSV via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u NUMBERS programmatisch samenvoegen tot CSV? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Python via Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
 + Laad het NUMBERS-bestand met de Workbook-klasse.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -75,21 +78,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}De bestanden met de extensie .numbers zijn geclassificeerd als spreadsheetbestandstype, daarom lijken ze op de .xlsx-bestanden; maar de Numbers-bestanden worden gemaakt met behulp van Apple iWork Numbers-spreadsheetsoftware. De Apple iWork Numbers is een eenheidssoftware van de iWork Productivity Suite. De iWork Productivity Suite is gelijk aan de Microsoft Office Suite die wordt gebruikt op Windows pc's. Daarom kunnen we zeggen dat de Numbers die beschikbaar is voor MacOS ook een concurrent is van Microsoft Excel. Evenzo, Microsoft Excel, kan het NUMBERS-bestand ook de tabellen, grafieken en formules bevatten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Bestanden met de extensie .csv (Comma Separated Values) vertegenwoordigen platte tekstbestanden die gegevensrecords bevatten met door komma's gescheiden waarden. Elke regel in een CSV-bestand is een nieuw record uit de reeks records in het bestand. Dergelijke bestanden worden gegenereerd wanneer gegevensoverdracht van het ene opslagsysteem naar het andere is bedoeld. Aangezien alle toepassingen door komma's gescheiden records kunnen herkennen, is het importeren van dergelijke gegevensbestanden naar de database erg gemakkelijk. Bijna alle spreadsheet-applicaties zoals Microsoft Excel of OpenOffice Calc kunnen CSV zonder veel moeite importeren. Gegevens die uit dergelijke bestanden zijn geïmporteerd, worden gerangschikt in cellen van een spreadsheet voor weergave aan de gebruiker.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Python kan men ook nummers samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-docx/" name="NUMBERS samenvoegen tot DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-sql/" name="Voeg NUMBERS samen in SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-bmp/" name="NUMBERS samenvoegen tot BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-emf/" name="NUMBERS samenvoegen tot EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-gif/" name="NUMBERS samenvoegen tot GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-html/" name="NUMBERS samenvoegen tot HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-md/" name="NUMBERS samenvoegen tot MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-mhtml/" name="NUMBERS samenvoegen tot MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-ods/" name="NUMBERS samenvoegen tot ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-pdf/" name="NUMBERS samenvoegen tot PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-png/" name="NUMBERS samenvoegen tot PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-svg/" name="NUMBERS samenvoegen tot SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-tiff/" name="NUMBERS samenvoegen tot TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-tsv/" name="NUMBERS samenvoegen tot TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-txt/" name="NUMBERS samenvoegen tot TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xls/" name="NUMBERS samenvoegen tot XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsb/" name="NUMBERS samenvoegen tot XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsm/" name="NUMBERS samenvoegen tot XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlsx/" name="NUMBERS samenvoegen tot XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xlt/" name="NUMBERS samenvoegen tot XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xltm/" name="NUMBERS samenvoegen tot XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xltx/" name="NUMBERS samenvoegen tot XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xml/" name="Voeg NUMBERS samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-xps/" name="NUMBERS samenvoegen tot XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-json/" name="NUMBERS samenvoegen tot JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-numbers-to-jpeg/" name="NUMBERS samenvoegen tot JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

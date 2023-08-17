@@ -1,7 +1,8 @@
 ---
-title:  ادمج PRN في DOCX عبر C#
+title: دمج PRN في DOCX - ادمج PRN مع DOCX في C#
 url: /ar/net/merger/merge-prn-to-docx/ 
-description: قم بدمج PRN في DOCX عبر الإنترنت مجانًا. PRN مجاني عبر الإنترنت لدمج DOCX. دمج PRN في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. C# Aspose.Cells. دمج مجاني عبر الإنترنت PRN إلى DOCX saveformat. C# ادمج PRN بتنسيق DOCX. دمج PRN إلى DOCX في C#. PRN Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge PRN to DOCX in C#., Free Online C# Merge PRN to docx., C# Combine PRN to DOCX Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج PRN في DOCX عبر C#" h2="مكتبة C# عالية السرعة لدمج PRN في DOCX. استخدم تحويل Excel الخاص بنا API لتطوير برامج عالية المستوى ومستقلة عن النظام الأساسي في C#. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: قم بدمج PRN في DOCX عبر الإنترنت مجانًا. P
 
 {{% blocks/products/pf/agp/content h2="دمج PRN إلى DOCX باستخدام C#" %}}
 
- كيفية دمج PRN في DOCX؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج PRN إلى DOCX برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بدمج PRN في DOCX؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج PRN إلى DOCX برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم مدير الحزم" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="قم بدمج PRN مع DOCX في C# عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج PRN مع DOCX في C#.
+يوضح المثال التالي كيفية دمج PRN مع DOCX في Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج PRN في DOCX. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف DOCX. إذا قمت بتطوير رمز في C# ، فسيكون هذا أبسط مما يبدو. راجع C# المثال الذي يدمج PRN إلى DOCX.
@@ -36,17 +37,19 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج PRN في DOCX عبر الإنترنت" InputFormat="prn" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج PRN في DOCX في C#" InputFormat="prn" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج PRN في DOCX عبر C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج PRN في DOCX برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-قم بتحميل ملف PRN مع فئة المصنف.
++ قم بتثبيت "Aspose.Cells for .NET".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك C#.
++ قم بتحميل ملف PRN مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
 + الآن يمكنك فتح واستخدام ملف الإخراج في Microsoft Office أو Adobe PDF أو أي برنامج آخر متوافق.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells/) . يرى[توثيق](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)داخل Visual Studio IDE
+1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) داخل Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ملف PRN هو ملف تم إنشاؤه باستخدام مربع الاختيار Print to File الذي يظهر في بعض مربعات حوار Print على Windows. وهو يحتوي على مجموعة من الإرشادات الخاصة بالجهاز والتي تستخدمها الطابعة أو جهاز الفاكس أو أي جهاز آخر لطباعة مستند. قد تحتوي ملفات PRN على نص أو محتوى ثنائي ، اعتمادًا على الجهاز الذي تم إنشاء الملف من أجله.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX هو تنسيق معروف لوثائق Word Microsoft. تم تقديمه من عام 2007 بإصدار Microsoft Office 2007 ، تم تغيير هيكل تنسيق المستند الجديد هذا من ثنائي عادي إلى مجموعة من ملفات XML والملفات الثنائية. يمكن فتح ملفات Docx باستخدام Word 2007 والإصدارات الجانبية ولكن ليس بالإصدارات السابقة من MS Word التي تدعم امتدادات ملفات DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام C# ، يمكن أيضًا دمج prn مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-docx/" name="ادمج PRN بالرقم DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-sql/" name="دمج PRN إلى SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-bmp/" name="ادمج PRN بالرقم BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-emf/" name="ادمج PRN بالرقم EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-gif/" name="ادمج PRN بالرقم GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-html/" name="ادمج PRN بالرقم HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-md/" name="دمج PRN إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-mhtml/" name="ادمج PRN بالرقم MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-ods/" name="ادمج PRN بالرقم ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-pdf/" name="ادمج PRN بالرقم PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-png/" name="ادمج PRN بالرقم PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-svg/" name="ادمج PRN بالرقم SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tiff/" name="ادمج PRN بالرقم TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-tsv/" name="ادمج PRN بالرقم TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-txt/" name="ادمج PRN بالرقم TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xls/" name="ادمج PRN بالرقم XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsb/" name="ادمج PRN بالرقم XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsm/" name="ادمج PRN بالرقم XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlsx/" name="ادمج PRN بالرقم XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xlt/" name="ادمج PRN بالرقم XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltm/" name="ادمج PRN بالرقم XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xltx/" name="ادمج PRN بالرقم XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xml/" name="دمج PRN إلى XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-xps/" name="ادمج PRN بالرقم XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-json/" name="ادمج PRN بالرقم JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-prn-to-jpeg/" name="ادمج PRN بالرقم JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

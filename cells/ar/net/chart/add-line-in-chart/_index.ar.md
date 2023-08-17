@@ -1,6 +1,6 @@
 ---
 title:  أضف خطًا في المخطط عبر C#
-description: C# نموذج كود لإضافة خط في المخطط إلى Excel باستخدام .NET Library. استخدم هذا الرمز لإضافة خط في الرسم البياني إلى MS Excel داخل VB.NET أو Asp.NET أو أي تطبيق قائم على .NET.
+description: C# نموذج كود لإضافة خط في المخطط إلى Excel باستخدام .NET Library. استخدم هذا الرمز لإضافة خط في مخطط إلى MS Excel داخل VB.NET أو Asp.NET أو أي تطبيق قائم على .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="أضف خطًا في المخطط عبر C#" h2="إنشاء MS Excel أصلي وعالي الأداء برمجيًا باستخدام واجهات برمجة تطبيقات .NET من جانب الخادم." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}

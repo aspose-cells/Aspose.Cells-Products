@@ -1,7 +1,7 @@
 ---
-title: تحويل HTML إلى TSV Python via Python
-description: قم بالتحويل من HTML إلى TSV عبر الإنترنت مجانًا. محول مجاني على الإنترنت من HTML إلى TSV. Python HTML إلى TSV. HTML إلى TSV عبر Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML إلى TSV - عبر الإنترنت من HTML إلى TSV
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل HTML إلى TSV saveformat. Python HTML إلى تنسيق TSV. وفر HTML إلى TSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to TSV saveformat., Free Online HTML to TSV Python., Python Convert HTML to TSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل HTML إلى TSV في Python" h2="مكتبة Python عالية السرعة لتحويل HTML إلى TSV. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="حوّل HTML إلى TSV في Python" %}}
 
- كيفية تحويل HTML إلى TSV؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل HTML إلى TSV برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل HTML إلى TSV؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل HTML إلى TSV برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل HTML إلى TSV عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل HTML إلى TSV عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل HTML إلى TSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل HTML إلى TSV بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل HTML ملفات إلى TSV برمجيا؟ يمكن للمطورين Python تحميل وتحويل HTML إلى TSV بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف HTML بنسخة المصنف
-1.  حول HTML إلى TSV باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف HTML بنسخة المصنف.
+1.  حول HTML إلى TSV باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من HTML إلى TSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) هو امتداد لصفحات الويب التي تم تكوينها للعرض في المستعرضات. تُعرف باسم لغة الويب ، وقد تطورت HTML مع متطلبات متطلبات المعلومات الجديدة ليتم عرضها كجزء من صفحات الويب. يُعرف المتغير الأخير باسم HTML 5 والذي يوفر قدرًا كبيرًا من المرونة للعمل مع اللغة. يتم استلام HTML صفحات إما من الخادم ، حيث يتم استضافتها ، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من HTML عناصر مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. يتم تمثيل هذه العناصر بواسطة العلامات والعديد من العناصر الأخرى حيث يكون لكل علامة بداية ونهاية. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript و Style Sheets (CSS) لتمثيل التخطيط العام.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}يمثل تنسيق ملف قيم مفصولة بعلامات جدولة (TSV) بيانات مفصولة بعلامات جدولة بتنسيق نص عادي. يتم استخدام تنسيق الملف ، المماثل لـ CSV ، لتنظيم البيانات بطريقة منظمة من أجل الاستيراد والتصدير بين التطبيقات المختلفة. يستخدم التنسيق بشكل أساسي لاستيراد / تصدير البيانات وتبادلها في تطبيقات جداول البيانات وقواعد البيانات. يتم تضمين كل سجل في ملف TSV في سطر واحد من الملف النصي حيث يتم فصل كل قيمة مجال بواسطة حرف جدولة. نوع الوسائط لتنسيق الملف TSV هو نص / قيم مفصولة بعلامات جدولة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل HTML إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: Converteer EXCEL naar CSV Python via Python
-description: Converteer EXCEL gratis naar CSV online. Gratis online EXCEL naar CSV Converter. Python EXCEL naar CSV. EXCEL naar CSV via Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL naar CSV - Online EXCEL naar CSV Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer EXCEL naar CSV saveformat. Python EXCEL naar CSV formaat. Sla EXCEL op naar CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to CSV saveformat., Free Online EXCEL to CSV Python., Python Convert EXCEL to CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer EXCEL naar CSV in Python" h2="Supersnelle Python-bibliotheek voor het converteren van EXCEL naar CSV. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Converteer EXCEL naar CSV in Python" %}}
 
- Hoe EXCEL naar CSV te converteren? Met Aspose.Cells for Python via NET-bibliotheek, kunt u EXCEL eenvoudig programmatisch converteren naar CSV met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik EXCEL naar CSV? Met Aspose.Cells for Python via NET-bibliotheek, kunt u EXCEL eenvoudig programmatisch converteren naar CSV met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om EXCEL naar CSV te converteren. Upload uw EXCEL-bes
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om EXCEL online naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om EXCEL online naar CSV te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe EXCEL naar CSV te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen EXCEL eenvoudig laden en converteren naar CSV in slechts een paar regels code.
+Wilt u EXCEL-bestanden programmatisch converteren naar CSV? Python-ontwikkelaars kunnen EXCEL eenvoudig laden en converteren naar CSV in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad een EXCEL-bestand met een instantie van Workbook
-1.  Converteer EXCEL naar CSV door de methode Workbook.save aan te roepen
+1.  Laad een EXCEL-bestand met een instantie van Workbook.
+1.  Converteer EXCEL naar CSV door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van EXCEL naar CSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX is een bekend formaat voor Microsoft Excel-documenten dat werd geïntroduceerd door Microsoft met de release van Microsoft Office 2007. Gebaseerd op structuur georganiseerd volgens de Open Packaging-conventies zoals uiteengezet in deel 2 van de OOXML-standaard ECMA-376, is het nieuwe formaat een zip-pakket dat een aantal XML-bestanden bevat. De onderliggende structuur en bestanden kunnen worden onderzocht door simpelweg het .xlsx-bestand uit te pakken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Bestanden met de extensie .csv (Comma Separated Values) vertegenwoordigen platte tekstbestanden die gegevensrecords bevatten met door komma's gescheiden waarden. Elke regel in een CSV-bestand is een nieuw record uit de reeks records in het bestand. Dergelijke bestanden worden gegenereerd wanneer gegevensoverdracht van het ene opslagsysteem naar het andere is bedoeld. Aangezien alle toepassingen door komma's gescheiden records kunnen herkennen, is het importeren van dergelijke gegevensbestanden naar de database erg gemakkelijk. Bijna alle spreadsheet-applicaties zoals Microsoft Excel of OpenOffice Calc kunnen CSV zonder veel moeite importeren. Gegevens die uit dergelijke bestanden zijn geïmporteerd, worden gerangschikt in cellen van een spreadsheet voor weergave aan de gebruiker.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt EXCEL ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

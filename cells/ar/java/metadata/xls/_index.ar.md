@@ -13,7 +13,7 @@ description: Java نموذج تعليمة برمجية لتحرير أو عرض 
 
  من أجل الحصول على بيانات تعريف ملف XLS ، سنستخدم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API وهي منصة بيانات وصفية غنية بالمميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
+API وهي منصة بيانات وصفية غنية بالمميزات وقوية وسهلة الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 
@@ -58,7 +58,7 @@ description: Java نموذج تعليمة برمجية لتحرير أو عرض 
 {{% /blocks/products/pf/agp/text %}}
 
 + تحميل ملف XLS داخل WorkbookMetadata
-إنشاء كائن MetadataOptions مع الخيارات ذات الصلة
++ إنشاء كائن MetadataOptions مع الخيارات ذات الصلة
 + تعيين الخصائص ذات الصلة
 + احفظ XLS بيانات التعريف
 

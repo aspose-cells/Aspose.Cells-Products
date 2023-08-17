@@ -49,14 +49,14 @@ description: Java رمز عينة لدمج وثائق CSV على Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for Java](https://products.aspose.com/cells/java) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + قم بتحميل أول ملف CSV بنسخة من فئة المصنف.
 + قم بتحميل المستند CSV الثاني بنسخة من فئة المصنف.
 + دمج الملفات باستخدام طريقة الدمج ().
-احفظ ملف CSV المدمج في المسار المحدد
++ احفظ ملف CSV المدمج في المسار المحدد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ csvFile1.save("combinedFileWithPath.csv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط قم بتحميل CSV ملفاتك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم دمجها وتسلسلها على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم دمجها وتسلسلها على الفور." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -113,7 +113,7 @@ csvFile1.save("combinedFileWithPath.csv");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-تمثل الملفات ذات امتداد CSV (قيم مفصولة بفواصل) ملفات نصية عادية تحتوي على سجلات بيانات ذات قيم مفصولة بفواصل. كل سطر في ملف CSV هو سجل جديد من مجموعة السجلات الموجودة في الملف. يتم إنشاء هذه الملفات عندما يكون نقل البيانات مقصودًا من نظام تخزين إلى آخر. نظرًا لأن جميع التطبيقات يمكنها التعرف على السجلات المفصولة بفاصلة ، فإن استيراد ملفات البيانات هذه إلى قاعدة البيانات يتم بشكل مريح للغاية. يمكن لجميع تطبيقات جداول البيانات تقريبًا مثل Microsoft Excel أو OpenOffice Calc استيراد CSV دون بذل الكثير من الجهد. يتم ترتيب البيانات المستوردة من هذه الملفات في خلايا جدول بيانات لتمثيلها للمستخدم.
+تمثل الملفات ذات امتداد CSV (قيم مفصولة بفواصل) ملفات نصية عادية تحتوي على سجلات بيانات ذات قيم مفصولة بفواصل. كل سطر في ملف CSV هو سجل جديد من مجموعة السجلات الموجودة في الملف. يتم إنشاء هذه الملفات عندما يكون نقل البيانات مقصودًا من نظام تخزين إلى آخر. نظرًا لأن جميع التطبيقات يمكنها التعرف على السجلات المفصولة بفاصلة ، فإن استيراد ملفات البيانات هذه إلى قاعدة البيانات يتم بشكل ملائم للغاية. يمكن لجميع تطبيقات جداول البيانات تقريبًا مثل Microsoft Excel أو OpenOffice Calc استيراد CSV دون بذل الكثير من الجهد. يتم ترتيب البيانات المستوردة من هذه الملفات في خلايا جدول بيانات لتمثيلها للمستخدم.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

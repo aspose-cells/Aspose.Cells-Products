@@ -13,7 +13,7 @@ description: C# كود المصدر لتقسيم وثائق XLSB على .NET Fra
 
  لتقسيم ملف XLSB ، سنستخدم
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API وهو غني بالميزات وقوي وسهل الاستخدام لمعالجة المستندات والتقسيم API لمنصة C#. يفتح
+ API وهو غني بالميزات وقوي وسهل الاستخدام لمعالجة المستندات والتقسيم API لمنصة C#. يفتح
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  مدير الحزم ، ابحث عن
  Aspose.Cells 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- مقسم أساسي مع
+ مقسم أساسي بـ
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 

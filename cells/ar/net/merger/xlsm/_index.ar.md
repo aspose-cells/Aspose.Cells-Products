@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" لا حاجة لتحميل Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" لا حاجة لكتابة أي كود." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط قم بتحميل XLSM ملفاتك." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" سيتم دمجها وتسلسلها على الفور." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="سيتم دمجها وتسلسلها على الفور." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

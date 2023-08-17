@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLS وثيقة via Java
+title: حماية وإغلاق XLS وثيقة via Java
 weight: 5070
 description: رمز عينة Java لقفل ملف XLS باستخدام كلمة مرور على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---

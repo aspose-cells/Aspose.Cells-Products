@@ -1,7 +1,8 @@
 ---
-title:  Voeg TSV samen met TXT via Java
+title: Voeg TSV samen met TXT - Combineer TSV met TXT in Java
 url: /nl/java/merger/merge-tsv-to-txt/ 
-description: Samenvoegen TSV naar TXT Online gratis. Gratis online TSV tot TXT Fusie. Voeg TSV samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Java Aspose.Cells. Gratis online Samenvoegen TSV naar TXT saveformat. Java Combineer het formaat TSV tot TXT. Samenvoegen TSV tot TXT in Java. TSV Samenvoegen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TSV to TXT in Java., Free Online Java Merge TSV to txt., Java Combine TSV to TXT Online for Free., TSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg TSV samen met TXT via Java" h2="Supersnelle Java-bibliotheek voor het samenvoegen van TSV tot TXT. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Java. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TSV" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen TSV naar TXT Online gratis. Gratis online TSV tot TXT F
 
 {{% blocks/products/pf/agp/content h2="Voeg TSV samen met TXT met Java" %}}
 
- Hoe TSV samen te voegen met TXT? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig TSV naar TXT programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe voeg ik TSV samen met TXT? Met de Aspose.Cells for Java-bibliotheek kunt u eenvoudig TSV tot TXT programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Samenvoegen TSV naar TXT Online gratis. Gratis online TSV tot TXT F
 
 {{% blocks/products/pf/agp/content h2="Voeg TSV samen met TXT in Java Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u TSV samenvoegt met TXT in Java.
+Het volgende voorbeeld laat zien hoe u TSV samenvoegt met TXT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om TSV samen te voegen met TXT. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand TXT. Als u code ontwikkelt in Java, is dit eenvoudiger dan het klinkt. Zie voorbeeld Java dat TSV samenvoegt met TXT.
@@ -55,16 +56,18 @@ Volg de eenvoudige stappen om TSV samen te voegen met TXT. Upload uw bestanden, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om TSV online samen te voegen tot TXT" InputFormat="tsv" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratis online om TSV samen te voegen tot TXT in Java" InputFormat="tsv" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe TSV samen te voegen tot TXT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u TSV programmatisch samenvoegen tot TXT? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
 + Laad het bestand TSV met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -76,7 +79,7 @@ Volg de eenvoudige stappen om TSV samen te voegen met TXT. Upload uw bestanden, 
 
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand dat bytecode bevat. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Een door tabs gescheiden waarden (TSV) bestandsindeling vertegenwoordigt gegevens gescheiden door tabs in platte tekst. Het bestandsformaat, vergelijkbaar met CSV, wordt gebruikt voor het gestructureerd organiseren van gegevens om te importeren en exporteren tussen verschillende applicaties. Het formaat wordt voornamelijk gebruikt voor het importeren/exporteren en uitwisselen van gegevens in Spreadsheet-toepassingen en databases. Elke record in een TSV-bestand bevindt zich in een enkele regel tekstbestand waarin elke veldwaarde wordt gescheiden door een tabteken. Het mediatype voor de bestandsindeling TSV is tekst/door tabs gescheiden waarden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Een bestand met de extensie .TXT vertegenwoordigt een tekstdocument dat platte tekst in de vorm van regels bevat. Alinea's in een tekstdocument worden herkend door regelteruglooptekens en worden gebruikt om de bestandsinhoud beter te ordenen. Een standaardtekstdocument kan worden geopend in elke teksteditor of tekstverwerker op verschillende besturingssystemen. Alle tekst in zo'n bestand is in een voor mensen leesbaar formaat en wordt weergegeven door een reeks tekens.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Java kan men tsv ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-docx/" name="Voeg TSV samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-sql/" name="Voeg TSV samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-bmp/" name="Voeg TSV samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-emf/" name="Voeg TSV samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-gif/" name="Voeg TSV samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-html/" name="Voeg TSV samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-md/" name="Voeg TSV samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-mhtml/" name="Voeg TSV samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-ods/" name="Voeg TSV samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-pdf/" name="Voeg TSV samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-png/" name="Voeg TSV samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-svg/" name="Voeg TSV samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-tiff/" name="Voeg TSV samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-tsv/" name="Voeg TSV samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-txt/" name="Voeg TSV samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xls/" name="Voeg TSV samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsb/" name="Voeg TSV samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsm/" name="Voeg TSV samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlsx/" name="Voeg TSV samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xlt/" name="Voeg TSV samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xltm/" name="Voeg TSV samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xltx/" name="Voeg TSV samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xml/" name="Voeg TSV samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-xps/" name="Voeg TSV samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-json/" name="Voeg TSV samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tsv-to-jpeg/" name="Voeg TSV samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

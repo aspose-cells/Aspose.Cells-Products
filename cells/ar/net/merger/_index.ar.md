@@ -18,7 +18,7 @@ description: ربط ملفات جداول بيانات Excel و OpenOffice بب�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel متعددة" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت.
 {{% blocks/products/pf/feature-page-code h3="C# كود لدمج عدة ملفات Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

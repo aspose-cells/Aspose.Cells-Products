@@ -1,7 +1,8 @@
 ---
-title:  Voeg JSON samen met XPS via Java
+title: Voeg JSON samen met XPS - Combineer JSON met XPS in Java
 url: /nl/java/merger/merge-json-to-xps/ 
-description: Samenvoegen JSON naar XPS Online gratis. Gratis online JSON tot XPS Fusie. Voeg JSON samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Java Aspose.Cells. Gratis online Samenvoegen JSON naar XPS saveformat. Java Combineer het formaat JSON tot XPS. Samenvoegen JSON tot XPS in Java. JSON Samenvoegen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge JSON to XPS in Java., Free Online Java Merge JSON to xps., Java Combine JSON to XPS Online for Free., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg JSON samen met XPS via Java" h2="Supersnelle Java-bibliotheek voor het samenvoegen van JSON tot XPS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Java. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen JSON naar XPS Online gratis. Gratis online JSON tot XPS
 
 {{% blocks/products/pf/agp/content h2="Voeg JSON samen met XPS met Java" %}}
 
- Hoe JSON samen te voegen met XPS? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig JSON naar XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe voeg ik JSON samen met XPS? Met de Aspose.Cells for Java-bibliotheek kunt u eenvoudig JSON tot XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Samenvoegen JSON naar XPS Online gratis. Gratis online JSON tot XPS
 
 {{% blocks/products/pf/agp/content h2="Voeg JSON samen met XPS in Java Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u JSON samenvoegt met XPS in Java.
+Het volgende voorbeeld laat zien hoe u JSON samenvoegt met XPS in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om JSON samen te voegen met XPS. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XPS. Als u code ontwikkelt in Java, is dit eenvoudiger dan het klinkt. Zie voorbeeld Java dat JSON samenvoegt met XPS.
@@ -55,16 +56,18 @@ Volg de eenvoudige stappen om JSON samen te voegen met XPS. Upload uw bestanden,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om JSON online samen te voegen tot XPS" InputFormat="json" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratis online om JSON samen te voegen tot XPS in Java" InputFormat="json" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe JSON samen te voegen tot XPS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u JSON programmatisch samenvoegen tot XPS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
 + Laad het bestand JSON met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -76,7 +79,7 @@ Volg de eenvoudige stappen om JSON samen te voegen met XPS. Upload uw bestanden,
 
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand dat bytecode bevat. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) is een open standaard bestandsindeling voor het delen van gegevens die voor mensen leesbare tekst gebruikt om gegevens op te slaan en te verzenden. JSON-bestanden worden opgeslagen met de extensie .json. JSON vereist minder opmaak en is een goed alternatief voor XML. JSON is afgeleid van JavaScript maar is een taalonafhankelijk gegevensformaat. Het genereren en parseren van JSON wordt ondersteund door veel moderne programmeertalen. application/json is het mediatype dat wordt gebruikt voor JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XML-papierspecificaties gemaakt door Microsoft. Het is ontwikkeld als vervanging van de bestandsindeling EMF en is vergelijkbaar met de bestandsindeling PDF, maar gebruikt XML in lay-out, uiterlijk en afdrukinformatie van een document . Het is in feite meer gerechtvaardigd om te zeggen dat XPS een poging is tot PDF, maar om vele redenen niet genoeg populariteit kon krijgen als eigendom van PDF. Microsoft biedt standaard XPS Document Writer vanaf Windows 7 voor het maken van XPS-bestanden. XPS-bestanden kunnen worden gegenereerd door de "Microsoft XPS Document Writer" als printer te selecteren tijdens het afdrukken van het document.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Java kan men json ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-docx/" name="Voeg JSON samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-sql/" name="Voeg JSON samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-bmp/" name="Voeg JSON samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-emf/" name="Voeg JSON samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-gif/" name="Voeg JSON samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-html/" name="Voeg JSON samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-md/" name="Voeg JSON samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-mhtml/" name="Voeg JSON samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-ods/" name="Voeg JSON samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-pdf/" name="Voeg JSON samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-png/" name="Voeg JSON samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-svg/" name="Voeg JSON samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-tiff/" name="Voeg JSON samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-tsv/" name="Voeg JSON samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-txt/" name="Voeg JSON samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xls/" name="Voeg JSON samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsb/" name="Voeg JSON samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsm/" name="Voeg JSON samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlsx/" name="Voeg JSON samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xlt/" name="Voeg JSON samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xltm/" name="Voeg JSON samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xltx/" name="Voeg JSON samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xml/" name="Voeg JSON samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-xps/" name="Voeg JSON samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-json/" name="Voeg JSON samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-json-to-jpeg/" name="Voeg JSON samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

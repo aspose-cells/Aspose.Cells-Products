@@ -1,7 +1,7 @@
 ---
-title: تحويل SPREADSHEETML إلى SXC Python via Python
-description: قم بتحويل SPREADSHEETML إلى SXC عبر الإنترنت مجانًا. SPREADSHEETML على الإنترنت مجانًا لتحويل SXC. Python SPREADSHEETML إلى SXC. SPREADSHEETML إلى SXC عبر Python.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML إلى SXC - SPREADSHEETML to SXC Converter
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python قم بتحويل SPREADSHEETML إلى SXC saveformat. Python SPREADSHEETML إلى تنسيق SXC. احفظ SPREADSHEETML في SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to SXC saveformat., Free Online SPREADSHEETML to SXC Python., Python Convert SPREADSHEETML to SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل SPREADSHEETML إلى SXC في Python" h2="مكتبة Python عالية السرعة لتحويل SPREADSHEETML إلى SXC. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/content h2="تحويل SPREADSHEETML إلى SXC في Python" %}}
 
- كيفية تحويل SPREADSHEETML إلى SXC؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل SPREADSHEETML إلى SXC برمجيًا ببضعة سطور من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل SPREADSHEETML إلى SXC؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل SPREADSHEETML إلى SXC برمجيًا ببضعة سطور من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ونموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى SXC عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ونموذج التعليمات البرمجية لتحويل SPREADSHEETML إلى SXC عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل SPREADSHEETML إلى SXC" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل SPREADSHEETML بسهولة إلى SXC في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات SPREADSHEETML إلى SXC برمجيًا؟ يمكن للمطورين Python تحميل وتحويل SPREADSHEETML بسهولة إلى SXC في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف SPREADSHEETML بنسخة من المصنف
-1.  قم بتحويل SPREADSHEETML إلى SXC عن طريق استدعاء طريقة Workbook.save
+1.  قم بتحميل ملف SPREADSHEETML بنسخة من المصنف.
+1.  قم بتحويل SPREADSHEETML إلى SXC عن طريق استدعاء طريقة Workbook.save.
+1.  احصل على نتيجة تحويل SPREADSHEETML إلى SXC.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف الموسعة التي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. تعود شعبيته إلى كونه مقروءًا بواسطة الإنسان والآلة. يتيح ذلك إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). علامة "X" في XML قابلة للتوسعة مما يعني أن اللغة يمكن أن تمتد إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. من أجل هذه الميزات ، تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML و LibreOffice OpenDocument و XHTML و SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}ينتمي تنسيق الملف SXC (Sun XML Calc) إلى مجموعة Office تسمى OpenOffice.org. يتعامل هذا التنسيق بشكل عام مع احتياجات جداول البيانات للمستخدمين لأنه تنسيق ملف جدول بيانات يعتمد على XML. يدعم تنسيق SXC الصيغ والوظائف ووحدات الماكرو والمخططات جنبًا إلى جنب مع DataPilot ، وهي ميزة لا تصدق لأنها تقوم تلقائيًا بتخصيص وتقديم ملخصات للبيانات الخام المستوردة. يتم حفظ الملفات التي تم إنشاؤها باستخدام هذا البرنامج بامتداد .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل SPREADSHEETML إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  ادمج OTS في XLSX عبر C++
+title: دمج OTS في XLSX - ادمج OTS إلى XLSX في C++
 url: /ar/cpp/merger/merge-ots-to-xlsx/ 
-description: قم بدمج OTS في XLSX عبر الإنترنت مجانًا. OTS عبر الإنترنت مجانًا حتى اندماج XLSX. دمج OTS في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. C++ Aspose.Cells. دمج OTS مجانًا عبر الإنترنت إلى تنسيق حفظ XLSX. C++ ادمج OTS بتنسيق XLSX. دمج OTS في XLSX في C++. OTS Merge.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge OTS to XLSX in C++., Free Online C++ Merge OTS to xlsx., C++ Combine OTS to XLSX Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادمج OTS في XLSX عبر C++" h2="مكتبة C++ عالية السرعة لدمج OTS في XLSX. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن المنصة في C++. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: قم بدمج OTS في XLSX عبر الإنترنت مجانًا. O
 
 {{% blocks/products/pf/agp/content h2="ادمج OTS في XLSX باستخدام C++" %}}
 
- كيفية دمج OTS في XLSX؟ مع مكتبة Aspose.Cells for C++ ، يمكنك بسهولة دمج OTS في XLSX برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة ، فقط افتح[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم ، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بدمج OTS في XLSX؟ مع مكتبة Aspose.Cells for C++ ، يمكنك بسهولة دمج OTS في XLSX برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. C++ Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يمكنك تنزيل أحدث إصدار مباشرة ، فقط افتح[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) مدير الحزم ، ابحث عن Aspose.Cells.Cpp وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="يأمر" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="قم بدمج OTS في XLSX في C++ عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج OTS مع XLSX في C++.
+يوضح المثال التالي كيفية دمج OTS مع XLSX في Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج OTS في XLSX. قم بتحميل ملفاتك ، واتصل بطريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف XLSX. إذا قمت بتطوير رمز في C++ ، فسيكون هذا أبسط مما يبدو. راجع C++ المثال الذي يدمج OTS مع XLSX.
@@ -36,17 +37,19 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج OTS في XLSX على الإنترنت" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج OTS في XLSX في C++" InputFormat="ots" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج OTS في XLSX عبر C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى دمج OTS في XLSX برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
-قم بتحميل ملف OTS مع فئة المصنف.
++ قم بتثبيت "Aspose.Cells for C++".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك C++.
++ قم بتحميل ملف OTS مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
 + الآن يمكنك فتح واستخدام ملف الإخراج في Microsoft Office أو Adobe PDF أو أي برنامج آخر متوافق.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  قم بتثبيت المكتبة باستخدام مجلدات Include و lib. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. قم بتثبيت Aspose.Cells for C++ في Linux. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  قم بتثبيت Aspose.Cells for C++ في Linux. يرى[توثيق](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}الملف ذو الامتداد .ots هو ملف OpenDocument Spreadsheet Template الذي تم إنشاؤه باستخدام برنامج تطبيق Calc المضمن في Apache OpenOffice. برنامج تطبيق Calc مشابه لبرنامج Excel المتوفر في Microsoft Office. يتم استخدام تنسيق ملف OTS لإنشاء قوالب تحتوي على إعدادات محددة مسبقًا تتعلق بالأنماط والخط والبيانات وتخطيط جدول البيانات والتنسيق. تحتوي ملفات OTF على application / vnd.oasis.opendocument.spreadsheet-type mime. يمكن استخدام ملفات القوالب هذه كنقطة بداية لإنشاء وحفظ ملفات البيانات الفعلية المحفوظة بتنسيق ملف ODS. يمكن استخدام ملفات OTS مع تطبيقات مثل OpenOffice و LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX هو تنسيق معروف لمستندات Excel Microsoft التي تم تقديمها بواسطة Microsoft مع إصدار Microsoft Office 2007. استنادًا إلى الهيكل المنظم وفقًا لاتفاقيات التغليف المفتوح كما هو موضح في الجزء 2 من معيار OOXML ECMA-376 ، يكون التنسيق الجديد هو حزمة مضغوطة تحتوي على عدد من ملفات XML. يمكن فحص البنية والملفات الأساسية ببساطة عن طريق فك ضغط ملف .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام C++ ، يمكن للمرء أيضًا دمج ots مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-docx/" name="ادمج OTS في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-sql/" name="دمج OTS في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-bmp/" name="ادمج OTS في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-emf/" name="ادمج OTS في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-gif/" name="ادمج OTS في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-html/" name="ادمج OTS في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-md/" name="دمج OTS إلى MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-mhtml/" name="ادمج OTS في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-ods/" name="ادمج OTS في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-pdf/" name="ادمج OTS في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-png/" name="ادمج OTS في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-svg/" name="ادمج OTS في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tiff/" name="ادمج OTS في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-tsv/" name="ادمج OTS في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-txt/" name="ادمج OTS في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xls/" name="ادمج OTS في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsb/" name="ادمج OTS في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsm/" name="ادمج OTS في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlsx/" name="ادمج OTS في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xlt/" name="ادمج OTS في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltm/" name="ادمج OTS في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xltx/" name="ادمج OTS في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xml/" name="دمج OTS في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-xps/" name="ادمج OTS في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-json/" name="ادمج OTS في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ots-to-jpeg/" name="ادمج OTS في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

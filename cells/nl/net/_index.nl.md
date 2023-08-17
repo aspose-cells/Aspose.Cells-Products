@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET bibliotheek om te werken met Microsoft Excel-docu
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET is een Excel-spreadsheetprogrammering API om het spreadsheetbeheer en de verwerkingstaken te versnellen. API ondersteunt het bouwen van platformonafhankelijke applicaties die spreadsheets kunnen genereren, wijzigen, converteren, renderen en afdrukken. Bovendien is het niet afhankelijk van Microsoft Excel of Microsoft Office Interop-componenten die moeten worden geïnstalleerd, maar een robuuste set API's die omgaan met alle Excel-indelingen, evenals CSV- en SpreadsheetML-indelingen.
+Aspose.Cells for .NET is een Excel-spreadsheetprogrammering API om het spreadsheetbeheer en de verwerkingstaken te versnellen. API ondersteunt het bouwen van platformonafhankelijke applicaties die spreadsheets kunnen genereren, wijzigen, converteren, renderen en afdrukken. Bovendien is het niet afhankelijk van Microsoft Excel of Microsoft Office Interop-componenten die moeten worden geïnstalleerd, maar een robuuste set API's die omgaan met alle Excel-indelingen, evenals CSV- en SpreadsheetML-indelingen.
 </p>
 
 <p>
-Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen uitvoeren, zoals het beheren van meerdere werkbladen, het helemaal opnieuw creëren van spreadsheetinhoud en -stijlen, het importeren van gegevens in de werkbladen vanuit verschillende gegevensbronnen, het toevoegen van algemene en complexe wiskundige, financiële en tekstformules, manipulatie van grafieken, afbeeldingen, opmerkingen, tekenobjecten en nog veel meer.
+ Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen uitvoeren, zoals het beheren van meerdere werkbladen, het vanaf nul creëren van spreadsheetinhoud en -stijlen, het importeren van gegevens in de werkbladen vanuit verschillende gegevensbronnen, het toevoegen van algemene en complexe wiskundige, financiële en tekstformules, manipulatie van grafieken, afbeeldingen, opmerkingen, tekenobjecten en nog veel meer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -212,7 +212,7 @@ Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description=" Aspose.Cells for .NET ondersteunt de populaire spreadsheet[bestandsformaten](https://docs.aspose.com/cells/net/supported-file-formats/) evenals de meest gebruikte indelingen voor afbeeldingen en vaste lay-outs." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description=" Aspose.Cells for .NET ondersteunt de populaire spreadsheet[bestandsformaten](https://docs.aspose.com/cells/net/supported-file-formats/) evenals de meest gebruikte indelingen voor afbeeldingen en vaste lay-out." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -314,7 +314,7 @@ Door API te integreren, kunnen enkele van de basistaken die ontwikkelaars kunnen
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Geavanceerde Excel-spreadsheet API Functies
+ Geavanceerde Excel-spreadsheet API Functies
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Geavanceerde Excel-spreadsheet API Functies
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs gescheiden waarden)
+Ondersteuning voor CSV (door komma's gescheiden waarden) &amp; TSV (door tabs gescheiden waarden)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Geavanceerde Excel-spreadsheet API Functies
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Spreadsheets converteren naar PDF, XPS &amp; HTML formaten
+ Spreadsheets converteren naar PDF, XPS &amp; HTML formaten
     </h2>
     <p>
  Aspose.Cells for .NET kan spreadsheets converteren naar PDF, XPS &amp; HTML formaten met behoud van de hoogste visuele getrouwheid. Het conversieproces is eenvoudig maar betrouwbaar, waardoor API een perfecte keuze is voor organisaties die documenten moeten uitwisselen in een van de industriestandaardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Sla spreadsheet op in verschillende formaten - C#
+Sla spreadsheet op in verschillende formaten - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET geeft u alle vrijheid en flexibiliteit om uw spreadsheets te voorzien van allerlei visuele effecten. Met de API kunt u verschillende lettertypen toepassen met attributen, celstijlen (uitlijning, inspringing, rotatie, randen, schaduw en kleur, bescherming, tekstomloop en krimp) en alle soorten getalnotaties.
     </p>
     <p>
-Evenzo zijn grafieken en afbeeldingen visueel aantrekkelijk en kunnen ze uw spreadsheet een professionele uitstraling geven. Aspose.Cells for .NET biedt een uitgebreide set API's voor het maken en manipuleren van alle standaard en aangepaste grafiektypen. Bovendien kunt u verschillende soorten tekenobjecten, zoals opmerkingen, afbeeldingen, OLE-objecten, vormen en besturingselementen aan de cellen toevoegen
+ Evenzo zijn grafieken en afbeeldingen visueel aantrekkelijk en kunnen ze uw spreadsheet een professionele uitstraling geven. Aspose.Cells for .NET biedt een uitgebreide set API's voor het maken en manipuleren van alle standaard en aangepaste grafiektypen. Bovendien kunt u verschillende soorten tekenobjecten, zoals opmerkingen, afbeeldingen, OLE-objecten, vormen en besturingselementen aan de cellen toevoegen
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ Evenzo zijn grafieken en afbeeldingen visueel aantrekkelijk en kunnen ze uw spre
  Efficiënt, robuust &amp; Betrouwbare engine voor formuleberekening
     </h2>
     <p>
- Aspose.Cells for .NET heeft een krachtige Formula Calculation Engine die bijna alle standaard en geavanceerde Microsoft Excel-formules en -functies ondersteunt. U kunt de resultaten van de ingebouwde, add-in, array &amp; R1K1-referentiestijlformules.
+Aspose.Cells for .NET heeft een krachtige Formula Calculation Engine die bijna alle standaard en geavanceerde Microsoft Excel-formules en -functies ondersteunt. U kunt de resultaten van de ingebouwde, add-in, array &amp; R1K1-referentiestijlformules.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ Evenzo zijn grafieken en afbeeldingen visueel aantrekkelijk en kunnen ze uw spre
  Vat gegevens samen met draaitabellen, grafieken &amp; Slimme markeringen
     </h2>
     <p>
-Een draaitabel kan u helpen om snel de platte gegevens samen te vatten en de gewenste informatie te krijgen op basis van uw behoeften. .NET Met de Excel-bibliotheek kunt u dynamisch draaitabellen en draaitabellen maken. U kunt de brongegevens van een draaitabel dynamisch wijzigen en vernieuwen. Bovendien biedt de bibliotheek Smart Markers, wat een geweldige functie is om werkbladen in te vullen op basis van sommige gegevensbronnen en om visueel effectieve rapporten te maken.
+ Een draaitabel kan u helpen om snel de platte gegevens samen te vatten en de gewenste informatie te krijgen op basis van uw behoeften. .NET Met de Excel-bibliotheek kunt u dynamisch draaitabellen en draaitabellen maken. U kunt de brongegevens van een draaitabel dynamisch wijzigen en vernieuwen. Bovendien biedt de bibliotheek Smart Markers, wat een geweldige functie is om werkbladen in te vullen op basis van sommige gegevensbronnen en om visueel effectieve rapporten te maken.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Een draaitabel kan u helpen om snel de platte gegevens samen te vatten en de gew
  Render Excel-werkbladen &amp; Grafieken als afbeeldingen
     </h2>
     <p>
- Aspose.Cells for .NET heeft zijn eigen rendering-engine die speciaal is ontworpen voor het renderen van &amp; afdrukken met de hoogste trouw aan de Microsoft Excel. Het biedt onderscheidende functies zoals het weergeven van Excel-werkbladen &amp; grafieken naar afbeeldingen &amp; werkbladen afdrukken op elke aangesloten fysieke printer. Het proces is flexibel, waardoor u een aantal opties kunt kiezen, zoals het regelen van de resulterende afbeeldingsafmetingen bij het renderen van werkbladen &amp; kaarten naar afbeeldingen.
+Aspose.Cells for .NET heeft zijn eigen rendering-engine die speciaal is ontworpen voor het renderen van &amp; afdrukken met de hoogste trouw aan de Microsoft Excel. Het biedt onderscheidende functies zoals het weergeven van Excel-werkbladen &amp; grafieken naar afbeeldingen &amp; werkbladen afdrukken op elke aangesloten fysieke printer. Het proces is flexibel, waardoor u een aantal opties kunt kiezen, zoals het regelen van de resulterende afbeeldingsafmetingen bij het renderen van werkbladen &amp; kaarten naar afbeeldingen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Werkblad naar afbeelding converteren - C#
+ Werkblad naar afbeelding converteren - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Grafische interfaces voor web &amp; Desktop-applicaties
     </h2>
     <p>
- Aspose.Cells for .NET biedt GUI-besturingselementen voor web &amp; desktop-applicaties. Eindgebruiker kan deze bedieningselementen gebruiken om &amp; bewerk Excel-bestanden, importeer &amp; gegevens exporteren, opmaak beheren &amp; formules en converteer tussen verschillende ondersteunde spreadsheet-indelingen, rechtstreeks vanaf de front-end van uw applicatie.
+Aspose.Cells for .NET biedt GUI-besturingselementen voor web &amp; desktop-applicaties. Eindgebruiker kan deze bedieningselementen gebruiken om &amp; bewerk Excel-bestanden, importeer &amp; gegevens exporteren, opmaak beheren &amp; formules en converteer tussen verschillende ondersteunde spreadsheet-indelingen, rechtstreeks vanaf de front-end van uw applicatie.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Kantoorautomatisering – niet nodig
     </h2>
     <p>
-Aspose.Cells for .NET is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Office of Microsoft Excel op de machine hoeft te worden geïnstalleerd om met Excel-documentindelingen te werken. Het is een perfect Microsoft alternatief voor kantoorautomatisering in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
+ Aspose.Cells for .NET is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Office of Microsoft Excel op de machine hoeft te worden geïnstalleerd om met Excel-documentindelingen te werken. Het is een perfect Microsoft alternatief voor kantoorautomatisering in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET is gebouwd met behulp van beheerde code waarvoor nooit Mic
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- De Aspose productsuite en ondersteuning is ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
+De Aspose productsuite en ondersteuning is ongeëvenaard. Zonder deze oplossing hadden we niet kunnen doen wat we deden.
  <em>
  Dr Dan Patterson | Acumen, VK
  </em>

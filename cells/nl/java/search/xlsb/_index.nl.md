@@ -58,7 +58,7 @@ description: Java voorbeeldcode om woorden met patroon te zoeken in bestand XLSB
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad het bestand XLSB door een werkmapobject te instantiëren.
-Toegang tot het eerste werkblad in het bestand XLSB.
++ Toegang tot het eerste werkblad in het bestand XLSB.
 + Zoek de cel met de opgegeven formule.
 + Direct FindOptions.
 + Zoek de cel met een tekenreekswaarde

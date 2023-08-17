@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen XLT naar XLSX via C#
+title: Voeg XLT samen met XLSX - Combineer XLT met XLSX in C#
 url: /nl/net/merger/merge-xlt-to-xlsx/ 
-description: Samenvoegen XLT naar XLSX Online gratis. Gratis online XLT tot XLSX Fusie. Voeg XLT samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C# Aspose.Cells. Gratis online Samenvoegen XLT naar XLSX saveformat. C# Combineer het formaat XLT tot XLSX. Samenvoegen XLT tot XLSX in C#. XLT Samenvoegen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLT to XLSX in C#., Free Online C# Merge XLT to xlsx., C# Combine XLT to XLSX Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen XLT naar XLSX via C#" h2="Supersnelle C#-bibliotheek voor het samenvoegen van XLT tot XLSX. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C#. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen XLT naar XLSX Online gratis. Gratis online XLT tot XLSX
 
 {{% blocks/products/pf/agp/content h2="Voeg XLT samen met XLSX met C#" %}}
 
- Hoe XLT samen te voegen met XLSX? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig XLT naar XLSX programmatisch samenvoegen met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik XLT samen met XLSX? Met de Aspose.Cells for .NET-bibliotheek kunt u eenvoudig XLT tot XLSX programmatisch samenvoegen met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Voeg XLT samen met XLSX in C# Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u XLT samenvoegt met XLSX in C#.
+Het volgende voorbeeld laat zien hoe u XLT samenvoegt met XLSX in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLT samen te voegen met XLSX. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XLSX. Als u code ontwikkelt in C#, is dit eenvoudiger dan het klinkt. Zie voorbeeld C# dat XLT samenvoegt met XLSX.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om XLT samen te voegen met XLSX. Upload uw bestanden,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XLT online samen te voegen tot XLSX" InputFormat="xlt" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratis online om XLT samen te voegen tot XLSX in C#" InputFormat="xlt" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLT samen te voegen met XLSX via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XLT programmatisch samenvoegen tot XLSX? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C#-project.
 + Laad het bestand XLT met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -62,7 +65,7 @@ Er zijn twee alternatieve opties om "Aspose.Cells for .NET" op uw systeem te ins
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells/) . Zien[Documentatie](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)binnen Visual Studio-IDE
+1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) binnen Visual Studio-IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Bestanden met de extensie .xlt zijn sjabloonbestanden die zijn gemaakt met Microsoft Excel, een spreadsheettoepassing die deel uitmaakt van de Microsoft Office-suite. Microsoft Office 97-2003 ondersteunde het maken van nieuwe XLT-bestanden en het openen ervan. De nieuwste versie van Excel is nog steeds in staat om sjabloonbestanden in dit oude formaat te openen. Zo'n sjabloonbestand wordt gebruikt om snel nieuwe Excel-bestanden te maken met standaardgegevens en instellingen zoals paginaopmaak, lettergrootte, marges, grafieken, enz. Die verder kunnen worden opgeslagen als nieuwe .xls-bestanden.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX is een bekend formaat voor Microsoft Excel-documenten dat werd geïntroduceerd door Microsoft met de release van Microsoft Office 2007. Gebaseerd op structuur georganiseerd volgens de Open Packaging-conventies zoals uiteengezet in deel 2 van de OOXML-standaard ECMA-376, is het nieuwe formaat een zip-pakket dat een aantal XML-bestanden bevat. De onderliggende structuur en bestanden kunnen worden onderzocht door simpelweg het .xlsx-bestand uit te pakken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C# kan men xlt ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-docx/" name="Voeg XLT samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-sql/" name="Voeg XLT samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-bmp/" name="Voeg XLT samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-emf/" name="Voeg XLT samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-gif/" name="Voeg XLT samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-html/" name="Voeg XLT samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-md/" name="Voeg XLT samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-mhtml/" name="Voeg XLT samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-ods/" name="Voeg XLT samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-pdf/" name="Voeg XLT samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-png/" name="Voeg XLT samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-svg/" name="Voeg XLT samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tiff/" name="Voeg XLT samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-tsv/" name="Voeg XLT samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-txt/" name="Voeg XLT samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xls/" name="Voeg XLT samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsb/" name="Voeg XLT samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsm/" name="Voeg XLT samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlsx/" name="Voeg XLT samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xlt/" name="Voeg XLT samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltm/" name="Voeg XLT samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xltx/" name="Voeg XLT samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xml/" name="Voeg XLT samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-xps/" name="Voeg XLT samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-json/" name="Voeg XLT samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlt-to-jpeg/" name="Voeg XLT samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Bescherm en vergrendel XLS document via Java
+title: Bescherm en vergrendel XLS document via Java
 weight: 5070
 description: Java voorbeeldcode om XLS-bestand te vergrendelen met wachtwoord op Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
 ---

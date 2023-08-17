@@ -1,7 +1,8 @@
 ---
-title:  Samenvoegen XLTM naar XPS via C++
+title: Voeg XLTM samen met XPS - Combineer XLTM met XPS in C++
 url: /nl/cpp/merger/merge-xltm-to-xps/ 
-description: Samenvoegen XLTM naar XPS Online gratis. Gratis online XLTM tot XPS Fusie. Voeg XLTM samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C++ Aspose.Cells. Gratis online Samenvoegen XLTM naar XPS saveformat. C++ Combineer het formaat XLTM tot XPS. Samenvoegen XLTM tot XPS in C++. XLTM Samenvoegen.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to XPS in C++., Free Online C++ Merge XLTM to xps., C++ Combine XLTM to XPS Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Samenvoegen XLTM naar XPS via C++" h2="Supersnelle C++-bibliotheek voor het samenvoegen van XLTM tot XPS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C++. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen XLTM naar XPS Online gratis. Gratis online XLTM tot XPS
 
 {{% blocks/products/pf/agp/content h2="Voeg XLTM samen met XPS met C++" %}}
 
- Hoe XLTM samen te voegen met XPS? Met de bibliotheek Aspose.Cells for C++ kunt u eenvoudig XLTM naar XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik XLTM samen met XPS? Met de Aspose.Cells for C++-bibliotheek kunt u eenvoudig XLTM tot XPS programmatisch samenvoegen met een paar regels code.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. C++ Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie direct downloaden, gewoon openen[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakketbeheerder, zoek naar Aspose.Cells.Cpp en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Voeg XLTM samen met XPS in C++ Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u XLTM samenvoegt met XPS in C++.
+Het volgende voorbeeld laat zien hoe u XLTM samenvoegt met XPS in Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLTM samen te voegen met XPS. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand XPS. Als u code ontwikkelt in C++, is dit eenvoudiger dan het klinkt. Zie voorbeeld C++ dat XLTM samenvoegt met XPS.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om XLTM samen te voegen met XPS. Upload uw bestanden,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XLTM online samen te voegen tot XPS" InputFormat="xltm" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Gratis online om XLTM samen te voegen tot XPS in C++" InputFormat="xltm" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLTM samen te voegen met XPS via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XLTM programmatisch samenvoegen tot XPS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for C++'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C++-project.
 + Laad het bestand XLTM met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -63,7 +66,7 @@ Er zijn drie opties om "Aspose.Cells for C++" op uw systeem te installeren. Kies
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installeer de bibliotheek met behulp van Include en lib Folders. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installeer Aspose.Cells for C++ in Linux. Zien[Documentatie](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}De bestandsextensie XLTM vertegenwoordigt bestanden die zijn gegenereerd door Microsoft Excel als sjabloonbestanden met macro's. XLTM-bestanden zijn qua structuur vergelijkbaar met XLTX, behalve dat de laatste geen ondersteuning biedt voor het maken van sjabloonbestanden met macro's. Dergelijke sjabloonbestanden worden gebruikt om de lay-out, opmaak en andere instellingen samen met de macro's te genereren en in te stellen om het maken van vergelijkbare XLSX-bestanden te vergemakkelijken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}Een XPS-bestand vertegenwoordigt paginalay-outbestanden die zijn gebaseerd op XML-papierspecificaties gemaakt door Microsoft. Het is ontwikkeld als vervanging van de bestandsindeling EMF en is vergelijkbaar met de bestandsindeling PDF, maar gebruikt XML in lay-out, uiterlijk en afdrukinformatie van een document . Het is in feite meer gerechtvaardigd om te zeggen dat XPS een poging is tot PDF, maar om vele redenen niet genoeg populariteit kon krijgen als eigendom van PDF. Microsoft biedt standaard XPS Document Writer vanaf Windows 7 voor het maken van XPS-bestanden. XPS-bestanden kunnen worden gegenereerd door de "Microsoft XPS Document Writer" als printer te selecteren tijdens het afdrukken van het document.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C++ kan men xltm ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-docx/" name="Voeg XLTM samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-sql/" name="Voeg XLTM samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-bmp/" name="Voeg XLTM samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-emf/" name="Voeg XLTM samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-gif/" name="Voeg XLTM samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-html/" name="Voeg XLTM samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-md/" name="Voeg XLTM samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-mhtml/" name="Voeg XLTM samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-ods/" name="Voeg XLTM samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-pdf/" name="Voeg XLTM samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-png/" name="Voeg XLTM samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-svg/" name="Voeg XLTM samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tiff/" name="Voeg XLTM samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tsv/" name="Voeg XLTM samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-txt/" name="Voeg XLTM samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xls/" name="Voeg XLTM samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsb/" name="Voeg XLTM samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsm/" name="Voeg XLTM samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsx/" name="Voeg XLTM samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlt/" name="Voeg XLTM samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltm/" name="Voeg XLTM samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltx/" name="Voeg XLTM samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xml/" name="Voeg XLTM samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xps/" name="Voeg XLTM samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-json/" name="Voeg XLTM samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-jpeg/" name="Voeg XLTM samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

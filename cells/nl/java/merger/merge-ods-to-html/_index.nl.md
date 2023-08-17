@@ -1,7 +1,8 @@
 ---
-title:  Voeg ODS samen met HTML via Java
+title: Voeg ODS samen met HTML - Combineer ODS met HTML in Java
 url: /nl/java/merger/merge-ods-to-html/ 
-description: Samenvoegen ODS naar HTML Online gratis. Gratis online ODS tot HTML Fusie. Voeg ODS samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. Java Aspose.Cells. Gratis online Samenvoegen ODS naar HTML saveformat. Java Combineer het formaat ODS tot HTML. Samenvoegen ODS tot HTML in Java. ODS Samenvoegen.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge ODS to HTML in Java., Free Online Java Merge ODS to html., Java Combine ODS to HTML Online for Free., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg ODS samen met HTML via Java" h2="Supersnelle Java-bibliotheek voor het samenvoegen van ODS tot HTML. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Java. Dit is een professionele software-oplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Samenvoegen ODS naar HTML Online gratis. Gratis online ODS tot HTML
 
 {{% blocks/products/pf/agp/content h2="Voeg ODS samen met HTML met Java" %}}
 
- Hoe ODS samen te voegen met HTML? Met de bibliotheek Aspose.Cells for Java kunt u eenvoudig ODS naar HTML programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+ Hoe voeg ik ODS samen met HTML? Met de Aspose.Cells for Java-bibliotheek kunt u eenvoudig ODS tot HTML programmatisch samenvoegen met een paar regels code.[Aspose.Cells for Java](https://products.aspose.com/cells/java) is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Java Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. U kunt de nieuwste versie rechtstreeks downloaden van[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Opslagplaats" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Samenvoegen ODS naar HTML Online gratis. Gratis online ODS tot HTML
 
 {{% blocks/products/pf/agp/content h2="Voeg ODS samen met HTML in Java Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u ODS samenvoegt met HTML in Java.
+Het volgende voorbeeld laat zien hoe u ODS samenvoegt met HTML in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om ODS samen te voegen met HTML. Upload uw bestanden, roep de methode Workbook.Combine voor het samenvoegen van bestanden aan en sla deze vervolgens op in het bestand HTML. Als u code ontwikkelt in Java, is dit eenvoudiger dan het klinkt. Zie voorbeeld Java dat ODS samenvoegt met HTML.
@@ -55,16 +56,18 @@ Volg de eenvoudige stappen om ODS samen te voegen met HTML. Upload uw bestanden,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om ODS online samen te voegen tot HTML" InputFormat="ods" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Gratis online om ODS samen te voegen tot HTML in Java" InputFormat="ods" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe ODS samen te voegen tot HTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u ODS programmatisch samenvoegen tot HTML? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for Java'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Java-project.
 + Laad het bestand ODS met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -76,7 +79,7 @@ Volg de eenvoudige stappen om ODS samen te voegen met HTML. Upload uw bestanden,
 
 {{% blocks/products/pf/agp/text %}}
 
- We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand dat bytecode bevat. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
+ We hosten onze Java-pakketten in[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) opslagplaatsen. 'Aspose.Cells for Java' is een algemeen JAR-bestand met bytecode. Volg a.u.b. de[stapsgewijze instructies](https://docs.aspose.com/cells/java/installation/) over hoe u het installeert in uw Java-ontwikkelaarsomgeving.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,21 +100,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Bestanden met de extensie .ods staan voor OpenDocument Spreadsheet Document-indeling die door de gebruiker kan worden bewerkt. Gegevens worden in het ODF-bestand opgeslagen in rijen en kolommen. Het is een op XML gebaseerd formaat en is een van de verschillende subtypes in de familie Open Document Formats (ODF). Het formaat is gespecificeerd als onderdeel van de ODF 1.2-specificaties die zijn gepubliceerd en onderhouden door OASIS. Een aantal applicaties op Windows en andere besturingssystemen kunnen ODS-bestanden openen voor bewerking en manipulatie, waaronder Microsoft Excel, NeoOffice en LibreOffice. ODS-bestanden kunnen ook worden geconverteerd naar andere spreadsheetindelingen, zoals XLS, XLSX en andere door verschillende toepassingen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaakt voor weergave in browsers. Bekend als de taal van het web, is HTML geëvolueerd met vereisten voor nieuwe informatievereisten die moeten worden weergegeven als onderdeel van webpagina's. De nieuwste variant staat bekend als HTML 5 die veel flexibiliteit geeft voor het werken met de taal. HTML-pagina's worden ofwel ontvangen van de server, waar deze worden gehost, of kunnen ook vanaf het lokale systeem worden geladen. Elke HTML-pagina bestaat uit HTML-elementen zoals formulieren, tekst, afbeeldingen, animaties, links, enz. Deze elementen worden weergegeven door tags en verschillende andere waarbij elke tag een begin en een einde heeft. Het kan ook applicaties insluiten die zijn geschreven in scripttalen zoals JavaScript en Style Sheets (CSS) voor een algemene weergave van de lay-out.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van Java kan men ook ods samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-docx/" name="Voeg ODS samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-sql/" name="Voeg ODS samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-bmp/" name="Voeg ODS samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-emf/" name="Voeg ODS samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-gif/" name="Voeg ODS samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-html/" name="Voeg ODS samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-md/" name="Voeg ODS samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-mhtml/" name="Voeg ODS samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-ods/" name="Voeg ODS samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-pdf/" name="Voeg ODS samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-png/" name="Voeg ODS samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-svg/" name="Voeg ODS samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-tiff/" name="Voeg ODS samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-tsv/" name="Voeg ODS samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-txt/" name="Voeg ODS samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xls/" name="Voeg ODS samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsb/" name="Voeg ODS samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsm/" name="Voeg ODS samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlsx/" name="Voeg ODS samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xlt/" name="Voeg ODS samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltm/" name="Voeg ODS samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xltx/" name="Voeg ODS samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xml/" name="Voeg ODS samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-xps/" name="Voeg ODS samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-json/" name="Voeg ODS samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ods-to-jpeg/" name="Voeg ODS samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

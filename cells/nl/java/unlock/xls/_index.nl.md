@@ -13,7 +13,7 @@ description: Java voorbeeldcode om met een wachtwoord beveiligd bestand XLS te o
 
  Om het XLS-bestand te ontgrendelen, gebruiken we
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, een functierijk, krachtig en gebruiksvriendelijk beschermingsplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
+ API, een functierijk, krachtig en gebruiksvriendelijk beschermingsplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 

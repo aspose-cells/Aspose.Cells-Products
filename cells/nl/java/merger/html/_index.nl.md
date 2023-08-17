@@ -49,14 +49,14 @@ description: Java voorbeeldcode om HTML documenten te combineren op Java Runtime
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
+Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for Java](https://products.aspose.com/cells/java) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad het eerste bestand HTML met een exemplaar van de klasse Workbook.
 + Laad het tweede HTML-document met een exemplaar van de klasse Workbook.
 + Bestanden samenvoegen met behulp van de methode combine().
-sla het samengevoegde HTML-bestand op het opgegeven pad op
++ sla het samengevoegde HTML-bestand op het opgegeven pad op
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ htmlFile1.save("combinedFileWithPath.html");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Het is niet nodig om Aspose API te downloaden." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" U hoeft geen code te schrijven." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw HTML-bestanden." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Het wordt onmiddellijk samengevoegd en samengevoegd." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Het wordt onmiddellijk samengevoegd en samengevoegd." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

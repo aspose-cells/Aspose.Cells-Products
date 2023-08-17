@@ -13,7 +13,7 @@ description: Java voorbeeldcode om metadata in XLS-indeling te bewerken of te be
 
  Om XLS bestandsmetadata te krijgen, gebruiken we
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, een functierijk, krachtig en gebruiksvriendelijk metadata API for Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
+API, een functierijk, krachtig en gebruiksvriendelijk metadata API for Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
@@ -58,7 +58,7 @@ description: Java voorbeeldcode om metadata in XLS-indeling te bewerken of te be
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad XLS-bestand in WorkbookMetadata
-Maak MetadataOptions-object met relevante opties
++ Maak MetadataOptions-object met relevante opties
 + Stel de relevante eigenschappen in
 + Bewaar de XLS metadata-info
 

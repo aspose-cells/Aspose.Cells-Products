@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLSB وثيقة via .NET
+title: حماية وإغلاق XLSB وثيقة via .NET
 weight: 5920
 description: C# كود المصدر لقفل ملف XLSB باستخدام كلمة مرور على .NET Framework أو .NET Core أو Mono أو منصات Xamarin.
 ---

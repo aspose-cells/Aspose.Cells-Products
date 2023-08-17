@@ -37,7 +37,7 @@ description: C# Voorbeeldcode voor het maken van lijndiagrammen naar Excel met b
 
 {{% blocks/products/pf/agp/text %}}
 
- Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+ Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 

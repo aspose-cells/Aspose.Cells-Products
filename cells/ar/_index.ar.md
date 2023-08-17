@@ -50,7 +50,7 @@ Java APIs لإنشاء أو معالجة أو تحويل أو معالجة ال�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="البيانات الوصفية" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-ما عليك سوى تحميل ملف Microsoft Excel لعرض البيانات الوصفية لجدول البيانات أو تحريرها من أي متصفح. لا يتطلب تركيب أو أدوات إضافية.
+ ما عليك سوى تحميل ملف Microsoft Excel لعرض البيانات الوصفية لجدول البيانات أو تحريرها من أي متصفح. لا يتطلب تركيب أو أدوات إضافية.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="مشاهد" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Java APIs لإنشاء أو معالجة أو تحويل أو معالجة ال�
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- مجموعة المنتجات Aspose والدعم لا يعلى عليه. لم نكن لنفعل ما فعلناه بدون هذا الحل.
+مجموعة المنتجات Aspose والدعم لا يعلى عليه. لم نكن لنفعل ما فعلناه بدون هذا الحل.
  <em>
  دكتور دان باترسون | أكيومن ، المملكة المتحدة
  </em>

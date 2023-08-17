@@ -6,7 +6,7 @@ description: قم بتحويل Excel XLS و XLSX و ODS و CSV إلى PDF و XPS
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> تحويل ملفات Excel via Java" h2="احفظ Microsoft مستندات Excel بتنسيق جداول بيانات وويب وصور وتنسيقات ذات تخطيط ثابت" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- لأي**محول Excel** تطبيق أو حل ، Java Excel Library تسرع برمجة جداول البيانات وعمليات التحويل أثناء التعامل مع تنسيقات متعددة بما في ذلك XLS ، XLSX ، XLSM ، XLSB ، XLTX ، XLTM ، CSV ، SpreadsheetML ، ODS. XPS و HTML و MHTML والنص العادي وتنسيقات الصور الشائعة مثل TIFF و JPG و PNG و BMP و SVG.
+ لأي**محول Excel**تطبيق أو حل ، Java Excel Library تسرع برمجة جداول البيانات وعمليات التحويل أثناء التعامل مع تنسيقات متعددة بما في ذلك XLS ، XLSX ، XLSM ، XLSB ، XLTX ، XLTM ، CSV ، SpreadsheetML ، ODS. XPS و HTML و MHTML والنص العادي وتنسيقات الصور الشائعة مثل TIFF و JPG و PNG و BMP و SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="التحويل البيني Microsoft تنسيقات Excel" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تحويل Microsoft Excel إلى Word و PowerPoint" %}}
- من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) الفئات كما هو موضح أدناه.
+ من الممكن تحميل أي جدول بيانات وتحويله إلى ملفات Word DOCX & PowerPoint PPTX أثناء الاستخدام[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [خيارات PptxSaveOpt](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)الفئات كما هو موضح أدناه.
 {{% blocks/products/pf/feature-page-code h3="Java كود لبرنامج Excel إلى Word وتحويل PowerPoint" %}}
 ```cs
 // load the template file

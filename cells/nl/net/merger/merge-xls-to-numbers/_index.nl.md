@@ -1,7 +1,8 @@
 ---
-title:  Voeg XLS samen met NUMBERS via C#
+title: Voeg XLS samen met NUMBERS - Combineer XLS met NUMBERS in C#
 url: /nl/net/merger/merge-xls-to-numbers/ 
-description: Voeg gratis XLS samen met NUMBERS Online. Gratis online XLS naar NUMBERS Fusie. Voeg XLS samen met Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS en meer.
+description: Aspose Excel. C# Aspose.Cells. Gratis online Samenvoegen XLS naar NUMBERS opslagformaat. C# Combineer XLS tot NUMBERS formaat. Voeg XLS samen tot NUMMERS in C#. XLS Samenvoegen.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to NUMBERS in C#., Free Online C# Merge XLS to numbers., C# Combine XLS to NUMBERS Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Voeg XLS samen met NUMBERS via C#" h2="High-speed C#-bibliotheek voor het samenvoegen van XLS tot NUMBERS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in C#. Dit is een professionele softwareoplossing voor het importeren en exporteren van Excel, CSV, OpenOffice, PDF, HTML, image en vele andere Excel-indelingen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Voeg gratis XLS samen met NUMBERS Online. Gratis online XLS naar NU
 
 {{% blocks/products/pf/agp/content h2="Voeg XLS samen met NUMBERS met behulp van C#" %}}
 
- Hoe XLS samen te voegen met NUMBERS? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig XLS programmatisch samenvoegen met NUMBERS met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
+ Hoe voeg ik XLS samen met NUMBERS? Met de bibliotheek Aspose.Cells for .NET kunt u eenvoudig XLS programmatisch samenvoegen met NUMBERS met een paar regels code.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. .NET Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten. Open[NuGet](https://www.nuget.org/packages/aspose.cells) pakketbeheerder, zoek naar Aspose.Cells en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager-console.
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheer Console Commando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Voeg XLS samen met NUMBERS in C# Online gratis" %}}
 
-Het volgende voorbeeld laat zien hoe u XLS samenvoegt met NUMBERS in C#.
+Het volgende voorbeeld laat zien hoe u XLS kunt samenvoegen tot NUMBERS in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Volg de eenvoudige stappen om XLS samen te voegen met NUMBERS. Upload uw bestanden, bel de methode Workbook.Combine voor het samenvoegen van bestanden en sla deze vervolgens op in het NUMBERS-bestand. Als u code ontwikkelt in C#, is dit eenvoudiger dan het klinkt. Zie voorbeeld C# dat XLS samenvoegt tot NUMBERS.
@@ -36,16 +37,18 @@ Volg de eenvoudige stappen om XLS samen te voegen met NUMBERS. Upload uw bestand
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app om XLS online samen te voegen met NUMBERS" InputFormat="xls" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratis online om XLS samen te voegen tot NUMMERS in C#" InputFormat="xls" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLS samen te voegen tot NUMMERS via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
+ Wilt u XLS programmatisch samenvoegen met NUMBERS? Een basisdocument dat samenvoegt en samenvoegt met[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API's kunnen worden gedaan met slechts enkele regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installeer 'Aspose.Cells for .NET'.
++ Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw C#-project.
 + Laad het bestand XLS met de klasse Workbook.
 + Roep de Workbook.Combine-methode op voor het samenvoegen van bestanden.
 + Roep de methode Workbook.Save aan en geef de naam van het uitvoerbestand door als parameter.
@@ -62,7 +65,7 @@ Er zijn twee alternatieve opties om "Aspose.Cells for .NET" op uw systeem te ins
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer een[NuGet Pakket](https://www.nuget.org/packages/Aspose.Cells/) . Zien[Documentatie](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)binnen Visual Studio-IDE
+1.  Installeer de bibliotheek met behulp van[Pakketbeheer-console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) binnen Visual Studio-IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Onze API's worden ondersteund op alle belangrijke platformen en besturingssystem
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Bestanden met de extensie XLS vertegenwoordigen de binaire bestandsindeling van Excel. Dergelijke bestanden kunnen worden gemaakt door Microsoft Excel, evenals andere vergelijkbare spreadsheetprogramma's zoals OpenOffice Calc of Apple Numbers. Bestand dat is opgeslagen door Excel staat bekend als werkmap, waarbij elke werkmap een of meer werkbladen kan hebben. Gegevens worden opgeslagen en weergegeven aan gebruikers in tabelindeling in werkblad en kunnen numerieke waarden, tekstgegevens, formules, externe gegevensverbindingen, afbeeldingen en grafieken omvatten. Met toepassingen zoals Microsoft Excel kunt u werkmapgegevens exporteren naar verschillende indelingen, waaronder PDF, CSV, XLSX, TXT, HTML, XPS en verschillende andere. Het bestandsformaat XLS werd vervangen door een meer open en gestructureerd formaat, XLSX, met de release van Microsoft Excel 2007. De nieuwste versies bieden nog steeds ondersteuning voor het maken en lezen van XLS-bestanden, hoewel XLSX nu de eerste gebruikskeuze is.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}De bestanden met de extensie .numbers zijn geclassificeerd als spreadsheetbestandstype, daarom lijken ze op de .xlsx-bestanden; maar de Numbers-bestanden worden gemaakt met behulp van Apple iWork Numbers-spreadsheetsoftware. De Apple iWork Numbers is een eenheidssoftware van de iWork Productivity Suite. De iWork Productivity Suite is gelijk aan de Microsoft Office Suite die wordt gebruikt op Windows pc's. Daarom kunnen we zeggen dat de Numbers die beschikbaar is voor MacOS ook een concurrent is van Microsoft Excel. Evenzo, Microsoft Excel, kan het NUMBERS-bestand ook de tabellen, grafieken en formules bevatten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde samenvoegindelingen" subTitle="Met behulp van C# kan men xls ook samenvoegen met vele andere bestandsindelingen, waaronder." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-html/" name="HTML" description="Hypertext-opmaaktaal" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-mhtml/" name="MHTML" description="Webpagina-archiefformaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-ods/" name="ODS" description="Open Document Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tsv/" name="TSV" description="Door tabs gescheiden waarden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-txt/" name="TXT" description="Tekstdocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xls/" name="XLS" description="Excel binair formaat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsb/" name="XLSB" description="Binair Excel-werkmapbestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsm/" name="XLSM" description="Spreadsheet-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsx/" name="XLSX" description="OOXML Excel-bestand" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft Excel-sjabloon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltm/" name="XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltx/" name="XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-docx/" name="Voeg XLS samen met DOCX" description="Microsoft Word-document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-sql/" name="Voeg XLS samen met SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-bmp/" name="Voeg XLS samen met BMP" description="Bitmap afbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-emf/" name="Voeg XLS samen met EMF" description="Verbeterd metabestandsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-gif/" name="Voeg XLS samen met GIF" description="Grafisch uitwisselingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-html/" name="Voeg XLS samen met HTML" description="Hypertext-opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-md/" name="Voeg XLS samen met MD" description="Markdown-taal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-mhtml/" name="Voeg XLS samen met MHTML" description="Webpagina-archiefformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-ods/" name="Voeg XLS samen met ODS" description="Open Document Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-pdf/" name="Voeg XLS samen met PDF" description="Draagbaar documentformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-png/" name="Voeg XLS samen met PNG" description="Draagbare netwerkgrafieken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-svg/" name="Voeg XLS samen met SVG" description="Schaalbare vectorafbeeldingen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tiff/" name="Voeg XLS samen met TIFF" description="Getagd afbeeldingsformaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tsv/" name="Voeg XLS samen met TSV" description="Door tabs gescheiden waarden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-txt/" name="Voeg XLS samen met TXT" description="Tekstdocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xls/" name="Voeg XLS samen met XLS" description="Excel binair formaat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsb/" name="Voeg XLS samen met XLSB" description="Binair Excel-werkmapbestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsm/" name="Voeg XLS samen met XLSM" description="Spreadsheet-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsx/" name="Voeg XLS samen met XLSX" description="OOXML Excel-bestand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlt/" name="Voeg XLS samen met XLT" description="Microsoft Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltm/" name="Voeg XLS samen met XLTM" description="Excel-sjabloon met ingeschakelde macro\'s" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltx/" name="Voeg XLS samen met XLTX" description="Office OpenXML Excel-sjabloon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xml/" name="Voeg XLS samen in XML" description="Uitbreidbare opmaaktaal" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xps/" name="Voeg XLS samen met XPS" description="XML-papierspecificaties" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-json/" name="Voeg XLS samen met JSON" description="JavaScript-objectnotatie" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-jpeg/" name="Voeg XLS samen met JPEG" description="JPEG Afbeelding" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

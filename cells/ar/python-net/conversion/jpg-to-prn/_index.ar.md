@@ -1,7 +1,7 @@
 ---
-title: تحويل JPG إلى PRN Python via Python
-description: قم بتحويل JPG إلى PRN عبر الإنترنت مجانًا. مجاني على الإنترنت لتحويل JPG إلى PRN. Python JPG إلى PRN. JPG إلى PRN عبر Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+title: Python JPG to PRN - محول من JPG إلى PRN على الإنترنت
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل JPG إلى PRN saveformat. Python JPG إلى تنسيق PRN. احفظ JPG في PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to PRN saveformat., Free Online JPG to PRN Python., Python Convert JPG to PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تحويل JPG إلى PRN في Python" h2="مكتبة Python عالية السرعة لتحويل JPG إلى PRN. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% blocks/products/pf/agp/content h2="تحويل JPG إلى PRN في Python" %}}
 
- كيفية تحويل JPG إلى PRN؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل JPG إلى PRN برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل JPG إلى PRN؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل JPG إلى PRN برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,26 +22,27 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 يوضح المثال التالي كيفية تحويل JPG إلى PRN في Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-اتبع الخطوات السهلة لتحويل JPG إلى PRN. قم بتحميل ملف JPG الخاص بك ، ثم احفظه كملف PRN. لكل من قراءة JPG وكتابة PRN ، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق PRN الناتج متطابقًا مع مستند JPG الأصلي.
+اتبع الخطوات السهلة لتحويل JPG إلى PRN. قم بتحميل ملف JPG الخاص بك ، ثم احفظه كملف PRN. لكل من قراءة JPG وكتابة PRN ، يمكنك استخدام أسماء ملفات مؤهلة بالكامل. سيكون محتوى وتنسيق PRN الناتج مطابقًا لمستند JPG الأصلي.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ونموذج رمز لتحويل JPG إلى PRN عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ونموذج رمز لتحويل JPG إلى PRN عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل JPG إلى PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-يمكن للمطورين Python تحميل وتحويل JPG إلى PRN بسهولة في بضعة أسطر من التعليمات البرمجية.
+هل تحتاج إلى تحويل ملفات JPG إلى PRN برمجيًا؟ يمكن للمطورين Python تحميل وتحويل JPG إلى PRN بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف JPG بنسخة من المصنف
-1.  قم بتحويل JPG إلى PRN عن طريق استدعاء طريقة Workbook.save
+1.  قم بتحميل ملف JPG بنسخة من المصنف.
+1.  قم بتحويل JPG إلى PRN عن طريق استدعاء طريقة Workbook.save.
+1.  احصل على نتيجة تحويل JPG إلى PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG هو نوع من تنسيق الصورة يتم حفظه باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة. يمكن للمستخدمين ضبط مستوى الضغط لتحقيق مستوى الجودة المطلوب مع تقليل حجم التخزين في نفس الوقت. تتأثر جودة الصورة بشكل ضئيل إذا تم تطبيق ضغط بنسبة 10: 1 على الصورة. كلما زادت قيمة الضغط ، زاد تدهور جودة الصورة.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}ملف PRN هو ملف تم إنشاؤه باستخدام مربع الاختيار Print to File الذي يظهر في بعض مربعات حوار Print على Windows. وهو يحتوي على مجموعة من الإرشادات الخاصة بالجهاز والتي تستخدمها الطابعة أو جهاز الفاكس أو أي جهاز آخر لطباعة مستند. قد تحتوي ملفات PRN على نص أو محتوى ثنائي ، اعتمادًا على الجهاز الذي تم إنشاء الملف من أجله.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل JPG إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

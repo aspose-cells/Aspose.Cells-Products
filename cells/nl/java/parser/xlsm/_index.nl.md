@@ -63,7 +63,7 @@ description: Java voorbeeldcode om tekst en afbeeldingen te extraheren uit besta
 + Selecteer het vereiste blad met de methode getWorksheets().get.
 + Haal alle cellen van het geselecteerde blad op met behulp van getCells().
 + Herhaal elke cel, verkrijg de tekst.
-+ Druk elke celwaarde af of gebruik de methode StringBuilder append() om als geheel te bekijken
+Druk elke celwaarde af of gebruik de methode StringBuilder append() om als geheel te bekijken
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

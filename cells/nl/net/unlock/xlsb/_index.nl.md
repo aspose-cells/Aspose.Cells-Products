@@ -1,7 +1,7 @@
 ---
 title:  Ontgrendel XLSB document via .NET
 weight: 6410
-description: C# broncode om met een wachtwoord beveiligd bestand XLSB te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
+description: C# broncode om met een wachtwoord beveiligd XLSB-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ontgrendel XLSB Spreadsheet via C#" h2="Verwijder de beveiliging van XLSB met behulp van de .NET-bibliotheek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSB" >}}

@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLSM وثيقة via .NET
+title: حماية وإغلاق XLSM وثيقة via .NET
 weight: 7530
 description: C# كود المصدر لقفل ملف XLSM باستخدام كلمة مرور على .NET Framework أو .NET Core أو Mono أو منصات Xamarin.
 ---

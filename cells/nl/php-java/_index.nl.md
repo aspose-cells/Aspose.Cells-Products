@@ -37,7 +37,7 @@ description: PHP Excel-spreadsheet API om te lezen schrijven en converteren XLS 
  Converteer werkblad naar afbeelding
     </li>
     <li>
-Spreadsheet converteren naar PDF
+ Spreadsheet converteren naar PDF
     </li>
    </ul>
   </div>
@@ -98,7 +98,7 @@ Spreadsheet converteren naar PDF
     <em>
  voor
     </em>
- PHPvia Java
+ PHP-via Java
    </small>
   </footer>
  </div>
@@ -156,7 +156,7 @@ Spreadsheet converteren naar PDF
     <em>
  voor
     </em>
- PHPvia Java
+ PHP-via Java
    </small>
   </footer>
  </div>
@@ -236,7 +236,7 @@ Spreadsheet converteren naar PDF
     <em>
  voor
     </em>
- PHPvia Java
+ PHP-via Java
    </small>
   </footer>
  </div>
@@ -370,7 +370,7 @@ Spreadsheet converteren naar PDF
  Converteer Excel-bestanden naar XPS, PDF &amp; HTML
     </h2>
     <p>
- Aspose.Cells for PHP via Java API is in staat om Excel-bestanden te converteren naar de indelingen XPS, XPS en HTML en behoudt de hoogste visuele betrouwbaarheid. Het conversieproces is betrouwbaar en ontwikkelaars kunnen met slechts een paar regels het vereiste formaat verkrijgen.
+ Aspose.Cells for PHP via Java API is in staat om Excel-bestanden te converteren naar de formaten XPS, XPS en HTML en behoudt de hoogste visuele betrouwbaarheid. Het conversieproces is betrouwbaar en ontwikkelaars kunnen met slechts een paar regels het vereiste formaat verkrijgen.
     </p>
     <div class="codeblock" id="code">
      <h3>

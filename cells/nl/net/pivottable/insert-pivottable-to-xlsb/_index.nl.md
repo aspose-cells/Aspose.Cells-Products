@@ -1,5 +1,5 @@
 ---
-title: Draaitabel invoegen in Microsoft Excel XLSB-bestanden via C#
+title:  Draaitabel invoegen in Microsoft Excel XLSB-bestanden via C#
 weight: 7690
 description: C# Voorbeeldcode voor het genereren van XLSB-documenten met draaitabel. Gebruik deze code voor het maken van Micorsoft Excel XLSB-bestanden met draaitabel binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
@@ -11,7 +11,7 @@ description: C# Voorbeeldcode voor het genereren van XLSB-documenten met draaita
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Het genereren van een MS Excel XLSB-bestand met draaitabel dynamisch binnen een actieve toepassing is eenvoudig. Om XLSB-documenten met draaitabel helemaal opnieuw te maken zonder dat MS Office nodig is, gebruiken we
+ Het genereren van een MS Excel XLSB-bestand met draaitabel dynamisch binnen een actieve toepassing is eenvoudig. Om XLSB documenten met PivotTable helemaal opnieuw te maken zonder dat MS Office nodig is, gebruiken we
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API dat verschillende functies biedt voor het maken, manipuleren en converteren van spreadsheets met behulp van het .NET-platform. Ontwikkelaars kunnen eenvoudig code verbeteren voor het schrijven van gegevens, het genereren van diagrammen of grafieken en het maken van tabellen in spreadsheets.
 {{% /blocks/products/pf/agp/content %}}
@@ -22,7 +22,7 @@ description: C# Voorbeeldcode voor het genereren van XLSB-documenten met draaita
 
 {{% blocks/products/pf/agp/text %}}
 
- Het is gemakkelijk voor de ontwikkelaars om een draaitabel in een spreadsheet met de indeling XLSB in te voegen in verschillende rapportagetoepassingen voor gegevensverwerking in slechts een paar regels code.
+Het is gemakkelijk voor de ontwikkelaars om een draaitabel in een spreadsheet met de indeling XLSB in te voegen in verschillende rapportagetoepassingen voor gegevensverwerking in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Voorbeeldcode voor het genereren van XLSB-documenten met draaita
 1.  Toegang tot het eerste werkblad van de werkmap.
 1.  Haal de gewenste cel(len) van het werkblad op en plaats de waarde in de cel(len).
 1.  Voeg draaitabel in en stel de stijl in
-1.  Gebruik de methode Save om de werkmap op te slaan als XLSB-bestand.
+1. Gebruik de methode Save om de werkmap op te slaan als XLSB-bestand.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -39,7 +39,7 @@ description: C# Voorbeeldcode voor het genereren van XLSB-documenten met draaita
 
 {{% blocks/products/pf/agp/text %}}
 
- Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+ Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 
 {{% /blocks/products/pf/agp/text %}}
 

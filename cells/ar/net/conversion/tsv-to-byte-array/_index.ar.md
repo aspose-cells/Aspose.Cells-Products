@@ -11,14 +11,14 @@ description: C# نموذج كود لتحويل TSV إلى مصفوفة بايت.
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- صفيف البايت مفيد في معالجة البيانات أو تخزينها. يمكنك تحويل ملف TSV إلى Byte Array بالإضافة إلى ملف**صفيف البايت إلى TSV**المستند باستخدام لغة C#. لتحويل TSV إلى مصفوفة بايت ، سنستخدم
+ صفيف البايت مفيد في معالجة البيانات أو تخزينها. يمكنك تحويل ملف TSV إلى Byte Array بالإضافة إلى ملف**صفيف البايت إلى TSV** المستند باستخدام لغة C#. لتحويل TSV إلى مصفوفة بايت ، سنستخدم
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API الذي يقدم ميزات مختلفة لمعالجة المستندات وتحويلها باستخدام النظام الأساسي .NET.
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل TSV إلى صفيف بايت عبر C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيفية تحويل TSV إلى مصفوفة بايت عبر C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -29,7 +29,7 @@ description: C# نموذج كود لتحويل TSV إلى مصفوفة بايت.
 1.  قم بتضمين مساحة الاسم في ملف الفصل الدراسي الخاص بك
 1.  قم بتحميل ملف الإدخال TSV باستخدام مصنف
 1.  تهيئة كائن MemoryStream
-1.  تحويل البيانات تيار إلى مجموعة بايت
+1.  تحويل دفق البيانات إلى مجموعة بايت
 1.  معالجة البيانات حسب متطلباتك
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -47,7 +47,7 @@ description: C# نموذج كود لتحويل TSV إلى مصفوفة بايت.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="يظهر رمز العينة هذا TSV لتحويل مصفوفة البايت C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="يوضح نموذج التعليمات البرمجية هذا TSV لتحويل مصفوفة البايت C#" offSpacer="" %}}
 
 ```cs
 Workbook workbook = new Workbook("sourceFile.tsv");

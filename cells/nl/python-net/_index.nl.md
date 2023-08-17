@@ -12,7 +12,7 @@ description: Python spreadsheet-bibliotheek om Excel-bestanden te lezen, schrijv
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via .Net is een snelle en betrouwbare API voor spreadsheetverwerkingstaken. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken, manipuleren en informatie uit Excel-bestanden extraheren. API leest meerdere Excel-formaten en kan werkbladen weergeven naar XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met behulp van Python.
+ Aspose.Cells for Python via .Net is een snelle en betrouwbare API voor spreadsheetverwerkingstaken. Ontwikkelaars kunnen eenvoudige of complexe spreadsheets maken, manipuleren en informatie uit Excel-bestanden extraheren. API leest meerdere Excel-formaten en kan werkbladen weergeven naar XPS, PDF, MHTML, HTML, platte tekst, afbeeldingen en meer. Het is de beste oplossing om Excel-rapporten te automatiseren met behulp van Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Flexibele weergave-opties
     </h2>
     <p>
-Aspose.Cells for Python via .NET biedt volledige controle over de pagina-instelling, waardoor meerdere weergaveopties kunnen worden gemanipuleerd, zoals voorbeeldpagina-einden, zoomniveau instellen, pagina-oriëntatie instellen, gegevenszichtbaarheid regelen met stilstaande deelvensters, papierformaat, schalen, kopteksten &amp; voetteksten en afdrukgebied.
+ Aspose.Cells for Python via .NET biedt volledige controle over de pagina-instelling, waardoor meerdere weergaveopties kunnen worden gemanipuleerd, zoals voorbeeldpagina-einden, zoomniveau instellen, pagina-oriëntatie instellen, gegevenszichtbaarheid regelen met stilstaande deelvensters, papierformaat, schalen, kopteksten &amp; voetteksten en afdrukgebied.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python via .NET biedt volledige controle over de pagina-instell
  Aanpassing van grafieken
     </h2>
     <p>
- Aspose.Cells for Python via .NET biedt volledige ondersteuning voor grafieken. Men kan eenvoudig standaard en aangepaste grafieken toevoegen of dynamisch ingestelde grafiekgegevens toevoegen om de grafiek van deze python-bibliotheek te vernieuwen.
+Aspose.Cells for Python via .NET biedt volledige ondersteuning voor grafieken. Men kan eenvoudig standaard en aangepaste grafieken toevoegen of dynamisch ingestelde grafiekgegevens toevoegen om de grafiek van deze python-bibliotheek te vernieuwen.
     </p>
    </div>
    <!--

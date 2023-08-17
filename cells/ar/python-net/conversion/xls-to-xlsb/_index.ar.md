@@ -1,7 +1,7 @@
 ---
-title: تحويل XLS إلى XLSB Python via Python
-description: قم بالتحويل من XLS إلى XLSB عبر الإنترنت مجانًا. محول مجاني على الإنترنت من XLS إلى XLSB. Python XLS إلى XLSB. XLS إلى XLSB عبر Python.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+title: Python XLS إلى XLSB - عبر الإنترنت من XLS إلى XLSB
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل XLS إلى XLSB saveformat. Python XLS إلى تنسيق XLSB. وفر XLS إلى XLSB Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to XLSB saveformat., Free Online XLS to XLSB Python., Python Convert XLS to XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل XLS إلى XLSB في Python" h2="مكتبة Python عالية السرعة لتحويل XLS إلى XLSB. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% blocks/products/pf/agp/content h2="حوّل XLS إلى XLSB في Python" %}}
 
- كيفية تحويل XLS إلى XLSB؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLS إلى XLSB برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل XLS إلى XLSB؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل XLS إلى XLSB برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLS إلى XLSB عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل XLS إلى XLSB عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل XLS إلى XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل XLS إلى XLSB بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل XLS ملفات إلى XLSB برمجيا؟ يمكن للمطورين Python تحميل وتحويل XLS إلى XLSB بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف XLS بنسخة المصنف
-1.  حول XLS إلى XLSB باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف XLS بنسخة المصنف.
+1.  حول XLS إلى XLSB باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من XLS إلى XLSB.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}تمثل الملفات ذات الامتداد XLS تنسيق ملف Excel الثنائي. يمكن إنشاء مثل هذه الملفات بواسطة Microsoft Excel بالإضافة إلى برامج جداول البيانات المماثلة الأخرى مثل OpenOffice Calc أو Apple Numbers. يُعرف الملف المحفوظ بواسطة Excel باسم Workbook حيث يمكن أن يحتوي كل مصنف على ورقة عمل واحدة أو أكثر. يتم تخزين البيانات وعرضها للمستخدمين بتنسيق جدول في ورقة العمل ويمكن أن تمتد إلى القيم الرقمية والبيانات النصية والصيغ واتصالات البيانات الخارجية والصور والمخططات. تتيح لك تطبيقات مثل Microsoft Excel تصدير بيانات المصنف إلى عدة تنسيقات مختلفة بما في ذلك PDF و CSV و XLSX و TXT و HTML و XPS والعديد من التنسيقات الأخرى. تم استبدال تنسيق الملف XLS بتنسيق أكثر انفتاحًا وتنظيمًا ، XLSX ، بإصدار Microsoft Excel 2007. لا تزال أحدث الإصدارات توفر الدعم لإنشاء ملفات XLS وقراءتها ، على الرغم من أن XLSX هو الخيار الأول للاستخدام الآن.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي ، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كلاهما من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. بخلاف XLSX (الذي يعتمد على تنسيق ملف Open XML) ، يمثل XLSB ملف مصنف Excel ثنائي. يمكن قراءة ملفات XLSB وكتابتها بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات لأن XLSX (و XLS سابقًا) هما أكثر تنسيقات الملفات شيوعًا التي حددها المستخدم لحفظ المصنفات. يمكن فتحه عن طريق Microsoft Office 2007 وما فوق.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل XLS إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

@@ -6,7 +6,7 @@ description: Converteer Excel XLS, XLSX, ODS, CSV naar PDF, XPS, HTML, JPEG en a
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-documentconversie via C++" h2="Sla Microsoft<sup>&reg;</sup> Excel-bestanden op als spreadsheet-, web-, afbeeldings- en vaste indeling" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Voor elke toepassing of oplossing voor het converteren van spreadsheets,**C++ Excel-bibliotheek**versnelt coderings-, automatiserings- en conversieprocessen terwijl meerdere bestanden worden verwerkt, waaronder XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Het maakt het ook mogelijk om * Excel te converteren naar PDF**, XPS, HTML, MHTML, gewoon Tekst en populaire afbeeldingen zoals JPG, TIFF, PNG, BMP en SVG.
+ Voor elke toepassing of oplossing voor het converteren van spreadsheets,**C++ Excel-bibliotheek** versnelt coderings-, automatiserings- en conversieprocessen terwijl meerdere bestanden worden verwerkt, waaronder XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Het maakt het ook mogelijk om * Excel te converteren naar PDF**, XPS, HTML, MHTML, gewoon Tekst en populaire afbeeldingen zoals JPG, TIFF, PNG, BMP en SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interconversie van Microsoft Excel-indelingen" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Converteer Excel-indelingen naar PDF met instellingen voor nalevingsniveau" %}}
- C++ Excel Automation API ondersteunt de conversie van werkmappen naar PDF en ondersteunt het instellen van het nalevingsniveau en de aanmaakdatum. Ontwikkelaars kunnen gebruiken[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) samen met[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)om de PDF-conformiteit in te stellen. Voor conversie, API opslagmethode met PdfSaveOptions als parameter en gespecificeerd uitvoerbestandspad.
+ C++ Excel Automation API ondersteunt de conversie van werkmappen naar PDF en ondersteunt het instellen van het nalevingsniveau en de aanmaakdatum. Ontwikkelaars kunnen gebruiken[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) samen met[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) om de PDF-conformiteit in te stellen. Voor conversie, API opslagmethode met PdfSaveOptions als parameter en gespecificeerd uitvoerbestandspad.
 {{% blocks/products/pf/feature-page-code h3="C++ Voorbeeldcode voor Excel naar PDF Conversie" %}}
 
 ```cs

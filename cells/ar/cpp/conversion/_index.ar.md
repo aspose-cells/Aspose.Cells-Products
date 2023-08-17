@@ -6,7 +6,7 @@ description: تحويل Excel XLS ، XLSX ، ODS ، CSV إلى PDF ، XPS ، HTM
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> تحويل مستند Excel عبر C++" h2="حفظ Microsoft <sup> & reg؛ </sup> ملفات Excel كجداول بيانات وتنسيقات ويب وصورة وتنسيقات ذات تخطيط ثابت" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- لأي تطبيق أو حل لتحويل جداول البيانات ،**C++ مكتبة Excel**تسريع عمليات الترميز والأتمتة والتحويل أثناء التعامل مع ملفات متعددة بما في ذلك XLSX ، XLS ، XLSM ، XLSB ، XLTX ، XLTM ، CSV ، SpreadsheetML ، ODS ، كما يسمح بتحويل Excel إلى PDF ** ، XLS ، XLS ** ، XLS ، * النصوص والصور الشائعة مثل JPG و TIFF و PNG و BMP و SVG.
+ لأي تطبيق أو حل لتحويل جداول البيانات ،**C++ مكتبة Excel** تسريع عمليات الترميز والأتمتة والتحويل أثناء التعامل مع ملفات متعددة بما في ذلك XLSX ، XLS ، XLSM ، XLSB ، XLTX ، XLTM ، CSV ، SpreadsheetML ، ODS ، كما يسمح بتحويل Excel إلى PDF ** ، XLS ، XLS ** ، XLS ، * النصوص والصور الشائعة مثل JPG و TIFF و PNG و BMP و SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="التحويل البيني Microsoft تنسيقات Excel" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="قم بتحويل تنسيقات Excel إلى PDF باستخدام إعدادات مستوى التوافق" %}}
- C++ Excel Automation API يدعم تحويل مصنفات العمل إلى PDF بالإضافة إلى دعم إعداد مستوى التوافق وتاريخ الإنشاء. يمكن للمطورين استخدام ملفات[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) جنبا إلى جنب مع[Aspose :: Cells :: التقديم](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)لضبط التوافق PDF. للتحويل ، API حفظ الأسلوب الذي يحتوي على PdfSaveOptions كمعامل ومسار ملف الإخراج المحدد.
+ C++ Excel Automation API يدعم تحويل مصنفات العمل إلى PDF بالإضافة إلى دعم إعداد مستوى التوافق وتاريخ الإنشاء. يمكن للمطورين استخدام ملفات[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) جنبا إلى جنب مع[Aspose :: Cells :: التقديم](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) لضبط التوافق PDF. للتحويل ، API حفظ الأسلوب الذي يحتوي على PdfSaveOptions كمعامل ومسار ملف الإخراج المحدد.
 {{% blocks/products/pf/feature-page-code h3="C++ نموذج كود للتحويل من Excel إلى PDF" %}}
 
 ```cs

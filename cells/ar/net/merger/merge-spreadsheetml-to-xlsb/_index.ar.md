@@ -1,7 +1,8 @@
 ---
-title:  دمج SPREADSHEETML في XLSB عبر C#
+title: دمج SPREADSHEETML في XLSB - ادمج SPREADSHEETML في XLSB في C#
 url: /ar/net/merger/merge-spreadsheetml-to-xlsb/ 
-description: دمج SPREADSHEETML في XLSB عبر الإنترنت مجانًا. SPREADSHEETML على الإنترنت مجانًا إلى اندماج XLSB. دمج SPREADSHEETML في Word و Excel و PPTX و PDF و JPG و HTML و ODS و SVG و XPS والمزيد.
+description: Aspose إكسل. C# Aspose.Cells. Free Online Merge SPREADSHEETML إلى XLSB saveformat. C# قم بدمج SPREADSHEETML بتنسيق XLSB. دمج SPREADSHEETML في XLSB في C#. دمج SPREADSHEETML.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge SPREADSHEETML to XLSB in C#., Free Online C# Merge SPREADSHEETML to xlsb., C# Combine SPREADSHEETML to XLSB Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="دمج SPREADSHEETML في XLSB عبر C#" h2="مكتبة C# عالية السرعة لدمج SPREADSHEETML في XLSB. استخدم تحويل Excel API الخاص بنا لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في C#. هذا حل برمجي احترافي لاستيراد وتصدير Excel, CSV, OpenOffice, PDF, HTML, image ، والعديد من تنسيقات Excel الأخرى." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: دمج SPREADSHEETML في XLSB عبر الإنترنت مجانًا
 
 {{% blocks/products/pf/agp/content h2="دمج SPREADSHEETML في XLSB باستخدام C#" %}}
 
- كيفية دمج SPREADSHEETML في XLSB؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج SPREADSHEETML في XLSB برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
+ كيف أقوم بدمج SPREADSHEETML في XLSB؟ مع مكتبة Aspose.Cells for .NET ، يمكنك بسهولة دمج SPREADSHEETML في XLSB برمجيًا مع بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. .NET Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال. يفتح[NuGet](https://www.nuget.org/packages/aspose.cells) مدير الحزم ، ابحث عن Aspose.Cells وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم مدير الحزم" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="دمج SPREADSHEETML في XLSB في C# عبر الإنترنت مجانًا" %}}
 
-يوضح المثال التالي كيفية دمج SPREADSHEETML في XLSB في C#.
+يوضح المثال التالي كيفية دمج SPREADSHEETML في XLSB في Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 اتبع الخطوات السهلة لدمج SPREADSHEETML في XLSB. قم بتحميل ملفاتك ، واستدعاء طريقة Workbook.Combine لدمج الملفات ، ثم احفظها في ملف XLSB. إذا قمت بتطوير رمز في C# ، فسيكون هذا أبسط مما يبدو. راجع C# المثال الذي يدمج SPREADSHEETML إلى XLSB.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="تطبيق مجاني لدمج SPREADSHEETML في XLSB على الإنترنت" InputFormat="xml" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="مجانًا عبر الإنترنت لدمج SPREADSHEETML في XLSB في C#" InputFormat="xml" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية دمج SPREADSHEETML في XLSB عبر C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
+ هل تحتاج إلى دمج SPREADSHEETML في XLSB برمجيًا؟ مستند أساسي يتم دمجه والتسلسل معه[Aspose.Cells for .NET](https://products.aspose.com/cells/net) يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ قم بتثبيت "Aspose.Cells for .NET".
++ أضف مرجع مكتبة (استيراد المكتبة) لمشروعك C#.
 + قم بتحميل ملف SPREADSHEETML مع فئة المصنف.
 + استدعاء Workbook.Combine طريقة لدمج الملفات.
 + استدعاء طريقة Workbook.Save وتمرير اسم ملف الإخراج كمعلمة.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت ملف[حزمة NuGet](https://www.nuget.org/packages/Aspose.Cells/) . يرى[توثيق](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)داخل Visual Studio IDE
+1.  قم بتثبيت المكتبة باستخدام ملفات[وحدة تحكم مدير الحزم](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) داخل Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}يرمز XML إلى لغة التوصيف الموسعة التي تشبه HTML ولكنها تختلف في استخدام العلامات لتعريف الكائنات. كانت الفكرة الكاملة وراء إنشاء تنسيق ملف XML هي تخزين البيانات ونقلها دون الاعتماد على أدوات البرامج أو الأجهزة. تعود شعبيته إلى كونه مقروءًا بواسطة الإنسان والآلة. يتيح ذلك إنشاء بروتوكولات بيانات مشتركة في شكل كائنات يتم تخزينها ومشاركتها عبر الشبكة مثل شبكة الويب العالمية (WWW). علامة "X" في XML قابلة للتوسعة مما يعني أن اللغة يمكن أن تمتد إلى أي عدد من الرموز وفقًا لمتطلبات المستخدم. من أجل هذه الميزات ، تستفيد منها العديد من تنسيقات الملفات القياسية مثل Microsoft Open XML و LibreOffice OpenDocument و XHTML و SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}يحدد تنسيق الملف XLSB تنسيق ملف Excel الثنائي ، وهو عبارة عن مجموعة من السجلات والهياكل التي تحدد محتوى مصنف Excel. يمكن أن يتضمن المحتوى جداول غير منظمة أو شبه منظمة من الأرقام أو النصوص أو كلاهما من الأرقام والنصوص والصيغ واتصالات البيانات الخارجية والمخططات والصور. بخلاف XLSX (الذي يعتمد على تنسيق ملف Open XML) ، يمثل XLSB ملف مصنف Excel ثنائي. يمكن قراءة ملفات XLSB وكتابتها بشكل أسرع مما يجعلها مفيدة للعمل مع الملفات الكبيرة. نادرًا ما يتم استخدام XLSB لتخزين المصنفات لأن XLSX (و XLS سابقًا) هما أكثر تنسيقات الملفات شيوعًا التي حددها المستخدم لحفظ المصنفات. يمكن فتحه عن طريق Microsoft Office 2007 وما فوق.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="تنسيقات الدمج المدعومة الأخرى" subTitle="باستخدام C# ، يمكن أيضًا دمج جداول البيانات مع العديد من تنسيقات الملفات الأخرى بما في ذلك." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-html/" name="HTML" description="لغة ترميز النصوص التشعبية" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="تنسيق أرشيف صفحة الويب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-ods/" name="ODS" description="ملف جدول بيانات OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="قيم مفصولة بعلامات جدولة" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-txt/" name="TXT" description="مستند نصي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xls/" name="XLS" description="تنسيق Excel الثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="ملف مصنف Excel ثنائي" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="ملف جدول البيانات" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="ملف OOXML Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft قالب Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="قالب Excel ممكّن بماكرو" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-docx/" name="دمج SPREADSHEETML في DOCX" description="Microsoft مستند Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-sql/" name="دمج SPREADSHEETML في SQL" description="لغة الاستعلام الهيكلية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-bmp/" name="دمج SPREADSHEETML في BMP" description="سيب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-emf/" name="دمج SPREADSHEETML في EMF" description="تنسيق ملف التعريف المحسن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-gif/" name="دمج SPREADSHEETML في GIF" description="تنسيق التبادل الرسومي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-html/" name="دمج SPREADSHEETML في HTML" description="لغة ترميز النصوص التشعبية" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-md/" name="دمج SPREADSHEETML في MD" description="لغة Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-mhtml/" name="دمج SPREADSHEETML في MHTML" description="تنسيق أرشيف صفحة الويب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-ods/" name="دمج SPREADSHEETML في ODS" description="ملف جدول بيانات OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-pdf/" name="دمج SPREADSHEETML في PDF" description="نموذج المستندات المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-png/" name="دمج SPREADSHEETML في PNG" description="رسومات الشبكة المحمولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-svg/" name="دمج SPREADSHEETML في SVG" description="الرسومات المتجهات قابلة لل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-tiff/" name="دمج SPREADSHEETML في TIFF" description="تنسيق الصورة الموسومة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-tsv/" name="دمج SPREADSHEETML في TSV" description="قيم مفصولة بعلامات جدولة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-txt/" name="دمج SPREADSHEETML في TXT" description="مستند نصي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xls/" name="دمج SPREADSHEETML في XLS" description="تنسيق Excel الثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsb/" name="دمج SPREADSHEETML في XLSB" description="ملف مصنف Excel ثنائي" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsm/" name="دمج SPREADSHEETML في XLSM" description="ملف جدول البيانات" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlsx/" name="دمج SPREADSHEETML في XLSX" description="ملف OOXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xlt/" name="دمج SPREADSHEETML في XLT" description="Microsoft قالب Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltm/" name="دمج SPREADSHEETML في XLTM" description="قالب Excel ممكّن بماكرو" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xltx/" name="دمج SPREADSHEETML في XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xml/" name="دمج SPREADSHEETML في XML" description="لغة التوصيف الموسعة" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-xps/" name="دمج SPREADSHEETML في XPS" description="مواصفات ورق XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-json/" name="دمج SPREADSHEETML في JSON" description="جافا سكريبت تدوين كائن" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-spreadsheetml-to-jpeg/" name="دمج SPREADSHEETML في JPEG" description="JPEG صورة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

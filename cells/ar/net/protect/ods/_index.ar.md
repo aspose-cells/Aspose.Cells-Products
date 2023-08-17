@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق ODS وثيقة via .NET
+title: حماية وإغلاق ODS وثيقة via .NET
 weight: 5580
 description: C# كود المصدر لقفل ملف ODS باستخدام كلمة مرور على .NET Framework أو .NET Core أو Mono أو منصات Xamarin.
 ---

@@ -28,7 +28,7 @@ description: C# أكواد المصدر التي تشرح كيفية تقسيم 
 
 {{% blocks/products/pf/feature-page-section h2="قسّم ورقة عمل Excel إلى أجزاء" %}}
 
- لتقسيم نافذة ورقة العمل إلى أجزاء ، يوفر API[طريقة التقسيم](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) فئة ورقة العمل ، التي توفر طريقة عرض مقسمة لورقة العمل. لإزالة عرض منقسم يوفر API[طريقة RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . أخيرًا احفظه في مسار محدد.
+ لتقسيم نافذة ورقة العمل إلى أجزاء ، يوفر API[طريقة التقسيم](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)فئة ورقة العمل ، التي توفر طريقة عرض مقسمة لورقة العمل. لإزالة عرض منقسم يوفر API[طريقة RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . أخيرًا احفظه في مسار محدد.
 
 {{% blocks/products/pf/feature-page-code h3="C# كود لتقسيم نافذة ورقة عمل Excel" %}}
 

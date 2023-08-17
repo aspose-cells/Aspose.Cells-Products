@@ -1,7 +1,7 @@
 ---
 title: Notities invoegen in XLSB-bestand via Python
 url: /nl/python-java/notes/insert-notes-to-xlsb/ 
-description: Voeg notities toe aan XLSB met behulp van Python. Gebruik API voorbeeldcode om notities in te voegen in de Python-applicatie.
+description: Voeg notities toe aan XLSB met behulp van Python. Gebruik API voorbeeldcode om notities in te voegen in de Python-toepassing.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Notities invoegen in XLSB-bestand via Python" h2="Bouw uw eigen Python-applicatie om opmerkingen en auteurs in documentbestanden te manipuleren met behulp van server-side API\'s." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLS" fileiconsmall2="XLSB" fileiconsmall3="XLSX" fileiconsmall4="XLSM" fileiconsmall5="ODS" >}}

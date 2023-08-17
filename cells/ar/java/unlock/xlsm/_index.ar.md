@@ -13,7 +13,7 @@ description: رمز عينة Java لإلغاء تأمين ملف XLSM المحم
 
  من أجل فتح ملف XLSM ، سنستخدم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API وهو نظام حماية غني بالمزايا وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
+ API وهو نظام حماية غني بالمزايا وقوي وسهل الاستخدام API for Java. يمكنك تنزيل أحدث إصدار مباشرة من
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  وقم بتثبيته في مشروعك الذي يستند إلى Maven عن طريق إضافة التكوينات التالية إلى ملف pom.xml.
 

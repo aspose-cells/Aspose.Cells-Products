@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="دمج ملفات Excel متعددة" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)تدعم الطريقة دمج البيانات والنمط والصيغ الخاصة بملف Excel في جدول بيانات جديد من نفس التنسيق. إنها طريقة فعالة لدمج عدة ملفات أثناء استخدام التخزين المؤقت.
 {{% blocks/products/pf/feature-page-code h3="Java كود لدمج عدة ملفات Excel" %}}
 
 ```cs

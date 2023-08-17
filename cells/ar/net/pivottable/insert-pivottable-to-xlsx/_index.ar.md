@@ -1,7 +1,7 @@
 ---
-title: أدخل PivotTable في ملفات Micorsoft Excel XLSX عبر C#
+title:  أدخل PivotTable في ملفات Micorsoft Excel XLSX عبر C#
 weight: 7690
-description: C# نموذج كود لتوليد وثائق XLSX باستخدام PivotTable. استخدم هذا الرمز لإنشاء ملفات Micorsoft Excel XLSX باستخدام PivotTable ضمن VB.NET أو Asp.NET أو أي تطبيق يستند إلى .NET.
+description: C# نموذج كود لتكوين وثائق XLSX باستخدام PivotTable. استخدم هذا الرمز لإنشاء ملفات Micorsoft Excel XLSX باستخدام PivotTable ضمن VB.NET أو Asp.NET أو أي تطبيق يستند إلى .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="أدخل PivotTable في مستندات XLSX عبر C#" h2="جدول بيانات Microsoft أصلي وعالي الأداء في Excel XLSX مع إنشاء PivotTable برمجيًا باستخدام واجهات برمجة تطبيقات .NET من جانب الخادم." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -22,7 +22,7 @@ description: C# نموذج كود لتوليد وثائق XLSX باستخدام 
 
 {{% blocks/products/pf/agp/text %}}
 
- من السهل على المطورين إدخال PivotTable في جدول بيانات بتنسيق XLSX ضمن تشغيل تطبيقات تقارير مختلفة لمعالجة البيانات في بضعة أسطر من التعليمات البرمجية.
+من السهل على المطورين إدخال PivotTable في جدول بيانات بتنسيق XLSX ضمن تشغيل تطبيقات تقارير مختلفة لمعالجة البيانات في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# نموذج كود لتوليد وثائق XLSX باستخدام 
 1.  قم بالوصول إلى ورقة العمل الأولى من المصنف.
 1.  احصل على الخلية (الخلايا) المطلوبة من ورقة العمل وضع القيمة في الخلية (الخلايا).
 1.  أدخل PivotTable وعيّن النمط
-1.  استخدم طريقة Save لحفظ المصنف كملف XLSX.
+1. استخدم طريقة Save لحفظ المصنف كملف XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

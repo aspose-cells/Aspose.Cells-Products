@@ -1,7 +1,7 @@
 ---
-title: Converteer XLTM naar OTS Python via Python
-description: Converteer XLTM gratis naar OTS Online. Gratis online XLTM naar OTS-converter. Python XLTM naar OTS. XLTM naar OTS via Python.
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM naar OTS - Online XLTM naar OTS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Converteer XLTM naar OTS-opslagformaat. Python XLTM naar OTS-formaat. Sla XLTM op in OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to OTS saveformat., Free Online XLTM to OTS Python., Python Convert XLTM to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converteer XLTM naar OTS in Python" h2="Snelle Python-bibliotheek voor het converteren van XLTM naar OTS. Gebruik onze Excel-conversie API om platformonafhankelijke software op hoog niveau te ontwikkelen in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converteer XLTM naar OTS in Python" %}}
 
- Hoe XLTM naar OTS te converteren? Met Aspose.Cells for Python via NET bibliotheek, kunt u XLTM eenvoudig programmatisch converteren naar OTS met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
+ Hoe converteer ik XLTM naar OTS? Met Aspose.Cells for Python via NET bibliotheek, kunt u XLTM eenvoudig programmatisch converteren naar OTS met een paar regels code.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)is in staat om platformonafhankelijke applicaties te bouwen met de mogelijkheid om alle Excel-bestanden te genereren, wijzigen, converteren, renderen en afdrukken. Python Excel API converteert niet alleen tussen spreadsheetformaten, het kan ook Excel-bestanden weergeven als afbeeldingen, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT en meer, waardoor het een perfecte keuze is om documenten uit te wisselen in industriestandaard formaten.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Volg de eenvoudige stappen om XLTM naar OTS te converteren. Upload uw XLTM-besta
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app en voorbeeldcode om XLTM naar OTS Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app en voorbeeldcode om XLTM naar OTS Online te converteren" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hoe XLTM naar OTS te converteren" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-ontwikkelaars kunnen eenvoudig XLTM laden en converteren naar OTS in slechts een paar regels code.
+Wilt u XLTM-bestanden programmatisch naar OTS converteren? Python-ontwikkelaars kunnen eenvoudig XLTM laden en converteren naar OTS in slechts een paar regels code.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installeer 'Aspose.Cells for Python via .NET'.
 1.  Voeg een bibliotheekreferentie toe (importeer de bibliotheek) aan uw Python-project.
-1.  Laad het bestand XLTM met een instantie van Workbook
-1.  Converteer XLTM naar OTS door de methode Workbook.save aan te roepen
+1.  Laad het bestand XLTM met een instantie van Workbook.
+1.  Converteer XLTM naar OTS door de methode Workbook.save aan te roepen.
+1.  Verkrijg het conversieresultaat van XLTM naar OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/)over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
+ En je kunt ook de volgen[stapsgewijze instructies](https://docs.aspose.com/cells/python-net/getting-started/) over het installeren van "Aspose.Cells for Python via .NET" in uw ontwikkelaarsomgeving.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installeer Aspose.Cells for Python vanaf<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
+ Aspose.Cells for Python via NET is platformonafhankelijk API en kan op elk platform worden gebruikt (Windows, Linux), zorg er gewoon voor dat het systeem[Python](https://www.python.org/downloads/) 3.7 of hoger.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}De bestandsextensie XLTM vertegenwoordigt bestanden die zijn gegenereerd door Microsoft Excel als sjabloonbestanden met macro's. XLTM-bestanden zijn qua structuur vergelijkbaar met XLTX, behalve dat de laatste geen ondersteuning biedt voor het maken van sjabloonbestanden met macro's. Dergelijke sjabloonbestanden worden gebruikt om de lay-out, opmaak en andere instellingen samen met de macro's te genereren en in te stellen om het maken van vergelijkbare XLSX-bestanden te vergemakkelijken.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Een bestand met de extensie .ots is een OpenDocument Spreadsheet-sjabloonbestand dat is gemaakt met de Calc-toepassingssoftware die is opgenomen in Apache OpenOffice. Calc-toepassingssoftware is vergelijkbaar met Excel beschikbaar in Microsoft Office. OTS-bestandsindeling wordt gebruikt om sjablonen te maken die vooraf gedefinieerde instellingen bevatten met betrekking tot stijlen, lettertype, gegevens, spreadsheetlay-out en opmaak. OTF-bestanden hebben het mime-type application/vnd.oasis.opendocument.spreadsheet-template. Deze sjabloonbestanden kunnen worden gebruikt als uitgangspunt voor het genereren en opslaan van daadwerkelijke gegevensbestanden die zijn opgeslagen in de bestandsindeling ODS. OTS-bestanden kunnen worden gebruikt met toepassingen zoals OpenOffice en LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andere ondersteunde conversies" subTitle="U kunt XLTM ook converteren naar vele andere bestandsindelingen, waaronder enkele die hieronder worden vermeld." >}}
 

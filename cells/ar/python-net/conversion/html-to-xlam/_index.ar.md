@@ -1,7 +1,7 @@
 ---
-title: تحويل HTML إلى XLAM Python via Python
-description: قم بالتحويل من HTML إلى XLAM عبر الإنترنت مجانًا. محول مجاني على الإنترنت من HTML إلى XLAM. Python HTML إلى XLAM. HTML إلى XLAM عبر Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML إلى XLAM - عبر الإنترنت من HTML إلى XLAM
+description: Aspose إكسل. Python Aspose.Cells. Python Aspose Cells. مجاني على الإنترنت Python تحويل HTML إلى XLAM saveformat. Python HTML إلى تنسيق XLAM. وفر HTML إلى XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to XLAM saveformat., Free Online HTML to XLAM Python., Python Convert HTML to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="حوّل HTML إلى XLAM في Python" h2="مكتبة Python عالية السرعة لتحويل HTML إلى XLAM. استخدم تحويل Excel الخاص بنا API لتطوير برنامج عالي المستوى ومستقل عن النظام الأساسي في Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="حوّل HTML إلى XLAM في Python" %}}
 
- كيفية تحويل HTML إلى XLAM؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل HTML إلى XLAM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
+ كيف أقوم بتحويل HTML إلى XLAM؟ مع Aspose.Cells for Python عبر مكتبة NET ، يمكنك بسهولة تحويل HTML إلى XLAM برمجيًا باستخدام بضعة أسطر من التعليمات البرمجية.[Aspose.Cells for Python عبر NET](https://pypi.org/project/aspose-cells-python/)قادر على بناء تطبيقات عبر الأنظمة الأساسية مع القدرة على إنشاء وتعديل وتحويل وعرض وطباعة جميع ملفات Excel. Python Excel API لا يقوم فقط بالتحويل بين تنسيقات جداول البيانات ، بل يمكنه أيضًا عرض ملفات Excel كصور ، PDF ، HTML ، ODS ، CSV ، SVG ، JSON ، WORD ، PPT والمزيد ، مما يجعله خيارًا مثاليًا لتبادل المستندات في معايير الصناعة الأشكال.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل HTML إلى XLAM عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="تطبيق مجاني ورمز عينة لتحويل HTML إلى XLAM عبر الإنترنت" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="كيفية تحويل HTML إلى XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- يمكن للمطورين Python تحميل وتحويل HTML إلى XLAM بسهولة في بضعة أسطر من التعليمات البرمجية.
+تحتاج إلى تحويل HTML ملفات إلى XLAM برمجيا؟ يمكن للمطورين Python تحميل وتحويل HTML إلى XLAM بسهولة في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  قم بتثبيت "Aspose.Cells for Python via .NET".
 1.  قم بإضافة مرجع مكتبة (استيراد المكتبة) إلى مشروع Python الخاص بك.
-1.  قم بتحميل ملف HTML بنسخة المصنف
-1.  حول HTML إلى XLAM باستدعاء طريقة Workbook.save
+1.  قم بتحميل ملف HTML بنسخة المصنف.
+1.  حول HTML إلى XLAM باستدعاء طريقة Workbook.save.
+1.  احصل على نتيجة التحويل من HTML إلى XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/)حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
+ ويمكنك أيضًا متابعة[تعليمات خطوه بخطوه](https://docs.aspose.com/cells/python-net/getting-started/) حول كيفية تثبيت "Aspose.Cells for Python via .NET" على بيئة المطور لديك.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام به[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
+ Aspose.Cells for Python عبر NET هو API مستقل عن النظام الأساسي ويمكن استخدامه على أي منصة (Windows ، Linux) ، فقط تأكد من أن هذا النظام لديه[Python](https://www.python.org/downloads/) 3.7 أو أعلى.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) هو امتداد لصفحات الويب التي تم تكوينها للعرض في المستعرضات. تُعرف باسم لغة الويب ، وقد تطورت HTML مع متطلبات متطلبات المعلومات الجديدة ليتم عرضها كجزء من صفحات الويب. يُعرف المتغير الأخير باسم HTML 5 والذي يوفر قدرًا كبيرًا من المرونة للعمل مع اللغة. يتم استلام HTML صفحات إما من الخادم ، حيث يتم استضافتها ، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من HTML عناصر مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. يتم تمثيل هذه العناصر بواسطة العلامات والعديد من العناصر الأخرى حيث يكون لكل علامة بداية ونهاية. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript و Style Sheets (CSS) لتمثيل التخطيط العام.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM هو ملف الوظيفة الإضافية الذي تم تمكينه بواسطة ماكرو والذي يتم استخدامه لإضافة وظائف جديدة إلى جداول البيانات. الوظيفة الإضافية هي برنامج تكميلي يقوم بتشغيل تعليمات برمجية إضافية ويوفر وظائف إضافية لجداول البيانات. يتم تخزين ملفات XLAM بامتداد .xlam. ملفات XLAM هي ملفات تستند إلى XML تشبه تنسيقات ملفات XLSM و XLSX ويتم حفظها بضغط ZIP لتقليل الحجم الكلي للملف.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="التحويلات المدعومة الأخرى" subTitle="يمكنك أيضًا تحويل HTML إلى العديد من تنسيقات الملفات الأخرى بما في ذلك بعض التنسيقات المدرجة أدناه." >}}
 

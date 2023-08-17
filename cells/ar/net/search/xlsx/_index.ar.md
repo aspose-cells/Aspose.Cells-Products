@@ -13,7 +13,7 @@ description: كود المصدر C# للبحث عن الكلمات ذات الن
 
  من أجل البحث عن ملف XLSX ، سنستخدم
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API وهو برنامج غني بالميزات وقوي وسهل الاستخدام للبحث عن المستندات API لمنصة C#. يفتح
+API وهو برنامج غني بالميزات وقوي وسهل الاستخدام للبحث عن المستندات API لمنصة C#. يفتح
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  مدير الحزم ، ابحث عن
  **Aspose.Cells** 
@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- بحث مستند أساسي باستخدام
+ بحث أساسي في المستند باستخدام
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  يمكن عمل واجهات برمجة التطبيقات ببضعة أسطر من التعليمات البرمجية.
 

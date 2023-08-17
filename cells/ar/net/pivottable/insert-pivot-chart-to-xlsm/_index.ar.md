@@ -1,5 +1,5 @@
 ---
-title:  قم بإدراج Pivot Chart في ملفات Micorsoft Excel XLSM عبر C#
+title: قم بإدراج Pivot Chart في ملفات Micorsoft Excel XLSM عبر C#
 weight: 7690
 description: C# نموذج كود لتكوين وثائق XLSM بالمخطط المحوري. استخدم هذا الرمز لإنشاء ملفات Micorsoft Excel XLSM باستخدام مخطط محوري ضمن VB.NET أو Asp.NET أو أي تطبيق يستند إلى .NET.
 ---
@@ -22,7 +22,7 @@ description: C# نموذج كود لتكوين وثائق XLSM بالمخطط ا
 
 {{% blocks/products/pf/agp/text %}}
 
-من السهل على المطورين إدراج Pivot Chart في جدول بيانات بتنسيق XLSM أثناء تشغيل تطبيقات تقارير مختلفة لمعالجة البيانات في بضعة أسطر من التعليمات البرمجية.
+ من السهل على المطورين إدراج Pivot Chart في جدول بيانات بتنسيق XLSM أثناء تشغيل تطبيقات تقارير مختلفة لمعالجة البيانات في بضعة أسطر من التعليمات البرمجية.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ description: C# نموذج كود لتكوين وثائق XLSM بالمخطط ا
 1.  احصل على الخلية (الخلايا) المطلوبة من ورقة العمل وضع القيمة في الخلية (الخلايا).
 1.  أدخل PivotTable وعيّن النمط
 1.  قم بإدراج Pivot Chart باستخدام بيانات PivotTable
-1.  استخدم طريقة Save لحفظ المصنف كملف XLSM.
+1. استخدم طريقة Save لحفظ المصنف كملف XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

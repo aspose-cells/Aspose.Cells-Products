@@ -16,7 +16,7 @@ description: Java Excel-bibliotheek voor verwerking van spreadsheets. Lees schri
 </p>
 
 <p>
-Aspose.Cells for Java is een volwassen bibliotheek met veel functies, die veel functies biedt die veel verder gaan dan de eenvoudige gegevensexportmogelijkheden van andere componenten die op de markt verkrijgbaar zijn. API biedt de mogelijkheid om gegevens te exporteren, spreadsheets op te maken tot het meest gedetailleerde niveau, import &amp; afbeeldingen exporteren, grafieken maken &amp; Draaitabellen, toepassen &amp; complexe formules berekenen met formuleberekeningsengine, Excel-gegevens streamen &amp; sla het resultaat op in verschillende formaten.
+Aspose.Cells for Java is een volwassen bibliotheek met veel functies, die veel functies biedt die veel verder gaan dan de eenvoudige gegevensexportmogelijkheden van andere componenten die op de markt verkrijgbaar zijn. API biedt de mogelijkheid om gegevens te exporteren, spreadsheets op te maken tot het meest gedetailleerde niveau, import &amp; afbeeldingen exporteren, grafieken maken &amp; Draaitabellen, toepassen &amp; bereken complexe formules met behulp van de formuleberekeningsengine, stream Excel-gegevens &amp; sla het resultaat op in verschillende formaten.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -380,7 +380,7 @@ Re-sample afbeeldingen in Excel naar PDF conversie
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Sla Excel-bestanden op in verschillende indelingen
+ Sla Excel-bestanden op in verschillende formaten
     </h2>
     <p>
  Excel API biedt conversie van spreadsheets naar PDF, XPS, HTML en meer formaten met behoud van de hoogste visuele betrouwbaarheid. Het betrouwbare en flexibele conversieproces maakt Aspose.Cells een perfecte keuze voor organisaties die voornamelijk bestanden uitwisselen binnen industriestandaardformaten.
@@ -487,7 +487,7 @@ chart.toPdf(dir + "output.pdf");</code></pre>
  Webgebaseerde visuele controle voor spreadsheets
     </h2>
     <p>
-Aspose.Cells for Java bieden ook een gebruikersinterface die kan worden ingebed in JSP-webapplicaties en is compatibel met alle moderne webbrowsers zoals Chrome, Firefox, Internet Explorer en Opera. Eindgebruikers kunnen hiermee Excel-bestanden laden, bewerken en opslaan vanuit de front-end van uw webapplicatie.
+Aspose.Cells for Java bieden ook een gebruikersinterface die kan worden ingebed in JSP-webapplicaties en is compatibel met alle moderne webbrowsers zoals Chrome, Firefox, Internet Explorer en Opera. Eindgebruikers kunnen het gebruiken om Excel-bestanden te laden, te bewerken en op te slaan vanuit de front-end van uw webapplicatie.
     </p>
    </div>
   </div>

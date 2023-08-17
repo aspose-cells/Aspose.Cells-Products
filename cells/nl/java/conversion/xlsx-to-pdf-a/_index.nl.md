@@ -1,5 +1,5 @@
 ---
-title:  Converteer XLSX naar PDF/A Complied Files via Java
+title: Converteer XLSX naar PDF/A Complied Files via Java
 weight: 3200
 description: Voorbeeld Java conversiecode voor XLSX formaat naar PDF A Complied Files. Programmeurs kunnen deze voorbeeldcode gebruiken om Excel- en OpenOffice-spreadsheets te exporteren naar PDFA-compatibele bestanden binnen elke web- of desktoptoepassing op basis van Java.
 ---
@@ -13,7 +13,7 @@ description: Voorbeeld Java conversiecode voor XLSX formaat naar PDF A Complied 
 
  Om XLSX tot PDF/A weer te geven, gebruiken we
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, een functierijk, krachtig en gebruiksvriendelijk conversieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
+ API, een functierijk, krachtig en gebruiksvriendelijk conversieplatform API for Java. U kunt de nieuwste versie rechtstreeks downloaden van
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
@@ -58,7 +58,7 @@ API, een functierijk, krachtig en gebruiksvriendelijk conversieplatform API for 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Laad het bestand XLSX met een exemplaar van de klasse Workbook
-1.  Maak het klasseobject PdfSaveOptions
+1. Maak het klasseobject PdfSaveOptions
 1.  Stel het compatibiliteitstype PdfCompliance.PdfA1b in
 1.  Roep de methode Workbook.save aan
 1.  Geef uitvoerpad door met PDF-extensie & PdfSaveOptions-object als parameters
@@ -100,7 +100,7 @@ API, een functierijk, krachtig en gebruiksvriendelijk conversieplatform API for 
 
     {{% blocks/products/pf/agp/content h2="Java Spreadsheet Manipulatie Bibliotheek" %}}
 
-Excel API kan worden gebruikt om Microsoft Excel-indelingen naar verschillende indelingen te maken, te bewerken, te converteren en weer te geven. Bovendien kan het worden gebruikt voor uitgebreide grafieken, schaalbare rapportage en betrouwbare berekeningen binnen softwaretoepassingen. Aspose.Cells is een stand-alone API en vereist geen software zoals Microsoft of OpenOffice.
+Excel API kan worden gebruikt om Microsoft Excel-indelingen naar verschillende indelingen te maken, bewerken, converteren en weer te geven. Bovendien kan het worden gebruikt voor uitgebreide grafieken, schaalbare rapportage en betrouwbare berekeningen binnen softwaretoepassingen. Aspose.Cells is een stand-alone API en vereist geen software zoals Microsoft of OpenOffice.
 
 
 

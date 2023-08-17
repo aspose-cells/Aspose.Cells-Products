@@ -5,7 +5,7 @@ description: Voeg Excel-bestanden samen met Java in meerdere bladen of een enkel
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-bestanden samenvoegen via Java" h2="Combineer twee of meer Excel-bestanden in één spreadsheet met code Java" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java Excel-bibliotheek](/cells/nl/java/) biedt meerdere manieren om werkmappen te combineren met verschillende soorten inhoud, zoals formules, afbeeldingen, gegevens, grafieken, enz. in een enkel spreadsheetdocument. Ondersteunde bestandsindelingen zijn XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, TSV en meer.
+[Java Excel-bibliotheek](/cells/nl/java/) biedt meerdere manieren om werkmappen te combineren met verschillende soorten inhoud zoals formules, afbeeldingen, gegevens, grafieken enz. in één enkel spreadsheetdocument. Ondersteunde bestandsindelingen zijn XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, TSV en meer.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Combineer Excel-bestanden met afbeeldingen en grafieken" %}}
@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Meerdere Excel-bestanden samenvoegen" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand tot een nieuwe spreadsheet van hetzelfde formaat. Het is een efficiënte manier om meerdere bestanden samen te voegen tijdens het gebruik van caching.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)methode ondersteunt het samenvoegen van gegevens, stijl en formules van een Excel-bestand tot een nieuwe spreadsheet van hetzelfde formaat. Het is een efficiënte manier om meerdere bestanden samen te voegen tijdens het gebruik van caching.
 {{% blocks/products/pf/feature-page-code h3="Java Code om meerdere Excel-bestanden samen te voegen" %}}
 
 ```cs

@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLSM وثيقة via Java
+title: حماية وإغلاق XLSM وثيقة via Java
 weight: 9620
 description: رمز عينة Java لقفل ملف XLSM باستخدام كلمة مرور على Java Runtime Environment لتطبيق JSP / JSF وتطبيقات سطح المكتب.
 ---

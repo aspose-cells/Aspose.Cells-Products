@@ -1,7 +1,7 @@
 ---
 title:  Ontgrendel XLSM document via .NET
 weight: 9810
-description: C# broncode om met een wachtwoord beveiligd bestand XLSM te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
+description: C# broncode om met een wachtwoord beveiligd XLSM-bestand te ontgrendelen op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ontgrendel XLSM Spreadsheet via C#" h2="Verwijder de beveiliging van XLSM met behulp van de .NET-bibliotheek." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSM" >}}

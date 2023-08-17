@@ -1,5 +1,5 @@
 ---
-title:  Bescherm en vergrendel XLSB document via .NET
+title: Bescherm en vergrendel XLSB document via .NET
 weight: 5920
 description: C# broncode om XLSB-bestand te vergrendelen met wachtwoord op .NET Framework, .NET Core, Mono of Xamarin Platforms.
 ---

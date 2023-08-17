@@ -1,5 +1,5 @@
 ---
-title:  حماية وإغلاق XLSX وثيقة via .NET
+title: حماية وإغلاق XLSX وثيقة via .NET
 weight: 90
 description: C# كود المصدر لقفل ملف XLSX باستخدام كلمة مرور على .NET Framework أو .NET Core أو Mono أو منصات Xamarin.
 ---

@@ -58,7 +58,7 @@ description: Java voorbeeldcode om woorden met patroon te zoeken in bestand CSV 
 {{% /blocks/products/pf/agp/text %}}
 
 + Laad het bestand CSV door een werkmapobject te instantiëren.
-Toegang tot het eerste werkblad in het bestand CSV.
++ Toegang tot het eerste werkblad in het bestand CSV.
 + Zoek de cel met de opgegeven formule.
 + Direct FindOptions.
 + Zoek de cel met een tekenreekswaarde

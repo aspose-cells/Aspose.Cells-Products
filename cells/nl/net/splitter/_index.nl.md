@@ -1,5 +1,5 @@
 ---
-title: Splits Excel-werkblad bladwijs in C#
+title: Splits het Excel-werkblad bladsgewijs in C#
 description: C# broncodes waarin wordt uitgelegd hoe Microsoft Excel-bestanden kunnen worden gesplitst in meerdere bestanden in Visual C#.NET-toepassingen
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
@@ -28,7 +28,7 @@ description: C# broncodes waarin wordt uitgelegd hoe Microsoft Excel-bestanden k
 
 {{% blocks/products/pf/feature-page-section h2="Splits Excel-werkblad in deelvensters" %}}
 
- Voor het splitsen van het werkbladvenster in deelvensters biedt API[Gesplitste methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) van de werkbladklasse, die de gesplitste weergave van het werkblad biedt. Om gesplitste weergave te verwijderen, biedt API[RemoveSplit-methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Sla het ten slotte op in een opgegeven pad.
+ Voor het splitsen van het werkbladvenster in deelvensters biedt API[Gesplitste methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)van de werkbladklasse, die de gesplitste weergave van het werkblad biedt. Om gesplitste weergave te verwijderen, biedt API[RemoveSplit-methode](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Sla het ten slotte op in een opgegeven pad.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code om het Excel-werkbladvenster te splitsen" %}}
 

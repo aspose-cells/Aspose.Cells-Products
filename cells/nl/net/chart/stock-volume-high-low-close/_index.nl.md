@@ -18,7 +18,7 @@ De derde aandelengrafiek die we zullen bekijken, is de Volume High Low Close-gra
 
 {{% blocks/products/pf/agp/text %}}
 
-Het is gemakkelijk voor de ontwikkelaars om met slechts een paar regels code een Volume-Hoog-Laag-Sluit aandelengrafiek te maken binnen verschillende rapportagetoepassingen voor gegevensverwerking.
+Het is gemakkelijk voor de ontwikkelaars om met slechts een paar regels code een Volume-Hoog-Laag-Sluit Stock-grafiek te maken binnen verschillende rapportagetoepassingen voor gegevensverwerking.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -33,7 +33,7 @@ Het is gemakkelijk voor de ontwikkelaars om met slechts een paar regels code een
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="systeem vereisten" %}}
 {{% blocks/products/pf/agp/text %}}
-Zorg ervoor dat het systeem Microsoft Windows heeft of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
+Zorg ervoor dat het systeem Microsoft Windows of een compatibel besturingssysteem met .NET Framework, .NET Core, Windows Azure, Mono of Xamarin Platforms heeft, evenals een ontwikkelomgeving zoals Microsoft Visual Studio.
 {{% /blocks/products/pf/agp/text %}}
 -  Installeer vanaf de opdrachtregel als<code><a href="https://downloads.aspose.com/cells/net">nuget install Aspose.Cells</a></code> of via Package Manager Console van Visual Studio met<code>Install-Package Aspose.Cells</code>.
 -  U kunt ook het offline MSI-installatieprogramma of alle DLL's in een ZIP-bestand downloaden<a href="https://downloads.aspose.com/cells/net">downloaden</a>

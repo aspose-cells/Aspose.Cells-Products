@@ -13,7 +13,7 @@ description: C# broncode om XLSX documenten te splitsen op .NET Framework, .NET 
 
  Om het XLSX-bestand te splitsen, gebruiken we
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie en splitser API voor het C#-platform. Open
+ API, een veelzijdige, krachtige en gebruiksvriendelijke documentmanipulatie en splitser API voor het C#-platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakketbeheerder, zoek naar
  Aspose.Cells 

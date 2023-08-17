@@ -22,7 +22,7 @@ description: Herstel een beschadigd Excel-bestand met behulp van C#. Hersteltool
 
 {{% blocks/products/pf/agp/content h2="Excel-bestand repareren met C#" %}}
 
-Definieer een klasse die Aspose.Cells erft. IWarningCallback.
++ Definieer een klasse die Aspose.Cells erft. IWarningCallback.
 + Laad het EXCEL-bestand door een instantie van Workbook te maken, met behulp van de bovenstaande overervingsklasse, raadpleeg de bovenstaande code.
 + Sla de werkmap op, het beschadigde Excel-bestand wordt gerepareerd.
 

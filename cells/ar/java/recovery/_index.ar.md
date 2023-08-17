@@ -10,7 +10,7 @@ description: قم بإصلاح ملف Excel التالف باستخدام Java. 
 
 {{% blocks/products/pf/agp/content h2="إصلاح ملف EXCEL باستخدام Java" %}}
 
- من أجل إصلاح ملف EXCEL ، سوف نستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java) API وهو نظام غني بالميزات وقوي وسهل الاستخدام لمعالجة المستندات API for Java.
+ من أجل إصلاح ملف EXCEL ، سوف نستخدم[Aspose.Cells for Java](https://products.aspose.com/cells/java)API وهو نظام غني بالميزات وقوي وسهل الاستخدام لمعالجة المستندات API for Java.
  
  يمكن استخدام Aspose.Cells API لإنشاء وتنسيقات Microsoft Excel وتحريرها وتحويلها وتقديمها إلى تنسيقات مختلفة. علاوة على ذلك ، يمكن استخدامه لرسم بياني شامل ، وإعداد تقارير قابلة للتطوير وحسابات موثوقة داخل تطبيقات البرامج. Aspose.Cells هو API مستقل ولا يتطلب أي برنامج مثل Microsoft أو OpenOffice.
 
@@ -20,7 +20,7 @@ description: قم بإصلاح ملف Excel التالف باستخدام Java. 
 
 {{% blocks/products/pf/agp/content h2="كيفية إصلاح ملف Excel باستخدام Java" %}}
 
-تحديد فئة ترث Aspose.Cells.
++ تحديد فئة ترث Aspose.Cells.
 + قم بتحميل ملف EXCEL عن طريق إنشاء مثيل من المصنف ، باستخدام فئة الوراثة أعلاه ، ارجع إلى الكود أعلاه.
 + احفظ المصنف ، سيتم إصلاح ملف Excel التالف.
 

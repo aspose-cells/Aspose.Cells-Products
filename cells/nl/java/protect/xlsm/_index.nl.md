@@ -1,5 +1,5 @@
 ---
-title:  Bescherm en vergrendel XLSM document via Java
+title: Bescherm en vergrendel XLSM document via Java
 weight: 9620
 description: Java voorbeeldcode om XLSM-bestand te vergrendelen met wachtwoord op Java Runtime Environment voor JSP/JSF-applicatie en desktopapplicaties.
 ---

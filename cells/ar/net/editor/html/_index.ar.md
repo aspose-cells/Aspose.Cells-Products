@@ -1,5 +1,5 @@
 ---
-title: تحرير HTML ملفات via .NET
+title:  تحرير HTML ملفات via .NET
 description: C# كود المصدر لتعديل مستند HTML على .NET Framework أو .NET Core أو Windows Azure أو Mono أو منصات Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

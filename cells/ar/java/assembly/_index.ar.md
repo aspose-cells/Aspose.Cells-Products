@@ -5,7 +5,7 @@ description: قم بإنشاء Microsoft جداول بيانات Excel من ور
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft <sup> & reg؛ </sup> إنشاء تقارير تستند إلى قالب Excel via Java" h2="قم بإنشاء تقارير ملفات Excel مجمعة استنادًا إلى قالب محدد مسبقًا ضمن تطبيقات تستند إلى Java." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[Java مكتبة Excel](/cells/ar/java/)يدعم إنشاء ملفات Excel على أساس القوالب لإنشاء تقارير مجمعة. إنه ضروري لمعظم الحالات مثل إنشاء رسوم الرسوم وبطاقات النتائج وسجلات المرضى وما إلى ذلك. القوالب هي أنماط محددة مسبقًا. أدناه Java يقوم الكود بإنشاء ملفات إكسل مجمعة مثل مستند القالب المملوء بالبيانات. تتضمن تنسيقات الملفات المدعومة XLS ، XLSX ، XLSB ، XLSM ، ODS.
+[Java مكتبة Excel](/cells/ar/java/)يدعم إنشاء ملفات Excel على أساس القوالب لإنشاء التقارير المجمعة. إنه ضروري لمعظم الحالات مثل إنشاء رسوم الرسوم وبطاقات النتائج وسجلات المرضى وما إلى ذلك. القوالب هي أنماط محددة مسبقًا. أدناه Java يقوم الكود بإنشاء ملفات إكسل مجمعة مثل مستند القالب المملوء بالبيانات. تتضمن تنسيقات الملفات المدعومة XLS ، XLSX ، XLSB ، XLSM ، ODS.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="إنشاء تقارير بناءً على قالب Excel المصمم مسبقًا" %}}

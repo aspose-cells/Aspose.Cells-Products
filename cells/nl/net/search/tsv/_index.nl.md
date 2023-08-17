@@ -13,7 +13,7 @@ description: C# broncode om woorden met een patroon te zoeken in het bestand TSV
 
  Om het bestand TSV te doorzoeken, gebruiken we
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, een functierijk, krachtig en gebruiksvriendelijk documentzoekplatform API voor C#. Open
+API, een functierijk, krachtig en gebruiksvriendelijk documentzoekplatform API voor C#. Open
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakketbeheerder, zoek naar
  **Aspose.Cells** 

@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint App is een SharePoint Excel Spreadsheet
    </header>
    <ul>
     <li>
- Opslaan in submappen
+Opslaan in submappen
     </li>
     <li>
  Aaneenschakeling van bestanden
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint App is een SharePoint Excel Spreadsheet
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Cells for SharePoint ondersteunt veel populaire spreadsheetformaten, PDF, HTML en andere[bestandsformaten](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description=" Aspose.Cells for SharePoint ondersteunt veel populaire spreadsheetformaten, PDF, HTML en andere[bestandsformaten](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint App is een SharePoint Excel Spreadsheet
  Voeg bestanden samen tijdens conversie
     </h2>
     <p>
- Aspose.Cells for SharePoint biedt de mogelijkheid om bestanden met verschillende formaten te combineren tot één enkel document. Bovendien kunt u documenten in de lijst omhoog of omlaag verplaatsen om de volgorde in te stellen waarin u de documenten wilt combineren.
+Aspose.Cells for SharePoint biedt de mogelijkheid om bestanden met verschillende formaten te combineren tot één enkel document. Bovendien kunt u documenten in de lijst omhoog of omlaag verplaatsen om de volgorde in te stellen waarin u de documenten wilt combineren.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint App is een SharePoint Excel Spreadsheet
  Converteer bestanden in submappen
     </h2>
     <p>
-Aspose.Cells for SharePoint maakt het conversieproces eenvoudiger door alle documenten en submappen onder een geselecteerde map recursief te converteren. De bestaande submapstructuur wordt gemaakt in de doelmap.
+ Aspose.Cells for SharePoint maakt het conversieproces eenvoudiger door alle documenten en submappen onder een geselecteerde map recursief te converteren. De bestaande submapstructuur wordt gemaakt in de doelmap.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint maakt het conversieproces eenvoudiger door alle docu
  Interactie met openbaar API
     </h2>
     <p>
- Ontwikkelaars met interne SharePoint-oplossingen kunnen de documentconversie-engine van Aspose.Cells for SharePoint gebruiken via de openbare API. Het biedt programmatische toegang tot alle ondersteunde formaten en conversie-opties.
+Ontwikkelaars met interne SharePoint-oplossingen kunnen de documentconversie-engine van Aspose.Cells for SharePoint gebruiken via de openbare API. Het biedt programmatische toegang tot alle ondersteunde indelingen en conversie-opties.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint maakt het conversieproces eenvoudiger door alle docu
  Microsoft Excel-automatisering - niet nodig
     </h2>
     <p>
-Aspose.Cells for SharePoint is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Excel op de machine hoeft te worden geïnstalleerd om te werken met conversie van Excel-indeling. Het is een perfect Microsoft Excel-automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
+ Aspose.Cells for SharePoint is gebouwd met behulp van beheerde code waarvoor nooit Microsoft Excel op de machine hoeft te worden geïnstalleerd om te werken met conversie van Excel-indeling. Het is een perfect Microsoft Excel-automatiseringsalternatief in termen van ondersteunde functies, beveiliging, stabiliteit, schaalbaarheid, snelheid en prijs.
     </p>
    </div>
   </div>

@@ -1,7 +1,7 @@
 ---
-title: Ubah HTML menjadi SQL Python via Python
-description: Ubah HTML menjadi SQL Online Gratis. Gratis Online HTML ke SQL Converter. Python HTML ke SQL. HTML ke SQL melalui Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML ke SQL - Online HTML ke Konverter SQL
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah HTML menjadi format penyimpanan SQL. Python HTML ke format SQL. Simpan HTML ke SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SQL saveformat., Free Online HTML to SQL Python., Python Convert HTML to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah HTML menjadi SQL di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi HTML ke SQL. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengonversi HTML ke SQL. Unggah file HTML Anda
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi HTML ke SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi HTML ke SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Bagaimana Mengkonversi HTML ke SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengonversi HTML ke SQL hanya dalam beberapa baris kode.
+Perlu mengonversi file HTML ke SQL secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi HTML ke SQL hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file HTML dengan instance Workbook
-1.  Ubah HTML menjadi SQL dengan memanggil metode Workbook.save
+1.  Muat file HTML dengan instance Workbook.
+1.  Ubah HTML menjadi SQL dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi HTML ke SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan persyaratan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. HTML halaman diterima dari server, tempat ini dihosting, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari HTML elemen seperti formulir, teks, gambar, animasi, tautan, dll. Elemen ini diwakili oleh tag dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa scripting seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}File dengan ekstensi .sql adalah file Structured Query Language (SQL) yang berisi kode untuk bekerja dengan database relasional. Ini digunakan untuk menulis pernyataan SQL untuk operasi CRUD (Buat, Baca, Perbarui, dan Hapus) pada database. File SQL umum digunakan saat bekerja dengan desktop serta database berbasis web. Ada beberapa alternatif SQL seperti Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL, dan beberapa lainnya. File SQL dapat dibuka oleh editor kueri Microsoft SQL Server, MySQL, dan editor teks biasa lainnya seperti Notepad pada OS Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi HTML ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

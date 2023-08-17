@@ -1,7 +1,7 @@
 ---
-title: Konversi PRN ke JPG Python via Python
-description: Ubah PRN ke JPG Online Gratis. Konverter PRN ke JPG Online Gratis. Python PRN ke JPG. PRN ke JPG melalui Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN ke JPG - Konverter PRN ke JPG Online
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Convert PRN to JPG saveformat. Python format PRN ke JPG. Simpan PRN ke JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to JPG saveformat., Free Online PRN to JPG Python., Python Convert PRN to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversi PRN ke JPG di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi PRN ke JPG. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengonversi PRN ke JPG. Unggah file PRN Anda, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi PRN ke JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi PRN ke JPG Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi PRN ke JPG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python pengembang dapat dengan mudah memuat & mengonversi PRN ke JPG hanya dalam beberapa baris kode.
+Perlu mengonversi file PRN ke JPG secara terprogram? Python pengembang dapat dengan mudah memuat & mengonversi PRN ke JPG hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file PRN dengan instance Workbook
-1.  Konversikan PRN ke JPG dengan memanggil metode Workbook.save
+1.  Muat file PRN dengan instance Workbook.
+1.  Konversikan PRN ke JPG dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi PRN ke JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}File PRN adalah file yang dibuat menggunakan kotak centang Cetak ke File yang muncul dalam beberapa kotak dialog Cetak di Windows. Ini berisi serangkaian instruksi khusus perangkat yang digunakan printer, mesin faks, atau perangkat lain untuk mencetak dokumen. File PRN dapat berisi konten teks atau biner, tergantung pada perangkat tujuan pembuatan file tersebut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar dapat diabaikan jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi PRN ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

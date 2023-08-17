@@ -1,7 +1,7 @@
 ---
-title: Ubah JPG menjadi XPS Python via Python
-description: Konversi JPG ke XPS Online Gratis. Konverter JPG ke XPS Online Gratis. Python JPG ke XPS. JPG ke XPS via Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+title: Python JPG ke XPS - Konverter JPG ke XPS Online
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah JPG menjadi XPS saveformat. Format Python JPG ke XPS. Simpan JPG ke XPS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to XPS saveformat., Free Online JPG to XPS Python., Python Convert JPG to XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversi JPG ke XPS di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi JPG ke XPS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% blocks/products/pf/agp/content h2="Konversi JPG ke XPS di Python" %}}
 
- Bagaimana cara mengubah JPG menjadi XPS? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi JPG ke XPS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengonversi JPG ke XPS? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi JPG ke XPS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,26 +22,27 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 Contoh berikut menunjukkan cara mengonversi JPG ke XPS di Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah-langkah mudah untuk mengonversi JPG ke XPS. Unggah file JPG Anda, lalu simpan sebagai file XPS. Untuk pembacaan JPG dan penulisan XPS Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format output XPS akan identik dengan dokumen JPG asli.
+Ikuti langkah-langkah mudah untuk mengonversi JPG ke XPS. Unggah file JPG Anda, lalu simpan sebagai file XPS. Untuk pembacaan JPG dan penulisan XPS Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan format keluaran XPS akan identik dengan dokumen JPG asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi JPG ke XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi JPG ke XPS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah JPG menjadi XPS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengonversi JPG menjadi XPS hanya dalam beberapa baris kode.
+Perlu mengonversi file JPG ke XPS secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi JPG menjadi XPS hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file JPG dengan instance Workbook
-1.  Konversikan JPG ke XPS dengan memanggil metode Workbook.save
+1.  Muat file JPG dengan instance Workbook.
+1.  Konversikan JPG ke XPS dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi JPG ke XPS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan trade-off antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar dapat diabaikan jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}File XPS mewakili file tata letak halaman yang didasarkan pada Spesifikasi Kertas XML yang dibuat oleh Microsoft. File ini dikembangkan sebagai pengganti format file EMF dan mirip dengan format file PDF, tetapi menggunakan XML dalam tata letak, tampilan, dan informasi pencetakan dokumen . Faktanya, lebih dibenarkan untuk mengatakan bahwa XPS adalah upaya PDF, tetapi tidak bisa mendapatkan popularitas yang cukup seperti yang dimiliki oleh PDF karena berbagai alasan. Microsoft menyediakan XPS Document Writer secara default dari Windows 7 dan seterusnya untuk pembuatan file XPS. File XPS dapat dibuat dengan memilih "Microsoft XPS Document Writer" sebagai printer saat mencetak dokumen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi JPG ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

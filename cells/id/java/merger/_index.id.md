@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Menggabungkan Beberapa File Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching.
 {{% blocks/products/pf/feature-page-code h3="Kode Java untuk Menggabungkan Beberapa File Excel" %}}
 
 ```cs

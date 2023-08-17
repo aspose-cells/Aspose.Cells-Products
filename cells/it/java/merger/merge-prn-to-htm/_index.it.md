@@ -1,7 +1,8 @@
 ---
-title:  Unisci PRN a HTM via Java
+title: Unisci PRN a HTM - Combina PRN a HTM in Java
 url: /it/java/merger/merge-prn-to-htm/ 
-description: Unisci PRN a HTM online gratuitamente. Fusione online gratuita da PRN a HTM. Unisci PRN a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e altro ancora.
+description: Aspose Excel. Java Aspose.Cells. Unisci PRN online gratuito in formato di salvataggio HTM. Java Combina PRN in formato HTM. Unisci PRN a HTM in Java. Unisci PRN.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge PRN to HTM in Java., Free Online Java Merge PRN to htm., Java Combine PRN to HTM Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci PRN a HTM via Java" h2="Libreria Java ad alta velocità per unire PRN a HTM. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Java. Questa è una soluzione software professionale per importare ed esportare Excel, CSV, OpenOffice, PDF, HTML, image e molti altri formati excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Unisci PRN a HTM online gratuitamente. Fusione online gratuita da P
 
 {{% blocks/products/pf/agp/content h2="Unisci PRN a HTM utilizzando Java" %}}
 
- Come unire PRN a HTM? Con la libreria Aspose.Cells for Java, puoi facilmente unire PRN a HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso unire PRN a HTM? Con la libreria Aspose.Cells for Java, puoi facilmente unire PRN a HTM a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Unisci PRN a HTM online gratuitamente. Fusione online gratuita da P
 
 {{% blocks/products/pf/agp/content h2="Unisci PRN a HTM in Java online gratuitamente" %}}
 
-L'esempio seguente mostra come unire PRN a HTM in Java.
+L'esempio seguente mostra come unire PRN a HTM in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per unire PRN a HTM. Carica i tuoi file, chiama il metodo Workbook.Combine per unire i file, quindi salvalo nel file HTM. Se sviluppi il codice in Java, sarà più semplice di quanto sembri. Vedere l'esempio Java che unisce PRN a HTM.
@@ -55,17 +56,19 @@ Segui i semplici passaggi per unire PRN a HTM. Carica i tuoi file, chiama il met
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="App gratuita per unire PRN a HTM on line" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online gratuito per unire PRN a HTM in Java" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come unire PRN a HTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
+Devi unire PRN a HTM in modo programmatico? Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Carica il file PRN con la classe Workbook.
++ Installa 'Aspose.Cells for Java'.
++ Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
++ Carica il file PRN con la classe Workbook.
 + Chiama il metodo Workbook.Combine per unire i file.
 + Chiama il metodo Workbook.Save e passa il nome del file di output come parametro.
 + Ora puoi aprire e utilizzare il file di output in Microsoft Office, Adobe PDF o qualsiasi altro programma compatibile.
@@ -97,21 +100,41 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Un file PRN è un file creato utilizzando la casella di controllo Stampa su file che appare in alcune finestre di dialogo Stampa su Windows. Contiene una serie di istruzioni specifiche del dispositivo che una stampante, un fax o un altro dispositivo utilizza per stampare un documento. I file PRN possono contenere testo o contenuto binario, a seconda del dispositivo per cui è stato creato il file.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di unione supportati" subTitle="Utilizzando Java, è anche possibile unire prn a molti altri formati di file inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-mhtml/" name="MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsm/" name="XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsx/" name="XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltx/" name="XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-docx/" name="Unisci PRN a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-sql/" name="Unisci PRN a SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-bmp/" name="Unisci PRN a BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-emf/" name="Unisci PRN a EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-gif/" name="Unisci PRN a GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-html/" name="Unisci PRN a HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-md/" name="Unisci PRN a MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-mhtml/" name="Unisci PRN a MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-ods/" name="Unisci PRN a ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-pdf/" name="Unisci PRN a PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-png/" name="Unisci PRN a PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-svg/" name="Unisci PRN a SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tiff/" name="Unisci PRN a TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-tsv/" name="Unisci PRN a TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-txt/" name="Unisci PRN a TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xls/" name="Unisci PRN a XLS" description="Formato binario di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsb/" name="Unisci PRN a XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsm/" name="Unisci PRN a XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlsx/" name="Unisci PRN a XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xlt/" name="Unisci PRN a XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltm/" name="Unisci PRN a XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xltx/" name="Unisci PRN a XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xml/" name="Unisci PRN a XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-xps/" name="Unisci PRN a XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-json/" name="Unisci PRN a JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-prn-to-jpeg/" name="Unisci PRN a JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

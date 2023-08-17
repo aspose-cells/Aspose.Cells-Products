@@ -1,7 +1,7 @@
 ---
-title: Converti XLSX in ETT Python via Python
-description: Converti XLSX in ETT online gratuitamente. Convertitore online gratuito da XLSX a ETT. Python XLSX all'ETT. XLSX a ETT via Python.
-keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, XLSX to Image
+title: Python XLSX a ETT - Convertitore online da XLSX a ETT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti XLSX in ETT saveformat. Python XLSX al formato ETT. Salva XLSX a ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSX to ETT saveformat., Free Online XLSX to ETT Python., Python Convert XLSX to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XLSX in ETT in Python" h2="Libreria Python ad alta velocità per convertire XLSX in ETT. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSX, XLSX Converter, XLSX to PDF, XLSX to Word, XLSX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converti XLSX in ETT in Python" %}}
 
- Come convertire XLSX in ETT? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire XLSX in ETT a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire XLSX in ETT? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire XLSX in ETT a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Segui i semplici passaggi per convertire XLSX in ETT. Carica il tuo file XLSX, q
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire XLSX in ETT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire XLSX in ETT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XLSX in ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Gli sviluppatori di Python possono facilmente caricare e convertire XLSX in ETT in poche righe di codice.
+Hai bisogno di convertire i file XLSX in ETT a livello di codice? Gli sviluppatori di Python possono facilmente caricare e convertire XLSX in ETT in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via .NET'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
-1.  Carica il file XLSX con un'istanza di Workbook
-1.  Converti XLSX in ETT chiamando il metodo Workbook.save
+1.  Carica il file XLSX con un'istanza di Workbook.
+1.  Converti XLSX in ETT chiamando il metodo Workbook.save.
+1.  Ottieni il risultato della conversione di XLSX in ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX è un formato ben noto per i documenti Excel Microsoft che è stato introdotto da Microsoft con il rilascio di Microsoft Office 2007. Basato sulla struttura organizzata secondo le Open Packaging Conventions come delineato nella Parte 2 dello standard OOXML ECMA-376, il nuovo formato è un pacchetto zip che contiene un numero di file XML. La struttura e i file sottostanti possono essere esaminati semplicemente decomprimendo il file .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Un file ETT è un modello di foglio di calcolo creato da Kingsoft Spreadsheets, un programma di fogli di calcolo incluso nella suite WPS Office. Memorizza un modello che può essere utilizzato come punto di partenza per la creazione di nuovi fogli di calcolo Kingsoft (file .ET). I file ETT vengono spesso utilizzati per creare budget finanziari e organizzare i dati.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XLSX in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Gabung ANGKA ke XLSB via C++
+title: Gabungkan ANGKA menjadi XLSB - Gabungkan ANGKA menjadi XLSB di C++
 url: /id/cpp/merger/merge-numbers-to-xlsb/ 
-description: Gabungkan ANGKA ke XLSB Online Gratis. NOMOR Online Gratis ke XLSB Penggabungan. Gabungkan ANGKA ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. C++ Aspose.Cells. Free Online Merge NUMBERS to XLSB saveformat. C++ Gabungkan ANGKA dengan format XLSB. Gabung ANGKA ke XLSB di C++. Gabung ANGKA.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to XLSB in C++., Free Online C++ Merge NUMBERS to xlsb., C++ Combine NUMBERS to XLSB Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung ANGKA ke XLSB via C++" h2="Pustaka C++ berkecepatan tinggi untuk menggabungkan ANGKA ke XLSB. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di C++. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Gabungkan ANGKA ke XLSB di C++ Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan ANGKA ke XLSB di C++.
+Contoh berikut menunjukkan cara menggabungkan ANGKA ke XLSB di Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan ANGKA ke XLSB. Unggah file Anda, panggil Workbook.Combine metode untuk menggabungkan file, lalu simpan ke file XLSB. Jika Anda mengembangkan kode di C++, ini akan lebih sederhana daripada kedengarannya. Lihat contoh C++ yang menggabungkan ANGKA menjadi XLSB.
@@ -36,16 +37,18 @@ Ikuti langkah mudah untuk menggabungkan ANGKA ke XLSB. Unggah file Anda, panggil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan ANGKA ke XLSB online" InputFormat="numbers" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan ANGKA ke XLSB di C++" InputFormat="numbers" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan ANGKA ke XLSB via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan ANGKA ke XLSB secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for C++'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek C++ Anda.
 + Muat file ANGKA dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -63,7 +66,7 @@ Ada tiga opsi untuk menginstal "Aspose.Cells for C++" ke sistem Anda. Silakan pi
 
 1.  Instal a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Instal perpustakaan menggunakan Folder Sertakan dan lib. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Instal Aspose.Cells for C++ di Linux. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Instal Aspose.Cells for C++ di Linux. Melihat[Dokumentasi](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}File dengan ekstensi .numbers diklasifikasikan sebagai jenis file spreadsheet, oleh karena itu mirip dengan file .xlsx; tetapi file Numbers dibuat dengan menggunakan perangkat lunak spreadsheet Apple iWork Numbers. Apple iWork Numbers adalah unit perangkat lunak dari iWork Productivity Suite. Suite Produktivitas iWork setara dengan Office Suite Microsoft yang digunakan pada PC Windows. Oleh karena itu, kita dapat mengatakan bahwa Numbers yang tersedia untuk MacOS juga merupakan pesaing dari Microsoft Excel. Demikian pula, Microsoft Excel, file ANGKA juga dapat berisi tabel, bagan, dan rumus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Konten dapat mencakup tabel angka, teks, atau angka dan teks yang tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Tidak seperti XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. XLSB file dapat dibaca dan ditulis lebih cepat yang membuatnya berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Bisa dibuka melalui Microsoft Office 2007 ke atas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan C++, Seseorang juga dapat menggabungkan angka ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-docx/" name="Gabungkan ANGKA menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-sql/" name="Menggabungkan ANGKA ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-bmp/" name="Gabungkan ANGKA menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-emf/" name="Gabungkan ANGKA menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-gif/" name="Gabungkan ANGKA menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="Gabungkan ANGKA menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-md/" name="Gabungkan ANGKA menjadi MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="Gabungkan ANGKA menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="Gabungkan ANGKA menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="Gabungkan ANGKA menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="Gabungkan ANGKA menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="Gabungkan ANGKA menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="Gabungkan ANGKA menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="Gabungkan ANGKA menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="Gabungkan ANGKA menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="Gabungkan ANGKA menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="Gabungkan ANGKA menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="Gabungkan ANGKA menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="Gabungkan ANGKA menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="Gabungkan ANGKA menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="Gabungkan ANGKA menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="Gabungkan ANGKA menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="Menggabungkan ANGKA ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="Gabungkan ANGKA menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="Gabungkan ANGKA menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="Gabungkan ANGKA menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

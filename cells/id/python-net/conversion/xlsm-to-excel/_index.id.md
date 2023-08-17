@@ -1,7 +1,7 @@
 ---
-title: Ubah XLSM menjadi EXCEL Python via Python
-description: Ubah XLSM menjadi EXCEL Online Gratis. Gratis Online XLSM ke EXCEL Converter. Python XLSM ke EXCEL. XLSM ke EXCEL melalui Python.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM to EXCEL - Online XLSM to EXCEL Converter
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah XLSM menjadi format penyimpanan EXCEL. Python XLSM ke format EXCEL. Simpan XLSM ke EXCEL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to EXCEL saveformat., Free Online XLSM to EXCEL Python., Python Convert XLSM to EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah XLSM menjadi EXCEL di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi XLSM menjadi EXCEL. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah mudah untuk mengonversi XLSM ke EXCEL. Unggah file XLSM Anda, lalu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLSM ke EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLSM ke EXCEL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Bagaimana Mengkonversi XLSM ke EXCEL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengubah XLSM menjadi EXCEL hanya dalam beberapa baris kode.
+Perlu mengonversi file XLSM ke EXCEL secara terprogram? Pengembang Python dapat dengan mudah memuat & mengubah XLSM menjadi EXCEL hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file XLSM dengan instance Workbook
-1.  Ubah XLSM menjadi EXCEL dengan memanggil metode Workbook.save
+1.  Muat file XLSM dengan instance Workbook.
+1.  Ubah XLSM menjadi EXCEL dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi XLSM ke EXCEL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XLSM ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

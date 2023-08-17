@@ -1,7 +1,7 @@
 ---
-title: Ubah PRN menjadi XLS Python via Python
-description: Ubah PRN ke XLS Online Gratis. Konverter PRN ke XLS Online Gratis. Python PRN ke XLS. PRN ke XLS via Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN ke XLS - Konverter PRN ke XLS Online
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Konversi PRN ke XLS saveformat. Python format PRN ke XLS. Simpan PRN ke XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to XLS saveformat., Free Online PRN to XLS Python., Python Convert PRN to XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah PRN menjadi XLS di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi PRN menjadi XLS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengonversi PRN ke XLS. Unggah file PRN Anda, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi PRN ke XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi PRN ke XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Konversi PRN ke XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengubah PRN menjadi XLS hanya dalam beberapa baris kode.
+Perlu mengonversi file PRN ke XLS secara terprogram? Pengembang Python dapat dengan mudah memuat & mengubah PRN menjadi XLS hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file PRN dengan instance Workbook
-1.  Ubah PRN menjadi XLS dengan memanggil metode Workbook.save
+1.  Muat file PRN dengan instance Workbook.
+1.  Ubah PRN menjadi XLS dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi PRN ke XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}File PRN adalah file yang dibuat menggunakan kotak centang Cetak ke File yang muncul dalam beberapa kotak dialog Cetak di Windows. Ini berisi serangkaian instruksi khusus perangkat yang digunakan printer, mesin faks, atau perangkat lain untuk mencetak dokumen. File PRN dapat berisi konten teks atau biner, tergantung pada perangkat tujuan pembuatan file tersebut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}File dengan ekstensi XLS mewakili Format File Biner Excel. File semacam itu dapat dibuat oleh Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Buku Kerja di mana setiap buku kerja dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan rilis Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama penggunaan sekarang.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi PRN ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

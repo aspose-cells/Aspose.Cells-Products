@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah memasukkan file Line ke Excel melalui C++" %}}
 
-Membuat instance objek Workbook.(atau->Muat file XLSX dengan path lengkap.)
+Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 + Pilih Lembar Kerja melalui indeksnya.
  + Gunakan[menambahkan metode](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#af316525bc065d011552514e73f3d5682) untuk menyisipkan Bentuk Persamaan di lembar kerja yang dipilih
 + Simpan buku kerja dalam format XLSX.

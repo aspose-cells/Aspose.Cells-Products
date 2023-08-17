@@ -1,7 +1,8 @@
 ---
-title:  Unisci XLTM a TXT via Java
+title: Unisci XLTM a TXT - Combina XLTM a TXT in Java
 url: /it/java/merger/merge-xltm-to-txt/ 
-description: Unisci XLTM a TXT online gratuitamente. Gratuito Online XLTM a TXT Fusione. Unisci XLTM a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e altro ancora.
+description: Aspose Excel. Java Aspose.Cells. Unione online gratuita da XLTM a TXT saveformat. Java Combina il formato XLTM con TXT. Unisci XLTM a TXT in Java. XLTM Unisci.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to TXT in Java., Free Online Java Merge XLTM to txt., Java Combine XLTM to TXT Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci XLTM a TXT via Java" h2="Libreria Java ad alta velocità per unire XLTM a TXT. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Java. Questa è una soluzione software professionale per importare ed esportare Excel, CSV, OpenOffice, PDF, HTML, image e molti altri formati Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Unisci XLTM a TXT online gratuitamente. Gratuito Online XLTM a TXT 
 
 {{% blocks/products/pf/agp/content h2="Unisci XLTM a TXT utilizzando Java" %}}
 
- Come unire XLTM a TXT? Con la libreria Aspose.Cells for Java, puoi facilmente unire XLTM a TXT a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+ Come posso unire XLTM a TXT? Con la libreria Aspose.Cells for Java, puoi facilmente unire XLTM a TXT a livello di codice con poche righe di codice.[Aspose.Cells for Java](https://products.aspose.com/cells/java) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Java Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Puoi scaricare l'ultima versione direttamente da[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Deposito" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Unisci XLTM a TXT online gratuitamente. Gratuito Online XLTM a TXT 
 
 {{% blocks/products/pf/agp/content h2="Unisci XLTM a TXT in Java online gratuitamente" %}}
 
-L'esempio seguente mostra come unire XLTM a TXT in Java.
+L'esempio seguente mostra come unire XLTM a TXT in Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per unire XLTM a TXT. Carica i tuoi file, chiama il metodo Workbook.Combine per unire i file, quindi salvalo nel file TXT. Se sviluppi il codice in Java, sarà più semplice di quanto sembri. Vedere l'esempio Java che unisce XLTM a TXT.
@@ -55,16 +56,18 @@ Segui i semplici passaggi per unire XLTM a TXT. Carica i tuoi file, chiama il me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="App gratuita per unire on line lo XLTM allo TXT" InputFormat="xltm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online gratuito per unire XLTM a TXT in Java" InputFormat="xltm" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Come unire XLTM a TXT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
+ Devi unire XLTM a TXT a livello di codice? Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installa 'Aspose.Cells for Java'.
++ Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Java.
 + Carica il file XLTM con la classe Workbook.
 + Chiama il metodo Workbook.Combine per unire i file.
 + Chiama il metodo Workbook.Save e passa il nome del file di output come parametro.
@@ -97,21 +100,41 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}L'estensione file XLTM rappresenta i file generati da Microsoft Excel come file modello con attivazione macro. I file XLTM sono simili a XLTX nella struttura diversa da quella successiva non supporta la creazione di file modello con macro. Tali file modello vengono utilizzati per generare e impostare il layout, la formattazione e altre impostazioni insieme alle macro per facilitare la creazione di file XLSX simili.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Un file con estensione .TXT rappresenta un documento di testo che contiene testo normale sotto forma di linee. I paragrafi in un documento di testo sono riconosciuti dai ritorni a capo e vengono utilizzati per una migliore disposizione dei contenuti del file. Un documento di testo standard può essere aperto in qualsiasi editor di testo o applicazione di elaborazione testi su diversi sistemi operativi. Tutto il testo contenuto in tale file è in formato leggibile dall'uomo e rappresentato da una sequenza di caratteri.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di unione supportati" subTitle="Utilizzando Java, è anche possibile unire xltm a molti altri formati di file inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-docx/" name="Unisci XLTM a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-sql/" name="Unisci XLTM a SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-bmp/" name="Unisci XLTM a BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-emf/" name="Unisci XLTM a EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-gif/" name="Unisci XLTM a GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="Unisci XLTM a HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-md/" name="Unisci XLTM a MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="Unisci XLTM a MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="Unisci XLTM a ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-pdf/" name="Unisci XLTM a PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-png/" name="Unisci XLTM a PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-svg/" name="Unisci XLTM a SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tiff/" name="Unisci XLTM a TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="Unisci XLTM a TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="Unisci XLTM a TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="Unisci XLTM a XLS" description="Formato binario di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="Unisci XLTM a XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="Unisci XLTM a XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="Unisci XLTM a XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="Unisci XLTM a XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="Unisci XLTM a XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="Unisci XLTM a XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xml/" name="Unisci XLTM a XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xps/" name="Unisci XLTM a XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-json/" name="Unisci XLTM a JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-jpeg/" name="Unisci XLTM a JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

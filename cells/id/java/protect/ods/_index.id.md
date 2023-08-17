@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen ODS via Java
+title: Lindungi dan kunci dokumen ODS via Java
 weight: 6360
 description: Contoh kode Java untuk mengunci file ODS menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---

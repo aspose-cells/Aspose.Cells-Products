@@ -58,7 +58,7 @@ description: Java codice di esempio per cercare parole con pattern nel file CSV 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file CSV istanziando un oggetto Workbook.
-Accedi al primo foglio di lavoro nel file CSV.
++ Accedi al primo foglio di lavoro nel file CSV.
 + Trova la cella contenente la formula specificata.
 + Crea un'istanza FindOptions.
 + Trova la cella contenente un valore stringa

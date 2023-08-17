@@ -1,7 +1,7 @@
 ---
-title: Ubah TXT menjadi KATA Python via Python
-description: Ubah TXT menjadi WORD Online Gratis. Gratis Online TXT ke WORD Converter. Python TXT ke KATA. TXT ke WORD melalui Python.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+title: Python TXT ke WORD - Online TXT ke WORD Converter
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah TXT menjadi format penyimpanan WORD. Python TXT ke format WORD. Simpan TXT ke WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to WORD saveformat., Free Online TXT to WORD Python., Python Convert TXT to WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TXT menjadi WORD di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi TXT ke WORD. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="Ubah TXT menjadi WORD di Python" %}}
 
-Bagaimana cara mengubah TXT menjadi WORD? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi TXT ke WORD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengonversi TXT ke WORD? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi TXT ke WORD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengonversi TXT ke WORD. Unggah file TXT Anda,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TXT menjadi WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TXT menjadi WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah TXT menjadi WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengubah TXT menjadi WORD hanya dalam beberapa baris kode.
+Perlu mengonversi file TXT ke WORD secara terprogram? Pengembang Python dapat dengan mudah memuat & mengubah TXT menjadi WORD hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file TXT dengan instance Workbook
-1.  Ubah TXT menjadi WORD dengan memanggil metode Workbook.save
+1.  Muat file TXT dengan instance Workbook.
+1.  Ubah TXT menjadi WORD dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi dari TXT ke WORD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}File dengan ekstensi .TXT mewakili dokumen teks yang berisi teks biasa dalam bentuk garis. Paragraf dalam dokumen teks dikenali oleh carriage return dan digunakan untuk pengaturan konten file yang lebih baik. Dokumen teks standar dapat dibuka di editor teks apa pun atau aplikasi pengolah kata pada sistem operasi yang berbeda. Semua teks yang terkandung dalam file tersebut dalam format yang dapat dibaca manusia dan diwakili oleh urutan karakter.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX adalah format terkenal untuk dokumen Word Microsoft. Diperkenalkan dari tahun 2007 dengan dirilisnya Office 2007 Microsoft, struktur format Dokumen baru ini diubah dari biner biasa menjadi kombinasi file XML dan biner. File Docx dapat dibuka dengan Word 2007 dan versi lateral tetapi tidak dengan versi MS Word sebelumnya yang mendukung ekstensi file DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi TXT ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

@@ -107,7 +107,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scarica il file XLTX dal link, se richiesto" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
-I file con estensione XLTX rappresentano i file modello Excel Microsoft basati sulle specifiche del formato di file Office OpenXML. Viene utilizzato per creare un file modello standard che può essere utilizzato per generare file XLSX che presentano le stesse impostazioni specificate nel file XLTX.
+file con estensione XLTX rappresentano i file modello Excel Microsoft basati sulle specifiche del formato di file Office OpenXML. Viene utilizzato per creare un file modello standard che può essere utilizzato per generare file XLSX che presentano le stesse impostazioni specificate nel file XLTX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

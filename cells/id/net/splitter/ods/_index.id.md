@@ -13,7 +13,7 @@ description: Kode sumber C# untuk membagi ODS dokumen pada .NET Framework, .NET 
 
  Untuk membagi file ODS, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan splitter API untuk platform C#. Membuka
+ API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan splitter API untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  Aspose.Cells 

@@ -30,7 +30,7 @@ Menambahkan garis dalam bagan secara dinamis dalam menjalankan aplikasi itu muda
 1.  Akses yang baru[**Bagan**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)objek dari koleksi Bagan dengan meneruskan indeksnya, tentukan sumber data bagan dengan memanggil[**Chart.SetChartDataRange**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange).
 1.  Hitung posisi grafik dengan menelepon[**Menghitung**](https://https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/Calculate) metode.
 1.  Tambah sebuah[**Garis**](https://reference.aspose.com/cells/net/aspose.cells.drawing/shape/properties/msodrawingtype) Bentuk dengan memanggil metode Chart.Shapes.AddShapeInChartByScale.
-1. Mengatur format baris
+1. Mengatur format garis
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

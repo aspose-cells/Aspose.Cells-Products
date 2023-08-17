@@ -1,5 +1,5 @@
 ---
-title: Edit file XLTM via .NET
+title:  Edit file XLTM via .NET
 description: Kode sumber C# untuk mengedit dokumen XLTM pada Framework .NET, .NET Core, Windows Azure, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Kemudian simpan dan unduh." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template seperti itu digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
+Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

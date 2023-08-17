@@ -1,7 +1,7 @@
 ---
-title: Converti NUMERI in XLTX Python via Python
-description: Converti NUMBERS in XLTX online gratuitamente. Convertitore online gratuito da NUMERI a XLTX. NUMERI Python allo XLTX. NUMERI allo XLTX tramite Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: NUMERI Python a XLTX - NUMERI online a XLTX Convertitore
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti NUMBERS in XLTX saveformat. NUMERI Python nel formato XLTX. Salva NUMERI allo XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to XLTX saveformat., Free Online NUMBERS to XLTX Python., Python Convert NUMBERS to XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti NUMBERS in XLTX in Python" h2="Libreria Python ad alta velocità per convertire NUMBERS in XLTX. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Converti NUMBERS in XLTX in Python" %}}
 
- Come convertire i NUMERI in XLTX? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire NUMBERS in XLTX a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire i NUMERI in XLTX? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire NUMBERS in XLTX a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Segui i semplici passaggi per convertire NUMBERS in XLTX. Carica il tuo file NUM
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire i NUMERI in XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire i NUMERI in XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire i NUMERI in XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Gli sviluppatori di Python possono facilmente caricare e convertire NUMBERS in XLTX in poche righe di codice.
+Devi convertire i file NUMBERS in XLTX a livello di codice? Gli sviluppatori di Python possono facilmente caricare e convertire NUMBERS in XLTX in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via .NET'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
-1.  Carica il file NUMBERS con un'istanza di Workbook
-1.  Converti NUMBERS in XLTX chiamando il metodo Workbook.save
+1.  Carica il file NUMBERS con un'istanza di Workbook.
+1.  Converti NUMBERS in XLTX chiamando il metodo Workbook.save.
+1.  Ottieni il risultato della conversione di NUMBERS in XLTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} file con estensione .numbers sono classificati come file di tipo foglio di calcolo, ecco perché sono simili ai file .xlsx; ma i file Numbers vengono creati utilizzando il software per fogli di calcolo Apple iWork Numbers. Apple iWork Numbers è un'unità software della iWork Productivity Suite. La suite di produttività iWork è equivalente alla suite Office Microsoft utilizzata sui PC Windows. Quindi, possiamo dire che Numbers disponibile per MacOS è anche un concorrente di Microsoft Excel. Allo stesso modo, Microsoft Excel, il file NUMBERS può contenere anche tabelle, grafici e formule.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}file con estensione .xltx rappresentano i file modello Excel Microsoft basati sulle specifiche del formato file Office OpenXML. Viene utilizzato per creare un file modello standard che può essere utilizzato per generare file XLSX che presentano le stesse impostazioni specificate nel file XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire NUMBERS in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 

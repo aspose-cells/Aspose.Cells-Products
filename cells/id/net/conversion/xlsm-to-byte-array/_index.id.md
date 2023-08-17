@@ -11,7 +11,7 @@ description: C# Kode contoh untuk konversi XLSM ke Byte Array. Gunakan kode ini 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLSM ke Byte Array serta a**Byte Array ke XLSM**dokumen menggunakan bahasa C#. Untuk mengonversi XLSM menjadi array byte, kami akan menggunakan
+ Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLSM ke Byte Array serta a**Byte Array ke XLSM** dokumen menggunakan bahasa C#. Untuk mengonversi XLSM menjadi array byte, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API yang menawarkan berbagai fitur untuk manipulasi dan konversi dokumen menggunakan platform .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -82,7 +82,7 @@ Pustaka Pemrograman Spreadsheet Excel yang mampu membangun aplikasi lintas platf
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Gabung HTM ke MHTML via C#
+title: Gabungkan HTM ke MHTML - Gabungkan HTM ke MHTML di C#
 url: /id/net/merger/merge-htm-to-mhtml/ 
-description: Gabungkan HTM ke MHTML Online Gratis. Gratis HTM Online ke MHTML Penggabungan. Gabungkan HTM ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. C# Aspose.Cells. Free Online Merge HTM to MHTML saveformat. C# Gabungkan HTM ke format MHTML. Gabungkan HTM ke MHTML di C#. Gabungkan HTM.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to MHTML in C#., Free Online C# Merge HTM to mhtml., C# Combine HTM to MHTML Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung HTM ke MHTML via C#" h2="Pustaka C# berkecepatan tinggi untuk menggabungkan HTM ke MHTML. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di C#. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Gabungkan HTM ke MHTML di C# Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan HTM ke MHTML di C#.
+Contoh berikut menunjukkan cara menggabungkan HTM ke MHTML di Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan HTM ke MHTML. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file MHTML. Jika Anda mengembangkan kode di C#, ini akan lebih sederhana daripada kedengarannya. Lihat contoh C# yang menggabungkan HTM ke MHTML.
@@ -36,16 +37,18 @@ Ikuti langkah mudah untuk menggabungkan HTM ke MHTML. Unggah file Anda, panggil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan HTM ke MHTML online" InputFormat="htm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online Gratis Menggabungkan HTM ke MHTML di C#" InputFormat="htm" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan HTM ke MHTML via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
+Perlu menggabungkan HTM ke MHTML secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for .NET'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek C# Anda.
 + Muat file HTM dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -62,7 +65,7 @@ Ada dua opsi alternatif untuk menginstal "Aspose.Cells for .NET" ke sistem Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dalam Visual Studio IDE
+1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dalam Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}File dengan ekstensi .htm mewakili Hypertext Markup Language untuk membuat halaman web untuk ditampilkan di browser web seperti Google Chrome, Internet Explorer, Firefox, dan sejumlah lainnya. Ini mendefinisikan markup untuk membuat halaman statis untuk dipublikasikan di World Wide Web (WWW) untuk diakses oleh orang lain. Markup ini memberi tahu browser cara menampilkan konten halaman web. Halaman tersebut dapat berisi teks biasa, gambar, hyperlink ke halaman lain, video, dan informasi media lainnya. Saat halaman web diterbitkan, Anda dapat melihat kode markup di belakangnya dengan melihat sumber halamannya. Browser modern memungkinkan untuk memeriksa setiap bagian dari halaman web di mana setiap sub-divisi atau elemen markup di sumber HTM diuraikan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}File dengan ekstensi MHTML mewakili format arsip halaman web yang dapat dibuat oleh sejumlah aplikasi berbeda. Format ini dikenal sebagai format arsip karena menyimpan kode web HTML dan sumber daya terkait dalam satu file. Sumber daya ini mencakup semua yang terkait dengan halaman web seperti gambar, applet, animasi, file audio, dan sebagainya. File MHTML dapat dibuka di berbagai aplikasi seperti Internet Explorer dan Microsoft Word. Microsoft Windows menggunakan format file MHTML untuk merekam skenario masalah yang diamati selama penggunaan aplikasi apa pun di Windows yang menimbulkan masalah. Format file MHTML menyandikan konten halaman yang mirip dengan spesifikasi yang ditentukan dalam pesan/rfc822 yang merupakan spesifikasi terkait email teks biasa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan C#, Seseorang juga dapat menggabungkan htm ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-docx/" name="Gabungkan HTM ke DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-sql/" name="Menggabungkan HTM ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-bmp/" name="Gabungkan HTM ke BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-emf/" name="Gabungkan HTM ke EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-gif/" name="Gabungkan HTM ke GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="Gabungkan HTM ke HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-md/" name="Menggabungkan HTM ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="Gabungkan HTM ke MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="Gabungkan HTM ke ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-pdf/" name="Gabungkan HTM ke PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-png/" name="Gabungkan HTM ke PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-svg/" name="Gabungkan HTM ke SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tiff/" name="Gabungkan HTM ke TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="Gabungkan HTM ke TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="Gabungkan HTM ke TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="Gabungkan HTM ke XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="Gabungkan HTM ke XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="Gabungkan HTM ke XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="Gabungkan HTM ke XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="Gabungkan HTM ke XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="Gabungkan HTM ke XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="Gabungkan HTM ke XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xml/" name="Menggabungkan HTM ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="Gabungkan HTM ke XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-json/" name="Gabungkan HTM ke JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-jpeg/" name="Gabungkan HTM ke JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

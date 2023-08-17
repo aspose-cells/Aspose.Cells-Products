@@ -1,7 +1,8 @@
 ---
-title:  Gabung TABDELIMITED ke MHT via C#
+title: Gabungkan TABDELIMITED menjadi MHT - Gabungkan TABDELIMITED menjadi MHT di C#
 url: /id/net/merger/merge-tabdelimited-to-mht/ 
-description: Gabungkan TABDELIMITED ke MHT Online Gratis. TABDELIMITED Online Gratis untuk Penggabungan MHT. Gabungkan TABDELIMITED ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. C# Aspose.Cells. Free Online Merge TABDELIMITED to MHT saveformat. C# Gabungkan TABDELIMITED ke format MHT. Gabung TABDELIMITED ke MHT di C#. TABDELIMITED Gabung.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TABDELIMITED to MHT in C#., Free Online C# Merge TABDELIMITED to mht., C# Combine TABDELIMITED to MHT Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung TABDELIMITED ke MHT via C#" h2="Pustaka C# berkecepatan tinggi untuk menggabungkan TABDELIMITED ke MHT. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di C#. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Gabung TABDELIMITED ke MHT di C# Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan TABDELIMITED ke MHT di C#.
+Contoh berikut menunjukkan cara menggabungkan TABDELIMITED ke MHT di Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan TABDELIMITED ke MHT. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file MHT. Jika Anda mengembangkan kode di C#, ini akan lebih sederhana daripada kedengarannya. Lihat contoh C# yang menggabungkan TABDELIMITED menjadi MHT.
@@ -36,16 +37,18 @@ Ikuti langkah mudah untuk menggabungkan TABDELIMITED ke MHT. Unggah file Anda, p
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi Gratis untuk menggabungkan TABDELIMITED ke MHT online" InputFormat="tsv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan TABDELIMITED ke MHT di C#" InputFormat="tsv" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan TABDELIMITED ke MHT melalui C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan TABDELIMITED ke MHT secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for .NET'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek C# Anda.
 + Muat file TABDELIMITED dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -62,7 +65,7 @@ Ada dua opsi alternatif untuk menginstal "Aspose.Cells for .NET" ke sistem Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dalam Visual Studio IDE
+1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dalam Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format file Tab-Separated Values (TSV) mewakili data yang dipisahkan dengan tab dalam format teks biasa. Format file, mirip dengan CSV, digunakan untuk mengatur data secara terstruktur untuk mengimpor dan mengekspor antara aplikasi yang berbeda. Format ini terutama digunakan untuk impor/ekspor data dan pertukaran dalam aplikasi Spreadsheet dan database. Setiap catatan dalam file TSV dimuat dalam satu baris file teks di mana setiap nilai bidang dipisahkan oleh karakter tab. Jenis media untuk format file TSV adalah teks/tab-separated-values.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}File dengan ekstensi .mht adalah format file pengarsipan berkemampuan MIME yang berisi berbagai jenis data ke dalam satu file. Itu dapat menyimpan data seperti teks, gambar, gaya halaman dalam bentuk file CSS, JavaScript, dan sumber daya lainnya sebagai sumber daya tertanam di dalamnya. File MHT, memiliki pesan tipe MIME/rfc822, merangkum semua konten file HTML sebagai file arsip tunggal untuk disimpan pada pengarsipan di perangkat penyimpanan. Aplikasi perangkat lunak seperti Microsoft Word memungkinkan Anda mengonversi dokumen WORD Anda ke MHT dengan mengekspor sebagai file MHT. File MHT dapat dibuka menggunakan browser populer seperti Microsoft Internet Explore dan Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan C#, Seseorang juga dapat menggabungkan tabdelimited ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-docx/" name="Gabungkan TABDELIMITED ke DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-sql/" name="Gabungkan TABDELIMITED ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-bmp/" name="Gabungkan TABDELIMITED ke BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-emf/" name="Gabungkan TABDELIMITED ke EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-gif/" name="Gabungkan TABDELIMITED ke GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-html/" name="Gabungkan TABDELIMITED ke HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-md/" name="Gabungkan TABDELIMITED menjadi MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-mhtml/" name="Gabungkan TABDELIMITED ke MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-ods/" name="Gabungkan TABDELIMITED ke ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-pdf/" name="Gabungkan TABDELIMITED ke PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-png/" name="Gabungkan TABDELIMITED ke PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-svg/" name="Gabungkan TABDELIMITED ke SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tiff/" name="Gabungkan TABDELIMITED ke TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-tsv/" name="Gabungkan TABDELIMITED ke TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-txt/" name="Gabungkan TABDELIMITED ke TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xls/" name="Gabungkan TABDELIMITED ke XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsb/" name="Gabungkan TABDELIMITED ke XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsm/" name="Gabungkan TABDELIMITED ke XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlsx/" name="Gabungkan TABDELIMITED ke XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xlt/" name="Gabungkan TABDELIMITED ke XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltm/" name="Gabungkan TABDELIMITED ke XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xltx/" name="Gabungkan TABDELIMITED ke XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xml/" name="Gabungkan TABDELIMITED ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-xps/" name="Gabungkan TABDELIMITED ke XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-json/" name="Gabungkan TABDELIMITED ke JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-tabdelimited-to-jpeg/" name="Gabungkan TABDELIMITED ke JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

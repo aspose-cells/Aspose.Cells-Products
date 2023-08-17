@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Cells
 
 + Carica XLSM con un'istanza di Workbook
 + Ottieni la raccolta BuiltInDocumentProperties dell'oggetto Workbook
-+ Itera sulla collezione
++ Itera sulla raccolta
 + Visualizza nome proprietà, tipo e valore
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

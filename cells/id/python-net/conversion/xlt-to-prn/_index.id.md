@@ -1,7 +1,7 @@
 ---
-title: Ubah XLT menjadi PRN Python via Python
-description: Ubah XLT menjadi PRN Online Gratis. Gratis Online XLT ke Konverter PRN. Python XLT ke PRN. XLT ke PRN melalui Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT ke PRN - Online XLT ke PRN Converter
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Ubah XLT menjadi PRN saveformat. Python XLT ke format PRN. Simpan XLT ke PRN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to PRN saveformat., Free Online XLT to PRN Python., Python Convert XLT to PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah XLT menjadi PRN di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi XLT ke PRN. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="Ubah XLT menjadi PRN di Python" %}}
 
- Bagaimana cara mengubah XLT menjadi PRN? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi XLT ke PRN secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
+ Bagaimana cara mengonversi XLT ke PRN? Dengan perpustakaan Aspose.Cells for Python melalui NET, Anda dapat dengan mudah mengonversi XLT ke PRN secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -22,26 +22,27 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 Contoh berikut menunjukkan cara mengubah XLT menjadi PRN di Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah-langkah mudah untuk mengonversi XLT ke PRN. Unggah file XLT Anda, lalu simpan sebagai file PRN. Untuk membaca XLT dan menulis PRN, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan PRN keluaran akan identik dengan dokumen asli XLT.
+Ikuti langkah-langkah mudah untuk mengonversi XLT ke PRN. Unggah file XLT Anda, lalu simpan sebagai file PRN. Untuk pembacaan XLT dan penulisan PRN, Anda dapat menggunakan nama file yang memenuhi syarat. Konten dan pemformatan PRN keluaran akan identik dengan dokumen asli XLT.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLT ke PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XLT ke PRN Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Bagaimana Mengkonversi XLT ke PRN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengonversi XLT ke PRN hanya dalam beberapa baris kode.
+Perlu mengonversi file XLT ke PRN secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi XLT ke PRN hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file XLT dengan instance Workbook
-1.  Ubah XLT menjadi PRN dengan memanggil metode Workbook.save
+1.  Muat file XLT dengan instance Workbook.
+1.  Ubah XLT menjadi PRN dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi XLT ke PRN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}File dengan ekstensi .xlt adalah file template yang dibuat dengan Microsoft Excel yang merupakan aplikasi spreadsheet yang hadir sebagai bagian dari Microsoft Office suite. Microsoft Office 97-2003 mendukung pembuatan file XLT baru serta membukanya. Excel versi terbaru masih mampu membuka file template format lama ini. File template seperti itu digunakan untuk membuat file Excel baru dengan cepat dengan data dan pengaturan default seperti pemformatan halaman, ukuran font, margin, bagan, dll yang selanjutnya dapat disimpan sebagai file .xls baru.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}File PRN adalah file yang dibuat menggunakan kotak centang Cetak ke File yang muncul dalam beberapa kotak dialog Cetak di Windows. Ini berisi serangkaian instruksi khusus perangkat yang digunakan printer, mesin faks, atau perangkat lain untuk mencetak dokumen. File PRN dapat berisi konten teks atau biner, tergantung pada perangkat tujuan pembuatan file tersebut.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XLT ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

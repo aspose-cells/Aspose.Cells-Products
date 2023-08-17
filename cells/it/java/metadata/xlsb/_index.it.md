@@ -13,7 +13,7 @@ description: Java codice di esempio per modificare o visualizzare i metadati del
 
  Per ottenere i metadati del file XLSB, useremo
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API che è una piattaforma di metadati API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare l'ultima versione direttamente da
+API che è una piattaforma di metadati API for Java ricca di funzionalità, potente e facile da usare. Puoi scaricare l'ultima versione direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
@@ -58,7 +58,7 @@ description: Java codice di esempio per modificare o visualizzare i metadati del
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file XLSB all'interno dei metadati della cartella di lavoro
-Crea oggetto MetadataOptions con opzioni pertinenti
++ Crea oggetto MetadataOptions con opzioni pertinenti
 + Imposta le proprietà pertinenti
 + Salva le informazioni sui metadati XLSB
 

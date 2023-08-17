@@ -1,7 +1,8 @@
 ---
-title:  Gabung XLS ke XPS via Python
+title: Gabung XLS ke XPS - Gabungkan XLS ke XPS di Python
 url: /id/python-java/merger/merge-xls-to-xps/ 
-description: Gabung XLS ke XPS Online Gratis. Gratis Online XLS to XPS Penggabungan. Gabungkan XLS ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Python Aspose.Cells. Free Online Merge XLS to XPS saveformat. Python Gabungkan format XLS menjadi XPS. Gabung XLS ke XPS di Python. XLS Gabung.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to XPS in Python., Free Online Python Merge XLS to xps., Python Combine XLS to XPS Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung XLS ke XPS via Python" h2="Pustaka Python berkecepatan tinggi untuk menggabungkan XLS ke XPS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Gabung XLS ke XPS Online Gratis. Gratis Online XLS to XPS Penggabun
 
 {{% blocks/products/pf/agp/content h2="Gabungkan XLS menjadi XPS Menggunakan Python" %}}
 
- Bagaimana cara menggabungkan XLS menjadi XPS? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah menggabungkan XLS hingga XPS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+ Bagaimana cara menggabungkan XLS menjadi XPS? Dengan pustaka Aspose.Cells for Python via Java, Anda dapat dengan mudah menggabungkan XLS hingga XPS secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python via Java dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Gabung XLS ke XPS di Python Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan XLS ke XPS di Python.
+Contoh berikut menunjukkan cara menggabungkan XLS ke XPS di Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan XLS ke XPS. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file XPS. Jika Anda mengembangkan kode di Python, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Python yang menggabungkan XLS menjadi XPS.
@@ -27,16 +28,18 @@ Ikuti langkah mudah untuk menggabungkan XLS ke XPS. Unggah file Anda, panggil me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan XLS ke XPS online" InputFormat="xls" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan XLS ke XPS di Python" InputFormat="xls" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan XLS ke XPS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan XLS menjadi XPS secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Python via Java'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
 + Muat file XLS dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -75,21 +78,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}File dengan ekstensi XLS mewakili Format File Biner Excel. File semacam itu dapat dibuat oleh Microsoft Excel serta program spreadsheet serupa lainnya seperti OpenOffice Calc atau Apple Numbers. File yang disimpan oleh Excel dikenal sebagai Buku Kerja di mana setiap buku kerja dapat memiliki satu atau lebih lembar kerja. Data disimpan dan ditampilkan kepada pengguna dalam format tabel di lembar kerja dan dapat mencakup nilai numerik, data teks, rumus, koneksi data eksternal, gambar, dan bagan. Aplikasi seperti Microsoft Excel memungkinkan Anda mengekspor data buku kerja ke beberapa format berbeda termasuk PDF, CSV, XLSX, TXT, HTML, XPS, dan beberapa lainnya. Format file XLS diganti dengan format yang lebih terbuka dan terstruktur, XLSX, dengan rilis Microsoft Excel 2007. Versi terbaru masih memberikan dukungan untuk membuat dan membaca file XLS, meskipun XLSX adalah pilihan pertama penggunaan sekarang.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}File XPS mewakili file tata letak halaman yang didasarkan pada Spesifikasi Kertas XML yang dibuat oleh Microsoft. File ini dikembangkan sebagai pengganti format file EMF dan mirip dengan format file PDF, tetapi menggunakan XML dalam tata letak, tampilan, dan informasi pencetakan dokumen . Faktanya, lebih dibenarkan untuk mengatakan bahwa XPS adalah upaya PDF, tetapi tidak bisa mendapatkan popularitas yang cukup seperti yang dimiliki oleh PDF karena berbagai alasan. Microsoft menyediakan XPS Document Writer secara default dari Windows 7 dan seterusnya untuk pembuatan file XPS. File XPS dapat dibuat dengan memilih "Microsoft XPS Document Writer" sebagai printer saat mencetak dokumen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Python, Satu juga dapat menggabungkan xls ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-docx/" name="Gabungkan XLS menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-sql/" name="Gabungkan XLS ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-bmp/" name="Gabungkan XLS menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-emf/" name="Gabungkan XLS menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-gif/" name="Gabungkan XLS menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-html/" name="Gabungkan XLS menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-md/" name="Gabungkan XLS ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-mhtml/" name="Gabungkan XLS menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-ods/" name="Gabungkan XLS menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-pdf/" name="Gabungkan XLS menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-png/" name="Gabungkan XLS menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-svg/" name="Gabungkan XLS menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tiff/" name="Gabungkan XLS menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tsv/" name="Gabungkan XLS menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-txt/" name="Gabungkan XLS menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xls/" name="Gabungkan XLS menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsb/" name="Gabungkan XLS menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsm/" name="Gabungkan XLS menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsx/" name="Gabungkan XLS menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlt/" name="Gabungkan XLS menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltm/" name="Gabungkan XLS menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltx/" name="Gabungkan XLS menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xml/" name="Gabungkan XLS ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xps/" name="Gabungkan XLS menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-json/" name="Gabungkan XLS menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-jpeg/" name="Gabungkan XLS menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

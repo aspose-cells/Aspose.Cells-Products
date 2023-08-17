@@ -1,7 +1,8 @@
 ---
-title:  Gabungkan XLTM menjadi XLTM via Java
+title: Gabung XLTM ke XLTM - Gabungkan XLTM ke XLTM di Java
 url: /id/java/merger/merge-xltm-to-xltm/ 
-description: Gabung XLTM ke XLTM Online Gratis. Gratis Online XLTM to XLTM Penggabungan. Gabungkan XLTM ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Java Aspose.Cells. Free Online Merge XLTM to XLTM saveformat. Java Gabungkan format XLTM menjadi XLTM. Gabung XLTM ke XLTM di Java. XLTM Gabung.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLTM to XLTM in Java., Free Online Java Merge XLTM to xltm., Java Combine XLTM to XLTM Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabungkan XLTM menjadi XLTM via Java" h2="Pustaka Java berkecepatan tinggi untuk menggabungkan XLTM ke XLTM. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Java. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="XLTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Gabung XLTM ke XLTM Online Gratis. Gratis Online XLTM to XLTM Pengg
 
 {{% blocks/products/pf/agp/content h2="Gabungkan XLTM menjadi XLTM Menggunakan Java" %}}
 
- Bagaimana cara menggabungkan XLTM menjadi XLTM? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan XLTM hingga XLTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara menggabungkan XLTM menjadi XLTM? Dengan pustaka Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan XLTM hingga XLTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Gabung XLTM ke XLTM Online Gratis. Gratis Online XLTM to XLTM Pengg
 
 {{% blocks/products/pf/agp/content h2="Gabung XLTM ke XLTM di Java Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan XLTM ke XLTM di Java.
+Contoh berikut menunjukkan cara menggabungkan XLTM ke XLTM di Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan XLTM ke XLTM. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file XLTM. Jika Anda mengembangkan kode di Java, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Java yang menggabungkan XLTM menjadi XLTM.
@@ -55,16 +56,18 @@ Ikuti langkah mudah untuk menggabungkan XLTM ke XLTM. Unggah file Anda, panggil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan XLTM ke XLTM online" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan XLTM ke XLTM di Java" InputFormat="xltm" InputFormat2="xltm" outformat="xltm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan XLTM ke XLTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan XLTM menjadi XLTM secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Java'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
 + Muat file XLTM dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -97,21 +100,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan xltm ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-docx/" name="Gabungkan XLTM menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-sql/" name="Gabungkan XLTM ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-bmp/" name="Gabungkan XLTM menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-emf/" name="Gabungkan XLTM menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-gif/" name="Gabungkan XLTM menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-html/" name="Gabungkan XLTM menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-md/" name="Gabungkan XLTM ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-mhtml/" name="Gabungkan XLTM menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-ods/" name="Gabungkan XLTM menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-pdf/" name="Gabungkan XLTM menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-png/" name="Gabungkan XLTM menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-svg/" name="Gabungkan XLTM menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tiff/" name="Gabungkan XLTM menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-tsv/" name="Gabungkan XLTM menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-txt/" name="Gabungkan XLTM menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xls/" name="Gabungkan XLTM menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsb/" name="Gabungkan XLTM menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsm/" name="Gabungkan XLTM menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlsx/" name="Gabungkan XLTM menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xlt/" name="Gabungkan XLTM menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltm/" name="Gabungkan XLTM menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xltx/" name="Gabungkan XLTM menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xml/" name="Gabungkan XLTM ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-xps/" name="Gabungkan XLTM menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-json/" name="Gabungkan XLTM menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xltm-to-jpeg/" name="Gabungkan XLTM menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

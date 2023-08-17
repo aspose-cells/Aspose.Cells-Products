@@ -36,7 +36,7 @@ description: Codice di esempio per la conversione da xlsx a pdf Python. Utilizza
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 

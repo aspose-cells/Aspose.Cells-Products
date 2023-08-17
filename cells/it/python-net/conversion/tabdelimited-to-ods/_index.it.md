@@ -1,7 +1,7 @@
 ---
-title: Converti TABDELIMITED in ODS Python via Python
-description: Converti TABDELIMITED in ODS online gratuitamente. Convertitore online gratuito da TABDELIMITED a ODS. Python TABDELIMITED a ODS. TABDELIMITED a ODS tramite Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED a ODS - Online TABDELIMITED a ODS Convertitore
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratuito online Python Converti TABDELIMITED in ODS saveformat. Python TABDELIMITED nel formato ODS. Salva TABDELIMITED a ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to ODS saveformat., Free Online TABDELIMITED to ODS Python., Python Convert TABDELIMITED to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti TABDELIMITED in ODS in Python" h2="Libreria Python ad alta velocità per convertire TABDELIMITED in ODS. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="Converti TABDELIMITED in ODS in Python" %}}
 
-Come convertire TABDELIMITED in ODS? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire TABDELIMITED in ODS a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire TABDELIMITED in ODS? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire TABDELIMITED in ODS a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Segui i semplici passaggi per convertire TABDELIMITED in ODS. Carica il tuo file
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire TABDELIMITED in ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire TABDELIMITED in ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire TABDELIMITED in ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Gli sviluppatori di Python possono facilmente caricare e convertire TABDELIMITED in ODS in poche righe di codice.
+Devi convertire i file TABDELIMITED in ODS a livello di programmazione? Gli sviluppatori di Python possono facilmente caricare e convertire TABDELIMITED in ODS in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via .NET'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
-1.  Carica il file TABDELIMITED con un'istanza di Workbook
-1.  Converti TABDELIMITED in ODS chiamando il metodo Workbook.save
+1.  Carica il file TABDELIMITED con un'istanza di Workbook.
+1.  Converti TABDELIMITED in ODS chiamando il metodo Workbook.save.
+1.  Ottieni il risultato della conversione di TABDELIMITED in ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Un formato di file con valori separati da tabulazioni (TSV) rappresenta i dati separati da tabulazioni in formato testo normale. Il formato del file, simile a CSV, viene utilizzato per l'organizzazione dei dati in modo strutturato al fine di importare ed esportare tra diverse applicazioni. Il formato viene utilizzato principalmente per l'importazione/esportazione di dati e lo scambio in applicazioni di fogli di calcolo e database. Ogni record in un file TSV è contenuto in una singola riga di file di testo in cui ogni valore di campo è separato da un carattere di tabulazione. Il tipo di supporto per il formato file TSV è testo/valori separati da tabulazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}file con estensione .ods rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire TABDELIMITED in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 

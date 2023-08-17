@@ -1,7 +1,7 @@
 ---
-title: Converti XML in XLSM Python via Python
-description: Converti XML in XLSM online gratuitamente. Convertitore online gratuito da XML a XLSM. Python XML a XLSM. XML a XLSM tramite Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML a XLSM - Convertitore online da XML a XLSM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti XML in XLSM saveformat. Python XML in formato XLSM. Salva XML in XLSM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to XLSM saveformat., Free Online XML to XLSM Python., Python Convert XML to XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti XML in XLSM in Python" h2="Libreria Python ad alta velocità per la conversione di XML in XLSM. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Converti XML in XLSM in Python" %}}
 
- Come convertire XML in XLSM? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire XML in XLSM a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire XML in XLSM? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire XML in XLSM a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Segui i semplici passaggi per convertire XML in XLSM. Carica il tuo file XML, qu
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire XML in XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire XML in XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire XML in XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Gli sviluppatori Python possono facilmente caricare e convertire XML in XLSM in poche righe di codice.
+Devi convertire i file XML in XLSM a livello di programmazione? Gli sviluppatori Python possono facilmente caricare e convertire XML in XLSM in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via .NET'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
-1.  Carica il file XML con un'istanza di Workbook
-1.  Converti XML in XLSM chiamando il metodo Workbook.save
+1.  Carica il file XML con un'istanza di Workbook.
+1.  Converti XML in XLSM chiamando il metodo Workbook.save.
+1.  Ottieni il risultato della conversione di XML in XLSM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}I file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi che vengono eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro sono programmate con Visual Basic for Applications (VBA) di Microsoft dall'interno della cartella di lavoro di Excel utilizzando Visual Basic Editor e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire XML in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 

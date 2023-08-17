@@ -1,7 +1,7 @@
 ---
-title: Converti FODS in OTS Python via Python
-description: Converti FODS in OTS online gratuitamente. Convertitore online gratuito da FODS a OTS. Python FODS all'OTS. FODS a OTS tramite Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS a OTS - Convertitore online da FODS a OTS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Free Online Python Converti FODS in OTS saveformat. Python FODS in formato OTS. Salva FODS su OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to OTS saveformat., Free Online FODS to OTS Python., Python Convert FODS to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Converti FODS in OTS in Python" h2="Libreria Python ad alta velocità per convertire FODS in OTS. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Converti FODS in OTS in Python" %}}
 
- Come convertire FODS in OTS? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire FODS in OTS a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
+ Come posso convertire FODS in OTS? Con Aspose.Cells for Python tramite la libreria NET, puoi facilmente convertire FODS in OTS a livello di codice con poche righe di codice.[Aspose.Cells for Python tramite NET](https://pypi.org/project/aspose-cells-python/)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Segui i semplici passaggi per convertire FODS in OTS. Carica il tuo file FODS, q
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="App gratuita e codice di esempio per convertire FODS in OTS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="App gratuita e codice di esempio per convertire FODS in OTS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come convertire FODS in OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Gli sviluppatori di Python possono facilmente caricare e convertire FODS in OTS in poche righe di codice.
+Hai bisogno di convertire i file FODS in OTS a livello di programmazione? Gli sviluppatori di Python possono facilmente caricare e convertire FODS in OTS in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa 'Aspose.Cells for Python via .NET'.
 1.  Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
-1.  Carica il file FODS con un'istanza di Workbook
-1.  Converti FODS in OTS chiamando il metodo Workbook.save
+1.  Carica il file FODS con un'istanza di Workbook.
+1.  Converti FODS in OTS chiamando il metodo Workbook.save.
+1.  Ottieni il risultato della conversione di FODS in OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
+ Aspose.Cells for Python tramite NET è indipendente dalla piattaforma API e può essere utilizzato su qualsiasi piattaforma (Windows, Linux), assicurati solo che il sistema abbia[Python](https://www.python.org/downloads/) 3.7 o superiore.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Un file con estensione .fods è un tipo di formato di documento OpenDocument Spreadsheet che memorizza i dati in righe e colonne. Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. I file FODS non possono essere aperti con Excel, un'altra applicazione software per fogli di calcolo da Microsoft. I file FODS possono essere salvati come ODS utilizzando LibreOffice e possono essere convertiti in altri formati come XLS e XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Un file con estensione .ots è un file modello di foglio di calcolo OpenDocument creato con il software applicativo Calc incluso in Apache OpenOffice. Il software applicativo Calc è simile a Excel disponibile in Office Microsoft. Il formato di file OTS viene utilizzato per creare modelli che contengono impostazioni predefinite relative a stili, caratteri, dati, layout del foglio di calcolo e formattazione. I file OTF hanno application/vnd.oasis.opendocument.spreadsheet-template di tipo mime. Questi file modello possono essere utilizzati come punto di partenza per generare e salvare file di dati effettivi che vengono salvati nel formato file ODS. I file OTS possono essere utilizzati con applicazioni come OpenOffice e LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altre conversioni supportate" subTitle="Puoi anche convertire FODS in molti altri formati di file, inclusi alcuni elencati di seguito." >}}
 

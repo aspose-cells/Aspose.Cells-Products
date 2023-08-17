@@ -49,14 +49,14 @@ description: Java codice di esempio per combinare i documenti XLSB su Java Runti
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
+Un documento di base che si fonde e si concatena con[Aspose.Cells for Java](https://products.aspose.com/cells/java) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il primo file XLSB con un'istanza della classe Workbook.
 + Carica il secondo documento XLSB con un'istanza della classe Workbook.
 + Unisci i file usando il metodo combine().
-salva il file XLSB unito nel percorso specificato
++ salva il file XLSB unito nel percorso specificato
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsbFile1.save("combinedFileWithPath.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file XLSB." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Verrà unito e concatenato all\'istante." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Verrà unito e concatenato all\'istante." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

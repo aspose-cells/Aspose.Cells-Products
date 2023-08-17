@@ -1,7 +1,8 @@
 ---
-title:  Unisci XLTX a HTM tramite Python
+title: Unisci XLTX a HTM - Combina XLTX a HTM in Python
 url: /it/python-net/merger/merge-xltx-to-htm/ 
-description: Unisci XLTX a HTM Online gratuitamente. Gratuito Online XLTX a HTM Fusione. Unisci XLTX a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e altro ancora.
+description: Aspose Excel. Python Aspose.Cells. Unisci online gratuito XLTX in HTM saveformat. Python Combina XLTX al formato HTM. Unisci XLTX a HTM in Python. XLTX Unisci.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to HTM in Python., Free Online Python Merge XLTX to htm., Python Combine XLTX to HTM Online for Free., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci XLTX a HTM tramite Python" h2="Libreria Python ad alta velocità per unire XLTX a HTM. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python. Questa è una soluzione software professionale per importare ed esportare Excel, CSV, OpenOffice, PDF, HTML, image e molti altri formati excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Unisci XLTX a HTM Online gratuitamente. Gratuito Online XLTX a HTM 
 
 {{% blocks/products/pf/agp/content h2="Unisci XLTX a HTM utilizzando Python" %}}
 
- Come unire XLTX a HTM? Con la libreria Aspose.Cells for Python, puoi facilmente unire XLTX a HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. È possibile installare Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells-python</code>.
+ Come posso unire XLTX a HTM? Con la libreria Aspose.Cells for Python via .NET, puoi facilmente unire XLTX a HTM a livello di codice con poche righe di codice.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. È possibile installare Aspose.Cells for Python via .NET da<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Unisci XLTX a HTM in Python online gratuitamente" %}}
 
-L'esempio seguente mostra come unire XLTX a HTM in Python.
+L'esempio seguente mostra come unire XLTX a HTM in Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per unire XLTX a HTM. Carica i tuoi file, chiama il metodo Workbook.Combine per unire i file, quindi salvalo nel file HTM. Se sviluppi il codice in Python, sarà più semplice di quanto sembri. Vedere l'esempio Python che unisce XLTX a HTM.
@@ -27,16 +28,18 @@ Segui i semplici passaggi per unire XLTX a HTM. Carica i tuoi file, chiama il me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="App gratuita per unire XLTX a HTM on line" InputFormat="xltx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Online gratuito per unire XLTX a HTM in Python" InputFormat="xltx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Come unire XLTX a HTM tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Le API possono essere eseguite con poche righe di codice.
+Hai bisogno di unire XLTX a HTM a livello di codice? Un documento di base che si fonde e si concatena con[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installa 'Aspose.Cells for Python via .NET'.
++ Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
 + Carica il file XLTX con la classe Workbook.
 + Chiama il metodo Workbook.Combine per unire i file.
 + Chiama il metodo Workbook.Save e passa il nome del file di output come parametro.
@@ -53,7 +56,7 @@ Installa Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/)su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
+ E puoi anche seguire il[istruzioni passo passo](https://docs.aspose.com/cells/python-net/getting-started/) su come installare "Aspose.Cells for Python via .NET" nel tuo ambiente di sviluppo.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}file con estensione .xltx rappresentano i file modello Excel Microsoft basati sulle specifiche del formato file Office OpenXML. Viene utilizzato per creare un file modello standard che può essere utilizzato per generare file XLSX che presentano le stesse impostazioni specificate nel file XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}file con estensione .htm rappresentano Hypertext Markup Language per la creazione di pagine Web da visualizzare nei browser Web come Google Chrome, Internet Explorer, Firefox e molti altri. Definisce i markup per la creazione di pagine statiche da pubblicare sul World Wide Web (WWW) per l'accesso da parte di altri. Questi markup indicano ai browser come visualizzare i contenuti di una pagina web. Tali pagine possono contenere testo semplice, immagini, collegamenti ipertestuali ad altre pagine, video e altre informazioni multimediali. Quando una pagina web viene pubblicata, puoi dare un'occhiata al codice di markup dietro di essa visualizzando il sorgente della pagina. I browser moderni consentono di ispezionare ogni sezione di una pagina Web in cui viene elaborato ogni elemento di suddivisione o markup nella sorgente HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di unione supportati" subTitle="Utilizzando Python, è anche possibile unire xltx a molti altri formati di file inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-mhtml/" name="MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsm/" name="XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsx/" name="XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlt/" name="XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltx/" name="XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-docx/" name="Unisci XLTX a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-sql/" name="Unisci XLTX a SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-bmp/" name="Unisci XLTX a BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-emf/" name="Unisci XLTX a EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-gif/" name="Unisci XLTX a GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-html/" name="Unisci XLTX a HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-md/" name="Unisci XLTX a MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-mhtml/" name="Unisci XLTX a MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-ods/" name="Unisci XLTX a ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-pdf/" name="Unisci XLTX a PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-png/" name="Unisci XLTX a PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-svg/" name="Unisci XLTX a SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tiff/" name="Unisci XLTX a TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-tsv/" name="Unisci XLTX a TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-txt/" name="Unisci XLTX a TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xls/" name="Unisci XLTX a XLS" description="Formato binario di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsb/" name="Unisci XLTX a XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsm/" name="Unisci XLTX a XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlsx/" name="Unisci XLTX a XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xlt/" name="Unisci XLTX a XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltm/" name="Unisci XLTX a XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xltx/" name="Unisci XLTX a XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xml/" name="Unisci XLTX a XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-xps/" name="Unisci XLTX a XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-json/" name="Unisci XLTX a JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xltx-to-jpeg/" name="Unisci XLTX a JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

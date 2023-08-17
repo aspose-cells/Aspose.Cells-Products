@@ -1,7 +1,8 @@
 ---
-title:  Gabung FODS ke HTM via Java
+title: Gabungkan FODS ke HTM - Gabungkan FODS ke HTM di Java
 url: /id/java/merger/merge-fods-to-htm/ 
-description: Gabungkan FODS ke HTM Online Gratis. Gratis Online FODS ke Penggabungan HTM. Gabungkan FODS ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Java Aspose.Cells. Gabung Online Gratis FODS ke HTM saveformat. Java Gabungkan FODS ke format HTM. Gabung FODS ke HTM di Java. FODS Gabung.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge FODS to HTM in Java., Free Online Java Merge FODS to htm., Java Combine FODS to HTM Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung FODS ke HTM via Java" h2="Pustaka Java berkecepatan tinggi untuk menggabungkan FODS ke HTM. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Java. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Gabungkan FODS ke HTM Online Gratis. Gratis Online FODS ke Penggabu
 
 {{% blocks/products/pf/agp/content h2="Menggabungkan FODS ke HTM Menggunakan Java" %}}
 
- Bagaimana cara menggabungkan FODS ke HTM? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan FODS ke HTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+ Bagaimana cara menggabungkan FODS ke HTM? Dengan perpustakaan Aspose.Cells for Java, Anda dapat dengan mudah menggabungkan FODS ke HTM secara terprogram dengan beberapa baris kode.[Aspose.Cells for Java](https://products.aspose.com/cells/java) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Java Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat mengunduh versi terbarunya langsung dari[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Gudang" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Gabungkan FODS ke HTM Online Gratis. Gratis Online FODS ke Penggabu
 
 {{% blocks/products/pf/agp/content h2="Gabungkan FODS ke HTM di Java Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan FODS ke HTM di Java.
+Contoh berikut menunjukkan cara menggabungkan FODS ke HTM di Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan FODS ke HTM. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file HTM. Jika Anda mengembangkan kode di Java, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Java yang menggabungkan FODS ke HTM.
@@ -55,16 +56,18 @@ Ikuti langkah mudah untuk menggabungkan FODS ke HTM. Unggah file Anda, panggil m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi Gratis untuk menggabungkan FODS ke HTM online" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online Gratis Menggabungkan FODS ke HTM di Java" InputFormat="fods" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan FODS ke HTM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+Perlu menggabungkan FODS ke HTM secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Java'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Java Anda.
 + Muat file FODS dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -97,21 +100,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lain dengan Microsoft. File FODS dapat disimpan sebagai ODS menggunakan LibreOffice dan dapat dikonversi ke format lain seperti XLS dan XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}File dengan ekstensi .htm mewakili Hypertext Markup Language untuk membuat halaman web untuk ditampilkan di browser web seperti Google Chrome, Internet Explorer, Firefox, dan sejumlah lainnya. Ini mendefinisikan markup untuk membuat halaman statis untuk dipublikasikan di World Wide Web (WWW) untuk diakses oleh orang lain. Markup ini memberi tahu browser cara menampilkan konten halaman web. Halaman tersebut dapat berisi teks biasa, gambar, hyperlink ke halaman lain, video, dan informasi media lainnya. Saat halaman web diterbitkan, Anda dapat melihat kode markup di belakangnya dengan melihat sumber halamannya. Browser modern memungkinkan untuk memeriksa setiap bagian dari halaman web di mana setiap sub-divisi atau elemen markup di sumber HTM diuraikan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Java, Seseorang juga dapat menggabungkan fods ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-docx/" name="Gabungkan FODS menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-sql/" name="Gabungkan FODS ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-bmp/" name="Gabungkan FODS menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-emf/" name="Gabungkan FODS menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-gif/" name="Gabungkan FODS menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-html/" name="Gabungkan FODS menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-md/" name="Gabungkan FODS ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-mhtml/" name="Gabungkan FODS menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-ods/" name="Gabungkan FODS menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-pdf/" name="Gabungkan FODS menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-png/" name="Gabungkan FODS menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-svg/" name="Gabungkan FODS menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tiff/" name="Gabungkan FODS menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-tsv/" name="Gabungkan FODS menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-txt/" name="Gabungkan FODS menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xls/" name="Gabungkan FODS menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsb/" name="Gabungkan FODS menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsm/" name="Gabungkan FODS menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlsx/" name="Gabungkan FODS menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xlt/" name="Gabungkan FODS menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltm/" name="Gabungkan FODS menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xltx/" name="Gabungkan FODS menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xml/" name="Gabungkan FODS ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-xps/" name="Gabungkan FODS menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-json/" name="Gabungkan FODS menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-fods-to-jpeg/" name="Gabungkan FODS menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -10,7 +10,7 @@ description: Crea applicazioni di manipolazione di file Excel utilizzando API Hi
 {{< blocks/products/pf/product-card-row title="Aspose.Cells Le API ad alto codice includono" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" productLink="https://products.aspose.com/cells/net" >}}
-API High Code per .NET Framework, .NET Core e piattaforme Xamarin per sviluppare applicazioni di manipolazione di fogli di calcolo per Windows, iOS e Android.
+API High Code per indirizzare .NET Framework, .NET piattaforme Core e Xamarin per sviluppare applicazioni di manipolazione di fogli di calcolo per Windows, iOS e Android.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
@@ -50,7 +50,7 @@ Converti facilmente i file Excel Microsoft in PDF, HTML, immagini e molti altri 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadati" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Basta caricare il file Excel Microsoft per visualizzare o modificare i metadati del foglio di calcolo da qualsiasi browser. Nessuna installazione o strumenti aggiuntivi richiesti.
+ Basta caricare il file Excel Microsoft per visualizzare o modificare i metadati del foglio di calcolo da qualsiasi browser. Nessuna installazione o strumenti aggiuntivi richiesti.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Spettatore" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Visualizza i file del foglio di calcolo inclusi XLS, XLSX, XLSM, XLSB e ODS nel 
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- La suite di prodotti e il supporto Aspose non sono secondi a nessuno. Non avremmo potuto fare quello che abbiamo fatto senza questa soluzione.
+La suite di prodotti e il supporto Aspose non sono secondi a nessuno. Non avremmo potuto fare quello che abbiamo fatto senza questa soluzione.
  <em>
  Dott. Dan Patterson | Acume, Regno Unito
  </em>

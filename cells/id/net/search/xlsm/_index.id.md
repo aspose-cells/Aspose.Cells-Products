@@ -13,7 +13,7 @@ description: Kode sumber C# untuk mencari kata dengan pola pada file XLSM pada F
 
  Untuk mencari file XLSM, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang merupakan dokumen kaya fitur, kuat dan mudah digunakan mencari API untuk platform C#. Membuka
+API yang merupakan dokumen kaya fitur, kuat dan mudah digunakan mencari API untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  **Aspose.Cells** 
@@ -132,7 +132,7 @@ if (cell3 != null){
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Hasil pencarian muncul seketika." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

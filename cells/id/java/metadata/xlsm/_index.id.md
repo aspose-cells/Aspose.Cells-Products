@@ -13,7 +13,7 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format XLSM d
 
  Untuk mendapatkan metadata file XLSM, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -53,12 +53,12 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format XLSM d
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file XLSM termasuk kapan file XLSM diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file XLSM termasuk kapan file XLSM diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSM di dalam WorkbookMetadata
-Buat Objek MetadataOptions dengan opsi yang relevan
++ Buat Objek MetadataOptions dengan opsi yang relevan
 + Atur properti yang relevan
 + Simpan info metadata XLSM
 
@@ -126,7 +126,7 @@ System.out.println(w.getCustomDocumentProperties().get("test"));
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Dapatkan tautan unduhan untuk file yang dihasilkan secara instan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

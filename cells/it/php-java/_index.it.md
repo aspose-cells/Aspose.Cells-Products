@@ -37,7 +37,7 @@ description: Foglio di calcolo PHP Excel API per leggere scrivere e convertire X
  Converti foglio di lavoro in immagine
     </li>
     <li>
-Converti foglio di calcolo in PDF
+ Converti foglio di calcolo in PDF
     </li>
    </ul>
   </div>
@@ -271,7 +271,7 @@ Converti foglio di calcolo in PDF
     <em class="fa fa-folder-open-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Carica &amp; salva il formato OpenDocument Spreadsheet (ODS).
+ Carica & amp; salva il formato OpenDocument Spreadsheet (ODS).
     </p>
    </div>
    <div class="col-lg-4">

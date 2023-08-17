@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen XLS via Java
+title: Lindungi dan kunci dokumen XLS via Java
 weight: 5070
 description: Contoh kode Java untuk mengunci file XLS menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---

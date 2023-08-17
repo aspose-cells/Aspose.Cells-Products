@@ -13,7 +13,7 @@ description: Kode sumber C# untuk membagi XLSM dokumen pada .NET Framework, .NET
 
  Untuk membagi file XLSM, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan splitter API untuk platform C#. Membuka
+ API yang kaya fitur, kuat dan mudah digunakan manipulasi dokumen dan splitter API untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  Aspose.Cells 
@@ -95,7 +95,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Anda akan mendapatkan tautan unduhan." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

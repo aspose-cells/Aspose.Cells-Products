@@ -1,7 +1,8 @@
 ---
-title:  Gabung CSV ke XLT via C#
+title: Gabung CSV ke XLT - Gabungkan CSV ke XLT di C#
 url: /id/net/merger/merge-csv-to-xlt/ 
-description: Gabung CSV ke XLT Online Gratis. Gratis Online CSV to XLT Penggabungan. Gabungkan CSV ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. C# Aspose.Cells. Free Online Merge CSV to XLT saveformat. C# Gabungkan format CSV menjadi XLT. Gabung CSV ke XLT di C#. CSV Gabung.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge CSV to XLT in C#., Free Online C# Merge CSV to xlt., C# Combine CSV to XLT Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung CSV ke XLT via C#" h2="Pustaka C# berkecepatan tinggi untuk menggabungkan CSV ke XLT. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di C#. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Gabung CSV ke XLT di C# Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan CSV ke XLT di C#.
+Contoh berikut menunjukkan cara menggabungkan CSV ke XLT di Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan CSV ke XLT. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file XLT. Jika Anda mengembangkan kode di C#, ini akan lebih sederhana daripada kedengarannya. Lihat contoh C# yang menggabungkan CSV menjadi XLT.
@@ -36,16 +37,18 @@ Ikuti langkah mudah untuk menggabungkan CSV ke XLT. Unggah file Anda, panggil me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan CSV ke XLT online" InputFormat="csv" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan CSV ke XLT di C#" InputFormat="csv" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan CSV ke XLT via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan CSV menjadi XLT secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for .NET'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek C# Anda.
 + Muat file CSV dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -62,7 +65,7 @@ Ada dua opsi alternatif untuk menginstal "Aspose.Cells for .NET" ke sistem Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal a[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Melihat[Dokumentasi](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)dalam Visual Studio IDE
+1.  Instal perpustakaan menggunakan[Konsol Pengelola Paket](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) dalam Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}File dengan ekstensi .csv (Comma Separated Values) mewakili file teks biasa yang berisi rekaman data dengan nilai yang dipisahkan koma. Setiap baris dalam file CSV adalah record baru dari sekumpulan record yang terdapat dalam file. File semacam itu dihasilkan saat transfer data dimaksudkan dari satu sistem penyimpanan ke sistem penyimpanan lainnya. Karena semua aplikasi dapat mengenali record yang dipisahkan dengan koma, impor file data tersebut ke database dapat dilakukan dengan sangat mudah. Hampir semua aplikasi spreadsheet seperti Microsoft Excel atau OpenOffice Calc dapat mengimpor CSV tanpa banyak usaha. Data yang diimpor dari file tersebut diatur dalam sel spreadsheet untuk direpresentasikan ke pengguna.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}File dengan ekstensi .xlt adalah file template yang dibuat dengan Microsoft Excel yang merupakan aplikasi spreadsheet yang hadir sebagai bagian dari Microsoft Office suite. Microsoft Office 97-2003 mendukung pembuatan file XLT baru serta membukanya. Excel versi terbaru masih mampu membuka file template format lama ini. File template seperti itu digunakan untuk membuat file Excel baru dengan cepat dengan data dan pengaturan default seperti pemformatan halaman, ukuran font, margin, bagan, dll yang selanjutnya dapat disimpan sebagai file .xls baru.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan C#, Seseorang juga dapat menggabungkan csv ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-docx/" name="Gabungkan CSV menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-sql/" name="Gabungkan CSV ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-bmp/" name="Gabungkan CSV menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-emf/" name="Gabungkan CSV menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-gif/" name="Gabungkan CSV menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-html/" name="Gabungkan CSV menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-md/" name="Gabungkan CSV ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-mhtml/" name="Gabungkan CSV menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-ods/" name="Gabungkan CSV menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-pdf/" name="Gabungkan CSV menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-png/" name="Gabungkan CSV menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-svg/" name="Gabungkan CSV menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tiff/" name="Gabungkan CSV menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-tsv/" name="Gabungkan CSV menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-txt/" name="Gabungkan CSV menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xls/" name="Gabungkan CSV menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsb/" name="Gabungkan CSV menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsm/" name="Gabungkan CSV menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlsx/" name="Gabungkan CSV menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xlt/" name="Gabungkan CSV menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltm/" name="Gabungkan CSV menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xltx/" name="Gabungkan CSV menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xml/" name="Gabungkan CSV ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-xps/" name="Gabungkan CSV menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-json/" name="Gabungkan CSV menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-csv-to-jpeg/" name="Gabungkan CSV menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

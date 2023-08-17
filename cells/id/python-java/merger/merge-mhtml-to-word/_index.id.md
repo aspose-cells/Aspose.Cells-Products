@@ -1,7 +1,8 @@
 ---
-title:  Gabungkan MHTML ke WORD melalui Python
+title: Gabung MHTML ke WORD - Gabungkan MHTML ke WORD di Python
 url: /id/python-java/merger/merge-mhtml-to-word/ 
-description: Gabungkan MHTML ke WORD Online Gratis. Online Gratis MHTML untuk Penggabungan WORD. Gabungkan MHTML ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Python Aspose.Cells. Gabung Online Gratis MHTML ke WORD saveformat. Python Gabungkan MHTML ke format WORD. Gabung MHTML menjadi WORD di Python. MHTML Gabung.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to WORD in Python., Free Online Python Merge MHTML to word., Python Combine MHTML to WORD Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabungkan MHTML ke WORD melalui Python" h2="Pustaka Python berkecepatan tinggi untuk menggabungkan MHTML ke WORD. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Gabungkan MHTML ke WORD Online Gratis. Online Gratis MHTML untuk Pe
 
 {{% blocks/products/pf/agp/content h2="Menggabungkan MHTML ke WORD Menggunakan Python" %}}
 
- Bagaimana cara menggabungkan MHTML ke WORD? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah menggabungkan MHTML ke WORD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+Bagaimana cara menggabungkan MHTML ke WORD? Dengan perpustakaan Aspose.Cells for Python via Java, Anda dapat dengan mudah menggabungkan MHTML ke WORD secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python via Java dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Gabungkan MHTML menjadi WORD di Python Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan MHTML ke WORD di Python.
+Contoh berikut menunjukkan cara menggabungkan MHTML ke WORD di Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan MHTML ke WORD. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file WORD. Jika Anda mengembangkan kode di Python, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Python yang menggabungkan MHTML ke WORD.
@@ -27,16 +28,18 @@ Ikuti langkah mudah untuk menggabungkan MHTML ke WORD. Unggah file Anda, panggil
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi Gratis untuk menggabungkan MHTML ke WORD on line" InputFormat="mhtml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan MHTML menjadi WORD di Python" InputFormat="mhtml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan MHTML ke WORD melalui Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan MHTML ke WORD secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Python via Java'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
 + Muat file MHTML dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -75,21 +78,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}File dengan ekstensi MHTML mewakili format arsip halaman web yang dapat dibuat oleh sejumlah aplikasi berbeda. Format ini dikenal sebagai format arsip karena menyimpan kode web HTML dan sumber daya terkait dalam satu file. Sumber daya ini mencakup semua yang terkait dengan halaman web seperti gambar, applet, animasi, file audio, dan sebagainya. File MHTML dapat dibuka di berbagai aplikasi seperti Internet Explorer dan Microsoft Word. Microsoft Windows menggunakan format file MHTML untuk merekam skenario masalah yang diamati selama penggunaan aplikasi apa pun di Windows yang menimbulkan masalah. Format file MHTML menyandikan konten halaman yang mirip dengan spesifikasi yang ditentukan dalam pesan/rfc822 yang merupakan spesifikasi terkait email teks biasa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX adalah format terkenal untuk dokumen Word Microsoft. Diperkenalkan dari tahun 2007 dengan dirilisnya Office 2007 Microsoft, struktur format Dokumen baru ini diubah dari biner biasa menjadi kombinasi file XML dan biner. File Docx dapat dibuka dengan Word 2007 dan versi lateral tetapi tidak dengan versi MS Word sebelumnya yang mendukung ekstensi file DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Python, Seseorang juga dapat menggabungkan mhtml ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-docx/" name="Gabungkan MHTML menjadi DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-sql/" name="Gabungkan MHTML ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-bmp/" name="Gabungkan MHTML menjadi BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-emf/" name="Gabungkan MHTML menjadi EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-gif/" name="Gabungkan MHTML menjadi GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-html/" name="Gabungkan MHTML menjadi HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-md/" name="Gabungkan MHTML ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-mhtml/" name="Gabungkan MHTML menjadi MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-ods/" name="Gabungkan MHTML menjadi ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-pdf/" name="Gabungkan MHTML menjadi PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-png/" name="Gabungkan MHTML menjadi PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-svg/" name="Gabungkan MHTML menjadi SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-tiff/" name="Gabungkan MHTML menjadi TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-tsv/" name="Gabungkan MHTML menjadi TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-txt/" name="Gabungkan MHTML menjadi TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xls/" name="Gabungkan MHTML menjadi XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsb/" name="Gabungkan MHTML menjadi XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsm/" name="Gabungkan MHTML menjadi XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlsx/" name="Gabungkan MHTML menjadi XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xlt/" name="Gabungkan MHTML menjadi XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltm/" name="Gabungkan MHTML menjadi XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xltx/" name="Gabungkan MHTML menjadi XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xml/" name="Gabungkan MHTML ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-xps/" name="Gabungkan MHTML menjadi XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-json/" name="Gabungkan MHTML menjadi JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mhtml-to-jpeg/" name="Gabungkan MHTML menjadi JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

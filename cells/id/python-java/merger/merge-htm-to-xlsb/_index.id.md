@@ -1,7 +1,8 @@
 ---
-title:  Gabung HTM ke XLSB via Python
+title: Gabungkan HTM ke XLSB - Gabungkan HTM ke XLSB di Python
 url: /id/python-java/merger/merge-htm-to-xlsb/ 
-description: Gabungkan HTM ke XLSB Online Gratis. Gratis HTM Online ke XLSB Penggabungan. Gabungkan HTM ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Python Aspose.Cells. Free Online Merge HTM to XLSB saveformat. Python Gabungkan HTM ke format XLSB. Gabungkan HTM ke XLSB di Python. Gabungkan HTM.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTM to XLSB in Python., Free Online Python Merge HTM to xlsb., Python Combine HTM to XLSB Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabung HTM ke XLSB via Python" h2="Pustaka Python berkecepatan tinggi untuk menggabungkan HTM ke XLSB. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Gabungkan HTM ke XLSB Online Gratis. Gratis HTM Online ke XLSB Peng
 
 {{% blocks/products/pf/agp/content h2="Gabungkan HTM ke XLSB Menggunakan Python" %}}
 
- Bagaimana cara menggabungkan HTM ke XLSB? Dengan perpustakaan Aspose.Cells for Python, Anda dapat dengan mudah menggabungkan HTM ke XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
+ Bagaimana cara menggabungkan HTM ke XLSB? Dengan perpustakaan Aspose.Cells for Python via Java, Anda dapat dengan mudah menggabungkan HTM ke XLSB secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python via Java dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Gabungkan HTM ke XLSB di Python Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan HTM ke XLSB di Python.
+Contoh berikut menunjukkan cara menggabungkan HTM ke XLSB di Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah mudah untuk menggabungkan HTM ke XLSB. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file XLSB. Jika Anda mengembangkan kode di Python, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Python yang menggabungkan HTM ke XLSB.
@@ -27,16 +28,18 @@ Ikuti langkah mudah untuk menggabungkan HTM ke XLSB. Unggah file Anda, panggil m
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi gratis untuk menggabungkan HTM ke XLSB online" InputFormat="htm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online Gratis Menggabungkan HTM ke XLSB di Python" InputFormat="htm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan HTM ke XLSB via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
+Perlu menggabungkan HTM ke XLSB secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Python via Java'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
 + Muat file HTM dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -75,21 +78,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}File dengan ekstensi .htm mewakili Hypertext Markup Language untuk membuat halaman web untuk ditampilkan di browser web seperti Google Chrome, Internet Explorer, Firefox, dan sejumlah lainnya. Ini mendefinisikan markup untuk membuat halaman statis untuk dipublikasikan di World Wide Web (WWW) untuk diakses oleh orang lain. Markup ini memberi tahu browser cara menampilkan konten halaman web. Halaman tersebut dapat berisi teks biasa, gambar, hyperlink ke halaman lain, video, dan informasi media lainnya. Saat halaman web diterbitkan, Anda dapat melihat kode markup di belakangnya dengan melihat sumber halamannya. Browser modern memungkinkan untuk memeriksa setiap bagian dari halaman web di mana setiap sub-divisi atau elemen markup di sumber HTM diuraikan.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Format file XLSB menentukan Format File Biner Excel, yang merupakan kumpulan rekaman dan struktur yang menentukan konten buku kerja Excel. Konten dapat mencakup tabel angka, teks, atau angka dan teks yang tidak terstruktur atau semi terstruktur, rumus, koneksi data eksternal, bagan, dan gambar. Tidak seperti XLSX (yang didasarkan pada format file Open XML), XLSB mewakili file buku kerja Excel biner. XLSB file dapat dibaca dan ditulis lebih cepat yang membuatnya berguna untuk bekerja dengan file besar. XLSB jarang digunakan untuk menyimpan buku kerja karena XLSX (dan sebelumnya XLS) adalah format file pilihan pengguna yang paling umum untuk menyimpan buku kerja. Bisa dibuka melalui Microsoft Office 2007 ke atas.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Python, Seseorang juga dapat menggabungkan htm ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-docx/" name="Gabungkan HTM ke DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-sql/" name="Menggabungkan HTM ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-bmp/" name="Gabungkan HTM ke BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-emf/" name="Gabungkan HTM ke EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-gif/" name="Gabungkan HTM ke GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-html/" name="Gabungkan HTM ke HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-md/" name="Menggabungkan HTM ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-mhtml/" name="Gabungkan HTM ke MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-ods/" name="Gabungkan HTM ke ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-pdf/" name="Gabungkan HTM ke PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-png/" name="Gabungkan HTM ke PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-svg/" name="Gabungkan HTM ke SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tiff/" name="Gabungkan HTM ke TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-tsv/" name="Gabungkan HTM ke TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-txt/" name="Gabungkan HTM ke TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xls/" name="Gabungkan HTM ke XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsb/" name="Gabungkan HTM ke XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsm/" name="Gabungkan HTM ke XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlsx/" name="Gabungkan HTM ke XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xlt/" name="Gabungkan HTM ke XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltm/" name="Gabungkan HTM ke XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xltx/" name="Gabungkan HTM ke XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xml/" name="Menggabungkan HTM ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-xps/" name="Gabungkan HTM ke XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-json/" name="Gabungkan HTM ke JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-htm-to-jpeg/" name="Gabungkan HTM ke JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

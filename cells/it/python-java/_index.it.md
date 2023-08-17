@@ -12,7 +12,7 @@ description: Python libreria di fogli di calcolo per creare leggere scrivere e a
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java è uno API veloce e affidabile per le attività di elaborazione dei fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering di fogli di lavoro in XPS, PDF, MHTML, HTML, testo normale, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
+Aspose.Cells for Python via Java è uno API veloce e affidabile per le attività di elaborazione dei fogli di calcolo. Gli sviluppatori possono creare fogli di calcolo semplici o complessi, manipolare ed estrarre informazioni da file Excel. API legge più formati Excel e può eseguire il rendering di fogli di lavoro in XPS, PDF, MHTML, HTML, testo normale, immagini e altro. È la soluzione migliore per automatizzare i report Excel utilizzando Python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Funzioni avanzate Python Excel API
     </p>
     <div class="codeblock" id="code">
      <h3>
- Salva foglio di calcolo in diversi formati - Java
+Salva foglio di calcolo in diversi formati - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Opzioni di visualizzazione flessibili
     </h2>
     <p>
-Aspose.Cells for Python via Java fornisce il controllo completo sull'impostazione della pagina consentendo di manipolare più opzioni di visualizzazione come l'anteprima delle interruzioni di pagina, impostare il livello di zoom, impostare l'orientamento della pagina, controllare la visibilità dei dati con blocchi di riquadri, dimensioni della carta, ridimensionamento, intestazioni e amp; piè di pagina e area di stampa.
+ Aspose.Cells for Python via Java fornisce il controllo completo sull'impostazione della pagina consentendo di manipolare più opzioni di visualizzazione come l'anteprima delle interruzioni di pagina, impostare il livello di zoom, impostare l'orientamento della pagina, controllare la visibilità dei dati con blocchi di riquadri, dimensioni della carta, ridimensionamento, intestazioni e amp; piè di pagina e area di stampa.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java fornisce il controllo completo sull'impostazion
  Personalizzazione dei grafici
     </h2>
     <p>
- Aspose.Cells for Python via Java fornisce supporto completo per la creazione di grafici. È possibile aggiungere facilmente grafici standard e personalizzati o impostare dinamicamente i dati del grafico per aggiornare il grafico in questa libreria Python.
+Aspose.Cells for Python via Java fornisce supporto completo per la creazione di grafici. È possibile aggiungere facilmente grafici standard e personalizzati o impostare dinamicamente i dati del grafico per aggiornare il grafico in questa libreria Python.
     </p>
    </div>
    <!--

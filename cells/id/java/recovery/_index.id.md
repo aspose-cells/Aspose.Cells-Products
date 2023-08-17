@@ -10,7 +10,7 @@ description: Perbaiki file excel yang rusak menggunakan Java. Alat pemulihan unt
 
 {{% blocks/products/pf/agp/content h2="Perbaiki File EXCEL Menggunakan Java" %}}
 
- Untuk memperbaiki file EXCEL, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java) API yang merupakan platform manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API for Java.
+ Untuk memperbaiki file EXCEL, kami akan menggunakan[Aspose.Cells for Java](https://products.aspose.com/cells/java)API yang merupakan platform manipulasi dokumen yang kaya fitur, kuat dan mudah digunakan API for Java.
  
  Aspose.Cells API dapat digunakan untuk membuat, mengedit, mengonversi, dan merender format Excel Microsoft ke format yang berbeda. Selain itu, dapat digunakan untuk pembuatan bagan yang komprehensif, pelaporan yang dapat diskalakan, dan perhitungan yang andal dalam aplikasi perangkat lunak. Aspose.Cells adalah API mandiri dan tidak memerlukan perangkat lunak apa pun seperti Microsoft atau OpenOffice.
 
@@ -20,7 +20,7 @@ description: Perbaiki file excel yang rusak menggunakan Java. Alat pemulihan unt
 
 {{% blocks/products/pf/agp/content h2="Cara memperbaiki file excel menggunakan Java" %}}
 
-Tentukan kelas yang mewarisi Aspose.Cells.IWarningCallback.
++ Tentukan kelas yang mewarisi Aspose.Cells.IWarningCallback.
 + Muat file EXCEL dengan membuat instance Workbook, menggunakan kelas pewarisan di atas, lihat kode di atas.
 + Simpan buku kerja, file excel yang rusak akan diperbaiki.
 

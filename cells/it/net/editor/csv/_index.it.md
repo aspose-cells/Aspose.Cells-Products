@@ -1,5 +1,5 @@
 ---
-title: Modifica CSV file via .NET
+title:  Modifica CSV file via .NET
 description: C# codice sorgente per modificare il documento CSV su .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

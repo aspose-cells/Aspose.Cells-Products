@@ -1,5 +1,5 @@
 ---
-title: Edit file TXT via .NET
+title:  Edit file TXT via .NET
 description: Kode sumber C# untuk mengedit dokumen TXT pada Framework .NET, .NET Core, Windows Azure, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

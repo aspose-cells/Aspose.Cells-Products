@@ -1,5 +1,5 @@
 ---
-title: Inserisci la tabella pivot nei file Micorsoft Excel XLSM tramite C#
+title:  Inserisci la tabella pivot nei file Micorsoft Excel XLSM tramite C#
 weight: 7690
 description: C# Esempio di codice per la generazione di documenti XLSM con PivotTable. Utilizzare questo codice per creare file Micorsoft Excel XLSM con tabella pivot all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Esempio di codice per la generazione di documenti XLSM con Pivot
 
 {{% blocks/products/pf/agp/text %}}
 
- È facile per gli sviluppatori inserire una tabella pivot nel foglio di calcolo in formato XLSM all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+È facile per gli sviluppatori inserire una tabella pivot nel foglio di calcolo in formato XLSM all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Esempio di codice per la generazione di documenti XLSM con Pivot
 1.  Accedi al primo foglio di lavoro della cartella di lavoro.
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
 1.  Inserisci la tabella pivot e imposta lo stile
-1.  Usare il metodo Save per salvare la cartella di lavoro come file XLSM.
+1. Usare il metodo Save per salvare la cartella di lavoro come file XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

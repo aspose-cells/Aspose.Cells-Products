@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen XLSB via Java
+title: Lindungi dan kunci dokumen XLSB via Java
 weight: 6590
 description: Contoh kode Java untuk mengunci file XLSB menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---

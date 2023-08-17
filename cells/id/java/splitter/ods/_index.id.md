@@ -13,7 +13,7 @@ description: Java contoh kode untuk membagi dokumen ODS pada Lingkungan Runtime 
 
  Untuk membagi file ODS, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API yang merupakan platform splitter kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform splitter yang kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 

@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen XLSX via Java
+title: Lindungi dan kunci dokumen XLSX via Java
 weight: 1870
 description: Contoh kode Java untuk mengunci file XLSX menggunakan kata sandi pada Java Runtime Environment untuk Aplikasi JSP/JSF dan Aplikasi Desktop.
 ---

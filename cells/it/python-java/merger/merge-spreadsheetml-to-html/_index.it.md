@@ -1,7 +1,8 @@
 ---
-title:  Unisci SPREADSHEETML a HTML tramite Python
+title: Unisci SPREADSHEETML a HTML - Combina SPREADSHEETML a HTML in Python
 url: /it/python-java/merger/merge-spreadsheetml-to-html/ 
-description: Unisci SPREADSHEETML a HTML online gratuitamente. FOGLIO ELETTRONICO online gratuito al HTML Fusione. Unisci SPREADSHEETML a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e altro ancora.
+description: Aspose Excel. Python Aspose.Cells. Merge SPREADSHEETML online gratuito in HTML saveformat. Python Combina SPREADSHEETML nel formato HTML. Unisci SPREADSHEETML a HTML in Python. SPREADSHEETML Unisci.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to HTML in Python., Free Online Python Merge SPREADSHEETML to html., Python Combine SPREADSHEETML to HTML Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci SPREADSHEETML a HTML tramite Python" h2="Libreria Python ad alta velocità per unire SPREADSHEETML a HTML. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in Python. Questa è una soluzione software professionale per importare ed esportare Excel, CSV, OpenOffice, PDF, HTML, image e molti altri formati Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Unisci SPREADSHEETML a HTML online gratuitamente. FOGLIO ELETTRONIC
 
 {{% blocks/products/pf/agp/content h2="Unisci SPREADSHEETML a HTML utilizzando Python" %}}
 
- Come unire SPREADSHEETML a HTML? Con la libreria Aspose.Cells for Python, puoi facilmente unire SPREADSHEETML a HTML a livello di codice con poche righe di codice.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. È possibile installare Aspose.Cells for Python da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
+Come posso unire SPREADSHEETML a HTML? Con la libreria Aspose.Cells for Python via Java, puoi facilmente unire SPREADSHEETML a HTML a livello di codice con poche righe di codice.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. Python Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. È possibile installare Aspose.Cells for Python via Java da<a href="https://pypi.org/project/aspose-cells/">pypi</a> , usa il comando come:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Unisci SPREADSHEETML a HTML in Python online gratuitamente" %}}
 
-L'esempio seguente mostra come unire SPREADSHEETML a HTML in Python.
+L'esempio seguente mostra come unire SPREADSHEETML a HTML in Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per unire SPREADSHEETML a HTML. Carica i tuoi file, chiama il metodo Workbook.Combine per unire i file, quindi salvalo nel file HTML. Se sviluppi il codice in Python, sarà più semplice di quanto sembri. Vedere l'esempio Python che unisce SPREADSHEETML a HTML.
@@ -27,16 +28,18 @@ Segui i semplici passaggi per unire SPREADSHEETML a HTML. Carica i tuoi file, ch
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="App gratuita per unire SPREADSHEETML allo HTML on line" InputFormat="xml" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online gratuito per unire SPREADSHEETML a HTML in Python" InputFormat="xml" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Come unire SPREADSHEETML a HTML tramite Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Le API possono essere eseguite con poche righe di codice.
+ Devi unire SPREADSHEETML a HTML a livello di codice? Un documento di base che si fonde e si concatena con[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installa 'Aspose.Cells for Python via Java'.
++ Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto Python.
 + Carica il file SPREADSHEETML con la classe Workbook.
 + Chiama il metodo Workbook.Combine per unire i file.
 + Chiama il metodo Workbook.Save e passa il nome del file di output come parametro.
@@ -75,21 +78,41 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML è l'acronimo di Extensible Markup Language che è simile a HTML ma diverso nell'uso dei tag per la definizione degli oggetti. L'idea alla base della creazione del formato di file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere in rete come il World Wide Web (WWW). La "X" in XML sta per estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo i requisiti dell'utente. È per queste caratteristiche che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, XHTML e SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per essere visualizzate nei browser. Conosciuto come linguaggio del web, HTML si è evoluto con requisiti di nuovi requisiti informativi da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da HTML elementi come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di unione supportati" subTitle="Utilizzando Python, è anche possibile unire spreadsheetml a molti altri formati di file inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-docx/" name="Unisci SPREADSHEETML a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-sql/" name="Unisci SPREADSHEETML a SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-bmp/" name="Unisci SPREADSHEETML a BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-emf/" name="Unisci SPREADSHEETML a EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-gif/" name="Unisci SPREADSHEETML a GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-html/" name="Unisci SPREADSHEETML a HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-md/" name="Unisci SPREADSHEETML a MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-mhtml/" name="Unisci SPREADSHEETML a MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-ods/" name="Unisci SPREADSHEETML a ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-pdf/" name="Unisci SPREADSHEETML a PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-png/" name="Unisci SPREADSHEETML a PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-svg/" name="Unisci SPREADSHEETML a SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tiff/" name="Unisci SPREADSHEETML a TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-tsv/" name="Unisci SPREADSHEETML a TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-txt/" name="Unisci SPREADSHEETML a TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xls/" name="Unisci SPREADSHEETML a XLS" description="Formato binario di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsb/" name="Unisci SPREADSHEETML a XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsm/" name="Unisci SPREADSHEETML a XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlsx/" name="Unisci SPREADSHEETML a XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xlt/" name="Unisci SPREADSHEETML a XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltm/" name="Unisci SPREADSHEETML a XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xltx/" name="Unisci SPREADSHEETML a XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xml/" name="Unisci SPREADSHEETML a XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-xps/" name="Unisci SPREADSHEETML a XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-json/" name="Unisci SPREADSHEETML a JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-spreadsheetml-to-jpeg/" name="Unisci SPREADSHEETML a JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

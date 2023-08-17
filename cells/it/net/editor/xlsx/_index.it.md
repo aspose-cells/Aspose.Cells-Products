@@ -1,5 +1,5 @@
 ---
-title: Modifica XLSX file via .NET
+title:  Modifica XLSX file via .NET
 description: C# codice sorgente per modificare il documento XLSX su .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

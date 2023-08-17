@@ -1,7 +1,8 @@
 ---
-title:  Gabungkan EXCEL menjadi ANGKA melalui Python
+title: Gabungkan EXCEL menjadi ANGKA - Gabungkan EXCEL menjadi ANGKA di Python
 url: /id/python-net/merger/merge-excel-to-numbers/ 
-description: Gabungkan EXCEL ke NUMBERS Online secara Gratis. Penggabungan EXCEL ke NUMBERS Online Gratis. Gabungkan EXCEL ke Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS dan lainnya.
+description: Aspose Unggul. Python Aspose.Cells. Online Gratis Menggabungkan EXCEL ke format penyimpanan ANGKA. Python Gabungkan format EXCEL ke ANGKA. Gabungkan EXCEL menjadi ANGKA di Python. Gabungkan EXCEL.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to NUMBERS in Python., Free Online Python Merge EXCEL to numbers., Python Combine EXCEL to NUMBERS Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Gabungkan EXCEL menjadi ANGKA melalui Python" h2="Pustaka Python berkecepatan tinggi untuk menggabungkan EXCEL ke ANGKA. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python. Ini adalah solusi perangkat lunak profesional untuk mengimpor dan mengekspor Excel, CSV, OpenOffice, PDF, HTML, image, dan banyak format excel lainnya." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Gabungkan EXCEL ke NUMBERS Online secara Gratis. Penggabungan EXCEL
 
 {{% blocks/products/pf/agp/content h2="Menggabungkan EXCEL menjadi ANGKA Menggunakan Python" %}}
 
- Bagaimana cara menggabungkan EXCEL ke ANGKA? Dengan pustaka Aspose.Cells for Python, Anda dapat dengan mudah menggabungkan EXCEL menjadi ANGKA secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cells/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
+ Bagaimana cara menggabungkan EXCEL ke NUMBERS? Dengan pustaka Aspose.Cells for Python via .NET, Anda dapat dengan mudah menggabungkan EXCEL ke ANGKA secara terprogram dengan beberapa baris kode.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)mampu membangun aplikasi lintas platform dengan kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak semua file Excel. Python Excel API tidak hanya mengkonversi antara format spreadsheet, tetapi juga dapat membuat file Excel sebagai gambar, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT dan lainnya, sehingga menjadikannya pilihan yang sempurna untuk bertukar dokumen dalam industri -standar format. Anda dapat menginstal Aspose.Cells for Python via .NET dari<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , gunakan perintah sebagai:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Gabungkan EXCEL menjadi ANGKA di Python Online Gratis" %}}
 
-Contoh berikut menunjukkan cara menggabungkan EXCEL ke ANGKA di Python.
+Contoh berikut menunjukkan cara menggabungkan EXCEL ke ANGKA di Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Ikuti langkah-langkah mudah untuk menggabungkan EXCEL ke NUMBERS. Unggah file Anda, panggil metode Workbook.Combine untuk menggabungkan file, lalu simpan ke file NUMBERS. Jika Anda mengembangkan kode di Python, ini akan lebih sederhana daripada kedengarannya. Lihat contoh Python yang menggabungkan EXCEL menjadi ANGKA.
@@ -27,16 +28,18 @@ Ikuti langkah-langkah mudah untuk menggabungkan EXCEL ke NUMBERS. Unggah file An
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Aplikasi Gratis untuk menggabungkan EXCEL ke NUMBERS secara online" InputFormat="xlsx" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Online Gratis untuk Menggabungkan EXCEL menjadi ANGKA di Python" InputFormat="xlsx" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan EXCEL menjadi ANGKA melalui Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API dapat dilakukan hanya dengan beberapa baris kode.
+ Perlu menggabungkan EXCEL ke NUMBERS secara terprogram? Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Instal 'Aspose.Cells for Python via .NET'.
++ Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
 + Muat file EXCEL dengan kelas Workbook.
 + Panggil metode Workbook.Combine untuk menggabungkan file.
 + Panggil metode Workbook.Save dan berikan nama file keluaran sebagai parameter.
@@ -53,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API kami didukung di semua platform utama dan Sistem Operasi. Sebelum mengekseku
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX adalah format terkenal untuk dokumen Excel Microsoft yang diperkenalkan oleh Microsoft dengan rilis Microsoft Office 2007. Berdasarkan struktur yang diatur menurut Konvensi Kemasan Terbuka sebagaimana diuraikan dalam Bagian 2 dari standar OOXML ECMA-376, format barunya adalah paket zip yang berisi sejumlah file XML. Struktur dan file yang mendasarinya dapat diperiksa hanya dengan membuka ritsleting file .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}File dengan ekstensi .numbers diklasifikasikan sebagai jenis file spreadsheet, oleh karena itu mirip dengan file .xlsx; tetapi file Numbers dibuat dengan menggunakan perangkat lunak spreadsheet Apple iWork Numbers. Apple iWork Numbers adalah unit perangkat lunak dari iWork Productivity Suite. Suite Produktivitas iWork setara dengan Office Suite Microsoft yang digunakan pada PC Windows. Oleh karena itu, kita dapat mengatakan bahwa Numbers yang tersedia untuk MacOS juga merupakan pesaing dari Microsoft Excel. Demikian pula, Microsoft Excel, file ANGKA juga dapat berisi tabel, bagan, dan rumus.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Format Penggabungan Lainnya yang Didukung" subTitle="Menggunakan Python, Seseorang juga dapat menggabungkan excel ke banyak format file lainnya termasuk." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="MHTML" description="Format Arsip Halaman Web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="ODS" description="Buka File Spreadsheet Dokumen" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="TSV" description="Nilai yang Dipisahkan Tab" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="TXT" description="Dokumen Teks" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="XLS" description="Format Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="XLSB" description="File Buku Kerja Excel Biner" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="XLSM" description="File lembar bentang" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="XLSX" description="Berkas Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Templat Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-docx/" name="Gabungkan EXCEL ke DOCX" description="Microsoft dokumen Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-sql/" name="Menggabungkan EXCEL ke SQL" description="Bahasa Permintaan Terstruktur" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-bmp/" name="Gabungkan EXCEL ke BMP" description="Gambar bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-emf/" name="Gabungkan EXCEL ke EMF" description="Format File Meta yang Disempurnakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-gif/" name="Gabungkan EXCEL ke GIF" description="Format Pertukaran Grafis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="Gabungkan EXCEL ke HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-md/" name="Menggabungkan EXCEL ke MD" description="Bahasa Penurunan Harga" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="Gabungkan EXCEL ke MHTML" description="Format Arsip Halaman Web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="Gabungkan EXCEL ke ODS" description="Buka File Spreadsheet Dokumen" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-pdf/" name="Gabungkan EXCEL ke PDF" description="Format Dokumen Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-png/" name="Gabungkan EXCEL ke PNG" description="Grafik Jaringan Portabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-svg/" name="Gabungkan EXCEL ke SVG" description="Grafik Vektor yang Dapat Diskalakan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tiff/" name="Gabungkan EXCEL ke TIFF" description="Format Gambar yang Ditandai" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="Gabungkan EXCEL ke TSV" description="Nilai yang Dipisahkan Tab" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="Gabungkan EXCEL ke TXT" description="Dokumen Teks" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="Gabungkan EXCEL ke XLS" description="Format Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="Gabungkan EXCEL ke XLSB" description="File Buku Kerja Excel Biner" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="Gabungkan EXCEL ke XLSM" description="File lembar bentang" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="Gabungkan EXCEL ke XLSX" description="Berkas Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="Gabungkan EXCEL ke XLT" description="Microsoft Templat Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Gabungkan EXCEL ke XLTM" description="Template dengan Makro Excel yang diaktifkan" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Gabungkan EXCEL ke XLTX" description="Templat Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Menggabungkan EXCEL ke XML" description="Bahasa Markup yang Dapat Diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Gabungkan EXCEL ke XPS" description="Spesifikasi Kertas XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Gabungkan EXCEL ke JSON" description="Notasi Objek JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Gabungkan EXCEL ke JPEG" description="JPEG Gambar" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

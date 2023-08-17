@@ -1,7 +1,7 @@
 ---
-title: Konversikan XML ke FODS Python via Python
-description: Konversikan XML ke FODS Online Gratis. Konverter XML ke FODS Online Gratis. Python XML ke FODS. XML ke FODS melalui Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML ke FODS - Konverter XML ke FODS Online
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Online Gratis Python Konversi XML ke FODS saveformat. Python format XML ke FODS. Simpan XML ke FODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to FODS saveformat., Free Online XML to FODS Python., Python Convert XML to FODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konversikan XML ke FODS di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi XML menjadi FODS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="FODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -22,26 +22,27 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 Contoh berikut menunjukkan cara mengonversi XML ke FODS di Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Ikuti langkah-langkah mudah untuk mengonversi XML ke FODS. Unggah file XML Anda, lalu simpan sebagai file FODS. Untuk pembacaan XML dan penulisan FODS, Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format output FODS akan identik dengan dokumen XML asli.
+Ikuti langkah mudah untuk mengonversi XML ke FODS. Unggah file XML Anda, lalu simpan sebagai file FODS. Untuk pembacaan XML dan penulisan FODS, Anda dapat menggunakan nama file yang sepenuhnya memenuhi syarat. Konten dan format output FODS akan identik dengan dokumen XML asli.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XML ke FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi XML ke FODS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="fods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi XML ke FODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengonversi XML menjadi FODS hanya dalam beberapa baris kode.
+Perlu mengonversi file XML ke FODS secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi XML menjadi FODS hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file XML dengan instance Workbook
-1.  Konversikan XML ke FODS dengan memanggil metode Workbook.save
+1.  Muat file XML dengan instance Workbook.
+1.  Konversikan XML ke FODS dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi XML ke FODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML adalah singkatan dari Extensible Markup Language yang mirip dengan HTML tetapi berbeda dalam penggunaan tag untuk mendefinisikan objek. Seluruh ide di balik pembuatan format file XML adalah untuk menyimpan dan mengangkut data tanpa bergantung pada perangkat lunak atau perangkat keras. Popularitasnya karena dapat dibaca oleh manusia dan mesin. Ini memungkinkannya untuk membuat protokol data umum dalam bentuk objek untuk disimpan dan dibagikan melalui jaringan seperti World Wide Web (WWW). "X" dalam XML adalah untuk dapat diperluas yang menyiratkan bahwa bahasa dapat diperluas ke sejumlah simbol sesuai kebutuhan pengguna. Untuk fitur-fitur inilah banyak format file standar memanfaatkannya seperti Microsoft Open XML, LibreOffice OpenDocument, XHTML dan SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}File dengan ekstensi .fods adalah jenis format dokumen OpenDocument Spreadsheet yang menyimpan data dalam baris dan kolom. Format ditentukan sebagai bagian dari spesifikasi ODF 1.2 yang diterbitkan dan dikelola oleh OASIS. File FODS tidak dapat dibuka dengan Excel, aplikasi perangkat lunak Spreadsheet lain dengan Microsoft. File FODS dapat disimpan sebagai ODS menggunakan LibreOffice dan dapat dikonversi ke format lain seperti XLS dan XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi XML ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

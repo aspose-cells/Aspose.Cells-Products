@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen XLSM via .NET
+title: Lindungi dan kunci dokumen XLSM via .NET
 weight: 7530
 description: Kode sumber C# untuk mengunci file XLSM menggunakan kata sandi pada Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
 ---
@@ -112,7 +112,7 @@ book.Save("protected.xlsm");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file XLSM yang dihasilkan dari tautan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

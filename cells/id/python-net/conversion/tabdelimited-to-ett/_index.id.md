@@ -1,7 +1,7 @@
 ---
-title: Ubah TABDELIMITED menjadi ETT Python via Python
-description: Ubah TABDELIMITED menjadi ETT Online Gratis. Konverter TABDELIMITED ke ETT Online Gratis. Python TABDELIMITED to ETT. TABDELIMITED ke ETT melalui Python.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED to ETT - Online TABDELIMITED to ETT Converter
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Convert TABDELIMITED to ETT saveformat. Python TABDELIMITED format ETT. Simpan TABDELIMITED ke ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to ETT saveformat., Free Online TABDELIMITED to ETT Python., Python Convert TABDELIMITED to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TABDELIMITED menjadi ETT di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi TABDELIMITED ke ETT. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengonversi TABDELIMITED ke ETT. Unggah file T
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TABDELIMITED ke ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TABDELIMITED ke ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi TABDELIMITED ke ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python pengembang dapat dengan mudah memuat & mengonversi TABDELIMITED ke ETT hanya dalam beberapa baris kode.
+Perlu mengonversi file TABDELIMITED ke ETT secara terprogram? Python pengembang dapat dengan mudah memuat & mengonversi TABDELIMITED ke ETT hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file TABDELIMITED dengan instance Workbook
-1.  Ubah TABDELIMITED menjadi ETT dengan memanggil metode Workbook.save
+1.  Muat file TABDELIMITED dengan instance Workbook.
+1.  Ubah TABDELIMITED menjadi ETT dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi dari TABDELIMITED ke ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format file Tab-Separated Values (TSV) mewakili data yang dipisahkan dengan tab dalam format teks biasa. Format file, mirip dengan CSV, digunakan untuk mengatur data secara terstruktur untuk mengimpor dan mengekspor antara aplikasi yang berbeda. Format ini terutama digunakan untuk impor/ekspor data dan pertukaran dalam aplikasi Spreadsheet dan database. Setiap catatan dalam file TSV dimuat dalam satu baris file teks di mana setiap nilai bidang dipisahkan oleh karakter tab. Jenis media untuk format file TSV adalah teks/tab-separated-values.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}File ETT adalah template spreadsheet yang dibuat oleh Kingsoft Spreadsheets, program spreadsheet yang termasuk dalam suite WPS Office. Ini menyimpan template yang dapat digunakan sebagai titik awal untuk membuat spreadsheet Kingsoft baru (file .ET). File ETT sering digunakan untuk membuat anggaran keuangan dan mengatur data.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi TABDELIMITED ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

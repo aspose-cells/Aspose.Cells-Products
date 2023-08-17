@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file ODS termasuk kapan file ODS diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file ODS termasuk kapan file ODS diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 

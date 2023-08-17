@@ -58,7 +58,7 @@ description: Java codice di esempio per cercare parole con pattern nel file XLSX
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file XLSX istanziando un oggetto Workbook.
-Accedi al primo foglio di lavoro nel file XLSX.
++ Accedi al primo foglio di lavoro nel file XLSX.
 + Trova la cella contenente la formula specificata.
 + Crea un'istanza FindOptions.
 + Trova la cella contenente un valore stringa

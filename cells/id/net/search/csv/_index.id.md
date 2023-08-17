@@ -13,7 +13,7 @@ description: Kode sumber C# untuk mencari kata dengan pola pada file CSV pada Fr
 
  Untuk mencari file CSV, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API yang merupakan dokumen kaya fitur, kuat dan mudah digunakan mencari API untuk platform C#. Membuka
+API yang merupakan dokumen kaya fitur, kuat dan mudah digunakan mencari API untuk platform C#. Membuka
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  manajer paket, cari
  **Aspose.Cells** 

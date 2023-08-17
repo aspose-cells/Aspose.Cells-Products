@@ -16,7 +16,7 @@ description: Elabora i formati di file Excel tramite la libreria Node.js. Leggi 
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più diffusi tra cui XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java supporta i formati di fogli di calcolo più diffusi tra cui XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Elabora i formati di file Excel tramite la libreria Node.js. Leggi 
  Converti foglio di lavoro in immagine
     </li>
     <li>
-Converti foglio di calcolo in PDF
+ Converti foglio di calcolo in PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Converti foglio di calcolo in PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
+Crea &amp; manipolare commenti &amp; collegamenti ipertestuali
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Converti foglio di calcolo in PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipola e aggiorna le tabelle pivot tramite API
+ Manipola e aggiorna le tabelle pivot tramite API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipola e aggiorna le tabelle pivot tramite API
  Opzioni di visualizzazione flessibili
     </h2>
     <p>
- Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione della pagina del foglio di lavoro, è possibile manipolare le opzioni di visualizzazione del foglio di lavoro come orientamento della pagina, interruzioni, dimensioni, ridimensionamento, intestazioni, piè di pagina e livello di zoom. Inoltre, gli sviluppatori possono controllare la visibilità dei dati con l'aiuto dell'area di stampa e bloccare i riquadri per soddisfare le specifiche dell'applicazione.
+Aspose.Cells for Node.js via Java fornisce il pieno controllo dell'impostazione della pagina del foglio di lavoro, è possibile manipolare le opzioni di visualizzazione del foglio di lavoro come orientamento della pagina, interruzioni, dimensioni, ridimensionamento, intestazioni, piè di pagina e livello di zoom. Inoltre, gli sviluppatori possono controllare la visibilità dei dati con l'aiuto dell'area di stampa e bloccare i riquadri per soddisfare le specifiche dell'applicazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipola e aggiorna le tabelle pivot tramite API
  Opzioni di sicurezza
     </h2>
     <p>
-Aspose.Cells for Node.js via Java offre un'ampia gamma di funzioni di sicurezza tra cui crittografia/decrittografia di fogli di calcolo, contenuti, oggetti e amp; protezione dello scenario, nonché la possibilità di nascondere e mostrare righe, colonne e amp; fogli di lavoro.
+ Aspose.Cells for Node.js via Java offre un'ampia gamma di funzioni di sicurezza tra cui crittografia/decrittografia di fogli di calcolo, contenuti, oggetti e amp; protezione dello scenario, nonché la possibilità di nascondere e mostrare righe, colonne e amp; fogli di lavoro.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java offre un'ampia gamma di funzioni di sicurezza 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Supporto completo per la formattazione dei fogli di lavoro
+Supporto completo per la formattazione dei fogli di lavoro
     </h2>
     <p>
-Aspose.Cells for Node.js via Java offre funzionalità di formattazione avanzate che consentono di controllare la presentazione dei dati. Puoi applicare la formattazione a un foglio di lavoro, una colonna, una riga o una cella o aggiungere Rich Text a una singola cella, applicare bordi, impostare motivi di sfondo e stile del carattere. Lo API consente inoltre di aggiungere, manipolare e modificare; calcolare al volo le regole di formattazione condizionale.
+ Aspose.Cells for Node.js via Java offre funzionalità di formattazione avanzate che consentono di controllare la presentazione dei dati. Puoi applicare la formattazione a un foglio di lavoro, una colonna, una riga o una cella o aggiungere Rich Text a una singola cella, applicare bordi, impostare motivi di sfondo e stile del carattere. Lo API consente inoltre di aggiungere, manipolare e modificare; calcolare al volo le regole di formattazione condizionale.
     </p>
    </div>
    <div class="col-lg-12">

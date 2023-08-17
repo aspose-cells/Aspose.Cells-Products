@@ -1,7 +1,7 @@
 ---
-title: Ubah TSV menjadi OTS Python via Python
-description: Ubah TSV menjadi OTS Online Gratis. Gratis Online TSV ke Konverter OTS. Python TSV ke OTS. TSV ke OTS melalui Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV ke OTS - Konverter ke OTS Online TSV
+description: Aspose Unggul. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Ubah TSV menjadi OTS saveformat. Python TSV ke format OTS. Simpan TSV ke OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to OTS saveformat., Free Online TSV to OTS Python., Python Convert TSV to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Ubah TSV menjadi OTS di Python" h2="Pustaka Python berkecepatan tinggi untuk mengonversi TSV ke OTS. Gunakan konversi excel kami API untuk mengembangkan perangkat lunak independen platform tingkat tinggi di Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Ikuti langkah-langkah mudah untuk mengubah TSV menjadi OTS. Unggah file TSV Anda
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TSV menjadi OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Aplikasi Gratis dan Kode Contoh untuk Mengonversi TSV menjadi OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Cara Mengubah TSV menjadi OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Pengembang Python dapat dengan mudah memuat & mengonversi TSV menjadi OTS hanya dalam beberapa baris kode.
+Perlu mengonversi file TSV ke OTS secara terprogram? Pengembang Python dapat dengan mudah memuat & mengonversi TSV menjadi OTS hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Instal 'Aspose.Cells for Python via .NET'.
 1.  Tambahkan referensi perpustakaan (impor perpustakaan) ke proyek Python Anda.
-1.  Muat file TSV dengan instance Workbook
-1.  Ubah TSV menjadi OTS dengan memanggil metode Workbook.save
+1.  Muat file TSV dengan instance Workbook.
+1.  Ubah TSV menjadi OTS dengan memanggil metode Workbook.save.
+1.  Dapatkan hasil konversi TSV ke OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/)tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
+ Dan Anda juga bisa mengikuti[petunjuk langkah demi langkah](https://docs.aspose.com/cells/python-net/getting-started/) tentang cara memasang "Aspose.Cells for Python via .NET" ke lingkungan pengembang Anda.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Instal Aspose.Cells for Python dari<a href="https://pypi.org/project/aspose-cell
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python adalah platform-independen API dan dapat digunakan pada platform apapun (Windows, Linux), pastikan sistem memiliki[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
+ Aspose.Cells for Python via NET adalah platform-independent API dan bisa digunakan di platform apapun (Windows, Linux), pastikan sistem sudah[Python](https://www.python.org/downloads/) 3.7 atau lebih tinggi.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format file Tab-Separated Values (TSV) mewakili data yang dipisahkan dengan tab dalam format teks biasa. Format file, mirip dengan CSV, digunakan untuk mengatur data secara terstruktur untuk mengimpor dan mengekspor antara aplikasi yang berbeda. Format ini terutama digunakan untuk impor/ekspor data dan pertukaran dalam aplikasi Spreadsheet dan database. Setiap catatan dalam file TSV dimuat dalam satu baris file teks di mana setiap nilai bidang dipisahkan oleh karakter tab. Jenis media untuk format file TSV adalah teks/tab-separated-values.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}File dengan ekstensi .ots adalah file Templat OpenDocument Spreadsheet yang dibuat dengan perangkat lunak aplikasi Calc yang termasuk dalam Apache OpenOffice. Software aplikasi Calc ini mirip dengan Excel yang tersedia di Office Microsoft. Format file OTS digunakan untuk membuat template yang berisi pengaturan yang telah ditentukan sebelumnya terkait dengan gaya, font, data, tata letak spreadsheet, dan pemformatan. File OTF memiliki tipe mime application/vnd.oasis.opendocument.spreadsheet-template. File template ini dapat digunakan sebagai titik awal untuk menghasilkan dan menyimpan file data aktual yang disimpan dalam format file ODS. File OTS dapat digunakan dengan aplikasi seperti OpenOffice dan LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi TSV ke banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 

@@ -49,14 +49,14 @@ description: Kode sampel Java untuk menggabungkan dokumen XLSB pada Lingkungan R
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSB pertama dengan instance kelas Workbook.
 + Muat dokumen XLSB kedua dengan contoh kelas Workbook.
 + Menggabungkan file menggunakan metode combine().
-simpan file XLSB yang digabungkan di jalur yang ditentukan
++ simpan file XLSB yang digabungkan di jalur yang ditentukan
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsbFile1.save("combinedFileWithPath.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLSB Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan digabungkan dan digabungkan secara instan." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan digabungkan dan digabungkan secara instan." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

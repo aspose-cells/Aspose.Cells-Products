@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
+Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file TXT Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan digabungkan dan digabungkan secara instan." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan digabungkan dan digabungkan secara instan." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

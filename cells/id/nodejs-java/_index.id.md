@@ -16,7 +16,7 @@ description: Memproses format file Excel melalui pustaka Node.js. Baca tulis ren
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer termasuk XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java mendukung format spreadsheet paling populer termasuk XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Memproses format file Excel melalui pustaka Node.js. Baca tulis ren
  Ubah Lembar Kerja menjadi Gambar
     </li>
     <li>
-Konversi Spreadsheet ke PDF
+ Konversi Spreadsheet ke PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Konversi Spreadsheet ke PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Buat &amp; memanipulasi komentar &amp; hyperlink
+Buat &amp; memanipulasi komentar &amp; hyperlink
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Konversi Spreadsheet ke PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Memanipulasi dan menyegarkan Tabel Pivot melalui API
+ Memanipulasi dan menyegarkan Tabel Pivot melalui API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Memanipulasi dan menyegarkan Tabel Pivot melalui API
  Opsi Tampilan Fleksibel
     </h2>
     <p>
- Aspose.Cells for Node.js via Java menyediakan kontrol penuh atas penyiapan halaman lembar kerja, seseorang dapat memanipulasi opsi tampilan lembar kerja seperti orientasi halaman, jeda, ukuran, penskalaan, header, footer, dan tingkat zoom. Selain itu, pengembang dapat mengontrol visibilitas data dengan bantuan area cetak dan panel beku agar sesuai dengan spesifikasi aplikasi.
+Aspose.Cells for Node.js via Java menyediakan kontrol penuh atas penyiapan halaman lembar kerja, seseorang dapat memanipulasi opsi tampilan lembar kerja seperti orientasi halaman, jeda, ukuran, penskalaan, header, footer, dan tingkat zoom. Selain itu, pengembang dapat mengontrol visibilitas data dengan bantuan area cetak dan panel beku agar sesuai dengan spesifikasi aplikasi.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Memanipulasi dan menyegarkan Tabel Pivot melalui API
  Pilihan Keamanan
     </h2>
     <p>
-Aspose.Cells for Node.js via Java menawarkan berbagai fitur keamanan termasuk enkripsi/dekripsi spreadsheet, konten, objek &amp; perlindungan skenario serta kemampuan untuk menyembunyikan dan menampilkan baris, kolom &amp; lembar kerja.
+ Aspose.Cells for Node.js via Java menawarkan berbagai fitur keamanan termasuk enkripsi/dekripsi spreadsheet, konten, objek &amp; perlindungan skenario serta kemampuan untuk menyembunyikan dan menampilkan baris, kolom &amp; lembar kerja.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java menawarkan berbagai fitur keamanan termasuk en
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Dukungan Komprehensif untuk Pemformatan Lembar Kerja
+Dukungan Komprehensif untuk Pemformatan Lembar Kerja
     </h2>
     <p>
-Aspose.Cells for Node.js via Java menyediakan fitur pemformatan lanjutan yang memungkinkan Anda mengontrol penyajian data Anda. Anda dapat menerapkan pemformatan ke lembar kerja, kolom, baris, atau sel atau menambahkan Teks Kaya ke satu sel, menerapkan batas, mengatur pola latar belakang, dan gaya font. API juga memungkinkan untuk menambah, memanipulasi &amp; menghitung aturan pemformatan bersyarat dengan cepat.
+ Aspose.Cells for Node.js via Java menyediakan fitur pemformatan lanjutan yang memungkinkan Anda mengontrol penyajian data Anda. Anda dapat menerapkan pemformatan ke lembar kerja, kolom, baris, atau sel atau menambahkan Teks Kaya ke satu sel, menerapkan batas, mengatur pola latar belakang, dan gaya font. API juga memungkinkan untuk menambah, memanipulasi &amp; menghitung aturan pemformatan bersyarat dengan cepat.
     </p>
    </div>
    <div class="col-lg-12">

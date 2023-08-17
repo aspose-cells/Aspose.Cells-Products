@@ -18,7 +18,7 @@ description: Gabungkan file spreadsheet Excel & OpenOffice hanya dengan beberapa
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Menggabungkan Beberapa File Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)metode ini mendukung penggabungan data, gaya, dan rumus file Excel ke spreadsheet baru dengan format yang sama. Ini adalah cara yang efisien untuk menggabungkan beberapa file saat menggunakan caching.
 {{% blocks/products/pf/feature-page-code h3="Kode C# untuk Menggabungkan Beberapa File Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

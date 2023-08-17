@@ -1,5 +1,5 @@
 ---
-title:  Inserisci il grafico pivot nei file Micorsoft Excel XLSB tramite C#
+title: Inserisci il grafico pivot nei file Micorsoft Excel XLSB tramite C#
 weight: 7690
 description: C# Codice di esempio per la generazione di documenti XLSB con grafico pivot. Utilizzare questo codice per creare file Micorsoft Excel XLSB con grafico pivot all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Codice di esempio per la generazione di documenti XLSB con grafi
 
 {{% blocks/products/pf/agp/text %}}
 
-È facile per gli sviluppatori inserire il grafico pivot nel foglio di calcolo in formato XLSB all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+ È facile per gli sviluppatori inserire il grafico pivot nel foglio di calcolo in formato XLSB all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ description: C# Codice di esempio per la generazione di documenti XLSB con grafi
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
 1.  Inserisci la tabella pivot e imposta lo stile
 1.  Inserisci il grafico pivot utilizzando i dati della tabella pivot
-1.  Usare il metodo Save per salvare la cartella di lavoro come file XLSB.
+1. Usare il metodo Save per salvare la cartella di lavoro come file XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

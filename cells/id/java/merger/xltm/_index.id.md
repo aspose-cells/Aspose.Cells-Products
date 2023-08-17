@@ -49,14 +49,14 @@ description: Kode sampel Java untuk menggabungkan dokumen XLTM pada Lingkungan R
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLTM pertama dengan instance kelas Workbook.
 + Muat dokumen XLTM kedua dengan contoh kelas Workbook.
 + Menggabungkan file menggunakan metode combine().
-simpan file XLTM yang digabungkan di jalur yang ditentukan
++ simpan file XLTM yang digabungkan di jalur yang ditentukan
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltmFile1.save("combinedFileWithPath.xltm");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file XLTM Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan digabungkan dan digabungkan secara instan." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan digabungkan dan digabungkan secara instan." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -116,7 +116,7 @@ xltmFile1.save("combinedFileWithPath.xltm");
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template seperti itu digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
+Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

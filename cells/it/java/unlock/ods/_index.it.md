@@ -13,7 +13,7 @@ description: Java codice di esempio per sbloccare il file ODS protetto da passwo
 
  Per sbloccare il file ODS, useremo
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API che è una piattaforma di protezione ricca di funzionalità, potente e facile da usare API for Java. Puoi scaricare l'ultima versione direttamente da
+ API che è una piattaforma di protezione ricca di funzionalità, potente e facile da usare API for Java. Puoi scaricare l'ultima versione direttamente da
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 

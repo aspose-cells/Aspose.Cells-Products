@@ -1,7 +1,8 @@
 ---
-title:  Unisci NUMBERS a XLSM tramite C#
+title: Unisci NUMBERS a XLSM - Combina NUMBERS a XLSM in C#
 url: /it/net/merger/merge-numbers-to-xlsm/ 
-description: Unisci NUMERI a XLSM online gratuitamente. NUMERI online gratuiti al XLSM Fusione. Unisci NUMBERS a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS e altro ancora.
+description: Aspose Excel. C# Aspose.Cells. Unisci NUMERI online gratuiti in XLSM saveformat. C# Combina i NUMERI nel formato XLSM. Unisci NUMBERS a XLSM in C#. NUMBERS Unisci.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge NUMBERS to XLSM in C#., Free Online C# Merge NUMBERS to xlsm., C# Combine NUMBERS to XLSM Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci NUMBERS a XLSM tramite C#" h2="Libreria C# ad alta velocità per unire NUMBERS a XLSM. Usa la nostra conversione excel API per sviluppare software indipendente dalla piattaforma di alto livello in C#. Questa è una soluzione software professionale per importare ed esportare Excel, CSV, OpenOffice, PDF, HTML, image e molti altri formati Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Unisci NUMERI a XLSM online gratuitamente. NUMERI online gratuiti a
 
 {{% blocks/products/pf/agp/content h2="Unisci NUMBERS a XLSM utilizzando C#" %}}
 
- Come unire i NUMERI allo XLSM? Con la libreria Aspose.Cells for .NET, puoi facilmente unire NUMBERS a XLSM a livello di codice con poche righe di codice.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. .NET Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Aprire[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca Aspose.Cells e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
+ Come posso unire i NUMERI allo XLSM? Con la libreria Aspose.Cells for .NET, puoi facilmente unire NUMBERS a XLSM a livello di codice con poche righe di codice.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)è in grado di creare applicazioni multipiattaforma con la capacità di generare, modificare, convertire, renderizzare e stampare tutti i file Excel. .NET Excel API non solo converte tra formati di fogli di calcolo, ma può anche rendere i file Excel come immagini, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT e altro, rendendolo così una scelta perfetta per lo scambio di documenti in standard del settore formati. Aprire[NuGet](https://www.nuget.org/packages/aspose.cells) gestore pacchetti, cerca Aspose.Cells e installa. È inoltre possibile utilizzare il seguente comando dalla console di Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Unisci i NUMERI a XLSM in C# online gratuitamente" %}}
 
-L'esempio seguente mostra come unire NUMBERS a XLSM in C#.
+L'esempio seguente mostra come unire NUMBERS a XLSM in Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Segui i semplici passaggi per unire NUMBERS a XLSM. Carica i tuoi file, chiama il metodo Workbook.Combine per unire i file, quindi salvalo nel file XLSM. Se sviluppi il codice in C#, sarà più semplice di quanto sembri. Vedi l'esempio C# che unisce NUMBERS a XLSM.
@@ -36,16 +37,18 @@ Segui i semplici passaggi per unire NUMBERS a XLSM. Carica i tuoi file, chiama i
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="App gratuita per unire i NUMERI allo XLSM on line" InputFormat="numbers" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online gratuito per unire NUMERI a XLSM in C#" InputFormat="numbers" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Come unire i NUMERI a XLSM tramite C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Un documento di base che si fonde e si concatena con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Le API possono essere eseguite con poche righe di codice.
+ Hai bisogno di unire NUMBERS a XLSM a livello di programmazione? Un documento di base che si fonde e si concatena con[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Le API possono essere eseguite con poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installa 'Aspose.Cells for .NET'.
++ Aggiungi un riferimento alla libreria (importa la libreria) al tuo progetto C#.
 + Carica il file NUMBERS con la classe Workbook.
 + Chiama il metodo Workbook.Combine per unire i file.
 + Chiama il metodo Workbook.Save e passa il nome del file di output come parametro.
@@ -62,7 +65,7 @@ Ci sono due opzioni alternative per installare "Aspose.Cells for .NET" sul tuo s
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installa un[NuGet Pacco](https://www.nuget.org/packages/Aspose.Cells/) . Vedere[Documentazione](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installa la libreria usando[Console di gestione pacchetti](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)all'interno dell'IDE di Visual Studio
+1.  Installa la libreria usando[Console di gestione pacchetti](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) all'interno dell'IDE di Visual Studio
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Le nostre API sono supportate su tutte le principali piattaforme e sistemi opera
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} file con estensione .numbers sono classificati come file di tipo foglio di calcolo, ecco perché sono simili ai file .xlsx; ma i file Numbers vengono creati utilizzando il software per fogli di calcolo Apple iWork Numbers. Apple iWork Numbers è un'unità software della iWork Productivity Suite. La suite di produttività iWork è equivalente alla suite Office Microsoft utilizzata sui PC Windows. Quindi, possiamo dire che Numbers disponibile per MacOS è anche un concorrente di Microsoft Excel. Allo stesso modo, Microsoft Excel, il file NUMBERS può contenere anche tabelle, grafici e formule.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}I file con estensione XLSM sono un tipo di file di foglio di calcolo che supportano le macro. Dal punto di vista applicativo, una Macro è un insieme di istruzioni utilizzate per automatizzare i processi. Una macro viene utilizzata per registrare i passaggi che vengono eseguiti ripetutamente e facilita l'esecuzione delle azioni eseguendo nuovamente la macro. Le macro sono programmate con Visual Basic for Applications (VBA) di Microsoft dall'interno della cartella di lavoro di Excel utilizzando Visual Basic Editor e possono essere eseguite/debug direttamente da lì.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di unione supportati" subTitle="Usando C#, One può anche unire i numeri a molti altri formati di file inclusi." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-mhtml/" name="MHTML" description="Formato archivio pagina web" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-ods/" name="ODS" description="File foglio di calcolo OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-tsv/" name="TSV" description="Valori separati da tabulazioni" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-txt/" name="TXT" description="Documento di testo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xls/" name="XLS" description="Formato binario di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsb/" name="XLSB" description="File binario della cartella di lavoro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsm/" name="XLSM" description="File foglio di calcolo" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsx/" name="XLSX" description="File Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Modello Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xltm/" name="XLTM" description="Modello con attivazione macro di Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xltx/" name="XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-docx/" name="Unisci i NUMERI a DOCX" description="Microsoft Documento Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-sql/" name="Unisci NUMBERS a SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-bmp/" name="Unisci i NUMERI a BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-emf/" name="Unisci i NUMERI a EMF" description="Formato Metafile avanzato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-gif/" name="Unisci i NUMERI a GIF" description="Formato di interscambio grafico" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-html/" name="Unisci i NUMERI a HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-md/" name="Unisci NUMBERS a MD" description="Lingua di markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-mhtml/" name="Unisci i NUMERI a MHTML" description="Formato archivio pagina web" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-ods/" name="Unisci i NUMERI a ODS" description="File foglio di calcolo OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-pdf/" name="Unisci i NUMERI a PDF" description="Formato documento portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-png/" name="Unisci i NUMERI a PNG" description="Grafica di rete portatile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-svg/" name="Unisci i NUMERI a SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-tiff/" name="Unisci i NUMERI a TIFF" description="Formato immagine con tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-tsv/" name="Unisci i NUMERI a TSV" description="Valori separati da tabulazioni" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-txt/" name="Unisci i NUMERI a TXT" description="Documento di testo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xls/" name="Unisci i NUMERI a XLS" description="Formato binario di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsb/" name="Unisci i NUMERI a XLSB" description="File binario della cartella di lavoro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsm/" name="Unisci i NUMERI a XLSM" description="File foglio di calcolo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlsx/" name="Unisci i NUMERI a XLSX" description="File Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xlt/" name="Unisci i NUMERI a XLT" description="Microsoft Modello Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xltm/" name="Unisci i NUMERI a XLTM" description="Modello con attivazione macro di Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xltx/" name="Unisci i NUMERI a XLTX" description="Modello Excel Office OpenXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xml/" name="Unisci NUMBERS a XML" description="Linguaggio di marcatura estensibile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-xps/" name="Unisci i NUMERI a XPS" description="Specifiche della carta XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-json/" name="Unisci i NUMERI a JSON" description="Notazione oggetto JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-numbers-to-jpeg/" name="Unisci i NUMERI a JPEG" description="JPEG Immagine" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

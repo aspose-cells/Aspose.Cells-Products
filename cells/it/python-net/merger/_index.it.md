@@ -1,6 +1,6 @@
 ---
 title:  Unisci file Excel tramite Python
-description: Unisci il file Excel nel codice Python. Combina il file Excel usando Python.
+description: Unisci il file Excel nel codice Python. Combina il file Excel utilizzando Python.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci i formati Excel in Python" h2="Fusione di documenti nativa e ad alte prestazioni utilizzando le API lato server Aspose.Cells for Python, senza l\'uso di alcun software come Microsoft o Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}

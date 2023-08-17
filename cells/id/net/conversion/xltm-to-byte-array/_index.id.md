@@ -11,7 +11,7 @@ description: C# Kode contoh untuk konversi XLTM ke Byte Array. Gunakan kode ini 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLTM ke Byte Array serta a**Byte Array ke XLTM**dokumen menggunakan bahasa C#. Untuk mengonversi XLTM menjadi array byte, kami akan menggunakan
+ Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLTM ke Byte Array serta a**Byte Array ke XLTM** dokumen menggunakan bahasa C#. Untuk mengonversi XLTM menjadi array byte, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API yang menawarkan berbagai fitur untuk manipulasi dan konversi dokumen menggunakan platform .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -82,7 +82,7 @@ Pustaka Pemrograman Spreadsheet Excel yang mampu membangun aplikasi lintas platf
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template seperti itu digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
+Ekstensi file XLTM mewakili file yang dihasilkan oleh Microsoft Excel sebagai file template berkemampuan Makro. File XLTM mirip dengan XLTX dalam struktur selain itu nanti tidak mendukung pembuatan file template dengan makro. File template tersebut digunakan untuk menghasilkan dan mengatur tata letak, pemformatan, dan pengaturan lainnya bersama dengan makro untuk memfasilitasi pembuatan file XLSX yang serupa.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

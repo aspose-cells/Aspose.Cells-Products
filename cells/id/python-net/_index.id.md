@@ -12,7 +12,7 @@ description: Python pustaka spreadsheet untuk membuat baca tulis dan parsing fil
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python via .Net adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatiskan laporan excel menggunakan python.
+ Aspose.Cells for Python via .Net adalah API yang cepat dan andal untuk tugas pemrosesan spreadsheet. Pengembang dapat membuat spreadsheet sederhana atau kompleks, memanipulasi serta mengekstrak informasi dari file excel. API membaca berbagai format excel dan dapat merender lembar kerja ke XPS, PDF, MHTML, HTML, Teks Biasa, gambar, dan lainnya. Ini adalah solusi terbaik untuk mengotomatiskan laporan excel menggunakan python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Opsi Tampilan Fleksibel
     </h2>
     <p>
-Aspose.Cells for Python via .NET menyediakan kontrol penuh atas pengaturan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, mengatur tingkat zoom, mengatur orientasi halaman, mengontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, tajuk &amp; footer dan area cetak.
+ Aspose.Cells for Python via .NET menyediakan kontrol penuh atas pengaturan halaman yang memungkinkan untuk memanipulasi beberapa opsi tampilan seperti jeda halaman pratinjau, mengatur tingkat zoom, mengatur orientasi halaman, mengontrol visibilitas data dengan panel beku, ukuran kertas, penskalaan, tajuk &amp; footer dan area cetak.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python via .NET menyediakan kontrol penuh atas pengaturan halam
  Kustomisasi Bagan
     </h2>
     <p>
- Aspose.Cells for Python via .NET menyediakan dukungan penuh untuk charting. Seseorang dapat dengan mudah menambahkan bagan standar dan yang disesuaikan atau mengatur data bagan secara dinamis untuk menyegarkan bagan dengan pustaka python ini.
+Aspose.Cells for Python via .NET menyediakan dukungan penuh untuk charting. Seseorang dapat dengan mudah menambahkan bagan standar dan yang disesuaikan atau mengatur data bagan secara dinamis untuk menyegarkan bagan dengan pustaka python ini.
     </p>
    </div>
    <!--

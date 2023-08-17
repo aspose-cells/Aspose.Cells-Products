@@ -13,7 +13,7 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format ODS di
 
  Untuk mendapatkan metadata file ODS, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -53,12 +53,12 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format ODS di
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file ODS termasuk kapan file ODS diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file ODS termasuk kapan file ODS diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file ODS di dalam WorkbookMetadata
-Buat Objek MetadataOptions dengan opsi yang relevan
++ Buat Objek MetadataOptions dengan opsi yang relevan
 + Atur properti yang relevan
 + Simpan info metadata ODS
 

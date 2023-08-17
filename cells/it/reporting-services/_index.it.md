@@ -40,7 +40,7 @@ description: Estensione per il rendering di SQL Server Reporting Services - Espo
  Caselle di testo
     </li>
     <li>
- immagini
+immagini
     </li>
     <li>
  Sotto-report
@@ -312,7 +312,7 @@ description: Estensione per il rendering di SQL Server Reporting Services - Espo
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Comprimi o espandi i campi della tabella pivot
+Comprimi o espandi i campi della tabella pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: Estensione per il rendering di SQL Server Reporting Services - Espo
  Aspose.Cells' Strumento di progettazione report
     </h2>
     <p>
-Gli sviluppatori possono progettare e fornire report direttamente da Microsoft Excel utilizzando Aspose.Cells.Report.Designer, un semplice strumento di progettazione che utilizza Microsoft Excel come modello di report. Questa funzione consente di sfruttare tutte le potenti funzionalità e caratteristiche disponibili all'interno dell'applicazione Excel Microsoft, tra cui tabelle pivot, grafici interattivi, formule e così via.
+ Gli sviluppatori possono progettare e fornire report direttamente da Microsoft Excel utilizzando Aspose.Cells.Report.Designer, un semplice strumento di progettazione che utilizza Microsoft Excel come modello di report. Questa funzione consente di sfruttare tutte le potenti funzionalità e caratteristiche disponibili all'interno dell'applicazione Excel Microsoft, tra cui tabelle pivot, grafici interattivi, formule e così via.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Gli sviluppatori possono progettare e fornire report direttamente da Microsoft E
  Esporta report in formato foglio di calcolo
     </h2>
     <p>
- Aspose.Cells for Reporting Services supporta tutti i più diffusi formati di file Microsoft Excel (97 - 2016), inclusi i formati Excel Microsoft “nativi” come XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited e HTML. Aspose.Cells for Reporting Services supporta anche il formato file ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services supporta tutti i formati di file Excel Microsoft più diffusi (97 - 2016), inclusi i formati Excel “nativi” Microsoft come XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited e HTML. Aspose.Cells for Reporting Services supporta anche il formato file ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Inoltre, Aspose.Cells for Reporting Services esporta i documenti Excel come fogli di calcolo completamente modificabili, ovvero; l'utente finale può modificare manualmente i fogli di calcolo risultanti nell'applicazione Excel Microsoft, se necessario.
@@ -367,7 +367,7 @@ Gli sviluppatori possono progettare e fornire report direttamente da Microsoft E
  Alta fedeltà: identica a Report Design
     </h2>
     <p>
-Aspose.Cells for Reporting Services esportare i report in Microsoft fogli di calcolo Excel in modo che il risultato appaia identico a quello originale generato dal report designer di Reporting Services integrato. Tutte le funzionalità del rapporto vengono convertite con il massimo grado di precisione per rendere i fogli di calcolo Excel Microsoft il più simili possibile a quello originale.
+ Aspose.Cells for Reporting Services esportare i report in Microsoft fogli di calcolo Excel in modo che il risultato appaia identico a quello originale generato dal report designer di Reporting Services integrato. Tutte le funzionalità del rapporto vengono convertite con il massimo grado di precisione per rendere i fogli di calcolo Excel Microsoft il più simili possibile a quello originale.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services esportare i report in Microsoft fogli di cal
  Varie opzioni di gestione dei dati
     </h2>
     <p>
- Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagina raggruppati mentre il raggruppamento può essere impostato in fase di progettazione come altri elementi del report. Aspose.Cells for Reporting Services supporta anche parametri e variabili globali come origini dati del report. Gli sviluppatori possono anche utilizzare la query Microsoft per creare origini dati e query; questo è uno strumento ampiamente utilizzato e familiare alla maggior parte degli utenti.
+Aspose.Cells for Reporting Services supporta le tabelle con righe e piè di pagina raggruppati mentre il raggruppamento può essere impostato in fase di progettazione come altri elementi del report. Aspose.Cells for Reporting Services supporta anche parametri e variabili globali come origini dati del report. Gli sviluppatori possono anche utilizzare la query Microsoft per creare origini dati e query; questo è uno strumento ampiamente utilizzato e familiare alla maggior parte degli utenti.
     </p>
     <p>
-Inoltre, Aspose.Cells for Reporting Services supporta sia le origini dati specifiche dei report sia le origini dati condivise create in precedenza sul server di report. Gli sviluppatori possono utilizzare origini dati specifiche del report in fase di progettazione e specificare origini dati condivise come origini dati del report durante la pubblicazione dei report.
+ Inoltre, Aspose.Cells for Reporting Services supporta sia le origini dati specifiche dei report sia le origini dati condivise create in precedenza sul server di report. Gli sviluppatori possono utilizzare origini dati specifiche del report in fase di progettazione e specificare origini dati condivise come origini dati del report durante la pubblicazione dei report.
     </p>
    </div>
    <!-- 

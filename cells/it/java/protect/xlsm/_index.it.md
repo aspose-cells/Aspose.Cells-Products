@@ -1,5 +1,5 @@
 ---
-title:  Proteggi e blocca il documento XLSM via Java
+title: Proteggi e blocca il documento XLSM via Java
 weight: 9620
 description: Java codice di esempio per bloccare il file XLSM utilizzando la password su Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
 ---

@@ -13,7 +13,7 @@ description: Kode sampel Java untuk membuka kunci file XLS yang dilindungi kata 
 
  Untuk membuka kunci file XLS, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API yang merupakan platform perlindungan kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+ API yang merupakan platform perlindungan kaya fitur, kuat dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 

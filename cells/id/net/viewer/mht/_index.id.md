@@ -99,7 +99,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis atau mengkompilasi kode" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file MHT dan tekan tombol \"Lihat\"." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file MHT dari tautan, jika perlu" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file MHT dari tautan, jika diperlukan" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}
 File dengan ekstensi .mht adalah format file pengarsipan berkemampuan MIME yang berisi berbagai jenis data ke dalam satu file. Itu dapat menyimpan data seperti teks, gambar, gaya halaman dalam bentuk file CSS, JavaScript, dan sumber daya lainnya sebagai sumber daya tertanam di dalamnya. File MHT, memiliki pesan tipe MIME/rfc822, merangkum semua konten file HTML sebagai file arsip tunggal untuk disimpan pada pengarsipan di perangkat penyimpanan. Aplikasi perangkat lunak seperti Microsoft Word memungkinkan Anda mengonversi dokumen WORD Anda ke MHT dengan mengekspor sebagai file MHT. File MHT dapat dibuka menggunakan browser populer seperti Microsoft Internet Explore dan Google Chrome.

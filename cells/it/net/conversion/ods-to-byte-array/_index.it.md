@@ -11,7 +11,7 @@ description: C# Codice di esempio per la conversione da ODS a Byte Array. Utiliz
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file ODS in Byte Array così come un file**Array di byte a ODS**documento utilizzando la lingua C#. Per convertire ODS in array di byte, useremo
+ Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file ODS in Byte Array così come un file**Array di byte a ODS** documento utilizzando la lingua C#. Per convertire ODS in array di byte, useremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che offre diverse funzionalità per la manipolazione e la conversione dei documenti utilizzando la piattaforma .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -83,7 +83,7 @@ Una libreria di programmazione per fogli di calcolo Excel in grado di creare app
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-I file con estensione .ods rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
+file con estensione .ods rappresentano il formato del documento OpenDocument Spreadsheet che è modificabile dall'utente. I dati vengono memorizzati all'interno del file ODF in righe e colonne. È un formato basato su XML ed è uno dei numerosi sottotipi della famiglia Open Document Formats (ODF). Il formato è specificato come parte delle specifiche ODF 1.2 pubblicate e gestite da OASIS. Numerose applicazioni su Windows e altri sistemi operativi possono aprire file ODS per la modifica e la manipolazione, inclusi Microsoft Excel, NeoOffice e LibreOffice. I file ODS possono anche essere convertiti in altri formati di fogli di calcolo come XLS, XLSX e altri da diverse applicazioni.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

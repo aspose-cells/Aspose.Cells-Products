@@ -1,5 +1,5 @@
 ---
-title: Inserisci la tabella pivot nei file Micorsoft Excel XLS tramite C#
+title:  Inserisci la tabella pivot nei file Micorsoft Excel XLS tramite C#
 weight: 7690
 description: C# Esempio di codice per la generazione di documenti XLS con PivotTable. Utilizzare questo codice per creare file Micorsoft Excel XLS con tabella pivot all'interno di VB.NET, Asp.NET o qualsiasi applicazione basata su .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Esempio di codice per la generazione di documenti XLS con PivotT
 
 {{% blocks/products/pf/agp/text %}}
 
- È facile per gli sviluppatori inserire una tabella pivot nel foglio di calcolo in formato XLS all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
+È facile per gli sviluppatori inserire una tabella pivot nel foglio di calcolo in formato XLS all'interno dell'esecuzione di diverse applicazioni di reporting per l'elaborazione dei dati in poche righe di codice.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Esempio di codice per la generazione di documenti XLS con PivotT
 1.  Accedi al primo foglio di lavoro della cartella di lavoro.
 1.  Ottieni le celle desiderate del foglio di lavoro e inserisci il valore nelle celle.
 1.  Inserisci la tabella pivot e imposta lo stile
-1.  Usare il metodo Save per salvare la cartella di lavoro come file XLS.
+1. Usare il metodo Save per salvare la cartella di lavoro come file XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,7 +67,7 @@ Una libreria di programmazione per fogli di calcolo Excel in grado di creare app
 {{< blocks/products/pf/agp/about-file-section >}}
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}
-file con estensione XLS rappresentano il formato di file binario di Excel. Tali file possono essere creati da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ogni cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono comprendere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato di file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora il supporto per la creazione e la lettura di file XLS, sebbene XLSX sia la prima scelta di utilizzo ora.
+file con estensione XLS rappresentano il formato di file binario di Excel. Tali file possono essere creati da Microsoft Excel e da altri programmi di fogli di calcolo simili come OpenOffice Calc o Apple Numbers. Il file salvato da Excel è noto come cartella di lavoro in cui ogni cartella di lavoro può avere uno o più fogli di lavoro. I dati vengono archiviati e visualizzati agli utenti in formato tabella nel foglio di lavoro e possono includere valori numerici, dati di testo, formule, connessioni dati esterne, immagini e grafici. Applicazioni come Microsoft Excel ti consentono di esportare i dati della cartella di lavoro in diversi formati tra cui PDF, CSV, XLSX, TXT, HTML, XPS e molti altri. Il formato di file XLS è stato sostituito con un formato più aperto e strutturato, XLSX, con il rilascio di Microsoft Excel 2007. Le ultime versioni forniscono ancora il supporto per la creazione e la lettura di file XLS, sebbene XLSX sia la prima scelta di utilizzo ora.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

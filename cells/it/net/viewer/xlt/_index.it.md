@@ -107,7 +107,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Scarica il file XLT dal link, se richiesto" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}
-I file con estensione .XLT sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo che fa parte della suite Office Microsoft. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e l'apertura di questi. L'ultima versione di Excel è ancora in grado di aprire i file modello di questo vecchio formato. Tale file modello viene utilizzato per creare rapidamente nuovi file Excel con dati e impostazioni predefiniti come formattazione della pagina, dimensione del carattere, margini, grafici, ecc. che possono essere ulteriormente salvati come nuovi file .XLS.
+file con estensione .XLT sono file modello creati con Microsoft Excel, un'applicazione per fogli di calcolo che fa parte della suite Office Microsoft. Microsoft Office 97-2003 supportava la creazione di nuovi file XLT e l'apertura di questi. L'ultima versione di Excel è ancora in grado di aprire i file modello di questo vecchio formato. Tale file modello viene utilizzato per creare rapidamente nuovi file Excel con dati e impostazioni predefiniti come formattazione della pagina, dimensione del carattere, margini, grafici, ecc. che possono essere ulteriormente salvati come nuovi file .XLS.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

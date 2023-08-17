@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
    </header>
    <ul>
     <li>
- Simpan di Sub-folder
+Simpan di Sub-folder
     </li>
     <li>
  Penggabungan File
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description="Aspose.Cells for SharePoint mendukung banyak format spreadsheet populer, PDF, HTML dan lainnya[format file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Format File yang Didukung" description=" Aspose.Cells for SharePoint mendukung banyak format spreadsheet populer, PDF, HTML dan lainnya[format file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
  Menggabungkan File Selama Konversi
     </h2>
     <p>
- Aspose.Cells for SharePoint menyediakan kemampuan untuk menggabungkan file yang memiliki format berbeda menjadi satu dokumen tunggal. Selain itu, Anda juga dapat memindahkan dokumen dalam daftar ke atas atau ke bawah untuk mengatur urutan penggabungan dokumen yang Anda inginkan.
+Aspose.Cells for SharePoint menyediakan kemampuan untuk menggabungkan file yang memiliki format berbeda menjadi satu dokumen tunggal. Selain itu, Anda juga dapat memindahkan dokumen dalam daftar ke atas atau ke bawah untuk mengatur urutan penggabungan dokumen yang Anda inginkan.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint Aplikasi adalah konverter SharePoint Ex
  Mengkonversi File di Subfolder
     </h2>
     <p>
-Aspose.Cells for SharePoint membuat proses konversi lebih mudah dengan mengonversi secara rekursif semua dokumen dan sub-folder di bawah folder yang dipilih. Struktur sub-folder yang ada dibuat di folder tujuan.
+ Aspose.Cells for SharePoint membuat proses konversi lebih mudah dengan mengonversi secara rekursif semua dokumen dan sub-folder di bawah folder yang dipilih. Struktur sub-folder yang ada dibuat di folder tujuan.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint membuat proses konversi lebih mudah dengan mengonver
  Berinteraksi dengan Publik API
     </h2>
     <p>
- Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat menggunakan mesin konversi dokumen Aspose.Cells for SharePoint melalui API publiknya. Ini menyediakan akses terprogram ke semua format yang didukung dan opsi konversi.
+Untuk pengembang yang memiliki solusi SharePoint internal, mereka dapat menggunakan mesin konversi dokumen Aspose.Cells for SharePoint melalui API publiknya. Ini menyediakan akses terprogram ke semua format yang didukung dan opsi konversi.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint membuat proses konversi lebih mudah dengan mengonver
  Microsoft Otomasi Excel – Tidak Diperlukan
     </h2>
     <p>
-Aspose.Cells for SharePoint dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan konversi format Excel. Ini adalah alternatif otomatisasi Excel Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
+ Aspose.Cells for SharePoint dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Excel untuk diinstal pada mesin agar dapat bekerja dengan konversi format Excel. Ini adalah alternatif otomatisasi Excel Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
     </p>
    </div>
   </div>

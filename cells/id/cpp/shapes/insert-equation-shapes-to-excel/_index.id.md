@@ -35,7 +35,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/feature-section-col title="Langkah-langkah memasukkan Bentuk Persamaan ke file Excel melalui C++" %}}
 
-Membuat instance objek Workbook.(atau->Muat file XLSX dengan path lengkap.)
+Instansiasi objek Buku Kerja. (atau-> Muat file XLSX dengan path lengkap.)
 + Pilih Lembar Kerja melalui indeksnya.
  + Gunakan[menambahkan metode](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) untuk menyisipkan Bentuk Persamaan di lembar kerja yang dipilih
 + Simpan buku kerja dalam format XLSX.
@@ -57,7 +57,7 @@ Membuat instance objek Workbook.(atau->Muat file XLSX dengan path lengkap.)
 
 {{% blocks/products/pf/agp/text %}}
 
-Kode contoh di bawah ini menunjukkan cara menyisipkan "math plus". Untuk lebih banyak jenis, silakan merujuk ke "Tinjauan Jenis Bentuk Persamaan" di bawah ini.
+Contoh kode di bawah ini menunjukkan cara menyisipkan "math plus". Untuk lebih banyak jenis, silakan merujuk ke "Tinjauan Jenis Bentuk Persamaan" di bawah ini.
 
 {{% /blocks/products/pf/agp/text %}}
 

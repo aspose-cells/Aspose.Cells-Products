@@ -58,7 +58,7 @@ description: Java contoh kode untuk mencari kata dengan pola di file XLSB di Jav
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSB dengan membuat instance objek Workbook.
-Akses lembar kerja pertama di file XLSB.
++ Akses lembar kerja pertama di file XLSB.
 + Temukan sel yang berisi rumus yang ditentukan.
 + Instansiasi FindOptions.
 + Temukan sel yang berisi nilai string

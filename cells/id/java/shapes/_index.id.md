@@ -6,7 +6,7 @@ description:  Kode sumber C# cara menyisipkan bentuk ke dalam file Excel Microso
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Penyisipan bentuk Excel melalui JAVA" h2="Buat dokumen Excel dan sisipkan bentuk menggunakan API sisi server dalam aplikasi berbasis JAVA." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Di excel Anda dapat menambahkan bentuk seperti kotak, lingkaran, dan panah ke dokumen, email, slide, dan spreadsheet. Untuk membebaskan Anda dari banyak penyisipan manual,[Perpustakaan JAVA Excel](https://releases.aspose.com/cells/java/)API menyediakan fungsionalitas yang sama. API ini sangat mudah digunakan, biasanya hanya diperlukan satu baris kode untuk menyisipkan bentuk tertentu, dan beberapa baris kode dapat menyelesaikan penyisipan kumpulan bentuk.
+ Di excel Anda dapat menambahkan bentuk seperti kotak, lingkaran, dan panah ke dokumen, email, slide, dan spreadsheet. Untuk membebaskan Anda dari banyak penyisipan manual,[Perpustakaan JAVA Excel](https://releases.aspose.com/cells/java/) API menyediakan fungsionalitas yang sama. API ini sangat mudah digunakan, biasanya hanya diperlukan satu baris kode untuk menyisipkan bentuk tertentu, dan beberapa baris kode dapat menyelesaikan penyisipan sekumpulan bentuk.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

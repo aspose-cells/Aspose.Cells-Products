@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint L'app è un convertitore di fogli di ca
    </header>
    <ul>
     <li>
- Salva nelle sottocartelle
+Salva nelle sottocartelle
     </li>
     <li>
  Concatenazione di file
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint L'app è un convertitore di fogli di ca
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Cells for SharePoint supporta molti formati di fogli di calcolo popolari, PDF, HTML e altri[formati di file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description=" Aspose.Cells for SharePoint supporta molti formati di fogli di calcolo popolari, PDF, HTML e altri[formati di file](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint L'app è un convertitore di fogli di ca
  Concatena i file durante la conversione
     </h2>
     <p>
- Aspose.Cells for SharePoint offre la possibilità di combinare file di formati diversi in un unico documento. Inoltre, puoi anche spostare i documenti nell'elenco in alto o in basso per impostare l'ordine in cui desideri che i documenti vengano combinati.
+Aspose.Cells for SharePoint offre la possibilità di combinare file di formati diversi in un unico documento. Inoltre, puoi anche spostare i documenti nell'elenco in alto o in basso per impostare l'ordine in cui desideri che i documenti vengano combinati.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint L'app è un convertitore di fogli di ca
  Converti file in sottocartelle
     </h2>
     <p>
-Aspose.Cells for SharePoint semplifica il processo di conversione convertendo in modo ricorsivo tutti i documenti e le sottocartelle in una cartella selezionata. La struttura di sottocartelle esistente viene creata nella cartella di destinazione.
+ Aspose.Cells for SharePoint semplifica il processo di conversione convertendo in modo ricorsivo tutti i documenti e le sottocartelle in una cartella selezionata. La struttura di sottocartelle esistente viene creata nella cartella di destinazione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -279,7 +279,7 @@ Aspose.Cells for SharePoint semplifica il processo di conversione convertendo in
  Sovrascrivi file esistenti
     </h2>
     <p>
- Se la cartella di destinazione contiene già file con gli stessi nomi di quelli che desideri convertire, Aspose.Cells for SharePoint ti consente di sovrascrivere i file esistenti o puoi semplicemente selezionare un'opzione che istruirà l'app a saltare l'elaborazione dei file già esistenti nella cartella di destinazione .
+ Se la cartella di destinazione contiene già file con gli stessi nomi di quelli che desideri convertire, allora Aspose.Cells for SharePoint ti consente di sovrascrivere i file esistenti o puoi semplicemente selezionare un'opzione che istruirà l'app a saltare l'elaborazione dei file già esistenti nella cartella di destinazione .
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint semplifica il processo di conversione convertendo in
  Interagisci con il pubblico API
     </h2>
     <p>
- Per gli sviluppatori che dispongono di soluzioni SharePoint interne, possono utilizzare il motore di conversione dei documenti di Aspose.Cells for SharePoint tramite il suo API pubblico. Fornisce accesso programmatico a tutti i formati supportati e alle opzioni di conversione.
+Per gli sviluppatori che dispongono di soluzioni SharePoint interne, possono utilizzare il motore di conversione dei documenti di Aspose.Cells for SharePoint tramite il suo API pubblico. Fornisce accesso programmatico a tutti i formati supportati e alle opzioni di conversione.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint semplifica il processo di conversione convertendo in
  Microsoft Automazione Excel – Non necessaria
     </h2>
     <p>
-Aspose.Cells for SharePoint è costruito utilizzando codice gestito che non richiede mai l'installazione di Microsoft Excel sulla macchina per funzionare con la conversione del formato Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di funzionalità supportate, sicurezza, stabilità, scalabilità, velocità e prezzo.
+ Aspose.Cells for SharePoint è costruito utilizzando codice gestito che non richiede mai l'installazione di Microsoft Excel sulla macchina per funzionare con la conversione del formato Excel. È una perfetta alternativa all'automazione di Excel Microsoft in termini di funzionalità supportate, sicurezza, stabilità, scalabilità, velocità e prezzo.
     </p>
    </div>
   </div>

@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Unisci più file Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)Il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache.
 {{% blocks/products/pf/feature-page-code h3="Java Codice per unire più file Excel" %}}
 
 ```cs

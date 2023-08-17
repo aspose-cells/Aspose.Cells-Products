@@ -18,7 +18,7 @@ description: Concatena file di fogli di calcolo Excel e OpenOffice con poche rig
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Unisci più file Excel" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)Il metodo supporta l'unione di dati, stile e formule di un file Excel in un nuovo foglio di calcolo dello stesso formato. È un modo efficiente per unire più file durante l'utilizzo della memorizzazione nella cache.
 {{% blocks/products/pf/feature-page-code h3="C# Codice per unire più file Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

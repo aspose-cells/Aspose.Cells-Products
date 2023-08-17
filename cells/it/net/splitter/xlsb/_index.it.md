@@ -13,7 +13,7 @@ description: C# codice sorgente per suddividere i documenti XLSB su .NET Framewo
 
  Per dividere il file XLSB, useremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API che è una manipolazione e uno splitter di documenti ricchi di funzionalità, potenti e facili da usare API per la piattaforma C#. Aprire
+ API che è una manipolazione e uno splitter di documenti ricchi di funzionalità, potenti e facili da usare API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  Aspose.Cells 

@@ -1,5 +1,5 @@
 ---
-title:  Proteggi e blocca il documento XLSX via .NET
+title: Proteggi e blocca il documento XLSX via .NET
 weight: 90
 description: C# codice sorgente per bloccare il file XLSX usando la password su .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---

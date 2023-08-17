@@ -60,7 +60,7 @@ Creazione di un'istanza di un oggetto Workbook. (o-> Carica il file XLSX con il 
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{% blocks/products/pf/agp/code-block title="Inserisci Arco - C++" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Inserisci arco - C++" offSpacer="" %}}
 
 {{< gist "aspose-cells-gists" "6f7d9819d85793c3a3b5d040af42e1a9" "InsertArcIntoWorksheet.cpp" >}}
 

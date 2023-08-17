@@ -6,7 +6,7 @@ description:  Kode sumber C# yang cara memasukkan bentuk ke dalam file Excel Mic
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> penyisipan bentuk Excel via .NET" h2="Buat dokumen Excel dan sisipkan bentuk menggunakan API sisi server di aplikasi berbasis .NET." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Di excel Anda dapat menambahkan bentuk seperti kotak, lingkaran, dan panah ke dokumen, email, slide, dan spreadsheet. Untuk membebaskan Anda dari banyak penyisipan manual,[.NET Perpustakaan Excel](https://releases.aspose.com/cells/net/)API menyediakan fungsionalitas yang sama. API ini sangat mudah digunakan, biasanya hanya diperlukan satu baris kode untuk menyisipkan bentuk tertentu, dan beberapa baris kode dapat menyelesaikan penyisipan kumpulan bentuk.
+ Di excel Anda dapat menambahkan bentuk seperti kotak, lingkaran, dan panah ke dokumen, email, slide, dan spreadsheet. Untuk membebaskan Anda dari banyak penyisipan manual,[.NET Perpustakaan Excel](https://releases.aspose.com/cells/net/) API menyediakan fungsionalitas yang sama. API ini sangat mudah digunakan, biasanya hanya diperlukan satu baris kode untuk menyisipkan bentuk tertentu, dan beberapa baris kode dapat menyelesaikan penyisipan sekumpulan bentuk.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

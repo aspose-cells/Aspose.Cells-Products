@@ -10,7 +10,7 @@ description: Ripara un file excel corrotto utilizzando Java. Strumento di ripris
 
 {{% blocks/products/pf/agp/content h2="Ripara il file EXCEL usando Java" %}}
 
- Per riparare il file EXCEL, useremo[Aspose.Cells for Java](https://products.aspose.com/cells/java) API che è una piattaforma di manipolazione dei documenti ricca di funzionalità, potente e facile da usare API for Java.
+ Per riparare il file EXCEL, useremo[Aspose.Cells for Java](https://products.aspose.com/cells/java)API che è una piattaforma di manipolazione dei documenti ricca di funzionalità, potente e facile da usare API for Java.
  
  Aspose.Cells API può essere utilizzato per creare, modificare, convertire e rendere Microsoft i formati Excel in diversi formati. Inoltre, può essere utilizzato per grafici completi, report scalabili e calcoli affidabili all'interno di applicazioni software. Aspose.Cells è un API autonomo e non richiede alcun software come Microsoft o OpenOffice.
 
@@ -20,7 +20,7 @@ description: Ripara un file excel corrotto utilizzando Java. Strumento di ripris
 
 {{% blocks/products/pf/agp/content h2="Come riparare file excel usando Java" %}}
 
-Definire una classe che eredita Aspose.Cells.IWarningCallback.
++ Definire una classe che eredita Aspose.Cells.IWarningCallback.
 + Carica il file EXCEL creando un'istanza di Workbook, utilizzando la classe di ereditarietà sopra, fai riferimento al codice sopra.
 + Salva la cartella di lavoro, il file excel danneggiato verrà riparato.
 

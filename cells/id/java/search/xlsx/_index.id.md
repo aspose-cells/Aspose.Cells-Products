@@ -58,7 +58,7 @@ description: Java contoh kode untuk mencari kata dengan pola di file XLSX di Jav
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSX dengan membuat instance objek Workbook.
-Akses lembar kerja pertama di file XLSX.
++ Akses lembar kerja pertama di file XLSX.
 + Temukan sel yang berisi rumus yang ditentukan.
 + Instansiasi FindOptions.
 + Temukan sel yang berisi nilai string

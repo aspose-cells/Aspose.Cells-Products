@@ -11,7 +11,7 @@ description: C# Kode contoh untuk konversi XLSX ke Byte Array. Gunakan kode ini 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLSX ke Byte Array serta a**Byte Array ke XLSX**dokumen menggunakan bahasa C#. Untuk mengonversi XLSX menjadi array byte, kami akan menggunakan
+ Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLSX ke Byte Array serta a**Byte Array ke XLSX** dokumen menggunakan bahasa C#. Untuk mengonversi XLSX menjadi array byte, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API yang menawarkan berbagai fitur untuk manipulasi dan konversi dokumen menggunakan platform .NET.
 {{% /blocks/products/pf/agp/content %}}

@@ -58,7 +58,7 @@ description: Java contoh kode untuk mencari kata dengan pola di file XLSM di Jav
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSM dengan membuat instance objek Workbook.
-Akses lembar kerja pertama di file XLSM.
++ Akses lembar kerja pertama di file XLSM.
 + Temukan sel yang berisi rumus yang ditentukan.
 + Instansiasi FindOptions.
 + Temukan sel yang berisi nilai string
@@ -132,7 +132,7 @@ System.out.println("Name of the cell containing String: " + cell.getName());
     {{< /blocks/products/pf/agp/demobox >}}
 
     {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM " readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
     {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

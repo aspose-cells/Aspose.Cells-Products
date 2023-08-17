@@ -63,7 +63,7 @@ description: Java codice di esempio per estrarre testo e immagini dal file XLSB 
 + Selezionare il foglio richiesto utilizzando il metodo getWorksheets().get.
 + Ottieni tutte le celle del foglio selezionato usando getCells().
 + Itera su ogni cella, ottieni il suo testo.
-+ Stampa il valore di ogni cella o usa il metodo StringBuilder append() per visualizzarlo nel suo insieme
+Stampa il valore di ogni cella o usa il metodo StringBuilder append() per visualizzarlo nel suo insieme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

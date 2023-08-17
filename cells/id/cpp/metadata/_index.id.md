@@ -32,7 +32,7 @@ description: Lihat, tambah, edit, hapus, atau ekstrak metadata file Excel menggu
 
 Untuk menangani properti khusus, API menyediakan[IWorkbookMetadata::GetICustomDocumentProperties](https://reference.aspose.com/cells/cpp/class/aspose.cells.metadata.i_workbook_metadata#a69f0226813ce18c03ebc13b8ca691e79) yang mengembalikan semua koleksi properti dokumen kustom dari spreadsheet. Pertama mengakses properti kustom melalui metode ini, pengembang dapat menggunakan metode yang relevan untuk menambahkan properti seperti AddIDocumentProperty, AddLinkToContentProperty dan juga menggunakan UpdateLinkedPropertyValue, UpdateLinkedRange untuk memperbarui nilai properti dokumen kustom yang masing-masing tertaut ke konten dan rentang tertaut. Pengembang dapat menggunakan metode yang relevan dari[koleksi properti dokumen kustom](https://reference.aspose.com/cells/cpp/class/aspose.cells.properties.i_custom_document_property_collection).
 
-{{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Melihat Properti Kustom" %}}
+{{% blocks/products/pf/feature-page-code h3="C++ Kode untuk Melihat Properti Khusus" %}}
 
 {{< gist "aspose-com-gists" "d3c95be1fcfce10bd88c9cf1be2f923e" "view-custom-properties.cpp" >}}
 

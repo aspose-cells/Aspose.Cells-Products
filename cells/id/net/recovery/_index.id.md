@@ -22,7 +22,7 @@ description: Perbaiki file excel yang rusak menggunakan C#. Alat pemulihan untuk
 
 {{% blocks/products/pf/agp/content h2="Cara memperbaiki file excel menggunakan C#" %}}
 
-Tentukan kelas yang mewarisi Aspose.Cells.IWarningCallback.
++ Tentukan kelas yang mewarisi Aspose.Cells.IWarningCallback.
 + Muat file EXCEL dengan membuat instance Workbook, menggunakan kelas pewarisan di atas, lihat kode di atas.
 + Simpan buku kerja, file excel yang rusak akan diperbaiki.
 

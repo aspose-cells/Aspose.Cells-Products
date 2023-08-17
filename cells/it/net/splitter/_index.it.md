@@ -28,7 +28,7 @@ description: C# codici sorgente che spiega come dividere i file Excel Microsoft 
 
 {{% blocks/products/pf/feature-page-section h2="Dividi il foglio di lavoro Excel in riquadri" %}}
 
- Per dividere la finestra del foglio di lavoro in riquadri, API fornisce[Metodo di divisione](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) della classe del foglio di lavoro, che fornisce la visualizzazione divisa del foglio di lavoro. Per rimuovere la vista divisa API fornisce[Metodo RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Infine salvalo in un percorso specificato.
+ Per dividere la finestra del foglio di lavoro in riquadri, API fornisce[Metodo di divisione](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)della classe del foglio di lavoro, che fornisce la visualizzazione divisa del foglio di lavoro. Per rimuovere la vista divisa API fornisce[Metodo RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Infine salvalo in un percorso specificato.
 
 {{% blocks/products/pf/feature-page-code h3="C# Codice per dividere la finestra del foglio di lavoro di Excel" %}}
 

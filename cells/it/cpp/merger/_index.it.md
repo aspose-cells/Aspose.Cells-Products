@@ -1,6 +1,6 @@
 ---
 title:  Unisci file Excel tramite C++
-description: Unisci il file Excel nel codice C++. Combina il file Excel usando C++.
+description: Unisci il file Excel nel codice C++. Combina il file Excel utilizzando C++.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Unisci i formati Excel in C++" h2="Fusione di documenti nativa e ad alte prestazioni utilizzando le API lato server Aspose.Cells for C++, senza l\'uso di alcun software come Microsoft o Open Office, Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}

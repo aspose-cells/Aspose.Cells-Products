@@ -1,5 +1,5 @@
 ---
-title: Sisipkan PivotTable di file Microsoft Excel XLSM melalui C#
+title:  Sisipkan PivotTable di file Microsoft Excel XLSM melalui C#
 weight: 7690
 description: C# Contoh kode untuk membuat dokumen XLSM dengan PivotTable. Gunakan kode ini untuk membuat file Micorsoft Excel XLSM dengan PivotTable dalam VB.NET, Asp.NET atau aplikasi berbasis .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Contoh kode untuk membuat dokumen XLSM dengan PivotTable. Gunaka
 
 {{% blocks/products/pf/agp/text %}}
 
- Sangat mudah bagi pengembang untuk memasukkan PivotTable dalam spreadsheet format XLSM dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+Sangat mudah bagi pengembang untuk memasukkan PivotTable dalam spreadsheet format XLSM dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Contoh kode untuk membuat dokumen XLSM dengan PivotTable. Gunaka
 1.  Akses lembar kerja pertama dari buku kerja.
 1.  Dapatkan sel yang diinginkan dari lembar kerja dan masukkan nilainya ke dalam sel.
 1.  Sisipkan PivotTable dan atur gayanya
-1.  Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLSM.
+1. Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -68,7 +68,7 @@ Pustaka Pemrograman Spreadsheet Excel yang mampu membangun aplikasi lintas platf
 
 {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}
 
-File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatisasi proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
+File dengan ekstensi XLSM adalah jenis file Spreadsheet yang mendukung Macro. Dari sudut pandang aplikasi, Makro adalah sekumpulan instruksi yang digunakan untuk mengotomatiskan proses. Makro digunakan untuk merekam langkah-langkah yang dilakukan berulang kali dan memfasilitasi melakukan tindakan dengan menjalankan makro lagi. Makro diprogram dengan Visual Basic for Applications (VBA) Microsoft dari dalam Buku Kerja Excel menggunakan Editor Visual Basic dan dapat dijalankan/di-debug langsung dari sana.
 
 {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

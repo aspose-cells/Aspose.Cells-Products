@@ -63,7 +63,7 @@ description: Java contoh kode untuk mengekstrak teks dan gambar dari file XLS di
 + Pilih sheet yang diminta menggunakan metode getWorksheets().get.
 + Dapatkan semua sel dari lembar yang dipilih menggunakan getCells().
 + Ulangi setiap sel, dapatkan teksnya.
-+ Cetak setiap nilai sel atau Gunakan metode StringBuilder append() untuk melihat secara keseluruhan
+Cetak setiap nilai sel atau Gunakan metode StringBuilder append() untuk melihat secara keseluruhan
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

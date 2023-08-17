@@ -58,7 +58,7 @@ description: Java contoh kode untuk mencari kata dengan pola di file TSV di Java
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file TSV dengan membuat instance objek Workbook.
-Akses lembar kerja pertama di file TSV.
++ Akses lembar kerja pertama di file TSV.
 + Temukan sel yang berisi rumus yang ditentukan.
 + Instansiasi FindOptions.
 + Temukan sel yang berisi nilai string

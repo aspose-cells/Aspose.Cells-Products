@@ -6,7 +6,7 @@ description: Konversikan Excel XLS, XLSX, ODS, CSV menjadi PDF, XPS, HTML, JPEG 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konversi Dokumen Excel melalui C++" h2="Simpan Microsoft<sup>&reg;</sup> file Excel sebagai spreadsheet, web, gambar, dan format tata letak tetap" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Untuk aplikasi atau solusi konverter spreadsheet apa pun,**C++ Perpustakaan Excel**mempercepat proses pengkodean, otomatisasi, dan konversi sambil menangani banyak file termasuk XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Ini juga memungkinkan untuk *mengonversi Excel menjadi PDF**, XPS, HTML, MHTML, Polos Teks dan gambar populer seperti JPG, TIFF, PNG, BMP dan SVG.
+ Untuk aplikasi atau solusi konverter spreadsheet apa pun,**C++ Perpustakaan Excel** mempercepat proses pengkodean, otomatisasi, dan konversi sambil menangani banyak file termasuk XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. Ini juga memungkinkan untuk *mengonversi Excel menjadi PDF**, XPS, HTML, MHTML, Polos Teks dan gambar populer seperti JPG, TIFF, PNG, BMP dan SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Konversi antar Microsoft Format Excel" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Ubah Format Excel menjadi PDF dengan Pengaturan Tingkat Kepatuhan" %}}
- C++ Otomatisasi Excel API mendukung konversi Buku Kerja ke PDF serta mendukung pengaturan tingkat kepatuhan dan tanggal pembuatan. Pengembang dapat menggunakan[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) bersama[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)untuk mengatur kepatuhan PDF. Untuk konversi, API simpan metode yang memiliki PdfSaveOptions sebagai parameter dan jalur file keluaran yang ditentukan.
+ C++ Otomatisasi Excel API mendukung konversi Buku Kerja ke PDF serta mendukung pengaturan tingkat kepatuhan dan tanggal pembuatan. Pengembang dapat menggunakan[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) bersama[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) untuk mengatur kepatuhan PDF. Untuk konversi, API simpan metode yang memiliki PdfSaveOptions sebagai parameter dan jalur file keluaran yang ditentukan.
 {{% blocks/products/pf/feature-page-code h3="C++ Contoh Kode Konversi Excel ke PDF" %}}
 
 ```cs

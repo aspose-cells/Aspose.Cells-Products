@@ -58,7 +58,7 @@ description: Java contoh kode untuk mencari kata dengan pola di file ODS di Java
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file ODS dengan membuat instance objek Workbook.
-Akses lembar kerja pertama di file ODS.
++ Akses lembar kerja pertama di file ODS.
 + Temukan sel yang berisi rumus yang ditentukan.
 + Instansiasi FindOptions.
 + Temukan sel yang berisi nilai string

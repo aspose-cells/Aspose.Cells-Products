@@ -58,7 +58,7 @@ description: Java codice di esempio per cercare parole con pattern nel file XLSB
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file XLSB istanziando un oggetto Workbook.
-Accedi al primo foglio di lavoro nel file XLSB.
++ Accedi al primo foglio di lavoro nel file XLSB.
 + Trova la cella contenente la formula specificata.
 + Crea un'istanza FindOptions.
 + Trova la cella contenente un valore stringa

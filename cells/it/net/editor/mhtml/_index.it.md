@@ -1,5 +1,5 @@
 ---
-title: Modifica MHTML file via .NET
+title:  Modifica MHTML file via .NET
 description: C# codice sorgente per modificare il documento MHTML su .NET Framework, .NET Core, Windows Azure, Mono o Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

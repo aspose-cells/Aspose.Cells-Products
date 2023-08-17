@@ -11,7 +11,7 @@ description: C# Codice di esempio per la conversione da XLTM a Byte Array. Utili
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file XLTM in Byte Array così come un file**Array di byte a XLTM**documento utilizzando la lingua C#. Per convertire XLTM in array di byte, useremo
+ Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file XLTM in Byte Array così come un file**Array di byte a XLTM** documento utilizzando la lingua C#. Per convertire XLTM in array di byte, useremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che offre diverse funzionalità per la manipolazione e la conversione dei documenti utilizzando la piattaforma .NET.
 {{% /blocks/products/pf/agp/content %}}

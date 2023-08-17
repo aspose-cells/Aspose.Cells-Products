@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file XLSB termasuk kapan file XLSB diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file XLSB termasuk kapan file XLSB diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 

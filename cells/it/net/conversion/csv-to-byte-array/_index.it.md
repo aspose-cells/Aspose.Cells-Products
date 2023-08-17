@@ -11,7 +11,7 @@ description: C# Codice di esempio per la conversione da CSV a Byte Array. Utiliz
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file CSV in Byte Array così come un file**Array di byte a CSV**documento utilizzando la lingua C#. Per convertire CSV in array di byte, useremo
+ Byte Array è utile per l'elaborazione o l'archiviazione dei dati. Puoi convertire il file CSV in Byte Array così come un file**Array di byte a CSV** documento utilizzando la lingua C#. Per convertire CSV in array di byte, useremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API che offre diverse funzionalità per la manipolazione e la conversione dei documenti utilizzando la piattaforma .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -68,7 +68,7 @@ Una libreria di programmazione per fogli di calcolo Excel in grado di creare app
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-file con estensione .csv (Comma Separated Values) rappresentano file di testo normale che contengono record di dati con valori separati da virgole. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando si intende trasferire i dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono disposti in celle di un foglio di calcolo per la rappresentazione all'utente.
+file con estensione .csv (Comma Separated Values) rappresentano file di testo normale che contengono record di dati con valori separati da virgola. Ogni riga in un file CSV è un nuovo record dall'insieme di record contenuti nel file. Tali file vengono generati quando si intende trasferire i dati da un sistema di archiviazione a un altro. Poiché tutte le applicazioni possono riconoscere i record separati da virgola, l'importazione di tali file di dati nel database viene eseguita in modo molto conveniente. Quasi tutte le applicazioni per fogli di calcolo come Microsoft Excel o OpenOffice Calc possono importare CSV senza troppi sforzi. I dati importati da tali file sono disposti in celle di un foglio di calcolo per la rappresentazione all'utente.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file XLSX termasuk kapan file XLSX diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file XLSX termasuk kapan file XLSX diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 

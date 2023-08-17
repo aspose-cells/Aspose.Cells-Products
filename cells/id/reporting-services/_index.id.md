@@ -40,7 +40,7 @@ description: Ekstensi rendering Layanan Pelaporan SQL Server - Ekspor Excel XLS 
  Kotak Teks
     </li>
     <li>
- Gambar-gambar
+Gambar-gambar
     </li>
     <li>
  Sub-laporan
@@ -312,7 +312,7 @@ description: Ekstensi rendering Layanan Pelaporan SQL Server - Ekspor Excel XLS 
     <em class="fa fa-expand ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ciutkan atau luaskan bidang Tabel Pivot
+Ciutkan atau luaskan bidang Tabel Pivot
     </p>
    </div>
    <div class="col-lg-4">
@@ -348,7 +348,7 @@ description: Ekstensi rendering Layanan Pelaporan SQL Server - Ekspor Excel XLS 
  Aspose.Cells' Melaporkan Alat Perancang
     </h2>
     <p>
-Pengembang dapat merancang dan mengirimkan laporan langsung dari Microsoft Excel saat menggunakan Aspose.Cells.Report.Designer - alat desain sederhana yang menggunakan Microsoft Excel sebagai templat laporan. Fitur ini memungkinkan memanfaatkan semua fungsi dan fitur canggih yang tersedia dalam aplikasi Excel Microsoft termasuk Tabel Pivot, Bagan interaktif, rumus, dan sebagainya.
+ Pengembang dapat merancang dan mengirimkan laporan langsung dari Microsoft Excel saat menggunakan Aspose.Cells.Report.Designer - alat desain sederhana yang menggunakan Microsoft Excel sebagai templat laporan. Fitur ini memungkinkan memanfaatkan semua fungsi dan fitur canggih yang tersedia dalam aplikasi Excel Microsoft termasuk Tabel Pivot, Bagan interaktif, rumus, dan sebagainya.
     </p>
    </div>
    <div class="col-lg-12">
@@ -356,7 +356,7 @@ Pengembang dapat merancang dan mengirimkan laporan langsung dari Microsoft Excel
  Ekspor Laporan ke Format Spreadsheet
     </h2>
     <p>
- Aspose.Cells for Reporting Services mendukung semua format file Microsoft Excel (97 - 2016) populer, termasuk format file "asli" Microsoft Excel seperti XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited dan HTML. Aspose.Cells for Reporting Services juga mendukung format file ODS (OpenDocument Spreadsheet).
+Aspose.Cells for Reporting Services mendukung semua format file Microsoft Excel (97 - 2016) populer, termasuk format file "asli" Microsoft Excel seperti XLS, XLSX, XLSM, SpreadsheetML, CSV, Tab De limited dan HTML. Aspose.Cells for Reporting Services juga mendukung format file ODS (OpenDocument Spreadsheet).
     </p>
     <p>
  Selain itu, Aspose.Cells for Reporting Services mengekspor dokumen Excel sebagai spreadsheet yang dapat diedit sepenuhnya, yaitu; pengguna akhir dapat mengedit spreadsheet yang dihasilkan secara manual di aplikasi Excel Microsoft jika diperlukan.
@@ -367,7 +367,7 @@ Pengembang dapat merancang dan mengirimkan laporan langsung dari Microsoft Excel
  Kesetiaan Tinggi - Identik dengan Desain Laporan
     </h2>
     <p>
-Aspose.Cells for Reporting Services mengekspor laporan ke Microsoft spreadsheet Excel sedemikian rupa sehingga hasilnya tampak identik dengan yang asli seperti yang dihasilkan oleh perancang laporan Layanan Pelaporan bawaan. Semua fitur laporan dikonversi ke tingkat presisi tertinggi untuk membuat spreadsheet Excel Microsoft terlihat semirip mungkin dengan aslinya.
+ Aspose.Cells for Reporting Services mengekspor laporan ke Microsoft spreadsheet Excel sedemikian rupa sehingga hasilnya tampak identik dengan yang asli seperti yang dihasilkan oleh perancang laporan Layanan Pelaporan bawaan. Semua fitur laporan dikonversi ke tingkat presisi tertinggi untuk membuat spreadsheet Excel Microsoft terlihat semirip mungkin dengan aslinya.
     </p>
    </div>
    <!--
@@ -386,10 +386,10 @@ Aspose.Cells for Reporting Services mengekspor laporan ke Microsoft spreadsheet 
  Berbagai Opsi Penanganan Data
     </h2>
     <p>
- Aspose.Cells for Reporting Services mendukung tabel dengan baris dan footer yang dikelompokkan sedangkan pengelompokan dapat diatur pada waktu desain seperti item laporan lainnya. Aspose.Cells for Reporting Services juga mendukung parameter dan variabel global sebagai sumber data laporan. Pengembang juga dapat menggunakan Kueri Microsoft untuk membuat sumber data dan kueri; ini adalah alat yang banyak digunakan dan akrab bagi sebagian besar pengguna.
+Aspose.Cells for Reporting Services mendukung tabel dengan baris dan footer yang dikelompokkan sedangkan pengelompokan dapat diatur pada waktu desain seperti item laporan lainnya. Aspose.Cells for Reporting Services juga mendukung parameter dan variabel global sebagai sumber data laporan. Pengembang juga dapat menggunakan Kueri Microsoft untuk membuat sumber data dan kueri; ini adalah alat yang banyak digunakan dan akrab bagi sebagian besar pengguna.
     </p>
     <p>
-Selain itu, Aspose.Cells for Reporting Services mendukung sumber data khusus laporan dan sumber data bersama yang dibuat di Server Laporan sebelumnya. Pengembang dapat menggunakan sumber data khusus laporan pada waktu desain dan menentukan sumber data bersama sebagai sumber data laporan saat menerbitkan laporan.
+ Selain itu, Aspose.Cells for Reporting Services mendukung sumber data khusus laporan dan sumber data bersama yang dibuat di Server Laporan sebelumnya. Pengembang dapat menggunakan sumber data khusus laporan pada waktu desain dan menentukan sumber data bersama sebagai sumber data laporan saat menerbitkan laporan.
     </p>
    </div>
    <!-- 

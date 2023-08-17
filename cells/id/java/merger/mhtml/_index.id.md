@@ -49,14 +49,14 @@ description: Kode sampel Java untuk menggabungkan dokumen MHTML pada Lingkungan 
 
 {{% blocks/products/pf/agp/text %}}
 
- Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
+Penggabungan dan penggabungan dokumen dasar[Aspose.Cells for Java](https://products.aspose.com/cells/java) API dapat dilakukan hanya dengan beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file MHTML pertama dengan instance kelas Workbook.
 + Muat dokumen MHTML kedua dengan contoh kelas Workbook.
 + Menggabungkan file menggunakan metode combine().
-simpan file MHTML yang digabungkan di jalur yang ditentukan
++ simpan file MHTML yang digabungkan di jalur yang ditentukan
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file MHTML Anda." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Itu akan digabungkan dan digabungkan secara instan." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Itu akan digabungkan dan digabungkan secara instan." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

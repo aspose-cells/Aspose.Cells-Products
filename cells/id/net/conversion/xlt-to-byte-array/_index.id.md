@@ -11,7 +11,7 @@ description: C# Kode contoh untuk konversi XLT ke Byte Array. Gunakan kode ini u
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLT ke Byte Array serta a**Byte Array ke XLT**dokumen menggunakan bahasa C#. Untuk mengonversi XLT menjadi array byte, kami akan menggunakan
+ Byte Array berguna untuk pemrosesan atau penyimpanan data. Anda dapat mengonversi file XLT ke Byte Array serta a**Byte Array ke XLT** dokumen menggunakan bahasa C#. Untuk mengonversi XLT menjadi array byte, kami akan menggunakan
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API yang menawarkan berbagai fitur untuk manipulasi dan konversi dokumen menggunakan platform .NET.
 {{% /blocks/products/pf/agp/content %}}

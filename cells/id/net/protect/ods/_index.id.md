@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen ODS via .NET
+title: Lindungi dan kunci dokumen ODS via .NET
 weight: 5580
 description: Kode sumber C# untuk mengunci file ODS menggunakan kata sandi pada Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
 ---

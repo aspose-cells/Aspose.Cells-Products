@@ -12,11 +12,11 @@ description: C# ASP.NET Pustaka VB.NET untuk bekerja dengan Microsoft dokumen Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET adalah Pemrograman Spreadsheet Excel API untuk mempercepat pengelolaan spreadsheet dan tugas pemrosesan. API mendukung untuk membangun aplikasi lintas platform yang memiliki kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak spreadsheet. Selain itu, itu tidak bergantung pada Microsoft Excel atau komponen Office Interop Microsoft apa pun untuk diinstal, tetapi seperangkat API yang kuat yang menangani semua format Excel serta format CSV dan SpreadsheetML.
+Aspose.Cells for .NET adalah Pemrograman Spreadsheet Excel API untuk mempercepat pengelolaan spreadsheet dan tugas pemrosesan. API mendukung untuk membangun aplikasi lintas platform yang memiliki kemampuan untuk menghasilkan, memodifikasi, mengonversi, merender, dan mencetak spreadsheet. Selain itu, itu tidak bergantung pada Microsoft Excel atau komponen Office Interop Microsoft apa pun untuk diinstal, tetapi seperangkat API yang kuat yang menangani semua format Excel serta format CSV dan SpreadsheetML.
 </p>
 
 <p>
-Dengan mengintegrasikan API, beberapa tugas dasar yang dapat dilakukan pengembang seperti mengelola beberapa lembar kerja, membuat konten dan gaya spreadsheet dari awal, mengimpor data ke lembar kerja dari sumber data yang berbeda, menambahkan rumus Matematika, Keuangan, dan Teks yang umum dan kompleks, manipulasi bagan, gambar, komentar, menggambar objek dan banyak lagi.
+ Dengan mengintegrasikan API, beberapa tugas dasar yang dapat dilakukan pengembang seperti mengelola beberapa lembar kerja, membuat konten dan gaya spreadsheet dari awal, mengimpor data ke lembar kerja dari sumber data yang berbeda, menambahkan rumus Matematika, Keuangan, dan Teks yang umum dan kompleks, manipulasi bagan, gambar, komentar, menggambar objek dan banyak lagi.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ Dengan mengintegrasikan API, beberapa tugas dasar yang dapat dilakukan pengemban
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Fitur Excel Spreadsheet API Tingkat Lanjut
+ Fitur Excel Spreadsheet API Tingkat Lanjut
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Fitur Excel Spreadsheet API Tingkat Lanjut
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Dukungan untuk CSV (nilai yang dipisahkan koma) &amp; TSV (nilai yang dipisahkan tab)
+Dukungan untuk CSV (nilai yang dipisahkan koma) &amp; TSV (nilai yang dipisahkan tab)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Fitur Excel Spreadsheet API Tingkat Lanjut
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Ubah Spreadsheet menjadi PDF, XPS &amp; HTML Format
+ Ubah Spreadsheet menjadi PDF, XPS &amp; HTML Format
     </h2>
     <p>
  Aspose.Cells for .NET mampu mengubah spreadsheet menjadi PDF, XPS &amp; HTML dengan tetap mempertahankan fidelitas visual tertinggi. Proses konversinya sederhana namun dapat diandalkan, sehingga menjadikan API pilihan yang sempurna untuk organisasi yang perlu bertukar dokumen dalam format standar industri mana pun.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Simpan spreadsheet dalam berbagai format - C#
+Simpan spreadsheet dalam berbagai format - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET memberi Anda kebebasan dan fleksibilitas penuh untuk melengkapi spreadsheet Anda dengan semua jenis efek visual. The API memungkinkan Anda untuk menerapkan font yang berbeda dengan atribut, gaya sel (perataan, lekukan, rotasi, batas, bayangan dan pewarnaan, perlindungan, pembungkusan dan penyusutan teks) dan semua jenis format angka.
     </p>
     <p>
-Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampilan profesional pada spreadsheet Anda. Aspose.Cells for .NET menyediakan kumpulan lengkap API untuk membuat dan memanipulasi semua jenis bagan standar dan kustom. Selain itu, Anda dapat menambahkan berbagai jenis objek gambar, seperti komentar, gambar, objek OLE, bentuk, dan kontrol ke sel
+ Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampilan profesional pada spreadsheet Anda. Aspose.Cells for .NET menyediakan kumpulan lengkap API untuk membuat dan memanipulasi semua jenis bagan standar dan kustom. Selain itu, Anda dapat menambahkan berbagai jenis objek gambar, seperti komentar, gambar, objek OLE, bentuk, dan kontrol ke sel
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampi
  Efisien, Kuat &amp; Mesin Penghitung Formula yang Andal
     </h2>
     <p>
- Aspose.Cells for .NET memiliki Mesin Perhitungan Rumus yang kuat yang mendukung hampir semua rumus dan fungsi Microsoft Excel standar dan lanjutan. Anda dapat membaca, mengatur, dan menghitung hasil dari fungsi built-in, add-in, array &amp; Rumus gaya referensi R1C1.
+Aspose.Cells for .NET memiliki Mesin Perhitungan Rumus yang kuat yang mendukung hampir semua rumus dan fungsi Microsoft Excel standar dan lanjutan. Anda dapat membaca, mengatur, dan menghitung hasil dari fungsi built-in, add-in, array &amp; Rumus gaya referensi R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ Demikian pula, bagan dan grafik menarik secara visual dan dapat memberikan tampi
  Ringkas Data dengan Tabel Pivot, Bagan &amp; Penanda Cerdas
     </h2>
     <p>
-Tabel Pivot dapat membantu Anda meringkas data datar dengan cepat dan mendapatkan informasi yang diinginkan sesuai dengan kebutuhan Anda. .NET Pustaka Excel memungkinkan Anda membuat Tabel Pivot dan Bagan Pivot secara dinamis. Anda dapat secara dinamis mengubah data sumber Tabel Pivot dan menyegarkannya. Selain itu, perpustakaan menawarkan Penanda Cerdas yang merupakan fitur hebat untuk mengisi lembar kerja berdasarkan beberapa sumber data dan untuk membuat laporan yang efektif secara visual.
+ Tabel Pivot dapat membantu Anda meringkas data datar dengan cepat dan mendapatkan informasi yang diinginkan sesuai dengan kebutuhan Anda. .NET Pustaka Excel memungkinkan Anda membuat Tabel Pivot dan Bagan Pivot secara dinamis. Anda dapat secara dinamis mengubah data sumber Tabel Pivot dan menyegarkannya. Selain itu, perpustakaan menawarkan Penanda Cerdas yang merupakan fitur hebat untuk mengisi lembar kerja berdasarkan beberapa sumber data dan untuk membuat laporan yang efektif secara visual.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Tabel Pivot dapat membantu Anda meringkas data datar dengan cepat dan mendapatka
  Render Lembar Kerja &amp; Bagan sebagai Gambar
     </h2>
     <p>
- Aspose.Cells for .NET memiliki mesin rendering sendiri yang dirancang khusus untuk rendering &amp; mencetak dengan ketelitian tertinggi ke Microsoft Excel. Ini menawarkan fitur khas seperti merender lembar kerja &amp; bagan ke gambar &amp; mencetak lembar kerja ke printer fisik yang terhubung. Prosesnya fleksibel sehingga memungkinkan Anda memilih sejumlah opsi, seperti mengontrol dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik hingga gambar.
+Aspose.Cells for .NET memiliki mesin rendering sendiri yang dirancang khusus untuk rendering &amp; mencetak dengan ketelitian tertinggi ke Microsoft Excel. Ini menawarkan fitur khas seperti merender lembar kerja &amp; bagan ke gambar &amp; mencetak lembar kerja ke printer fisik yang terhubung. Prosesnya fleksibel sehingga memungkinkan Anda memilih sejumlah opsi, seperti mengontrol dimensi gambar yang dihasilkan saat merender lembar kerja &amp; grafik hingga gambar.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Konversi lembar kerja menjadi gambar - C#
+ Konversi lembar kerja menjadi gambar - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Antarmuka Grafis untuk Web &amp; Aplikasi Desktop
     </h2>
     <p>
- Aspose.Cells for .NET menyediakan kontrol GUI untuk web &amp; aplikasi desktop. Pengguna akhir dapat menggunakan kontrol ini untuk membuka, menyimpan &amp; edit file Excel, impor &amp; mengekspor data, mengelola pemformatan &amp; formula dan konversi antara beberapa format spreadsheet yang didukung, langsung dari front-end aplikasi Anda.
+Aspose.Cells for .NET menyediakan kontrol GUI untuk web &amp; aplikasi desktop. Pengguna akhir dapat menggunakan kontrol ini untuk membuka, menyimpan &amp; edit file Excel, impor &amp; mengekspor data, mengelola pemformatan &amp; formula dan konversi antara beberapa format spreadsheet yang didukung, langsung dari front-end aplikasi Anda.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Otomasi Kantor – Tidak Diperlukan
     </h2>
     <p>
-Aspose.Cells for .NET dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar berfungsi dengan format dokumen Excel. Ini adalah alternatif otomatisasi Office Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
+ Aspose.Cells for .NET dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Office atau Microsoft Excel untuk diinstal pada mesin agar berfungsi dengan format dokumen Excel. Ini adalah alternatif otomatisasi Office Microsoft yang sempurna dalam hal fitur yang didukung, keamanan, stabilitas, skalabilitas, kecepatan, dan harga.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET dibuat menggunakan kode terkelola yang tidak memerlukan Mi
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Rangkaian produk dan dukungan Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
+Rangkaian produk dan dukungan Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
  <em>
  Dan Patterson | Akumen, Inggris
  </em>

@@ -1,5 +1,5 @@
 ---
-title:  Lindungi dan kunci dokumen XLSX via .NET
+title: Lindungi dan kunci dokumen XLSX via .NET
 weight: 90
 description: Kode sumber C# untuk mengunci file XLSX menggunakan kata sandi pada Kerangka .NET, Inti .NET, Mono atau Platform Xamarin.
 ---

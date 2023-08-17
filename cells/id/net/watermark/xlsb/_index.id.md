@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  Anda membutuhkan
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+ untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 

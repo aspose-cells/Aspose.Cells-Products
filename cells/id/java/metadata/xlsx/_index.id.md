@@ -13,7 +13,7 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format XLSX d
 
  Untuk mendapatkan metadata file XLSX, kami akan menggunakan
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
+API yang merupakan platform metadata yang kaya fitur, kuat, dan mudah digunakan API for Java. Anda dapat mengunduh versi terbarunya langsung dari
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
@@ -53,12 +53,12 @@ description: Kode sampel Java untuk mengedit atau melihat metadata format XLSX d
 
 {{% blocks/products/pf/agp/text %}}
 
- Akses informasi berguna yang disimpan dalam file XLSX termasuk kapan file XLSX diterima, diproses, dicap waktu, dan sebagainya.
+ Akses informasi berguna yang disimpan dalam file XLSX termasuk kapan file XLSX diterima, diproses, dicap waktu, dan seterusnya.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Muat file XLSX di dalam WorkbookMetadata
-Buat Objek MetadataOptions dengan opsi yang relevan
++ Buat Objek MetadataOptions dengan opsi yang relevan
 + Atur properti yang relevan
 + Simpan info metadata XLSX
 

@@ -22,7 +22,7 @@ description: Ripara un file excel corrotto utilizzando C#. Strumento di ripristi
 
 {{% blocks/products/pf/agp/content h2="Come riparare file excel usando C#" %}}
 
-Definire una classe che eredita Aspose.Cells.IWarningCallback.
++ Definire una classe che eredita Aspose.Cells.IWarningCallback.
 + Carica il file EXCEL creando un'istanza di Workbook, utilizzando la classe di ereditarietà sopra, fai riferimento al codice sopra.
 + Salva la cartella di lavoro, il file excel danneggiato verrà riparato.
 

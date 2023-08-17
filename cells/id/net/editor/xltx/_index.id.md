@@ -1,5 +1,5 @@
 ---
-title: Edit file XLTX via .NET
+title:  Edit file XLTX via .NET
 description: Kode sumber C# untuk mengedit dokumen XLTX pada Framework .NET, .NET Core, Windows Azure, Mono atau Platform Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

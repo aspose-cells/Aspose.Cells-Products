@@ -1,5 +1,5 @@
 ---
-title:  Proteggi e blocca il documento XLSB via .NET
+title: Proteggi e blocca il documento XLSB via .NET
 weight: 5920
 description: C# codice sorgente per bloccare il file XLSB usando la password su .NET Framework, .NET Core, Mono o Xamarin Platforms.
 ---

@@ -58,7 +58,7 @@ description: Java codice di esempio per cercare parole con pattern nel file TXT 
 {{% /blocks/products/pf/agp/text %}}
 
 + Carica il file TXT istanziando un oggetto Workbook.
-Accedi al primo foglio di lavoro nel file TXT.
++ Accedi al primo foglio di lavoro nel file TXT.
 + Trova la cella contenente la formula specificata.
 + Crea un'istanza FindOptions.
 + Trova la cella contenente un valore stringa

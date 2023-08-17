@@ -28,7 +28,7 @@ description: Kode sumber C# yang menjelaskan cara membagi file Excel Microsoft m
 
 {{% blocks/products/pf/feature-page-section h2="Pisahkan Lembar Kerja Excel menjadi Panel" %}}
 
- Untuk membagi jendela lembar kerja menjadi panel, API menyediakan[Metode perpecahan](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) kelas lembar kerja, yang menyediakan tampilan lembar kerja yang terpisah. Untuk menghapus tampilan terbagi API menyediakan[Metode HapusSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Akhirnya simpan ke jalur yang ditentukan.
+ Untuk membagi jendela lembar kerja menjadi panel, API menyediakan[Metode perpecahan](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)kelas lembar kerja, yang menyediakan tampilan lembar kerja yang terpisah. Untuk menghapus tampilan terbagi API menyediakan[Metode HapusSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Akhirnya simpan ke jalur yang ditentukan.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Membagi Jendela Lembar Kerja Excel" %}}
 

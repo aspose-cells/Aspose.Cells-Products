@@ -1,5 +1,5 @@
 ---
-title: Sisipkan PivotTable di file Microsoft Excel XLSX melalui C#
+title:  Sisipkan PivotTable di file Microsoft Excel XLSX melalui C#
 weight: 7690
 description: C# Contoh kode untuk membuat dokumen XLSX dengan PivotTable. Gunakan kode ini untuk membuat file Micorsoft Excel XLSX dengan PivotTable dalam VB.NET, Asp.NET atau aplikasi berbasis .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Contoh kode untuk membuat dokumen XLSX dengan PivotTable. Gunaka
 
 {{% blocks/products/pf/agp/text %}}
 
- Sangat mudah bagi pengembang untuk memasukkan PivotTable dalam spreadsheet format XLSX dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
+Sangat mudah bagi pengembang untuk memasukkan PivotTable dalam spreadsheet format XLSX dalam menjalankan berbagai aplikasi pelaporan untuk pemrosesan data hanya dalam beberapa baris kode.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Contoh kode untuk membuat dokumen XLSX dengan PivotTable. Gunaka
 1.  Akses lembar kerja pertama dari buku kerja.
 1.  Dapatkan sel yang diinginkan dari lembar kerja dan masukkan nilainya ke dalam sel.
 1.  Sisipkan PivotTable dan atur gayanya
-1.  Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLSX.
+1. Gunakan metode Simpan untuk menyimpan buku kerja sebagai file XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

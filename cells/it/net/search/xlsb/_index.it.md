@@ -13,7 +13,7 @@ description: C# codice sorgente per cercare parole con pattern nel file XLSB su 
 
  Per cercare il file XLSB, useremo
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API che è un documento ricco di funzionalità, potente e facile da usare che cerca API per la piattaforma C#. Aprire
+API che è un documento ricco di funzionalità, potente e facile da usare che cerca API per la piattaforma C#. Aprire
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  gestore pacchetti, cerca
  **Aspose.Cells** 

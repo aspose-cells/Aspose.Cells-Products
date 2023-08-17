@@ -31,11 +31,11 @@ Pustaka asli C++ untuk membuat, memuat, memanipulasi, mengonversi, atau merender
 Lupakan platformnya, cukup kirimkan panggilan REST API untuk memproses spreadsheet Excel Microsoft dari semua jenis perangkat yang mampu menjalankan perintah cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="SDK Awan for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
 SDK open source dirancang khusus untuk memfasilitasi programmer .NET untuk menggunakan API RESTFul Aspose.Cells dengan mudah.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Cells" title="SDK Awan for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}
 Mudah digunakan Java SDK untuk berkomunikasi dengan Aspose.Cells Cloud API untuk pembuatan, konversi & manipulasi file Excel & Calc Microsoft.
 {{< /blocks/products/pf/product >}}
 
@@ -50,7 +50,7 @@ Konversi file Excel Microsoft dengan mudah menjadi PDF, HTML, gambar, dan banyak
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadata" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Cukup unggah file Excel Microsoft Anda untuk melihat atau mengedit metadata spreadsheet dari browser apa pun. Tidak diperlukan instalasi atau alat tambahan.
+ Cukup unggah file Excel Microsoft Anda untuk melihat atau mengedit metadata spreadsheet dari browser apa pun. Tidak diperlukan instalasi atau alat tambahan.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Penonton" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Lihat file spreadsheet termasuk XLS, XLSX, XLSM, XLSB & ODS di browser favorit A
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Rangkaian produk dan dukungan Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
+Rangkaian produk dan dukungan Aspose tidak ada duanya. Kami tidak dapat melakukan apa yang kami lakukan tanpa solusi ini.
  <em>
  Dan Patterson | Akumen, Inggris
  </em>

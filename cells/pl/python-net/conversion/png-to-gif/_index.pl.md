@@ -1,7 +1,7 @@
 ---
-title: Konwertuj PNG na GIF Python via Python
-description: Zamień PNG na GIF online za darmo. Darmowy konwerter online z PNG na GIF. Python PNG do GIF. PNG do GIF przez Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG do GIF - Konwerter online PNG do GIF
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj PNG na GIF saveformat. Python PNG do GIF w formacie. Zapisz PNG do GIF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to GIF saveformat., Free Online PNG to GIF Python., Python Convert PNG to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień PNG na GIF w Python" h2="Szybka biblioteka Python do konwersji PNG na GIF. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować PNG na GIF. Prześlij swój plik PNG,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na GIF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PNG na GIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować PNG na GIF w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki PNG na GIF? Programiści Python mogą łatwo załadować i przekonwertować PNG na GIF w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik PNG z instancją skoroszytu
-1.  Konwertuj PNG na GIF, wywołując metodę Workbook.save
+1.  Załaduj plik PNG z instancją skoroszytu.
+1.  Konwertuj PNG na GIF, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji PNG na GIF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}GIF lub Graphical Interchange Format to rodzaj mocno skompresowanego obrazu. Należący do firmy Unisys numer GIF wykorzystuje algorytm kompresji LZW, który nie obniża jakości obrazu. Dla każdego obrazu GIF zwykle dopuszcza się do 8 bitów na piksel i do 256 kolorów w całym obrazie. W przeciwieństwie do obrazu JPEG, który może wyświetlać do 16 milionów kolorów i dość dotyka granic ludzkiego oka. Kiedy pojawił się Internet, pliki GIF pozostawały najlepszym wyborem, ponieważ wymagały niskiej przepustowości i były kompatybilne z grafiką, która zużywa jednolite obszary koloru. Animowany GIF łączy wiele obrazów lub klatek w jeden plik i wyświetla je w sekwencji, aby wygenerować animowany klip lub krótki film. Ograniczenia kolorów wynoszą do 256 dla każdej klatki i prawdopodobnie będą najmniej odpowiednie do reprodukcji innych obrazów i fotografii z gradientem kolorów.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować PNG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

@@ -22,7 +22,7 @@ description: Napraw uszkodzony plik programu Excel za pomocą C#. Narzędzie do 
 
 {{% blocks/products/pf/agp/content h2="Jak naprawić plik programu Excel za pomocą C#" %}}
 
-Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
++ Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
 + Załaduj plik EXCEL, tworząc instancję Workbook, używając powyższej klasy dziedziczenia, zapoznaj się z powyższym kodem.
 + Zapisz skoroszyt, uszkodzony plik Excela zostanie naprawiony.
 
@@ -47,7 +47,7 @@ Aspose.Cells jest w pełni wieloplatformowy i obsługuje wszystkie główne impl
 -  .NET Framework, począwszy od najwcześniejszej wersji 2.0, a skończywszy na najnowszej wersji .NET Framework 4.8.
 -  .NET Rdzeń, począwszy od najwcześniejszej wersji 2.0, a kończąc na najnowszej .NET 6.
 
-O ile kod .NET nie zależy od bazowego sprzętu lub systemu operacyjnego, ale tylko od maszyny wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla Windows, Linux, macOS, Android i iOS. Obsługiwane są również platformy Azure i AWS Lambda. Tylko upewnij się, że zainstalowałeś odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.
+ile kod .NET nie zależy od bazowego sprzętu lub systemu operacyjnego, ale tylko od maszyny wirtualnej, możesz swobodnie tworzyć dowolne oprogramowanie dla Windows, Linux, macOS, Android i iOS. Obsługiwane są również platformy Azure i AWS Lambda. Tylko upewnij się, że zainstalowałeś odpowiednią wersję .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin.
 
 Zalecamy używanie Microsoft Visual Studio, VSCode do tworzenia aplikacji C#, F#, VB.NET.
 

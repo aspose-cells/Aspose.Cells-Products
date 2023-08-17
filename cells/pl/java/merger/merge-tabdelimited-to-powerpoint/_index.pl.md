@@ -1,7 +1,8 @@
 ---
-title:  Połącz TABDELIMITED z POWERPOINT via Java
+title: Połącz TABDELIMITED z POWERPOINT - Połącz TABDELIMITED z POWERPOINT w Java
 url: /pl/java/merger/merge-tabdelimited-to-powerpoint/ 
-description: Połącz TABDELIMITED z POWERPOINT Online za darmo. Bezpłatna fuzja online TABDELIMITED do POWERPOINT. Połącz TABDELIMITED z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Java Aspose.Cells. Bezpłatne scalanie online TABDELIMITED do formatu zapisu POWERPOINT. Java Połącz TABDELIMITED z formatem POWERPOINT. Połącz TABDELIMITED z POWERPOINT w Java. TABDELIMITED Połącz.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge TABDELIMITED to POWERPOINT in Java., Free Online Java Merge TABDELIMITED to powerpoint., Java Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz TABDELIMITED z POWERPOINT via Java" h2="Szybka biblioteka Java do łączenia TABDELIMITED z POWERPOINT. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Java. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz TABDELIMITED z POWERPOINT Online za darmo. Bezpłatna fuzj
 
 {{% blocks/products/pf/agp/content h2="Połącz TABDELIMITED z POWERPOINT przy użyciu Java" %}}
 
- Jak scalić TABDELIMITED z POWERPOINT? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo scalić TABDELIMITED z POWERPOINT za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak scalić TABDELIMITED z POWERPOINT? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo scalić TABDELIMITED z POWERPOINT za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Połącz TABDELIMITED z POWERPOINT Online za darmo. Bezpłatna fuzj
 
 {{% blocks/products/pf/agp/content h2="Połącz TABDELIMITED z POWERPOINT w Java online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić TABDELIMITED z POWERPOINT w Java.
+Poniższy przykład pokazuje, jak scalić TABDELIMITED z POWERPOINT w Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć TABDELIMITED z POWERPOINT. Prześlij swoje pliki, wywołaj metodę Workbook.Combine do łączenia plików, a następnie zapisz ją w pliku POWERPOINT. Jeśli opracujesz kod w Java, będzie to prostsze niż się wydaje. Zobacz przykład Java, który łączy TABDELIMITED z POWERPOINT.
@@ -55,16 +56,18 @@ Wykonaj proste kroki, aby połączyć TABDELIMITED z POWERPOINT. Prześlij swoje
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezpłatna aplikacja do łączenia TABDELIMITED z POWERPOINT on-line" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć TABDELIMITED z POWERPOINT w Java" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak scalić TABDELIMITED z POWERPOINT via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz programowo scalić TABDELIMITED z POWERPOINT? Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Java.
 + Załaduj plik TABDELIMITED z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -97,21 +100,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format pliku wartości rozdzielanych tabulatorami (TSV) reprezentuje dane oddzielone tabulatorami w formacie zwykłego tekstu. Format pliku, podobny do CSV, służy do organizowania danych w uporządkowany sposób w celu importu i eksportu między różnymi aplikacjami. Format ten jest używany głównie do importu/eksportu i wymiany danych w aplikacjach arkuszy kalkulacyjnych i bazach danych. Każdy rekord w pliku TSV jest zawarty w pojedynczym wierszu pliku tekstowego, w którym każda wartość pola jest oddzielona znakiem tabulacji. Typ nośnika dla formatu pliku TSV to tekst/wartości oddzielone tabulatorami.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacyjne utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane publiczności w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Korzystając z numeru Java, można również łączyć rozdzielane tabulatorami z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-docx/" name="Połącz TABDELIMITED z numerem DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-sql/" name="Połącz TABDELIMITED z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-bmp/" name="Połącz TABDELIMITED z numerem BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-emf/" name="Połącz TABDELIMITED z numerem EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-gif/" name="Połącz TABDELIMITED z numerem GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-html/" name="Połącz TABDELIMITED z numerem HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-md/" name="Połącz TABDELIMITED z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-mhtml/" name="Połącz TABDELIMITED z numerem MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-ods/" name="Połącz TABDELIMITED z numerem ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-pdf/" name="Połącz TABDELIMITED z numerem PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-png/" name="Połącz TABDELIMITED z numerem PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-svg/" name="Połącz TABDELIMITED z numerem SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-tiff/" name="Połącz TABDELIMITED z numerem TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-tsv/" name="Połącz TABDELIMITED z numerem TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-txt/" name="Połącz TABDELIMITED z numerem TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xls/" name="Połącz TABDELIMITED z numerem XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsb/" name="Połącz TABDELIMITED z numerem XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsm/" name="Połącz TABDELIMITED z numerem XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlsx/" name="Połącz TABDELIMITED z numerem XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xlt/" name="Połącz TABDELIMITED z numerem XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltm/" name="Połącz TABDELIMITED z numerem XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xltx/" name="Połącz TABDELIMITED z numerem XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xml/" name="Połącz TABDELIMITED z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-xps/" name="Połącz TABDELIMITED z numerem XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-json/" name="Połącz TABDELIMITED z numerem JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-tabdelimited-to-jpeg/" name="Połącz TABDELIMITED z numerem JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Połącz MHTML z XLS via Java
+title: Połącz MHTML z XLS - Połącz MHTML z XLS w Java
 url: /pl/java/merger/merge-mhtml-to-xls/ 
-description: Połącz MHTML z XLS Online za darmo. Bezpłatnie online MHTML do XLS Fuzja. Połącz MHTML z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Java Aspose.Cells. Bezpłatne scalanie online MHTML do XLS w formacie zapisu. Java Połącz format MHTML z XLS. Połącz MHTML z XLS w Java. MHTML Połącz.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to XLS in Java., Free Online Java Merge MHTML to xls., Java Combine MHTML to XLS Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz MHTML z XLS via Java" h2="Szybka biblioteka Java do łączenia MHTML z XLS. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Java. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz MHTML z XLS Online za darmo. Bezpłatnie online MHTML do X
 
 {{% blocks/products/pf/agp/content h2="Połącz MHTML z XLS za pomocą Java" %}}
 
- Jak połączyć MHTML z XLS? Dzięki bibliotece Aspose.Cells for Java możesz łatwo połączyć programowo MHTML z XLS za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak scalić MHTML z XLS? Dzięki bibliotece Aspose.Cells for Java możesz łatwo połączyć programowo MHTML z XLS za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Połącz MHTML z XLS Online za darmo. Bezpłatnie online MHTML do X
 
 {{% blocks/products/pf/agp/content h2="Połącz MHTML z XLS w Java Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć MHTML z XLS w Java.
+Poniższy przykład pokazuje, jak połączyć MHTML z XLS w Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć MHTML z XLS. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLS. Jeśli opracujesz kod w Java, będzie to prostsze niż się wydaje. Zobacz przykład Java, który łączy numery MHTML z XLS.
@@ -55,16 +56,18 @@ Wykonaj proste kroki, aby połączyć MHTML z XLS. Prześlij swoje pliki, wywoł
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia MHTML z XLS on-line" InputFormat="mhtml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Bezpłatne połączenie online MHTML z XLS w Java" InputFormat="mhtml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć MHTML z XLS via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić MHTML z XLS programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Java.
 + Załaduj plik MHTML z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -97,21 +100,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Pliki z rozszerzeniem MHTML reprezentują format archiwum strony internetowej, który może być tworzony przez wiele różnych aplikacji. Format ten jest znany jako format archiwum, ponieważ zapisuje kod internetowy HTML i powiązane zasoby w jednym pliku. Zasoby te obejmują wszystko, co jest powiązane ze stroną internetową, takie jak obrazy, aplety, animacje, pliki audio i tak dalej. Pliki MHTML można otwierać w różnych aplikacjach, takich jak Internet Explorer i Microsoft Word. Microsoft Windows używa formatu pliku MHTML do rejestrowania scenariuszy problemów zaobserwowanych podczas korzystania z dowolnej aplikacji na Windows, która powoduje problemy. Format pliku MHTML koduje zawartość strony podobnie do specyfikacji zdefiniowanych w komunikacie message/rfc822, który jest specyfikacją związaną z wiadomościami e-mail w postaci zwykłego tekstu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Pliki z rozszerzeniem XLS reprezentują binarny format pliku programu Excel. Takie pliki mogą być tworzone przez Microsoft Excel, a także inne podobne programy arkuszy kalkulacyjnych, takie jak OpenOffice Calc lub Apple Numbers. Plik zapisany przez program Excel jest znany jako skoroszyt, w którym każdy skoroszyt może mieć jeden lub więcej arkuszy. Dane są przechowywane i wyświetlane użytkownikom w formacie tabeli w arkuszu i mogą obejmować wartości liczbowe, dane tekstowe, formuły, zewnętrzne połączenia danych, obrazy i wykresy. Aplikacje takie jak Microsoft Excel umożliwiają eksportowanie danych skoroszytu do kilku różnych formatów, w tym PDF, CSV, XLSX, TXT, HTML, XPS i kilku innych. Format pliku XLS został zastąpiony bardziej otwartym i ustrukturyzowanym formatem, XLSX, wraz z wydaniem programu Excel 2007 Microsoft. Najnowsze wersje nadal zapewniają obsługę tworzenia i odczytywania plików XLS, chociaż XLSX jest teraz pierwszym wyborem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Java, można również łączyć mhtml z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-docx/" name="Połącz MHTML z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-sql/" name="Połącz MHTML z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-bmp/" name="Połącz MHTML z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-emf/" name="Połącz MHTML z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-gif/" name="Połącz MHTML z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-html/" name="Połącz MHTML z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-md/" name="Połącz MHTML z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-mhtml/" name="Połącz MHTML z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-ods/" name="Połącz MHTML z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-pdf/" name="Połącz MHTML z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-png/" name="Połącz MHTML z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-svg/" name="Połącz MHTML z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tiff/" name="Połącz MHTML z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tsv/" name="Połącz MHTML z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-txt/" name="Połącz MHTML z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xls/" name="Połącz MHTML z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsb/" name="Połącz MHTML z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsm/" name="Połącz MHTML z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsx/" name="Połącz MHTML z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlt/" name="Połącz MHTML z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltm/" name="Połącz MHTML z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltx/" name="Połącz MHTML z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xml/" name="Scal MHTML do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xps/" name="Połącz MHTML z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-json/" name="Połącz MHTML z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-jpeg/" name="Połącz MHTML z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

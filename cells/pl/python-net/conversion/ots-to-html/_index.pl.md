@@ -1,7 +1,7 @@
 ---
-title: Konwertuj OTS na HTML Python via Python
-description: Konwertuj OTS na HTML online za darmo. Darmowy internetowy konwerter OTS na numer HTML. Python OTS do HTML. OTS do HTML przez Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+title: Python OTS na HTML - Online OTS na HTML Konwerter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja OTS do formatu zapisu HTML. Python OTS do formatu HTML. Zapisz OTS pod numerem HTML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to HTML saveformat., Free Online OTS to HTML Python., Python Convert OTS to HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj OTS na HTML w Python" h2="Szybka biblioteka Python do konwersji OTS na HTML. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować OTS na HTML. Prześlij swój plik OTS
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji OTS na HTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji OTS na HTML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować OTS na HTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować OTS na HTML w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki OTS na HTML? Python programiści mogą łatwo załadować i przekonwertować OTS na HTML w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik OTS z instancją Workbook
-1.  Konwertuj OTS na HTML, wywołując metodę Workbook.save
+1.  Załaduj plik OTS z instancją Workbook.
+1.  Konwertuj OTS na HTML, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji OTS na HTML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) to rozszerzenie dla stron internetowych stworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań informacyjnych, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant jest znany jako HTML 5, co daje dużą elastyczność w pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być ładowane również z systemu lokalnego. Każda strona HTML składa się z HTML elementów, takich jak formularze, tekst, obrazy, animacje, linki itp. Elementy te są reprezentowane przez znaczniki i kilka innych, gdzie każdy znacznik ma początek i koniec. Może również osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i arkusze stylów (CSS) w celu ogólnej reprezentacji układu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować OTS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

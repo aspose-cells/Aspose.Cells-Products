@@ -1,7 +1,7 @@
 ---
-title: NUMBERS konvertálása EXCEL-re Python via Python
-description: Ingyenes konvertáljon NUMBERS-t EXCEL-be online. Ingyenes online NUMBERS to EXCEL konverter. Python SZÁMOK az EXCEL-hez. NUMBERS az EXCEL-hez a Python számon keresztül.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS to EXCEL – Online NUMBERS to EXCEL konvertáló
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python SZÁMOK átalakítása EXCEL mentési formátumba. Python SZÁMOK EXCEL formátumba. Mentse el a NUMBERS számot az EXCEL Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to EXCEL saveformat., Free Online NUMBERS to EXCEL Python., Python Convert NUMBERS to EXCEL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A NUMBERS konvertálása EXCEL-re a Python-ben" h2="Nagy sebességű Python könyvtár a NUMBERS EXCEL formátumba való konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EXCEL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="A NUMBERS konvertálása EXCEL-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a NUMBERS-t EXCEL-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a NUMBERS-t programozottan EXCEL-re néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a NUMBERS-t EXCEL-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a NUMBERS-t programozottan EXCEL-re néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a NUMBERS EXCEL formátumba konvertálásához
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a NUMBERS EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a NUMBERS EXCEL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet NUMBERS-t EXCEL-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python A fejlesztők egyszerűen betölthetik és EXCEL-re konvertálhatják a SZÁMOKAT, mindössze néhány sornyi kóddal.
+NUMBERS fájlt kell programozottan EXCEL-re konvertálni? Python A fejlesztők egyszerűen betölthetik és EXCEL-re konvertálhatják a SZÁMOKAT, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltsön be NUMBERS fájlt a munkafüzet egy példányával
-1.  A Workbook.save metódus meghívásával konvertáljon NUMBERS-t EXCEL-re
+1.  Töltsön be NUMBERS fájlt a munkafüzet egy példányával.
+1.  A Workbook.save metódus meghívásával konvertáljon NUMBERS-t EXCEL-re.
+1.  Szerezze meg a NUMBERS EXCEL-re konvertálási eredményét.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,15 +64,20 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft vezetett be a Microsoft Office 2007 kiadásával. Az OOXML szabvány 2. részében leírt nyílt csomagolási egyezmények szerint szervezett szerkezet alapján az új ECMA-376 formátum egy zip-csomag, amely számos XML-fájlt tartalmaz. Az alapul szolgáló struktúra és fájlok az .xlsx fájl egyszerű kicsomagolásával vizsgálhatók.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
-
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="NUMBERS-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A NUMBERS-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-bmp/" name="SZÁMOK A BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/numbers-to-emf/" name="SZÁMOK A EMF" description="Továbbfejlesztett metafájl formátum" >}}

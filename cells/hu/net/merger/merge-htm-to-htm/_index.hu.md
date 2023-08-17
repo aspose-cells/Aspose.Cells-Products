@@ -1,7 +1,8 @@
 ---
-title:  Egyesítse a HTM-et a HTM-mel a C# számon keresztül
+title: HTM egyesítése HTM-mel – HTM egyesítése HTM-mel a C# számon
 url: /hu/net/merger/merge-htm-to-htm/ 
-description: Ingyenesen egyesítse a HTM-et a HTM Online-szal. Ingyenes online HTM és HTM egyesülés. Egyesítse a HTM-et a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C# Aspose.Cells. Ingyenes online HTM egyesítése HTM mentési formátumba. C# HTM kombinálása HTM formátummal. HTM egyesítése a HTM-mel a C#-es telefonszámon. HTM egyesítése.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to HTM in C#., Free Online C# Merge HTM to htm., C# Combine HTM to HTM Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Egyesítse a HTM-et a HTM-mel a C# számon keresztül" h2="Nagy sebességű C# könyvtár a HTM és a HTM egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a HTM-et a HTM Online-szal. Ingyenes online H
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a HTM-et a HTM-mel a C# használatával" %}}
 
- Hogyan lehet egyesíteni a HTM-et a HTM-mel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTM-et a HTM-mel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a HTM-et a HTM-mel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a HTM-et a HTM-mel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a HTM-et a HTM-mel a C# Online ingyen" %}}
 
-következő példa bemutatja, hogyan lehet egyesíteni a HTM-et a HTM-mel a C#-ben.
+A következő példa bemutatja, hogyan lehet egyesíteni a HTM-et a HTM-mel a Aspose.Cells for .NET számon.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a HTM és a HTM egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el HTM-fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C#-es példát, amely egyesíti a HTM-et a HTM-mel.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a HTM és a HTM egyesítéséhez. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a HTM és a HTM online egyesítéséhez" InputFormat="htm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ingyenes online a HTM és a HTM egyesítése a C# számon" InputFormat="htm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A HTM és a HTM egyesítése a C# számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell a HTM-et a HTM-mel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C# projekthez.
 + Töltse be a HTM-fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -62,7 +65,7 @@ Két alternatív lehetőség van a „Aspose.Cells for .NET” telepítésére a
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells/) . Lát[Dokumentáció](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE-n belül
+1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) a Visual Studio IDE-n belül
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm kiterjesztésű fájlok a hiperszöveg jelölőnyelvet képviselik, amely webböngészőkben, például Google Chrome, Internet Explorer, Firefox és számos más böngészőben megjeleníthető weboldalak létrehozására szolgál. Meghatározza a statikus oldalak létrehozásának jelöléseit, amelyeket a világhálón (WWW) kell közzétenni mások általi eléréshez. Ezek a jelölések megmondják a böngészőknek, hogyan jelenítsék meg a weboldal tartalmát. Az ilyen oldalak egyszerű szöveget, képeket, más oldalakra mutató hivatkozásokat, videókat és egyéb médiainformációkat tartalmazhatnak. Egy weboldal közzétételekor az oldal forrásának megtekintésével megtekintheti a mögötte lévő jelölőkódot. A modern böngészők lehetővé teszik a weboldal minden olyan szakaszának ellenőrzését, ahol a HTM forrás minden egyes alosztálya vagy jelölőeleme ki van dolgozva.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm kiterjesztésű fájlok a hiperszöveg jelölőnyelvet képviselik, amely webböngészőkben, például Google Chrome, Internet Explorer, Firefox és számos más böngészőben megjeleníthető weboldalak létrehozására szolgál. Meghatározza a statikus oldalak létrehozásának jelöléseit, amelyeket a világhálón (WWW) kell közzétenni mások általi eléréshez. Ezek a jelölések megmondják a böngészőknek, hogyan jelenítsék meg a weboldal tartalmát. Az ilyen oldalak egyszerű szöveget, képeket, más oldalakra mutató hivatkozásokat, videókat és egyéb médiainformációkat tartalmazhatnak. Egy weboldal közzétételekor az oldal forrásának megtekintésével megtekintheti a mögötte lévő jelölőkódot. A modern böngészők lehetővé teszik a weboldal minden olyan szakaszának ellenőrzését, ahol a HTM forrás minden egyes alosztálya vagy jelölőeleme ki van dolgozva.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C# használatával a htm számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-docx/" name="HTM egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-sql/" name="HTM egyesítése SQL-lel" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-bmp/" name="HTM egyesítése a BMP számmal" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-emf/" name="HTM egyesítése a EMF számmal" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-gif/" name="HTM egyesítése a GIF számmal" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTM egyesítése a HTML számmal" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-md/" name="HTM egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="HTM egyesítése a MHTML számmal" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="HTM egyesítése a ODS számmal" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-pdf/" name="HTM egyesítése a PDF számmal" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-png/" name="HTM egyesítése a PNG számmal" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-svg/" name="HTM egyesítése a SVG számmal" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tiff/" name="HTM egyesítése a TIFF számmal" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="HTM egyesítése a TSV számmal" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="HTM egyesítése a TXT számmal" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="HTM egyesítése a XLS számmal" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="HTM egyesítése a XLSB számmal" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="HTM egyesítése a XLSM számmal" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="HTM egyesítése a XLSX számmal" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="HTM egyesítése a XLT számmal" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="HTM egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="HTM egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xml/" name="HTM egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="HTM egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-json/" name="HTM egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-jpeg/" name="HTM egyesítése a JPEG számmal" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

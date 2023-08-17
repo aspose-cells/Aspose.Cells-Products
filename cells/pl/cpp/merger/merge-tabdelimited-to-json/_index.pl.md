@@ -1,7 +1,8 @@
 ---
-title:  Połącz TABDELIMITED z JSON przez C++
+title: Połącz TABDELIMITED z JSON - Połącz TABDELIMITED z JSON w C++
 url: /pl/cpp/merger/merge-tabdelimited-to-json/ 
-description: Połącz TABDELIMITED z numerem JSON Online za darmo. Bezpłatne Online TABDELIMITED do JSON Fuzja. Połącz TABDELIMITED z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C++ Aspose.Cells. Bezpłatne połączenie online TABDELIMITED z formatem zapisu JSON. C++ Połącz TABDELIMITED z formatem JSON. Połącz TABDELIMITED z JSON w C++. TABDELIMITED Połącz.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge TABDELIMITED to JSON in C++., Free Online C++ Merge TABDELIMITED to json., C++ Combine TABDELIMITED to JSON Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz TABDELIMITED z JSON przez C++" h2="Szybka biblioteka C++ do łączenia TABDELIMITED z JSON. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C++. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz TABDELIMITED z numerem JSON Online za darmo. Bezpłatne On
 
 {{% blocks/products/pf/agp/content h2="Połącz TABDELIMITED z JSON przy użyciu C++" %}}
 
- Jak połączyć TABDELIMITED z JSON? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo scalić TABDELIMITED z JSON za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+Jak scalić TABDELIMITED z JSON? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo scalić TABDELIMITED z JSON za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Połącz TABDELIMITED z JSON w C++ Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić TABDELIMITED z JSON w C++.
+Poniższy przykład pokazuje, jak scalić TABDELIMITED z JSON w Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić TABDELIMITED z JSON. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku JSON. Jeśli opracujesz kod w C++, będzie to prostsze niż się wydaje. Zobacz przykład C++, który łączy TABDELIMITED z JSON.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby scalić TABDELIMITED z JSON. Prześlij swoje pliki, wy
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia TABDELIMITED z JSON on-line" InputFormat="tsv" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć TABDELIMITED z JSON w C++" InputFormat="tsv" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak scalić TABDELIMITED z JSON przez C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz programowo scalić TABDELIMITED z JSON? Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for C++”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
 + Załaduj plik TABDELIMITED z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -63,7 +66,7 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Format pliku wartości rozdzielanych tabulatorami (TSV) reprezentuje dane oddzielone tabulatorami w formacie zwykłego tekstu. Format pliku, podobny do CSV, służy do organizowania danych w uporządkowany sposób w celu importu i eksportu między różnymi aplikacjami. Format ten jest używany głównie do importu/eksportu i wymiany danych w aplikacjach arkuszy kalkulacyjnych i bazach danych. Każdy rekord w pliku TSV jest zawarty w pojedynczym wierszu pliku tekstowego, w którym każda wartość pola jest oddzielona znakiem tabulacji. Typ nośnika dla formatu pliku TSV to tekst/wartości oddzielone tabulatorami.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) to otwarty standardowy format plików do udostępniania danych, który wykorzystuje tekst czytelny dla człowieka do przechowywania i przesyłania danych. JSON pliki są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z języka JavaScript, ale jest formatem danych niezależnym od języka. Generowanie i analizowanie numeru JSON jest obsługiwane przez wiele współczesnych języków programowania. application/json to typ nośnika używany dla JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Korzystając z numeru C++, można również łączyć rozdzielane tabulatorami z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-docx/" name="Połącz TABDELIMITED z numerem DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-sql/" name="Połącz TABDELIMITED z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-bmp/" name="Połącz TABDELIMITED z numerem BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-emf/" name="Połącz TABDELIMITED z numerem EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-gif/" name="Połącz TABDELIMITED z numerem GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-html/" name="Połącz TABDELIMITED z numerem HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-md/" name="Połącz TABDELIMITED z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-mhtml/" name="Połącz TABDELIMITED z numerem MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-ods/" name="Połącz TABDELIMITED z numerem ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-pdf/" name="Połącz TABDELIMITED z numerem PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-png/" name="Połącz TABDELIMITED z numerem PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-svg/" name="Połącz TABDELIMITED z numerem SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tiff/" name="Połącz TABDELIMITED z numerem TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-tsv/" name="Połącz TABDELIMITED z numerem TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-txt/" name="Połącz TABDELIMITED z numerem TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xls/" name="Połącz TABDELIMITED z numerem XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsb/" name="Połącz TABDELIMITED z numerem XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsm/" name="Połącz TABDELIMITED z numerem XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlsx/" name="Połącz TABDELIMITED z numerem XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xlt/" name="Połącz TABDELIMITED z numerem XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltm/" name="Połącz TABDELIMITED z numerem XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xltx/" name="Połącz TABDELIMITED z numerem XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xml/" name="Połącz TABDELIMITED z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-xps/" name="Połącz TABDELIMITED z numerem XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-json/" name="Połącz TABDELIMITED z numerem JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-tabdelimited-to-jpeg/" name="Połącz TABDELIMITED z numerem JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -58,7 +58,7 @@ description: Java mintakód a XLSM fájlban a Java futásidejű környezet JSP/J
 {{% /blocks/products/pf/agp/text %}}
 
 + A XLSM fájl betöltése munkafüzet objektum létrehozásával.
-A XLSM fájl első munkalapjának elérése.
++ A XLSM fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

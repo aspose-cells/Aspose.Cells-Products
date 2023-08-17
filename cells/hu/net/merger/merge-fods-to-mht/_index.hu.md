@@ -1,7 +1,8 @@
 ---
-title:  A FODS egyesítése az MHT-val a C# számon keresztül
+title: A FODS egyesítése az MHT-val – a FODS-es szám egyesítése az MHT-vel a C#-ben
 url: /hu/net/merger/merge-fods-to-mht/ 
-description: Ingyenesen egyesítse a FODS-es számot az MHT Online szolgáltatással. Ingyenes online FODS az MHT egyesüléshez. Egyesítse a FODS-es számokat Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés FODS MHT mentési formátumba. C# A FODS kombinálása MHT formátumba. A FODS egyesítése az MHT-val a C#-es számon. FODS Egyesítés.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge FODS to MHT in C#., Free Online C# Merge FODS to mht., C# Combine FODS to MHT Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A FODS egyesítése az MHT-val a C# számon keresztül" h2="Nagy sebességű C#-es könyvtár a FODS-es MHT-val való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a FODS-es számot az MHT Online szolgáltatá
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a FODS-et az MHT-val a C#-es szám használatával" %}}
 
- Hogyan lehet egyesíteni a FODS számot az MHT-val? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a FODS-et az MHT-vel, néhány soros kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a FODS számot az MHT-val? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a FODS-et az MHT-vel, néhány soros kóddal programozottan.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a FODS-es számot az MHT-vel a C#-es számon online" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a FODS-et az MHT-val a C#-ben.
+A következő példa bemutatja, hogyan egyesítheti a FODS-et az MHT-val a Aspose.Cells-es for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a FODS és az MHT egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el MHT-fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C# példát, amely egyesíti a FODS-et az MHT-val.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a FODS és az MHT egyesítéséhez. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a FODS és az MHT online egyesítéséhez" InputFormat="fods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ingyenes online összevonás a FODS-es számmal az MHT-vel a C#-ben" InputFormat="fods" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A FODS és az MHT egyesítése a C# számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell a FODS-et az MHT-val? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C# projekthez.
 + Töltse be a FODS fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -62,7 +65,7 @@ Két alternatív lehetőség van a „Aspose.Cells for .NET” telepítésére a
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells/) . Lát[Dokumentáció](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE-n belül
+1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) a Visual Studio IDE-n belül
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C# használatával a fodokat sok más fájlformátumba is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-docx/" name="FODS és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-sql/" name="A FODS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-bmp/" name="FODS és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-emf/" name="FODS és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-gif/" name="FODS és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-html/" name="FODS és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-md/" name="A FODS egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-mhtml/" name="FODS és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-ods/" name="FODS és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-pdf/" name="FODS és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-png/" name="FODS és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-svg/" name="FODS és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-tiff/" name="FODS és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-tsv/" name="FODS és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-txt/" name="FODS és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xls/" name="FODS és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsb/" name="FODS és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsm/" name="FODS és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlsx/" name="FODS és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xlt/" name="FODS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltm/" name="FODS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xltx/" name="FODS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xml/" name="A FODS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-xps/" name="FODS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-json/" name="FODS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-fods-to-jpeg/" name="FODS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

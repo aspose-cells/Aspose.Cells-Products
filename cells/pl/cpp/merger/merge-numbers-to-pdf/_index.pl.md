@@ -1,7 +1,8 @@
 ---
-title:  Połącz NUMERY z PDF przez C++
+title: Połącz NUMERY z PDF - Połącz NUMERY z PDF w C++
 url: /pl/cpp/merger/merge-numbers-to-pdf/ 
-description: Połącz NUMERY z PDF Online za darmo. Darmowe NUMERY ONLINE na PDF Fuzja. Połącz NUMERY z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C++ Aspose.Cells. Darmowe scalanie NUMERÓW online do formatu zapisu PDF. C++ Połącz NUMERY do formatu PDF. Połącz NUMERY z PDF w C++. NUMERY Połącz.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge NUMBERS to PDF in C++., Free Online C++ Merge NUMBERS to pdf., C++ Combine NUMBERS to PDF Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz NUMERY z PDF przez C++" h2="Szybka biblioteka C++ do łączenia NUMERÓW z PDF. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C++. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz NUMERY z PDF Online za darmo. Darmowe NUMERY ONLINE na PDF
 
 {{% blocks/products/pf/agp/content h2="Połącz NUMERY z PDF za pomocą C++" %}}
 
- Jak scalić NUMERY z PDF? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo scalić NUMBERS z PDF za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak połączyć NUMERY z PDF? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo programowo scalić NUMBERS z PDF za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Połącz NUMERY z PDF w C++ Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć NUMERY z PDF w C++.
+Poniższy przykład pokazuje, jak połączyć NUMERY z PDF w Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić NUMBERS z PDF. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku PDF. Jeśli opracujesz kod w C++, będzie to prostsze niż się wydaje. Zobacz przykład C++, który łączy NUMERY z PDF.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby scalić NUMBERS z PDF. Prześlij swoje pliki, wywołaj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia NUMERÓW z PDF on-line" InputFormat="numbers" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć NUMERY z PDF w C++" InputFormat="numbers" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć NUMERY z PDF przez C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz programowo scalić NUMBERS z PDF? Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for C++”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
 + Załaduj plik NUMBERS z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -63,7 +66,7 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Pliki z rozszerzeniem .numbers są klasyfikowane jako pliki typu arkusz kalkulacyjny, dlatego są podobne do plików .xlsx; ale pliki Numbers są tworzone przy użyciu arkusza kalkulacyjnego Apple iWork Numbers. Apple iWork Numbers to oprogramowanie jednostkowe pakietu iWork Productivity Suite. Pakiet iWork Productivity Suite jest odpowiednikiem pakietu Office Microsoft używanego na komputerach PC Windows. Dlatego możemy powiedzieć, że Numbers, który jest dostępny dla MacOS, jest również konkurentem Microsoft Excel. Podobnie Microsoft Excel, plik NUMBERS może zawierać również tabele, wykresy i formuły.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) to rodzaj dokumentu stworzony przez firmę Adobe w latach 90. Celem tego formatu plików było wprowadzenie standardu reprezentacji dokumentów i innych materiałów referencyjnych w formacie niezależnym od oprogramowania użytkowego, sprzętu oraz systemu operacyjnego. Format pliku PDF ma pełne możliwości przechowywania informacji, takich jak tekst, obrazy, hiperłącza, pola formularzy, multimedia, podpisy cyfrowe, załączniki, metadane, elementy geoprzestrzenne i obiekty 3D, które mogą stać się częścią dokumentu źródłowego.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Korzystając z numeru C++, można również łączyć numery z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-docx/" name="Połącz NUMERY z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-sql/" name="Połącz NUMBERS z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-bmp/" name="Połącz NUMERY z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-emf/" name="Połącz NUMERY z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-gif/" name="Połącz NUMERY z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-html/" name="Połącz NUMERY z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-md/" name="Połącz NUMERY z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-mhtml/" name="Połącz NUMERY z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-ods/" name="Połącz NUMERY z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-pdf/" name="Połącz NUMERY z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-png/" name="Połącz NUMERY z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-svg/" name="Połącz NUMERY z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tiff/" name="Połącz NUMERY z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-tsv/" name="Połącz NUMERY z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-txt/" name="Połącz NUMERY z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xls/" name="Połącz NUMERY z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsb/" name="Połącz NUMERY z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsm/" name="Połącz NUMERY z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlsx/" name="Połącz NUMERY z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xlt/" name="Połącz NUMERY z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltm/" name="Połącz NUMERY z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xltx/" name="Połącz NUMERY z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xml/" name="Połącz NUMERY z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-xps/" name="Połącz NUMERY z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-json/" name="Połącz NUMERY z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-numbers-to-jpeg/" name="Połącz NUMERY z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

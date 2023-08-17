@@ -1,7 +1,7 @@
 ---
-title: Konwertuj ARKUSZ KALKACYJNY na TXT Python via Python
-description: Konwertuj SPREADSHEETML na TXT online za darmo. Darmowy internetowy konwerter SPREADSHEETML na TXT. Python SPREADSHEETML na TXT. SPREADSHEETML na TXT przez Python.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML na TXT - Konwerter online SPREADSHEETML na TXT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja SPREADSHEETML do formatu zapisu TXT. Python SPREADSHEETML do formatu TXT. Zapisz SPREADSHEETML pod numerem TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to TXT saveformat., Free Online SPREADSHEETML to TXT Python., Python Convert SPREADSHEETML to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwersja SPREADSHEETML na TXT w Python" h2="Szybka biblioteka Python do konwersji SPREADSHEETML na TXT. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować SPREADSHEETML na TXT. Prześlij swój
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SPREADSHEETML na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SPREADSHEETML na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SPREADSHEETML na TXT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować SPREADSHEETML na TXT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki SPREADSHEETML na TXT? Python programiści mogą łatwo załadować i przekonwertować SPREADSHEETML na TXT w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik SPREADSHEETML z instancją Workbook
-1.  Konwertuj SPREADSHEETML na TXT, wywołując metodę Workbook.save
+1.  Załaduj plik SPREADSHEETML z instancją Workbook.
+1.  Konwertuj SPREADSHEETML na TXT, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji SPREADSHEETML na TXT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML oznacza Extensible Markup Language, który jest podobny do HTML, ale różni się używaniem znaczników do definiowania obiektów. Cała idea stworzenia formatu plików XML polegała na przechowywaniu i przesyłaniu danych bez uzależnienia od oprogramowania lub narzędzi sprzętowych. Jego popularność wynika z tego, że jest czytelny zarówno dla ludzi, jak i dla maszyn. Umożliwia to tworzenie wspólnych protokołów danych w postaci obiektów, które mają być przechowywane i udostępniane w sieci, takiej jak World Wide Web (WWW). „X” w XML oznacza rozszerzalny, co oznacza, że język można rozszerzyć do dowolnej liczby symboli, zgodnie z wymaganiami użytkownika. Właśnie dla tych funkcji korzysta z niego wiele standardowych formatów plików, takich jak Microsoft Open XML, LibreOffice OpenDocument, XHTML i SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Plik z rozszerzeniem .TXT reprezentuje dokument tekstowy zawierający zwykły tekst w postaci linii. Akapity w dokumencie tekstowym są rozpoznawane przez znak powrotu karetki i służą do lepszego uporządkowania zawartości pliku. Standardowy dokument tekstowy można otworzyć w dowolnym edytorze tekstu lub edytorze tekstów w różnych systemach operacyjnych. Cały tekst zawarty w takim pliku jest w formacie czytelnym dla człowieka i reprezentowany przez sekwencję znaków.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować SPREADSHEETML na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

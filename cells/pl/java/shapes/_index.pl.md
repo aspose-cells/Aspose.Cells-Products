@@ -6,7 +6,7 @@ description:  C# kody źródłowe, jak wstawić kształt do Microsoft plików pr
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Wstawianie kształtów programu Excel za pośrednictwem języka JAVA" h2="Twórz dokumenty programu Excel i wstawiaj kształty przy użyciu interfejsów API po stronie serwera w aplikacjach opartych na języku JAVA." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- W programie Excel możesz dodawać kształty, takie jak ramki, koła i strzałki, do dokumentów, wiadomości e-mail, slajdów i arkuszy kalkulacyjnych.[Biblioteka Excela JAVA](https://releases.aspose.com/cells/java/)API zapewnia tę samą funkcjonalność. Te interfejsy API są bardzo łatwe w użyciu, zwykle wystarczy jeden wiersz kodu, aby wstawić określony kształt, a kilka wierszy kodu może zakończyć wstawianie partii kształtów.
+ W programie Excel możesz dodawać kształty, takie jak ramki, koła i strzałki, do dokumentów, wiadomości e-mail, slajdów i arkuszy kalkulacyjnych.[Biblioteka Excela JAVA](https://releases.aspose.com/cells/java/) API zapewnia tę samą funkcjonalność. Te interfejsy API są bardzo łatwe w użyciu, zwykle wystarczy jeden wiersz kodu, aby wstawić określony kształt, a kilka wierszy kodu może zakończyć wstawianie partii kształtów.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

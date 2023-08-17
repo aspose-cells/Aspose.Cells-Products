@@ -1,7 +1,7 @@
 ---
-title: A XLTX konvertálása XML-re Python via Python
-description: Konvertálja a XLTX-et XML-re online ingyen. Ingyenes online XLTX - XML Converter. Python XLTX XML-re. XLTX XML-re a Python számon keresztül.
-keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, XLTX to Image
+title: Python XLTX XML-be – Online XLTX XML-konverterbe
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLTX konvertálása XML mentési formátumba. Python XLTX XML formátumba. Mentse a XLTX számot XML Python-be.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTX to XML saveformat., Free Online XLTX to XML Python., Python Convert XLTX to XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLTX-et XML-re a Python-ben" h2="Nagy sebességű Python könyvtár a XLTX XML-re konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTX, XLTX Converter, XLTX to PDF, XLTX to Word, XLTX to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLTX-et XML-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a XLTX-et XML-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLTX-et XML-re, programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a XLTX-et XML-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLTX-et XML-re, programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a XLTX XML-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX XML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLTX XML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltx" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLTX konvertálása XML-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal XML-re konvertálhatják a XLTX-et.
+XLTX fájlokat programozottan XML-re kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal XML-re konvertálhatják a XLTX-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a XLTX fájlt a munkafüzet egy példányával
-1.  Konvertálja a XLTX-et XML-re a Workbook.save metódus hívásával
+1.  Töltse be a XLTX fájlt a munkafüzet egy példányával.
+1.  Konvertálja a XLTX-et XML-re a Workbook.save metódus hívásával.
+1.  Szerezze meg a XLTX konverziós eredményt XML-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Az .xltx kiterjesztésű fájlok a Microsoft Excel-sablonfájlokat jelentik, amelyek az Office OpenXML fájlformátum-specifikációkon alapulnak. Egy szabványos sablonfájl létrehozására szolgál, amely felhasználható XLSX fájlok létrehozására, amelyek a XLTX fájlban megadott beállításokkal megegyeznek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLTX-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

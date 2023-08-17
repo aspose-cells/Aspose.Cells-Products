@@ -10,7 +10,7 @@ description: Javítsa ki a sérült Excel-fájlt a Java-es szám használatával
 
 {{% blocks/products/pf/agp/content h2="Javítsa meg az EXCEL fájlt a Java használatával" %}}
 
- Az EXCEL fájl javításához használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési API for Java platform.
+ Az EXCEL fájl javításához használjuk[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési API for Java platform.
  
  Aspose.Cells API használható Microsoft Excel formátumok létrehozására, szerkesztésére, konvertálására és renderelésére különböző formátumokba. Ezen túlmenően használható átfogó diagramok készítésére, skálázható jelentésekre és megbízható számításokra a szoftveralkalmazásokon belül. A Aspose.Cells egy önálló API, és nem igényel olyan szoftvert, mint a Microsoft vagy az OpenOffice.
 
@@ -20,8 +20,8 @@ description: Javítsa ki a sérült Excel-fájlt a Java-es szám használatával
 
 {{% blocks/products/pf/agp/content h2="Az Excel fájl javítása a Java használatával" %}}
 
-Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
-+ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával a fenti öröklési osztály használatával, lásd a fenti kódot.
++ Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
++ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával, a fenti öröklési osztály használatával, lásd a fenti kódot.
 + Mentse el a munkafüzetet, a sérült excel fájl javításra kerül.
 
 {{% /blocks/products/pf/agp/content %}}

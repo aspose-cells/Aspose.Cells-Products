@@ -6,7 +6,7 @@ description: Alakítsa át az Excel XLS, XLSX, ODS, CSV, PDF, XPS, HTML, JPEG, J
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-dokumentumkonverzió a C++-es számon keresztül" h2="Microsoft<sup>&reg;</sup> Excel-fájlok mentése táblázat-, web-, kép- és rögzített elrendezésű formátumokba" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Bármilyen táblázatkezelő alkalmazáshoz vagy megoldáshoz,**C++ Excel Library**felgyorsítja a kódolási, automatizálási és átalakítási folyamatokat, miközben több fájlt is kezel, beleértve a XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, 40163481, 407183, 3018-3043 it. vert Excel PDF**, XPS, HTML, MHTML, sima számra Szöveg és népszerű képek, például JPG, TIFF, PNG, BMP és SVG.
+ Bármilyen táblázatkezelő alkalmazáshoz vagy megoldáshoz,**C++ Excel Library** felgyorsítja a kódolási, automatizálási és átalakítási folyamatokat, miközben több fájlt is kezel, beleértve a XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, 40163481, 30163481, 4018-3018-3018-3043. vert Excel PDF**, XPS, HTML, MHTML, sima számra Szöveg és népszerű képek, például JPG, TIFF, PNG, BMP és SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="A Microsoft Excel-formátumok interkonverziója" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertálja az Excel-formátumokat PDF-re a megfelelőségi szint beállításaival" %}}
- A C++ Excel Automation API támogatja a munkafüzetek PDF-es számra való konvertálását, valamint a megfelelőségi szint és a létrehozás dátumának beállítását. A fejlesztők használhatják[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) együtt[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF megfelelőség beállításához. Az átalakításhoz a API mentési módszer PdfSaveOptions paraméterrel és meghatározott kimeneti fájl elérési úttal.
+ A C++ Excel Automation API támogatja a munkafüzetek PDF-es számra való konvertálását, valamint a megfelelőségi szint és a létrehozás dátumának beállítását. A fejlesztők használhatják[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) együtt[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) a PDF megfelelőség beállításához. Az átalakításhoz a API mentési módszer PdfSaveOptions paraméterrel és meghatározott kimeneti fájl elérési úttal.
 {{% blocks/products/pf/feature-page-code h3="C++ Mintakód az Excelhez PDF konvertáláshoz" %}}
 
 ```cs

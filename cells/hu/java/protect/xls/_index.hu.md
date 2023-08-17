@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja XLS via Java dokumentumot
+title: Védje és zárja XLS via Java dokumentumot
 weight: 5070
 description: Java mintakód a XLS fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
@@ -49,7 +49,7 @@ description: Java mintakód a XLS fájl zárolásához jelszóval a Java futási
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLS via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A XLS via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

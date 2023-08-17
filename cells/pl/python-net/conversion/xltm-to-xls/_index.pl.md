@@ -1,7 +1,7 @@
 ---
-title: Konwertuj XLTM na XLS Python via Python
-description: Zamień XLTM na XLS online za darmo. Darmowy konwerter online z XLTM na XLS. Python XLTM do XLS. XLTM do XLS przez Python.
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM do XLS - Konwerter online XLTM do XLS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj XLTM na XLS saveformat. Python XLTM do XLS w formacie. Zapisz XLTM do XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to XLS saveformat., Free Online XLTM to XLS Python., Python Convert XLTM to XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień XLTM na XLS w Python" h2="Szybka biblioteka Python do konwersji XLTM na XLS. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować XLTM na XLS. Prześlij swój plik XLT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLTM na XLS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLTM na XLS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLTM na XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować XLTM na XLS w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki XLTM na XLS? Programiści Python mogą łatwo załadować i przekonwertować XLTM na XLS w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik XLTM z instancją skoroszytu
-1.  Konwertuj XLTM na XLS, wywołując metodę Workbook.save
+1.  Załaduj plik XLTM z instancją skoroszytu.
+1.  Konwertuj XLTM na XLS, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji XLTM na XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Pliki z rozszerzeniem XLS reprezentują binarny format pliku programu Excel. Takie pliki mogą być tworzone przez Microsoft Excel, a także inne podobne programy arkuszy kalkulacyjnych, takie jak OpenOffice Calc lub Apple Numbers. Plik zapisany przez program Excel jest znany jako skoroszyt, w którym każdy skoroszyt może mieć jeden lub więcej arkuszy. Dane są przechowywane i wyświetlane użytkownikom w formacie tabeli w arkuszu i mogą obejmować wartości liczbowe, dane tekstowe, formuły, zewnętrzne połączenia danych, obrazy i wykresy. Aplikacje takie jak Microsoft Excel umożliwiają eksportowanie danych skoroszytu do kilku różnych formatów, w tym PDF, CSV, XLSX, TXT, HTML, XPS i kilku innych. Format pliku XLS został zastąpiony bardziej otwartym i ustrukturyzowanym formatem, XLSX, wraz z wydaniem programu Excel 2007 Microsoft. Najnowsze wersje nadal zapewniają obsługę tworzenia i odczytywania plików XLS, chociaż XLSX jest teraz pierwszym wyborem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować XLTM na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

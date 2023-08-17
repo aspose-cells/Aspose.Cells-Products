@@ -33,7 +33,7 @@ A fejlesztők könnyen létrehozhatnak egy Területdiagramot a különböző jel
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="rendszerkövetelmények" %}}
 {{% blocks/products/pf/agp/text %}}
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
 {{% /blocks/products/pf/agp/text %}}
 - Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 

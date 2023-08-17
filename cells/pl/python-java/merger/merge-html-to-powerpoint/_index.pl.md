@@ -1,7 +1,8 @@
 ---
-title:  Połącz HTML z POWERPOINT przez Python
+title: Połącz HTML z POWERPOINT - Połącz HTML z POWERPOINT w Python
 url: /pl/python-java/merger/merge-html-to-powerpoint/ 
-description: Połącz numer HTML z usługą POWERPOINT Online za darmo. Bezpłatny numer online HTML do fuzji POWERPOINT. Połącz HTML z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Python Aspose.Cells. Bezpłatne scalanie online HTML do formatu zapisu POWERPOINT. Python Połącz HTML do formatu POWERPOINT. Połącz HTML z POWERPOINT w Python. HTML Połącz.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge HTML to POWERPOINT in Python., Free Online Python Merge HTML to powerpoint., Python Combine HTML to POWERPOINT Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz HTML z POWERPOINT przez Python" h2="Szybka biblioteka Python do łączenia HTML z POWERPOINT. Użyj naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Połącz numer HTML z usługą POWERPOINT Online za darmo. Bezpłat
 
 {{% blocks/products/pf/agp/content h2="Połącz HTML z POWERPOINT za pomocą Python" %}}
 
- Jak scalić HTML z POWERPOINT? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo scalić HTML z POWERPOINT za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+ Jak scalić HTML z POWERPOINT? Dzięki bibliotece Aspose.Cells for Python via Java możesz łatwo programowo scalić HTML z POWERPOINT za pomocą kilku linii kodu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Połącz HTML z POWERPOINT w Python Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić HTML z POWERPOINT w Python.
+Poniższy przykład pokazuje, jak scalić HTML z POWERPOINT w Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć HTML z POWERPOINT. Prześlij swoje pliki, wywołaj metodę Workbook.Combine do łączenia plików, a następnie zapisz ją w pliku POWERPOINT. Jeśli opracujesz kod w Python, będzie to prostsze niż się wydaje. Zobacz przykład Python, który łączy HTML z POWERPOINT.
@@ -27,16 +28,18 @@ Wykonaj proste kroki, aby połączyć HTML z POWERPOINT. Prześlij swoje pliki, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezpłatna aplikacja do łączenia HTML z POWERPOINT on-line" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Bezpłatne połączenie online HTML z POWERPOINT w Python" InputFormat="html" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć HTML z POWERPOINT przez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz programowo scalić HTML z POWERPOINT? Podstawowy dokument łączący i łączący z[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Python via Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
 + Załaduj plik HTML z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -75,21 +78,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) to rozszerzenie dla stron internetowych stworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań informacyjnych, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant jest znany jako HTML 5, co daje dużą elastyczność w pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być ładowane również z systemu lokalnego. Każda strona HTML składa się z HTML elementów, takich jak formularze, tekst, obrazy, animacje, linki itp. Elementy te są reprezentowane przez znaczniki i kilka innych, gdzie każdy znacznik ma początek i koniec. Może również osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i arkusze stylów (CSS) w celu ogólnej reprezentacji układu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacyjne utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane publiczności w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Python, można również łączyć html z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-docx/" name="Połącz HTML z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-sql/" name="Połącz HTML z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-bmp/" name="Połącz HTML z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-emf/" name="Połącz HTML z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-gif/" name="Połącz HTML z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-html/" name="Połącz HTML z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-md/" name="Połącz HTML z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-mhtml/" name="Połącz HTML z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-ods/" name="Połącz HTML z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-pdf/" name="Połącz HTML z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-png/" name="Połącz HTML z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-svg/" name="Połącz HTML z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tiff/" name="Połącz HTML z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-tsv/" name="Połącz HTML z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-txt/" name="Połącz HTML z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xls/" name="Połącz HTML z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsb/" name="Połącz HTML z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsm/" name="Połącz HTML z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlsx/" name="Połącz HTML z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xlt/" name="Połącz HTML z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltm/" name="Połącz HTML z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xltx/" name="Połącz HTML z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xml/" name="Scal HTML do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-xps/" name="Połącz HTML z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-json/" name="Połącz HTML z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-html-to-jpeg/" name="Połącz HTML z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

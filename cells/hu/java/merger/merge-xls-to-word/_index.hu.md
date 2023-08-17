@@ -1,7 +1,8 @@
 ---
-title:  XLS egyesítése a via Java WORD-al
+title: A XLS egyesítése a WORD-dal – a XLS egyesítése a WORD-dal a Java-ben
 url: /hu/java/merger/merge-xls-to-word/ 
-description: Ingyenesen egyesítse a XLS-es számot a WORD Online szolgáltatással. Ingyenes online XLS a WORD egyesüléshez. Egyesítse a XLS-es számokat Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés XLS WORD mentési formátumba. Java Kombinálja a XLS-et WORD formátumba. A XLS egyesítése a WORD-hoz a Java-ben. XLS Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLS to WORD in Java., Free Online Java Merge XLS to word., Java Combine XLS to WORD Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLS egyesítése a via Java WORD-al" h2="Nagy sebességű Java-es könyvtár a XLS-es szám WORD-ba való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a XLS-es számot a WORD Online szolgáltatás
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a XLS-et a WORD-dal a Java használatával" %}}
 
- Hogyan lehet egyesíteni a XLS-et a WORD-val? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLS-et a WORD-ba néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+Hogyan egyesíthetem a XLS-es számot a WORD-dal? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLS-et a WORD-ba néhány soros kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Ingyenesen egyesítse a XLS-es számot a WORD Online szolgáltatás
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a XLS-et a WORD-dal a Java-ben online" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a XLS-et a WORD-dal a Java-ben.
+A következő példa bemutatja, hogyan lehet egyesíteni a XLS-et a WORD-dal a Aspose.Cells-es for Java-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLS és a WORD egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el WORD fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java példát, amely egyesíti a XLS-et a WORD-ba.
@@ -55,16 +56,18 @@ Kövesse az egyszerű lépéseket a XLS és a WORD egyesítéséhez. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a XLS és a WORD online egyesítéséhez" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ingyenes online a XLS és a WORD egyesítéséhez a Java-ben" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLS és a via Java WORD egyesítése" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a XLS-et a WORD-dal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 + Töltse be a XLS fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -97,21 +100,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}A DOCX a Microsoft Word dokumentumok jól ismert formátuma. A 2007-ben bevezetett Microsoft Office 2007 kiadással ennek az új dokumentumformátumnak a szerkezete sima binárisról XML és bináris fájlok kombinációjára módosult. A Docx fájlok megnyithatók a Word 2007 és oldalsó verzióival, de nem az MS Word korábbi verzióival, amelyek támogatják a DOC fájlkiterjesztéseket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával az xl-eket sok más fájlformátumhoz is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-docx/" name="XLS és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-sql/" name="A XLS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-bmp/" name="XLS és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-emf/" name="XLS és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-gif/" name="XLS és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-html/" name="XLS és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-md/" name="A XLS egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-mhtml/" name="XLS és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-ods/" name="XLS és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-pdf/" name="XLS és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-png/" name="XLS és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-svg/" name="XLS és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tiff/" name="XLS és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-tsv/" name="XLS és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-txt/" name="XLS és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xls/" name="XLS és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsb/" name="XLS és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsm/" name="XLS és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlsx/" name="XLS és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xlt/" name="XLS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltm/" name="XLS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xltx/" name="XLS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xml/" name="A XLS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-xps/" name="XLS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-json/" name="XLS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xls-to-jpeg/" name="XLS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

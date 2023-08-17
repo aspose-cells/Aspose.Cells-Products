@@ -1,7 +1,7 @@
 ---
-title: A XLSM konvertálása JPG-re Python via Python
-description: Konvertálja a XLSM-et JPG-be online ingyen. Ingyenes online XLSM konverter JPG-be. Python XLSM JPG formátumban. XLSM JPG-re a Python számon keresztül.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM JPG formátumba – Online XLSM JPG konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLSM konvertálása JPG mentési formátumba. Python XLSM JPG formátumba. Mentse el a XLSM-et JPG Python-be.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to JPG saveformat., Free Online XLSM to JPG Python., Python Convert XLSM to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSM-et JPG-re a Python-ben" h2="Nagy sebességű Python könyvtár a XLSM JPG formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLSM-et JPG-re a Python-ben" %}}
 
-Hogyan lehet átalakítani a XLSM fájlt JPG-re? A Aspose.Cells for Python NET könyvtáron keresztül a XLSM egyszerűen konvertálhatja a XLSM-et JPG formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a XLSM fájlt JPG-re? A Aspose.Cells for Python NET könyvtáron keresztül a XLSM egyszerűen konvertálhatja a XLSM-et JPG formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a XLSM JPG formátumba konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM JPG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM JPG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a XLSM-et JPG-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal JPG formátumba konvertálhatják a XLSM-et.
+Programozottan kell konvertálnia a XLSM fájlokat JPG formátumba? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal JPG formátumba konvertálhatják a XLSM-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a XLSM fájlt a munkafüzet egy példányával
-1.  Konvertálja a XLSM-et JPG-be a Workbook.save metódus meghívásával
+1.  Töltse be a XLSM fájlt a munkafüzet egy példányával.
+1.  Konvertálja a XLSM-et JPG-be a Workbook.save metódus meghívásával.
+1.  Szerezze meg a XLSM konvertálási eredményt JPG-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG egy olyan képformátum, amely veszteséges tömörítés módszerével kerül mentésre. A kimeneti kép a tömörítés eredményeként kompromisszumot jelent a tárhely mérete és a képminőség között. A felhasználók beállíthatják a tömörítési szintet a kívánt minőségi szint eléréséhez, ugyanakkor csökkenthetik a tárhely méretét. A képminőséget elhanyagolható mértékben befolyásolja, ha 10:1-es tömörítést alkalmaznak a képen. Minél nagyobb a tömörítési érték, annál nagyobb a képminőség romlása.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLSM-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

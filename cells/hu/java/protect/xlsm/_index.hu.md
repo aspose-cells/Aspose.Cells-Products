@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja XLSM via Java dokumentumot
+title: Védje és zárja XLSM via Java dokumentumot
 weight: 9620
 description: Java mintakód a XLSM fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
@@ -49,7 +49,7 @@ description: Java mintakód a XLSM fájl zárolásához jelszóval a Java futás
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLSM via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A XLSM via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,7 @@
 ---
-title: A XLT átalakítása ETT Python via Python-re
-description: Konvertálja a XLT-et ETT Online-ra ingyen. Ingyenes online XLT az ETT Converterhez. Python XLT az ETT-nek. XLT az ETT-hez a Python számon keresztül.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT az ETT-nek – Online XLT az ETT átalakítónak
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLT konvertálása ETT mentési formátumba. Python XLT ETT formátumba. Mentse a XLT számot az ETT Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to ETT saveformat., Free Online XLT to ETT Python., Python Convert XLT to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLT-et ETT-re a Python-ben" h2="Nagysebességű Python könyvtár a XLT ETT-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLT-et ETT-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a XLT-et ETT-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLT-et ETT-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a XLT-et ETT-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLT-et ETT-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg XLT-et az ETT-nek a Python számon online ingyen" %}}
 
-következő példa bemutatja, hogyan lehet a Python via NET-ben a XLT-et ETT-vé alakítani.
+A következő példa bemutatja, hogyan lehet a Python via NET-ben a XLT-et ETT-vé alakítani.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLT ETT-re konvertálásához. Töltse fel a XLT fájlt, majd egyszerűen mentse el ETT fájlként. Mind a XLT-es olvasáshoz, mind az ETT íráshoz használhat teljesen minősített fájlneveket. A kimeneti ETT tartalom és formázás megegyezik az eredeti XLT dokumentuméval.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a XLT ETT-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLT ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLT ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a XLT-et ETT-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal ETT-re konvertálhatják a XLT-et.
+A XLT fájlokat programozottan ETT-re kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal ETT-re konvertálhatják a XLT-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a XLT fájlt a munkafüzet egy példányával
-1.  Konvertálja a XLT-et ETT-re a Workbook.save metódus hívásával
+1.  Töltse be a XLT fájlt a munkafüzet egy példányával.
+1.  Konvertálja a XLT-et ETT-re a Workbook.save metódus hívásával.
+1.  Szerezze meg a XLT konverziós eredményt ETT-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Az .xlt kiterjesztésű fájlok olyan sablonfájlok, amelyeket a Microsoft Excel programmal hoztak létre, amely egy táblázatkezelő alkalmazás, amely a Microsoft Office csomag része. A Microsoft Office 97-2003 támogatta az új XLT fájlok létrehozását és megnyitását. Az Excel legújabb verziója továbbra is képes megnyitni a régi formátumú sablonfájlokat. Egy ilyen sablonfájl segítségével gyorsan hozhatók létre új Excel-fájlok alapértelmezett adatokkal és beállításokkal, például oldalformázással, betűmérettel, margókkal, diagramokkal stb., amelyek tovább menthetők új .xls fájlként.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Az ETT-fájl egy táblázatsablon, amelyet a Kingsoft Spreadsheets, a WPS Office csomagban található táblázatkezelő program hozott létre. Olyan sablont tárol, amely kiindulási pontként használható új Kingsoft táblázatok (.ET fájlok) létrehozásához. Az ETT fájlokat gyakran használják pénzügyi költségvetések létrehozására és adatok rendszerezésére.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLT-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

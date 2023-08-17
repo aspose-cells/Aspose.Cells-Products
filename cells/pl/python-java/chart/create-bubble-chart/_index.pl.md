@@ -22,7 +22,7 @@ Programiści mogą łatwo utworzyć wykres bąbelkowy w ramach różnych aplikac
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Zaimportuj asposecells do swojego pliku kodu.
+1. Zaimportuj asposecells do pliku kodu.
 1. Utwórz instancję klasy Workbook.
 1. Dodaj dane do arkusza.
 1. Dodaj wykres bąbelkowy do arkusza

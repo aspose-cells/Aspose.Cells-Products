@@ -1,7 +1,7 @@
 ---
-title: Konwersja PRN do XML Python via Python
-description: Konwertuj PRN na XML online za darmo. Darmowy internetowy konwerter PRN na XML. Python PRN do XML. PRN do XML przez Python.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN to XML — internetowy konwerter PRN na XML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja PRN do formatu zapisu XML. Python PRN do formatu XML. Zapisz PRN do XML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to XML saveformat., Free Online PRN to XML Python., Python Convert PRN to XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PRN na XML w Python" h2="Szybka biblioteka Python do konwersji PRN na XML. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 
 {{% blocks/products/pf/agp/content h2="Konwertuj PRN na XML w Python" %}}
 
- Jak przekonwertować PRN do XML? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo programowo przekonwertować PRN na XML za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować PRN na XML? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo programowo przekonwertować PRN na XML za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować PRN na XML. Prześlij swój plik PRN,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PRN na XML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PRN na XML online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PRN na XML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować PRN na XML w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki PRN na XML? Python programiści mogą łatwo załadować i przekonwertować PRN na XML w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik PRN z instancją skoroszytu
-1.  Konwertuj PRN na XML, wywołując metodę Workbook.save
+1.  Załaduj plik PRN z instancją Workbook.
+1.  Konwertuj PRN na XML, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji PRN do XML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Plik PRN to plik utworzony za pomocą pola wyboru Drukuj do pliku, które pojawia się w niektórych oknach dialogowych Drukuj pod numerem Windows. Zawiera zestaw instrukcji specyficznych dla urządzenia, których używa drukarka, faks lub inne urządzenie do drukowania dokumentu. Pliki PRN mogą zawierać treść tekstową lub binarną, w zależności od urządzenia, dla którego plik został utworzony.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML oznacza Extensible Markup Language, który jest podobny do HTML, ale różni się używaniem znaczników do definiowania obiektów. Cała idea stworzenia formatu plików XML polegała na przechowywaniu i przesyłaniu danych bez uzależnienia od oprogramowania lub narzędzi sprzętowych. Jego popularność wynika z tego, że jest czytelny zarówno dla ludzi, jak i dla maszyn. Umożliwia to tworzenie wspólnych protokołów danych w postaci obiektów, które mają być przechowywane i udostępniane w sieci, takiej jak World Wide Web (WWW). „X” w XML oznacza rozszerzalny, co oznacza, że język można rozszerzyć do dowolnej liczby symboli, zgodnie z wymaganiami użytkownika. Właśnie dla tych funkcji korzysta z niego wiele standardowych formatów plików, takich jak Microsoft Open XML, LibreOffice OpenDocument, XHTML i SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować PRN na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

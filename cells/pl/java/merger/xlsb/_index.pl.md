@@ -49,14 +49,14 @@ description: Java przykładowy kod do łączenia dokumentów XLSB w środowisku 
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj pierwszy plik XLSB z instancją klasy Workbook.
 + Załaduj drugi dokument XLSB z instancją klasy Workbook.
 + Scal pliki za pomocą metody Combine().
-zapisz połączony plik XLSB w określonej ścieżce
++ zapisz połączony plik XLSB w określonej ścieżce
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xlsbFile1.save("combinedFileWithPath.xlsb");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki XLSB." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

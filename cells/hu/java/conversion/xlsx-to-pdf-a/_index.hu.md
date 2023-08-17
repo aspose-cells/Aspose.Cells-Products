@@ -1,5 +1,5 @@
 ---
-title:  XLSX konvertálása PDF/A megfelelő fájlok via Java-re
+title: XLSX konvertálása PDF/A megfelelő fájlok via Java-re
 weight: 3200
 description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő fájlokká. A programozók ezt a példakódot használhatják Excel- és OpenOffice-táblázatok PDFA-kompatibilis fájlokba történő exportálására bármely web- vagy asztali Java alapú alkalmazáson belül.
 ---
@@ -13,7 +13,7 @@ description: Minta Java konverziós kód a XLSX formátumhoz PDF A megfelelő f�
 
  A XLSX-PDF/A számok rendereléséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, amely egy funkciókban gazdag, hatékony és könnyen használható konverziós API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+ API, amely egy funkciókban gazdag, hatékony és könnyen használható konverziós API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
@@ -58,7 +58,7 @@ API, amely egy funkciókban gazdag, hatékony és könnyen használható konverz
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Töltse be a XLSX számú fájlt a Workbook osztály egy példányával
-1.  Hozzon létre PdfSaveOptions osztályobjektumot
+1. Hozzon létre PdfSaveOptions osztályobjektumot
 1.  Állítsa be a PdfCompliance.PdfA1b megfelelőségi típust
 1.  Hívja a Workbook.save metódust
 1.  Adja meg a kimeneti útvonalat PDF kiterjesztéssel és PdfSaveOptions objektummal paraméterként
@@ -117,7 +117,7 @@ XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
 
-Portable Document Format (PDF) az Adobe által az 1990-es években létrehozott dokumentumtípus. Ennek a fájlformátumnak az volt a célja, hogy szabványt vezessen be a dokumentumok és egyéb referenciaanyagok olyan formátumban, amely független az alkalmazásszoftvertől, a hardvertől és az operációs rendszertől. A PDF fájlok megnyithatók az Adobe Acrobat Reader/Writer programban, valamint a legtöbb modern böngészőben, mint például a Chrome, Safari, Firefox bővítményeken/beépülő modulokon keresztül. A legtöbb kereskedelmi forgalomban kapható szoftvercsomag lehetőséget kínál a dokumentumok PDF fájlformátumra való konvertálására további szoftverkomponensek használata nélkül. Így a PDF fájlformátum teljes mértékben képes olyan információkat tartalmazni, mint a szöveg, képek, hiperhivatkozások, űrlapmezők, multimédiás média, digitális aláírások, mellékletek, metaadatok, térinformatikai jellemzők és 3D objektumok, amelyek a forrásdokumentum részeivé válhatnak.
+Portable Document Format (PDF) az Adobe által az 1990-es években létrehozott dokumentumtípus. Ennek a fájlformátumnak az volt a célja, hogy szabványt vezessen be a dokumentumok és egyéb referenciaanyagok olyan formátumban, amely független az alkalmazásszoftvertől, a hardvertől és az operációs rendszertől. A PDF fájlok megnyithatók az Adobe Acrobat Reader/Writer programban, valamint a legtöbb modern böngészőben, például Chrome, Safari, Firefox bővítményeken/beépülő modulokon keresztül. A legtöbb kereskedelmi forgalomban kapható szoftvercsomag lehetőséget kínál a dokumentumok PDF fájlformátumra való konvertálására további szoftverkomponensek használata nélkül. Így a PDF fájlformátum teljes mértékben képes olyan információkat tartalmazni, mint a szöveg, képek, hiperhivatkozások, űrlapmezők, multimédiás média, digitális aláírások, mellékletek, metaadatok, térinformatikai jellemzők és 3D objektumok, amelyek a forrásdokumentum részeivé válhatnak.
 
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}

@@ -1,5 +1,5 @@
 ---
-title: Szerkessze a ODS fájlokat via .NET
+title:  Szerkessze a ODS fájlokat via .NET
 description: C# forráskód a ODS dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

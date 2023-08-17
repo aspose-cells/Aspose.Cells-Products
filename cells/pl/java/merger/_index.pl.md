@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Połącz wiele plików Excela" %}}
-[Pliki CellsHelper.merge](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) obsługuje scalanie danych, stylów i formuł z pliku programu Excel do nowego arkusza kalkulacyjnego o tym samym formacie. Jest to skuteczny sposób łączenia kilku plików podczas korzystania z buforowania.
+[Pliki CellsHelper.merge](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)obsługuje scalanie danych, stylów i formuł z pliku programu Excel do nowego arkusza kalkulacyjnego o tym samym formacie. Jest to skuteczny sposób łączenia kilku plików podczas korzystania z buforowania.
 {{% blocks/products/pf/feature-page-code h3="Java Kod do scalania kilku plików programu Excel" %}}
 
 ```cs

@@ -1,7 +1,7 @@
 ---
-title: Konwertuj FODS na PDF Python via Python
-description: Zamień FODS na PDF online za darmo. Darmowy konwerter online z FODS na PDF. Python FODS do PDF. FODS do PDF przez Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS do PDF - Konwerter online FODS do PDF
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj FODS na PDF saveformat. Python FODS do PDF w formacie. Zapisz FODS do PDF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to PDF saveformat., Free Online FODS to PDF Python., Python Convert FODS to PDF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień FODS na PDF w Python" h2="Szybka biblioteka Python do konwersji FODS na PDF. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PDF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować FODS na PDF. Prześlij swój plik FOD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji FODS na PDF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji FODS na PDF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="pdf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować FODS na PDF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować FODS na PDF w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki FODS na PDF? Programiści Python mogą łatwo załadować i przekonwertować FODS na PDF w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik FODS z instancją skoroszytu
-1.  Konwertuj FODS na PDF, wywołując metodę Workbook.save
+1.  Załaduj plik FODS z instancją skoroszytu.
+1.  Konwertuj FODS na PDF, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji FODS na PDF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Plik z rozszerzeniem .fods jest typem formatu dokumentu arkusza kalkulacyjnego OpenDocument, który przechowuje dane w wierszach i kolumnach. Format jest określony jako część specyfikacji ODF 1.2 opublikowanych i utrzymywanych przez OASIS. Plików FODS nie można otworzyć za pomocą programu Excel, innej aplikacji arkusza kalkulacyjnego firmy Microsoft. Pliki FODS można zapisać jako ODS za pomocą pakietu LibreOffice i można je konwertować do innych formatów, takich jak XLS i XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) to rodzaj dokumentu stworzony przez firmę Adobe w latach 90. Celem tego formatu plików było wprowadzenie standardu reprezentacji dokumentów i innych materiałów referencyjnych w formacie niezależnym od oprogramowania użytkowego, sprzętu oraz systemu operacyjnego. Format pliku PDF ma pełne możliwości przechowywania informacji, takich jak tekst, obrazy, hiperłącza, pola formularzy, multimedia, podpisy cyfrowe, załączniki, metadane, elementy geoprzestrzenne i obiekty 3D, które mogą stać się częścią dokumentu źródłowego.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować FODS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

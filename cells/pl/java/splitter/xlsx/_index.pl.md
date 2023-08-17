@@ -13,7 +13,7 @@ description: Java przykładowy kod do podziału dokumentów XLSX w Java Środowi
 
  Aby podzielić plik XLSX, użyjemy
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, który jest bogatą w funkcje, wydajną i łatwą w użyciu platformą rozdzielającą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
+ API, który jest bogatą w funkcje, wydajną i łatwą w użyciu platformą rozdzielającą API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 

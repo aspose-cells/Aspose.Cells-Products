@@ -1,7 +1,8 @@
 ---
-title:  Połącz XLSX z XLTX via Java
+title: Połącz XLSX z XLTX - Połącz XLSX z XLTX w Java
 url: /pl/java/merger/merge-xlsx-to-xltx/ 
-description: Połącz XLSX z XLTX Online za darmo. Bezpłatnie online XLSX do XLTX Fuzja. Połącz XLSX z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Java Aspose.Cells. Bezpłatne scalanie online XLSX do XLTX w formacie zapisu. Java Połącz format XLSX z XLTX. Połącz XLSX z XLTX w Java. XLSX Połącz.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLSX to XLTX in Java., Free Online Java Merge XLSX to xltx., Java Combine XLSX to XLTX Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz XLSX z XLTX via Java" h2="Szybka biblioteka Java do łączenia XLSX z XLTX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Java. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz XLSX z XLTX Online za darmo. Bezpłatnie online XLSX do XL
 
 {{% blocks/products/pf/agp/content h2="Połącz XLSX z XLTX za pomocą Java" %}}
 
- Jak połączyć XLSX z XLTX? Dzięki bibliotece Aspose.Cells for Java możesz łatwo połączyć programowo XLSX z XLTX za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak scalić XLSX z XLTX? Dzięki bibliotece Aspose.Cells for Java możesz łatwo połączyć programowo XLSX z XLTX za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Połącz XLSX z XLTX Online za darmo. Bezpłatnie online XLSX do XL
 
 {{% blocks/products/pf/agp/content h2="Połącz XLSX z XLTX w Java Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć XLSX z XLTX w Java.
+Poniższy przykład pokazuje, jak połączyć XLSX z XLTX w Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć XLSX z XLTX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLTX. Jeśli opracujesz kod w Java, będzie to prostsze niż się wydaje. Zobacz przykład Java, który łączy numery XLSX z XLTX.
@@ -55,16 +56,18 @@ Wykonaj proste kroki, aby połączyć XLSX z XLTX. Prześlij swoje pliki, wywoł
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia XLSX z XLTX on-line" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Bezpłatne połączenie online XLSX z XLTX w Java" InputFormat="xlsx" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć XLSX z XLTX via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić XLSX z XLTX programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Java.
 + Załaduj plik XLSX z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -97,21 +100,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Pliki z rozszerzeniem .xltx reprezentują pliki szablonów programu Excel Microsoft, które są oparte na specyfikacjach formatu plików Office OpenXML. Służy do tworzenia standardowego pliku szablonu, który można wykorzystać do wygenerowania plików XLSX, które mają te same ustawienia, co określone w pliku XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Java, można również łączyć xlsx z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-docx/" name="Połącz XLSX z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-sql/" name="Połącz XLSX z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-bmp/" name="Połącz XLSX z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-emf/" name="Połącz XLSX z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-gif/" name="Połącz XLSX z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-html/" name="Połącz XLSX z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-md/" name="Połącz XLSX z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-mhtml/" name="Połącz XLSX z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-ods/" name="Połącz XLSX z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-pdf/" name="Połącz XLSX z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-png/" name="Połącz XLSX z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-svg/" name="Połącz XLSX z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tiff/" name="Połącz XLSX z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-tsv/" name="Połącz XLSX z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-txt/" name="Połącz XLSX z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xls/" name="Połącz XLSX z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsb/" name="Połącz XLSX z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsm/" name="Połącz XLSX z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlsx/" name="Połącz XLSX z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xlt/" name="Połącz XLSX z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltm/" name="Połącz XLSX z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xltx/" name="Połącz XLSX z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xml/" name="Scal XLSX do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-xps/" name="Połącz XLSX z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-json/" name="Połącz XLSX z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlsx-to-jpeg/" name="Połącz XLSX z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

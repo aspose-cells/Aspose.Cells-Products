@@ -1,7 +1,7 @@
 ---
-title: Konwertuj FODS na TXT Python via Python
-description: Zamień FODS na TXT online za darmo. Darmowy konwerter online z FODS na TXT. Python FODS do TXT. FODS do TXT przez Python.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS do TXT - Konwerter online FODS do TXT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj FODS na TXT saveformat. Python FODS do TXT w formacie. Zapisz FODS do TXT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to TXT saveformat., Free Online FODS to TXT Python., Python Convert FODS to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień FODS na TXT w Python" h2="Szybka biblioteka Python do konwersji FODS na TXT. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować FODS na TXT. Prześlij swój plik FOD
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji FODS na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji FODS na TXT online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować FODS na TXT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować FODS na TXT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki FODS na TXT? Programiści Python mogą łatwo załadować i przekonwertować FODS na TXT w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik FODS z instancją skoroszytu
-1.  Konwertuj FODS na TXT, wywołując metodę Workbook.save
+1.  Załaduj plik FODS z instancją skoroszytu.
+1.  Konwertuj FODS na TXT, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji FODS na TXT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Plik z rozszerzeniem .fods jest typem formatu dokumentu arkusza kalkulacyjnego OpenDocument, który przechowuje dane w wierszach i kolumnach. Format jest określony jako część specyfikacji ODF 1.2 opublikowanych i utrzymywanych przez OASIS. Plików FODS nie można otworzyć za pomocą programu Excel, innej aplikacji arkusza kalkulacyjnego firmy Microsoft. Pliki FODS można zapisać jako ODS za pomocą pakietu LibreOffice i można je konwertować do innych formatów, takich jak XLS i XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Plik z rozszerzeniem .TXT reprezentuje dokument tekstowy zawierający zwykły tekst w postaci linii. Akapity w dokumencie tekstowym są rozpoznawane przez znak powrotu karetki i służą do lepszego uporządkowania zawartości pliku. Standardowy dokument tekstowy można otworzyć w dowolnym edytorze tekstu lub edytorze tekstów w różnych systemach operacyjnych. Cały tekst zawarty w takim pliku jest w formacie czytelnym dla człowieka i reprezentowany przez sekwencję znaków.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować FODS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

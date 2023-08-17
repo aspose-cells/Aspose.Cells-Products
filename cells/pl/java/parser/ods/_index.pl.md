@@ -63,7 +63,7 @@ description: Java przykładowy kod do wyodrębniania tekstu i obrazów z pliku O
 + Wybierz żądany arkusz za pomocą metody getWorksheets().get.
 + Pobierz wszystkie komórki wybranego arkusza za pomocą funkcji getCells().
 + Iteruj po każdej komórce, uzyskaj jej tekst.
-+ Wydrukuj wartość każdej komórki lub użyj metody StringBuilder append(), aby wyświetlić całość
+Wydrukuj wartość każdej komórki lub użyj metody StringBuilder append(), aby wyświetlić całość
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

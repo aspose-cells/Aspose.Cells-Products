@@ -1,7 +1,7 @@
 ---
-title: JPG konvertálása MHTML Python via Python formátumra
-description: Konvertálja a JPG-t MHTML-re online ingyen. Ingyenes online konverter JPG-ből MHTML-be. Python JPG – MHTML. JPG – MHTML a Python számon keresztül.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+title: Python JPG-ből MHTML-be – Online JPG-ből MHTML-be konvertáló
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python JPG konvertálása MHTML mentési formátumra. Python JPG MHTML formátumba. JPG mentése a MHTML Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to MHTML saveformat., Free Online JPG to MHTML Python., Python Convert JPG to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JPG-t MHTML-re a Python-ben" h2="Nagysebességű Python könyvtár a JPG MHTML formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JPG-t MHTML-re a Python-ben" %}}
 
- Hogyan lehet átalakítani JPG-t MHTML-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhat JPG-t MHTML formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a JPG-t MHTML-re? A Aspose.Cells for Python segítségével a NET könyvtáron keresztül egyszerűen konvertálhat JPG-t MHTML formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a JPG MHTML formátumba konvertálásához. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG MHTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a JPG MHTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet JPG-t konvertálni MHTML-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és konvertálhatják a JPG-t MHTML formátumba, mindössze néhány sornyi kóddal.
+Programozottan kell konvertálnia a JPG fájlokat MHTML-re? A Python fejlesztők egyszerűen betölthetik és konvertálhatják a JPG-t MHTML formátumba, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltsön be JPG-fájlt a munkafüzet egy példányával
-1.  Konvertálja a JPG-t MHTML-re a Workbook.save metódus hívásával
+1.  Töltsön be JPG-fájlt a munkafüzet egy példányával.
+1.  Konvertálja a JPG-t MHTML-re a Workbook.save metódus hívásával.
+1.  Szerezze meg a JPG konvertálási eredményét MHTML-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,15 +64,20 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}A JPEG egy olyan képformátum, amely veszteséges tömörítés módszerével kerül mentésre. A kimeneti kép a tömörítés eredményeként kompromisszumot jelent a tárhely mérete és a képminőség között. A felhasználók beállíthatják a tömörítési szintet a kívánt minőségi szint eléréséhez, ugyanakkor csökkenthetik a tárhely méretét. A képminőséget elhanyagolható mértékben befolyásolja, ha 10:1-es tömörítést alkalmaznak a képen. Minél nagyobb a tömörítési érték, annál nagyobb a képminőség romlása.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML kiterjesztésű fájlok olyan weboldal-archívum formátumot képviselnek, amelyet számos különböző alkalmazás hozhat létre. A formátumot archív formátumnak nevezik, mert egyetlen fájlba menti a web HTML kódot és a kapcsolódó erőforrásokat. Ezek az erőforrások magukban foglalnak mindent, ami a weboldalhoz kapcsolódik, például képeket, kisalkalmazásokat, animációkat, hangfájlokat és így tovább. A MHTML fájlok számos alkalmazásban megnyithatók, például az Internet Explorerben és a Microsoft Wordben. A Microsoft Windows MHTML fájlformátumot használ a Windows-es számon található bármely alkalmazás használata során észlelt problémák forgatókönyveinek rögzítésére, amelyek problémákat vetnek fel. A MHTML fájlformátum az oldal tartalmát az üzenet/rfc822-ben meghatározott specifikációkhoz hasonlóan kódolja, amely egyszerű szöveges e-mailekkel kapcsolatos specifikációk.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
-
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t sok más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhányat." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-bmp/" name="JPG - BMP" description="Bittérképes kép" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/jpg-to-emf/" name="JPG - EMF" description="Továbbfejlesztett metafájl formátum" >}}

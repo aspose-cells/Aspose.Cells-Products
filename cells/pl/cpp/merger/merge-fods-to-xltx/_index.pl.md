@@ -1,7 +1,8 @@
 ---
-title:  Połącz FODS z XLTX przez C++
+title: Połącz FODS z XLTX - Połącz FODS z XLTX w C++
 url: /pl/cpp/merger/merge-fods-to-xltx/ 
-description: Połącz FODS z XLTX Online za darmo. Bezpłatnie online FODS do XLTX Fuzja. Połącz FODS z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C++ Aspose.Cells. Bezpłatne scalanie online FODS do XLTX w formacie zapisu. C++ Połącz format FODS z XLTX. Połącz FODS z XLTX w C++. FODS Połącz.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge FODS to XLTX in C++., Free Online C++ Merge FODS to xltx., C++ Combine FODS to XLTX Online for Free., FODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz FODS z XLTX przez C++" h2="Szybka biblioteka C++ do łączenia FODS z XLTX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C++. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="FODS" additionalConversionTag="XLTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz FODS z XLTX Online za darmo. Bezpłatnie online FODS do XL
 
 {{% blocks/products/pf/agp/content h2="Połącz FODS z XLTX za pomocą C++" %}}
 
- Jak połączyć FODS z XLTX? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo FODS z XLTX za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak scalić FODS z XLTX? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo FODS z XLTX za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Połącz FODS z XLTX w C++ Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć FODS z XLTX w C++.
+Poniższy przykład pokazuje, jak połączyć FODS z XLTX w Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć FODS z XLTX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLTX. Jeśli opracujesz kod w C++, będzie to prostsze niż się wydaje. Zobacz przykład C++, który łączy numery FODS z XLTX.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby połączyć FODS z XLTX. Prześlij swoje pliki, wywoł
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia FODS z XLTX on-line" InputFormat="fods" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezpłatne połączenie online FODS z XLTX w C++" InputFormat="fods" InputFormat2="xltx" outformat="xltx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć FODS z XLTX za pośrednictwem C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić FODS z XLTX programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for C++”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
 + Załaduj plik FODS z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -63,7 +66,7 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}Plik z rozszerzeniem .fods jest typem formatu dokumentu arkusza kalkulacyjnego OpenDocument, który przechowuje dane w wierszach i kolumnach. Format jest określony jako część specyfikacji ODF 1.2 opublikowanych i utrzymywanych przez OASIS. Plików FODS nie można otworzyć za pomocą programu Excel, innej aplikacji arkusza kalkulacyjnego firmy Microsoft. Pliki FODS można zapisać jako ODS za pomocą pakietu LibreOffice i można je konwertować do innych formatów, takich jak XLS i XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Pliki z rozszerzeniem .xltx reprezentują pliki szablonów programu Excel Microsoft, które są oparte na specyfikacjach formatu plików Office OpenXML. Służy do tworzenia standardowego pliku szablonu, który można wykorzystać do wygenerowania plików XLSX, które mają te same ustawienia, co określone w pliku XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Korzystając z numeru C++, można również łączyć pliki z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-docx/" name="Połącz FODS z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-sql/" name="Połącz FODS z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-bmp/" name="Połącz FODS z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-emf/" name="Połącz FODS z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-gif/" name="Połącz FODS z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-html/" name="Połącz FODS z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-md/" name="Połącz FODS z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-mhtml/" name="Połącz FODS z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-ods/" name="Połącz FODS z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-pdf/" name="Połącz FODS z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-png/" name="Połącz FODS z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-svg/" name="Połącz FODS z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tiff/" name="Połącz FODS z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-tsv/" name="Połącz FODS z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-txt/" name="Połącz FODS z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xls/" name="Połącz FODS z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsb/" name="Połącz FODS z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsm/" name="Połącz FODS z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlsx/" name="Połącz FODS z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xlt/" name="Połącz FODS z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltm/" name="Połącz FODS z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xltx/" name="Połącz FODS z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xml/" name="Scal FODS do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-xps/" name="Połącz FODS z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-json/" name="Połącz FODS z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-fods-to-jpeg/" name="Połącz FODS z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  A JSON-es szám egyesítése a PPTX-es számmal a C++-es számon keresztül
+title: A JSON-PPTX-es számok egyesítése – a JSON-es és a PPTX-es számok egyesítése a C++-ben
 url: /hu/cpp/merger/merge-json-to-pptx/ 
-description: Ingyenesen egyesítse a JSON-es számot a PPTX-es számmal online. Ingyenes online JSON-PPTX egyesülés. A JSON egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés JSON PPTX mentési formátumba. C++ A JSON és a PPTX formátum kombinálása. Egyesítse a JSON-PPTX-et a C++-ben. JSON Egyesítse.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge JSON to PPTX in C++., Free Online C++ Merge JSON to pptx., C++ Combine JSON to PPTX Online for Free., JSON Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A JSON-es szám egyesítése a PPTX-es számmal a C++-es számon keresztül" h2="Nagysebességű C++ könyvtár a JSON és PPTX egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C++-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="JSON" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a JSON-es számot a PPTX-es számmal online. 
 
 {{% blocks/products/pf/agp/content h2="A JSON és a PPTX egyesítése a C++ használatával" %}}
 
- Hogyan lehet egyesíteni a JSON-et a PPTX-gyel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a JSON-et a PPTX-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a JSON és a PPTX számokat? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a JSON-et a PPTX-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a JSON-es számokat a PPTX-es számokhoz a C++-ben online ingyen" %}}
 
-A következő példa bemutatja a JSON és a PPTX egyesítését a C++-ben.
+A következő példa bemutatja a JSON és a PPTX egyesítését a Aspose.Cells for C++ számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a JSON-es és a PPTX-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a PPTX fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely egyesíti a JSON és PPTX számokat.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a JSON-es és a PPTX-es számok egyesítéséh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a JSON és a PPTX online egyesítéséhez" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ingyenes online a JSON-PPTX-es számok egyesítéséhez a C++-ben" InputFormat="json" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A JSON és a PPTX egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a JSON-et a PPTX-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for C++'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
 + Töltse be a JSON fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -63,7 +66,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Telepítse a könyvtárat az Include és lib Folders használatával. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) egy nyílt szabványos fájlformátum az adatok megosztására, amely ember által olvasható szöveget használ az adatok tárolására és továbbítására. A JSON fájlok .json kiterjesztéssel vannak tárolva. A JSON kevesebb formázást igényel, és jó alternatíva az XML számára. A JSON a JavaScriptből származik, de nyelvfüggetlen adatformátum. A JSON generálását és elemzését számos modern programozási nyelv támogatja. Az application/json a JSON adathordozó típusa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}A PPTX kiterjesztésű fájlok a népszerű Microsoft PowerPoint alkalmazással létrehozott prezentációs fájlok. A PPT prezentációs fájlformátum korábbi verziójától eltérően, amely bináris volt, a PPTX formátum a Microsoft PowerPoint nyílt XML prezentációs fájlformátumon alapul. A prezentációs fájl olyan diák gyűjteménye, amelyben minden diák szöveget, képeket, formázást, animációt és egyéb médiát tartalmazhat. Ezeket a diákat egyéni prezentációs beállításokkal rendelkező diavetítések formájában mutatják be a közönségnek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C++ használatával a json számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-docx/" name="JSON és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-sql/" name="A JSON egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-bmp/" name="JSON és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-emf/" name="JSON és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-gif/" name="JSON és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-html/" name="JSON és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-md/" name="A JSON egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-mhtml/" name="JSON és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-ods/" name="JSON és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-pdf/" name="JSON és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-png/" name="JSON és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-svg/" name="JSON és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tiff/" name="JSON és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-tsv/" name="JSON és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-txt/" name="JSON és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xls/" name="JSON és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsb/" name="JSON és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsm/" name="JSON és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlsx/" name="JSON és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xlt/" name="JSON és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltm/" name="JSON és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xltx/" name="JSON és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xml/" name="A JSON egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-xps/" name="JSON és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-json/" name="JSON és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-json-to-jpeg/" name="JSON és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

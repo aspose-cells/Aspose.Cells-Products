@@ -5,7 +5,7 @@ description: Połącz pliki arkuszy kalkulacyjnych Excel i OpenOffice za pomocą
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Scalanie plików programu Excel via .NET" h2="Połącz 2 lub więcej plików programu Excel w jednym arkuszu kalkulacyjnym, używając kodu C#" >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[.NET Biblioteka programu Excel](/cells/pl/net/) zapewnia wiele sposobów łączenia skoroszytów z różnymi typami treści, takimi jak formuły, dane, obrazy, wykresy itd., w jeden plik arkusza kalkulacyjnego. Obsługiwane formaty plików to XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, TSV i inne.
+[.NET Biblioteka programu Excel](/cells/pl/net/) zapewnia wiele sposobów łączenia skoroszytów z różnymi typami treści, takimi jak formuły, dane, obrazy, wykresy itd., w jeden plik arkusza kalkulacyjnego. Obsługiwane formaty plików to XLS, XLSX, XLSB, XLT, XLTX, XLTM, ODS, CSV, TSV i więcej.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Łącz pliki Excela z obrazami i wykresami" %}}
@@ -18,7 +18,7 @@ description: Połącz pliki arkuszy kalkulacyjnych Excel i OpenOffice za pomocą
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Połącz wiele plików Excela" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) obsługuje scalanie danych, stylów i formuł z pliku programu Excel do nowego arkusza kalkulacyjnego o tym samym formacie. Jest to skuteczny sposób łączenia kilku plików podczas korzystania z buforowania.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)obsługuje scalanie danych, stylów i formuł z pliku programu Excel do nowego arkusza kalkulacyjnego o tym samym formacie. Jest to skuteczny sposób łączenia kilku plików podczas korzystania z buforowania.
 {{% blocks/products/pf/feature-page-code h3="C# Kod do scalania kilku plików programu Excel" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

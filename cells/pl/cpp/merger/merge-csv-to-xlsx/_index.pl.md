@@ -1,7 +1,8 @@
 ---
-title:  Połącz CSV z XLSX przez C++
+title: Połącz CSV z XLSX - Połącz CSV z XLSX w C++
 url: /pl/cpp/merger/merge-csv-to-xlsx/ 
-description: Połącz CSV z XLSX Online za darmo. Bezpłatnie online CSV do XLSX Fuzja. Połącz CSV z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C++ Aspose.Cells. Bezpłatne scalanie online CSV do XLSX w formacie zapisu. C++ Połącz format CSV z XLSX. Połącz CSV z XLSX w C++. CSV Połącz.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to XLSX in C++., Free Online C++ Merge CSV to xlsx., C++ Combine CSV to XLSX Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz CSV z XLSX przez C++" h2="Szybka biblioteka C++ do łączenia CSV z XLSX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C++. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="XLSX" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz CSV z XLSX Online za darmo. Bezpłatnie online CSV do XLSX
 
 {{% blocks/products/pf/agp/content h2="Połącz CSV z XLSX za pomocą C++" %}}
 
- Jak połączyć CSV z XLSX? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo CSV z XLSX za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak scalić CSV z XLSX? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo CSV z XLSX za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Połącz CSV z XLSX w C++ Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć CSV z XLSX w C++.
+Poniższy przykład pokazuje, jak połączyć CSV z XLSX w Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć CSV z XLSX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLSX. Jeśli opracujesz kod w C++, będzie to prostsze niż się wydaje. Zobacz przykład C++, który łączy numery CSV z XLSX.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby połączyć CSV z XLSX. Prześlij swoje pliki, wywoła
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia CSV z XLSX on-line" InputFormat="csv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezpłatne połączenie online CSV z XLSX w C++" InputFormat="csv" InputFormat2="xlsx" outformat="xlsx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć CSV z XLSX za pośrednictwem C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić CSV z XLSX programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for C++”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
 + Załaduj plik CSV z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -63,7 +66,7 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Pliki z rozszerzeniem .csv (Comma Separated Values) reprezentują zwykłe pliki tekstowe, które zawierają rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C++, można również łączyć csv z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-docx/" name="Połącz CSV z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-sql/" name="Połącz CSV z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-bmp/" name="Połącz CSV z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-emf/" name="Połącz CSV z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-gif/" name="Połącz CSV z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-html/" name="Połącz CSV z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-md/" name="Połącz CSV z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-mhtml/" name="Połącz CSV z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-ods/" name="Połącz CSV z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-pdf/" name="Połącz CSV z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-png/" name="Połącz CSV z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-svg/" name="Połącz CSV z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tiff/" name="Połącz CSV z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tsv/" name="Połącz CSV z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-txt/" name="Połącz CSV z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xls/" name="Połącz CSV z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsb/" name="Połącz CSV z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsm/" name="Połącz CSV z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsx/" name="Połącz CSV z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlt/" name="Połącz CSV z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltm/" name="Połącz CSV z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltx/" name="Połącz CSV z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xml/" name="Scal CSV do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xps/" name="Połącz CSV z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-json/" name="Połącz CSV z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-jpeg/" name="Połącz CSV z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

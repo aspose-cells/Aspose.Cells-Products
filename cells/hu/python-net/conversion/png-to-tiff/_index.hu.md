@@ -1,7 +1,7 @@
 ---
-title: PNG konvertálása TIFF Python via Python-re
-description: Konvertálja a PNG-et TIFF-re online ingyen. Ingyenes online PNG-TIFF konverter. Python PNG - TIFF. PNG - TIFF a Python számon keresztül.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG - TIFF - Online PNG - TIFF Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A PNG konvertálása TIFF mentési formátumra. Python PNG - TIFF formátum. Mentse a PNG számot a TIFF Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to TIFF saveformat., Free Online PNG to TIFF Python., Python Convert PNG to TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PNG-et TIFF-re Python-ben" h2="Nagy sebességű Python-es könyvtár a PNG-es szám TIFF-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a PNG-et TIFF-re Python-ben" %}}
 
- Hogyan lehet átalakítani a PNG-et TIFF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a PNG-et TIFF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a PNG-et TIFF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a PNG-et TIFF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg PNG-TIFF számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a PNG-et TIFF-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a PNG-et TIFF-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a PNG TIFF-re konvertálásához. Töltse fel a PNG fájlt, majd egyszerűen mentse el TIFF fájlként. Mind a PNG olvasáshoz, mind a TIFF íráshoz használhat teljesen minősített fájlneveket. A TIFF kimeneti tartalom és formázás megegyezik az eredeti PNG dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a PNG TIFF-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PNG TIFF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a PNG TIFF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet PNG-et TIFF-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a PNG-et TIFF-re.
+A PNG fájlt programozottan TIFF-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a PNG-et TIFF-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a PNG fájlt a munkafüzet egy példányával
-1.  Konvertálja a PNG-et TIFF-re a Workbook.save metódus meghívásával
+1.  Töltse be a PNG fájlt a munkafüzet egy példányával.
+1.  Konvertálja a PNG-et TIFF-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a PNG-es konverziós eredményt TIFF-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) fájl egy raszteres képfájl formátum, amely veszteségmentes tömörítést használ. Ezt a fájlformátumot a Graphics Interchange Format (GIF) helyettesítésére hozták létre, és nincs szerzői jogi korlátozása. A PNG fájlformátum azonban nem támogatja az animációkat. A PNG fájlformátum támogatja a veszteségmentes képtömörítést, amely népszerűvé teszi a felhasználók körében. Az idő múlásával a PNG az egyik legszélesebb körben használt képfájlformátummá fejlődött.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF vagy a TIF, Tagged Image File Format olyan raszterképeket jelöl, amelyeket különféle eszközökön való használatra terveztek, amelyek megfelelnek ennek a fájlformátum-szabványnak. Több színtérben képes kétszintes, szürkeárnyalatos, palettaszínes és színes képadatok leírására. Támogatja a veszteséges és a veszteségmentes tömörítési sémákat, hogy válasszon a tér és az idő között a formátumot használó alkalmazások számára. A formátum nem gépfüggő, és olyan korlátoktól mentes, mint a processzor, az operációs rendszer vagy a fájlrendszer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A PNG-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

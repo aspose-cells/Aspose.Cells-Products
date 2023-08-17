@@ -1,7 +1,8 @@
 ---
-title:  Az EXCEL és a WORD egyesítése a Python számon keresztül
+title: EXCEL egyesítése WORD-ba – EXCEL egyesítése WORD-ba a Python-ben
 url: /hu/python-net/merger/merge-excel-to-word/ 
-description: Ingyenesen egyesítse az EXCEL-t a WORD Online-hoz. Ingyenes online EXCEL-WORD egyesülés. Egyesítse az EXCEL-t a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Python Aspose.Cells. Ingyenes online EXCEL egyesítése WORD mentési formátumba. Python Az EXCEL és a WORD formátum kombinálása. Egyesítse az EXCEL-t a WORD-dal a Python-ben. EXCEL-egyesítés.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to WORD in Python., Free Online Python Merge EXCEL to word., Python Combine EXCEL to WORD Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az EXCEL és a WORD egyesítése a Python számon keresztül" h2="Nagy sebességű Python könyvtár az EXCEL és a WORD egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Ingyenesen egyesítse az EXCEL-t a WORD Online-hoz. Ingyenes online
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az EXCEL-t WORD-ba a Python használatával" %}}
 
-Hogyan lehet egyesíteni az EXCEL-t a WORD-ba? A Aspose.Cells for Python könyvtárral egyszerűen egyesítheti az EXCEL-t a WORD-dal programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem az EXCEL-t a WORD-ba? A Aspose.Cells for Python via .NET könyvtárral egyszerűen egyesítheti az EXCEL-t a WORD-dal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az EXCEL-t a WORD-dal a Python számon" %}}
 
-A következő példa bemutatja, hogyan lehet egyesíteni az EXCEL-t a WORD-dal a Python-ben.
+A következő példa bemutatja, hogyan lehet egyesíteni az EXCEL-t a WORD-dal a Aspose.Cells for Python via .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az EXCEL és a WORD egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el WORD fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python példát, amely összevonja az EXCEL-t a WORD-dal.
@@ -27,16 +28,18 @@ Kövesse az egyszerű lépéseket az EXCEL és a WORD egyesítéséhez. Töltse 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás az EXCEL és a WORD online egyesítéséhez" InputFormat="xlsx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ingyenes online az EXCEL és a WORD egyesítése a Python számon" InputFormat="xlsx" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Az EXCEL és a WORD egyesítése a Python számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
+Automatikusan egyesítenie kell az EXCEL-t a WORD-dal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Python via .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 + Töltse be az EXCEL fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -53,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft vezetett be a Microsoft Office 2007 kiadásával. Az OOXML szabvány 2. részében leírt nyílt csomagolási egyezmények szerint szervezett szerkezet alapján az új ECMA-376 formátum egy zip-csomag, amely számos XML-fájlt tartalmaz. Az alapul szolgáló struktúra és fájlok az .xlsx fájl egyszerű kicsomagolásával vizsgálhatók.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}A DOCX a Microsoft Word dokumentumok jól ismert formátuma. A 2007-ben bevezetett Microsoft Office 2007 kiadással ennek az új dokumentumformátumnak a szerkezete sima binárisról XML és bináris fájlok kombinációjára módosult. A Docx fájlok megnyithatók a Word 2007 és oldalsó verzióival, de nem az MS Word korábbi verzióival, amelyek támogatják a DOC fájlkiterjesztéseket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával az Excel számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-docx/" name="Egyesítse az EXCEL-t a DOCX-gyel" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-sql/" name="Egyesítse az EXCEL-t SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-bmp/" name="Egyesítse az EXCEL-t a BMP-gyel" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-emf/" name="Egyesítse az EXCEL-t a EMF-gyel" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-gif/" name="Egyesítse az EXCEL-t a GIF-gyel" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="Egyesítse az EXCEL-t a HTML-gyel" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-md/" name="Az EXCEL egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="Egyesítse az EXCEL-t a MHTML-gyel" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="Egyesítse az EXCEL-t a ODS-gyel" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-pdf/" name="Egyesítse az EXCEL-t a PDF-gyel" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-png/" name="Egyesítse az EXCEL-t a PNG-gyel" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-svg/" name="Egyesítse az EXCEL-t a SVG-gyel" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tiff/" name="Egyesítse az EXCEL-t a TIFF-gyel" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="Egyesítse az EXCEL-t a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="Egyesítse az EXCEL-t a TXT-gyel" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="Egyesítse az EXCEL-t a XLS-gyel" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="Egyesítse az EXCEL-t a XLSB-gyel" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="Egyesítse az EXCEL-t a XLSM-gyel" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="Egyesítse az EXCEL-t a XLSX-gyel" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="Egyesítse az EXCEL-t a XLT-gyel" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Egyesítse az EXCEL-t a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Egyesítse az EXCEL-t a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Az EXCEL egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Egyesítse az EXCEL-t a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Egyesítse az EXCEL-t a JSON-gyel" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Egyesítse az EXCEL-t a JPEG-gyel" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

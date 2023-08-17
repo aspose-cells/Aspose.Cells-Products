@@ -1,7 +1,7 @@
 ---
-title: XLSB konvertálása XLS Python via Python-re
-description: Konvertálja a XLSB-et XLS-re online ingyen. Ingyenes online XLSB-XLS konverter. Python XLSB - XLS. XLSB - XLS a Python számon keresztül.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB - XLS - Online XLSB - XLS Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLSB konvertálása XLS mentési formátumra. Python XLSB - XLS formátum. Mentse a XLSB számot a XLS Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLS saveformat., Free Online XLSB to XLS Python., Python Convert XLSB to XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSB-et XLS-re Python-ben" h2="Nagy sebességű Python-es könyvtár a XLSB-es szám XLS-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLSB-et XLS-re Python-ben" %}}
 
- Hogyan lehet átalakítani a XLSB-et XLS-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSB-et XLS-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a XLSB-et XLS-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSB-et XLS-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg XLSB-XLS számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a XLSB-et XLS-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a XLSB-et XLS-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLSB XLS-re konvertálásához. Töltse fel a XLSB fájlt, majd egyszerűen mentse el XLS fájlként. Mind a XLSB olvasáshoz, mind a XLS íráshoz használhat teljesen minősített fájlneveket. A XLS kimeneti tartalom és formázás megegyezik az eredeti XLSB dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a XLSB XLS-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSB XLS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSB XLS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet XLSB-et XLS-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a XLSB-et XLS-re.
+A XLSB fájlt programozottan XLS-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a XLSB-et XLS-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a XLSB fájlt a munkafüzet egy példányával
-1.  Konvertálja a XLSB-et XLS-re a Workbook.save metódus meghívásával
+1.  Töltse be a XLSB fájlt a munkafüzet egy példányával.
+1.  Konvertálja a XLSB-et XLS-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a XLSB-es konverziós eredményt XLS-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}XLS kiterjesztésű fájlok Excel bináris fájlformátumot képviselnek. Az ilyen fájlokat a Microsoft Excel, valamint más hasonló táblázatkezelő programok, például az OpenOffice Calc vagy az Apple Numbers is létrehozhatják. Az Excel által mentett fájlokat munkafüzetnek nevezik, ahol minden munkafüzetnek egy vagy több munkalapja lehet. Az adatok tárolása és megjelenítése táblázatos formában, munkalapon történik a felhasználók számára, és átfoghatnak számértékeket, szöveges adatokat, képleteket, külső adatkapcsolatokat, képeket és diagramokat. Az olyan alkalmazások, mint a Microsoft Excel, lehetővé teszik a munkafüzet adatainak több különböző formátumba történő exportálását, beleértve a PDF, CSV, XLSX, TXT, HTML, XPS és sok más formátumot. A XLS fájlformátumot egy nyitottabb és strukturáltabb formátum, a XLSX váltotta fel a Microsoft Excel 2007 kiadásával. A legújabb verziók továbbra is támogatják a XLS fájlok létrehozását és olvasását, bár most a XLSX az első számú választás.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLSB-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

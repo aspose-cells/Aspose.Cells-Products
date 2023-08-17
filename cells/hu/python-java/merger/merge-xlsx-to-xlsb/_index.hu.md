@@ -1,7 +1,8 @@
 ---
-title:  A XLSX-es szám egyesítése a XLSB-es számmal a Python-es számon keresztül
+title: A XLSX-XLSB-es számok egyesítése – a XLSX-es és a XLSB-es számok egyesítése a Python-ben
 url: /hu/python-java/merger/merge-xlsx-to-xlsb/ 
-description: Ingyenesen egyesítse a XLSX-es számot a XLSB-es számmal online. Ingyenes online XLSX-XLSB egyesülés. A XLSX egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés XLSX XLSB mentési formátumba. Python A XLSX és a XLSB formátum kombinálása. Egyesítse a XLSX-XLSB-et a Python-ben. XLSX Egyesítse.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to XLSB in Python., Free Online Python Merge XLSX to xlsb., Python Combine XLSX to XLSB Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSX-es szám egyesítése a XLSB-es számmal a Python-es számon keresztül" h2="Nagysebességű Python könyvtár a XLSX és XLSB egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Ingyenesen egyesítse a XLSX-es számot a XLSB-es számmal online. 
 
 {{% blocks/products/pf/agp/content h2="A XLSX és a XLSB egyesítése a Python használatával" %}}
 
- Hogyan lehet egyesíteni a XLSX-et a XLSB-gyel? A Aspose.Cells for Python könyvtárral egyszerűen egyesítheti a XLSX-et a XLSB-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem a XLSX és a XLSB számokat? A Aspose.Cells for Python via Java könyvtárral könnyedén egyesítheti a XLSX-et a XLSB-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLSX-es számokat a XLSB-es számokhoz a Python-ben online ingyen" %}}
 
-A következő példa bemutatja a XLSX és a XLSB egyesítését a Python-ben.
+A következő példa bemutatja a XLSX és XLSB egyesítését a Aspose.Cells for Python via Java számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLSX-es és a XLSB-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a XLSB fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python-es példát, amely egyesíti a XLSX és XLSB számokat.
@@ -27,16 +28,18 @@ Kövesse az egyszerű lépéseket a XLSX-es és a XLSB-es számok egyesítéséh
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a XLSX és a XLSB online egyesítéséhez" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ingyenes online a XLSX-XLSB-es számok egyesítéséhez a Python-ben" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSX és a XLSB egyesítése a Python számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a XLSX-et a XLSB-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Python via Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 + Töltse be a XLSX fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -75,21 +78,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX a Microsoft Excel dokumentumok jól ismert formátuma, amelyet a Microsoft vezetett be a Microsoft Office 2007 kiadásával. Az OOXML szabvány 2. részében leírt nyílt csomagolási egyezmények szerint szervezett szerkezet alapján az új ECMA-376 formátum egy zip-csomag, amely számos XML-fájlt tartalmaz. Az alapul szolgáló struktúra és fájlok az .xlsx fájl egyszerű kicsomagolásával vizsgálhatók.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="Python használatával az xlsx számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-docx/" name="XLSX és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-sql/" name="A XLSX egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-bmp/" name="XLSX és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-emf/" name="XLSX és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-gif/" name="XLSX és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-html/" name="XLSX és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-md/" name="A XLSX egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-mhtml/" name="XLSX és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-ods/" name="XLSX és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-pdf/" name="XLSX és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-png/" name="XLSX és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-svg/" name="XLSX és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tiff/" name="XLSX és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tsv/" name="XLSX és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-txt/" name="XLSX és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xls/" name="XLSX és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsb/" name="XLSX és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsm/" name="XLSX és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsx/" name="XLSX és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlt/" name="XLSX és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltm/" name="XLSX és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltx/" name="XLSX és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xml/" name="A XLSX egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xps/" name="XLSX és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-json/" name="XLSX és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-jpeg/" name="XLSX és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

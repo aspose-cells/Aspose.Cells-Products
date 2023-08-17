@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja ODS via Java dokumentumot
+title: Védje és zárja ODS via Java dokumentumot
 weight: 6360
 description: Java mintakód a ODS fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
@@ -49,7 +49,7 @@ description: Java mintakód a ODS fájl zárolásához jelszóval a Java futási
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ODS via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A ODS via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

@@ -1,7 +1,8 @@
 ---
-title:  XML egyesítése a WORD via Java-gyel
+title: Egyesítse az XML-t a WORD-dal – az XML-t egyesítse a WORD-dal a Java-ben
 url: /hu/java/merger/merge-xml-to-word/ 
-description: Ingyenesen egyesítse az XML-t a WORD Online-ba. Ingyenes online XML-ből WORD-egyesülés. Egyesítse az XML-t Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és még sok máshoz.
+description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítése XML-ből WORD mentési formátumba. Java Az XML és a WORD formátum kombinálása. XML egyesítése a WORD-hoz a Java-ben. XML-egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XML to WORD in Java., Free Online Java Merge XML to word., Java Combine XML to WORD Online for Free., XML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML egyesítése a WORD via Java-gyel" h2="Nagy sebességű Java könyvtár az XML és a WORD egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XML" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse az XML-t a WORD Online-ba. Ingyenes online XM
 
 {{% blocks/products/pf/agp/content h2="Egyesítse az XML-t WORD-ba a Java használatával" %}}
 
-Hogyan lehet XML-t WORD-ba egyesíteni? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti az XML-t a WORD-ba, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem az XML-t a WORD-dal? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti az XML-t a WORD-ba, néhány sornyi kóddal programozottan.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ Hogyan lehet XML-t WORD-ba egyesíteni? A Aspose.Cells for Java könyvtárral eg
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az XML-t a WORD-dal a Java online számban" %}}
 
-A következő példa bemutatja, hogyan lehet XML-t egyesíteni a WORD-dal a Java-ben.
+A következő példa bemutatja, hogyan lehet XML-t egyesíteni a WORD-dal a Aspose.Cells for Java-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az XML és a WORD egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el WORD fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java-es példát, amely az XML-t WORD-ba egyesíti.
@@ -55,16 +56,18 @@ Kövesse az egyszerű lépéseket az XML és a WORD egyesítéséhez. Töltse fe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás az XML és a WORD online egyesítéséhez" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ingyenes online az XML és a WORD egyesítése a Java számon" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="XML egyesítése WORD via Java-be" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell az XML-t a WORD-dal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 + Töltsd be az XML-fájlt a Workbook osztállyal.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -97,21 +100,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}A DOCX a Microsoft Word dokumentumok jól ismert formátuma. A 2007-ben bevezetett Microsoft Office 2007 kiadással ennek az új dokumentumformátumnak a szerkezete sima binárisról XML és bináris fájlok kombinációjára módosult. A Docx fájlok megnyithatók a Word 2007 és oldalsó verzióival, de nem az MS Word korábbi verzióival, amelyek támogatják a DOC fájlkiterjesztéseket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával az xml-t számos más fájlformátumhoz is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-docx/" name="XML egyesítése a DOCX-gyel" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-sql/" name="XML egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-bmp/" name="XML egyesítése a BMP-gyel" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-emf/" name="XML egyesítése a EMF-gyel" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-gif/" name="XML egyesítése a GIF-gyel" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-html/" name="XML egyesítése a HTML-gyel" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-md/" name="XML egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-mhtml/" name="XML egyesítése a MHTML-gyel" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-ods/" name="XML egyesítése a ODS-gyel" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-pdf/" name="XML egyesítése a PDF-gyel" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-png/" name="XML egyesítése a PNG-gyel" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-svg/" name="XML egyesítése a SVG-gyel" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tiff/" name="XML egyesítése a TIFF-gyel" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-tsv/" name="XML egyesítése a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-txt/" name="XML egyesítése a TXT-gyel" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xls/" name="XML egyesítése a XLS-gyel" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsb/" name="XML egyesítése a XLSB-gyel" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsm/" name="XML egyesítése a XLSM-gyel" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlsx/" name="XML egyesítése a XLSX-gyel" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xlt/" name="XML egyesítése a XLT-gyel" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltm/" name="XML egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xltx/" name="XML egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xml/" name="XML egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-xps/" name="XML egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-json/" name="XML egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xml-to-jpeg/" name="XML egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

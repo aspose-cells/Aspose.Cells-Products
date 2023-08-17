@@ -1,7 +1,7 @@
 ---
-title: Konwertuj XLSB na XLSM Python via Python
-description: Zamień XLSB na XLSM online za darmo. Darmowy konwerter online z XLSB na XLSM. Python XLSB do XLSM. XLSB do XLSM przez Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB do XLSM - Konwerter online XLSB do XLSM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj XLSB na XLSM saveformat. Python XLSB do XLSM w formacie. Zapisz XLSB do XLSM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLSM saveformat., Free Online XLSB to XLSM Python., Python Convert XLSB to XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień XLSB na XLSM w Python" h2="Szybka biblioteka Python do konwersji XLSB na XLSM. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować XLSB na XLSM. Prześlij swój plik XL
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLSB na XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLSB na XLSM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLSB na XLSM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować XLSB na XLSM w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki XLSB na XLSM? Programiści Python mogą łatwo załadować i przekonwertować XLSB na XLSM w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik XLSB z instancją skoroszytu
-1.  Konwertuj XLSB na XLSM, wywołując metodę Workbook.save
+1.  Załaduj plik XLSB z instancją skoroszytu.
+1.  Konwertuj XLSB na XLSM, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji XLSB na XLSM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Format pliku XLSB określa binarny format pliku programu Excel, który jest zbiorem rekordów i struktur określających zawartość skoroszytu programu Excel. Zawartość może obejmować nieustrukturyzowane lub częściowo ustrukturyzowane tabele liczb, tekst lub zarówno liczby, jak i tekst, formuły, połączenia danych zewnętrznych, wykresy i obrazy. W przeciwieństwie do XLSX (który jest oparty na formacie pliku Open XML), XLSB reprezentuje binarny plik skoroszytu programu Excel. XLSB można szybciej odczytywać i zapisywać pliki, co czyni je przydatnymi do pracy z dużymi plikami. XLSB jest rzadko używany do przechowywania skoroszytów, ponieważ XLSX (a wcześniej XLS) to najczęściej wybierane przez użytkowników formaty plików do zapisywania skoroszytów. Można go otworzyć za pomocą Microsoft Office 2007 i nowszych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Pliki z rozszerzeniem XLSM to rodzaj plików Arkusz kalkulacyjny obsługujący Makra. Z punktu widzenia aplikacji makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się czynności i ułatwia wykonywanie czynności poprzez ponowne uruchomienie makra. Makra są programowane za pomocą języka Visual Basic for Applications (VBA) firmy Microsoft z poziomu skoroszytu programu Excel przy użyciu edytora Visual Basic i można je uruchamiać/debugować bezpośrednio z tego miejsca.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować XLSB na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

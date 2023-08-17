@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki TXT." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -333,14 +333,14 @@ Aspose.Cells A for Java egy kiforrott és funkciókban gazdag könyvtár, amely 
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; feltételes formázási szabályokat manipulálni
+ Létrehozása &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">

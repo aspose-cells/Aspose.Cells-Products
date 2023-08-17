@@ -1,7 +1,7 @@
 ---
 title:  Usuń adnotację XLSB via .NET
 weight: 6440
-description: C# kod źródłowy do dodawania i usuwania adnotacji w formacie XLSB na platformach .NET Framework, .NET Core, Mono lub Xamarin.
+description: C# kod źródłowy do dodawania i usuwania adnotacji w formacie XLSB na platformie .NET, .NET Core, Mono lub platformach Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dodaj lub usuń adnotację z XLSB przez C#" h2="Twórz własne aplikacje .NET do manipulowania komentarzami i autorami w plikach dokumentów za pomocą interfejsów API po stronie serwera." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}

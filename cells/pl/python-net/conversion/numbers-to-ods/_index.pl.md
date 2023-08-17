@@ -1,7 +1,7 @@
 ---
-title: Konwertuj LICZBY na ODS Python via Python
-description: Konwertuj LICZBY na ODS online za darmo. Darmowy konwerter numerów online na ODS. Python NUMERY do ODS. NUMERY do ODS przez Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMERY na ODS - Konwerter online NUMERY na ODS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj NUMERY na ODS format zapisu. Python NUMERY do formatu ODS. Zapisz NUMERY pod numer ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to ODS saveformat., Free Online NUMBERS to ODS Python., Python Convert NUMBERS to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień LICZBY na ODS na Python" h2="Szybka biblioteka Python do konwersji LICZB na ODS. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować NUMBERS na ODS. Prześlij swój plik 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMERÓW na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMERÓW na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować LICZBY na ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Programiści Python mogą łatwo załadować i przekonwertować NUMERY na ODS w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki NUMBERS na ODS? Programiści Python mogą łatwo załadować i przekonwertować NUMERY na ODS w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik NUMBERS z instancją skoroszytu
-1.  Konwertuj NUMERY na ODS, wywołując metodę Workbook.save
+1.  Załaduj plik NUMBERS z instancją skoroszytu.
+1.  Konwertuj NUMERY na ODS, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji LICZBY na ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Pliki z rozszerzeniem .numbers są klasyfikowane jako pliki typu arkusz kalkulacyjny, dlatego są podobne do plików .xlsx; ale pliki Numbers są tworzone przy użyciu arkusza kalkulacyjnego Apple iWork Numbers. Apple iWork Numbers to oprogramowanie jednostkowe pakietu iWork Productivity Suite. Pakiet iWork Productivity Suite jest odpowiednikiem pakietu Office Microsoft używanego na komputerach PC Windows. Dlatego możemy powiedzieć, że Numbers, który jest dostępny dla MacOS, jest również konkurentem Microsoft Excel. Podobnie Microsoft Excel, plik NUMBERS może zawierać również tabele, wykresy i formuły.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Pliki z rozszerzeniem .ods oznaczają format dokumentu arkusza kalkulacyjnego OpenDocument, który może być edytowany przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na XML i jest jednym z kilku podtypów w rodzinie Open Document Formats (ODF). Format jest określony jako część specyfikacji ODF 1.2 publikowanych i utrzymywanych przez OASIS. Szereg aplikacji w systemie Windows oraz innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować NUMBERS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Połącz PRN z PPTX przez Python
+title: Połącz PRN z PPTX - Połącz PRN z PPTX w Python
 url: /pl/python-java/merger/merge-prn-to-pptx/ 
-description: Połącz PRN z numerem PPTX online za darmo. Bezpłatny PRN online pod numer PPTX Fuzja. Połącz PRN z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Python Aspose.Cells. Bezpłatne połączenie PRN online z formatem zapisu PPTX. Python Połącz PRN z formatem PPTX. Połącz PRN z PPTX w Python. Połącz PRN.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge PRN to PPTX in Python., Free Online Python Merge PRN to pptx., Python Combine PRN to PPTX Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz PRN z PPTX przez Python" h2="Szybka biblioteka Python do łączenia PRN z PPTX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="PPTX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Połącz PRN z numerem PPTX online za darmo. Bezpłatny PRN online 
 
 {{% blocks/products/pf/agp/content h2="Połącz PRN z PPTX, używając Python" %}}
 
- Jak scalić PRN z PPTX? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo połączyć PRN z PPTX za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+ Jak połączyć PRN z numerem PPTX? Dzięki bibliotece Aspose.Cells for Python via Java możesz łatwo programowo połączyć PRN z PPTX za pomocą kilku linii kodu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Połącz PRN z PPTX w Python Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić PRN z PPTX w Python.
+Poniższy przykład pokazuje, jak scalić PRN z PPTX w Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć PRN z numerem PPTX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine w celu scalenia plików, a następnie zapisz go w pliku PPTX. Jeśli opracujesz kod w Python, będzie to prostsze niż się wydaje. Zobacz przykład Python, który łączy PRN z PPTX.
@@ -27,17 +28,19 @@ Wykonaj proste kroki, aby połączyć PRN z numerem PPTX. Prześlij swoje pliki,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia PRN z PPTX on-line" InputFormat="prn" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć PRN z PPTX w Python" InputFormat="prn" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć PRN z PPTX przez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Chcesz programowo połączyć PRN z numerem PPTX? Podstawowy dokument łączący i łączący z[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Załaduj plik PRN z klasą Workbook.
++ Zainstaluj „Aspose.Cells for Python via Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
++ Załaduj plik PRN z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
 + Teraz możesz otworzyć i używać pliku wyjściowego w Microsoft Office, Adobe PDF lub innym kompatybilnym programie.
@@ -75,21 +78,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Plik PRN to plik utworzony za pomocą pola wyboru Drukuj do pliku, które pojawia się w niektórych oknach dialogowych Drukuj pod numerem Windows. Zawiera zestaw instrukcji specyficznych dla urządzenia, których używa drukarka, faks lub inne urządzenie do drukowania dokumentu. Pliki PRN mogą zawierać treść tekstową lub binarną, w zależności od urządzenia, dla którego plik został utworzony.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PPTX" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacyjne utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane publiczności w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Python, można również łączyć prn z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-docx/" name="Połącz PRN z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-sql/" name="Połącz PRN z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-bmp/" name="Połącz PRN z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-emf/" name="Połącz PRN z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-gif/" name="Połącz PRN z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-html/" name="Połącz PRN z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-md/" name="Połącz PRN z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-mhtml/" name="Połącz PRN z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-ods/" name="Połącz PRN z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-pdf/" name="Połącz PRN z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-png/" name="Połącz PRN z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-svg/" name="Połącz PRN z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tiff/" name="Połącz PRN z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-tsv/" name="Połącz PRN z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-txt/" name="Połącz PRN z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xls/" name="Połącz PRN z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsb/" name="Połącz PRN z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsm/" name="Połącz PRN z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlsx/" name="Połącz PRN z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xlt/" name="Połącz PRN z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltm/" name="Połącz PRN z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xltx/" name="Połącz PRN z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xml/" name="Scal PRN do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-xps/" name="Połącz PRN z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-json/" name="Połącz PRN z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-prn-to-jpeg/" name="Połącz PRN z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

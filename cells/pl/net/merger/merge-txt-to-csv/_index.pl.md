@@ -1,7 +1,8 @@
 ---
-title:  Połącz TXT z CSV przez C#
+title: Połącz TXT z CSV - Połącz TXT z CSV w C#
 url: /pl/net/merger/merge-txt-to-csv/ 
-description: Połącz TXT z CSV Online za darmo. Bezpłatnie online TXT do CSV Fuzja. Połącz TXT z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C# Aspose.Cells. Bezpłatne scalanie online TXT do CSV w formacie zapisu. C# Połącz format TXT z CSV. Połącz TXT z CSV w C#. TXT Połącz.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge TXT to CSV in C#., Free Online C# Merge TXT to csv., C# Combine TXT to CSV Online for Free., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz TXT z CSV przez C#" h2="Szybka biblioteka C# do łączenia TXT z CSV. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C#. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz TXT z CSV Online za darmo. Bezpłatnie online TXT do CSV F
 
 {{% blocks/products/pf/agp/content h2="Połącz TXT z CSV za pomocą C#" %}}
 
- Jak połączyć TXT z CSV? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo połączyć programowo TXT z CSV za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak scalić TXT z CSV? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo połączyć programowo TXT z CSV za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Połącz TXT z CSV w C# Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć TXT z CSV w C#.
+Poniższy przykład pokazuje, jak połączyć TXT z CSV w Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć TXT z CSV. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku CSV. Jeśli opracujesz kod w C#, będzie to prostsze niż się wydaje. Zobacz przykład C#, który łączy numery TXT z CSV.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby połączyć TXT z CSV. Prześlij swoje pliki, wywołaj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia TXT z CSV on-line" InputFormat="txt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Bezpłatne połączenie online TXT z CSV w C#" InputFormat="txt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć TXT z CSV za pośrednictwem C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić TXT z CSV programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for .NET”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C#.
 + Załaduj plik TXT z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -62,7 +65,7 @@ Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w syste
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE
+1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) w Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Plik z rozszerzeniem .TXT reprezentuje dokument tekstowy zawierający zwykły tekst w postaci linii. Akapity w dokumencie tekstowym są rozpoznawane przez znak powrotu karetki i służą do lepszego uporządkowania zawartości pliku. Standardowy dokument tekstowy można otworzyć w dowolnym edytorze tekstu lub edytorze tekstów w różnych systemach operacyjnych. Cały tekst zawarty w takim pliku jest w formacie czytelnym dla człowieka i reprezentowany przez sekwencję znaków.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Pliki z rozszerzeniem .csv (Comma Separated Values) reprezentują zwykłe pliki tekstowe, które zawierają rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C#, można również scalić txt z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-docx/" name="Połącz TXT z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-sql/" name="Połącz TXT z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-bmp/" name="Połącz TXT z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-emf/" name="Połącz TXT z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-gif/" name="Połącz TXT z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-html/" name="Połącz TXT z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-md/" name="Połącz TXT z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-mhtml/" name="Połącz TXT z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-ods/" name="Połącz TXT z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-pdf/" name="Połącz TXT z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-png/" name="Połącz TXT z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-svg/" name="Połącz TXT z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tiff/" name="Połącz TXT z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-tsv/" name="Połącz TXT z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-txt/" name="Połącz TXT z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xls/" name="Połącz TXT z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsb/" name="Połącz TXT z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsm/" name="Połącz TXT z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlsx/" name="Połącz TXT z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xlt/" name="Połącz TXT z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltm/" name="Połącz TXT z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xltx/" name="Połącz TXT z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xml/" name="Scal TXT do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-xps/" name="Połącz TXT z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-json/" name="Połącz TXT z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-txt-to-jpeg/" name="Połącz TXT z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

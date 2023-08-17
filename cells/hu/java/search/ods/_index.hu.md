@@ -58,7 +58,7 @@ description: Java mintakód a ODS fájlban a Java futásidejű környezet JSP/JS
 {{% /blocks/products/pf/agp/text %}}
 
 + A ODS fájl betöltése munkafüzet objektum létrehozásával.
-A ODS fájl első munkalapjának elérése.
++ A ODS fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

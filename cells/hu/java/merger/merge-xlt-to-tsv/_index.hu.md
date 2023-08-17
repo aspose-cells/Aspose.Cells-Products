@@ -1,7 +1,8 @@
 ---
-title:  A XLT és a TSV via Java számok egyesítése
+title: A XLT-TSV-es számok egyesítése – a XLT-es és a TSV-es számok egyesítése a Java-ben
 url: /hu/java/merger/merge-xlt-to-tsv/ 
-description: Ingyenesen egyesítse a XLT-es számot a TSV-es számmal online. Ingyenes online XLT-TSV egyesülés. A XLT egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítés XLT TSV mentési formátumba. Java A XLT és a TSV formátum kombinálása. Egyesítse a XLT-TSV-et a Java-ben. XLT Egyesítse.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to TSV in Java., Free Online Java Merge XLT to tsv., Java Combine XLT to TSV Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLT és a TSV via Java számok egyesítése" h2="Nagysebességű Java könyvtár a XLT és TSV egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Java-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a XLT-es számot a TSV-es számmal online. In
 
 {{% blocks/products/pf/agp/content h2="A XLT és a TSV egyesítése a Java használatával" %}}
 
- Hogyan lehet egyesíteni a XLT-et a TSV-gyel? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLT-et a TSV-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a XLT és a TSV számokat? A Aspose.Cells for Java könyvtárral egyszerűen egyesítheti a XLT-et a TSV-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Ingyenesen egyesítse a XLT-es számot a TSV-es számmal online. In
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLT-es számokat a TSV-es számokhoz a Java-ben online ingyen" %}}
 
-A következő példa bemutatja a XLT és a TSV egyesítését a Java-ben.
+A következő példa bemutatja a XLT és a TSV egyesítését a Aspose.Cells for Java számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLT-es és a TSV-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a TSV fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java-es példát, amely egyesíti a XLT és TSV számokat.
@@ -55,16 +56,18 @@ Kövesse az egyszerű lépéseket a XLT-es és a TSV-es számok egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a XLT és a TSV online egyesítéséhez" InputFormat="xlt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ingyenes online a XLT-TSV-es számok egyesítéséhez a Java-ben" InputFormat="xlt" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLT és a TSV via Java számok egyesítése" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a XLT-et a TSV-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 + Töltse be a XLT fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -97,21 +100,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Az .xlt kiterjesztésű fájlok olyan sablonfájlok, amelyeket a Microsoft Excel programmal hoztak létre, amely egy táblázatkezelő alkalmazás, amely a Microsoft Office csomag része. A Microsoft Office 97-2003 támogatta az új XLT fájlok létrehozását és megnyitását. Az Excel legújabb verziója továbbra is képes megnyitni a régi formátumú sablonfájlokat. Egy ilyen sablonfájl segítségével gyorsan hozhatók létre új Excel-fájlok alapértelmezett adatokkal és beállításokkal, például oldalformázással, betűmérettel, margókkal, diagramokkal stb., amelyek tovább menthetők új .xls fájlként.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával az xlt számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-docx/" name="XLT és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-sql/" name="A XLT egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-bmp/" name="XLT és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-emf/" name="XLT és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-gif/" name="XLT és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="XLT és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-md/" name="A XLT egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="XLT és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="XLT és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-pdf/" name="XLT és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-png/" name="XLT és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-svg/" name="XLT és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tiff/" name="XLT és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="XLT és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="XLT és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="XLT és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="XLT és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="XLT és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="XLT és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="XLT és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="XLT és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="XLT és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xml/" name="A XLT egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xps/" name="XLT és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-json/" name="XLT és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-jpeg/" name="XLT és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

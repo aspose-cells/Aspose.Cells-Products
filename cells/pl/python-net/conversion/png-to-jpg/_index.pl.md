@@ -1,7 +1,7 @@
 ---
-title: Konwersja PNG do JPG Python via Python
-description: Konwersja PNG do formatu JPG online za darmo. Darmowy konwerter online PNG na JPG. Python PNG do JPG. PNG do JPG przez Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG do JPG - Online PNG do konwertera JPG
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja PNG do formatu zapisu JPG. Python PNG do formatu JPG. Zapisz PNG do JPG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to JPG saveformat., Free Online PNG to JPG Python., Python Convert PNG to JPG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PNG na JPG w Python" h2="Szybka biblioteka Python do konwersji PNG na JPG. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="Konwertuj PNG na JPG w Python" %}}
 
-Jak przekonwertować PNG do JPG? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo PNG na JPG za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować PNG na JPG? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo PNG na JPG za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować PNG na JPG. Prześlij swój plik PNG,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na JPG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PNG na JPG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Programiści Python mogą łatwo załadować i przekonwertować PNG na JPG w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki PNG na JPG? Programiści Python mogą łatwo załadować i przekonwertować PNG na JPG w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik PNG z instancją skoroszytu
-1.  Konwertuj PNG na JPG, wywołując metodę Workbook.save
+1.  Załaduj plik PNG z instancją skoroszytu.
+1.  Konwertuj PNG na JPG, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji PNG do JPG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy, będący wynikiem kompresji, jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć żądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu jest pomijalnie ograniczona, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większe pogorszenie jakości obrazu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować PNG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

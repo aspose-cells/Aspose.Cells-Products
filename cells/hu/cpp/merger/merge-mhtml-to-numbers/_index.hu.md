@@ -1,7 +1,8 @@
 ---
-title:  Csatlakoztassa a MHTML-es számot a NUMBERS-hez a C++-es számon keresztül
+title: A MHTML egyesítése a NUMBERS-szel – a MHTML-es szám egyesítése a NUMBERS-szel a C++-ben
 url: /hu/cpp/merger/merge-mhtml-to-numbers/ 
-description: Ingyenesen egyesítse a MHTML számot a NUMBERS Online számmal. Ingyenes online MHTML a NUMBERS egyesüléshez. Egyesítse a MHTML-es számokat Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés MHTML NUMBERS mentési formátumba. C++ Kombinálja a MHTML számot NUMBERS formátumba. A MHTML egyesítése a NUMBERS számmal a C++-ben. MHTML Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge MHTML to NUMBERS in C++., Free Online C++ Merge MHTML to numbers., C++ Combine MHTML to NUMBERS Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Csatlakoztassa a MHTML-es számot a NUMBERS-hez a C++-es számon keresztül" h2="Nagysebességű C++-es könyvtár a MHTML-es számok NUMBERS-hoz való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a MHTML számot a NUMBERS Online számmal. In
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a MHTML-et a NUMBERS-szel a C++-es szám használatával" %}}
 
- Hogyan lehet egyesíteni a MHTML számot a NUMBERS számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a MHTML számot a NUMBERS számmal néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a MHTML számot a NUMBERS számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a MHTML számot a NUMBERS számmal néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a MHTML-es számot a NUMBERS-hez a C++-ben online ingyen" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a MHTML-es számot a NUMBERS számmal a C++-ben.
+következő példa bemutatja, hogyan lehet egyesíteni a MHTML-et a NUMBERS-szel a Aspose.Cells-es for C++-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a MHTML és a NUMBERS számok egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el NUMBERS fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely egyesíti a MHTML-et a NUMBERS-szel.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a MHTML és a NUMBERS számok egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a MHTML és a NUMBERS online egyesítéséhez" InputFormat="mhtml" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ingyenes online összevonás a MHTML számmal a NUMBERS számmal a C++-ben" InputFormat="mhtml" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A MHTML és a NUMBERS egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a MHTML-es számot a NUMBERS számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for C++'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
 + Töltse be a MHTML fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -63,7 +66,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Telepítse a könyvtárat az Include és lib Folders használatával. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}MHTML kiterjesztésű fájlok olyan weboldal-archívum formátumot képviselnek, amelyet számos különböző alkalmazás hozhat létre. A formátumot archív formátumnak nevezik, mert egyetlen fájlba menti a web HTML kódot és a kapcsolódó erőforrásokat. Ezek az erőforrások magukban foglalnak mindent, ami a weboldalhoz kapcsolódik, például képeket, kisalkalmazásokat, animációkat, hangfájlokat és így tovább. A MHTML fájlok számos alkalmazásban megnyithatók, például az Internet Explorerben és a Microsoft Wordben. A Microsoft Windows MHTML fájlformátumot használ a Windows-es számon található bármely alkalmazás használata során észlelt problémák forgatókönyveinek rögzítésére, amelyek problémákat vetnek fel. A MHTML fájlformátum az oldal tartalmát az üzenet/rfc822-ben meghatározott specifikációkhoz hasonlóan kódolja, amely egyszerű szöveges e-mailekkel kapcsolatos specifikációk.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C++ használatával az mhtml-t számos más fájlformátumhoz is egyesíthetjük, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-docx/" name="MHTML és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-sql/" name="A MHTML egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-bmp/" name="MHTML és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-emf/" name="MHTML és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-gif/" name="MHTML és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-html/" name="MHTML és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-md/" name="A MHTML egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-mhtml/" name="MHTML és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-ods/" name="MHTML és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-pdf/" name="MHTML és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-png/" name="MHTML és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-svg/" name="MHTML és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-tiff/" name="MHTML és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-tsv/" name="MHTML és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-txt/" name="MHTML és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xls/" name="MHTML és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsb/" name="MHTML és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsm/" name="MHTML és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlsx/" name="MHTML és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xlt/" name="MHTML és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xltm/" name="MHTML és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xltx/" name="MHTML és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xml/" name="A MHTML egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-xps/" name="MHTML és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-json/" name="MHTML és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-mhtml-to-jpeg/" name="MHTML és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

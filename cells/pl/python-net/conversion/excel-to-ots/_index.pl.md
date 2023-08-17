@@ -1,7 +1,7 @@
 ---
-title: Konwertuj EXCEL na OTS Python via Python
-description: Konwertuj EXCEL na OTS Online za darmo. Darmowy internetowy konwerter EXCEL na OTS. Python EXCEL do OTS. EXCEL do OTS pod numerem Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL na OTS — internetowy konwerter EXCEL na OTS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja EXCEL do formatu zapisu OTS. Python EXCEL do formatu OTS. Zapisz EXCEL do OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to OTS saveformat., Free Online EXCEL to OTS Python., Python Convert EXCEL to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na OTS w Python" h2="Szybka biblioteka Python do konwersji EXCEL na OTS. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Konwertuj EXCEL na OTS w Python" %}}
 
- Jak przekonwertować EXCEL do OTS? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo EXCEL na OTS za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować EXCEL na OTS? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo EXCEL na OTS za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować EXCEL na OTS. Prześlij swój plik EX
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować EXCEL na OTS w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki EXCEL na OTS? Python programiści mogą łatwo załadować i przekonwertować EXCEL na OTS w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik EXCEL z instancją skoroszytu
-1.  Konwertuj EXCEL na OTS, wywołując metodę Workbook.save
+1.  Załaduj plik EXCEL z instancją skoroszytu.
+1.  Konwertuj EXCEL na OTS, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji EXCEL do OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować EXCEL na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

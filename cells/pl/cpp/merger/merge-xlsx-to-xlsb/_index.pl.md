@@ -1,7 +1,8 @@
 ---
-title:  Połącz XLSX z XLSB przez C++
+title: Połącz XLSX z XLSB - Połącz XLSX z XLSB w C++
 url: /pl/cpp/merger/merge-xlsx-to-xlsb/ 
-description: Połącz XLSX z XLSB Online za darmo. Bezpłatnie online XLSX do XLSB Fuzja. Połącz XLSX z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C++ Aspose.Cells. Bezpłatne scalanie online XLSX do XLSB w formacie zapisu. C++ Połącz format XLSX z XLSB. Połącz XLSX z XLSB w C++. XLSX Połącz.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to XLSB in C++., Free Online C++ Merge XLSX to xlsb., C++ Combine XLSX to XLSB Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz XLSX z XLSB przez C++" h2="Szybka biblioteka C++ do łączenia XLSX z XLSB. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C++. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz XLSX z XLSB Online za darmo. Bezpłatnie online XLSX do XL
 
 {{% blocks/products/pf/agp/content h2="Połącz XLSX z XLSB za pomocą C++" %}}
 
- Jak połączyć XLSX z XLSB? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo XLSX z XLSB za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak scalić XLSX z XLSB? Dzięki bibliotece Aspose.Cells for C++ możesz łatwo połączyć programowo XLSX z XLSB za pomocą kilku linii kodu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. C++ Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio, po prostu otwórz[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) menedżer pakietów, wyszukaj Aspose.Cells.Cpp i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Komenda" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Połącz XLSX z XLSB w C++ Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć XLSX z XLSB w C++.
+Poniższy przykład pokazuje, jak połączyć XLSX z XLSB w Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć XLSX z XLSB. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLSB. Jeśli opracujesz kod w C++, będzie to prostsze niż się wydaje. Zobacz przykład C++, który łączy numery XLSX z XLSB.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby połączyć XLSX z XLSB. Prześlij swoje pliki, wywoł
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia XLSX z XLSB on-line" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Bezpłatne połączenie online XLSX z XLSB w C++" InputFormat="xlsx" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć XLSX z XLSB za pośrednictwem C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić XLSX z XLSB programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for C++”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C++.
 + Załaduj plik XLSX z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -63,7 +66,7 @@ Istnieją trzy opcje instalacji „Aspose.Cells for C++” w systemie. Wybierz t
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Zainstaluj bibliotekę przy użyciu folderów Include i lib. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Zainstaluj Aspose.Cells for C++ w systemie Linux. Widzieć[Dokumentacja](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Format pliku XLSB określa binarny format pliku programu Excel, który jest zbiorem rekordów i struktur określających zawartość skoroszytu programu Excel. Zawartość może obejmować nieustrukturyzowane lub częściowo ustrukturyzowane tabele liczb, tekst lub zarówno liczby, jak i tekst, formuły, połączenia danych zewnętrznych, wykresy i obrazy. W przeciwieństwie do XLSX (który jest oparty na formacie pliku Open XML), XLSB reprezentuje binarny plik skoroszytu programu Excel. XLSB można szybciej odczytywać i zapisywać pliki, co czyni je przydatnymi do pracy z dużymi plikami. XLSB jest rzadko używany do przechowywania skoroszytów, ponieważ XLSX (a wcześniej XLS) to najczęściej wybierane przez użytkowników formaty plików do zapisywania skoroszytów. Można go otworzyć za pomocą Microsoft Office 2007 i nowszych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C++, można również łączyć xlsx z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-docx/" name="Połącz XLSX z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-sql/" name="Połącz XLSX z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-bmp/" name="Połącz XLSX z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-emf/" name="Połącz XLSX z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-gif/" name="Połącz XLSX z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-html/" name="Połącz XLSX z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-md/" name="Połącz XLSX z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-mhtml/" name="Połącz XLSX z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-ods/" name="Połącz XLSX z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-pdf/" name="Połącz XLSX z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-png/" name="Połącz XLSX z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-svg/" name="Połącz XLSX z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tiff/" name="Połącz XLSX z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tsv/" name="Połącz XLSX z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-txt/" name="Połącz XLSX z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xls/" name="Połącz XLSX z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsb/" name="Połącz XLSX z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsm/" name="Połącz XLSX z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsx/" name="Połącz XLSX z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlt/" name="Połącz XLSX z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltm/" name="Połącz XLSX z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltx/" name="Połącz XLSX z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xml/" name="Scal XLSX do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xps/" name="Połącz XLSX z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-json/" name="Połącz XLSX z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-jpeg/" name="Połącz XLSX z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

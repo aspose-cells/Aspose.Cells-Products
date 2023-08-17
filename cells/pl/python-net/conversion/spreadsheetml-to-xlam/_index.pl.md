@@ -1,7 +1,7 @@
 ---
-title: Konwertuj ARKUSZ KALKACYJNY na XLAM Python via Python
-description: Konwertuj SPREADSHEETML na XLAM online za darmo. Darmowy internetowy konwerter SPREADSHEETML na XLAM. Python SPREADSHEETML na XLAM. SPREADSHEETML na XLAM przez Python.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML na XLAM - Konwerter online SPREADSHEETML na XLAM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja SPREADSHEETML do formatu zapisu XLAM. Python SPREADSHEETML do formatu XLAM. Zapisz SPREADSHEETML pod numerem XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to XLAM saveformat., Free Online SPREADSHEETML to XLAM Python., Python Convert SPREADSHEETML to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwersja SPREADSHEETML na XLAM w Python" h2="Szybka biblioteka Python do konwersji SPREADSHEETML na XLAM. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować SPREADSHEETML na XLAM. Prześlij swó
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SPREADSHEETML na XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SPREADSHEETML na XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SPREADSHEETML na XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować SPREADSHEETML na XLAM w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki SPREADSHEETML na XLAM? Python programiści mogą łatwo załadować i przekonwertować SPREADSHEETML na XLAM w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik SPREADSHEETML z instancją Workbook
-1.  Konwertuj SPREADSHEETML na XLAM, wywołując metodę Workbook.save
+1.  Załaduj plik SPREADSHEETML z instancją Workbook.
+1.  Konwertuj SPREADSHEETML na XLAM, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji SPREADSHEETML na XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML oznacza Extensible Markup Language, który jest podobny do HTML, ale różni się używaniem znaczników do definiowania obiektów. Cała idea stworzenia formatu plików XML polegała na przechowywaniu i przesyłaniu danych bez uzależnienia od oprogramowania lub narzędzi sprzętowych. Jego popularność wynika z tego, że jest czytelny zarówno dla ludzi, jak i dla maszyn. Umożliwia to tworzenie wspólnych protokołów danych w postaci obiektów, które mają być przechowywane i udostępniane w sieci, takiej jak World Wide Web (WWW). „X” w XML oznacza rozszerzalny, co oznacza, że język można rozszerzyć do dowolnej liczby symboli, zgodnie z wymaganiami użytkownika. Właśnie dla tych funkcji korzysta z niego wiele standardowych formatów plików, takich jak Microsoft Open XML, LibreOffice OpenDocument, XHTML i SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM to plik dodatku z obsługą makr, który służy do dodawania nowych funkcji do arkuszy kalkulacyjnych. Dodatek to dodatkowy program, który uruchamia dodatkowy kod i zapewnia dodatkową funkcjonalność arkuszy kalkulacyjnych. Pliki XLAM są przechowywane z rozszerzeniem .xlam. Pliki XLAM są plikami opartymi na XML, podobnymi do formatów plików XLSM i XLSX i są zapisywane z kompresją ZIP, aby zmniejszyć ogólny rozmiar pliku.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować SPREADSHEETML na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

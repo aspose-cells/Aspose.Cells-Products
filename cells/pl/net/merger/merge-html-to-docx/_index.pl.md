@@ -1,7 +1,8 @@
 ---
-title:  Połącz HTML z DOCX przez C#
+title: Połącz HTML z DOCX - Połącz HTML z DOCX w C#
 url: /pl/net/merger/merge-html-to-docx/ 
-description: Połącz HTML z DOCX Online za darmo. Bezpłatnie online HTML do DOCX Fuzja. Połącz HTML z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C# Aspose.Cells. Bezpłatne scalanie online HTML do DOCX w formacie zapisu. C# Połącz format HTML z DOCX. Połącz HTML z DOCX w C#. HTML Połącz.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to DOCX in C#., Free Online C# Merge HTML to docx., C# Combine HTML to DOCX Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz HTML z DOCX przez C#" h2="Szybka biblioteka C# do łączenia HTML z DOCX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C#. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz HTML z DOCX Online za darmo. Bezpłatnie online HTML do DO
 
 {{% blocks/products/pf/agp/content h2="Połącz HTML z DOCX za pomocą C#" %}}
 
- Jak połączyć HTML z DOCX? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo połączyć programowo HTML z DOCX za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak scalić HTML z DOCX? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo połączyć programowo HTML z DOCX za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Połącz HTML z DOCX w C# Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć HTML z DOCX w C#.
+Poniższy przykład pokazuje, jak połączyć HTML z DOCX w Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć HTML z DOCX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku DOCX. Jeśli opracujesz kod w C#, będzie to prostsze niż się wydaje. Zobacz przykład C#, który łączy numery HTML z DOCX.
@@ -36,16 +37,18 @@ Wykonaj proste kroki, aby połączyć HTML z DOCX. Prześlij swoje pliki, wywoł
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia HTML z DOCX on-line" InputFormat="html" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Bezpłatne połączenie online HTML z DOCX w C#" InputFormat="html" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć HTML z DOCX za pośrednictwem C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić HTML z DOCX programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for .NET”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C#.
 + Załaduj plik HTML z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -62,7 +65,7 @@ Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w syste
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE
+1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) w Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) to rozszerzenie dla stron internetowych stworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań informacyjnych, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant jest znany jako HTML 5, co daje dużą elastyczność w pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być ładowane również z systemu lokalnego. Każda strona HTML składa się z HTML elementów, takich jak formularze, tekst, obrazy, animacje, linki itp. Elementy te są reprezentowane przez znaczniki i kilka innych, gdzie każdy znacznik ma początek i koniec. Może również osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i arkusze stylów (CSS) w celu ogólnej reprezentacji układu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX to dobrze znany format dokumentów programu Word Microsoft. Wprowadzony od 2007 roku wraz z wydaniem pakietu Office 2007 Microsoft, struktura tego nowego formatu dokumentu została zmieniona ze zwykłego pliku binarnego na kombinację plików XML i plików binarnych. Pliki Docx można otwierać za pomocą programu Word 2007 i wersji nowszych, ale nie we wcześniejszych wersjach programu MS Word, które obsługują rozszerzenia plików DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C#, można również łączyć html z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-docx/" name="Połącz HTML z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-sql/" name="Połącz HTML z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-bmp/" name="Połącz HTML z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-emf/" name="Połącz HTML z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-gif/" name="Połącz HTML z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-html/" name="Połącz HTML z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-md/" name="Połącz HTML z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-mhtml/" name="Połącz HTML z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-ods/" name="Połącz HTML z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-pdf/" name="Połącz HTML z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-png/" name="Połącz HTML z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-svg/" name="Połącz HTML z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tiff/" name="Połącz HTML z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tsv/" name="Połącz HTML z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-txt/" name="Połącz HTML z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xls/" name="Połącz HTML z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsb/" name="Połącz HTML z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsm/" name="Połącz HTML z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsx/" name="Połącz HTML z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlt/" name="Połącz HTML z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltm/" name="Połącz HTML z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltx/" name="Połącz HTML z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xml/" name="Scal HTML do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xps/" name="Połącz HTML z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-json/" name="Połącz HTML z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-jpeg/" name="Połącz HTML z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

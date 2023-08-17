@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 Tworzenie wystąpienia obiektu Workbook. (lub-> Załaduj plik XLSX z pełną ścieżką).
 + Wybierz arkusz roboczy za pomocą jego indeksu.
- + Użyj[dodaj metodę](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) aby wstawić FlowChart w wybranym arkuszu
+ + Użyj[dodaj metodę](https://reference.aspose.com/cells/cpp/class/aspose.cells.drawing.i_shape_collection#ab8156e8562724f9a597b7d2bc503cd4d) aby wstawić schemat blokowy w wybranym arkuszu
 + Zapisz skoroszyt w formacie XLSX.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

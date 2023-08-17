@@ -58,7 +58,7 @@ description: Java mintakód a TSV fájlban a Java futásidejű környezet JSP/JS
 {{% /blocks/products/pf/agp/text %}}
 
 + A TSV fájl betöltése munkafüzet objektum létrehozásával.
-A TSV fájl első munkalapjának elérése.
++ A TSV fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

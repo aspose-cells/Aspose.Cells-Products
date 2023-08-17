@@ -1,7 +1,7 @@
 ---
-title: A PNG konvertálása MD Python via Python-re
-description: Konvertálja a PNG-et MD Online-ra ingyen. Ingyenes online PNG to MD Converter. Python PNG az MD-nek. PNG az MD számára a Python számon keresztül.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG MD - Online PNG MD konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A PNG konvertálása MD mentési formátumba. Python PNG MD formátumba. Mentse a PNG számot az MD Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MD saveformat., Free Online PNG to MD Python., Python Convert PNG to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a PNG-et MD-re a Python-ben" h2="Nagy sebességű Python könyvtár a PNG MD formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a PNG-et MD-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a PNG-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a PNG-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a PNG-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a PNG-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a PNG MD-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PNG MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a PNG MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet PNG-et konvertálni MD-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal MD-re konvertálhatják a PNG-et.
+PNG fájlokat programozottan MD-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal MD-re konvertálhatják a PNG-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a PNG fájlt a munkafüzet egy példányával
-1. Konvertálja a PNG-et MD-vé a Workbook.save metódus meghívásával
+1.  Töltse be a PNG fájlt a munkafüzet egy példányával.
+1.  Konvertálja a PNG-et MD-vé a Workbook.save metódus meghívásával.
+1.  Szerezze meg a PNG konverziós eredményt MD-vé.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) fájl egy raszteres képfájl formátum, amely veszteségmentes tömörítést használ. Ezt a fájlformátumot a Graphics Interchange Format (GIF) helyettesítésére hozták létre, és nincs szerzői jogi korlátozása. A PNG fájlformátum azonban nem támogatja az animációkat. A PNG fájlformátum támogatja a veszteségmentes képtömörítést, amely népszerűvé teszi a felhasználók körében. Az idő múlásával a PNG az egyik legszélesebb körben használt képfájlformátummá fejlődött.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}A Markdown nyelvi dialektusokkal létrehozott szöveges fájlok .md vagy .MARKDOWN kiterjesztéssel kerülnek mentésre. Az MD-fájlok egyszerű szöveges formátumban kerülnek mentésre, amely Markdown nyelvet használ, amely szövegközi szimbólumokat is tartalmaz, amelyek meghatározzák a szöveg formázását, például behúzásokat, táblázatformázást, betűtípusokat és fejléceket. Az MD fájlok a Markdown nevű programmal konvertálhatók HTML-re. A Markdown nyelvet John Gruber adta ki.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A PNG-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

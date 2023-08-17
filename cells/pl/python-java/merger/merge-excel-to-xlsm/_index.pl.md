@@ -1,7 +1,8 @@
 ---
-title:  Połącz EXCEL z XLSM przez Python
+title: Połącz EXCEL z XLSM - Połącz EXCEL z XLSM w Python
 url: /pl/python-java/merger/merge-excel-to-xlsm/ 
-description: Połącz EXCEL z XLSM Online za darmo. Bezpłatna usługa EXCEL online pod numerem XLSM Fuzja. Połącz EXCEL z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Python Aspose.Cells. Bezpłatne połączenie online EXCEL z formatem zapisu XLSM. Python Połącz EXCEL z formatem XLSM. Połącz EXCEL z XLSM w Python. Połącz EXCEL.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to XLSM in Python., Free Online Python Merge EXCEL to xlsm., Python Combine EXCEL to XLSM Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz EXCEL z XLSM przez Python" h2="Szybka biblioteka Python do łączenia EXCEL z XLSM. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Połącz EXCEL z XLSM Online za darmo. Bezpłatna usługa EXCEL onl
 
 {{% blocks/products/pf/agp/content h2="Połącz EXCEL z XLSM za pomocą Python" %}}
 
- Jak scalić EXCEL z XLSM? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo połączyć EXCEL z XLSM za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+ Jak scalić EXCEL z XLSM? Dzięki bibliotece Aspose.Cells for Python via Java możesz łatwo programowo scalić EXCEL z XLSM za pomocą kilku linii kodu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Połącz EXCEL z XLSM w Python Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić EXCEL z XLSM w Python.
+Poniższy przykład pokazuje, jak scalić EXCEL z XLSM w Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić EXCEL z XLSM. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLSM. Jeśli opracujesz kod w Python, będzie to prostsze niż się wydaje. Zobacz przykład Python, który łączy EXCEL z XLSM.
@@ -27,16 +28,18 @@ Wykonaj proste kroki, aby scalić EXCEL z XLSM. Prześlij swoje pliki, wywołaj 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia EXCEL z XLSM on-line" InputFormat="xlsx" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć EXCEL z XLSM w Python" InputFormat="xlsx" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć EXCEL z XLSM przez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz programowo połączyć EXCEL z XLSM? Podstawowy dokument łączący i łączący z[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Python via Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
 + Załaduj plik EXCEL z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -75,21 +78,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Pliki z rozszerzeniem XLSM to rodzaj plików Arkusz kalkulacyjny obsługujący Makra. Z punktu widzenia aplikacji makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się czynności i ułatwia wykonywanie czynności poprzez ponowne uruchomienie makra. Makra są programowane za pomocą języka Visual Basic for Applications (VBA) firmy Microsoft z poziomu skoroszytu programu Excel przy użyciu edytora Visual Basic i można je uruchamiać/debugować bezpośrednio z tego miejsca.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Korzystając z numeru Python, można również łączyć program Excel z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-docx/" name="Połącz EXCEL z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-sql/" name="Połącz EXCEL z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-bmp/" name="Połącz EXCEL z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-emf/" name="Połącz EXCEL z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-gif/" name="Połącz EXCEL z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-html/" name="Połącz EXCEL z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-md/" name="Połącz EXCEL z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-mhtml/" name="Połącz EXCEL z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-ods/" name="Połącz EXCEL z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-pdf/" name="Połącz EXCEL z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-png/" name="Połącz EXCEL z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-svg/" name="Połącz EXCEL z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-tiff/" name="Połącz EXCEL z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-tsv/" name="Połącz EXCEL z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-txt/" name="Połącz EXCEL z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xls/" name="Połącz EXCEL z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsb/" name="Połącz EXCEL z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsm/" name="Połącz EXCEL z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlsx/" name="Połącz EXCEL z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xlt/" name="Połącz EXCEL z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xltm/" name="Połącz EXCEL z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xltx/" name="Połącz EXCEL z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xml/" name="Połącz EXCEL z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-xps/" name="Połącz EXCEL z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-json/" name="Połącz EXCEL z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-excel-to-jpeg/" name="Połącz EXCEL z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

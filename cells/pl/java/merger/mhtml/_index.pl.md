@@ -49,14 +49,14 @@ description: Java przykładowy kod do łączenia dokumentów MHTML w środowisku
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj pierwszy plik MHTML z instancją klasy Workbook.
 + Załaduj drugi dokument MHTML z instancją klasy Workbook.
 + Scal pliki za pomocą metody Combine().
-zapisz połączony plik MHTML w określonej ścieżce
++ zapisz połączony plik MHTML w określonej ścieżce
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki MHTML." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -116,7 +116,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Pliki z rozszerzeniem MHTML reprezentują format archiwum strony internetowej, który może być tworzony przez wiele różnych aplikacji. Format ten jest znany jako format archiwum, ponieważ zapisuje kod internetowy HTML i powiązane zasoby w jednym pliku. Zasoby te obejmują wszystko, co jest powiązane ze stroną internetową, takie jak obrazy, aplety, animacje, pliki audio i tak dalej. Pliki MHTML można otwierać w różnych aplikacjach, takich jak Internet Explorer i Microsoft Word. Microsoft Windows używa formatu pliku MHTML do rejestrowania scenariuszy problemów zaobserwowanych podczas korzystania z dowolnej aplikacji na Windows, która powoduje problemy. Format pliku MHTML koduje zawartość strony podobnie do specyfikacji zdefiniowanych w message/rfc822, który jest specyfikacją związaną z wiadomościami e-mail w postaci zwykłego tekstu. Rzeczywiste specyfikacje formatu są wyszczególnione w dokumencie RFC 2557.
+Pliki z rozszerzeniem MHTML reprezentują format archiwum strony internetowej, który może być tworzony przez wiele różnych aplikacji. Format ten jest znany jako format archiwum, ponieważ zapisuje kod internetowy HTML i powiązane zasoby w jednym pliku. Zasoby te obejmują wszystko, co jest powiązane ze stroną internetową, takie jak obrazy, aplety, animacje, pliki audio i tak dalej. Pliki MHTML można otwierać w różnych aplikacjach, takich jak Internet Explorer i Microsoft Word. Microsoft Windows używa formatu pliku MHTML do rejestrowania scenariuszy problemów zaobserwowanych podczas korzystania z dowolnej aplikacji na Windows, która powoduje problemy. Format pliku MHTML koduje zawartość strony podobnie do specyfikacji zdefiniowanych w komunikacie message/rfc822, który jest specyfikacją związaną z wiadomościami e-mail w postaci zwykłego tekstu. Rzeczywiste specyfikacje formatu są wyszczególnione w dokumencie RFC 2557.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

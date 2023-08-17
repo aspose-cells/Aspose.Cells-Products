@@ -12,7 +12,7 @@ description: A Jasper Reports és a JasperServer jelentések exportálása Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- A Aspose.Cells for JasperReports egy megbízható JasperReports és JasperServer bővítmény, amely Microsoft Excel XLS, XLSX, XLSX, PDF, PDF, ODS és 1684178s 1748178s és 3848 formátumú jelentések exportálását kínálja. Microsoft Excel. A JasperReports eredeti Microsoft Excel-exportőrének alternatívájaként működik, valamint megszünteti a POI-könyvtártól való függőséget.
+ A Aspose.Cells for JasperReports egy megbízható JasperReports és JasperServer bővítmény, amely Microsoft Excel XLS, XLSX, XLSX, PDF, PDF, ODS és 384 176163481, 178481 és 18s 3804 formátumú jelentések exportálását kínálja. Microsoft Excel. A JasperReports eredeti Microsoft Excel-exportőrének alternatívájaként működik, valamint megszünteti a POI-könyvtártól való függőséget.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -113,7 +113,7 @@ description: A Jasper Reports és a JasperServer jelentések exportálása Excel
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for JasperReports lehetővé teszi a jelentések exportálását közvetlenül a[következő formátumokat](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description=" Aspose.Cells for JasperReports lehetővé teszi a jelentések exportálását közvetlenül a[következő formátumok](https://docs.aspose.com/cells/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">

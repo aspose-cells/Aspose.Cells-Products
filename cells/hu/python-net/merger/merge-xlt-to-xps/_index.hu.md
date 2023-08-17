@@ -1,7 +1,8 @@
 ---
-title:  A XLT-es szám egyesítése a XPS-es számmal a Python-es számon keresztül
+title: A XLT-XPS-es számok egyesítése – a XLT-es és a XPS-es számok egyesítése a Python-ben
 url: /hu/python-net/merger/merge-xlt-to-xps/ 
-description: Ingyenesen egyesítse a XLT-es számot a XPS-es számmal online. Ingyenes online XLT-XPS egyesülés. A XLT egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés XLT XPS mentési formátumba. Python A XLT és a XPS formátum kombinálása. Egyesítse a XLT-XPS-et a Python-ben. XLT Egyesítse.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XPS in Python., Free Online Python Merge XLT to xps., Python Combine XLT to XPS Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLT-es szám egyesítése a XPS-es számmal a Python-es számon keresztül" h2="Nagysebességű Python könyvtár a XLT és XPS egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Ingyenesen egyesítse a XLT-es számot a XPS-es számmal online. In
 
 {{% blocks/products/pf/agp/content h2="A XLT és a XPS egyesítése a Python használatával" %}}
 
- Hogyan lehet egyesíteni a XLT-et a XPS-gyel? A Aspose.Cells for Python könyvtárral egyszerűen egyesítheti a XLT-et a XPS-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem a XLT és a XPS számokat? A Aspose.Cells for Python via .NET könyvtárral könnyedén egyesítheti a XLT-et a XPS-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLT-es számokat a XPS-es számokhoz a Python-ben online ingyen" %}}
 
-A következő példa bemutatja a XLT és a XPS egyesítését a Python-ben.
+A következő példa bemutatja a XLT és XPS egyesítését a Aspose.Cells for Python via .NET számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLT-es és a XPS-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a XPS fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python-es példát, amely egyesíti a XLT és XPS számokat.
@@ -27,16 +28,18 @@ Kövesse az egyszerű lépéseket a XLT-es és a XPS-es számok egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a XLT és a XPS online egyesítéséhez" InputFormat="xlt" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ingyenes online a XLT-XPS-es számok egyesítéséhez a Python-ben" InputFormat="xlt" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLT és a XPS egyesítése a Python számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a XLT-et a XPS-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Python via .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 + Töltse be a XLT fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -53,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Az .xlt kiterjesztésű fájlok olyan sablonfájlok, amelyeket a Microsoft Excel programmal hoztak létre, amely egy táblázatkezelő alkalmazás, amely a Microsoft Office csomag része. A Microsoft Office 97-2003 támogatta az új XLT fájlok létrehozását és megnyitását. Az Excel legújabb verziója továbbra is képes megnyitni a régi formátumú sablonfájlokat. Egy ilyen sablonfájl segítségével gyorsan hozhatók létre új Excel-fájlok alapértelmezett adatokkal és beállításokkal, például oldalformázással, betűmérettel, margókkal, diagramokkal stb., amelyek tovább menthetők új .xls fájlként.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS fájl olyan oldalelrendezési fájlokat jelent, amelyek a Microsoft által létrehozott XML papírspecifikációkon alapulnak. A EMF fájlformátum helyettesítésére fejlesztették ki, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentumok elrendezésében, megjelenésében és nyomtatási információiban. . Valójában indokoltabb azt állítani, hogy a XPS a PDF próbálkozása, de a PDF tulajdonában lévő szám több okból sem tudott elég népszerűséget szerezni. A Microsoft alapértelmezés szerint a XPS Document Writer szolgáltatást biztosítja Windows 7-től a XPS fájlok létrehozásához. XPS fájlok generálhatók a „Microsoft XPS Document Writer” nyomtató kiválasztásával a dokumentum nyomtatása közben.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával az xlt számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-docx/" name="XLT és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-sql/" name="A XLT egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-bmp/" name="XLT és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-emf/" name="XLT és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-gif/" name="XLT és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="XLT és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-md/" name="A XLT egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="XLT és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="XLT és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-pdf/" name="XLT és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-png/" name="XLT és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-svg/" name="XLT és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tiff/" name="XLT és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="XLT és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="XLT és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="XLT és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="XLT és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="XLT és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="XLT és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="XLT és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="XLT és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="XLT és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xml/" name="A XLT egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xps/" name="XLT és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-json/" name="XLT és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-jpeg/" name="XLT és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

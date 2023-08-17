@@ -1,7 +1,8 @@
 ---
-title:  A XLSB-es szám egyesítése a XPS-es számmal a C#-es számon keresztül
+title: A XLSB-XPS-es számok egyesítése – a XLSB-es és a XPS-es számok egyesítése a C#-ben
 url: /hu/net/merger/merge-xlsb-to-xps/ 
-description: Ingyenesen egyesítse a XLSB-es számot a XPS-es számmal online. Ingyenes online XLSB-XPS egyesülés. A XLSB egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítés XLSB XPS mentési formátumba. C# A XLSB és a XPS formátum kombinálása. Egyesítse a XLSB-XPS-et a C#-ben. XLSB Egyesítse.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLSB to XPS in C#., Free Online C# Merge XLSB to xps., C# Combine XLSB to XPS Online for Free., XLSB Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A XLSB-es szám egyesítése a XPS-es számmal a C#-es számon keresztül" h2="Nagysebességű C# könyvtár a XLSB és XPS egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLSB" additionalConversionTag="XPS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a XLSB-es számot a XPS-es számmal online. I
 
 {{% blocks/products/pf/agp/content h2="A XLSB és a XPS egyesítése a C# használatával" %}}
 
- Hogyan lehet egyesíteni a XLSB-et a XPS-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a XLSB-et a XPS-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a XLSB és a XPS számokat? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti a XLSB-et a XPS-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a XLSB-es számokat a XPS-es számokhoz a C#-ben online ingyen" %}}
 
-A következő példa bemutatja a XLSB és a XPS egyesítését a C#-ben.
+A következő példa bemutatja a XLSB és a XPS egyesítését a Aspose.Cells for .NET számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLSB-es és a XPS-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a XPS fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C#-es példát, amely egyesíti a XLSB és XPS számokat.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a XLSB-es és a XPS-es számok egyesítéséhe
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a XLSB és a XPS online egyesítéséhez" InputFormat="xlsb" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ingyenes online a XLSB-XPS-es számok egyesítéséhez a C#-ben" InputFormat="xlsb" InputFormat2="xps" outformat="xps" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="A XLSB és a XPS egyesítése a C# számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a XLSB-et a XPS-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C# projekthez.
 + Töltse be a XLSB fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -62,7 +65,7 @@ Két alternatív lehetőség van a „Aspose.Cells for .NET” telepítésére a
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells/) . Lát[Dokumentáció](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE-n belül
+1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) a Visual Studio IDE-n belül
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}A XLSB fájlformátum az Excel bináris fájlformátumát határozza meg, amely az Excel-munkafüzet tartalmát meghatározó rekordok és struktúrák gyűjteménye. A tartalom tartalmazhat strukturálatlan vagy félig strukturált számtáblázatokat, szöveget, vagy számokat és szöveget egyaránt, képleteket, külső adatkapcsolatokat, diagramokat és képeket. A XLSX-től eltérően (amely Open XML fájlformátumon alapul), a XLSB bináris Excel-munkafüzetfájlt jelöl. A XLSB fájlok gyorsabban olvashatók és írhatók, ami hasznossá teszi őket a nagy fájlokkal való munka során. A XLSB-et ritkán használják munkafüzetek tárolására, mivel a XLSX (és korábban a XLS) a felhasználók által leggyakrabban kiválasztott fájlformátumok munkafüzetek mentésére. Megnyitható: Microsoft Office 2007 és újabb.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS fájl olyan oldalelrendezési fájlokat jelent, amelyek a Microsoft által létrehozott XML papírspecifikációkon alapulnak. A EMF fájlformátum helyettesítésére fejlesztették ki, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentumok elrendezésében, megjelenésében és nyomtatási információiban. . Valójában indokoltabb azt állítani, hogy a XPS a PDF próbálkozása, de a PDF tulajdonában lévő szám több okból sem tudott elég népszerűséget szerezni. A Microsoft alapértelmezés szerint a XPS Document Writer szolgáltatást biztosítja Windows 7-től a XPS fájlok létrehozásához. XPS fájlok generálhatók a „Microsoft XPS Document Writer” nyomtató kiválasztásával a dokumentum nyomtatása közben.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C# használatával az xlsb számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-docx/" name="XLSB és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-sql/" name="A XLSB egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-bmp/" name="XLSB és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-emf/" name="XLSB és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-gif/" name="XLSB és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-html/" name="XLSB és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-md/" name="A XLSB egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-mhtml/" name="XLSB és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-ods/" name="XLSB és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-pdf/" name="XLSB és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-png/" name="XLSB és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-svg/" name="XLSB és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tiff/" name="XLSB és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-tsv/" name="XLSB és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-txt/" name="XLSB és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xls/" name="XLSB és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsb/" name="XLSB és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsm/" name="XLSB és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlsx/" name="XLSB és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xlt/" name="XLSB és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltm/" name="XLSB és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xltx/" name="XLSB és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xml/" name="A XLSB egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-xps/" name="XLSB és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-json/" name="XLSB és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xlsb-to-jpeg/" name="XLSB és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

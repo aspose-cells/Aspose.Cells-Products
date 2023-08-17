@@ -1,7 +1,7 @@
 ---
-title: Konwertuj CSV na MARKDOWN Python via Python
-description: Zamień CSV na MARKDOWN online za darmo. Darmowy konwerter online z CSV na MARKDOWN. Python CSV do MARKDOWN. CSV do MARKDOWN przez Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV do MARKDOWN - Konwerter online CSV do MARKDOWN
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj CSV na MARKDOWN saveformat. Python CSV do MARKDOWN w formacie. Zapisz CSV do MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to MARKDOWN saveformat., Free Online CSV to MARKDOWN Python., Python Convert CSV to MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień CSV na MARKDOWN w Python" h2="Szybka biblioteka Python do konwersji CSV na MARKDOWN. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować CSV na MARKDOWN. Prześlij swój plik
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji CSV na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji CSV na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować CSV na MARKDOWN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować CSV na MARKDOWN w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki CSV na MARKDOWN? Programiści Python mogą łatwo załadować i przekonwertować CSV na MARKDOWN w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik CSV z instancją skoroszytu
-1.  Konwertuj CSV na MARKDOWN, wywołując metodę Workbook.save
+1.  Załaduj plik CSV z instancją skoroszytu.
+1.  Konwertuj CSV na MARKDOWN, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji CSV na MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Pliki z rozszerzeniem .csv (Comma Separated Values) reprezentują zwykłe pliki tekstowe, które zawierają rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Pliki tekstowe utworzone za pomocą dialektów języka Markdown są zapisywane z rozszerzeniem .md lub .MARKDOWN. Pliki MD są zapisywane w formacie zwykłego tekstu, który wykorzystuje język Markdown, który zawiera również wbudowane symbole tekstowe, określające sposób formatowania tekstu, taki jak wcięcia, formatowanie tabeli, czcionki i nagłówki. Pliki MD można konwertować na HTML za pomocą programu o nazwie Markdown. Język Markdown został wydany przez Johna Grubera.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować CSV na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: TABDELIMITED átalakítása OTS Python via Python-re
-description: Ingyenesen konvertálja a TABDELIMITED-et OTS Online-ba. Ingyenes online TABDELIMITED OTS konverter. Python TABDELIMITED to OTS. TABDELIMITED az OTS-hez a Python számon keresztül.
-keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TABDELIMITED to Word, TABDELIMITED to PPT, TABDELIMITED to Image
+title: Python TABDELIMITED to OTS - Online TABDELIMITED OTS konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python TABDELIMITED konvertálása OTS mentési formátumba. Python TABDELIMITED OTS formátumba. Mentés TABDELIMITED az OTS Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TABDELIMITED to OTS saveformat., Free Online TABDELIMITED to OTS Python., Python Convert TABDELIMITED to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TABDELIMITED konvertálása OTS-re a Python-ben" h2="Nagy sebességű Python könyvtár a TABDELIMITED OTS-re konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TABDELIMITED, TABDELIMITED Converter, TABDELIMITED to PDF, TAB
 
 {{% blocks/products/pf/agp/content h2="A TABDELIMITED konvertálása OTS-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a TABDELIMITED-et OTS-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TABDELIMITED-et OTS-re néhány sor kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a TABDELIMITED-et OTS-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TABDELIMITED-et OTS-re néhány sor kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a TABDELIMITED OTS-re konvertálásához. Töl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TABDELIMITED OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a TABDELIMITED OTS Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet a TABDELIMITED-et OTS-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és konvertálhatják a TABDELIMITED-et OTS-re, mindössze néhány sornyi kóddal.
+A TABDELIMITED fájlokat programozottan OTS-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és konvertálhatják a TABDELIMITED-et OTS-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  TABDELIMITED fájl betöltése a munkafüzet egy példányával
-1.  A TABDELIMITED konvertálása OTS-re a Workbook.save metódus meghívásával
+1.  TABDELIMITED fájl betöltése a munkafüzet egy példányával.
+1.  A TABDELIMITED konvertálása OTS-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a TABDELIMITED átváltási eredményét OTS-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Az .ots kiterjesztésű fájl egy OpenDocument Spreadsheet Template fájl, amely az Apache OpenOffice-ban található Calc alkalmazással jön létre. A Calc alkalmazásszoftver hasonló a Microsoft Office-ban elérhető Excelhez. Az OTS fájlformátumot olyan sablonok létrehozására használják, amelyek előre meghatározott beállításokat tartalmaznak a stílusokhoz, betűtípusokhoz, adatokhoz, táblázatelrendezéshez és formázáshoz. Az OTF-fájlok mime típusú application/vnd.oasis.opendocument.spreadsheet-template-vel rendelkeznek. Ezek a sablonfájlok kiindulási pontként használhatók a ODS fájlformátumban mentett tényleges adatfájlok létrehozásához és mentéséhez. Az OTS-fájlok olyan alkalmazásokkal használhatók, mint az OpenOffice és a LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A TABDELIMITED-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 
@@ -77,7 +83,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-emf/" name="TABDELIMITED A EMF-RE" description="Továbbfejlesztett metafájl formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-gif/" name="TABDELIMITED A GIF-RE" description="Grafikus csereformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-html/" name="TABDELIMITED A HTML-RE" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="FÜLSZÁM AZ MD-HEZ" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-md/" name="TABLE HITELEZETT AZ MD-HEZ" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-mhtml/" name="TABDELIMITED A MHTML-RE" description="Weboldal archív formátuma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-ods/" name="TABDELIMITED A ODS-RE" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/tabdelimited-to-pdf/" name="TABDELIMITED A PDF-RE" description="Hordozható dokumentum formátum" >}}

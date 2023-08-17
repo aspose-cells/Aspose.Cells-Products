@@ -1,7 +1,7 @@
 ---
-title: Konwertuj SXC na SQL Python via Python
-description: Przekonwertuj SXC na SQL Online za darmo. Darmowy internetowy konwerter SXC na SQL. Python SXC do SQL. SXC do SQL przez Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC do SQL — Online SXC do konwertera SQL
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja SXC do formatu zapisu SQL. Python SXC do formatu SQL. Zapisz SXC do SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to SQL saveformat., Free Online SXC to SQL Python., Python Convert SXC to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj SXC na SQL w Python" h2="Szybka biblioteka Python do konwersji SXC na SQL. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować SXC na SQL. Prześlij swój plik SXC,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SXC na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SXC na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SXC na SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować SXC na SQL w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki SXC na SQL? Python programiści mogą łatwo załadować i przekonwertować SXC na SQL w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik SXC z instancją skoroszytu
-1.  Przekonwertuj SXC na SQL, wywołując metodę Workbook.save
+1.  Załaduj plik SXC z instancją skoroszytu.
+1.  Przekonwertuj SXC na SQL, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji SXC na SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Format pliku SXC (Sun XML Calc) należy do pakietu biurowego o nazwie OpenOffice.org. Ten format zasadniczo zaspokaja potrzeby użytkowników związane z arkuszami kalkulacyjnymi, ponieważ jest to format pliku arkusza kalkulacyjnego oparty na XML. Format SXC obsługuje formuły, funkcje, makra i wykresy wraz z DataPilot, co jest niesamowitą funkcją, ponieważ automatycznie indywidualizuje i udostępnia podsumowania surowych importowanych danych. Pliki utworzone za pomocą tego oprogramowania są zapisywane z rozszerzeniem .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Plik z rozszerzeniem .sql to plik Structured Query Language (SQL), który zawiera kod do pracy z relacyjnymi bazami danych. Służy do pisania instrukcji SQL dla operacji CRUD (Create, Read, Update i Delete) w bazach danych. Pliki SQL są powszechne podczas pracy z komputerowymi i internetowymi bazami danych. Istnieje kilka alternatyw dla SQL, takich jak Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL i kilka innych. Pliki SQL mogą być otwierane przez edytory zapytań Microsoft SQL Server, MySQL i inne edytory zwykłego tekstu, takie jak Notatnik w systemie operacyjnym Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować SXC na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

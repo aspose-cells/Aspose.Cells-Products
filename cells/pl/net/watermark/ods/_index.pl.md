@@ -1,7 +1,7 @@
 ---
 title:  Znak wodny ODS dokument via .NET
 weight: 4190
-description: C# kod źródłowy do dodawania lub usuwania znaku wodnego do pliku ODS na platformach .NET Framework, .NET Core, Mono lub platformach Xamarin.
+description: C# kod źródłowy do dodawania lub usuwania znaku wodnego do pliku ODS na platformach .NET Framework, .NET Core, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dodaj tekstowy znak wodny do ODS za pośrednictwem C#" h2="Twórz własne aplikacje .NET ze znakami wodnymi ODS przy użyciu interfejsów API po stronie serwera." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  potrzebujesz
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-aby wypróbować następujący przepływ pracy we własnym środowisku.
+ aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 

@@ -13,7 +13,7 @@ description: Java mintakód vízjel hozzáadásához vagy eltávolításához a 
 
  A XLS fájl vízjelezéséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+ API, amely funkciókban gazdag, erőteljes és könnyen használható vízjel API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 

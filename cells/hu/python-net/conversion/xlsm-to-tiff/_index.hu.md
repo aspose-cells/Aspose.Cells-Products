@@ -1,7 +1,7 @@
 ---
-title: XLSM konvertálása TIFF Python via Python-re
-description: Konvertálja a XLSM-et TIFF-re online ingyen. Ingyenes online XLSM-TIFF konverter. Python XLSM - TIFF. XLSM - TIFF a Python számon keresztül.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM - TIFF - Online XLSM - TIFF Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A XLSM konvertálása TIFF mentési formátumra. Python XLSM - TIFF formátum. Mentse a XLSM számot a TIFF Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to TIFF saveformat., Free Online XLSM to TIFF Python., Python Convert XLSM to TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a XLSM-et TIFF-re Python-ben" h2="Nagy sebességű Python-es könyvtár a XLSM-es szám TIFF-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a XLSM-et TIFF-re Python-ben" %}}
 
- Hogyan lehet átalakítani a XLSM-et TIFF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSM-et TIFF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a XLSM-et TIFF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a XLSM-et TIFF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg XLSM-TIFF számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a XLSM-et TIFF-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a XLSM-et TIFF-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a XLSM TIFF-re konvertálásához. Töltse fel a XLSM fájlt, majd egyszerűen mentse el TIFF fájlként. Mind a XLSM olvasáshoz, mind a TIFF íráshoz használhat teljesen minősített fájlneveket. A TIFF kimeneti tartalom és formázás megegyezik az eredeti XLSM dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a XLSM TIFF-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM TIFF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a XLSM TIFF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet XLSM-et TIFF-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a XLSM-et TIFF-re.
+A XLSM fájlt programozottan TIFF-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a XLSM-et TIFF-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a XLSM fájlt a munkafüzet egy példányával
-1.  Konvertálja a XLSM-et TIFF-re a Workbook.save metódus meghívásával
+1.  Töltse be a XLSM fájlt a munkafüzet egy példányával.
+1.  Konvertálja a XLSM-et TIFF-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a XLSM-es konverziós eredményt TIFF-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF vagy a TIF, Tagged Image File Format olyan raszterképeket jelöl, amelyeket különféle eszközökön való használatra terveztek, amelyek megfelelnek ennek a fájlformátum-szabványnak. Több színtérben képes kétszintes, szürkeárnyalatos, palettaszínes és színes képadatok leírására. Támogatja a veszteséges és a veszteségmentes tömörítési sémákat, hogy válasszon a tér és az idő között a formátumot használó alkalmazások számára. A formátum nem gépfüggő, és olyan korlátoktól mentes, mint a processzor, az operációs rendszer vagy a fájlrendszer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A XLSM-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

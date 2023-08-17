@@ -1,7 +1,8 @@
 ---
-title:  Połącz OTS z JSON przez C#
+title: Połącz OTS z JSON - Połącz OTS z JSON w C#
 url: /pl/net/merger/merge-ots-to-json/ 
-description: Połącz OTS z JSON Online za darmo. Bezpłatne OTS online do połączenia JSON. Połącz OTS z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. C# Aspose.Cells. Bezpłatne połączenie OTS online z formatem zapisu JSON. C# Połącz OTS z formatem JSON. Połącz OTS z JSON w C#. Połącz OTS.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to JSON in C#., Free Online C# Merge OTS to json., C# Combine OTS to JSON Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz OTS z JSON przez C#" h2="Szybka biblioteka C# do łączenia OTS z JSON. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w C#. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz OTS z JSON Online za darmo. Bezpłatne OTS online do poł�
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z JSON za pomocą C#" %}}
 
- Jak scalić OTS z JSON? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo programowo połączyć OTS z JSON za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
+ Jak połączyć OTS z numerem JSON? Dzięki bibliotece Aspose.Cells for .NET możesz łatwo programowo połączyć OTS z JSON za pomocą kilku linii kodu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. otwarty[NuGet](https://www.nuget.org/packages/aspose.cells) menedżer pakietów, wyszukaj Aspose.Cells i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z JSON w C# Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić OTS z JSON w C#.
+Poniższy przykład pokazuje, jak scalić OTS z JSON w Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić OTS z JSON. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku JSON. Jeśli opracujesz kod w C#, będzie to prostsze niż się wydaje. Zobacz przykład C#, który łączy OTS z JSON.
@@ -36,17 +37,19 @@ Wykonaj proste kroki, aby scalić OTS z JSON. Prześlij swoje pliki, wywołaj me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia OTS z JSON on-line" InputFormat="ots" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć OTS z JSON w C#" InputFormat="ots" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć OTS z JSON przez C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Chcesz programowo połączyć OTS z numerem JSON? Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Załaduj plik OTS z klasą Workbook.
++ Zainstaluj „Aspose.Cells for .NET”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu C#.
++ Załaduj plik OTS z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
 + Teraz możesz otworzyć i używać pliku wyjściowego w Microsoft Office, Adobe PDF lub innym kompatybilnym programie.
@@ -62,7 +65,7 @@ Istnieją dwie alternatywne opcje instalacji „Aspose.Cells for .NET” w syste
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj[NuGet Pakiet](https://www.nuget.org/packages/Aspose.Cells/) . Widzieć[Dokumentacja](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE
+1.  Zainstaluj bibliotekę za pomocą[Konsola menedżera pakietów](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) w Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) to otwarty standardowy format plików do udostępniania danych, który wykorzystuje tekst czytelny dla człowieka do przechowywania i przesyłania danych. JSON pliki są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z języka JavaScript, ale jest formatem danych niezależnym od języka. Generowanie i analizowanie numeru JSON jest obsługiwane przez wiele współczesnych języków programowania. application/json to typ nośnika używany dla JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając C#, można również łączyć ots z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-docx/" name="Połącz OTS z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-sql/" name="Połącz OTS z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-bmp/" name="Połącz OTS z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-emf/" name="Połącz OTS z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-gif/" name="Połącz OTS z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="Połącz OTS z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-md/" name="Połącz OTS z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="Połącz OTS z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="Połącz OTS z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-pdf/" name="Połącz OTS z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-png/" name="Połącz OTS z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-svg/" name="Połącz OTS z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tiff/" name="Połącz OTS z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="Połącz OTS z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="Połącz OTS z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="Połącz OTS z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="Połącz OTS z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="Połącz OTS z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="Połącz OTS z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="Połącz OTS z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="Połącz OTS z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="Połącz OTS z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xml/" name="Połącz OTS z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="Połącz OTS z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-json/" name="Połącz OTS z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-jpeg/" name="Połącz OTS z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

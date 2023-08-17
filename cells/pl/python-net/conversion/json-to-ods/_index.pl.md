@@ -1,7 +1,7 @@
 ---
-title: Konwertuj JSON na ODS Python via Python
-description: Zamień JSON na ODS online za darmo. Darmowy konwerter online z JSON na ODS. Python JSON do ODS. JSON do ODS przez Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON do ODS - Konwerter online JSON do ODS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj JSON na ODS saveformat. Python JSON do ODS w formacie. Zapisz JSON do ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to ODS saveformat., Free Online JSON to ODS Python., Python Convert JSON to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień JSON na ODS w Python" h2="Szybka biblioteka Python do konwersji JSON na ODS. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować JSON na ODS. Prześlij swój plik JSO
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JSON na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JSON na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JSON na ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować JSON na ODS w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki JSON na ODS? Programiści Python mogą łatwo załadować i przekonwertować JSON na ODS w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik JSON z instancją skoroszytu
-1.  Konwertuj JSON na ODS, wywołując metodę Workbook.save
+1.  Załaduj plik JSON z instancją skoroszytu.
+1.  Konwertuj JSON na ODS, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji JSON na ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) to otwarty standardowy format plików do udostępniania danych, który wykorzystuje tekst czytelny dla człowieka do przechowywania i przesyłania danych. JSON pliki są przechowywane z rozszerzeniem .json. JSON wymaga mniej formatowania i jest dobrą alternatywą dla XML. JSON pochodzi z języka JavaScript, ale jest formatem danych niezależnym od języka. Generowanie i analizowanie numeru JSON jest obsługiwane przez wiele współczesnych języków programowania. application/json to typ nośnika używany dla JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Pliki z rozszerzeniem .ods oznaczają format dokumentu arkusza kalkulacyjnego OpenDocument, który może być edytowany przez użytkownika. Dane są przechowywane w pliku ODF w wierszach i kolumnach. Jest to format oparty na XML i jest jednym z kilku podtypów w rodzinie Open Document Formats (ODF). Format jest określony jako część specyfikacji ODF 1.2 publikowanych i utrzymywanych przez OASIS. Szereg aplikacji w systemie Windows oraz innych systemach operacyjnych może otwierać pliki ODS do edycji i manipulacji, w tym Microsoft Excel, NeoOffice i LibreOffice. Pliki ODS można również konwertować na inne formaty arkuszy kalkulacyjnych, takie jak XLS, XLSX i inne, za pomocą różnych aplikacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować JSON na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

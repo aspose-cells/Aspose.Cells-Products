@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
+-  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odwołanie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie
 

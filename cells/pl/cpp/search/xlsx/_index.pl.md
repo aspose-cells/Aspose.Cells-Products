@@ -1,7 +1,7 @@
 ---
 title:  Wyszukaj dokument XLSX bez otwierania za pośrednictwem C++
 weight: 9280
-description: C++ przykładowy kod wyszukiwania słów z wzorcem w pliku XLSX w C++ Runtime Environment dla Windows 32-bitowy, Windows 64-bitowy i Linux 64-bitowy.
+description: C++ przykładowy kod wyszukiwania słów z wzorcem w pliku XLSX w C++ Runtime Environment dla Windows 32-bitowego, Windows 64-bitowego i 64-bitowego systemu Linux.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Wyszukaj XLSX Formaty w C++" h2="Natywne i wydajne wyszukiwanie dokumentów XLSX za pomocą interfejsów API Aspose.Cells for C++ po stronie serwera, bez użycia oprogramowania, takiego jak Microsoft lub Adobe PDF." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

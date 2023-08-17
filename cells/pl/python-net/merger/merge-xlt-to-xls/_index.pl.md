@@ -1,7 +1,8 @@
 ---
-title:  Połącz XLT z XLS przez Python
+title: Połącz XLT z XLS - Połącz XLT z XLS w Python
 url: /pl/python-net/merger/merge-xlt-to-xls/ 
-description: Połącz XLT z XLS Online za darmo. Bezpłatnie online XLT do XLS Fuzja. Połącz XLT z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Python Aspose.Cells. Bezpłatne scalanie online XLT do XLS w formacie zapisu. Python Połącz format XLT z XLS. Połącz XLT z XLS w Python. XLT Połącz.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to XLS in Python., Free Online Python Merge XLT to xls., Python Combine XLT to XLS Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz XLT z XLS przez Python" h2="Szybka biblioteka Python do łączenia XLT z XLS. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image i wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Połącz XLT z XLS Online za darmo. Bezpłatnie online XLT do XLS F
 
 {{% blocks/products/pf/agp/content h2="Połącz XLT z XLS za pomocą Python" %}}
 
- Jak połączyć XLT z XLS? Dzięki bibliotece Aspose.Cells for Python możesz łatwo połączyć programowo XLT z XLS za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
+ Jak scalić XLT z XLS? Dzięki bibliotece Aspose.Cells for Python via .NET możesz łatwo połączyć programowo XLT z XLS za pomocą kilku linii kodu.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via .NET z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Połącz XLT z XLS w Python Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak połączyć XLT z XLS w Python.
+Poniższy przykład pokazuje, jak połączyć XLT z XLS w Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby połączyć XLT z XLS. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLS. Jeśli opracujesz kod w Python, będzie to prostsze niż się wydaje. Zobacz przykład Python, który łączy numery XLT z XLS.
@@ -27,16 +28,18 @@ Wykonaj proste kroki, aby połączyć XLT z XLS. Prześlij swoje pliki, wywołaj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia XLT z XLS on-line" InputFormat="xlt" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Bezpłatne połączenie online XLT z XLS w Python" InputFormat="xlt" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć XLT z XLS za pośrednictwem Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+ Chcesz scalić XLT z XLS programowo? Podstawowy dokument łączący i łączący z[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Zainstaluj „Aspose.Cells for Python via .NET”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
 + Załaduj plik XLT z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
@@ -53,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Pliki z rozszerzeniem .xlt to pliki szablonów utworzone za pomocą programu Excel Microsoft, który jest aplikacją arkusza kalkulacyjnego, która jest częścią pakietu Office Microsoft. Microsoft Pakiet Office 97-2003 obsługiwał tworzenie nowych plików XLT oraz otwieranie ich. Najnowsza wersja programu Excel nadal umożliwia otwieranie plików szablonów starego formatu. Taki plik szablonu służy do szybkiego tworzenia nowych plików Excel z domyślnymi danymi i ustawieniami, takimi jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp., które można dalej zapisać jako nowe pliki .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Pliki z rozszerzeniem XLS reprezentują binarny format pliku programu Excel. Takie pliki mogą być tworzone przez Microsoft Excel, a także inne podobne programy arkuszy kalkulacyjnych, takie jak OpenOffice Calc lub Apple Numbers. Plik zapisany przez program Excel jest znany jako skoroszyt, w którym każdy skoroszyt może mieć jeden lub więcej arkuszy. Dane są przechowywane i wyświetlane użytkownikom w formacie tabeli w arkuszu i mogą obejmować wartości liczbowe, dane tekstowe, formuły, zewnętrzne połączenia danych, obrazy i wykresy. Aplikacje takie jak Microsoft Excel umożliwiają eksportowanie danych skoroszytu do kilku różnych formatów, w tym PDF, CSV, XLSX, TXT, HTML, XPS i kilku innych. Format pliku XLS został zastąpiony bardziej otwartym i ustrukturyzowanym formatem, XLSX, wraz z wydaniem programu Excel 2007 Microsoft. Najnowsze wersje nadal zapewniają obsługę tworzenia i odczytywania plików XLS, chociaż XLSX jest teraz pierwszym wyborem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Python, można również łączyć xlt z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-docx/" name="Połącz XLT z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-sql/" name="Połącz XLT z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-bmp/" name="Połącz XLT z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-emf/" name="Połącz XLT z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-gif/" name="Połącz XLT z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-html/" name="Połącz XLT z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-md/" name="Połącz XLT z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-mhtml/" name="Połącz XLT z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-ods/" name="Połącz XLT z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-pdf/" name="Połącz XLT z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-png/" name="Połącz XLT z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-svg/" name="Połącz XLT z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tiff/" name="Połącz XLT z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-tsv/" name="Połącz XLT z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-txt/" name="Połącz XLT z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xls/" name="Połącz XLT z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsb/" name="Połącz XLT z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsm/" name="Połącz XLT z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlsx/" name="Połącz XLT z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xlt/" name="Połącz XLT z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltm/" name="Połącz XLT z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xltx/" name="Połącz XLT z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xml/" name="Scal XLT do XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-xps/" name="Połącz XLT z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-json/" name="Połącz XLT z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-xlt-to-jpeg/" name="Połącz XLT z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

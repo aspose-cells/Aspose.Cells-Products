@@ -13,7 +13,7 @@ description: C# kod źródłowy do wyszukiwania słów ze wzorcem w pliku ODS na
 
  Aby wyszukać plik ODS, użyjemy
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do wyszukiwania dokumentów API dla platformy C#. otwarty
+API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do wyszukiwania dokumentów API dla platformy C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  menedżer pakietów, wyszukaj
  **Aspose.Cells** 

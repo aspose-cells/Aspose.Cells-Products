@@ -1,7 +1,7 @@
 ---
-title: ODS konvertálása JSON Python via Python-re
-description: Konvertálja a ODS-et JSON-re online ingyen. Ingyenes online ODS-JSON konverter. Python ODS - JSON. ODS - JSON a Python számon keresztül.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS - JSON - Online ODS - JSON Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A ODS konvertálása JSON mentési formátumra. Python ODS - JSON formátum. Mentse a ODS számot a JSON Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to JSON saveformat., Free Online ODS to JSON Python., Python Convert ODS to JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a ODS-et JSON-re Python-ben" h2="Nagy sebességű Python-es könyvtár a ODS-es szám JSON-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a ODS-et JSON-re Python-ben" %}}
 
- Hogyan lehet átalakítani a ODS-et JSON-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a ODS-et JSON-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a ODS-et JSON-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a ODS-et JSON-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg ODS-JSON számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a ODS-et JSON-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a ODS-et JSON-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a ODS JSON-re konvertálásához. Töltse fel a ODS fájlt, majd egyszerűen mentse el JSON fájlként. Mind a ODS olvasáshoz, mind a JSON íráshoz használhat teljesen minősített fájlneveket. A JSON kimeneti tartalom és formázás megegyezik az eredeti ODS dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a ODS JSON-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a ODS JSON online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a ODS JSON online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet ODS-et JSON-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a ODS-et JSON-re.
+A ODS fájlt programozottan JSON-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a ODS-et JSON-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a ODS fájlt a munkafüzet egy példányával
-1.  Konvertálja a ODS-et JSON-re a Workbook.save metódus meghívásával
+1.  Töltse be a ODS fájlt a munkafüzet egy példányával.
+1.  Konvertálja a ODS-et JSON-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a ODS-es konverziós eredményt JSON-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Az .ods kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice fájlokat. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) egy nyílt szabványos fájlformátum az adatok megosztására, amely ember által olvasható szöveget használ az adatok tárolására és továbbítására. A JSON fájlok .json kiterjesztéssel vannak tárolva. A JSON kevesebb formázást igényel, és jó alternatíva az XML számára. A JSON a JavaScriptből származik, de nyelvfüggetlen adatformátum. A JSON generálását és elemzését számos modern programozási nyelv támogatja. Az application/json a JSON adathordozó típusa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A ODS-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

@@ -31,7 +31,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Cells
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki XLTM." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -85,7 +85,7 @@ PM> Install-Package Aspose.Cells
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów są używane do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
+Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

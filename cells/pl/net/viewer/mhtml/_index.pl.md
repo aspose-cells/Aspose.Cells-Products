@@ -50,7 +50,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
+-  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odwołanie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie
 
@@ -102,7 +102,7 @@ System.Diagnostics.Process.Start(output);
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" W razie potrzeby pobierz plik MHTML z łącza" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Pliki z rozszerzeniem MHTML reprezentują format archiwum strony internetowej, który może być tworzony przez wiele różnych aplikacji. Format ten jest znany jako format archiwum, ponieważ zapisuje kod internetowy HTML i powiązane zasoby w jednym pliku. Zasoby te obejmują wszystko, co jest powiązane ze stroną internetową, takie jak obrazy, aplety, animacje, pliki audio i tak dalej. Pliki MHTML można otwierać w różnych aplikacjach, takich jak Internet Explorer i Microsoft Word. Microsoft Windows używa formatu pliku MHTML do rejestrowania scenariuszy problemów zaobserwowanych podczas korzystania z dowolnej aplikacji na Windows, która powoduje problemy. Format pliku MHTML koduje zawartość strony podobnie do specyfikacji zdefiniowanych w message/rfc822, który jest specyfikacją związaną z wiadomościami e-mail w postaci zwykłego tekstu. Rzeczywiste specyfikacje formatu są wyszczególnione w dokumencie RFC 2557.
+Pliki z rozszerzeniem MHTML reprezentują format archiwum strony internetowej, który może być tworzony przez wiele różnych aplikacji. Format ten jest znany jako format archiwum, ponieważ zapisuje kod internetowy HTML i powiązane zasoby w jednym pliku. Zasoby te obejmują wszystko, co jest powiązane ze stroną internetową, takie jak obrazy, aplety, animacje, pliki audio i tak dalej. Pliki MHTML można otwierać w różnych aplikacjach, takich jak Internet Explorer i Microsoft Word. Microsoft Windows używa formatu pliku MHTML do rejestrowania scenariuszy problemów zaobserwowanych podczas korzystania z dowolnej aplikacji na Windows, która powoduje problemy. Format pliku MHTML koduje zawartość strony podobnie do specyfikacji zdefiniowanych w komunikacie message/rfc822, który jest specyfikacją związaną z wiadomościami e-mail w postaci zwykłego tekstu. Rzeczywiste specyfikacje formatu są wyszczególnione w dokumencie RFC 2557.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

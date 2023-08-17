@@ -1,7 +1,7 @@
 ---
-title: Konwertuj SXC na XLTM Python via Python
-description: Zamień SXC na XLTM online za darmo. Darmowy konwerter online z SXC na XLTM. Python SXC do XLTM. SXC do XLTM przez Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC do XLTM - Konwerter online SXC do XLTM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj SXC na XLTM saveformat. Python SXC do XLTM w formacie. Zapisz SXC do XLTM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to XLTM saveformat., Free Online SXC to XLTM Python., Python Convert SXC to XLTM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień SXC na XLTM w Python" h2="Szybka biblioteka Python do konwersji SXC na XLTM. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować SXC na XLTM. Prześlij swój plik SXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SXC na XLTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji SXC na XLTM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="xltm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować SXC na XLTM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować SXC na XLTM w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki SXC na XLTM? Programiści Python mogą łatwo załadować i przekonwertować SXC na XLTM w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik SXC z instancją skoroszytu
-1.  Konwertuj SXC na XLTM, wywołując metodę Workbook.save
+1.  Załaduj plik SXC z instancją skoroszytu.
+1.  Konwertuj SXC na XLTM, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji SXC na XLTM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Format pliku SXC (Sun XML Calc) należy do pakietu biurowego o nazwie OpenOffice.org. Ten format zasadniczo zaspokaja potrzeby użytkowników związane z arkuszami kalkulacyjnymi, ponieważ jest to format pliku arkusza kalkulacyjnego oparty na XML. Format SXC obsługuje formuły, funkcje, makra i wykresy wraz z DataPilot, co jest niesamowitą funkcją, ponieważ automatycznie indywidualizuje i udostępnia podsumowania surowych importowanych danych. Pliki utworzone za pomocą tego oprogramowania są zapisywane z rozszerzeniem .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować SXC na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

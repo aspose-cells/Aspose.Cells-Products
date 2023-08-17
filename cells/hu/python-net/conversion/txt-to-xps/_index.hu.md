@@ -1,7 +1,7 @@
 ---
-title: TXT konvertálása XPS Python via Python-re
-description: Konvertálja a TXT-et XPS-re online ingyen. Ingyenes online TXT-XPS konverter. Python TXT - XPS. TXT - XPS a Python számon keresztül.
-keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT to Image
+title: Python TXT - XPS - Online TXT - XPS Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A TXT konvertálása XPS mentési formátumra. Python TXT - XPS formátum. Mentse a TXT számot a XPS Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TXT to XPS saveformat., Free Online TXT to XPS Python., Python Convert TXT to XPS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a TXT-et XPS-re Python-ben" h2="Nagy sebességű Python-es könyvtár a TXT-es szám XPS-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XPS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert TXT, TXT Converter, TXT to PDF, TXT to Word, TXT to PPT, TXT t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a TXT-et XPS-re Python-ben" %}}
 
- Hogyan lehet átalakítani a TXT-et XPS-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TXT-et XPS-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a TXT-et XPS-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a TXT-et XPS-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg TXT-XPS számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a TXT-et XPS-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a TXT-et XPS-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a TXT XPS-re konvertálásához. Töltse fel a TXT fájlt, majd egyszerűen mentse el XPS fájlként. Mind a TXT olvasáshoz, mind a XPS íráshoz használhat teljesen minősített fájlneveket. A XPS kimeneti tartalom és formázás megegyezik az eredeti TXT dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a TXT XPS-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a TXT XPS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a TXT XPS online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="txt" outformat="xps" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet TXT-et XPS-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a TXT-et XPS-re.
+A TXT fájlt programozottan XPS-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a TXT-et XPS-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a TXT fájlt a munkafüzet egy példányával
-1.  Konvertálja a TXT-et XPS-re a Workbook.save metódus meghívásával
+1.  Töltse be a TXT fájlt a munkafüzet egy példányával.
+1.  Konvertálja a TXT-et XPS-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a TXT-es konverziós eredményt XPS-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}A .TXT kiterjesztésű fájl olyan szöveges dokumentumot jelent, amely egyszerű szöveget tartalmaz sorok formájában. A szöveges dokumentum bekezdéseit a kocsivisszaadások felismerik, és a fájltartalom jobb elrendezésére használják. A szabványos szöveges dokumentum bármely szövegszerkesztőben vagy szövegszerkesztő alkalmazásban megnyitható különböző operációs rendszereken. Az ilyen fájlokban található összes szöveg ember által olvasható formátumban van, és karakterek sorozata ábrázolja.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}XPS fájl olyan oldalelrendezési fájlokat jelent, amelyek a Microsoft által létrehozott XML papírspecifikációkon alapulnak. A EMF fájlformátum helyettesítésére fejlesztették ki, és hasonló a PDF fájlformátumhoz, de XML-t használ a dokumentumok elrendezésében, megjelenésében és nyomtatási információiban. . Valójában indokoltabb azt állítani, hogy a XPS a PDF próbálkozása, de a PDF tulajdonában lévő szám több okból sem tudott elég népszerűséget szerezni. A Microsoft alapértelmezés szerint a XPS Document Writer szolgáltatást biztosítja Windows 7-től a XPS fájlok létrehozásához. XPS fájlok generálhatók a „Microsoft XPS Document Writer” nyomtató kiválasztásával a dokumentum nyomtatása közben.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A TXT-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

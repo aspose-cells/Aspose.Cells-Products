@@ -1,5 +1,5 @@
 ---
-title: PivotTable beszúrása a Micorsoft Excel XLS fájlba a C# számon keresztül
+title:  PivotTable beszúrása a Micorsoft Excel XLS fájlba a C# számon keresztül
 weight: 7690
 description: C# Mintakód a XLS számú dokumentumok PivotTable segítségével történő előállításához. Ezzel a kóddal hozhat létre Micorsoft Excel XLS fájlokat a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli kimutatással.
 ---
@@ -22,7 +22,7 @@ description: C# Mintakód a XLS számú dokumentumok PivotTable segítségével 
 
 {{% blocks/products/pf/agp/text %}}
 
- A fejlesztők könnyen beilleszthetik a kimutatást a XLS formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
+ fejlesztők könnyen beilleszthetik a kimutatást a XLS formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Mintakód a XLS számú dokumentumok PivotTable segítségével 
 1.  Nyissa meg a munkafüzet első munkalapját.
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
-1.  A Mentés módszerrel mentheti a munkafüzetet XLS fájlként.
+1.  Mentés módszerrel mentheti a munkafüzetet XLS fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -58,7 +58,7 @@ description: Java przykładowy kod do wyszukiwania słów z wzorcem w pliku XLSB
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLSB, tworząc instancję obiektu skoroszytu.
-Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLSB.
++ Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLSB.
 + Znajdź komórkę zawierającą określoną formułę.
 + Utwórz instancję FindOptions.
 + Znajdź komórkę zawierającą wartość ciągu

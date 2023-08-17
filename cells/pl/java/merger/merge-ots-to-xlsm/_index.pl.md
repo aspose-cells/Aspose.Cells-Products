@@ -1,7 +1,8 @@
 ---
-title: Połącz OTS z XLSM via Java
+title: Połącz OTS z XLSM - Połącz OTS z XLSM w Java
 url: /pl/java/merger/merge-ots-to-xlsm/ 
-description: Połącz OTS z XLSM Online za darmo. Bezpłatne OTS online do połączenia XLSM. Połącz OTS z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Java Aspose.Cells. Bezpłatne połączenie OTS online z formatem zapisu XLSM. Java Połącz OTS z formatem XLSM. Połącz OTS z XLSM w Java. Połącz OTS.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge OTS to XLSM in Java., Free Online Java Merge OTS to xlsm., Java Combine OTS to XLSM Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz OTS z XLSM via Java" h2="Szybka biblioteka Java do łączenia OTS z XLSM. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Java. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Połącz OTS z XLSM Online za darmo. Bezpłatne OTS online do poł�
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z XLSM za pomocą Java" %}}
 
- Jak scalić OTS z XLSM? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo połączyć OTS z XLSM za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
+ Jak połączyć OTS z numerem XLSM? Dzięki bibliotece Aspose.Cells for Java możesz łatwo programowo połączyć OTS z XLSM za pomocą kilku linii kodu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Java Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz pobrać jego najnowszą wersję bezpośrednio z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Magazyn" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Połącz OTS z XLSM Online za darmo. Bezpłatne OTS online do poł�
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z XLSM w Java Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić OTS z XLSM w Java.
+Poniższy przykład pokazuje, jak scalić OTS z XLSM w Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić OTS z XLSM. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku XLSM. Jeśli opracujesz kod w Java, będzie to prostsze niż się wydaje. Zobacz przykład Java, który łączy OTS z XLSM.
@@ -55,17 +56,19 @@ Wykonaj proste kroki, aby scalić OTS z XLSM. Prześlij swoje pliki, wywołaj me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia OTS z XLSM on-line" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć OTS z XLSM w Java" InputFormat="ots" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć OTS z XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Chcesz programowo połączyć OTS z numerem XLSM? Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Załaduj plik OTS z klasą Workbook.
++ Zainstaluj „Aspose.Cells for Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Java.
++ Załaduj plik OTS z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
 + Teraz możesz otworzyć i używać pliku wyjściowego w Microsoft Office, Adobe PDF lub innym kompatybilnym programie.
@@ -97,21 +100,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Pliki z rozszerzeniem XLSM to rodzaj plików Arkusz kalkulacyjny obsługujący Makra. Z punktu widzenia aplikacji makro to zestaw instrukcji służących do automatyzacji procesów. Makro służy do rejestrowania powtarzających się czynności i ułatwia wykonywanie czynności poprzez ponowne uruchomienie makra. Makra są programowane za pomocą języka Visual Basic for Applications (VBA) firmy Microsoft z poziomu skoroszytu programu Excel przy użyciu edytora Visual Basic i można je uruchamiać/debugować bezpośrednio z tego miejsca.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Java, można również łączyć ots z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-docx/" name="Połącz OTS z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-sql/" name="Połącz OTS z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-bmp/" name="Połącz OTS z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-emf/" name="Połącz OTS z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-gif/" name="Połącz OTS z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-html/" name="Połącz OTS z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-md/" name="Połącz OTS z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-mhtml/" name="Połącz OTS z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-ods/" name="Połącz OTS z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-pdf/" name="Połącz OTS z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-png/" name="Połącz OTS z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-svg/" name="Połącz OTS z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tiff/" name="Połącz OTS z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-tsv/" name="Połącz OTS z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-txt/" name="Połącz OTS z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xls/" name="Połącz OTS z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsb/" name="Połącz OTS z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsm/" name="Połącz OTS z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlsx/" name="Połącz OTS z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xlt/" name="Połącz OTS z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltm/" name="Połącz OTS z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xltx/" name="Połącz OTS z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xml/" name="Połącz OTS z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-xps/" name="Połącz OTS z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-json/" name="Połącz OTS z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-ots-to-jpeg/" name="Połącz OTS z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

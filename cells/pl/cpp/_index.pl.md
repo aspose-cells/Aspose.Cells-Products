@@ -457,7 +457,7 @@ Biblioteka renderuje z najwyższą wiernością do Microsoft Excel przy użyciu 
  Manipulowanie kolumnami i wierszami
     </h2>
     <p>
- Aspose.Cells for C++ oferuje manipulację wierszami i kolumnami na wiele sposobów. Dostosowanie wysokości wiersza i szerokości kolumny lub automatyczna zmiana rozmiaru komórki zgodnie z jej zawartością jest zbyt łatwe. API oferuje również środki do usuwania i wstawiania, ukrywania lub pokazywania, a także grupowania i rozgrupowywania wierszy i kolumn.
+ Aspose.Cells for C++ oferuje manipulację wierszami i kolumnami na wiele sposobów. Dostosowanie wysokości wiersza i szerokości kolumny lub automatyczna zmiana rozmiaru komórki zgodnie z jej zawartością jest zbyt łatwe. API oferuje również środki do usuwania i wstawiania, ukrywania lub pokazywania, a także grupowania lub rozgrupowywania wierszy i kolumn.
     </p>
    </div>
    <div class="col-lg-12">

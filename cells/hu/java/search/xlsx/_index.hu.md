@@ -58,7 +58,7 @@ description: Java mintakód a XLSX fájlban a Java futásidejű környezet JSP/J
 {{% /blocks/products/pf/agp/text %}}
 
 + A XLSX fájl betöltése munkafüzet objektum létrehozásával.
-A XLSX fájl első munkalapjának elérése.
++ A XLSX fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

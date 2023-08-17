@@ -10,7 +10,7 @@ description: Napraw uszkodzony plik programu Excel za pomocą Java. Narzędzie d
 
 {{% blocks/products/pf/agp/content h2="Napraw plik EXCEL za pomocą Java" %}}
 
- Aby naprawić plik EXCEL, użyjemy[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do manipulacji dokumentami API for Java.
+ Aby naprawić plik EXCEL, użyjemy[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do manipulacji dokumentami API for Java.
  
  Aspose.Cells API może być używany do tworzenia, edytowania, konwertowania i renderowania Microsoft formatów programu Excel do różnych formatów. Ponadto może być używany do tworzenia kompleksowych wykresów, skalowalnych raportów i niezawodnych obliczeń w aplikacjach. Aspose.Cells to samodzielny numer API i nie wymaga żadnego oprogramowania, takiego jak Microsoft lub OpenOffice.
 
@@ -20,7 +20,7 @@ description: Napraw uszkodzony plik programu Excel za pomocą Java. Narzędzie d
 
 {{% blocks/products/pf/agp/content h2="Jak naprawić plik programu Excel za pomocą Java" %}}
 
-Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
++ Zdefiniuj klasę, która dziedziczy Aspose.Cells.IWarningCallback.
 + Załaduj plik EXCEL, tworząc instancję Workbook, używając powyższej klasy dziedziczenia, zapoznaj się z powyższym kodem.
 + Zapisz skoroszyt, uszkodzony plik Excela zostanie naprawiony.
 

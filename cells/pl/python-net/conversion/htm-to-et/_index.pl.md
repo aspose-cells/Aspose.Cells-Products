@@ -1,7 +1,7 @@
 ---
-title: Konwertuj HTM na ET Python via Python
-description: Konwertuj HTM na ET Online za darmo. Darmowy internetowy konwerter HTM na ET. Python HTM do ET. HTM do ET przez Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM na ET — internetowy konwerter HTM na ET
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj HTM na format zapisu ET. Python HTM do formatu ET. Zapisz HTM w ET Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to ET saveformat., Free Online HTM to ET Python., Python Convert HTM to ET]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj HTM na ET w Python" h2="Szybka biblioteka Python do konwersji HTM na ET. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ET" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Konwertuj HTM na ET w Python" %}}
 
- Jak przekonwertować HTM na ET? Za pomocą biblioteki Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo HTM na ET za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować HTM na ET? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo HTM na ET za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować HTM na ET. Prześlij swój plik HTM, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji HTM na ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji HTM na ET Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="et" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować HTM na ET" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować HTM na ET w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki HTM na ET? Python programiści mogą łatwo załadować i przekonwertować HTM na ET w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik HTM z instancją Workbook
-1.  Konwertuj HTM na ET, wywołując metodę Workbook.save
+1.  Załaduj plik HTM z instancją Workbook.
+1.  Konwertuj HTM na ET, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji HTM na ET.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Pliki z rozszerzeniem .htm reprezentują Hypertext Markup Language do tworzenia stron internetowych do wyświetlania w przeglądarkach internetowych, takich jak Google Chrome, Internet Explorer, Firefox i wielu innych. Definiuje znaczniki do tworzenia statycznych stron, które mają być publikowane w sieci World Wide Web (WWW) w celu uzyskania dostępu przez inne osoby. Te znaczniki informują przeglądarki, jak wyświetlić zawartość strony internetowej. Takie strony mogą zawierać zwykły tekst, obrazy, hiperłącza do innych stron, filmy i inne informacje multimedialne. Po opublikowaniu strony internetowej możesz zobaczyć kod znaczników, który się za nią kryje, przeglądając jej źródło. Nowoczesne przeglądarki umożliwiają wgląd w każdą sekcję strony internetowej, w której opracowano każdy podpodział lub element znaczników w źródle HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ET" readMoreLink="https://fileinfo.com/extension/et/" >}}Plik ET to lekcja dydaktyczna stworzona przez Easiteach, program, który umożliwia nauczycielom opracowywanie lekcji w klasie i prowadzenie ich za pośrednictwem interaktywnego interfejsu. Zawiera dane lekcji, takie jak układy, nawigacja, obrazy, tekst, motywy i animacje.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować HTM na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

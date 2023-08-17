@@ -1,7 +1,7 @@
 ---
-title: XML konvertálása TAB-raDELIMITED Python via Python
-description: Konvertálja az XML-t TABDELIMITED-re online ingyen. Ingyenes online XML–TABDELIMITED konverter. Python XML - TABDELIMITED. XML-ből TABDELIMITED a Python számon keresztül.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML–TABDELIMITED – Online XML–TABDELIMITED konvertáló
+description: "Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python XML konvertálása TABDELIMITED mentési formátumba. Python XML-ből TABDELIMITED formátumba. XML mentése ide: TABDELIMITED Python."
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to TABDELIMITED saveformat., Free Online XML to TABDELIMITED Python., Python Convert XML to TABDELIMITED]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja az XML-t TABDELIMITED-re a Python-ben" h2="Nagy sebességű Python-es könyvtár az XML-nek TAB-ra konvertálásáhozDELIMITED. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TABDELIMITED" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja az XML-t TABDELIMITED-re a Python-ben" %}}
 
- Hogyan lehet XML-t TABDELIMITED-re konvertálni? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja az XML-t TABDELIMITED formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az XML-t TABDELIMITED-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja az XML-t TABDELIMITED formátumba programozottan, néhány sornyi kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket az XML-ből TABLE konvertálásáhozDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az XML-ből TABLE konvertálásáhozDELIMITED Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód az XML-ből TABLE konvertálásáhozDELIMITED Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="tsv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XML konvertálása TAB-raDELIMITED" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python A fejlesztők egyszerűen betölthetik és konvertálhatják az XML-t TABDELIMITED-re, mindössze néhány sornyi kóddal.
+Az XML-fájlokat programozottan TABDELIMITED-re kell konvertálnia? Python A fejlesztők egyszerűen betölthetik és konvertálhatják az XML-t TABDELIMITED-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be az XML-fájlt a munkafüzet egy példányával
-1. Konvertálja az XML-t TABDELIMITED-re a Workbook.save metódus meghívásával
+1.  Töltse be az XML-fájlt a munkafüzet egy példányával.
+1.  Konvertálja az XML-t TABDELIMITED-re a Workbook.save metódus meghívásával.
+1.  Az XML átalakítási eredményének lekérése TAB-raDELIMITED.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="Az XML-t számos más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt néhány fájlt." >}}
 

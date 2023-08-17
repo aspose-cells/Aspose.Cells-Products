@@ -1,7 +1,7 @@
 ---
-title: A CSV átalakítása ETT Python via Python-re
-description: Konvertálja a CSV-et ETT Online-ra ingyen. Ingyenes online CSV az ETT Converterhez. Python CSV az ETT-nek. CSV az ETT-hez a Python számon keresztül.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV az ETT-nek – Online CSV az ETT átalakítónak
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A CSV konvertálása ETT mentési formátumba. Python CSV ETT formátumba. Mentse a CSV számot az ETT Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to ETT saveformat., Free Online CSV to ETT Python., Python Convert CSV to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a CSV-et ETT-re a Python-ben" h2="Nagysebességű Python könyvtár a CSV ETT-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a CSV-et ETT-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a CSV-et ETT-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a CSV-et ETT-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a CSV-et ETT-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a CSV-et ETT-vé, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg CSV-et az ETT-nek a Python számon online ingyen" %}}
 
-következő példa bemutatja, hogyan lehet a Python via NET-ben a CSV-et ETT-vé alakítani.
+A következő példa bemutatja, hogyan lehet a Python via NET-ben a CSV-et ETT-vé alakítani.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a CSV ETT-re konvertálásához. Töltse fel a CSV fájlt, majd egyszerűen mentse el ETT fájlként. Mind a CSV-es olvasáshoz, mind az ETT íráshoz használhat teljesen minősített fájlneveket. A kimeneti ETT tartalom és formázás megegyezik az eredeti CSV dokumentuméval.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a CSV ETT-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a CSV ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a CSV ETT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet átalakítani a CSV-et ETT-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal ETT-re konvertálhatják a CSV-et.
+A CSV fájlokat programozottan ETT-re kell konvertálni? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal ETT-re konvertálhatják a CSV-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a CSV fájlt a munkafüzet egy példányával
-1.  Konvertálja a CSV-et ETT-re a Workbook.save metódus hívásával
+1.  Töltse be a CSV fájlt a munkafüzet egy példányával.
+1.  Konvertálja a CSV-et ETT-re a Workbook.save metódus hívásával.
+1.  Szerezze meg a CSV konverziós eredményt ETT-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}.csv (vesszővel elválasztott értékek) kiterjesztésű fájlok egyszerű szöveges fájlok, amelyek vesszővel elválasztott értékekkel rendelkező adatrekordokat tartalmaznak. A CSV fájl minden sora egy új rekord a fájlban található rekordkészletből. Az ilyen fájlok akkor jönnek létre, amikor az egyik tárolórendszerről a másikra adatátvitelt terveznek. Mivel minden alkalmazás képes felismerni a vesszővel elválasztott rekordokat, az ilyen adatfájlok importálása az adatbázisba nagyon kényelmes. Szinte minden táblázatkezelő alkalmazás, például a Microsoft Excel vagy az OpenOffice Calc, különösebb erőfeszítés nélkül képes importálni a CSV számot. Az ilyen fájlokból importált adatok egy táblázat celláiba vannak rendezve a felhasználó számára történő megjelenítés céljából.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Az ETT-fájl egy táblázatsablon, amelyet a Kingsoft Spreadsheets, a WPS Office csomagban található táblázatkezelő program hozott létre. Olyan sablont tárol, amely kiindulási pontként használható új Kingsoft táblázatok (.ET fájlok) létrehozásához. Az ETT fájlokat gyakran használják pénzügyi költségvetések létrehozására és adatok rendszerezésére.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A CSV-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Połącz OTS z DOCX przez Python
+title: Połącz OTS z DOCX - Połącz OTS z DOCX w Python
 url: /pl/python-java/merger/merge-ots-to-docx/ 
-description: Połącz OTS z DOCX Online za darmo. Bezpłatne OTS online do połączenia DOCX. Połącz OTS z Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS i więcej.
+description: Aspose Excel. Python Aspose.Cells. Bezpłatne połączenie OTS online z formatem zapisu DOCX. Python Połącz OTS z formatem DOCX. Połącz OTS z DOCX w Python. Połącz OTS.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge OTS to DOCX in Python., Free Online Python Merge OTS to docx., Python Combine OTS to DOCX Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Połącz OTS z DOCX przez Python" h2="Szybka biblioteka Python do łączenia OTS z DOCX. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python. Jest to profesjonalne oprogramowanie do importowania i eksportowania Excel, CSV, OpenOffice, PDF, HTML, image oraz wielu innych formatów programu Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Połącz OTS z DOCX Online za darmo. Bezpłatne OTS online do poł�
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z DOCX za pomocą Python" %}}
 
- Jak scalić OTS z DOCX? Dzięki bibliotece Aspose.Cells for Python możesz łatwo programowo połączyć OTS z DOCX za pomocą kilku linii kodu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
+ Jak połączyć OTS z numerem DOCX? Dzięki bibliotece Aspose.Cells for Python via Java możesz łatwo połączyć OTS z DOCX programowo za pomocą kilku linii kodu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty. Możesz zainstalować Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Połącz OTS z DOCX w Python Online za darmo" %}}
 
-Poniższy przykład pokazuje, jak scalić OTS z DOCX w Python.
+Poniższy przykład pokazuje, jak połączyć OTS z DOCX w Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Wykonaj proste kroki, aby scalić OTS z DOCX. Prześlij swoje pliki, wywołaj metodę Workbook.Combine, aby scalić pliki, a następnie zapisz ją w pliku DOCX. Jeśli opracujesz kod w Python, będzie to prostsze niż się wydaje. Zobacz przykład Python, który łączy OTS z DOCX.
@@ -27,17 +28,19 @@ Wykonaj proste kroki, aby scalić OTS z DOCX. Prześlij swoje pliki, wywołaj me
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Darmowa aplikacja do łączenia OTS z DOCX on-line" InputFormat="ots" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Bezpłatnie online, aby połączyć OTS z DOCX w Python" InputFormat="ots" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak połączyć OTS z DOCX przez Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Chcesz programowo połączyć OTS z numerem DOCX? Podstawowy dokument łączący i łączący z[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Załaduj plik OTS z klasą Workbook.
++ Zainstaluj „Aspose.Cells for Python via Java”.
++ Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
++ Załaduj plik OTS z klasą Workbook.
 + Wywołaj metodę Workbook.Combine do łączenia plików.
 + Wywołaj metodę Workbook.Save i przekaż jako parametr nazwę pliku wyjściowego.
 + Teraz możesz otworzyć i używać pliku wyjściowego w Microsoft Office, Adobe PDF lub innym kompatybilnym programie.
@@ -75,21 +78,41 @@ Nasze interfejsy API są obsługiwane na wszystkich głównych platformach i sys
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX to dobrze znany format dokumentów programu Word Microsoft. Wprowadzony od 2007 roku wraz z wydaniem pakietu Office 2007 Microsoft, struktura tego nowego formatu dokumentu została zmieniona ze zwykłego pliku binarnego na kombinację plików XML i plików binarnych. Pliki Docx można otwierać za pomocą programu Word 2007 i wersji nowszych, ale nie we wcześniejszych wersjach programu MS Word, które obsługują rozszerzenia plików DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty scalania" subTitle="Używając Python, można również łączyć ots z wieloma innymi formatami plików, w tym." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-html/" name="HTML" description="hipertekstowy język znaczników" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-mhtml/" name="MHTML" description="Format archiwum strony internetowej" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-ods/" name="ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-tsv/" name="TSV" description="Wartości oddzielone tabulatorami" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-txt/" name="TXT" description="Dokument tekstowy" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xls/" name="XLS" description="Format binarny Excela" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsb/" name="XLSB" description="Binarny plik skoroszytu programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsm/" name="XLSM" description="Plik arkusza kalkulacyjnego" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsx/" name="XLSX" description="Plik Excela OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Szablon programu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xltm/" name="XLTM" description="Szablon programu Excel z obsługą makr" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xltx/" name="XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-docx/" name="Połącz OTS z DOCX" description="Microsoft Dokument Worda" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-sql/" name="Połącz OTS z SQL" description="Strukturalny język zapytań" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-bmp/" name="Połącz OTS z BMP" description="Bitmapa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-emf/" name="Połącz OTS z EMF" description="Rozszerzony format metaplików" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-gif/" name="Połącz OTS z GIF" description="Graficzny format wymiany" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-html/" name="Połącz OTS z HTML" description="hipertekstowy język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-md/" name="Połącz OTS z MD" description="język Markdowna" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-mhtml/" name="Połącz OTS z MHTML" description="Format archiwum strony internetowej" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-ods/" name="Połącz OTS z ODS" description="Plik arkusza kalkulacyjnego OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-pdf/" name="Połącz OTS z PDF" description="format dokumentu przenośnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-png/" name="Połącz OTS z PNG" description="Przenośna Grafika Sieciowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-svg/" name="Połącz OTS z SVG" description="Skalowalna Grafika wektorowa" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-tiff/" name="Połącz OTS z TIFF" description="Oznaczony format obrazu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-tsv/" name="Połącz OTS z TSV" description="Wartości oddzielone tabulatorami" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-txt/" name="Połącz OTS z TXT" description="Dokument tekstowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xls/" name="Połącz OTS z XLS" description="Format binarny Excela" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsb/" name="Połącz OTS z XLSB" description="Binarny plik skoroszytu programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsm/" name="Połącz OTS z XLSM" description="Plik arkusza kalkulacyjnego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlsx/" name="Połącz OTS z XLSX" description="Plik Excela OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xlt/" name="Połącz OTS z XLT" description="Microsoft Szablon programu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xltm/" name="Połącz OTS z XLTM" description="Szablon programu Excel z obsługą makr" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xltx/" name="Połącz OTS z XLTX" description="Szablon Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xml/" name="Połącz OTS z XML" description="Rozszerzalny język znaczników" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-xps/" name="Połącz OTS z XPS" description="Specyfikacje papieru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-json/" name="Połącz OTS z JSON" description="Notacja obiektu JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-ots-to-jpeg/" name="Połącz OTS z JPEG" description="JPEG Obraz" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

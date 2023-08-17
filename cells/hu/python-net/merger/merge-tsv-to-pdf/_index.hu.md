@@ -1,7 +1,8 @@
 ---
-title:  A TSV-es szám egyesítése a PDF-es számmal a Python-es számon keresztül
+title: A TSV-PDF-es számok egyesítése – a TSV-es és a PDF-es számok egyesítése a Python-ben
 url: /hu/python-net/merger/merge-tsv-to-pdf/ 
-description: Ingyenesen egyesítse a TSV-es számot a PDF-es számmal online. Ingyenes online TSV-PDF egyesülés. A TSV egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítés TSV PDF mentési formátumba. Python A TSV és a PDF formátum kombinálása. Egyesítse a TSV-PDF-et a Python-ben. TSV Egyesítse.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TSV to PDF in Python., Free Online Python Merge TSV to pdf., Python Combine TSV to PDF Online for Free., TSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A TSV-es szám egyesítése a PDF-es számmal a Python-es számon keresztül" h2="Nagysebességű Python könyvtár a TSV és PDF egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="TSV" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Ingyenesen egyesítse a TSV-es számot a PDF-es számmal online. In
 
 {{% blocks/products/pf/agp/content h2="A TSV és a PDF egyesítése a Python használatával" %}}
 
- Hogyan lehet egyesíteni a TSV-et a PDF-gyel? A Aspose.Cells for Python könyvtárral egyszerűen egyesítheti a TSV-et a PDF-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
+ Hogyan egyesíthetem a TSV és a PDF számokat? A Aspose.Cells for Python via .NET könyvtárral könnyedén egyesítheti a TSV-et a PDF-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via .NET számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a TSV-es számokat a PDF-es számokhoz a Python-ben online ingyen" %}}
 
-A következő példa bemutatja a TSV és a PDF egyesítését a Python-ben.
+A következő példa bemutatja a TSV és PDF egyesítését a Aspose.Cells for Python via .NET számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a TSV-es és a PDF-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a PDF fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python-es példát, amely egyesíti a TSV és PDF számokat.
@@ -27,16 +28,18 @@ Kövesse az egyszerű lépéseket a TSV-es és a PDF-es számok egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a TSV és a PDF online egyesítéséhez" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Ingyenes online a TSV-PDF-es számok egyesítéséhez a Python-ben" InputFormat="tsv" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A TSV és a PDF egyesítése a Python számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a TSV-et a PDF-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Python via .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 + Töltse be a TSV fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -53,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) az Adobe által az 1990-es években létrehozott dokumentumtípus. Ennek a fájlformátumnak az volt a célja, hogy szabványt vezessen be a dokumentumok és egyéb referenciaanyagok olyan formátumban, amely független az alkalmazásszoftvertől, a hardvertől és az operációs rendszertől. A PDF fájlformátum teljes mértékben képes olyan információkat tartalmazni, mint például szöveg, képek, hiperhivatkozások, űrlapmezők, multimédiás média, digitális aláírások, mellékletek, metaadatok, térinformatikai jellemzők és 3D objektumok, amelyek a forrásdokumentum részeivé válhatnak.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával a tsv-t számos más fájlformátumhoz is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-docx/" name="TSV és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-sql/" name="A TSV egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-bmp/" name="TSV és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-emf/" name="TSV és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-gif/" name="TSV és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-html/" name="TSV és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-md/" name="A TSV egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-mhtml/" name="TSV és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-ods/" name="TSV és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-pdf/" name="TSV és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-png/" name="TSV és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-svg/" name="TSV és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-tiff/" name="TSV és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-tsv/" name="TSV és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-txt/" name="TSV és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xls/" name="TSV és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsb/" name="TSV és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsm/" name="TSV és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlsx/" name="TSV és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xlt/" name="TSV és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xltm/" name="TSV és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xltx/" name="TSV és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xml/" name="A TSV egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-xps/" name="TSV és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-json/" name="TSV és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tsv-to-jpeg/" name="TSV és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

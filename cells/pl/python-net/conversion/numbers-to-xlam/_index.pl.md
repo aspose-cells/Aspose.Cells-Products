@@ -1,7 +1,7 @@
 ---
-title: Konwertuj LICZBY na XLAM Python via Python
-description: Konwertuj LICZBY na XLAM online za darmo. Darmowy konwerter numerów online na XLAM. Python NUMERY do XLAM. NUMERY do XLAM przez Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMERY na XLAM - Konwerter online NUMERY na XLAM
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj NUMERY na XLAM format zapisu. Python NUMERY do formatu XLAM. Zapisz NUMERY pod numer XLAM Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to XLAM saveformat., Free Online NUMBERS to XLAM Python., Python Convert NUMBERS to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień LICZBY na XLAM na Python" h2="Szybka biblioteka Python do konwersji LICZB na XLAM. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować NUMBERS na XLAM. Prześlij swój plik
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMERÓW na XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMERÓW na XLAM online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować LICZBY na XLAM" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Programiści Python mogą łatwo załadować i przekonwertować NUMERY na XLAM w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki NUMBERS na XLAM? Programiści Python mogą łatwo załadować i przekonwertować NUMERY na XLAM w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik NUMBERS z instancją skoroszytu
-1.  Konwertuj NUMERY na XLAM, wywołując metodę Workbook.save
+1.  Załaduj plik NUMBERS z instancją skoroszytu.
+1.  Konwertuj NUMERY na XLAM, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji LICZBY na XLAM.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Pliki z rozszerzeniem .numbers są klasyfikowane jako pliki typu arkusz kalkulacyjny, dlatego są podobne do plików .xlsx; ale pliki Numbers są tworzone przy użyciu arkusza kalkulacyjnego Apple iWork Numbers. Apple iWork Numbers to oprogramowanie jednostkowe pakietu iWork Productivity Suite. Pakiet iWork Productivity Suite jest odpowiednikiem pakietu Office Microsoft używanego na komputerach PC Windows. Dlatego możemy powiedzieć, że Numbers, który jest dostępny dla MacOS, jest również konkurentem Microsoft Excel. Podobnie Microsoft Excel, plik NUMBERS może zawierać również tabele, wykresy i formuły.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM to plik dodatku z obsługą makr, który służy do dodawania nowych funkcji do arkuszy kalkulacyjnych. Dodatek to dodatkowy program, który uruchamia dodatkowy kod i zapewnia dodatkową funkcjonalność arkuszy kalkulacyjnych. Pliki XLAM są przechowywane z rozszerzeniem .xlam. Pliki XLAM są plikami opartymi na XML, podobnymi do formatów plików XLSM i XLSX i są zapisywane z kompresją ZIP, aby zmniejszyć ogólny rozmiar pliku.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować NUMBERS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

@@ -49,14 +49,14 @@ description: Java przykładowy kod do łączenia dokumentów CSV w środowisku w
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj pierwszy plik CSV z instancją klasy Workbook.
 + Załaduj drugi dokument CSV z instancją klasy Workbook.
 + Scal pliki za pomocą metody Combine().
-zapisz połączony plik CSV w określonej ścieżce
++ zapisz połączony plik CSV w określonej ścieżce
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ csvFile1.save("combinedFileWithPath.csv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki CSV." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -113,7 +113,7 @@ csvFile1.save("combinedFileWithPath.csv");
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkiem, import takich plików danych do bazy danych odbywa się w bardzo wygodny sposób. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
+Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

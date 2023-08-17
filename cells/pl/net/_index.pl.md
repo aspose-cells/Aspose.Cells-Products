@@ -12,11 +12,11 @@ description: C# ASP.NET Biblioteka VB.NET do pracy z dokumentami programu Excel 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET to programowanie arkuszy kalkulacyjnych Excel API w celu przyspieszenia zadań związanych z zarządzaniem i przetwarzaniem arkuszy kalkulacyjnych. API obsługuje tworzenie wieloplatformowych aplikacji z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania arkuszy kalkulacyjnych. Co więcej, nie wymaga instalowania Microsoft Excel ani żadnych komponentów Office Interop Microsoft, ale solidnego zestawu interfejsów API, które obsługują wszystkie formaty programu Excel, a także formaty CSV i SpreadsheetML.
+Aspose.Cells for .NET to programowanie arkuszy kalkulacyjnych Excel API w celu przyspieszenia zadań związanych z zarządzaniem i przetwarzaniem arkuszy kalkulacyjnych. API obsługuje tworzenie wieloplatformowych aplikacji z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania arkuszy kalkulacyjnych. Co więcej, nie wymaga instalowania Microsoft Excel ani żadnych komponentów Office Interop Microsoft, ale solidnego zestawu interfejsów API, które obsługują wszystkie formaty programu Excel, a także formaty CSV i SpreadsheetML.
 </p>
 
 <p>
-Dzięki integracji API programiści mogą wykonywać niektóre podstawowe zadania, takie jak zarządzanie wieloma arkuszami, tworzenie zawartości i stylów arkuszy kalkulacyjnych od podstaw, importowanie danych do arkuszy z różnych źródeł danych, dodawanie typowych i złożonych formuł matematycznych, finansowych i tekstowych, manipulowanie wykresami, zdjęcia, komentarze, obiekty do rysowania i wiele więcej.
+ Dzięki integracji API programiści mogą wykonywać niektóre podstawowe zadania, takie jak zarządzanie wieloma arkuszami, tworzenie zawartości i stylów arkuszy kalkulacyjnych od podstaw, importowanie danych do arkuszy z różnych źródeł danych, dodawanie typowych i złożonych formuł matematycznych, finansowych i tekstowych, manipulowanie wykresami, zdjęcia, komentarze, obiekty do rysowania i wiele więcej.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ Dzięki integracji API programiści mogą wykonywać niektóre podstawowe zadani
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Zaawansowane funkcje arkusza kalkulacyjnego Excel API
+ Zaawansowane funkcje arkusza kalkulacyjnego Excel API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Zaawansowane funkcje arkusza kalkulacyjnego Excel API
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Obsługa numeru CSV (wartości oddzielone przecinkami) &amp; TSV (wartości oddzielone tabulatorami)
+Obsługa numeru CSV (wartości oddzielone przecinkami) &amp; TSV (wartości oddzielone tabulatorami)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Zaawansowane funkcje arkusza kalkulacyjnego Excel API
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Konwertuj arkusze kalkulacyjne na PDF, XPS &amp; HTML Formaty
+ Konwertuj arkusze kalkulacyjne na PDF, XPS &amp; HTML Formaty
     </h2>
     <p>
  Aspose.Cells for .NET może konwertować arkusze kalkulacyjne na PDF, XPS &amp; HTML przy zachowaniu najwyższej wierności wizualnej. Proces konwersji jest prosty, ale niezawodny, dzięki czemu numer API jest idealnym wyborem dla organizacji, które wymagają wymiany dokumentów w dowolnym formacie branżowym.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Zapisz arkusz kalkulacyjny w różnych formatach - C#
+Zapisz arkusz kalkulacyjny w różnych formatach - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET daje Ci pełną swobodę i elastyczność w wyposażaniu arkuszy kalkulacyjnych we wszelkiego rodzaju efekty wizualne. API umożliwia stosowanie różnych czcionek z atrybutami, stylami komórek (wyrównanie, wcięcie, obrót, obramowanie, cieniowanie i kolorowanie, ochrona, zawijanie i zmniejszanie tekstu) oraz wszelkiego rodzaju formatami liczb.
     </p>
     <p>
-Podobnie wykresy i grafiki są atrakcyjne wizualnie i mogą nadać arkuszowi kalkulacyjnemu profesjonalny wygląd. Aspose.Cells for .NET zapewnia kompleksowy zestaw interfejsów API do tworzenia i manipulowania wszystkimi standardowymi i niestandardowymi typami wykresów. Ponadto do komórek można dodawać różne typy obiektów rysunkowych, takie jak komentarze, obrazy, obiekty OLE, kształty i kontrolki
+ Podobnie wykresy i grafiki są atrakcyjne wizualnie i mogą nadać arkuszowi kalkulacyjnemu profesjonalny wygląd. Aspose.Cells for .NET zapewnia kompleksowy zestaw interfejsów API do tworzenia i manipulowania wszystkimi standardowymi i niestandardowymi typami wykresów. Ponadto do komórek można dodawać różne typy obiektów rysunkowych, takie jak komentarze, obrazy, obiekty OLE, kształty i kontrolki
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ Podobnie wykresy i grafiki są atrakcyjne wizualnie i mogą nadać arkuszowi kal
  Wydajny, solidny i amp; Niezawodny silnik obliczania formuł
     </h2>
     <p>
- Aspose.Cells for .NET ma potężny silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje programu Excel Microsoft. Możesz odczytywać, ustawiać i obliczać wyniki wbudowanych, dodatkowych, tablicowych &amp; Formuły w stylu referencyjnym W1K1.
+Aspose.Cells for .NET ma potężny silnik obliczania formuł, który obsługuje prawie wszystkie standardowe i zaawansowane formuły i funkcje programu Excel Microsoft. Możesz odczytywać, ustawiać i obliczać wyniki wbudowanych, dodatkowych, tablicowych &amp; Formuły w stylu referencyjnym W1K1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ Podobnie wykresy i grafiki są atrakcyjne wizualnie i mogą nadać arkuszowi kal
  Podsumuj dane za pomocą tabel przestawnych, wykresów i amp; Inteligentne znaczniki
     </h2>
     <p>
-Tabela przestawna może pomóc w szybkim podsumowaniu płaskich danych i uzyskaniu pożądanych informacji zgodnie z potrzebami. .NET Biblioteka programu Excel umożliwia dynamiczne tworzenie tabel przestawnych i wykresów przestawnych. Możesz dynamicznie zmieniać dane źródłowe tabeli przestawnej i odświeżać je. Ponadto biblioteka oferuje inteligentne znaczniki, które są świetną funkcją do wypełniania arkuszy na podstawie niektórych źródeł danych i tworzenia efektownych wizualnie raportów.
+ Tabela przestawna może pomóc w szybkim podsumowaniu płaskich danych i uzyskaniu pożądanych informacji zgodnie z potrzebami. .NET Biblioteka programu Excel umożliwia dynamiczne tworzenie tabel przestawnych i wykresów przestawnych. Możesz dynamicznie zmieniać dane źródłowe tabeli przestawnej i odświeżać je. Ponadto biblioteka oferuje inteligentne znaczniki, które są świetną funkcją do wypełniania arkuszy na podstawie niektórych źródeł danych i tworzenia efektownych wizualnie raportów.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Tabela przestawna może pomóc w szybkim podsumowaniu płaskich danych i uzyskan
  Renderuj arkusze programu Excel &amp; Wykresy jako obrazy
     </h2>
     <p>
- Aspose.Cells for .NET ma własny silnik renderujący zaprojektowany specjalnie do renderowania &amp; drukowanie z najwyższą wiernością do Microsoft Excel. Oferuje charakterystyczne funkcje, takie jak renderowanie arkuszy programu Excel &amp; wykresy do obrazów &amp; drukowanie arkuszy roboczych na dowolnej podłączonej drukarce fizycznej. Proces jest elastyczny, dzięki czemu można wybrać wiele opcji, takich jak kontrolowanie wynikowych wymiarów obrazu podczas renderowania arkuszy roboczych &amp; wykresy do obrazów.
+Aspose.Cells for .NET ma własny silnik renderujący specjalnie zaprojektowany do renderowania &amp; drukowanie z najwyższą wiernością do Microsoft Excel. Oferuje charakterystyczne funkcje, takie jak renderowanie arkuszy programu Excel &amp; wykresy do obrazów &amp; drukowanie arkuszy roboczych na dowolnej podłączonej drukarce fizycznej. Proces jest elastyczny, dzięki czemu można wybrać wiele opcji, takich jak kontrolowanie wynikowych wymiarów obrazu podczas renderowania arkuszy roboczych &amp; wykresy do obrazów.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Konwertuj arkusz roboczy na obraz - C#
+ Konwertuj arkusz roboczy na obraz - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Interfejsy graficzne dla sieci i amp; Aplikacje komputerowe
     </h2>
     <p>
- Aspose.Cells for .NET zawiera elementy sterujące GUI dla sieci Web &amp; aplikacje desktopowe. Użytkownik końcowy może używać tych elementów sterujących do otwierania, zapisywania i edytuj pliki Excela, importuj &amp; eksportować dane, zarządzać formatowaniem &amp; formuły i konwertować między kilkoma obsługiwanymi formatami arkuszy kalkulacyjnych bezpośrednio z interfejsu aplikacji.
+Aspose.Cells for .NET zawiera elementy sterujące GUI dla sieci Web &amp; aplikacje desktopowe. Użytkownik końcowy może używać tych elementów sterujących do otwierania, zapisywania i edytuj pliki Excela, importuj &amp; eksportować dane, zarządzać formatowaniem &amp; formuły i konwertować między kilkoma obsługiwanymi formatami arkuszy kalkulacyjnych bezpośrednio z interfejsu aplikacji.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Automatyzacja biura — niepotrzebna
     </h2>
     <p>
-Aspose.Cells for .NET jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga instalacji pakietu Office Microsoft lub programu Excel Microsoft na komputerze do pracy z formatami dokumentów programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Office pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
+ Aspose.Cells for .NET jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga instalacji pakietu Office Microsoft lub programu Excel Microsoft na komputerze do pracy z formatami dokumentów programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Office pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET jest zbudowany przy użyciu kodu zarządzanego, który nig
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Pakiet produktów Aspose i wsparcie nie mają sobie równych. Bez tego rozwiązania nie moglibyśmy zrobić tego, co zrobiliśmy.
+Pakiet produktów Aspose i wsparcie nie mają sobie równych. Bez tego rozwiązania nie moglibyśmy zrobić tego, co zrobiliśmy.
  <em>
  Dr Dan Patterson | Przenikliwość, Wielka Brytania
  </em>

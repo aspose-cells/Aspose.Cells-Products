@@ -1,7 +1,7 @@
 ---
-title: A SXC konvertálása MD Python via Python-re
-description: Konvertálja a SXC-et MD Online-ra ingyen. Ingyenes online SXC to MD Converter. Python SXC az MD-nek. SXC az MD számára a Python számon keresztül.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC MD - Online SXC MD konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A SXC konvertálása MD mentési formátumba. Python SXC MD formátumba. Mentse a SXC számot az MD Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to MD saveformat., Free Online SXC to MD Python., Python Convert SXC to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át a SXC-et MD-re a Python-ben" h2="Nagy sebességű Python könyvtár a SXC MD formátumba konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át a SXC-et MD-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a SXC-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom át a SXC-et MD-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et MD-vé, néhány soros kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a SXC MD-re konvertálásához. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC MD Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet SXC-et konvertálni MD-re" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal MD-re konvertálhatják a SXC-et.
+SXC fájlokat programozottan MD-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal MD-re konvertálhatják a SXC-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a SXC fájlt a munkafüzet egy példányával
-1. Konvertálja a SXC-et MD-vé a Workbook.save metódus meghívásával
+1.  Töltse be a SXC fájlt a munkafüzet egy példányával.
+1.  Konvertálja a SXC-et MD-vé a Workbook.save metódus meghívásával.
+1.  Szerezze meg a SXC konverziós eredményt MD-vé.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}SXC (Sun XML Calc) fájlformátum az OpenOffice.org nevű irodai programcsomaghoz tartozik. Ez a formátum általában a felhasználók táblázatkezelési igényeit elégíti ki, mivel ez egy XML alapú táblázatkezelő fájlformátum. A SXC formátum a képleteket, függvényeket, makrókat és diagramokat támogatja a DataPilot mellett, amely hihetetlen funkció, mert automatikusan személyre szabja és összefoglalja a nyers importált adatokat. Az ezzel a szoftverrel létrehozott fájlok .sxc kiterjesztéssel kerülnek mentésre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}A Markdown nyelvi dialektusokkal létrehozott szöveges fájlok .md vagy .MARKDOWN kiterjesztéssel kerülnek mentésre. Az MD-fájlok egyszerű szöveges formátumban kerülnek mentésre, amely Markdown nyelvet használ, amely szövegközi szimbólumokat is tartalmaz, amelyek meghatározzák a szöveg formázását, például behúzásokat, táblázatformázást, betűtípusokat és fejléceket. Az MD fájlok a Markdown nevű programmal konvertálhatók HTML-re. A Markdown nyelvet John Gruber adta ki.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A SXC-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

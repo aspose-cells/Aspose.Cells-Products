@@ -1,7 +1,7 @@
 ---
-title: OTS átalakítása HTML Python via Python-re
-description: Konvertálja az OTS-t HTML-re online ingyen. Ingyenes online OTS-HTML konverter. Python OTS-HTML. OTS-HTML-Python.
-keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS to Image
+title: Python OTS-HTML - Online OTS-HTML konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python OTS konvertálása HTML mentési formátumra. Python OTS HTML formátumra. Mentse az OTS-t a HTML Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python OTS to HTML saveformat., Free Online OTS to HTML Python., Python Convert OTS to HTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Alakítsa át az OTS-t HTML-re a Python-ben" h2="Nagysebességű Python-es könyvtár az OTS HTML-es konvertálásához. Használja a API-es excel-konverziót magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert OTS, OTS Converter, OTS to PDF, OTS to Word, OTS to PPT, OTS t
 
 {{% blocks/products/pf/agp/content h2="Alakítsa át az OTS-t HTML-re a Python-ben" %}}
 
- Hogyan lehet átalakítani az OTS-t HTML-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja az OTS-t HTML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom az OTS-t HTML-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja az OTS-t HTML-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket az OTS HTML-re konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód az OTS HTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód az OTS HTML online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ots" outformat="html" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet az OTS-t HTML-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és átalakíthatják az OTS-t HTML-re.
+Programozottan kell konvertálnia az OTS fájlokat HTML-re? A Python fejlesztők egyszerűen betölthetik és konvertálhatják az OTS-t HTML-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be az OTS-fájlt a munkafüzet egy példányával
-1.  Konvertálja az OTS-t HTML-re a Workbook.save metódus hívásával
+1.  Töltse be az OTS-fájlt a munkafüzet egy példányával.
+1.  Konvertálja az OTS-t HTML-re a Workbook.save metódus hívásával.
+1.  Szerezze meg az OTS konverziós eredményét HTML-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Az .ots kiterjesztésű fájl egy OpenDocument Spreadsheet Template fájl, amely az Apache OpenOffice-ban található Calc alkalmazással jön létre. A Calc alkalmazásszoftver hasonló a Microsoft Office-ban elérhető Excelhez. Az OTS fájlformátumot olyan sablonok létrehozására használják, amelyek előre meghatározott beállításokat tartalmaznak a stílusokhoz, betűtípusokhoz, adatokhoz, táblázatelrendezéshez és formázáshoz. Az OTF-fájlok mime típusú application/vnd.oasis.opendocument.spreadsheet-template-vel rendelkeznek. Ezek a sablonfájlok kiindulási pontként használhatók a ODS fájlformátumban mentett tényleges adatfájlok létrehozásához és mentéséhez. Az OTS-fájlok olyan alkalmazásokkal használhatók, mint az OpenOffice és a LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) a böngészőben való megjelenítésre létrehozott weboldalak kiterjesztése. A web nyelveként ismert HTML a weboldalak részeként megjelenítendő új információs követelményekkel együtt fejlődött. A legújabb változat a HTML 5 néven ismert, ami nagy rugalmasságot biztosít a nyelvvel való munka során. A HTML oldalak vagy a szerverről érkeznek, ahol ezek tárolva vannak, vagy a helyi rendszerről is betölthetők. Minden HTML oldal HTML elemből áll, például űrlapokból, szövegekből, képekből, animációkból, linkekből stb. Ezeket az elemeket címkék és számos más jelöli, ahol minden címkének van eleje és vége. Szkriptnyelveken, például JavaScripten és stíluslapokon (CSS) írt alkalmazásokat is beágyazhat az általános elrendezés megjelenítéséhez.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="Az OTS-t sok más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  A SXC-es szám egyesítése a TSV-es számmal a C++-es számon keresztül
+title: A SXC-TSV-es számok egyesítése – a SXC-es és a TSV-es számok egyesítése a C++-ben
 url: /hu/cpp/merger/merge-sxc-to-tsv/ 
-description: Ingyenesen egyesítse a SXC-es számot a TSV-es számmal online. Ingyenes online SXC-TSV egyesülés. A SXC egyesítése a Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés SXC TSV mentési formátumba. C++ A SXC és a TSV formátum kombinálása. Egyesítse a SXC-TSV-et a C++-ben. SXC Egyesítse.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SXC to TSV in C++., Free Online C++ Merge SXC to tsv., C++ Combine SXC to TSV Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A SXC-es szám egyesítése a TSV-es számmal a C++-es számon keresztül" h2="Nagysebességű C++ könyvtár a SXC és TSV egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C++-ben. Ez egy professzionális szoftvermegoldás Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a SXC-es számot a TSV-es számmal online. In
 
 {{% blocks/products/pf/agp/content h2="A SXC és a TSV egyesítése a C++ használatával" %}}
 
- Hogyan lehet egyesíteni a SXC-et a TSV-gyel? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SXC-et a TSV-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a SXC és a TSV számokat? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a SXC-et a TSV-es számokkal programozottan néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a SXC-es számokat a TSV-es számokhoz a C++-ben online ingyen" %}}
 
-A következő példa bemutatja a SXC és a TSV egyesítését a C++-ben.
+A következő példa bemutatja a SXC és a TSV egyesítését a Aspose.Cells for C++ számban.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a SXC-es és a TSV-es számok egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a TSV fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely egyesíti a SXC és TSV számokat.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a SXC-es és a TSV-es számok egyesítéséhez
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a SXC és a TSV online egyesítéséhez" InputFormat="sxc" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ingyenes online a SXC-TSV-es számok egyesítéséhez a C++-ben" InputFormat="sxc" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A SXC és a TSV egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a SXC-et a TSV-gyel? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for C++'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
 + Töltse be a SXC fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -63,7 +66,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Telepítse a könyvtárat az Include és lib Folders használatával. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}SXC (Sun XML Calc) fájlformátum az OpenOffice.org nevű irodai programcsomaghoz tartozik. Ez a formátum általában a felhasználók táblázatkezelési igényeit elégíti ki, mivel ez egy XML alapú táblázatkezelő fájlformátum. A SXC formátum a képleteket, függvényeket, makrókat és diagramokat támogatja a DataPilot mellett, amely hihetetlen funkció, mert automatikusan személyre szabja és összefoglalja a nyers importált adatokat. Az ezzel a szoftverrel létrehozott fájlok .sxc kiterjesztéssel kerülnek mentésre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C++ használatával az sxc számos más fájlformátumhoz is egyesíthető, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-docx/" name="SXC és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-sql/" name="A SXC egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-bmp/" name="SXC és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-emf/" name="SXC és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-gif/" name="SXC és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-html/" name="SXC és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-md/" name="A SXC egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-mhtml/" name="SXC és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-ods/" name="SXC és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-pdf/" name="SXC és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-png/" name="SXC és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-svg/" name="SXC és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tiff/" name="SXC és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-tsv/" name="SXC és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-txt/" name="SXC és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xls/" name="SXC és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsb/" name="SXC és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsm/" name="SXC és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlsx/" name="SXC és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xlt/" name="SXC és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltm/" name="SXC és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xltx/" name="SXC és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xml/" name="A SXC egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-xps/" name="SXC és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-json/" name="SXC és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-sxc-to-jpeg/" name="SXC és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

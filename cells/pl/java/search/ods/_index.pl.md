@@ -58,7 +58,7 @@ description: Java przykładowy kod do wyszukiwania słów z wzorcem w pliku ODS 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik ODS, tworząc instancję obiektu skoroszytu.
-Uzyskaj dostęp do pierwszego arkusza roboczego w pliku ODS.
++ Uzyskaj dostęp do pierwszego arkusza roboczego w pliku ODS.
 + Znajdź komórkę zawierającą określoną formułę.
 + Utwórz instancję FindOptions.
 + Znajdź komórkę zawierającą wartość ciągu

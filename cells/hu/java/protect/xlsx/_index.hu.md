@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja XLSX via Java dokumentumot
+title: Védje és zárja XLSX via Java dokumentumot
 weight: 1870
 description: Java mintakód a XLSX fájl zárolásához jelszóval a Java futásidejű környezet JSP/JSF alkalmazásokhoz és asztali alkalmazásokhoz.
 ---
@@ -49,7 +49,7 @@ description: Java mintakód a XLSX fájl zárolásához jelszóval a Java futás
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XLSX via Java számú fájlok védelmének lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="A XLSX via Java számú fájlok védelmének lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

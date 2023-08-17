@@ -37,7 +37,7 @@ description: API PHP Excel táblázat az írás olvasásához és konvertálás�
  Munkalap konvertálása képpé
     </li>
     <li>
-Konvertálja a táblázatot PDF-re
+ Konvertálja a táblázatot PDF-re
     </li>
    </ul>
   </div>
@@ -320,7 +320,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-align-center ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; feltételes formázási szabályokat manipulálni
+ Létrehozása &amp; feltételes formázási szabályokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,7 +334,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -362,7 +362,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; csillogó fényeket készít
+ Létrehozása &amp; csillogó fényeket készít
     </p>
    </div>
    <div class="col-lg-12">
@@ -409,7 +409,7 @@ $wkbk-&gt;save("output.html", SaveFormat::HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Hatékony, robusztus és amp; Megbízható képletszámító motor
+ Hatékony, robusztus és Megbízható képletszámító motor
     </h2>
     <p>
 Aspose.Cells for PHP via Java egy nagy teljesítményű Formula Calculation Engine-rel van felszerelve, amely szinte az összes szabványos és fejlett Microsoft Excel képletet és függvényt támogatja. Olvashatja, beállíthatja és kiszámíthatja a beépített vagy kiegészítő típusú, tömb- és R1C1 referenciastílus-képletek eredményeit.

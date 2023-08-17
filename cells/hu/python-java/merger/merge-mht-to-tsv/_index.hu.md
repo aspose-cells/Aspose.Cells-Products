@@ -1,7 +1,8 @@
 ---
-title:  Az MHT egyesítése a TSV számmal a Python számon keresztül
+title: Az MHT egyesítése a TSV-es számmal – az MHT egyesítése a TSV-es számmal a Python-ben
 url: /hu/python-java/merger/merge-mht-to-tsv/ 
-description: Csatlakoztassa az MHT-t a TSV online számhoz ingyen. Ingyenes online MHT TSV egyesülés. Egyesítse az MHT-t Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és még sok máshoz.
+description: Aspose Excel. Python Aspose.Cells. Ingyenes online egyesítése MHT TSV mentési formátumba. Python Az MHT kombinálása a TSV formátummal. MHT egyesítése a TSV-es számmal a Python-ben. MHT egyesítése.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHT to TSV in Python., Free Online Python Merge MHT to tsv., Python Combine MHT to TSV Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Az MHT egyesítése a TSV számmal a Python számon keresztül" h2="Nagysebességű Python könyvtár az MHT és a TSV egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="TSV" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Csatlakoztassa az MHT-t a TSV online számhoz ingyen. Ingyenes onli
 
 {{% blocks/products/pf/agp/content h2="Az MHT egyesítése a TSV-gyel a Python használatával" %}}
 
- Hogyan lehet egyesíteni az MHT-t a TSV-es számmal? A Aspose.Cells for Python könyvtárral egyszerűen egyesítheti az MHT-t a TSV-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python címet innen telepítheti<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
+ Hogyan egyesíthetem az MHT-t a TSV-es számmal? A Aspose.Cells for Python via Java könyvtárral egyszerűen egyesítheti az MHT-t a TSV-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A Aspose.Cells for Python via Java számot innen telepítheti.<a href="https://pypi.org/project/aspose-cells/">pypi</a> , használja a parancsot a következőképpen:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az MHT-t a TSV-es számmal a Python-ben." %}}
 
-A következő példa bemutatja, hogyan egyesítheti az MHT-t a TSV-es számmal a Python-ben.
+A következő példa bemutatja, hogyan egyesítheti az MHT-t a Aspose.Cells for Python via Java-es TSV-es számmal.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az MHT TSV-es egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a TSV fájlba. Ha kódot fejleszt a Python-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Python példát, amely egyesíti az MHT-t a TSV-gyel.
@@ -27,16 +28,18 @@ Kövesse az egyszerű lépéseket az MHT TSV-es egyesítéséhez. Töltse fel a 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás az MHT és a TSV online egyesítéséhez" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Ingyenes online az MHT egyesítése a TSV-es számmal a Python-ben" InputFormat="mht" InputFormat2="tsv" outformat="tsv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Az MHT egyesítése a TSV-es számmal a Python-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell az MHT-t a TSV-es számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Python via Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
 + Töltsd be az MHT-fájlt a Workbook osztállyal.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -75,21 +78,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}A tabulátorral elválasztott értékek (TSV) fájlformátum a tabulátorokkal elválasztott adatokat egyszerű szöveges formátumban jelenti. A CSV-hez hasonló fájlformátumot az adatok strukturált szervezésére használják a különböző alkalmazások közötti importálás és exportálás érdekében. A formátumot elsősorban adatimportálására/exportálására és adatcseréjére használják táblázatkezelő alkalmazásokban és adatbázisokban. A TSV fájl minden rekordja egyetlen sor szövegfájlban található, ahol minden mezőértéket tabulátor karakter választ el. A TSV fájlformátum médiatípusa szöveg/tabulátorral elválasztott értékek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Python használatával az mht-t számos más fájlformátumhoz is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-docx/" name="MHT egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-sql/" name="MHT egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-bmp/" name="MHT egyesítése a BMP számmal" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-emf/" name="MHT egyesítése a EMF számmal" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-gif/" name="MHT egyesítése a GIF számmal" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-html/" name="MHT egyesítése a HTML számmal" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-md/" name="MHT egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-mhtml/" name="MHT egyesítése a MHTML számmal" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-ods/" name="MHT egyesítése a ODS számmal" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-pdf/" name="MHT egyesítése a PDF számmal" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-png/" name="MHT egyesítése a PNG számmal" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-svg/" name="MHT egyesítése a SVG számmal" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-tiff/" name="MHT egyesítése a TIFF számmal" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-tsv/" name="MHT egyesítése a TSV számmal" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-txt/" name="MHT egyesítése a TXT számmal" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xls/" name="MHT egyesítése a XLS számmal" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsb/" name="MHT egyesítése a XLSB számmal" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsm/" name="MHT egyesítése a XLSM számmal" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlsx/" name="MHT egyesítése a XLSX számmal" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xlt/" name="MHT egyesítése a XLT számmal" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xltm/" name="MHT egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xltx/" name="MHT egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xml/" name="MHT egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-xps/" name="MHT egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-json/" name="MHT egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-mht-to-jpeg/" name="MHT egyesítése a JPEG számmal" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

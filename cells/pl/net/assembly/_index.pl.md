@@ -14,7 +14,7 @@ Zautomatyzowanie procesu tworzenia tych samych plików wzorców jest łatwe przy
 
 
 
-{{% blocks/products/pf/feature-page-code h3="C# Kod do generowania raportów Excel" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod do generowania raportów programu Excel" %}}
 
 {{< gist "aspose-com-gists" "5c193070f1b6acdc3eed001f52eadbc2" "generate-excel-reports.cs" >}}
 

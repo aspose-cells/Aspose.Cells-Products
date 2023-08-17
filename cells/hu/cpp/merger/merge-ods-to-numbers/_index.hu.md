@@ -1,7 +1,8 @@
 ---
-title:  Csatlakoztassa a ODS-es számot a NUMBERS-hez a C++-es számon keresztül
+title: A ODS egyesítése a NUMBERS-szel – a ODS-es szám egyesítése a NUMBERS-szel a C++-ben
 url: /hu/cpp/merger/merge-ods-to-numbers/ 
-description: Ingyenesen egyesítse a ODS számot a NUMBERS Online számmal. Ingyenes online ODS a NUMBERS egyesüléshez. Egyesítse a ODS-es számokat Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. C++ Aspose.Cells. Ingyenes online egyesítés ODS NUMBERS mentési formátumba. C++ Kombinálja a ODS számot NUMBERS formátumba. A ODS egyesítése a NUMBERS számmal a C++-ben. ODS Egyesítés.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge ODS to NUMBERS in C++., Free Online C++ Merge ODS to numbers., C++ Combine ODS to NUMBERS Online for Free., ODS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Csatlakoztassa a ODS-es számot a NUMBERS-hez a C++-es számon keresztül" h2="Nagysebességű C++-es könyvtár a ODS-es számok NUMBERS-hoz való egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a C++-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="ODS" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a ODS számot a NUMBERS Online számmal. Ingy
 
 {{% blocks/products/pf/agp/content h2="Egyesítse a ODS-et a NUMBERS-szel a C++-es szám használatával" %}}
 
- Hogyan lehet egyesíteni a ODS számot a NUMBERS számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a ODS számot a NUMBERS számmal néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem a ODS számot a NUMBERS számmal? A Aspose.Cells for C++ könyvtárral egyszerűen egyesítheti a ODS számot a NUMBERS számmal néhány sornyi kóddal.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. C++ Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül letöltheti, csak nyissa meg[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) csomagkezelő, keresse meg a Aspose.Cells.Cpp címet, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Parancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Csatlakoztassa a ODS-es számot a NUMBERS-hez a C++-ben online ingyen" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a ODS-es számot a NUMBERS számmal a C++-ben.
+következő példa bemutatja, hogyan lehet egyesíteni a ODS-et a NUMBERS-szel a Aspose.Cells-es for C++-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a ODS és a NUMBERS számok egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el NUMBERS fájlba. Ha kódot fejleszt a C++-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C++-es példát, amely egyesíti a ODS-et a NUMBERS-szel.
@@ -36,16 +37,18 @@ Kövesse az egyszerű lépéseket a ODS és a NUMBERS számok egyesítéséhez. 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás a ODS és a NUMBERS online egyesítéséhez" InputFormat="ods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Ingyenes online összevonás a ODS számmal a NUMBERS számmal a C++-ben" InputFormat="ods" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="A ODS és a NUMBERS egyesítése a C++ számon keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell a ODS-es számot a NUMBERS számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for C++'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C++ projekthez.
 + Töltse be a ODS fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -63,7 +66,7 @@ Három lehetőség közül választhat a „Aspose.Cells for C++” telepítés�
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Telepítse a könyvtárat az Include és lib Folders használatával. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Telepítse a Aspose.Cells for C++-et Linux rendszeren. Lát[Dokumentáció](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Az .ods kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jelentik, amelyeket a felhasználó szerkeszthet. Az adatok az ODF fájlban sorokba és oszlopokba kerülnek. Ez XML-alapú formátum, és egyike az Open Document Formats (ODF) család számos altípusának. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. Számos alkalmazás a Windows-en, valamint más operációs rendszerek ODS fájlokat nyithat meg szerkesztésre és manipulációra, beleértve a Microsoft Excel, NeoOffice és LibreOffice fájlokat. A ODS fájlok más táblázatformátumokba, például XLS, XLSX és más formátumokba is konvertálhatók különböző alkalmazásokkal.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C++ használatával az od-okat sok más fájlformátumhoz is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-docx/" name="ODS és a DOCX számok egyesítése" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-sql/" name="A ODS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-bmp/" name="ODS és a BMP számok egyesítése" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-emf/" name="ODS és a EMF számok egyesítése" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-gif/" name="ODS és a GIF számok egyesítése" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-html/" name="ODS és a HTML számok egyesítése" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-md/" name="A ODS egyesítése az MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-mhtml/" name="ODS és a MHTML számok egyesítése" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-ods/" name="ODS és a ODS számok egyesítése" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-pdf/" name="ODS és a PDF számok egyesítése" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-png/" name="ODS és a PNG számok egyesítése" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-svg/" name="ODS és a SVG számok egyesítése" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tiff/" name="ODS és a TIFF számok egyesítése" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-tsv/" name="ODS és a TSV számok egyesítése" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-txt/" name="ODS és a TXT számok egyesítése" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xls/" name="ODS és a XLS számok egyesítése" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsb/" name="ODS és a XLSB számok egyesítése" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsm/" name="ODS és a XLSM számok egyesítése" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlsx/" name="ODS és a XLSX számok egyesítése" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xlt/" name="ODS és a XLT számok egyesítése" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltm/" name="ODS és a XLTM számok egyesítése" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xltx/" name="ODS és a XLTX számok egyesítése" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xml/" name="A ODS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-xps/" name="ODS és a XPS számok egyesítése" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-json/" name="ODS és a JSON számok egyesítése" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-ods-to-jpeg/" name="ODS és a JPEG számok egyesítése" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

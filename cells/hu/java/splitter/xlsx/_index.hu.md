@@ -13,7 +13,7 @@ description: Java mintakód a XLSX dokumentumok felosztásához a Java futáside
 
  A XLSX fájl felosztásához használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, amely egy funkciókban gazdag, erőteljes és könnyen használható elosztó API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+ API, amely egy funkciókban gazdag, erőteljes és könnyen használható elosztó API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
@@ -119,7 +119,7 @@ API, amely egy funkciókban gazdag, erőteljes és könnyen használható eloszt
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="A Java használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="Java használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/splitter/xls/" name="XLS" description="Excel bináris formátum" >}}

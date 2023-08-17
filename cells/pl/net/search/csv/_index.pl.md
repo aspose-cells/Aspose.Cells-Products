@@ -13,7 +13,7 @@ description: C# kod źródłowy do wyszukiwania słów ze wzorcem w pliku CSV na
 
  Aby wyszukać plik CSV, użyjemy
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do wyszukiwania dokumentów API dla platformy C#. otwarty
+API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu narzędziem do wyszukiwania dokumentów API dla platformy C#. otwarty
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  menedżer pakietów, wyszukaj
  **Aspose.Cells** 
@@ -132,7 +132,7 @@ if (cell3 != null){
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Wynik wyszukiwania pojawia się natychmiast." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV " readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkiem, import takich plików danych do bazy danych odbywa się w bardzo wygodny sposób. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
+Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

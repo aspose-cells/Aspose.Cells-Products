@@ -1,7 +1,8 @@
 ---
-title:  A NUMBERS egyesítése az MHT via Java számmal
+title: NUMBERS egyesítése MHT-val – NUMBERS egyesítése MHT-vel a Java-ben
 url: /hu/java/merger/merge-numbers-to-mht/ 
-description: Ingyenesen egyesítse a NUMBERS számot az MHT Online szolgáltatással. Ingyenes online NUMBERS az MHT egyesüléshez. Egyesítse a NUMBERS számokat Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és más számokkal.
+description: Aspose Excel. Java Aspose.Cells. Ingyenes online egyesítése NUMBERS MHT mentési formátumba. Java A NUMBERS kombinálása MHT formátumba. A NUMBERS egyesítése az MHT-val a Java számon. NUMBERS Egyesítés.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge NUMBERS to MHT in Java., Free Online Java Merge NUMBERS to mht., Java Combine NUMBERS to MHT Online for Free., NUMBERS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="A NUMBERS egyesítése az MHT via Java számmal" h2="Nagy sebességű Java-es könyvtár a NUMBERS és az MHT egyesítéséhez. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftverek fejlesztéséhez a Java-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="NUMBERS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse a NUMBERS számot az MHT Online szolgáltatá
 
 {{% blocks/products/pf/agp/content h2="A NUMBERS egyesítése az MHT-val a Java számon" %}}
 
- Hogyan lehet egyesíteni a NUMBERS számot az MHT-val? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan egyesítheti a NUMBERS-t az MHT-be.[Aspose.Cells for Java](https://products.aspose.com/cells/java)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
+ Hogyan egyesíthetem a NUMBERS számot az MHT-val? A Aspose.Cells for Java könyvtárral egyszerűen, néhány soros kóddal programozottan egyesítheti a NUMBERS-t az MHT-be.[Aspose.Cells for Java](https://products.aspose.com/cells/java) képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Java Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. A legújabb verziót közvetlenül a webhelyről töltheti le[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
 {{% blocks/products/pf/agp/code-block title="Adattár" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Ingyenesen egyesítse a NUMBERS számot az MHT Online szolgáltatá
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse a NUMBERS számot az MHT-val a Java Online számon" %}}
 
-A következő példa bemutatja, hogyan egyesítheti a NUMBERS-t az MHT-val a Java-ben.
+következő példa bemutatja, hogyan lehet egyesíteni a NUMBERS-t az MHT-val a Aspose.Cells for Java számon.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a NUMBERS és az MHT egyesítéséhez. Töltse fel fájljait, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el MHT-fájlba. Ha kódot fejleszt a Java-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a Java-es példát, amely egyesíti a NUMBERS-t az MHT-vel.
@@ -55,16 +56,18 @@ Kövesse az egyszerű lépéseket a NUMBERS és az MHT egyesítéséhez. Töltse
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás NUMBERS és MHT online egyesítéséhez" InputFormat="numbers" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Ingyenes online NUMBERS egyesítése az MHT-vel a Java számon" InputFormat="numbers" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="A NUMBERS egyesítése az MHT via Java számmal" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+ Programozottan egyesítenie kell NUMBERS számot az MHT-val? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Telepítse: 'Aspose.Cells for Java'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Java projekthez.
 + Töltse be a NUMBERS fájlt a munkafüzet osztályával.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
@@ -97,21 +100,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}} .numbers kiterjesztésű fájlok a táblázatkezelő fájltípusok közé tartoznak, ezért hasonlítanak az .xlsx fájlokhoz; de a Numbers fájlok az Apple iWork Numbers táblázatkezelő szoftverrel jönnek létre. Az Apple iWork Numbers az iWork Productivity Suite egységszoftvere. Az iWork Productivity Suite megegyezik a Microsoft számú irodai csomaggal, amelyet a Windows számú számítógépeken használnak. Ennélfogva elmondhatjuk, hogy a MacOS számára elérhető Numbers a Microsoft Excel versenytársa is. Hasonlóképpen, Microsoft Excel, a NUMBERS fájl is tartalmazhatja a táblázatokat, diagramokat és képleteket.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Az .mht kiterjesztésű fájl egy MIME-kompatibilis archiválási fájlformátum, amely különböző típusú adatokat tartalmaz egyetlen fájlban. Beágyazott erőforrásként képes tárolni olyan adatokat, mint például szöveg, képek, oldalstílus CSS-fájlok, JavaScript és egyéb erőforrások formájában. Az üzenet/rfc822 MIME-típusú MHT-fájlok egyetlen archív fájlba foglalják a HTML-es fájl teljes tartalmát a tárolóeszközökön történő archiváláshoz. Az olyan szoftveralkalmazások, mint a Microsoft Word, lehetővé teszik a WORD-dokumentumok MHT-fájlként történő exportálásával konvertálását. Az MHT fájlok olyan népszerű böngészőkkel nyithatók meg, mint a Microsoft Internet Explore és a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A Java használatával a számokat sok más fájlformátumba is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-docx/" name="A NUMBERS egyesítése a DOCX számmal" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-sql/" name="NUMBERS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-bmp/" name="A NUMBERS egyesítése a BMP számmal" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-emf/" name="A NUMBERS egyesítése a EMF számmal" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-gif/" name="A NUMBERS egyesítése a GIF számmal" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-html/" name="A NUMBERS egyesítése a HTML számmal" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-md/" name="NUMBERS egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-mhtml/" name="A NUMBERS egyesítése a MHTML számmal" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-ods/" name="A NUMBERS egyesítése a ODS számmal" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-pdf/" name="A NUMBERS egyesítése a PDF számmal" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-png/" name="A NUMBERS egyesítése a PNG számmal" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-svg/" name="A NUMBERS egyesítése a SVG számmal" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-tiff/" name="A NUMBERS egyesítése a TIFF számmal" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-tsv/" name="A NUMBERS egyesítése a TSV számmal" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-txt/" name="A NUMBERS egyesítése a TXT számmal" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xls/" name="A NUMBERS egyesítése a XLS számmal" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsb/" name="A NUMBERS egyesítése a XLSB számmal" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsm/" name="A NUMBERS egyesítése a XLSM számmal" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlsx/" name="A NUMBERS egyesítése a XLSX számmal" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xlt/" name="A NUMBERS egyesítése a XLT számmal" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xltm/" name="A NUMBERS egyesítése a XLTM számmal" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xltx/" name="A NUMBERS egyesítése a XLTX számmal" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xml/" name="NUMBERS egyesítése XML-be" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-xps/" name="A NUMBERS egyesítése a XPS számmal" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-json/" name="A NUMBERS egyesítése a JSON számmal" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-numbers-to-jpeg/" name="A NUMBERS egyesítése a JPEG számmal" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

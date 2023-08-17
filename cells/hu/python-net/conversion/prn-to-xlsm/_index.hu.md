@@ -1,7 +1,7 @@
 ---
-title: A PRN átalakítása XLSM Python via Python számra
-description: Konvertálja a PRN-t XLSM-re online ingyen. Ingyenes online PRN XLSM konverter. Python PRN a XLSM számra. PRN a XLSM számra a Python számon keresztül.
-keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN to Image
+title: Python PRN - XLSM - Online PRN - XLSM konverter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python PRN konvertálása XLSM mentési formátumra. Python PRN XLSM formátumra. PRN mentése a XLSM Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PRN to XLSM saveformat., Free Online PRN to XLSM Python., Python Convert PRN to XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a PRN-t XLSM-re a Python-ben" h2="Nagysebességű Python-es könyvtár a PRN-szám XLSM-re konvertálásához. Használja a API-es Excel-konverziónkat a Python-es számú, magas szintű, platformfüggetlen szoftver fejlesztésére." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PRN, PRN Converter, PRN to PDF, PRN to Word, PRN to PPT, PRN t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a PRN-t XLSM-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a PRN-t XLSM-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja a PRN-t XLSM-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a PRN-t XLSM-re? A Aspose.Cells for Python számmal a NET könyvtáron keresztül egyszerűen konvertálhatja a PRN-t XLSM-re, néhány sornyi kóddal programozottan.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a PRN XLSM-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN XLSM online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a PRN XLSM online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="prn" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet a PRN-t XLSM-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és konvertálhatják a PRN-t XLSM-re, mindössze néhány sornyi kóddal.
+A PRN-fájlokat programozottan XLSM-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a PRN-t XLSM-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a PRN-fájlt a munkafüzet egy példányával
-1.  Konvertálja a PRN-t XLSM-re a Workbook.save metódus hívásával
+1.  Töltse be a PRN-fájlt a munkafüzet egy példányával.
+1.  Konvertálja a PRN-t XLSM-re a Workbook.save metódus hívásával.
+1.  Szerezze meg a PRN XLSM számra való átalakítási eredményét.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}A XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatják a makrókat. Alkalmazási szempontból a makró a folyamatok automatizálására használt utasítások halmaza. A makró rögzíti az ismételten végrehajtott lépéseket, és megkönnyíti a műveletek végrehajtását a makró újbóli futtatásával. A makrók a Microsoft Visual Basic for Applications (VBA) programmal programozhatók az Excel-munkafüzetből a Visual Basic Editor segítségével, és onnan közvetlenül futtathatók/hibakereshetők.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A PRN-t sok más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 

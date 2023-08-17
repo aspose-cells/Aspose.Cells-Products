@@ -1,5 +1,5 @@
 ---
-title: Szerkessze a XLTM fájlokat via .NET
+title:  Szerkessze a XLTM fájlokat via .NET
 description: C# forráskód a XLTM dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ezután mentse és töltse le." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
- XLTM fájlkiterjesztés olyan fájlokat jelöl, amelyeket a Microsoft Excel hoz létre makró-kompatibilis sablonfájlként. A XLTM-es fájlok hasonlóak a XLTX-hez, más szerkezetben, mint hogy a későbbi verzió nem támogatja a makrókat tartalmazó sablonfájlok létrehozását. Az ilyen sablonfájlokat az elrendezés, a formázás és az egyéb beállítások generálására és beállítására használják a makrók mellett, hogy megkönnyítsék a hasonló XLSX fájlok létrehozását.
+ XLTM fájlkiterjesztés olyan fájlokat jelöl, amelyeket a Microsoft Excel hoz létre makró-kompatibilis sablonfájlként. A XLTM-es fájlok hasonlóak a XLTX-hez, más szerkezetben, mint hogy a későbbi verzió nem támogatja a makrókat tartalmazó sablonfájlok létrehozását. Az ilyen sablonfájlokat az elrendezés, a formázás és egyéb beállítások generálására és beállítására használják a makrók mellett, hogy megkönnyítsék a hasonló XLSX fájlok létrehozását.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

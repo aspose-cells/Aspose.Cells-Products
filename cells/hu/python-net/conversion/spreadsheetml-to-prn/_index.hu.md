@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML konvertálása PRN Python via Python-re
-description: Konvertálja a SPREADSHEETML-t PRN Online ingyen. Ingyenes online SPREADSHEETML-PRN konverter. Python SPREADSHEETML PRN-nek. SPREADSHEETML a PRN számára a Python számon keresztül.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML-ből PRN-be – Online SPREADSHEETML-ből PRN-be konvertáló
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python SPREADSHEETML konvertálása PRN mentési formátumba. Python SPREADSHEETML PRN formátumba. SPREADSHEETML mentése a PRN Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to PRN saveformat., Free Online SPREADSHEETML to PRN Python., Python Convert SPREADSHEETML to PRN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SPREADSHEETML-t PRN-re a Python-ben" h2="Nagy sebességű Python könyvtár a SPREADSHEETML PRN-re konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PRN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SPREADSHEETML-t PRN-re a Python-ben" %}}
 
-Hogyan lehet konvertálni a SPREADSHEETML-t PRN-re? A Aspose.Cells for Python NET könyvtáron keresztül a SPREADSHEETML-t egyszerűen, néhány soros kóddal, programozottan PRN-re konvertálhatja.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a SPREADSHEETML-t PRN-re? A Aspose.Cells for Python NET könyvtáron keresztül a SPREADSHEETML-t egyszerűen, néhány soros kóddal, programozottan PRN-re konvertálhatja.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML PRN-re konvertálásához. Tö
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML-ből PRN online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML-ből PRN online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="prn" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet a SPREADSHEETML-t PRN-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és konvertálhatják a SPREADSHEETML-t PRN-re, mindössze néhány sornyi kóddal.
+A SPREADSHEETML fájlokat programozottan PRN-re kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és konvertálhatják a SPREADSHEETML-t PRN-re, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a SPREADSHEETML-fájlt a munkafüzet egy példányával
-1.  Konvertálja a SPREADSHEETML-t PRN-re a Workbook.save metódus meghívásával
+1.  Töltse be a SPREADSHEETML-fájlt a munkafüzet egy példányával.
+1.  Konvertálja a SPREADSHEETML-t PRN-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a SPREADSHEETML konvertálási eredményét PRN-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}PRN-fájl a Nyomtatás fájlba jelölőnégyzet segítségével létrehozott fájl, amely a Windows-es szám egyes Nyomtatás párbeszédpaneleiben jelenik meg. Eszközspecifikus utasításokat tartalmaz, amelyeket a nyomtató, fax vagy más eszköz a dokumentum nyomtatásához használ. A PRN-fájlok szöveges vagy bináris tartalmat tartalmazhatnak, attól függően, hogy milyen eszközhöz készült a fájl.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A SPREADSHEETML-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 

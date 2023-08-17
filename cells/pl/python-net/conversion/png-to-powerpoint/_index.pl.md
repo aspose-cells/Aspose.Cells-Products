@@ -1,7 +1,7 @@
 ---
-title: Konwertuj PNG na POWERPOINT Python via Python
-description: Zamień PNG na POWERPOINT Online za darmo. Darmowy konwerter online z numeru PNG na POWERPOINT. Python PNG do POWERPOINT. PNG do POWERPOINT przez Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG do POWERPOINT - Konwerter online PNG do POWERPOINT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja PNG do formatu zapisu POWERPOINT. Python PNG do formatu POWERPOINT. Zapisz PNG do POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to POWERPOINT saveformat., Free Online PNG to POWERPOINT Python., Python Convert PNG to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj PNG na POWERPOINT w Python" h2="Szybka biblioteka Python do konwersji PNG do POWERPOINT. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="Konwertuj PNG na POWERPOINT w Python" %}}
 
- Jak przekonwertować PNG na POWERPOINT? Z Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować PNG na POWERPOINT programowo za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować PNG na POWERPOINT? Za pomocą biblioteki Aspose.Cells for Python za pośrednictwem biblioteki NET można łatwo przekonwertować program PNG na POWERPOINT za pomocą kilku wierszy kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować PNG na POWERPOINT. Prześlij swój pl
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji PNG na POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować PNG na POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Programiści Python mogą łatwo załadować i przekonwertować PNG na POWERPOINT w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki PNG na POWERPOINT? Programiści Python mogą łatwo załadować i przekonwertować PNG na POWERPOINT w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik PNG z instancją skoroszytu
-1.  Konwertuj PNG na POWERPOINT, wywołując metodę Workbook.save
+1.  Załaduj plik PNG z instancją skoroszytu.
+1.  Konwertuj PNG na POWERPOINT, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji PNG do POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Plik PNG (Portable Network Graphics) to format pliku obrazu rastrowego wykorzystujący kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format pliku PNG obsługuje bezstratną kompresję obrazu, co czyni go popularnym wśród użytkowników. Z biegiem czasu PNG ewoluował jako jeden z powszechnie używanych formatów plików graficznych.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Pliki z rozszerzeniem PPTX to pliki prezentacyjne utworzone za pomocą popularnej aplikacji Microsoft PowerPoint. W przeciwieństwie do poprzedniej wersji formatu pliku prezentacji PPT, który był binarny, format PPTX jest oparty na otwartym formacie pliku prezentacji XML Microsoft PowerPoint. Plik prezentacji to zbiór slajdów, z których każdy może zawierać tekst, obrazy, formatowanie, animacje i inne multimedia. Slajdy te są prezentowane publiczności w formie pokazów slajdów z niestandardowymi ustawieniami prezentacji.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować PNG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

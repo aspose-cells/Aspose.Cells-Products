@@ -22,7 +22,7 @@ Programiści mogą łatwo utworzyć wykres liniowy w ramach różnych aplikacji 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Zaimportuj asposecells do swojego pliku kodu.
+1. Zaimportuj asposecells do pliku kodu.
 1. Utwórz instancję klasy Workbook.
 1. Dodaj dane do arkusza.
 1. Dodaj wykres liniowy do arkusza
@@ -33,7 +33,7 @@ Programiści mogą łatwo utworzyć wykres liniowy w ramach różnych aplikacji 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="wymagania systemowe" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
 {{% /blocks/products/pf/agp/text %}}
 
 - Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , użyj polecenia jako:<code>$ pip install aspose-cells-python</code>.

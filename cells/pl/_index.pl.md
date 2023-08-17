@@ -50,7 +50,7 @@ Z łatwością konwertuj pliki Microsoft Excel na PDF, HTML, obrazy i wiele inny
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadane" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Wystarczy przesłać plik programu Excel Microsoft, aby przeglądać lub edytować metadane arkusza kalkulacyjnego w dowolnej przeglądarce. Nie wymaga instalacji ani dodatkowych narzędzi.
+ Wystarczy przesłać plik programu Excel Microsoft, aby przeglądać lub edytować metadane arkusza kalkulacyjnego w dowolnej przeglądarce. Nie wymaga instalacji ani dodatkowych narzędzi.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Widz" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Przeglądaj pliki arkuszy kalkulacyjnych, w tym XLS, XLSX, XLSM, XLSB i ODS w sw
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Pakiet produktów Aspose i wsparcie nie mają sobie równych. Bez tego rozwiązania nie moglibyśmy zrobić tego, co zrobiliśmy.
+Pakiet produktów Aspose i wsparcie nie mają sobie równych. Bez tego rozwiązania nie moglibyśmy zrobić tego, co zrobiliśmy.
  <em>
  Dr Dan Patterson | Przenikliwość, Wielka Brytania
  </em>

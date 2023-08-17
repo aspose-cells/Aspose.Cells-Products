@@ -1,7 +1,7 @@
 ---
-title: Konwertuj LICZBY na OTS Python via Python
-description: Konwertuj NUMERY na OTS Online za darmo. Darmowy konwerter NUMERÓW online na OTS. Python NUMERY do OTS. NUMERY do OTS pod numerem Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMERY do OTS - Konwerter online NUMERY do OTS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj NUMERY na format zapisu OTS. Python NUMERY do formatu OTS. Zapisz NUMERY pod numerem OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to OTS saveformat., Free Online NUMBERS to OTS Python., Python Convert NUMBERS to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj LICZBY na OTS w Python" h2="Szybka biblioteka Python do konwersji LICZB na OTS. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować NUMBERS na OTS. Prześlij swój plik 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMBERS na OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMBERS na OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować NUMERY na OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować NUMBERS na OTS w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki NUMBERS na OTS? Python programiści mogą łatwo załadować i przekonwertować NUMBERS na OTS w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik NUMBERS z instancją skoroszytu
-1.  Konwertuj LICZBY na OTS, wywołując metodę Workbook.save
+1.  Załaduj plik NUMBERS z instancją skoroszytu.
+1.  Konwertuj LICZBY na OTS, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji LICZBY na OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Pliki z rozszerzeniem .numbers są klasyfikowane jako pliki typu arkusz kalkulacyjny, dlatego są podobne do plików .xlsx; ale pliki Numbers są tworzone przy użyciu arkusza kalkulacyjnego Apple iWork Numbers. Apple iWork Numbers to oprogramowanie jednostkowe pakietu iWork Productivity Suite. Pakiet iWork Productivity Suite jest odpowiednikiem pakietu Office Microsoft używanego na komputerach PC Windows. Dlatego możemy powiedzieć, że Numbers, który jest dostępny dla MacOS, jest również konkurentem Microsoft Excel. Podobnie Microsoft Excel, plik NUMBERS może zawierać również tabele, wykresy i formuły.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Plik z rozszerzeniem .ots to plik szablonu arkusza kalkulacyjnego OpenDocument, który jest tworzony za pomocą aplikacji Calc zawartej w Apache OpenOffice. Oprogramowanie Calc jest podobne do programu Excel dostępnego w pakiecie Office Microsoft. Format pliku OTS służy do tworzenia szablonów zawierających wstępnie zdefiniowane ustawienia związane ze stylami, czcionką, danymi, układem arkusza kalkulacyjnego i formatowaniem. Pliki OTF mają typ mime application/vnd.oasis.opendocument.spreadsheet-template. Te pliki szablonów mogą służyć jako punkt wyjścia do generowania i zapisywania rzeczywistych plików danych, które są zapisywane w formacie pliku ODS. Pliki OTS mogą być używane z aplikacjami takimi jak OpenOffice i LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować NUMBERS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

@@ -1,7 +1,7 @@
 ---
-title: SPREADSHEETML konvertálása SQL-re Python via Python
-description: Konvertálja a SPREADSHEETML-t SQL Online-ra ingyen. Ingyenes online SPREADSHEETML-ből SQL-be konvertáló. Python SPREADSHEETML SQL-be. SPREADSHEETML SQL-be a Python-en keresztül.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML SQL-be – Online SPREADSHEETML-ből SQL-be konvertáló
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python SPREADSHEETML konvertálása SQL mentési formátumba. Python SPREADSHEETML SQL formátumba. Mentse a SPREADSHEETML fájlt az SQL Python kódba.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to SQL saveformat., Free Online SPREADSHEETML to SQL Python., Python Convert SPREADSHEETML to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SPREADSHEETML-t SQL-be a Python-ben" h2="Nagy sebességű Python könyvtár a SPREADSHEETML SQL-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SPREADSHEETML-t SQL-be a Python-ben" %}}
 
- Hogyan lehet SPREADSHEETML-t SQL-re konvertálni? A Aspose.Cells for Python NET könyvtáron keresztüli használatával könnyedén konvertálhatja a SPREADSHEETML-t programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a SPREADSHEETML-t SQL-vé? A Aspose.Cells for Python NET könyvtáron keresztüli használatával könnyedén konvertálhatja a SPREADSHEETML-t programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a SPREADSHEETML SQL-vé konvertálásához. T�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a SPREADSHEETML SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet SPREADSHEETML-t SQL-vé konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python A fejlesztők egyszerűen betölthetik és néhány sornyi kóddal konvertálhatják a SPREADSHEETML-t SQL-be.
+A SPREADSHEETML fájlokat programozottan SQL-vé kell konvertálnia? Python A fejlesztők egyszerűen betölthetik és néhány sornyi kóddal konvertálhatják a SPREADSHEETML-t SQL-be.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a SPREADSHEETML-fájlt a munkafüzet egy példányával
-1.  Konvertálja a SPREADSHEETML-t SQL-vé a Workbook.save metódus meghívásával
+1.  Töltse be a SPREADSHEETML-fájlt a munkafüzet egy példányával.
+1.  Konvertálja a SPREADSHEETML-t SQL-vé a Workbook.save metódus meghívásával.
+1.  Szerezze meg a SPREADSHEETML SQL-vé konvertálási eredményét.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Az XML az Extensible Markup Language rövidítése, amely hasonló a HTML-hez, de különbözik az objektumok meghatározására szolgáló címkék használatában. Az XML fájlformátum létrehozásának teljes ötlete az adatok tárolása és továbbítása volt anélkül, hogy szoftver- vagy hardvereszközöktől függne. Népszerűsége annak köszönhető, hogy emberi és géppel is olvasható. Ez lehetővé teszi, hogy közös adatprotokollokat hozzon létre objektumok formájában, amelyeket tárolni és megosztani a hálózaton, például a World Wide Web-en (WWW). Az XML-ben az "X" a bővíthető, ami azt jelenti, hogy a nyelv tetszőleges számú szimbólumra kiterjeszthető a felhasználói igényeknek megfelelően. Sok szabványos fájlformátum ezekhez a szolgáltatásokhoz használja, például a Microsoft Open XML, a LibreOffice OpenDocument, az XHTML és a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Az .sql kiterjesztésű fájl egy strukturált lekérdezési nyelv (SQL) fájl, amely kódot tartalmaz a relációs adatbázisokkal való együttműködéshez. SQL utasítások írására szolgál az adatbázisokon a CRUD (Create, Read, Update és Delete) műveletekhez. Az SQL-fájlok gyakoriak az asztali és a webalapú adatbázisok használatakor. Az SQL-nek számos alternatívája létezik, például a Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL és még sok más. Az SQL-fájlok megnyithatók a Microsoft SQL Server, a MySQL lekérdezésszerkesztőivel és más egyszerű szövegszerkesztőkkel, például a Windows operációs rendszerhez tartozó Notepad programmal.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A SPREADSHEETML-t számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 

@@ -1,5 +1,5 @@
 ---
-title: Edytuj pliki XLSM via .NET
+title:  Edytuj pliki XLSM via .NET
 description: C# kod źródłowy do edycji dokumentu XLSM na platformach .NET, .NET Core, Windows Azure, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
+-  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
 

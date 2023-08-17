@@ -1,7 +1,8 @@
 ---
-title:  OTS egyesítése a JSON-gyel a C#-en keresztül
+title: OTS egyesítése a JSON-es számmal - OTS egyesítése a JSON-gyel a C#-ben
 url: /hu/net/merger/merge-ots-to-json/ 
-description: Ingyenesen egyesítse az OTS-t a JSON online számmal. Ingyenes online OTS a JSON egyesüléshez. Egyesítse az OTS-t Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS és még sok máshoz.
+description: Aspose Excel. C# Aspose.Cells. Ingyenes online egyesítése OTS a JSON mentési formátumhoz. C# OTS kombinálása JSON formátummal. OTS egyesítése a JSON számmal a C#-ben. OTS összevonás.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to JSON in C#., Free Online C# Merge OTS to json., C# Combine OTS to JSON Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="OTS egyesítése a JSON-gyel a C#-en keresztül" h2="Nagysebességű C# könyvtár az OTS és a JSON egyesítéséhez. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a C#-ben. Ez egy professzionális szoftvermegoldás a Excel, CSV, OpenOffice, PDF, HTML, image és sok más excel formátum importálásához és exportálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="JSON" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Ingyenesen egyesítse az OTS-t a JSON online számmal. Ingyenes onl
 
 {{% blocks/products/pf/agp/content h2="Az OTS egyesítése a JSON-gyel a C# használatával" %}}
 
- Hogyan lehet egyesíteni az OTS-t a JSON-es számmal? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az OTS-t a JSON-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
+ Hogyan egyesíthetem az OTS-t a JSON-gyel? A Aspose.Cells for .NET könyvtárral egyszerűen egyesítheti az OTS-t a JSON-gyel programozottan néhány sornyi kóddal.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. .NET Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok. Nyisd ki[NuGet](https://www.nuget.org/packages/aspose.cells) csomagkezelő, keresse meg a Aspose.Cells-et, és telepítse. A következő parancsot is használhatja a Package Manager konzolból.
 
 {{% blocks/products/pf/agp/code-block title="Csomagkezelő konzolparancs" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Ingyenesen egyesítse az OTS-t a JSON-es számmal a C#-ben." %}}
 
-A következő példa bemutatja, hogyan egyesítheti az OTS-t a JSON-es számmal a C#-ben.
+A következő példa bemutatja, hogyan egyesítheti az OTS-t a JSON-es számmal a Aspose.Cells for .NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket az OTS JSON-es egyesítéséhez. Töltse fel a fájlokat, hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez, majd mentse el a JSON fájlba. Ha kódot fejleszt a C#-ben, ez egyszerűbb lesz, mint amilyennek hangzik. Lásd a C#-es példát, amely egyesíti az OTS-t a JSON-gyel.
@@ -36,17 +37,19 @@ Kövesse az egyszerű lépéseket az OTS JSON-es egyesítéséhez. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Ingyenes alkalmazás az OTS és a JSON online egyesítéséhez" InputFormat="ots" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Ingyenes online az OTS összevonása a JSON-es számmal a C#-ben" InputFormat="ots" InputFormat2="json" outformat="json" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Az OTS egyesítése a JSON-gyel a C#-en keresztül" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
+Programozottan egyesítenie kell az OTS-t a JSON-es számmal? Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Töltsd be az OTS-fájlt a Workbook osztállyal.
++ Telepítse: 'Aspose.Cells for .NET'.
++ Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a C# projekthez.
++ Töltsd be az OTS-fájlt a Workbook osztállyal.
 + Hívja meg a Workbook.Combine metódust a fájlok egyesítéséhez.
 + Hívja meg a Workbook.Save metódust, és adja át a kimeneti fájl nevét paraméterként.
 + Most már megnyithatja és használhatja a kimeneti fájlt a Microsoft Office, az Adobe PDF vagy bármely más kompatibilis programban.
@@ -62,7 +65,7 @@ Két alternatív lehetőség van a „Aspose.Cells for .NET” telepítésére a
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a[NuGet Csomag](https://www.nuget.org/packages/Aspose.Cells/) . Lát[Dokumentáció](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) Visual Studio IDE-n belül
+1.  Telepítse a könyvtárat a segítségével[Csomagkezelő konzol](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) a Visual Studio IDE-n belül
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API-jaink minden nagyobb platformon és operációs rendszeren támogatottak. Mi
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Az .ots kiterjesztésű fájl egy OpenDocument Spreadsheet Template fájl, amely az Apache OpenOffice-ban található Calc alkalmazással jön létre. A Calc alkalmazásszoftver hasonló a Microsoft Office-ban elérhető Excelhez. Az OTS fájlformátumot olyan sablonok létrehozására használják, amelyek előre meghatározott beállításokat tartalmaznak a stílusokhoz, betűtípusokhoz, adatokhoz, táblázatelrendezéshez és formázáshoz. Az OTF-fájlok mime típusú application/vnd.oasis.opendocument.spreadsheet-template-vel rendelkeznek. Ezek a sablonfájlok kiindulási pontként használhatók a ODS fájlformátumban mentett tényleges adatfájlok létrehozásához és mentéséhez. Az OTS-fájlok olyan alkalmazásokkal használhatók, mint az OpenOffice és a LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) egy nyílt szabványos fájlformátum az adatok megosztására, amely ember által olvasható szöveget használ az adatok tárolására és továbbítására. A JSON fájlok .json kiterjesztéssel vannak tárolva. A JSON kevesebb formázást igényel, és jó alternatíva az XML számára. A JSON a JavaScriptből származik, de nyelvfüggetlen adatformátum. A JSON generálását és elemzését számos modern programozási nyelv támogatja. Az application/json a JSON adathordozó típusa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott egyesítő formátumok" subTitle="A C# használatával az ot-okat sok más fájlformátumba is egyesítheti, beleértve." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="MHTML" description="Weboldal archív formátuma" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="TSV" description="Tabulátorral elválasztott értékek" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="TXT" description="Szöveges dokumentum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="XLS" description="Excel bináris formátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="XLSM" description="Táblázatfájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="XLSX" description="OOXML Excel fájl" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Excel-sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="XLTM" description="Excel-makró-kompatibilis sablon" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="XLTX" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-docx/" name="OTS egyesítése a DOCX-gyel" description="Microsoft Word dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-sql/" name="OTS egyesítése SQL-be" description="Strukturált lekérdezési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-bmp/" name="OTS egyesítése a BMP-gyel" description="Bittérképes kép" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-emf/" name="OTS egyesítése a EMF-gyel" description="Továbbfejlesztett metafájl formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-gif/" name="OTS egyesítése a GIF-gyel" description="Grafikus csereformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="OTS egyesítése a HTML-gyel" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-md/" name="OTS egyesítése MD-vel" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="OTS egyesítése a MHTML-gyel" description="Weboldal archív formátuma" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="OTS egyesítése a ODS-gyel" description="OpenDocument táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-pdf/" name="OTS egyesítése a PDF-gyel" description="Hordozható dokumentum formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-png/" name="OTS egyesítése a PNG-gyel" description="Hordozható hálózati grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-svg/" name="OTS egyesítése a SVG-gyel" description="Skálázható vektorgrafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tiff/" name="OTS egyesítése a TIFF-gyel" description="Címkézett képformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="OTS egyesítése a TSV-gyel" description="Tabulátorral elválasztott értékek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="OTS egyesítése a TXT-gyel" description="Szöveges dokumentum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="OTS egyesítése a XLS-gyel" description="Excel bináris formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="OTS egyesítése a XLSB-gyel" description="Bináris Excel munkafüzet fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="OTS egyesítése a XLSM-gyel" description="Táblázatfájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="OTS egyesítése a XLSX-gyel" description="OOXML Excel fájl" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="OTS egyesítése a XLT-gyel" description="Microsoft Excel-sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="OTS egyesítése a XLTM-gyel" description="Excel-makró-kompatibilis sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="OTS egyesítése a XLTX-gyel" description="Office OpenXML Excel sablon" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xml/" name="OTS egyesítése XML-lel" description="Bővíthető jelölőnyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="OTS egyesítése a XPS-gyel" description="XML papírspecifikációk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-json/" name="OTS egyesítése a JSON-gyel" description="JavaScript objektum jelölés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-jpeg/" name="OTS egyesítése a JPEG-gyel" description="JPEG Kép" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

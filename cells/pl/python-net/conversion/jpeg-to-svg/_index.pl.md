@@ -1,7 +1,7 @@
 ---
-title: Konwertuj JPEG na SVG Python via Python
-description: Zamień JPEG na SVG online za darmo. Darmowy konwerter online z JPEG na SVG. Python JPEG do SVG. JPEG do SVG przez Python.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+title: Python JPEG do SVG - Konwerter online JPEG do SVG
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj JPEG na SVG saveformat. Python JPEG do SVG w formacie. Zapisz JPEG do SVG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to SVG saveformat., Free Online JPEG to SVG Python., Python Convert JPEG to SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień JPEG na SVG w Python" h2="Szybka biblioteka Python do konwersji JPEG na SVG. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować JPEG na SVG. Prześlij swój plik JPE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JPEG na SVG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JPEG na SVG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPEG na SVG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować JPEG na SVG w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki JPEG na SVG? Programiści Python mogą łatwo załadować i przekonwertować JPEG na SVG w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik JPEG z instancją skoroszytu
-1.  Konwertuj JPEG na SVG, wywołując metodę Workbook.save
+1.  Załaduj plik JPEG z instancją skoroszytu.
+1.  Konwertuj JPEG na SVG, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji JPEG na SVG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy, będący wynikiem kompresji, jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć żądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu jest pomijalnie ograniczona, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większe pogorszenie jakości obrazu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}Plik SVG to plik skalarnej grafiki wektorowej, który używa formatu tekstowego opartego na XML do opisywania wyglądu obrazu. Słowo Skalowalny odnosi się do faktu, że SVG można skalować do różnych rozmiarów bez utraty jakości. Opis tekstowy takich plików uniezależnia je od rozdzielczości. Jest to jeden z najczęściej używanych formatów do budowy strony internetowej i drukowania grafiki w celu uzyskania skalowalności. Format ten może być jednak używany tylko w przypadku grafiki dwuwymiarowej. SVG pliki można przeglądać/otwierać w prawie wszystkich nowoczesnych przeglądarkach, w tym Chrome, Internet Explorer, Firefox i Safari.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować JPEG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

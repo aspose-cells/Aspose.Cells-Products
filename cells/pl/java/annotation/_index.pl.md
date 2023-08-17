@@ -10,7 +10,7 @@ Obsługiwane formaty plików to ODS, XLS, XLSX, XLSB i XLSM.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Adnotacje danych w plikach Excel" %}}
- Zarządzanie komentarzami w arkuszach — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Proces dodawania komentarzy to tworzenie[zeszyt ćwiczeń](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)obiekt klasy lub załaduj istniejący plik przy użyciu klasy Workbook. Uzyskaj dostęp do wszystkich jego komentarzy za pomocą funkcji getComments(). Pobierz indeks komórki i użyj[ustaw Uwaga](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) do wstawiania komentarzy. Ponadto API jest w stanie usunąć wszystkie komentarze.
+ Zarządzanie komentarzami w arkuszach kalkulacyjnych — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Proces dodawania komentarzy to tworzenie[zeszyt ćwiczeń](https://reference.aspose.com/cells/java/com.aspose.cells/Workbook)obiekt klasy lub załaduj istniejący plik przy użyciu klasy Workbook. Uzyskaj dostęp do wszystkich jego komentarzy za pomocą funkcji getComments(). Pobierz indeks komórki i użyj[ustaw Uwaga](https://reference.aspose.com/cells/java/com.aspose.cells/comment#Note) do wstawiania komentarzy. Ponadto API jest w stanie usunąć wszystkie komentarze.
 
 {{% blocks/products/pf/feature-page-code h3="Java Kod do dodawania komentarzy w pliku Excel" %}}
 

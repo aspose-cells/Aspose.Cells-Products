@@ -11,7 +11,7 @@ description: C# Przykładowy kod konwersji XLTM na tablicę bajtów. Użyj tego 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Tablica bajtów jest pomocna przy przetwarzaniu lub przechowywaniu danych. Możesz przekonwertować plik XLTM na tablicę bajtów, a także plik**Tablica bajtów do XLTM**dokument używając języka C#. Aby przekonwertować XLTM na tablicę bajtów, użyjemy
+ Tablica bajtów jest pomocna przy przetwarzaniu lub przechowywaniu danych. Możesz przekonwertować plik XLTM na tablicę bajtów, a także plik**Tablica bajtów do XLTM** dokument używając języka C#. Aby przekonwertować XLTM na tablicę bajtów, użyjemy
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, który oferuje różne funkcje manipulacji i konwersji dokumentów za pomocą platformy .NET.
 {{% /blocks/products/pf/agp/content %}}
@@ -73,7 +73,7 @@ ms.Read(byte_array, 0, byte_array.Length);
       
      {{% blocks/products/pf/agp/content h2="" %}}
 
-Biblioteka programowania arkuszy kalkulacyjnych Excel zdolna do tworzenia aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel, w tym XLTM jako obrazy, PDF, HTML, ODS i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach branżowych.
+Biblioteka programowania arkuszy kalkulacyjnych Excel zdolna do tworzenia aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel, w tym XLTM jako obrazy, PDF, HTML, ODS i inne, co czyni go idealnym wyborem do wymiany dokumentów w formatach branżowych.
 
 
 
@@ -82,7 +82,7 @@ Biblioteka programowania arkuszy kalkulacyjnych Excel zdolna do tworzenia aplika
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta, która później nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów są używane do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
+Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta, która później nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

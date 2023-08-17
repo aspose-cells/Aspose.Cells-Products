@@ -58,7 +58,7 @@ description: Java mintakód a CSV fájlban a Java futásidejű környezet JSP/JS
 {{% /blocks/products/pf/agp/text %}}
 
 + A CSV fájl betöltése munkafüzet objektum létrehozásával.
-A CSV fájl első munkalapjának elérése.
++ A CSV fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

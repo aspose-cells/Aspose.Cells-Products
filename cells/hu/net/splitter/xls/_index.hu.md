@@ -13,7 +13,7 @@ description: C# forráskód XLS dokumentum felosztásához a .NET Framework, .NE
 
  A XLS fájl felosztásához használjuk
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -osztó API a C# platformhoz. Nyisd ki
+ API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkezelési és -osztó API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  csomagkezelő, keressen
  Aspose.Cells 
@@ -103,7 +103,7 @@ PM> Install-Package Aspose.Cells
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="A C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott felosztási formátumok" subTitle="C# használatával nagy fájlokat is fel lehet osztani sok más fájlformátum darabjaira, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/splitter/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}

@@ -12,7 +12,7 @@ description: Python táblázatkönyvtár olvasási írási és -elemzési Excel-
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python a .Neten keresztül egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot is beolvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
+ A Aspose.Cells for Python a .Neten keresztül egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot is beolvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
-Aspose.Cells for Python via .NET teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, például az oldaltörések előnézetét, a nagyítási szint beállítását, az oldaltájolás beállítását, az adatok láthatóságának szabályozását kimerevítő panelekkel, a papírméretet, a méretezést, a fejléceket és a fejléceket; láblécek és nyomtatási terület.
+ Aspose.Cells for Python via .NET teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, például az oldaltörések előnézetét, a nagyítási szint beállítását, az oldaltájolás beállítását, az adatok láthatóságának szabályozását kimerevítő panelekkel, a papírméretet, a méretezést, a fejléceket és a fejléceket; láblécek és nyomtatási terület.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python via .NET teljes körű ellenőrzést biztosít az oldalb
  Diagramok testreszabása
     </h2>
     <p>
- Aspose.Cells for Python via .NET teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.
+Aspose.Cells for Python via .NET teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.
     </p>
    </div>
    <!--

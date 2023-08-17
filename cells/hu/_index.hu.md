@@ -14,7 +14,7 @@ High Code API-k a .NET Framework, .NET Core és Xamarin platformok megcélzásá
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" productLink="https://products.aspose.com/cells/java" >}}
-Java API-k munkafüzetek, munkalapok, Microsoft Excel diagramok és kimutatások létrehozásához, manipulálásához, konvertálásához vagy feldolgozásához bármely alkalmazásban a Java SE vagy EE alapján.
+Java API-k munkafüzetek, munkalapok, Microsoft Excel diagramok és kimutatási táblázatok létrehozásához, manipulálásához, konvertálásához vagy feldolgozásához bármely alkalmazásban a Java SE vagy EE alapján.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp" >}}
@@ -32,7 +32,7 @@ Felejtse el a platformot, csak küldjön egy REST API hívást a Microsoft Excel
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-net.png" productLink="https://products.aspose.cloud/cells/net" >}}
-A nyílt forráskódú SDK-t kifejezetten arra tervezték, hogy megkönnyítse a .NET programozók számára a Aspose.Cells RESTFul API-k egyszerű használatát.
+nyílt forráskódú SDK-t kifejezetten arra tervezték, hogy megkönnyítse a .NET programozók számára a Aspose.Cells RESTFul API-k egyszerű használatát.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_cells-for-java.png" productLink="https://products.aspose.cloud/cells/java" >}}
@@ -50,7 +50,7 @@ Könnyen konvertálhat Microsoft Excel-fájlokat PDF, HTML, képek és sok más 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metaadatok" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Csak töltse fel a Microsoft Excel-fájlt, hogy megtekinthesse vagy szerkeszthesse a táblázat metaadatait bármely böngészőből. Nincs szükség telepítésre vagy további szerszámokra.
+ Csak töltse fel a Microsoft Excel-fájlt, hogy megtekinthesse vagy szerkeszthesse a táblázat metaadatait bármely böngészőből. Nincs szükség telepítésre vagy további szerszámokra.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Néző" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Tekintse meg a táblázatfájlokat, beleértve a XLS, XLSX, XLSM, XLSB és ODS s
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- A Aspose számú termékcsomag és támogatás felülmúlhatatlan. E megoldás nélkül nem tudtuk volna megtenni, amit tettünk.
+ Aspose számú termékcsomag és támogatás felülmúlhatatlan. E megoldás nélkül nem tudtuk volna megtenni, amit tettünk.
  <em>
  Dr. Dan Patterson | Acumen, Egyesült Királyság
  </em>

@@ -1,7 +1,7 @@
 ---
-title: Konwertuj JPEG na XLTX Python via Python
-description: Zamień JPEG na XLTX online za darmo. Darmowy konwerter online z JPEG na XLTX. Python JPEG do XLTX. JPEG do XLTX przez Python.
-keywords: Convert JPEG, JPEG Converter, JPEG to PDF, JPEG to Word, JPEG to PPT, JPEG to Image
+title: Python JPEG do XLTX - Konwerter online JPEG do XLTX
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj JPEG na XLTX saveformat. Python JPEG do XLTX w formacie. Zapisz JPEG do XLTX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPEG to XLTX saveformat., Free Online JPEG to XLTX Python., Python Convert JPEG to XLTX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Zamień JPEG na XLTX w Python" h2="Szybka biblioteka Python do konwersji JPEG na XLTX. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLTX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować JPEG na XLTX. Prześlij swój plik JP
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JPEG na XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji JPEG na XLTX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPEG na XLTX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować JPEG na XLTX w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki JPEG na XLTX? Programiści Python mogą łatwo załadować i przekonwertować JPEG na XLTX w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik JPEG z instancją skoroszytu
-1.  Konwertuj JPEG na XLTX, wywołując metodę Workbook.save
+1.  Załaduj plik JPEG z instancją skoroszytu.
+1.  Konwertuj JPEG na XLTX, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji JPEG na XLTX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy, będący wynikiem kompresji, jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć żądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu jest pomijalnie ograniczona, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większe pogorszenie jakości obrazu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}Pliki z rozszerzeniem .xltx reprezentują pliki szablonów programu Excel Microsoft, które są oparte na specyfikacjach formatu plików Office OpenXML. Służy do tworzenia standardowego pliku szablonu, który można wykorzystać do wygenerowania plików XLSX, które mają te same ustawienia, co określone w pliku XLTX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować JPEG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

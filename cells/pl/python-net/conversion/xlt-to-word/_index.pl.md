@@ -1,7 +1,7 @@
 ---
-title: Konwertuj XLT na WORD Python via Python
-description: Zamień XLT na WORD Online za darmo. Darmowy konwerter online XLT na WORD. Python XLT do SŁOWA. XLT do WORD przez Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT do WORD - Konwerter online XLT do WORD
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwersja XLT do formatu zapisu WORD. Python XLT do formatu WORD. Zapisz XLT na WORD Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to WORD saveformat., Free Online XLT to WORD Python., Python Convert XLT to WORD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj XLT na WORD w Python" h2="Szybka biblioteka Python do konwersji XLT na WORD. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="WORD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="Konwertuj XLT na WORD w Python" %}}
 
-Jak przekonwertować XLT na WORD? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo XLT na WORD za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować XLT na WORD? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo przekonwertować programowo XLT na WORD za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować XLT na WORD. Prześlij swój plik XLT
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLT na WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji XLT na WORD Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="docx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować XLT na WORD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować XLT na WORD w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki XLT na WORD? Python programiści mogą łatwo załadować i przekonwertować XLT na WORD w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik XLT z instancją skoroszytu
-1.  Konwertuj XLT na WORD, wywołując metodę Workbook.save
+1.  Załaduj plik XLT z instancją skoroszytu.
+1.  Konwertuj XLT na WORD, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji XLT do WORD.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Pliki z rozszerzeniem .xlt to pliki szablonów utworzone za pomocą programu Excel Microsoft, który jest aplikacją arkusza kalkulacyjnego, która jest częścią pakietu Office Microsoft. Microsoft Pakiet Office 97-2003 obsługiwał tworzenie nowych plików XLT oraz otwieranie ich. Najnowsza wersja programu Excel nadal umożliwia otwieranie plików szablonów starego formatu. Taki plik szablonu służy do szybkiego tworzenia nowych plików Excel z domyślnymi danymi i ustawieniami, takimi jak formatowanie strony, rozmiar czcionki, marginesy, wykresy itp., które można dalej zapisać jako nowe pliki .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX to dobrze znany format dokumentów programu Word Microsoft. Wprowadzony od 2007 roku wraz z wydaniem pakietu Office 2007 Microsoft, struktura tego nowego formatu dokumentu została zmieniona ze zwykłego pliku binarnego na kombinację plików XML i plików binarnych. Pliki Docx można otwierać za pomocą programu Word 2007 i wersji nowszych, ale nie we wcześniejszych wersjach programu MS Word, które obsługują rozszerzenia plików DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować XLT na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

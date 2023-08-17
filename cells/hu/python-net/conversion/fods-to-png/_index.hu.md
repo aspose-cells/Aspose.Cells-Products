@@ -1,7 +1,7 @@
 ---
-title: FODS konvertálása PNG Python via Python-re
-description: Konvertálja a FODS-et PNG-re online ingyen. Ingyenes online FODS-PNG konverter. Python FODS - PNG. FODS - PNG a Python számon keresztül.
-keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, FODS to Image
+title: Python FODS - PNG - Online FODS - PNG Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A FODS konvertálása PNG mentési formátumra. Python FODS - PNG formátum. Mentse a FODS számot a PNG Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python FODS to PNG saveformat., Free Online FODS to PNG Python., Python Convert FODS to PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a FODS-et PNG-re Python-ben" h2="Nagy sebességű Python-es könyvtár a FODS-es szám PNG-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert FODS, FODS Converter, FODS to PDF, FODS to Word, FODS to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a FODS-et PNG-re Python-ben" %}}
 
- Hogyan lehet átalakítani a FODS-et PNG-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a FODS-et PNG-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a FODS-et PNG-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a FODS-et PNG-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg FODS-PNG számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a FODS-et PNG-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a FODS-et PNG-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a FODS PNG-re konvertálásához. Töltse fel a FODS fájlt, majd egyszerűen mentse el PNG fájlként. Mind a FODS olvasáshoz, mind a PNG íráshoz használhat teljesen minősített fájlneveket. A PNG kimeneti tartalom és formázás megegyezik az eredeti FODS dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a FODS PNG-re konvertálásához. Töltse fel 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a FODS PNG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a FODS PNG online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="fods" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet FODS-et PNG-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a FODS-et PNG-re.
+A FODS fájlt programozottan PNG-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a FODS-et PNG-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a FODS fájlt a munkafüzet egy példányával
-1.  Konvertálja a FODS-et PNG-re a Workbook.save metódus meghívásával
+1.  Töltse be a FODS fájlt a munkafüzet egy példányával.
+1.  Konvertálja a FODS-et PNG-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a FODS-es konverziós eredményt PNG-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="FODS" readMoreLink="https://docs.fileformat.com/spreadsheet/fods/" >}}A .fods kiterjesztésű fájl az OpenDocument Spreadsheet dokumentumformátum egyik típusa, amely sorokban és oszlopokban tárolja az adatokat. A formátumot az OASIS által közzétett és karbantartott ODF 1.2 specifikáció részeként határozták meg. A FODS fájlok nem nyithatók meg Excellel, egy másik táblázatkezelő szoftveralkalmazással a Microsoft. A FODS fájlok ODS néven menthetők a LibreOffice segítségével, és konvertálhatók más formátumokba, például a XLS és a 4816151 és a 48133 formátumokba.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}PNG (Portable Network Graphics) fájl egy raszteres képfájl formátum, amely veszteségmentes tömörítést használ. Ezt a fájlformátumot a Graphics Interchange Format (GIF) helyettesítésére hozták létre, és nincs szerzői jogi korlátozása. A PNG fájlformátum azonban nem támogatja az animációkat. A PNG fájlformátum támogatja a veszteségmentes képtömörítést, amely népszerűvé teszi a felhasználók körében. Az idő múlásával a PNG az egyik legszélesebb körben használt képfájlformátummá fejlődött.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A FODS-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

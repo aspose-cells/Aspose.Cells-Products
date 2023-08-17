@@ -1,7 +1,7 @@
 ---
-title: HTM konvertálása POWERPOINT Python via Python-re
-description: Konvertálja a HTM-et POWERPOINT Online ingyen. Ingyenes online HTM-ről POWERPOINT-ra konvertáló. Python HTM a POWERPOINT-hoz. A HTM-től a POWERPOINT felé a Python számon keresztül.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM-ből POWERPOINT-ba – Online HTM-ből POWERPOINT-ba konvertáló
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python HTM konvertálása POWERPOINT mentési formátumba. Python HTM POWERPOINT formátumba. Mentse a HTM-et a POWERPOINT Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to POWERPOINT saveformat., Free Online HTM to POWERPOINT Python., Python Convert HTM to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a HTM-et POWERPOINT-ra a Python számon" h2="Nagy sebességű Python-es könyvtár a HTM POWERPOINT-tá konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a HTM-et POWERPOINT-ra a Python számon" %}}
 
- Hogyan lehet HTM-et POWERPOINT-ra konvertálni? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a HTM-et POWERPOINT-ra programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a HTM-et POWERPOINT-ra? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a HTM-et POWERPOINT-ra programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a HTM POWERPOINT-ra konvertálásához. Tölts
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTM POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a HTM POWERPOINT Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet HTM-et POWERPOINT-ra konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és konvertálhatják a HTM-et POWERPOINT-ra, mindössze néhány sornyi kóddal.
+A HTM fájlokat programozottan POWERPOINT formátumba kell konvertálni? A Python fejlesztők egyszerűen betölthetik és konvertálhatják a HTM-et POWERPOINT-ra, mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a HTM-fájlt a munkafüzet egy példányával
-1.  Konvertálja a HTM-et POWERPOINT-ra a Workbook.save metódus meghívásával
+1.  Töltse be a HTM-fájlt a munkafüzet egy példányával.
+1.  Konvertálja a HTM-et POWERPOINT-ra a Workbook.save metódus meghívásával.
+1.  Szerezze meg a HTM POWERPOINT átalakítási eredményét.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}.htm kiterjesztésű fájlok a hiperszöveg jelölőnyelvet képviselik, amely webböngészőkben, például Google Chrome, Internet Explorer, Firefox és számos más böngészőben megjeleníthető weboldalak létrehozására szolgál. Meghatározza a statikus oldalak létrehozásának jelöléseit, amelyeket a világhálón (WWW) kell közzétenni mások általi eléréshez. Ezek a jelölések megmondják a böngészőknek, hogyan jelenítsék meg a weboldal tartalmát. Az ilyen oldalak egyszerű szöveget, képeket, más oldalakra mutató hivatkozásokat, videókat és egyéb médiainformációkat tartalmazhatnak. Egy weboldal közzétételekor az oldal forrásának megtekintésével megtekintheti a mögötte lévő jelölőkódot. A modern böngészők lehetővé teszik a weboldal minden olyan szakaszának ellenőrzését, ahol a HTM forrás minden egyes alosztálya vagy jelölőeleme ki van dolgozva.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}A PPTX kiterjesztésű fájlok a népszerű Microsoft PowerPoint alkalmazással létrehozott prezentációs fájlok. A PPT prezentációs fájlformátum korábbi verziójától eltérően, amely bináris volt, a PPTX formátum a Microsoft PowerPoint nyílt XML prezentációs fájlformátumon alapul. A prezentációs fájl olyan diák gyűjteménye, amelyben minden diák szöveget, képeket, formázást, animációt és egyéb médiát tartalmazhat. Ezeket a diákat egyéni prezentációs beállításokkal rendelkező diavetítések formájában mutatják be a közönségnek.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A HTM-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt fájlformátumra." >}}
 

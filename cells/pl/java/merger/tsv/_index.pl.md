@@ -49,14 +49,14 @@ description: Java przykładowy kod do łączenia dokumentów TSV w środowisku w
 
 {{% blocks/products/pf/agp/text %}}
 
- Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
+Podstawowy dokument łączący i łączący z[Aspose.Cells for Java](https://products.aspose.com/cells/java) Interfejsy API można wykonać za pomocą zaledwie kilku linii kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj pierwszy plik TSV z instancją klasy Workbook.
 + Załaduj drugi dokument TSV z instancją klasy Workbook.
 + Scal pliki za pomocą metody Combine().
-zapisz połączony plik TSV w określonej ścieżce
++ zapisz połączony plik TSV w określonej ścieżce
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ tsvFile1.save("combinedFileWithPath.tsv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nie ma potrzeby pobierania Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nie trzeba pisać żadnego kodu." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki TSV." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Zostanie on natychmiast scalony i połączony." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Zostanie on natychmiast scalony i połączony." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

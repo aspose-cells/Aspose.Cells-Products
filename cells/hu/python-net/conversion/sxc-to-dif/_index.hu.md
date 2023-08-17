@@ -1,7 +1,7 @@
 ---
-title: SXC konvertálása DIF Python via Python-re
-description: Konvertálja a SXC-et DIF-re online ingyen. Ingyenes online SXC-DIF konverter. Python SXC - DIF. SXC - DIF a Python számon keresztül.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC - DIF - Online SXC - DIF Átalakító
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A SXC konvertálása DIF mentési formátumra. Python SXC - DIF formátum. Mentse a SXC számot a DIF Python számra.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to DIF saveformat., Free Online SXC to DIF Python., Python Convert SXC to DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a SXC-et DIF-re Python-ben" h2="Nagy sebességű Python-es könyvtár a SXC-es szám DIF-es konvertálásához. Használja a API-es excel-konverziónkat magas szintű, platformfüggetlen szoftver fejlesztésére a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a SXC-et DIF-re Python-ben" %}}
 
- Hogyan lehet átalakítani a SXC-et DIF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et DIF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan alakíthatom át a SXC-et DIF-re? A Aspose.Cells for Python-es számmal a NET könyvtáron keresztül könnyedén konvertálhatja a SXC-et DIF-re programozottan néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Takarítson meg SXC-DIF számot a Python számon online ingyen" %}}
 
-A következő példa bemutatja, hogyan lehet a SXC-et DIF-re konvertálni a Python via NET-ben.
+következő példa bemutatja, hogyan lehet a SXC-et DIF-re konvertálni a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a SXC DIF-re konvertálásához. Töltse fel a SXC fájlt, majd egyszerűen mentse el DIF fájlként. Mind a SXC olvasáshoz, mind a DIF íráshoz használhat teljesen minősített fájlneveket. A DIF kimeneti tartalom és formázás megegyezik az eredeti SXC dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a SXC DIF-re konvertálásához. Töltse fel a
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC DIF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a SXC DIF online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hogyan lehet SXC-et DIF-re konvertálni" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a SXC-et DIF-re.
+A SXC fájlt programozottan DIF-re kell konvertálni? A Python fejlesztők néhány sornyi kóddal könnyedén betölthetik és konvertálhatják a SXC-et DIF-re.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a SXC fájlt a munkafüzet egy példányával
-1.  Konvertálja a SXC-et DIF-re a Workbook.save metódus meghívásával
+1.  Töltse be a SXC fájlt a munkafüzet egy példányával.
+1.  Konvertálja a SXC-et DIF-re a Workbook.save metódus meghívásával.
+1.  Szerezze meg a SXC-es konverziós eredményt DIF-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}SXC (Sun XML Calc) fájlformátum az OpenOffice.org nevű irodai programcsomaghoz tartozik. Ez a formátum általában a felhasználók táblázatkezelési igényeit elégíti ki, mivel ez egy XML alapú táblázatkezelő fájlformátum. A SXC formátum a képleteket, függvényeket, makrókat és diagramokat támogatja a DataPilot mellett, amely hihetetlen funkció, mert automatikusan személyre szabja és összefoglalja a nyers importált adatokat. Az ezzel a szoftverrel létrehozott fájlok .sxc kiterjesztéssel kerülnek mentésre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}A DIF a Data Interchange Format rövidítése, amely táblázatos adatok importálására/exportálására szolgál különböző alkalmazások között. Ezek közé tartozik a Microsoft Excel, az OpenOffice Calc, a StarCalc és még sokan mások. Egyetlen táblázatban tárolja az adatokat, ami ennek a fájlformátumnak az egyetlen korlátozása.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A SXC-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

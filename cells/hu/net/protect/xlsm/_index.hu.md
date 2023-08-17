@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja XLSM via .NET dokumentumot
+title: Védje és zárja XLSM via .NET dokumentumot
 weight: 7530
 description: C# forráskód a XLSM fájl zárolásához jelszóval a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
@@ -120,7 +120,7 @@ XLSM kiterjesztésű fájlok olyan táblázatkezelő fájlok, amelyek támogatj�
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="A C# használatával könnyedén védhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="C# használatával könnyedén védhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/ods/" name="ODS" description="OpenDocument táblázatfájl" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xls/" name="XLS" description="Excel bináris formátum" >}}

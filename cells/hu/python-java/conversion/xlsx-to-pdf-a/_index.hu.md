@@ -17,7 +17,7 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 

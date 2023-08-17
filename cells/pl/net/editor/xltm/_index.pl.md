@@ -1,5 +1,5 @@
 ---
-title: Edytuj pliki XLTM via .NET
+title:  Edytuj pliki XLTM via .NET
 description: C# kod źródłowy do edycji dokumentu XLTM na platformach .NET, .NET Core, Windows Azure, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
+-  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
 
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Następnie zapisz i pobierz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
-Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów są używane do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
+Rozszerzenie pliku XLTM reprezentuje pliki generowane przez program Excel Microsoft jako pliki szablonów z obsługą makr. Pliki XLTM są podobne do XLTX w strukturze innej niż ta późniejsza nie obsługuje tworzenia plików szablonów z makrami. Takie pliki szablonów służą do generowania i ustawiania układu, formatowania i innych ustawień wraz z makrami, aby ułatwić tworzenie podobnych plików XLSX.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

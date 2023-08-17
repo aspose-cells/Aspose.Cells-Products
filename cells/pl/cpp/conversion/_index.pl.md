@@ -6,7 +6,7 @@ description: Konwertuj Excel XLS, XLSX, ODS, CSV na PDF, XPS, HTML, JPEG i inne 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konwersja dokumentu Excel przez C++" h2="Zapisz Microsoft<sup>&reg;</sup> pliki programu Excel jako formaty arkuszy kalkulacyjnych, internetowych, graficznych i o stałym układzie" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- W przypadku dowolnej aplikacji lub rozwiązania do konwertowania arkuszy kalkulacyjnych**C++ Biblioteka programu Excel**przyspiesza procesy kodowania, automatyzacji i konwersji podczas obsługi wielu plików, w tym XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. PDF**, XPS, HTML, MHTML, Gładki Tekst i popularne obrazy, takie jak JPG, TIFF, PNG, BMP i SVG.
+ W przypadku dowolnej aplikacji lub rozwiązania do konwertowania arkuszy kalkulacyjnych**C++ Biblioteka programu Excel** przyspiesza kodowanie, automatyzację i procesy konwersji podczas obsługi wielu plików, w tym XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. PDF**, XPS, HTML, MHTML, Gładki Tekst i popularne obrazy, takie jak JPG, TIFF, PNG, BMP i SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Wzajemna konwersja formatów Excel Microsoft" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj formaty Excel na PDF z ustawieniami poziomu zgodności" %}}
- C++ Excel Automation API obsługuje konwersję skoroszytów do PDF, a także obsługuje ustawianie poziomu zgodności i daty utworzenia. Deweloperzy mogą korzystać[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) wraz z[Aspose::Cells::Renderowanie](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)aby ustawić zgodność PDF. Do konwersji należy zapisać metodę API z parametrem PdfSaveOptions i określoną ścieżką pliku wyjściowego.
+ C++ Excel Automation API obsługuje konwersję skoroszytów do PDF, a także obsługuje ustawianie poziomu zgodności i daty utworzenia. Deweloperzy mogą korzystać[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) wraz z[Aspose::Cells::Renderowanie](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) aby ustawić zgodność PDF. Do konwersji należy zapisać metodę API z parametrem PdfSaveOptions i określoną ścieżką pliku wyjściowego.
 {{% blocks/products/pf/feature-page-code h3="C++ Przykładowy kod programu Excel do konwersji PDF" %}}
 
 ```cs

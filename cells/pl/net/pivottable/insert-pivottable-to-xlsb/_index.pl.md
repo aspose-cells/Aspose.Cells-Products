@@ -1,5 +1,5 @@
 ---
-title: Wstaw tabelę przestawną do plików Micorsoft Excel XLSB za pośrednictwem C#
+title:  Wstaw tabelę przestawną do plików Micorsoft Excel XLSB za pośrednictwem C#
 weight: 7690
 description: C# Przykładowy kod do generowania dokumentów XLSB za pomocą tabeli przestawnej. Użyj tego kodu do tworzenia plików Micorsoft Excel XLSB z tabelą przestawną w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Przykładowy kod do generowania dokumentów XLSB za pomocą tabe
 
 {{% blocks/products/pf/agp/text %}}
 
- Programiści mogą łatwo wstawić tabelę przestawną w arkuszu kalkulacyjnym w formacie XLSB w ramach różnych aplikacji raportujących do przetwarzania danych w zaledwie kilku wierszach kodu.
+Programiści mogą łatwo wstawić tabelę przestawną w arkuszu kalkulacyjnym w formacie XLSB w ramach różnych aplikacji raportujących do przetwarzania danych w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Przykładowy kod do generowania dokumentów XLSB za pomocą tabe
 1.  Uzyskaj dostęp do pierwszego arkusza skoroszytu.
 1.  Pobierz żądane komórki arkusza roboczego i umieść wartość w komórkach.
 1.  Wstaw tabelę przestawną i ustaw styl
-1.  Użyj metody Zapisz, aby zapisać skoroszyt jako plik XLSB.
+1. Użyj metody Zapisz, aby zapisać skoroszyt jako plik XLSB.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,7 +59,7 @@ description: C# Przykładowy kod do generowania dokumentów XLSB za pomocą tabe
 <!-- aboutfile Starts -->     
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Biblioteka programowania arkuszy kalkulacyjnych Excel zdolna do tworzenia aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania plików Excel XLSB. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może także renderować pliki Excel jako obrazy, PDF, HTML, ODS i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach branżowych.
+Biblioteka programowania arkuszy kalkulacyjnych Excel zdolna do tworzenia aplikacji wieloplatformowych z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania plików Excel XLSB. .NET Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS i więcej, co czyni go idealnym wyborem do wymiany dokumentów w formatach branżowych.
 
 
 

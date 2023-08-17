@@ -13,7 +13,7 @@ description: Java przykładowy kod do odblokowania chronionego hasłem pliku XLS
 
  Aby odblokować plik XLSB, użyjemy
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, która jest bogatą w funkcje, potężną i łatwą w użyciu platformą ochronną API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
+ API, która jest bogatą w funkcje, potężną i łatwą w użyciu platformą ochronną API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 

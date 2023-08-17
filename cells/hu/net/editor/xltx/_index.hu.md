@@ -1,5 +1,5 @@
 ---
-title: Szerkessze a XLTX fájlokat via .NET
+title:  Szerkessze a XLTX fájlokat via .NET
 description: C# forráskód a XLTX dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Ezután mentse és töltse le." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
- A XLTX kiterjesztésű fájlok a Microsoft Excel-sablonfájlokat jelentik, amelyek az Office OpenXML fájlformátum-specifikációkon alapulnak. Egy szabványos sablonfájl létrehozására szolgál, amely felhasználható XLSX fájlok létrehozására, amelyek a XLTX fájlban megadott beállításokkal megegyeznek.
+ A XLTX kiterjesztésű fájlok a Microsoft Excel-sablonfájlokat jelentik, amelyek az Office OpenXML fájlformátum-specifikációkon alapulnak. Egy szabványos sablonfájl létrehozására szolgál, amely felhasználható XLSX fájlok létrehozására, amelyek a XLTX fájlban megadott beállításokkal megegyező beállításokat mutatnak.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

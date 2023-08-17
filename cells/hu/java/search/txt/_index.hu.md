@@ -58,7 +58,7 @@ description: Java mintakód a TXT fájlban a Java futásidejű környezet JSP/JS
 {{% /blocks/products/pf/agp/text %}}
 
 + A TXT fájl betöltése munkafüzet objektum létrehozásával.
-A TXT fájl első munkalapjának elérése.
++ A TXT fájl első munkalapjának elérése.
 + Keresse meg a megadott képletet tartalmazó cellát.
 + Példányos keresési opciók.
 + Keresse meg a karakterlánc értéket tartalmazó cellát

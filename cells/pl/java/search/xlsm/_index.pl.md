@@ -58,7 +58,7 @@ description: Java przykładowy kod do wyszukiwania słów z wzorcem w pliku XLSM
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLSM, tworząc instancję obiektu skoroszytu.
-Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLSM.
++ Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLSM.
 + Znajdź komórkę zawierającą określoną formułę.
 + Utwórz instancję FindOptions.
 + Znajdź komórkę zawierającą wartość ciągu

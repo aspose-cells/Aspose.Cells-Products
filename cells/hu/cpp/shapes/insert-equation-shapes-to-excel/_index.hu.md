@@ -1,7 +1,7 @@
 ---
 title:  Szúrjon be egyenlet alakzatokat az Excelbe a C++ számon keresztül
 weight: 780
-description: C++ példakód egyenlet-alakzatok beszúrásához a C++ számú Excel-fájlba a Windows 32 bites, Windows 64 bites és 64 bites Linux futási környezethez.
+description: C++ példakód egyenlet-alakzatok beszúrásához a C++ számú Excel-fájlba a Windows 32 bites, Windows 64 bites és 64 bites Linux futtatókörnyezethez.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Szúrjon be egyenlet alakzatokat az Excelbe a C++ számon keresztül" h2="Szúrjon be objektumokat a Aspose.Cells for C++ API szerveroldali natív és nagy teljesítményű szoftverek (például Microsoft vagy Adobe PDF) használata nélkül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="" additionalConversionTag="" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="PNG" fileiconsmall2="JPG" fileiconsmall3="BMP" fileiconsmall4="TIFF" fileiconsmall5="XLSX" >}}

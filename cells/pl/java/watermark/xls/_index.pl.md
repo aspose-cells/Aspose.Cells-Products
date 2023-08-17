@@ -1,7 +1,7 @@
 ---
 title:  Znak wodny XLS dokument via Java
 weight: 2210
-description: Java przykładowy kod dodawania lub usuwania znaku wodnego do pliku XLS w środowisku wykonawczym Java dla aplikacji JSP/JSF i aplikacji komputerowych.
+description: Java przykładowy kod dodawania lub usuwania znaku wodnego do pliku XLS w Java Runtime Environment dla aplikacji JSP/JSF i aplikacji komputerowych.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Dodaj tekstowy znak wodny do XLS via Java" h2="Twórz własne aplikacje Java ze znakami wodnymi XLS przy użyciu interfejsów API po stronie serwera." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +13,7 @@ description: Java przykładowy kod dodawania lub usuwania znaku wodnego do pliku
 
  W celu oznaczenia pliku znakiem wodnym XLS użyjemy
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do znakowania wodnego API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
+ API, która jest bogatą w funkcje, wydajną i łatwą w użyciu platformą do znakowania wodnego API for Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pliku pom.xml.
 

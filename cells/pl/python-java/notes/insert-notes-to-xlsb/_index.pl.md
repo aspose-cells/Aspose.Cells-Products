@@ -40,7 +40,7 @@ description: Wstaw notatki do XLSB, używając Python. Użyj przykładowego kodu
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLSB, tworząc instancję skoroszytu
-+ Wstaw notatki do arkusza roboczego w Cell
++ Wstaw notatki do Arkusza w Cell
  + Zapisz skoroszyt
 
 W Office 365 notatki służą do adnotacji, możesz użyć następującego kodu Python, aby wstawiać i usuwać notatki w pliku XLSB.

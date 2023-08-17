@@ -58,7 +58,7 @@ description: Java przykładowy kod do wyszukiwania słów z wzorcem w pliku TXT 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik TXT, tworząc instancję obiektu skoroszytu.
-Uzyskaj dostęp do pierwszego arkusza roboczego w pliku TXT.
++ Uzyskaj dostęp do pierwszego arkusza roboczego w pliku TXT.
 + Znajdź komórkę zawierającą określoną formułę.
 + Utwórz instancję FindOptions.
 + Znajdź komórkę zawierającą wartość ciągu

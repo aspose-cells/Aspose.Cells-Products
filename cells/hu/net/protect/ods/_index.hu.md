@@ -1,5 +1,5 @@
 ---
-title:  Védje és zárja ODS via .NET dokumentumot
+title: Védje és zárja ODS via .NET dokumentumot
 weight: 5580
 description: C# forráskód a ODS fájl zárolásához jelszóval a .NET Framework, .NET Core, Mono vagy Xamarin platformokon.
 ---
@@ -120,7 +120,7 @@ ODS kiterjesztésű fájlok az OpenDocument Spreadsheet Document formátumot jel
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="A C# használatával könnyedén védhet más formátumokat, beleértve." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott védelmi formátumok" subTitle="C# használatával könnyedén védhet más formátumokat, beleértve." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xls/" name="XLS" description="Excel bináris formátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/protect/xlsb/" name="XLSB" description="Bináris Excel munkafüzet fájl" >}}

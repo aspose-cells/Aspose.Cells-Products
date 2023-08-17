@@ -17,7 +17,7 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="A XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XLSX PDF-es szám Python-es számon keresztüli átalakításának lépései" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
@@ -36,7 +36,7 @@ description: Mintakód az xlsx pdf Python konvertálásához. Használja a API p
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 

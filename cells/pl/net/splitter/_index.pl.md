@@ -28,7 +28,7 @@ description: C# kody źródłowe, które wyjaśniają, jak podzielić Microsoft 
 
 {{% blocks/products/pf/feature-page-section h2="Podziel arkusz programu Excel na panele" %}}
 
- Aby podzielić okno arkusza na panele, API zapewnia[Metoda dzielona](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) klasy arkusza, która udostępnia podzielony widok arkusza. Aby usunąć widok podzielony API zapewnia[Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Na koniec zapisz go w określonej ścieżce.
+ Aby podzielić okno arkusza na panele, API zapewnia[Metoda dzielona](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)klasy arkusza, która udostępnia podzielony widok arkusza. Aby usunąć widok podzielony API zapewnia[Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Na koniec zapisz go w określonej ścieżce.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod do podziału okna arkusza programu Excel" %}}
 

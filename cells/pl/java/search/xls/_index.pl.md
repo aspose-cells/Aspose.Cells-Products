@@ -58,7 +58,7 @@ description: Java przykładowy kod do wyszukiwania słów z wzorcem w pliku XLS 
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLS, tworząc instancję obiektu skoroszytu.
-Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLS.
++ Uzyskaj dostęp do pierwszego arkusza roboczego w pliku XLS.
 + Znajdź komórkę zawierającą określoną formułę.
 + Utwórz instancję FindOptions.
 + Znajdź komórkę zawierającą wartość ciągu

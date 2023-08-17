@@ -6,7 +6,7 @@ description: Konwertuj Excel XLS, XLSX, ODS, CSV na PDF, XPS, HTML, JPEG, HTML i
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konwersja plików programu Excel via Java" h2="Zapisz dokumenty Microsoft Excel jako arkusze kalkulacyjne, strony internetowe, obrazy i formaty o stałym układzie" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Dla każdego**Konwerter Excela** aplikacja lub rozwiązanie, Java Excel Library przyspiesza procesy programowania i konwersji arkuszy kalkulacyjnych, obsługując wiele formatów, w tym XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 193481. Pozwala również *konwertować pliki Excel na PDF**, XPS, HTML, MHTML, zwykły tekst i popularne formaty obrazów, takie jak TIFF, JPG, PNG, BMP i SVG.
+ Dla każdego**Konwerter Excela**aplikacja lub rozwiązanie, Java Biblioteka programu Excel przyspiesza procesy programowania i konwersji arkuszy kalkulacyjnych przy obsłudze wielu formatów, w tym XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076 193481. Pozwala również *konwertować pliki Excel na PDF**, XPS, HTML, MHTML, zwykły tekst i popularne formaty obrazów, takie jak TIFF, JPG, PNG, BMP i SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Wzajemna konwersja formatów Excel Microsoft" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj Microsoft Excel na Word i PowerPoint" %}}
- Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i przekonwertowanie go na pliki Word DOCX & PowerPoint PPTX podczas używania[Opcje DocxSave](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Opcje PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klasy, jak pokazano poniżej.
+ Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i przekonwertowanie go na pliki Word DOCX & PowerPoint PPTX podczas używania[Opcje DocxSave](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [Opcje PptxSave](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)klasy, jak pokazano poniżej.
 {{% blocks/products/pf/feature-page-code h3="Java Kod dla programu Excel do programu Word i PowerPoint Konwersja" %}}
 ```cs
 // load the template file

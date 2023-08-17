@@ -1,12 +1,12 @@
 ---
 title:  Microsoft Excel-fájl konvertálása via Java
-description: Alakítsa át az Excel XLS, XLSX, ODS, CSV-et PDF-re, XPS-re, HTML-re, JPEG-re, JPEG-re, JPEG-re, XLSX-re, 076068-as néhány népszerű formátumra 07606834-néhány sor 0710684-néhány 3934-es formátumra. 1 kód.
+description: Az Excel XLS, XLSX, ODS, CSV konvertálása PDF-re, XPS-re, HTML-re, JPEG-re, JPEG-re, JPEG-re, 07618-as népszerű 07618-as 0761834-es sorokkal és sok más 39-48-as népszerű formátummal. 1 kód.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-fájlok konvertálása via Java" h2="Microsoft Excel-dokumentumok mentése táblázat, web, kép és rögzített elrendezésű formátumban" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Bármilyen**Excel konverter** alkalmazás vagy megoldás, Java Az Excel Library felgyorsítja a táblázatkezelő programozási és átalakítási folyamatokat, miközben több formátumot kezel, beleértve a XLS, XLSX, XLSM, XLSB, XLTX, XLTX, XLSB, XLTX, 0761364818 1, ODS. Lehetővé teszi *Excel-fájlok konvertálását PDF-re**, XPS, HTML, MHTML, egyszerű szöveg és népszerű képformátumok, például TIFF, JPG, PNG, BMP és SVG.
+ Bármilyen**Excel konverter**alkalmazás vagy megoldás, Java Az Excel Library felgyorsítja a táblázatkezelő programozási és átalakítási folyamatokat, miközben több formátumot kezel, beleértve a XLS, XLSX, XLSM, XLSB, XLTX, XLTX, XLSB, XLTX, 0761364748181364818 1, ODS. Lehetővé teszi *Excel-fájlok konvertálását PDF-re**, XPS, HTML, MHTML, egyszerű szöveg és népszerű képformátumok, például TIFF, JPG, PNG, BMP és SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="A Microsoft Excel-formátumok interkonverziója" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="A Microsoft Excel konvertálása Word-be és PowerPoint" %}}
- Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) osztályok alább látható módon.
+ Lehetőség van bármilyen táblázat betöltésére és Word DOCX és PowerPoint PPTX fájlokká konvertálására használat közben.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)osztályok alább látható módon.
 {{% blocks/products/pf/feature-page-code h3="Java Kód az Excel-hez Word-be és PowerPoint konvertálás" %}}
 ```cs
 // load the template file

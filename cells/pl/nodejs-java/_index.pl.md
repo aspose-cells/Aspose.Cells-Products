@@ -16,7 +16,7 @@ description: Przetwarzaj formaty plików Excel za pomocą biblioteki Node.js. Cz
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java obsługuje większość popularnych formatów arkuszy kalkulacyjnych, w tym XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java obsługuje większość popularnych formatów arkuszy kalkulacyjnych, w tym XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Przetwarzaj formaty plików Excel za pomocą biblioteki Node.js. Cz
  Konwertuj arkusz roboczy na obraz
     </li>
     <li>
-Konwertuj arkusz kalkulacyjny na PDF
+ Konwertuj arkusz kalkulacyjny na PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Konwertuj arkusz kalkulacyjny na PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Utwórz &amp; manipulować komentarzami &amp; hiperłącza
+Utwórz &amp; manipulować komentarzami &amp; hiperłącza
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Konwertuj arkusz kalkulacyjny na PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipuluj tabelami przestawnymi i odświeżaj je, dzwoniąc pod numer API
+ Manipuluj tabelami przestawnymi i odświeżaj je, dzwoniąc pod numer API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipuluj tabelami przestawnymi i odświeżaj je, dzwoniąc pod numer API
  Elastyczne opcje wyświetlania
     </h2>
     <p>
- Aspose.Cells for Node.js via Java zapewnia pełną kontrolę nad ustawieniami strony arkusza, można manipulować opcjami wyświetlania arkusza, takimi jak orientacja strony, podziały, rozmiar, skalowanie, nagłówki, stopki i poziom powiększenia. Ponadto programiści mogą kontrolować widoczność danych za pomocą obszaru drukowania i zamrożonych okienek, aby dostosować je do specyfikacji aplikacji.
+Aspose.Cells for Node.js via Java zapewnia pełną kontrolę nad ustawieniami strony arkusza, można manipulować opcjami wyświetlania arkusza, takimi jak orientacja strony, podziały, rozmiar, skalowanie, nagłówki, stopki i poziom powiększenia. Ponadto programiści mogą kontrolować widoczność danych za pomocą obszaru drukowania i zamrożonych okienek, aby dostosować je do specyfikacji aplikacji.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipuluj tabelami przestawnymi i odświeżaj je, dzwoniąc pod numer API
  Opcje ochrony
     </h2>
     <p>
-Aspose.Cells for Node.js via Java oferuje szeroką gamę funkcji bezpieczeństwa, w tym szyfrowanie/odszyfrowywanie arkuszy kalkulacyjnych, zawartość, obiekt &amp; ochrona scenariusza, a także możliwość ukrywania i odkrywania wierszy, kolumn &amp; karty pracy.
+ Aspose.Cells for Node.js via Java oferuje szeroką gamę funkcji bezpieczeństwa, w tym szyfrowanie/odszyfrowywanie arkuszy kalkulacyjnych, zawartość, obiekt &amp; ochrona scenariusza, a także możliwość ukrywania i odkrywania wierszy, kolumn &amp; karty pracy.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java oferuje szeroką gamę funkcji bezpieczeństwa
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Kompleksowa obsługa formatowania arkuszy roboczych
+Kompleksowa obsługa formatowania arkuszy roboczych
     </h2>
     <p>
-Aspose.Cells for Node.js via Java zapewnia zaawansowane funkcje formatowania, które pozwalają kontrolować prezentację danych. Możesz zastosować formatowanie do arkusza, kolumny, wiersza lub komórki albo dodać tekst sformatowany do pojedynczej komórki, zastosować obramowania, ustawić wzory tła i styl czcionki. API umożliwia również dodawanie, manipulowanie i amp; obliczyć reguły formatowania warunkowego w locie.
+ Aspose.Cells for Node.js via Java zapewnia zaawansowane funkcje formatowania, które pozwalają kontrolować prezentację danych. Możesz zastosować formatowanie do arkusza, kolumny, wiersza lub komórki albo dodać tekst sformatowany do pojedynczej komórki, zastosować obramowania, ustawić wzory tła i styl czcionki. API umożliwia również dodawanie, manipulowanie i amp; obliczyć reguły formatowania warunkowego w locie.
     </p>
    </div>
    <div class="col-lg-12">

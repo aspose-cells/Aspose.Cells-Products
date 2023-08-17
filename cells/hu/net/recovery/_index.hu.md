@@ -22,8 +22,8 @@ description: Javítsa ki a sérült Excel-fájlt a C#-es szám használatával. 
 
 {{% blocks/products/pf/agp/content h2="Az Excel fájl javítása a C# használatával" %}}
 
-Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
-+ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával a fenti öröklési osztály használatával, lásd a fenti kódot.
++ Határozzon meg egy osztályt, amely örökli a Aspose.Cells.IWarningCallback kódot.
++ Töltse be az EXCEL fájlt a munkafüzet egy példányának létrehozásával, a fenti öröklési osztály használatával, lásd a fenti kódot.
 + Mentse el a munkafüzetet, a sérült excel fájl javításra kerül.
 
 {{% /blocks/products/pf/agp/content %}}
@@ -47,9 +47,9 @@ A Aspose.Cells teljes mértékben platformfüggetlen, és támogatja az összes 
 -  .NET Framework, a legkorábbi 2.0-s verziótól kezdve a legújabb .NET-es keretrendszer 4.8-ig.
 -  .NET Core, a legkorábbi 2.0-tól kezdve a legújabb .NET 6-ig.
 
-Mivel a .NET kód nem függ az alapul szolgáló hardvertől vagy operációs rendszertől, csak egy virtuális gépen, szabadon fejleszthet bármilyen szoftvert a Windows, Linux, macOS, Android és iOS rendszerekhez. Azure és AWS Lambda is támogatott. Csak győződjön meg arról, hogy telepítette a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin megfelelő verzióját.
+Mivel a .NET kód nem függ a mögöttes hardvertől vagy operációs rendszertől, csak egy virtuális gépen, szabadon fejleszthet bármilyen szoftvert a Windows, Linux, macOS, Android és iOS rendszerekhez. Azure és AWS Lambda is támogatott. Csak győződjön meg arról, hogy telepítette a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin megfelelő verzióját.
 
-Microsoft Visual Studio, VSCode használatát javasoljuk C#, F#, VB.NET alkalmazások létrehozásához.
+A Microsoft Visual Studio, VSCode használatát javasoljuk C#, F#, VB.NET alkalmazások létrehozásához.
 
 {{% /blocks/products/pf/agp/content %}}
     

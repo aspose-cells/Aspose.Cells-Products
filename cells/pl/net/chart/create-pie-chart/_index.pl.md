@@ -1,6 +1,6 @@
 ---
 title: Utwórz wykresy kołowe pod numerem C#
-description: C# Przykładowy kod do tworzenia wykresów kołowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu do tworzenia wykresu kołowego do MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
+description: C# Przykładowy kod do tworzenia wykresów kołowych w programie Excel przy użyciu biblioteki .NET. Użyj tego kodu do tworzenia wykresu kołowego w MS Excel w VB.NET, Asp.NET lub dowolnej aplikacji opartej na .NET.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

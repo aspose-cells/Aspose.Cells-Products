@@ -49,14 +49,14 @@ description: Java mintakód a XLTX dokumentumok kombinálásához a Java futási
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Töltse be az első XLTX fájlt a Workbook osztály egy példányával.
 + Töltse be a második XLTX dokumentumot a Workbook osztály egy példányával.
 + Fájlok egyesítése a combin() metódussal.
-mentse az egyesített XLTX fájlt a megadott elérési úton
++ mentse az egyesített XLTX fájlt a megadott elérési úton
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltxFile1.save("combinedFileWithPath.xltx");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a XLTX fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal összevonják és összefűzik." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal összevonják és összefűzik." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -116,7 +116,7 @@ xltxFile1.save("combinedFileWithPath.xltx");
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}
- A XLTX kiterjesztésű fájlok a Microsoft Excel-sablonfájlokat jelentik, amelyek az Office OpenXML fájlformátum-specifikációkon alapulnak. Egy szabványos sablonfájl létrehozására szolgál, amely felhasználható XLSX fájlok létrehozására, amelyek a XLTX fájlban megadott beállításokkal megegyeznek.
+ A XLTX kiterjesztésű fájlok a Microsoft Excel-sablonfájlokat jelentik, amelyek az Office OpenXML fájlformátum-specifikációkon alapulnak. Egy szabványos sablonfájl létrehozására szolgál, amely felhasználható XLSX fájlok létrehozására, amelyek a XLTX fájlban megadott beállításokkal megegyező beállításokat mutatnak.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

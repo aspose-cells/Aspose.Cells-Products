@@ -1,5 +1,5 @@
 ---
-title: Edytuj pliki CSV via .NET
+title:  Edytuj pliki CSV via .NET
 description: C# kod źródłowy do edycji dokumentu CSV na platformach .NET, .NET Core, Windows Azure, Mono lub Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
+-  Microsoft Windows lub zgodny system operacyjny z .NET Framework, .NET Core, Windows Azure, Mono lub Xamarin Platforms
 -  Środowisko programistyczne, takie jak Microsoft Visual Studio
 -  Dodaj odniesienie do biblioteki DLL Aspose.Cells for .NET w swoim projekcie — zainstaluj z NuGet za pomocą przycisku Pobierz powyżej
 
@@ -87,7 +87,7 @@ code here
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Następnie zapisz i pobierz." >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}
-Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkiem, import takich plików danych do bazy danych odbywa się w bardzo wygodny sposób. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
+Pliki z rozszerzeniem CSV (wartości oddzielone przecinkami) reprezentują zwykłe pliki tekstowe zawierające rekordy danych z wartościami oddzielonymi przecinkami. Każda linia w pliku CSV jest nowym rekordem ze zbioru rekordów zawartych w pliku. Takie pliki są generowane, gdy zamierzony jest transfer danych z jednego systemu pamięci masowej do drugiego. Ponieważ wszystkie aplikacje potrafią rozpoznawać rekordy oddzielone przecinkami, import takich plików danych do bazy danych odbywa się bardzo wygodnie. Prawie wszystkie aplikacje arkuszy kalkulacyjnych, takie jak Microsoft Excel lub OpenOffice Calc, mogą importować CSV bez większego wysiłku. Dane importowane z takich plików są uporządkowane w komórkach arkusza kalkulacyjnego w celu przedstawienia ich użytkownikowi.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

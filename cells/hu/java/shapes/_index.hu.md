@@ -6,7 +6,7 @@ description:  C# forráskódok arra vonatkozóan, hogyan lehet alakzatot beszúr
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel alakzatok beillesztése JAVA-n keresztül" h2="Készítsen Excel-dokumentumokat és szúrjon be alakzatokat kiszolgálóoldali API-k segítségével JAVA-alapú alkalmazásokban." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- Az Excelben olyan alakzatokat adhat hozzá dokumentumokhoz, e-mailekhez, diákhoz és táblázatokhoz, mint például dobozok, körök és nyilak. A sok kézi beszúrástól való megszabadulás érdekében a[JAVA Excel könyvtár](https://releases.aspose.com/cells/java/) API ugyanazt a funkcionalitást biztosítja.Ezek az API-k nagyon könnyen használhatók, általában csak egy kódsorra van szükség egy adott alakzat beszúrásához, és néhány sornyi kóddal befejezheti a köteg alakzatok beszúrását.
+ Az Excelben olyan alakzatokat adhat hozzá dokumentumokhoz, e-mailekhez, diákhoz és táblázatokhoz, mint például dobozok, körök és nyilak. A sok kézi beszúrástól való megszabadulás érdekében a[JAVA Excel könyvtár](https://releases.aspose.com/cells/java/) A API ugyanazt a funkcionalitást biztosítja.Ezek az API-k nagyon könnyen használhatók, általában csak egy kódsorra van szükség egy adott alakzat beszúrásához, és néhány sornyi kóddal befejezheti az alakzatkötegek beszúrását.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

@@ -49,14 +49,14 @@ description: Java mintakód a HTML dokumentumok kombinálásához a Java futási
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
+Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for Java](https://products.aspose.com/cells/java) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Töltse be az első HTML fájlt a Workbook osztály egy példányával.
 + Töltse be a második HTML dokumentumot a Workbook osztály egy példányával.
 + Fájlok egyesítése a combin() metódussal.
-mentse az egyesített HTML fájlt a megadott elérési úton
++ mentse az egyesített HTML fájlt a megadott elérési úton
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ htmlFile1.save("combinedFileWithPath.html");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Nem kell letölteni a Aspose API számot." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Nem kell kódot írni." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Csak töltse fel a HTML fájlokat." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Azonnal összevonják és összefűzik." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Azonnal összevonják és összefűzik." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

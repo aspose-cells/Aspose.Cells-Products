@@ -30,7 +30,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
+Egy alapdokumentum, amely összeolvad és összefűződik[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Az API-k néhány sornyi kóddal elkészíthetők.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}
- XLTM fájlkiterjesztés olyan fájlokat jelöl, amelyeket a Microsoft Excel hoz létre makró-kompatibilis sablonfájlként. A XLTM-es fájlok hasonlóak a XLTX-hez, más szerkezetben, mint hogy a későbbi verzió nem támogatja a makrókat tartalmazó sablonfájlok létrehozását. Az ilyen sablonfájlokat az elrendezés, a formázás és az egyéb beállítások generálására és beállítására használják a makrók mellett, hogy megkönnyítsék a hasonló XLSX fájlok létrehozását.
+ XLTM fájlkiterjesztés olyan fájlokat jelöl, amelyeket a Microsoft Excel hoz létre makró-kompatibilis sablonfájlként. A XLTM-es fájlok hasonlóak a XLTX-hez, más szerkezetben, mint hogy a későbbi verzió nem támogatja a makrókat tartalmazó sablonfájlok létrehozását. Az ilyen sablonfájlokat az elrendezés, a formázás és egyéb beállítások generálására és beállítására használják a makrók mellett, hogy megkönnyítsék a hasonló XLSX fájlok létrehozását.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

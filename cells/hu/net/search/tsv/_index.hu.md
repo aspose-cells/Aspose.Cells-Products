@@ -13,7 +13,7 @@ description: C# forráskód a TSV fájlban a .NET Framework, a .NET Core, a Mono
 
  A TSV fájl kereséséhez használjuk a
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
+API, amely funkciókban gazdag, hatékony és könnyen használható dokumentumkereső API a C# platformhoz. Nyisd ki
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  csomagkezelő, keressen
  **Aspose.Cells** 

@@ -12,7 +12,7 @@ description: Python biblioteka arkuszy kalkulacyjnych do tworzenia plików Excel
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować oraz wydobywać informacje z plików programu Excel. API odczytuje wiele formatów programu Excel i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela za pomocą Pythona.
+Aspose.Cells for Python via Java to szybki i niezawodny numer API do zadań związanych z przetwarzaniem arkuszy kalkulacyjnych. Programiści mogą tworzyć proste lub złożone arkusze kalkulacyjne, manipulować oraz wydobywać informacje z plików programu Excel. API odczytuje wiele formatów programu Excel i może renderować arkusze do XPS, PDF, MHTML, HTML, zwykłego tekstu, obrazów i innych. Jest to najlepsze rozwiązanie do automatyzacji raportów Excela za pomocą Pythona.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Zaawansowane Python Funkcje programu Excel API
     </p>
     <div class="codeblock" id="code">
      <h3>
- Zapisz arkusz kalkulacyjny w różnych formatach - Java
+Zapisz arkusz kalkulacyjny w różnych formatach - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Elastyczne opcje wyświetlania
     </h2>
     <p>
-Aspose.Cells for Python via Java zapewnia pełną kontrolę nad ustawieniami strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrolowanie widoczności danych za pomocą zamrożonych okienek, rozmiaru papieru, skalowania, nagłówków &amp; stopki i obszar drukowania.
+ Aspose.Cells for Python via Java zapewnia pełną kontrolę nad ustawieniami strony, umożliwiając manipulowanie wieloma opcjami wyświetlania, takimi jak podgląd podziałów stron, ustawianie poziomu powiększenia, ustawianie orientacji strony, kontrolowanie widoczności danych za pomocą zamrożonych okienek, rozmiaru papieru, skalowania, nagłówków &amp; stopki i obszar drukowania.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java zapewnia pełną kontrolę nad ustawieniami str
  Dostosowanie wykresów
     </h2>
     <p>
- Aspose.Cells for Python via Java zapewnia pełne wsparcie dla wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
+Aspose.Cells for Python via Java zapewnia pełne wsparcie dla wykresów. Można łatwo dodawać standardowe i niestandardowe wykresy lub dynamicznie ustawiać dane wykresów, aby odświeżyć wykres za pomocą tej biblioteki Pythona.
     </p>
    </div>
    <!--

@@ -281,7 +281,7 @@ Képletek számítása
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; diagramok manipulálása
+ Létrehozása &amp; diagramokat manipulálni
     </p>
    </div>
    <div class="col-lg-4">
@@ -316,7 +316,7 @@ Képletek számítása
     <em class="fa fa-list-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a kimutatástáblákat
+ Létrehozása &amp; manipulálni a kimutatástáblákat
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,7 +449,7 @@ Aspose.Cells A for C++ fejlett formázási funkciókkal teljes körűen szabály
  Munkalapok megjelenítése képként
     </h2>
     <p>
- könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excelt a saját renderelő motorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a képeken népszerű formátumokban, beleértve a BMP, TIFF, PNG, JPEG &amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
+ könyvtár a legnagyobb pontossággal jeleníti meg a Microsoft Excelt a saját renderelő motorjával. Különleges funkciókat kínál, mint például a munkalapok megjelenítése a népszerű formátumú képekké, beleértve a BMP, TIFF, PNG, JPEG és JPEG és amp; EMF. A Sheet2Image folyamat rugalmas, így lehetővé teszi olyan opciók kiválasztását, mint például az eredményül kapott kép felbontásának szabályozása.
     </p>
    </div>
    <div class="col-lg-12">
@@ -465,7 +465,7 @@ Aspose.Cells A for C++ fejlett formázási funkciókkal teljes körűen szabály
  A táblázatok pontos konvertálása PDF-re
     </h2>
     <p>
-Az Excel C++ könyvtár lehetővé teszi a táblázatok PDF formátumú konvertálását, miközben megőrzi az eredeti dokumentum minőségét. Ez a tény teszi a Aspose.Cells for C++-es számot tökéletes választássá azoknak a szervezeteknek, amelyek szabványos, PDF-es formátumú dokumentumokat kívánnak cserélni.
+Az Excel C++ könyvtár lehetővé teszi a táblázatok PDF formátumú konvertálását, miközben megőrzi az eredeti dokumentum minőségét. Ez a tény a Aspose.Cells for C++ számot tökéletes választássá teszi azoknak a szervezeteknek, amelyek szabványos, PDF-es formátumú dokumentumokat kívánnak cserélni.
     </p>
    </div>
    <!-- 

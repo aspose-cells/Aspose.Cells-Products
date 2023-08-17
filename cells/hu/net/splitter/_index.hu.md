@@ -28,7 +28,7 @@ description: C# forráskódok, amelyek elmagyarázzák, hogyan lehet a Microsoft
 
 {{% blocks/products/pf/feature-page-section h2="Ossza fel az Excel munkalapot ablaktáblákra" %}}
 
- A API a API biztosítja a munkalapablak panelekre való felosztását[Split módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) munkalap osztály, amely a munkalap osztott nézetét biztosítja. A osztott nézet eltávolításához a API szám tartozik[RemoveSplit módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Végül mentse el egy megadott útvonalra.
+ A API a API biztosítja a munkalapablak panelekre való felosztását[Split módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)munkalap osztály, amely a munkalap osztott nézetét biztosítja. A osztott nézet eltávolításához a API szám tartozik[RemoveSplit módszer](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Végül mentse el egy megadott útvonalra.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód az Excel munkalapablak felosztásához" %}}
 

@@ -1,7 +1,7 @@
 ---
-title: A JSON konvertálása SQL-re Python via Python
-description: Konvertálja a JSON-et SQL Online-ra ingyen. Ingyenes online JSON to SQL Converter. Python JSON az SQL-hez. JSON az SQL-hez a Python számon keresztül.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON SQL-hez – Online JSON SQL konverterhez
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Ingyenes online Python A JSON konvertálása SQL mentési formátumba. Python JSON SQL formátumba. Mentse a JSON-et SQL Python-be.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to SQL saveformat., Free Online JSON to SQL Python., Python Convert JSON to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertálja a JSON-et SQL-re a Python-ben" h2="Nagy sebességű Python könyvtár a JSON SQL-vé konvertálásához. Használja a API-es excel konverziónkat magas szintű, platformfüggetlen szoftver fejlesztéséhez a Python-ben." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,14 +12,14 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertálja a JSON-et SQL-re a Python-ben" %}}
 
- Hogyan lehet átalakítani a JSON-et SQL-be? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a JSON-et programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
+ Hogyan konvertálhatom a JSON-et SQL-vé? A Aspose.Cells for Python számmal a NET könyvtáron keresztül könnyedén konvertálhatja a JSON-et programozottan SQL-vé néhány sor kóddal.[Aspose.Cells for Python a NET számon keresztül](https://pypi.org/project/aspose-cells-python/)képes többplatformos alkalmazásokat létrehozni, módosítani, konvertálni, renderelni és kinyomtatni az összes Excel fájlt. Python Excel API nem csak a táblázatformátumok között konvertál, hanem Excel fájlokat is képes megjeleníteni képként, PDF, HTML, ODS, CSV, CSV, CSV, CSV, CSV, CSV, SVG, és így tovább, SVG P, 8 PT a választás,3,8 ipari szabvány szerinti dokumentumok cseréjére formátumok.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
 {{% blocks/products/pf/agp/content h2="Mentse el a JSON-et SQL-be a Python-ben online ingyen" %}}
 
-következő példa bemutatja, hogyan lehet a JSON-et SQL-vé alakítani a Python via NET-ben.
+A következő példa bemutatja, hogyan lehet a JSON-et SQL-vé alakítani a Python via NET-ben.
 {{% blocks/products/pf/agp/text %}}
 
 Kövesse az egyszerű lépéseket a JSON SQL-vé konvertálásához. Töltse fel a JSON fájlt, majd egyszerűen mentse el SQL fájlként. Mind a JSON olvasásához, mind az SQL-íráshoz használhat teljesen minősített fájlneveket. A kimeneti SQL tartalom és formázás megegyezik az eredeti JSON dokumentummal.
@@ -28,20 +28,21 @@ Kövesse az egyszerű lépéseket a JSON SQL-vé konvertálásához. Töltse fel
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Ingyenes alkalmazás és mintakód a JSON SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Ingyenes alkalmazás és mintakód a JSON SQL Online konvertálásához" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="A JSON konvertálása SQL-vé" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal SQL-re konvertálhatják a JSON-et.
+A JSON fájlokat programozottan SQL-be kell konvertálnia? A Python fejlesztők egyszerűen betölthetik és néhány sornyi kóddal SQL-vé konvertálhatják a JSON-et.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Telepítse a „Aspose.Cells for Python via .NET” fájlt.
 1.  Adjon hozzá egy könyvtári hivatkozást (importálja a könyvtárat) a Python projekthez.
-1.  Töltse be a JSON fájlt a munkafüzet egy példányával
-1.  Konvertálja a JSON-et SQL-be a Workbook.save metódus meghívásával
+1.  Töltse be a JSON fájlt a munkafüzet egy példányával.
+1.  Konvertálja a JSON-et SQL-be a Workbook.save metódus meghívásával.
+1.  Szerezze le a JSON konverziós eredményt SQL-re.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
+ És követheti is a[lépésről lépésre](https://docs.aspose.com/cells/python-net/getting-started/) a „Aspose.Cells for Python via .NET” fejlesztői környezetbe történő telepítéséről.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Telepítés: Aspose.Cells for Python innen<a href="https://pypi.org/project/aspo
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Python platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
+ A Aspose.Cells for Python via NET platformfüggetlen API, és bármilyen platformon használható (Windows, Linux), csak győződjön meg arról, hogy a rendszer rendelkezik[Python](https://www.python.org/downloads/) 3,7 vagy magasabb.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) egy nyílt szabványos fájlformátum az adatok megosztására, amely ember által olvasható szöveget használ az adatok tárolására és továbbítására. A JSON fájlok .json kiterjesztéssel vannak tárolva. A JSON kevesebb formázást igényel, és jó alternatíva az XML számára. A JSON a JavaScriptből származik, de nyelvfüggetlen adatformátum. A JSON generálását és elemzését számos modern programozási nyelv támogatja. Az application/json a JSON adathordozó típusa.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Az .sql kiterjesztésű fájl egy strukturált lekérdezési nyelv (SQL) fájl, amely kódot tartalmaz a relációs adatbázisokkal való együttműködéshez. SQL utasítások írására szolgál az adatbázisokon a CRUD (Create, Read, Update és Delete) műveletekhez. Az SQL-fájlok gyakoriak az asztali és a webalapú adatbázisok használatakor. Az SQL-nek számos alternatívája létezik, például a Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL és még sok más. Az SQL-fájlok megnyithatók a Microsoft SQL Server, a MySQL lekérdezésszerkesztőivel és más egyszerű szövegszerkesztőkkel, például a Windows operációs rendszerhez tartozó Notepad programmal.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JSON-et számos más fájlformátumra is konvertálhatja, köztük néhány alább felsorolt formátumra." >}}
 

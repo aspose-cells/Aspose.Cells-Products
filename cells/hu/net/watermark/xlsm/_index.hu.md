@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  Szükséged van a
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-hogy kipróbálja a következő munkafolyamatot a saját környezetében.
+ hogy kipróbálja a következő munkafolyamatot a saját környezetében.
 
 {{% /blocks/products/pf/agp/text %}}
 

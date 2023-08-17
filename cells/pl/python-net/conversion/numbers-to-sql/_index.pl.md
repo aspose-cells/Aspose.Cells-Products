@@ -1,7 +1,7 @@
 ---
-title: Konwertuj LICZBY na SQL Python via Python
-description: Konwertuj NUMBERS na SQL Online za darmo. Darmowy internetowy konwerter NUMBERS to SQL. Python LICZBY do SQL. NUMBERS do SQL przez Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS to SQL — Online NUMBERS to SQL Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj NUMERY na format zapisu SQL. Python LICZBY do formatu SQL. Zapisz LICZBY w SQL Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SQL saveformat., Free Online NUMBERS to SQL Python., Python Convert NUMBERS to SQL]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj NUMERY na SQL w Python" h2="Szybka biblioteka Python do konwersji LICZB na SQL. Skorzystaj z naszej konwersji programu Excel API, aby opracować oprogramowanie wysokiego poziomu, niezależne od platformy w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SQL" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,36 +12,37 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Konwertuj NUMERY na SQL w Python" %}}
 
- Jak przekonwertować LICZBY na SQL? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo programowo przekonwertować NUMBERS na SQL za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
+ Jak przekonwertować NUMBERS na SQL? Dzięki bibliotece Aspose.Cells for Python za pośrednictwem biblioteki NET możesz łatwo programowo przekonwertować NUMBERS na SQL za pomocą kilku linii kodu.[Aspose.Cells for Python przez NET](https://pypi.org/project/aspose-cells-python/)jest w stanie budować wieloplatformowe aplikacje z możliwością generowania, modyfikowania, konwertowania, renderowania i drukowania wszystkich plików Excel. Python Excel API nie tylko konwertuje między formatami arkuszy kalkulacyjnych, ale może również renderować pliki Excel jako obrazy, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT i więcej, co czyni go idealnym wyborem do wymiany dokumenty w standardzie przemysłowym formaty.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Zapisz NUMERY w SQL pod numerem Python Online za darmo" %}}
+{{% blocks/products/pf/agp/content h2="Zapisz NUMBERS w SQL pod numerem Python Online za darmo" %}}
 
 Poniższy przykład pokazuje, jak przekonwertować NUMBERS na SQL w Python via NET.
 {{% blocks/products/pf/agp/text %}}
 
-Wykonaj proste kroki, aby przekonwertować NUMBERS na SQL. Prześlij swój plik NUMBERS, a następnie po prostu zapisz go jako plik SQL. Zarówno do odczytu NUMBERS, jak i zapisu SQL można używać w pełni kwalifikowanych nazw plików. Wyjściowa zawartość SQL i formatowanie będą identyczne z oryginalnym dokumentem NUMBERS.
+Wykonaj proste kroki, aby przekonwertować NUMBERS na SQL. Prześlij swój plik NUMBERS, a następnie po prostu zapisz go jako plik SQL. Zarówno do odczytu NUMBERS, jak i zapisu SQL można używać w pełni kwalifikowanych nazw plików. Wyjściowa treść SQL i formatowanie będą identyczne z oryginalnym dokumentem NUMBERS.
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMBERS na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji NUMBERS na SQL Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="sql" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować LICZBY na SQL" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować NUMBERS na SQL w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki NUMBERS na SQL? Python programiści mogą łatwo załadować i przekonwertować NUMBERS na SQL w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik NUMBERS z instancją skoroszytu
-1.  Konwertuj LICZBY na SQL, wywołując metodę Workbook.save
+1.  Załaduj plik NUMBERS z instancją skoroszytu.
+1.  Konwertuj LICZBY na SQL, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji NUMBERS na SQL.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Pliki z rozszerzeniem .numbers są klasyfikowane jako pliki typu arkusz kalkulacyjny, dlatego są podobne do plików .xlsx; ale pliki Numbers są tworzone przy użyciu arkusza kalkulacyjnego Apple iWork Numbers. Apple iWork Numbers to oprogramowanie jednostkowe pakietu iWork Productivity Suite. Pakiet iWork Productivity Suite jest odpowiednikiem pakietu Office Microsoft używanego na komputerach PC Windows. Dlatego możemy powiedzieć, że Numbers, który jest dostępny dla MacOS, jest również konkurentem Microsoft Excel. Podobnie Microsoft Excel, plik NUMBERS może zawierać również tabele, wykresy i formuły.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SQL" readMoreLink="https://docs.fileformat.com/database/sql/" >}}Plik z rozszerzeniem .sql to plik Structured Query Language (SQL), który zawiera kod do pracy z relacyjnymi bazami danych. Służy do pisania instrukcji SQL dla operacji CRUD (Create, Read, Update i Delete) w bazach danych. Pliki SQL są powszechne podczas pracy z komputerowymi i internetowymi bazami danych. Istnieje kilka alternatyw dla SQL, takich jak Java Persistence Query Language (JPQL), LINQ, HTSQL, 4D QL i kilka innych. Pliki SQL mogą być otwierane przez edytory zapytań Microsoft SQL Server, MySQL i inne edytory zwykłego tekstu, takie jak Notatnik w systemie operacyjnym Windows.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować NUMBERS na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

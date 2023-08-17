@@ -62,7 +62,7 @@ book.save("output.md", mdOptions);
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj JSON na Excel i Excel na JSON" %}}
-Python programiści mogą łatwo ładować i konwertować pliki JSON do Excela w zaledwie kilku wierszach kodu. Podobnie dane programu Excel można wyeksportować do danych JSON.
+Programiści Python mogą łatwo ładować i konwertować pliki JSON do programu Excel w zaledwie kilku wierszach kodu. Podobnie dane programu Excel można wyeksportować do danych JSON.
 {{% blocks/products/pf/feature-page-code h3="Python Kod do konwersji JSON do programu Excel" %}}
 ```cs
 //Load your source json file
@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konwertuj Excel na Word i PowerPoint" %}}
- Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i przekonwertowanie go na pliki Word DOCX & PowerPoint PPTX podczas używania[Opcje DocxSave](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [Opcje PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) klasy, jak pokazano poniżej.
+ Możliwe jest załadowanie dowolnego arkusza kalkulacyjnego i przekonwertowanie go na pliki Word DOCX & PowerPoint PPTX podczas używania[Opcje DocxSave](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [Opcje PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)klasy, jak pokazano poniżej.
 {{% blocks/products/pf/feature-page-code h3="Python kod do konwersji programu Excel na Word i PowerPoint" %}}
 ```cs
 // load the template file

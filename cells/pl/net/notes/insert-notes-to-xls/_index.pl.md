@@ -48,7 +48,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 + Załaduj plik XLS, tworząc instancję skoroszytu
-+ Wstaw notatki do arkusza roboczego w Cell
++ Wstaw notatki do Arkusza w Cell
  + Zapisz skoroszyt
 
 W Office 365 notatki służą do adnotacji, możesz użyć następującego kodu C#, aby wstawiać i usuwać notatki w pliku XLS.

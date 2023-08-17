@@ -12,7 +12,7 @@ description: Python táblázatkönyvtár olvasási írási és -elemzési Excel-
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot olvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
+Aspose.Cells for Python via Java egy gyors és megbízható API táblázatkezelési feladatokhoz. A fejlesztők egyszerű vagy összetett táblázatokat hozhatnak létre, manipulálhatnak, valamint információkat nyerhetnek ki Excel-fájlokból. A API több Excel formátumot olvas, és munkalapokat tud renderelni a XPS, PDF, MHTML, HTML, egyszerű szöveg, képek és egyebek számára. Ez a legjobb megoldás az Excel-jelentések python segítségével történő automatizálására.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Speciális Python Excel API Funkciók
     </p>
     <div class="codeblock" id="code">
      <h3>
- Táblázat mentése különböző formátumokban - Java
+Táblázat mentése különböző formátumokban - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
-Aspose.Cells for Python via Java teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, például az oldaltörések előnézetét, a nagyítási szint beállítását, az oldaltájolás beállítását, az adatok láthatóságának szabályozását kimerevítő panelekkel, a papírméretet, a méretezést, a fejléceket és a fejléceket; láblécek és nyomtatási terület.
+ Aspose.Cells for Python via Java teljes körű ellenőrzést biztosít az oldalbeállítások felett, lehetővé téve több megjelenítési lehetőség kezelését, például az oldaltörések előnézetét, a nagyítási szint beállítását, az oldaltájolás beállítását, az adatok láthatóságának szabályozását kimerevítő panelekkel, a papírméretet, a méretezést, a fejléceket és a fejléceket; láblécek és nyomtatási terület.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java teljes körű ellenőrzést biztosít az oldalb
  Diagramok testreszabása
     </h2>
     <p>
- Aspose.Cells for Python via Java teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.
+Aspose.Cells for Python via Java teljes mértékben támogatja a diagramkészítést. Könnyen hozzáadhat szabványos és testreszabott diagramokat vagy dinamikusan beállíthatja a diagramadatokat a diagram frissítéséhez vagy ebben a python könyvtárban.
     </p>
    </div>
    <!--

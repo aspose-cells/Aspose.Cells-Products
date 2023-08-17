@@ -1,5 +1,5 @@
 ---
-title: Szerkessze a HTML fájlokat via .NET
+title:  Szerkessze a HTML fájlokat via .NET
 description: C# forráskód a HTML dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

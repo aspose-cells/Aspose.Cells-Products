@@ -1,5 +1,5 @@
 ---
-title:  Pivot diagram beszúrása a Micorsoft Excel XLSX fájlokban a C# számon keresztül
+title: Pivot diagram beszúrása a Micorsoft Excel XLSX fájlokban a C# számon keresztül
 weight: 7690
 description: C# Mintakód a XLSX számú dokumentumok előállításához pivot diagrammal. Használja ezt a kódot a VB.NET, Asp.NET vagy bármely .NET alapú alkalmazáson belüli pivot diagrammal rendelkező Micorsoft Excel XLSX fájlok létrehozásához.
 ---
@@ -22,7 +22,7 @@ description: C# Mintakód a XLSX számú dokumentumok előállításához pivot 
 
 {{% blocks/products/pf/agp/text %}}
 
- fejlesztők könnyen beilleszthetik a Pivot Chart-ot a XLSX formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
+ A fejlesztők könnyen beilleszthetik a Pivot Chart-ot a XLSX formátumú táblázatba a különböző jelentéskészítő alkalmazásokba, amelyek adatfeldolgozás céljából mindössze néhány sornyi kóddal.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ description: C# Mintakód a XLSX számú dokumentumok előállításához pivot 
 1.  Szerezze meg a munkalap kívánt celláit, és írja be az értéket a cellákba.
 1.  Helyezze be a PivotTable-t, és állítsa be a stílust
 1.  Szúrjon be Pivot diagramot a kimutatás adataival
-1.  A Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
+1.  Mentés módszerrel mentheti a munkafüzetet XLSX fájlként.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

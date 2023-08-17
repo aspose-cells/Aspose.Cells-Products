@@ -1,5 +1,5 @@
 ---
-title: Szerkessze a XLSM fájlokat via .NET
+title:  Szerkessze a XLSM fájlokat via .NET
 description: C# forráskód a XLSM dokumentum szerkesztéséhez a .NET Framework, .NET Core, Windows Azure, Mono vagy Xamarin platformokon.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -13,7 +13,7 @@ description: Java mintakód a XLSM formátumú metaadatok szerkesztéséhez vagy
 
  A XLSM fájl metaadatainak lekéréséhez használjuk
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, amely funkciókban gazdag, hatékony és könnyen használható metaadatok API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
+API, amely funkciókban gazdag, hatékony és könnyen használható metaadatok API for Java platform. A legújabb verziót közvetlenül a webhelyről töltheti le
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  és telepítse a Maven alapú projekten belül a következő konfigurációk hozzáadásával a pom.xml fájlhoz.
 
@@ -58,7 +58,7 @@ description: Java mintakód a XLSM formátumú metaadatok szerkesztéséhez vagy
 {{% /blocks/products/pf/agp/text %}}
 
 + Töltsön be XLSM fájlt a WorkbookMetadata-ba
-Hozzon létre MetadataOptions objektumot a megfelelő beállításokkal
++ Hozzon létre MetadataOptions objektumot a megfelelő beállításokkal
 + Állítsa be a megfelelő tulajdonságokat
 + Mentse el a XLSM metaadatokat
 

@@ -1,7 +1,7 @@
 ---
-title: Konwertuj EXCEL na EMF Python via Python
-description: Konwertuj EXCEL na EMF online za darmo. Darmowy konwerter EXCEL na EMF online. Python EXCEL do EMF. EXCEL do EMF przez Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL na EMF - Konwerter online EXCEL na EMF
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Bezpłatnie online Python Konwertuj EXCEL na format zapisu EMF. Python EXCEL do formatu EMF. Zapisz EXCEL pod numerem EMF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to EMF saveformat., Free Online EXCEL to EMF Python., Python Convert EXCEL to EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konwertuj EXCEL na EMF w Python" h2="Szybka biblioteka Python do konwersji EXCEL na EMF. Skorzystaj z naszej konwersji programu Excel API, aby opracować niezależne od platformy oprogramowanie wysokiego poziomu w Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -28,20 +28,21 @@ Wykonaj proste kroki, aby przekonwertować plik EXCEL na EMF. Prześlij plik EXC
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezpłatna aplikacja i przykładowy kod do konwersji EXCEL na EMF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EXCEL na EMF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python programiści mogą łatwo załadować i przekonwertować EXCEL na EMF w zaledwie kilku wierszach kodu.
+Chcesz programowo przekonwertować pliki EXCEL na EMF? Python programiści mogą łatwo załadować i przekonwertować EXCEL na EMF w zaledwie kilku wierszach kodu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Zainstaluj „Aspose.Cells for Python via .NET”.
 1.  Dodaj odniesienie do biblioteki (zaimportuj bibliotekę) do swojego projektu Python.
-1.  Załaduj plik EXCEL z instancją skoroszytu
-1.  Konwertuj EXCEL na EMF, wywołując metodę Workbook.save
+1.  Załaduj plik EXCEL z instancją skoroszytu.
+1.  Konwertuj EXCEL na EMF, wywołując metodę Workbook.save.
+1.  Uzyskaj wynik konwersji EXCEL na EMF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/)jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
+ Możesz także śledzić[instrukcje krok po kroku](https://docs.aspose.com/cells/python-net/getting-started/) jak zainstalować „Aspose.Cells for Python via .NET” w środowisku programisty.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Zainstaluj Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cel
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
+ Aspose.Cells for Python przez NET jest niezależny od platformy API i może być używany na dowolnej platformie (Windows, Linux), po prostu upewnij się, że system ma[Python](https://www.python.org/downloads/) 3,7 lub wyższy.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX to dobrze znany format dokumentów Excel Microsoft, który został wprowadzony przez Microsoft wraz z wydaniem Microsoft Office 2007. Oparty na strukturze zorganizowanej zgodnie z konwencjami Open Packaging, jak opisano w części 2 standardu OOXML ECMA-376, nowy format to pakiet zip zawierający pewną liczbę plików XML. Podstawową strukturę i pliki można sprawdzić, po prostu rozpakowując plik .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}Rozszerzony format metaplików (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować zapisany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi, które mają kluczowe znaczenie dla dokładnego renderowania obrazu. Kiedy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także przekonwertować EXCEL na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 

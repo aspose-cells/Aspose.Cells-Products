@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint Aplikacja to konwerter arkuszy kalkulac
    </header>
    <ul>
     <li>
- Zapisz w podfolderach
+Zapisz w podfolderach
     </li>
     <li>
  Konkatenacja plików
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint Aplikacja to konwerter arkuszy kalkulac
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description="Aspose.Cells for SharePoint obsługuje wiele popularnych formatów arkuszy kalkulacyjnych, PDF, HTML i inne[formaty plików](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Obsługiwane formaty plików" description=" Aspose.Cells for SharePoint obsługuje wiele popularnych formatów arkuszy kalkulacyjnych, PDF, HTML i inne[formaty plików](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint Aplikacja to konwerter arkuszy kalkulac
  Połącz pliki podczas konwersji
     </h2>
     <p>
- Aspose.Cells for SharePoint daje możliwość łączenia plików o różnych formatach w jeden, pojedynczy dokument. Ponadto możesz przesuwać dokumenty na liście w górę lub w dół, aby ustawić kolejność łączenia dokumentów.
+Aspose.Cells for SharePoint daje możliwość łączenia plików o różnych formatach w jeden, pojedynczy dokument. Ponadto możesz przesuwać dokumenty na liście w górę lub w dół, aby ustawić kolejność łączenia dokumentów.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint Aplikacja to konwerter arkuszy kalkulac
  Konwertuj pliki w podfolderach
     </h2>
     <p>
-Aspose.Cells for SharePoint ułatwia proces konwersji poprzez rekurencyjną konwersję wszystkich dokumentów i podfolderów w wybranym folderze. Istniejąca struktura podfolderów jest tworzona w folderze docelowym.
+ Aspose.Cells for SharePoint ułatwia proces konwersji poprzez rekurencyjną konwersję wszystkich dokumentów i podfolderów w wybranym folderze. Istniejąca struktura podfolderów jest tworzona w folderze docelowym.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint ułatwia proces konwersji poprzez rekurencyjną konw
  Interakcja z publicznością API
     </h2>
     <p>
- Deweloperzy posiadający wewnętrzne rozwiązania SharePoint mogą korzystać z mechanizmu konwersji dokumentów Aspose.Cells za pośrednictwem publicznego numeru API. Zapewnia on programowy dostęp do wszystkich obsługiwanych formatów i opcji konwersji.
+Deweloperzy posiadający wewnętrzne rozwiązania SharePoint mogą korzystać z mechanizmu konwersji dokumentów Aspose.Cells za pośrednictwem publicznego numeru API. Zapewnia on programowy dostęp do wszystkich obsługiwanych formatów i opcji konwersji.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint ułatwia proces konwersji poprzez rekurencyjną konw
  Microsoft Automatyzacja programu Excel — niepotrzebna
     </h2>
     <p>
-Aspose.Cells for SharePoint jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga zainstalowania programu Excel Microsoft na komputerze do pracy z konwersją formatu programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
+ Aspose.Cells for SharePoint jest zbudowany przy użyciu kodu zarządzanego, który nigdy nie wymaga zainstalowania programu Excel Microsoft na komputerze do pracy z konwersją formatu programu Excel. Jest to doskonała alternatywa automatyzacji Microsoft Excel pod względem obsługiwanych funkcji, bezpieczeństwa, stabilności, skalowalności, szybkości i ceny.
     </p>
    </div>
   </div>

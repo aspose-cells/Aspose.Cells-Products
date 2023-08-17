@@ -63,7 +63,7 @@ description: Java mintakód a XLSM fájl XLSM futásidejű környezetének XLSM 
 + Válassza ki a szükséges lapot a getWorksheets().get metódussal.
 + A kiválasztott lap összes cellájának lekérése a getCells() segítségével.
 + Iteráljon minden cellát, és kapja meg a szövegét.
-+ Nyomtasson ki minden cellaértéket, vagy használja a StringBuilder append() metódust az egész megtekintéséhez
+Nyomtasson ki minden cellaértéket, vagy használja a StringBuilder append() metódust az egész megtekintéséhez
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

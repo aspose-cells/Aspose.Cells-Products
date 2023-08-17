@@ -16,7 +16,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatformátumot, beleértve a XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & TSC HTML.
+Aspose.Cells for Node.js via Java támogatja a legtöbb népszerű táblázatformátumot, beleértve a XLS, XLSX, ODS, SpreadsheetML, CSV, TSC & TSC HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Az Excel fájlformátumok feldolgozása a Node.js könyvtáron kere
  Munkalap konvertálása képpé
     </li>
     <li>
-Konvertálja a táblázatot PDF-re
+ Konvertálja a táblázatot PDF-re
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; megjegyzések manipulálása &amp; hiperhivatkozások
+Létrehozása &amp; megjegyzések manipulálása &amp; hiperhivatkozások
     </p>
    </div>
    <div class="col-lg-4">
@@ -290,7 +290,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-sort-amount-desc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Létrehozás &amp; manipulálni a megnevezett tartományokat
+ Létrehozása &amp; manipulálni a megnevezett tartományokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Konvertálja a táblázatot PDF-re
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipulálja és frissítse a kimutatásokat a API számon keresztül
+ Manipulálja és frissítse a kimutatásokat a API számon keresztül
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipulálja és frissítse a kimutatásokat a API számon keresztül
  Rugalmas megjelenítési lehetőségek
     </h2>
     <p>
- Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
+Aspose.Cells for Node.js via Java teljes körű ellenőrzést biztosít a munkalap oldalbeállításai felett, módosítható a munkalap megjelenítési beállításai, például az oldal tájolása, törések, méret, méretezés, fejlécek, láblécek és nagyítási szint. Ezenkívül a fejlesztők a nyomtatási terület és a kimerevítő ablaktáblák segítségével szabályozhatják az adatok láthatóságát az alkalmazás specifikációinak megfelelően.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipulálja és frissítse a kimutatásokat a API számon keresztül
  Biztonsági beállítások
     </h2>
     <p>
-Aspose.Cells for Node.js via Java a biztonsági funkciók széles skáláját kínálja, beleértve a táblázatkezelési titkosítást/dekódolást, a tartalmat, az objektumot és a visszafejtést; forgatókönyv-védelem, valamint a sorok, oszlopok és oszlopok elrejtésének és felfedésének képessége; munkalapokat.
+ Aspose.Cells for Node.js via Java a biztonsági funkciók széles skáláját kínálja, beleértve a táblázatkezelési titkosítást/dekódolást, a tartalmat, az objektumot és a visszafejtést; forgatókönyv-védelem, valamint a sorok, oszlopok és oszlopok elrejtésének és felfedésének képessége; munkalapokat.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java a biztonsági funkciók széles skáláját k�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Átfogó támogatás a munkalap formázáshoz
+Átfogó támogatás a munkalap formázáshoz
     </h2>
     <p>
-Aspose.Cells for Node.js via Java fejlett formázási funkciókat kínál, amelyek lehetővé teszik az adatok megjelenítésének szabályozását. Alkalmazhat formázást egy munkalapra, oszlopra, sorra vagy cellára, vagy Rich Textet adhat egyetlen cellához, alkalmazhat szegélyeket, beállíthat háttérmintákat és betűstílusokat. A API lehetővé teszi a hozzáadást, manipulálást és kiszámítja a feltételes formázási szabályokat menet közben.
+ Aspose.Cells for Node.js via Java fejlett formázási funkciókat kínál, amelyek lehetővé teszik az adatok megjelenítésének szabályozását. Alkalmazhat formázást egy munkalapra, oszlopra, sorra vagy cellára, vagy Rich Textet adhat egyetlen cellához, alkalmazhat szegélyeket, beállíthat háttérmintákat és betűstílusokat. A API lehetővé teszi a hozzáadást, manipulálást és kiszámítja a feltételes formázási szabályokat menet közben.
     </p>
    </div>
    <div class="col-lg-12">

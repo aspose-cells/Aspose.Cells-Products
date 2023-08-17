@@ -9,7 +9,7 @@ description: Dodaj lub usuń adnotacje danych z arkuszy kalkulacyjnych Excel i O
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Adnotacje danych w plikach Excel" %}}
- Zarządzanie komentarzami w arkuszach — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Będziemy korzystać z[Klasa komentarza](https://reference.aspose.com/cells/net/aspose.cells/comment)dla całej tej funkcjonalności.
+ Zarządzanie komentarzami w arkuszach kalkulacyjnych — nie ma żadnego limitu liczby komentarzy w arkuszu w programie MS Excel. Można dodać tyle, ile wymaga aplikacja. Będziemy korzystać z[Klasa komentarza](https://reference.aspose.com/cells/net/aspose.cells/comment)dla całej tej funkcjonalności.
 
 + Załaduj plik Excela za pomocą obiektu klasy Workbook
 + Uzyskaj dostęp do odpowiedniego arkusza roboczego i jego odpowiedniego indeksu Cell

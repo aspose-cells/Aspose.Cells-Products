@@ -11,7 +11,7 @@ description: C# Exempelkod för konvertering från ODS till Byte Array. Använd 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array är till hjälp för databearbetning eller lagring. Du kan konvertera filen ODS till Byte Array samt en**Byte Array till ODS**dokument med C# språk. För att konvertera ODS till byte array kommer vi att använda
+ Byte Array är till hjälp för databearbetning eller lagring. Du kan konvertera filen ODS till Byte Array samt en**Byte Array till ODS** dokument med C# språk. För att konvertera ODS till byte array kommer vi att använda
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API som erbjuder olika funktioner för dokumenthantering och konvertering med .NET-plattformen.
 {{% /blocks/products/pf/agp/content %}}

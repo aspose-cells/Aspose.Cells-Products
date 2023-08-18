@@ -1,5 +1,5 @@
 ---
-title:  Infoga pivotdiagram i Micorsoft Excel XLS-filer via C#
+title: Infoga pivotdiagram i Micorsoft Excel XLS-filer via C#
 weight: 7690
 description: C# Exempelkod för att generera XLS dokument med pivotdiagram. Använd den här koden för att skapa Micorsoft Excel XLS-filer med pivotdiagram inom VB.NET, Asp.NET eller någon .NET-baserad applikation.
 ---
@@ -22,7 +22,7 @@ description: C# Exempelkod för att generera XLS dokument med pivotdiagram. Anv�
 
 {{% blocks/products/pf/agp/text %}}
 
-Det är lätt för utvecklarna att infoga Pivot Chart i XLS-format kalkylblad i att köra olika rapporteringsapplikationer för databehandling på bara några rader kod.
+ Det är lätt för utvecklarna att infoga Pivot Chart i XLS-format kalkylblad i att köra olika rapporteringsapplikationer för databehandling på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Det är lätt för utvecklarna att infoga Pivot Chart i XLS-format kalkylblad i 
 1.  Hämta önskad cell(er) i kalkylbladet och lägg värdet i cellen(erna).
 1.  Infoga pivottabell och ställ in stilen
 1.  Infoga pivotdiagram med hjälp av pivottabellens data
-1.  Använd metoden Spara för att spara arbetsboken som XLS-fil.
+1. Använd metoden Spara för att spara arbetsboken som XLS-fil.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,7 +1,7 @@
 ---
-title: Konvertera NUMBERS till PNG Python via Python
-description: Konvertera NUMBERS till PNG online gratis. Gratis Online NUMBERS to PNG Converter. Python NUMMER till PNG. NUMMER till PNG via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS till PNG - Online NUMBERS till PNG Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera NUMBERS till PNG sparaformat. Python NUMBERS till PNG format. Spara NUMBERS till PNG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to PNG saveformat., Free Online NUMBERS to PNG Python., Python Convert NUMBERS to PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till PNG till Python" h2="Höghastighetsbibliotek Python för att konvertera NUMBERS till PNG. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till PNG till Python" %}}
 
- Hur konverterar man NUMBERS till PNG? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera NUMBERS till PNG programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag NUMBERS till PNG? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera NUMBERS till PNG programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera NUMBERS till PNG. Ladda upp din NUMBER
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till PNG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till PNG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till PNG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Python-utvecklare kan enkelt ladda och konvertera NUMBERS till PNG på bara några rader kod.
+Behöver du konvertera NUMBERS filer till PNG programmatiskt? Python-utvecklare kan enkelt ladda och konvertera NUMBERS till PNG på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda NUMBERS-filen med en instans av Workbook
-1.  Konvertera NUMBERS till PNG genom att anropa Workbook.save-metoden
+1.  Ladda NUMBERS-filen med en instans av Workbook.
+1.  Konvertera NUMBERS till PNG genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet av NUMBERS till PNG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}En PNG-fil (Portable Network Graphics) är ett rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format (GIF) och har inga upphovsrättsliga begränsningar. Filformatet PNG stöder dock inte animationer. Filformatet PNG stöder förlustfri bildkomprimering vilket gör det populärt bland sina användare. Med tidens gång har PNG utvecklats till ett av de mycket använda bildfilformaten.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera NUMBERS till många andra filformat inklusive några som anges nedan." >}}
 

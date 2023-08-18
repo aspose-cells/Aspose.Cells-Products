@@ -1,7 +1,7 @@
 ---
-title: Konvertera XLTM till ODS Python via Python
-description: Konvertera XLTM till ODS online gratis. Gratis onlinekonverterare XLTM till ODS. Python XLTM till ODS. XLTM till ODS via Python.
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM till ODS - Online XLTM till ODS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera XLTM till ODS sparaformat. Python XLTM till ODS format. Spara XLTM till ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to ODS saveformat., Free Online XLTM to ODS Python., Python Convert XLTM to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera XLTM till ODS till Python" h2="Höghastighetsbibliotek Python för att konvertera XLTM till ODS. Använd vår excelkonvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Konvertera XLTM till ODS till Python" %}}
 
- Hur konverterar man XLTM till ODS? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLTM till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag XLTM till ODS? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera XLTM till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera XLTM till ODS. Ladda upp din XLTM-fil 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera XLTM till ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera XLTM till ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar XLTM till ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-utvecklare kan enkelt ladda och konvertera XLTM till ODS på bara några rader kod.
+Behöver du konvertera XLTM-filer till ODS programmatiskt? Python-utvecklare kan enkelt ladda och konvertera XLTM till ODS på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda XLTM-filen med en instans av Workbook
-1.  Konvertera XLTM till ODS genom att anropa metoden Workbook.save
+1.  Ladda XLTM-filen med en instans av Workbook.
+1.  Konvertera XLTM till ODS genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet från XLTM till ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Filtillägget XLTM representerar filer som genereras av Microsoft Excel som makroaktiverade mallfiler. XLTM-filer liknar XLTX i struktur förutom att den senare inte stöder att skapa mallfiler med makron. Sådana mallfiler används för att generera och ställa in layout, formatering och andra inställningar tillsammans med makron för att underlätta att skapa liknande XLSX-filer då.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Filer med tillägget .ods står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, som XLS, XLSX och andra av olika applikationer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera XLTM till många andra filformat, inklusive några som anges nedan." >}}
 

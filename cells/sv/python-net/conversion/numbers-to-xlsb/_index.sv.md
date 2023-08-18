@@ -1,7 +1,7 @@
 ---
-title: Konvertera NUMBERS till XLSB Python via Python
-description: Konvertera NUMBERS till XLSB online gratis. Gratis Online NUMBERS to XLSB Converter. Python NUMMER till XLSB. NUMMER till XLSB via Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS till XLSB - Online NUMBERS till XLSB Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera NUMBERS till XLSB sparaformat. Python NUMBERS till XLSB format. Spara NUMBERS till XLSB Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to XLSB saveformat., Free Online NUMBERS to XLSB Python., Python Convert NUMBERS to XLSB]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera NUMBERS till XLSB till Python" h2="Höghastighetsbibliotek Python för att konvertera NUMBERS till XLSB. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSB" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Konvertera NUMBERS till XLSB till Python" %}}
 
- Hur konverterar man NUMBERS till XLSB? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera NUMBERS till XLSB programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag NUMBERS till XLSB? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera NUMBERS till XLSB programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera NUMBERS till XLSB. Ladda upp din NUMBE
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera NUMBERS till XLSB online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="xlsb" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar NUMBERS till XLSB" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Python-utvecklare kan enkelt ladda och konvertera NUMBERS till XLSB på bara några rader kod.
+Behöver du konvertera NUMBERS filer till XLSB programmatiskt? Python-utvecklare kan enkelt ladda och konvertera NUMBERS till XLSB på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda NUMBERS-filen med en instans av Workbook
-1.  Konvertera NUMBERS till XLSB genom att anropa Workbook.save-metoden
+1.  Ladda NUMBERS-filen med en instans av Workbook.
+1.  Konvertera NUMBERS till XLSB genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet av NUMBERS till XLSB.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Filerna med tillägget .numbers klassificeras som kalkylbladsfiltyp, det är därför de liknar .xlsx-filerna; men Numbers-filerna skapas med hjälp av Apple iWork Numbers kalkylprogram. Apple iWork Numbers är en enhetsprogramvara för iWork Productivity Suite. iWork Productivity Suite motsvarar Microsoft Office Suite som används på Windows-datorer. Därför kan vi säga att Numbers som är tillgänglig för MacOS också är en konkurrent till Microsoft Excel. På samma sätt, Microsoft Excel, NUMBERS-filen kan också innehålla tabeller, diagram och formler.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Filformatet XLSB anger det binära filformatet för Excel, som är en samling poster och strukturer som anger innehållet i Excel-arbetsboken. Innehållet kan inkludera ostrukturerade eller semistrukturerade tabeller med siffror, text eller både siffror och text, formler, externa dataanslutningar, diagram och bilder. Till skillnad från XLSX (som är baserat på Open XML-filformat), representerar XLSB en binär Excel-arbetsboksfil. XLSB filer kan läsas och skrivas till snabbare vilket gör dem användbara för att arbeta med stora filer. XLSB används sällan för att lagra arbetsböcker eftersom XLSX (och tidigare XLS) är de vanligaste användarvalda filformaten för att spara arbetsböcker. Den kan öppnas av Microsoft Office 2007 och högre.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera NUMBERS till många andra filformat inklusive några som anges nedan." >}}
 

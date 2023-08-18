@@ -6,7 +6,7 @@ description:  C# källkoder som hur man infogar en form i Microsoft Excel-filer 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Infogning av Excel-former via JAVA" h2="Skapa Excel-dokument och infoga former med hjälp av API:er på serversidan i JAVA-baserade applikationer." >}}
 {{% blocks/products/pf/feature-page-summary %}}
 
- I excel kan du lägga till former som rutor, cirklar och pilar i dokument, e-postmeddelanden, bilder och kalkylblad. För att befria dig från mycket manuell infogning,[JAVA Excel-bibliotek](https://releases.aspose.com/cells/java/)API ger samma funktionalitet. Dessa API:er är mycket enkla att använda, vanligtvis behövs bara en rad kod för att infoga en specifik form, och några rader kod kan slutföra infogningen av partier av former.
+ I excel kan du lägga till former som rutor, cirklar och pilar i dokument, e-postmeddelanden, bilder och kalkylblad. För att befria dig från mycket manuell infogning,[JAVA Excel-bibliotek](https://releases.aspose.com/cells/java/) API ger samma funktionalitet. Dessa API:er är mycket enkla att använda, vanligtvis behövs bara en rad kod för att infoga en specifik form, och några rader kod kan slutföra infogningen av partier av former.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

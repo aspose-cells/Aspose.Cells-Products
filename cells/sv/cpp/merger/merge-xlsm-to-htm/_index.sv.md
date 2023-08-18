@@ -1,7 +1,8 @@
 ---
-title:  Slå samman XLSM till HTM via C++
+title: Slå samman XLSM till HTM - Kombinera XLSM till HTM i C++
 url: /sv/cpp/merger/merge-xlsm-to-htm/ 
-description: Slå samman XLSM till HTM Online gratis. Gratis online XLSM till HTM Merger. Slå samman XLSM till Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS och mer.
+description: Aspose Excel. C++ Aspose.Cells. Gratis Online Merge XLSM till HTM saveformat. C++ Kombinera XLSM till HTM-format. Slå samman XLSM till HTM i C++. XLSM Slå samman.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSM to HTM in C++., Free Online C++ Merge XLSM to htm., C++ Combine XLSM to HTM Online for Free., XLSM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLSM till HTM via C++" h2="Höghastighetsbibliotek C++ för sammanslagning av XLSM till HTM. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C++. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSM" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Slå samman XLSM till HTM Online gratis. Gratis online XLSM till HT
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLSM till HTM med C++" %}}
 
- Hur slår man ihop XLSM till HTM? Med Aspose.Cells for C++-biblioteket kan du enkelt slå samman XLSM till HTM programmässigt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur sammanfogar jag XLSM till HTM? Med Aspose.Cells for C++-biblioteket kan du enkelt slå samman XLSM till HTM programmässigt med några rader kod.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. C++ Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan ladda ner den senaste versionen direkt, bara öppna[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) pakethanteraren, sök efter Aspose.Cells.Cpp och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Kommando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLSM till HTM i C++ Online gratis" %}}
 
-Följande exempel visar hur man slår samman XLSM till HTM i C++.
+Följande exempel visar hur man slår samman XLSM till HTM i Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Följ de enkla stegen för att slå samman XLSM till HTM. Ladda upp dina filer, anrop Workbook.Combine-metoden för att sammanfoga filer och spara den sedan i HTM-fil. Om du utvecklar kod i C++ blir detta enklare än det låter. Se C++ exempel som slår samman XLSM till HTM.
@@ -36,16 +37,18 @@ Följ de enkla stegen för att slå samman XLSM till HTM. Ladda upp dina filer, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app för att slå samman XLSM till HTM online" InputFormat="xlsm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Gratis online för att slå samman XLSM till HTM i C++" InputFormat="xlsm" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman XLSM till HTM via C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
+Behöver du slå samman XLSM till HTM programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installera 'Aspose.Cells for C++'.
++ Lägg till en biblioteksreferens (importera biblioteket) till ditt C++-projekt.
 + Ladda filen XLSM med Workbook-klassen.
 + Anropa Workbook.Combine-metoden för att sammanfoga filer.
 + Anrop Workbook.Save-metoden och skicka ut filnamnet som en parameter.
@@ -63,7 +66,7 @@ Det finns tre alternativ för att installera "Aspose.Cells for C++" på ditt sys
 
 1.  Installera en[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Ser[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Installera biblioteket med Include och lib Folders. Ser[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Installera Aspose.Cells for C++ i Linux. Ser[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Installera Aspose.Cells for C++ i Linux. Ser[Dokumentation](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Filer med tillägget XLSM är en typ av kalkylbladsfiler som stöder makron. Ur applikationssynpunkt är ett makro en uppsättning instruktioner som används för att automatisera processer. Ett makro används för att registrera de steg som utförs upprepade gånger och underlättar utförandet av åtgärderna genom att köra makrot igen. Makron programmeras med Microsoft:s Visual Basic for Applications (VBA) från Excel-arbetsboken med hjälp av Visual Basic Editor och kan köras/felsökas direkt därifrån.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Filer med tillägget .htm representerar Hypertext Markup Language för att skapa webbsidor för visning i webbläsare som Google Chrome, Internet Explorer, Firefox och ett antal andra. Den definierar markeringarna för att skapa statiska sidor som ska publiceras på World Wide Web (WWW) för åtkomst av andra. Dessa markeringar talar om för webbläsarna hur de ska visa innehållet på en webbsida. Sådana sidor kan innehålla vanlig text, bilder, hyperlänkar till andra sidor, videor och annan medieinformation. När en webbsida publiceras kan du ta en titt på uppmärkningskoden bakom den genom att se sidans källa. Moderna webbläsare tillåter att inspektera varje sektion av en webbsida där varje underavdelning eller uppmärkningselement i HTM-källan är utarbetad.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra sammanslagningsformat som stöds" subTitle="Med hjälp av C++ kan man också slå ihop xlsm till många andra filformat inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-mhtml/" name="MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-tsv/" name="TSV" description="Tab-separerade värden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-txt/" name="TXT" description="Textdokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xls/" name="XLS" description="Excel binärt format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlt/" name="XLT" description="Microsoft Excel-mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xltm/" name="XLTM" description="Excel Macro-aktiverad mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xltx/" name="XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-docx/" name="Slå samman XLSM till DOCX" description="Microsoft Word-dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-sql/" name="Slå samman XLSM till SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-bmp/" name="Slå samman XLSM till BMP" description="Bitmappsbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-emf/" name="Slå samman XLSM till EMF" description="Förbättrat metafilformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-gif/" name="Slå samman XLSM till GIF" description="Grafiskt utbytesformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-html/" name="Slå samman XLSM till HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-md/" name="Slå samman XLSM till MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-mhtml/" name="Slå samman XLSM till MHTML" description="Arkivformat för webbsidor" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-ods/" name="Slå samman XLSM till ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-pdf/" name="Slå samman XLSM till PDF" description="Portabelt dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-png/" name="Slå samman XLSM till PNG" description="Bärbar nätverksgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-svg/" name="Slå samman XLSM till SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-tiff/" name="Slå samman XLSM till TIFF" description="Taggad bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-tsv/" name="Slå samman XLSM till TSV" description="Tab-separerade värden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-txt/" name="Slå samman XLSM till TXT" description="Textdokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xls/" name="Slå samman XLSM till XLS" description="Excel binärt format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsb/" name="Slå samman XLSM till XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsm/" name="Slå samman XLSM till XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlsx/" name="Slå samman XLSM till XLSX" description="OOXML Excel-fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xlt/" name="Slå samman XLSM till XLT" description="Microsoft Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xltm/" name="Slå samman XLSM till XLTM" description="Excel Macro-aktiverad mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xltx/" name="Slå samman XLSM till XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xml/" name="Slå samman XLSM till XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-xps/" name="Slå samman XLSM till XPS" description="XML-pappersspecifikationer" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-json/" name="Slå samman XLSM till JSON" description="JavaScript-objektnotation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsm-to-jpeg/" name="Slå samman XLSM till JPEG" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

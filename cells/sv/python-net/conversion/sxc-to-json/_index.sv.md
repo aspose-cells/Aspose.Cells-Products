@@ -1,7 +1,7 @@
 ---
-title: Konvertera SXC till JSON Python via Python
-description: Konvertera SXC till JSON online gratis. Gratis onlinekonverterare SXC till JSON. Python SXC till JSON. SXC till JSON via Python.
-keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC to Image
+title: Python SXC till JSON - Online SXC till JSON Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera SXC till JSON sparaformat. Python SXC till JSON format. Spara SXC till JSON Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SXC to JSON saveformat., Free Online SXC to JSON Python., Python Convert SXC to JSON]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SXC till JSON till Python" h2="Höghastighetsbibliotek Python för att konvertera SXC till JSON. Använd vår excelkonvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JSON" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SXC, SXC Converter, SXC to PDF, SXC to Word, SXC to PPT, SXC t
 
 {{% blocks/products/pf/agp/content h2="Konvertera SXC till JSON till Python" %}}
 
- Hur konverterar man SXC till JSON? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera SXC till JSON programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag SXC till JSON? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera SXC till JSON programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera SXC till JSON. Ladda upp din SXC-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera SXC till JSON online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="json" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera SXC till JSON online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="sxc" outformat="json" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SXC till JSON" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-utvecklare kan enkelt ladda och konvertera SXC till JSON på bara några rader kod.
+Behöver du konvertera SXC-filer till JSON programmatiskt? Python-utvecklare kan enkelt ladda och konvertera SXC till JSON på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda SXC-filen med en instans av Workbook
-1.  Konvertera SXC till JSON genom att anropa metoden Workbook.save
+1.  Ladda SXC-filen med en instans av Workbook.
+1.  Konvertera SXC till JSON genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet från SXC till JSON.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Filformatet SXC(Sun XML Calc) tillhör en kontorssvit som heter OpenOffice.org. Detta format hanterar i allmänhet användarnas kalkylbladsbehov eftersom det är ett XML-baserat kalkylarksfilformat. SXC-formatet stöder formler, funktioner, makron och diagram tillsammans med DataPilot, vilket är en otrolig funktion eftersom den automatiskt individualiserar och ger sammanfattningar av råimporterad data. Filerna som skapas med denna programvara sparas med filtillägget .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (JavaScript Object Notation) är ett öppet standardfilformat för att dela data som använder läsbar text för att lagra och överföra data. JSON-filer lagras med tillägget .json. JSON kräver mindre formatering och är ett bra alternativ för XML. JSON härrör från JavaScript men är ett språkoberoende dataformat. Generering och analys av JSON stöds av många moderna programmeringsspråk. application/json är mediatypen som används för JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera SXC till många andra filformat, inklusive några som anges nedan." >}}
 

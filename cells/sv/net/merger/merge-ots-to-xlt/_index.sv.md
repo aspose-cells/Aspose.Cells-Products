@@ -1,7 +1,8 @@
 ---
-title:  Slå samman OTS till XLT via C#
+title: Slå samman OTS till XLT - Kombinera OTS till XLT i C#
 url: /sv/net/merger/merge-ots-to-xlt/ 
-description: Slå samman OTS till XLT Online gratis. Gratis online OTS till XLT Fusion. Slå samman OTS till Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS och mer.
+description: Aspose Excel. C# Aspose.Cells. Gratis Online Merge OTS till XLT saveformat. C# Kombinera OTS till XLT format. Slå samman OTS till XLT i C#. OTS Merge.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to XLT in C#., Free Online C# Merge OTS to xlt., C# Combine OTS to XLT Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman OTS till XLT via C#" h2="Höghastighetsbibliotek C# för sammanslagning av OTS till XLT. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i C#. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image-format och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="XLT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Slå samman OTS till XLT Online gratis. Gratis online OTS till XLT 
 
 {{% blocks/products/pf/agp/content h2="Slå samman OTS till XLT med C#" %}}
 
- Hur slår man ihop OTS till XLT? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman OTS till XLT programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
+ Hur slår jag ihop OTS till XLT? Med Aspose.Cells for .NET-biblioteket kan du enkelt slå samman OTS till XLT programmatiskt med några rader kod.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. .NET Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Öppen[NuGet](https://www.nuget.org/packages/aspose.cells) pakethanteraren, sök efter Aspose.Cells och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Slå samman OTS till XLT i C# Online gratis" %}}
 
-Följande exempel visar hur man slår samman OTS till XLT i C#.
+Följande exempel visar hur man slår samman OTS till XLT i Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Följ de enkla stegen för att slå samman OTS till XLT. Ladda upp dina filer, ring Workbook.Combine-metoden för att sammanfoga filer och spara den sedan till XLT-filen. Om du utvecklar kod i C# blir detta enklare än det låter. Se C# exempel som slår samman OTS till XLT.
@@ -36,17 +37,19 @@ Följ de enkla stegen för att slå samman OTS till XLT. Ladda upp dina filer, r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app för att slå samman OTS till XLT online" InputFormat="ots" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Gratis online för att slå samman OTS till XLT i C#" InputFormat="ots" InputFormat2="xlt" outformat="xlt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman OTS till XLT via C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
+Behöver du slå samman OTS till XLT programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Ladda OTS-filen med Workbook-klassen.
++ Installera 'Aspose.Cells for .NET'.
++ Lägg till en biblioteksreferens (importera biblioteket) till ditt C#-projekt.
++ Ladda OTS-filen med Workbook-klassen.
 + Anropa Workbook.Combine-metoden för att sammanfoga filer.
 + Anrop Workbook.Save-metoden och skicka ut filnamnet som en parameter.
 + Nu kan du öppna och använda utdatafilen i Microsoft Office, Adobe PDF eller något annat kompatibelt program.
@@ -62,7 +65,7 @@ Det finns två alternativa alternativ för att installera "Aspose.Cells for .NET
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera en[NuGet Paket](https://www.nuget.org/packages/Aspose.Cells/) . Ser[Dokumentation](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Installera biblioteket med[Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)inom Visual Studio IDE
+1.  Installera biblioteket med[Package Manager Console](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) inom Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}En fil med tillägget .ots är en OpenDocument Spreadsheet Template-fil som skapas med Calc-programvaran som ingår i Apache OpenOffice. Calc-programvaran liknar Excel som finns tillgänglig i Microsoft Office. OTS-filformat används för att skapa mallar som innehåller fördefinierade inställningar relaterade till stilar, teckensnitt, data, kalkylbladslayout och formatering. OTF-filer har mime-typ application/vnd.oasis.opendocument.spreadsheet-template. Dessa mallfiler kan användas som utgångspunkt för att generera och spara faktiska datafiler som sparas i filformatet ODS. OTS-filer kan användas med applikationer som OpenOffice och LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Filer med filtillägget .xlt är mallfiler skapade med Microsoft Excel som är ett kalkylprogram som ingår i Microsoft Office-paketet. Microsoft Office 97-2003 stödde att skapa nya XLT-filer samt att öppna dessa. Den senaste versionen av Excel kan fortfarande öppna detta gamla formatmallfiler. En sådan mallfil används för att snabbt skapa nya Excel-filer med standarddata och inställningar som sidformatering, teckenstorlek, marginaler, diagram, etc som kan sparas ytterligare som nya .xls-filer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra sammanslagningsformat som stöds" subTitle="Genom att använda C# kan man också slå samman ots till många andra filformat inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="TSV" description="Tab-separerade värden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="TXT" description="Textdokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="XLS" description="Excel binärt format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Excel-mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="XLTM" description="Excel Macro-aktiverad mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-docx/" name="Slå samman OTS till DOCX" description="Microsoft Word-dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-sql/" name="Slå samman OTS till SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-bmp/" name="Slå samman OTS till BMP" description="Bitmappsbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-emf/" name="Slå samman OTS till EMF" description="Förbättrat metafilformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-gif/" name="Slå samman OTS till GIF" description="Grafiskt utbytesformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="Slå samman OTS till HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-md/" name="Slå samman OTS till MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="Slå samman OTS till MHTML" description="Arkivformat för webbsidor" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="Slå samman OTS till ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-pdf/" name="Slå samman OTS till PDF" description="Portabelt dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-png/" name="Slå samman OTS till PNG" description="Bärbar nätverksgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-svg/" name="Slå samman OTS till SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tiff/" name="Slå samman OTS till TIFF" description="Taggad bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="Slå samman OTS till TSV" description="Tab-separerade värden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="Slå samman OTS till TXT" description="Textdokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="Slå samman OTS till XLS" description="Excel binärt format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="Slå samman OTS till XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="Slå samman OTS till XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="Slå samman OTS till XLSX" description="OOXML Excel-fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="Slå samman OTS till XLT" description="Microsoft Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="Slå samman OTS till XLTM" description="Excel Macro-aktiverad mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="Slå samman OTS till XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xml/" name="Slå samman OTS till XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="Slå samman OTS till XPS" description="XML-pappersspecifikationer" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-json/" name="Slå samman OTS till JSON" description="JavaScript-objektnotation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-jpeg/" name="Slå samman OTS till JPEG" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

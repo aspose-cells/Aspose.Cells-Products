@@ -58,7 +58,7 @@ description: Java exempelkod för att söka efter ord med mönster i filen XLSX 
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda XLSX-filen genom att instansiera ett arbetsboksobjekt.
-Gå till det första kalkylbladet i filen XLSX.
++ Gå till det första kalkylbladet i filen XLSX.
 + Hitta cellen som innehåller den angivna formeln.
 + Instantiera FindOptions.
 + Hitta cellen som innehåller ett strängvärde

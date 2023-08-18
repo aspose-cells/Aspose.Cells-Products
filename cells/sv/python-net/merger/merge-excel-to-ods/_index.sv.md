@@ -1,7 +1,8 @@
 ---
-title:  Slå ihop EXCEL till ODS via Python
+title: Slå ihop EXCEL till ODS - Kombinera EXCEL till ODS i Python
 url: /sv/python-net/merger/merge-excel-to-ods/ 
-description: Slå ihop EXCEL till ODS Online gratis. Gratis online EXCEL till ODS Fusion. Slå ihop EXCEL till Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS och mer.
+description: Aspose Excel. Python Aspose.Cells. Gratis Online Merge EXCEL till ODS saveformat. Python Kombinera EXCEL till ODS format. Slå ihop EXCEL till ODS i Python. EXCEL Merge.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge EXCEL to ODS in Python., Free Online Python Merge EXCEL to ods., Python Combine EXCEL to ODS Online for Free., EXCEL Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå ihop EXCEL till ODS via Python" h2="Höghastighetsbibliotek Python för sammanslagning av EXCEL till ODS. Använd vår excelkonvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python. Detta är en professionell mjukvarulösning för att importera och exportera Excel, CSV, OpenOffice, PDF, HTML, image och många andra Excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="EXCEL" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Slå ihop EXCEL till ODS Online gratis. Gratis online EXCEL till OD
 
 {{% blocks/products/pf/agp/content h2="Slå ihop EXCEL till ODS med Python" %}}
 
- Hur slår man ihop EXCEL till ODS? Med Aspose.Cells for Python-biblioteket kan du enkelt slå samman EXCEL till ODS programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
+ Hur slår jag ihop EXCEL till ODS? Med Aspose.Cells for Python via .NET bibliotek kan du enkelt slå samman EXCEL till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via .NET från<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Slå ihop EXCEL till ODS i Python Online gratis" %}}
 
-Följande exempel visar hur man slår ihop EXCEL till ODS i Python.
+Följande exempel visar hur man slår ihop EXCEL till ODS i Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Följ de enkla stegen för att slå samman EXCEL till ODS. Ladda upp dina filer, ring Workbook.Combine-metoden för att sammanfoga filer och spara den sedan till ODS-filen. Om du utvecklar kod i Python blir detta enklare än det låter. Se Python exempel som slår samman EXCEL till ODS.
@@ -27,16 +28,18 @@ Följ de enkla stegen för att slå samman EXCEL till ODS. Ladda upp dina filer,
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app för att slå samman EXCEL till ODS online" InputFormat="xlsx" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Gratis online för att slå ihop EXCEL till ODS i Python" InputFormat="xlsx" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop EXCEL till ODS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API:er kan göras med bara några rader kod.
+ Behöver du slå ihop EXCEL till ODS programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installera 'Aspose.Cells for Python via .NET'.
++ Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
 + Ladda EXCEL-filen med Workbook-klassen.
 + Anropa Workbook.Combine-metoden för att sammanfoga filer.
 + Anrop Workbook.Save-metoden och skicka ut filnamnet som en parameter.
@@ -53,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX är ett välkänt format för Microsoft Excel-dokument som introducerades av Microsoft med lanseringen av Microsoft Office 2007. Baserat på strukturen organiserad enligt Open Packaging-konventionerna som beskrivs i del 2 av OOX3ML-standarden ECMA- är det nya formatet ECMA ett zip-paket som innehåller ett antal XML-filer. Den underliggande strukturen och filerna kan undersökas genom att helt enkelt packa upp .xlsx-filen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Filer med tillägget .ods står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, som XLS, XLSX och andra av olika applikationer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra sammanslagningsformat som stöds" subTitle="Med hjälp av Python kan man också slå ihop Excel till många andra filformat inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="TSV" description="Tab-separerade värden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="TXT" description="Textdokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="XLS" description="Excel binärt format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="XLT" description="Microsoft Excel-mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="XLTM" description="Excel Macro-aktiverad mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-docx/" name="Slå ihop EXCEL till DOCX" description="Microsoft Word-dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-sql/" name="Slå ihop EXCEL till SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-bmp/" name="Slå ihop EXCEL till BMP" description="Bitmappsbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-emf/" name="Slå ihop EXCEL till EMF" description="Förbättrat metafilformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-gif/" name="Slå ihop EXCEL till GIF" description="Grafiskt utbytesformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-html/" name="Slå ihop EXCEL till HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-md/" name="Slå ihop EXCEL till MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-mhtml/" name="Slå ihop EXCEL till MHTML" description="Arkivformat för webbsidor" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-ods/" name="Slå ihop EXCEL till ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-pdf/" name="Slå ihop EXCEL till PDF" description="Portabelt dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-png/" name="Slå ihop EXCEL till PNG" description="Bärbar nätverksgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-svg/" name="Slå ihop EXCEL till SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tiff/" name="Slå ihop EXCEL till TIFF" description="Taggad bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-tsv/" name="Slå ihop EXCEL till TSV" description="Tab-separerade värden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-txt/" name="Slå ihop EXCEL till TXT" description="Textdokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xls/" name="Slå ihop EXCEL till XLS" description="Excel binärt format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsb/" name="Slå ihop EXCEL till XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsm/" name="Slå ihop EXCEL till XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlsx/" name="Slå ihop EXCEL till XLSX" description="OOXML Excel-fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xlt/" name="Slå ihop EXCEL till XLT" description="Microsoft Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltm/" name="Slå ihop EXCEL till XLTM" description="Excel Macro-aktiverad mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xltx/" name="Slå ihop EXCEL till XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xml/" name="Slå ihop EXCEL till XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-xps/" name="Slå ihop EXCEL till XPS" description="XML-pappersspecifikationer" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-json/" name="Slå ihop EXCEL till JSON" description="JavaScript-objektnotation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-excel-to-jpeg/" name="Slå ihop EXCEL till JPEG" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

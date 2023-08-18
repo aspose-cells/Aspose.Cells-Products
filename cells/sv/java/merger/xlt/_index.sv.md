@@ -49,14 +49,14 @@ description: Java exempelkod för att kombinera XLT dokument på Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Java](https://products.aspose.com/cells/java) API:er kan göras med bara några rader kod.
+Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Java](https://products.aspose.com/cells/java) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda den första XLT-filen med en instans av Workbook-klassen.
 + Ladda det andra XLT-dokumentet med en instans av Workbook-klassen.
 + Slå samman filer med metoden combine().
-spara den sammanslagna XLT-filen på angiven sökväg
++ spara den sammanslagna XLT-filen på angiven sökväg
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ xltFile1.save("combinedFileWithPath.xlt");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Du behöver inte ladda ner Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Du behöver inte skriva någon kod." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Ladda bara upp dina XLT-filer." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Det kommer att slås samman och sammanfogas direkt." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Det kommer att slås samman och sammanfogas direkt." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

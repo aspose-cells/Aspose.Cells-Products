@@ -1,7 +1,7 @@
 ---
-title: Konvertera HTM till TIFF Python via Python
-description: Konvertera HTM till TIFF online gratis. Gratis Online HTM till TIFF Converter. Python HTM till TIFF. HTM till TIFF via Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM till TIFF - Online HTM till TIFF Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis Online Python Konvertera HTM till TIFF saveformat. Python HTM till TIFF format. Spara HTM till TIFF Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to TIFF saveformat., Free Online HTM to TIFF Python., Python Convert HTM to TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera HTM till TIFF till Python" h2="Höghastighetsbibliotek Python för att konvertera HTM till TIFF. Använd vår excelkonvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="Konvertera HTM till TIFF till Python" %}}
 
- Hur konverterar man HTM till TIFF? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera HTM till TIFF programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag HTM till TIFF? Med Aspose.Cells for Python via NET bibliotek kan du enkelt konvertera HTM till TIFF programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera HTM till TIFF. Ladda upp din HTM-fil o
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera HTM till TIFF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera HTM till TIFF online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar HTM till TIFF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-utvecklare kan enkelt ladda och konvertera HTM till TIFF på bara några rader kod.
+Behöver du konvertera HTM-filer till TIFF programmatiskt? Python-utvecklare kan enkelt ladda och konvertera HTM till TIFF på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda HTM-fil med en instans av Workbook
-1.  Konvertera HTM till TIFF genom att anropa Workbook.save-metoden
+1.  Ladda HTM-fil med en instans av Workbook.
+1.  Konvertera HTM till TIFF genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet från HTM till TIFF.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Filer med tillägget .htm representerar Hypertext Markup Language för att skapa webbsidor för visning i webbläsare som Google Chrome, Internet Explorer, Firefox och ett antal andra. Den definierar markeringarna för att skapa statiska sidor som ska publiceras på World Wide Web (WWW) för åtkomst av andra. Dessa markeringar talar om för webbläsarna hur de ska visa innehållet på en webbsida. Sådana sidor kan innehålla vanlig text, bilder, hyperlänkar till andra sidor, videor och annan medieinformation. När en webbsida publiceras kan du ta en titt på uppmärkningskoden bakom den genom att se sidans källa. Moderna webbläsare tillåter att inspektera varje sektion av en webbsida där varje underavdelning eller uppmärkningselement i HTM-källan är utarbetad.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel-, gråskala-, palett-färg- och fullfärgsbilddata i flera färgrymder. Den stöder såväl förlustfria som förlustfria komprimeringssystem för att välja mellan utrymme och tid för applikationer som använder formatet. Formatet är inte maskinberoende och är fritt från gränser som processor, operativsystem eller filsystem.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera HTM till många andra filformat inklusive några som anges nedan." >}}
 
@@ -93,7 +99,7 @@ Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xlt/" name="HTM TILL XLT" description="Microsoft Excel-mall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltm/" name="HTM TILL XLTM" description="Excel Macro-aktiverad mall" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xltx/" name="HTM TILL XLTX" description="Office OpenXML Excel-mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xml/" name="HTM TO XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xml/" name="HTM TILL XML" description="Extensible Markup Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-xps/" name="HTM TILL XPS" description="XML-pappersspecifikationer" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/htm-to-json/" name="HTM TILL JSON" description="JavaScript-objektnotation" >}}
 

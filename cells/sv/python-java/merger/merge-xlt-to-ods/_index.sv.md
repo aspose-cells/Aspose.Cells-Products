@@ -1,7 +1,8 @@
 ---
-title:  Slå samman XLT till ODS via Python
+title: Slå samman XLT till ODS - Kombinera XLT till ODS i Python
 url: /sv/python-java/merger/merge-xlt-to-ods/ 
-description: Slå samman XLT till ODS Online gratis. Gratis online XLT till ODS Sammanslagning. Slå samman XLT till Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS och mer.
+description: Aspose Excel. Python Aspose.Cells. Gratis Online Merge XLT till ODS sparaformat. Python Kombinera XLT till ODS format. Slå samman XLT till ODS i Python. XLT Slå samman.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to ODS in Python., Free Online Python Merge XLT to ods., Python Combine XLT to ODS Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Slå samman XLT till ODS via Python" h2="Höghastighetsbibliotek Python för sammanslagning av XLT till ODS. Använd vår excel-konvertering API för att utveckla plattformsoberoende mjukvara på hög nivå i Python. Detta är en professionell mjukvarulösning för att importera och exportera 0816153 och många andra excel-format, och många andra excel-format." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Slå samman XLT till ODS Online gratis. Gratis online XLT till ODS 
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLT till ODS med Python" %}}
 
- Hur slår man ihop XLT till ODS? Med Aspose.Cells for Python bibliotek kan du enkelt slå samman XLT till ODS programmatiskt med några rader kod.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
+ Hur slår jag samman XLT till ODS? Med Aspose.Cells for Python via Java bibliotek kan du enkelt slå samman XLT till ODS programmatiskt med några rader kod.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format. Du kan installera Aspose.Cells for Python via Java från<a href="https://pypi.org/project/aspose-cells/">pypi</a> , använd kommandot som:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Slå samman XLT till ODS i Python Online gratis" %}}
 
-Följande exempel visar hur man slår samman XLT till ODS i Python.
+Följande exempel visar hur man slår samman XLT till ODS i Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Följ de enkla stegen för att slå samman XLT till ODS. Ladda upp dina filer, ring Workbook.Combine-metoden för att sammanfoga filer och spara den sedan i filen ODS. Om du utvecklar kod i Python blir detta enklare än det låter. Se Python exempel som slår samman XLT till ODS.
@@ -27,16 +28,18 @@ Följ de enkla stegen för att slå samman XLT till ODS. Ladda upp dina filer, r
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Gratis app för att slå samman XLT till ODS online" InputFormat="xlt" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Gratis online för att slå samman XLT till ODS i Python" InputFormat="xlt" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man slår samman XLT till ODS via Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API:er kan göras med bara några rader kod.
+ Behöver du slå samman XLT till ODS programmatiskt? Ett grundläggande dokument som sammanfogas och sammanfogas med[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API:er kan göras med bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Installera 'Aspose.Cells for Python via Java'.
++ Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
 + Ladda filen XLT med Workbook-klassen.
 + Anropa Workbook.Combine-metoden för att sammanfoga filer.
 + Anrop Workbook.Save-metoden och skicka ut filnamnet som en parameter.
@@ -75,21 +78,41 @@ Våra API:er stöds på alla större plattformar och operativsystem. Innan du k�
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Filer med filtillägget .xlt är mallfiler skapade med Microsoft Excel som är ett kalkylprogram som ingår i Microsoft Office-paketet. Microsoft Office 97-2003 stödde att skapa nya XLT-filer samt att öppna dessa. Den senaste versionen av Excel kan fortfarande öppna detta gamla formatmallfiler. En sådan mallfil används för att snabbt skapa nya Excel-filer med standarddata och inställningar som sidformatering, teckenstorlek, marginaler, diagram, etc som kan sparas ytterligare som nya .xls-filer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Filer med tillägget .ods står för OpenDocument Spreadsheet Document-format som kan redigeras av användaren. Data lagras i ODF-filen i rader och kolumner. Det är XML-baserat format och är en av flera undertyper i familjen Open Document Formats (ODF). Formatet specificeras som en del av ODF 1.2-specifikationerna som publiceras och underhålls av OASIS. Ett antal applikationer på Windows såväl som andra operativsystem kan öppna ODS-filer för redigering och manipulering, inklusive Microsoft Excel, NeoOffice och LibreOffice. ODS-filer kan också konverteras till andra kalkylbladsformat, som XLS, XLSX och andra av olika applikationer.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra sammanslagningsformat som stöds" subTitle="Med hjälp av Python kan man också slå ihop xlt till många andra filformat inklusive." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-mhtml/" name="MHTML" description="Arkivformat för webbsidor" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-ods/" name="ODS" description="OpenDocument Spreadsheet File" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tsv/" name="TSV" description="Tab-separerade värden" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-txt/" name="TXT" description="Textdokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xls/" name="XLS" description="Excel binärt format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsb/" name="XLSB" description="Binär Excel arbetsbok fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsm/" name="XLSM" description="Kalkylbladsfil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsx/" name="XLSX" description="OOXML Excel-fil" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel-mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltm/" name="XLTM" description="Excel Macro-aktiverad mall" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltx/" name="XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-docx/" name="Slå samman XLT till DOCX" description="Microsoft Word-dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-sql/" name="Slå samman XLT till SQL" description="Structured Query Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-bmp/" name="Slå samman XLT till BMP" description="Bitmappsbild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-emf/" name="Slå samman XLT till EMF" description="Förbättrat metafilformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-gif/" name="Slå samman XLT till GIF" description="Grafiskt utbytesformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-html/" name="Slå samman XLT till HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-md/" name="Slå samman XLT till MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-mhtml/" name="Slå samman XLT till MHTML" description="Arkivformat för webbsidor" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-ods/" name="Slå samman XLT till ODS" description="OpenDocument Spreadsheet File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-pdf/" name="Slå samman XLT till PDF" description="Portabelt dokumentformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-png/" name="Slå samman XLT till PNG" description="Bärbar nätverksgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-svg/" name="Slå samman XLT till SVG" description="Skalbar vektorgrafik" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tiff/" name="Slå samman XLT till TIFF" description="Taggad bildformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tsv/" name="Slå samman XLT till TSV" description="Tab-separerade värden" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-txt/" name="Slå samman XLT till TXT" description="Textdokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xls/" name="Slå samman XLT till XLS" description="Excel binärt format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsb/" name="Slå samman XLT till XLSB" description="Binär Excel arbetsbok fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsm/" name="Slå samman XLT till XLSM" description="Kalkylbladsfil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsx/" name="Slå samman XLT till XLSX" description="OOXML Excel-fil" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlt/" name="Slå samman XLT till XLT" description="Microsoft Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltm/" name="Slå samman XLT till XLTM" description="Excel Macro-aktiverad mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltx/" name="Slå samman XLT till XLTX" description="Office OpenXML Excel-mall" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xml/" name="Slå samman XLT till XML" description="Extensible Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xps/" name="Slå samman XLT till XPS" description="XML-pappersspecifikationer" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-json/" name="Slå samman XLT till JSON" description="JavaScript-objektnotation" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-jpeg/" name="Slå samman XLT till JPEG" description="JPEG Bild" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

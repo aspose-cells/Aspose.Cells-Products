@@ -6,7 +6,7 @@ description: Konvertera Excel XLS, XLSX, ODS, CSV till PDF, XPS, HTML, JPEG, JPE
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konvertering av Excel-filer via Java" h2="Spara Microsoft Excel-dokument som kalkylblad, webb, bild och format med fast layout" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- För alla**Excel-konverterare** applikation eller lösning, Java Excel Library snabbar upp kalkylbladsprogrammering och konverteringsprocesser samtidigt som den hanterar flera format inklusive XLS, XLSX, XLSM, XLSB, XLTX, 07616 18, 07616 18, 07616 18481, 07616 180 , ODS. Det gör det också möjligt att *konvertera Excel-filer till PDF**, XPS, HTML, MHTML, vanlig text och populära bildformat som TIFF, JPG, PNG, BMP och SVG.
+ För alla**Excel-konverterare**applikation eller lösning, Java Excel Library snabbar upp kalkylbladsprogrammering och konverteringsprocesser samtidigt som den hanterar flera format inklusive XLS, XLSX, XLSM, XLSB, XLTX, 07616 18, 07616 18, 07616 18481, 07616 180 , ODS. Det gör det också möjligt att *konvertera Excel-filer till PDF**, XPS, HTML, MHTML, vanlig text och populära bildformat som TIFF, JPG, PNG, BMP och SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertering av Microsoft Excel-format" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Microsoft Excel till Word och PowerPoint" %}}
- Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) klasser som visas nedan.
+ Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)klasser som visas nedan.
 {{% blocks/products/pf/feature-page-code h3="Java Kod för Excel till Word & PowerPoint konvertering" %}}
 ```cs
 // load the template file

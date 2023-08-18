@@ -13,7 +13,7 @@ description: Java exempelkod för att redigera eller visa metadata i formatet OD
 
  För att få ODS filmetadata kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API som är en funktionsrik, kraftfull och lättanvänd metadata API for Java plattform. Du kan ladda ner den senaste versionen direkt från
+API som är en funktionsrik, kraftfull och lättanvänd metadata API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
@@ -58,7 +58,7 @@ description: Java exempelkod för att redigera eller visa metadata i formatet OD
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda ODS-filen i WorkbookMetadata
-Skapa MetadataOptions-objekt med relevanta alternativ
++ Skapa MetadataOptions-objekt med relevanta alternativ
 + Ställ in relevanta egenskaper
 + Spara ODS metadatainformation
 

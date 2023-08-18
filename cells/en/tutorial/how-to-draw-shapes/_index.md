@@ -33,6 +33,10 @@ We'll start by creating a new workbook using the <a href="https://www.nuget.org/
 using Aspose.Cells;
 using Aspose.Cells.Drawing;
 
+
+
+
+
 Workbook workbook = new Workbook();
 Worksheet sheet = workbook.Worksheets[0];
 sheet.PageSetup.PrintGridlines = true;
@@ -52,7 +56,7 @@ shapes.AddLine(8, 0, 1, 0, 100, 150);
 shapes.AddOval(13, 0, 1, 0, 100, 150);
 
 //ExStep:0-
-
+workbook
 //ExEnd
 {{< /app/cells/tutorial >}}
 <br />

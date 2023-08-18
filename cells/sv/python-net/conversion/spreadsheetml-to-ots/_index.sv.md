@@ -1,7 +1,7 @@
 ---
-title: Konvertera SPREADSHEETML till OTS Python via Python
-description: Konvertera SPREADSHEETML till OTS Online gratis. Gratis online-spreadsheetml till OTS-konverterare. Python Kalkylblad till OTS. Kalkylblad till OTS via Python.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML till OTS - Online SPREADSHEETML till OTS Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Gratis online Python Konvertera SPREADSHEETML till OTS saveformat. Python SPREADSHEETML till OTS-format. Spara SPREADSHEETML till OTS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to OTS saveformat., Free Online SPREADSHEETML to OTS Python., Python Convert SPREADSHEETML to OTS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Konvertera SPREADSHEETML till OTS i Python" h2="Höghastighets Python-bibliotek för att konvertera Kalkylark till OTS. Använd vår excel-konvertering API för att utveckla plattformsoberoende programvara på hög nivå i Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="OTS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/content h2="Konvertera SPREADSHEETML till OTS i Python" %}}
 
- Hur konverterar man SPREADSHEETML till OTS? Med Aspose.Cells for Python via NET-biblioteket kan du enkelt konvertera SPREADSHEETML till OTS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
+ Hur konverterar jag SPREADSHEETML till OTS? Med Aspose.Cells for Python via NET-biblioteket kan du enkelt konvertera SPREADSHEETML till OTS programmatiskt med några rader kod.[Aspose.Cells for Python via NET](https://pypi.org/project/aspose-cells-python/)kan bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut alla Excel-filer. Python Excel API konverterar inte bara mellan kalkylarksformat, det kan också rendera Excel-filer som bilder, PDF, HTML, ODS, ODS, CSV, 0761687481, 0761687481, vilket gör det till ett perfekt val, Pt utbyta dokument i branschstandard format.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Följ de enkla stegen för att konvertera SPREADSHEETML till OTS. Ladda upp din 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Gratis app och provkod för att konvertera SPREADSHEETML till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Gratis app och provkod för att konvertera SPREADSHEETML till OTS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="ots" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Hur man konverterar SPREADSHEETML till OTS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python-utvecklare kan enkelt ladda och konvertera SPREADSHEETML till OTS på bara några rader kod.
+Behöver du konvertera SPREADSHEETML-filer till OTS programmatiskt? Python-utvecklare kan enkelt ladda och konvertera SPREADSHEETML till OTS på bara några rader kod.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Installera 'Aspose.Cells for Python via .NET'.
 1.  Lägg till en biblioteksreferens (importera biblioteket) till ditt Python-projekt.
-1.  Ladda SPREADSHEETML-fil med en instans av Workbook
-1.  Konvertera SPREADSHEETML till OTS genom att anropa Workbook.save-metoden
+1.  Ladda SPREADSHEETML-fil med en instans av Workbook.
+1.  Konvertera SPREADSHEETML till OTS genom att anropa Workbook.save-metoden.
+1.  Få konverteringsresultatet från SPREADSHEETML till OTS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/)om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
+ Och du kan också följa[steg-för-steg instruktioner](https://docs.aspose.com/cells/python-net/getting-started/) om hur du installerar "Aspose.Cells for Python via .NET" i din utvecklarmiljö.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Installera Aspose.Cells for Python från<a href="https://pypi.org/project/aspose
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
+ Aspose.Cells for Python via NET är plattformsoberoende API och kan användas på vilken plattform som helst (Windows, Linux), se bara till att systemet har[Python](https://www.python.org/downloads/) 3,7 eller högre.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML står för Extensible Markup Language som liknar HTML men skiljer sig från att använda taggar för att definiera objekt. Hela idén bakom skapandet av XML-filformat var att lagra och transportera data utan att vara beroende av mjukvara eller hårdvaruverktyg. Dess popularitet beror på att den är både mänsklig och maskinläsbar. Detta gör det möjligt för den att skapa gemensamma dataprotokoll i form av objekt som ska lagras och delas över nätverk som World Wide Web (WWW). "X" i XML är för extensible vilket innebär att språket kan utökas till valfritt antal symboler enligt användarens krav. Det är för dessa funktioner som många standardfilformat använder det som Microsoft Open XML, LibreOffice OpenDocument, XHTML och SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}En fil med tillägget .ots är en OpenDocument Spreadsheet Template-fil som skapas med Calc-programvaran som ingår i Apache OpenOffice. Calc-programvaran liknar Excel som finns tillgänglig i Microsoft Office. OTS-filformat används för att skapa mallar som innehåller fördefinierade inställningar relaterade till stilar, teckensnitt, data, kalkylbladslayout och formatering. OTF-filer har mime-typ application/vnd.oasis.opendocument.spreadsheet-template. Dessa mallfiler kan användas som utgångspunkt för att generera och spara faktiska datafiler som sparas i filformatet ODS. OTS-filer kan användas med applikationer som OpenOffice och LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra omvandlingar som stöds" subTitle="Du kan också konvertera SPREADSHEETML till många andra filformat, inklusive några som anges nedan." >}}
 

@@ -12,11 +12,11 @@ description: C# ASP.NET VB.NET bibliotek för att arbeta med Microsoft Excel-dok
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylblad. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV och SpreadsheetML-format.
+Aspose.Cells for .NET är en Excel-kalkylbladsprogrammering API för att påskynda hanteringen och bearbetningen av kalkylblad. API stöder för att bygga plattformsoberoende applikationer med förmågan att generera, modifiera, konvertera, rendera och skriva ut kalkylblad. Dessutom förlitar den sig inte på att Microsoft Excel eller några Microsoft Office Interop-komponenter ska installeras utan en robust uppsättning API:er som hanterar alla Excel-format såväl som CSV och SpreadsheetML-format.
 </p>
 
 <p>
-Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulera diagram, bilder, kommentarer, ritobjekt och mycket mer.
+ Genom att integrera API kan några av de grundläggande uppgifterna utvecklare utföra som att hantera flera kalkylblad, skapa kalkylbladsinnehåll och stilar från grunden, importera data till kalkylbladen från olika datakällor, lägga till vanliga och komplexa matematiska, finansiella och textformler, manipulera diagram, bilder, kommentarer, ritobjekt och mycket mer.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ Genom att integrera API kan några av de grundläggande uppgifterna utvecklare u
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Avancerade Excel-kalkylblad API-funktioner
+ Avancerade Excel-kalkylblad API-funktioner
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Avancerade Excel-kalkylblad API-funktioner
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
+Stöd för CSV (kommaseparerade värden) &amp; TSV (tabbseparerade värden)
     </p>
    </div>
    <div class="col-lg-4">
@@ -388,7 +388,7 @@ Avancerade Excel-kalkylblad API-funktioner
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ställ in automatiska filter &amp; sidbrytningar
+ Ställ in autofilter &amp; sidbrytningar
     </p>
    </div>
    <div class="col-lg-4">
@@ -409,7 +409,7 @@ Avancerade Excel-kalkylblad API-funktioner
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; återge sparklines
+ Skapa &amp; rendera sparklines
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Avancerade Excel-kalkylblad API-funktioner
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Konvertera kalkylark till PDF, XPS &amp; HTML Format
+ Konvertera kalkylark till PDF, XPS &amp; HTML Format
     </h2>
     <p>
  Aspose.Cells for .NET kan konvertera kalkylblad till PDF, XPS &amp; HTML-format med bibehållen högsta visuella kvalitet. Konverteringsprocessen är enkel men pålitlig, vilket gör API till ett perfekt val för organisationer som behöver utbyta dokument i något av industristandardformaten.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Spara kalkylblad i olika format - C#
+Spara kalkylblad i olika format - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET ger dig fullständig frihet och flexibilitet att förse dina kalkylblad med alla typer av visuella effekter. Med API kan du använda olika typsnitt med attribut, cellstilar (justering, indrag, rotation, ramar, skuggning och färgläggning, skydd, textlindning och krympning) och alla typer av talformat.
     </p>
     <p>
-På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalkylblad ett professionellt utseende. Aspose.Cells for .NET tillhandahåller en omfattande uppsättning API:er för att skapa och manipulera alla standard- och anpassade diagramtyper. Dessutom kan du lägga till olika typer av ritobjekt, såsom kommentarer, bilder, OLE-objekt, former och kontroller till cellerna
+ På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalkylblad ett professionellt utseende. Aspose.Cells for .NET tillhandahåller en omfattande uppsättning API:er för att skapa och manipulera alla standard- och anpassade diagramtyper. Dessutom kan du lägga till olika typer av ritobjekt, såsom kommentarer, bilder, OLE-objekt, former och kontroller till cellerna
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalk
  Effektiv, Robust &amp; Pålitlig formelberäkningsmotor
     </h2>
     <p>
- Aspose.Cells for .NET har en kraftfull formelberäkningsmotor som stöder nästan alla standard- och avancerade Microsoft Excel-formler och -funktioner. Du kan läsa, ställa in och beräkna resultaten av den inbyggda, tillägget, array &amp; R1C1-referensformler.
+Aspose.Cells for .NET har en kraftfull formelberäkningsmotor som stöder nästan alla standard- och avancerade Microsoft Excel-formler och -funktioner. Du kan läsa, ställa in och beräkna resultaten av den inbyggda, tillägget, array &amp; R1C1-referensformler.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ På samma sätt är diagram och grafik visuellt tilltalande och kan ge ditt kalk
  Sammanfatta data med pivottabeller, diagram &amp; Smarta markörer
     </h2>
     <p>
-En pivottabell kan hjälpa dig att snabbt sammanfatta platta data och att få önskad information enligt dina behov. .NET Excel-biblioteket låter dig skapa pivottabeller och pivotdiagram dynamiskt. Du kan dynamiskt ändra källdata för en pivottabell och uppdatera den. Dessutom erbjuder biblioteket smarta markeringar som är en utmärkt funktion för att fylla i kalkylblad baserade på vissa datakällor och för att skapa visuellt effektiva rapporter.
+ En pivottabell kan hjälpa dig att snabbt sammanfatta platta data och att få önskad information enligt dina behov. .NET Excel-biblioteket låter dig skapa pivottabeller och pivotdiagram dynamiskt. Du kan dynamiskt ändra källdata för en pivottabell och uppdatera den. Dessutom erbjuder biblioteket smarta markeringar som är en utmärkt funktion för att fylla i kalkylblad baserade på vissa datakällor och för att skapa visuellt effektiva rapporter.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ En pivottabell kan hjälpa dig att snabbt sammanfatta platta data och att få ö
  Rendera Excel-kalkylblad &amp; Diagram som bilder
     </h2>
     <p>
- Aspose.Cells for .NET har sin egen renderingsmotor speciellt utformad för rendering &amp; utskrift med högsta trohet mot Microsoft Excel. Den erbjuder distinkta funktioner som rendering av Excel-kalkylblad &amp; diagram till bilder &amp; skriva ut arbetsblad till valfri ansluten fysisk skrivare. Processen är flexibel så att du kan välja ett antal alternativ, som att kontrollera de resulterande bilddimensionerna när du renderar arbetsblad &amp; diagram till bilder.
+Aspose.Cells for .NET har sin egen renderingsmotor speciellt utformad för rendering &amp; utskrift med högsta trohet mot Microsoft Excel. Den erbjuder distinkta funktioner som rendering av Excel-kalkylblad &amp; diagram till bilder &amp; skriva ut arbetsblad till valfri ansluten fysisk skrivare. Processen är flexibel så att du kan välja ett antal alternativ, som att kontrollera de resulterande bilddimensionerna när du renderar arbetsblad &amp; diagram till bilder.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Konvertera kalkylblad till bild - C#
+ Konvertera kalkylblad till bild - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Grafiska gränssnitt för webben &amp; Desktop-applikationer
     </h2>
     <p>
- Aspose.Cells for .NET tillhandahåller GUI-kontroller för webb &amp; skrivbordsapplikationer. Slutanvändare kan använda dessa kontroller för att öppna, spara &amp; redigera Excel-filer, importera &amp; exportera data, hantera formatering &amp; formler och konvertera mellan flera kalkylarksformat som stöds, direkt från programmets gränssnitt.
+Aspose.Cells for .NET tillhandahåller GUI-kontroller för webb &amp; skrivbordsapplikationer. Slutanvändare kan använda dessa kontroller för att öppna, spara &amp; redigera Excel-filer, importera &amp; exportera data, hantera formatering &amp; formler och konvertera mellan flera kalkylarksformat som stöds, direkt från programmets gränssnitt.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Kontorsautomation – behövs inte
     </h2>
     <p>
-Aspose.Cells for .NET är byggd med hanterad kod som aldrig behöver Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Office-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
+ Aspose.Cells for .NET är byggd med hanterad kod som aldrig behöver Microsoft Office eller Microsoft Excel installeras på maskinen för att fungera med Excel-dokumentformat. Det är ett perfekt Microsoft Office-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET är byggd med hanterad kod som aldrig behöver Microsoft O
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose produktsvit och support är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
+Aspose produktsvit och support är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
  <em>
  Dr Dan Patterson | Acumen, Storbritannien
  </em>

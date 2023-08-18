@@ -13,7 +13,7 @@ description: Java exempelkod för att dela ODS dokument på Java Runtime Environ
 
  För att dela ODS-filen kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API som är en funktionsrik, kraftfull och lättanvänd splitter API for Java plattform. Du kan ladda ner den senaste versionen direkt från
+ API som är en funktionsrik, kraftfull och lättanvänd splitter API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 

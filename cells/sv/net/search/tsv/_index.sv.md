@@ -13,7 +13,7 @@ description: C# källkod för att söka efter ord med mönster i filen TSV på .
 
  För att söka TSV-filen använder vi
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
+API som är en funktionsrik, kraftfull och lättanvänd dokumentsökning API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakethanterare, sök efter
  **Aspose.Cells** 

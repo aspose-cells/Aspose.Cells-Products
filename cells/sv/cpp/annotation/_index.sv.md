@@ -5,7 +5,7 @@ description: Lägg till eller ta bort datakommentarer från Excel- och OpenOffic
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Hantera Microsoft<sup>&reg;</sup> Excel-filanteckningar via C++" h2="Lägg till eller ta bort enkla anteckningar för kommentarer eller kommentarer inom C++-baserade applikationer." >}}
 {{% blocks/products/pf/feature-page-summary %}}
-[C++ Excel API](/cells/sv/cpp/) ger stöd för att hantera anteckningar på cellnivå genom att lägga till, komma åt och ta bort kommentarer. API tillhandahåller[IKommentera](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment) och[IComment Collection](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection) såväl som[GetIComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ae7cce5f85b7b25a1e5c58df1b613ca5a)för att hantera kommentarer i alla aspekter. Excel-format som stöds inkluderar ODS, XLS, XLSX, XLSB och XLSM.
+[C++ Excel API](/cells/sv/cpp/) ger stöd för att hantera anteckningar på cellnivå genom att lägga till, komma åt och ta bort kommentarer. API tillhandahåller[IKommentera](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment) och[ICommentCollection](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_comment_collection) såväl som[GetIComments()](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet#ae7cce5f85b7b25a1e5c58df1b613ca5a)för att hantera kommentarer i alla aspekter. Excel-format som stöds inkluderar ODS, XLS, XLSX, XLSB och XLSM.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Excel-filer Dataanteckningar" %}}

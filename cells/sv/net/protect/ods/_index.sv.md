@@ -1,5 +1,5 @@
 ---
-title:  Skydda och lås ODS dokument via .NET
+title: Skydda och lås ODS dokument via .NET
 weight: 5580
 description: C# källkod för att låsa filen ODS med lösenord på .NET Framework, .NET Core, Mono eller Xamarin Platforms.
 ---

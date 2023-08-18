@@ -1,5 +1,5 @@
 ---
-title:  Konvertera XLSX till PDF/A överensstämmande filer via Java
+title: Konvertera XLSX till PDF/A överensstämmande filer via Java
 weight: 3200
 description: Exempel Java konverteringskod för XLSX format till PDF A överensstämde filer. Programmerare kan använda den här exempelkoden för att exportera Excel- och OpenOffice-kalkylblad till PDFA-kompatibla filer inom alla webb- eller skrivbordsbaserade Java-applikationer.
 ---
@@ -13,7 +13,7 @@ description: Exempel Java konverteringskod för XLSX format till PDF A överenss
 
  För att rendera XLSX till PDF/A använder vi
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API som är en funktionsrik, kraftfull och lättanvänd konvertering API for Java plattform. Du kan ladda ner den senaste versionen direkt från
+ API som är en funktionsrik, kraftfull och lättanvänd konvertering API for Java plattform. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 
@@ -58,7 +58,7 @@ API som är en funktionsrik, kraftfull och lättanvänd konvertering API for Jav
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Ladda XLSX-filen med en instans av Workbook-klassen
-1.  Skapa PdfSaveOptions klassobjekt
+1. Skapa PdfSaveOptions klassobjekt
 1.  Ställ in överensstämmelsetypen PdfCompliance.PdfA1b
 1.  Ring Workbook.save-metoden
 1.  Passera utdatasökväg med PDF tillägg & PdfSaveOptions-objekt som parametrar

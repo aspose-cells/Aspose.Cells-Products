@@ -63,7 +63,7 @@ description: Java exempelkod för att extrahera text och bilder från XLS fil p�
 + Välj det begärda arket med metoden getWorksheets().get.
 + Hämta alla celler i det valda arket med getCells().
 + Iterera över varje cell, hämta dess text .
-+ Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
+Skriv ut varje cellvärde eller använd StringBuilder append()-metoden för att se som en helhet
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

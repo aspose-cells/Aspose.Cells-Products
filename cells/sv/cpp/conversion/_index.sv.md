@@ -6,11 +6,11 @@ description: Konvertera Excel XLS, XLSX, ODS, CSV till PDF, XPS, HTML, JPEG och 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Excel-dokumentkonvertering via C++" h2="Spara Microsoft<sup>&reg;</sup> Excel-filer som kalkylblads-, webb-, bild- och format med fast layout" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- För alla kalkylarksomvandlarapplikationer eller -lösningar,**C++ Excel-bibliotek**påskyndar kodnings-, automatiserings- och konverteringsprocesser samtidigt som man hanterar flera filer inklusive XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, CSV, CSV, CSV, XLSM, XLSM, XLSB och konvertera Excel till PDF**, XPS, HTML, MHTML, Vanligt Text och populära bilder som JPG, TIFF, PNG, BMP och SVG.
+ För alla kalkylarksomvandlarapplikationer eller -lösningar,**C++ Excel-bibliotek** påskyndar kodnings-, automatiserings- och konverteringsprocesser samtidigt som man hanterar flera filer inklusive XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, CSV, CSV, CSV, XLSM, XLSM, XLSB och konvertera Excel till PDF**, XPS, HTML, MHTML, Vanligt Text och populära bilder som JPG, TIFF, PNG, BMP och SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Interkonvertering av Microsoft Excel-format" %}}
- Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av[ påträngande_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pekaren och spara tillbaka i önskat format med hjälp av[Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metod av[IWorkbook-klass](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+ Interkonvertering av kalkylarksformat kräver bara att ett kalkylblad laddas med en instans av[ påträngande_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) pekaren och spara tillbaka i önskat format med hjälp av[Spara](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) metod av[IWorkbook klass](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
 {{% blocks/products/pf/feature-page-code h3="C++ Exempelkod för konvertering av Excel-filformat" %}}
 
 ```cs
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel-format till PDF med inställningar för efterlevnadsnivå" %}}
- C++ Excel Automation API stöder konvertering av arbetsböcker till PDF samt stöder inställning av efterlevnadsnivå och skapandedatum. Utvecklare kan använda[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) tillsammans med[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)för att ställa in PDF efterlevnad. För konvertering, API spara metod med PdfSaveOptions som parameter och specificerad utdatafilsökväg.
+ C++ Excel Automation API stöder konvertering av arbetsböcker till PDF samt stöder inställning av efterlevnadsnivå och skapandedatum. Utvecklare kan använda[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) tillsammans med[Aspose::Cells::Rendering](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) för att ställa in PDF efterlevnad. För konvertering, API spara metod med PdfSaveOptions som parameter och specificerad utdatafilsökväg.
 {{% blocks/products/pf/feature-page-code h3="C++ Exempelkod för Excel till PDF konvertering" %}}
 
 ```cs

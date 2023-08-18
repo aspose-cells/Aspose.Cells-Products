@@ -12,7 +12,7 @@ description: Python kalkylbladsbibliotek för att skapa läs-skriv- och tolka Ex
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
+Aspose.Cells for Python via Java är en snabb och pålitlig API för bearbetningsuppgifter för kalkylblad. Utvecklare kan skapa enkla eller komplexa kalkylblad, manipulera och extrahera information från Excel-filer. API läser flera excel-format och kan rendera kalkylblad till XPS, PDF, MHTML, HTML, vanlig text, bilder och mer. Det är den bästa lösningen för att automatisera Excel-rapporter med python.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Avancerade Python Excel API funktioner
     </p>
     <div class="codeblock" id="code">
      <h3>
- Spara kalkylblad i olika format - Java
+Spara kalkylblad i olika format - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Flexibla visningsalternativ
     </h2>
     <p>
-Aspose.Cells for Python via Java ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranskning av sidbrytningar, ställ in zoomnivå, ställ in sidorientering, styr datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; sidfötter och utskriftsområde.
+ Aspose.Cells for Python via Java ger full kontroll över sidinställningar som gör det möjligt att manipulera flera visningsalternativ som förhandsgranskning av sidbrytningar, ställ in zoomnivå, ställ in sidorientering, styr datasynlighet med frysrutor, pappersstorlek, skalning, rubriker &amp; sidfötter och utskriftsområde.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java ger full kontroll över sidinställningar som g
  Anpassning av diagram
     </h2>
     <p>
- Aspose.Cells for Python via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.
+Aspose.Cells for Python via Java ger fullt stöd för kartläggning. Man kan enkelt lägga till standard och anpassade diagram eller dynamiskt ställa in diagramdata för att uppdatera diagrammet via detta pythonbibliotek.
     </p>
    </div>
    <!--

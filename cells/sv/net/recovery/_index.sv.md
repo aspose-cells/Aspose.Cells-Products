@@ -22,7 +22,7 @@ description: Reparera en korrupt excel-fil med C#. Återställningsverktyg för 
 
 {{% blocks/products/pf/agp/content h2="Hur man reparerar Excel-fil med C#" %}}
 
-Definiera en klass som ärver Aspose.Cells.IWarningCallback.
++ Definiera en klass som ärver Aspose.Cells.IWarningCallback.
 + Ladda EXCEL-fil genom att skapa en instans av Workbook, med hjälp av arvsklassen ovan, se koden ovan.
 + Spara arbetsboken, den skadade excel-filen kommer att repareras.
 

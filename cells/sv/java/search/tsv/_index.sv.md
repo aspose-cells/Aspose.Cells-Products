@@ -58,7 +58,7 @@ description: Java exempelkod för att söka efter ord med mönster i filen TSV p
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda TSV-filen genom att instansiera ett arbetsboksobjekt.
-Gå till det första kalkylbladet i filen TSV.
++ Gå till det första kalkylbladet i filen TSV.
 + Hitta cellen som innehåller den angivna formeln.
 + Instantiera FindOptions.
 + Hitta cellen som innehåller ett strängvärde

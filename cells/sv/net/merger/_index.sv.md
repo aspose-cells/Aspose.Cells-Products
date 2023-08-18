@@ -18,7 +18,7 @@ description: Sammanfoga Excel- och OpenOffice-kalkylbladsfiler med bara några r
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Slå samman flera Excel-filer" %}}
-[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles) Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning.
+[CellsHelper.MergeFiles](https://reference.aspose.com/cells/net/aspose.cells/cellshelper/methods/mergefiles)Metoden stöder sammanslagning av data, stil och formler för en Excel-fil till ett nytt kalkylblad i samma format. Det är ett effektivt sätt att slå samman flera filer samtidigt som du använder cachning.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att slå samman flera Excel-filer" %}}
 
 {{< gist "aspose-com-gists" "d7c757e7471bd38006ac0d35d221b2e2" "merge-several-excel-files.cs" >}}

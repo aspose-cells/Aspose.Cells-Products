@@ -50,7 +50,7 @@ Konvertera enkelt Microsoft Excel-filer till PDF, HTML, bilder och många andra 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadata" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Ladda bara upp din Microsoft Excel-fil för att se eller redigera kalkylarkets metadata från valfri webbläsare. Ingen installation eller ytterligare verktyg krävs.
+ Ladda bara upp din Microsoft Excel-fil för att se eller redigera kalkylarkets metadata från valfri webbläsare. Ingen installation eller ytterligare verktyg krävs.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Visare" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Visa kalkylarksfiler inklusive XLS, XLSX, XLSM, XLSB och ODS i din favoritwebbl�
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Aspose produktsvit och support är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
+Aspose produktsvit och support är oöverträffad. Vi hade inte kunnat göra det vi gjorde utan denna lösning.
  <em>
  Dr Dan Patterson | Acumen, Storbritannien
  </em>

@@ -326,7 +326,7 @@ Aspose.Cells for Java är ett moget och funktionsrikt bibliotek som erbjuder må
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ställ &amp; beräkna Excel &amp; anpassade formler
+ Ställ in &amp; beräkna Excel &amp; anpassade formler
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,7 +404,7 @@ wbk.save(dir + "output.html", SaveFormat.HTML);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Formatera arbetsblad till den mest detaljerade nivån
+ Formatera kalkylblad till den mest detaljerade nivån
     </h2>
     <p>
 Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat till kalkylbladsformatering på rad-, kolumn- och cellnivå, lägga till regler för villkorlig formatering, definiera talformat och ställa in teckensnitt med attribut. På samma sätt stöder API manipulering och skapande av alla typer av anpassade och standarddiagram samt olika ritobjekt som OLE-objekt, bilder, kommentarer, former och kontroller till cellerna.
@@ -419,7 +419,7 @@ Bibliotek tillhandahåller kalkylbladsformatering inklusive men inte begränsat 
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
- Konvertera diagram &amp; Kalkylark till bild &amp; PDF Format
+ Konvertera diagram &amp; Ark till bild &amp; PDF Format
     </h2>
     <p>
  Aspose.Cells for Java erbjuder speciella konverteringsfunktioner som diagram till bilder och PDF, kalkylblad till bilder, utskrift av kalkylblad och konvertering av kalkylblad till filformatet PDF. Konverteringsprocessen är mycket flexibel och enkel, vilket gör det möjligt att välja ett antal sätt för konverteringen, såsom omsampling av bilder under kalkylblad till PDF-transformation eller justering av de resulterande bilddimensionerna samtidigt som kalkylblad och diagram renderas till bilder.

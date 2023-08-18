@@ -1,5 +1,5 @@
 ---
-title: Redigera TXT filer via .NET
+title:  Redigera TXT filer via .NET
 description: C# källkod för att redigera TXT dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

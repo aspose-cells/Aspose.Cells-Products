@@ -13,7 +13,7 @@ description: C# källkod för att dela XLSB dokument på .NET Framework, .NET Co
 
  För att dela XLSB-filen kommer vi att använda
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och splitter API för C# plattform. Öppen
+ API som är en funktionsrik, kraftfull och lättanvänd dokumenthantering och splitter API för C# plattform. Öppen
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  pakethanterare, sök efter
  Aspose.Cells 

@@ -13,7 +13,7 @@ description: Java exempelkod för att lägga till eller ta bort vattenstämpel t
 
  För att vattenmärka filen ODS kommer vi att använda
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från
+ API som är en funktionsrik, kraftfull och lättanvänd plattform för vattenmärkning API for Java. Du kan ladda ner den senaste versionen direkt från
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  och installera det i ditt Maven-baserade projekt genom att lägga till följande konfigurationer till pom.xml.
 

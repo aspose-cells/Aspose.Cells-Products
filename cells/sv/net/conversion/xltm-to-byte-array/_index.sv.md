@@ -11,7 +11,7 @@ description: C# Exempelkod för konvertering från XLTM till Byte Array. Använd
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array är till hjälp för databearbetning eller lagring. Du kan konvertera filen XLTM till Byte Array samt en**Byte Array till XLTM**dokument med C# språk. För att konvertera XLTM till byte array kommer vi att använda
+ Byte Array är till hjälp för databearbetning eller lagring. Du kan konvertera filen XLTM till Byte Array samt en**Byte Array till XLTM** dokument med C# språk. För att konvertera XLTM till byte array kommer vi att använda
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API som erbjuder olika funktioner för dokumenthantering och konvertering med .NET-plattformen.
 {{% /blocks/products/pf/agp/content %}}

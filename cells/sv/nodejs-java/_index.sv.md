@@ -16,7 +16,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
+Aspose.Cells for Node.js via Java stöder de flesta populära kalkylarksformat inklusive XLS, XLSX, ODS, SpreadsheetML, CSV, TSC &amp; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Bearbeta Excel-filformat via Node.js-biblioteket. Läs skriv render
  Konvertera arbetsblad till bild
     </li>
     <li>
-Konvertera kalkylark till PDF
+ Konvertera kalkylark till PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Konvertera kalkylark till PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; manipulera kommentarer &amp; hyperlänkar
+Skapa &amp; manipulera kommentarer &amp; hyperlänkar
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Konvertera kalkylark till PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipulera och uppdatera pivottabeller via API
+ Manipulera och uppdatera pivottabeller via API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipulera och uppdatera pivottabeller via API
  Flexibla visningsalternativ
     </h2>
     <p>
- Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinställningar man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare kontrollera datasynligheten med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
+Aspose.Cells for Node.js via Java ger full kontroll över kalkylbladets sidinställningar man kan manipulera kalkylbladets visningsalternativ som sidorientering, brytningar, storlek, skalning, sidhuvuden, sidfötter och zoomnivå. Dessutom kan utvecklare kontrollera datasynligheten med hjälp av utskriftsområde och frysa rutor för att passa applikationsspecifikationer.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipulera och uppdatera pivottabeller via API
  Säkerhetsalternativ
     </h2>
     <p>
-Aspose.Cells for Node.js via Java erbjuder ett brett utbud av säkerhetsfunktioner inklusive kryptering/dekryptering av kalkylblad, innehåll, objekt &amp; scenarioskydd samt möjligheten att dölja och visa rader, kolumner &amp; arbetsblad.
+ Aspose.Cells for Node.js via Java erbjuder ett brett utbud av säkerhetsfunktioner inklusive kryptering/dekryptering av kalkylblad, innehåll, objekt &amp; scenarioskydd samt möjligheten att dölja och visa rader, kolumner &amp; arbetsblad.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java erbjuder ett brett utbud av säkerhetsfunktion
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Omfattande stöd för formatering av arbetsblad
+Omfattande stöd för formatering av arbetsblad
     </h2>
     <p>
-Aspose.Cells for Node.js via Java tillhandahåller avancerade formateringsfunktioner som låter dig styra presentationen av dina data. Du kan tillämpa formatering på ett kalkylblad, kolumn, rad eller en cell eller lägga till Rich Text i en enskild cell, tillämpa kanter, ange bakgrundsmönster och teckensnittsstil. API tillåter också att lägga till, manipulera &amp; beräkna regler för villkorlig formatering i farten.
+ Aspose.Cells for Node.js via Java tillhandahåller avancerade formateringsfunktioner som låter dig styra presentationen av dina data. Du kan tillämpa formatering på ett kalkylblad, kolumn, rad eller en cell eller lägga till Rich Text i en enskild cell, tillämpa kanter, ange bakgrundsmönster och teckensnittsstil. API tillåter också att lägga till, manipulera &amp; beräkna regler för villkorlig formatering i farten.
     </p>
    </div>
    <div class="col-lg-12">

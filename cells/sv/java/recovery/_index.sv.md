@@ -10,7 +10,7 @@ description: Reparera en korrupt excel-fil med Java. Återställningsverktyg fö
 
 {{% blocks/products/pf/agp/content h2="Reparera EXCEL-fil med Java" %}}
 
- För att reparera EXCEL-fil kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java) API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulation API for Java.
+ För att reparera EXCEL-fil kommer vi att använda[Aspose.Cells for Java](https://products.aspose.com/cells/java)API som är en funktionsrik, kraftfull och lättanvänd plattform för dokumentmanipulation API for Java.
  
  Aspose.Cells API kan användas för att skapa, redigera, konvertera och rendera Microsoft Excel-format till olika format. Dessutom kan den användas för omfattande kartläggning, skalbar rapportering och tillförlitliga beräkningar inom mjukvaruapplikationer. Aspose.Cells är en fristående API och den kräver ingen programvara som Microsoft eller OpenOffice.
 
@@ -20,7 +20,7 @@ description: Reparera en korrupt excel-fil med Java. Återställningsverktyg fö
 
 {{% blocks/products/pf/agp/content h2="Hur man reparerar Excel-fil med Java" %}}
 
-Definiera en klass som ärver Aspose.Cells.IWarningCallback.
++ Definiera en klass som ärver Aspose.Cells.IWarningCallback.
 + Ladda EXCEL-fil genom att skapa en instans av Workbook, med hjälp av arvsklassen ovan, se koden ovan.
 + Spara arbetsboken, den skadade excel-filen kommer att repareras.
 

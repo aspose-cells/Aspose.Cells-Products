@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera JSON till Excel & Excel till JSON" %}}
- JSON data kan importeras till en instans av[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klass med hjälp av[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) för vidare bearbetning eller enkel konvertering till något av de format som stöds. Liknande,[Arbetsblad](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data kan exporteras som JSON genom att skapa en[Räckvidd](https://reference.aspose.com/cells/net/aspose.cells/range) eller celler och ringer till[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metod.
+ JSON data kan importeras till en instans av[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) klass med hjälp av[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)för vidare bearbetning eller enkel konvertering till något av de format som stöds. Liknande,[Arbetsblad](https://reference.aspose.com/cells/net/aspose.cells/worksheet) data kan exporteras som JSON genom att skapa en[Räckvidd](https://reference.aspose.com/cells/net/aspose.cells/range) eller celler och ringer till[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) metod.
 {{% blocks/products/pf/feature-page-code h3="C# Kod för JSON till Excel-konvertering" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Konvertera Excel till Word & PowerPoint" %}}
- Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) klasser som visas nedan.
+ Det är möjligt att ladda vilket kalkylblad som helst och konvertera det till Word DOCX- och PowerPoint PPTX-filer medan du använder[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)klasser som visas nedan.
 {{% blocks/products/pf/feature-page-code h3="C# kod för Excel till Word & PowerPoint konvertering" %}}
 ```cs
 // load the template file

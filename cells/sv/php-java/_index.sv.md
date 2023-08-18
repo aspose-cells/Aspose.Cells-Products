@@ -37,7 +37,7 @@ description: PHP Excel-kalkylblad API för att läsa skriv och konvertera XLS XL
  Konvertera arbetsblad till bild
     </li>
     <li>
-Konvertera kalkylark till PDF
+ Konvertera kalkylark till PDF
     </li>
    </ul>
   </div>
@@ -306,14 +306,14 @@ Konvertera kalkylark till PDF
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ställ in automatiska filter &amp; sidbrytningar
+ Ställ in autofilter &amp; sidbrytningar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-subscript ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Ställ &amp; beräkna komplexa formler
+ Ställ in &amp; beräkna komplexa formler
     </p>
    </div>
    <div class="col-lg-4">
@@ -362,7 +362,7 @@ Konvertera kalkylark till PDF
     <em class="fa fa-line-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Skapa &amp; återge sparklines
+ Skapa &amp; rendera sparklines
     </p>
    </div>
    <div class="col-lg-12">

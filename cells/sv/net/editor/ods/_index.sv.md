@@ -1,5 +1,5 @@
 ---
-title: Redigera ODS filer via .NET
+title:  Redigera ODS filer via .NET
 description: C# källkod för att redigera ODS dokument på .NET Framework, .NET Core, Windows Azure, Mono eller Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

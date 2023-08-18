@@ -50,7 +50,7 @@ description: Aspose.Cells for SharePoint App är en SharePoint Excel-kalkylarkso
    </header>
    <ul>
     <li>
- Spara i undermappar
+Spara i undermappar
     </li>
     <li>
  Filsammansättning
@@ -154,7 +154,7 @@ description: Aspose.Cells for SharePoint App är en SharePoint Excel-kalkylarkso
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description="Aspose.Cells for SharePoint stöder många populära kalkylarksformat, PDF, HTML och andra[filformat](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Filformat som stöds" description=" Aspose.Cells for SharePoint stöder många populära kalkylarksformat, PDF, HTML och andra[filformat](https://docs.aspose.com/cells/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -263,7 +263,7 @@ description: Aspose.Cells for SharePoint App är en SharePoint Excel-kalkylarkso
  Sammanfoga filer under konvertering
     </h2>
     <p>
- Aspose.Cells for SharePoint ger möjlighet att kombinera filer med olika format till ett enda dokument. Dessutom kan du också flytta dokument i listan uppåt eller nedåt för att ange i vilken ordning du vill att dokumenten ska kombineras.
+Aspose.Cells for SharePoint ger möjlighet att kombinera filer med olika format till ett enda dokument. Dessutom kan du också flytta dokument i listan uppåt eller nedåt för att ange i vilken ordning du vill att dokumenten ska kombineras.
     </p>
    </div>
    <div class="col-lg-12">
@@ -271,7 +271,7 @@ description: Aspose.Cells for SharePoint App är en SharePoint Excel-kalkylarkso
  Konvertera filer i undermappar
     </h2>
     <p>
-Aspose.Cells for SharePoint gör konverteringsprocessen enklare genom att rekursivt konvertera alla dokument och undermappar under en vald mapp. Den befintliga undermappsstrukturen skapas i målmappen.
+ Aspose.Cells for SharePoint gör konverteringsprocessen enklare genom att rekursivt konvertera alla dokument och undermappar under en vald mapp. Den befintliga undermappsstrukturen skapas i målmappen.
     </p>
    </div>
    <div class="col-lg-12">
@@ -287,7 +287,7 @@ Aspose.Cells for SharePoint gör konverteringsprocessen enklare genom att rekurs
  Interagera med allmänheten API
     </h2>
     <p>
- För utvecklare som har interna SharePoint-lösningar kan de använda Aspose.Cells for SharePoints dokumentkonverteringsmotor via dess offentliga API. Den ger programmatisk åtkomst till alla format och konverteringsalternativ som stöds.
+För utvecklare som har interna SharePoint-lösningar kan de använda Aspose.Cells for SharePoints dokumentkonverteringsmotor via dess offentliga API. Den ger programmatisk åtkomst till alla format och konverteringsalternativ som stöds.
     </p>
    </div>
    <div class="col-lg-12">
@@ -295,7 +295,7 @@ Aspose.Cells for SharePoint gör konverteringsprocessen enklare genom att rekurs
  Microsoft Excel Automation – behövs inte
     </h2>
     <p>
-Aspose.Cells for SharePoint är byggd med hanterad kod som aldrig behöver Microsoft Excel installeras på maskinen för att fungera med Excel-formatkonvertering. Det är ett perfekt Microsoft Excel-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
+ Aspose.Cells for SharePoint är byggd med hanterad kod som aldrig behöver Microsoft Excel installeras på maskinen för att fungera med Excel-formatkonvertering. Det är ett perfekt Microsoft Excel-automatiseringsalternativ när det gäller funktioner som stöds, säkerhet, stabilitet, skalbarhet, hastighet och pris.
     </p>
    </div>
   </div>

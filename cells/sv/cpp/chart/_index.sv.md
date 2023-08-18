@@ -13,7 +13,7 @@ description: C++ källkod för att rita och konvertera diagram eller diagram i M
 {{% /blocks/products/pf/feature-page-summary %}}
 {{% blocks/products/pf/feature-page-section h2="Skapa Excel-diagram" %}}
 
- Processen att skapa Excel-diagram är att skapa en instans av[IWorkbook-klass](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) och välj önskad[Arbetsblad](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . Lägg till diagrammet med[Lägg till metod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)med relevanta parametrar inklusive diagramtyp. Få tillgång till diagrammet via index och[Lägg till](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) datakällan för diagram.
+ Processen att skapa Excel-diagram är att skapa en instans av[IWorkbook klass](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) och välj önskad[Arbetsblad](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . Lägg till diagrammet med[Lägg till metod](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)med relevanta parametrar inklusive diagramtyp. Få tillgång till diagrammet via index och[Lägg till](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) datakällan för diagram.
 
 {{% blocks/products/pf/feature-page-code h3="C++ Kod för att skapa Excel-diagram" %}}
 

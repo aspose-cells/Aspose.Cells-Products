@@ -58,7 +58,7 @@ description: Java exempelkod för att söka efter ord med mönster i filen ODS p
 {{% /blocks/products/pf/agp/text %}}
 
 + Ladda ODS-filen genom att instansiera ett arbetsboksobjekt.
-Gå till det första kalkylbladet i filen ODS.
++ Gå till det första kalkylbladet i filen ODS.
 + Hitta cellen som innehåller den angivna formeln.
 + Instantiera FindOptions.
 + Hitta cellen som innehåller ett strängvärde

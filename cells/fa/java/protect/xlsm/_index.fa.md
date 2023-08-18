@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل XLSM سند via Java
+title: محافظت و قفل XLSM سند via Java
 weight: 9620
 description: Java نمونه کد برای قفل کردن فایل XLSM با استفاده از رمز عبور در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -11,7 +11,7 @@ description: کد منبع C++ برای ترسیم و تبدیل نمودار ی
 ](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.charts#a2f17e69bcefc754569019185d0621b70) از جمله نمودارهای مساحت، میله، پای، هرم، خط و حباب. همچنین برای تبدیل نمودارها به تصویر شماره API یک[روش ToImage](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_sparkline#a28d76dd585c48366e1657f2982722ddb) به فرمت تصویر مورد نیاز
 
 {{% /blocks/products/pf/feature-page-summary %}}
-{{% blocks/products/pf/feature-page-section h2="نمودارهای اکسل ایجاد کنید" %}}
+{{% blocks/products/pf/feature-page-section h2="ایجاد نمودارهای اکسل" %}}
 
  فرآیند ایجاد نمودار اکسل، ایجاد یک نمونه از آن است[کلاس IWorkbook](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) و مورد نظر را انتخاب کنید[کاربرگ](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_worksheet_collection#a5574d624796043233420d0e0459ccc43) . نمودار را با استفاده از آن اضافه کنید[روش اضافه کنید](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_chart_collection#ab7e8cce835c251a4682605299a6aa068)با پارامترهای مربوطه از جمله نوع نمودار. دسترسی به نمودار از طریق فهرست و[اضافه کردن](https://reference.aspose.com/cells/cpp/class/aspose.cells.charts.i_series_collection#a8f4dc4d883f32f65b1fb673e2aa7862f) منبع داده برای نمودار
 

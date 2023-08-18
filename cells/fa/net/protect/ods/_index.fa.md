@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل ODS سند via .NET
+title: محافظت و قفل ODS سند via .NET
 weight: 5580
 description: کد منبع C# برای قفل کردن فایل ODS با استفاده از رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
 ---

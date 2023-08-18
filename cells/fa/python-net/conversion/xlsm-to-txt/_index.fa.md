@@ -1,7 +1,7 @@
 ---
-title: تبدیل XLSM به TXT Python via Python
-description: XLSM را به صورت آنلاین به TXT تبدیل کنید. تبدیل رایگان آنلاین XLSM به TXT. Python XLSM الی TXT. XLSM الی TXT از طریق Python.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM به TXT - تبدیل آنلاین XLSM به TXT
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل XLSM به TXT ذخیره فرمت. Python XLSM الی TXT فرمت. XLSM را به شماره TXT Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to TXT saveformat., Free Online XLSM to TXT Python., Python Convert XLSM to TXT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLSM به TXT در Python" h2="کتابخانه پرسرعت Python برای تبدیل XLSM به TXT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TXT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLSM به TXT در Python" %}}
 
- چگونه XLSM را به TXT تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLSM را به صورت برنامه ای به TXT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه XLSM را به TXT تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLSM را به صورت برنامه ای به TXT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSM به TXT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSM به TXT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="txt" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSM به TXT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی XLSM را بارگیری و تنها در چند خط کد به TXT تبدیل کنند.
+آیا باید فایل های XLSM را به صورت برنامه ریزی شده به TXT تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی XLSM را بارگیری و تنها در چند خط کد به TXT تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل XLSM را با یک نمونه از Workbook بارگیری کنید
-1.  XLSM را با فراخوانی روش Workbook.save به TXT تبدیل کنید
+1.  فایل XLSM را با یک نمونه از Workbook بارگیری کنید.
+1.  XLSM را با فراخوانی روش Workbook.save به TXT تبدیل کنید.
+1.  نتیجه تبدیل XLSM به TXT را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}فایل‌های با پسوند XLSM نوعی از فایل‌های صفحه گسترده هستند که از ماکرو پشتیبانی می‌کنند. از نقطه نظر کاربرد، ماکرو مجموعه ای از دستورالعمل هایی است که برای خودکارسازی فرآیندها استفاده می شود. ماکرو برای ثبت مراحلی که به طور مکرر انجام می شود استفاده می شود و با اجرای مجدد ماکرو انجام اقدامات را تسهیل می کند. ماکروها با Visual Basic for Applications (VBA) Microsoft از داخل Workbook اکسل با استفاده از ویرایشگر ویژوال بیسیک برنامه ریزی می شوند و می توانند مستقیماً از آنجا اجرا/اشکال زدایی شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}یک فایل با پسوند 0.TXT یک سند متنی را نشان می دهد که حاوی متن ساده به شکل خطوط است. پاراگراف ها در یک سند متنی با بازگردانی های حمل و نقل شناسایی می شوند و برای چیدمان بهتر محتویات فایل استفاده می شوند. یک سند متنی استاندارد را می توان در هر ویرایشگر متن یا برنامه پردازش کلمه در سیستم عامل های مختلف باز کرد. تمام متن موجود در چنین فایلی در قالب قابل خواندن توسط انسان است و با ترتیب کاراکترها نشان داده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید XLSM را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

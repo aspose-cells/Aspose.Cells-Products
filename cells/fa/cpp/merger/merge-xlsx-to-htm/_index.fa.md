@@ -1,7 +1,8 @@
 ---
-title:  XLSX را از طریق C++ به HTM ادغام کنید
+title: XLSX را به HTM ادغام کنید - XLSX را با HTM در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-xlsx-to-htm/ 
-description: XLSX را به صورت رایگان در HTM Online ادغام کنید. رایگان آنلاین XLSX به HTM Merger. XLSX را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان XLSX به فرمت ذخیره HTM. C++ XLSX را با فرمت HTM ترکیب کنید. ادغام XLSX به HTM در C++. XLSX ادغام.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLSX to HTM in C++., Free Online C++ Merge XLSX to htm., C++ Combine XLSX to HTM Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSX را از طریق C++ به HTM ادغام کنید" h2="کتابخانه پرسرعت C++ برای ادغام XLSX به HTM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLSX را به صورت رایگان در HTM Online ادغام ک�
 
 {{% blocks/products/pf/agp/content h2="XLSX را با استفاده از C++ به HTM ادغام کنید" %}}
 
- چگونه XLSX را با HTM ادغام کنیم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، XLSX را با برنامه HTM ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLSX را با HTM ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، XLSX را با برنامه HTM ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="ادغام XLSX به HTM در C++ آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام XLSX را با HTM در C++ نشان می دهد.
+مثال زیر نحوه ادغام XLSX را با HTM در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام XLSX با HTM دنبال کنید. فایل های خود را آپلود کنید، روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید و سپس آن را در فایل HTM ذخیره کنید. اگر کد را در C++ ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال C++ را ببینید که XLSX را با HTM ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام XLSX به HTM به صورت آنلاین" InputFormat="xlsx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام XLSX به HTM در C++" InputFormat="xlsx" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLSX با HTM از طریق C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام XLSX با HTM به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
 + فایل XLSX را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  کتابخانه را با استفاده از Include و lib Folders نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX فرمت شناخته شده ای برای اسناد اکسل Microsoft است که توسط Microsoft با انتشار Microsoft Office 2007 معرفی شد. یک بسته فشرده که حاوی تعدادی فایل XML است. ساختار و فایل های زیرین را می توان به سادگی با باز کردن فایل xlsx. بررسی کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}فایل‌های با پسوند htm نشان‌دهنده زبان نشانه‌گذاری Hypertext برای ایجاد صفحات وب برای نمایش در مرورگرهای وب مانند Google Chrome، Internet Explorer، Firefox و تعدادی دیگر هستند. این نشانه گذاری برای ایجاد صفحات ثابت برای انتشار در وب جهانی (WWW) برای دسترسی دیگران تعریف می کند. این نشانه گذاری ها به مرورگرها می گویند که چگونه محتویات یک صفحه وب را نمایش دهند. چنین صفحاتی می‌توانند حاوی متن ساده، تصاویر، پیوندهایی به صفحات دیگر، ویدیوها و سایر اطلاعات رسانه‌ای باشند. هنگامی که یک صفحه وب منتشر می شود، می توانید با مشاهده منبع صفحه، به کد نشانه گذاری پشت آن نگاهی بیندازید. مرورگرهای مدرن اجازه می‌دهند تا هر بخش از یک صفحه وب را که در آن هر زیربخش یا عنصر نشانه‌گذاری در منبع HTM توضیح داده شده است، بررسی شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C++، One می تواند xlsx را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-docx/" name="XLSX را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-sql/" name="XLSX را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-bmp/" name="XLSX را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-emf/" name="XLSX را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-gif/" name="XLSX را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-html/" name="XLSX را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-md/" name="XLSX را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-mhtml/" name="XLSX را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-ods/" name="XLSX را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-pdf/" name="XLSX را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-png/" name="XLSX را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-svg/" name="XLSX را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tiff/" name="XLSX را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-tsv/" name="XLSX را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-txt/" name="XLSX را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xls/" name="XLSX را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsb/" name="XLSX را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsm/" name="XLSX را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlsx/" name="XLSX را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xlt/" name="XLSX را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltm/" name="XLSX را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xltx/" name="XLSX را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xml/" name="XLSX را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-xps/" name="XLSX را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-json/" name="XLSX را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xlsx-to-jpeg/" name="XLSX را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

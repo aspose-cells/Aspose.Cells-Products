@@ -1,7 +1,8 @@
 ---
-title:  MHTML را با MHTML via Java ادغام کنید
+title: MHTML را با MHTML ادغام کنید - MHTML را با MHTML در Java ترکیب کنید
 url: /fa/java/merger/merge-mhtml-to-mhtml/ 
-description: MHTML را به MHTML به صورت آنلاین ادغام کنید. آنلاین رایگان MHTML الی MHTML ادغام. MHTML را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان MHTML به MHTML ذخیره فرمت. Java MHTML را با فرمت MHTML ترکیب کنید. ادغام MHTML به MHTML در Java. MHTML ادغام.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHTML to MHTML in Java., Free Online Java Merge MHTML to mhtml., Java Combine MHTML to MHTML Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHTML را با MHTML via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام MHTML به MHTML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: MHTML را به MHTML به صورت آنلاین ادغام کنی�
 
 {{% blocks/products/pf/agp/content h2="ادغام MHTML به MHTML با استفاده از Java" %}}
 
- چگونه MHTML را با MHTML ادغام کنیم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد MHTML را به MHTML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه MHTML را با MHTML ادغام کنم؟ با کتابخانه Aspose.Cells for Java می توانید به راحتی با چند خط کد MHTML را به MHTML ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: MHTML را به MHTML به صورت آنلاین ادغام کنی�
 
 {{% blocks/products/pf/agp/content h2="ادغام MHTML به MHTML در Java آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام MHTML را با MHTML در Java نشان می دهد.
+مثال زیر نحوه ادغام MHTML با MHTML را در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام MHTML با MHTML دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل MHTML ذخیره کنید. اگر کد را در Java ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. نمونه Java را ببینید که MHTML را با MHTML ادغام می کند.
@@ -55,16 +56,18 @@ description: MHTML را به MHTML به صورت آنلاین ادغام کنی�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام MHTML به MHTML به صورت آنلاین" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام MHTML با MHTML در Java" InputFormat="mhtml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام MHTML به MHTML via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام MHTML با MHTML به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Java' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
 + فایل MHTML را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -97,21 +100,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}فایل های با پسوند MHTML فرمت آرشیو صفحه وب را نشان می دهد که می تواند توسط تعدادی برنامه مختلف ایجاد شود. این قالب به عنوان فرمت آرشیو شناخته می شود زیرا کد HTML وب و منابع مرتبط را در یک فایل ذخیره می کند. این منابع شامل هر چیزی است که به صفحه وب مرتبط است مانند تصاویر، اپلت ها، انیمیشن ها، فایل های صوتی و غیره. فایل های MHTML را می توان در برنامه های مختلفی مانند Internet Explorer و Microsoft Word باز کرد. Microsoft Windows از فرمت فایل MHTML برای ضبط سناریوهای مشکلات مشاهده شده در هنگام استفاده از هر برنامه کاربردی در Windows که مشکلاتی را ایجاد می کند استفاده می کند. فرمت فایل MHTML محتویات صفحه را شبیه به مشخصات تعریف شده در message/rfc822 که مشخصات مربوط به ایمیل متنی ساده است، رمزگذاری می کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}فایل های با پسوند MHTML فرمت آرشیو صفحه وب را نشان می دهد که می تواند توسط تعدادی برنامه مختلف ایجاد شود. این قالب به عنوان فرمت آرشیو شناخته می شود زیرا کد HTML وب و منابع مرتبط را در یک فایل ذخیره می کند. این منابع شامل هر چیزی است که به صفحه وب مرتبط است مانند تصاویر، اپلت ها، انیمیشن ها، فایل های صوتی و غیره. فایل های MHTML را می توان در برنامه های مختلفی مانند Internet Explorer و Microsoft Word باز کرد. Microsoft Windows از فرمت فایل MHTML برای ضبط سناریوهای مشکلات مشاهده شده در هنگام استفاده از هر برنامه کاربردی در Windows که مشکلاتی را ایجاد می کند استفاده می کند. فرمت فایل MHTML محتویات صفحه را شبیه به مشخصات تعریف شده در message/rfc822 که مشخصات مربوط به ایمیل متنی ساده است، رمزگذاری می کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Java، One می تواند mhtml را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-docx/" name="MHTML را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-sql/" name="MHTML را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-bmp/" name="MHTML را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-emf/" name="MHTML را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-gif/" name="MHTML را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-html/" name="MHTML را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-md/" name="MHTML را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-mhtml/" name="MHTML را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-ods/" name="MHTML را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-pdf/" name="MHTML را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-png/" name="MHTML را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-svg/" name="MHTML را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tiff/" name="MHTML را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-tsv/" name="MHTML را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-txt/" name="MHTML را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xls/" name="MHTML را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsb/" name="MHTML را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsm/" name="MHTML را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlsx/" name="MHTML را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xlt/" name="MHTML را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltm/" name="MHTML را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xltx/" name="MHTML را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xml/" name="MHTML را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-xps/" name="MHTML را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-json/" name="MHTML را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mhtml-to-jpeg/" name="MHTML را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

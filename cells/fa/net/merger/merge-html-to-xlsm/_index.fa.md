@@ -1,7 +1,8 @@
 ---
-title:  HTML را با XLSM از طریق C# ادغام کنید
+title: HTML را با XLSM ادغام کنید - HTML را با XLSM در C# ترکیب کنید
 url: /fa/net/merger/merge-html-to-xlsm/ 
-description: HTML را به XLSM به صورت آنلاین ادغام کنید. آنلاین رایگان HTML الی XLSM ادغام. HTML را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان HTML به XLSM ذخیره فرمت. C# HTML را با فرمت XLSM ترکیب کنید. ادغام HTML به XLSM در C#. HTML ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTML to XLSM in C#., Free Online C# Merge HTML to xlsm., C# Combine HTML to XLSM Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTML را با XLSM از طریق C# ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام HTML به XLSM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: HTML را به XLSM به صورت آنلاین ادغام کنید.
 
 {{% blocks/products/pf/agp/content h2="ادغام HTML به XLSM با استفاده از C#" %}}
 
- چگونه HTML را با XLSM ادغام کنیم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد HTML را به XLSM ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه HTML را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد HTML را به XLSM ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="ادغام HTML به XLSM در C# آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام HTML را با XLSM در C# نشان می دهد.
+مثال زیر نحوه ادغام HTML با XLSM را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام HTML با XLSM دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل XLSM ذخیره کنید. اگر کد را در C# ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. نمونه C# را ببینید که HTML را با XLSM ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام HTML به XLSM به صورت آنلاین" InputFormat="html" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام HTML با XLSM در C#" InputFormat="html" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام HTML با XLSM از طریق C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام HTML با XLSM به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C# خود اضافه کنید.
 + فایل HTML را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells/) . دیدن[مستندات](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)در Visual Studio IDE
+1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) در Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) افزونه ای برای صفحات وب است که برای نمایش در مرورگرها ایجاد شده است. HTML که به عنوان زبان وب شناخته می شود، با الزامات نیازهای اطلاعاتی جدید برای نمایش بخشی از صفحات وب تکامل یافته است. آخرین نوع به نام HTML 5 شناخته می شود که انعطاف پذیری زیادی را برای کار با زبان می دهد. صفحات HTML یا از سرور دریافت می‌شوند، جایی که این صفحات میزبانی می‌شوند، یا می‌توانند از سیستم محلی نیز بارگیری شوند. هر صفحه HTML از HTML عنصر مانند فرم ها، متن، تصاویر، انیمیشن ها، لینک ها و غیره تشکیل شده است. همچنین می تواند برنامه هایی را که به زبان های برنامه نویسی نوشته شده اند مانند جاوا اسکریپت و برگه های سبک (CSS) برای نمایش طرح کلی جاسازی کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}فایل‌های با پسوند XLSM نوعی از فایل‌های صفحه گسترده هستند که از ماکرو پشتیبانی می‌کنند. از نقطه نظر کاربرد، ماکرو مجموعه ای از دستورالعمل هایی است که برای خودکارسازی فرآیندها استفاده می شود. ماکرو برای ثبت مراحلی که به طور مکرر انجام می شود استفاده می شود و با اجرای مجدد ماکرو انجام اقدامات را تسهیل می کند. ماکروها با Visual Basic for Applications (VBA) Microsoft از داخل Workbook اکسل با استفاده از ویرایشگر ویژوال بیسیک برنامه ریزی می شوند و می توانند مستقیماً از آنجا اجرا/اشکال زدایی شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C#، One می تواند html را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-docx/" name="HTML را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-sql/" name="HTML را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-bmp/" name="HTML را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-emf/" name="HTML را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-gif/" name="HTML را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-html/" name="HTML را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-md/" name="HTML را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-mhtml/" name="HTML را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-ods/" name="HTML را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-pdf/" name="HTML را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-png/" name="HTML را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-svg/" name="HTML را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tiff/" name="HTML را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-tsv/" name="HTML را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-txt/" name="HTML را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xls/" name="HTML را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsb/" name="HTML را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsm/" name="HTML را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlsx/" name="HTML را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xlt/" name="HTML را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltm/" name="HTML را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xltx/" name="HTML را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xml/" name="HTML را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-xps/" name="HTML را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-json/" name="HTML را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-html-to-jpeg/" name="HTML را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

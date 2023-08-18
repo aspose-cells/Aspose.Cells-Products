@@ -1,7 +1,7 @@
 ---
-title: XML را به JPEG Python via Python تبدیل کنید
-description: XML را به صورت آنلاین به JPEG تبدیل کنید. تبدیل آنلاین رایگان XML به JPEG. Python XML به JPEG. XML به JPEG از طریق Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML به JPEG - تبدیل آنلاین XML به JPEG
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل XML به JPEG ذخیره فرمت. فرمت Python XML تا JPEG. XML را در JPEG Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to JPEG saveformat., Free Online XML to JPEG Python., Python Convert XML to JPEG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XML را به JPEG در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل XML به JPEG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="JPEG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="XML را به JPEG در Python تبدیل کنید" %}}
 
- چگونه XML را به JPEG تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XML را به صورت برنامه نویسی به JPEG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه XML را به JPEG تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XML را به صورت برنامه نویسی به JPEG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XML به JPEG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XML به JPEG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="jpg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه XML را به JPEG تبدیل کنیم" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی XML را تنها در چند خط کد بارگیری و به JPEG تبدیل کنند.
+آیا نیاز به تبدیل فایل های XML به JPEG دارید؟ توسعه دهندگان Python می توانند به راحتی XML را تنها در چند خط کد بارگیری و به JPEG تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل XML را با یک نمونه از Workbook بارگیری کنید
-1.  XML را با فراخوانی روش Workbook.save به JPEG تبدیل کنید
+1.  فایل XML را با یک نمونه از Workbook بارگیری کنید.
+1.  XML را با فراخوانی روش Workbook.save به JPEG تبدیل کنید.
+1.  نتیجه تبدیل XML به JPEG را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML مخفف Extensible Markup Language است که شبیه به HTML است اما در استفاده از برچسب ها برای تعریف اشیا متفاوت است. ایده اصلی ایجاد فرمت فایل XML ذخیره و انتقال داده ها بدون وابستگی به ابزارهای نرم افزاری یا سخت افزاری بود. محبوبیت آن به این دلیل است که هم توسط انسان و هم با ماشین قابل خواندن است. این امر آن را قادر می سازد تا پروتکل های داده های رایج را در قالب اشیایی که قرار است در شبکه ای مانند شبکه جهانی وب (WWW) ذخیره و به اشتراک گذاشته شوند، ایجاد کند. "X" در XML برای توسعه پذیر است که به این معنی است که زبان را می توان به هر تعداد نماد بر اساس نیاز کاربر گسترش داد. برای این ویژگی ها است که بسیاری از فرمت های استاندارد فایل مانند Microsoft Open XML، LibreOffice OpenDocument، XHTML و SVG از آن استفاده می کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG نوعی فرمت تصویری است که با استفاده از روش فشرده سازی با اتلاف ذخیره می شود. تصویر خروجی، در نتیجه فشرده سازی، تعادلی بین اندازه ذخیره سازی و کیفیت تصویر است. کاربران می توانند سطح فشرده سازی را برای رسیدن به سطح کیفی مورد نظر تنظیم کنند و در عین حال اندازه ذخیره سازی را کاهش دهند. اگر فشرده سازی 10:1 روی تصویر اعمال شود، کیفیت تصویر به میزان قابل توجهی تحت تأثیر قرار می گیرد. هرچه مقدار فشرده سازی بیشتر باشد، کیفیت تصویر کاهش می یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید XML را به بسیاری از فرمت‌های فایل دیگر از جمله تعداد کمی از آنها در زیر تبدیل کنید." >}}
 

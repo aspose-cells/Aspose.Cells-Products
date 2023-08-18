@@ -1,7 +1,8 @@
 ---
-title:  ادغام SPREADSHEETML به DOCX از طریق Python
+title: SPREADSHEETML را با DOCX ادغام کنید - SPREADSHEETML را با DOCX در Python ترکیب کنید
 url: /fa/python-net/merger/merge-spreadsheetml-to-docx/ 
-description: SPREADSHEETML را به صورت آنلاین به DOCX ادغام کنید. SPREADSHEETML آنلاین رایگان به ادغام DOCX. SPREADSHEETML را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان SPREADSHEETML به DOCX ذخیره فرمت. Python SPREADSHEETML را با فرمت DOCX ترکیب کنید. SPREADSHEETML را به DOCX در Python ادغام کنید. SPREADSHEETML ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SPREADSHEETML to DOCX in Python., Free Online Python Merge SPREADSHEETML to docx., Python Combine SPREADSHEETML to DOCX Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام SPREADSHEETML به DOCX از طریق Python" h2="کتابخانه پرسرعت Python برای ادغام SPREADSHEETML به DOCX. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های 08cel، 076143 و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="DOCX" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: SPREADSHEETML را به صورت آنلاین به DOCX ادغام 
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به DOCX با استفاده از Python" %}}
 
- چگونه SPREADSHEETML را با DOCX ادغام کنیم؟ با کتابخانه Aspose.Cells for Python، می‌توانید به راحتی SPREADSHEETML را به صورت برنامه‌نویسی با چند خط کد به DOCX ادغام کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+چگونه SPREADSHEETML را با DOCX ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی با چند خط کد، SPREADSHEETML را به DOCX ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به DOCX در Python آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام SPREADSHEETML را با DOCX در Python نشان می دهد.
+مثال زیر نحوه ادغام SPREADSHEETML را با DOCX در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام SPREADSHEETML در DOCX دنبال کنید. فایل های خود را آپلود کنید، برای ادغام فایل ها با روش Workbook.Combine تماس بگیرید و سپس آن را در فایل DOCX ذخیره کنید. اگر کد را در Python ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال Python را ببینید که SPREADSHEETML را با DOCX ادغام می کند.
@@ -27,16 +28,18 @@ description: SPREADSHEETML را به صورت آنلاین به DOCX ادغام 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام SPREADSHEETML به DOCX به صورت آنلاین" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام SPREADSHEETML به DOCX در Python" InputFormat="xml" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SPREADSHEETML به DOCX از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام SPREADSHEETML با DOCX به صورت برنامه ریزی شده دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Python via .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
 + فایل SPREADSHEETML را با کلاس Workbook بارگیری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -53,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML مخفف Extensible Markup Language است که شبیه به HTML است اما در استفاده از برچسب ها برای تعریف اشیا متفاوت است. ایده اصلی ایجاد فرمت فایل XML ذخیره و انتقال داده ها بدون وابستگی به ابزارهای نرم افزاری یا سخت افزاری بود. محبوبیت آن به این دلیل است که هم توسط انسان و هم با ماشین قابل خواندن است. این امر آن را قادر می سازد تا پروتکل های داده های رایج را در قالب اشیایی که قرار است در شبکه ای مانند شبکه جهانی وب (WWW) ذخیره و به اشتراک گذاشته شوند، ایجاد کند. "X" در XML برای توسعه پذیر است که به این معنی است که زبان را می توان به هر تعداد نماد بر اساس نیاز کاربر گسترش داد. برای این ویژگی ها است که بسیاری از فرمت های استاندارد فایل مانند Microsoft Open XML، LibreOffice OpenDocument، XHTML و SVG از آن استفاده می کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DOCX" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX یک فرمت شناخته شده برای اسناد ورد Microsoft است. از سال 2007 با انتشار Microsoft Office 2007 معرفی شد، ساختار این قالب سند جدید از باینری ساده به ترکیبی از فایل های XML و باینری تغییر یافت. فایل‌های Docx را می‌توان با Word 2007 و نسخه‌های جانبی باز کرد، اما با نسخه‌های قبلی MS Word که از پسوند فایل DOC پشتیبانی می‌کنند، نمی‌توان آن‌ها را باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Python، One می‌تواند صفحه گسترده‌ای را با بسیاری از فرمت‌های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-docx/" name="SPREADSHEETML را به DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-sql/" name="SPREADSHEETML را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-bmp/" name="SPREADSHEETML را به BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-emf/" name="SPREADSHEETML را به EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-gif/" name="SPREADSHEETML را به GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-html/" name="SPREADSHEETML را به HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-md/" name="SPREADSHEETML را با MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-mhtml/" name="SPREADSHEETML را به MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-ods/" name="SPREADSHEETML را به ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-pdf/" name="SPREADSHEETML را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-png/" name="SPREADSHEETML را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-svg/" name="SPREADSHEETML را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tiff/" name="SPREADSHEETML را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-tsv/" name="SPREADSHEETML را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-txt/" name="SPREADSHEETML را به TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xls/" name="SPREADSHEETML را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsb/" name="SPREADSHEETML را به XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsm/" name="SPREADSHEETML را به XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlsx/" name="SPREADSHEETML را به XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xlt/" name="SPREADSHEETML را به XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltm/" name="SPREADSHEETML را به XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xltx/" name="SPREADSHEETML را به XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xml/" name="SPREADSHEETML را با XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-xps/" name="SPREADSHEETML را به XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-json/" name="SPREADSHEETML را به JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-spreadsheetml-to-jpeg/" name="SPREADSHEETML را به JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

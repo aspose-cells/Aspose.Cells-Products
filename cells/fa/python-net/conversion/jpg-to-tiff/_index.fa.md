@@ -1,7 +1,7 @@
 ---
-title: تبدیل JPG به TIFF Python via Python
-description: JPG را به صورت آنلاین به TIFF تبدیل کنید. تبدیل آنلاین رایگان JPG به TIFF. Python JPG به TIFF JPG به TIFF از طریق Python.
-keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG to Image
+title: Python JPG به TIFF - تبدیل آنلاین JPG به TIFF
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل JPG به TIFF ذخیره فرمت. فرمت Python JPG تا TIFF. JPG را در TIFF Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JPG to TIFF saveformat., Free Online JPG to TIFF Python., Python Convert JPG to TIFF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JPG را به TIFF در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل JPG به TIFF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="TIFF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% blocks/products/pf/agp/content h2="JPG را به TIFF در Python تبدیل کنید" %}}
 
- چگونه JPG را به TIFF تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JPG را به صورت برنامه نویسی به TIFF تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه JPG را به TIFF تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JPG را به صورت برنامه نویسی به TIFF تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert JPG, JPG Converter, JPG to PDF, JPG to Word, JPG to PPT, JPG t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JPG به TIFF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JPG به TIFF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="jpg" outformat="tiff" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JPG به TIFF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی JPG را تنها در چند خط کد بارگیری و به TIFF تبدیل کنند.
+آیا نیاز به تبدیل فایل های JPG به TIFF دارید؟ توسعه دهندگان Python می توانند به راحتی JPG را تنها در چند خط کد بارگیری و به TIFF تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل JPG را با یک نمونه از Workbook بارگیری کنید
-1.  با فراخوانی روش Workbook.save JPG را به TIFF تبدیل کنید
+1.  فایل JPG را با یک نمونه از Workbook بارگیری کنید.
+1.  با فراخوانی روش Workbook.save JPG را به TIFF تبدیل کنید.
+1.  نتیجه تبدیل JPG به TIFF را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" >}}JPEG نوعی فرمت تصویری است که با استفاده از روش فشرده سازی با اتلاف ذخیره می شود. تصویر خروجی، در نتیجه فشرده سازی، تعادلی بین اندازه ذخیره سازی و کیفیت تصویر است. کاربران می توانند سطح فشرده سازی را برای رسیدن به سطح کیفی مورد نظر تنظیم کنند و در عین حال اندازه ذخیره سازی را کاهش دهند. اگر فشرده سازی 10:1 روی تصویر اعمال شود، کیفیت تصویر به میزان قابل توجهی تحت تأثیر قرار می گیرد. هرچه مقدار فشرده سازی بیشتر باشد، کیفیت تصویر کاهش می یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}TIFF یا TIF، با فرمت فایل تصویری برچسب‌گذاری شده، تصاویر شطرنجی را نشان می‌دهد که برای استفاده در دستگاه‌های مختلفی طراحی شده‌اند که با این استاندارد قالب فایل مطابقت دارند. این می تواند داده های تصویر دوسطحی، مقیاس خاکستری، پالت رنگی و تمام رنگی را در چندین فضای رنگی توصیف کند. این برنامه از طرح‌های فشرده‌سازی بدون تلفات و همچنین برای انتخاب بین فضا و زمان برای برنامه‌های کاربردی با استفاده از فرمت پشتیبانی می‌کند. این قالب وابسته به ماشین نیست و فاقد محدودیت هایی مانند پردازنده، سیستم عامل یا سیستم های فایل است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید JPG را به بسیاری از فرمت‌های فایل دیگر از جمله چند مورد در زیر تبدیل کنید." >}}
 

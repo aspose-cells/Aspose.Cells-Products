@@ -419,7 +419,7 @@ description: Python کتابخانه صفحه گسترده برای ایجاد �
     </p>
     <div class="codeblock" id="code">
      <h3>
- ذخیره صفحه گسترده در فرمت های مختلف - Java
+ذخیره صفحه گسترده در فرمت های مختلف - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

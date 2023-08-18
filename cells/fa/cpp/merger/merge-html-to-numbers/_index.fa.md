@@ -1,7 +1,8 @@
 ---
-title:  ادغام HTML به NUMBERS از طریق C++
+title: HTML را با NUMBERS ادغام کنید - HTML را با NUMBERS در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-html-to-numbers/ 
-description: HTML را به صورت رایگان به NUMBERS آنلاین ادغام کنید. رایگان آنلاین HTML to NUMBERS Merger. HTML را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان HTML به NUMBERS فرمت ذخیره. C++ HTML را با فرمت NUMBERS ترکیب کنید. HTML را به NUMBERS در C++ ادغام کنید. HTML ادغام کنید.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge HTML to NUMBERS in C++., Free Online C++ Merge HTML to numbers., C++ Combine HTML to NUMBERS Online for Free., HTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام HTML به NUMBERS از طریق C++" h2="کتابخانه پرسرعت C++ برای ادغام HTML به NUMBERS. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C++ استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="HTML" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: HTML را به صورت رایگان به NUMBERS آنلاین اد
 
 {{% blocks/products/pf/agp/content h2="ادغام HTML به NUMBERS با استفاده از C++" %}}
 
- چگونه HTML را با NUMBERS ادغام کنیم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، HTML را به NUMBERS ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه HTML را با NUMBERS ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می توانید به راحتی با چند خط کد، HTML را به NUMBERS ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="ادغام HTML به NUMBERS در C++ آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام HTML را با NUMBERS در C++ نشان می دهد.
+مثال زیر نحوه ادغام HTML را با NUMBERS در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام HTML با NUMBERS دنبال کنید. فایل‌های خود را آپلود کنید، برای ادغام فایل‌ها با روش Workbook.Combine تماس بگیرید و سپس آن را در فایل NUMBERS ذخیره کنید. اگر کد را در C++ ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال C++ را ببینید که HTML را با NUMBERS ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام HTML به NUMBERS به صورت آنلاین" InputFormat="html" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام HTML به NUMBERS در C++" InputFormat="html" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام HTML به NUMBERS از طریق C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام HTML با NUMBERS دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
 + فایل HTML را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  کتابخانه را با استفاده از Include و lib Folders نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) افزونه ای برای صفحات وب است که برای نمایش در مرورگرها ایجاد شده است. HTML که به عنوان زبان وب شناخته می شود، با الزامات نیازهای اطلاعاتی جدید برای نمایش بخشی از صفحات وب تکامل یافته است. آخرین نوع به نام HTML 5 شناخته می شود که انعطاف پذیری زیادی را برای کار با زبان می دهد. صفحات HTML یا از سرور دریافت می‌شوند، جایی که این صفحات میزبانی می‌شوند، یا می‌توانند از سیستم محلی نیز بارگیری شوند. هر صفحه HTML از HTML عنصر مانند فرم ها، متن، تصاویر، انیمیشن ها، لینک ها و غیره تشکیل شده است. همچنین می تواند برنامه هایی را که به زبان های برنامه نویسی نوشته شده اند مانند جاوا اسکریپت و برگه های سبک (CSS) برای نمایش طرح کلی جاسازی کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C++، One می تواند html را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-docx/" name="HTML را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-sql/" name="HTML را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-bmp/" name="HTML را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-emf/" name="HTML را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-gif/" name="HTML را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-html/" name="HTML را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-md/" name="HTML را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-mhtml/" name="HTML را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-ods/" name="HTML را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-pdf/" name="HTML را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-png/" name="HTML را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-svg/" name="HTML را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-tiff/" name="HTML را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-tsv/" name="HTML را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-txt/" name="HTML را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xls/" name="HTML را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsb/" name="HTML را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsm/" name="HTML را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlsx/" name="HTML را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xlt/" name="HTML را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xltm/" name="HTML را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xltx/" name="HTML را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xml/" name="HTML را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-xps/" name="HTML را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-json/" name="HTML را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-html-to-jpeg/" name="HTML را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

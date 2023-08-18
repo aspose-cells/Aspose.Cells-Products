@@ -1,7 +1,8 @@
 ---
-title:  MHT را به XLSM via Java ادغام کنید
+title: MHT را به XLSM ادغام کنید - MHT را با XLSM در Java ترکیب کنید
 url: /fa/java/merger/merge-mht-to-xlsm/ 
-description: MHT را به XLSM آنلاین به صورت رایگان ادغام کنید. MHT آنلاین رایگان به ادغام XLSM. MHT را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Java Aspose.Cells. ادغام آنلاین رایگان MHT به XLSM Saveformat. Java فرمت MHT را با XLSM ترکیب کنید. MHT را به XLSM در Java ادغام کنید. MHT Merge.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge MHT to XLSM in Java., Free Online Java Merge MHT to xlsm., Java Combine MHT to XLSM Online for Free., MHT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="MHT را به XLSM via Java ادغام کنید" h2="کتابخانه پرسرعت Java برای ادغام MHT به XLSM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در Java استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های excel دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="MHT" additionalConversionTag="XLSM" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: MHT را به XLSM آنلاین به صورت رایگان ادغا
 
 {{% blocks/products/pf/agp/content h2="ادغام MHT به XLSM با استفاده از Java" %}}
 
- چگونه MHT را با XLSM ادغام کنیم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی MHT را به XLSM با چند خط کد ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
+ چگونه MHT را با XLSM ادغام کنم؟ با کتابخانه Aspose.Cells for Java، می توانید به راحتی MHT را به XLSM با چند خط کد ادغام کنید.[Aspose.Cells for Java](https://products.aspose.com/cells/java) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Java اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
 {{% blocks/products/pf/agp/code-block title="مخزن" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: MHT را به XLSM آنلاین به صورت رایگان ادغا
 
 {{% blocks/products/pf/agp/content h2="ادغام MHT به XLSM در Java آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام MHT را با XLSM در Java نشان می دهد.
+مثال زیر نحوه ادغام MHT را با XLSM در Aspose.Cells for Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام MHT با XLSM دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل XLSM ذخیره کنید. اگر کد را در Java ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال Java را ببینید که MHT را با XLSM ادغام می کند.
@@ -55,16 +56,18 @@ description: MHT را به XLSM آنلاین به صورت رایگان ادغا
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام MHT به XLSM به صورت آنلاین" InputFormat="mht" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام MHT به XLSM در Java" InputFormat="mht" InputFormat2="xlsm" outformat="xlsm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام MHT به XLSM via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام MHT با XLSM از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Java' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Java خود اضافه کنید.
 + فایل MHT را با کلاس Workbook بارگیری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -97,21 +100,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}یک فایل با پسوند mht. یک فرمت فایل بایگانی با قابلیت MIME است که شامل انواع مختلف داده در یک فایل واحد است. این می تواند داده هایی مانند متن، تصاویر، استایل صفحه را در قالب فایل های CSS، جاوا اسکریپت و سایر منابع به عنوان منابع جاسازی شده در خود ذخیره کند. فایل‌های MHT، با داشتن پیام از نوع MIME/rfc822، تمام محتویات یک فایل HTML را به عنوان یک فایل بایگانی واحد برای ذخیره در بایگانی در دستگاه‌های ذخیره‌سازی کپسوله می‌کنند. برنامه های نرم افزاری مانند Microsoft Word به شما امکان می دهد اسناد WORD خود را با صادرات به عنوان فایل MHT به MHT تبدیل کنید. فایل های MHT را می توان با استفاده از مرورگرهای محبوب مانند Microsoft Internet Explore و Google Chrome باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}فایل‌های با پسوند XLSM نوعی از فایل‌های صفحه گسترده هستند که از ماکرو پشتیبانی می‌کنند. از نقطه نظر کاربرد، ماکرو مجموعه ای از دستورالعمل هایی است که برای خودکارسازی فرآیندها استفاده می شود. ماکرو برای ثبت مراحلی که به طور مکرر انجام می شود استفاده می شود و با اجرای مجدد ماکرو انجام اقدامات را تسهیل می کند. ماکروها با Visual Basic for Applications (VBA) Microsoft از داخل Workbook اکسل با استفاده از ویرایشگر ویژوال بیسیک برنامه ریزی می شوند و می توانند مستقیماً از آنجا اجرا/اشکال زدایی شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Java، One می تواند mht را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-docx/" name="MHT را به DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-sql/" name="MHT را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-bmp/" name="MHT را به BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-emf/" name="MHT را به EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-gif/" name="MHT را به GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-html/" name="MHT را به HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-md/" name="MHT را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-mhtml/" name="MHT را به MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-ods/" name="MHT را به ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-pdf/" name="MHT را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-png/" name="MHT را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-svg/" name="MHT را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tiff/" name="MHT را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-tsv/" name="MHT را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-txt/" name="MHT را به TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xls/" name="MHT را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsb/" name="MHT را به XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsm/" name="MHT را به XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlsx/" name="MHT را به XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xlt/" name="MHT را به XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltm/" name="MHT را به XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xltx/" name="MHT را به XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xml/" name="MHT را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-xps/" name="MHT را به XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-json/" name="MHT را به JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-mht-to-jpeg/" name="MHT را به JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

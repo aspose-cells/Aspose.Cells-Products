@@ -1,7 +1,8 @@
 ---
-title:  ادغام XLS به MHT از طریق C#
+title: XLS را به MHT ادغام کنید - XLS را با MHT در C# ترکیب کنید
 url: /fa/net/merger/merge-xls-to-mht/ 
-description: XLS را به صورت رایگان در MHT Online ادغام کنید. آنلاین رایگان XLS به MHT Merger. XLS را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان XLS به فرمت ذخیره سازی MHT. C# XLS را با فرمت MHT ترکیب کنید. ادغام XLS به MHT در C#. XLS ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLS to MHT in C#., Free Online C# Merge XLS to mht., C# Combine XLS to MHT Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام XLS به MHT از طریق C#" h2="کتابخانه پرسرعت C# برای ادغام XLS به MHT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در C# استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLS را به صورت رایگان در MHT Online ادغام کن
 
 {{% blocks/products/pf/agp/content h2="ادغام XLS به MHT با استفاده از C#" %}}
 
- چگونه XLS را با MHT ادغام کنیم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی XLS را به صورت برنامه ریزی شده با چند خط کد به MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLS را با MHT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی XLS را به صورت برنامه ریزی شده با چند خط کد به MHT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="ادغام XLS به MHT در C# آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام XLS را با MHT در C# نشان می دهد.
+مثال زیر نحوه ادغام XLS را با MHT در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام XLS به MHT دنبال کنید. فایل های خود را آپلود کنید، روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید و سپس آن را در فایل MHT ذخیره کنید. اگر کد را در C# ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. نمونه C# را ببینید که XLS را با MHT ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام XLS به MHT به صورت آنلاین" InputFormat="xls" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام XLS به MHT در C#" InputFormat="xls" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLS به MHT از طریق C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
+آیا نیاز به ادغام XLS با MHT از طریق برنامه دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C# خود اضافه کنید.
 + فایل XLS را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells/) . دیدن[مستندات](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)در Visual Studio IDE
+1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) در Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}فایل‌های با پسوند XLS فرمت فایل باینری اکسل را نشان می‌دهند. چنین فایل هایی را می توان توسط Microsoft Excel و همچنین سایر برنامه های صفحه گسترده مشابه مانند OpenOffice Calc یا Apple Numbers ایجاد کرد. فایل ذخیره شده توسط اکسل به عنوان Workbook شناخته می شود که در آن هر کتاب کار می تواند یک یا چند کاربرگ داشته باشد. داده‌ها در قالب جدول در کاربرگ ذخیره و به کاربران نمایش داده می‌شوند و می‌توانند مقادیر عددی، داده‌های متنی، فرمول‌ها، اتصالات داده‌های خارجی، تصاویر و نمودارها را پوشش دهند. برنامه هایی مانند Microsoft Excel به شما امکان می دهد داده های کتاب کار را به چندین فرمت مختلف از جمله PDF، CSV، XLSX، TXT، HTML، XPS، و چندین فرمت دیگر صادر کنید. با انتشار Microsoft اکسل 2007، فرمت فایل XLS با فرمت بازتر و ساختار یافته تر، XLSX جایگزین شد. آخرین نسخه ها هنوز از ایجاد و خواندن فایل های XLS پشتیبانی می کنند، اگرچه 0761114348 اولین انتخابی است که اکنون استفاده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}یک فایل با پسوند mht. یک فرمت فایل بایگانی با قابلیت MIME است که شامل انواع مختلف داده در یک فایل واحد است. این می تواند داده هایی مانند متن، تصاویر، استایل صفحه را در قالب فایل های CSS، جاوا اسکریپت و سایر منابع به عنوان منابع جاسازی شده در خود ذخیره کند. فایل‌های MHT، با داشتن پیام از نوع MIME/rfc822، تمام محتویات یک فایل HTML را به عنوان یک فایل بایگانی واحد برای ذخیره در بایگانی در دستگاه‌های ذخیره‌سازی کپسوله می‌کنند. برنامه های نرم افزاری مانند Microsoft Word به شما امکان می دهد اسناد WORD خود را با صادرات به عنوان فایل MHT به MHT تبدیل کنید. فایل های MHT را می توان با استفاده از مرورگرهای محبوب مانند Microsoft Internet Explore و Google Chrome باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C#، One می تواند xls را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-docx/" name="XLS را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-sql/" name="XLS را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-bmp/" name="XLS را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-emf/" name="XLS را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-gif/" name="XLS را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-html/" name="XLS را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-md/" name="XLS را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-mhtml/" name="XLS را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-ods/" name="XLS را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-pdf/" name="XLS را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-png/" name="XLS را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-svg/" name="XLS را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tiff/" name="XLS را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-tsv/" name="XLS را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-txt/" name="XLS را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xls/" name="XLS را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsb/" name="XLS را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsm/" name="XLS را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlsx/" name="XLS را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xlt/" name="XLS را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltm/" name="XLS را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xltx/" name="XLS را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xml/" name="XLS را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-xps/" name="XLS را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-json/" name="XLS را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xls-to-jpeg/" name="XLS را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

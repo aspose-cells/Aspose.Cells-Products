@@ -1,7 +1,8 @@
 ---
-title:  ادغام TABDELIMITED به ODS از طریق Python
+title: ادغام TABDELIMITED به ODS - ترکیب TABDELIMITED به ODS در Python
 url: /fa/python-net/merger/merge-tabdelimited-to-ods/ 
-description: TABDELIMITED را به صورت آنلاین به ODS ادغام کنید. رایگان آنلاین TABDELIMITED به ODS ادغام. TABDELIMITED را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان TABDELIMITED به ODS ذخیره فرمت. Python TABDELIMITED را با فرمت ODS ترکیب کنید. ادغام TABDELIMITED به ODS در Python. TABDELIMITED ادغام.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to ODS in Python., Free Online Python Merge TABDELIMITED to ods., Python Combine TABDELIMITED to ODS Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام TABDELIMITED به ODS از طریق Python" h2="کتابخانه پرسرعت Python برای ادغام TABDELIMITED به ODS. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزار حرفه ای برای وارد کردن و صادرات فرمت های 071143 excel و بسیاری دیگر از فرمت های 071143 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: TABDELIMITED را به صورت آنلاین به ODS ادغام ک
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به ODS با استفاده از Python" %}}
 
- چگونه TABDELIMITED را با ODS ادغام کنیم؟ با کتابخانه Aspose.Cells for Python، می توانید به راحتی با چند خط کد، TABDELIMITED را به ODS ادغام کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+ چگونه TABDELIMITED را با ODS ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی با چند خط کد، TABDELIMITED را به ODS ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ادغام TABDELIMITED به ODS در Python آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام TABDELIMITED را با ODS در Python نشان می دهد.
+مثال زیر نحوه ادغام TABDELIMITED به ODS در Aspose.Cells for Python via .NET را نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام TABDELIMITED به ODS دنبال کنید. فایل های خود را آپلود کنید، با Workbook.Combine برای ادغام فایل ها تماس بگیرید و سپس آن را در فایل ODS ذخیره کنید. اگر کد را در Python ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. نمونه Python را ببینید که TABDELIMITED را با ODS ادغام می کند.
@@ -27,16 +28,18 @@ description: TABDELIMITED را به صورت آنلاین به ODS ادغام ک
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام TABDELIMITED به ODS به صورت آنلاین" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام TABDELIMITED به ODS در Python" InputFormat="tsv" InputFormat2="ods" outformat="ods" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام TABDELIMITED به ODS از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام TABDELIMITED در ODS به صورت برنامه ریزی شده دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Python via .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
 + فایل TABDELIMITED را با کلاس Workbook بارگیری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -53,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}فرمت فایل مقادیر جدا شده از تب (TSV) داده‌های جدا شده با برگه‌ها را در قالب متن ساده نشان می‌دهد. فرمت فایل مشابه CSV برای سازماندهی داده ها به صورت ساختاریافته به منظور واردات و صادرات بین برنامه های مختلف استفاده می شود. این فرمت در درجه اول برای واردات/صادرات و تبادل داده در برنامه های کاربردی صفحه گسترده و پایگاه داده استفاده می شود. هر رکورد در یک فایل TSV در یک خط از فایل متنی موجود است که در آن هر مقدار فیلد با یک کاراکتر تب جدا می شود. نوع رسانه برای فرمت فایل TSV text/tab-separated-values است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}فایل‌های با پسوند ods مخفف فرمت OpenDocument Spreadsheet Document هستند که توسط کاربر قابل ویرایش هستند. داده ها در فایل ODF در ردیف ها و ستون ها ذخیره می شوند. این فرمت مبتنی بر XML است و یکی از چندین زیرگروه در خانواده فرمت‌های سند باز (ODF) است. این قالب به عنوان بخشی از مشخصات ODF 1.2 منتشر شده و نگهداری شده توسط OASIS مشخص شده است. تعدادی از برنامه های کاربردی در Windows و همچنین سایر سیستم عامل ها می توانند فایل های ODS را برای ویرایش و دستکاری باز کنند، از جمله Microsoft Excel، NeoOffice و LibreOffice. فایل‌های ODS همچنین می‌توانند توسط برنامه‌های مختلف به فرمت‌های صفحه‌گسترده دیگر و همچنین مانند XLS، XLSX و موارد دیگر تبدیل شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Python، One همچنین می‌تواند برگه‌ها را با بسیاری از فرمت‌های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-docx/" name="TABDELIMITED را به DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-sql/" name="TABDELIMITED را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-bmp/" name="TABDELIMITED را به BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-emf/" name="TABDELIMITED را به EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-gif/" name="TABDELIMITED را به GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-html/" name="TABDELIMITED را به HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-md/" name="ادغام TABDELIMITED به MD" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-mhtml/" name="TABDELIMITED را به MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-ods/" name="TABDELIMITED را به ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-pdf/" name="TABDELIMITED را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-png/" name="TABDELIMITED را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-svg/" name="TABDELIMITED را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-tiff/" name="TABDELIMITED را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-tsv/" name="TABDELIMITED را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-txt/" name="TABDELIMITED را به TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xls/" name="TABDELIMITED را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsb/" name="TABDELIMITED را به XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsm/" name="TABDELIMITED را به XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlsx/" name="TABDELIMITED را به XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xlt/" name="TABDELIMITED را به XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xltm/" name="TABDELIMITED را به XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xltx/" name="TABDELIMITED را به XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xml/" name="TABDELIMITED را در XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-xps/" name="TABDELIMITED را به XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-json/" name="TABDELIMITED را به JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-tabdelimited-to-jpeg/" name="TABDELIMITED را به JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

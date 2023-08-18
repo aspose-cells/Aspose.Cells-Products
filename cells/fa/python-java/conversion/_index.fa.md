@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="اکسل را به ورد و PowerPoint تبدیل کنید" %}}
- امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) کلاس هایی که در زیر نشان داده شده است.
+ امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)کلاس هایی که در زیر نشان داده شده است.
 {{% blocks/products/pf/feature-page-code h3="کد Python برای اکسل به ورد و تبدیل PowerPoint" %}}
 ```cs
 // load the template file

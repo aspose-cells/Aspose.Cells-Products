@@ -1,16 +1,16 @@
 ---
 title:  Microsoft एक्सेल फ़ाइल रूपांतरण C# के माध्यम से
-description: एक्सेल XLS, XLSX, ODS, CSV से PDF, XPS, HTML, JPEG, HTML, HTML और कई अन्य लोकप्रिय स्वरूपों के साथ कन्वर्ट करें।
+description: Excel XLS, XLSX, ODS, CSV को PDF, XPS, HTML, JPEG, HTML और कई अन्य लोकप्रिय प्रारूपों को C# कोड की कुछ पंक्तियों के साथ परिवर्तित करें .
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल प्रारूप रूपांतरण via .NET" h2="एक्सेल फाइलों को स्प्रेडशीट, वेब, इमेज और फिक्स्ड-लेआउट फॉर्मेट के रूप में इम्पोर्ट और एक्सपोर्ट करें" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> एक्सेल प्रारूप रूपांतरण via .NET" h2="एक्सेल फ़ाइलों को स्प्रेडशीट, वेब, छवि और फिक्स्ड-लेआउट प्रारूपों के रूप में आयात और निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-.NET एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS सहित लोकप्रिय प्रारूपों का समर्थन करते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देती है। यह एक्सेल फाइलों को PDF, XPS, HTML, MHTML, प्लेन में निर्यात करने की भी अनुमति देता है पाठ और लोकप्रिय छवि प्रारूप जैसे TIFF, JPG, PNG, BMP और SVG।
+.NET एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 सहित लोकप्रिय प्रारूपों का समर्थन करते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देती है। 481. यह एक्सेल फ़ाइलों को PDF, XPS, HTML, MHTML, प्लेन पर निर्यात करने की भी अनुमति देता है टेक्स्ट और लोकप्रिय छवि प्रारूप जैसे TIFF, जेपीजी, PNG, BMP और SVG।
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को XLSX, ODS, SXC और FODS में बदलें" %}}
- स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ एक स्प्रेडशीट लोड करने की आवश्यकता होती है[वर्कबुक](https://reference.aspose.com/cells/net/aspose.cells/workbook) और उचित मूल्य का चयन करते समय वांछित प्रारूप में वापस सहेजना[सेवफॉर्मेट](https://reference.aspose.com/cells/net/aspose.cells/saveformat) गणना।
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को XLSX, ODS, SXC और FODS में कनवर्ट करें" %}}
+ स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ स्प्रेडशीट लोड करने की आवश्यकता होती है[वर्कबुक](https://reference.aspose.com/cells/net/aspose.cells/workbook) और उचित मूल्य का चयन करते हुए वांछित प्रारूप में वापस सहेजना[प्रारूप सहेजें](https://reference.aspose.com/cells/net/aspose.cells/saveformat) गणना
 {{% blocks/products/pf/feature-page-code h3="एक्सेल फ़ाइल स्वरूप रूपांतरण के लिए C# कोड" %}}
 
 ```cs
@@ -27,9 +27,9 @@ workbook.Save("output.fods", Aspose.Cells.SaveFormat.Fods);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को PDF, XPS, HTML और एमडी में कनवर्ट करें" %}}
- विशिष्ट आउटपुट स्वरूपों जैसे रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशिष्ट वर्ग उपलब्ध हैं[पीडीएफ सहेजें विकल्प](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) एक्सेल फाइल को PDF के रूप में निर्यात करने के लिए,[XpsSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) एक्सेल के लिए XPS रूपांतरण के लिए,[HtmlSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) एक्सेल को HTML के रूप में प्रस्तुत करने के लिए और[मार्कडाउन सेवऑप्शन](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) एक्सेल से मार्कडाउन रूपांतरण के लिए।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल से PDF और वेब प्रारूपों के लिए C# कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को PDF, XPS, HTML एवं एमडी में बदलें" %}}
+ विशिष्ट आउटपुट स्वरूपों के लिए रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशेष कक्षाएं उपलब्ध हैं[पीडीएफसेवविकल्प](https://reference.aspose.com/cells/net/aspose.cells/pdfsaveoptions) एक्सेल फ़ाइलों को PDF के रूप में निर्यात करने के लिए,[XpsSaveविकल्प](https://reference.aspose.com/cells/net/aspose.cells/xpssaveoptions) एक्सेल से XPS रूपांतरण के लिए,[HTMLSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/htmlsaveoptions) एक्सेल को HTML के रूप में प्रस्तुत करना और[मार्कडाउनसेवऑप्शंस](https://reference.aspose.com/cells/net/aspose.cells/markdownsaveoptions) एक्सेल से मार्कडाउन रूपांतरण के लिए।
+{{% blocks/products/pf/feature-page-code h3="C# एक्सेल के लिए कोड PDF और वेब फॉर्मेट के लिए" %}}
 
 ```cs
 // load template Excel file from disc
@@ -48,9 +48,9 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="JSON को एक्सेल और एक्सेल को JSON में बदलें" %}}
- JSON डेटा को एक उदाहरण में आयात किया जा सकता है[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) वर्ग की मदद से[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) किसी भी समर्थित प्रारूप में आगे की प्रक्रिया या सरल रूपांतरण के लिए। इसी प्रकार,[कार्यपत्रक](https://reference.aspose.com/cells/net/aspose.cells/worksheet) a बनाकर JSON के रूप में डेटा निर्यात किया जा सकता है[श्रेणी](https://reference.aspose.com/cells/net/aspose.cells/range) या सेल और कॉलिंग[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) तरीका।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल रूपांतरण के लिए JSON के लिए C# कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="JSON को एक्सेल में और एक्सेल को JSON में बदलें" %}}
+ JSON डेटा को एक उदाहरण में आयात किया जा सकता है[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) की मदद से कक्षा[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)किसी भी समर्थित प्रारूप में आगे की प्रक्रिया या सरल रूपांतरण के लिए। इसी प्रकार,[कार्यपत्रक](https://reference.aspose.com/cells/net/aspose.cells/worksheet) बनाकर डेटा को JSON के रूप में निर्यात किया जा सकता है[श्रेणी](https://reference.aspose.com/cells/net/aspose.cells/range) या सेल और कॉल कर रहे हैं[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) तरीका।
+{{% blocks/products/pf/feature-page-code h3="C# कोड JSON से एक्सेल रूपांतरण के लिए" %}}
 ```cs
 // create a Workbook object
 var workbook = new Cells.Workbook();
@@ -67,7 +67,7 @@ workbook.Save("output.xlsx", Cells.SaveFormat.Auto);
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="एक्सेल के लिए C# कोड JSON रूपांतरण के लिए" %}}
+{{% blocks/products/pf/feature-page-code h3="एक्सेल के लिए C# कोड से JSON रूपांतरण" %}}
 ```cs
 // load XLSX file with an instance of Workbook
 var workbook = new Workbook("template.xlsx", new LoadOptions(Cells.LoadFormat.Auto));
@@ -108,9 +108,9 @@ render.ToImage(0, "output.jpg");
 
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को वर्ड और PowerPoint में कनवर्ट करें" %}}
- उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और इसे वर्ड DOCX और PowerPoint PPTX फाइलों में बदलना संभव है[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [पीपीटीएक्ससेवऑप्शन](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) कक्षाएं जैसा कि नीचे दिखाया गया है।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल से वर्ड और PowerPoint रूपांतरण के लिए C# कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को वर्ड में बदलें और PowerPoint" %}}
+ उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में परिवर्तित करना संभव है[DocxSaveविकल्प](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [पीपीटीएक्ससेवऑप्शंस](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)कक्षाएं जैसा कि नीचे दिखाया गया है।
+{{% blocks/products/pf/feature-page-code h3="एक्सेल से वर्ड के लिए C# कोड और PowerPoint रूपांतरण" %}}
 ```cs
 // load the template file
 var workbook = new Aspose.Cells.Workbook("template.xlsx");

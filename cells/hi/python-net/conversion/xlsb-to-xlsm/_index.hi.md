@@ -1,7 +1,7 @@
 ---
-title: XLSB को XLSM Python via Python में बदलें
-description: XLSB को XLSM में मुफ्त में ऑनलाइन बदलें। मुफ़्त ऑनलाइन XLSB से XLSM कन्वर्टर। Python XLSB से XLSM। XLSB से XLSM वाया Python।
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB से XLSM - ऑनलाइन XLSB से XLSM कनवर्टर
+description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python XLSB को XLSM सेव फॉर्मेट में कनवर्ट करें। Python XLSB से XLSM प्रारूप। XLSB को XLSM Python पर सेव करें।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to XLSM saveformat., Free Online XLSB to XLSM Python., Python Convert XLSB to XLSM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में XLSB को XLSM में बदलें" h2="XLSB को XLSM में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,50 +12,51 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Python में XLSB को XLSM में बदलें" %}}
 
- XLSB को XLSM में कैसे बदलें? Aspose.Cells for Python के माध्यम से NET लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ XLSB को XLSM प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, रेंडर करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, यह एक्सेल फाइलों को छवियों के रूप में भी प्रस्तुत कर सकता है, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और अधिक, इस प्रकार यह उद्योग में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प है। -मानक प्रारूप।
+ मैं XLSB को XLSM में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLSB को XLSM में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में XLSB से XLSM तक ऑनलाइन फ्री में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में XLSB से XLSM को निःशुल्क ऑनलाइन सेव करें" %}}
 
-निम्न उदाहरण दर्शाता है कि XLSB को Python via NET में XLSM में कैसे परिवर्तित किया जाए।
+निम्नलिखित उदाहरण दर्शाता है कि Python via NET में XLSB को XLSM में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
 
-XLSB को XLSM में बदलने के लिए आसान चरणों का पालन करें। अपनी XLSB फ़ाइल अपलोड करें, फिर इसे XLSM फ़ाइल के रूप में सहेजें। XLSB पढ़ने और XLSM लिखने दोनों के लिए आप पूरी तरह योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट XLSM सामग्री और स्वरूपण मूल XLSB दस्तावेज़ के समान होगा।
+XLSB को XLSM में बदलने के लिए आसान चरणों का पालन करें। अपनी XLSB फ़ाइल अपलोड करें, फिर इसे XLSM फ़ाइल के रूप में सहेजें। XLSB पढ़ने और XLSM लिखने दोनों के लिए आप पूर्णतः योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट XLSM सामग्री और स्वरूपण मूल XLSB दस्तावेज़ के समान होगा।
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLSB को XLSM में ऑनलाइन बदलने के लिए फ्री ऐप और सैंपल कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLSB को XLSM में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="xlsm" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLSB को XLSM में कैसे बदलें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python डेवलपर्स आसानी से कोड की कुछ पंक्तियों में XLSB को XLSM में लोड और परिवर्तित कर सकते हैं।
+XLSB फ़ाइलों को प्रोग्रामेटिक रूप से XLSM में कनवर्ट करने की आवश्यकता है? Python डेवलपर्स कोड की कुछ पंक्तियों में XLSB को XLSM में आसानी से लोड और परिवर्तित कर सकते हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  'Aspose.Cells for Python via .NET' स्थापित करें।
-1.  अपने Python प्रोजेक्ट में लाइब्रेरी संदर्भ (लाइब्रेरी आयात करें) जोड़ें।
-1.  कार्यपुस्तिका के उदाहरण के साथ XLSB फ़ाइल लोड करें
-1.  Workbook.save विधि को कॉल करके XLSB को XLSM में बदलें
+1.  'Aspose.Cells for Python via .NET' इंस्टॉल करें।
+1.  अपने Python प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
+1.  कार्यपुस्तिका के उदाहरण के साथ XLSB फ़ाइल लोड करें।
+1.  Workbook.save पद्धति पर कॉल करके XLSB को XLSM में बदलें।
+1.  XLSB से XLSM का रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python पुस्तकालय XLSB को XLSM में बदलने के लिए" %}}
+{{% blocks/products/pf/agp/content h2="Python लाइब्रेरी XLSB को XLSM में बदलने के लिए" %}}
 
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-से Aspose.Cells for Python इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> कमांड का उपयोग इस रूप में करें:<code>$ pip install aspose-cells-python</code>.
+Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- और आप फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/)अपने डेवलपर वातावरण में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
+ और आप इसे फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/) अपने डेवलपर परिवेश में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,39 +64,44 @@ XLSB को XLSM में बदलने के लिए आसान चर�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python प्लेटफ़ॉर्म-स्वतंत्र API है और किसी भी प्लेटफ़ॉर्म (Windows, Linux) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में[Python](https://www.python.org/downloads/) 3.7 या उच्चतर।
+ Aspose.Cells NET के माध्यम से NET प्लेटफ़ॉर्म-स्वतंत्र है API और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में है[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}XLSB फ़ाइल स्वरूप एक्सेल बाइनरी फ़ाइल स्वरूप को निर्दिष्ट करता है, जो रिकॉर्ड और संरचनाओं का एक संग्रह है जो एक्सेल कार्यपुस्तिका सामग्री को निर्दिष्ट करता है। सामग्री में संख्याओं, पाठ, या दोनों संख्याओं और पाठ, सूत्रों, बाहरी डेटा कनेक्शन, चार्ट और छवियों की असंरचित या अर्ध-संरचित तालिकाएँ शामिल हो सकती हैं। XLSX (जो ओपन एक्सएमएल फ़ाइल प्रारूप पर आधारित है) के विपरीत, XLSB बाइनरी एक्सेल वर्कबुक फ़ाइल का प्रतिनिधित्व करता है। XLSB फ़ाइलों को तेजी से पढ़ा और लिखा जा सकता है जो उन्हें बड़ी फ़ाइलों के साथ काम करने के लिए उपयोगी बनाता है। XLSB का उपयोग कार्यपुस्तिकाओं को संग्रहीत करने के लिए शायद ही कभी किया जाता है क्योंकि XLSX (और पहले XLS) कार्यपुस्तिकाओं को सहेजने के लिए सबसे आम उपयोगकर्ता द्वारा चयनित फ़ाइल स्वरूप हैं। इसे Microsoft Office 2007 और इससे ऊपर के नंबर पर खोला जा सकता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}XLSM एक्सटेंशन वाली फ़ाइलें एक प्रकार की स्प्रेडशीट फ़ाइलें हैं जो मैक्रोज़ का समर्थन करती हैं। अनुप्रयोग के दृष्टिकोण से, मैक्रो निर्देशों का एक सेट है जिसका उपयोग प्रक्रियाओं को स्वचालित करने के लिए किया जाता है। मैक्रो का उपयोग उन चरणों को रिकॉर्ड करने के लिए किया जाता है जो बार-बार किए जाते हैं और मैक्रो को फिर से चलाकर क्रियाओं को निष्पादित करने की सुविधा प्रदान करते हैं। मैक्रोज़ को विज़ुअल बेसिक एडिटर का उपयोग करके एक्सेल वर्कबुक के भीतर से Microsoft के विज़ुअल बेसिक फॉर एप्लिकेशन (वीबीए) के साथ प्रोग्राम किया गया है और वहां से सीधे चलाया/डीबग किया जा सकता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप XLSB को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-bmp/" name="XLSB से BMP" description="बिटमैप चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-emf/" name="XLSB से EMF" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-gif/" name="XLSB से GIF" description="ग्राफिकल इंटरचेंज प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-html/" name="XLSB से HTML" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-bmp/" name="XLSB से BMP तक" description="बिटमैप चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-emf/" name="XLSB से EMF तक" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-gif/" name="XLSB से GIF तक" description="ग्राफ़िकल इंटरचेंज प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-html/" name="XLSB से HTML तक" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-md/" name="XLSB एमडी के लिए" description="मार्कडाउन भाषा" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-mhtml/" name="XLSB से MHTML" description="वेब पेज संग्रह प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-ods/" name="XLSB से ODS" description="OpenDocument स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-pdf/" name="XLSB से PDF" description="संवहन दस्तावेज़ स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-png/" name="XLSB से PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-svg/" name="XLSB से SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-tiff/" name="XLSB से TIFF" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-tsv/" name="XLSB से TSV" description="टैब-पृथक मान" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-txt/" name="XLSB से TXT" description="सामग्री या लेख दस्तावेज़" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xls/" name="XLSB से XLS" description="एक्सेल बाइनरी प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-mhtml/" name="XLSB से MHTML तक" description="वेब पेज पुरालेख प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-ods/" name="XLSB से ODS तक" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-pdf/" name="XLSB से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-png/" name="XLSB से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-svg/" name="XLSB से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-tiff/" name="XLSB से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-tsv/" name="XLSB से TSV तक" description="टैब-पृथक मान" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-txt/" name="XLSB से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xls/" name="XLSB से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlsm/" name="XLSB से XLSM" description="स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlsx/" name="XLSB से XLSX" description="ओओएक्सएमएल एक्सेल फाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlt/" name="XLSB से XLT" description="Microsoft एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltm/" name="XLSB से XLTM" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltx/" name="XLSB से XLTX" description="कार्यालय ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xml/" name="एक्सएमएल के लिए XLSB" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xps/" name="XLSB से XPS" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-json/" name="XLSB से JSON" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlsm/" name="XLSB से XLSM तक" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlsx/" name="XLSB से XLSX तक" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xlt/" name="XLSB से XLT तक" description="Microsoft एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltm/" name="XLSB से XLTM तक" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xltx/" name="XLSB से XLTX तक" description="ऑफिस ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xml/" name="XLSB एक्सएमएल के लिए" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-xps/" name="XLSB से XPS तक" description="एक्सएमएल पेपर विशिष्टताएँ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlsb-to-json/" name="XLSB से JSON तक" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

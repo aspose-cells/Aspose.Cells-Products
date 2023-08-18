@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل XLSB سند via Java
+title: محافظت و قفل XLSB سند via Java
 weight: 6590
 description: Java نمونه کد برای قفل کردن فایل XLSB با استفاده از رمز عبور در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

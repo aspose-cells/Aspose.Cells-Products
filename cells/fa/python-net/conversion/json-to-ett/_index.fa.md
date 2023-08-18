@@ -1,7 +1,7 @@
 ---
-title: تبدیل JSON به ETT Python via Python
-description: JSON را به صورت رایگان به ETT آنلاین تبدیل کنید. تبدیل رایگان JSON به ETT. Python JSON به ETT. JSON به ETT از طریق Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON به ETT - تبدیل آنلاین JSON به ETT
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل JSON به فرمت ذخیره ETT. Python JSON به فرمت ETT. JSON را به ETT Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to ETT saveformat., Free Online JSON to ETT Python., Python Convert JSON to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="JSON را به ETT در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل JSON به ETT. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="JSON را به ETT در Python تبدیل کنید" %}}
 
- چگونه JSON را به ETT تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JSON را به صورت برنامه ریزی شده به ETT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه JSON را به ETT تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JSON را به صورت برنامه ریزی شده به ETT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JSON به ETT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JSON به ETT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JSON به ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی JSON را تنها در چند خط کد بارگیری و به ETT تبدیل کنند.
+آیا باید فایل های JSON را به صورت برنامه ریزی شده به ETT تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی JSON را تنها در چند خط کد بارگیری و به ETT تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل JSON را با یک نمونه از Workbook بارگیری کنید
-1.  JSON را با فراخوانی روش Workbook.save به ETT تبدیل کنید
+1.  فایل JSON را با یک نمونه از Workbook بارگیری کنید.
+1.  JSON را با فراخوانی روش Workbook.save به ETT تبدیل کنید.
+1.  نتیجه تبدیل JSON به ETT را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Notation Object JavaScript) یک فرمت فایل استاندارد باز برای به اشتراک گذاری داده است که از متن قابل خواندن توسط انسان برای ذخیره و انتقال داده ها استفاده می کند. فایل های JSON با پسوند json. ذخیره می شوند. JSON نیاز به قالب بندی کمتری دارد و جایگزین خوبی برای XML است. JSON از جاوا اسکریپت گرفته شده است اما یک فرمت داده مستقل از زبان است. تولید و تجزیه JSON توسط بسیاری از زبان های برنامه نویسی مدرن پشتیبانی می شود. application/json نوع رسانه ای است که برای JSON استفاده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}یک فایل ETT یک الگوی صفحه گسترده است که توسط Kingsoft Spreadsheets، یک برنامه صفحه گسترده موجود در مجموعه WPS Office ایجاد شده است. این یک الگو را ذخیره می کند که می تواند به عنوان نقطه شروع برای ایجاد صفحات گسترده Kingsoft جدید (فایل های ET) استفاده شود. فایل های ETT اغلب برای ایجاد بودجه های مالی و سازماندهی داده ها استفاده می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید JSON را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

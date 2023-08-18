@@ -1,7 +1,8 @@
 ---
-title:  ادغام XLTX به NUMBERS از طریق Python
+title: XLTX را با NUMBERS ادغام کنید - XLTX را با NUMBERS در Python ترکیب کنید
 url: /fa/python-java/merger/merge-xltx-to-numbers/ 
-description: XLTX را به صورت رایگان به NUMBERS آنلاین ادغام کنید. رایگان آنلاین XLTX to NUMBERS Merger. XLTX را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان XLTX به NUMBERS فرمت ذخیره. Python XLTX را با فرمت NUMBERS ترکیب کنید. XLTX را به NUMBERS در Python ادغام کنید. XLTX ادغام کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLTX to NUMBERS in Python., Free Online Python Merge XLTX to numbers., Python Combine XLTX to NUMBERS Online for Free., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام XLTX به NUMBERS از طریق Python" h2="کتابخانه پرسرعت Python برای ادغام XLTX به NUMBERS. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: XLTX را به صورت رایگان به NUMBERS آنلاین اد
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTX به NUMBERS با استفاده از Python" %}}
 
- چگونه XLTX را با NUMBERS ادغام کنیم؟ با کتابخانه Aspose.Cells for Python، می توانید به راحتی با چند خط کد، XLTX را به NUMBERS ادغام کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
+چگونه XLTX را با NUMBERS ادغام کنم؟ با کتابخانه Aspose.Cells for Python via Java، می توانید به راحتی با چند خط کد، XLTX را به NUMBERS ادغام کنید.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via Java را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTX به NUMBERS در Python آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام XLTX را با NUMBERS در Python نشان می دهد.
+مثال زیر نحوه ادغام XLTX را با NUMBERS در Aspose.Cells for Python via Java نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام XLTX با NUMBERS دنبال کنید. فایل‌های خود را آپلود کنید، برای ادغام فایل‌ها با روش Workbook.Combine تماس بگیرید و سپس آن را در فایل NUMBERS ذخیره کنید. اگر کد را در Python ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال Python را ببینید که XLTX را با NUMBERS ادغام می کند.
@@ -27,16 +28,18 @@ description: XLTX را به صورت رایگان به NUMBERS آنلاین اد
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام XLTX به NUMBERS به صورت آنلاین" InputFormat="xltx" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام XLTX به NUMBERS در Python" InputFormat="xltx" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLTX به NUMBERS از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام XLTX با NUMBERS دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Python via Java' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
 + فایل XLTX را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -75,21 +78,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}فایل‌های با پسوند xltx. نشان‌دهنده فایل‌های قالب اکسل Microsoft هستند که بر اساس مشخصات فرمت فایل Office OpenXML هستند. از آن برای ایجاد یک فایل الگوی استاندارد استفاده می شود که می تواند برای تولید فایل های XLSX استفاده شود که همان تنظیمات مشخص شده در فایل XLTX را نشان می دهد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Python، One می تواند xltx را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-docx/" name="XLTX را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-sql/" name="XLTX را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-bmp/" name="XLTX را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-emf/" name="XLTX را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-gif/" name="XLTX را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-html/" name="XLTX را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-md/" name="XLTX را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-mhtml/" name="XLTX را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-ods/" name="XLTX را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-pdf/" name="XLTX را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-png/" name="XLTX را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-svg/" name="XLTX را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-tiff/" name="XLTX را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-tsv/" name="XLTX را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-txt/" name="XLTX را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xls/" name="XLTX را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsb/" name="XLTX را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsm/" name="XLTX را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlsx/" name="XLTX را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xlt/" name="XLTX را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xltm/" name="XLTX را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xltx/" name="XLTX را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xml/" name="XLTX را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-xps/" name="XLTX را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-json/" name="XLTX را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xltx-to-jpeg/" name="XLTX را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

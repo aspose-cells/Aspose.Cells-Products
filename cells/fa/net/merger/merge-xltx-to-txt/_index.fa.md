@@ -1,7 +1,8 @@
 ---
-title:  XLTX را با TXT از طریق C# ادغام کنید
+title: XLTX را با TXT ادغام کنید - XLTX را با TXT در C# ترکیب کنید
 url: /fa/net/merger/merge-xltx-to-txt/ 
-description: XLTX را به TXT به صورت آنلاین ادغام کنید. آنلاین رایگان XLTX الی TXT ادغام. XLTX را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C# Aspose.Cells. ادغام آنلاین رایگان XLTX به TXT ذخیره فرمت. C# XLTX را با فرمت TXT ترکیب کنید. ادغام XLTX به TXT در C#. XLTX ادغام.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge XLTX to TXT in C#., Free Online C# Merge XLTX to txt., C# Combine XLTX to TXT Online for Free., XLTX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLTX را با TXT از طریق C# ادغام کنید" h2="کتابخانه پرسرعت C# برای ادغام XLTX به TXT. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C# استفاده کنید. این یک راه حل حرفه ای نرم افزاری برای وارد کردن و صادرات بسیاری از فرمت های excel53481، و صادرات 07134343481 است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="XLTX" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: XLTX را به TXT به صورت آنلاین ادغام کنید. 
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTX به TXT با استفاده از C#" %}}
 
- چگونه XLTX را با TXT ادغام کنیم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد XLTX را به TXT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه XLTX را با TXT ادغام کنم؟ با کتابخانه Aspose.Cells for .NET می توانید به راحتی با چند خط کد XLTX را به TXT ادغام کنید.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. .NET اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها باز کن[NuGet](https://www.nuget.org/packages/aspose.cells) Package Manager Aspose.Cells را جستجو و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان کنسول Package Manager" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="ادغام XLTX به TXT در C# آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام XLTX را با TXT در C# نشان می دهد.
+مثال زیر نحوه ادغام XLTX با TXT را در Aspose.Cells for .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام XLTX با TXT دنبال کنید. فایل های خود را آپلود کنید، با Workbook تماس بگیرید. روش ترکیبی برای ادغام فایل ها، و سپس آن را در فایل TXT ذخیره کنید. اگر کد را در C# ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. نمونه C# را ببینید که XLTX را با TXT ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام XLTX به TXT به صورت آنلاین" InputFormat="xltx" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام XLTX با TXT در C#" InputFormat="xltx" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام XLTX با TXT از طریق C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام XLTX با TXT به صورت برنامه ای دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for .NET](https://products.aspose.com/cells/net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C# خود اضافه کنید.
 + فایل XLTX را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -62,7 +65,7 @@ PM> Install-Package Aspose.Cells
 {{% /blocks/products/pf/agp/text %}}
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells/) . دیدن[مستندات](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console)در Visual Studio IDE
+1.  کتابخانه را با استفاده از[کنسول Package Manager](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) در Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTX" readMoreLink="https://docs.fileformat.com/spreadsheet/xltx/" >}}فایل‌های با پسوند xltx. نشان‌دهنده فایل‌های قالب اکسل Microsoft هستند که بر اساس مشخصات فرمت فایل Office OpenXML هستند. از آن برای ایجاد یک فایل الگوی استاندارد استفاده می شود که می تواند برای تولید فایل های XLSX استفاده شود که همان تنظیمات مشخص شده در فایل XLTX را نشان می دهد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}یک فایل با پسوند 0.TXT یک سند متنی را نشان می دهد که حاوی متن ساده به شکل خطوط است. پاراگراف ها در یک سند متنی با بازگردانی های حمل و نقل شناسایی می شوند و برای چیدمان بهتر محتویات فایل استفاده می شوند. یک سند متنی استاندارد را می توان در هر ویرایشگر متن یا برنامه پردازش کلمه در سیستم عامل های مختلف باز کرد. تمام متن موجود در چنین فایلی در قالب قابل خواندن توسط انسان است و با ترتیب کاراکترها نشان داده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C#، One می تواند xltx را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-docx/" name="XLTX را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-sql/" name="XLTX را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-bmp/" name="XLTX را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-emf/" name="XLTX را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-gif/" name="XLTX را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-html/" name="XLTX را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-md/" name="XLTX را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-mhtml/" name="XLTX را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-ods/" name="XLTX را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-pdf/" name="XLTX را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-png/" name="XLTX را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-svg/" name="XLTX را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tiff/" name="XLTX را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-tsv/" name="XLTX را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-txt/" name="XLTX را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xls/" name="XLTX را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsb/" name="XLTX را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsm/" name="XLTX را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlsx/" name="XLTX را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xlt/" name="XLTX را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltm/" name="XLTX را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xltx/" name="XLTX را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xml/" name="XLTX را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-xps/" name="XLTX را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-json/" name="XLTX را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-xltx-to-jpeg/" name="XLTX را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

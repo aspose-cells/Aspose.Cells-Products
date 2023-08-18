@@ -1,7 +1,7 @@
 ---
-title: تبدیل PNG به MHTML Python via Python
-description: PNG را به صورت آنلاین به MHTML تبدیل کنید. تبدیل رایگان آنلاین PNG به MHTML. Python PNG الی MHTML. PNG الی MHTML از طریق Python.
-keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG to Image
+title: Python PNG به MHTML - تبدیل آنلاین PNG به MHTML
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل PNG به MHTML ذخیره فرمت. Python PNG الی MHTML فرمت. PNG را به شماره MHTML Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python PNG to MHTML saveformat., Free Online PNG to MHTML Python., Python Convert PNG to MHTML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل PNG به MHTML در Python" h2="کتابخانه پرسرعت Python برای تبدیل PNG به MHTML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% blocks/products/pf/agp/content h2="تبدیل PNG به MHTML در Python" %}}
 
- چگونه PNG را به MHTML تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد PNG را به صورت برنامه ای به MHTML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه PNG را به MHTML تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد PNG را به صورت برنامه ای به MHTML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert PNG, PNG Converter, PNG to PDF, PNG to Word, PNG to PPT, PNG t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل PNG به MHTML آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل PNG به MHTML آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="png" outformat="mhtml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل PNG به MHTML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی PNG را بارگیری و تنها در چند خط کد به MHTML تبدیل کنند.
+آیا باید فایل های PNG را به صورت برنامه ریزی شده به MHTML تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی PNG را بارگیری و تنها در چند خط کد به MHTML تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل PNG را با یک نمونه از Workbook بارگیری کنید
-1.  PNG را با فراخوانی روش Workbook.save به MHTML تبدیل کنید
+1.  فایل PNG را با یک نمونه از Workbook بارگیری کنید.
+1.  PNG را با فراخوانی روش Workbook.save به MHTML تبدیل کنید.
+1.  نتیجه تبدیل PNG به MHTML را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}فایل PNG (گرافیک شبکه قابل حمل) یک فرمت فایل تصویری شطرنجی است که از فشرده سازی بدون تلفات استفاده می کند. این فرمت فایل به عنوان جایگزین فرمت تبادل گرافیکی (GIF) ایجاد شده است و هیچ محدودیتی برای کپی رایت ندارد. با این حال، فرمت فایل PNG از انیمیشن ها پشتیبانی نمی کند. فرمت فایل PNG از فشرده سازی تصویر بدون اتلاف پشتیبانی می کند که باعث محبوبیت آن در بین کاربرانش می شود. با گذشت زمان، PNG به عنوان یکی از فرمت های فایل تصویری پرکاربرد تبدیل شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}فایل های با پسوند MHTML فرمت آرشیو صفحه وب را نشان می دهد که می تواند توسط تعدادی برنامه مختلف ایجاد شود. این قالب به عنوان فرمت آرشیو شناخته می شود زیرا کد HTML وب و منابع مرتبط را در یک فایل ذخیره می کند. این منابع شامل هر چیزی است که به صفحه وب مرتبط است مانند تصاویر، اپلت ها، انیمیشن ها، فایل های صوتی و غیره. فایل های MHTML را می توان در برنامه های مختلفی مانند Internet Explorer و Microsoft Word باز کرد. Microsoft Windows از فرمت فایل MHTML برای ضبط سناریوهای مشکلات مشاهده شده در هنگام استفاده از هر برنامه کاربردی در Windows که مشکلاتی را ایجاد می کند استفاده می کند. فرمت فایل MHTML محتویات صفحه را شبیه به مشخصات تعریف شده در message/rfc822 که مشخصات مربوط به ایمیل متنی ساده است، رمزگذاری می کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید PNG را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

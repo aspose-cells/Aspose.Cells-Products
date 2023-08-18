@@ -1,6 +1,6 @@
 ---
-title:  Windows, Linux और macOS पर एक्सेल फाइलों में मेटाडेटा देखें और संपादित करें
-description: "XLS और XLSX फ़ाइलों के दस्तावेज़ गुणों में हेरफेर करने के लिए नि: शुल्क ऐप और एपीआई"
+title:  Windows, Linux और macOS पर एक्सेल फ़ाइलों में मेटाडेटा देखें और संपादित करें
+description: XLS और XLSX फ़ाइलों के दस्तावेज़ गुणों में हेरफेर करने के लिए मुफ़्त ऐप और एपीआई
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

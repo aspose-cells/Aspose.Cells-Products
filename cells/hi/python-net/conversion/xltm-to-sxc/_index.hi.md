@@ -1,7 +1,7 @@
 ---
-title: XLTM को SXC Python via Python में बदलें
-description: XLTM को SXC में मुफ्त में ऑनलाइन बदलें। मुफ़्त ऑनलाइन XLTM से SXC कन्वर्टर। Python XLTM से SXC। XLTM से SXC वाया Python।
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM से SXC - ऑनलाइन XLTM से SXC कनवर्टर
+description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python XLTM को SXC सेव फॉर्मेट में कनवर्ट करें। Python XLTM से SXC प्रारूप। XLTM को SXC Python पर सेव करें।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to SXC saveformat., Free Online XLTM to SXC Python., Python Convert XLTM to SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में XLTM को SXC में बदलें" h2="XLTM को SXC में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,50 +12,51 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Python में XLTM को SXC में बदलें" %}}
 
- XLTM को SXC में कैसे बदलें? Aspose.Cells for Python के माध्यम से NET लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ XLTM को SXC प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, रेंडर करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, यह एक्सेल फाइलों को छवियों के रूप में भी प्रस्तुत कर सकता है, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और अधिक, इस प्रकार यह उद्योग में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प है। -मानक प्रारूप।
+ मैं XLTM को SXC में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLTM को SXC में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में XLTM से SXC तक ऑनलाइन फ्री में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में XLTM से SXC को निःशुल्क ऑनलाइन सेव करें" %}}
 
-निम्न उदाहरण दर्शाता है कि XLTM को Python via NET में SXC में कैसे परिवर्तित किया जाए।
+निम्नलिखित उदाहरण दर्शाता है कि Python via NET में XLTM को SXC में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
 
-XLTM को SXC में बदलने के लिए आसान चरणों का पालन करें। अपनी XLTM फ़ाइल अपलोड करें, फिर इसे SXC फ़ाइल के रूप में सहेजें। XLTM पढ़ने और SXC लिखने दोनों के लिए आप पूरी तरह योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट SXC सामग्री और स्वरूपण मूल XLTM दस्तावेज़ के समान होगा।
+XLTM को SXC में बदलने के लिए आसान चरणों का पालन करें। अपनी XLTM फ़ाइल अपलोड करें, फिर इसे SXC फ़ाइल के रूप में सहेजें। XLTM पढ़ने और SXC लिखने दोनों के लिए आप पूर्णतः योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट SXC सामग्री और स्वरूपण मूल XLTM दस्तावेज़ के समान होगा।
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLTM को SXC में ऑनलाइन बदलने के लिए फ्री ऐप और सैंपल कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLTM को SXC में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLTM को SXC में कैसे बदलें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python डेवलपर्स आसानी से कोड की कुछ पंक्तियों में XLTM को SXC में लोड और परिवर्तित कर सकते हैं।
+XLTM फ़ाइलों को प्रोग्रामेटिक रूप से SXC में कनवर्ट करने की आवश्यकता है? Python डेवलपर्स कोड की कुछ पंक्तियों में XLTM को SXC में आसानी से लोड और परिवर्तित कर सकते हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  'Aspose.Cells for Python via .NET' स्थापित करें।
-1.  अपने Python प्रोजेक्ट में लाइब्रेरी संदर्भ (लाइब्रेरी आयात करें) जोड़ें।
-1.  कार्यपुस्तिका के उदाहरण के साथ XLTM फ़ाइल लोड करें
-1.  Workbook.save विधि को कॉल करके XLTM को SXC में बदलें
+1.  'Aspose.Cells for Python via .NET' इंस्टॉल करें।
+1.  अपने Python प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
+1.  कार्यपुस्तिका के उदाहरण के साथ XLTM फ़ाइल लोड करें।
+1.  Workbook.save पद्धति पर कॉल करके XLTM को SXC में बदलें।
+1.  XLTM से SXC का रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python पुस्तकालय XLTM को SXC में बदलने के लिए" %}}
+{{% blocks/products/pf/agp/content h2="Python लाइब्रेरी XLTM को SXC में बदलने के लिए" %}}
 
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-से Aspose.Cells for Python इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> कमांड का उपयोग इस रूप में करें:<code>$ pip install aspose-cells-python</code>.
+Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- और आप फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/)अपने डेवलपर वातावरण में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
+ और आप इसे फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/) अपने डेवलपर परिवेश में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,39 +64,44 @@ XLTM को SXC में बदलने के लिए आसान चर�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python प्लेटफ़ॉर्म-स्वतंत्र API है और किसी भी प्लेटफ़ॉर्म (Windows, Linux) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में[Python](https://www.python.org/downloads/) 3.7 या उच्चतर।
+ Aspose.Cells NET के माध्यम से NET प्लेटफ़ॉर्म-स्वतंत्र है API और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में है[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}XLTM फ़ाइल एक्सटेंशन उन फ़ाइलों का प्रतिनिधित्व करता है जो Microsoft एक्सेल द्वारा मैक्रो-सक्षम टेम्पलेट फ़ाइलों के रूप में उत्पन्न होती हैं। XLTM फ़ाइलें संरचना में XLTX के समान हैं, सिवाय इसके कि बाद वाला मैक्रोज़ के साथ टेम्पलेट फ़ाइलें बनाने का समर्थन नहीं करता है। ऐसी टेम्प्लेट फ़ाइलों का उपयोग मैक्रोज़ के साथ लेआउट, फ़ॉर्मेटिंग और अन्य सेटिंग्स को उत्पन्न करने और सेट करने के लिए किया जाता है ताकि समान XLSX फ़ाइलें बनाने की सुविधा मिल सके।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}फ़ाइल स्वरूप SXC (सन एक्सएमएल कैल्क) OpenOffice.org नामक ऑफिस सुइट से संबंधित है। यह प्रारूप आम तौर पर उपयोगकर्ताओं की स्प्रेडशीट आवश्यकताओं से संबंधित है क्योंकि यह एक XML आधारित स्प्रेडशीट फ़ाइल प्रारूप है। SXC प्रारूप डेटापायलट के साथ-साथ सूत्रों, कार्यों, मैक्रोज़ और चार्ट का समर्थन करता है, जो एक अविश्वसनीय सुविधा है क्योंकि यह स्वचालित रूप से वैयक्तिकृत होता है और कच्चे आयातित डेटा का सारांश प्रदान करता है। इस सॉफ़्टवेयर से बनाई गई फ़ाइलें .sxc एक्सटेंशन के साथ सहेजी जाती हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप XLTM को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-bmp/" name="XLTM से BMP" description="बिटमैप चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-emf/" name="XLTM से EMF" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-gif/" name="XLTM से GIF" description="ग्राफिकल इंटरचेंज प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-html/" name="XLTM से HTML" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-bmp/" name="XLTM से BMP तक" description="बिटमैप चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-emf/" name="XLTM से EMF तक" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-gif/" name="XLTM से GIF तक" description="ग्राफ़िकल इंटरचेंज प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-html/" name="XLTM से HTML तक" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-md/" name="XLTM एमडी के लिए" description="मार्कडाउन भाषा" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-mhtml/" name="XLTM से MHTML" description="वेब पेज संग्रह प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-ods/" name="XLTM से ODS" description="OpenDocument स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-pdf/" name="XLTM से PDF" description="संवहन दस्तावेज़ स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-png/" name="XLTM से PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-svg/" name="XLTM से SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tiff/" name="XLTM से TIFF" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tsv/" name="XLTM से TSV" description="टैब-पृथक मान" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-txt/" name="XLTM से TXT" description="सामग्री या लेख दस्तावेज़" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xls/" name="XLTM से XLS" description="एक्सेल बाइनरी प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsb/" name="XLTM से XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsm/" name="XLTM से XLSM" description="स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsx/" name="XLTM से XLSX" description="ओओएक्सएमएल एक्सेल फाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlt/" name="XLTM से XLT" description="Microsoft एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-mhtml/" name="XLTM से MHTML तक" description="वेब पेज पुरालेख प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-ods/" name="XLTM से ODS तक" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-pdf/" name="XLTM से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-png/" name="XLTM से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-svg/" name="XLTM से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tiff/" name="XLTM से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-tsv/" name="XLTM से TSV तक" description="टैब-पृथक मान" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-txt/" name="XLTM से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xls/" name="XLTM से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsb/" name="XLTM से XLSB तक" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsm/" name="XLTM से XLSM तक" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlsx/" name="XLTM से XLSX तक" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xlt/" name="XLTM से XLT तक" description="Microsoft एक्सेल टेम्पलेट" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM से XLTX" description="कार्यालय ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="एक्सएमएल के लिए XLTM" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM से XPS" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-json/" name="XLTM से JSON" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xltx/" name="XLTM से XLTX तक" description="ऑफिस ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xml/" name="XLTM एक्सएमएल के लिए" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-xps/" name="XLTM से XPS तक" description="एक्सएमएल पेपर विशिष्टताएँ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xltm-to-json/" name="XLTM से JSON तक" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="تبدیل JSON به اکسل و اکسل به JSON" %}}
- داده های JSON را می توان به نمونه ای وارد کرد[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) کلاس با کمک[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) برای پردازش بیشتر یا تبدیل ساده به هر یک از فرمت های پشتیبانی شده. به همین ترتیب،[کاربرگ](https://reference.aspose.com/cells/net/aspose.cells/worksheet) داده ها را می توان به عنوان JSON با ایجاد یک صادر کرد[دامنه](https://reference.aspose.com/cells/net/aspose.cells/range) یا سلول ها و فراخوانی[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) روش.
+ داده های JSON را می توان به نمونه ای وارد کرد[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) کلاس با کمک[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)برای پردازش بیشتر یا تبدیل ساده به هر یک از فرمت های پشتیبانی شده. به همین ترتیب،[کاربرگ](https://reference.aspose.com/cells/net/aspose.cells/worksheet) داده ها را می توان به عنوان JSON با ایجاد یک صادر کرد[دامنه](https://reference.aspose.com/cells/net/aspose.cells/range) یا سلول ها و فراخوانی[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) روش.
 {{% blocks/products/pf/feature-page-code h3="C# کد تبدیل JSON به اکسل" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="اکسل را به ورد و PowerPoint تبدیل کنید" %}}
- امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) کلاس هایی که در زیر نشان داده شده است.
+ امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)کلاس هایی که در زیر نشان داده شده است.
 {{% blocks/products/pf/feature-page-code h3="کد C# برای اکسل به ورد و تبدیل PowerPoint" %}}
 ```cs
 // load the template file

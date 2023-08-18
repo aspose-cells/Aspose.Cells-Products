@@ -1,7 +1,8 @@
 ---
-title:  ادغام SPREADSHEETML به MHTML از طریق C++
+title: SPREADSHEETML را با MHTML ادغام کنید - SPREADSHEETML را با MHTML در C++ ترکیب کنید
 url: /fa/cpp/merger/merge-spreadsheetml-to-mhtml/ 
-description: SPREADSHEETML را به صورت آنلاین به MHTML ادغام کنید. SPREADSHEETML آنلاین رایگان به ادغام MHTML. SPREADSHEETML را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. C++ Aspose.Cells. ادغام آنلاین رایگان SPREADSHEETML به MHTML ذخیره فرمت. C++ SPREADSHEETML را با فرمت MHTML ترکیب کنید. SPREADSHEETML را به MHTML در C++ ادغام کنید. SPREADSHEETML ادغام.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge SPREADSHEETML to MHTML in C++., Free Online C++ Merge SPREADSHEETML to mhtml., C++ Combine SPREADSHEETML to MHTML Online for Free., SPREADSHEETML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام SPREADSHEETML به MHTML از طریق C++" h2="کتابخانه پرسرعت C++ برای ادغام SPREADSHEETML به MHTML. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلتفرم در C++ استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات فرمت های 08cel، 076143 و بسیاری دیگر از فرمت های excel است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="SPREADSHEETML" additionalConversionTag="MHTML" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: SPREADSHEETML را به صورت آنلاین به MHTML ادغام
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به MHTML با استفاده از C++" %}}
 
- چگونه SPREADSHEETML را با MHTML ادغام کنیم؟ با کتابخانه Aspose.Cells for C++، می‌توانید به راحتی SPREADSHEETML را به صورت برنامه‌نویسی با چند خط کد به MHTML ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
+ چگونه SPREADSHEETML را با MHTML ادغام کنم؟ با کتابخانه Aspose.Cells for C++، می‌توانید به راحتی SPREADSHEETML را به صورت برنامه‌نویسی با چند خط کد به MHTML ادغام کنید.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. C++ اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها شما می توانید آخرین نسخه آن را مستقیما دانلود کنید، فقط باز کنید[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) Package Manager Aspose.Cells.Cpp را جستجو کرده و نصب کنید. همچنین می توانید از دستور زیر در کنسول Package Manager استفاده کنید.
 
 {{% blocks/products/pf/agp/code-block title="فرمان" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="ادغام SPREADSHEETML به MHTML در C++ آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام SPREADSHEETML را با MHTML در C++ نشان می دهد.
+مثال زیر نحوه ادغام SPREADSHEETML را با MHTML در Aspose.Cells for C++ نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام SPREADSHEETML در MHTML دنبال کنید. فایل های خود را آپلود کنید، برای ادغام فایل ها با روش Workbook.Combine تماس بگیرید و سپس آن را در فایل MHTML ذخیره کنید. اگر کد را در C++ ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال C++ را ببینید که SPREADSHEETML را با MHTML ادغام می کند.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام SPREADSHEETML به MHTML به صورت آنلاین" InputFormat="xml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام SPREADSHEETML به MHTML در C++" InputFormat="xml" InputFormat2="mhtml" outformat="mhtml" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SPREADSHEETML به MHTML از طریق C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام SPREADSHEETML با MHTML به صورت برنامه ریزی شده دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for C++' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه C++ خود اضافه کنید.
 + فایل SPREADSHEETML را با کلاس Workbook بارگیری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  a را نصب کنید[NuGet بسته](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  کتابخانه را با استفاده از Include و lib Folders نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Aspose.Cells for C++ را در لینوکس نصب کنید. دیدن[مستندات](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML مخفف Extensible Markup Language است که شبیه به HTML است اما در استفاده از برچسب ها برای تعریف اشیا متفاوت است. ایده اصلی ایجاد فرمت فایل XML ذخیره و انتقال داده ها بدون وابستگی به ابزارهای نرم افزاری یا سخت افزاری بود. محبوبیت آن به این دلیل است که هم توسط انسان و هم با ماشین قابل خواندن است. این امر آن را قادر می سازد تا پروتکل های داده های رایج را در قالب اشیایی که قرار است در شبکه ای مانند شبکه جهانی وب (WWW) ذخیره و به اشتراک گذاشته شوند، ایجاد کند. "X" در XML برای توسعه پذیر است که به این معنی است که زبان را می توان به هر تعداد نماد بر اساس نیاز کاربر گسترش داد. برای این ویژگی ها است که بسیاری از فرمت های استاندارد فایل مانند Microsoft Open XML، LibreOffice OpenDocument، XHTML و SVG از آن استفاده می کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}فایل های با پسوند MHTML فرمت آرشیو صفحه وب را نشان می دهد که می تواند توسط تعدادی برنامه مختلف ایجاد شود. این قالب به عنوان فرمت آرشیو شناخته می شود زیرا کد HTML وب و منابع مرتبط را در یک فایل ذخیره می کند. این منابع شامل هر چیزی است که به صفحه وب مرتبط است مانند تصاویر، اپلت ها، انیمیشن ها، فایل های صوتی و غیره. فایل های MHTML را می توان در برنامه های مختلفی مانند Internet Explorer و Microsoft Word باز کرد. Microsoft Windows از فرمت فایل MHTML برای ضبط سناریوهای مشکلات مشاهده شده در هنگام استفاده از هر برنامه کاربردی در Windows که مشکلاتی را ایجاد می کند استفاده می کند. فرمت فایل MHTML محتویات صفحه را شبیه به مشخصات تعریف شده در message/rfc822 که مشخصات مربوط به ایمیل متنی ساده است، رمزگذاری می کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از C++، One می‌تواند صفحه گسترده‌ای را با بسیاری از فرمت‌های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-docx/" name="SPREADSHEETML را به DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-sql/" name="SPREADSHEETML را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-bmp/" name="SPREADSHEETML را به BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-emf/" name="SPREADSHEETML را به EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-gif/" name="SPREADSHEETML را به GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-html/" name="SPREADSHEETML را به HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-md/" name="SPREADSHEETML را با MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-mhtml/" name="SPREADSHEETML را به MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-ods/" name="SPREADSHEETML را به ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-pdf/" name="SPREADSHEETML را به PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-png/" name="SPREADSHEETML را به PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-svg/" name="SPREADSHEETML را به SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tiff/" name="SPREADSHEETML را به TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-tsv/" name="SPREADSHEETML را به TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-txt/" name="SPREADSHEETML را به TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xls/" name="SPREADSHEETML را به XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsb/" name="SPREADSHEETML را به XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsm/" name="SPREADSHEETML را به XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlsx/" name="SPREADSHEETML را به XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xlt/" name="SPREADSHEETML را به XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltm/" name="SPREADSHEETML را به XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xltx/" name="SPREADSHEETML را به XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xml/" name="SPREADSHEETML را با XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-xps/" name="SPREADSHEETML را به XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-json/" name="SPREADSHEETML را به JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-spreadsheetml-to-jpeg/" name="SPREADSHEETML را به JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

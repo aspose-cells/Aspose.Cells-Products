@@ -1,7 +1,8 @@
 ---
-title:  ادغام SXC به NUMBERS از طریق Python
+title: SXC را با NUMBERS ادغام کنید - SXC را با NUMBERS در Python ترکیب کنید
 url: /fa/python-net/merger/merge-sxc-to-numbers/ 
-description: SXC را به صورت رایگان به NUMBERS آنلاین ادغام کنید. رایگان آنلاین SXC to NUMBERS Merger. SXC را با Word، Excel، PPTX، PDF، JPG، HTML، ODS، SVG، XPS و بیشتر ادغام کنید.
+description: Aspose اکسل. Python Aspose.Cells. ادغام آنلاین رایگان SXC به NUMBERS فرمت ذخیره. Python SXC را با فرمت NUMBERS ترکیب کنید. SXC را به NUMBERS در Python ادغام کنید. SXC ادغام کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge SXC to NUMBERS in Python., Free Online Python Merge SXC to numbers., Python Combine SXC to NUMBERS Online for Free., SXC Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ادغام SXC به NUMBERS از طریق Python" h2="کتابخانه پرسرعت Python برای ادغام SXC به NUMBERS. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید. این یک راه حل نرم افزاری حرفه ای برای وارد کردن و صادرات Excel, CSV, OpenOffice, PDF, HTML, image و بسیاری از فرمت های اکسل دیگر است." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="SXC" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: SXC را به صورت رایگان به NUMBERS آنلاین اد�
 
 {{% blocks/products/pf/agp/content h2="ادغام SXC به NUMBERS با استفاده از Python" %}}
 
- چگونه SXC را با NUMBERS ادغام کنیم؟ با کتابخانه Aspose.Cells for Python، می توانید به راحتی با چند خط کد، SXC را به NUMBERS ادغام کنید.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/aspose-cells/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
+چگونه SXC را با NUMBERS ادغام کنم؟ با کتابخانه Aspose.Cells for Python via .NET، می توانید به راحتی با چند خط کد، SXC را به NUMBERS ادغام کنید.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها می توانید Aspose.Cells for Python via .NET را نصب کنید<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> ، از دستور به صورت زیر استفاده کنید:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="ادغام SXC به NUMBERS در Python آنلاین به صورت رایگان" %}}
 
-مثال زیر نحوه ادغام SXC را با NUMBERS در Python نشان می دهد.
+مثال زیر نحوه ادغام SXC را با NUMBERS در Aspose.Cells for Python via .NET نشان می دهد.
 {{% blocks/products/pf/agp/text %}}
 
 مراحل آسان را برای ادغام SXC با NUMBERS دنبال کنید. فایل‌های خود را آپلود کنید، برای ادغام فایل‌ها با روش Workbook.Combine تماس بگیرید و سپس آن را در فایل NUMBERS ذخیره کنید. اگر کد را در Python ایجاد کنید، این ساده تر از آن چیزی است که به نظر می رسد. مثال Python را ببینید که SXC را با NUMBERS ادغام می کند.
@@ -27,16 +28,18 @@ description: SXC را به صورت رایگان به NUMBERS آنلاین اد�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="برنامه رایگان برای ادغام SXC به NUMBERS به صورت آنلاین" InputFormat="sxc" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="آنلاین رایگان برای ادغام SXC به NUMBERS در Python" InputFormat="sxc" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه ادغام SXC به NUMBERS از طریق Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
+ آیا نیاز به ادغام SXC با NUMBERS دارید؟ یک سند اساسی ادغام و الحاق با[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ 'Aspose.Cells for Python via .NET' را نصب کنید.
++ یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
 + فایل SXC را با کلاس Workbook بارگذاری کنید.
 + روش Workbook.Combine را برای ادغام فایل ها فراخوانی کنید.
 + متد Workbook.Save را فراخوانی کنید و نام فایل خروجی را به عنوان پارامتر ارسال کنید.
@@ -53,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ API های ما در تمام سیستم عامل ها و سیستم عامل ه
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}فرمت فایل SXC (Sun XML Calc) متعلق به یک مجموعه اداری به نام OpenOffice.org است. این قالب به طور کلی با نیازهای صفحه گسترده کاربران سروکار دارد زیرا یک فرمت فایل صفحه گسترده مبتنی بر XML است. فرمت SXC از فرمول‌ها، توابع، ماکروها و نمودارها همراه با DataPilot پشتیبانی می‌کند، که یک ویژگی باورنکردنی است زیرا به‌طور خودکار شخصی‌سازی می‌شود و خلاصه‌ای از داده‌های وارداتی خام را ارائه می‌دهد. فایل های ایجاد شده با این نرم افزار با پسوند .sxc ذخیره می شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر فرمت های ادغام پشتیبانی شده" subTitle="با استفاده از Python، One می تواند sxc را با بسیاری از فرمت های فایل دیگر از جمله ادغام کند." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="HTML" description="زبان نشانه گذاری فرا متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="MHTML" description="فرمت آرشیو صفحه وب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="ODS" description="فایل صفحه گسترده OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="TSV" description="مقادیر جدا شده از تب" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="TXT" description="سند متنی" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="XLS" description="فرمت باینری اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="XLSB" description="فایل باینری کتاب کار اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="XLSM" description="فایل صفحه گسترده" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="XLSX" description="فایل OOXML اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="XLT" description="Microsoft قالب اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="XLTM" description="قالب ماکرو فعال اکسل" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="XLTX" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-docx/" name="SXC را با DOCX ادغام کنید" description="Microsoft سند ورد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-sql/" name="SXC را با SQL ادغام کنید" description="زبان پرس و جو ساختاریافته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-bmp/" name="SXC را با BMP ادغام کنید" description="تصویر بیت مپ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-emf/" name="SXC را با EMF ادغام کنید" description="فرمت متافایل پیشرفته" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-gif/" name="SXC را با GIF ادغام کنید" description="فرمت تبادل گرافیکی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-html/" name="SXC را با HTML ادغام کنید" description="زبان نشانه گذاری فرا متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-md/" name="SXC را به MD ادغام کنید" description="زبان مارک داون" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-mhtml/" name="SXC را با MHTML ادغام کنید" description="فرمت آرشیو صفحه وب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-ods/" name="SXC را با ODS ادغام کنید" description="فایل صفحه گسترده OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-pdf/" name="SXC را با PDF ادغام کنید" description="فرمت سند قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-png/" name="SXC را با PNG ادغام کنید" description="گرافیک شبکه قابل حمل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-svg/" name="SXC را با SVG ادغام کنید" description="گرافیک برداری مقیاس پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tiff/" name="SXC را با TIFF ادغام کنید" description="فرمت تصویر برچسب شده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-tsv/" name="SXC را با TSV ادغام کنید" description="مقادیر جدا شده از تب" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-txt/" name="SXC را با TXT ادغام کنید" description="سند متنی" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xls/" name="SXC را با XLS ادغام کنید" description="فرمت باینری اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsb/" name="SXC را با XLSB ادغام کنید" description="فایل باینری کتاب کار اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsm/" name="SXC را با XLSM ادغام کنید" description="فایل صفحه گسترده" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlsx/" name="SXC را با XLSX ادغام کنید" description="فایل OOXML اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xlt/" name="SXC را با XLT ادغام کنید" description="Microsoft قالب اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltm/" name="SXC را با XLTM ادغام کنید" description="قالب ماکرو فعال اکسل" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xltx/" name="SXC را با XLTX ادغام کنید" description="قالب Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xml/" name="SXC را به XML ادغام کنید" description="زبان نشانه گذاری توسعه پذیر" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-xps/" name="SXC را با XPS ادغام کنید" description="مشخصات کاغذ XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-json/" name="SXC را با JSON ادغام کنید" description="نشانه گذاری شی جاوا اسکریپت" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-sxc-to-jpeg/" name="SXC را با JPEG ادغام کنید" description="JPEG تصویر" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

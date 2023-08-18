@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل XLSX سند via Java
+title: محافظت و قفل XLSX سند via Java
 weight: 1870
 description: Java نمونه کد برای قفل کردن فایل XLSX با استفاده از رمز عبور در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

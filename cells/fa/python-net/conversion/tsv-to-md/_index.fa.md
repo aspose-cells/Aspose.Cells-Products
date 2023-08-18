@@ -1,7 +1,7 @@
 ---
-title: تبدیل TSV به MD Python via Python
-description: TSV را به صورت رایگان به MD Online تبدیل کنید. تبدیل رایگان آنلاین TSV به MD. Python TSV به MD. TSV به MD از طریق Python.
-keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV to Image
+title: Python TSV به MD - تبدیل آنلاین TSV به MD
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. آنلاین رایگان Python تبدیل TSV به MD saveformat. Python TSV به فرمت MD. TSV را به MD Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python TSV to MD saveformat., Free Online TSV to MD Python., Python Convert TSV to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="TSV را به MD در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل TSV به MD. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% blocks/products/pf/agp/content h2="TSV را به MD در Python تبدیل کنید" %}}
 
- چگونه TSV را به MD تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد TSV را به صورت برنامه نویسی به MD تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه TSV را به MD تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد TSV را به صورت برنامه نویسی به MD تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert TSV, TSV Converter, TSV to PDF, TSV to Word, TSV to PPT, TSV t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل TSV به MD آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل TSV به MD آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="tsv" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل TSV به MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی TSV را تنها در چند خط کد بارگیری و به MD تبدیل کنند.
+آیا باید فایل های TSV را به صورت برنامه ریزی شده به MD تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی TSV را تنها در چند خط کد بارگذاری و به MD تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل TSV را با یک نمونه از Workbook بارگیری کنید
-1. TSV را با فراخوانی روش Workbook.save به MD تبدیل کنید
+1.  فایل TSV را با یک نمونه از Workbook بارگیری کنید.
+1.  TSV را با فراخوانی روش Workbook.save به MD تبدیل کنید.
+1.  نتیجه تبدیل TSV به MD را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TSV" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}فرمت فایل مقادیر جدا شده از تب (TSV) داده‌های جدا شده با برگه‌ها را در قالب متن ساده نشان می‌دهد. فرمت فایل مشابه CSV برای سازماندهی داده ها به صورت ساختاریافته به منظور واردات و صادرات بین برنامه های مختلف استفاده می شود. این فرمت در درجه اول برای واردات/صادرات و تبادل داده در برنامه های کاربردی صفحه گسترده و پایگاه داده استفاده می شود. هر رکورد در یک فایل TSV در یک خط از فایل متنی موجود است که در آن هر مقدار فیلد با یک کاراکتر تب جدا می شود. نوع رسانه برای فرمت فایل TSV text/tab-separated-values است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}فایل‌های متنی ایجاد شده با گویش‌های زبان Markdown با پسوند فایل .md یا 0.MARKDOWN ذخیره می‌شوند. فایل‌های MD در قالب متن ساده ذخیره می‌شوند که از زبان Markdown استفاده می‌کند که شامل نمادهای متنی درون خطی نیز می‌شود و نحوه قالب‌بندی متن مانند تورفتگی‌ها، قالب‌بندی جدول، فونت‌ها و هدرها را مشخص می‌کند. فایل های MD را می توان با برنامه ای به نام Markdown به HTML تبدیل کرد. زبان Markdown توسط جان گروبر منتشر شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید TSV را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

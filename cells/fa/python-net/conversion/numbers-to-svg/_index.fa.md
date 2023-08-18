@@ -1,7 +1,7 @@
 ---
-title: تبدیل NUMBERS به SVG Python via Python
-description: NUMBERS را به صورت آنلاین به SVG تبدیل کنید. تبدیل رایگان آنلاین NUMBERS به SVG. Python NUMBERS به SVG. NUMBERS به SVG از طریق Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python NUMBERS به SVG - تبدیل NUMBERS به SVG آنلاین
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل اعداد به SVG ذخیره فرمت. Python NUMBERS تا SVG فرمت. NUMBERS را به SVG Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to SVG saveformat., Free Online NUMBERS to SVG Python., Python Convert NUMBERS to SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل NUMBERS به SVG در Python" h2="کتابخانه پرسرعت Python برای تبدیل NUMBERS به SVG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="تبدیل NUMBERS به SVG در Python" %}}
 
- چگونه NUMBERS را به SVG تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد NUMBERS را به صورت برنامه ریزی شده به SVG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه NUMBERS را به SVG تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد NUMBERS را به صورت برنامه ریزی شده به SVG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل NUMBERS به SVG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل NUMBERS به SVG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه اعداد را به SVG تبدیل کنیم" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-توسعه دهندگان Python می توانند به راحتی NUMBERS را تنها در چند خط کد بارگیری و به SVG تبدیل کنند.
+آیا نیاز به تبدیل فایل های NUMBERS به SVG دارید؟ توسعه دهندگان Python می توانند به راحتی NUMBERS را تنها در چند خط کد بارگیری و به SVG تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل NUMBERS را با یک نمونه از Workbook بارگیری کنید
-1.  با فراخوانی روش Workbook.save NUMBERS را به SVG تبدیل کنید
+1.  فایل NUMBERS را با یک نمونه از Workbook بارگیری کنید.
+1.  با فراخوانی روش Workbook.save NUMBERS را به SVG تبدیل کنید.
+1.  نتیجه تبدیل NUMBERS به SVG را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}فایل های با پسوند .numbers به عنوان نوع فایل صفحه گسترده طبقه بندی می شوند، به همین دلیل شبیه فایل های xlsx هستند. اما فایل های Numbers با استفاده از نرم افزار صفحه گسترده Apple iWork Numbers ایجاد می شوند. Apple iWork Numbers یک نرم افزار واحد از مجموعه بهره وری iWork است. مجموعه بهره وری iWork معادل مجموعه آفیس Microsoft است که در رایانه های شخصی Windows استفاده می شود. از این رو، می توان گفت Numbers که برای MacOS در دسترس است، رقیب Microsoft Excel نیز می باشد. به همین ترتیب، Microsoft اکسل، فایل NUMBERS ممکن است شامل جداول، نمودارها و فرمول ها نیز باشد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}یک فایل SVG یک فایل گرافیکی اسکالار است که از فرمت متنی مبتنی بر XML برای توصیف ظاهر یک تصویر استفاده می‌کند. کلمه Scalable به این واقعیت اشاره دارد که SVG را می توان در اندازه های مختلف بدون از دست دادن کیفیت مقیاس کرد. توصیف مبتنی بر متن چنین فایل‌هایی آنها را از وضوح مستقل می‌کند. یکی از پرکاربردترین فرمت ها برای ساخت وب سایت و چاپ گرافیک به منظور دستیابی به مقیاس پذیری است. این فرمت فقط برای گرافیک های دو بعدی قابل استفاده است. فایل‌های SVG تقریباً در تمام مرورگرهای مدرن از جمله کروم، اینترنت اکسپلورر، فایرفاکس و سافاری قابل مشاهده/باز هستند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید NUMBERS را به بسیاری از فرمت‌های فایل دیگر از جمله تعداد کمی از آنها که در زیر فهرست شده‌اند، تبدیل کنید." >}}
 

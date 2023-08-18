@@ -1,7 +1,7 @@
 ---
-title: تبدیل XLS به BMP Python via Python
-description: XLS را به صورت آنلاین به BMP تبدیل کنید. تبدیل رایگان آنلاین XLS به BMP. Python XLS الی BMP. XLS الی BMP از طریق Python.
-keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS to Image
+title: Python XLS به BMP - تبدیل آنلاین XLS به BMP
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل XLS به BMP ذخیره فرمت. Python XLS الی BMP فرمت. XLS را به شماره BMP Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLS to BMP saveformat., Free Online XLS to BMP Python., Python Convert XLS to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل XLS به BMP در Python" h2="کتابخانه پرسرعت Python برای تبدیل XLS به BMP. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% blocks/products/pf/agp/content h2="تبدیل XLS به BMP در Python" %}}
 
- چگونه XLS را به BMP تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLS را به صورت برنامه ای به BMP تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه XLS را به BMP تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLS را به صورت برنامه ای به BMP تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLS, XLS Converter, XLS to PDF, XLS to Word, XLS to PPT, XLS t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLS به BMP آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLS به BMP آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xls" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLS به BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی XLS را بارگیری و تنها در چند خط کد به BMP تبدیل کنند.
+آیا باید فایل های XLS را به صورت برنامه ریزی شده به BMP تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی XLS را بارگیری و تنها در چند خط کد به BMP تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل XLS را با یک نمونه از Workbook بارگیری کنید
-1.  XLS را با فراخوانی روش Workbook.save به BMP تبدیل کنید
+1.  فایل XLS را با یک نمونه از Workbook بارگیری کنید.
+1.  XLS را با فراخوانی روش Workbook.save به BMP تبدیل کنید.
+1.  نتیجه تبدیل XLS به BMP را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}فایل‌های با پسوند XLS فرمت فایل باینری اکسل را نشان می‌دهند. چنین فایل هایی را می توان توسط Microsoft Excel و همچنین سایر برنامه های صفحه گسترده مشابه مانند OpenOffice Calc یا Apple Numbers ایجاد کرد. فایل ذخیره شده توسط اکسل به عنوان Workbook شناخته می شود که در آن هر کتاب کار می تواند یک یا چند کاربرگ داشته باشد. داده‌ها در قالب جدول در کاربرگ ذخیره و به کاربران نمایش داده می‌شوند و می‌توانند مقادیر عددی، داده‌های متنی، فرمول‌ها، اتصالات داده‌های خارجی، تصاویر و نمودارها را پوشش دهند. برنامه هایی مانند Microsoft Excel به شما امکان می دهد داده های کتاب کار را به چندین فرمت مختلف از جمله PDF، CSV، XLSX، TXT، HTML، XPS، و چندین فرمت دیگر صادر کنید. با انتشار Microsoft اکسل 2007، فرمت فایل XLS با فرمت بازتر و ساختار یافته تر، XLSX جایگزین شد. آخرین نسخه ها هنوز از ایجاد و خواندن فایل های XLS پشتیبانی می کنند، اگرچه 0761114348 اولین انتخابی است که اکنون استفاده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}فایل هایی با پسوند 0.BMP نشان دهنده فایل های تصویر بیت مپ هستند که برای ذخیره تصاویر دیجیتال بیت مپ استفاده می شوند. این تصاویر مستقل از آداپتور گرافیکی هستند و به آنها فرمت فایل بیت مپ مستقل دستگاه (DIB) نیز می گویند. این استقلال به هدف باز کردن فایل در چندین پلتفرم مانند Microsoft Windows و Mac است. فرمت فایل BMP می تواند داده ها را به صورت تصاویر دیجیتالی دو بعدی در هر دو فرمت تک رنگ و رنگی با عمق رنگ های مختلف ذخیره کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید XLS را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

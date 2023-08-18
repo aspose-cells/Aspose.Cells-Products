@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل XLS سند via .NET
+title: محافظت و قفل XLS سند via .NET
 weight: 7010
 description: کد منبع C# برای قفل کردن فایل XLS با استفاده از رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
 ---

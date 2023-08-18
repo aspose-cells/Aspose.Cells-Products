@@ -13,7 +13,7 @@ description: Java کد نمونه برای افزودن یا حذف واترما
 
  به منظور واترمارک کردن فایل XLS، از آن استفاده خواهیم کرد
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
+ API که یک پلتفرم واترمارکینگ غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 

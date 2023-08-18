@@ -49,14 +49,14 @@ description: Java کد نمونه برای ترکیب اسناد MHTML در Java
 
 {{% blocks/products/pf/agp/text %}}
 
- یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
+یک سند اساسی ادغام و الحاق با[Aspose.Cells for Java](https://products.aspose.com/cells/java) API ها را می توان تنها با چند خط کد انجام داد.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + اولین فایل MHTML را با نمونه ای از کلاس Workbook بارگیری کنید.
 + دومین سند MHTML را با نمونه ای از کلاس Workbook بارگیری کنید.
 + ادغام فایل ها با استفاده از متد ()combinate.
-فایل ادغام شده MHTML را در مسیر مشخص شده ذخیره کنید
++ فایل ادغام شده MHTML را در مسیر مشخص شده ذخیره کنید
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ mhtmlFile1.save("combinedFileWithPath.mhtml");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" بدون نیاز به دانلود Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" نیازی به نوشتن هیچ کدی نیست." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="فقط فایل های MHTML خود را آپلود کنید." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" فوراً ادغام و الحاق خواهد شد." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="فوراً ادغام و الحاق خواهد شد." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

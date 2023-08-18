@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  شما نیاز دارید
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-تا گردش کار زیر را در محیط خود امتحان کنید.
+ تا گردش کار زیر را در محیط خود امتحان کنید.
 
 {{% /blocks/products/pf/agp/text %}}
 

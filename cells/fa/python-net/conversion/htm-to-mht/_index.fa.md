@@ -1,7 +1,7 @@
 ---
-title: HTM را به MHT تبدیل کنید Python via Python
-description: تبدیل HTM به MHT آنلاین به صورت رایگان. تبدیل رایگان HTM به MHT. Python HTM به MHT. HTM به MHT از طریق Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM به MHT - تبدیل آنلاین HTM به MHT
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. آنلاین رایگان Python تبدیل HTM به فرمت ذخیره سازی MHT. Python فرمت HTM به MHT. HTM را در MHT Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to MHT saveformat., Free Online HTM to MHT Python., Python Convert HTM to MHT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM را به MHT در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل HTM به MHT. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MHT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="HTM را به MHT در Python تبدیل کنید" %}}
 
- چگونه HTM را به MHT تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی با چند خط کد HTM را به صورت برنامه نویسی به MHT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه HTM را به MHT تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET، می توانید به راحتی با چند خط کد HTM را به صورت برنامه نویسی به MHT تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTM به MHT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTM به MHT آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="mht" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل HTM به MHT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی HTM را تنها در چند خط کد بارگیری و تبدیل به MHT کنند.
+آیا نیاز به تبدیل فایل های HTM به MHT از طریق برنامه دارید؟ توسعه دهندگان Python می توانند به راحتی HTM را تنها در چند خط کد بارگیری و تبدیل به MHT کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل HTM را با یک نمونه از Workbook بارگیری کنید
-1. با فراخوانی روش Workbook.save، HTM را به MHT تبدیل کنید
+1.  فایل HTM را با یک نمونه از Workbook بارگیری کنید.
+1.  با فراخوانی روش Workbook.save، HTM را به MHT تبدیل کنید.
+1.  نتیجه تبدیل HTM به MHT را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}فایل‌های با پسوند htm نشان‌دهنده زبان نشانه‌گذاری Hypertext برای ایجاد صفحات وب برای نمایش در مرورگرهای وب مانند Google Chrome، Internet Explorer، Firefox و تعدادی دیگر هستند. این نشانه گذاری برای ایجاد صفحات ثابت برای انتشار در وب جهانی (WWW) برای دسترسی دیگران تعریف می کند. این نشانه گذاری ها به مرورگرها می گویند که چگونه محتویات یک صفحه وب را نمایش دهند. چنین صفحاتی می‌توانند حاوی متن ساده، تصاویر، پیوندهایی به صفحات دیگر، ویدیوها و سایر اطلاعات رسانه‌ای باشند. هنگامی که یک صفحه وب منتشر می شود، می توانید با مشاهده منبع صفحه، به کد نشانه گذاری پشت آن نگاهی بیندازید. مرورگرهای مدرن اجازه می‌دهند تا هر بخش از یک صفحه وب را که در آن هر زیربخش یا عنصر نشانه‌گذاری در منبع HTM توضیح داده شده است، بررسی شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}یک فایل با پسوند mht. یک فرمت فایل بایگانی با قابلیت MIME است که شامل انواع مختلف داده در یک فایل واحد است. این می تواند داده هایی مانند متن، تصاویر، استایل صفحه را در قالب فایل های CSS، جاوا اسکریپت و سایر منابع به عنوان منابع جاسازی شده در خود ذخیره کند. فایل‌های MHT، با داشتن پیام از نوع MIME/rfc822، تمام محتویات یک فایل HTML را به عنوان یک فایل بایگانی واحد برای ذخیره در بایگانی در دستگاه‌های ذخیره‌سازی کپسوله می‌کنند. برنامه های نرم افزاری مانند Microsoft Word به شما امکان می دهد اسناد WORD خود را با صادرات به عنوان فایل MHT به MHT تبدیل کنید. فایل های MHT را می توان با استفاده از مرورگرهای محبوب مانند Microsoft Internet Explore و Google Chrome باز کرد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید HTM را به بسیاری از فرمت‌های فایل دیگر از جمله تعداد کمی از آنها در زیر تبدیل کنید." >}}
 

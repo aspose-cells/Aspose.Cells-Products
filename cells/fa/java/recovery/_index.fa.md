@@ -10,7 +10,7 @@ description: یک فایل اکسل خراب را با استفاده از Java 
 
 {{% blocks/products/pf/agp/content h2="با استفاده از Java فایل EXCEL را تعمیر کنید" %}}
 
- به منظور تعمیر فایل EXCEL ما استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java) API که یک پلتفرم دستکاری اسناد غنی، قدرتمند و آسان برای استفاده است API for Java.
+ به منظور تعمیر فایل EXCEL ما استفاده خواهیم کرد[Aspose.Cells for Java](https://products.aspose.com/cells/java)API که یک پلتفرم دستکاری اسناد غنی، قدرتمند و آسان برای استفاده است API for Java.
  
  Aspose.Cells API می تواند برای ایجاد، ویرایش، تبدیل و رندر فرمت های اکسل Microsoft به فرمت های مختلف استفاده شود. علاوه بر این، می توان از آن برای نمودارهای جامع، گزارش مقیاس پذیر و محاسبات قابل اعتماد در برنامه های نرم افزاری استفاده کرد. Aspose.Cells یک API مستقل است و به هیچ نرم افزاری مانند Microsoft یا OpenOffice نیاز ندارد.
 
@@ -20,7 +20,7 @@ description: یک فایل اکسل خراب را با استفاده از Java 
 
 {{% blocks/products/pf/agp/content h2="آموزش تعمیر فایل اکسل با شماره Java" %}}
 
-کلاسی را تعریف کنید که Aspose.Cells.IWarningCallback را به ارث می برد.
++ کلاسی را تعریف کنید که Aspose.Cells.IWarningCallback را به ارث می برد.
 + بارگیری فایل EXCEL با ایجاد یک نمونه از Workbook، با استفاده از کلاس وراثت بالا، به کد بالا مراجعه کنید.
 + کتاب کار را ذخیره کنید، فایل اکسل خراب ترمیم می شود.
 

@@ -1,7 +1,7 @@
 ---
-title:  ODS एनोटेशन via Java निकालें
+title:  ODS एनोटेशन via Java हटाएँ
 weight: 8840
-description: JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट पर ODS प्रारूप एनोटेशन को हटाने के लिए Java नमूना कोड।
+description: जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट पर ODS प्रारूप एनोटेशन को हटाने के लिए Java नमूना कोड।
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="ODS via Java से एनोटेशन जोड़ें या हटाएं" h2="सर्वर-साइड एपीआई का उपयोग करके दस्तावेज़ फ़ाइलों में टिप्पणियों और लेखकों में हेरफेर करने के लिए अपने स्वयं के Java ऐप्स बनाएं।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="PPTX" fileiconsmall2="DOCX" fileiconsmall3="XLSX" fileiconsmall4="PDF" fileiconsmall5=" ODP " >}}
@@ -13,7 +13,7 @@ description: JSP/JSF एप्लिकेशन और डेस्कटॉप
 
  ODS फ़ाइल को एनोटेट करने के लिए, हम इसका उपयोग करेंगे
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान एनोटेशन API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे से डाउनलोड कर सकते हैं
+ API जो एक सुविधा संपन्न, शक्तिशाली और उपयोग में आसान एनोटेशन API for Java प्लेटफॉर्म है। आप इसका नवीनतम संस्करण सीधे यहां से डाउनलोड कर सकते हैं
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  और pom.xml में निम्नलिखित कॉन्फ़िगरेशन जोड़कर इसे अपने Maven-आधारित प्रोजेक्ट में स्थापित करें।
 
@@ -55,11 +55,11 @@ description: JSP/JSF एप्लिकेशन और डेस्कटॉप
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  कार्यपुस्तिका वर्ग का उपयोग करके ODS फ़ाइल लोड करें
+1.  वर्कबुक क्लास का उपयोग करके ODS फ़ाइल लोड करें
 1.  प्रासंगिक शीट का चयन करें
 1.  CommentCollection द्वारा सभी टिप्पणियाँ प्राप्त करें
-1.  इसे हटाने के लिए Cell आईडी के साथ RemoveAt पर कॉल करें
-1.  तुलना करने के लिए RemoveAt पद्धति को कॉल करने से पहले और बाद में कार्यपुस्तिका को सहेजें
+1.  इसे हटाने के लिए रिमूवएट को Cell आईडी से कॉल करें
+1.  तुलना करने के लिए रिमूवएट विधि को कॉल करने से पहले और बाद में कार्यपुस्तिका को सहेजें
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,12 +67,12 @@ description: JSP/JSF एप्लिकेशन और डेस्कटॉप
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Cells for Java सभी प्रमुख प्लेटफार्मों और ऑपरेटिंग सिस्टम पर समर्थन करता है। कृपया सुनिश्चित करें कि आपके पास निम्नलिखित पूर्वापेक्षाएँ हैं।
+ Aspose.Cells for Java सभी प्रमुख प्लेटफार्मों और ऑपरेटिंग सिस्टम पर समर्थन करता है। कृपया सुनिश्चित करें कि आपके पास निम्नलिखित शर्तें हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows या JSP/JSF एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरनमेंट के साथ संगत OS।
-- Maven से सीधे Aspose.Cells for Java का नवीनतम संस्करण प्राप्त करें।
+- Microsoft Windows या जेएसपी/जेएसएफ एप्लिकेशन और डेस्कटॉप एप्लिकेशन के लिए Java रनटाइम एनवायरमेंट के साथ एक संगत ओएस।
+- Aspose.Cells for Java का नवीनतम संस्करण सीधे Maven से प्राप्त करें।
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -107,9 +107,9 @@ workbook.save(dataDir + "ThreadedCommentsSample_Out.ods");
 
 <!-- aboutfile Starts -->
 
-    {{% blocks/products/pf/agp/content h2="के बारे में Aspose.Cells for Java API" %}}
+    {{% blocks/products/pf/agp/content h2="लगभग Aspose.Cells for Java API" %}}
 
- Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न स्वरूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणनाओं के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या OpenOffice जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
+ Aspose.Cells API का उपयोग Microsoft एक्सेल प्रारूपों को विभिन्न प्रारूपों में बनाने, संपादित करने, परिवर्तित करने और प्रस्तुत करने के लिए किया जा सकता है। इसके अलावा, इसका उपयोग सॉफ्टवेयर अनुप्रयोगों के भीतर व्यापक चार्टिंग, स्केलेबल रिपोर्टिंग और विश्वसनीय गणना के लिए किया जा सकता है। Aspose.Cells एक स्टैंडअलोन API है और इसके लिए Microsoft या ओपनऑफिस जैसे किसी सॉफ़्टवेयर की आवश्यकता नहीं है।
 
 
 
@@ -117,14 +117,14 @@ workbook.save(dataDir + "ThreadedCommentsSample_Out.ods");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ऐप के जरिए ODS से एनोटेशन हटाएं" sectionDescription=" हमारी वेबसाइट पर जाकर अभी ODS दस्तावेज़ एनोटेशन हटाएं[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/annotation). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कुछ भी डाउनलोड या सेटअप करने की जरूरत नहीं है" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं है" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइल अपलोड करें और \"निकालें\" बटन दबाएं" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="ऑनलाइन ऐप के माध्यम से ODS से एनोटेशन हटाएं" sectionDescription=" हमारे यहां जाकर अभी ODS दस्तावेज़ एनोटेशन हटाएं[लाइव डेमो वेबसाइट](https://products.aspose.app/cells/annotation). लाइव डेमो के निम्नलिखित लाभ हैं" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" कुछ भी डाउनलोड या सेटअप करने की आवश्यकता नहीं है" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" कोई कोड लिखने की जरूरत नहीं" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" बस अपनी ODS फ़ाइल अपलोड करें और \"निकालें\" बटन दबाएँ" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" परिणामी फ़ाइल के लिए तुरंत डाउनलोड लिंक प्राप्त करें" >}}
 
         {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}
-ODS एक्सटेंशन वाली फाइलें OpenDocument स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह एक्सएमएल-आधारित प्रारूप है और ओपन डॉक्यूमेंट फॉर्मेट्स (ओडीएफ) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट किया गया है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन Microsoft एक्सेल, नियोऑफिस और लिब्रे ऑफिस सहित संपादन और हेरफेर के लिए ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को अन्य स्प्रेडशीट स्वरूपों में भी परिवर्तित किया जा सकता है जैसे XLS, XLSX और अन्य विभिन्न अनुप्रयोगों द्वारा।
+ODS एक्सटेंशन वाली फ़ाइलें ओपन डॉक्यूमेंट स्प्रेडशीट दस्तावेज़ प्रारूप के लिए हैं जो उपयोगकर्ता द्वारा संपादन योग्य हैं। डेटा को ODF फ़ाइल के अंदर पंक्तियों और स्तंभों में संग्रहीत किया जाता है। यह XML-आधारित प्रारूप है और ओपन दस्तावेज़ प्रारूप (ODF) परिवार में कई उपप्रकारों में से एक है। प्रारूप OASIS द्वारा प्रकाशित और अनुरक्षित ODF 1.2 विनिर्देशों के भाग के रूप में निर्दिष्ट है। Windows के साथ-साथ अन्य ऑपरेटिंग सिस्टम पर कई एप्लिकेशन संपादन और हेरफेर के लिए Microsoft एक्सेल, नियोऑफिस और लिबरऑफिस सहित ODS फाइलें खोल सकते हैं। ODS फ़ाइलों को विभिन्न अनुप्रयोगों द्वारा अन्य स्प्रेडशीट प्रारूपों जैसे XLS, XLSX और अन्य में भी परिवर्तित किया जा सकता है।
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
@@ -132,12 +132,12 @@ ODS एक्सटेंशन वाली फाइलें OpenDocument स
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित एनोटेशन प्रारूप" subTitle="Java का उपयोग करके, कोई अन्य प्रारूपों सहित आसानी से एनोटेट कर सकता है।" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित एनोटेशन प्रारूप" subTitle="Java का उपयोग करके, कोई भी अन्य प्रारूपों को आसानी से एनोटेट कर सकता है।" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xls/" name="XLS" description="एक्सेल बाइनरी प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xls/" name="XLS" description="एक्सेल बाइनरी फॉर्मेट" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsb/" name="XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsm/" name="XLSM" description="स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/annotation/xlsx/" name="XLSX" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,7 @@
 ---
-title: تبدیل XLSB به MD Python via Python
-description: XLSB را به صورت رایگان به MD Online تبدیل کنید. تبدیل رایگان آنلاین XLSB به MD. Python XLSB به MD. XLSB به MD از طریق Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB به MD - تبدیل آنلاین XLSB به MD
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. آنلاین رایگان Python تبدیل XLSB به MD saveformat. Python XLSB به فرمت MD. XLSB را به MD Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to MD saveformat., Free Online XLSB to MD Python., Python Convert XLSB to MD]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLSB را به MD در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل XLSB به MD. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MD" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="XLSB را به MD در Python تبدیل کنید" %}}
 
- چگونه XLSB را به MD تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLSB را به صورت برنامه نویسی به MD تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه XLSB را به MD تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLSB را به صورت برنامه نویسی به MD تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSB به MD آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLSB به MD آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLSB به MD" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی XLSB را تنها در چند خط کد بارگیری و به MD تبدیل کنند.
+آیا باید فایل های XLSB را به صورت برنامه ریزی شده به MD تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی XLSB را تنها در چند خط کد بارگذاری و به MD تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل XLSB را با یک نمونه از Workbook بارگیری کنید
-1. XLSB را با فراخوانی روش Workbook.save به MD تبدیل کنید
+1.  فایل XLSB را با یک نمونه از Workbook بارگیری کنید.
+1.  XLSB را با فراخوانی روش Workbook.save به MD تبدیل کنید.
+1.  نتیجه تبدیل XLSB به MD را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}فرمت فایل XLSB فرمت فایل باینری اکسل را مشخص می کند که مجموعه ای از رکوردها و ساختارهایی است که محتوای کتاب کار اکسل را مشخص می کند. محتوا می تواند شامل جداول بدون ساختار یا نیمه ساختاریافته اعداد، متن یا هر دو اعداد و متن، فرمول ها، اتصالات داده خارجی، نمودارها و تصاویر باشد. برخلاف XLSX (که بر اساس فرمت فایل Open XML است)، XLSB فایل باینری کتاب کار اکسل را نشان می دهد. فایل های XLSB را می توان سریعتر خواند و نوشت که آنها را برای کار با فایل های حجیم مفید می کند. XLSB به ندرت برای ذخیره کتاب‌های کار استفاده می‌شود، زیرا XLSX (و قبلاً XLS) رایج‌ترین فرمت‌های فایل انتخابی کاربر برای ذخیره کتاب‌های کار هستند. با شماره Microsoft Office 2007 به بالا قابل باز شدن است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MD" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}فایل‌های متنی ایجاد شده با گویش‌های زبان Markdown با پسوند فایل .md یا 0.MARKDOWN ذخیره می‌شوند. فایل‌های MD در قالب متن ساده ذخیره می‌شوند که از زبان Markdown استفاده می‌کند که شامل نمادهای متنی درون خطی نیز می‌شود و نحوه قالب‌بندی متن مانند تورفتگی‌ها، قالب‌بندی جدول، فونت‌ها و هدرها را مشخص می‌کند. فایل های MD را می توان با برنامه ای به نام Markdown به HTML تبدیل کرد. زبان Markdown توسط جان گروبر منتشر شده است.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید XLSB را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

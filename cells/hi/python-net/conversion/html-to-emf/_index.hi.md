@@ -1,7 +1,7 @@
 ---
-title: HTML को EMF Python via Python में बदलें
-description: HTML को EMF में मुफ्त में ऑनलाइन बदलें। मुफ़्त ऑनलाइन HTML से EMF कन्वर्टर। Python HTML से EMF। HTML से EMF वाया Python।
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML से EMF - ऑनलाइन HTML से EMF कनवर्टर
+description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python HTML को EMF सेव फॉर्मेट में कनवर्ट करें। Python HTML से EMF प्रारूप। HTML को EMF Python पर सेव करें।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to EMF saveformat., Free Online HTML to EMF Python., Python Convert HTML to EMF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में HTML को EMF में बदलें" h2="HTML को EMF में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,50 +12,51 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Python में HTML को EMF में बदलें" %}}
 
- HTML को EMF में कैसे बदलें? Aspose.Cells for Python के माध्यम से NET लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ HTML को EMF प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, रेंडर करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, यह एक्सेल फाइलों को छवियों के रूप में भी प्रस्तुत कर सकता है, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और अधिक, इस प्रकार यह उद्योग में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प है। -मानक प्रारूप।
+ मैं HTML को EMF में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से HTML को EMF में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में HTML से EMF तक ऑनलाइन फ्री में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में HTML से EMF को निःशुल्क ऑनलाइन सेव करें" %}}
 
-निम्न उदाहरण दर्शाता है कि HTML को Python via NET में EMF में कैसे परिवर्तित किया जाए।
+निम्नलिखित उदाहरण दर्शाता है कि Python via NET में HTML को EMF में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
 
-HTML को EMF में बदलने के लिए आसान चरणों का पालन करें। अपनी HTML फ़ाइल अपलोड करें, फिर इसे EMF फ़ाइल के रूप में सहेजें। HTML पढ़ने और EMF लिखने दोनों के लिए आप पूरी तरह योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट EMF सामग्री और स्वरूपण मूल HTML दस्तावेज़ के समान होगा।
+HTML को EMF में बदलने के लिए आसान चरणों का पालन करें। अपनी HTML फ़ाइल अपलोड करें, फिर इसे EMF फ़ाइल के रूप में सहेजें। HTML पढ़ने और EMF लिखने दोनों के लिए आप पूर्णतः योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट EMF सामग्री और स्वरूपण मूल HTML दस्तावेज़ के समान होगा।
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="HTML को EMF में ऑनलाइन बदलने के लिए फ्री ऐप और सैंपल कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="HTML को EMF में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="emf" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="HTML को EMF में कैसे बदलें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python डेवलपर्स आसानी से कोड की कुछ पंक्तियों में HTML को EMF में लोड और परिवर्तित कर सकते हैं।
+HTML फ़ाइलों को प्रोग्रामेटिक रूप से EMF में कनवर्ट करने की आवश्यकता है? Python डेवलपर्स कोड की कुछ पंक्तियों में HTML को EMF में आसानी से लोड और परिवर्तित कर सकते हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  'Aspose.Cells for Python via .NET' स्थापित करें।
-1.  अपने Python प्रोजेक्ट में लाइब्रेरी संदर्भ (लाइब्रेरी आयात करें) जोड़ें।
-1.  कार्यपुस्तिका के उदाहरण के साथ HTML फ़ाइल लोड करें
-1.  Workbook.save विधि को कॉल करके HTML को EMF में बदलें
+1.  'Aspose.Cells for Python via .NET' इंस्टॉल करें।
+1.  अपने Python प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
+1.  कार्यपुस्तिका के उदाहरण के साथ HTML फ़ाइल लोड करें।
+1.  Workbook.save पद्धति पर कॉल करके HTML को EMF में बदलें।
+1.  HTML से EMF का रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python पुस्तकालय HTML को EMF में बदलने के लिए" %}}
+{{% blocks/products/pf/agp/content h2="Python लाइब्रेरी HTML को EMF में बदलने के लिए" %}}
 
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-से Aspose.Cells for Python इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> कमांड का उपयोग इस रूप में करें:<code>$ pip install aspose-cells-python</code>.
+Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- और आप फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/)अपने डेवलपर वातावरण में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
+ और आप इसे फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/) अपने डेवलपर परिवेश में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,39 +64,44 @@ HTML को EMF में बदलने के लिए आसान चर�
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python प्लेटफ़ॉर्म-स्वतंत्र API है और किसी भी प्लेटफ़ॉर्म (Windows, Linux) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में[Python](https://www.python.org/downloads/) 3.7 या उच्चतर।
+ Aspose.Cells NET के माध्यम से NET प्लेटफ़ॉर्म-स्वतंत्र है API और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में है[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (हाइपर टेक्स्ट मार्कअप लैंग्वेज) ब्राउज़र में प्रदर्शन के लिए बनाए गए वेब पेजों का एक्सटेंशन है। वेब की भाषा के रूप में जानी जाने वाली, HTML वेब पेजों के हिस्से के रूप में प्रदर्शित होने वाली नई सूचना आवश्यकताओं की आवश्यकताओं के साथ विकसित हुई है। नवीनतम संस्करण को HTML 5 के नाम से जाना जाता है जो भाषा के साथ काम करने के लिए बहुत अधिक लचीलापन देता है। HTML पृष्ठ या तो सर्वर से प्राप्त होते हैं, जहां इन्हें होस्ट किया जाता है, या स्थानीय सिस्टम से भी लोड किया जा सकता है। प्रत्येक HTML पृष्ठ HTML तत्वों से बना है जैसे कि फॉर्म, टेक्स्ट, चित्र, एनिमेशन, लिंक इत्यादि। इन तत्वों को टैग और कई अन्य लोगों द्वारा दर्शाया जाता है जहां प्रत्येक टैग का प्रारंभ और अंत होता है। यह समग्र लेआउट प्रतिनिधित्व के लिए जावास्क्रिप्ट और स्टाइल शीट्स (सीएसएस) जैसी स्क्रिप्टिंग भाषाओं में लिखे गए एप्लिकेशन को भी एम्बेड कर सकता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" >}}उन्नत मेटाफ़ाइल प्रारूप (EMF) ग्राफिकल छवियों को डिवाइस-स्वतंत्र रूप से संग्रहीत करता है। EMF की मेटाफ़ाइल्स में कालानुक्रमिक क्रम में चर-लंबाई रिकॉर्ड शामिल हैं जो किसी भी आउटपुट डिवाइस पर पार्सिंग के बाद संग्रहीत छवि को प्रस्तुत कर सकते हैं। ये चर-लंबाई रिकॉर्ड संलग्न वस्तुओं की परिभाषा, ड्राइंग के लिए आदेश और छवि को सटीक रूप से प्रस्तुत करने के लिए महत्वपूर्ण ग्राफिक्स गुण हो सकते हैं। जब कोई डिवाइस अपने स्वयं के ग्राफिक्स वातावरण का उपयोग करके EMF मेटाफ़ाइल खोलता है, तो मूल छवि के अनुपात, आयाम, रंग और अन्य ग्राफ़िक गुण शुरुआती डिवाइस प्लेटफ़ॉर्म की परवाह किए बिना समान रहते हैं।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप HTML को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-bmp/" name="HTML से BMP" description="बिटमैप चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-emf/" name="HTML से EMF" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-gif/" name="HTML से GIF" description="ग्राफिकल इंटरचेंज प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-bmp/" name="HTML से BMP तक" description="बिटमैप चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-emf/" name="HTML से EMF तक" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-gif/" name="HTML से GIF तक" description="ग्राफ़िकल इंटरचेंज प्रारूप" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-md/" name="HTML एमडी के लिए" description="मार्कडाउन भाषा" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-mhtml/" name="HTML से MHTML" description="वेब पेज संग्रह प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-ods/" name="HTML से ODS" description="OpenDocument स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-pdf/" name="HTML से PDF" description="संवहन दस्तावेज़ स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-png/" name="HTML से PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-svg/" name="HTML से SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tiff/" name="HTML से TIFF" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tsv/" name="HTML से TSV" description="टैब-पृथक मान" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-txt/" name="HTML से TXT" description="सामग्री या लेख दस्तावेज़" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xls/" name="HTML से XLS" description="एक्सेल बाइनरी प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsb/" name="HTML से XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsm/" name="HTML से XLSM" description="स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsx/" name="HTML से XLSX" description="ओओएक्सएमएल एक्सेल फाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlt/" name="HTML से XLT" description="Microsoft एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltm/" name="HTML से XLTM" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltx/" name="HTML से XLTX" description="कार्यालय ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xml/" name="एक्सएमएल के लिए HTML" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xps/" name="HTML से XPS" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-json/" name="HTML से JSON" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-mhtml/" name="HTML से MHTML तक" description="वेब पेज पुरालेख प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-ods/" name="HTML से ODS तक" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-pdf/" name="HTML से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-png/" name="HTML से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-svg/" name="HTML से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tiff/" name="HTML से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-tsv/" name="HTML से TSV तक" description="टैब-पृथक मान" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-txt/" name="HTML से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xls/" name="HTML से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsb/" name="HTML से XLSB तक" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsm/" name="HTML से XLSM तक" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlsx/" name="HTML से XLSX तक" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xlt/" name="HTML से XLT तक" description="Microsoft एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltm/" name="HTML से XLTM तक" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xltx/" name="HTML से XLTX तक" description="ऑफिस ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xml/" name="HTML एक्सएमएल के लिए" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-xps/" name="HTML से XPS तक" description="एक्सएमएल पेपर विशिष्टताएँ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/html-to-json/" name="HTML से JSON तक" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

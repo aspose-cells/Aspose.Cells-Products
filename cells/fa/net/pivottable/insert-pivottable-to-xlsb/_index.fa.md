@@ -1,5 +1,5 @@
 ---
-title: قرار دادن PivotTable در فایل های Micorsoft Excel XLSB از طریق C#
+title:  قرار دادن PivotTable در فایل های Micorsoft Excel XLSB از طریق C#
 weight: 7690
 description: C# کد نمونه برای تولید اسناد XLSB با PivotTable. از این کد برای ایجاد فایل های Micorsoft Excel XLSB با PivotTable در VB.NET، Asp.NET یا هر برنامه مبتنی بر .NET استفاده کنید.
 ---
@@ -22,7 +22,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 
 {{% blocks/products/pf/agp/text %}}
 
- برای توسعه دهندگان آسان است که PivotTable را در صفحه گسترده با فرمت XLSB در برنامه های مختلف گزارش دهی در حال اجرا برای پردازش داده ها تنها در چند خط کد وارد کنند.
+برای توسعه دهندگان آسان است که PivotTable را در صفحه گسترده با فرمت XLSB در برنامه های مختلف گزارش دهی در حال اجرا برای پردازش داده ها تنها در چند خط کد وارد کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# کد نمونه برای تولید اسناد XLSB با PivotTa
 1.  به اولین کاربرگ کتاب کار دسترسی پیدا کنید.
 1.  سلول(های) مورد نظر کاربرگ را بدست آورید و مقدار آن را در سلول(ها) قرار دهید.
 1.  PivotTable را وارد کرده و استایل را تنظیم کنید
-1.  از روش Save برای ذخیره کتاب کار به عنوان فایل XLSB استفاده کنید.
+1. از روش Save برای ذخیره کتاب کار به عنوان فایل XLSB استفاده کنید.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

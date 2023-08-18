@@ -1,5 +1,5 @@
 ---
-title: ویرایش MHTML فایل via .NET
+title:  ویرایش MHTML فایل via .NET
 description: کد منبع C# برای ویرایش سند MHTML در .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

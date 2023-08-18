@@ -85,7 +85,7 @@ Aspose.Cells for Java یک کتابخانه بالغ و با ویژگی های �
  فایل های اکسل را بارگیری کنید
     </li>
     <li>
- ذخیره اسناد اکسل
+ اسناد اکسل را ذخیره کنید
     </li>
     <li>
  قابلیت های ویرایش را ارائه می دهد
@@ -497,7 +497,7 @@ Aspose.Cells for Java همچنین یک کنترل رابط کاربری ارا�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="آنچه مردم می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد APIهای صفحه گسترده چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="مردم چه می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد APIهای صفحه گسترده چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

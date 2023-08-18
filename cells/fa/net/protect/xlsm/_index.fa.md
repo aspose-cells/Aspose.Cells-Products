@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل XLSM سند via .NET
+title: محافظت و قفل XLSM سند via .NET
 weight: 7530
 description: کد منبع C# برای قفل کردن فایل XLSM با استفاده از رمز عبور در .NET Framework، .NET Core، Mono یا Xamarin Platforms.
 ---

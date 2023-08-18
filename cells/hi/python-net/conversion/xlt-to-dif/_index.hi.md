@@ -1,7 +1,7 @@
 ---
-title: XLT को DIF Python via Python में बदलें
-description: XLT को DIF में मुफ्त में ऑनलाइन बदलें। मुफ़्त ऑनलाइन XLT से DIF कन्वर्टर। Python XLT से DIF। XLT से DIF वाया Python।
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT से DIF - ऑनलाइन XLT से DIF कनवर्टर
+description: Aspose एक्सेल। Python Aspose.Cells. Python Aspose Cells. मुफ़्त ऑनलाइन Python XLT को DIF सेव फॉर्मेट में कनवर्ट करें। Python XLT से DIF प्रारूप। XLT को DIF Python पर सेव करें।
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to DIF saveformat., Free Online XLT to DIF Python., Python Convert XLT to DIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Python में XLT को DIF में बदलें" h2="XLT को DIF में परिवर्तित करने के लिए हाई-स्पीड Python लाइब्रेरी। Python में उच्च-स्तरीय, प्लेटफ़ॉर्म स्वतंत्र सॉफ़्टवेयर विकसित करने के लिए हमारे एक्सेल रूपांतरण API का उपयोग करें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="DIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,50 +12,51 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="Python में XLT को DIF में बदलें" %}}
 
- XLT को DIF में कैसे बदलें? Aspose.Cells for Python के माध्यम से NET लाइब्रेरी के साथ, आप आसानी से कोड की कुछ पंक्तियों के साथ XLT को DIF प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, रेंडर करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच परिवर्तित होता है, यह एक्सेल फाइलों को छवियों के रूप में भी प्रस्तुत कर सकता है, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और अधिक, इस प्रकार यह उद्योग में दस्तावेजों का आदान-प्रदान करने के लिए एक आदर्श विकल्प है। -मानक प्रारूप।
+ मैं XLT को DIF में कैसे परिवर्तित करूं? NET लाइब्रेरी के माध्यम से Aspose.Cells for Python के साथ, आप कोड की कुछ पंक्तियों के साथ आसानी से XLT को DIF में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।[Aspose.Cells for Python वाया NET](https://pypi.org/project/aspose-cells-python/)सभी एक्सेल फ़ाइलों को उत्पन्न करने, संशोधित करने, परिवर्तित करने, प्रस्तुत करने और प्रिंट करने की क्षमता के साथ क्रॉस-प्लेटफ़ॉर्म एप्लिकेशन बनाने में सक्षम है। Python एक्सेल API न केवल स्प्रेडशीट प्रारूपों के बीच कनवर्ट कर सकता है, यह एक्सेल फाइलों को छवियों, PDF, HTML, ODS, CSV, SVG, JSON, वर्ड, पीपीटी और भी बहुत कुछ के रूप में प्रस्तुत कर सकता है, इस प्रकार यह एक्सचेंज के लिए एक आदर्श विकल्प बन जाता है। उद्योग-मानक में दस्तावेज़ प्रारूप.
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python में XLT से DIF तक ऑनलाइन फ्री में सेव करें" %}}
+{{% blocks/products/pf/agp/content h2="Python में XLT से DIF को निःशुल्क ऑनलाइन सेव करें" %}}
 
-निम्न उदाहरण दर्शाता है कि XLT को Python via NET में DIF में कैसे परिवर्तित किया जाए।
+निम्नलिखित उदाहरण दर्शाता है कि Python via NET में XLT को DIF में कैसे परिवर्तित किया जाए।
 {{% blocks/products/pf/agp/text %}}
 
-XLT को DIF में बदलने के लिए आसान चरणों का पालन करें। अपनी XLT फ़ाइल अपलोड करें, फिर इसे DIF फ़ाइल के रूप में सहेजें। XLT पढ़ने और DIF लिखने दोनों के लिए आप पूरी तरह योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट DIF सामग्री और स्वरूपण मूल XLT दस्तावेज़ के समान होगा।
+XLT को DIF में बदलने के लिए आसान चरणों का पालन करें। अपनी XLT फ़ाइल अपलोड करें, फिर इसे DIF फ़ाइल के रूप में सहेजें। XLT पढ़ने और DIF लिखने दोनों के लिए आप पूर्णतः योग्य फ़ाइल नामों का उपयोग कर सकते हैं। आउटपुट DIF सामग्री और स्वरूपण मूल XLT दस्तावेज़ के समान होगा।
 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="XLT को DIF में ऑनलाइन बदलने के लिए फ्री ऐप और सैंपल कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="XLT को DIF में ऑनलाइन बदलने के लिए निःशुल्क ऐप और नमूना कोड" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="dif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="XLT को DIF में कैसे बदलें" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python डेवलपर्स आसानी से कोड की कुछ पंक्तियों में XLT को DIF में लोड और परिवर्तित कर सकते हैं।
+XLT फ़ाइलों को प्रोग्रामेटिक रूप से DIF में कनवर्ट करने की आवश्यकता है? Python डेवलपर्स कोड की कुछ पंक्तियों में XLT को DIF में आसानी से लोड और परिवर्तित कर सकते हैं।
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  'Aspose.Cells for Python via .NET' स्थापित करें।
-1.  अपने Python प्रोजेक्ट में लाइब्रेरी संदर्भ (लाइब्रेरी आयात करें) जोड़ें।
-1.  कार्यपुस्तिका के उदाहरण के साथ XLT फ़ाइल लोड करें
-1.  Workbook.save विधि को कॉल करके XLT को DIF में बदलें
+1.  'Aspose.Cells for Python via .NET' इंस्टॉल करें।
+1.  अपने Python प्रोजेक्ट में एक लाइब्रेरी संदर्भ जोड़ें (लाइब्रेरी आयात करें)।
+1.  कार्यपुस्तिका के उदाहरण के साथ XLT फ़ाइल लोड करें।
+1.  Workbook.save पद्धति पर कॉल करके XLT को DIF में बदलें।
+1.  XLT से DIF का रूपांतरण परिणाम प्राप्त करें।
 
 {{% /blocks/products/pf/agp/content %}}
 
 
-{{% blocks/products/pf/agp/content h2="Python पुस्तकालय XLT को DIF में बदलने के लिए" %}}
+{{% blocks/products/pf/agp/content h2="Python लाइब्रेरी XLT को DIF में बदलने के लिए" %}}
 
 हम अपने Python पैकेजों को PyPi रिपॉजिटरी में होस्ट करते हैं।
 
 {{% blocks/products/pf/agp/text %}}
-से Aspose.Cells for Python इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> कमांड का उपयोग इस रूप में करें:<code>$ pip install aspose-cells-python</code>.
+Aspose.Cells for Python से इंस्टॉल करें<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , कमांड का उपयोग इस प्रकार करें:<code>$ pip install aspose-cells-python</code>.
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- और आप फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/)अपने डेवलपर वातावरण में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
+ और आप इसे फॉलो भी कर सकते हैं[चरण-दर-चरण निर्देश](https://docs.aspose.com/cells/python-net/getting-started/) अपने डेवलपर परिवेश में "Aspose.Cells for Python via .NET" कैसे स्थापित करें।
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,39 +64,44 @@ XLT को DIF में बदलने के लिए आसान चरण
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python प्लेटफ़ॉर्म-स्वतंत्र API है और किसी भी प्लेटफ़ॉर्म (Windows, Linux) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में[Python](https://www.python.org/downloads/) 3.7 या उच्चतर।
+ Aspose.Cells NET के माध्यम से NET प्लेटफ़ॉर्म-स्वतंत्र है API और इसे किसी भी प्लेटफ़ॉर्म (Windows, लिनक्स) पर उपयोग किया जा सकता है, बस सुनिश्चित करें कि सिस्टम में है[Python](https://www.python.org/downloads/) 3.7 या उच्चतर.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}.xlt एक्सटेंशन वाली फ़ाइलें Microsoft Excel के साथ बनाई गई टेम्प्लेट फ़ाइलें हैं जो एक स्प्रेडशीट एप्लिकेशन है जो Microsoft Office सुइट के भाग के रूप में आती है। Microsoft Office 97-2003 नई XLT फ़ाइलें बनाने के साथ-साथ इन्हें खोलने का समर्थन करता है। एक्सेल का नवीनतम संस्करण अभी भी इस पुराने प्रारूप टेम्पलेट फ़ाइलों को खोलने में सक्षम है। ऐसी टेम्प्लेट फ़ाइल का उपयोग डिफ़ॉल्ट डेटा और सेटिंग्स जैसे पेज फ़ॉर्मेटिंग, फ़ॉन्ट आकार, मार्जिन, चार्ट इत्यादि के साथ नई एक्सेल फ़ाइलें बनाने के लिए किया जाता है, जिन्हें आगे नई .xls फ़ाइलों के रूप में सहेजा जा सकता है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DIF" readMoreLink="https://docs.fileformat.com/spreadsheet/dif/" >}}DIF डेटा इंटरचेंज फॉर्मेट के लिए है जिसका उपयोग विभिन्न अनुप्रयोगों के बीच स्प्रेडशीट डेटा को आयात/निर्यात करने के लिए किया जाता है। इनमें Microsoft एक्सेल, ओपनऑफिस कैल्क, स्टारकैल्क और कई अन्य शामिल हैं। यह एक एकल स्प्रेडशीट में निहित डेटा को संग्रहीत करता है जो इस फ़ाइल प्रारूप की एकमात्र सीमा है।{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="अन्य समर्थित रूपांतरण" subTitle="आप XLT को नीचे सूचीबद्ध कुछ सहित कई अन्य फ़ाइल स्वरूपों में भी परिवर्तित कर सकते हैं।" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-bmp/" name="XLT से BMP" description="बिटमैप चित्र" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-emf/" name="XLT से EMF" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-gif/" name="XLT से GIF" description="ग्राफिकल इंटरचेंज प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-html/" name="XLT से HTML" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-bmp/" name="XLT से BMP तक" description="बिटमैप चित्र" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-emf/" name="XLT से EMF तक" description="उन्नत मेटाफ़ाइल स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-gif/" name="XLT से GIF तक" description="ग्राफ़िकल इंटरचेंज प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-html/" name="XLT से HTML तक" description="हाइपर टेक्स्ट मार्कअप लैंग्वेज" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-md/" name="XLT एमडी के लिए" description="मार्कडाउन भाषा" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-mhtml/" name="XLT से MHTML" description="वेब पेज संग्रह प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-ods/" name="XLT से ODS" description="OpenDocument स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-pdf/" name="XLT से PDF" description="संवहन दस्तावेज़ स्वरूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-png/" name="XLT से PNG" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-svg/" name="XLT से SVG" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tiff/" name="XLT से TIFF" description="टैग की गई छवि प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT से TSV" description="टैब-पृथक मान" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-txt/" name="XLT से TXT" description="सामग्री या लेख दस्तावेज़" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xls/" name="XLT से XLS" description="एक्सेल बाइनरी प्रारूप" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsb/" name="XLT से XLSB" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT से XLSM" description="स्प्रेडशीट फ़ाइल" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT से XLSX" description="ओओएक्सएमएल एक्सेल फाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-mhtml/" name="XLT से MHTML तक" description="वेब पेज पुरालेख प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-ods/" name="XLT से ODS तक" description="ओपनडॉक्यूमेंट स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-pdf/" name="XLT से PDF तक" description="संवहन दस्तावेज़ स्वरूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-png/" name="XLT से PNG तक" description="पोर्टेबल नेटवर्क ग्राफ़िक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-svg/" name="XLT से SVG तक" description="स्केलेबल वेक्टर ग्राफिक्स" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tiff/" name="XLT से TIFF तक" description="टैग किया गया छवि प्रारूप" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-tsv/" name="XLT से TSV तक" description="टैब-पृथक मान" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-txt/" name="XLT से TXT तक" description="सामग्री या लेख दस्तावेज़" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xls/" name="XLT से XLS तक" description="एक्सेल बाइनरी फॉर्मेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsb/" name="XLT से XLSB तक" description="बाइनरी एक्सेल वर्कबुक फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsm/" name="XLT से XLSM तक" description="स्प्रेडशीट फ़ाइल" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xlsx/" name="XLT से XLSX तक" description="ओओएक्सएमएल एक्सेल फ़ाइल" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT से XLTM" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT से XLTX" description="कार्यालय ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="एक्सएमएल के लिए XLT" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT से XPS" description="एक्सएमएल पेपर निर्दिष्टीकरण" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT से JSON" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltm/" name="XLT से XLTM तक" description="एक्सेल मैक्रो-सक्षम टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xltx/" name="XLT से XLTX तक" description="ऑफिस ओपनएक्सएमएल एक्सेल टेम्पलेट" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xml/" name="XLT एक्सएमएल के लिए" description="एक्सटेंसिबल मार्कअप लैंग्वेज" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-xps/" name="XLT से XPS तक" description="एक्सएमएल पेपर विशिष्टताएँ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/conversion/xlt-to-json/" name="XLT से JSON तक" description="जावास्क्रिप्ट ऑब्जेक्ट नोटेशन" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -13,7 +13,7 @@ description: Java کد نمونه برای تقسیم اسناد ODS در Java R
 
  به منظور تقسیم فایل ODS، ما استفاده می کنیم
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API که یک پلت فرم پر از ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
+ API که یک پلت فرم پر از ویژگی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 

@@ -27,7 +27,7 @@ description: C# نمونه کد ایجاد نمودارهای حجم-باز-با
 1.  a اضافه کنید[**حجم-باز-بالا-کم-بسته شدن سهام**](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) نمودار را با فراخوانی به کاربرگ نشان دهید[**نمودار**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection) مجموعه ها[**اضافه کردن**](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) روش، کپسوله شده در[**کاربرگ**](https://reference.aspose.com/cells/net/aspose.cells/worksheet)هدف - شی.
 1.  دسترسی به جدید[**چارت سازمانی**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart)شیء از مجموعه نمودارها با عبور از نمایه آن.
 1.  منبع داده نمودار را با[**Chart.SetChartDataRange**](https://reference.aspose.com/cells/net/aspose.cells.charts/chart/methods/setchartdatarange) روش.
-1.  تنظیم داده های دسته با[**داده های دسته**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
+1.  تنظیم داده های دسته با[**CategoryData**](https://reference.aspose.com/cells/net/aspose.cells.charts/seriescollection/categorydata/) ویژگی.
 1.  به عنوان اکسل یا ODS ذخیره کنید[فایل خروجی](out.xlsx).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

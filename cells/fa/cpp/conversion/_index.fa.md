@@ -6,7 +6,7 @@ description: اکسل XLS، XLSX، ODS، CSV را به PDF، XPS، HTML، HTML،
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> تبدیل سند اکسل از طریق C++" h2="Microsoft<sup>&reg;</sup> فایل های Excel را به صورت صفحه گسترده، وب، تصویر و فرمت های طرح بندی ثابت ذخیره کنید" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- برای هر برنامه یا راه حل مبدل صفحه گسترده،**C++ کتابخانه اکسل**فرآیندهای کدنویسی، اتوماسیون و تبدیل را در حین مدیریت چندین فایل از جمله XLSX، XLS، XLSM، XLSB، XLTX، XLTM، XLTM، XLSX، XLSX، XLSX، XLSX، XLSX، XLSX امکان *تبدیل اکسل به PDF**، XPS، HTML، MHTML، ساده متن و تصاویر پرطرفدار مانند JPG، TIFF، PNG، BMP و SVG.
+ برای هر برنامه یا راه حل مبدل صفحه گسترده،**C++ کتابخانه اکسل** فرآیندهای کدنویسی، اتوماسیون و تبدیل را در حین مدیریت چندین فایل از جمله XLSX، XLS، XLSM، XLSB، XLTX، XLTM، XLTM، XLSX، XLSX، XLSX، XLSX، XLSX، XLSX امکان *تبدیل اکسل به PDF**، XPS، HTML، MHTML، ساده متن و تصاویر پرطرفدار مانند JPG، TIFF، PNG، BMP و SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="تبدیل بین Microsoft فرمت های اکسل" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="با تنظیمات سطح انطباق، فرمت های اکسل را به PDF تبدیل کنید" %}}
- C++ Excel Automation API از تبدیل Workbookها به PDF و همچنین پشتیبانی از تنظیم سطح انطباق و تاریخ ایجاد پشتیبانی می کند. توسعه دهندگان می توانند استفاده کنند[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) همراه با[Aspose::Cells:: رندر](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)برای تنظیم انطباق PDF. برای تبدیل، API روش ذخیره با داشتن PdfSaveOptions به عنوان پارامتر و مسیر فایل خروجی مشخص شده است.
+ C++ Excel Automation API از تبدیل Workbookها به PDF و همچنین پشتیبانی از تنظیم سطح انطباق و تاریخ ایجاد پشتیبانی می کند. توسعه دهندگان می توانند استفاده کنند[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) همراه با[Aspose::Cells:: رندر](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) برای تنظیم انطباق PDF. برای تبدیل، API روش ذخیره با داشتن PdfSaveOptions به عنوان پارامتر و مسیر فایل خروجی مشخص شده است.
 {{% blocks/products/pf/feature-page-code h3="C++ نمونه کد برای تبدیل اکسل به PDF" %}}
 
 ```cs
@@ -55,7 +55,7 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
 {{% blocks/products/pf/feature-page-section h2="اکسل را در تصاویر ذخیره کنید" %}}
-**C++ تجزیه کننده اکسل** قابلیت صادرات داده ها به صورت تصویر را دارد. هر کاربرگ را می توان به فرمت های تصویری مختلف از جمله BMP، JPEG، PNG و GIF تبدیل کرد که توسط[Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . برای هرچی**تبدیل اکسل به تصاویر** مورد، مورد مربوطه را از لینک ها انتخاب کنید.
+**C++ اکسل تجزیه کننده** قابلیت صادرات داده ها به صورت تصویر را دارد. هر کاربرگ را می توان به فرمت های تصویری مختلف از جمله BMP، JPEG، PNG و GIF تبدیل کرد که توسط[Rendering::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . برای هرچی**تبدیل اکسل به تصاویر** مورد، مورد مربوطه را از لینک ها انتخاب کنید.
 {{% blocks/products/pf/feature-page-code h3="C++ کد برای تبدیل اکسل به تصویر" %}}
 
 ```cs

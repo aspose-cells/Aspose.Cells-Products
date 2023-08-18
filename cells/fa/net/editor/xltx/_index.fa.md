@@ -1,5 +1,5 @@
 ---
-title: ویرایش XLTX فایل via .NET
+title:  ویرایش XLTX فایل via .NET
 description: کد منبع C# برای ویرایش سند XLTX در .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

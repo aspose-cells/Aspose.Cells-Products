@@ -6,7 +6,7 @@ description: اکسل XLS، XLSX، ODS، CSV را به PDF، XPS، HTML، HTML،
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> تبدیل فایل های اکسل via Java" h2="اسناد اکسل Microsoft را به‌صورت صفحه‌گسترده، وب، تصویر و قالب‌بندی ثابت ذخیره کنید." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- برای هرچی**مبدل اکسل** application or solution, Java Excel Library speeds up spreadsheet programming and conversion processes while handling multiple formats including XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. It also allows to *convert Excel files to PDF**, XPS، HTML، MHTML، متن ساده و فرمت های تصویری محبوب مانند TIFF، JPG، PNG، BMP و SVG.
+ برای هرچی**مبدل اکسل**application or solution, Java Excel Library speeds up spreadsheet programming and conversion processes while handling multiple formats including XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS. It also allows to *convert Excel files to PDF**, XPS، HTML، MHTML، متن ساده و فرمت های تصویری محبوب مانند TIFF، JPG، PNG، BMP و SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="تبدیل بین Microsoft فرمت های اکسل" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft Excel را به Word و PowerPoint تبدیل کنید" %}}
- امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) کلاس هایی که در زیر نشان داده شده است.
+ امکان بارگذاری هر صفحه گسترده و تبدیل آن به فایل های Word DOCX و PowerPoint PPTX در حین استفاده وجود دارد.[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)کلاس هایی که در زیر نشان داده شده است.
 {{% blocks/products/pf/feature-page-code h3="کد Java برای اکسل به ورد و تبدیل PowerPoint" %}}
 ```cs
 // load the template file

@@ -1,16 +1,16 @@
 ---
-title: Python via Java का उपयोग कर Microsoft एक्सेल फ़ाइल रूपांतरण
-description: एक्सेल XLS, XLSX, ODS, CSV से PDF, XPS, HTML, JPEG, HTML, HTML और कई अन्य लोकप्रिय स्वरूपों के साथ कन्वर्ट करें।
+title: Microsoft एक्सेल फ़ाइल रूपांतरण Python via Java का उपयोग कर
+description: Excel XLS, XLSX, ODS, CSV को PDF, XPS, HTML, JPEG, HTML और कई अन्य लोकप्रिय प्रारूपों को Python कोड की कुछ पंक्तियों के साथ परिवर्तित करें .
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python के माध्यम से एक्सेल प्रारूप रूपांतरण" h2="एक्सेल फाइलों को स्प्रेडशीट, वेब, इमेज और फिक्स्ड-लेआउट फॉर्मेट के रूप में इम्पोर्ट और एक्सपोर्ट करें" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Python के माध्यम से एक्सेल प्रारूप रूपांतरण" h2="एक्सेल फ़ाइलों को स्प्रेडशीट, वेब, छवि और फिक्स्ड-लेआउट प्रारूपों के रूप में आयात और निर्यात करें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Python एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS सहित लोकप्रिय प्रारूपों का समर्थन करते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देती है। यह एक्सेल फाइलों को PDF, XPS, HTML, MHTML, प्लेन में निर्यात करने की भी अनुमति देता है पाठ और लोकप्रिय छवि प्रारूप जैसे TIFF, JPG, PNG, BMP और SVG।
+Python एक्सेल लाइब्रेरी XLS, XLSX, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, 076193 सहित लोकप्रिय प्रारूपों का समर्थन करते हुए स्प्रेडशीट प्रोग्रामिंग और रूपांतरण प्रक्रियाओं को गति देती है। 481. यह एक्सेल फ़ाइलों को PDF, XPS, HTML, MHTML, प्लेन पर निर्यात करने की भी अनुमति देता है टेक्स्ट और लोकप्रिय छवि प्रारूप जैसे TIFF, जेपीजी, PNG, BMP और SVG।
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को XLSX, ODS, SXC और FODS में बदलें" %}}
- स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ एक स्प्रेडशीट लोड करने की आवश्यकता होती है[वर्कबुक](https://reference.aspose.com/cells/python/asposecells.api/Workbook) और उचित मूल्य का चयन करते समय वांछित प्रारूप में वापस सहेजना[सेवफॉर्मेट](https://reference.aspose.com/cells/python/asposecells.api/saveformat) गणना।
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को XLSX, ODS, SXC और FODS में कनवर्ट करें" %}}
+ स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ स्प्रेडशीट लोड करने की आवश्यकता होती है[वर्कबुक](https://reference.aspose.com/cells/python/asposecells.api/Workbook) और उचित मूल्य का चयन करते हुए वांछित प्रारूप में वापस सहेजना[प्रारूप सहेजें](https://reference.aspose.com/cells/python/asposecells.api/saveformat) गणना
 {{% blocks/products/pf/feature-page-code h3="एक्सेल फ़ाइल स्वरूप रूपांतरण के लिए Python कोड" %}}
 
 ```cs
@@ -28,9 +28,9 @@ workbook.save("output.fods", SaveFormat.FODS);
 {{< blocks/products/pf/feature-page-options pairs="xls-to-xlsx xlsx-to-xlsm xlsx-to-ods xlsx-to-csv xlsx-to-tsv xlsx-to-fods xlsx-to-sxc xlsm-to-xls" >}}
 
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को PDF, XPS, HTML और एमडी में कनवर्ट करें" %}}
- विशिष्ट आउटपुट स्वरूपों जैसे रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशिष्ट वर्ग उपलब्ध हैं[पीडीएफ सहेजें विकल्प](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) एक्सेल फाइल को PDF के रूप में निर्यात करने के लिए,[XpsSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) एक्सेल के लिए XPS रूपांतरण के लिए,[HtmlSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) एक्सेल को HTML के रूप में प्रस्तुत करने के लिए और[मार्कडाउन सेवऑप्शन](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) एक्सेल से मार्कडाउन रूपांतरण के लिए।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल से PDF और वेब प्रारूपों के लिए Python कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को PDF, XPS, HTML एवं एमडी में बदलें" %}}
+ विशिष्ट आउटपुट स्वरूपों के लिए रूपांतरण प्रक्रिया को नियंत्रित करने के लिए विशेष कक्षाएं उपलब्ध हैं[पीडीएफसेवविकल्प](https://reference.aspose.com/cells/python/asposecells.api/PdfSaveOptions) एक्सेल फ़ाइलों को PDF के रूप में निर्यात करने के लिए,[XpsSaveविकल्प](https://reference.aspose.com/cells/python/asposecells.api/XpsSaveOptions) एक्सेल से XPS रूपांतरण के लिए,[HTMLSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/HtmlSaveOptions) एक्सेल को HTML के रूप में प्रस्तुत करना और[मार्कडाउनसेवऑप्शंस](https://reference.aspose.com/cells/python/asposecells.api/MarkdownSaveOptions) एक्सेल से मार्कडाउन रूपांतरण के लिए।
+{{% blocks/products/pf/feature-page-code h3="Python एक्सेल के लिए कोड PDF और वेब फॉर्मेट के लिए" %}}
 
 ```cs
 // load template Excel file from disc
@@ -61,9 +61,9 @@ book.save("output.md", mdOptions);
 
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
-{{% blocks/products/pf/feature-page-section h2="JSON को एक्सेल और एक्सेल को JSON में बदलें" %}}
-Python डेवलपर्स कोड की कुछ ही पंक्तियों में JSON फ़ाइलों को एक्सेल में आसानी से लोड और परिवर्तित कर सकते हैं। इसी तरह, एक्सेल डेटा को JSON डेटा में निर्यात किया जा सकता है।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल रूपांतरण के लिए JSON के लिए Python कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="JSON को एक्सेल में और एक्सेल को JSON में बदलें" %}}
+Python डेवलपर्स कोड की कुछ पंक्तियों में JSON फ़ाइलों को एक्सेल में आसानी से लोड और परिवर्तित कर सकते हैं। इसी तरह एक्सेल डेटा को JSON डेटा पर एक्सपोर्ट किया जा सकता है।
+{{% blocks/products/pf/feature-page-code h3="Python कोड JSON से एक्सेल रूपांतरण के लिए" %}}
 ```cs
 //Load your source json file
 workbook = Workbook("Data.json")
@@ -72,7 +72,7 @@ workbook.save("output.xlsx")
 ```
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="एक्सेल के लिए Python कोड JSON रूपांतरण के लिए" %}}
+{{% blocks/products/pf/feature-page-code h3="एक्सेल के लिए Python कोड से JSON रूपांतरण" %}}
 ```cs
 //Load your source xlsx file
 workbook = Workbook("input.xlsx")
@@ -85,7 +85,7 @@ workbook.save("Data.json")
 {{< blocks/products/pf/feature-page-options pairs="json-to-xlsx json-to-ods json-to-csv json-to-dif json-to-html csv-to-json xls-to-json ods-to-json" >}}
 
 {{% blocks/products/pf/feature-page-section h2="एक्सेल वर्कशीट को JPG, BMP, PNG और GIF में कनवर्ट करें" %}}
- एक्सेल फ़ाइल की प्रत्येक वर्कशीट को विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, कॉल करें[छवि या प्रिंट विकल्प](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) छवि प्रारूप सेट करने के लिए .setImageFormat।
+ एक्सेल फ़ाइल की प्रत्येक वर्कशीट को विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, कॉल करें[छवियाप्रिंटविकल्प](https://reference.aspose.com/cells/python/asposecells.api/ImageOrPrintOptions) छवि प्रारूप सेट करने के लिए .setImageFormat।
 {{% blocks/products/pf/feature-page-code h3="Python एक्सेल से छवि रूपांतरण के लिए कोड" %}}
 ```cs
 // load template spreadsheet
@@ -105,9 +105,9 @@ sr.toImage(0, "output.jpg")
 
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को वर्ड और PowerPoint में कनवर्ट करें" %}}
- उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और इसे वर्ड DOCX और PowerPoint PPTX फाइलों में बदलना संभव है[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [पीपीटीएक्ससेवऑप्शन](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) कक्षाएं जैसा कि नीचे दिखाया गया है।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल से वर्ड और PowerPoint रूपांतरण के लिए Python कोड" %}}
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को वर्ड में बदलें और PowerPoint" %}}
+ उपयोग करते समय किसी भी स्प्रेडशीट को लोड करना और उसे Word DOCX और PowerPoint PPTX फ़ाइलों में परिवर्तित करना संभव है[DocxSaveविकल्प](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [पीपीटीएक्ससेवऑप्शंस](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)कक्षाएं जैसा कि नीचे दिखाया गया है।
+{{% blocks/products/pf/feature-page-code h3="एक्सेल से वर्ड के लिए Python कोड और PowerPoint रूपांतरण" %}}
 ```cs
 // load the template file
 workbook = Workbook("template.xlsx")

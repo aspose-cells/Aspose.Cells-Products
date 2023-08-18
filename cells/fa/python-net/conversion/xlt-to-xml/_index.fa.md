@@ -1,7 +1,7 @@
 ---
-title: تبدیل XLT به XML Python via Python
-description: XLT را به صورت رایگان به XML آنلاین تبدیل کنید. تبدیل آنلاین رایگان XLT به XML. Python XLT به XML. XLT به XML از طریق Python.
-keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT to Image
+title: Python XLT به XML - تبدیل آنلاین XLT به XML
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. آنلاین رایگان Python تبدیل XLT به فرمت ذخیره XML. Python XLT به فرمت XML. XLT را در XML Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLT to XML saveformat., Free Online XLT to XML Python., Python Convert XLT to XML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XLT را به XML در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل XLT به XML. از تبدیل اکسل API ما برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% blocks/products/pf/agp/content h2="XLT را به XML در Python تبدیل کنید" %}}
 
- چگونه XLT را به XML تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLT را به صورت برنامه نویسی به XML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه XLT را به XML تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد XLT را به صورت برنامه نویسی به XML تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLT, XLT Converter, XLT to PDF, XLT to Word, XLT to PPT, XLT t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLT به XML آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل XLT به XML آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlt" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل XLT به XML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-توسعه دهندگان Python می توانند به راحتی XLT را تنها در چند خط کد بارگیری و به XML تبدیل کنند.
+آیا نیاز به تبدیل فایل های XLT به XML دارید؟ توسعه دهندگان Python می توانند به راحتی XLT را تنها در چند خط کد بارگیری و به XML تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل XLT را با یک نمونه از Workbook بارگیری کنید
-1.  XLT را با فراخوانی روش Workbook.save به XML تبدیل کنید
+1.  فایل XLT را با یک نمونه از Workbook بارگیری کنید.
+1.  XLT را با فراخوانی روش Workbook.save به XML تبدیل کنید.
+1.  نتیجه تبدیل XLT به XML را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}فایل‌های با پسوند xlt. فایل‌های قالبی هستند که با Microsoft Excel ایجاد شده‌اند که یک برنامه صفحه‌گسترده است که به عنوان بخشی از مجموعه آفیس Microsoft ارائه می‌شود. Microsoft Office 97-2003 از ایجاد فایل های جدید XLT و همچنین باز کردن آنها پشتیبانی می کند. آخرین نسخه اکسل همچنان قادر به باز کردن این فایل های قالب قدیمی است. چنین فایل قالبی برای ایجاد سریع فایل‌های اکسل جدید با داده‌ها و تنظیمات پیش‌فرض مانند قالب‌بندی صفحه، اندازه فونت، حاشیه‌ها، نمودارها و غیره استفاده می‌شود که می‌توانند بیشتر به عنوان فایل‌های xls. جدید ذخیره شوند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML مخفف Extensible Markup Language است که شبیه به HTML است اما در استفاده از برچسب ها برای تعریف اشیا متفاوت است. ایده اصلی ایجاد فرمت فایل XML ذخیره و انتقال داده ها بدون وابستگی به ابزارهای نرم افزاری یا سخت افزاری بود. محبوبیت آن به این دلیل است که هم توسط انسان و هم با ماشین قابل خواندن است. این امر آن را قادر می سازد تا پروتکل های داده های رایج را در قالب اشیایی که قرار است در شبکه ای مانند شبکه جهانی وب (WWW) ذخیره و به اشتراک گذاشته شوند، ایجاد کند. "X" در XML برای توسعه پذیر است که به این معنی است که زبان را می توان به هر تعداد نماد بر اساس نیاز کاربر گسترش داد. برای این ویژگی ها است که بسیاری از فرمت های استاندارد فایل مانند Microsoft Open XML، LibreOffice OpenDocument، XHTML و SVG از آن استفاده می کنند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید XLT را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

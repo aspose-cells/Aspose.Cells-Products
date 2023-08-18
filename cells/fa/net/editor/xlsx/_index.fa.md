@@ -1,5 +1,5 @@
 ---
-title: ویرایش XLSX فایل via .NET
+title:  ویرایش XLSX فایل via .NET
 description: کد منبع C# برای ویرایش سند XLSX در .NET Framework، .NET Core، Windows Azure، Mono یا Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -13,7 +13,7 @@ description: کد منبع C# برای تقسیم اسناد ODS در .NET Frame
 
  به منظور تقسیم فایل ODS، ما استفاده می کنیم
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد و تقسیم کننده API برای پلت فرم C# است. باز کن
+ API که دارای ویژگی های غنی، قدرتمند و آسان برای دستکاری اسناد و تقسیم کننده API برای پلت فرم C# است. باز کن
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  مدیر بسته، جستجو کنید
  Aspose.Cells 

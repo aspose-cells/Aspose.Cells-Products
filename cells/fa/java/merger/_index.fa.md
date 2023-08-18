@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="ادغام چندین فایل اکسل" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)روش از ادغام داده‌ها، سبک و فرمول‌های یک فایل اکسل در یک صفحه گسترده جدید با همان فرمت پشتیبانی می‌کند. این یک راه کارآمد برای ادغام چندین فایل در حین استفاده از کش است.
 {{% blocks/products/pf/feature-page-code h3="Java کد برای ادغام چندین فایل اکسل" %}}
 
 ```cs

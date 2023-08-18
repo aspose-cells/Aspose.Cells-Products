@@ -1,17 +1,17 @@
 ---
 title:  Microsoft एक्सेल फ़ाइल रूपांतरण C++ के माध्यम से
-description: एक्सेल XLS, XLSX, ODS, CSV से PDF, XPS, HTML, JPEG और C++ कोड की कुछ पंक्तियों के साथ अन्य प्रारूपों में कनवर्ट करें।
+description: एक्सेल XLS, XLSX, ODS, CSV को PDF, XPS, HTML, JPEG और अन्य प्रारूपों को C++ कोड की कुछ पंक्तियों के साथ परिवर्तित करें।
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ के माध्यम से एक्सेल दस्तावेज़ रूपांतरण" h2="Microsoft<sup>&reg;</sup> एक्सेल फाइल को स्प्रेडशीट, वेब, इमेज और फिक्स्ड-लेआउट फॉर्मेट के रूप में सेव करें" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> C++ के माध्यम से एक्सेल दस्तावेज़ रूपांतरण" h2="Microsoft<sup>&reg;</sup> एक्सेल फ़ाइलों को स्प्रेडशीट, वेब, छवि और फिक्स्ड-लेआउट प्रारूपों के रूप में सहेजें" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- किसी भी स्प्रेडशीट परिवर्तक अनुप्रयोग या समाधान के लिए,**C++ एक्सेल लाइब्रेरी**XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS सहित कई फाइलों को संभालने के दौरान कोडिंग, स्वचालन और रूपांतरण प्रक्रियाओं को गति देता है। PDF**, XPS, HTML, MHTML, सादा टेक्स्ट और लोकप्रिय चित्र जैसे JPG, TIFF, PNG, BMP और SVG।
+ किसी भी स्प्रेडशीट कनवर्टर एप्लिकेशन या समाधान के लिए,**C++ एक्सेल लाइब्रेरी** XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, SpreadsheetML, ODS सहित कई फाइलों को संभालते हुए कोडिंग, स्वचालन और रूपांतरण प्रक्रियाओं को गति देता है। यह एक्सेल को *रूपांतरित करने की भी अनुमति देता है। से PDF**, XPS, HTML, MHTML, सादा टेक्स्ट और लोकप्रिय छवियाँ जैसे JPG, TIFF, PNG, BMP और SVG।
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Microsoft एक्सेल प्रारूपों का अंतर-रूपांतरण" %}}
- स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ एक स्प्रेडशीट लोड करने की आवश्यकता होती है[ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) सूचक और उपयोग करके वांछित प्रारूप में वापस सहेजना[बचाना](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) उसकि विधि[आई वर्कबुक क्लास](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
-{{% blocks/products/pf/feature-page-code h3="एक्सेल फ़ाइल स्वरूप रूपांतरण के लिए C++ उदाहरण कोड" %}}
+ स्प्रेडशीट प्रारूप के अंतर-रूपांतरण के लिए केवल एक उदाहरण के साथ स्प्रेडशीट लोड करने की आवश्यकता होती है[ intrusive_ptr<Aspose::Cells::IWorkbook>](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook) पॉइंटर का उपयोग करके वांछित प्रारूप में वापस सहेजना[बचाना](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook#a9460f52a2dec8f4bf623a4905167d997) उसकि विधि[आईवर्कबुक क्लास](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_workbook).
+{{% blocks/products/pf/feature-page-code h3="C++ एक्सेल फ़ाइल स्वरूप रूपांतरण के लिए उदाहरण कोड" %}}
 
 ```cs
 
@@ -28,8 +28,8 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="अनुपालन स्तर सेटिंग्स के साथ एक्सेल प्रारूप को PDF में बदलें" %}}
- C++ एक्सेल ऑटोमेशन API कार्यपुस्तिकाओं को PDF में बदलने के साथ-साथ अनुपालन स्तर और निर्माण तिथि की समर्थन सेटिंग का समर्थन करता है। डेवलपर्स उपयोग कर सकते हैं[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) साथ[Aspose::Cells::रेंडरिंग](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)PDF अनुपालन सेट करने के लिए। रूपांतरण के लिए, API पैरामीटर और विशिष्ट आउटपुट फ़ाइल पथ के रूप में PdfSaveOptions वाली विधि सहेजें।
-{{% blocks/products/pf/feature-page-code h3="एक्सेल के लिए C++ नमूना कोड PDF रूपांतरण के लिए" %}}
+ C++ एक्सेल ऑटोमेशन API वर्कबुक को PDF में बदलने के साथ-साथ अनुपालन स्तर और निर्माण तिथि की सेटिंग का समर्थन करता है। डेवलपर्स उपयोग कर सकते हैं[IPdfSaveOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) साथ में[Aspose::Cells::प्रतिपादन](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) PDF अनुपालन सेट करने के लिए। रूपांतरण के लिए, API सेव विधि जिसमें पैरामीटर के रूप में पीडीएफसेवऑप्शंस और निर्दिष्ट आउटपुट फ़ाइल पथ है।
+{{% blocks/products/pf/feature-page-code h3="C++ एक्सेल से PDF रूपांतरण के लिए नमूना कोड" %}}
 
 ```cs
 // Load the sample Excel file.
@@ -54,8 +54,8 @@ wkb->Save(u"output-converted-excel-workbook-to.pdf", pdfSaveOptions);
 
 {{< blocks/products/pf/feature-page-options formats="PDF" >}}
 
-{{% blocks/products/pf/feature-page-section h2="एक्सेल को इमेज में सेव करें" %}}
-**C++ एक्सेल पार्सर** छवियों के रूप में डेटा निर्यात करने की क्षमता है। प्रत्येक वर्कशीट को BMP, JPEG, PNG और GIF सहित विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, जो इसके द्वारा निर्धारित किया गया है।[प्रतिपादन :: IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . किसी के लिए**एक्सेल को छवियों में बदलें** मामला, लिंक से प्रासंगिक मामले का चयन करें।
+{{% blocks/products/pf/feature-page-section h2="एक्सेल को इमेजेज में सेव करें" %}}
+**C++ एक्सेल पार्सर** इसमें छवियों के रूप में डेटा निर्यात करने की क्षमता है। प्रत्येक वर्कशीट को BMP, JPEG, PNG और GIF सहित विभिन्न छवि प्रारूपों में परिवर्तित किया जा सकता है, जो इसके द्वारा निर्धारित हैं।[रेंडरिंग::IImageOrPrintOptions](https://reference.aspose.com/cells/cpp/class/aspose.cells.rendering.i_image_or_print_options) . किसी के लिए**एक्सेल को इमेज में कनवर्ट करें** मामला, लिंक से प्रासंगिक मामला चुनें।
 {{% blocks/products/pf/feature-page-code h3="C++ एक्सेल से छवि रूपांतरण के लिए कोड" %}}
 
 ```cs

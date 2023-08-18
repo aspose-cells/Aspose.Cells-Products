@@ -1,7 +1,7 @@
 ---
-title: تبدیل JSON به GIF Python via Python
-description: JSON را به صورت آنلاین به GIF تبدیل کنید. تبدیل رایگان آنلاین JSON به GIF. Python JSON الی GIF. JSON الی GIF از طریق Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON به GIF - تبدیل آنلاین JSON به GIF
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل JSON به GIF ذخیره فرمت. Python JSON الی GIF فرمت. JSON را به شماره GIF Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to GIF saveformat., Free Online JSON to GIF Python., Python Convert JSON to GIF]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل JSON به GIF در Python" h2="کتابخانه پرسرعت Python برای تبدیل JSON به GIF. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="GIF" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="تبدیل JSON به GIF در Python" %}}
 
- چگونه JSON را به GIF تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JSON را به صورت برنامه ای به GIF تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه JSON را به GIF تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد JSON را به صورت برنامه ای به GIF تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JSON به GIF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل JSON به GIF آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="gif" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل JSON به GIF" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی JSON را بارگیری و تنها در چند خط کد به GIF تبدیل کنند.
+آیا باید فایل های JSON را به صورت برنامه ریزی شده به GIF تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی JSON را بارگیری و تنها در چند خط کد به GIF تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل JSON را با یک نمونه از Workbook بارگیری کنید
-1.  JSON را با فراخوانی روش Workbook.save به GIF تبدیل کنید
+1.  فایل JSON را با یک نمونه از Workbook بارگیری کنید.
+1.  JSON را با فراخوانی روش Workbook.save به GIF تبدیل کنید.
+1.  نتیجه تبدیل JSON به GIF را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}JSON (Notation Object JavaScript) یک فرمت فایل استاندارد باز برای به اشتراک گذاری داده است که از متن قابل خواندن توسط انسان برای ذخیره و انتقال داده ها استفاده می کند. فایل های JSON با پسوند json. ذخیره می شوند. JSON نیاز به قالب بندی کمتری دارد و جایگزین خوبی برای XML است. JSON از جاوا اسکریپت گرفته شده است اما یک فرمت داده مستقل از زبان است. تولید و تجزیه JSON توسط بسیاری از زبان های برنامه نویسی مدرن پشتیبانی می شود. application/json نوع رسانه ای است که برای JSON استفاده می شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}فرمت GIF یا Graphical Interchange Format نوعی تصویر بسیار فشرده است. GIF متعلق به Unisys از الگوریتم فشرده سازی LZW استفاده می کند که کیفیت تصویر را کاهش نمی دهد. برای هر تصویر GIF معمولاً حداکثر 8 بیت در هر پیکسل و حداکثر 256 رنگ در سراسر تصویر مجاز است. برخلاف تصویر JPEG که می تواند تا 16 میلیون رنگ را نمایش دهد و محدودیت های چشم انسان را نسبتاً لمس کند. زمانی که اینترنت ظهور کرد، گیف‌ها بهترین انتخاب باقی ماندند زیرا به پهنای باند کم نیاز داشتند و برای گرافیک‌هایی که نواحی ثابت رنگ را مصرف می‌کنند، سازگار بودند. یک متحرک GIF تصاویر یا فریم های متعددی را در یک فایل واحد ترکیب می کند و آنها را به ترتیب نمایش می دهد تا یک کلیپ متحرک یا یک ویدیوی کوتاه تولید کند. محدودیت های رنگی تا 256 برای هر فریم است و احتمالاً برای بازتولید تصاویر و عکس های دیگر با گرادیان رنگ کمترین مناسب هستند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید JSON را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

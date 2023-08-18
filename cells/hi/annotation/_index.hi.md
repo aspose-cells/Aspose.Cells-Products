@@ -1,7 +1,7 @@
 ---
-title:  Windows, Linux और macOS पर एक्सेल फाइलों से टिप्पणियां हटाएं
+title:  Windows, लिनक्स और मैकओएस पर एक्सेल फाइलों से टिप्पणियाँ हटाएँ
 weight: 7730
-description: एक्सेल XLS, XLSX और ODS एनोटेशन और टिप्पणी प्रबंधन के लिए मुफ्त ऐप और एपीआई
+description: एक्सेल के लिए निःशुल्क ऐप और एपीआई XLS, XLSX और ODS एनोटेशन और टिप्पणी प्रबंधन
 ---
 {{< blocks/products/pf/agp/feature-solution >}} 
 

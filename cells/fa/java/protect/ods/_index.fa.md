@@ -1,5 +1,5 @@
 ---
-title:  محافظت و قفل ODS سند via Java
+title: محافظت و قفل ODS سند via Java
 weight: 6360
 description: Java نمونه کد برای قفل کردن فایل ODS با استفاده از رمز عبور در Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

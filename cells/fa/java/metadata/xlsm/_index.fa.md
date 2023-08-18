@@ -13,7 +13,7 @@ description: Java کد نمونه برای ویرایش یا مشاهده فرا
 
  برای به دست آوردن فراداده فایل XLSM، از آن استفاده خواهیم کرد
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API که یک پلتفرم ابرداده غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
+API که یک پلتفرم ابرداده غنی، قدرتمند و آسان برای استفاده است API for Java. آخرین نسخه آن را می توانید مستقیماً از اینجا دانلود کنید
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  و با افزودن تنظیمات زیر به pom.xml آن را در پروژه مبتنی بر Maven خود نصب کنید.
 
@@ -58,7 +58,7 @@ description: Java کد نمونه برای ویرایش یا مشاهده فرا
 {{% /blocks/products/pf/agp/text %}}
 
 + فایل XLSM را در WorkbookMetadata بارگیری کنید
-Object MetadataOptions را با گزینه های مربوطه ایجاد کنید
++ Object MetadataOptions را با گزینه های مربوطه ایجاد کنید
 + ویژگی های مربوطه را تنظیم کنید
 + اطلاعات فراداده XLSM را ذخیره کنید
 

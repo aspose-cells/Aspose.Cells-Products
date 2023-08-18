@@ -50,7 +50,7 @@ SDK منبع باز که به طور خاص برای تسهیل برنامه ن�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="فراداده" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-فقط فایل اکسل Microsoft خود را برای مشاهده یا ویرایش متادیتای صفحه گسترده از هر مرورگری آپلود کنید. بدون نیاز به نصب یا ابزار اضافی
+ فقط فایل اکسل Microsoft خود را برای مشاهده یا ویرایش متادیتای صفحه گسترده از هر مرورگری آپلود کنید. بدون نیاز به نصب یا ابزار اضافی
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="بیننده" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -63,7 +63,7 @@ SDK منبع باز که به طور خاص برای تسهیل برنامه ن�
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="آنچه مردم می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد Aspose.Cells چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
+{{< blocks/products/pf/i18n/testimonials title="مردم چه می گویند" subTitle="فقط حرف ما را قبول نکنید. ببینید کاربران در مورد Aspose.Cells چه می گویند." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.cells/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
@@ -77,7 +77,7 @@ SDK منبع باز که به طور خاص برای تسهیل برنامه ن�
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- مجموعه محصولات Aspose و پشتیبانی آن بی نظیر است. ما بدون این راه حل نمی توانستیم کاری را که انجام دادیم انجام دهیم.
+مجموعه محصولات Aspose و پشتیبانی آن بی نظیر است. ما بدون این راه حل نمی توانستیم کاری را که انجام دادیم انجام دهیم.
  <em>
  دکتر دن پترسون | اکومن، انگلستان
  </em>

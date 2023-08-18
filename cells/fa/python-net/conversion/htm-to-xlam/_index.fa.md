@@ -1,7 +1,7 @@
 ---
-title: HTM را به XLAM Python via Python تبدیل کنید
-description: HTM را به صورت آنلاین به XLAM تبدیل کنید. تبدیل رایگان HTM به XLAM. Python HTM به XLAM. HTM به XLAM از طریق Python.
-keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM to Image
+title: Python HTM به XLAM - تبدیل آنلاین HTM به XLAM
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل HTM به XLAM ذخیره فرمت. Python HTM به XLAM فرمت. HTM را در XLAM Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTM to XLAM saveformat., Free Online HTM to XLAM Python., Python Convert HTM to XLAM]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="HTM را به XLAM در Python تبدیل کنید" h2="کتابخانه پرسرعت Python برای تبدیل HTM به XLAM. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLAM" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% blocks/products/pf/agp/content h2="HTM را به XLAM در Python تبدیل کنید" %}}
 
- چگونه HTM را به XLAM تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد HTM را به صورت برنامه نویسی به XLAM تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه HTM را به XLAM تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد HTM را به صورت برنامه نویسی به XLAM تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTM, HTM Converter, HTM to PDF, HTM to Word, HTM to PPT, HTM t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTM به XLAM آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTM به XLAM آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="htm" outformat="xlam" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="چگونه HTM را به XLAM تبدیل کنیم" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی HTM را تنها در چند خط کد بارگیری و به XLAM تبدیل کنند.
+آیا نیاز به تبدیل فایل های HTM به XLAM دارید؟ توسعه دهندگان Python می توانند به راحتی HTM را تنها در چند خط کد بارگیری و به XLAM تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل HTM را با یک نمونه از Workbook بارگیری کنید
-1.  با فراخوانی روش Workbook.save، HTM را به XLAM تبدیل کنید
+1.  فایل HTM را با یک نمونه از Workbook بارگیری کنید.
+1.  با فراخوانی روش Workbook.save، HTM را به XLAM تبدیل کنید.
+1.  نتیجه تبدیل HTM به XLAM را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}فایل‌های با پسوند htm نشان‌دهنده زبان نشانه‌گذاری Hypertext برای ایجاد صفحات وب برای نمایش در مرورگرهای وب مانند Google Chrome، Internet Explorer، Firefox و تعدادی دیگر هستند. این نشانه گذاری برای ایجاد صفحات ثابت برای انتشار در وب جهانی (WWW) برای دسترسی دیگران تعریف می کند. این نشانه گذاری ها به مرورگرها می گویند که چگونه محتویات یک صفحه وب را نمایش دهند. چنین صفحاتی می‌توانند حاوی متن ساده، تصاویر، پیوندهایی به صفحات دیگر، ویدیوها و سایر اطلاعات رسانه‌ای باشند. هنگامی که یک صفحه وب منتشر می شود، می توانید با مشاهده منبع صفحه، به کد نشانه گذاری پشت آن نگاهی بیندازید. مرورگرهای مدرن اجازه می‌دهند تا هر بخش از یک صفحه وب را که در آن هر زیربخش یا عنصر نشانه‌گذاری در منبع HTM توضیح داده شده است، بررسی شود.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLAM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlam/" >}}XLAM یک فایل افزودنی ماکرو فعال است که برای افزودن عملکردهای جدید به صفحات گسترده استفاده می شود. Add-In یک برنامه تکمیلی است که کدهای اضافی را اجرا می کند و عملکردهای اضافی را برای صفحات گسترده فراهم می کند. فایل های XLAM با پسوند xlam ذخیره می شوند. فایل‌های XLAM فایل‌های مبتنی بر XML مشابه فرمت‌های فایل XLSM و XLSX هستند و با فشرده‌سازی ZIP ذخیره می‌شوند تا اندازه کلی فایل کاهش یابد.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="همچنین می‌توانید HTM را به بسیاری از فرمت‌های فایل دیگر از جمله تعداد کمی از آنها در زیر تبدیل کنید." >}}
 

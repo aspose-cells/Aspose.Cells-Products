@@ -1,7 +1,7 @@
 ---
-title: تبدیل HTML به SVG Python via Python
-description: HTML را به صورت آنلاین به SVG تبدیل کنید. تبدیل رایگان آنلاین HTML به SVG. Python HTML الی SVG. HTML الی SVG از طریق Python.
-keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, HTML to Image
+title: Python HTML به SVG - تبدیل آنلاین HTML به SVG
+description: Aspose اکسل. Python Aspose.Cells. Python Aspose Cells. رایگان آنلاین Python تبدیل HTML به SVG ذخیره فرمت. Python HTML الی SVG فرمت. HTML را به شماره SVG Python ذخیره کنید.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python HTML to SVG saveformat., Free Online HTML to SVG Python., Python Convert HTML to SVG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="تبدیل HTML به SVG در Python" h2="کتابخانه پرسرعت Python برای تبدیل HTML به SVG. از تبدیل اکسل ما API برای توسعه نرم افزار سطح بالا و مستقل از پلت فرم در Python استفاده کنید." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SVG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% blocks/products/pf/agp/content h2="تبدیل HTML به SVG در Python" %}}
 
- چگونه HTML را به SVG تبدیل کنیم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد HTML را به صورت برنامه ای به SVG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
+ چگونه HTML را به SVG تبدیل کنم؟ با Aspose.Cells for Python از طریق کتابخانه NET می توانید به راحتی با چند خط کد HTML را به صورت برنامه ای به SVG تبدیل کنید.[Aspose.Cells for Python از طریق NET](https://pypi.org/project/aspose-cells-python/)قادر به ساخت برنامه های چند پلتفرمی با قابلیت تولید، تغییر، تبدیل، رندر و چاپ تمام فایل های اکسل است. Python اکسل API نه تنها بین فرمت های صفحه گسترده تبدیل می کند، بلکه می تواند فایل های اکسل را به صورت تصویر رندر کند. انتخاب عالی برای تبادل اسناد در استانداردهای صنعتی فرمت ها
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert HTML, HTML Converter, HTML to PDF, HTML to Word, HTML to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTML به SVG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="برنامه رایگان و کد نمونه برای تبدیل HTML به SVG آنلاین" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="html" outformat="svg" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="نحوه تبدیل HTML به SVG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- توسعه دهندگان Python می توانند به راحتی HTML را بارگیری و تنها در چند خط کد به SVG تبدیل کنند.
+آیا باید فایل های HTML را به صورت برنامه ریزی شده به SVG تبدیل کنید؟ توسعه دهندگان Python می توانند به راحتی HTML را بارگیری و تنها در چند خط کد به SVG تبدیل کنند.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  'Aspose.Cells for Python via .NET' را نصب کنید.
 1.  یک مرجع کتابخانه (وارد کردن کتابخانه) به پروژه Python خود اضافه کنید.
-1.  فایل HTML را با یک نمونه از Workbook بارگیری کنید
-1.  HTML را با فراخوانی روش Workbook.save به SVG تبدیل کنید
+1.  فایل HTML را با یک نمونه از Workbook بارگیری کنید.
+1.  HTML را با فراخوانی روش Workbook.save به SVG تبدیل کنید.
+1.  نتیجه تبدیل HTML به SVG را دریافت کنید.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/)در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
+ و همچنین می توانید دنبال کنید[دستورالعمل های گام به گام](https://docs.aspose.com/cells/python-net/getting-started/) در مورد نحوه نصب "Aspose.Cells for Python via .NET" در محیط توسعه دهنده خود.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Aspose.Cells for Python را نصب کنید<a href="https://pypi.org/project/as
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python مستقل از پلتفرم API است و می تواند بر روی هر پلتفرمی (Windows، لینوکس) استفاده شود، فقط مطمئن شوید که سیستم دارای[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
+ تلفن[Python](https://www.python.org/downloads/) 3.7 یا بالاتر
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) افزونه ای برای صفحات وب است که برای نمایش در مرورگرها ایجاد شده است. HTML که به عنوان زبان وب شناخته می شود، با الزامات نیازهای اطلاعاتی جدید برای نمایش بخشی از صفحات وب تکامل یافته است. آخرین نوع به نام HTML 5 شناخته می شود که انعطاف پذیری زیادی را برای کار با زبان می دهد. صفحات HTML یا از سرور دریافت می‌شوند، جایی که این صفحات میزبانی می‌شوند، یا می‌توانند از سیستم محلی نیز بارگیری شوند. هر صفحه HTML از HTML عنصر مانند فرم ها، متن، تصاویر، انیمیشن ها، لینک ها و غیره تشکیل شده است. همچنین می تواند برنامه هایی را که به زبان های برنامه نویسی نوشته شده اند مانند جاوا اسکریپت و برگه های سبک (CSS) برای نمایش طرح کلی جاسازی کند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}یک فایل SVG یک فایل گرافیکی اسکالار است که از فرمت متنی مبتنی بر XML برای توصیف ظاهر یک تصویر استفاده می‌کند. کلمه Scalable به این واقعیت اشاره دارد که SVG را می توان در اندازه های مختلف بدون از دست دادن کیفیت مقیاس کرد. توصیف مبتنی بر متن چنین فایل‌هایی آنها را از وضوح مستقل می‌کند. یکی از پرکاربردترین فرمت ها برای ساخت وب سایت و چاپ گرافیک به منظور دستیابی به مقیاس پذیری است. این فرمت فقط برای گرافیک های دو بعدی قابل استفاده است. فایل‌های SVG تقریباً در تمام مرورگرهای مدرن از جمله کروم، اینترنت اکسپلورر، فایرفاکس و سافاری قابل مشاهده/باز هستند.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="سایر تبدیل های پشتیبانی شده" subTitle="شما همچنین می توانید HTML را به بسیاری از فرمت های فایل دیگر از جمله تعداد کمی از آنها که در زیر ذکر شده است تبدیل کنید." >}}
 

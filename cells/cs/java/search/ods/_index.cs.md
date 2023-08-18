@@ -58,7 +58,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru OD
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor ODS vytvořením instance objektu Workbook.
-Přístup k prvnímu listu v souboru ODS.
++ Přístup k prvnímu listu v souboru ODS.
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu

@@ -33,7 +33,7 @@ description: Python Δείγμα κώδικα για τη δημιουργία �
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{% blocks/products/pf/agp/feature-section-col title="Απαιτήσεις συστήματος" %}}
 {{% blocks/products/pf/agp/text %}}
-Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
+ Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
 {{% /blocks/products/pf/agp/text %}}
 - Εγκαταστήστε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 

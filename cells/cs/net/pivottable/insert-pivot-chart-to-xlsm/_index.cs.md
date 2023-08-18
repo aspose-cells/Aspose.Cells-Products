@@ -1,5 +1,5 @@
 ---
-title:  Vložení kontingenčního grafu do souborů Microsoft Excel XLSM přes C#
+title: Vložení kontingenčního grafu do souborů Microsoft Excel XLSM přes C#
 weight: 7690
 description: C# Ukázkový kód pro generování dokumentů XLSM s kontingenčním grafem. Tento kód použijte k vytváření souborů Microsoft Excel XLSM s kontingenčním grafem v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Ukázkový kód pro generování dokumentů XLSM s kontingenčn�
 
 {{% blocks/products/pf/agp/text %}}
 
-Pro vývojáře je snadné vložit kontingenční graf do tabulky formátu XLSM do různých aplikací pro vytváření sestav pro zpracování dat v několika řádcích kódu.
+ Pro vývojáře je snadné vložit kontingenční graf do tabulky formátu XLSM do různých aplikací pro vytváření sestav pro zpracování dat v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -32,7 +32,7 @@ Pro vývojáře je snadné vložit kontingenční graf do tabulky formátu XLSM 
 1.  Získejte požadovanou buňku (buňky) listu a vložte hodnotu do buněk.
 1.  Vložte kontingenční tabulku a nastavte styl
 1.  Vložit kontingenční graf pomocí dat kontingenční tabulky
-1.  Pomocí metody Uložit uložte sešit jako soubor XLSM.
+1. Pomocí metody Uložit uložte sešit jako soubor XLSM.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Sloučit XLS do WORD přes Python
+title: Sloučit XLS do WORD - Sloučit XLS do WORD v Python
 url: /cs/python-java/merger/merge-xls-to-word/ 
-description: Sloučit XLS do WORD Online zdarma. Online zdarma XLS sloučení WORD. Sloučit XLS do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. Python Aspose.Cells. Zdarma online sloučení XLS do formátu uložení WORD. Python Spojte XLS do formátu WORD. Sloučit XLS do WORD v Python. XLS Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLS to WORD in Python., Free Online Python Merge XLS to word., Python Combine XLS to WORD Online for Free., XLS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLS do WORD přes Python" h2="Vysokorychlostní knihovna Python pro sloučení XLS do WORDu. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLS" additionalConversionTag="WORD" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Sloučit XLS do WORD Online zdarma. Online zdarma XLS sloučení WO
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLS do WORD pomocí Python" %}}
 
- Jak sloučit XLS do WORDu? S knihovnou Aspose.Cells for Python můžete snadno sloučit XLS do WORDu pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+Jak sloučím XLS do WORDu? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit XLS do WORDu pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLS do WORD v Python Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit XLS do WORD v Python.
+Následující příklad ukazuje, jak sloučit XLS do WORD v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení XLS do WORDu. Nahrajte soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru WORD. Pokud vytvoříte kód v Python, bude to jednodušší, než to zní. Viz příklad Python, který sloučí XLS do WORDu.
@@ -27,16 +28,18 @@ Postupujte podle jednoduchých kroků pro sloučení XLS do WORDu. Nahrajte soub
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení XLS do WORD online" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online zdarma ke sloučení XLS do WORD v Python" InputFormat="xls" InputFormat2="docx" outformat="docx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLS do WORD přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit XLS do WORDu? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for Python via Java'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
 + Načtěte soubor XLS s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -75,21 +78,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Soubory s příponou XLS představují binární formát souboru Excel. Takové soubory mohou být vytvořeny aplikací Excel Microsoft i jinými podobnými tabulkovými programy, jako je OpenOffice Calc nebo Apple Numbers. Soubor uložený aplikací Excel je známý jako Workbook, kde každý sešit může mít jeden nebo více listů. Data se ukládají a zobrazují uživatelům ve formátu tabulky v listu a mohou zahrnovat číselné hodnoty, textová data, vzorce, externí datová připojení, obrázky a grafy. Aplikace jako Microsoft Excel vám umožňují exportovat data sešitu do několika různých formátů včetně PDF, CSV, XLSX, TXT, HTML, XPS a několika dalších. Formát souboru XLS byl nahrazen otevřenějším a strukturovanějším formátem XLSX s vydáním Microsoft Excel 2007. Nejnovější verze stále poskytují podporu pro vytváření a čtení souborů XLS, i když XLSX je nyní první volbou použití.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="WORD" readMoreLink="https://docs.fileformat.com/word-processing/docx/" >}}DOCX je dobře známý formát pro dokumenty aplikace Word Microsoft. Zaváděný od roku 2007 s vydáním Microsoft Office 2007, struktura tohoto nového formátu dokumentu byla změněna z prostého binárního na kombinaci XML a binárních souborů. Soubory Docx lze otevřít pomocí aplikace Word 2007 a laterálních verzí, ale nikoli pomocí dřívějších verzí MS Word, které podporují přípony souborů DOC.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit xls do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-docx/" name="Sloučit XLS až DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-sql/" name="Sloučit XLS do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-bmp/" name="Sloučit XLS až BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-emf/" name="Sloučit XLS až EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-gif/" name="Sloučit XLS až GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-html/" name="Sloučit XLS až HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-md/" name="Sloučit XLS na MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-mhtml/" name="Sloučit XLS až MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-ods/" name="Sloučit XLS až ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-pdf/" name="Sloučit XLS až PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-png/" name="Sloučit XLS až PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-svg/" name="Sloučit XLS až SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tiff/" name="Sloučit XLS až TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-tsv/" name="Sloučit XLS až TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-txt/" name="Sloučit XLS až TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xls/" name="Sloučit XLS až XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsb/" name="Sloučit XLS až XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsm/" name="Sloučit XLS až XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlsx/" name="Sloučit XLS až XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xlt/" name="Sloučit XLS až XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltm/" name="Sloučit XLS až XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xltx/" name="Sloučit XLS až XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xml/" name="Sloučit XLS do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-xps/" name="Sloučit XLS až XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-json/" name="Sloučit XLS až JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xls-to-jpeg/" name="Sloučit XLS až JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

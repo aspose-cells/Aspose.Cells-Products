@@ -1,7 +1,7 @@
 ---
-title: Převést ODS na PNG Python via Python
-description: Převést ODS na PNG online zdarma. Online zdarma převodník ODS na PNG. Python ODS až PNG. ODS až PNG přes Python.
-keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS to Image
+title: Python ODS až PNG - Online konvertor ODS až PNG
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převést ODS na PNG uložit formát. Python ODS až PNG formát. Uložte si ODS až PNG Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python ODS to PNG saveformat., Free Online ODS to PNG Python., Python Convert ODS to PNG]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést ODS na PNG na Python" h2="Vysokorychlostní knihovna Python pro převod ODS na PNG. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="PNG" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert ODS, ODS Converter, ODS to PDF, ODS to Word, ODS to PPT, ODS t
 
 {{% blocks/products/pf/agp/content h2="Převést ODS na PNG na Python" %}}
 
- Jak převést ODS na PNG? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ODS na PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu ODS na PNG? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ODS na PNG programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod ODS na PNG. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ODS na PNG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="png" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ODS na PNG online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="ods" outformat="png" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést ODS na PNG" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři Python mohou snadno načíst a převést ODS na PNG v několika řádcích kódu.
+Potřebujete převést soubory ODS na PNG programově? Vývojáři Python mohou snadno načíst a převést ODS na PNG v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor ODS s instancí sešitu
-1.  Převeďte ODS na PNG voláním metody Workbook.save
+1.  Načtěte soubor ODS s instancí sešitu.
+1.  Převeďte ODS na PNG voláním metody Workbook.save.
+1.  Získejte výsledek převodu ODS na PNG.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Soubory s příponou .ods představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i dalších operačních systémech může otevřít ODS soubory pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}Soubor PNG (Portable Network Graphics) je formát souboru rastrového obrázku, který používá bezeztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však animace nepodporuje. Formát souboru PNG podporuje bezeztrátovou kompresi obrazu, díky čemuž je mezi uživateli oblíbený. S postupem času se PNG vyvinul jako jeden z široce používaných formátů souborů obrázků.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést ODS na mnoho dalších formátů souborů, včetně několika níže uvedených." >}}
 

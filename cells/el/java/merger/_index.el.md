@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Συγχώνευση πολλών αρχείων Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)Η μέθοδος υποστηρίζει τη συγχώνευση δεδομένων, στυλ και τύπων ενός αρχείου Excel σε ένα νέο υπολογιστικό φύλλο της ίδιας μορφής. Είναι ένας αποτελεσματικός τρόπος για τη συγχώνευση πολλών αρχείων κατά τη χρήση της προσωρινής αποθήκευσης.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για συγχώνευση πολλών αρχείων Excel" %}}
 
 ```cs

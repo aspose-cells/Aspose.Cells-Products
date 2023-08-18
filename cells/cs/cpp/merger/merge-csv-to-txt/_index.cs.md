@@ -1,7 +1,8 @@
 ---
-title:  Sloučit CSV na TXT přes C++
+title: Sloučit CSV až TXT - Sloučit CSV až TXT v C++
 url: /cs/cpp/merger/merge-csv-to-txt/ 
-description: Sloučit CSV až TXT online zdarma. Online zdarma CSV až TXT Fúze. Sloučit CSV do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. C++ Aspose.Cells. Online sloučení zdarma CSV do formátu uložení TXT. C++ Kombinujte formát CSV až TXT. Sloučit CSV až TXT v C++. CSV Sloučit.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge CSV to TXT in C++., Free Online C++ Merge CSV to txt., C++ Combine CSV to TXT Online for Free., CSV Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit CSV na TXT přes C++" h2="Vysokorychlostní knihovna C++ pro sloučení CSV do TXT. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C++. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="CSV" additionalConversionTag="TXT" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Sloučit CSV až TXT online zdarma. Online zdarma CSV až TXT Fúze
 
 {{% blocks/products/pf/agp/content h2="Sloučit CSV až TXT pomocí C++" %}}
 
- Jak sloučit CSV do TXT? S knihovnou Aspose.Cells for C++ můžete snadno sloučit CSV na TXT programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím CSV do TXT? S knihovnou Aspose.Cells for C++ můžete snadno sloučit CSV na TXT programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Sloučit CSV až TXT v C++ Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit CSV až TXT v C++.
+Následující příklad ukazuje, jak sloučit CSV až TXT v Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení CSV do TXT. Nahrajte své soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru TXT. Pokud vytvoříte kód v C++, bude to jednodušší, než to zní. Viz příklad C++, který sloučí CSV do TXT.
@@ -36,16 +37,18 @@ Postupujte podle jednoduchých kroků pro sloučení CSV do TXT. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení CSV až TXT online" InputFormat="csv" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Online zdarma ke sloučení CSV až TXT v C++" InputFormat="csv" InputFormat2="txt" outformat="txt" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit CSV na TXT přes C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit CSV až TXT? Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for C++'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
 + Načtěte soubor CSV s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -63,7 +66,7 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 
 1.  Nainstalujte a[NuGet Balíček](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Nainstalujte knihovnu pomocí složek Include a lib. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Nainstalujte Aspose.Cells for C++ v Linuxu. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Nainstalujte Aspose.Cells for C++ v Linuxu. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Soubory s příponou .csv (Comma Separated Values) představují prosté textové soubory, které obsahují záznamy dat s hodnotami oddělenými čárkami. Každý řádek v souboru CSV je nový záznam ze sady záznamů obsažených v souboru. Takové soubory jsou generovány, když je zamýšlen přenos dat z jednoho úložného systému do druhého. Protože všechny aplikace dokážou rozpoznat záznamy oddělené čárkou, import takových datových souborů do databáze se provádí velmi pohodlně. Téměř všechny tabulkové aplikace, jako je Microsoft Excel nebo OpenOffice Calc, mohou importovat CSV bez velkého úsilí. Data importovaná z takových souborů jsou uspořádána do buněk tabulky pro reprezentaci uživateli.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Soubor s příponou .TXT představuje textový dokument, který obsahuje prostý text ve formě řádků. Odstavce v textovém dokumentu jsou rozpoznány podle konce řádku a slouží k lepšímu uspořádání obsahu souboru. Standardní textový dokument lze otevřít v libovolném textovém editoru nebo aplikaci pro zpracování textu na různých operačních systémech. Veškerý text obsažený v takovém souboru je ve formátu čitelném pro člověka a je reprezentován sekvencí znaků.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí C++ lze také sloučit csv do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-docx/" name="Sloučit CSV až DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-sql/" name="Sloučit CSV do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-bmp/" name="Sloučit CSV až BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-emf/" name="Sloučit CSV až EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-gif/" name="Sloučit CSV až GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-html/" name="Sloučit CSV až HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-md/" name="Sloučit CSV na MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-mhtml/" name="Sloučit CSV až MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-ods/" name="Sloučit CSV až ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-pdf/" name="Sloučit CSV až PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-png/" name="Sloučit CSV až PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-svg/" name="Sloučit CSV až SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tiff/" name="Sloučit CSV až TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-tsv/" name="Sloučit CSV až TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-txt/" name="Sloučit CSV až TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xls/" name="Sloučit CSV až XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsb/" name="Sloučit CSV až XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsm/" name="Sloučit CSV až XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlsx/" name="Sloučit CSV až XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xlt/" name="Sloučit CSV až XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltm/" name="Sloučit CSV až XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xltx/" name="Sloučit CSV až XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xml/" name="Sloučit CSV do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-xps/" name="Sloučit CSV až XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-json/" name="Sloučit CSV až JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-csv-to-jpeg/" name="Sloučit CSV až JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

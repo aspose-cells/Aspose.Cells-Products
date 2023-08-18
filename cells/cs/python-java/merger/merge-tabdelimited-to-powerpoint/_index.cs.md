@@ -1,7 +1,8 @@
 ---
-title:  Sloučit TABDELIMITED do POWERPOINT přes Python
+title: Sloučit TABDELIMITED do POWERPOINT – Sloučit TABDELIMITED do POWERPOINT v Python
 url: /cs/python-java/merger/merge-tabdelimited-to-powerpoint/ 
-description: Sloučit TABDELIMITED do POWERPOINT Online zdarma. Online zdarma Sloučení TABDELIMITED do POWERPOINT. Sloučit TABDELIMITED do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. Python Aspose.Cells. Bezplatné online sloučení TABDELIMITED do formátu uložení POWERPOINT. Python Zkombinujte TABDELIMITED s formátem POWERPOINT. Sloučit TABDELIMITED do POWERPOINT v Python. TABDELIMITED Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TABDELIMITED to POWERPOINT in Python., Free Online Python Merge TABDELIMITED to powerpoint., Python Combine TABDELIMITED to POWERPOINT Online for Free., TABDELIMITED Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit TABDELIMITED do POWERPOINT přes Python" h2="Vysokorychlostní knihovna Python pro sloučení TABDELIMITED do POWERPOINT. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="TABDELIMITED" additionalConversionTag="POWERPOINT" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Sloučit TABDELIMITED do POWERPOINT Online zdarma. Online zdarma Sl
 
 {{% blocks/products/pf/agp/content h2="Sloučit TABDELIMITED do POWERPOINT pomocí Python" %}}
 
- Jak sloučit TABDELIMITED do POWERPOINT? S knihovnou Aspose.Cells for Python můžete snadno sloučit TABDELIMITED do POWERPOINT pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+Jak sloučím TABDELIMITED do POWERPOINT? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit TABDELIMITED do POWERPOINT pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sloučit TABDELIMITED do POWERPOINT na Python Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit TABDELIMITED do POWERPOINT v Python.
+Následující příklad ukazuje, jak sloučit TABDELIMITED do POWERPOINT v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení TABDELIMITED do POWERPOINT. Nahrajte své soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru POWERPOINT. Pokud vytvoříte kód v Python, bude to jednodušší, než to zní. Viz příklad Python, který sloučí TABDELIMITED do POWERPOINT.
@@ -27,16 +28,18 @@ Postupujte podle jednoduchých kroků pro sloučení TABDELIMITED do POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace ke sloučení TABDELIMITED do POWERPOINT online" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online zdarma ke sloučení TABDELIMITED do POWERPOINT na Python" InputFormat="tsv" InputFormat2="pptx" outformat="pptx" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit TABDELIMITED do POWERPOINT přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit TABDELIMITED do POWERPOINT? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for Python via Java'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
 + Načtěte soubor TABDELIMITED s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -75,21 +78,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TABDELIMITED" readMoreLink="https://docs.fileformat.com/spreadsheet/tsv/" >}}Formát souboru Hodnoty oddělené tabulátory (TSV) představuje data oddělená tabulátory ve formátu prostého textu. Formát souboru, podobný CSV, se používá pro organizaci dat strukturovaným způsobem za účelem importu a exportu mezi různými aplikacemi. Formát se primárně používá pro import/export a výměnu dat v tabulkových aplikacích a databázích. Každý záznam v souboru TSV je obsažen v jednom řádku textového souboru, kde je každá hodnota pole oddělena znakem tabulátoru. Typ média pro formát souboru TSV je text/hodnoty oddělené tabulátory.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Soubory s příponou PPTX jsou prezentační soubory vytvořené pomocí oblíbené aplikace Microsoft PowerPoint. Na rozdíl od předchozí verze formátu prezentačního souboru PPT, který byl binární, je formát PPTX založen na formátu otevřeného souboru prezentací XML Microsoft PowerPoint. Soubor prezentace je kolekce snímků, kde každý snímek může obsahovat text, obrázky, formátování, animace a další média. Tyto snímky jsou publiku prezentovány ve formě prezentací s vlastním nastavením prezentace.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit tabulátory s mnoha dalšími formáty souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-docx/" name="Sloučit TABDELIMITED na DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-sql/" name="Sloučit TABDELIMITED do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-bmp/" name="Sloučit TABDELIMITED na BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-emf/" name="Sloučit TABDELIMITED na EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-gif/" name="Sloučit TABDELIMITED na GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-html/" name="Sloučit TABDELIMITED na HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-md/" name="Sloučit TABDELIMITED do MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-mhtml/" name="Sloučit TABDELIMITED na MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-ods/" name="Sloučit TABDELIMITED na ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-pdf/" name="Sloučit TABDELIMITED na PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-png/" name="Sloučit TABDELIMITED na PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-svg/" name="Sloučit TABDELIMITED na SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-tiff/" name="Sloučit TABDELIMITED na TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-tsv/" name="Sloučit TABDELIMITED na TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-txt/" name="Sloučit TABDELIMITED na TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xls/" name="Sloučit TABDELIMITED na XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsb/" name="Sloučit TABDELIMITED na XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsm/" name="Sloučit TABDELIMITED na XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlsx/" name="Sloučit TABDELIMITED na XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xlt/" name="Sloučit TABDELIMITED na XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltm/" name="Sloučit TABDELIMITED na XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xltx/" name="Sloučit TABDELIMITED na XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xml/" name="Sloučit TABDELIMITED do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-xps/" name="Sloučit TABDELIMITED na XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-json/" name="Sloučit TABDELIMITED na JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-tabdelimited-to-jpeg/" name="Sloučit TABDELIMITED na JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

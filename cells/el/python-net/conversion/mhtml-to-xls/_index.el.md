@@ -1,7 +1,7 @@
 ---
-title: Μετατροπή MHTML σε XLS Python via Python
-description: Μετατρέψτε το MHTML σε XLS Online δωρεάν. Δωρεάν Online Μετατροπέας MHTML σε XLS. Python MHTML έως XLS. MHTML έως XLS μέσω Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML έως XLS - Online MHTML έως XLS Μετατροπέας
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή MHTML σε XLS αποθήκευση μορφής. Μορφή Python MHTML έως XLS. Αποθηκεύστε MHTML στο XLS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to XLS saveformat., Free Online MHTML to XLS Python., Python Convert MHTML to XLS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή MHTML σε XLS στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή MHTML σε XLS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή MHTML σε XLS στο Python" %}}
 
- Πώς να μετατρέψετε το MHTML σε XLS; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το MHTML σε XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το MHTML σε XLS; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το MHTML σε XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή MHTML σε XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή MHTML σε XLS Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="xls" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το MHTML σε XLS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το MHTML σε XLS σε λίγες μόνο γραμμές κώδικα.
+Θέλετε να μετατρέψετε αρχεία MHTML σε XLS μέσω προγραμματισμού; Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το MHTML σε XLS σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Python via .NET'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Python.
-1.  Φορτώστε το αρχείο MHTML με μια παρουσία του βιβλίου εργασίας
-1.  Μετατρέψτε το MHTML σε XLS καλώντας τη μέθοδο Workbook.save
+1.  Φορτώστε το αρχείο MHTML με μια παρουσία του βιβλίου εργασίας.
+1.  Μετατρέψτε το MHTML σε XLS καλώντας τη μέθοδο Workbook.save.
+1.  Λάβετε το αποτέλεσμα μετατροπής MHTML σε XLS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/)σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
+ Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/) σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
+ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Τα αρχεία με επέκταση MHTML αντιπροσωπεύουν μια μορφή αρχείου ιστοσελίδων που μπορεί να δημιουργηθεί από μια σειρά από διαφορετικές εφαρμογές. Η μορφή είναι γνωστή ως μορφή αρχειοθέτησης επειδή αποθηκεύει τον κώδικα web HTML και τους σχετικούς πόρους σε ένα μόνο αρχείο. Αυτοί οι πόροι περιλαμβάνουν οτιδήποτε συνδέεται με την ιστοσελίδα, όπως εικόνες, μικροεφαρμογές, κινούμενα σχέδια, αρχεία ήχου και ούτω καθεξής. Τα αρχεία MHTML μπορούν να ανοίξουν σε μια ποικιλία εφαρμογών όπως ο Internet Explorer και το Microsoft Word. Το Microsoft Windows χρησιμοποιεί τη μορφή αρχείου MHTML για την καταγραφή σεναρίων προβλημάτων που παρατηρούνται κατά τη χρήση οποιασδήποτε εφαρμογής στο Windows που εγείρει ζητήματα. Η μορφή αρχείου MHTML κωδικοποιεί τα περιεχόμενα της σελίδας παρόμοια με τις προδιαγραφές που ορίζονται στο μήνυμα/rfc822, το οποίο είναι προδιαγραφές που σχετίζονται με μηνύματα ηλεκτρονικού ταχυδρομείου απλού κειμένου.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Τα αρχεία με επέκταση XLS αντιπροσωπεύουν τη μορφή δυαδικού αρχείου του Excel. Τέτοια αρχεία μπορούν να δημιουργηθούν από το Microsoft Excel καθώς και από άλλα παρόμοια προγράμματα υπολογιστικών φύλλων όπως το OpenOffice Calc ή το Apple Numbers. Το αρχείο που αποθηκεύεται από το Excel είναι γνωστό ως Workbook όπου κάθε βιβλίο εργασίας μπορεί να έχει ένα ή περισσότερα φύλλα εργασίας. Τα δεδομένα αποθηκεύονται και εμφανίζονται στους χρήστες σε μορφή πίνακα σε φύλλο εργασίας και μπορούν να εκτείνονται σε αριθμητικές τιμές, δεδομένα κειμένου, τύπους, εξωτερικές συνδέσεις δεδομένων, εικόνες και γραφήματα. Εφαρμογές όπως το Microsoft Excel σάς επιτρέπουν να εξάγετε δεδομένα βιβλίου εργασίας σε πολλές διαφορετικές μορφές, συμπεριλαμβανομένων των PDF, CSV, XLSX, TXT, HTML, XPS και πολλών άλλων. Η μορφή αρχείου XLS αντικαταστάθηκε με μια πιο ανοιχτή και δομημένη μορφή, XLSX, με την κυκλοφορία του Microsoft Excel 2007. Οι πιο πρόσφατες εκδόσεις εξακολουθούν να παρέχουν υποστήριξη για τη δημιουργία και την ανάγνωση αρχείων XLS, αν και η πρώτη επιλογή που χρησιμοποιείται τώρα είναι το 076114348.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το MHTML σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 

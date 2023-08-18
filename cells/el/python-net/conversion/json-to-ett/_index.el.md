@@ -1,7 +1,7 @@
 ---
-title: Μετατροπή JSON σε ETT Python via Python
-description: Μετατρέψτε το JSON σε ETT Online δωρεάν. Δωρεάν Online Μετατροπέας JSON σε ETT. Python JSON στην ΕΤΤ. JSON στο ETT μέσω Python.
-keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, JSON to Image
+title: Python JSON σε ETT - Online JSON σε ETT Converter
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή JSON σε μορφή αποθήκευσης ETT. Python JSON σε μορφή ETT. Αποθηκεύστε το JSON στο ETT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python JSON to ETT saveformat., Free Online JSON to ETT Python., Python Convert JSON to ETT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το JSON σε ETT στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή JSON σε ETT. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ETT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Μετατρέψτε το JSON σε ETT στο Python" %}}
 
- Πώς να μετατρέψετε το JSON σε ETT; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το JSON σε ETT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το JSON σε ETT; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το JSON σε ETT μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή JSON σε ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή JSON σε ETT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="json" outformat="ett" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το JSON σε ETT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το JSON σε ETT σε λίγες μόνο γραμμές κώδικα.
+Θέλετε να μετατρέψετε αρχεία JSON σε ETT μέσω προγραμματισμού; Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το JSON σε ETT σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Python via .NET'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Python.
-1.  Φορτώστε το αρχείο JSON με μια παρουσία του βιβλίου εργασίας
-1.  Μετατρέψτε το JSON σε ETT καλώντας τη μέθοδο Workbook.save
+1.  Φορτώστε το αρχείο JSON με μια παρουσία του βιβλίου εργασίας.
+1.  Μετατρέψτε το JSON σε ETT καλώντας τη μέθοδο Workbook.save.
+1.  Λάβετε το αποτέλεσμα μετατροπής JSON σε ETT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/)σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
+ Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/) σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert JSON, JSON Converter, JSON to PDF, JSON to Word, JSON to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
+ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="JSON" readMoreLink="https://docs.fileformat.com/web/json/" >}}Το JSON (JavaScript Object Notation) είναι μια ανοιχτή τυπική μορφή αρχείου για κοινή χρήση δεδομένων που χρησιμοποιεί κείμενο αναγνώσιμο από τον άνθρωπο για την αποθήκευση και τη μετάδοση δεδομένων. Τα αρχεία JSON αποθηκεύονται με την επέκταση .json. Το JSON απαιτεί λιγότερη μορφοποίηση και είναι μια καλή εναλλακτική για XML. Το JSON προέρχεται από JavaScript αλλά είναι μια μορφή δεδομένων ανεξάρτητη από τη γλώσσα. Η δημιουργία και η ανάλυση του JSON υποστηρίζεται από πολλές σύγχρονες γλώσσες προγραμματισμού. application/json είναι ο τύπος μέσου που χρησιμοποιείται για το JSON.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ETT" readMoreLink="https://fileinfo.com/extension/ett/" >}}Ένα αρχείο ETT είναι ένα πρότυπο υπολογιστικού φύλλου που δημιουργήθηκε από τα Kingsoft Spreadsheets, ένα πρόγραμμα υπολογιστικών φύλλων που περιλαμβάνεται στη σουίτα του WPS Office. Αποθηκεύει ένα πρότυπο που μπορεί να χρησιμοποιηθεί ως σημείο εκκίνησης για τη δημιουργία νέων υπολογιστικών φύλλων Kingsoft (αρχεία .ET). Τα αρχεία ETT χρησιμοποιούνται συχνά για τη δημιουργία οικονομικών προϋπολογισμών και την οργάνωση δεδομένων.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το JSON σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 

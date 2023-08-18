@@ -1,7 +1,7 @@
 ---
-title: Μετατροπή XLSM σε CSV Python via Python
-description: Μετατρέψτε το XLSM σε CSV Online δωρεάν. Δωρεάν Online Μετατροπέας XLSM σε CSV. Python XLSM έως CSV. XLSM έως CSV μέσω Python.
-keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, XLSM to Image
+title: Python XLSM έως CSV - Online XLSM έως CSV Μετατροπέας
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή XLSM σε CSV αποθήκευση μορφής. Μορφή Python XLSM έως CSV. Αποθηκεύστε XLSM στο CSV Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSM to CSV saveformat., Free Online XLSM to CSV Python., Python Convert XLSM to CSV]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατροπή XLSM σε CSV στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή XLSM σε CSV. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="CSV" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Μετατροπή XLSM σε CSV στο Python" %}}
 
- Πώς να μετατρέψετε το XLSM σε CSV; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSM σε CSV μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XLSM σε CSV; Με το Aspose.Cells for Python μέσω της βιβλιοθήκης NET, μπορείτε εύκολα να μετατρέψετε το XLSM σε CSV μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSM σε CSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XLSM σε CSV Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsm" outformat="csv" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XLSM σε CSV" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το XLSM σε CSV σε λίγες μόνο γραμμές κώδικα.
+Θέλετε να μετατρέψετε αρχεία XLSM σε CSV μέσω προγραμματισμού; Οι προγραμματιστές Python μπορούν εύκολα να φορτώσουν και να μετατρέψουν το XLSM σε CSV σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Python via .NET'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Python.
-1.  Φορτώστε το αρχείο XLSM με μια παρουσία του βιβλίου εργασίας
-1.  Μετατρέψτε το XLSM σε CSV καλώντας τη μέθοδο Workbook.save
+1.  Φορτώστε το αρχείο XLSM με μια παρουσία του βιβλίου εργασίας.
+1.  Μετατρέψτε το XLSM σε CSV καλώντας τη μέθοδο Workbook.save.
+1.  Λάβετε το αποτέλεσμα μετατροπής XLSM σε CSV.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/)σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
+ Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/) σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XLSM, XLSM Converter, XLSM to PDF, XLSM to Word, XLSM to PPT, 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
+ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSM" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsm/" >}}Τα αρχεία με επέκταση XLSM είναι ένας τύπος αρχείων υπολογιστικών φύλλων που υποστηρίζουν μακροεντολές. Από την άποψη της εφαρμογής, μια Μακροεντολή είναι ένα σύνολο οδηγιών που χρησιμοποιούνται για την αυτοματοποίηση των διαδικασιών. Μια μακροεντολή χρησιμοποιείται για την καταγραφή των βημάτων που εκτελούνται επανειλημμένα και διευκολύνει την εκτέλεση των ενεργειών εκτελώντας ξανά τη μακροεντολή. Οι μακροεντολές προγραμματίζονται με το Visual Basic for Applications (VBA) του Microsoft μέσα από το Βιβλίο εργασίας του Excel χρησιμοποιώντας τον Επεξεργαστή Visual Basic και μπορούν να εκτελεστούν/εντοπιστούν σφάλματα απευθείας από εκεί.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Τα αρχεία με επέκταση .csv (Τιμές διαχωρισμένες με κόμματα) αντιπροσωπεύουν αρχεία απλού κειμένου που περιέχουν εγγραφές δεδομένων με τιμές διαχωρισμένες με κόμμα. Κάθε γραμμή σε ένα αρχείο CSV είναι μια νέα εγγραφή από το σύνολο εγγραφών που περιέχεται στο αρχείο. Τέτοια αρχεία δημιουργούνται όταν η μεταφορά δεδομένων προορίζεται από το ένα σύστημα αποθήκευσης στο άλλο. Δεδομένου ότι όλες οι εφαρμογές μπορούν να αναγνωρίσουν εγγραφές που χωρίζονται με κόμμα, η εισαγωγή τέτοιων αρχείων δεδομένων στη βάση δεδομένων γίνεται πολύ εύκολα. Σχεδόν όλες οι εφαρμογές υπολογιστικών φύλλων, όπως το Microsoft Excel ή το OpenOffice Calc, μπορούν να εισάγουν το CSV χωρίς μεγάλη προσπάθεια. Τα δεδομένα που εισάγονται από τέτοια αρχεία ταξινομούνται σε κελιά ενός υπολογιστικού φύλλου για αναπαράσταση στον χρήστη.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε το XLSM σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 

@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Cells
 
  Potřebujete
  [aspose.cells.dll](https://downloads.aspose.com/cells/net) 
-vyzkoušet následující pracovní postup ve svém vlastním prostředí.
+ vyzkoušet následující pracovní postup ve svém vlastním prostředí.
 
 {{% /blocks/products/pf/agp/text %}}
 

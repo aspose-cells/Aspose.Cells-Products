@@ -1,7 +1,8 @@
 ---
-title:  Sloučit OTS do MHT přes C#
+title: Sloučit OTS s MHT – Zkombinujte OTS s MHT v C#
 url: /cs/net/merger/merge-ots-to-mht/ 
-description: Sloučit OTS do MHT Online zdarma. Bezplatné online spojení OTS do MHT. Sloučit OTS do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. C# Aspose.Cells. Online zdarma Sloučit OTS do formátu MHT. C# Zkombinujte formát OTS s formátem MHT. Sloučit OTS do MHT na C#. Sloučit OTS.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge OTS to MHT in C#., Free Online C# Merge OTS to mht., C# Combine OTS to MHT Online for Free., OTS Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit OTS do MHT přes C#" h2="Vysokorychlostní knihovna C# pro sloučení OTS do MHT. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="OTS" additionalConversionTag="MHT" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Sloučit OTS do MHT Online zdarma. Bezplatné online spojení OTS d
 
 {{% blocks/products/pf/agp/content h2="Sloučit OTS do MHT pomocí C#" %}}
 
-Jak sloučit OTS do MHT? S knihovnou Aspose.Cells for .NET můžete snadno sloučit OTS do MHT programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím OTS do MHT? S knihovnou Aspose.Cells for .NET můžete snadno sloučit OTS do MHT programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Sloučit OTS do MHT v C# Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit OTS do MHT v C#.
+Následující příklad ukazuje, jak sloučit OTS do MHT v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení OTS s MHT. Nahrajte soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru MHT. Pokud vytvoříte kód v C#, bude to jednodušší, než to zní. Viz příklad C#, který spojuje OTS s MHT.
@@ -36,17 +37,19 @@ Postupujte podle jednoduchých kroků pro sloučení OTS s MHT. Nahrajte soubory
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení OTS do MHT online" InputFormat="ots" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online zdarma ke sloučení OTS do MHT na čísle C#" InputFormat="ots" InputFormat2="mht" outformat="mht" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit OTS do MHT přes C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit OTS do MHT? Základní dokument, který se spojuje a spojuje[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Načtěte soubor OTS s třídou Workbook.
++ Nainstalujte 'Aspose.Cells for .NET'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C#.
++ Načtěte soubor OTS s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
 + Nyní můžete otevřít a použít výstupní soubor v Microsoft Office, Adobe PDF nebo v jakémkoli jiném kompatibilním programu.
@@ -62,7 +65,7 @@ Existují dvě alternativní možnosti instalace „Aspose.Cells for .NET“ do 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte a[NuGet Balíček](https://www.nuget.org/packages/Aspose.Cells/) . Vidět[Dokumentace](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Nainstalujte knihovnu pomocí[Konzole správce balíčků](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) rámci Visual Studio IDE
+1.  Nainstalujte knihovnu pomocí[Konzole správce balíčků](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) v rámci Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="OTS" readMoreLink="https://docs.fileformat.com/spreadsheet/ots/" >}}Soubor s příponou .ots je soubor šablony OpenDocument Spreadsheet Template, který je vytvořen pomocí aplikačního softwaru Calc, který je součástí Apache OpenOffice. Aplikační software Calc je podobný softwaru Excelu, který je k dispozici v Office Microsoft. Formát souboru OTS se používá k vytváření šablon, které obsahují předdefinovaná nastavení týkající se stylů, písma, dat, rozložení tabulky a formátování. Soubory OTF mají typ mime application/vnd.oasis.opendocument.spreadsheet-template. Tyto soubory šablon lze použít jako výchozí bod pro generování a ukládání skutečných datových souborů, které jsou uloženy ve formátu souboru ODS. Soubory OTS lze používat s aplikacemi, jako jsou OpenOffice a LibreOffice.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHT" readMoreLink="https://docs.fileformat.com/web/mht/" >}}Soubor s příponou .mht je formát archivačního souboru s povoleným MIME, který obsahuje různé typy dat do jednoho souboru. Může ukládat data jako text, obrázky, styly stránek ve formě souborů CSS, JavaScript a další zdroje jako vložené prostředky. Soubory MHT, které mají typ MIME message/rfc822, zapouzdřují veškerý obsah souboru HTML jako jeden archivní soubor pro uložení při archivaci na úložných zařízeních. Softwarové aplikace, jako je Microsoft Word, vám umožní převést dokumenty WORD na MHT exportem jako soubor MHT. Soubory MHT lze otevřít pomocí oblíbených prohlížečů, jako je Microsoft Internet Explore a Google Chrome.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí C# lze také sloučit ots do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-docx/" name="Sloučit OTS na DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-sql/" name="Sloučit OTS do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-bmp/" name="Sloučit OTS na BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-emf/" name="Sloučit OTS na EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-gif/" name="Sloučit OTS na GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-html/" name="Sloučit OTS na HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-md/" name="Sloučit OTS do MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-mhtml/" name="Sloučit OTS na MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-ods/" name="Sloučit OTS na ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-pdf/" name="Sloučit OTS na PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-png/" name="Sloučit OTS na PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-svg/" name="Sloučit OTS na SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tiff/" name="Sloučit OTS na TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-tsv/" name="Sloučit OTS na TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-txt/" name="Sloučit OTS na TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xls/" name="Sloučit OTS na XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsb/" name="Sloučit OTS na XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsm/" name="Sloučit OTS na XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlsx/" name="Sloučit OTS na XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xlt/" name="Sloučit OTS na XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltm/" name="Sloučit OTS na XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xltx/" name="Sloučit OTS na XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xml/" name="Sloučit OTS do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-xps/" name="Sloučit OTS na XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-json/" name="Sloučit OTS na JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-ots-to-jpeg/" name="Sloučit OTS na JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Συγχώνευση XLTM σε XLSB μέσω C++
+title: Συγχώνευση XLTM σε XLSB - Συνδυάστε XLTM σε XLSB στο C++
 url: /el/cpp/merger/merge-xltm-to-xlsb/ 
-description: Συγχώνευση XLTM σε XLSB Online δωρεάν. Δωρεάν Online XLTM έως XLSB Συγχώνευση. Συγχώνευση XLTM σε Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS και άλλα.
+description: Aspose Excel. C++ Aspose.Cells. Δωρεάν Online Συγχώνευση XLTM σε XLSB saveformat. C++ Συνδυάστε τη μορφή XLTM με XLSB. Συγχώνευση XLTM σε XLSB στο C++. XLTM Συγχώνευση.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge XLTM to XLSB in C++., Free Online C++ Merge XLTM to xlsb., C++ Combine XLTM to XLSB Online for Free., XLTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLTM σε XLSB μέσω C++" h2="Βιβλιοθήκη υψηλής ταχύτητας C++ για συγχώνευση XLTM με XLSB. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο C++. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="XLTM" additionalConversionTag="XLSB" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Συγχώνευση XLTM σε XLSB Online δωρεάν. Δωρεά
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLTM σε XLSB χρησιμοποιώντας C++" %}}
 
- Πώς να συγχωνεύσω το XLTM με το XLSB; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το XLTM με το XLSB μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
+ Πώς μπορώ να συγχωνεύσω το XLTM με το XLSB; Με τη βιβλιοθήκη Aspose.Cells for C++, μπορείτε εύκολα να συγχωνεύσετε το XLTM με το XLSB μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. C++ Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να κατεβάσετε την τελευταία του έκδοση απευθείας, απλά ανοίξτε[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) διαχειριστής πακέτων, αναζητήστε Aspose.Cells.Cpp και εγκαταστήστε. Μπορείτε επίσης να χρησιμοποιήσετε την ακόλουθη εντολή από την Κονσόλα Package Manager.
 
 {{% blocks/products/pf/agp/code-block title="Εντολή" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLTM στο XLSB στο C++ Δωρεάν Online" %}}
 
-Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLTM με το XLSB στο C++.
+Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLTM με το XLSB στο Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Ακολουθήστε τα εύκολα βήματα για τη συγχώνευση XLTM με XLSB. Ανεβάστε τα αρχεία σας, καλέστε το Βιβλίο εργασίας. Συνδυάστε τη μέθοδο συγχώνευσης αρχείων και, στη συνέχεια, αποθηκεύστε το στο αρχείο XLSB. Εάν αναπτύξετε κωδικό στο C++, αυτό θα είναι πιο απλό από ό,τι ακούγεται. Δείτε το παράδειγμα C++ που συγχωνεύει το XLTM με το XLSB.
@@ -36,16 +37,18 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν εφαρμογή για συγχώνευση XLTM με XLSB σε απευθείας σύνδεση" InputFormat="xltm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Δωρεάν online για συγχώνευση XLTM με XLSB στο C++" InputFormat="xltm" InputFormat2="xlsb" outformat="xlsb" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το XLTM στο XLSB μέσω του C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το XLTM με το XLSB μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Εγκαταστήστε το 'Aspose.Cells for C++'.
++ Προσθέστε μια αναφορά βιβλιοθήκης (εισαγωγή της βιβλιοθήκης) στο έργο σας C++.
 + Φορτώστε το αρχείο XLTM με την κλάση Βιβλίο εργασίας.
 + Καλέστε τη μέθοδο Workbook.Combine για τη συγχώνευση αρχείων.
 + Καλέστε τη μέθοδο Workbook.Save και μεταβιβάστε το όνομα του αρχείου εξόδου ως παράμετρο.
@@ -63,7 +66,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 1.  Εγκαταστήστε α[NuGet Πακέτο](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Βλέπω[Τεκμηρίωση](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Εγκαταστήστε τη βιβλιοθήκη χρησιμοποιώντας τους φακέλους Include και lib. Βλέπω[Τεκμηρίωση](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Εγκαταστήστε το Aspose.Cells for C++ σε Linux. Βλέπω[Τεκμηρίωση](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Εγκαταστήστε το Aspose.Cells for C++ σε Linux. Βλέπω[Τεκμηρίωση](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Η επέκταση αρχείου XLTM αντιπροσωπεύει αρχεία που δημιουργούνται από το Microsoft Excel ως αρχεία προτύπων με δυνατότητα Macro. Τα αρχεία XLTM έχουν παρόμοια δομή με το XLTX, εκτός από το ότι το τελευταίο δεν υποστηρίζει τη δημιουργία αρχείων προτύπων με μακροεντολές. Τέτοια αρχεία προτύπων χρησιμοποιούνται για τη δημιουργία και τη ρύθμιση της διάταξης, της μορφοποίησης και άλλων ρυθμίσεων μαζί με τις μακροεντολές για τη διευκόλυνση της δημιουργίας παρόμοιων αρχείων XLSX στη συνέχεια.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Η μορφή αρχείου XLSB καθορίζει τη μορφή δυαδικού αρχείου του Excel, η οποία είναι μια συλλογή εγγραφών και δομών που καθορίζουν το περιεχόμενο του βιβλίου εργασίας του Excel. Το περιεχόμενο μπορεί να περιλαμβάνει αδόμητους ή ημι-δομημένους πίνακες αριθμών, κείμενο ή και αριθμούς και κείμενο, τύπους, εξωτερικές συνδέσεις δεδομένων, γραφήματα και εικόνες. Σε αντίθεση με το XLSX (το οποίο βασίζεται σε μορφή αρχείου Open XML), το XLSB αντιπροσωπεύει το δυαδικό αρχείο βιβλίου εργασίας του Excel. Τα αρχεία XLSB μπορούν να διαβαστούν και να γραφτούν ταχύτερα, γεγονός που τα καθιστά χρήσιμα για εργασία με μεγάλα αρχεία. Το XLSB χρησιμοποιείται σπάνια για την αποθήκευση βιβλίων εργασίας, καθώς το XLSX (και παλαιότερα το XLS) είναι οι πιο συνηθισμένες μορφές αρχείων που επιλέγονται από τον χρήστη για την αποθήκευση βιβλίων εργασίας. Μπορεί να ανοίξει από το Microsoft Office 2007 και άνω.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές συγχώνευσης" subTitle="Χρησιμοποιώντας το C++, το One μπορεί επίσης να συγχωνεύσει το xltm με πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-html/" name="HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-mhtml/" name="MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tsv/" name="TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-txt/" name="TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlt/" name="XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltm/" name="XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltx/" name="XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-docx/" name="Συγχώνευση XLTM με DOCX" description="Microsoft Έγγραφο Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-sql/" name="Συγχώνευση XLTM σε SQL" description="Γλώσσα δομημένης ερώτησης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-bmp/" name="Συγχώνευση XLTM με BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-emf/" name="Συγχώνευση XLTM με EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-gif/" name="Συγχώνευση XLTM με GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-html/" name="Συγχώνευση XLTM με HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-md/" name="Συγχώνευση XLTM σε MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-mhtml/" name="Συγχώνευση XLTM με MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-ods/" name="Συγχώνευση XLTM με ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-pdf/" name="Συγχώνευση XLTM με PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-png/" name="Συγχώνευση XLTM με PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-svg/" name="Συγχώνευση XLTM με SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tiff/" name="Συγχώνευση XLTM με TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-tsv/" name="Συγχώνευση XLTM με TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-txt/" name="Συγχώνευση XLTM με TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xls/" name="Συγχώνευση XLTM με XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsb/" name="Συγχώνευση XLTM με XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsm/" name="Συγχώνευση XLTM με XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlsx/" name="Συγχώνευση XLTM με XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xlt/" name="Συγχώνευση XLTM με XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltm/" name="Συγχώνευση XLTM με XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xltx/" name="Συγχώνευση XLTM με XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xml/" name="Συγχώνευση XLTM σε XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-xps/" name="Συγχώνευση XLTM με XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-json/" name="Συγχώνευση XLTM με JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-xltm-to-jpeg/" name="Συγχώνευση XLTM με JPEG" description="JPEG Εικόνα" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

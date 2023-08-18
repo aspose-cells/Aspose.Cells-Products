@@ -12,7 +12,7 @@ description: Python tabulková knihovna pro vytváření souborů Excel pro čte
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
+Aspose.Cells for Python via Java je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a dokáže vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -419,7 +419,7 @@ Pokročilé Python Excel API Funkce
     </p>
     <div class="codeblock" id="code">
      <h3>
- Uložte tabulku v různých formátech - Java
+Uložte tabulku v různých formátech - Java
      </h3>
      <pre><code class="java">
 // load file to be converted
@@ -460,7 +460,7 @@ wkbk.save(SD_PATH + "houtput.html", SaveFormat.HTML);</code></pre>
  Flexibilní možnosti zobrazení
     </h2>
     <p>
-Aspose.Cells for Python via Java poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí panelů zmrazení, velikosti papíru, měřítka, záhlaví &amp; zápatí a oblast tisku.
+ Aspose.Cells for Python via Java poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí panelů zmrazení, velikosti papíru, měřítka, záhlaví &amp; zápatí a oblast tisku.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -491,7 +491,7 @@ Aspose.Cells for Python via Java poskytuje plnou kontrolu nad nastavením strán
  Přizpůsobení grafů
     </h2>
     <p>
- Aspose.Cells for Python via Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
+Aspose.Cells for Python via Java poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
     </p>
    </div>
    <!--

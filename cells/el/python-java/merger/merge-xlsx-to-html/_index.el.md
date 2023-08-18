@@ -1,7 +1,8 @@
 ---
-title:  Συγχώνευση XLSX σε HTML μέσω Python
+title: Συγχώνευση XLSX σε HTML - Συνδυάστε XLSX σε HTML στο Python
 url: /el/python-java/merger/merge-xlsx-to-html/ 
-description: Συγχώνευση XLSX σε HTML Online δωρεάν. Δωρεάν Online XLSX έως HTML Συγχώνευση. Συγχώνευση XLSX σε Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS και άλλα.
+description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση XLSX σε HTML saveformat. Python Συνδυάστε τη μορφή XLSX με HTML. Συγχώνευση XLSX σε HTML στο Python. XLSX Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLSX to HTML in Python., Free Online Python Merge XLSX to html., Python Combine XLSX to HTML Online for Free., XLSX Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση XLSX σε HTML μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση XLSX με HTML. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLSX" additionalConversionTag="HTML" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Συγχώνευση XLSX σε HTML Online δωρεάν. Δωρεά
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLSX σε HTML χρησιμοποιώντας Python" %}}
 
- Πώς να συγχωνεύσω το XLSX με το HTML; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να συγχωνεύσετε το XLSX με το HTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
+ Πώς μπορώ να συγχωνεύσω το XLSX με το HTML; Με τη βιβλιοθήκη Aspose.Cells for Python via Java, μπορείτε εύκολα να συγχωνεύσετε το XLSX με το HTML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via Java από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση XLSX στο HTML στο Python Δωρεάν Online" %}}
 
-Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το XLSX με το HTML στο Python.
+Το παρακάτω παράδειγμα δείχνει πώς να συγχωνεύσετε το XLSX με το HTML στο Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Ακολουθήστε τα εύκολα βήματα για τη συγχώνευση XLSX με HTML. Ανεβάστε τα αρχεία σας, καλέστε το Βιβλίο εργασίας. Συνδυάστε τη μέθοδο συγχώνευσης αρχείων και, στη συνέχεια, αποθηκεύστε το στο αρχείο HTML. Εάν αναπτύξετε κωδικό στο Python, αυτό θα είναι πιο απλό από ό,τι ακούγεται. Δείτε το παράδειγμα Python που συγχωνεύει το XLSX με το HTML.
@@ -27,16 +28,18 @@ description: Συγχώνευση XLSX σε HTML Online δωρεάν. Δωρεά
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν εφαρμογή για συγχώνευση XLSX με HTML σε απευθείας σύνδεση" InputFormat="xlsx" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Δωρεάν online για συγχώνευση XLSX με HTML στο Python" InputFormat="xlsx" InputFormat2="html" outformat="html" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το XLSX στο HTML μέσω του Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το XLSX με το HTML μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Εγκαταστήστε το 'Aspose.Cells for Python via Java'.
++ Προσθέστε μια αναφορά βιβλιοθήκης (εισαγωγή της βιβλιοθήκης) στο έργο σας Python.
 + Φορτώστε το αρχείο XLSX με την κλάση Βιβλίο εργασίας.
 + Καλέστε τη μέθοδο Workbook.Combine για τη συγχώνευση αρχείων.
 + Καλέστε τη μέθοδο Workbook.Save και μεταβιβάστε το όνομα του αρχείου εξόδου ως παράμετρο.
@@ -75,21 +78,41 @@ description: Συγχώνευση XLSX σε HTML Online δωρεάν. Δωρεά
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}Το XLSX είναι γνωστή μορφή για έγγραφα Excel Microsoft που εισήχθη από τον Microsoft με την κυκλοφορία του Microsoft Office 2007. Βάσει δομής οργανωμένης σύμφωνα με τις Συμβάσεις Ανοιχτής Συσκευασίας όπως περιγράφεται στο Μέρος 2 του νέου προτύπου OOX37 είναι το πρότυπο ECMA ένα πακέτο zip που περιέχει έναν αριθμό αρχείων XML. Η υποκείμενη δομή και τα αρχεία μπορούν να εξεταστούν απλά αποσυμπιέζοντας το αρχείο .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}HTML (Hyper Text Markup Language) είναι η επέκταση για ιστοσελίδες που δημιουργούνται για εμφάνιση σε προγράμματα περιήγησης. Γνωστό ως γλώσσα του ιστού, το HTML έχει εξελιχθεί με τις απαιτήσεις νέων απαιτήσεων πληροφοριών να εμφανίζονται ως μέρος ιστοσελίδων. Η τελευταία παραλλαγή είναι γνωστή ως HTML 5 που δίνει μεγάλη ευελιξία στην εργασία με τη γλώσσα. Οι σελίδες HTML είτε λαμβάνονται από τον διακομιστή, όπου φιλοξενούνται, είτε μπορούν να φορτωθούν και από το τοπικό σύστημα. Κάθε σελίδα HTML αποτελείται από HTML στοιχεία, όπως φόρμες, κείμενο, εικόνες, κινούμενα σχέδια, συνδέσμους κ.λπ. Αυτά τα στοιχεία αντιπροσωπεύονται από ετικέτες και πολλές άλλες, όπου κάθε ετικέτα έχει αρχή και τέλος. Μπορεί επίσης να ενσωματώσει εφαρμογές γραμμένες σε γλώσσες δέσμης ενεργειών όπως JavaScript και Style Sheets (CSS) για συνολική αναπαράσταση διάταξης.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές συγχώνευσης" subTitle="Χρησιμοποιώντας το Python, το One μπορεί επίσης να συγχωνεύσει το xlsx με πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-html/" name="HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-mhtml/" name="MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tsv/" name="TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-txt/" name="TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlt/" name="XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltm/" name="XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltx/" name="XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-docx/" name="Συγχώνευση XLSX με DOCX" description="Microsoft Έγγραφο Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-sql/" name="Συγχώνευση XLSX σε SQL" description="Γλώσσα δομημένης ερώτησης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-bmp/" name="Συγχώνευση XLSX με BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-emf/" name="Συγχώνευση XLSX με EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-gif/" name="Συγχώνευση XLSX με GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-html/" name="Συγχώνευση XLSX με HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-md/" name="Συγχώνευση XLSX σε MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-mhtml/" name="Συγχώνευση XLSX με MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-ods/" name="Συγχώνευση XLSX με ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-pdf/" name="Συγχώνευση XLSX με PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-png/" name="Συγχώνευση XLSX με PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-svg/" name="Συγχώνευση XLSX με SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tiff/" name="Συγχώνευση XLSX με TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-tsv/" name="Συγχώνευση XLSX με TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-txt/" name="Συγχώνευση XLSX με TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xls/" name="Συγχώνευση XLSX με XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsb/" name="Συγχώνευση XLSX με XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsm/" name="Συγχώνευση XLSX με XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlsx/" name="Συγχώνευση XLSX με XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xlt/" name="Συγχώνευση XLSX με XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltm/" name="Συγχώνευση XLSX με XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xltx/" name="Συγχώνευση XLSX με XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xml/" name="Συγχώνευση XLSX σε XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-xps/" name="Συγχώνευση XLSX με XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-json/" name="Συγχώνευση XLSX με JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlsx-to-jpeg/" name="Συγχώνευση XLSX με JPEG" description="JPEG Εικόνα" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,7 +1,8 @@
 ---
-title:  Συγχώνευση MHTML σε XLS μέσω Python
+title: Συγχώνευση MHTML σε XLS - Συνδυάστε MHTML σε XLS στο Python
 url: /el/python-net/merger/merge-mhtml-to-xls/ 
-description: Συγχώνευση MHTML σε XLS Online δωρεάν. Δωρεάν Online MHTML έως XLS Συγχώνευση. Συγχώνευση MHTML σε Word, Excel, PPTX, PDF, JPG, HTML, ODS, SVG, XPS και άλλα.
+description: Aspose Excel. Python Aspose.Cells. Δωρεάν Online Συγχώνευση MHTML σε XLS saveformat. Python Συνδυάστε τη μορφή MHTML με XLS. Συγχώνευση MHTML σε XLS στο Python. MHTML Συγχώνευση.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge MHTML to XLS in Python., Free Online Python Merge MHTML to xls., Python Combine MHTML to XLS Online for Free., MHTML Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Συγχώνευση MHTML σε XLS μέσω Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για συγχώνευση MHTML με XLS. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από την πλατφόρμα στο Python. Αυτή είναι μια επαγγελματική λύση λογισμικού για εισαγωγή και εξαγωγή 5 άλλων μορφών excel 076, πολλών και πολλών μορφών excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="MHTML" additionalConversionTag="XLS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Συγχώνευση MHTML σε XLS Online δωρεάν. Δωρεά
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση MHTML σε XLS χρησιμοποιώντας Python" %}}
 
- Πώς να συγχωνεύσω το MHTML με το XLS; Με τη βιβλιοθήκη Aspose.Cells for Python, μπορείτε εύκολα να συγχωνεύσετε το MHTML με το XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells-python) έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python από<a href="https://pypi.org/project/aspose-cells/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
+ Πώς μπορώ να συγχωνεύσω το MHTML με το XLS; Με τη βιβλιοθήκη Aspose.Cells for Python via .NET, μπορείτε εύκολα να συγχωνεύσετε το MHTML με το XLS μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python via .NET](https://pypi.org/project/aspose-cells-python)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές. Μπορείτε να εγκαταστήσετε το Aspose.Cells for Python via .NET από<a href="https://pypi.org/project/aspose-cells-python/">pypi</a> , χρησιμοποιήστε την εντολή ως:<code>$ pip install aspose-cells-python</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Συγχώνευση MHTML στο XLS στο Python Δωρεάν Online" %}}
 
-Το ακόλουθο παράδειγμα δείχνει πώς να συγχωνεύσετε το MHTML με το XLS στο Python.
+Το παρακάτω παράδειγμα δείχνει πώς να συγχωνεύσετε το MHTML με το XLS στο Aspose.Cells for Python via .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Ακολουθήστε τα εύκολα βήματα για τη συγχώνευση MHTML με XLS. Ανεβάστε τα αρχεία σας, καλέστε το Βιβλίο εργασίας. Συνδυάστε τη μέθοδο συγχώνευσης αρχείων και, στη συνέχεια, αποθηκεύστε το στο αρχείο XLS. Εάν αναπτύξετε κωδικό στο Python, αυτό θα είναι πιο απλό από ό,τι ακούγεται. Δείτε το παράδειγμα Python που συγχωνεύει το MHTML με το XLS.
@@ -27,16 +28,18 @@ description: Συγχώνευση MHTML σε XLS Online δωρεάν. Δωρεά
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Δωρεάν εφαρμογή για συγχώνευση MHTML με XLS σε απευθείας σύνδεση" InputFormat="mhtml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-merger title="Δωρεάν online για συγχώνευση MHTML με XLS στο Python" InputFormat="mhtml" InputFormat2="xls" outformat="xls" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να συγχωνεύσετε το MHTML στο XLS μέσω του Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python](https://products.aspose.com/cells/python-net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+ Θέλετε να συγχωνεύσετε το MHTML με το XLS μέσω προγραμματισμού; Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Python via .NET](https://products.aspose.com/cells/python-net) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Εγκαταστήστε το 'Aspose.Cells for Python via .NET'.
++ Προσθέστε μια αναφορά βιβλιοθήκης (εισαγωγή της βιβλιοθήκης) στο έργο σας Python.
 + Φορτώστε το αρχείο MHTML με την κλάση Βιβλίο εργασίας.
 + Καλέστε τη μέθοδο Workbook.Combine για τη συγχώνευση αρχείων.
 + Καλέστε τη μέθοδο Workbook.Save και μεταβιβάστε το όνομα του αρχείου εξόδου ως παράμετρο.
@@ -53,7 +56,7 @@ description: Συγχώνευση MHTML σε XLS Online δωρεάν. Δωρεά
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/)σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
+ Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/) σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
 {{% /blocks/products/pf/agp/text %}}
 
 
@@ -74,21 +77,41 @@ description: Συγχώνευση MHTML σε XLS Online δωρεάν. Δωρεά
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Τα αρχεία με επέκταση MHTML αντιπροσωπεύουν μια μορφή αρχείου ιστοσελίδων που μπορεί να δημιουργηθεί από μια σειρά από διαφορετικές εφαρμογές. Η μορφή είναι γνωστή ως μορφή αρχειοθέτησης επειδή αποθηκεύει τον κώδικα web HTML και τους σχετικούς πόρους σε ένα μόνο αρχείο. Αυτοί οι πόροι περιλαμβάνουν οτιδήποτε συνδέεται με την ιστοσελίδα, όπως εικόνες, μικροεφαρμογές, κινούμενα σχέδια, αρχεία ήχου και ούτω καθεξής. Τα αρχεία MHTML μπορούν να ανοίξουν σε μια ποικιλία εφαρμογών όπως ο Internet Explorer και το Microsoft Word. Το Microsoft Windows χρησιμοποιεί τη μορφή αρχείου MHTML για την καταγραφή σεναρίων προβλημάτων που παρατηρούνται κατά τη χρήση οποιασδήποτε εφαρμογής στο Windows που εγείρει ζητήματα. Η μορφή αρχείου MHTML κωδικοποιεί τα περιεχόμενα της σελίδας παρόμοια με τις προδιαγραφές που ορίζονται στο μήνυμα/rfc822, το οποίο είναι προδιαγραφές που σχετίζονται με μηνύματα ηλεκτρονικού ταχυδρομείου απλού κειμένου.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLS" readMoreLink="https://docs.fileformat.com/spreadsheet/xls/" >}}Τα αρχεία με επέκταση XLS αντιπροσωπεύουν τη μορφή δυαδικού αρχείου του Excel. Τέτοια αρχεία μπορούν να δημιουργηθούν από το Microsoft Excel καθώς και από άλλα παρόμοια προγράμματα υπολογιστικών φύλλων όπως το OpenOffice Calc ή το Apple Numbers. Το αρχείο που αποθηκεύεται από το Excel είναι γνωστό ως Workbook όπου κάθε βιβλίο εργασίας μπορεί να έχει ένα ή περισσότερα φύλλα εργασίας. Τα δεδομένα αποθηκεύονται και εμφανίζονται στους χρήστες σε μορφή πίνακα σε φύλλο εργασίας και μπορούν να εκτείνονται σε αριθμητικές τιμές, δεδομένα κειμένου, τύπους, εξωτερικές συνδέσεις δεδομένων, εικόνες και γραφήματα. Εφαρμογές όπως το Microsoft Excel σάς επιτρέπουν να εξάγετε δεδομένα βιβλίου εργασίας σε πολλές διαφορετικές μορφές, συμπεριλαμβανομένων των PDF, CSV, XLSX, TXT, HTML, XPS και πολλών άλλων. Η μορφή αρχείου XLS αντικαταστάθηκε με μια πιο ανοιχτή και δομημένη μορφή, XLSX, με την κυκλοφορία του Microsoft Excel 2007. Οι πιο πρόσφατες εκδόσεις εξακολουθούν να παρέχουν υποστήριξη για τη δημιουργία και την ανάγνωση αρχείων XLS, αν και η πρώτη επιλογή που χρησιμοποιείται τώρα είναι το 076114348.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μορφές συγχώνευσης" subTitle="Χρησιμοποιώντας το Python, το One μπορεί επίσης να συγχωνεύσει το mhtml με πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-html/" name="HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-mhtml/" name="MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-ods/" name="ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tsv/" name="TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-txt/" name="TXT" description="Έγγραφο κειμένου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xls/" name="XLS" description="Δυαδική μορφή Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsb/" name="XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsm/" name="XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsx/" name="XLSX" description="Αρχείο Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlt/" name="XLT" description="Microsoft Πρότυπο Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltm/" name="XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltx/" name="XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-docx/" name="Συγχώνευση MHTML με DOCX" description="Microsoft Έγγραφο Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-sql/" name="Συγχώνευση MHTML σε SQL" description="Γλώσσα δομημένης ερώτησης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-bmp/" name="Συγχώνευση MHTML με BMP" description="Εικόνα Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-emf/" name="Συγχώνευση MHTML με EMF" description="Βελτιωμένη μορφή μετα-αρχείου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-gif/" name="Συγχώνευση MHTML με GIF" description="Μορφή γραφικής ανταλλαγής" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-html/" name="Συγχώνευση MHTML με HTML" description="Γλώσσα σήμανσης υπερκειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-md/" name="Συγχώνευση MHTML σε MD" description="Γλώσσα Markdown" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-mhtml/" name="Συγχώνευση MHTML με MHTML" description="Μορφή αρχείου ιστοσελίδας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-ods/" name="Συγχώνευση MHTML με ODS" description="Αρχείο Υπολογιστικού Φύλλου OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-pdf/" name="Συγχώνευση MHTML με PDF" description="Μορφή φορητού εγγράφου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-png/" name="Συγχώνευση MHTML με PNG" description="Φορητά γραφικά δικτύου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-svg/" name="Συγχώνευση MHTML με SVG" description="Κλιμακόμενα διανυσματικά γραφικά" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tiff/" name="Συγχώνευση MHTML με TIFF" description="Με ετικέτα Μορφή εικόνας" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-tsv/" name="Συγχώνευση MHTML με TSV" description="Τιμές διαχωρισμένες με καρτέλες" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-txt/" name="Συγχώνευση MHTML με TXT" description="Έγγραφο κειμένου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xls/" name="Συγχώνευση MHTML με XLS" description="Δυαδική μορφή Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsb/" name="Συγχώνευση MHTML με XLSB" description="Δυαδικό αρχείο βιβλίου εργασίας Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsm/" name="Συγχώνευση MHTML με XLSM" description="Αρχείο υπολογιστικού φύλλου" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlsx/" name="Συγχώνευση MHTML με XLSX" description="Αρχείο Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xlt/" name="Συγχώνευση MHTML με XLT" description="Microsoft Πρότυπο Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltm/" name="Συγχώνευση MHTML με XLTM" description="Πρότυπο με δυνατότητα μακροεντολής Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xltx/" name="Συγχώνευση MHTML με XLTX" description="Πρότυπο Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xml/" name="Συγχώνευση MHTML σε XML" description="Επεκτάσιμη γλώσσα σήμανσης" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-xps/" name="Συγχώνευση MHTML με XPS" description="Προδιαγραφές χαρτιού XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-json/" name="Συγχώνευση MHTML με JSON" description="Σημειογραφία αντικειμένου JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-net/merger/merge-mhtml-to-jpeg/" name="Συγχώνευση MHTML με JPEG" description="JPEG Εικόνα" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

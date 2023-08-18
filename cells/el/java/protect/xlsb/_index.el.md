@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLSB via Java
+title: Προστατέψτε και κλειδώστε το έγγραφο XLSB via Java
 weight: 6590
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο XLSB με χρήση κωδικού πρόσβασης στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

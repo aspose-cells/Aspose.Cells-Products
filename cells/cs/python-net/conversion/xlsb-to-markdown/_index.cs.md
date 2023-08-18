@@ -1,7 +1,7 @@
 ---
-title: Převést XLSB na MARKDOWN Python via Python
-description: Převést XLSB na MARKDOWN online zdarma. Online zdarma převodník XLSB na MARKDOWN. Python XLSB až MARKDOWN. XLSB až MARKDOWN přes Python.
-keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, XLSB to Image
+title: Python XLSB až MARKDOWN - Online konvertor XLSB až MARKDOWN
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převést XLSB na MARKDOWN uložit formát. Python XLSB až MARKDOWN formát. Uložte si XLSB až MARKDOWN Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLSB to MARKDOWN saveformat., Free Online XLSB to MARKDOWN Python., Python Convert XLSB to MARKDOWN]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLSB na MARKDOWN na Python" h2="Vysokorychlostní knihovna Python pro převod XLSB na MARKDOWN. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="MARKDOWN" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLSB, XLSB Converter, XLSB to PDF, XLSB to Word, XLSB to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Převést XLSB na MARKDOWN na Python" %}}
 
- Jak převést XLSB na MARKDOWN? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLSB na MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu XLSB na MARKDOWN? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLSB na MARKDOWN programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod XLSB na MARKDOWN. Nahrajte sv�
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLSB na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLSB na MARKDOWN online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsb" outformat="md" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLSB na MARKDOWN" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři Python mohou snadno načíst a převést XLSB na MARKDOWN v několika řádcích kódu.
+Potřebujete převést soubory XLSB na MARKDOWN programově? Vývojáři Python mohou snadno načíst a převést XLSB na MARKDOWN v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor XLSB s instancí sešitu
-1.  Převeďte XLSB na MARKDOWN voláním metody Workbook.save
+1.  Načtěte soubor XLSB s instancí sešitu.
+1.  Převeďte XLSB na MARKDOWN voláním metody Workbook.save.
+1.  Získejte výsledek převodu XLSB na MARKDOWN.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSB" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsb/" >}}Formát souboru XLSB určuje formát binárního souboru aplikace Excel, což je kolekce záznamů a struktur, které určují obsah sešitu aplikace Excel. Obsah může zahrnovat nestrukturované nebo polostrukturované tabulky čísel, text nebo čísla i text, vzorce, externí datová připojení, grafy a obrázky. Na rozdíl od XLSX (který je založen na formátu souboru Open XML), XLSB představuje binární soubor sešitu aplikace Excel. XLSB soubory lze číst a zapisovat rychleji, což je činí užitečnými pro práci s velkými soubory. XLSB se zřídka používá k ukládání sešitů, protože XLSX (a dříve XLS) jsou nejběžnější uživatelem vybrané formáty souborů pro ukládání sešitů. Lze jej otevřít na čísle Microsoft Office 2007 a vyšším.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MARKDOWN" readMoreLink="https://docs.fileformat.com/word-processing/md/" >}}Textové soubory vytvořené pomocí dialektů jazyka Markdown se ukládají s příponou .md nebo .MARKDOWN. Soubory MD se ukládají ve formátu prostého textu, který používá jazyk Markdown, který také obsahuje vložené textové symboly, definující, jak lze formátovat text, jako jsou odsazení, formátování tabulek, písma a záhlaví. Soubory MD lze převést na HTML pomocí programu Markdown. Jazyk Markdown vydává John Gruber.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést XLSB na mnoho dalších formátů souborů, včetně několika níže uvedených." >}}
 

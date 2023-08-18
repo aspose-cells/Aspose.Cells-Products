@@ -1,7 +1,8 @@
 ---
-title:  Sloučit XLT až CSV via Java
+title: Sloučit XLT až CSV - Sloučit XLT až CSV v Java
 url: /cs/java/merger/merge-xlt-to-csv/ 
-description: Sloučit XLT až CSV online zdarma. Online zdarma XLT až CSV Fúze. Sloučit XLT do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. Java Aspose.Cells. Online sloučení zdarma XLT do formátu uložení CSV. Java Kombinujte formát XLT až CSV. Sloučit XLT až CSV v Java. XLT Sloučit.
+keywords: [Aspose Excel., Java Aspose.Cells., Merge XLT to CSV in Java., Free Online Java Merge XLT to csv., Java Combine XLT to CSV Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLT až CSV via Java" h2="Vysokorychlostní knihovna Java pro sloučení XLT do CSV. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Java. Toto je profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="CSV" pfName="Aspose.Cells" subTitlepfName="for Java" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Sloučit XLT až CSV online zdarma. Online zdarma XLT až CSV Fúze
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLT až CSV pomocí Java" %}}
 
- Jak sloučit XLT do CSV? S knihovnou Aspose.Cells for Java můžete snadno sloučit XLT na CSV programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
+ Jak sloučím XLT do CSV? S knihovnou Aspose.Cells for Java můžete snadno sloučit XLT na CSV programově pomocí několika řádků kódu.[Aspose.Cells for Java](https://products.aspose.com/cells/java) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Java Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo z[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 
@@ -46,7 +47,7 @@ description: Sloučit XLT až CSV online zdarma. Online zdarma XLT až CSV Fúze
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLT až CSV v Java Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit XLT až CSV v Java.
+Následující příklad ukazuje, jak sloučit XLT až CSV v Aspose.Cells for Java.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení XLT do CSV. Nahrajte své soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru CSV. Pokud vytvoříte kód v Java, bude to jednodušší, než to zní. Viz příklad Java, který sloučí XLT do CSV.
@@ -55,16 +56,18 @@ Postupujte podle jednoduchých kroků pro sloučení XLT do CSV. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení XLT až CSV online" InputFormat="xlt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="java" %}}
+{{% cells-merger title="Online zdarma ke sloučení XLT až CSV v Java" InputFormat="xlt" InputFormat2="csv" outformat="csv" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="java" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLT do CSV via Java" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit XLT až CSV? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for Java'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Java.
 + Načtěte soubor XLT s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -97,21 +100,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Soubory s příponou .xlt jsou soubory šablon vytvořené pomocí aplikace Excel Microsoft, což je tabulkový procesor, který je součástí sady Office Microsoft. Microsoft Office 97-2003 podporoval vytváření nových souborů XLT a také jejich otevírání. Nejnovější verze aplikace Excel je stále schopna otevřít soubory šablon tohoto starého formátu. Takový soubor šablony se používá k rychlému vytvoření nových souborů aplikace Excel s výchozími daty a nastaveními, jako je formátování stránky, velikost písma, okraje, grafy atd., které lze dále uložit jako nové soubory .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Soubory s příponou .csv (Comma Separated Values) představují prosté textové soubory, které obsahují záznamy dat s hodnotami oddělenými čárkami. Každý řádek v souboru CSV je nový záznam ze sady záznamů obsažených v souboru. Takové soubory jsou generovány, když je zamýšlen přenos dat z jednoho úložného systému do druhého. Protože všechny aplikace dokážou rozpoznat záznamy oddělené čárkou, import takových datových souborů do databáze se provádí velmi pohodlně. Téměř všechny tabulkové aplikace, jako je Microsoft Excel nebo OpenOffice Calc, mohou importovat CSV bez velkého úsilí. Data importovaná z takových souborů jsou uspořádána do buněk tabulky pro reprezentaci uživateli.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Java lze také sloučit xlt do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-docx/" name="Sloučit XLT až DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-sql/" name="Sloučit XLT do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-bmp/" name="Sloučit XLT až BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-emf/" name="Sloučit XLT až EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-gif/" name="Sloučit XLT až GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-html/" name="Sloučit XLT až HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-md/" name="Sloučit XLT na MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-mhtml/" name="Sloučit XLT až MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-ods/" name="Sloučit XLT až ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-pdf/" name="Sloučit XLT až PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-png/" name="Sloučit XLT až PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-svg/" name="Sloučit XLT až SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tiff/" name="Sloučit XLT až TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-tsv/" name="Sloučit XLT až TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-txt/" name="Sloučit XLT až TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xls/" name="Sloučit XLT až XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsb/" name="Sloučit XLT až XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsm/" name="Sloučit XLT až XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlsx/" name="Sloučit XLT až XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xlt/" name="Sloučit XLT až XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltm/" name="Sloučit XLT až XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xltx/" name="Sloučit XLT až XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xml/" name="Sloučit XLT do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-xps/" name="Sloučit XLT až XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-json/" name="Sloučit XLT až JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/java/merger/merge-xlt-to-jpeg/" name="Sloučit XLT až JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

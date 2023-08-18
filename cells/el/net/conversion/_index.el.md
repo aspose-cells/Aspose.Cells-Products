@@ -49,7 +49,7 @@ book.Save("output.md", new Aspose.Cells.MarkdownSaveOptions() { FormatStrategy =
 {{< blocks/products/pf/feature-page-options formats="XPS PDF" beforeslug="convert" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή JSON σε Excel & Excel σε JSON" %}}
- Τα δεδομένα JSON μπορούν να εισαχθούν σε μια παρουσία του[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) τάξη με τη βοήθεια του[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata) για περαιτέρω επεξεργασία ή απλή μετατροπή σε οποιαδήποτε από τις υποστηριζόμενες μορφές. Ομοίως,[Φύλλο εργασίας](https://reference.aspose.com/cells/net/aspose.cells/worksheet) τα δεδομένα μπορούν να εξαχθούν ως JSON δημιουργώντας ένα[Εύρος](https://reference.aspose.com/cells/net/aspose.cells/range) ή κελιά και καλώντας το[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) μέθοδος.
+ Τα δεδομένα JSON μπορούν να εισαχθούν σε μια παρουσία του[Cells](https://reference.aspose.com/cells/net/aspose.cells/cells) τάξη με τη βοήθεια του[JsonUtility.ImportData](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/importdata)για περαιτέρω επεξεργασία ή απλή μετατροπή σε οποιαδήποτε από τις υποστηριζόμενες μορφές. Ομοίως,[Φύλλο εργασίας](https://reference.aspose.com/cells/net/aspose.cells/worksheet) τα δεδομένα μπορούν να εξαχθούν ως JSON δημιουργώντας ένα[Εύρος](https://reference.aspose.com/cells/net/aspose.cells/range) ή κελιά και καλώντας το[JsonUtility.ExportRangeToJson](https://reference.aspose.com/cells/net/aspose.cells.utility/jsonutility/methods/exportrangetojson) μέθοδος.
 {{% blocks/products/pf/feature-page-code h3="C# Κωδικός για JSON Μετατροπή σε Excel" %}}
 ```cs
 // create a Workbook object
@@ -109,7 +109,7 @@ render.ToImage(0, "output.jpg");
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατροπή Excel σε Word & PowerPoint" %}}
- Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions) τάξεις όπως παρουσιάζεται παρακάτω.
+ Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/docxsaveoptions) & [PptxSaveOptions](https://reference.aspose.com/cells/net/aspose.cells/pptxsaveoptions)τάξεις όπως παρουσιάζεται παρακάτω.
 {{% blocks/products/pf/feature-page-code h3="C# κώδικας για Excel σε Word & PowerPoint Μετατροπή" %}}
 ```cs
 // load the template file

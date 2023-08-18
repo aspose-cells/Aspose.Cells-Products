@@ -1,7 +1,8 @@
 ---
-title:  Sloučit HTM na PDF přes C#
+title: Sloučit HTM s PDF - Sloučit HTM s PDF v C#
 url: /cs/net/merger/merge-htm-to-pdf/ 
-description: Sloučit HTM na PDF Online zdarma. Bezplatné online spojení HTM na PDF. Sloučit HTM do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. C# Aspose.Cells. Online zdarma sloučit HTM do PDF saveformat. C# Zkombinujte HTM do formátu PDF. Sloučit HTM na PDF v C#. HTM Sloučit.
+keywords: [Aspose Excel., C# Aspose.Cells., Merge HTM to PDF in C#., Free Online C# Merge HTM to pdf., C# Combine HTM to PDF Online for Free., HTM Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit HTM na PDF přes C#" h2="Vysokorychlostní knihovna C# pro sloučení HTM do PDF. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C#. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších excelových formátů." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-net.svg" sourceAdditionalConversionTag="HTM" additionalConversionTag="PDF" pfName="Aspose.Cells" subTitlepfName="for .NET" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Sloučit HTM na PDF Online zdarma. Bezplatné online spojení HTM n
 
 {{% blocks/products/pf/agp/content h2="Sloučit HTM na PDF pomocí C#" %}}
 
- Jak sloučit HTM na PDF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit HTM do PDF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím HTM s PDF? S knihovnou Aspose.Cells for .NET můžete snadno sloučit HTM do PDF programově pomocí několika řádků kódu.[Aspose.Cells for .NET](https://products.aspose.com/cells/net)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. .NET Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. OTEVŘENO[NuGet](https://www.nuget.org/packages/aspose.cells) správce balíčků, vyhledejte Aspose.Cells a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells
 
 {{% blocks/products/pf/agp/content h2="Sloučit HTM na PDF v C# online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit HTM s PDF v C#.
+Následující příklad ukazuje, jak sloučit HTM s PDF v Aspose.Cells for .NET.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení HTM do PDF. Nahrajte své soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru PDF. Pokud vytvoříte kód v C#, bude to jednodušší, než to zní. Viz příklad C#, který sloučí HTM do PDF.
@@ -36,16 +37,18 @@ Postupujte podle jednoduchých kroků pro sloučení HTM do PDF. Nahrajte své s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení HTM na PDF online" InputFormat="htm" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="net" %}}
+{{% cells-merger title="Online zdarma ke sloučení HTM na PDF v C#" InputFormat="htm" InputFormat2="pdf" outformat="pdf" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="net" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit HTM na PDF přes C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Potřebujete sloučit HTM na PDF programově? Základní dokument, který se spojuje a spojuje[Aspose.Cells for .NET](https://products.aspose.com/cells/net) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for .NET'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C#.
 + Načtěte soubor HTM s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -62,7 +65,7 @@ Existují dvě alternativní možnosti instalace „Aspose.Cells for .NET“ do 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte a[NuGet Balíček](https://www.nuget.org/packages/Aspose.Cells/) . Vidět[Dokumentace](https://docs.aspose.com/cells/net/installation/#install-asposecells-for-net-through-nuget)
-1.  Nainstalujte knihovnu pomocí[Konzole správce balíčků](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) rámci Visual Studio IDE
+1.  Nainstalujte knihovnu pomocí[Konzole správce balíčků](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-the-package-manager-console) v rámci Visual Studio IDE
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -82,21 +85,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Soubory s příponou .htm představují Hypertext Markup Language pro vytváření webových stránek pro zobrazení ve webových prohlížečích jako je Google Chrome, Internet Explorer, Firefox a řada dalších. Definuje značky pro vytváření statických stránek, které mají být publikovány na World Wide Web (WWW), aby k nim měli přístup ostatní. Tyto značky sdělují prohlížečům, jak zobrazit obsah webové stránky. Takové stránky mohou obsahovat prostý text, obrázky, hypertextové odkazy na jiné stránky, videa a další mediální informace. Když je webová stránka publikována, můžete se podívat na značkovací kód za ní zobrazením jejího zdroje stránky. Moderní prohlížeče umožňují prohlížet každou sekci webové stránky, kde je zpracováno každé poddělení nebo značkovací prvek ve zdroji HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}Portable Document Format (PDF) je typ dokumentu vytvořený společností Adobe již v 90. letech 20. století. Účelem tohoto formátu souboru bylo zavést standard pro reprezentaci dokumentů a dalších referenčních materiálů ve formátu, který je nezávislý na aplikačním softwaru, hardwaru i operačním systému. Formát souboru PDF má plnou schopnost obsahovat informace jako text, obrázky, hypertextové odkazy, pole formuláře, multimédia, digitální podpisy, přílohy, metadata, geoprostorové prvky a 3D objekty, které se mohou stát součástí zdrojového dokumentu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí C# lze také sloučit htm s mnoha dalšími formáty souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-docx/" name="Sloučit HTM na DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-sql/" name="Sloučit HTM do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-bmp/" name="Sloučit HTM na BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-emf/" name="Sloučit HTM na EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-gif/" name="Sloučit HTM na GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-html/" name="Sloučit HTM na HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-md/" name="Sloučit HTM do MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-mhtml/" name="Sloučit HTM na MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-ods/" name="Sloučit HTM na ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-pdf/" name="Sloučit HTM na PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-png/" name="Sloučit HTM na PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-svg/" name="Sloučit HTM na SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tiff/" name="Sloučit HTM na TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-tsv/" name="Sloučit HTM na TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-txt/" name="Sloučit HTM na TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xls/" name="Sloučit HTM na XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsb/" name="Sloučit HTM na XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsm/" name="Sloučit HTM na XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlsx/" name="Sloučit HTM na XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xlt/" name="Sloučit HTM na XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltm/" name="Sloučit HTM na XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xltx/" name="Sloučit HTM na XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xml/" name="Sloučit HTM do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-xps/" name="Sloučit HTM na XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-json/" name="Sloučit HTM na JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/net/merger/merge-htm-to-jpeg/" name="Sloučit HTM na JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

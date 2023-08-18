@@ -1,5 +1,5 @@
 ---
-title: Επεξεργασία TSV αρχείων via .NET
+title:  Επεξεργασία TSV αρχείων via .NET
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου TSV στο .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

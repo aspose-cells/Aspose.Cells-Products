@@ -22,7 +22,7 @@ description: Opravte poškozený soubor aplikace Excel pomocí C#. Nástroj pro 
 
 {{% blocks/products/pf/agp/content h2="Jak opravit soubor Excel pomocí C#" %}}
 
-Definujte třídu, která zdědí Aspose.Cells.IWarningCallback.
++ Definujte třídu, která zdědí Aspose.Cells.IWarningCallback.
 + Načtěte soubor EXCEL vytvořením instance sešitu pomocí výše uvedené třídy dědičnosti, viz výše uvedený kód.
 + Uložte sešit, poškozený soubor aplikace Excel bude opraven.
 
@@ -49,7 +49,7 @@ Aspose.Cells je plně multiplatformní a podporuje všechny hlavní implementace
 
 Pokud kód .NET nezávisí na základním hardwaru nebo operačním systému, ale pouze na virtuálním počítači, můžete volně vyvíjet jakýkoli druh softwaru pro Windows, Linux, macOS, Android a iOS. Podporován je také Azure a AWS Lambda. Jen se ujistěte, že jste nainstalovali odpovídající verzi .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 
-vytváření aplikací C#, F#, VB.NET doporučujeme použít Microsoft Visual Studio, VSCode.
+K vytváření aplikací C#, F#, VB.NET doporučujeme použít Microsoft Visual Studio, VSCode.
 
 {{% /blocks/products/pf/agp/content %}}
     

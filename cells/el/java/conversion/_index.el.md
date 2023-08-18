@@ -6,7 +6,7 @@ description: Μετατρέψτε το Excel XLS, XLSX, ODS, CSV σε PDF, XPS, 
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Μετατροπή αρχείων Excel via Java" h2="Αποθήκευση Microsoft εγγράφων Excel ως υπολογιστικού φύλλου, ιστού, εικόνας και μορφής σταθερής διάταξης" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Για κάθε**Μετατροπέας Excel** εφαρμογή ή λύση, Java Η Βιβλιοθήκη Excel επιταχύνει τον προγραμματισμό υπολογιστικών φύλλων και τις διαδικασίες μετατροπής ενώ χειρίζεται πολλαπλές μορφές, συμπεριλαμβανομένων XLS, XLSX, XLSM, XLSB, XLTX, XLTX, XLTX, XLTX, XLTX, XLTX, XLTX, XLS 81, ODS. Επιτρέπει επίσης τη *μετατροπή αρχείων Excel σε PDF**, XPS, HTML, MHTML, Απλό κείμενο και δημοφιλείς μορφές εικόνας όπως TIFF, JPG, PNG, BMP και SVG.
+ Για κάθε**Μετατροπέας Excel**εφαρμογή ή λύση, Java Η Βιβλιοθήκη Excel επιταχύνει τον προγραμματισμό υπολογιστικών φύλλων και τις διαδικασίες μετατροπής ενώ χειρίζεται πολλαπλές μορφές, συμπεριλαμβανομένων XLS, XLSX, XLSM, XLSB, XLTX, XLTX, XLTX, XLTX, XLTX, XLTX, XLTX, XLS 81, ODS. Επιτρέπει επίσης τη *μετατροπή αρχείων Excel σε PDF**, XPS, HTML, MHTML, Απλό κείμενο και δημοφιλείς μορφές εικόνας όπως TIFF, JPG, PNG, BMP και SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Διαμετατροπή μορφών Excel Microsoft" %}}
@@ -136,7 +136,7 @@ for (int j = 0; j < sr.getPageCount(); j++) {
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Μετατρέψτε το Microsoft Excel σε Word και PowerPoint" %}}
- Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions) τάξεις όπως παρουσιάζεται παρακάτω.
+ Είναι δυνατή η φόρτωση οποιουδήποτε υπολογιστικού φύλλου και η μετατροπή του σε αρχεία Word DOCX & PowerPoint PPTX κατά τη χρήση[DocxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/DocxSaveOptions) & [PptxSaveOptions](https://reference.aspose.com/cells/java/com.aspose.cells/PptxSaveOptions)τάξεις όπως παρουσιάζεται παρακάτω.
 {{% blocks/products/pf/feature-page-code h3="Java Κώδικας για Excel σε Word & PowerPoint Μετατροπή" %}}
 ```cs
 // load the template file

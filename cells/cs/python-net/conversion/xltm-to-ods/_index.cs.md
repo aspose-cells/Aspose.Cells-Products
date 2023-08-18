@@ -1,7 +1,7 @@
 ---
-title: Převést XLTM na ODS Python via Python
-description: Převést XLTM na ODS online zdarma. Online zdarma převodník XLTM na ODS. Python XLTM až ODS. XLTM až ODS přes Python.
-keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, XLTM to Image
+title: Python XLTM až ODS - Online konvertor XLTM až ODS
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převést XLTM na ODS uložit formát. Python XLTM až ODS formát. Uložte si XLTM až ODS Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XLTM to ODS saveformat., Free Online XLTM to ODS Python., Python Convert XLTM to ODS]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést XLTM na ODS na Python" h2="Vysokorychlostní knihovna Python pro převod XLTM na ODS. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="ODS" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XLTM, XLTM Converter, XLTM to PDF, XLTM to Word, XLTM to PPT, 
 
 {{% blocks/products/pf/agp/content h2="Převést XLTM na ODS na Python" %}}
 
- Jak převést XLTM na ODS? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLTM na ODS programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu XLTM na ODS? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést XLTM na ODS programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod XLTM na ODS. Nahrajte svůj so
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTM na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod XLTM na ODS online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xltm" outformat="ods" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést XLTM na ODS" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři Python mohou snadno načíst a převést XLTM na ODS v několika řádcích kódu.
+Potřebujete převést soubory XLTM na ODS programově? Vývojáři Python mohou snadno načíst a převést XLTM na ODS v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor XLTM s instancí sešitu
-1.  Převeďte XLTM na ODS voláním metody Workbook.save
+1.  Načtěte soubor XLTM s instancí sešitu.
+1.  Převeďte XLTM na ODS voláním metody Workbook.save.
+1.  Získejte výsledek převodu XLTM na ODS.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLTM" readMoreLink="https://docs.fileformat.com/spreadsheet/xltm/" >}}Přípona souboru XLTM představuje soubory, které generuje aplikace Excel Microsoft jako soubory šablon s podporou maker. Soubory XLTM jsou podobné souborům XLTX v jiné struktuře než ta, která nepodporuje vytváření souborů šablon s makry. Tyto soubory šablon se používají ke generování a nastavení rozvržení, formátování a dalších nastavení spolu s makry, aby se pak usnadnilo vytváření podobných souborů XLSX.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ODS" readMoreLink="https://docs.fileformat.com/spreadsheet/ods/" >}}Soubory s příponou .ods představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Řada aplikací na Windows i dalších operačních systémech může otevřít ODS soubory pro úpravy a manipulaci, včetně Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, stejně jako XLS, XLSX a další.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést XLTM na mnoho dalších formátů souborů, včetně několika níže uvedených." >}}
 

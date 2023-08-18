@@ -1,7 +1,8 @@
 ---
-title:  Sloučit PRN do HTM přes C++
+title: Sloučit PRN s HTM – Zkombinujte PRN s HTM v C++
 url: /cs/cpp/merger/merge-prn-to-htm/ 
-description: Sloučit PRN do HTM Online zdarma. Bezplatné online spojení PRN do HTM. Sloučit PRN do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. C++ Aspose.Cells. Online zdarma Sloučit PRN do formátu uložení HTM. C++ Zkombinujte PRN s formátem HTM. Sloučit PRN do HTM v C++. PRN Sloučit.
+keywords: [Aspose Excel., C++ Aspose.Cells., Merge PRN to HTM in C++., Free Online C++ Merge PRN to htm., C++ Combine PRN to HTM Online for Free., PRN Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit PRN do HTM přes C++" h2="Vysokorychlostní knihovna C++ pro sloučení PRN do HTM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v C++. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" sourceAdditionalConversionTag="PRN" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for C++" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,7 +12,7 @@ description: Sloučit PRN do HTM Online zdarma. Bezplatné online spojení PRN d
 
 {{% blocks/products/pf/agp/content h2="Sloučit PRN do HTM pomocí C++" %}}
 
- Jak sloučit PRN do HTM? S knihovnou Aspose.Cells for C++ můžete snadno sloučit PRN do HTM programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
+ Jak sloučím PRN do HTM? S knihovnou Aspose.Cells for C++ můžete snadno sloučit PRN do HTM programově pomocí několika řádků kódu.[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. C++ Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Jeho nejnovější verzi si můžete stáhnout přímo, stačí otevřít[NuGet](https://www.nuget.org/packages/Aspose.Cells.Cpp/) správce balíčků, vyhledejte Aspose.Cells.Cpp a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz" offSpacer="true" %}}
 
@@ -27,7 +28,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/content h2="Sloučit PRN do HTM v C++ Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit PRN s HTM v C++.
+Následující příklad ukazuje, jak sloučit PRN do HTM v Aspose.Cells for C++.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení PRN s HTM. Nahrajte soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru HTM. Pokud vytvoříte kód v C++, bude to jednodušší, než to zní. Viz příklad C++, který sloučí PRN do HTM.
@@ -36,17 +37,19 @@ Postupujte podle jednoduchých kroků pro sloučení PRN s HTM. Nahrajte soubory
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení PRN do HTM online" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="cpp" %}}
+{{% cells-merger title="Online zdarma ke sloučení PRN do HTM na čísle C++" InputFormat="prn" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="cpp" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit PRN do HTM přes C++" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Potřebujete sloučit PRN s HTM programově? Základní dokument, který se spojuje a spojuje[Aspose.Cells for C++](https://products.aspose.com/cells/cpp) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
-Načtěte soubor PRN s třídou Workbook.
++ Nainstalujte 'Aspose.Cells for C++'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu C++.
++ Načtěte soubor PRN s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
 + Nyní můžete otevřít a použít výstupní soubor v Microsoft Office, Adobe PDF nebo v jakémkoli jiném kompatibilním programu.
@@ -63,7 +66,7 @@ Existují tři možnosti instalace „Aspose.Cells for C++“ do vašeho systém
 
 1.  Nainstalujte a[NuGet Balíček](https://www.nuget.org/packages/Aspose.Cells.Cpp/) . Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#using-nuget-package-manager)
 1.  Nainstalujte knihovnu pomocí složek Include a lib. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#using-include-and-lib-folders)
-1. Nainstalujte Aspose.Cells for C++ v Linuxu. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
+1.  Nainstalujte Aspose.Cells for C++ v Linuxu. Vidět[Dokumentace](https://docs.aspose.com/cells/cpp/installation/#installing-asposecells-for-c-in-linux)
 
 
 {{% /blocks/products/pf/agp/content %}}
@@ -83,21 +86,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="PRN" readMoreLink="https://fileinfo.com/extension/prn/" >}}Soubor PRN je soubor vytvořený pomocí zaškrtávacího políčka Tisk do souboru, které se zobrazuje v některých dialogových oknech Tisk na čísle Windows. Obsahuje sadu pokynů pro konkrétní zařízení, které tiskárna, fax nebo jiné zařízení používá k tisku dokumentu. Soubory PRN mohou obsahovat textový nebo binární obsah v závislosti na zařízení, pro které byl soubor vytvořen.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Soubory s příponou .htm představují Hypertext Markup Language pro vytváření webových stránek pro zobrazení ve webových prohlížečích jako je Google Chrome, Internet Explorer, Firefox a řada dalších. Definuje značky pro vytváření statických stránek, které mají být publikovány na World Wide Web (WWW), aby k nim měli přístup ostatní. Tyto značky sdělují prohlížečům, jak zobrazit obsah webové stránky. Takové stránky mohou obsahovat prostý text, obrázky, hypertextové odkazy na jiné stránky, videa a další mediální informace. Když je webová stránka publikována, můžete se podívat na značkovací kód za ní zobrazením jejího zdroje stránky. Moderní prohlížeče umožňují prohlížet každou sekci webové stránky, kde je zpracováno každé poddělení nebo značkovací prvek ve zdroji HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí C++ lze také sloučit prn do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-docx/" name="Sloučit PRN na DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-sql/" name="Sloučit PRN do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-bmp/" name="Sloučit PRN na BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-emf/" name="Sloučit PRN na EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-gif/" name="Sloučit PRN na GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-html/" name="Sloučit PRN na HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-md/" name="Sloučit PRN do MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-mhtml/" name="Sloučit PRN na MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-ods/" name="Sloučit PRN na ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-pdf/" name="Sloučit PRN na PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-png/" name="Sloučit PRN na PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-svg/" name="Sloučit PRN na SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tiff/" name="Sloučit PRN na TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-tsv/" name="Sloučit PRN na TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-txt/" name="Sloučit PRN na TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xls/" name="Sloučit PRN na XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsb/" name="Sloučit PRN na XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsm/" name="Sloučit PRN na XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlsx/" name="Sloučit PRN na XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xlt/" name="Sloučit PRN na XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xltm/" name="Sloučit PRN na XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xltx/" name="Sloučit PRN na XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xml/" name="Sloučit PRN do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-xps/" name="Sloučit PRN na XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-json/" name="Sloučit PRN na JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/cpp/merger/merge-prn-to-jpeg/" name="Sloučit PRN na JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

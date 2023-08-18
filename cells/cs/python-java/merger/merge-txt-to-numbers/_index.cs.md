@@ -1,7 +1,8 @@
 ---
-title:  Sloučit TXT na NUMBERS přes Python
+title: Sloučit TXT na ČÍSLA – Sloučit TXT na ČÍSLA v Python
 url: /cs/python-java/merger/merge-txt-to-numbers/ 
-description: Sloučit TXT na NUMBERS Online zdarma. Online zdarma TXT do NUMBERS Fúze. Sloučit TXT do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. Python Aspose.Cells. Online sloučení zdarma TXT do formátu uložení NUMBERS. Python Spojte TXT do formátu ČÍSLA. Sloučit TXT na ČÍSLA v Python. TXT Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge TXT to NUMBERS in Python., Free Online Python Merge TXT to numbers., Python Combine TXT to NUMBERS Online for Free., TXT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit TXT na NUMBERS přes Python" h2="Vysokorychlostní knihovna Python pro sloučení TXT do ČÍSEL. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="TXT" additionalConversionTag="NUMBERS" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Sloučit TXT na NUMBERS Online zdarma. Online zdarma TXT do NUMBERS
 
 {{% blocks/products/pf/agp/content h2="Sloučit TXT do NUMBERS pomocí Python" %}}
 
- Jak sloučit TXT do NUMBERS? S knihovnou Aspose.Cells for Python můžete snadno sloučit TXT do NUMBERS programově pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+Jak sloučím TXT do NUMBERS? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit TXT programově s několika řádky kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sloučit TXT na NUMBERS v Python Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit TXT do NUMBERS v Python.
+Následující příklad ukazuje, jak sloučit TXT do NUMBERS v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení TXT do NUMBERS. Nahrajte své soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru NUMBERS. Pokud vytvoříte kód v Python, bude to jednodušší, než to zní. Viz příklad Python, který sloučí TXT do NUMBERS.
@@ -27,16 +28,18 @@ Postupujte podle jednoduchých kroků pro sloučení TXT do NUMBERS. Nahrajte sv
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení TXT s NUMBERS online" InputFormat="txt" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online zdarma ke sloučení TXT na NUMBERS v Python" InputFormat="txt" InputFormat2="numbers" outformat="numbers" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit TXT do NUMBERS přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+ Potřebujete programově sloučit TXT do NUMBERS? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for Python via Java'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
 + Načtěte soubor TXT s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -75,21 +78,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="TXT" readMoreLink="https://docs.fileformat.com/word-processing/txt/" >}}Soubor s příponou .TXT představuje textový dokument, který obsahuje prostý text ve formě řádků. Odstavce v textovém dokumentu jsou rozpoznány podle konce řádku a slouží k lepšímu uspořádání obsahu souboru. Standardní textový dokument lze otevřít v libovolném textovém editoru nebo aplikaci pro zpracování textu na různých operačních systémech. Veškerý text obsažený v takovém souboru je ve formátu čitelném pro člověka a je reprezentován sekvencí znaků.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit txt do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-docx/" name="Sloučit TXT až DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-sql/" name="Sloučit TXT do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-bmp/" name="Sloučit TXT až BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-emf/" name="Sloučit TXT až EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-gif/" name="Sloučit TXT až GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-html/" name="Sloučit TXT až HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-md/" name="Sloučit TXT na MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-mhtml/" name="Sloučit TXT až MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-ods/" name="Sloučit TXT až ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-pdf/" name="Sloučit TXT až PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-png/" name="Sloučit TXT až PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-svg/" name="Sloučit TXT až SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tiff/" name="Sloučit TXT až TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-tsv/" name="Sloučit TXT až TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-txt/" name="Sloučit TXT až TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xls/" name="Sloučit TXT až XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsb/" name="Sloučit TXT až XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsm/" name="Sloučit TXT až XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlsx/" name="Sloučit TXT až XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xlt/" name="Sloučit TXT až XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltm/" name="Sloučit TXT až XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xltx/" name="Sloučit TXT až XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xml/" name="Sloučit TXT do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-xps/" name="Sloučit TXT až XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-json/" name="Sloučit TXT až JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-txt-to-jpeg/" name="Sloučit TXT až JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

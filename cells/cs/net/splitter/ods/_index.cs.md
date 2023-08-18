@@ -13,7 +13,7 @@ description: C# zdrojový kód pro rozdělení ODS dokumentů na platformách .N
 
  K rozdělení souboru ODS použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
-API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci s dokumenty a rozdělovač API pro platformu C#. OTEVŘENO
+ API, což je funkčně bohatý, výkonný a snadno použitelný nástroj pro manipulaci s dokumenty a rozdělovač API pro platformu C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  Aspose.Cells 

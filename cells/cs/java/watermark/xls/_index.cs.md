@@ -13,7 +13,7 @@ description: Java ukázkový kód pro přidání nebo odstranění vodoznaku do 
 
  Abychom mohli vodoznak XLS souboru, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vodoznaky API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 

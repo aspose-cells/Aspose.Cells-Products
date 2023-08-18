@@ -1,7 +1,8 @@
 ---
-title:  Sloučit XLT do HTM přes Python
+title: Sloučit XLT na HTM – Sloučit XLT na HTM v Python
 url: /cs/python-java/merger/merge-xlt-to-htm/ 
-description: Sloučit XLT do HTM Online zdarma. Online zdarma XLT do HTM Fúze. Sloučit XLT do Wordu, Excelu, PPTX, PDF, JPG, HTML, ODS, SVG, XPS a dalších.
+description: Aspose Excel. Python Aspose.Cells. Zdarma online sloučení XLT do formátu uložení HTM. Python Zkombinujte XLT do formátu HTM. Sloučit XLT na HTM v Python. XLT Sloučit.
+keywords: [Aspose Excel., Python Aspose.Cells., Merge XLT to HTM in Python., Free Online Python Merge XLT to htm., Python Combine XLT to HTM Online for Free., XLT Merge]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Sloučit XLT do HTM přes Python" h2="Vysokorychlostní knihovna Python pro sloučení XLT do HTM. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python. Jedná se o profesionální softwarové řešení pro import a export Excel, CSV, OpenOffice, PDF, HTML, image a mnoha dalších formátů Excel." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-java.svg" sourceAdditionalConversionTag="XLT" additionalConversionTag="HTM" pfName="Aspose.Cells" subTitlepfName="for Python" downloadUrl="" fileiconsmall1="XLSX" fileiconsmall2="ODS" fileiconsmall3="HTML" fileiconsmall4="NUMBERS" fileiconsmall5="CSV" >}}
@@ -11,14 +12,14 @@ description: Sloučit XLT do HTM Online zdarma. Online zdarma XLT do HTM Fúze. 
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLT do HTM pomocí Python" %}}
 
- Jak sloučit XLT do HTM? S knihovnou Aspose.Cells for Python můžete snadno sloučit XLT do HTM pomocí několika řádků kódu.[Aspose.Cells for Python](https://pypi.org/project/aspose-cells) je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
+ Jak sloučím XLT do HTM? S knihovnou Aspose.Cells for Python via Java můžete snadno sloučit XLT do HTM pomocí několika řádků kódu.[Aspose.Cells for Python via Java](https://pypi.org/project/aspose-cells)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů. Můžete nainstalovat Aspose.Cells for Python via Java z<a href="https://pypi.org/project/aspose-cells/">pypi</a> , použijte příkaz jako:<code>$ pip install aspose-cells</code>.
 
 
 {{% /blocks/products/pf/agp/content %}}
 
 {{% blocks/products/pf/agp/content h2="Sloučit XLT do HTM v Python Online zdarma" %}}
 
-Následující příklad ukazuje, jak sloučit XLT do HTM v Python.
+Následující příklad ukazuje, jak sloučit XLT do HTM v Aspose.Cells for Python via Java.
 {{% blocks/products/pf/agp/text %}}
 
 Postupujte podle jednoduchých kroků pro sloučení XLT s HTM. Nahrajte soubory, zavolejte metodu Workbook.Combine pro sloučení souborů a poté ji uložte do souboru HTM. Pokud vytvoříte kód v Python, bude to jednodušší, než to zní. Viz příklad Python, který sloučí XLT do HTM.
@@ -27,16 +28,18 @@ Postupujte podle jednoduchých kroků pro sloučení XLT s HTM. Nahrajte soubory
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-merger title="Bezplatná aplikace pro sloučení XLT s HTM online" InputFormat="xlt" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xltx;xlt;xltm;json;fods;ods;csv;tsv;txt;xml;sxc;html;jpg;bmp;png;svg;tiff;xps;mhtml;md" IsLandingPage="true" language="pythonjava" %}}
+{{% cells-merger title="Online zdarma ke sloučení XLT do HTM v Python" InputFormat="xlt" InputFormat2="htm" outformat="htm" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" IsLandingPage="true" language="pythonjava" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit XLT do HTM přes Python" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Potřebujete sloučit XLT do HTM programově? Základní dokument, který se spojuje a spojuje[Aspose.Cells for Python via Java](https://products.aspose.com/cells/python-java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
++ Nainstalujte 'Aspose.Cells for Python via Java'.
++ Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
 + Načtěte soubor XLT s třídou Workbook.
 + Volejte metodu Workbook.Combine pro sloučení souborů.
 + Zavolejte metodu Workbook.Save a předejte název výstupního souboru jako parametr.
@@ -75,21 +78,41 @@ Naše API jsou podporována na všech hlavních platformách a operačních syst
 
 {{% /blocks/products/pf/agp/content %}}
 
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLT" readMoreLink="https://docs.fileformat.com/spreadsheet/xlt/" >}}Soubory s příponou .xlt jsou soubory šablon vytvořené pomocí aplikace Excel Microsoft, což je tabulkový procesor, který je součástí sady Office Microsoft. Microsoft Office 97-2003 podporoval vytváření nových souborů XLT a také jejich otevírání. Nejnovější verze aplikace Excel je stále schopna otevřít soubory šablon tohoto starého formátu. Takový soubor šablony se používá k rychlému vytvoření nových souborů aplikace Excel s výchozími daty a nastaveními, jako je formátování stránky, velikost písma, okraje, grafy atd., které lze dále uložit jako nové soubory .xls.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="HTM" readMoreLink="https://docs.fileformat.com/web/htm/" >}}Soubory s příponou .htm představují Hypertext Markup Language pro vytváření webových stránek pro zobrazení ve webových prohlížečích jako je Google Chrome, Internet Explorer, Firefox a řada dalších. Definuje značky pro vytváření statických stránek, které mají být publikovány na World Wide Web (WWW), aby k nim měli přístup ostatní. Tyto značky sdělují prohlížečům, jak zobrazit obsah webové stránky. Takové stránky mohou obsahovat prostý text, obrázky, hypertextové odkazy na jiné stránky, videa a další mediální informace. Když je webová stránka publikována, můžete se podívat na značkovací kód za ní zobrazením jejího zdroje stránky. Moderní prohlížeče umožňují prohlížet každou sekci webové stránky, kde je zpracováno každé poddělení nebo značkovací prvek ve zdroji HTM.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované slučovací formáty" subTitle="Pomocí Python lze také sloučit xlt do mnoha dalších formátů souborů včetně." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-html/" name="HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-mhtml/" name="MHTML" description="Formát archivu webové stránky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-ods/" name="ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tsv/" name="TSV" description="Hodnoty oddělené tabulátory" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-txt/" name="TXT" description="Textový dokument" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xls/" name="XLS" description="Binární formát Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsb/" name="XLSB" description="Binární soubor sešitu Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsm/" name="XLSM" description="Soubor tabulky" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsx/" name="XLSX" description="Soubor Excel OOXML" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlt/" name="XLT" description="Microsoft Excel šablona" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltm/" name="XLTM" description="Šablona s podporou maker aplikace Excel" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltx/" name="XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-docx/" name="Sloučit XLT až DOCX" description="Microsoft dokument aplikace Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-sql/" name="Sloučit XLT do SQL" description="strukturovaný dotazovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-bmp/" name="Sloučit XLT až BMP" description="Bitmapový obrázek" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-emf/" name="Sloučit XLT až EMF" description="Vylepšený formát metasouborů" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-gif/" name="Sloučit XLT až GIF" description="Grafický výměnný formát" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-html/" name="Sloučit XLT až HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-md/" name="Sloučit XLT na MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-mhtml/" name="Sloučit XLT až MHTML" description="Formát archivu webové stránky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-ods/" name="Sloučit XLT až ODS" description="Soubor tabulkového procesoru OpenDocument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-pdf/" name="Sloučit XLT až PDF" description="Přenosný formát dokumentu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-png/" name="Sloučit XLT až PNG" description="Přenosná síťová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-svg/" name="Sloučit XLT až SVG" description="Škálovatelná vektorová grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tiff/" name="Sloučit XLT až TIFF" description="Formát tagovaného obrázku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-tsv/" name="Sloučit XLT až TSV" description="Hodnoty oddělené tabulátory" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-txt/" name="Sloučit XLT až TXT" description="Textový dokument" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xls/" name="Sloučit XLT až XLS" description="Binární formát Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsb/" name="Sloučit XLT až XLSB" description="Binární soubor sešitu Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsm/" name="Sloučit XLT až XLSM" description="Soubor tabulky" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlsx/" name="Sloučit XLT až XLSX" description="Soubor Excel OOXML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xlt/" name="Sloučit XLT až XLT" description="Microsoft Excel šablona" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltm/" name="Sloučit XLT až XLTM" description="Šablona s podporou maker aplikace Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xltx/" name="Sloučit XLT až XLTX" description="Šablona Office OpenXML Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xml/" name="Sloučit XLT do XML" description="Rozšiřitelný značkovací jazyk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-xps/" name="Sloučit XLT až XPS" description="Specifikace papíru XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-json/" name="Sloučit XLT až JSON" description="Zápis objektů JavaScript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cells/python-java/merger/merge-xlt-to-jpeg/" name="Sloučit XLT až JPEG" description="JPEG Obrázek" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

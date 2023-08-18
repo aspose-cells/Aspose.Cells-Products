@@ -1,5 +1,5 @@
 ---
-title: Επεξεργασία HTML αρχείων via .NET
+title:  Επεξεργασία HTML αρχείων via .NET
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου HTML στο .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLSM via Java
+title: Προστατέψτε και κλειδώστε το έγγραφο XLSM via Java
 weight: 9620
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο XLSM με χρήση κωδικού πρόσβασης στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

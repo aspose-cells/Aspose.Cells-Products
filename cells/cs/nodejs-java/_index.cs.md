@@ -16,7 +16,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
 </p>
 
 <p>
- Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
+Aspose.Cells for Node.js via Java podporuje nejoblíbenější formáty tabulek včetně XLS, XLSX, ODS, SpreadsheetML, CSV, TSC; HTML.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -41,7 +41,7 @@ description: Zpracujte formáty souborů Excel prostřednictvím knihovny Node.j
  Převést pracovní list na obrázek
     </li>
     <li>
-Převést tabulku na PDF
+ Převést tabulku na PDF
     </li>
    </ul>
   </div>
@@ -269,7 +269,7 @@ Převést tabulku na PDF
     <em class="fa fa-commenting ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
+Vytvořit &amp; manipulovat s komentáři &amp; hypertextové odkazy
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ Převést tabulku na PDF
     <em class="fa fa-table ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-Manipulujte a obnovujte kontingenční tabulky prostřednictvím čísla API
+ Manipulujte a obnovujte kontingenční tabulky prostřednictvím čísla API
     </p>
    </div>
    <div class="col-lg-4">
@@ -327,7 +327,7 @@ Manipulujte a obnovujte kontingenční tabulky prostřednictvím čísla API
  Flexibilní možnosti zobrazení
     </h2>
     <p>
- Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
+Aspose.Cells for Node.js via Java poskytuje plnou kontrolu nad nastavením stránky listu, lze manipulovat s možnostmi zobrazení listu, jako je orientace stránky, konce, velikost, měřítko, záhlaví, zápatí a úroveň přiblížení. Kromě toho mohou vývojáři ovládat viditelnost dat pomocí oblasti tisku a panelů zmrazení podle specifikací aplikace.
     </p>
    </div>
    <div class="col-lg-12">
@@ -335,7 +335,7 @@ Manipulujte a obnovujte kontingenční tabulky prostřednictvím čísla API
  Možnosti zabezpečení
     </h2>
     <p>
-Aspose.Cells for Node.js via Java nabízí širokou škálu bezpečnostních funkcí, včetně šifrování/dešifrování tabulkového procesoru, obsahu, objektů &amp; ochranu scénáře a také možnost skrýt a znovu zobrazit řádky, sloupce &amp; pracovní listy.
+ Aspose.Cells for Node.js via Java nabízí širokou škálu bezpečnostních funkcí, včetně šifrování/dešifrování tabulkového procesoru, obsahu, objektů &amp; ochranu scénáře a také možnost skrýt a znovu zobrazit řádky, sloupce &amp; pracovní listy.
     </p>
    </div>
    <div class="col-lg-12">
@@ -348,10 +348,10 @@ Aspose.Cells for Node.js via Java nabízí širokou škálu bezpečnostních fun
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
- Komplexní podpora pro formátování pracovních listů
+Komplexní podpora pro formátování pracovních listů
     </h2>
     <p>
-Aspose.Cells for Node.js via Java poskytuje pokročilé funkce formátování, které vám umožní řídit prezentaci vašich dat. Můžete použít formátování na list, sloupec, řádek nebo buňku nebo přidat formátovaný text do jedné buňky, použít ohraničení, nastavit vzory pozadí a styl písma. Číslo API také umožňuje přidávat, manipulovat &amp; vypočítat pravidla podmíněného formátování za běhu.
+ Aspose.Cells for Node.js via Java poskytuje pokročilé funkce formátování, které vám umožní řídit prezentaci vašich dat. Můžete použít formátování na list, sloupec, řádek nebo buňku nebo přidat formátovaný text do jedné buňky, použít ohraničení, nastavit vzory pozadí a styl písma. Číslo API také umožňuje přidávat, manipulovat &amp; vypočítat pravidla podmíněného formátování za běhu.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,7 +1,7 @@
 ---
-title: Převést CSV na SXC Python via Python
-description: Převést CSV na SXC online zdarma. Online zdarma převodník CSV na SXC. Python CSV až SXC. CSV až SXC přes Python.
-keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV to Image
+title: Python CSV až SXC - Online konvertor CSV až SXC
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převést CSV na SXC uložit formát. Python CSV až SXC formát. Uložte si CSV až SXC Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python CSV to SXC saveformat., Free Online CSV to SXC Python., Python Convert CSV to SXC]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést CSV na SXC na Python" h2="Vysokorychlostní knihovna Python pro převod CSV na SXC. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SXC" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert CSV, CSV Converter, CSV to PDF, CSV to Word, CSV to PPT, CSV t
 
 {{% blocks/products/pf/agp/content h2="Převést CSV na SXC na Python" %}}
 
- Jak převést CSV na SXC? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést CSV na SXC programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu CSV na SXC? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést CSV na SXC programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod CSV na SXC. Nahrajte svůj sou
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod CSV na SXC online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod CSV na SXC online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="csv" outformat="sxc" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést CSV na SXC" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři Python mohou snadno načíst a převést CSV na SXC v několika řádcích kódu.
+Potřebujete převést soubory CSV na SXC programově? Vývojáři Python mohou snadno načíst a převést CSV na SXC v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor CSV s instancí sešitu
-1.  Převeďte CSV na SXC voláním metody Workbook.save
+1.  Načtěte soubor CSV s instancí sešitu.
+1.  Převeďte CSV na SXC voláním metody Workbook.save.
+1.  Získejte výsledek převodu CSV na SXC.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="CSV" readMoreLink="https://docs.fileformat.com/spreadsheet/csv/" >}}Soubory s příponou .csv (Comma Separated Values) představují prosté textové soubory, které obsahují záznamy dat s hodnotami oddělenými čárkami. Každý řádek v souboru CSV je nový záznam ze sady záznamů obsažených v souboru. Takové soubory jsou generovány, když je zamýšlen přenos dat z jednoho úložného systému do druhého. Protože všechny aplikace dokážou rozpoznat záznamy oddělené čárkou, import takových datových souborů do databáze se provádí velmi pohodlně. Téměř všechny tabulkové aplikace, jako je Microsoft Excel nebo OpenOffice Calc, mohou importovat CSV bez velkého úsilí. Data importovaná z takových souborů jsou uspořádána do buněk tabulky pro reprezentaci uživateli.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SXC" readMoreLink="https://docs.fileformat.com/spreadsheet/sxc/" >}}Formát souboru SXC (Sun XML Calc) patří do kancelářského balíku OpenOffice.org. Tento formát se obecně zabývá tabulkovými potřebami uživatelů, protože se jedná o tabulkový formát založený na XML. Formát SXC podporuje vzorce, funkce, makra a grafy spolu s DataPilot, což je neuvěřitelná funkce, protože automaticky individualizuje a poskytuje souhrny nezpracovaných importovaných dat. Soubory vytvořené tímto softwarem jsou uloženy s příponou .sxc.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést CSV na mnoho dalších formátů souborů, včetně několika níže uvedených." >}}
 

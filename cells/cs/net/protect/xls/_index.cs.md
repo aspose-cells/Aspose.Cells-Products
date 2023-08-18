@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLS dokument via .NET
+title: Chraňte a uzamkněte XLS dokument via .NET
 weight: 7010
 description: C# zdrojový kód k uzamčení souboru XLS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---

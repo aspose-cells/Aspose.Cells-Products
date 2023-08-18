@@ -28,7 +28,7 @@ description: C# zdrojové kódy, které vysvětlují, jak rozdělit soubory Micr
 
 {{% blocks/products/pf/feature-page-section h2="Rozdělte pracovní list aplikace Excel na panely" %}}
 
- Pro rozdělení okna listu na panely poskytuje API[Split metoda](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) třídy listu, která poskytuje rozdělené zobrazení listu. Chcete-li odstranit rozdělený pohled, poskytuje API[Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Nakonec jej uložte do určené cesty.
+ Pro rozdělení okna listu na panely poskytuje API[Split metoda](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)třídy listu, která poskytuje rozdělené zobrazení listu. Chcete-li odstranit rozdělený pohled, poskytuje API[Metoda RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Nakonec jej uložte do určené cesty.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro rozdělení okna Excel Worksheet" %}}
 

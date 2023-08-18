@@ -106,7 +106,7 @@ sr.toImage(0, "output.jpg")
 {{< blocks/products/pf/feature-page-options pairs="xlsx-to-jpg xlsx-to-png xlsx-to-bmp ods-to-gif ods-to-svg ods-to-png ods-to-gif ods-to-bmp sxc-to-jpg mhtml-to-svg xlt-to-svg xls-to-emf fods-to-emf" afterslug="rendering" >}}
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte Excel do Wordu a PowerPoint" %}}
- Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [Možnosti PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions) třídy, jak je ukázáno níže.
+ Je možné načíst jakoukoli tabulku a převést ji na soubory Word DOCX a PowerPoint PPTX při používání[DocxSaveOptions](https://reference.aspose.com/cells/python/asposecells.api/DocxSaveOptions) & [Možnosti PptxSave](https://reference.aspose.com/cells/python/asposecells.api/PptxSaveOptions)třídy, jak je ukázáno níže.
 {{% blocks/products/pf/feature-page-code h3="Python kód pro Excel do Wordu a PowerPoint převod" %}}
 ```cs
 // load the template file

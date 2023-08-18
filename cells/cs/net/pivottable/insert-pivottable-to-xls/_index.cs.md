@@ -1,5 +1,5 @@
 ---
-title: Vložení kontingenční tabulky do souborů Microsoft Excel XLS přes C#
+title:  Vložení kontingenční tabulky do souborů Microsoft Excel XLS přes C#
 weight: 7690
 description: C# Ukázkový kód pro generování XLS dokumentů pomocí kontingenční tabulky. Tento kód použijte k vytváření souborů Microsoft Excel XLS s kontingenční tabulkou v rámci VB.NET, Asp.NET nebo jakékoli aplikace založené na .NET.
 ---
@@ -22,7 +22,7 @@ description: C# Ukázkový kód pro generování XLS dokumentů pomocí kontinge
 
 {{% blocks/products/pf/agp/text %}}
 
- Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLS do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
+Pro vývojáře je snadné vložit kontingenční tabulku ve formátu tabulky XLS do různých aplikací pro vytváření sestav pro zpracování dat pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -31,7 +31,7 @@ description: C# Ukázkový kód pro generování XLS dokumentů pomocí kontinge
 1.  Otevřete první list sešitu.
 1.  Získejte požadovanou buňku (buňky) listu a vložte hodnotu do buněk.
 1.  Vložte kontingenční tabulku a nastavte styl
-1.  Pomocí metody Uložit uložte sešit jako soubor XLS.
+1. Pomocí metody Uložit uložte sešit jako soubor XLS.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

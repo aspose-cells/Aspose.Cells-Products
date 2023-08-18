@@ -11,7 +11,7 @@ description: C# Ukázkový kód pro konverzi CSV na Byte Array. Tento kód použ
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array je užitečné pro zpracování nebo ukládání dat. Můžete převést soubor CSV na Byte Array, stejně jako a**Byte Array na CSV**dokument pomocí jazyka C#. Abychom převedli CSV na bajtové pole, použijeme
+ Byte Array je užitečné pro zpracování nebo ukládání dat. Můžete převést soubor CSV na Byte Array, stejně jako a**Byte Array na CSV** dokument pomocí jazyka C#. Abychom převedli CSV na bajtové pole, použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, která nabízí různé funkce pro manipulaci s dokumenty a převod pomocí platformy .NET.
 {{% /blocks/products/pf/agp/content %}}

@@ -1,7 +1,7 @@
 ---
-title: Převést MHTML na BMP Python via Python
-description: Převést MHTML na BMP online zdarma. Online zdarma převodník MHTML na BMP. Python MHTML až BMP. MHTML až BMP přes Python.
-keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to PPT, MHTML to Image
+title: Python MHTML až BMP - Online konvertor MHTML až BMP
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převést MHTML na BMP uložit formát. Python MHTML až BMP formát. Uložte si MHTML až BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python MHTML to BMP saveformat., Free Online MHTML to BMP Python., Python Convert MHTML to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést MHTML na BMP na Python" h2="Vysokorychlostní knihovna Python pro převod MHTML na BMP. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert MHTML, MHTML Converter, MHTML to PDF, MHTML to Word, MHTML to 
 
 {{% blocks/products/pf/agp/content h2="Převést MHTML na BMP na Python" %}}
 
- Jak převést MHTML na BMP? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést MHTML na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu MHTML na BMP? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést MHTML na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod MHTML na BMP. Nahrajte svůj s
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod MHTML na BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod MHTML na BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="mhtml" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést MHTML na BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Vývojáři Python mohou snadno načíst a převést MHTML na BMP v několika řádcích kódu.
+Potřebujete převést soubory MHTML na BMP programově? Vývojáři Python mohou snadno načíst a převést MHTML na BMP v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor MHTML s instancí sešitu
-1.  Převeďte MHTML na BMP voláním metody Workbook.save
+1.  Načtěte soubor MHTML s instancí sešitu.
+1.  Převeďte MHTML na BMP voláním metody Workbook.save.
+1.  Získejte výsledek převodu MHTML na BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}Soubory s příponou MHTML představují formát archivu webových stránek, který může vytvářet řada různých aplikací. Tento formát je známý jako archivní formát, protože ukládá webový kód HTML a související zdroje do jednoho souboru. Tyto zdroje zahrnují vše, co souvisí s webovou stránkou, jako jsou obrázky, aplety, animace, zvukové soubory a tak dále. Soubory MHTML lze otevřít v různých aplikacích, jako je Internet Explorer a Microsoft Word. Microsoft Windows používá formát souboru MHTML pro záznam scénářů problémů pozorovaných během používání jakékoli aplikace na Windows, která vyvolává problémy. Formát souboru MHTML kóduje obsah stránky podobně jako specifikace definované ve zprávě/rfc822, což jsou specifikace týkající se e-mailu ve formátu prostého textu.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako je Microsoft Windows a Mac. Formát souboru BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést MHTML na mnoho dalších formátů souborů, včetně několika níže uvedených." >}}
 

@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLSX via .NET
+title: Προστατέψτε και κλειδώστε το έγγραφο XLSX via .NET
 weight: 90
 description: C# πηγαίος κώδικας για κλείδωμα του αρχείου XLSX με χρήση κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
 ---

@@ -1,5 +1,5 @@
 ---
-title: Upravit XLSM soubory via .NET
+title:  Upravit XLSM soubory via .NET
 description: C# zdrojový kód pro úpravu dokumentu XLSM na platformách .NET Framework, .NET Core, Windows Azure, Mono nebo Xamarin.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

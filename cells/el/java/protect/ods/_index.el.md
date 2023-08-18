@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο ODS via Java
+title: Προστατέψτε και κλειδώστε το έγγραφο ODS via Java
 weight: 6360
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο ODS με χρήση κωδικού πρόσβασης στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLSB dokument via Java
+title: Chraňte a uzamkněte XLSB dokument via Java
 weight: 6590
 description: Java ukázkový kód pro uzamčení souboru XLSB pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---

@@ -281,7 +281,7 @@ description: C++ Βιβλιοθήκη Excel για ανάγνωση εγγραφ
     <em class="fa fa-bar-chart ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Δημιουργία &amp; χειριστείτε τα γραφήματα
+ Δημιουργία &amp; χειραγώγηση γραφημάτων
     </p>
    </div>
    <div class="col-lg-4">

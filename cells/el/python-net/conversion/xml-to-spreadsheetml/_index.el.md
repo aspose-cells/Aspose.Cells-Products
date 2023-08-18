@@ -1,7 +1,7 @@
 ---
-title: Μετατροπή XML σε SPREADSHEETML Python via Python
-description: Μετατρέψτε το XML σε SPREADSHEETML Online δωρεάν. Δωρεάν Online Μετατροπέας XML σε SPREADSHEETML. Python XML σε SPREADSHEETML. XML σε SPREADSHEETML μέσω Python.
-keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML to Image
+title: Python XML σε SPREADSHEETML - Online Μετατροπέας XML σε SPREADSHEETML
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Δωρεάν Online Python Μετατροπή XML σε μορφή αποθήκευσης SPREADSHEETML. Python Μορφή XML σε SPREADSHEETML. Αποθήκευση XML στο SPREADSHEETML Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python XML to SPREADSHEETML saveformat., Free Online XML to SPREADSHEETML Python., Python Convert XML to SPREADSHEETML]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Μετατρέψτε το XML σε SPREADSHEETML στο Python" h2="Βιβλιοθήκη υψηλής ταχύτητας Python για μετατροπή XML σε SPREADSHEETML. Χρησιμοποιήστε τη μετατροπή excel API για να αναπτύξετε λογισμικό υψηλού επιπέδου, ανεξάρτητο από πλατφόρμα στο Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="SPREADSHEETML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/content h2="Μετατρέψτε το XML σε SPREADSHEETML στο Python" %}}
 
- Πώς να μετατρέψετε το XML σε SPREADSHEETML; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να μετατρέψετε XML σε SPREADSHEETML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
+ Πώς μπορώ να μετατρέψω το XML σε SPREADSHEETML; Με τη βιβλιοθήκη Aspose.Cells for Python μέσω NET, μπορείτε εύκολα να μετατρέψετε XML σε SPREADSHEETML μέσω προγραμματισμού με λίγες γραμμές κώδικα.[Aspose.Cells for Python μέσω NET](https://pypi.org/project/aspose-cells-python/)έχει τη δυνατότητα δημιουργίας εφαρμογών πολλαπλών πλατφορμών με δυνατότητα δημιουργίας, τροποποίησης, μετατροπής, απόδοσης και εκτύπωσης όλων των αρχείων Excel. Python Το Excel API όχι μόνο μετατρέπει μεταξύ μορφών υπολογιστικών φύλλων, αλλά μπορεί επίσης να αποδώσει αρχεία Excel ως εικόνες, PDF, HTML, ODS, CSV, 07616031481, CSV, 07616831481, δημιουργώντας περισσότερα τέλεια επιλογή για την ανταλλαγή εγγράφων σε βιομηχανικά πρότυπα μορφές.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XML σε SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Δωρεάν εφαρμογή και δείγμα κώδικα για μετατροπή XML σε SPREADSHEETML Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xml" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Πώς να μετατρέψετε το XML σε SPREADSHEETML" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python οι προγραμματιστές μπορούν εύκολα να φορτώσουν και να μετατρέψουν το XML σε SPREADSHEETML σε λίγες μόνο γραμμές κώδικα.
+Θέλετε να μετατρέψετε αρχεία XML σε SPREADSHEETML μέσω προγραμματισμού; Python οι προγραμματιστές μπορούν εύκολα να φορτώσουν και να μετατρέψουν το XML σε SPREADSHEETML σε λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Εγκαταστήστε το 'Aspose.Cells for Python via .NET'.
 1.  Προσθέστε μια αναφορά βιβλιοθήκης (εισάγετε τη βιβλιοθήκη) στο έργο σας Python.
-1.  Φορτώστε το αρχείο XML με μια παρουσία του βιβλίου εργασίας
-1.  Μετατρέψτε το XML σε SPREADSHEETML καλώντας τη μέθοδο Workbook.save
+1.  Φορτώστε το αρχείο XML με μια παρουσία του βιβλίου εργασίας.
+1.  Μετατρέψτε το XML σε SPREADSHEETML καλώντας τη μέθοδο Workbook.save.
+1.  Λάβετε το αποτέλεσμα μετατροπής XML σε SPREADSHEETML.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/)σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
+ Και μπορείτε επίσης να ακολουθήσετε το[οδηγίες βήμα προς βήμα](https://docs.aspose.com/cells/python-net/getting-started/) σχετικά με τον τρόπο εγκατάστασης του "Aspose.Cells for Python via .NET" στο περιβάλλον προγραμματιστή σας.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ keywords: Convert XML, XML Converter, XML to PDF, XML to Word, XML to PPT, XML t
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
+ Aspose.Cells for Python μέσω NET είναι ανεξάρτητο από πλατφόρμα API και μπορεί να χρησιμοποιηθεί σε οποιαδήποτε πλατφόρμα (Windows, Linux), απλώς βεβαιωθείτε ότι το σύστημα έχει[Python](https://www.python.org/downloads/) 3,7 ή υψηλότερο.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Το XML σημαίνει επεκτάσιμη γλώσσα σήμανσης που είναι παρόμοια με το HTML αλλά διαφέρει στη χρήση ετικετών για τον ορισμό αντικειμένων. Η όλη ιδέα πίσω από τη δημιουργία μιας μορφής αρχείου XML ήταν η αποθήκευση και η μεταφορά δεδομένων χωρίς να εξαρτώνται από λογισμικό ή εργαλεία υλικού. Η δημοτικότητά του οφείλεται στο ότι είναι αναγνώσιμο τόσο από τον άνθρωπο όσο και από μηχανή. Αυτό του επιτρέπει να δημιουργεί κοινά πρωτόκολλα δεδομένων με τη μορφή αντικειμένων που θα αποθηκευτούν και θα μοιραστούν μέσω δικτύου όπως ο Παγκόσμιος Ιστός (WWW). Το "X" στο XML είναι για επεκτάσιμο πράγμα που σημαίνει ότι η γλώσσα μπορεί να επεκταθεί σε οποιοδήποτε αριθμό συμβόλων σύμφωνα με τις απαιτήσεις του χρήστη. Για αυτές τις δυνατότητες πολλές τυπικές μορφές αρχείων το χρησιμοποιούν, όπως Microsoft Open XML, LibreOffice OpenDocument, XHTML και SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}Το XML σημαίνει επεκτάσιμη γλώσσα σήμανσης που είναι παρόμοια με το HTML αλλά διαφέρει στη χρήση ετικετών για τον ορισμό αντικειμένων. Η όλη ιδέα πίσω από τη δημιουργία μιας μορφής αρχείου XML ήταν η αποθήκευση και η μεταφορά δεδομένων χωρίς να εξαρτώνται από λογισμικό ή εργαλεία υλικού. Η δημοτικότητά του οφείλεται στο ότι είναι αναγνώσιμο τόσο από τον άνθρωπο όσο και από μηχανή. Αυτό του επιτρέπει να δημιουργεί κοινά πρωτόκολλα δεδομένων με τη μορφή αντικειμένων που θα αποθηκευτούν και θα μοιραστούν μέσω δικτύου όπως ο Παγκόσμιος Ιστός (WWW). Το "X" στο XML είναι για επεκτάσιμο πράγμα που σημαίνει ότι η γλώσσα μπορεί να επεκταθεί σε οποιοδήποτε αριθμό συμβόλων σύμφωνα με τις απαιτήσεις του χρήστη. Για αυτές τις δυνατότητες πολλές τυπικές μορφές αρχείων το χρησιμοποιούν, όπως Microsoft Open XML, LibreOffice OpenDocument, XHTML και SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες υποστηριζόμενες μετατροπές" subTitle="Μπορείτε επίσης να μετατρέψετε XML σε πολλές άλλες μορφές αρχείων, συμπεριλαμβανομένων μερικών που αναφέρονται παρακάτω." >}}
 

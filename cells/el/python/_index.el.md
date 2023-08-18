@@ -419,7 +419,7 @@ description: Python βιβλιοθήκη υπολογιστικών φύλλων
     </p>
     <div class="codeblock" id="code">
      <h3>
- Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
+Αποθήκευση υπολογιστικού φύλλου σε διαφορετικές μορφές - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

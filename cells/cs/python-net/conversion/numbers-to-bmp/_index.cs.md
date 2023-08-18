@@ -1,7 +1,7 @@
 ---
-title: Převést ČÍSLA na BMP Python via Python
-description: Převeďte ČÍSLA na BMP online zdarma. Zdarma online převodník ČÍSEL na BMP. Python ČÍSLA na BMP. ČÍSLA na BMP přes Python.
-keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, NUMBERS to PPT, NUMBERS to Image
+title: Python ČÍSLA na BMP - Online převodník ČÍSEL na BMP
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte ČÍSLA do formátu uložení BMP. Python ČÍSLA až BMP formát. Ušetřete ČÍSLA na BMP Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python NUMBERS to BMP saveformat., Free Online NUMBERS to BMP Python., Python Convert NUMBERS to BMP]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte ČÍSLA na BMP v Python" h2="Vysokorychlostní knihovna Python pro převod ČÍSEL na BMP. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="BMP" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert NUMBERS, NUMBERS Converter, NUMBERS to PDF, NUMBERS to Word, N
 
 {{% blocks/products/pf/agp/content h2="Převeďte ČÍSLA na BMP v Python" %}}
 
- Jak převést ČÍSLA na BMP? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ČÍSLA na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu ČÍSLA na BMP? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést ČÍSLA na BMP programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod ČÍSEL na BMP. Nahrajte svůj
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ČÍSEL na BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod ČÍSEL na BMP online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="numbers" outformat="bmp" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést ČÍSLA na BMP" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
-Vývojáři Python mohou snadno načíst a převést ČÍSLA na BMP v několika řádcích kódu.
+Potřebujete převést soubory NUMBERS na BMP programově? Vývojáři Python mohou snadno načíst a převést ČÍSLA na BMP v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načíst NUMBERS soubor s instancí Workbook
-1.  Převeďte ČÍSLA na BMP voláním metody Workbook.save
+1.  Načíst NUMBERS soubor s instancí Workbook.
+1.  Převeďte ČÍSLA na BMP voláním metody Workbook.save.
+1.  Získejte výsledek převodu NUMBERS na BMP.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="NUMBERS" readMoreLink="https://docs.fileformat.com/spreadsheet/numbers/" >}}Soubory s příponou .numbers jsou klasifikovány jako tabulkový, proto jsou podobné souborům .xlsx; ale soubory Numbers jsou vytvořeny pomocí tabulkového softwaru Apple iWork Numbers. Apple iWork Numbers je software jednotky iWork Productivity Suite. Sada iWork Productivity Suite je ekvivalentem sady Office Microsoft, která se používá na počítačích Windows. Můžeme tedy říci, že Numbers, který je k dispozici pro MacOS, je také konkurentem Microsoft Excel. Podobně, Microsoft Excel, soubor NUMBERS může také obsahovat tabulky, grafy a vzorce.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako je Microsoft Windows a Mac. Formát souboru BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést NUMBERS do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
 

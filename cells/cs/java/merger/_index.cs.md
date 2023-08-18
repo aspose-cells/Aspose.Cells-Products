@@ -27,7 +27,7 @@ book1.save("combined.xlsx");
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section h2="Sloučit více souborů aplikace Excel" %}}
-[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles) metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
+[CellsHelper.mergeFiles](https://reference.aspose.com/cells/java/com.aspose.cells/cellshelper#mergeFiles)metoda podporuje sloučení dat, stylu a vzorců souboru Excel do nové tabulky stejného formátu. Je to efektivní způsob, jak sloučit několik souborů při použití ukládání do mezipaměti.
 {{% blocks/products/pf/feature-page-code h3="Java Kód pro sloučení několika souborů aplikace Excel" %}}
 
 ```cs

@@ -1,7 +1,7 @@
 ---
-title: Převést SPREADSHEETML na XLSX Python via Python
-description: Převést SPREADSHEETML na XLSX online zdarma. Zdarma online převodník SPREADSHEETML na XLSX. Python SPREADSHEETML na XLSX. SREADSHEETML na XLSX přes Python.
-keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, SPREADSHEETML to Word, SPREADSHEETML to PPT, SPREADSHEETML to Image
+title: Python SPREADSHEETML na XLSX - Online převodník SPREADSHEETML na XLSX
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte SPREADSHEETML na XLSX saveformat. Python SPREADSHEETML do formátu XLSX. Uložte SPREADSHEETML na XLSX Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python SPREADSHEETML to XLSX saveformat., Free Online SPREADSHEETML to XLSX Python., Python Convert SPREADSHEETML to XLSX]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převést SPREADSHEETML na XLSX v Python" h2="Vysokorychlostní knihovna Python pro převod SPREADSHEETML na XLSX. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="XLSX" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert SPREADSHEETML, SPREADSHEETML Converter, SPREADSHEETML to PDF, 
 
 {{% blocks/products/pf/agp/content h2="Převést SPREADSHEETML na XLSX v Python" %}}
 
- Jak převést SPREADSHEETML na XLSX? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést SPREADSHEETML na XLSX programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu SPREADSHEETML na XLSX? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést SPREADSHEETML na XLSX programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků pro převod SPREADSHEETML na XLSX. Nahrajt
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SPREADSHEETML na XLSX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod SPREADSHEETML na XLSX online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xml" outformat="xlsx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést SPREADSHEETML na XLSX" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python vývojáři mohou snadno načíst a převést SPREADSHEETML na XLSX v několika řádcích kódu.
+Potřebujete převést soubory SPREADSHEETML na XLSX programově? Python vývojáři mohou snadno načíst a převést SPREADSHEETML na XLSX v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor SPREADSHEETML s instancí sešitu
-1.  Převeďte SPREADSHEETML na XLSX voláním metody Workbook.save
+1.  Načtěte soubor SPREADSHEETML s instancí sešitu.
+1.  Převeďte SPREADSHEETML na XLSX voláním metody Workbook.save.
+1.  Získejte výsledek převodu SPREADSHEETML na XLSX.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="SPREADSHEETML" readMoreLink="https://docs.fileformat.com/web/xml/" >}}XML je zkratka pro Extensible Markup Language, která je podobná HTML, ale liší se v používání značek pro definování objektů. Celá myšlenka za vytvořením formátu souboru XML byla ukládat a přenášet data bez závislosti na softwarových nebo hardwarových nástrojích. Jeho popularita je způsobena tím, že je čitelný člověkem i strojově. To umožňuje vytvářet společné datové protokoly ve formě objektů, které mají být uloženy a sdíleny po síti, jako je World Wide Web (WWW). "X" v XML je pro rozšiřitelnost, což znamená, že jazyk lze rozšířit na libovolný počet symbolů podle požadavků uživatele. Právě pro tyto funkce jej využívá mnoho standardních formátů souborů, jako je Microsoft Open XML, LibreOffice OpenDocument, XHTML a SVG.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="XLSX" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX je dobře známý formát pro dokumenty Excel Microsoft, který byl představen společností Microsoft vydáním Microsoft Office 2007. Na základě struktury organizované podle konvencí otevřeného balení, jak je uvedeno v části 2 standardu OOXML ECMA-376, je nový formát ECMA-376 zip balíček, který obsahuje řadu souborů XML. Základní strukturu a soubory lze prozkoumat jednoduchým rozbalením souboru .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="Můžete také převést SPREADSHEETML do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
 

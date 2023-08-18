@@ -12,11 +12,11 @@ description: C# ASP.NET knihovna VB.NET pro práci s dokumenty Microsoft Excel. 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Cells for .NET je programování tabulkového procesoru Excel API pro urychlení správy a zpracování tabulek. API podporuje vytváření aplikací pro různé platformy, které mají schopnost generovat, upravovat, převádět, vykreslovat a tisknout tabulky. Kromě toho se nespoléhá na instalaci Microsoft Excel nebo jakékoli Microsoft Office Interop komponenty, ale na robustní sadu rozhraní API, která se zabývají všemi formáty aplikace Excel a také formáty CSV a SpreadsheetML.
+Aspose.Cells for .NET je programování tabulkového procesoru Excel API pro urychlení správy a zpracování tabulek. API podporuje vytváření aplikací pro různé platformy, které mají schopnost generovat, upravovat, převádět, vykreslovat a tisknout tabulky. Kromě toho se nespoléhá na instalaci Microsoft Excel nebo jakékoli Microsoft Office Interop komponenty, ale na robustní sadu rozhraní API, která se zabývají všemi formáty aplikace Excel a také formáty CSV a SpreadsheetML.
 </p>
 
 <p>
-Díky integraci API mohou vývojáři provádět některé základní úkoly, jako je správa více listů, vytváření obsahu a stylů tabulek od začátku, import dat do listů z různých zdrojů dat, přidávání běžných a složitých matematických, finančních a textových vzorců, manipulace s grafy, obrázky, komentáře, kreslení objektů a mnoho dalšího.
+ Díky integraci API mohou vývojáři provádět některé základní úkoly, jako je správa více listů, vytváření obsahu a stylů tabulek od začátku, import dat do listů z různých zdrojů dat, přidávání běžných a složitých matematických, finančních a textových vzorců, manipulace s grafy, obrázky, komentáře, kreslení objektů a mnoho dalšího.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -314,7 +314,7 @@ Díky integraci API mohou vývojáři provádět některé základní úkoly, ja
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-Pokročilé funkce tabulky Excel API
+ Pokročilé funkce tabulky Excel API
    </h2>
    <!-- <p>Unlike similar products from other vendors, Aspose.Cells for .NET not only supports spreadsheet generation and other basic file formatting features, it also supports a number of advanced features. These advanced features make it much easier for the developers to manipulate spreadsheet contents, cell formatting and file protection.</p>
 
@@ -374,7 +374,7 @@ Pokročilé funkce tabulky Excel API
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
- Podpora pro CSV (hodnoty oddělené čárkou) &amp; TSV (hodnoty oddělené tabulátorem)
+Podpora pro CSV (hodnoty oddělené čárkou) &amp; TSV (hodnoty oddělené tabulátorem)
     </p>
    </div>
    <div class="col-lg-4">
@@ -449,14 +449,14 @@ Pokročilé funkce tabulky Excel API
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-Převést tabulky na PDF, XPS &amp; HTML Formáty
+ Převést tabulky na PDF, XPS &amp; HTML Formáty
     </h2>
     <p>
  Aspose.Cells for .NET je schopen převádět tabulky na PDF, XPS &amp; HTML formátuje při zachování nejvyšší vizuální věrnosti. Proces převodu je jednoduchý, ale spolehlivý, a proto je API perfektní volbou pro organizace, které vyžadují výměnu dokumentů v jakémkoli standardním průmyslovém formátu.
     </p>
     <div class="codeblock" id="code">
      <h3>
- Uložte tabulku v různých formátech - C#
+Uložte tabulku v různých formátech - C#
      </h3>
      <pre><code class="cs">// load file to be converted
 
@@ -481,7 +481,7 @@ workbook.Save(dir + "output.html", Aspose.Cells.SaveFormat.Html);</code></pre>
  Aspose.Cells for .NET vám poskytuje naprostou svobodu a flexibilitu při vybavování vašich tabulek všemi druhy vizuálních efektů. API vám umožňuje používat různá písma s atributy, styly buněk (zarovnání, odsazení, otočení, okraje, stínování a barvení, ochrana, zalamování a zmenšování textu) a všechny typy formátů čísel.
     </p>
     <p>
-Podobně jsou grafy a grafiky vizuálně přitažlivé a mohou vaší tabulce dodat profesionální vzhled. Aspose.Cells for .NET poskytuje komplexní sadu rozhraní API pro vytváření a manipulaci se všemi standardními a vlastními typy grafů. Kromě toho můžete do buněk přidávat různé typy nakreslených objektů, jako jsou komentáře, obrázky, objekty OLE, tvary a ovládací prvky
+ Podobně jsou grafy a grafiky vizuálně přitažlivé a mohou vaší tabulce dodat profesionální vzhled. Aspose.Cells for .NET poskytuje komplexní sadu rozhraní API pro vytváření a manipulaci se všemi standardními a vlastními typy grafů. Kromě toho můžete do buněk přidávat různé typy nakreslených objektů, jako jsou komentáře, obrázky, objekty OLE, tvary a ovládací prvky
     </p>
    </div>
    <div class="col-lg-12">
@@ -489,7 +489,7 @@ Podobně jsou grafy a grafiky vizuálně přitažlivé a mohou vaší tabulce do
  Efektivní, robustní & Spolehlivý motor pro výpočet vzorce
     </h2>
     <p>
- Aspose.Cells for .NET má výkonný modul pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vestavěného, doplňku, pole &amp; Vzorce referenčního stylu R1C1.
+Aspose.Cells for .NET má výkonný modul pro výpočet vzorců, který podporuje téměř všechny standardní a pokročilé vzorce a funkce Microsoft Excel. Můžete číst, nastavovat a vypočítat výsledky vestavěného, doplňku, pole &amp; Vzorce referenčního stylu R1C1.
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +497,7 @@ Podobně jsou grafy a grafiky vizuálně přitažlivé a mohou vaší tabulce do
  Shrnutí dat pomocí kontingenčních tabulek, grafů &amp; Chytré značky
     </h2>
     <p>
-Kontingenční tabulka vám může pomoci rychle shrnout plochá data a získat požadované informace podle vašich potřeb. .NET Knihovna Excel umožňuje dynamicky vytvářet kontingenční tabulky a kontingenční grafy. Zdrojová data kontingenční tabulky můžete dynamicky měnit a aktualizovat. Knihovna navíc nabízí inteligentní značky, což je skvělá funkce pro vyplňování listů na základě některých zdrojů dat a vytváření vizuálně účinných sestav.
+ Kontingenční tabulka vám může pomoci rychle shrnout plochá data a získat požadované informace podle vašich potřeb. .NET Knihovna Excel umožňuje dynamicky vytvářet kontingenční tabulky a kontingenční grafy. Zdrojová data kontingenční tabulky můžete dynamicky měnit a aktualizovat. Knihovna navíc nabízí inteligentní značky, což je skvělá funkce pro vyplňování listů na základě některých zdrojů dat a vytváření vizuálně účinných sestav.
     </p>
    </div>
    <div class="col-lg-12">
@@ -505,11 +505,11 @@ Kontingenční tabulka vám může pomoci rychle shrnout plochá data a získat 
  Render Excel Worksheets &amp; Grafy jako obrázky
     </h2>
     <p>
- Aspose.Cells for .NET má svůj vlastní renderovací engine speciálně navržený pro rendering &amp; tisk s nejvyšší věrností Microsoft Excel. Nabízí výrazné funkce, jako je vykreslování excelových listů &amp; grafy k obrázkům &amp; tisk listů na jakékoli připojené fyzické tiskárně. Proces je flexibilní, takže vám umožňuje vybrat si řadu možností, jako je kontrola výsledných rozměrů obrazu při vykreslování listů &amp; grafy k obrázkům.
+Aspose.Cells for .NET má svůj vlastní renderovací engine speciálně navržený pro rendering &amp; tisk s nejvyšší věrností Microsoft Excel. Nabízí výrazné funkce, jako je vykreslování excelových listů &amp; grafy k obrázkům &amp; tisk listů na jakékoli připojené fyzické tiskárně. Proces je flexibilní, takže vám umožňuje vybrat si řadu možností, jako je kontrola výsledných rozměrů obrazu při vykreslování listů &amp; grafy k obrázkům.
     </p>
     <div class="codeblock" id="code">
      <h3>
-Převést pracovní list na obrázek - C#
+ Převést pracovní list na obrázek - C#
      </h3>
      <pre><code class="cs">// load spreadsheet file
 
@@ -551,7 +551,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Grafická rozhraní pro web &amp; Desktopové aplikace
     </h2>
     <p>
- Aspose.Cells for .NET poskytuje ovládací prvky GUI pro web &amp; desktopové aplikace. Koncový uživatel může tyto ovládací prvky použít k otevření, uložení &amp; upravovat soubory Excel, importovat &amp; exportovat data, spravovat formátování &amp; vzorce a převádět mezi několika podporovanými formáty tabulek přímo z front-endu vaší aplikace.
+Aspose.Cells for .NET poskytuje ovládací prvky GUI pro web &amp; desktopové aplikace. Koncový uživatel může tyto ovládací prvky použít k otevření, uložení &amp; upravovat soubory Excel, importovat &amp; exportovat data, spravovat formátování &amp; vzorce a převádět mezi několika podporovanými formáty tabulek přímo z front-endu vaší aplikace.
     </p>
    </div>
    <div class="col-lg-12">
@@ -559,7 +559,7 @@ renderer.ToImage(0, dir + "output.jpeg");</code></pre>
  Microsoft Automatizace Office – není potřeba
     </h2>
     <p>
-Aspose.Cells for .NET je vytvořen pomocí spravovaného kódu, který nikdy nevyžaduje instalaci Microsoft Office nebo Microsoft Excel do počítače, aby mohl pracovat s formáty dokumentů aplikace Excel. Je to perfektní alternativa pro automatizaci Office Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
+ Aspose.Cells for .NET je vytvořen pomocí spravovaného kódu, který nikdy nevyžaduje instalaci Microsoft Office nebo Microsoft Excel do počítače, aby mohl pracovat s formáty dokumentů aplikace Excel. Je to perfektní alternativa pro automatizaci Office Microsoft z hlediska podporovaných funkcí, zabezpečení, stability, škálovatelnosti, rychlosti a ceny.
     </p>
    </div>
   </div>
@@ -582,7 +582,7 @@ Aspose.Cells for .NET je vytvořen pomocí spravovaného kódu, který nikdy nev
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Sada produktů Aspose a podpora jsou bezkonkurenční. Bez tohoto řešení bychom nedokázali to, co jsme dokázali.
+Sada produktů Aspose a podpora jsou bezkonkurenční. Bez tohoto řešení bychom nedokázali to, co jsme dokázali.
  <em>
  Dr. Dan Patterson | Acumen, Spojené království
  </em>

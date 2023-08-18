@@ -6,7 +6,7 @@ description: Převeďte Excel XLS, XLSX, ODS, CSV na PDF, XPS, XPS, HTML, JPEG a
 {{< blocks/products/pf/i18n/feature-page-header h1="Microsoft<sup>&reg;</sup> Konverze dokumentů aplikace Excel prostřednictvím čísla C++" h2="Uložte Microsoft<sup>&reg;</sup> soubory Excel jako tabulkový procesor, web, obrázky a formáty s pevným rozvržením" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
- Pro jakoukoli aplikaci nebo řešení pro převod tabulek,**C++ Knihovna Excel**urychluje procesy kódování, automatizace a konverze při práci s více soubory včetně XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, CSV, 807481, umožňuje také převést na 3818183,81,81. Excel na PDF**, XPS, HTML, MHTML, obyčejný Text a oblíbené obrázky jako JPG, TIFF, PNG, BMP a SVG.
+ Pro jakoukoli aplikaci nebo řešení pro převod tabulek,**C++ Knihovna Excel** urychluje procesy kódování, automatizace a konverze při práci s více soubory včetně XLSX, XLS, XLSM, XLSB, XLTX, XLTM, CSV, CSV, CSV, 807481, umožňuje také převést na 3818183,81,81. Excel na PDF**, XPS, HTML, MHTML, obyčejný Text a oblíbené obrázky jako JPG, TIFF, PNG, BMP a SVG.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Vzájemná konverze Microsoft formátů Excel" %}}
@@ -28,7 +28,7 @@ wkb->Save(u"output_excel_format.xlsx", SaveFormat_Xlsx);
 
 
 {{% blocks/products/pf/feature-page-section h2="Převeďte formáty Excelu na PDF s nastavením úrovně souladu" %}}
- C++ Excel Automation API podporuje převod sešitů na PDF a také podporuje nastavení úrovně souladu a data vytvoření. Vývojáři mohou použít[Možnosti IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) spolu s[Aspose::Cells::Vykreslování](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering)pro nastavení souladu PDF. Pro převod API metoda uložení s parametrem PdfSaveOptions a zadanou cestou k výstupnímu souboru.
+ C++ Excel Automation API podporuje převod sešitů na PDF a také podporuje nastavení úrovně souladu a data vytvoření. Vývojáři mohou použít[Možnosti IPdfSave](https://reference.aspose.com/cells/cpp/class/aspose.cells.i_pdf_save_options) spolu s[Aspose::Cells::Vykreslování](https://reference.aspose.com/cells/cpp/namespace/aspose.cells.rendering) pro nastavení souladu PDF. Pro převod API metoda uložení s parametrem PdfSaveOptions a zadanou cestou k výstupnímu souboru.
 {{% blocks/products/pf/feature-page-code h3="C++ Ukázkový kód pro převod Excel na PDF" %}}
 
 ```cs

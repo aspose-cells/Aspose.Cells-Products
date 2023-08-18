@@ -58,7 +58,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TS
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor TSV vytvořením instance objektu Workbook.
-Přístup k prvnímu listu v souboru TSV.
++ Přístup k prvnímu listu v souboru TSV.
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu

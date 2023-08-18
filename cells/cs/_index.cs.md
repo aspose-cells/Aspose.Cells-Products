@@ -18,7 +18,7 @@ Java API pro vytváření, manipulaci, převod nebo zpracování sešitů, list�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/cells/cpp" >}}
-Nativní knihovna C++ pro vytváření, načítání, manipulaci, převod nebo vykreslování formátů souborů Microsoft Excel a OpenOffice Calc z čistě aplikací C++.
+Nativní knihovna C++ pro vytváření, načítání, manipulaci, převod nebo vykreslování formátů souborů Microsoft Excel a OpenOffice Calc z čistých aplikací C++.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/cells/family/" innerText="Zobrazit všechna rozhraní API vysokého kódu" >}}
@@ -50,7 +50,7 @@ Snadno převádějte soubory Microsoft Excel na PDF, HTML, obrázky a mnoho dal�
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Metadata" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Stačí nahrát svůj soubor Excel Microsoft a zobrazit nebo upravit metadata tabulky z libovolného prohlížeče. Nevyžaduje instalaci ani další nástroje.
+ Stačí nahrát svůj soubor Excel Microsoft a zobrazit nebo upravit metadata tabulky z libovolného prohlížeče. Není nutná žádná instalace ani další nástroje.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Divák" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Prohlížejte si tabulkové soubory včetně XLS, XLSX, XLSM, XLSB a ODS ve své
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Sada produktů Aspose a podpora jsou bezkonkurenční. Bez tohoto řešení bychom nedokázali to, co jsme dokázali.
+Sada produktů Aspose a podpora jsou bezkonkurenční. Bez tohoto řešení bychom nedokázali to, co jsme dokázali.
  <em>
  Dr. Dan Patterson | Acumen, Spojené království
  </em>

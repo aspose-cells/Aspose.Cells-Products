@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte ODS dokument via Java
+title: Chraňte a uzamkněte ODS dokument via Java
 weight: 6360
 description: Java ukázkový kód pro uzamčení souboru ODS pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---

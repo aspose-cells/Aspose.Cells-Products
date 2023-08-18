@@ -419,7 +419,7 @@ Pokročilé Python Excel API Funkce
     </p>
     <div class="codeblock" id="code">
      <h3>
- Uložte tabulku v různých formátech - Java
+Uložte tabulku v různých formátech - Java
      </h3>
      <pre><code class="java">// load file to be converted
 

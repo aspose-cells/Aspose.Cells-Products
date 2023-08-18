@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLSM via .NET
+title: Προστατέψτε και κλειδώστε το έγγραφο XLSM via .NET
 weight: 7530
 description: C# πηγαίος κώδικας για κλείδωμα του αρχείου XLSM με χρήση κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
 ---

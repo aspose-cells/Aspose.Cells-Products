@@ -37,7 +37,7 @@ description: PHP Excel tabulka API pro čtení zápis a převod XLS XLSX CSV TSV
  Převést pracovní list na obrázek
     </li>
     <li>
-Převést tabulku na PDF
+ Převést tabulku na PDF
     </li>
    </ul>
   </div>

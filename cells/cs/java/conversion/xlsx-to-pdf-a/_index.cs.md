@@ -1,5 +1,5 @@
 ---
-title:  Převést XLSX na PDF/A Complied Files via Java
+title: Převést XLSX na PDF/A Complied Files via Java
 weight: 3200
 description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. Programátoři mohou použít tento příklad kódu k exportu tabulek Excelu a OpenOffice do souborů PDFA v jakékoli webové nebo desktopové aplikaci založené na Java.
 ---
@@ -13,7 +13,7 @@ description: Ukázkový konverzní kód Java pro formát XLSX na soubory PDF A. 
 
  K vykreslení XLSX na PDF/A použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, což je funkčně bohatá, výkonná a snadno použitelná konverzní platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+ API, což je funkčně bohatá, výkonná a snadno použitelná konverzní platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
@@ -58,7 +58,7 @@ API, což je funkčně bohatá, výkonná a snadno použitelná konverzní platf
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Načtěte soubor XLSX s instancí třídy Workbook
-1.  Vytvořte objekt třídy PdfSaveOptions
+1. Vytvořte objekt třídy PdfSaveOptions
 1.  Nastavte typ shody PdfCompliance.PdfA1b
 1.  Zavolejte metodu Workbook.save
 1.  Předat výstupní cestu s rozšířením PDF a objektem PdfSaveOptions jako parametry

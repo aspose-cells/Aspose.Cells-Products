@@ -13,7 +13,7 @@ description: Java ukázkový kód pro rozdělení ODS dokumentů na Java Runtime
 
  K rozdělení souboru ODS použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
-API, což je funkčně bohatá, výkonná a snadno použitelná platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+ API, což je funkčně bohatá, výkonná a snadno použitelná platforma API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 

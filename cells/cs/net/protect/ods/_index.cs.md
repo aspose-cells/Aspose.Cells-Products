@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte ODS dokument via .NET
+title: Chraňte a uzamkněte ODS dokument via .NET
 weight: 5580
 description: C# zdrojový kód k uzamčení souboru ODS pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---

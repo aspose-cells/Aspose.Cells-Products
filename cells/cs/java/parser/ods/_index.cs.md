@@ -63,7 +63,7 @@ description: Java ukázkový kód pro extrahování textu a obrázků ze souboru
 + Vyberte požadovaný list pomocí metody getWorksheets().get.
 + Získejte všechny buňky vybraného listu pomocí getCells().
 + Iterujte každou buňku, získejte její text.
-+ Vytiskněte každou hodnotu buňky nebo použijte metodu append() StringBuilder k zobrazení jako celku
+Vytiskněte každou hodnotu buňky nebo použijte metodu append() StringBuilder k zobrazení jako celku
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

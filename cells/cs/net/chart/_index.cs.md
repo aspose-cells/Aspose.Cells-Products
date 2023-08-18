@@ -11,7 +11,7 @@ description:  C# zdrojový kód pro kreslení a převod grafu nebo diagramu v Mi
 
 {{% blocks/products/pf/feature-page-section h2="Vytvářejte grafy v souboru aplikace Excel" %}}
 
- Vytváření grafů pomocí Excelu API je jednoduché. Proces je, vytvořit[Třída sešitu](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Vložte požadovaná data buněk pomocí[Metoda PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Přidejte graf do listu pomocí kolekce Charts[Přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Určete[Typ grafu](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) výčtu ChartType.
+ Vytváření grafů pomocí Excelu API je jednoduché. Proces je, vytvořit[Třída sešitu](https://reference.aspose.com/cells/net/aspose.cells/workbook) objekt a vyberte první list nebo příslušný list zadáním jeho indexu. Vložte požadovaná data buněk pomocí[Metoda PutValue](https://reference.aspose.com/cells/net/aspose.cells/cell/methods/putvalue/index) . Přidejte graf do listu pomocí kolekce Charts[Přidat metodu](https://reference.aspose.com/cells/net/aspose.cells.charts/chartcollection/methods/add) . Zadejte[Typ grafu](https://reference.aspose.com/cells/net/aspose.cells.charts/charttype) výčtu ChartType.
 {{% blocks/products/pf/feature-page-code h3="C# Kód pro vytváření grafů Excel" %}}
 
 {{< gist "aspose-com-gists" "47151e6b1cd698683d5eefb538a4a52a" "create-excel-chart.cs" >}}

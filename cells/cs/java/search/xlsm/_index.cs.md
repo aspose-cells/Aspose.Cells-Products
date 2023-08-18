@@ -58,7 +58,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru XL
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor XLSM vytvořením instance objektu Workbook.
-Přístup k prvnímu listu v souboru XLSM.
++ Přístup k prvnímu listu v souboru XLSM.
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu

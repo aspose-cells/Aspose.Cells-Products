@@ -28,7 +28,7 @@ description: C# πηγαίοι κώδικες που εξηγούν πώς να 
 
 {{% blocks/products/pf/feature-page-section h2="Διαχωρίστε το φύλλο εργασίας του Excel σε παράθυρα" %}}
 
- Για τον διαχωρισμό του παραθύρου του φύλλου εργασίας σε παράθυρα, παρέχεται το API[Μέθοδος διαχωρισμού](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split) της κλάσης φύλλου εργασίας, που παρέχει τη χωρισμένη προβολή του φύλλου εργασίας. Για να αφαιρέσετε τη διαχωρισμένη προβολή, το API παρέχει[Μέθοδος RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Τέλος αποθηκεύστε το σε μια καθορισμένη διαδρομή.
+ Για τον διαχωρισμό του παραθύρου του φύλλου εργασίας σε παράθυρα, παρέχεται το API[Μέθοδος διαχωρισμού](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/split)της κλάσης φύλλου εργασίας, που παρέχει τη χωρισμένη προβολή του φύλλου εργασίας. Για να αφαιρέσετε τη διαχωρισμένη προβολή, το API παρέχει[Μέθοδος RemoveSplit](https://reference.aspose.com/cells/net/aspose.cells/worksheet/methods/removesplit) . Τέλος αποθηκεύστε το σε μια καθορισμένη διαδρομή.
 
 {{% blocks/products/pf/feature-page-code h3="C# Κώδικας για διαίρεση του παραθύρου φύλλου εργασίας του Excel" %}}
 

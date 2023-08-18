@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLSX dokument via Java
+title: Chraňte a uzamkněte XLSX dokument via Java
 weight: 1870
 description: Java ukázkový kód pro uzamčení souboru XLSX pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---

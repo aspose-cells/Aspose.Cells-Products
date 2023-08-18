@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLSB dokument via .NET
+title: Chraňte a uzamkněte XLSB dokument via .NET
 weight: 5920
 description: C# zdrojový kód k uzamčení souboru XLSB pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---

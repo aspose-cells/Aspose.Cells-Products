@@ -13,7 +13,7 @@ description: C# zdrojový kód pro vyhledávání slov se vzorem v souboru TXT n
 
  K vyhledání souboru TXT použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
+API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro vyhledávání dokumentů API pro C#. OTEVŘENO
  [NuGet](https://www.nuget.org/packages/aspose.cells) 
  správce balíčků, vyhledejte
  **Aspose.Cells** 

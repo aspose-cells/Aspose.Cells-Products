@@ -37,7 +37,7 @@ PM> Install-Package Aspose.Cells.Cpp
 
 {{% blocks/products/pf/agp/text %}}
 
- Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας API Aspose.Cells μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
+ Μια βασική αναζήτηση εγγράφων χρησιμοποιώντας Aspose.Cells API μπορεί να γίνει με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 

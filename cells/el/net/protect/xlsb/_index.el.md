@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLSB via .NET
+title: Προστατέψτε και κλειδώστε το έγγραφο XLSB via .NET
 weight: 5920
 description: C# πηγαίος κώδικας για κλείδωμα του αρχείου XLSB με χρήση κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
 ---

@@ -11,7 +11,7 @@ description: C# Ukázkový kód pro konverzi XLSX na Byte Array. Tento kód pou�
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
- Byte Array je užitečné pro zpracování nebo ukládání dat. Můžete převést soubor XLSX na Byte Array, stejně jako a**Byte Array na XLSX**dokument pomocí jazyka C#. Abychom převedli XLSX na bajtové pole, použijeme
+ Byte Array je užitečné pro zpracování nebo ukládání dat. Můžete převést soubor XLSX na Byte Array, stejně jako a**Byte Array na XLSX** dokument pomocí jazyka C#. Abychom převedli XLSX na bajtové pole, použijeme
  [Aspose.Cells for .NET](https://products.aspose.com/cells/net) 
  API, která nabízí různé funkce pro manipulaci s dokumenty a převod pomocí platformy .NET.
 {{% /blocks/products/pf/agp/content %}}

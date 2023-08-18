@@ -58,7 +58,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru CS
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor CSV vytvořením instance objektu Workbook.
-Přístup k prvnímu listu v souboru CSV.
++ Přístup k prvnímu listu v souboru CSV.
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu

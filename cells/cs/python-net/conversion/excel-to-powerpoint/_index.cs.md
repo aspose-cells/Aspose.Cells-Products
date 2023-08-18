@@ -1,7 +1,7 @@
 ---
-title: Převést EXCEL na POWERPOINT Python via Python
-description: Převeďte EXCEL na POWERPOINT Online zdarma. Online zdarma převodník EXCEL na POWERPOINT. Python EXCEL do POWERPOINT. EXCEL do POWERPOINT přes Python.
-keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to PPT, EXCEL to Image
+title: Python EXCEL na POWERPOINT - Online převodník EXCEL na POWERPOINT
+description: Aspose Excel. Python Aspose.Cells. Python Aspose Cells. Online zdarma Python Převeďte EXCEL na uložený formát POWERPOINT. Python EXCEL do formátu POWERPOINT. Uložte EXCEL do POWERPOINT Python.
+keywords: [Aspose Excel., Python Aspose.Cells., Python Aspose Cells., Python EXCEL to POWERPOINT saveformat., Free Online EXCEL to POWERPOINT Python., Python Convert EXCEL to POWERPOINT]
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 {{< blocks/products/pf/i18n/upper-banner h1="Převeďte EXCEL na POWERPOINT v Python" h2="Vysokorychlostní knihovna Python pro převod EXCELu na POWERPOINT. Použijte naši konverzi Excel API k vývoji softwaru na vysoké úrovni, nezávislého na platformě v Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-python-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="POWERPOINT" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="XLSX" >}}
@@ -12,7 +12,7 @@ keywords: Convert EXCEL, EXCEL Converter, EXCEL to PDF, EXCEL to Word, EXCEL to 
 
 {{% blocks/products/pf/agp/content h2="Převeďte EXCEL na POWERPOINT v Python" %}}
 
- Jak převést EXCEL na POWERPOINT? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést EXCEL na POWERPOINT programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
+ Jak převedu EXCEL na POWERPOINT? S Aspose.Cells for Python prostřednictvím knihovny NET můžete snadno převést EXCEL na POWERPOINT programově pomocí několika řádků kódu.[Aspose.Cells for Python přes NET](https://pypi.org/project/aspose-cells-python/)je schopen vytvářet multiplatformní aplikace se schopností generovat, upravovat, konvertovat, vykreslovat a tisknout všechny soubory aplikace Excel. Python Excel API nejen převádí mezi tabulkovými formáty, ale umí také vykreslovat soubory Excel jako obrázky, PDF, HTML, ODS, CSV, CSV, SVG, vyměňovat dokumenty, perfektní výběr WORD a další, 076PT a další 08 v průmyslovém standardu formátů.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -28,20 +28,21 @@ Postupujte podle jednoduchých kroků a převeďte EXCEL na POWERPOINT. Nahrajte
 
 {{% /blocks/products/pf/agp/content %}}
 
-{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL na POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
+{{% cells-convert title="Bezplatná aplikace a ukázkový kód pro převod EXCEL na POWERPOINT Online" formats="pdf;xls;xlsx;docx;pptx;xlsm;xlsb;xlt;ods;ots;csv;tsv;html;htm;mht;numbers;jpg;bmp;png;webp;svg;tiff;xps;mhtml;md;json;xml;zip;sql;txt;et;ett;prn;dif;emf;fods;gif;sxc;xlam;xltm;xltx" InputFormat="xlsx" outformat="pptx" IsLandingPage="true" language="pythonnet" %}}
 
 {{% blocks/products/pf/agp/content h2="Jak převést EXCEL na POWERPOINT" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- Python vývojáři mohou snadno načíst a převést EXCEL na POWERPOINT v několika řádcích kódu.
+Potřebujete převést soubory EXCEL do POWERPOINT programově? Python vývojáři mohou snadno načíst a převést EXCEL na POWERPOINT v několika řádcích kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 1.  Nainstalujte 'Aspose.Cells for Python via .NET'.
 1.  Přidejte odkaz na knihovnu (importujte knihovnu) do svého projektu Python.
-1.  Načtěte soubor EXCEL s instancí sešitu
-1.  Převeďte EXCEL na POWERPOINT voláním metody Workbook.save
+1.  Načtěte soubor EXCEL s instancí sešitu.
+1.  Převeďte EXCEL na POWERPOINT voláním metody Workbook.save.
+1.  Získejte výsledek převodu EXCEL na POWERPOINT.
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -55,7 +56,7 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 {{% /blocks/products/pf/agp/text %}}
 
 {{% blocks/products/pf/agp/text %}}
- A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/)jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
+ A můžete také sledovat[pokyny krok za krokem](https://docs.aspose.com/cells/python-net/getting-started/) jak nainstalovat "Aspose.Cells for Python via .NET" do vašeho vývojářského prostředí.
 {{% /blocks/products/pf/agp/text %}}
 {{% /blocks/products/pf/agp/content %}}
 
@@ -63,13 +64,18 @@ Nainstalujte Aspose.Cells for Python z<a href="https://pypi.org/project/aspose-c
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Cells for Python je nezávislý na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
+ Aspose.Cells for Python přes NET je nezávislé na platformě API a lze jej použít na jakékoli platformě (Windows, Linux), jen se ujistěte, že systém má[Python](https://www.python.org/downloads/) 3.7 nebo vyšší.
  
 {{% /blocks/products/pf/agp/text %}}
 
 {{% /blocks/products/pf/agp/content %}}
 
-
+<!-- aboutfile Starts -->
+    {{< blocks/products/pf/agp/about-file-section >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="EXCEL" readMoreLink="https://docs.fileformat.com/spreadsheet/xlsx/" >}}XLSX je dobře známý formát pro dokumenty Excel Microsoft, který byl představen společností Microsoft vydáním Microsoft Office 2007. Na základě struktury organizované podle konvencí otevřeného balení, jak je uvedeno v části 2 standardu OOXML ECMA-376, je nový formát ECMA-376 zip balíček, který obsahuje řadu souborů XML. Základní strukturu a soubory lze prozkoumat jednoduchým rozbalením souboru .xlsx.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="POWERPOINT" readMoreLink="https://docs.fileformat.com/presentation/pptx/" >}}Soubory s příponou PPTX jsou prezentační soubory vytvořené pomocí oblíbené aplikace Microsoft PowerPoint. Na rozdíl od předchozí verze formátu prezentačního souboru PPT, který byl binární, je formát PPTX založen na formátu otevřeného souboru prezentací XML Microsoft PowerPoint. Soubor prezentace je kolekce snímků, kde každý snímek může obsahovat text, obrázky, formátování, animace a další média. Tyto snímky jsou publiku prezentovány ve formě prezentací s vlastním nastavením prezentace.{{< /blocks/products/pf/agp/i18n/about-file-text >}}
+    {{< /blocks/products/pf/agp/about-file-section >}}
+<!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Další podporované konverze" subTitle="EXCEL můžete také převést do mnoha dalších formátů souborů, včetně několika níže uvedených." >}}
 

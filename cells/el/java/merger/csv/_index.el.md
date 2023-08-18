@@ -49,14 +49,14 @@ description: Java δείγμα κώδικα για συνδυασμό εγγρά
 
 {{% blocks/products/pf/agp/text %}}
 
- Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
+Ένα βασικό έγγραφο που συγχωνεύεται και συνενώνεται με[Aspose.Cells for Java](https://products.aspose.com/cells/java) Τα API μπορούν να γίνουν με λίγες μόνο γραμμές κώδικα.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Φορτώστε το πρώτο αρχείο CSV με μια παρουσία της κλάσης Βιβλίο εργασίας.
 + Φορτώστε το δεύτερο έγγραφο CSV με μια παρουσία της κλάσης Βιβλίο εργασίας.
 + Συγχώνευση αρχείων χρησιμοποιώντας τη μέθοδο combination().
-αποθηκεύστε το συγχωνευμένο αρχείο CSV σε καθορισμένη διαδρομή
++ αποθηκεύστε το συγχωνευμένο αρχείο CSV σε καθορισμένη διαδρομή
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ csvFile1.save("combinedFileWithPath.csv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Δεν χρειάζεται να κατεβάσετε το Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Δεν χρειάζεται να γράψετε κανέναν κώδικα." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Απλώς ανεβάστε τα CSV αρχεία σας." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Θα συγχωνευθεί και θα ενωθεί αμέσως." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Θα συγχωνευθεί και θα ενωθεί αμέσως." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

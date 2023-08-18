@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLSM dokument via Java
+title: Chraňte a uzamkněte XLSM dokument via Java
 weight: 9620
 description: Java ukázkový kód pro uzamčení souboru XLSM pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---

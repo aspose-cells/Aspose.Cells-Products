@@ -1,5 +1,5 @@
 ---
-title: Επεξεργασία XLS αρχείων via .NET
+title:  Επεξεργασία XLS αρχείων via .NET
 description: C# πηγαίος κώδικας για επεξεργασία εγγράφου XLS στο .NET Framework, .NET Core, Windows Azure, Mono ή Xamarin Platforms.
 ---
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}

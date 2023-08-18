@@ -10,7 +10,7 @@ description: Opravte poškozený soubor aplikace Excel pomocí Java. Nástroj pr
 
 {{% blocks/products/pf/agp/content h2="Opravte soubor EXCEL pomocí Java" %}}
 
- K opravě souboru EXCEL použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java) API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci s dokumenty API for Java.
+ K opravě souboru EXCEL použijeme[Aspose.Cells for Java](https://products.aspose.com/cells/java)API, což je funkčně bohatá, výkonná a snadno použitelná platforma pro manipulaci s dokumenty API for Java.
  
  Aspose.Cells API lze použít k vytváření, úpravám, převodu a vykreslování Microsoft formátů Excelu do různých formátů. Kromě toho jej lze použít pro komplexní vytváření grafů, škálovatelný reporting a spolehlivé výpočty v rámci softwarových aplikací. Aspose.Cells je samostatný API a nevyžaduje žádný software jako Microsoft nebo OpenOffice.
 
@@ -20,7 +20,7 @@ description: Opravte poškozený soubor aplikace Excel pomocí Java. Nástroj pr
 
 {{% blocks/products/pf/agp/content h2="Jak opravit soubor Excel pomocí Java" %}}
 
-Definujte třídu, která zdědí Aspose.Cells.IWarningCallback.
++ Definujte třídu, která zdědí Aspose.Cells.IWarningCallback.
 + Načtěte soubor EXCEL vytvořením instance sešitu pomocí výše uvedené třídy dědičnosti, viz výše uvedený kód.
 + Uložte sešit, poškozený soubor aplikace Excel bude opraven.
 

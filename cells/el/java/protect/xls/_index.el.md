@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο XLS via Java
+title: Προστατέψτε και κλειδώστε το έγγραφο XLS via Java
 weight: 5070
 description: Java δείγμα κώδικα για να κλειδώσετε το αρχείο XLS με χρήση κωδικού πρόσβασης στο Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---

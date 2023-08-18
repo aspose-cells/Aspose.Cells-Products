@@ -12,7 +12,7 @@ description: Python tabulková knihovna pro vytváření souborů Excel pro čte
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
-Aspose.Cells for Python přes .Net je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a může vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
+ Aspose.Cells for Python přes .Net je rychlý a spolehlivý API pro úlohy zpracování tabulek. Vývojáři mohou vytvářet jednoduché nebo složité tabulky, manipulovat a extrahovat informace ze souborů aplikace Excel. API čte více formátů aplikace Excel a může vykreslovat listy na XPS, PDF, MHTML, HTML, prostý text, obrázky a další. Je to nejlepší řešení pro automatizaci zpráv Excel pomocí pythonu.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -464,7 +464,7 @@ wk.save("houtput.html", SaveFormat.HTML);</code></pre>
  Flexibilní možnosti zobrazení
     </h2>
     <p>
-Aspose.Cells for Python via .NET poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí panelů zmrazení, velikosti papíru, měřítka, záhlaví &amp; zápatí a oblast tisku.
+ Aspose.Cells for Python via .NET poskytuje plnou kontrolu nad nastavením stránky, což umožňuje manipulovat s více možnostmi zobrazení, jako je náhled zalomení stránky, nastavení úrovně přiblížení, nastavení orientace stránky, ovládání viditelnosti dat pomocí panelů zmrazení, velikosti papíru, měřítka, záhlaví &amp; zápatí a oblast tisku.
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -495,7 +495,7 @@ Aspose.Cells for Python via .NET poskytuje plnou kontrolu nad nastavením strán
  Přizpůsobení grafů
     </h2>
     <p>
- Aspose.Cells for Python via .NET poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
+Aspose.Cells for Python via .NET poskytuje plnou podporu pro vytváření grafů. Je možné snadno přidat standardní a přizpůsobené grafy nebo dynamicky nastavit data grafu, aby bylo možné graf aktualizovat pomocí této knihovny pythonu.
     </p>
    </div>
    <!--

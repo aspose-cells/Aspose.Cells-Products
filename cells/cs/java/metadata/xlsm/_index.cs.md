@@ -13,7 +13,7 @@ description: Java ukázkový kód k úpravě nebo zobrazení XLSM metadata form�
 
  Abychom získali metadata souboru XLSM, použijeme
  [Aspose.Cells for Java](https://products.aspose.com/cells/java) 
- API, což je funkčně bohatá, výkonná a snadno použitelná platforma metadat API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
+API, což je funkčně bohatá, výkonná a snadno použitelná platforma metadat API for Java. Jeho nejnovější verzi si můžete stáhnout přímo z
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cells) 
  a nainstalujte jej do svého projektu založeného na Maven přidáním následujících konfigurací do souboru pom.xml.
 
@@ -58,7 +58,7 @@ description: Java ukázkový kód k úpravě nebo zobrazení XLSM metadata form�
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor XLSM do WorkbookMetadata
-Vytvořte objekt MetadataOptions s příslušnými možnostmi
++ Vytvořte objekt MetadataOptions s příslušnými možnostmi
 + Nastavte příslušné vlastnosti
 + Uložte informace o metadatech XLSM
 

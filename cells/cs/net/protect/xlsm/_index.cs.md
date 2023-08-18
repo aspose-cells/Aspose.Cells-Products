@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLSM dokument via .NET
+title: Chraňte a uzamkněte XLSM dokument via .NET
 weight: 7530
 description: C# zdrojový kód k uzamčení souboru XLSM pomocí hesla na platformách .NET Framework, .NET Core, Mono nebo Xamarin.
 ---

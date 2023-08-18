@@ -1,5 +1,5 @@
 ---
-title:  Chraňte a uzamkněte XLS dokument via Java
+title: Chraňte a uzamkněte XLS dokument via Java
 weight: 5070
 description: Java ukázkový kód pro uzamčení souboru XLS pomocí hesla v Java Runtime Environment pro JSP/JSF aplikace a desktopové aplikace.
 ---

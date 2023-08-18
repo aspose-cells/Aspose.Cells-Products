@@ -49,14 +49,14 @@ description: Java ukázkový kód pro spojení CSV dokumentů na Java Runtime En
 
 {{% blocks/products/pf/agp/text %}}
 
- Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
+Základní dokument, který se spojuje a spojuje[Aspose.Cells for Java](https://products.aspose.com/cells/java) Rozhraní API lze vytvořit pomocí několika řádků kódu.
 
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte první soubor CSV s instancí třídy Workbook.
 + Načtěte druhý dokument CSV s instancí třídy Workbook.
 + Sloučit soubory pomocí metody Combined().
-uložte sloučený soubor CSV do zadané cesty
++ uložte sloučený soubor CSV do zadané cesty
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -98,7 +98,7 @@ csvFile1.save("combinedFileWithPath.csv");
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není třeba stahovat Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Stačí nahrát své soubory CSV." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Okamžitě bude sloučen a zřetězen." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Okamžitě bude sloučen a zřetězen." >}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

@@ -50,7 +50,7 @@ Java API για δημιουργία, χειρισμό, μετατροπή ή ε
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Μεταδεδομένα" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/cells/metadata" >}}
-Απλώς μεταφορτώστε το αρχείο Excel Microsoft για να προβάλετε ή να επεξεργαστείτε τα μεταδεδομένα του υπολογιστικού φύλλου από οποιοδήποτε πρόγραμμα περιήγησης. Δεν απαιτείται εγκατάσταση ή πρόσθετα εργαλεία.
+ Απλώς μεταφορτώστε το αρχείο Excel Microsoft για να προβάλετε ή να επεξεργαστείτε τα μεταδεδομένα του υπολογιστικού φύλλου από οποιοδήποτε πρόγραμμα περιήγησης. Δεν απαιτείται εγκατάσταση ή πρόσθετα εργαλεία.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Cells " title="Θεατής" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/cells/viewer" >}}
@@ -77,7 +77,7 @@ Java API για δημιουργία, χειρισμό, μετατροπή ή ε
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="second">
- Η σουίτα προϊόντων Aspose και η υποστήριξη δεν αξίζουν τίποτα. Δεν θα μπορούσαμε να κάνουμε αυτό που κάναμε χωρίς αυτή τη λύση.
+Η σουίτα προϊόντων Aspose και η υποστήριξη δεν αξίζουν τίποτα. Δεν θα μπορούσαμε να κάνουμε αυτό που κάναμε χωρίς αυτή τη λύση.
  <em>
  Δρ Νταν Πάτερσον | Acumen, Ηνωμένο Βασίλειο
  </em>

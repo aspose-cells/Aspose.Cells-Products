@@ -1,5 +1,5 @@
 ---
-title:  Προστατέψτε και κλειδώστε το έγγραφο ODS via .NET
+title: Προστατέψτε και κλειδώστε το έγγραφο ODS via .NET
 weight: 5580
 description: C# πηγαίος κώδικας για κλείδωμα του αρχείου ODS με χρήση κωδικού πρόσβασης στο .NET Framework, .NET Core, Mono ή Xamarin Platforms.
 ---

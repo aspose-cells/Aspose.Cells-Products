@@ -58,7 +58,7 @@ description: Java ukázkový kód pro vyhledávání slov se vzorem v souboru TX
 {{% /blocks/products/pf/agp/text %}}
 
 + Načtěte soubor TXT vytvořením instance objektu Workbook.
-Přístup k prvnímu listu v souboru TXT.
++ Přístup k prvnímu listu v souboru TXT.
 + Najděte buňku obsahující zadaný vzorec.
 + Okamžité možnosti FindOptions.
 + Najděte buňku obsahující řetězcovou hodnotu
